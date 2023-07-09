@@ -1,0 +1,645 @@
+
+
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 0 0" width="0" height="0" focusable="false" role="none" style="visibility: hidden; position: absolute; left: -9999px; overflow: hidden;"><defs><filter id="wp-duotone-dark-grayscale"><feColorMatrix color-interpolation-filters="sRGB" type="matrix" values=" .299 .587 .114 0 0 .299 .587 .114 0 0 .299 .587 .114 0 0 .299 .587 .114 0 0 "></feColorMatrix><feComponentTransfer color-interpolation-filters="sRGB"><feFuncR type="table" tableValues="0 0.49803921568627"></feFuncR><feFuncG type="table" tableValues="0 0.49803921568627"></feFuncG><feFuncB type="table" tableValues="0 0.49803921568627"></feFuncB><feFuncA type="table" tableValues="1 1"></feFuncA></feComponentTransfer><feComposite in2="SourceGraphic" operator="in"></feComposite></filter></defs></svg><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 0 0" width="0" height="0" focusable="false" role="none" style="visibility: hidden; position: absolute; left: -9999px; overflow: hidden;"><defs><filter id="wp-duotone-grayscale"><feColorMatrix color-interpolation-filters="sRGB" type="matrix" values=" .299 .587 .114 0 0 .299 .587 .114 0 0 .299 .587 .114 0 0 .299 .587 .114 0 0 "></feColorMatrix><feComponentTransfer color-interpolation-filters="sRGB"><feFuncR type="table" tableValues="0 1"></feFuncR><feFuncG type="table" tableValues="0 1"></feFuncG><feFuncB type="table" tableValues="0 1"></feFuncB><feFuncA type="table" tableValues="1 1"></feFuncA></feComponentTransfer><feComposite in2="SourceGraphic" operator="in"></feComposite></filter></defs></svg><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 0 0" width="0" height="0" focusable="false" role="none" style="visibility: hidden; position: absolute; left: -9999px; overflow: hidden;"><defs><filter id="wp-duotone-purple-yellow"><feColorMatrix color-interpolation-filters="sRGB" type="matrix" values=" .299 .587 .114 0 0 .299 .587 .114 0 0 .299 .587 .114 0 0 .299 .587 .114 0 0 "></feColorMatrix><feComponentTransfer color-interpolation-filters="sRGB"><feFuncR type="table" tableValues="0.54901960784314 0.98823529411765"></feFuncR><feFuncG type="table" tableValues="0 1"></feFuncG><feFuncB type="table" tableValues="0.71764705882353 0.25490196078431"></feFuncB><feFuncA type="table" tableValues="1 1"></feFuncA></feComponentTransfer><feComposite in2="SourceGraphic" operator="in"></feComposite></filter></defs></svg><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 0 0" width="0" height="0" focusable="false" role="none" style="visibility: hidden; position: absolute; left: -9999px; overflow: hidden;"><defs><filter id="wp-duotone-blue-red"><feColorMatrix color-interpolation-filters="sRGB" type="matrix" values=" .299 .587 .114 0 0 .299 .587 .114 0 0 .299 .587 .114 0 0 .299 .587 .114 0 0 "></feColorMatrix><feComponentTransfer color-interpolation-filters="sRGB"><feFuncR type="table" tableValues="0 1"></feFuncR><feFuncG type="table" tableValues="0 0.27843137254902"></feFuncG><feFuncB type="table" tableValues="0.5921568627451 0.27843137254902"></feFuncB><feFuncA type="table" tableValues="1 1"></feFuncA></feComponentTransfer><feComposite in2="SourceGraphic" operator="in"></feComposite></filter></defs></svg><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 0 0" width="0" height="0" focusable="false" role="none" style="visibility: hidden; position: absolute; left: -9999px; overflow: hidden;"><defs><filter id="wp-duotone-midnight"><feColorMatrix color-interpolation-filters="sRGB" type="matrix" values=" .299 .587 .114 0 0 .299 .587 .114 0 0 .299 .587 .114 0 0 .299 .587 .114 0 0 "></feColorMatrix><feComponentTransfer color-interpolation-filters="sRGB"><feFuncR type="table" tableValues="0 0"></feFuncR><feFuncG type="table" tableValues="0 0.64705882352941"></feFuncG><feFuncB type="table" tableValues="0 1"></feFuncB><feFuncA type="table" tableValues="1 1"></feFuncA></feComponentTransfer><feComposite in2="SourceGraphic" operator="in"></feComposite></filter></defs></svg><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 0 0" width="0" height="0" focusable="false" role="none" style="visibility: hidden; position: absolute; left: -9999px; overflow: hidden;"><defs><filter id="wp-duotone-magenta-yellow"><feColorMatrix color-interpolation-filters="sRGB" type="matrix" values=" .299 .587 .114 0 0 .299 .587 .114 0 0 .299 .587 .114 0 0 .299 .587 .114 0 0 "></feColorMatrix><feComponentTransfer color-interpolation-filters="sRGB"><feFuncR type="table" tableValues="0.78039215686275 1"></feFuncR><feFuncG type="table" tableValues="0 0.94901960784314"></feFuncG><feFuncB type="table" tableValues="0.35294117647059 0.47058823529412"></feFuncB><feFuncA type="table" tableValues="1 1"></feFuncA></feComponentTransfer><feComposite in2="SourceGraphic" operator="in"></feComposite></filter></defs></svg><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 0 0" width="0" height="0" focusable="false" role="none" style="visibility: hidden; position: absolute; left: -9999px; overflow: hidden;"><defs><filter id="wp-duotone-purple-green"><feColorMatrix color-interpolation-filters="sRGB" type="matrix" values=" .299 .587 .114 0 0 .299 .587 .114 0 0 .299 .587 .114 0 0 .299 .587 .114 0 0 "></feColorMatrix><feComponentTransfer color-interpolation-filters="sRGB"><feFuncR type="table" tableValues="0.65098039215686 0.40392156862745"></feFuncR><feFuncG type="table" tableValues="0 1"></feFuncG><feFuncB type="table" tableValues="0.44705882352941 0.4"></feFuncB><feFuncA type="table" tableValues="1 1"></feFuncA></feComponentTransfer><feComposite in2="SourceGraphic" operator="in"></feComposite></filter></defs></svg><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 0 0" width="0" height="0" focusable="false" role="none" style="visibility: hidden; position: absolute; left: -9999px; overflow: hidden;"><defs><filter id="wp-duotone-blue-orange"><feColorMatrix color-interpolation-filters="sRGB" type="matrix" values=" .299 .587 .114 0 0 .299 .587 .114 0 0 .299 .587 .114 0 0 .299 .587 .114 0 0 "></feColorMatrix><feComponentTransfer color-interpolation-filters="sRGB"><feFuncR type="table" tableValues="0.098039215686275 1"></feFuncR><feFuncG type="table" tableValues="0 0.66274509803922"></feFuncG><feFuncB type="table" tableValues="0.84705882352941 0.41960784313725"></feFuncB><feFuncA type="table" tableValues="1 1"></feFuncA></feComponentTransfer><feComposite in2="SourceGraphic" operator="in"></feComposite></filter></defs></svg><header id="site-header" class="site-header dynamic-header " role="banner">
+	<div class="header-inner">
+		<div class="site-branding show-title">
+							<h1 class="site-title show">
+					<a href="https://investvs.com/" title="Главная" rel="home">
+						INVEST-VS					</a>
+				</h1>
+					</div>
+
+			</div>
+</header>
+
+<main id="content" class="site-main post-8 page type-page status-publish hentry" role="main">
+		<div class="page-content">
+				<div data-elementor-type="wp-page" data-elementor-id="8" class="elementor elementor-8">
+									<section class="elementor-section elementor-top-section elementor-element elementor-element-4d9d176 elementor-section-boxed elementor-section-height-default elementor-section-height-default" data-id="4d9d176" data-element_type="section">
+						<div class="elementor-container elementor-column-gap-default">
+					<div class="elementor-column elementor-col-100 elementor-top-column elementor-element elementor-element-b38fb9f" data-id="b38fb9f" data-element_type="column">
+			<div class="elementor-widget-wrap elementor-element-populated">
+								<section class="elementor-section elementor-inner-section elementor-element elementor-element-0d5d9b7 elementor-section-boxed elementor-section-height-default elementor-section-height-default" data-id="0d5d9b7" data-element_type="section">
+						<div class="elementor-container elementor-column-gap-default">
+					<div class="elementor-column elementor-col-33 elementor-inner-column elementor-element elementor-element-c3d4926" data-id="c3d4926" data-element_type="column">
+			<div class="elementor-widget-wrap elementor-element-populated">
+								<div class="elementor-element elementor-element-5d9c132 elementor-widget elementor-widget-image" data-id="5d9c132" data-element_type="widget" data-widget_type="image.default">
+				<div class="elementor-widget-container">
+			<style>/*! elementor - v3.6.4 - 13-04-2022 */
+.elementor-widget-image{text-align:center}.elementor-widget-image a{display:inline-block}.elementor-widget-image a img[src$=".svg"]{width:48px}.elementor-widget-image img{vertical-align:middle;display:inline-block}</style>												<img decoding="async" width="165" height="52" src="https://investvs.com/wp-content/uploads/2022/04/group-43693.svg" class="attachment-large size-large" alt="" loading="lazy">															</div>
+				</div>
+					</div>
+		</div>
+				<div class="elementor-column elementor-col-33 elementor-inner-column elementor-element elementor-element-788f3e4" data-id="788f3e4" data-element_type="column">
+			<div class="elementor-widget-wrap elementor-element-populated">
+								<div class="elementor-element elementor-element-25aab09 elementor-align-right elementor-icon-list--layout-inline elementor-mobile-align-left elementor-list-item-link-full_width elementor-widget elementor-widget-icon-list" data-id="25aab09" data-element_type="widget" data-widget_type="icon-list.default">
+				<div class="elementor-widget-container">
+			<link rel="stylesheet" href="https://investvs.com/wp-content/plugins/elementor/assets/css/widget-icon-list.min.css">		<ul class="elementor-icon-list-items elementor-inline-items">
+							<li class="elementor-icon-list-item elementor-inline-item">
+											<a href="tel:%2089251845062">
+
+												<span class="elementor-icon-list-icon">
+							<i aria-hidden="true" class="fas fa-phone-alt"></i>						</span>
+										<span class="elementor-icon-list-text">+7 (925) 184-50-62</span>
+											</a>
+									</li>
+								<li class="elementor-icon-list-item elementor-inline-item">
+											<a href="mailto:%20investvs22@gmail.com">
+
+												<span class="elementor-icon-list-icon">
+							<i aria-hidden="true" class="fas fa-envelope"></i>						</span>
+										<span class="elementor-icon-list-text">investvs22@gmail.com</span>
+											</a>
+									</li>
+						</ul>
+				</div>
+				</div>
+					</div>
+		</div>
+				<div class="elementor-column elementor-col-33 elementor-inner-column elementor-element elementor-element-69a09b4" data-id="69a09b4" data-element_type="column">
+			<div class="elementor-widget-wrap elementor-element-populated">
+								<div class="elementor-element elementor-element-19fd26a elementor-align-right elementor-mobile-align-right elementor-icon-list--layout-traditional elementor-list-item-link-full_width elementor-widget elementor-widget-icon-list" data-id="19fd26a" data-element_type="widget" data-widget_type="icon-list.default">
+				<div class="elementor-widget-container">
+					<ul class="elementor-icon-list-items">
+							<li class="elementor-icon-list-item">
+										<span class="elementor-icon-list-text">Режим работы <br>Пн-Пт, 9:00–18:00</span>
+									</li>
+						</ul>
+				</div>
+				</div>
+					</div>
+		</div>
+							</div>
+		</section>
+					</div>
+		</div>
+							</div>
+		</section>
+				<section class="elementor-section elementor-top-section elementor-element elementor-element-3a72aef elementor-section-height-min-height elementor-section-boxed elementor-section-height-default elementor-section-items-middle" data-id="3a72aef" data-element_type="section" data-settings="{&quot;background_background&quot;:&quot;classic&quot;}">
+						<div class="elementor-container elementor-column-gap-default">
+					<div class="elementor-column elementor-col-50 elementor-top-column elementor-element elementor-element-504a62c" data-id="504a62c" data-element_type="column">
+			<div class="elementor-widget-wrap elementor-element-populated">
+								<div class="elementor-element elementor-element-f3eeccb elementor-widget elementor-widget-text-editor" data-id="f3eeccb" data-element_type="widget" data-widget_type="text-editor.default">
+				<div class="elementor-widget-container">
+			<style>/*! elementor - v3.6.4 - 13-04-2022 */
+.elementor-widget-text-editor.elementor-drop-cap-view-stacked .elementor-drop-cap{background-color:#818a91;color:#fff}.elementor-widget-text-editor.elementor-drop-cap-view-framed .elementor-drop-cap{color:#818a91;border:3px solid;background-color:transparent}.elementor-widget-text-editor:not(.elementor-drop-cap-view-default) .elementor-drop-cap{margin-top:8px}.elementor-widget-text-editor:not(.elementor-drop-cap-view-default) .elementor-drop-cap-letter{width:1em;height:1em}.elementor-widget-text-editor .elementor-drop-cap{float:left;text-align:center;line-height:1;font-size:50px}.elementor-widget-text-editor .elementor-drop-cap-letter{display:inline-block}</style>				<p>Управляющая<br>компания<span style="color: #ffffff;"><strong>&nbsp;«ИНВЕСТ-ВС»</strong></span></p>						</div>
+				</div>
+				<div class="elementor-element elementor-element-bf7ae36 elementor-widget elementor-widget-text-editor" data-id="bf7ae36" data-element_type="widget" data-widget_type="text-editor.default">
+				<div class="elementor-widget-container">
+							<p>Наша компания предоставляет структурированное решение для бизнеса с использованием паевого инвестиционного фонда.</p>						</div>
+				</div>
+					</div>
+		</div>
+				<div class="elementor-column elementor-col-50 elementor-top-column elementor-element elementor-element-1ed1ddf" data-id="1ed1ddf" data-element_type="column">
+			<div class="elementor-widget-wrap">
+									</div>
+		</div>
+							</div>
+		</section>
+				<section class="elementor-section elementor-top-section elementor-element elementor-element-5e85eaf elementor-section-boxed elementor-section-height-default elementor-section-height-default" data-id="5e85eaf" data-element_type="section" data-settings="{&quot;background_background&quot;:&quot;classic&quot;}">
+						<div class="elementor-container elementor-column-gap-default">
+					<div class="elementor-column elementor-col-100 elementor-top-column elementor-element elementor-element-04a731c" data-id="04a731c" data-element_type="column">
+			<div class="elementor-widget-wrap elementor-element-populated">
+								<section class="elementor-section elementor-inner-section elementor-element elementor-element-f03b3ad elementor-section-boxed elementor-section-height-default elementor-section-height-default" data-id="f03b3ad" data-element_type="section" data-settings="{&quot;background_background&quot;:&quot;classic&quot;}">
+						<div class="elementor-container elementor-column-gap-default">
+					<div class="elementor-column elementor-col-100 elementor-inner-column elementor-element elementor-element-77042a8" data-id="77042a8" data-element_type="column">
+			<div class="elementor-widget-wrap elementor-element-populated">
+								<div class="elementor-element elementor-element-7ff224b elementor-button-align-stretch elementor-widget elementor-widget-form" data-id="7ff224b" data-element_type="widget" data-settings="{&quot;button_width&quot;:&quot;33&quot;,&quot;step_next_label&quot;:&quot;\u0421\u043b\u0435\u0434\u0443\u044e\u0449\u0430\u044f&quot;,&quot;step_previous_label&quot;:&quot;\u041f\u0440\u0435\u0434\u044b\u0434\u0443\u0449\u0430\u044f&quot;,&quot;step_type&quot;:&quot;number_text&quot;,&quot;step_icon_shape&quot;:&quot;circle&quot;}" data-widget_type="form.default">
+				<div class="elementor-widget-container">
+			<style>/*! elementor-pro - v3.6.5 - 12-04-2022 */
+.elementor-button.elementor-hidden,.elementor-hidden{display:none}.e-form__step{width:100%}.e-form__step:not(.elementor-hidden){display:-webkit-box;display:-ms-flexbox;display:flex;-ms-flex-wrap:wrap;flex-wrap:wrap}.e-form__buttons{-ms-flex-wrap:wrap;flex-wrap:wrap}.e-form__buttons,.e-form__buttons__wrapper{display:-webkit-box;display:-ms-flexbox;display:flex}.e-form__indicators{-webkit-box-pack:justify;-ms-flex-pack:justify;justify-content:space-between;-ms-flex-wrap:nowrap;flex-wrap:nowrap;font-size:13px;margin-bottom:var(--e-form-steps-indicators-spacing)}.e-form__indicators,.e-form__indicators__indicator{display:-webkit-box;display:-ms-flexbox;display:flex;-webkit-box-align:center;-ms-flex-align:center;align-items:center}.e-form__indicators__indicator{-webkit-box-orient:vertical;-webkit-box-direction:normal;-ms-flex-direction:column;flex-direction:column;-webkit-box-pack:center;-ms-flex-pack:center;justify-content:center;-ms-flex-preferred-size:0;flex-basis:0;padding:0 var(--e-form-steps-divider-gap)}.e-form__indicators__indicator__progress{width:100%;position:relative;background-color:var(--e-form-steps-indicator-progress-background-color);border-radius:var(--e-form-steps-indicator-progress-border-radius);overflow:hidden}.e-form__indicators__indicator__progress__meter{width:var(--e-form-steps-indicator-progress-meter-width,0);height:var(--e-form-steps-indicator-progress-height);line-height:var(--e-form-steps-indicator-progress-height);padding-right:15px;border-radius:var(--e-form-steps-indicator-progress-border-radius);background-color:var(--e-form-steps-indicator-progress-color);color:var(--e-form-steps-indicator-progress-meter-color);text-align:right;-webkit-transition:width .1s linear;-o-transition:width .1s linear;transition:width .1s linear}.e-form__indicators__indicator:first-child{padding-left:0}.e-form__indicators__indicator:last-child{padding-right:0}.e-form__indicators__indicator--state-inactive{color:var(--e-form-steps-indicator-inactive-primary-color,#c2cbd2)}.e-form__indicators__indicator--state-inactive [class*=indicator--shape-]:not(.e-form__indicators__indicator--shape-none){background-color:var(--e-form-steps-indicator-inactive-secondary-color,#fff)}.e-form__indicators__indicator--state-inactive object,.e-form__indicators__indicator--state-inactive svg{fill:var(--e-form-steps-indicator-inactive-primary-color,#c2cbd2)}.e-form__indicators__indicator--state-active{color:var(--e-form-steps-indicator-active-primary-color,#39b54a);border-color:var(--e-form-steps-indicator-active-secondary-color,#fff)}.e-form__indicators__indicator--state-active [class*=indicator--shape-]:not(.e-form__indicators__indicator--shape-none){background-color:var(--e-form-steps-indicator-active-secondary-color,#fff)}.e-form__indicators__indicator--state-active object,.e-form__indicators__indicator--state-active svg{fill:var(--e-form-steps-indicator-active-primary-color,#39b54a)}.e-form__indicators__indicator--state-completed{color:var(--e-form-steps-indicator-completed-secondary-color,#fff)}.e-form__indicators__indicator--state-completed [class*=indicator--shape-]:not(.e-form__indicators__indicator--shape-none){background-color:var(--e-form-steps-indicator-completed-primary-color,#39b54a)}.e-form__indicators__indicator--state-completed .e-form__indicators__indicator__label{color:var(--e-form-steps-indicator-completed-primary-color,#39b54a)}.e-form__indicators__indicator--state-completed .e-form__indicators__indicator--shape-none{color:var(--e-form-steps-indicator-completed-primary-color,#39b54a);background-color:initial}.e-form__indicators__indicator--state-completed object,.e-form__indicators__indicator--state-completed svg{fill:var(--e-form-steps-indicator-completed-secondary-color,#fff)}.e-form__indicators__indicator__icon{width:var(--e-form-steps-indicator-padding,30px);height:var(--e-form-steps-indicator-padding,30px);font-size:var(--e-form-steps-indicator-icon-size);border-width:1px;border-style:solid;display:-webkit-box;display:-ms-flexbox;display:flex;-webkit-box-pack:center;-ms-flex-pack:center;justify-content:center;-webkit-box-align:center;-ms-flex-align:center;align-items:center;overflow:hidden;margin-bottom:10px}.e-form__indicators__indicator__icon img,.e-form__indicators__indicator__icon object,.e-form__indicators__indicator__icon svg{width:var(--e-form-steps-indicator-icon-size);height:auto}.e-form__indicators__indicator__icon .e-font-icon-svg{height:1em}.e-form__indicators__indicator__number{width:var(--e-form-steps-indicator-padding,30px);height:var(--e-form-steps-indicator-padding,30px);border-width:1px;border-style:solid;display:-webkit-box;display:-ms-flexbox;display:flex;-webkit-box-pack:center;-ms-flex-pack:center;justify-content:center;-webkit-box-align:center;-ms-flex-align:center;align-items:center;margin-bottom:10px}.e-form__indicators__indicator--shape-circle{border-radius:50%}.e-form__indicators__indicator--shape-square{border-radius:0}.e-form__indicators__indicator--shape-rounded{border-radius:5px}.e-form__indicators__indicator--shape-none{border:0}.e-form__indicators__indicator__label{text-align:center}.e-form__indicators__indicator__separator{width:100%;height:var(--e-form-steps-divider-width);background-color:#c2cbd2}.e-form__indicators--type-icon,.e-form__indicators--type-icon_text,.e-form__indicators--type-number,.e-form__indicators--type-number_text{-webkit-box-align:start;-ms-flex-align:start;align-items:flex-start}.e-form__indicators--type-icon .e-form__indicators__indicator__separator,.e-form__indicators--type-icon_text .e-form__indicators__indicator__separator,.e-form__indicators--type-number .e-form__indicators__indicator__separator,.e-form__indicators--type-number_text .e-form__indicators__indicator__separator{margin-top:calc(var(--e-form-steps-indicator-padding, 30px) / 2 - var(--e-form-steps-divider-width, 1px) / 2)}.elementor-field-type-hidden{display:none}.elementor-field-type-html{display:inline-block}.elementor-login .elementor-lost-password,.elementor-login .elementor-remember-me{font-size:.85em}.elementor-field-type-recaptcha_v3 .elementor-field-label{display:none}.elementor-field-type-recaptcha_v3 .grecaptcha-badge{z-index:1}.elementor-button .elementor-form-spinner{-webkit-box-ordinal-group:4;-ms-flex-order:3;order:3}.elementor-form .elementor-button>span{display:-webkit-box;display:-ms-flexbox;display:flex;-webkit-box-pack:center;-ms-flex-pack:center;justify-content:center;-webkit-box-align:center;-ms-flex-align:center;align-items:center}.elementor-form .elementor-button .elementor-button-text{white-space:normal;-webkit-box-flex:0;-ms-flex-positive:0;flex-grow:0}.elementor-form .elementor-button svg{height:auto}.elementor-form .elementor-button .e-font-icon-svg{height:1em}</style>		<form class="elementor-form" method="post" name="Новая форма">
+			<input type="hidden" name="post_id" value="8">
+			<input type="hidden" name="form_id" value="7ff224b">
+			<input type="hidden" name="referer_title" value="">
+
+							<input type="hidden" name="queried_id" value="8">
+			
+			<div class="elementor-form-fields-wrapper elementor-labels-above">
+								<div class="elementor-field-type-text elementor-field-group elementor-column elementor-field-group-name elementor-col-33">
+													<input size="1" type="text" name="form_fields[name]" id="form-field-name" class="elementor-field elementor-size-md  elementor-field-textual" placeholder="Ваше имя">
+											</div>
+								<div class="elementor-field-type-tel elementor-field-group elementor-column elementor-field-group-email elementor-col-33 elementor-field-required">
+							<input size="1" type="tel" name="form_fields[email]" id="form-field-email" class="elementor-field elementor-size-md  elementor-field-textual" placeholder="Телефон" required="required" aria-required="true" pattern="[0-9()#&amp;+*-=.]+" title="Принимаются только цифры и телефонные символы (#, -, * и т. д.).">
+
+						</div>
+								<div class="elementor-field-group elementor-column elementor-field-type-submit elementor-col-33 e-form__buttons">
+					<button type="submit" class="elementor-button elementor-size-md">
+						<span>
+															<span class=" elementor-button-icon">
+																										</span>
+																						<span class="elementor-button-text">Оставить заявку</span>
+													</span>
+					</button>
+				</div>
+			</div>
+		</form>
+				</div>
+				</div>
+					</div>
+		</div>
+							</div>
+		</section>
+					</div>
+		</div>
+							</div>
+		</section>
+				<section class="elementor-section elementor-top-section elementor-element elementor-element-6a26095 elementor-section-boxed elementor-section-height-default elementor-section-height-default" data-id="6a26095" data-element_type="section">
+						<div class="elementor-container elementor-column-gap-default">
+					<div class="elementor-column elementor-col-100 elementor-top-column elementor-element elementor-element-34dd111" data-id="34dd111" data-element_type="column">
+			<div class="elementor-widget-wrap elementor-element-populated">
+								<section class="elementor-section elementor-inner-section elementor-element elementor-element-4b69787 elementor-section-boxed elementor-section-height-default elementor-section-height-default" data-id="4b69787" data-element_type="section">
+						<div class="elementor-container elementor-column-gap-default">
+					<div class="elementor-column elementor-col-25 elementor-inner-column elementor-element elementor-element-9d1ce92" data-id="9d1ce92" data-element_type="column">
+			<div class="elementor-widget-wrap elementor-element-populated">
+								<div class="elementor-element elementor-element-b629b80 elementor-widget elementor-widget-image" data-id="b629b80" data-element_type="widget" data-widget_type="image.default">
+				<div class="elementor-widget-container">
+															<img decoding="async" width="24" height="24" src="https://investvs.com/wp-content/uploads/2022/04/group-155.svg" class="attachment-large size-large" alt="" loading="lazy">															</div>
+				</div>
+				<div class="elementor-element elementor-element-d43575d elementor-widget elementor-widget-text-editor" data-id="d43575d" data-element_type="widget" data-widget_type="text-editor.default">
+				<div class="elementor-widget-container">
+							<p><strong>Управление паевыми инвестиционными фондами.</strong></p>						</div>
+				</div>
+					</div>
+		</div>
+				<div class="elementor-column elementor-col-25 elementor-inner-column elementor-element elementor-element-407198e" data-id="407198e" data-element_type="column">
+			<div class="elementor-widget-wrap elementor-element-populated">
+								<div class="elementor-element elementor-element-e949736 elementor-widget elementor-widget-text-editor" data-id="e949736" data-element_type="widget" data-widget_type="text-editor.default">
+				<div class="elementor-widget-container">
+													</div>
+				</div>
+					</div>
+		</div>
+				<div class="elementor-column elementor-col-25 elementor-inner-column elementor-element elementor-element-81e264d" data-id="81e264d" data-element_type="column">
+			<div class="elementor-widget-wrap elementor-element-populated">
+								<div class="elementor-element elementor-element-0cdae70 elementor-widget elementor-widget-image" data-id="0cdae70" data-element_type="widget" data-widget_type="image.default">
+				<div class="elementor-widget-container">
+															<img decoding="async" width="24" height="24" src="https://investvs.com/wp-content/uploads/2022/04/group-155.svg" class="attachment-large size-large" alt="" loading="lazy">															</div>
+				</div>
+				<div class="elementor-element elementor-element-fd0bece elementor-widget elementor-widget-text-editor" data-id="fd0bece" data-element_type="widget" data-widget_type="text-editor.default">
+				<div class="elementor-widget-container">
+							<p>&nbsp;<strong>Деятельность по доверительному управлению паевыми инвестиционными фондами не совмещается с деятельностью по управлению ценными бумагами.</strong></p>						</div>
+				</div>
+					</div>
+		</div>
+				<div class="elementor-column elementor-col-25 elementor-inner-column elementor-element elementor-element-1be819f" data-id="1be819f" data-element_type="column">
+			<div class="elementor-widget-wrap elementor-element-populated">
+								<div class="elementor-element elementor-element-e4bc732 elementor-widget elementor-widget-text-editor" data-id="e4bc732" data-element_type="widget" data-widget_type="text-editor.default">
+				<div class="elementor-widget-container">
+													</div>
+				</div>
+					</div>
+		</div>
+							</div>
+		</section>
+					</div>
+		</div>
+							</div>
+		</section>
+				<section class="elementor-section elementor-top-section elementor-element elementor-element-86a7745 elementor-section-boxed elementor-section-height-default elementor-section-height-default" data-id="86a7745" data-element_type="section">
+						<div class="elementor-container elementor-column-gap-default">
+					<div class="elementor-column elementor-col-100 elementor-top-column elementor-element elementor-element-89c2d15" data-id="89c2d15" data-element_type="column">
+			<div class="elementor-widget-wrap elementor-element-populated">
+								<div class="elementor-element elementor-element-700c085 elementor-widget elementor-widget-text-editor" data-id="700c085" data-element_type="widget" data-widget_type="text-editor.default">
+				<div class="elementor-widget-container">
+							<p>&nbsp;Раскрытие информации ООО УК «ИНВЕСТ-ВС»</p>						</div>
+				</div>
+				<div class="elementor-element elementor-element-e0c56dc elementor-widget elementor-widget-text-editor" data-id="e0c56dc" data-element_type="widget" data-widget_type="text-editor.default">
+				<div class="elementor-widget-container">
+							<p><a href="/wp-content/uploads/2023/06/raschet-sobstvennyh-sredstv-na-31.05.2023.pdf"><span style="text-decoration: underline;"><span style="color: #000000; text-decoration: underline;">Расчет собственных средств на 31.05.2023</span></span></a></p><p><span style="color: #000000;">Опубликовано: 19.06.2023, 11:00</span></p><p><span style="color: #000000;">Срок публикации до: 19.06.2026</span></p>						</div>
+				</div>
+				<div class="elementor-element elementor-element-ec1efa3 elementor-widget elementor-widget-text-editor" data-id="ec1efa3" data-element_type="widget" data-widget_type="text-editor.default">
+				<div class="elementor-widget-container">
+							<p><a href="/wp-content/uploads/2023/05/raschet-sobstvennyh-sredstv-na-30.04.2023-4.pdf"><span style="text-decoration: underline;"><span style="color: #000000; text-decoration: underline;">Расчет собственных средств на 30.04.2023</span></span></a></p><p><span style="color: #000000;">Опубликовано: 18.05.2023, 12:00</span></p><p><span style="color: #000000;">Срок публикации до: 18.05.2026</span></p>						</div>
+				</div>
+				<div class="elementor-element elementor-element-2052b25 elementor-widget elementor-widget-text-editor" data-id="2052b25" data-element_type="widget" data-widget_type="text-editor.default">
+				<div class="elementor-widget-container">
+							<p><a href="https://investvs.com/wp-content/uploads/2023/05/az-ooo-uk-invest-vs-1.pdf"><span style="text-decoration: underline;"><span style="color: #000000; text-decoration: underline;">Годовая финансовая отчетность по МСФО за 2022 год с аудиторским заключением</span></span></a></p><p><span style="color: #000000;">Опубликовано: 04.05.2023, 21:00</span></p><p><span style="color: #000000;">Срок публикации до: 04.05.2026</span></p><p><a href="/wp-content/uploads/2023/04/getfileattachment.pdf"><span style="text-decoration: underline;"><span style="color: #000000; text-decoration: underline;">Бухгалтерская (финансовая) отчетность за 1 кв. 2023</span></span></a></p><p><span style="color: #000000;">Опубликовано: 28.04.2023, 12:00</span></p><p><span style="color: #000000;">Срок публикации до: 28.04.2026</span></p>						</div>
+				</div>
+				<div class="elementor-element elementor-element-a7652fb elementor-widget elementor-widget-text-editor" data-id="a7652fb" data-element_type="widget" data-widget_type="text-editor.default">
+				<div class="elementor-widget-container">
+							<p><a href="/wp-content/uploads/2023/04/raschet-sobstvennyh-sredstv-na-31.03.2023.pdf"><span style="text-decoration: underline;"><span style="color: #000000; text-decoration: underline;">Расчет собственных средств на 31.03.2023</span></span></a></p><p><span style="color: #000000;">Опубликовано: 17.04.2023, 12:00</span></p><p><span style="color: #000000;">Срок публикации до: 17.04.2026</span></p>						</div>
+				</div>
+				<div class="elementor-element elementor-element-c054cad elementor-widget elementor-widget-text-editor" data-id="c054cad" data-element_type="widget" data-widget_type="text-editor.default">
+				<div class="elementor-widget-container">
+							<p><a href="/wp-content/uploads/2023/04/buhgalterskaya-finansovaya-otchetnost-za-3-kvartal-2022.pdf"><span style="text-decoration: underline;"><span style="color: #000000; text-decoration: underline;">Бухгалтерская (финансовая) отчетность за 3 квартал 2022</span></span></a></p><p><span style="color: #000000;">Опубликовано: 03.04.2023, 11:00</span></p><p><span style="color: #000000;">Срок публикации до: 03.04.2026</span></p>						</div>
+				</div>
+				<div class="elementor-element elementor-element-44b8c2f elementor-widget elementor-widget-text-editor" data-id="44b8c2f" data-element_type="widget" data-widget_type="text-editor.default">
+				<div class="elementor-widget-container">
+							<p><a href="https://investvs.com/wp-content/uploads/2023/04/az-i-bb-2022.pdf"><span style="text-decoration: underline;"><span style="color: #000000; text-decoration: underline;">Годовая бухгалтерская (финансовая) отчетность за 2022 год с аудиторским заключением</span></span></a></p><p><span style="color: #000000;">Опубликовано: 31.03.2023, 16:00</span></p><p><span style="color: #000000;">Срок публикации до: 1.04.2026</span></p>						</div>
+				</div>
+				<div class="elementor-element elementor-element-014b6ac elementor-widget elementor-widget-text-editor" data-id="014b6ac" data-element_type="widget" data-widget_type="text-editor.default">
+				<div class="elementor-widget-container">
+							<p><a href="/wp-content/uploads/2023/03/raschet-sobstvennyh-sredstv-na-28.02.2023.pdf"><span style="text-decoration: underline;"><span style="color: #000000; text-decoration: underline;">Расчет собственных средств на 28.02.2023</span></span></a></p><p><span style="color: #000000;">Опубликовано: 15.03.2023, 14:00</span></p><p><span style="color: #000000;">Срок публикации до: 15.03.2026</span></p>						</div>
+				</div>
+				<div class="elementor-element elementor-element-bb646c3 elementor-widget elementor-widget-text-editor" data-id="bb646c3" data-element_type="widget" data-widget_type="text-editor.default">
+				<div class="elementor-widget-container">
+							<p><a href="/wp-content/uploads/2023/02/raschet-sobstvennyh-sredstv-na-31.01.2023.pdf"><span style="text-decoration: underline;"><span style="color: #000000; text-decoration: underline;">Расчет собственных средств на 31.01.2023</span></span></a></p><p><span style="color: #000000;">Опубликовано: 15.02.2023, 14:30</span></p><p><span style="color: #000000;">Срок публикации до: 15.02.2026</span></p>						</div>
+				</div>
+				<div class="elementor-element elementor-element-8275015 elementor-widget elementor-widget-text-editor" data-id="8275015" data-element_type="widget" data-widget_type="text-editor.default">
+				<div class="elementor-widget-container">
+							<p><a href="/wp-content/uploads/2023/01/raschet-sobstvennyh-sredstv-na-31.12.2022.pdf"><span style="text-decoration: underline;"><span style="color: #000000; text-decoration: underline;">Расчет собственных средств на 31.12.2022</span></span></a></p><p><span style="color: #000000;">Опубликовано: 23.01.2023, 10:44</span></p><p><span style="color: #000000;">Срок публикации до: 20.01.2026</span></p>						</div>
+				</div>
+				<div class="elementor-element elementor-element-21b9b51 elementor-widget elementor-widget-text-editor" data-id="21b9b51" data-element_type="widget" data-widget_type="text-editor.default">
+				<div class="elementor-widget-container">
+							<p><a href="/wp-content/uploads/2022/12/raschet-sobstvennyh-sredstv-na-30.11.2022.pdf"><span style="text-decoration: underline;"><span style="color: #000000; text-decoration: underline;">Расчет собственных средств на 30.11.2022</span></span></a></p><p><span style="color: #000000;">Опубликовано: 19.12.2022, 12:00</span></p><p><span style="color: #000000;">Срок публикации до: 19.12.2025</span></p>						</div>
+				</div>
+				<div class="elementor-element elementor-element-f70ad2f elementor-widget elementor-widget-text-editor" data-id="f70ad2f" data-element_type="widget" data-widget_type="text-editor.default">
+				<div class="elementor-widget-container">
+							<p><span style="text-decoration: underline; color: #000000;"><a style="color: #000000; text-decoration: underline;" href="https://investvs.com/wp-content/uploads/2023/01/reglament-priznaniya-licz-kvalificzirovannymi-investorami-ooo-uk-invest-vs.pdf">Регламент признания лиц квалифицированными инвесторами ООО УК ИНВЕСТ-ВС</a></span></p><p><span style="color: #000000;">Опубликовано 02.12.2022, 18:00</span></p><p><span style="color: #000000;">Срок публикации бессрочно или до даты размещения нового регламента</span></p><p><span style="text-decoration: underline; color: #000000;"><a style="background-color: #f4f4f6; font-size: 1rem; color: #000000; text-decoration: underline;" href="/wp-content/uploads/2022/11/raschet-sobstvennyh-sredstv-na-31.10.2022.pdf"><span>Расчет собственных средств на 31.10.2022</span></a></span></p><p><span style="color: #000000;">Опубликовано 14.11.2022, 17:56</span></p><p><span style="color: #000000;">Срок публикации до: 14.11.2025</span></p>						</div>
+				</div>
+				<div class="elementor-element elementor-element-8aee0e8 elementor-widget elementor-widget-text-editor" data-id="8aee0e8" data-element_type="widget" data-widget_type="text-editor.default">
+				<div class="elementor-widget-container">
+							<p class="selectable-text copyable-text"><a href="/wp-content/uploads/2022/10/raschet-sobstvennyh-sredstv-na-30.09.2022.pdf"><span style="text-decoration: underline;"><span style="color: #000000; text-decoration: underline;">Расчет собственных средств на 30.09.2022</span></span></a></p><p class="selectable-text copyable-text"><span style="color: #000000;">Опубликовано 18.10.2022, 14:00</span></p><p class="selectable-text copyable-text"><span style="color: #000000;">Срок публикации до: 18.10.2025</span></p>						</div>
+				</div>
+				<div class="elementor-element elementor-element-7cd946a elementor-widget elementor-widget-text-editor" data-id="7cd946a" data-element_type="widget" data-widget_type="text-editor.default">
+				<div class="elementor-widget-container">
+							<p class="selectable-text copyable-text"><span style="text-decoration: underline;"><a href="/wp-content/uploads/2022/10/svodnaya-vedomost-i-perechen.pdf"><span style="color: #000000; text-decoration: underline;">Сводная ведомость результатов проведения специальной оценки условий труда и перечень рекомендуемых мероприятий по улучшению условий труда ООО УК «ИНВЕСТ-ВС»</span></a></span></p><p class="selectable-text copyable-text"><span style="color: #000000;">Опубликовано 7.10.2022, 12:00</span></p><p class="selectable-text copyable-text"><span style="color: #000000;">Срок публикации до: бессрочно</span></p>						</div>
+				</div>
+				<div class="elementor-element elementor-element-3a0fbd7 elementor-widget elementor-widget-text-editor" data-id="3a0fbd7" data-element_type="widget" data-widget_type="text-editor.default">
+				<div class="elementor-widget-container">
+							<p class="selectable-text copyable-text"><a href="/wp-content/uploads/2022/09/invest-vs-soobshhenie-o-smene-adresa-1.docx"><span style="text-decoration: underline;"><span style="color: #000000; text-decoration: underline;">Сообщение об изменении адреса</span></span></a></p><p class="selectable-text copyable-text"><span style="color: #000000;"><span class="selectable-text copyable-text">Опубликовано: 29.09.2022 16</span></span><span style="color: #000000;"><em class="selectable-text copyable-text h432zind">:16</em></span></p><p class="selectable-text copyable-text"><span style="color: #000000;"><span class="selectable-text copyable-text">Срок публикации до: бессрочно</span></span></p>						</div>
+				</div>
+				<div class="elementor-element elementor-element-2005ed9 elementor-widget elementor-widget-text-editor" data-id="2005ed9" data-element_type="widget" data-widget_type="text-editor.default">
+				<div class="elementor-widget-container">
+							<p class="selectable-text copyable-text"><span style="text-decoration: underline;"><span style="color: #000000; text-decoration: underline;"><a style="color: #000000; text-decoration: underline;" href="/wp-content/uploads/2022/09/rekvizity-sentyabr.pdf"><span class="selectable-text copyable-text">Реквизиты управляющей компании</span></a></span></span></p><p class="selectable-text copyable-text"><span style="color: #000000;"><span class="selectable-text copyable-text">Опубликовано: 29.09.2022 15</span></span><span style="color: #000000;"><em class="selectable-text copyable-text h432zind">:19</em></span></p><p class="selectable-text copyable-text"><span style="color: #000000;"><span class="selectable-text copyable-text">Срок публикации до: бессрочно</span></span></p>						</div>
+				</div>
+				<div class="elementor-element elementor-element-af734d5 elementor-widget elementor-widget-text-editor" data-id="af734d5" data-element_type="widget" data-widget_type="text-editor.default">
+				<div class="elementor-widget-container">
+							<p class="selectable-text copyable-text"><a href="/wp-content/uploads/2022/08/invest-vs_reglament_fatca_02.08.2022.pdf"><span style="text-decoration: underline;"><span style="color: #000000; text-decoration: underline;">Положение о критериях отнесения клиентов Общества с ограниченной ответственностью Управляющая компания «ИНВЕСТ-ВС» к категории иностранных налогоплательщиков и способах получения информации от них</span></span></a></p><p class="selectable-text copyable-text"><span style="color: #000000;"><span class="selectable-text copyable-text">Опубликовано: 09.08.2022 16</span><em class="selectable-text copyable-text h432zind">:17</em></span></p><p class="selectable-text copyable-text"><span style="color: #000000;">Срок публикации до: бессрочно</span></p>						</div>
+				</div>
+				<div class="elementor-element elementor-element-545de29 elementor-widget elementor-widget-text-editor" data-id="545de29" data-element_type="widget" data-widget_type="text-editor.default">
+				<div class="elementor-widget-container">
+							<p class="selectable-text copyable-text"><a href="/wp-content/uploads/2022/08/reshenii-ob-otkaze-ot-provedeniya-operaczii-publichnost-na-sajt.pdf"><span style="text-decoration: underline;"><span style="color: #000000; text-decoration: underline;">«ПРАВИЛА ООО УК ИНВЕСТ-ВС» О ПОРЯДКЕ ИНФОРМИРОВАНИЯ КЛИЕНТА О ПРИНЯТОМ В СООТВЕТСТВИИ С ПУНКТОМ 11 СТАТЬИ 7 ФЕДЕРАЛЬНОГО ЗАКОНА ОТ 07.08.2001 N 115-ФЗ «О ПРОТИВОДЕЙСТВИИ ЛЕГАЛИЗАЦИИ (ОТМЫВАНИЮ) ДОХОДОВ, ПОЛУЧЕННЫХ ПРЕСТУПНЫМ ПУТЕМ, И ФИНАНСИРОВАНИЮ ТЕРРОРИЗМА» РЕШЕНИИ ОБ ОТКАЗЕ ОТ ПРОВЕДЕНИЯ ОПЕРАЦИИ</span></span></a></p><p class="selectable-text copyable-text"><span style="color: #000000;"><span class="selectable-text copyable-text">Опубликовано: 09.08.2022 10</span><em class="selectable-text copyable-text h432zind">:07</em></span></p><p class="selectable-text copyable-text"><span style="color: #000000;">Срок публикации до: бессрочно или до даты размещения новой редакции правил</span></p>						</div>
+				</div>
+				<div class="elementor-element elementor-element-1eaa882 elementor-widget elementor-widget-text-editor" data-id="1eaa882" data-element_type="widget" data-widget_type="text-editor.default">
+				<div class="elementor-widget-container">
+							<p class="selectable-text copyable-text"><a href="/wp-content/uploads/2022/08/ep_liczenziya.pdf"><span style="text-decoration: underline;"><span class="selectable-text copyable-text"><span style="color: #000000; text-decoration: underline;">Лицензия на осуществление деятельности по управлению инвестиционными фондами, паевыми инвестиционными фондами и</span> <span style="color: #000000; text-decoration: underline;">негосударственными пенсионными фондами № 21-000-1-01060 от 02.08.2022</span></span></span></a></p><p class="selectable-text copyable-text"><span style="color: #000000;"><span class="selectable-text copyable-text">Опубликовано: 08.08.2022 17</span></span><span style="color: #000000;"><em class="selectable-text copyable-text h432zind">:51</em></span></p><p class="selectable-text copyable-text"><span style="color: #000000;"><span class="selectable-text copyable-text">Срок публикации до: бессрочно</span></span></p>						</div>
+				</div>
+				<div class="elementor-element elementor-element-5a366dc elementor-widget elementor-widget-text-editor" data-id="5a366dc" data-element_type="widget" data-widget_type="text-editor.default">
+				<div class="elementor-widget-container">
+							<p class="selectable-text copyable-text"><a href="/wp-content/uploads/2022/09/raschet-sobstvennyh-sredstv-na-31.08.2022.pdf"><span style="text-decoration: underline;"><span style="color: #000000; text-decoration: underline;"><span class="selectable-text copyable-text">Расчет собственных средств на 31.08.2022</span></span></span></a></p><p class="selectable-text copyable-text"><span style="color: #000000;">Опубликовано 14.09.2022, 12:00</span></p><p class="selectable-text copyable-text"><span style="color: #000000;">Срок публикации до 14.09.2025</span></p>						</div>
+				</div>
+				<div class="elementor-element elementor-element-17809fb elementor-widget elementor-widget-text-editor" data-id="17809fb" data-element_type="widget" data-widget_type="text-editor.default">
+				<div class="elementor-widget-container">
+							<p style="text-align: left;"><span style="font-size: 15pt; line-height: 107%; font-family: Arial, sans-serif; color: #000000;">ООО УК «ИНВЕСТ-ВС» использует следующие системы электронного документооборота (далее — ЭДО):</span></p><h5 style="text-align: left;"><span style="color: #000000;">— ЭДО с Акционерным обществом «Объединенный специализированный депозитарий Р.О.С.Т.». Информация о порядке и условиях обмена электронными документами размещена на сайте АО «ОСД-Р.О.С.Т.» в сети Интернет по адресу: <a style="color: #000000;" href="http://usdep.ru/">usdep.ru</a>&nbsp;</span><br><span style="color: #000000;">— ЭДО с Акционерным обществом «Специализированный депозитарий «ИНФИНИТУМ». Информация о порядке и условиях обмена электронными документами размещена на сайте АО «Специализированный депозитарий «ИНФИНИТУМ» в сети Интернет по адресу:&nbsp;<span style="font-size: 15pt; line-height: 107%; font-family: Arial, sans-serif;"><a style="transition: all 0.5s ease 0s; color: #000000;" href="http://www.specdep.ru/">specdep.ru<br></a></span>— ЭДО с Акционерным обществом «Депозитарной компанией «РЕГИОН». Информация о порядке и условиях обмена электронными документами размещена на сайте АО «ДК РЕГИОН» в сети Интернет по адресу:&nbsp;<a style="font-family: Arial, sans-serif; font-size: 15pt; background-color: #f4f4f6; color: #000000;" href="http://region-dk.ru/">region-dk.ru</a></span></h5>						</div>
+				</div>
+					</div>
+		</div>
+							</div>
+		</section>
+				<section class="elementor-section elementor-top-section elementor-element elementor-element-009b995 elementor-section-boxed elementor-section-height-default elementor-section-height-default" data-id="009b995" data-element_type="section">
+						<div class="elementor-container elementor-column-gap-default">
+					<div class="elementor-column elementor-col-100 elementor-top-column elementor-element elementor-element-ff31498" data-id="ff31498" data-element_type="column">
+			<div class="elementor-widget-wrap elementor-element-populated">
+								<section class="elementor-section elementor-inner-section elementor-element elementor-element-2758790 elementor-section-boxed elementor-section-height-default elementor-section-height-default" data-id="2758790" data-element_type="section">
+						<div class="elementor-container elementor-column-gap-default">
+					<div class="elementor-column elementor-col-33 elementor-inner-column elementor-element elementor-element-3c0c921" data-id="3c0c921" data-element_type="column" data-settings="{&quot;background_background&quot;:&quot;classic&quot;}">
+			<div class="elementor-widget-wrap elementor-element-populated">
+								<div class="elementor-element elementor-element-fb0232d elementor-widget elementor-widget-image" data-id="fb0232d" data-element_type="widget" data-widget_type="image.default">
+				<div class="elementor-widget-container">
+															<img decoding="async" width="60" height="60" src="https://investvs.com/wp-content/uploads/2022/04/group-4359.svg" class="attachment-large size-large" alt="" loading="lazy">															</div>
+				</div>
+				<div class="elementor-element elementor-element-9b2a78d elementor-widget elementor-widget-text-editor" data-id="9b2a78d" data-element_type="widget" data-widget_type="text-editor.default">
+				<div class="elementor-widget-container">
+							<p>ЗАЩИТА ИНВЕСТОРОВ</p>						</div>
+				</div>
+				<div class="elementor-element elementor-element-d8da7b0 elementor-widget elementor-widget-text-editor" data-id="d8da7b0" data-element_type="widget" data-widget_type="text-editor.default">
+				<div class="elementor-widget-container">
+							<p>Деятельность управляющей компании ПИФ и соблюдение прав инвесторов контролируют ЦБ РФ, спецдепозитарий, другие надзорные органы.</p>						</div>
+				</div>
+				<div class="elementor-element elementor-element-4f05a43 elementor-widget elementor-widget-button" data-id="4f05a43" data-element_type="widget" data-widget_type="button.default">
+				<div class="elementor-widget-container">
+					<div class="elementor-button-wrapper">
+			<a href="#elementor-action%3Aaction%3Dpopup%3Aopen%26settings%3DeyJpZCI6IjEzNSIsInRvZ2dsZSI6ZmFsc2V9" class="elementor-button-link elementor-button elementor-size-sm" role="button">
+						<span class="elementor-button-content-wrapper">
+							<span class="elementor-button-icon elementor-align-icon-right">
+				<svg xmlns="http://www.w3.org/2000/svg" width="13" height="10" viewBox="0 0 13 10" fill="none"><path d="M0 4.75H11.5M11.5 4.75L7 0.75M11.5 4.75L7 9.25" stroke="#FF7F5C"></path></svg>			</span>
+						<span class="elementor-button-text">Подробнее</span>
+		</span>
+					</a>
+		</div>
+				</div>
+				</div>
+					</div>
+		</div>
+				<div class="elementor-column elementor-col-33 elementor-inner-column elementor-element elementor-element-320dd8a" data-id="320dd8a" data-element_type="column" data-settings="{&quot;background_background&quot;:&quot;classic&quot;}">
+			<div class="elementor-widget-wrap elementor-element-populated">
+								<div class="elementor-element elementor-element-b94255c elementor-widget elementor-widget-image" data-id="b94255c" data-element_type="widget" data-widget_type="image.default">
+				<div class="elementor-widget-container">
+															<img decoding="async" width="60" height="60" src="https://investvs.com/wp-content/uploads/2022/04/group-4360.svg" class="attachment-large size-large" alt="" loading="lazy">															</div>
+				</div>
+				<div class="elementor-element elementor-element-37bd157 elementor-widget elementor-widget-text-editor" data-id="37bd157" data-element_type="widget" data-widget_type="text-editor.default">
+				<div class="elementor-widget-container">
+							<p>ФИНАНСИРОВАНИЕ ПРОЕКТОВ</p>						</div>
+				</div>
+				<div class="elementor-element elementor-element-ca99448 elementor-widget elementor-widget-text-editor" data-id="ca99448" data-element_type="widget" data-widget_type="text-editor.default">
+				<div class="elementor-widget-container">
+							<p>Поиск и объединение в рамках ЗПИФ собственников земли и недвижимости, владельцев и инициаторов подбор строительных, подрядных и других организаций, привлекаемых для реализации проекта в рамках ЗПИФ.</p>						</div>
+				</div>
+				<div class="elementor-element elementor-element-42378b7 elementor-widget elementor-widget-button" data-id="42378b7" data-element_type="widget" data-widget_type="button.default">
+				<div class="elementor-widget-container">
+					<div class="elementor-button-wrapper">
+			<a href="#elementor-action%3Aaction%3Dpopup%3Aopen%26settings%3DeyJpZCI6IjEzNSIsInRvZ2dsZSI6ZmFsc2V9" class="elementor-button-link elementor-button elementor-size-sm" role="button">
+						<span class="elementor-button-content-wrapper">
+							<span class="elementor-button-icon elementor-align-icon-right">
+				<svg xmlns="http://www.w3.org/2000/svg" width="13" height="10" viewBox="0 0 13 10" fill="none"><path d="M0 4.75H11.5M11.5 4.75L7 0.75M11.5 4.75L7 9.25" stroke="#FF7F5C"></path></svg>			</span>
+						<span class="elementor-button-text">Подробнее</span>
+		</span>
+					</a>
+		</div>
+				</div>
+				</div>
+					</div>
+		</div>
+				<div class="elementor-column elementor-col-33 elementor-inner-column elementor-element elementor-element-feb38e4" data-id="feb38e4" data-element_type="column" data-settings="{&quot;background_background&quot;:&quot;classic&quot;}">
+			<div class="elementor-widget-wrap elementor-element-populated">
+								<div class="elementor-element elementor-element-5955d7c elementor-widget elementor-widget-image" data-id="5955d7c" data-element_type="widget" data-widget_type="image.default">
+				<div class="elementor-widget-container">
+															<img decoding="async" width="60" height="60" src="https://investvs.com/wp-content/uploads/2022/04/group-4361.svg" class="attachment-large size-large" alt="" loading="lazy">															</div>
+				</div>
+				<div class="elementor-element elementor-element-cff998d elementor-widget elementor-widget-text-editor" data-id="cff998d" data-element_type="widget" data-widget_type="text-editor.default">
+				<div class="elementor-widget-container">
+							<p>ДИВЕРСИФИКАЦИЯ РИСКОВ</p>						</div>
+				</div>
+				<div class="elementor-element elementor-element-0d55653 elementor-widget elementor-widget-text-editor" data-id="0d55653" data-element_type="widget" data-widget_type="text-editor.default">
+				<div class="elementor-widget-container">
+							<p>Инвестирование средств ЗПИФ в разные активы с целью снижения рисков.</p>						</div>
+				</div>
+				<div class="elementor-element elementor-element-e93f47e elementor-widget elementor-widget-button" data-id="e93f47e" data-element_type="widget" data-widget_type="button.default">
+				<div class="elementor-widget-container">
+					<div class="elementor-button-wrapper">
+			<a href="#elementor-action%3Aaction%3Dpopup%3Aopen%26settings%3DeyJpZCI6IjEzNSIsInRvZ2dsZSI6ZmFsc2V9" class="elementor-button-link elementor-button elementor-size-sm" role="button">
+						<span class="elementor-button-content-wrapper">
+							<span class="elementor-button-icon elementor-align-icon-right">
+				<svg xmlns="http://www.w3.org/2000/svg" width="13" height="10" viewBox="0 0 13 10" fill="none"><path d="M0 4.75H11.5M11.5 4.75L7 0.75M11.5 4.75L7 9.25" stroke="#FF7F5C"></path></svg>			</span>
+						<span class="elementor-button-text">Подробнее</span>
+		</span>
+					</a>
+		</div>
+				</div>
+				</div>
+					</div>
+		</div>
+							</div>
+		</section>
+					</div>
+		</div>
+							</div>
+		</section>
+				<section class="elementor-section elementor-top-section elementor-element elementor-element-d161b84 elementor-section-content-bottom elementor-section-boxed elementor-section-height-default elementor-section-height-default" data-id="d161b84" data-element_type="section">
+						<div class="elementor-container elementor-column-gap-default">
+					<div class="elementor-column elementor-col-100 elementor-top-column elementor-element elementor-element-a9006bf" data-id="a9006bf" data-element_type="column">
+			<div class="elementor-widget-wrap elementor-element-populated">
+								<section class="elementor-section elementor-inner-section elementor-element elementor-element-481fa85 elementor-section-content-bottom elementor-section-height-min-height elementor-section-boxed elementor-section-height-default" data-id="481fa85" data-element_type="section" data-settings="{&quot;background_background&quot;:&quot;classic&quot;}">
+						<div class="elementor-container elementor-column-gap-default">
+					<div class="elementor-column elementor-col-33 elementor-inner-column elementor-element elementor-element-e7e4d66" data-id="e7e4d66" data-element_type="column">
+			<div class="elementor-widget-wrap elementor-element-populated">
+								<div class="elementor-element elementor-element-f70ba9c elementor-widget elementor-widget-text-editor" data-id="f70ba9c" data-element_type="widget" data-widget_type="text-editor.default">
+				<div class="elementor-widget-container">
+							<p>Остались вопросы?</p>						</div>
+				</div>
+				<div class="elementor-element elementor-element-c4a20bb elementor-widget elementor-widget-text-editor" data-id="c4a20bb" data-element_type="widget" data-widget_type="text-editor.default">
+				<div class="elementor-widget-container">
+							<p>Заполните форму и наши менеджеры свяжутся с вами!</p>						</div>
+				</div>
+					</div>
+		</div>
+				<div class="elementor-column elementor-col-33 elementor-inner-column elementor-element elementor-element-5a970b8" data-id="5a970b8" data-element_type="column">
+			<div class="elementor-widget-wrap elementor-element-populated">
+								<div class="elementor-element elementor-element-e6bb1dd elementor-widget elementor-widget-button" data-id="e6bb1dd" data-element_type="widget" data-widget_type="button.default">
+				<div class="elementor-widget-container">
+					<div class="elementor-button-wrapper">
+			<a href="#elementor-action%3Aaction%3Dpopup%3Aopen%26settings%3DeyJpZCI6IjEzNSIsInRvZ2dsZSI6ZmFsc2V9" class="elementor-button-link elementor-button elementor-size-md" role="button">
+						<span class="elementor-button-content-wrapper">
+						<span class="elementor-button-text">Заполнить форму</span>
+		</span>
+					</a>
+		</div>
+				</div>
+				</div>
+					</div>
+		</div>
+				<div class="elementor-column elementor-col-33 elementor-inner-column elementor-element elementor-element-61f6836" data-id="61f6836" data-element_type="column">
+			<div class="elementor-widget-wrap">
+									</div>
+		</div>
+							</div>
+		</section>
+					</div>
+		</div>
+							</div>
+		</section>
+				<section class="elementor-section elementor-top-section elementor-element elementor-element-54c5fd7 elementor-section-boxed elementor-section-height-default elementor-section-height-default" data-id="54c5fd7" data-element_type="section" data-settings="{&quot;background_background&quot;:&quot;classic&quot;}">
+						<div class="elementor-container elementor-column-gap-default">
+					<div class="elementor-column elementor-col-100 elementor-top-column elementor-element elementor-element-5fbef4a" data-id="5fbef4a" data-element_type="column">
+			<div class="elementor-widget-wrap elementor-element-populated">
+								<section class="elementor-section elementor-inner-section elementor-element elementor-element-13ef8a6 elementor-section-boxed elementor-section-height-default elementor-section-height-default" data-id="13ef8a6" data-element_type="section">
+						<div class="elementor-container elementor-column-gap-default">
+					<div class="elementor-column elementor-col-33 elementor-inner-column elementor-element elementor-element-3e80e70" data-id="3e80e70" data-element_type="column">
+			<div class="elementor-widget-wrap elementor-element-populated">
+								<div class="elementor-element elementor-element-45d19b6 elementor-widget elementor-widget-image" data-id="45d19b6" data-element_type="widget" data-widget_type="image.default">
+				<div class="elementor-widget-container">
+															<img decoding="async" width="165" height="52" src="https://investvs.com/wp-content/uploads/2022/04/group-43693.svg" class="attachment-large size-large" alt="" loading="lazy">															</div>
+				</div>
+				<div class="elementor-element elementor-element-45bfe86 elementor-align-left elementor-icon-list--layout-traditional elementor-list-item-link-full_width elementor-widget elementor-widget-icon-list" data-id="45bfe86" data-element_type="widget" data-widget_type="icon-list.default">
+				<div class="elementor-widget-container">
+					<ul class="elementor-icon-list-items">
+							<li class="elementor-icon-list-item">
+										<span class="elementor-icon-list-text">Общество с ограниченной ответственностью Управляющая компания "ИНВЕСТ-ВС"</span>
+									</li>
+								<li class="elementor-icon-list-item">
+										<span class="elementor-icon-list-text">ИНН/КПП: 9722006696/770801001</span>
+									</li>
+								<li class="elementor-icon-list-item">
+										<span class="elementor-icon-list-text">ОГРН: 1217700398630 от 25.08.2021</span>
+									</li>
+								<li class="elementor-icon-list-item">
+										<span class="elementor-icon-list-text">Юридический/Почтовый адрес 129090. Москва, вн. тер. г. муниципальный округ Красносельский, туп. Спасский, д. 8, стр. 1, этаж 2, помещение I, комн.№8</span>
+									</li>
+						</ul>
+				</div>
+				</div>
+					</div>
+		</div>
+				<div class="elementor-column elementor-col-33 elementor-inner-column elementor-element elementor-element-f3e625b" data-id="f3e625b" data-element_type="column">
+			<div class="elementor-widget-wrap elementor-element-populated">
+								<div class="elementor-element elementor-element-6b19dd7 elementor-widget elementor-widget-heading" data-id="6b19dd7" data-element_type="widget" data-widget_type="heading.default">
+				<div class="elementor-widget-container">
+			<style>/*! elementor - v3.6.4 - 13-04-2022 */
+.elementor-heading-title{padding:0;margin:0;line-height:1}.elementor-widget-heading .elementor-heading-title[class*=elementor-size-]>a{color:inherit;font-size:inherit;line-height:inherit}.elementor-widget-heading .elementor-heading-title.elementor-size-small{font-size:15px}.elementor-widget-heading .elementor-heading-title.elementor-size-medium{font-size:19px}.elementor-widget-heading .elementor-heading-title.elementor-size-large{font-size:29px}.elementor-widget-heading .elementor-heading-title.elementor-size-xl{font-size:39px}.elementor-widget-heading .elementor-heading-title.elementor-size-xxl{font-size:59px}</style><h2 class="elementor-heading-title elementor-size-default">Контакты</h2>		</div>
+				</div>
+				<div class="elementor-element elementor-element-30667e1 elementor-align-left elementor-icon-list--layout-traditional elementor-list-item-link-full_width elementor-widget elementor-widget-icon-list" data-id="30667e1" data-element_type="widget" data-widget_type="icon-list.default">
+				<div class="elementor-widget-container">
+					<ul class="elementor-icon-list-items">
+							<li class="elementor-icon-list-item">
+											<a href="tel:%2089251845062">
+
+												<span class="elementor-icon-list-icon">
+							<i aria-hidden="true" class="fas fa-phone-alt"></i>						</span>
+										<span class="elementor-icon-list-text">+7 (925) 184-50-62</span>
+											</a>
+									</li>
+								<li class="elementor-icon-list-item">
+											<a href="mailto:%20investvs22@gmail.com">
+
+												<span class="elementor-icon-list-icon">
+							<i aria-hidden="true" class="fas fa-envelope"></i>						</span>
+										<span class="elementor-icon-list-text">investvs22@gmail.com</span>
+											</a>
+									</li>
+						</ul>
+				</div>
+				</div>
+					</div>
+		</div>
+				<div class="elementor-column elementor-col-33 elementor-inner-column elementor-element elementor-element-f5a7bd2" data-id="f5a7bd2" data-element_type="column">
+			<div class="elementor-widget-wrap elementor-element-populated">
+								<div class="elementor-element elementor-element-a838e20 elementor-widget elementor-widget-heading" data-id="a838e20" data-element_type="widget" data-widget_type="heading.default">
+				<div class="elementor-widget-container">
+			<h2 class="elementor-heading-title elementor-size-default">Наш офис</h2>		</div>
+				</div>
+				<div class="elementor-element elementor-element-0e9aee0 elementor-widget elementor-widget-text-editor" data-id="0e9aee0" data-element_type="widget" data-widget_type="text-editor.default">
+				<div class="elementor-widget-container">
+							<p>Режим работы<br>Пн-Пт, 9:00–18:00</p>						</div>
+				</div>
+				<div class="elementor-element elementor-element-854e5fe elementor-widget elementor-widget-html" data-id="854e5fe" data-element_type="widget" data-widget_type="html.default">
+				<div class="elementor-widget-container">
+			<iframe src="https://yandex.ru/map-widget/v1/?lang=ru_RU&amp;scroll=true&amp;um=constructor%3A3da80613e4731d537f99a0e1e12c27f460caf758853c680e954ae6b2d7fb0c1f" frameborder="0" allowfullscreen="true" width="100%" height="200px" style="display: block;"></iframe>		</div>
+				</div>
+					</div>
+		</div>
+							</div>
+		</section>
+				<section class="elementor-section elementor-inner-section elementor-element elementor-element-f315150 elementor-section-boxed elementor-section-height-default elementor-section-height-default" data-id="f315150" data-element_type="section">
+						<div class="elementor-container elementor-column-gap-default">
+					<div class="elementor-column elementor-col-100 elementor-inner-column elementor-element elementor-element-8710a05" data-id="8710a05" data-element_type="column">
+			<div class="elementor-widget-wrap elementor-element-populated">
+								<div class="elementor-element elementor-element-691b488 elementor-widget-divider--view-line elementor-widget elementor-widget-divider" data-id="691b488" data-element_type="widget" data-widget_type="divider.default">
+				<div class="elementor-widget-container">
+			<style>/*! elementor - v3.6.4 - 13-04-2022 */
+.elementor-widget-divider{--divider-border-style:none;--divider-border-width:1px;--divider-color:#2c2c2c;--divider-icon-size:20px;--divider-element-spacing:10px;--divider-pattern-height:24px;--divider-pattern-size:20px;--divider-pattern-url:none;--divider-pattern-repeat:repeat-x}.elementor-widget-divider .elementor-divider{display:-webkit-box;display:-ms-flexbox;display:flex}.elementor-widget-divider .elementor-divider__text{font-size:15px;line-height:1;max-width:95%}.elementor-widget-divider .elementor-divider__element{margin:0 var(--divider-element-spacing);-ms-flex-negative:0;flex-shrink:0}.elementor-widget-divider .elementor-icon{font-size:var(--divider-icon-size)}.elementor-widget-divider .elementor-divider-separator{display:-webkit-box;display:-ms-flexbox;display:flex;margin:0;direction:ltr}.elementor-widget-divider--view-line_icon .elementor-divider-separator,.elementor-widget-divider--view-line_text .elementor-divider-separator{-webkit-box-align:center;-ms-flex-align:center;align-items:center}.elementor-widget-divider--view-line_icon .elementor-divider-separator:after,.elementor-widget-divider--view-line_icon .elementor-divider-separator:before,.elementor-widget-divider--view-line_text .elementor-divider-separator:after,.elementor-widget-divider--view-line_text .elementor-divider-separator:before{display:block;content:"";border-bottom:0;-webkit-box-flex:1;-ms-flex-positive:1;flex-grow:1;border-top:var(--divider-border-width) var(--divider-border-style) var(--divider-color)}.elementor-widget-divider--element-align-left .elementor-divider .elementor-divider-separator>.elementor-divider__svg:first-of-type{-webkit-box-flex:0;-ms-flex-positive:0;flex-grow:0;-ms-flex-negative:100;flex-shrink:100}.elementor-widget-divider--element-align-left .elementor-divider-separator:before{content:none}.elementor-widget-divider--element-align-left .elementor-divider__element{margin-left:0}.elementor-widget-divider--element-align-right .elementor-divider .elementor-divider-separator>.elementor-divider__svg:last-of-type{-webkit-box-flex:0;-ms-flex-positive:0;flex-grow:0;-ms-flex-negative:100;flex-shrink:100}.elementor-widget-divider--element-align-right .elementor-divider-separator:after{content:none}.elementor-widget-divider--element-align-right .elementor-divider__element{margin-right:0}.elementor-widget-divider:not(.elementor-widget-divider--view-line_text):not(.elementor-widget-divider--view-line_icon) .elementor-divider-separator{border-top:var(--divider-border-width) var(--divider-border-style) var(--divider-color)}.elementor-widget-divider--separator-type-pattern{--divider-border-style:none}.elementor-widget-divider--separator-type-pattern.elementor-widget-divider--view-line .elementor-divider-separator,.elementor-widget-divider--separator-type-pattern:not(.elementor-widget-divider--view-line) .elementor-divider-separator:after,.elementor-widget-divider--separator-type-pattern:not(.elementor-widget-divider--view-line) .elementor-divider-separator:before,.elementor-widget-divider--separator-type-pattern:not([class*=elementor-widget-divider--view]) .elementor-divider-separator{width:100%;min-height:var(--divider-pattern-height);-webkit-mask-size:var(--divider-pattern-size) 100%;mask-size:var(--divider-pattern-size) 100%;-webkit-mask-repeat:var(--divider-pattern-repeat);mask-repeat:var(--divider-pattern-repeat);background-color:var(--divider-color);-webkit-mask-image:var(--divider-pattern-url);mask-image:var(--divider-pattern-url)}.elementor-widget-divider--no-spacing{--divider-pattern-size:auto}.elementor-widget-divider--bg-round{--divider-pattern-repeat:round}.rtl .elementor-widget-divider .elementor-divider__text{direction:rtl}</style>		<div class="elementor-divider">
+			<span class="elementor-divider-separator">
+						</span>
+		</div>
+				</div>
+				</div>
+					</div>
+		</div>
+							</div>
+		</section>
+				<section class="elementor-section elementor-inner-section elementor-element elementor-element-9dbe982 elementor-section-boxed elementor-section-height-default elementor-section-height-default" data-id="9dbe982" data-element_type="section">
+						<div class="elementor-container elementor-column-gap-default">
+					<div class="elementor-column elementor-col-100 elementor-inner-column elementor-element elementor-element-8f6a9df" data-id="8f6a9df" data-element_type="column">
+			<div class="elementor-widget-wrap elementor-element-populated">
+								<div class="elementor-element elementor-element-7cafadc elementor-widget elementor-widget-text-editor" data-id="7cafadc" data-element_type="widget" data-widget_type="text-editor.default">
+				<div class="elementor-widget-container">
+							<p>Лицензия на осуществление деятельности по управлению инвестиционными фондами, паевыми инвестиционными фондами и негосударственными пенсионными фондами № 21-000-1-01060 выдана Центральным банком Российской Федерации 02.08.2022 г. Срок действия: без ограничения срока действия.Стоимость инвестиционных паев может увеличиваться и уменьшаться, результаты инвестирования в прошлом не определяют доходы в будущем, государство не гарантирует доходность инвестиций в паевые инвестиционные фонды, прежде чем приобрести инвестиционный пай, следует внимательно ознакомиться с правилами доверительного управления.<br>Деятельность по доверительному управлению паевыми инвестиционными фондами не совмещается с деятельностью по управлению ценными бумагами. Место, где до приобретения инвестиционных паев можно получить подробную информацию о паевых инвестиционных фондах и ознакомиться с правилами доверительного управления, а также с иными документами, предусмотренными Федеральным законом от 29.11.2001 г № 156-ФЗ «Об инвестиционных фондах»: 129090. Москва, вн. тер. г. муниципальный округ Красносельский, туп. Спасский, д. 8, стр. 1, этаж 2, помещение I, комн. № 8, контактный телефон: +7 (925) 184-50-62. Иные источники информации, в которых в соответствии с правилами доверительного управления раскрыта либо должна быть раскрыта соответствующая информация: www.investvs.com</p><p>Стоимость инвестиционных паев может увеличиваться и уменьшаться, результаты инвестирования в прошлом не определяют доходы в будущем, государство не гарантирует доходность инвестиций в паевые инвестиционные фонды, прежде чем приобрести инвестиционный пай, следует внимательно ознакомиться с правилами доверительного управления.</p>						</div>
+				</div>
+					</div>
+		</div>
+							</div>
+		</section>
+				<section class="elementor-section elementor-inner-section elementor-element elementor-element-933cc7b elementor-section-boxed elementor-section-height-default elementor-section-height-default" data-id="933cc7b" data-element_type="section">
+						<div class="elementor-container elementor-column-gap-default">
+					<div class="elementor-column elementor-col-100 elementor-inner-column elementor-element elementor-element-ee9ee99" data-id="ee9ee99" data-element_type="column">
+			<div class="elementor-widget-wrap elementor-element-populated">
+								<div class="elementor-element elementor-element-9fd295c elementor-widget-divider--view-line elementor-widget elementor-widget-divider" data-id="9fd295c" data-element_type="widget" data-widget_type="divider.default">
+				<div class="elementor-widget-container">
+					<div class="elementor-divider">
+			<span class="elementor-divider-separator">
+						</span>
+		</div>
+				</div>
+				</div>
+					</div>
+		</div>
+							</div>
+		</section>
+				<section class="elementor-section elementor-inner-section elementor-element elementor-element-48a3d35 elementor-section-boxed elementor-section-height-default elementor-section-height-default" data-id="48a3d35" data-element_type="section">
+						<div class="elementor-container elementor-column-gap-default">
+					<div class="elementor-column elementor-col-50 elementor-inner-column elementor-element elementor-element-90695ca" data-id="90695ca" data-element_type="column">
+			<div class="elementor-widget-wrap elementor-element-populated">
+								<div class="elementor-element elementor-element-0ff8789 elementor-align-left elementor-mobile-align-center elementor-icon-list--layout-traditional elementor-list-item-link-full_width elementor-widget elementor-widget-icon-list" data-id="0ff8789" data-element_type="widget" data-widget_type="icon-list.default">
+				<div class="elementor-widget-container">
+					<ul class="elementor-icon-list-items">
+							<li class="elementor-icon-list-item">
+										<span class="elementor-icon-list-text">2022 ВСЕ ПРАВА ЗАЩИЩЕНЫ</span>
+									</li>
+						</ul>
+				</div>
+				</div>
+					</div>
+		</div>
+				<div class="elementor-column elementor-col-50 elementor-inner-column elementor-element elementor-element-eab4963" data-id="eab4963" data-element_type="column">
+			<div class="elementor-widget-wrap elementor-element-populated">
+								<div class="elementor-element elementor-element-b4f50ab elementor-align-right elementor-mobile-align-center elementor-icon-list--layout-traditional elementor-list-item-link-full_width elementor-widget elementor-widget-icon-list" data-id="b4f50ab" data-element_type="widget" data-widget_type="icon-list.default">
+				<div class="elementor-widget-container">
+					<ul class="elementor-icon-list-items">
+							<li class="elementor-icon-list-item">
+										<span class="elementor-icon-list-text">ПОЛИТИКА КОНФИДЕНЦИАЛЬНОСТИ</span>
+									</li>
+						</ul>
+				</div>
+				</div>
+					</div>
+		</div>
+							</div>
+		</section>
+					</div>
+		</div>
+							</div>
+		</section>
+							</div>
+				<div class="post-tags">
+					</div>
+			</div>
+
+	<section id="comments" class="comments-area">
+
+	
+
+
+</section><!-- .comments-area -->
+</main>
+
+	<footer id="site-footer" class="site-footer dynamic-footer footer-has-copyright" role="contentinfo">
+	<div class="footer-inner">
+		<div class="site-branding show-logo">
+					</div>
+
+		
+					<div class="copyright show">
+				<p>Все права сохранены</p>
+			</div>
+			</div>
+</footer>
+
+		
+		<link rel="stylesheet" id="e-animations-css" href="https://investvs.com/wp-content/plugins/elementor/assets/lib/animations/animations.min.css?ver=3.6.4" type="text/css" media="all">
+<script type="text/javascript" src="https://investvs.com/wp-content/themes/hello-elementor/assets/js/hello-frontend.min.js?ver=1.0.0" id="hello-theme-frontend-js"></script>
+<script type="text/javascript" src="https://investvs.com/wp-content/plugins/elementor-pro/assets/js/webpack-pro.runtime.min.js?ver=3.6.5" id="elementor-pro-webpack-runtime-js"></script>
+<script type="text/javascript" src="https://investvs.com/wp-content/plugins/elementor/assets/js/webpack.runtime.min.js?ver=3.6.4" id="elementor-webpack-runtime-js"></script>
+<script type="text/javascript" src="https://investvs.com/wp-content/plugins/elementor/assets/js/frontend-modules.min.js?ver=3.6.4" id="elementor-frontend-modules-js"></script>
+<script type="text/javascript" src="https://investvs.com/wp-includes/js/dist/vendor/wp-polyfill-inert.min.js?ver=3.1.2" id="wp-polyfill-inert-js"></script>
+<script type="text/javascript" src="https://investvs.com/wp-includes/js/dist/vendor/regenerator-runtime.min.js?ver=0.13.11" id="regenerator-runtime-js"></script>
+<script type="text/javascript" src="https://investvs.com/wp-includes/js/dist/vendor/wp-polyfill.min.js?ver=3.15.0" id="wp-polyfill-js"></script>
+<script type="text/javascript" src="https://investvs.com/wp-includes/js/dist/hooks.min.js?ver=4169d3cf8e8d95a3d6d5" id="wp-hooks-js"></script>
+<script type="text/javascript" src="https://investvs.com/wp-includes/js/dist/i18n.min.js?ver=9e794f35a71bb98672ae" id="wp-i18n-js"></script>
+<script type="text/javascript" id="wp-i18n-js-after">
+wp.i18n.setLocaleData( { 'text direction\u0004ltr': [ 'ltr' ] } );
+</script>
+<script type="text/javascript" id="elementor-pro-frontend-js-before">
+var ElementorProFrontendConfig = {"ajaxurl":"https:\/\/investvs.com\/wp-admin\/admin-ajax.php","nonce":"cbc08f825a","urls":{"assets":"https:\/\/investvs.com\/wp-content\/plugins\/elementor-pro\/assets\/","rest":"https:\/\/investvs.com\/wp-json\/"},"shareButtonsNetworks":{"facebook":{"title":"Facebook","has_counter":true},"twitter":{"title":"Twitter"},"linkedin":{"title":"LinkedIn","has_counter":true},"pinterest":{"title":"Pinterest","has_counter":true},"reddit":{"title":"Reddit","has_counter":true},"vk":{"title":"VK","has_counter":true},"odnoklassniki":{"title":"OK","has_counter":true},"tumblr":{"title":"Tumblr"},"digg":{"title":"Digg"},"skype":{"title":"Skype"},"stumbleupon":{"title":"StumbleUpon","has_counter":true},"mix":{"title":"Mix"},"telegram":{"title":"Telegram"},"pocket":{"title":"Pocket","has_counter":true},"xing":{"title":"XING","has_counter":true},"whatsapp":{"title":"WhatsApp"},"email":{"title":"Email"},"print":{"title":"Print"}},"facebook_sdk":{"lang":"ru_RU","app_id":""},"lottie":{"defaultAnimationUrl":"https:\/\/investvs.com\/wp-content\/plugins\/elementor-pro\/modules\/lottie\/assets\/animations\/default.json"}};
+</script>
+<script type="text/javascript" src="https://investvs.com/wp-content/plugins/elementor-pro/assets/js/frontend.min.js?ver=3.6.5" id="elementor-pro-frontend-js"></script>
+<script type="text/javascript" src="https://investvs.com/wp-content/plugins/elementor/assets/lib/waypoints/waypoints.min.js?ver=4.0.2" id="elementor-waypoints-js"></script>
+<script type="text/javascript" src="https://investvs.com/wp-includes/js/jquery/ui/core.min.js?ver=1.13.2" id="jquery-ui-core-js"></script>
+<script type="text/javascript" id="elementor-frontend-js-before">
+var elementorFrontendConfig = {"environmentMode":{"edit":false,"wpPreview":false,"isScriptDebug":false},"i18n":{"shareOnFacebook":"\u041f\u043e\u0434\u0435\u043b\u0438\u0442\u044c\u0441\u044f \u0432 Facebook","shareOnTwitter":"\u041f\u043e\u0434\u0435\u043b\u0438\u0442\u044c\u0441\u044f \u0432 Twitter","pinIt":"\u0417\u0430\u043f\u0438\u043d\u0438\u0442\u044c","download":"\u0421\u043a\u0430\u0447\u0430\u0442\u044c","downloadImage":"\u0421\u043a\u0430\u0447\u0430\u0442\u044c \u0438\u0437\u043e\u0431\u0440\u0430\u0436\u0435\u043d\u0438\u0435","fullscreen":"\u0412\u043e \u0432\u0435\u0441\u044c \u044d\u043a\u0440\u0430\u043d","zoom":"\u0423\u0432\u0435\u043b\u0438\u0447\u0435\u043d\u0438\u0435","share":"\u041f\u043e\u0434\u0435\u043b\u0438\u0442\u044c\u0441\u044f","playVideo":"\u041f\u0440\u043e\u0438\u0433\u0440\u0430\u0442\u044c \u0432\u0438\u0434\u0435\u043e","previous":"\u041d\u0430\u0437\u0430\u0434","next":"\u0414\u0430\u043b\u0435\u0435","close":"\u0417\u0430\u043a\u0440\u044b\u0442\u044c"},"is_rtl":false,"breakpoints":{"xs":0,"sm":480,"md":768,"lg":1025,"xl":1440,"xxl":1600},"responsive":{"breakpoints":{"mobile":{"label":"\u0422\u0435\u043b\u0435\u0444\u043e\u043d","value":767,"default_value":767,"direction":"max","is_enabled":true},"mobile_extra":{"label":"\u0422\u0435\u043b\u0435\u0444\u043e\u043d \u0414\u043e\u043f\u043e\u043b\u043d\u0438\u0442\u0435\u043b\u044c\u043d\u043e\u0435","value":880,"default_value":880,"direction":"max","is_enabled":false},"tablet":{"label":"\u041f\u043b\u0430\u043d\u0448\u0435\u0442","value":1024,"default_value":1024,"direction":"max","is_enabled":true},"tablet_extra":{"label":"\u041f\u043b\u0430\u043d\u0448\u0435\u0442 \u0414\u043e\u043f\u043e\u043b\u043d\u0438\u0442\u0435\u043b\u044c\u043d\u043e\u0435","value":1200,"default_value":1200,"direction":"max","is_enabled":false},"laptop":{"label":"\u041d\u043e\u0443\u0442\u0431\u0443\u043a","value":1366,"default_value":1366,"direction":"max","is_enabled":false},"widescreen":{"label":"\u0428\u0438\u0440\u043e\u043a\u043e\u0444\u043e\u0440\u043c\u0430\u0442\u043d\u044b\u0435","value":2400,"default_value":2400,"direction":"min","is_enabled":false}}},"version":"3.6.4","is_static":false,"experimentalFeatures":{"e_dom_optimization":true,"e_optimized_assets_loading":true,"e_optimized_css_loading":true,"a11y_improvements":true,"e_import_export":true,"additional_custom_breakpoints":true,"e_hidden_wordpress_widgets":true,"theme_builder_v2":true,"hello-theme-header-footer":true,"landing-pages":true,"elements-color-picker":true,"favorite-widgets":true,"admin-top-bar":true,"page-transitions":true,"form-submissions":true,"e_scroll_snap":true},"urls":{"assets":"https:\/\/investvs.com\/wp-content\/plugins\/elementor\/assets\/"},"settings":{"page":[],"editorPreferences":[]},"kit":{"active_breakpoints":["viewport_mobile","viewport_tablet"],"global_image_lightbox":"yes","lightbox_enable_counter":"yes","lightbox_enable_fullscreen":"yes","lightbox_enable_zoom":"yes","lightbox_enable_share":"yes","lightbox_title_src":"title","lightbox_description_src":"description","hello_header_logo_type":"title","hello_footer_logo_type":"logo"},"post":{"id":8,"title":"INVEST-VS","excerpt":"","featuredImage":false}};
+</script>
+<script type="text/javascript" src="https://investvs.com/wp-content/plugins/elementor/assets/js/frontend.min.js?ver=3.6.4" id="elementor-frontend-js"></script><span id="elementor-device-mode" class="elementor-screen-only"></span>
+<script type="text/javascript" src="https://investvs.com/wp-content/plugins/elementor-pro/assets/js/elements-handlers.min.js?ver=3.6.5" id="pro-elements-handlers-js"></script><svg style="display: none;" class="e-font-icon-svg-symbols"></svg>
+
+
+
+<script src="https://investvs.com/wp-content/plugins/elementor/assets/lib/dialog/dialog.min.js?ver=4.9.0"></script>

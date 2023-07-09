@@ -1,0 +1,1318 @@
+
+
+
+            
+<header>
+  <nav id="top" class="navbar navbar-default navbar-full">
+    <div class="container">
+      <div class="navbar-header">
+                <a href="javascript:void(0);" class="navbar-toggle collapsed" data-toggle="collapse" data-target=".navbar-top-collapse, .navbar-menu-collapse"><i class="fa fa-fw fa-bars"></i></a>
+                                        <div id="logo">
+                                                  <a href="https://gerfin.ru/"><img src="https://gerfin.ru/image/catalog/logo_1.png" title="ООО «УК «ГЕРФИН»" alt="ООО «УК «ГЕРФИН»"></a>
+                                            </div>
+      </div>
+      <div class="hidden-xs"></div>
+      <div class="collapse navbar-collapse navbar-top-collapse">
+        <ul class="nav navbar-nav">
+          <li class="dropdown" id="contacts">
+            <a href="javascript:void(0);" class="dropdown-toggle" data-toggle="dropdown"><i class="fa fa-fw fa-mobile"></i> <span class="phone">+7-966-195-4912 </span> <span class="hidden-sm"> </span><i class="fa fa-angle-down"></i></a>
+                        <ul class="dropdown-menu">
+                            <li class="dropdown-header keep-open">Получить консультацию!</li>
+              <li><button type="button" data-toggle="modal" data-target="#orderModal" data-order-img-src="https://gerfin.ru/image/cache/no_image-228x228.png" data-order-mode="callback" data-order-title="Получить консультацию!"><i class="fa fa-lg fa-fw fa-volume-control-phone"></i> Нажмите и мы перезвоним Вам в ближайшее время</button></li>
+              <li class="divider"></li>
+                                                                                    <li class="keep-open"><span class="text-muted"><i class="fa fa-lg fa-fw fa-phone"></i> Наш телефон</span></li>
+                                                                                                                <li class="keep-open"><a href="tel:+7(495) 748-0570"><i class="fa fa-lg fa-fw fa-phone"></i> +7(495) 748-0570</a></li>
+                                                                                                  <li class="divider"></li>
+                                                                                                  <li class="keep-open"><a href="viber://add?number=79661954912"><span class="fa fa-fw fa-lg"><img src="https://gerfin.ru/image/cache/catalog/viber-16x16.png" alt="Чат Viber +79661954912"></span> Чат Viber +79661954912</a></li>
+                                                                                                                <li class="keep-open"><a href="whatsapp://send?phone=+79661954912"><span class="fa fa-fw fa-lg"><img src="https://gerfin.ru/image/cache/catalog/watsupp-16x16.png" alt="Чат WhatsApp +79661954912"></span> Чат WhatsApp +79661954912</a></li>
+                                                                                                  <li class="divider"></li>
+                                                                                    <li class="dropdown-header keep-open">Наш адрес</li>
+                                                                                                  <li class="keep-open"><span class="text-muted"> 125167, г. Москва, Нарышкинская аллея, д. 5, стр. 2, эт. 2, пом. IV, ком. 49а</span></li>
+                                                                    </ul>
+                      </li>
+                            </ul>
+        
+        <ul class="nav navbar-nav navbar-right">
+
+<ul class="nav navbar-nav">
+<li style="font-size: 24px; font-family: Arial">
+<a href="/index.php?route=product/category&amp;path=63"><i class="fa fa-fw fa--"></i>"ГЕРФИН - фонд облигаций"&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</a></li>
+                                        </ul>
+			
+          
+          <li class="dropdown" id="top-links" style="border: 2px solid white;">
+            <a href="javascript:void(0);" class="dropdown-toggle" data-toggle="dropdown"><i class="fa fa-fw fa-bars"></i> <span class="hidden-lg hidden-md hidden-sm">Меню <i class="fa fa-angle-down"></i></span></a>
+            <ul class="dropdown-menu keep-open">
+                            
+                            <li class="dropdown-header">Личный кабинет</li>
+              
+            <li><a href="https://gerfin.ru/login/" rel="nofollow"><i class="fa fa-fw fa-sign-in"></i> Авторизация <!-- /  Регистрация --> </a></li>
+            
+                            
+                          </ul>
+
+                                      
+          </li>
+          
+                          
+        </ul>
+      </div>
+    </div>
+  </nav>
+    <nav class="navbar navbar-default navbar-full categories-menu" id="menu">
+    <div class="container">
+      <div class="collapse navbar-collapse navbar-menu-collapse">
+        <ul class="nav navbar-nav">
+                                                      <li><a href="/"><i class="fa fa-fw fa--"></i> Главная</a></li>
+                      <li><a href="/gerfin-uk/"><i class="fa fa-fw fa--"></i> Правила и отчетность фонда</a></li>
+                      <li><a href="/about_us.php"><i class="fa fa-fw fa--"></i> О компании</a></li>
+                      <li><a href="/address-u.php"><i class="fa fa-fw fa--"></i> Наши реквизиты</a></li>
+                      <li><a href="/news-u.php"><i class="fa fa-fw fa--"></i> Новости</a></li>
+                  </ul>
+      </div>
+    </div>
+  </nav>
+  </header>
+<div class="container">
+  <div class="row">                <div id="content" class="col-sm-12">
+      
+            <h1 class="h2 text-center content-title">Раскрытие информации</h1>
+                                    
+      <div>
+<div class="tabs_n">
+    <input type="radio" name="inset" value="" id="tab_rekv">
+    <label for="tab_rekv"><h3 style="font-family: &quot;Open Sans&quot;, sans-serif;"><font color="#337ab7"><b>ООО "Управляющая компания "ГЕРФИН"</b></font></h3></label>
+
+<div id="txt_rekv">
+<b>Полное наименование:</b> Общество с ограниченной ответственностью "Управляющая компания "ГЕРФИН"<br><p></p>
+<p style="margin-bottom: 10px;"><font color="#333333"><b>Сокращенное наименование:</b> </font>ООО "УК "ГЕРФИН"&nbsp;<br></p><p style="margin-bottom: 10px;"><font color="#333333"><b>Наименование на иностранном языке:</b> </font>Management Company "GERFIN" (LLC)&nbsp;<br></p><p style="margin-bottom: 10px;"><b>Дата создания:</b> 05 июня 2007 год.&nbsp;<br></p><p style="margin-bottom: 10px;"><b>Генеральный директор:</b> Герасимов Сергей Яковлевич&nbsp;<br></p><p style="margin-bottom: 10px;"><b>Номер лицензии в реестре лицензий на осуществление деятельности по управлению инвестиционными фондами, паевыми инвестиционными фондами и негосударственными пенсионными фондами</b> - 21-000-1-00921 от 07.09.2012&nbsp;<br></p><p style="margin-bottom: 10px;"><b>Дата принятия решения о предоставлении лицензии </b>- 23.08.2012&nbsp;<br></p><p style="margin-bottom: 10px;"><b>Срок действия лицензии</b> - бессрочно&nbsp;</p><p style="margin-bottom: 10px;"><b>Деятельность по доверительному управлению паевыми  инвестиционными фондами не совмещается с деятельностью по управлению ценными бумагами.<br></b><br></p>
+
+<p><img src="http://gerfin.ru/image/catalog/lic_uk-b1.jpg" onclick="window.open(this.src,'width=largeImage.stylewidth,height=largeImage.style.height,resizable=1')" style="max-width: 45%;"><img src="http://gerfin.ru/image/catalog/lic_uk-b2.jpg" onclick="window.open(this.src,'width=largeImage.stylewidth,height=largeImage.style.height,resizable=1')" style="max-width: 45%;"></p><p style="margin-bottom: 10px; color: rgb(51, 51, 51); font-size: 14px;"><span style="font-size: 12px;"><span style="font-weight: 700;">Реквизиты ООО "Управляющая компания "ГЕРФИН":</span></span><br></p><p style="margin-bottom: 10px; color: rgb(51, 51, 51); font-size: 14px;"><span style="font-size: 12px;"><span style="font-weight: 700;">Р/с</span>&nbsp;40701810900000000021 в КБ "Новый Московский Банк" (ООО), г. Москва&nbsp;</span></p><p style="margin-bottom: 10px; color: rgb(51, 51, 51); font-size: 14px;"><span style="font-size: 12px;"><span style="font-weight: 700;">БИК</span>&nbsp;044525852,&nbsp;<span style="font-weight: 700;">к/с&nbsp;</span>30101810445250000852&nbsp;</span></p><p style="margin-bottom: 10px; color: rgb(51, 51, 51); font-size: 14px;"><span style="font-size: 12px;"><span style="font-weight: 700;">ОКПО</span>&nbsp;81383276&nbsp;</span></p><p style="margin-bottom: 10px; color: rgb(51, 51, 51); font-size: 14px;"><span style="font-size: 12px;"><span style="font-weight: 700;">ОКВЭД</span>&nbsp;</span><span style="font-size: 12px;">64.99.1 ( 65.23.1&nbsp;&nbsp;</span><span style="font-size: 12px;">65.23.3&nbsp;</span><span style="font-size: 12px;">66.02.1, 67.12.2, 67.20.9 )</span></p><p style="margin-bottom: 10px; color: rgb(51, 51, 51); font-size: 14px;"><span style="font-size: 12px;"><span style="font-weight: 700;">ИНН:</span>&nbsp;7714697950 /&nbsp;<span style="font-weight: 700;">КПП:</span>&nbsp;771401001&nbsp;</span></p><p style="margin-bottom: 10px; color: rgb(51, 51, 51); font-size: 14px;"><span style="font-size: 12px;"><span style="font-weight: 700;">ОГРН:</span>&nbsp;5077746878633&nbsp;</span></p>
+
+<!--<p><br></p><h6><b style="color: inherit; font-family: inherit; font-size: 21px;">Информация о составе и структуре акционеров (участников):</b></h6><p></p>-->
+
+
+<!--<p><a href="http://gerfin.ru/GERFIN-UK/texts/Akcionery2022_2.pdf" target="_blank">ИНФОРМАЦИЯ О СТРУКТУРЕ И СОСТАВЕ УЧАСТНИКОВ ООО «УК «ГЕРФИН» В ТОМ ЧИСЛЕ О ЛИЦАХ, ПОД КОНТРОЛЕМ ЛИБО ЗНАЧИТЕЛЬНЫМ ВЛИЯНИЕМ КОТОРЫХ НАХОДИТСЯ УПРАВЛЯЮЩАЯ КОМПАНИЯ НА 25 ФЕВРАЛЯ 2022 ГОДА. СООТВЕТСТВУЕТ ИНФОРМАЦИИ, НАПРАВЛЕННОЙ В БАНК РОССИИ ДЛЯ РАЗМЕЩЕНИЯ НА ОФИЦИАЛЬНОМ САЙТЕ БАНКА РОССИИ.</a></p><p><i style="color: rgb(51, 51, 51); font-size: small;">Опубликовано 11.03.2022 в 21:50 Доступно до внесения изменений</i></p><p><a href="http://gerfin.ru/GERFIN-UK/texts/Akcionery2022.pdf" target="_blank">ИНФОРМАЦИЯ О СТРУКТУРЕ И СОСТАВЕ УЧАСТНИКОВ ООО «УК «ГЕРФИН» В ТОМ ЧИСЛЕ О ЛИЦАХ, ПОД КОНТРОЛЕМ ЛИБО ЗНАЧИТЕЛЬНЫМ ВЛИЯНИЕМ КОТОРЫХ НАХОДИТСЯ УПРАВЛЯЮЩАЯ КОМПАНИЯ  НА 01 ФЕВРАЛЯ 2022 ГОДА. СООТВЕТСТВУЕТ ИНФОРМАЦИИ, НАПРАВЛЕННОЙ В БАНК РОССИИ ДЛЯ РАЗМЕЩЕНИЯ НА ОФИЦИАЛЬНОМ САЙТЕ БАНКА РОССИИ.</a></p>
+<p><i style="color: rgb(51, 51, 51); font-size: small;">Опубликовано 01.02.2022 в 22:00 Доступно до внесения изменений</i></p>
+<p><a href="http://gerfin.ru/GERFIN-UK/texts/Akcionery2020_2.pdf" target="_blank">ИНФОРМАЦИЯ О СТРУКТУРЕ И СОСТАВЕ УЧАСТНИКОВ ООО «УК «ГЕРФИН» В ТОМ ЧИСЛЕ О ЛИЦАХ, ПОД КОНТРОЛЕМ ЛИБО ЗНАЧИТЕЛЬНЫМ ВЛИЯНИЕМ КОТОРЫХ НАХОДИТСЯ УПРАВЛЯЮЩАЯ КОМПАНИЯ&nbsp; НА 07 ДЕКАБРЯ 2020 ГОДА. СООТВЕТСТВУЕТ ИНФОРМАЦИИ, НАПРАВЛЕННОЙ В БАНК РОССИИ ДЛЯ РАЗМЕЩЕНИЯ НА ОФИЦИАЛЬНОМ САЙТЕ БАНКА РОССИИ.</a></p>
+<p><i style="color: rgb(51, 51, 51); font-size: small;">Опубликовано 07.12.2020 в 18:15 Доступно до внесения изменений</i></p>-->
+<p>&nbsp;<b style="color: inherit; font-family: inherit; font-size: 21px;">Сообщение об ЭДО</b></p>
+<h4 style="font-family: &quot;Open Sans&quot;, sans-serif; color: rgb(0, 0, 0);"><a href="http://gerfin.ru/GERFIN-UK/texts/uk_edoc.htm" target="_blank">Уведомление о порядке и условиях обмена электронными документами</a></h4>
+<p><b style="color: inherit; font-family: inherit; font-size: 21px;">Документы ООО "УК "ГЕРФИН"</b></p>
+<h4 style="font-family: &quot;Open Sans&quot;, sans-serif; color: rgb(0, 0, 0);"><a href="http://gerfin.ru/GERFIN-UK/opif/Zashita_PD.pdf" target="_blank">Положение о защите персональных данных в ООО "УК "ГЕРФИН"</a></h4><p style="font-family: &quot;Open Sans&quot;, sans-serif; color: rgb(0, 0, 0);"><i style="color: rgb(51, 51, 51); font-size: small;">Опубликовано 20.08.2021 в 13:00 Доступно до внесения изменений</i><br></p><p><br></p>
+</div>
+</div>
+
+</div>
+<div>
+<div class="tabs_n">
+    <input type="radio" name="inset" value="" id="tab_otchetnost_uk">
+    <label for="tab_otchetnost_uk"><h3><b><font color="#337ab7">Отчетность ООО "УК "ГЕРФИН"</font></b></h3></label>
+<div id="txt_otchetnost_uk">
+
+
+<ul class="nav nav-tabs">
+  <li class="active"><a href="#tab-uk-ss" data-toggle="tab" aria-expanded="false"><strong>Расчет собственных средств ООО "УК "ГЕРФИН"</strong></a></li>
+  <li class=""><a href="#tab-uk-buh" data-toggle="tab" aria-expanded="true"><strong>Бухгалтерская отчетность ООО "УК "ГЕРФИН"</strong></a></li>
+</ul>
+
+	<div class="tab-content active">
+	  <div class="tab-pane active" id="tab-uk-ss"><!--########### content ###########-->
+
+<a href="./GERFIN-UK/ss/uk_ss_20230531_16062023_0752_16062026.pdf" target="_blank"> Расчет собственных средств на 31.05.2023</a><br><font size="-1"><i>Опубликовано 16.06.2023 в 07:52  Доступно до 16.06.2026</i></font><br><a href="./GERFIN-UK/ss/uk_ss_20230430_19052023_1908_19052026.pdf" target="_blank"> Расчет собственных средств на 30.04.2023</a><br><font size="-1"><i>Опубликовано 19.05.2023 в 19:08  Доступно до 19.05.2026</i></font><br><a href="./GERFIN-UK/ss/uk_ss_20230331_17042023_2026_17042026.pdf" target="_blank"> Расчет собственных средств на 31.03.2023</a><br><font size="-1"><i>Опубликовано 17.04.2023 в 20:26  Доступно до 17.04.2026</i></font><br><a href="./GERFIN-UK/ss/uk_ss_20230228_16032023_2252_16032026.pdf" target="_blank"> Расчет собственных средств на 28.02.2023</a><br><font size="-1"><i>Опубликовано 16.03.2023 в 22:52  Доступно до 16.03.2026</i></font><br><a href="./GERFIN-UK/ss/uk_ss_20230131_15022023_1952_15022026.pdf" target="_blank"> Расчет собственных средств на 31.01.2023</a><br><font size="-1"><i>Опубликовано 15.02.2023 в 19:52  Доступно до 15.02.2026</i></font><br><a href="./GERFIN-UK/ss/uk_ss_20221231_23012023_1906_23012026.pdf" target="_blank"> Расчет собственных средств на 31.12.2022</a><br><font size="-1"><i>Опубликовано 23.01.2023 в 19:06  Доступно до 23.01.2026</i></font><br><a href="./GERFIN-UK/ss/uk_ss_20221130_16122022_2125_16122025.pdf" target="_blank"> Расчет собственных средств на 30.11.2022</a><br><font size="-1"><i>Опубликовано 16.12.2022 в 21:25  Доступно до 16.12.2025</i></font><br><a href="./GERFIN-UK/ss/uk_ss_20221031_15112022_2352_15112025.pdf" target="_blank"> Расчет собственных средств на 31.10.2022</a><br><font size="-1"><i>Опубликовано 15.11.2022 в 23:52  Доступно до 15.11.2025</i></font><br><a href="./GERFIN-UK/ss/uk_ss_20220930_19102022_2050_19102025.pdf" target="_blank"> Расчет собственных средств на 30.09.2022</a><br><font size="-1"><i>Опубликовано 19.10.2022 в 20:50  Доступно до 19.10.2025</i></font><br><a href="./GERFIN-UK/ss/uk_ss_20220831_15092022_1355_15092025.pdf" target="_blank"> Расчет собственных средств на 31.08.2022</a><br><font size="-1"><i>Опубликовано 15.09.2022 в 13:55  Доступно до 15.09.2025</i></font><br><a href="./GERFIN-UK/ss/uk_ss_20220731_15082022_2130_15082025.pdf" target="_blank"> Расчет собственных средств на 31.07.2022</a><br><font size="-1"><i>Опубликовано 15.08.2022 в 21:30  Доступно до 15.08.2025</i></font><br><a href="./GERFIN-UK/ss/uk_ss_20220630_18072022_2318_18072025.pdf" target="_blank"> Расчет собственных средств на 30.06.2022</a><br><font size="-1"><i>Опубликовано 18.07.2022 в 23:18  Доступно до 18.07.2025</i></font><br><a href="./GERFIN-UK/ss/uk_ss_20220531_09062022_2330_09062025.pdf" target="_blank"> Расчет собственных средств на 31.05.2022</a><br><font size="-1"><i>Опубликовано 09.06.2022 в 23:30  Доступно до 09.06.2025</i></font><br><a href="./GERFIN-UK/ss/uk_ss_20220430_19052022_1009_19052025.pdf" target="_blank"> Расчет собственных средств на 30.04.2022</a><br><font size="-1"><i>Опубликовано 19.05.2022 в 10:09  Доступно до 19.05.2025</i></font><br><a href="./GERFIN-UK/ss/uk_ss_20220331_19042022_2309_19042025.pdf" target="_blank"> Расчет собственных средств на 31.03.2022</a><br><font size="-1"><i>Опубликовано 19.04.2022 в 23:09  Доступно до 19.04.2025</i></font><br><a href="./GERFIN-UK/ss/uk_ss_20220228_16032022_2202_16032025.pdf" target="_blank"> Расчет собственных средств на 28.02.2022</a><br><font size="-1"><i>Опубликовано 16.03.2022 в 22:02  Доступно до 16.03.2025</i></font><br><a href="./GERFIN-UK/ss/uk_ss_20220131_15022022_1045_15022025.pdf" target="_blank"> Расчет собственных средств на 31.01.2022</a><br><font size="-1"><i>Опубликовано 15.02.2022 в 10:45  Доступно до 15.02.2025</i></font><br><a href="./GERFIN-UK/ss/uk_ss_20211231_25012022_1853_25012025.pdf" target="_blank"> Расчет собственных средств на 31.12.2021</a><br><font size="-1"><i>Опубликовано 25.01.2022 в 18:53  Доступно до 25.01.2025</i></font><br><a href="./GERFIN-UK/ss/uk_ss_20211130_15122021_2329_15122024.pdf" target="_blank"> Расчет собственных средств на 30.11.2021</a><br><font size="-1"><i>Опубликовано 15.12.2021 в 23:29  Доступно до 15.12.2024</i></font><br><a href="./GERFIN-UK/ss/uk_ss_20211031_20112021_1331_20112024.pdf" target="_blank"> Расчет собственных средств на 31.10.2021</a><br><font size="-1"><i>Опубликовано 20.11.2021 в 13:31  Доступно до 20.11.2024</i></font><br><a href="./GERFIN-UK/ss/uk_ss_20210930_18102021_0837_18102024.pdf" target="_blank"> Расчет собственных средств на 30.09.2021</a><br><font size="-1"><i>Опубликовано 18.10.2021 в 08:37  Доступно до 18.10.2024</i></font><br><a href="./GERFIN-UK/ss/uk_ss_20210831_20092021_1233_20092022.pdf" target="_blank"> Расчет собственных средств на 31.08.2021</a><br><font size="-1"><i>Опубликовано 20.09.2021 в 12:33  Доступно до 20.09.2022</i></font><br><a href="./GERFIN-UK/ss/uk_ss_20210731_16082021_2238_16082022.pdf" target="_blank"> Расчет собственных средств на 31.07.2021</a><br><font size="-1"><i>Опубликовано 16.08.2021 в 22:38  Доступно до 16.08.2022</i></font><br><a href="./GERFIN-UK/ss/uk_ss_20210630_15072021_2354_15072022.pdf" target="_blank"> Расчет собственных средств на 30.06.2021</a><br><font size="-1"><i>Опубликовано 15.07.2021 в 23:54  Доступно до 15.07.2022</i></font><br><a href="./GERFIN-UK/ss/uk_ss_20210531_17062021_2051_17062022.pdf" target="_blank"> Расчет собственных средств на 31.05.2021</a><br><font size="-1"><i>Опубликовано 17.06.2021 в 20:51  Доступно до 17.06.2022</i></font><br><a href="./GERFIN-UK/ss/uk_ss_20210430_21052021_0924_21052022.pdf" target="_blank"> Расчет собственных средств на 30.04.2021</a><br><font size="-1"><i>Опубликовано 21.05.2021 в 09:24  Доступно до 21.05.2022</i></font><br><a href="./GERFIN-UK/ss/uk_ss_20210331_16042021_1224_16042022.pdf" target="_blank"> Расчет собственных средств на 31.03.2021</a><br><font size="-1"><i>Опубликовано 16.04.2021 в 12:24  Доступно до 16.04.2022</i></font><br><a href="./GERFIN-UK/ss/uk_ss_20210228_16032021_1217_16032022.pdf" target="_blank"> Расчет собственных средств на 28.02.2021</a><br><font size="-1"><i>Опубликовано 16.03.2021 в 12:17  Доступно до 16.03.2022</i></font><br><a href="./GERFIN-UK/ss/uk_ss_20210131_15022021_1133_15022022.pdf" target="_blank"> Расчет собственных средств на 31.01.2021</a><br><font size="-1"><i>Опубликовано 15.02.2021 в 11:33  Доступно до 15.02.2022</i></font><br><a href="./GERFIN-UK/ss/uk_ss_20201231_26012021_2216_26012022.pdf" target="_blank"> Расчет собственных средств на 31.12.2020</a><br><font size="-1"><i>Опубликовано 26.01.2021 в 22:16  Доступно до 26.01.2022</i></font><br><a href="./GERFIN-UK/ss/uk_ss_20201130_17122020_1358_17122021.pdf" target="_blank"> Расчет собственных средств на 30.11.2020</a><br><font size="-1"><i>Опубликовано 17.12.2020 в 13:58  Доступно до 17.12.2021</i></font><br><a href="./GERFIN-UK/ss/uk_ss_20201031_12112020_2155_12112021.pdf" target="_blank"> Расчет собственных средств на 31.10.2020</a><br><font size="-1"><i>Опубликовано 12.11.2020 в 21:55  Доступно до 12.11.2021</i></font><br><a href="./GERFIN-UK/ss/uk_ss_20200930_14102020_2134_14102021.pdf" target="_blank"> Расчет собственных средств на 30.09.2020</a><br><font size="-1"><i>Опубликовано 14.10.2020 в 21:34  Доступно до 14.10.2021</i></font><br><a href="./GERFIN-UK/ss/uk_ss_20200831_15092020_0739_15092021.pdf" target="_blank"> Расчет собственных средств на 31.08.2020</a><br><font size="-1"><i>Опубликовано 15.09.2020 в 07:39  Доступно до 15.09.2021</i></font><br><a href="./GERFIN-UK/ss/uk_ss_20200731_17082020_1917_17082021.pdf" target="_blank"> Расчет собственных средств на 31.07.2020</a><br><font size="-1"><i>Опубликовано 17.08.2020 в 19:17  Доступно до 17.08.2021</i></font><br><a href="./GERFIN-UK/ss/uk_ss_20200630_15072020_1711_15072021.pdf" target="_blank"> Расчет собственных средств на 30.06.2020</a><br><font size="-1"><i>Опубликовано 15.07.2020 в 17:11  Доступно до 15.07.2021</i></font><br><a href="./GERFIN-UK/ss/uk_ss_20200531_13062020_1650_13062021.pdf" target="_blank"> Расчет собственных средств на 31.05.2020</a><br><font size="-1"><i>Опубликовано 13.06.2020 в 16:50  Доступно до 13.06.2021</i></font><br><a href="./GERFIN-UK/ss/uk_ss_20200430_01062020_1526_01062021.pdf" target="_blank"> Расчет собственных средств на 30.04.2020</a><br><font size="-1"><i>Опубликовано 01.06.2020 в 15:26  Доступно до 01.06.2021</i></font><br><a href="./GERFIN-UK/ss/uk_ss_20200331_15042020_1042_15042021.pdf" target="_blank"> Расчет собственных средств на 31.03.2020</a><br><font size="-1"><i>Опубликовано 15.04.2020 в 10:42  Доступно до 15.04.2021</i></font><br><a href="./GERFIN-UK/ss/uk_ss_20200229_17032020_1157_17032021.pdf" target="_blank"> Расчет собственных средств на 29.02.2020</a><br><font size="-1"><i>Опубликовано 17.03.2020 в 11:57  Доступно до 17.03.2021</i></font><br><a href="./GERFIN-UK/ss/uk_ss_20200131_18022020_0951_18022021.pdf" target="_blank"> Расчет собственных средств на 31.01.2020</a><br><font size="-1"><i>Опубликовано 18.02.2020 в 09:51  Доступно до 18.02.2021</i></font><br><a href="./GERFIN-UK/ss/uk_ss_20191231_21012020_1203_21012021.pdf" target="_blank"> Расчет собственных средств на 31.12.2019</a><br><font size="-1"><i>Опубликовано 21.01.2020 в 12:03  Доступно до 21.01.2021</i></font><br><a href="./GERFIN-UK/ss/uk_ss_20191130_17122019_1346_17122020.pdf" target="_blank"> Расчет собственных средств на 30.11.2019</a><br><font size="-1"><i>Опубликовано 17.12.2019 в 13:46  Доступно до 17.12.2020</i></font><br><a href="./GERFIN-UK/ss/uk_ss_20191031_19112019_1136_19112020.pdf" target="_blank"> Расчет собственных средств на 31.10.2019</a><br><font size="-1"><i>Опубликовано 19.11.2019 в 11:36  Доступно до 19.11.2020</i></font><br><a href="./GERFIN-UK/ss/uk_ss_20190930_15102019_1142_15102020.pdf" target="_blank"> Расчет собственных средств на 30.09.2019</a><br><font size="-1"><i>Опубликовано 15.10.2019 в 11:42  Доступно до 15.10.2020</i></font><br><a href="./GERFIN-UK/ss/uk_ss_20190831_16092019_1235_16092020.pdf" target="_blank"> Расчет собственных средств на 31.08.2019</a><br><font size="-1"><i>Опубликовано 16.09.2019 в 12:35  Доступно до 16.09.2020</i></font><br><a href="./GERFIN-UK/ss/uk_ss_20190731_16082019_0955_16082020.pdf" target="_blank"> Расчет собственных средств на 31.07.2019</a><br><font size="-1"><i>Опубликовано 16.08.2019 в 09:55  Доступно до 16.08.2020</i></font><br><a href="./GERFIN-UK/ss/uk_ss_20190630_11072019_0950_11072020.pdf" target="_blank"> Расчет собственных средств на 30.06.2019</a><br><font size="-1"><i>Опубликовано 11.07.2019 в 09:50  Доступно до 11.07.2020</i></font><br><a href="./GERFIN-UK/ss/uk_ss_20190531_20062019_1011_20062020.pdf" target="_blank"> Расчет собственных средств на 31.05.2019</a><br><font size="-1"><i>Опубликовано 20.06.2019 в 10:11  Доступно до 20.06.2020</i></font><br><a href="./GERFIN-UK/ss/uk_ss_20190430_22052019_0929_22052020.pdf" target="_blank"> Расчет собственных средств на 30.04.2019</a><br><font size="-1"><i>Опубликовано 22.05.2019 в 09:29  Доступно до 22.05.2020</i></font><br><a href="./GERFIN-UK/ss/uk_ss_20190331_11042019_0950_11042020.pdf" target="_blank"> Расчет собственных средств на 31.03.2019</a><br><font size="-1"><i>Опубликовано 11.04.2019 в 09:50  Доступно до 11.04.2020</i></font><br><a href="./GERFIN-UK/ss/uk_ss_20190228_28032019_1036_28032020.pdf" target="_blank"> Расчет собственных средств на 28.02.2019</a><br><font size="-1"><i>Опубликовано 28.03.2019 в 10:36  Доступно до 28.03.2020</i></font><br><a href="./GERFIN-UK/ss/uk_ss_20190131_13022019_0908_13022020.pdf" target="_blank"> Расчет собственных средств на 31.01.2019</a><br><font size="-1"><i>Опубликовано 13.02.2019 в 09:08  Доступно до 13.02.2020</i></font><br><a href="./GERFIN-UK/ss/uk_ss_20181231_23012019_0917_23012020.pdf" target="_blank"> Расчет собственных средств на 31.12.2018</a><br><font size="-1"><i>Опубликовано 23.01.2019 в 09:17  Доступно до 23.01.2020</i></font><br><a href="./GERFIN-UK/ss/uk_ss_20181130_13122018_1748_13122019.pdf" target="_blank"> Расчет собственных средств на 30.11.2018</a><br><font size="-1"><i>Опубликовано 13.12.2018 в 17:48  Доступно до 13.12.2019</i></font><br><a href="./GERFIN-UK/ss/uk_ss_20181031_13112018_1017_13112019.pdf" target="_blank"> Расчет собственных средств на 31.10.2018</a><br><font size="-1"><i>Опубликовано 13.11.2018 в 10:17  Доступно до 13.11.2019</i></font><br><a href="./GERFIN-UK/ss/uk_ss_20180930_15102018_0944_15102019.pdf" target="_blank"> Расчет собственных средств на 30.09.2018</a><br><font size="-1"><i>Опубликовано 15.10.2018 в 09:44  Доступно до 15.10.2019</i></font><br><a href="./GERFIN-UK/ss/uk_ss_20180831_13092018_1355_13092019.pdf" target="_blank"> Расчет собственных средств на 31.08.2018</a><br><font size="-1"><i>Опубликовано 13.09.2018 в 13:55  Доступно до 13.09.2019</i></font><br><a href="./GERFIN-UK/ss/uk_ss_20180731_20082018_1231_20082019.pdf" target="_blank"> Расчет собственных средств на 31.07.2018</a><br><font size="-1"><i>Опубликовано 20.08.2018 в 12:31  Доступно до 20.08.2019</i></font><br><a href="./GERFIN-UK/ss/uk_ss_20180630_23072018_0951_23072019.pdf" target="_blank"> Расчет собственных средств на 30.06.2018</a><br><font size="-1"><i>Опубликовано 23.07.2018 в 09:51  Доступно до 23.07.2019</i></font><br><a href="./GERFIN-UK/ss/uk_ss_20180531_26062018_1021_26062019.pdf" target="_blank"> Расчет собственных средств на 31.05.2018</a><br><font size="-1"><i>Опубликовано 26.06.2018 в 10:21  Доступно до 26.06.2019</i></font><br><a href="./GERFIN-UK/ss/uk_ss_20180430_14052018_0938_14052019.pdf" target="_blank"> Расчет собственных средств на 30.04.2018</a><br><font size="-1"><i>Опубликовано 14.05.2018 в 09:38  Доступно до 14.05.2019</i></font><br><a href="./GERFIN-UK/ss/uk_ss_20180331_27042018_1338_27042019.pdf" target="_blank"> Расчет собственных средств на 31.03.2018</a><br><font size="-1"><i>Опубликовано 27.04.2018 в 13:38  Доступно до 27.04.2019</i></font><br><a href="./GERFIN-UK/ss/uk_ss_20180228_19032018_1001_19032019.pdf" target="_blank"> Расчет собственных средств на 28.02.2018</a><br><font size="-1"><i>Опубликовано 19.03.2018 в 10:01  Доступно до 19.03.2019</i></font><br><a href="./GERFIN-UK/ss/uk_ss_20180131_27022018_1315_27022019.pdf" target="_blank"> Расчет собственных средств на 31.01.2018</a><br><font size="-1"><i>Опубликовано 27.02.2018 в 13:15  Доступно до 27.02.2019</i></font><br><a href="./GERFIN-UK/ss/23" target="_blank"> Расчет собственных средств на ..</a><br><font size="-1"><i>Опубликовано .. в :  Доступно до ..</i></font><br><br><br><br><b>  </b> 
+
+
+
+<!--########### the end ###########-->
+
+
+</div>
+	  <div class="tab-pane" id="tab-uk-buh"><!--########### content ###########-->
+
+ <br><b class="show"> &nbsp;1 квартал 2023 г.&nbsp;</b> <br><font size="-1"><a href="./GERFIN-UK/doc/23-1/uk_bo_31032023_18052026_2144_18052026.pdf" target="_blank">Бухгалтерская отчетность на 31.03.2023</a><br><font size="-1"><i>Опубликовано 18.05.2026 в 21:44  Доступно до 18.05.2026</i></font><br></font> <br><b class="show"> &nbsp;годовая 2022 г.&nbsp;</b> <br><font size="-1"><a href="./GERFIN-UK/doc/22-4/uk_ms_31122022_16052023_1539_16052026.pdf" target="_blank">Отчетность по МСФО на 31.12.2022</a><br><font size="-1"><i>Опубликовано 16.05.2023 в 15:39  Доступно до 16.05.2026</i></font><br><a href="./GERFIN-UK/doc/22-4/uk_bo_31122022_23042023_2118_23042026.pdf" target="_blank">Бухгалтерская отчетность на 31.12.2022</a><br><font size="-1"><i>Опубликовано 23.04.2023 в 21:18  Доступно до 23.04.2026</i></font><br><a href="./GERFIN-UK/doc/22-4/uk_au_31122022_11052023_1827_11052026.pdf" target="_blank">Аудиторское заключение на 31.12.2022</a><br><font size="-1"><i>Опубликовано 11.05.2023 в 18:27  Доступно до 11.05.2026</i></font><br></font> <br><b class="show"> &nbsp;9 месяцев 2022 г.&nbsp;</b> <br><font size="-1"><a href="./GERFIN-UK/doc/22-3/uk_bo_30092022_03112022_0915_03112025.pdf" target="_blank">Бухгалтерская отчетность на 30.09.2022</a><br><font size="-1"><i>Опубликовано 03.11.2022 в 09:15  Доступно до 03.11.2025</i></font><br></font> <br><b class="show"> &nbsp;1 полугодие 2022 г.&nbsp;</b> <br><font size="-1"><a href="./GERFIN-UK/doc/22-2/uk_bo_30062022_02082022_2222_02082025.pdf" target="_blank">Бухгалтерская отчетность на 30.06.2022</a><br><font size="-1"><i>Опубликовано 02.08.2022 в 22:22  Доступно до 02.08.2025</i></font><br></font> <br><b class="show"> &nbsp;1 квартал 2022 г.&nbsp;</b> <br><font size="-1"><a href="./GERFIN-UK/doc/22-1/uk_bo_31032022_02052022_2344_02052025.pdf" target="_blank">Бухгалтерская отчетность на 31.03.2022</a><br><font size="-1"><i>Опубликовано 02.05.2022 в 23:44  Доступно до 02.05.2025</i></font><br></font> <br><b class="show"> &nbsp;годовая 2021 г.&nbsp;</b> <br><font size="-1"><a href="./GERFIN-UK/doc/21-4/uk_ms_31122021_30052022_2345_30052025.pdf" target="_blank">Отчетность по МСФО на 31.12.2021</a><br><font size="-1"><i>Опубликовано 30.05.2022 в 23:45  Доступно до 30.05.2025</i></font><br><a href="./GERFIN-UK/doc/21-4/uk_bo_31122021_01042022_1055_01042025.pdf" target="_blank">Бухгалтерская отчетность на 31.12.2021</a><br><font size="-1"><i>Опубликовано 01.04.2022 в 10:55  Доступно до 01.04.2025</i></font><br></font> <br><b class="show"> &nbsp;9 месяцев 2021 г.&nbsp;</b> <br><font size="-1"><a href="./GERFIN-UK/doc/21-3/uk_bo_30092021_28102021_1235_28102024.pdf" target="_blank">Бухгалтерская отчетность на 30.09.2021</a><br><font size="-1"><i>Опубликовано 28.10.2021 в 12:35  Доступно до 28.10.2024</i></font><br></font> <br><b class="show"> &nbsp;1 полугодие 2021 г.&nbsp;</b> <br><font size="-1"><a href="./GERFIN-UK/doc/21-2/uk_bo_30062021_29072021_1410_29072022.pdf" target="_blank">Бухгалтерская отчетность на 30.06.2021</a><br><font size="-1"><i>Опубликовано 29.07.2021 в 14:10  Доступно до 29.07.2022</i></font><br></font> <br><b class="show"> &nbsp;1 квартал 2021 г.&nbsp;</b> <br><font size="-1"><a href="./GERFIN-UK/doc/21-1/uk_bo_31032021_27042021_2248_27042022.pdf" target="_blank">Бухгалтерская отчетность на 31.03.2021</a><br><font size="-1"><i>Опубликовано 27.04.2021 в 22:48  Доступно до 27.04.2022</i></font><br></font> <br><b class="show"> &nbsp;годовая 2020 г.&nbsp;</b> <br><font size="-1"><a href="./GERFIN-UK/doc/20-4/uk_ms_31122020_31052021_1540_31052022.pdf" target="_blank">Отчетность по МСФО на 31.12.2020</a><br><font size="-1"><i>Опубликовано 31.05.2021 в 15:40  Доступно до 31.05.2022</i></font><br><a href="./GERFIN-UK/doc/20-4/uk_bo_31122020_30032021_0955_30032022.pdf" target="_blank">Бухгалтерская отчетность на 31.12.2020</a><br><font size="-1"><i>Опубликовано 30.03.2021 в 09:55  Доступно до 30.03.2022</i></font><br><a href="./GERFIN-UK/doc/20-4/uk_au_31122020_30032021_1154_30032022.pdf" target="_blank">Аудиторское заключение на 31.12.2020</a><br><font size="-1"><i>Опубликовано 30.03.2021 в 11:54  Доступно до 30.03.2022</i></font><br></font> <br><b class="show"> &nbsp;9 месяцев 2020 г.&nbsp;</b> <br><font size="-1"><a href="./GERFIN-UK/doc/20-3/uk_bo_30092020_30102020_1729_30102021.pdf.pdf" target="_blank">Бухгалтерская отчетность на 30.09.2020</a><br><font size="-1"><i>Опубликовано 30.10.2020 в 17:29  Доступно до 30.10.2021</i></font><br></font> <br><b class="show"> &nbsp;1 полугодие 2020 г.&nbsp;</b> <br><font size="-1"><a href="./GERFIN-UK/doc/20-2/uk_bo_30062020_30072020_1620_30072021.pdf" target="_blank">Бухгалтерская отчетность на 30.06.2020</a><br><font size="-1"><i>Опубликовано 30.07.2020 в 16:20  Доступно до 30.07.2021</i></font><br></font> <br><b class="show"> &nbsp;1 квартал 2020 г.&nbsp;</b> <br><font size="-1"><a href="./GERFIN-UK/doc/20-1/uk_bo_31032020_29042020_0948_29042021.pdf" target="_blank">Бухгалтерская отчетность на 31.03.2020</a><br><font size="-1"><i>Опубликовано 29.04.2020 в 09:48  Доступно до 29.04.2021</i></font><br></font> <br><b class="show"> &nbsp;годовая 2019 г.&nbsp;</b> <br><font size="-1"><a href="./GERFIN-UK/doc/19-4/uk_ms_31122019_06072020_1642_06072021.pdf" target="_blank">Отчетность по МСФО на 31.12.2019</a><br><font size="-1"><i>Опубликовано 06.07.2020 в 16:42  Доступно до 06.07.2021</i></font><br><a href="./GERFIN-UK/doc/19-4/uk_bo_31122019_06042020_1142_06042021.pdf" target="_blank">Бухгалтерская отчетность на 31.12.2019</a><br><font size="-1"><i>Опубликовано 06.04.2020 в 11:42  Доступно до 06.04.2021</i></font><br><a href="./GERFIN-UK/doc/19-4/uk_au_31122019_06042020_1144_06042021.pdf" target="_blank">Аудиторское заключение на 31.12.2019</a><br><font size="-1"><i>Опубликовано 06.04.2020 в 11:44  Доступно до 06.04.2021</i></font><br></font> <br><b class="show"> &nbsp;9 месяцев 2019 г.&nbsp;</b> <br><font size="-1"><a href="./GERFIN-UK/doc/19-3/uk_bo_30092019_28102019_1123_28102020.pdf" target="_blank">Бухгалтерская отчетность на 30.09.2019</a><br><font size="-1"><i>Опубликовано 28.10.2019 в 11:23  Доступно до 28.10.2020</i></font><br></font> <br><b class="show"> &nbsp;1 полугодие 2019 г.&nbsp;</b> <br><font size="-1"><a href="./GERFIN-UK/doc/19-2/uk_bo_30062019_29072019_1201_29072020.pdf" target="_blank">Бухгалтерская отчетность на 30.06.2019</a><br><font size="-1"><i>Опубликовано 29.07.2019 в 12:01  Доступно до 29.07.2020</i></font><br></font> <br><b class="show"> &nbsp;1 квартал 2019 г.&nbsp;</b> <br><font size="-1"><a href="./GERFIN-UK/doc/19-1/uk_bo_31032019_24042019_0903_24042020.pdf" target="_blank">Бухгалтерская отчетность на 31.03.2019</a><br><font size="-1"><i>Опубликовано 24.04.2019 в 09:03  Доступно до 24.04.2020</i></font><br></font> <br><b class="show"> &nbsp;годовая 2018 г.&nbsp;</b> <br><font size="-1"><a href="./GERFIN-UK/doc/18-4/uk_bo_31122018_01042019_0940_01042020.pdf" target="_blank">Бухгалтерская отчетность на 31.12.2018</a><br><font size="-1"><i>Опубликовано 01.04.2019 в 09:40  Доступно до 01.04.2020</i></font><br><a href="./GERFIN-UK/doc/18-4/uk_au_31122018_01042019_0940_01042020.pdf" target="_blank">Аудиторское заключение на 31.12.2018</a><br><font size="-1"><i>Опубликовано 01.04.2019 в 09:40  Доступно до 01.04.2020</i></font><br></font> <br><b class="show"> &nbsp;9 месяцев 2018 г.&nbsp;</b> <br><font size="-1"><a href="./GERFIN-UK/doc/18-3/uk_bo_30092018_30102018_1131_30102019.pdf" target="_blank">Бухгалтерская отчетность на 30.09.2018</a><br><font size="-1"><i>Опубликовано 30.10.2018 в 11:31  Доступно до 30.10.2019</i></font><br></font> <br><b class="show"> &nbsp;1 полугодие 2018 г.&nbsp;</b> <br><font size="-1"><a href="./GERFIN-UK/doc/18-2/uk_bo_30062018_16082018_1103_16082019.pdf" target="_blank">Бухгалтерская отчетность на 30.06.2018</a><br><font size="-1"><i>Опубликовано 16.08.2018 в 11:03  Доступно до 16.08.2019</i></font><br></font> <br><b class="show"> &nbsp;1 квартал 2018 г.&nbsp;</b> <br><font size="-1"><a href="./GERFIN-UK/doc/18-1/uk_bo_31032018_15052018_1347_15052019.pdf" target="_blank">Бухгалтерская отчетность на 31.03.2018</a><br><font size="-1"><i>Опубликовано 15.05.2018 в 13:47  Доступно до 15.05.2019</i></font><br></font>
+
+
+
+<!--########### the end ###########-->
+
+
+</div>
+	</div>
+
+</div>
+</div>
+
+  <script type="text/javascript"><!--
+var allRadios = document.getElementsByName('inset');
+var booRadio;
+var x = 1;
+for(x = 0; x < allRadios.length; x++){
+  allRadios[x].onclick = function() {
+    if(booRadio == this){
+      this.checked = false;
+      booRadio = null;
+    } else {
+      booRadio = this;
+    }
+  };
+}
+                //--></script></div>
+<div>
+<div class="tabs_n">
+    <input type="radio" name="inset" value="" id="tab_otchetnost">
+    <label for="tab_otchetnost"><h3><b><font color="#337ab7">Отчетность ОПИФ рыночных финансовых инструментов "ГЕРФИН - фонд облигаций"</font></b></h3></label>
+
+<div id="txt_otchetnost">
+
+
+
+<ul class="nav nav-tabs"><li class="active">
+
+<a href="#tab-opifo-2023" data-toggle="tab" aria-expanded="false"><strong>2023</strong></a></li><li class="">
+<a href="#tab-opifo-2022" data-toggle="tab" aria-expanded="false"><strong>2022</strong></a></li><li class="">
+<a href="#tab-opifo-2021" data-toggle="tab" aria-expanded="false"><strong>2021</strong></a></li><li class="">
+<a href="#tab-opifo-2020" data-toggle="tab" aria-expanded="false"><strong>2020</strong></a></li><li class="">
+<a href="#tab-opifo-2019" data-toggle="tab" aria-expanded="false"><strong>2019</strong></a></li><li class="">
+<a href="#tab-opifo-2018" data-toggle="tab" aria-expanded="false"><strong>2018</strong></a></li><li class="">
+<a href="#tab-opifo-2017" data-toggle="tab" aria-expanded="false"><strong>2017</strong></a></li></ul>
+
+<div class="tab-content active">
+
+
+<div class="tab-pane active" id="tab-opifo-2023"><br>
+
+<b class="show">Май 2023 г.</b>  <span style="font-size:smaller"><i>Опубликовано 16.06.2023 в 07:49:00 Доступно до 16.06.2026</i><br>
+<a href="GERFIN-UK/opif/23-5/prir_052023.pdf" target="_blank">Отчёт о приросте стоимости имущества ОПИФ рыночных финансовых инструментов "ГЕРФИН – фонд облигаций" (PDF)<br></a>
+<a href="GERFIN-UK/opif/23-5/scha_31_05_2023.pdf" target="_blank">Справка о стоимости чистых активов ОПИФ рыночных финансовых инструментов "ГЕРФИН – фонд облигаций" (PDF)<br></a>
+</span> <br>
+
+<b class="show">Апрель 2023 г.</b>  <span style="font-size:smaller"><i>Опубликовано 22.05.2023 в 21:37:00 Доступно до 22.05.2026</i><br>
+<a href="GERFIN-UK/opif/23-4/prir_042023.pdf" target="_blank">Отчёт о приросте стоимости имущества ОПИФ рыночных финансовых инструментов "ГЕРФИН – фонд облигаций" (PDF)<br></a>
+<a href="GERFIN-UK/opif/23-4/scha_28_04_2023.pdf" target="_blank">Справка о стоимости чистых активов ОПИФ рыночных финансовых инструментов "ГЕРФИН – фонд облигаций" (PDF)<br></a>
+</span> <br>
+
+<b class="show">Март 2023 г.</b>  <span style="font-size:smaller"><i>Опубликовано 23.04.2023 в 21:24:00 Доступно до 23.04.2026</i><br>
+<a href="GERFIN-UK/opif/23-3/prir_032023.pdf" target="_blank">Отчёт о приросте стоимости имущества ОПИФ рыночных финансовых инструментов "ГЕРФИН – фонд облигаций" (PDF)<br></a>
+<a href="GERFIN-UK/opif/23-3/scha_31_03_2023.pdf" target="_blank">Справка о стоимости чистых активов ОПИФ рыночных финансовых инструментов "ГЕРФИН – фонд облигаций" (PDF)<br></a>
+</span> <br>
+
+<b class="show">Февраль 2023 г.</b>  <span style="font-size:smaller"><i>Опубликовано 16.03.2023 в 23:48:00 Доступно до 16.03.2026</i><br>
+<a href="GERFIN-UK/opif/23-2/prir_022023.pdf" target="_blank">Отчёт о приросте стоимости имущества ОПИФ рыночных финансовых инструментов "ГЕРФИН – фонд облигаций" (PDF)<br></a>
+<a href="GERFIN-UK/opif/23-2/scha_28_02_2023.pdf" target="_blank">Справка о стоимости чистых активов ОПИФ рыночных финансовых инструментов "ГЕРФИН – фонд облигаций" (PDF)<br></a>
+</span> <br>
+
+<b class="show">Январь 2023 г.</b>  <span style="font-size:smaller"><i>Опубликовано 17.02.2023 в 23:17:00 Доступно до 17.02.2026</i><br>
+<a href="GERFIN-UK/opif/23-1/prir_012023.pdf" target="_blank">Отчёт о приросте стоимости имущества ОПИФ рыночных финансовых инструментов "ГЕРФИН – фонд облигаций" (PDF)<br></a>
+<a href="GERFIN-UK/opif/23-1/scha_31_01_2023.pdf" target="_blank">Справка о стоимости чистых активов ОПИФ рыночных финансовых инструментов "ГЕРФИН – фонд облигаций" (PDF)<br></a>
+</span> <br>
+
+</div>
+<div class="tab-pane" id="tab-opifo-2022"><br>
+
+<b class="show">Отчетность за 2022 г.</b>  <span style="font-size:smaller"><i>Опубликовано 26.04.2023 в 19:00:00 Доступно до 26.04.2026</i><br>
+<a href="GERFIN-UK/opif/22-12/Voznagrazdenie2022.pdf" target="_blank">Отчёт о вознаграждении управляющей компании и расходах фонда" (PDF)<br></a>
+</span> <br>
+
+<b class="show">Декабрь 2022 г.</b>  <span style="font-size:smaller"><i>Опубликовано 23.01.2023 в 19:12:00 Доступно до 23.01.2026</i><br>
+<a href="GERFIN-UK/opif/22-12/prir_122022.pdf" target="_blank">Отчёт о приросте стоимости имущества ОПИФ рыночных финансовых инструментов "ГЕРФИН – фонд облигаций" (PDF)<br></a>
+<a href="GERFIN-UK/opif/22-12/scha_31_12_2022.pdf" target="_blank">Справка о стоимости чистых активов ОПИФ рыночных финансовых инструментов "ГЕРФИН – фонд облигаций" (PDF)<br></a>
+</span> <br>
+
+
+<b class="show">Ноябрь 2022 г.</b>  <span style="font-size:smaller"><i>Опубликовано 19.12.2022 в 16:36:00 Доступно до 19.12.2025</i><br>
+<a href="GERFIN-UK/opif/22-11/prir_112022.pdf" target="_blank">Отчёт о приросте стоимости имущества ОПИФ рыночных финансовых инструментов "ГЕРФИН – фонд облигаций" (PDF)<br></a>
+<a href="GERFIN-UK/opif/22-11/scha_30_11_2022.pdf" target="_blank">Справка о стоимости чистых активов ОПИФ рыночных финансовых инструментов "ГЕРФИН – фонд облигаций" (PDF)<br></a>
+</span> <br>
+
+<b class="show">Октябрь 2022 г.</b>  <span style="font-size:smaller"><i>Опубликовано 17.11.2022 в 23:26:00 Доступно до 17.02.2025</i><br>
+<a href="GERFIN-UK/opif/22-10/prir_102022.pdf" target="_blank">Отчёт о приросте стоимости имущества ОПИФ рыночных финансовых инструментов "ГЕРФИН – фонд облигаций" (PDF)<br></a>
+<a href="GERFIN-UK/opif/22-10/scha_31_10_2022.pdf" target="_blank">Справка о стоимости чистых активов ОПИФ рыночных финансовых инструментов "ГЕРФИН – фонд облигаций" (PDF)<br></a>
+</span> <br>
+
+<b class="show">Сентябрь 2022 г.</b>  <span style="font-size:smaller"><i>Опубликовано 19.10.2022 в 12:20:00 Доступно до 19.01.2025</i><br>
+<a href="GERFIN-UK/opif/22-9/prir_092022.pdf" target="_blank">Отчёт о приросте стоимости имущества ОПИФ рыночных финансовых инструментов "ГЕРФИН – фонд облигаций" (PDF)<br></a>
+<a href="GERFIN-UK/opif/22-9/scha_30_09_2022.pdf" target="_blank">Справка о стоимости чистых активов ОПИФ рыночных финансовых инструментов "ГЕРФИН – фонд облигаций" (PDF)<br></a>
+</span> <br>
+
+<b class="show">Август 2022 г.</b>  <span style="font-size:smaller"><i>Опубликовано 16.09.2022 в 15:48:00 Доступно до 16.12.2025</i><br>
+<a href="GERFIN-UK/opif/22-8/prir_082022.pdf" target="_blank">Отчёт о приросте стоимости имущества ОПИФ рыночных финансовых инструментов "ГЕРФИН – фонд облигаций" (PDF)<br></a>
+<a href="GERFIN-UK/opif/22-8/scha_31_08_2022.pdf" target="_blank">Справка о стоимости чистых активов ОПИФ рыночных финансовых инструментов "ГЕРФИН – фонд облигаций" (PDF)<br></a>
+</span> <br>
+
+<b class="show">Июль 2022 г.</b>  <span style="font-size:smaller"><i>Опубликовано 16.08.2022 в 22:24:00 Доступно до 16.11.2025</i><br>
+<a href="GERFIN-UK/opif/22-7/prir_072022.pdf" target="_blank">Отчёт о приросте стоимости имущества ОПИФ рыночных финансовых инструментов "ГЕРФИН – фонд облигаций" (PDF)<br></a>
+<a href="GERFIN-UK/opif/22-7/scha_29_07_2022.pdf" target="_blank">Справка о стоимости чистых активов ОПИФ рыночных финансовых инструментов "ГЕРФИН – фонд облигаций" (PDF)<br></a>
+</span> <br>
+
+
+<b class="show">Июнь 2022 г.</b>  <span style="font-size:smaller"><i>Опубликовано 15.07.2022 в 22:11:00 Доступно до 15.10.2025</i><br>
+<a href="GERFIN-UK/opif/22-6/prir_062022.pdf" target="_blank">Отчёт о приросте стоимости имущества ОПИФ рыночных финансовых инструментов "ГЕРФИН – фонд облигаций" (PDF)<br></a>
+<a href="GERFIN-UK/opif/22-6/scha_30_06_2022.pdf" target="_blank">Справка о стоимости чистых активов ОПИФ рыночных финансовых инструментов "ГЕРФИН – фонд облигаций" (PDF)<br></a>
+</span> <br>
+
+
+<b class="show">Май 2022 г.</b>  <span style="font-size:smaller"><i>Опубликовано 09.06.2022 в 23:35:00 Доступно до 09.09.2025</i><br>
+<a href="GERFIN-UK/opif/22-5/prir_052022.pdf" target="_blank">Отчёт о приросте стоимости имущества ОПИФ рыночных финансовых инструментов "ГЕРФИН – фонд облигаций" (PDF)<br></a>
+<a href="GERFIN-UK/opif/22-5/scha_31_05_2022.pdf" target="_blank">Справка о стоимости чистых активов ОПИФ рыночных финансовых инструментов "ГЕРФИН – фонд облигаций" (PDF)<br></a>
+</span> <br>
+
+<b class="show">Апрель 2022 г.</b>  <span style="font-size:smaller"><i>Опубликовано 19.05.2022 в 10:12:00 Доступно до 19.08.2025</i><br>
+<a href="GERFIN-UK/opif/22-4/prir_042022.pdf" target="_blank">Отчёт о приросте стоимости имущества ОПИФ рыночных финансовых инструментов "ГЕРФИН – фонд облигаций" (PDF)<br></a>
+<a href="GERFIN-UK/opif/22-4/scha_29_04_2022.pdf" target="_blank">Справка о стоимости чистых активов ОПИФ рыночных финансовых инструментов "ГЕРФИН – фонд облигаций" (PDF)<br></a>
+</span> <br>
+
+<b class="show">Март 2022 г.</b>  <span style="font-size:smaller"><i>Опубликовано 18.04.2022 в 23:58:00 Доступно до 18.04.2025</i><br>
+<a href="GERFIN-UK/opif/22-3/prir_032022.pdf" target="_blank">Отчёт о приросте стоимости имущества ОПИФ рыночных финансовых инструментов "ГЕРФИН – фонд облигаций" (PDF)<br></a>
+<a href="GERFIN-UK/opif/22-3/scha_31_03_2022.pdf" target="_blank">Справка о стоимости чистых активов ОПИФ рыночных финансовых инструментов "ГЕРФИН – фонд облигаций" (PDF)<br></a>
+</span> <br>
+
+<b class="show">Февраль 2022 г.</b>  <span style="font-size:smaller"><i>Опубликовано 18.03.2022 в 22:21:00 Доступно до 18.03.2025</i><br>
+<a href="GERFIN-UK/opif/22-2/prir_022022.pdf" target="_blank">Отчёт о приросте стоимости имущества ОПИФ рыночных финансовых инструментов "ГЕРФИН – фонд облигаций" (PDF)<br></a>
+<a href="GERFIN-UK/opif/22-2/scha_28_02_2022.pdf" target="_blank">Справка о стоимости чистых активов ОПИФ рыночных финансовых инструментов "ГЕРФИН – фонд облигаций" (PDF)<br></a>
+</span> <br>
+
+
+<b class="show">Январь 2022 г.</b>  <span style="font-size:smaller"><i>Опубликовано 14.02.2022 в 23:16:00 Доступно до 14.05.2025</i><br>
+<a href="GERFIN-UK/opif/22-1/opifo_prirost_1_22.pdf" target="_blank">Отчёт о приросте стоимости имущества ОПИФ рыночных финансовых инструментов "ГЕРФИН – фонд облигаций" (PDF)<br></a>
+<a href="GERFIN-UK/opif/22-1/opifo_scha_1_22.pdf" target="_blank">Справка о стоимости чистых активов ОПИФ рыночных финансовых инструментов "ГЕРФИН – фонд облигаций" (PDF)<br></a>
+</span> <br>
+
+</div>
+
+<div class="tab-pane" id="tab-opifo-2021">
+
+<b class="show">Отчетность за 2021 г.</b>  <span style="font-size:smaller"><i>Опубликовано 26.04.2023 в 18:59:00 Доступно до 26.04.2026</i><br>
+<a href="GERFIN-UK/opif/21-12/Voznagrazdenie2021.pdf" target="_blank">Отчёт о вознаграждении управляющей компании и расходах фонда" (PDF)<br></a>
+</span> <br>
+
+<b class="show">Декабрь 2021 г.&nbsp;</b>  <span style="font-size:smaller"><i>Опубликовано 26.01.2022 в 13:51:00 Доступно до 26.04.2025</i><br>
+<a href="GERFIN-UK/opif/21-12/opifo_prirost_12_21.pdf" target="_blank">Отчёт о приросте стоимости имущества ОПИФ рыночных финансовых инструментов "ГЕРФИН – фонд облигаций" (PDF)<br></a>
+<a href="GERFIN-UK/opif/21-12/opifo_scha_12_21.pdf" target="_blank">Справка о стоимости чистых активов ОПИФ рыночных финансовых инструментов "ГЕРФИН – фонд облигаций" (PDF)<br></a></span> <br>
+
+
+<b class="show">Ноябрь 2021 г.&nbsp;</b>  <span style="font-size:smaller"><i>Опубликовано 16.12.2021 в 22:51:00 Доступно до 17.12.2024</i><br>
+<a href="GERFIN-UK/opif/21-11/opifo_prirost_11_21.xls" target="_blank">Отчёт о приросте стоимости имущества ОПИФ рыночных финансовых инструментов "ГЕРФИН – фонд облигаций" (PDF)<br></a>
+<a href="GERFIN-UK/opif/21-11/opifo_scha_11_21.xlsx" target="_blank">Справка о стоимости чистых активов ОПИФ рыночных финансовых инструментов "ГЕРФИН – фонд облигаций" (PDF)<br></a></span> <br>
+
+
+<b class="show">Октябрь 2021 г.&nbsp;</b>  <span style="font-size:smaller"><i>Опубликовано 09.12.2021 в 22:58:00 Доступно до 10.12.2024</i><br>
+<a href="GERFIN-UK/opif/21-10/opifo_prirost_421.pdf" target="_blank">Отчёт о приросте стоимости имущества ОПИФ рыночных финансовых инструментов "ГЕРФИН – фонд облигаций" (PDF)<br></a>
+<a href="GERFIN-UK/opif/21-10/opifo_scha_421.pdf" target="_blank">Справка о стоимости чистых активов ОПИФ рыночных финансовых инструментов "ГЕРФИН – фонд облигаций" (PDF)<br></a></span> <br>
+
+
+<b class="show"> &nbsp; 3 квартал 2021 г.&nbsp;</b>  <span style="font-size:smaller"><i>Опубликовано 18.10.2021 в 22:04:00 Доступно до 18.01.2024</i><br><a href="GERFIN-UK/opif/21-3/opifo_prirost_321.pdf" target="_blank">Отчёт о приросте стоимости имущества ОПИФ рыночных финансовых инструментов "ГЕРФИН – фонд облигаций" (PDF)<br>
+</a><a href="GERFIN-UK/opif/21-3/opifo_scha_321.pdf" target="_blank">Справка о стоимости чистых активов ОПИФ рыночных финансовых инструментов "ГЕРФИН – фонд облигаций" (PDF)<br></a></span> <br><b class="show"> &nbsp; 2 квартал 2021 г.&nbsp;</b>  <span style="font-size:smaller"><i>Опубликовано 14.07.2021 в 23:37:00 Доступно до 14.10.2024</i><br><a href="GERFIN-UK/opif/21-2/opifo_prirost_221.pdf" target="_blank">Отчёт о приросте стоимости имущества ОПИФ рыночных финансовых инструментов "ГЕРФИН – фонд облигаций" (PDF)<br></a><a href="GERFIN-UK/opif/21-2/opifo_scha_221.pdf" target="_blank">Справка о стоимости чистых активов ОПИФ рыночных финансовых инструментов "ГЕРФИН – фонд облигаций" (PDF)<br></a></span> <br><b class="show"> &nbsp; 1 квартал 2021 г.&nbsp;</b>  <span style="font-size:smaller"><i>Опубликовано 16.04.2021 в 12:30:00 Доступно до 16.07.2024</i><br><a href="GERFIN-UK/opif/21-1/opifo_prirost_121.pdf" target="_blank">Отчёт о приросте стоимости имущества ОПИФ рыночных финансовых инструментов "ГЕРФИН – фонд облигаций" (PDF)<br></a><a href="GERFIN-UK/opif/21-1/opifo_scha_121.pdf" target="_blank">Справка о стоимости чистых активов ОПИФ рыночных финансовых инструментов "ГЕРФИН – фонд облигаций" (PDF)<br>
+</a></span></div>
+
+
+
+
+<div class="tab-pane" id="tab-opifo-2020" <br=""><b class="show"> &nbsp; 4 квартал 2020 г.&nbsp;</b>  <span style="font-size:smaller"><i>Опубликовано 26.01.2021 в 22:19:00 Доступно до 26.04.2024</i><br><a href="GERFIN-UK/opif/20-4/opifo_scha_420.pdf" target="_blank">Справка о стоимости чистых активов ОПИФ рыночных финансовых инструментов "ГЕРФИН – фонд облигаций" (PDF)<br></a><a href="GERFIN-UK/opif/20-4/opifo_prirost_420.pdf" target="_blank">Отчёт о приросте стоимости имущества ОПИФ рыночных финансовых инструментов "ГЕРФИН – фонд облигаций" (PDF)<br></a></span> <br><b class="show"> &nbsp; 3 квартал 2020 г.&nbsp;</b>  <span style="font-size:smaller"><i>Опубликовано 14.10.2020 в 10:00:00 Доступно до 14.01.2024</i><br><a href="GERFIN-UK/opif/20-3/opifo_scha_320.pdf" target="_blank">Справка о стоимости чистых активов ОПИФ рыночных финансовых инструментов "ГЕРФИН – фонд облигаций" (PDF)<br></a><a href="GERFIN-UK/opif/20-3/opifo_prirost_320.pdf" target="_blank">Отчёт о приросте стоимости имущества ОПИФ рыночных финансовых инструментов "ГЕРФИН – фонд облигаций" (PDF)<br></a></span> <br><b class="show"> &nbsp; 2 квартал 2020 г.&nbsp;</b>  <span style="font-size:smaller"><i>Опубликовано 14.07.2020 в 16:45:00 Доступно до 14.10.2023</i><br><a href="GERFIN-UK/opif/20-2/opifo_prirost_220.pdf" target="_blank">Отчёт о приросте стоимости имущества ОПИФ рыночных финансовых инструментов "ГЕРФИН – фонд облигаций" (PDF)<br>
+</a><a href="GERFIN-UK/opif/20-2/opifo_scha_220.pdf" target="_blank">Справка о стоимости чистых активов ОПИФ рыночных финансовых инструментов "ГЕРФИН – фонд облигаций" (PDF)<br></a></span> <br><b class="show"> &nbsp; 1 квартал 2020 г.&nbsp;</b>  <span style="font-size:smaller"><i>Опубликовано 15.04.2020 в 14:00:00 Доступно до 15.07.2023</i><br><a href="GERFIN-UK/opif/20-1/opifo_scha_120.pdf" target="_blank">Справка о стоимости чистых активов ОПИФ рыночных финансовых инструментов "ГЕРФИН – фонд облигаций" (PDF)<br></a><a href="GERFIN-UK/opif/20-1/opifo_prirost_120.pdf" target="_blank">Отчёт о приросте стоимости имущества ОПИФ рыночных финансовых инструментов "ГЕРФИН – фонд облигаций" (PDF)<br></a></span></div>
+
+
+<div class="tab-pane" id="tab-opifo-2019" <br=""><b class="show"> &nbsp; 2019 год&nbsp;</b>  <span style="font-size:smaller"><i>Опубликовано 27.02.2020 в 13:39:15 Доступно до 27.02.2023</i><br><a href="GERFIN-UK/opif/19-5/opifo_audit_419.pdf" target="_blank">Аудиторское заключение по ОПИФ рыночных финансовых инструментов "ГЕРФИН – фонд облигаций" (PDF)<br></a><a href="GERFIN-UK/opif/19-5/opifo_voznagr_419.pdf" target="_blank">Отчёт о вознаграждении УК и расходах, связанных с доверительным управлением имуществом, составляющим активы ОПИФ рыночных финансовых инструментов "ГЕРФИН – фонд облигаций" (PDF)<br></a></span> <br><b class="show"> &nbsp; 4 квартал 2019 г.&nbsp;</b>  <span style="font-size:smaller"><i>Опубликовано 24.01.2020 в 13:42:00 Доступно до 24.04.2023</i><br><a href="GERFIN-UK/opif/19-4/opifo_prirost_419.pdf" target="_blank">Отчёт о приросте стоимости имущества ОПИФ рыночных финансовых инструментов "ГЕРФИН – фонд облигаций" (PDF)<br></a><a href="GERFIN-UK/opif/19-4/opifo_scha_419.pdf" target="_blank">Справка о стоимости чистых активов ОПИФ рыночных финансовых инструментов "ГЕРФИН – фонд облигаций" (PDF)<br>
+</a></span> <br><b class="show"> &nbsp; 3 квартал 2019 г.&nbsp;</b>  <span style="font-size:smaller"><i>Опубликовано 11.10.2019 в 19:47:00 Доступно до 11.01.2020</i><br><a href="GERFIN-UK/opif/19-3/opifo_prirost_319.pdf" target="_blank">Отчёт о приросте стоимости имущества ОПИФ рыночных финансовых инструментов "ГЕРФИН – фонд облигаций" (PDF)<br></a><a href="GERFIN-UK/opif/19-3/opifo_scha_319.pdf" target="_blank">Справка о стоимости чистых активов ОПИФ рыночных финансовых инструментов "ГЕРФИН – фонд облигаций" (PDF)<br></a></span> <br><b class="show"> &nbsp; 2 квартал 2019 г.&nbsp;</b>  <span style="font-size:smaller"><i>Опубликовано 26.07.2019 в 13:07:00 Доступно до 26.10.2019</i><br><a href="GERFIN-UK/opif/19-2/opifo_scha_219.pdf" target="_blank">Справка о стоимости чистых активов ОПИФ рыночных финансовых инструментов "ГЕРФИН – фонд облигаций" (PDF)<br></a><a href="GERFIN-UK/opif/19-2/opifo_prirost_219.pdf" target="_blank">Отчёт о приросте стоимости имущества ОПИФ рыночных финансовых инструментов "ГЕРФИН – фонд облигаций" (PDF)<br></a></span> <br><b class="show"> &nbsp; 1 квартал 2019 г.&nbsp;</b>  <span style="font-size:smaller"><i>Опубликовано 11.04.2019 в 11:00:00 Доступно до 11.07.2019</i><br><a href="GERFIN-UK/opif/19-1/opifo_prirost_119.pdf" target="_blank">Отчёт о приросте стоимости имущества ОПИФ рыночных финансовых инструментов "ГЕРФИН – фонд облигаций" (PDF)<br>
+</a><a href="GERFIN-UK/opif/19-1/opifo_scha_119.pdf" target="_blank">Справка о стоимости чистых активов ОПИФ рыночных финансовых инструментов "ГЕРФИН – фонд облигаций" (PDF)<br></a></span></div><div class="tab-pane" id="tab-opifo-2018" <br=""><b class="show"> &nbsp; 2018 год&nbsp;</b>  <span style="font-size:smaller"><i>Опубликовано 15.02.2019 в 11:03:15 Доступно до 15.02.2020</i><br><a href="GERFIN-UK/opif/18-5/opifo_voznagr_418.pdf" target="_blank">Отчёт о вознаграждении УК и расходах, связанных с доверительным управлением имуществом, составляющим активы ОПИФ рыночных финансовых инструментов "ГЕРФИН – фонд облигаций" (PDF)<br></a><a href="GERFIN-UK/opif/18-5/opifo_audit_418.pdf" target="_blank">Аудиторское заключение по ОПИФ рыночных финансовых инструментов "ГЕРФИН – фонд облигаций" (PDF)<br></a></span> <br><b class="show"> &nbsp; 4 квартал 2018 г.&nbsp;</b>  <span style="font-size:smaller"><i>Опубликовано 17.01.2019 в 12:00:00 Доступно до 17.04.2019</i><br><a href="GERFIN-UK/opif/18-4/opifo_prirost_418.pdf" target="_blank">Отчёт о приросте стоимости имущества ОПИФ рыночных финансовых инструментов "ГЕРФИН – фонд облигаций" (PDF)<br>
+</a><a href="GERFIN-UK/opif/18-4/opifo_scha_418.pdf" target="_blank">Справка о стоимости чистых активов ОПИФ рыночных финансовых инструментов "ГЕРФИН – фонд облигаций" (PDF)<br></a></span> <br><b class="show"> &nbsp; 3 квартал 2018 г.&nbsp;</b>  <span style="font-size:smaller"><i>Опубликовано 11.10.2018 в 12:29:00 Доступно до 11.01.2019</i><br><a href="GERFIN-UK/opif/18-3/opifo_prirost_318.pdf" target="_blank">Отчёт о приросте стоимости имущества ОПИФ рыночных финансовых инструментов "ГЕРФИН – фонд облигаций" (PDF)<br></a><a href="GERFIN-UK/opif/18-3/opifo_scha_318.pdf" target="_blank">Справка о стоимости чистых активов ОПИФ рыночных финансовых инструментов "ГЕРФИН – фонд облигаций" (PDF)<br></a></span> <br>
+<b class="show"> &nbsp; 2 квартал 2018 г.&nbsp;</b>  <span style="font-size:smaller"><i>Опубликовано 13.04.2018 в 11:34:00 Доступно до 13.07.2018</i><br><a href="GERFIN-UK/opif/18-2/opifo_prirost_218.html" target="_blank">Отчёт о приросте стоимости имущества ОПИФ рыночных финансовых инструментов "ГЕРФИН – фонд облигаций"<br></a><a href="GERFIN-UK/opif/18-2/opifo_scha_218.html" target="_blank">Справка о стоимости чистых активов ОПИФ рыночных финансовых инструментов "ГЕРФИН – фонд облигаций"<br></a></span> <br>
+<b class="show"> &nbsp; 1 квартал 2018 г.&nbsp;</b>  <span style="font-size:smaller"><i>Опубликовано 13.04.2018 в 11:34:00 Доступно до 13.07.2018</i><br><a href="GERFIN-UK/opif/18-1/opifo_prirost_118.htm" target="_blank">Отчёт о приросте стоимости имущества ОПИФ рыночных финансовых инструментов "ГЕРФИН – фонд облигаций"<br></a><a href="GERFIN-UK/opif/18-1/opifo_scha_417.htm" target="_blank">Справка о стоимости чистых активов ОПИФ рыночных финансовых инструментов "ГЕРФИН – фонд облигаций"<br></a></span></div><div class="tab-pane" id="tab-opifo-2017" <br="">
+<b class="show"> &nbsp; 2017 год&nbsp;</b>  <span style="font-size:smaller"><i>Опубликовано 12.03.2018 в 18:05:15 Доступно до 12.03.2019</i><br><a href="GERFIN-UK/opif/17-5/opifo_voznagr_417.xls" target="_blank">Отчёт о вознаграждении УК и расходах, связанных с доверительным управлением имуществом, составляющим активы ОПИФ рыночных финансовых инструментов "ГЕРФИН – фонд облигаций" (XLS)<br></a><a href="GERFIN-UK/opif/17-5/opifo_audit_417.pdf" target="_blank">Аудиторское заключение по ОПИФ рыночных финансовых инструментов "ГЕРФИН – фонд облигаций" (PDF)<br></a></span> <br>
+<b class="show"> &nbsp; 4 квартал 2017 г.&nbsp;</b>  <span style="font-size:smaller"><i>Опубликовано 19.01.2018 в 11:18:00 Доступно до 19.04.2018</i><br><a href="GERFIN-UK/opif/17-4/opifo_scha_417.htm" target="_blank">Справка о стоимости чистых активов ОПИФ рыночных финансовых инструментов "ГЕРФИН – фонд облигаций"<br></a><a href="GERFIN-UK/opif/17-4/opifo_prirost_417.htm" target="_blank">Отчёт о приросте стоимости имущества ОПИФ рыночных финансовых инструментов "ГЕРФИН – фонд облигаций"<br></a></span> <br><b class="show"> &nbsp; 3 квартал 2017 г.&nbsp;</b>  <span style="font-size:smaller"><i>Опубликовано 12.10.2017 в 11:40:00 Доступно до 12.01.2018</i><br><a href="GERFIN-UK/opif/17-3/opifo_prirost_317.htm" target="_blank">Отчёт о приросте стоимости имущества ОПИФ облигаций "ГЕРФИН – фонд облигаций"<br></a><a href="GERFIN-UK/opif/17-3/opifo_scha_317.htm" target="_blank">Справка о стоимости чистых активов ОПИФ облигаций "ГЕРФИН – фонд облигаций"<br></a></span> <br>
+<b class="show"> &nbsp; 2 квартал 2017 г.&nbsp;</b>  <span style="font-size:smaller"><i>Опубликовано 14.07.2017 в 15:00:00 Доступно до 14.10.2017</i><br><a href="GERFIN-UK/opif/17-2/opifo_prirost_217.htm" target="_blank">Отчёт о приросте стоимости имущества ОПИФ облигаций "ГЕРФИН – фонд облигаций"<br></a><a href="GERFIN-UK/opif/17-2/opifo_scha_217.htm" target="_blank">Справка о стоимости чистых активов ОПИФ облигаций "ГЕРФИН – фонд облигаций"<br></a></span> <br><b class="show"> &nbsp; 1 квартал 2017 г.&nbsp;</b>  <span style="font-size:smaller"><i>Опубликовано 12.04.2017 в 14:46:00 Доступно до 12.07.2017</i><br><a href="GERFIN-UK/opif/17-1/opifo_scha_117.htm" target="_blank">Справка о стоимости чистых активов ОПИФ облигаций "ГЕРФИН – фонд облигаций"<br></a><a href="GERFIN-UK/opif/17-1/opifo_prirost_117.htm" target="_blank">Отчёт о приросте стоимости имущества ОПИФ облигаций "ГЕРФИН – фонд облигаций"<br></a></span></div><div class="tab-pane" id="tab-opifo-2015" <br=""><b class="show"> &nbsp; 2015 год&nbsp;</b>  <span style="font-size:smaller"><i>Опубликовано 01.04.2016 в 11:00:04 Доступно до 01.04.2017</i><br><a href="GERFIN-UK/opif/15-5/opifo_audit_415.pdf" target="_blank">Аудиторское заключение по ОПИФ облигаций "ГЕРФИН – фонд облигаций" (PDF)<br></a><a href="GERFIN-UK/opif/15-5/opifo_voznagr_415.xls" target="_blank">Отчёт о вознаграждении УК и расходах, связанных с доверительным управлением имуществом, составляющим активы ОПИФ облигаций "ГЕРФИН – фонд облигаций" (XLS)<br></a></span> <br><b class="show"> &nbsp; 4 квартал 2015 г.&nbsp;</b>  <span style="font-size:smaller"><i>Опубликовано 08.02.2016 в 11:00:04 Доступно до 08.05.2016</i><br><a href="GERFIN-UK/opif/15-4/opifo_nesobl_415.htm" target="_blank">Справка о несоблюдении требований к составу и структуре активов ОПИФ облигаций "ГЕРФИН – фонд облигаций"<br></a><a href="GERFIN-UK/opif/15-4/opifo_imu_415.htm" target="_blank">Баланс имущества, составляющего ОПИФ облигаций "ГЕРФИН – фонд облигаций"<br></a><a href="GERFIN-UK/opif/15-4/opifo_ismscha_415.htm" target="_blank">Отчёт об изменении стоимости чистых активов ОПИФ облигаций "ГЕРФИН – фонд облигаций"<br></a><a href="GERFIN-UK/opif/15-4/opifo_poyasnit_415.htm" target="_blank">Пояснительная записка к справке о стоимости чистых активов ОПИФ облигаций "ГЕРФИН – фонд облигаций"<br></a><a href="GERFIN-UK/opif/15-4/opifo_prirost_415.htm" target="_blank">Отчёт о приросте стоимости имущества ОПИФ облигаций "ГЕРФИН – фонд облигаций"<br></a><a href="GERFIN-UK/opif/15-4/opifo_scha_415.htm" target="_blank">Справка о стоимости чистых активов ОПИФ облигаций "ГЕРФИН – фонд облигаций"<br></a><a href="GERFIN-UK/opif/15-4/opifo_sa_415.htm" target="_blank">Справка о стоимости активов ОПИФ облигаций "ГЕРФИН – фонд облигаций"<br></a></span> <br><b class="show"> &nbsp; 3 квартал 2015 г.&nbsp;</b>  <span style="font-size:smaller"><i>Опубликовано 12.11.2015 в 17:10:21 Доступно до 12.02.2016</i><br><a href="GERFIN-UK/opif/15-3/opifo_scha_315.htm" target="_blank">Справка о стоимости чистых активов ОПИФ облигаций "ГЕРФИН – фонд облигаций"<br></a><a href="GERFIN-UK/opif/15-3/opifo_poyasnit_315.htm" target="_blank">Пояснительная записка к справке о стоимости чистых активов ОПИФ облигаций "ГЕРФИН – фонд облигаций"<br></a><a href="GERFIN-UK/opif/15-3/opifo_imu_315.htm" target="_blank">Баланс имущества, составляющего ОПИФ облигаций "ГЕРФИН – фонд облигаций"<br></a><a href="GERFIN-UK/opif/15-3/opifo_sa_315.htm" target="_blank">Справка о стоимости активов ОПИФ облигаций "ГЕРФИН – фонд облигаций"<br></a><a href="GERFIN-UK/opif/15-3/opifo_prirost_315.htm" target="_blank">Отчёт о приросте стоимости имущества ОПИФ облигаций "ГЕРФИН – фонд облигаций"<br></a><a href="GERFIN-UK/opif/15-3/opifo_nesobl_315.htm" target="_blank">Справка о несоблюдении требований к составу и структуре активов ОПИФ облигаций "ГЕРФИН – фонд облигаций"<br></a><a href="GERFIN-UK/opif/15-3/opifo_ismscha_315.htm" target="_blank">Отчёт об изменении стоимости чистых активов ОПИФ облигаций "ГЕРФИН – фонд облигаций"<br></a></span> <br><b class="show"> &nbsp; 2 квартал 2015 г.&nbsp;</b>  <span style="font-size:smaller"><i>Опубликовано 05.08.2015 в 16:45:17 Доступно до 05.11.2015</i><br><a href="GERFIN-UK/opif/15-2/opifo_imu_215.htm" target="_blank">Баланс имущества, составляющего ОПИФ облигаций "ГЕРФИН – фонд облигаций"<br></a><a href="GERFIN-UK/opif/15-2/opifo_poyasnit_215.htm" target="_blank">Пояснительная записка к справке о стоимости чистых активов ОПИФ облигаций "ГЕРФИН – фонд облигаций"<br></a><a href="GERFIN-UK/opif/15-2/opifo_ismscha_215.htm" target="_blank">Отчёт об изменении стоимости чистых активов ОПИФ облигаций "ГЕРФИН – фонд облигаций"<br></a><a href="GERFIN-UK/opif/15-2/opifo_scha_215.htm" target="_blank">Справка о стоимости чистых активов ОПИФ облигаций "ГЕРФИН – фонд облигаций"<br></a><a href="GERFIN-UK/opif/15-2/opifo_prirost_215.htm" target="_blank">Отчёт о приросте стоимости имущества ОПИФ облигаций "ГЕРФИН – фонд облигаций"<br></a><a href="GERFIN-UK/opif/15-2/opifo_nesobl_215.htm" target="_blank">Справка о несоблюдении требований к составу и структуре активов ОПИФ облигаций "ГЕРФИН – фонд облигаций"<br></a><a href="GERFIN-UK/opif/15-2/opifo_sa_215.htm" target="_blank">Справка о стоимости активов ОПИФ облигаций "ГЕРФИН – фонд облигаций"<br></a></span> <br><b class="show"> &nbsp; 1 квартал 2015 г.&nbsp;</b>  <span style="font-size:smaller"><i>Опубликовано 15.05.2015 в 15:54:16 Доступно до 15.08.2015</i><br><a href="GERFIN-UK/opif/15-1/opifo_scha_115.htm" target="_blank">Справка о стоимости чистых активов ОПИФ облигаций "ГЕРФИН – фонд облигаций"<br></a><a href="GERFIN-UK/opif/15-1/opifo_prirost_115.htm" target="_blank">Отчёт о приросте стоимости имущества ОПИФ облигаций "ГЕРФИН – фонд облигаций"<br></a><a href="GERFIN-UK/opif/15-1/opifo_imu_115.htm" target="_blank">Баланс имущества, составляющего ОПИФ облигаций "ГЕРФИН – фонд облигаций"<br></a><a href="GERFIN-UK/opif/15-1/opifo_poyasnit_115.htm" target="_blank">Пояснительная записка к справке о стоимости чистых активов ОПИФ облигаций "ГЕРФИН – фонд облигаций"<br></a><a href="GERFIN-UK/opif/15-1/opifo_ismscha_115.htm" target="_blank">Отчёт об изменении стоимости чистых активов ОПИФ облигаций "ГЕРФИН – фонд облигаций"<br></a><a href="GERFIN-UK/opif/15-1/opifo_sa_115.htm" target="_blank">Справка о стоимости активов ОПИФ облигаций "ГЕРФИН – фонд облигаций"<br></a><a href="GERFIN-UK/opif/15-1/opifo_nesobl_115.htm" target="_blank">Справка о несоблюдении требований к составу и структуре активов ОПИФ облигаций "ГЕРФИН – фонд облигаций"<br></a></span></div><div class="tab-pane" id="tab-opifo-2014" <br=""><b class="show"> &nbsp; 2014 год&nbsp;</b>  <span style="font-size:smaller"><i>Опубликовано 12.02.2015 в 16:05:06 Доступно до 12.02.2016</i><br><a href="GERFIN-UK/opif/14-5/opifo_audit_414.pdf" target="_blank">Аудиторское заключение по ОПИФ облигаций "ГЕРФИН – фонд облигаций" (PDF)<br></a><a href="GERFIN-UK/opif/14-5/opifo_voznagr_414.xls" target="_blank">Отчёт о вознаграждении УК и расходах, связанных с доверительным управлением имуществом, составляющим активы ОПИФ облигаций "ГЕРФИН – фонд облигаций" (XLS)<br></a></span> <br><b class="show"> &nbsp; 4 квартал 2014 г.&nbsp;</b>  <span style="font-size:smaller"><i>Опубликовано 12.02.2015 в 16:05:06 Доступно до 12.05.2015</i><br><a href="GERFIN-UK/opif/14-4/opifo_imu_414.htm" target="_blank">Баланс имущества, составляющего ОПИФ облигаций "ГЕРФИН – фонд облигаций"<br></a><a href="GERFIN-UK/opif/14-4/opifo_nesobl_414.htm" target="_blank">Справка о несоблюдении требований к составу и структуре активов ОПИФ облигаций "ГЕРФИН – фонд облигаций"<br></a><a href="GERFIN-UK/opif/14-4/opifo_scha_414.htm" target="_blank">Справка о стоимости чистых активов ОПИФ облигаций "ГЕРФИН – фонд облигаций"<br></a><a href="GERFIN-UK/opif/14-4/opifo_poyasnit_414.htm" target="_blank">Пояснительная записка к справке о стоимости чистых активов ОПИФ облигаций "ГЕРФИН – фонд облигаций"<br></a><a href="GERFIN-UK/opif/14-4/opifo_prirost_414.htm" target="_blank">Отчёт о приросте стоимости имущества ОПИФ облигаций "ГЕРФИН – фонд облигаций"<br></a><a href="GERFIN-UK/opif/14-4/opifo_ismscha_414.htm" target="_blank">Отчёт об изменении стоимости чистых активов ОПИФ облигаций "ГЕРФИН – фонд облигаций"<br></a><a href="GERFIN-UK/opif/14-4/opifo_sa_414.htm" target="_blank">Справка о стоимости активов ОПИФ облигаций "ГЕРФИН – фонд облигаций"<br></a></span></div>
+
+
+</div>
+
+</div>
+</div></div>
+<div>
+<div class="tabs_n">
+  <input type="radio" name="inset" value="" id="tab_docs">
+  <label for="tab_docs">
+    <h3><b><font color="#337ab7">Документы ОПИФ рыночных финансовых инструментов "ГЕРФИН - фонд облигаций"</font></b></h3></label>
+
+  <div id="txt_docs">
+    <h3><b><a href="/GERFIN-UK/opif/opif_rekvizit.pdf" target="_blank">Реквизиты для перевода денежных средств в оплату паев ОПИФ облигаций "ГЕРФИН - фонд облигаций"</a><a href="/GERFIN-UK/opif/opif_rekvizit.pdf" target="_blank"></a></b></h3>
+    <p>(Опубликовано 24.04.2020 17:08)</p>
+    <br>
+
+    <h3><b>Ключевой информационный документ о фонде</b></h3>
+	
+	
+	<li style="font-size: medium;"><a href="https://gerfin.ru/GERFIN-UK/opif/KluchIDOC22.pdf" target="_blank">09.06.2023 12:00 Ключевой информационный документ о фонде на 31.05.2023</a><br></li><i style="font-size: small;">Доступно 3 года с даты раскрытия</i><br><li style="font-size: medium;"><a href="https://gerfin.ru/GERFIN-UK/opif/KluchIDOC21.pdf" target="_blank">12.05.2023 17:40 Ключевой информационный документ о фонде на 28.04.2023</a>
+		<br>
+	</li><i style="font-size: small;">Доступно 3 года с даты раскрытия</i>
+		<br>
+	<li style="font-size: medium;"><a href="https://gerfin.ru/GERFIN-UK/opif/KluchIDOC20.pdf" target="_blank">11.04.2023 21:14 Ключевой информационный документ о фонде на 31.03.2023</a><br>
+	</li><i style="font-size: small;">Доступно 3 года с даты раскрытия</i>
+		<br>
+	<li style="font-size: medium;"><a href="https://gerfin.ru/GERFIN-UK/opif/KluchIDOC19.pdf" target="_blank">10.03.2023 20:46 Ключевой информационный документ о фонде на 28.02.2023</a>
+      <br>
+    </li><i style="font-size: small;">Доступно 3 года с даты раскрытия</i>
+    <br>
+    <li style="font-size: medium;"><a href="https://gerfin.ru/GERFIN-UK/opif/KluchIDOC18.pdf" target="_blank">09.02.2023 23:37 Ключевой информационный документ о фонде на 31.01.2023</a>
+      <br>
+    </li><i style="font-size: small;">Доступно 3 года с даты раскрытия</i>
+    <br>
+    <li style="font-size: medium;"><a href="https://gerfin.ru/GERFIN-UK/opif/KluchIDOC17.pdf" target="_blank">17.01.2023 16:28 Ключевой информационный документ о фонде на 30.12.2022</a>
+      <br>
+    </li><i style="font-size: small;">Доступно 3 года с даты раскрытия</i>
+    <li style="font-size: medium;"><a href="https://gerfin.ru/GERFIN-UK/opif/KluchIDOC16.pdf" target="_blank">09.12.2022 21:02 Ключевой информационный документ о фонде на 30.11.2022</a>
+      <br>
+    </li><i style="font-size: small;">Доступно 3 года с даты раскрытия</i>
+    <br>
+    <li style="font-size: medium;"><a href="https://gerfin.ru/GERFIN-UK/opif/KluchIDOC15.pdf" target="_blank">10.11.2022 20:24 Ключевой информационный документ о фонде на 31.10.2022</a>
+      <br>
+    </li><i style="font-size: small;">Доступно 3 года с даты раскрытия</i>
+    <br>
+    <li style="font-size: medium;"><a href="https://gerfin.ru/GERFIN-UK/opif/KluchIDOC15_2.pdf" target="_blank">24.10.2022 18:36 Ключевой информационный документ о фонде на 24.10.2022</a>
+      <br>
+    </li><i style="font-size: small;">Доступно 3 года с даты раскрытия</i>
+    <br>
+    <li style="font-size: medium;"><a href="https://gerfin.ru/GERFIN-UK/opif/KluchIDOC14.pdf" target="_blank">11.10.2022 22:10 Ключевой информационный документ о фонде на 30.09.2022</a>
+      <br>
+    </li><i style="font-size: small;">Доступно 3 года с даты раскрытия</i>
+    <br>
+    <li style="font-size: medium;"><a href="https://gerfin.ru/GERFIN-UK/opif/KluchIDOC14_2.pdf" target="_blank">16.09.2022 12:13 Ключевой информационный документ о фонде на 16.09.2022</a>
+      <br>
+    </li><i style="font-size: small;">Доступно 3 года с даты раскрытия</i>
+    <br>
+    <li style="font-size: medium;"><a href="https://gerfin.ru/GERFIN-UK/opif/KluchIDOC13.pdf" target="_blank">09.09.2022 17:03 Ключевой информационный документ о фонде на 31.08.2022</a>
+      <br>
+    </li><i style="font-size: small;">Доступно 3 года с даты раскрытия</i>
+    <br>
+    <li style="font-size: medium;"><a href="https://gerfin.ru/GERFIN-UK/opif/KluchIDOC12.pdf" target="_blank">09.08.2022 21:29 Ключевой информационный документ о фонде на 29.07.2022</a>
+      <br>
+    </li><i style="font-size: small;">Доступно 3 года с даты раскрытия</i>
+    <br>
+    <li style="font-size: medium;"><a href="https://gerfin.ru/GERFIN-UK/opif/KluchIDOC11.pdf" target="_blank">11.07.2022 21:08 Ключевой информационный документ о фонде на 30.06.2022</a>
+      <br>
+    </li><i style="font-size: small;">Доступно 3 года с даты раскрытия</i>
+    <br>
+    <li style="font-size: medium;"><a href="https://gerfin.ru/GERFIN-UK/opif/KluchIDOC10.pdf" target="_blank">08.06.2022 23:18 Ключевой информационный документ о фонде на 31.05.2022</a>
+      <br>
+    </li><i style="font-size: small;">Доступно 3 года с даты раскрытия</i>
+    <br>
+    <li style="font-size: medium;"><a href="https://gerfin.ru/GERFIN-UK/opif/KluchIDOC9.pdf" target="_blank">13.05.2022 21:45 Ключевой информационный документ о фонде на 29.04.2022</a>
+      <br>
+    </li><i style="font-size: small;">Доступно 3 года с даты раскрытия</i>
+    <br>
+    <li style="font-size: medium;"><a href="https://gerfin.ru/GERFIN-UK/opif/KluchIDOC8.pdf" target="_blank">06.04.2022 22:36 Ключевой информационный документ о фонде на 31.03.2022</a>
+      <br>
+    </li><i style="font-size: small;">Доступно 3 года с даты раскрытия</i>
+    <br>
+    <li style="font-size: medium;"><a href="https://gerfin.ru/GERFIN-UK/opif/KluchIDOC7.pdf" target="_blank">10.03.2022 19:20 Ключевой информационный документ о фонде на 28.02.2022</a>
+      <br>
+    </li><i style="font-size: small;">Доступно 3 года с даты раскрытия</i>
+    <br>
+    <li style="font-size: medium;"><a href="https://gerfin.ru/GERFIN-UK/opif/KluchIDOC6.pdf" target="_blank">09.03.2022 23:18 Ключевой информационный документ о фонде на 25.02.2022</a>
+    </li><i style="font-size: small;">Доступно 3 года с даты раскрытия</i>
+    <br>
+    <li style="font-size: medium;"><a href="https://gerfin.ru/GERFIN-UK/opif/KluchIDOC5.pdf" target="_blank">09.02.2022 18:24 Ключевой информационный документ о фонде на 31.01.2022</a>
+    </li><i style="font-size: small;">Доступно 3 года с даты раскрытия</i>
+    <br>
+    <li style="font-size: medium;"><a href="https://gerfin.ru/GERFIN-UK/opif/KluchIDOC4.pdf" target="_blank">17.01.2022 21:15 Ключевой информационный документ о фонде на 30.12.2021</a>
+    </li><i style="font-size: small;">Доступно 3 года с даты раскрытия</i>
+    <br>
+    <li style="font-size: medium;"><a href="https://gerfin.ru/GERFIN-UK/opif/KluchIDOC3..pdf" target="_blank">09.12.2021 21:41 Ключевой информационный документ о фонде на 30.11.2021</a>
+    </li><i style="font-size: small;">Доступно 3 года с даты раскрытия</i>
+    <br>
+    <li style="font-size: medium;"><a href="https://gerfin.ru/GERFIN-UK/opif/KluchIDOC2..pdf" target="_blank">09.11.2021 18:57 Ключевой информационный документ о фонде на 29.10.2021</a>
+    </li><i style="font-size: small;">Доступно 3 года с даты раскрытия</i>
+    <li style="font-size: medium;"><a href="https://gerfin.ru/GERFIN-UK/opif/KluchIDOC..pdf" target="_blank">11.10.2021 21:39 Ключевой информационный документ о фонде на 30.09.2021</a>
+    </li><i style="font-size: small;">Доступно 3 года с даты раскрытия</i>
+
+    <h3><b style="color: inherit; font-family: inherit;">Электронный документооборот</b><br></h3>
+    <li style="font-size: medium;"><a href="/GERFIN-UK/opif/Soglashenie_EDO.pdf" target="_blank">20.08.2021 13:00 Соглашение об электронном документообороте и использовании системы "Кабинет клиента"</a>
+      <br>
+      <i style="font-size: small;">Доступно до внесения изменений</i></li>
+
+    <p></p>
+    <br>
+    <h3 style=""><b style="">Сведения об агенте паевого инвестиционного фонда</b></h3>
+    <li style="font-size: medium;"><a href="https://gerfin.ru/GERFIN-UK/opif/opif_agent_2.pdf" target="_blank">20.09.2022 20:52 Сообщение об исключении из реестра паевых инвестиционных фондов агента по выдаче и погашению инвестиционных паёв</a>
+      <br><i style="font-size: small;">(Доступно до внесения изменений)</i>
+      <br>
+    </li>
+    <li style="font-size: medium;"><a href="/GERFIN-UK/opif/opif_agent.pdf" target="_blank">17.05.2019 16:58 Сообщение о включении в реестр паевых инвестиционных фондов агента по выдаче и погашению инвестиционных паев.</a>
+      <br>
+      <i style="font-size: small;">(Доступно до даты исключения этих сведений из реестра паевых инвестиционных фондов, либо  внесения изменений)</i></li>
+    <li style="font-size: medium;"><a href="/GERFIN-UK/opif/opif_agent_info.pdf" target="_blank">17.05.2019 16:58 Сведения об агенте.</a>
+      <br>
+      <i style="font-size: small;">(Доступно до даты исключения этих сведений из реестра паевых инвестиционных фондов, либо внесения изменений)</i></li>
+    <br>
+
+    <p></p>
+    <p></p>
+    <h3><b>Правила определения стоимости чистых активов фонда</b></h3>
+    <p></p>
+
+    <li style="font-size: medium;"><a href="https://gerfin.ru/GERFIN-UK/opif/opif_opred_aktiv_2023_06.pdf" target="_blank">16.06.2023 23:14 Изменения и дополнения в ПРАВИЛА определения стоимости чистых активов, действующие с 23.06.2023</a><br><i style="font-size: small;">Доступно до даты исключения ПИФа из реестра паевых инвестиционных фондов.<br></i><i style="font-size: small;">(Внесение изменений и дополнений в правила обусловлено вступлением в силу новой редакции стандартов порядка определения стоимости чистых активов паевого инвестиционного фонда и стоимости инвестиционного пая, утвержденных Советом директоров НАУФОР 12.04.2023)</i><br></li><li style="font-size: medium;"><a href="https://gerfin.ru/GERFIN-UK/opif/opif_opred_aktiv_2023.pdf" target="_blank">26.01.2023 19:18 Изменения и дополнения в ПРАВИЛА определения стоимости чистых активов, действующие с 02.02.2023</a>
+      <br><i style="font-size: small;">Доступно до даты исключения ПИФа из реестра паевых инвестиционных фондов.<br></i><i style="font-size: small;">(Внесение изменений и дополнений в правила обусловлено обновлением порядка определения справедливой стоимости долговых ценных бумаг в соответствии с Международным стандартом финансовой отчетности (IFRS(13)</i></li>
+    <li style="font-size: medium;"><a href="/GERFIN-UK/opif/opif_opred_aktiv_2021.pdf" target="_blank" style="color: rgb(51, 122, 183);">29.06.2021 22:06 Изменения и дополнения в ПРАВИЛА определения стоимости чистых активов, действующие с 06.07.2021</a>
+      <br>
+      <i style="font-size: small;">Доступно до даты исключения ПИФа из реестра паевых инвестиционных фондов.</i>
+      <p style="font-size: medium;">
+        <i style="font-size: small;">(Внесение изменений и дополнений в правила обусловлено вступлением в силу новой редакции стандартов порядка определения стоимости чистых активов паевого инвестиционного фонда и стоимости инвестиционного пая, утвержденных Советом директоров НАУФОР 23.03.2021)</i>
+        <br>
+      </p>
+    </li>
+
+    <li style="font-size: medium;"><a href="/GERFIN-UK/opif/opif_opred_aktiv_2019.pdf" target="_blank" style="color: rgb(51, 122, 183);">23.04.2019 21:22 Изменения и дополнения в ПРАВИЛА определения стоимости чистых активов, действующие с 01.05.2019.</a>
+      <br>
+      <i style="font-size: small;">Доступно до даты исключения ПИФа из реестра паевых инвестиционных фондов.</i>
+      <p style="font-size: small;">
+        <i style="font-size: small;">(Внесение изменений и дополнений в правила обусловлено вступлением в силу новой редакции стандартов порядка определения стоимости чистых активов паевого инвестиционного фонда и стоимости инвестиционного пая, утвержденных Советом директоров НАУФОР 14.12.2018)</i></p>
+    </li>
+
+    <li style="font-size: medium;"><a href="/GERFIN-UK/opif/opif_opred_aktiv_2018.html" target="_blank" style="color: rgb(51, 122, 183);">25.12.2017 16:43 ПРАВИЛА определения стоимости чистых активов, действующие с 01.01.2018.</a>
+      <br>
+      <p style="font-size: small;">
+        <i style="font-size: small;">Доступно до даты исключения ПИФа из реестра паевых инвестиционных фондов.</i>
+        <i style="font-size: small;">(Внесение изменений и дополнений в утвержденные Правила определения стоимости чистых активов обусловлены конкретизацией критериев расчета СЧА в целях усовершенствования методов оценки)</i></p>
+    </li>
+
+    <li style="font-size: medium;"><a href="/GERFIN-UK/opif/opif_opred_aktiv_2017.pdf" target="_blank" style="color: rgb(51, 122, 183);">23.12.2016 16:45 Изменения и дополнения в ПРАВИЛА определения стоимости чистых активов, действующие с 01.01.2017</a>
+      <br>
+      <p style="font-size: small;">
+        <i style="font-size: small;">Доступно до даты исключения ПИФа из реестра паевых инвестиционных фондов.</i>
+        <i style="color: rgb(51, 122, 183); font-size: small;"><br></i><i style="color: rgb(51, 122, 183); font-size: medium;"></i></p>
+    </li>
+
+    <li style="font-size: medium;"><a href="/GERFIN-UK/opif/opif_opred_aktiv_24.12.2015.pdf" target="_blank" style="color: rgb(51, 122, 183);">24.12.2015 18:00 Изменения и дополнения в ПРАВИЛА определения стоимости чистых активов, действующие с 01.01.2016.</a>
+      <br>
+      <p style="font-size: small;">
+        <i style="color: inherit; font-size: small;">Доступно до даты исключения ПИФа из реестра паевых инвестиционных фондов.</i>
+        <i style="font-size: small;">(Настоящие Правила Фонда приведены в соответствие с требованиями Указания ЦБ №3758-У от 25.08.2015)</i></p>
+    </li>
+
+    <li style="font-size: medium;"><a href="/GERFIN-UK/opif/opif_opred_aktiv_2016.pdf" target="_blank" style="color: rgb(51, 122, 183); background-color: rgb(255, 255, 255);">27.11.2015 18:00 ПРАВИЛА определения стоимости чистых активов.</a>
+      <br>
+      <p style="font-size: small;">
+        <i style="font-size: small;">Доступно до завершения 2016 года.</i>
+        <i style="font-size: small;">(Настоящие Правила Фонда будут приведены в соответствие с требованиями Указания ЦБ №758-У от 25.08.2015 не позднее 24.12.2015)</i></p>
+    </li>
+
+    <p></p>
+    <h3><b>Правила доверительного управления фондом</b></h3>
+    <p></p>
+
+    <li style="font-size: medium;"><a href="/GERFIN-UK/opif/messg_addit_16_.pdf" target="_blank">22.09.2022 21:24 Сообщение о регистрации Изменений и дополнений №16 в Правила доверительного управления.</a></li>
+    <i style="font-size: small;">Доступно не менее месяца со дня опубликования на сайте.</i>
+
+    <li style="font-size: medium;"><a href="/GERFIN-UK/opif/opif_rules_2022.pdf" target="_blank">22.09.2022 21:30 ПРАВИЛА доверительного управления со всеми внесенными изменениями и дополнениями (редакция от 15.09.2022). </a></li>
+    <i style="font-size: small;">Доступно до исключения фонда из реестра паевых инвестиционных фонов, либо внесения изменений и дополнений в Правида фонда</i>
+
+    <li style="font-size: medium;"><a href="https://gerfin.ru/GERFIN-UK/opif/opif_rules_ame_16.pdf" target="_blank">22.09.2022 21:30 Изменения и дополнения №16 в ПРАВИЛА доверительного управления от 15.09.2022</a>
+      <br>
+    </li>
+    <li style="font-size: medium;"><a href="/GERFIN-UK/opif/opif_rules_ame_15.pdf" target="_blank">16.11.2021 19:30 Изменения и дополнения №15 в ПРАВИЛА доверительного управления от 11.11.2021</a>
+      <br>
+    </li>
+    <li style="font-size: medium;"><a href="/GERFIN-UK/opif/opif_rules_ame_14.pdf" target="_blank">11.11.2021 22:58 Изменения и дополнения №14 в ПРАВИЛА доверительного управления от 02.11.2021</a>
+      <br>
+    </li>
+    <li style="font-size: medium;"><a href="/GERFIN-UK/opif/opif_rules_ame_13.pdf" target="_blank">18.06.2021 13:01 Изменения и дополнения №13 в ПРАВИЛА доверительного управления от 07.06.2021</a></li>
+    <li style="font-size: medium;"><a href="GERFIN-UK/opif/opif_rules_ame_12.pdf" target="_blank">24.04.2020 17:08 Изменения и дополнения №12 в ПРАВИЛА доверительного управления от 14.04.2020</a>
+      <br>
+    </li>
+    <li style="font-size: medium;"><a href="/GERFIN-UK/opif/opif_rules_ame_11.pdf" target="_blank">20.11.2019 14:00 Изменения и дополнения №11 в ПРАВИЛА доверительного управления от 12.11.2019</a></li>
+    <li style="font-size: medium;"><a href="/GERFIN-UK/opif/opif_rules_ame_10.pdf" target="_blank">05.07.2019 13:37 Изменения и дополнения №10 в ПРАВИЛА доверительного управления от 27.06.2019<br></a></li>
+    <li style="font-size: medium;"><a href="/GERFIN-UK/opif/opif_rules_ame_9.pdf" target="_blank">24.05.2019 12:25 Изменения и дополнения №9 в ПРАВИЛА доверительного управления от 14.05.2019<br></a></li>
+    <li style="font-size: medium;"><a href="/GERFIN-UK/opif/opif_rules_ame_8.htm" target="_blank">28.03.2018 11:13 Изменения и дополнения №8 в ПРАВИЛА доверительного управления от 20.03.2018<br></a></li>
+    <li style="font-size: medium;"><a href="/GERFIN-UK/opif/opif_rules_ame_7.htm" target="_blank">03.11.2017 17:20 Изменения и дополнения №7 в ПРАВИЛА доверительного управления от 24.10.2017<br></a></li>
+    <li style="font-size: medium;"><a href="/GERFIN-UK/opif/opif_rules_ame_6.pdf" target="_blank">27.05.2016 16:45 Изменения и дополнения №6 в ПРАВИЛА доверительного управления от 19.05.2016<br></a></li>
+    <li style="font-size: medium;"><a href="/GERFIN-UK/opif/opif_rules_ame_5.htm" target="_blank">22.05.2015 14:05 Изменения и дополнения №5 в ПРАВИЛА доверительного управления от 16.03.2015<br></a></li>
+    <li style="font-size: medium;"><a href="/GERFIN-UK/opif/opif_rules_ame_4.htm" target="_blank">19.09.2014 15:15 Изменения и дополнения №4 в ПРАВИЛА доверительного управления от 08.09.2014<br></a></li>
+    <li style="font-size: medium;"><a href="/GERFIN-UK/opif/opif_rules_ame_3.htm" target="_blank">30.08.2013 11:45 Изменения и дополнения №3 в ПРАВИЛА доверительного управления от 15.08.2013<br></a></li>
+    <li style="font-size: medium;"><a href="/GERFIN-UK/opif/opif_rules_ame_2.htm" target="_blank">31.10.2012 11.21 Изменения и дополнения №2 в ПРАВИЛА доверительного управления от 18.10.2012<br></a></li>
+    <li style="font-size: medium;"><a href="/GERFIN-UK/opif/opif_rules_ame_2012.htm" target="_blank">25.01.2012 11:55 Изменения и дополнения №1 в ПРАВИЛА доверительного управления от 28.12.2011<br></a></li>
+    <li style="font-size: medium;"><a href="/GERFIN-UK/opif/opif_politics.htm" target="_blank">25.01.2012 11:55 ПОЛИТИКА осуществления прав голоса по акциям<br></a></li>
+
+  </div>
+</div>
+
+<font color="#337ab7"><font size="2"><font size="2"><font size="2">
+  <script type="text/javascript"><!--
+var allRadios = document.getElementsByName('inset');
+var booRadio;
+var x = 1;
+for(x = 0; x < allRadios.length; x++){
+  allRadios[x].onclick = function() {
+    if(booRadio == this){
+      this.checked = false;
+      booRadio = null;
+    } else {
+      booRadio = this;
+    }
+  };
+}
+                //--></script></font></font>
+</font>
+</font></div>
+<div>
+<div class="tabs_n">
+    <input type="radio" name="inset" value="" id="tab_otchetnost_f-ri">
+    <label for="tab_otchetnost_f-ri"><h3><b><font color="#337ab7">Стоимость пая</font></b></h3></label>
+<div id="txt_otchetnost_f-ri">
+
+<b class="show">Информация о фонде:</b>
+
+<div id="data_opublik_pai">
+
+
+ Опубликовано 20-06-23 14:25
+</div>
+
+<div>данная информация доступна не менее чем до даты опубликования новой информации</div>
+
+<br>
+	<div id="dohod">
+
+
+
+
+
+<h4><b><font color="#337ab7">Доходность фонда</font></b></h4>
+
+<div class="table-responsive">
+<table cellpadding="6" cellspacing="0" class="table">
+<tbody><tr>
+<td class="attribute" text-center="">Показатели фонда</td>
+<td class="attribute" text-center="">16.06.2023</td><td class="attribute" text-center="">19.06.2023</td>
+<td class="attribute" text-center="">Изменение, %</td>
+</tr>
+<tr>
+<td class="attribute" text-center="">СЧА (руб.)</td>
+<td class="attribute" text-center="">176 701 539.13</td><td class="attribute" text-center="">176 823 175.98</td>
+<td class="attribute" text-center="">0.07</td>
+</tr>
+<tr>
+<td class="attribute" text-center="">Стоимость пая (руб.)</td>
+<td class="attribute" text-center=""> 2 875.48 </td>
+<td class="attribute" text-center=""> 2 877.46 </td>
+<td class="attribute" text-center="">0.07</td>
+</tr>
+</tbody></table>
+</div>
+<br>
+
+
+
+</div>
+<div id="dohod1"><!--Новая динамика-->
+
+
+<!--<div class="tabs_n">
+  <input type="radio" name="inset" value="" id="tab_otchetnost_uk">-->
+  <label for="tab_otchetnost_uk">
+    <h4><b><font color="#337ab7">Динамика стоимости пая</font></b></h4>
+	</label>
+  <div id="txt_otchetnost_uk">
+  
+  
+ <div class="table-responsive">
+<table cellpadding="10" cellspacing="0" class="table">
+
+<tbody><tr>
+<td class="attribute" text-center="">1 месяц</td>
+<td class="attribute" text-center="">3 месяца</td>
+<td class="attribute" text-center="">6 месяцев</td>
+<td class="attribute" text-center="">1 год</td>
+<td class="attribute" text-center="">3 года</td>
+<td class="attribute" text-center="">5 лет</td>
+<td class="attribute" text-center="">Весь период</td>
+</tr>
+<tr>
+
+
+
+<td class="attribute" text-center="">0.92%</td>
+<td class="attribute" text-center="">2.93%</td>
+<td class="attribute" text-center="">5.62%</td>
+<td class="attribute" text-center="">19.24%</td>
+<td class="attribute" text-center="">23.56%</td>
+<td class="attribute" text-center="">37.36%</td>
+<td class="attribute" text-center=""><!-- с начала -->185.15%</td>
+
+
+</tr>
+</tbody></table>
+</div> 
+  
+
+
+  </div>
+<!--</div>-->
+<script type="text/javascript">
+  <!--
+  var allRadios = document.getElementsByName('inset');
+  var booRadio;
+  var x = 1;
+  for (x = 0; x < allRadios.length; x++) {
+    allRadios[x].onclick = function() {
+      if (booRadio == this) {
+        this.checked = false;
+        booRadio = null;
+      } else {
+        booRadio = this;
+      }
+    };
+  }
+  //-->
+</script>
+
+<!--Новая динамика конец-->
+</div>
+<font size="-1">Полное название управляющей компании паевого инвестиционного фонда:<br>
+<b>Общество с ограниченной ответственностью "Управляющая компания "ГЕРФИН"</b>&nbsp;<br>
+<br>Лицензия управляющей компании на осуществление деятельности по управлению инвестиционными фондами, 
+паевыми инвестиционными фондами и негосударственными пенсионными фондами:<br>
+<b>№ 21-000-1-00921 от 07.09.2012</b>&nbsp;<br><br>Полное название паевого инвестиционного фонда:<br><b>
+Открытый паевой инвестиционный фонд рыночных финансовых инструментов "ГЕРФИН - фонд облигаций"</b>&nbsp;
+<br><br>Правила доверительного управления паевым инвестиционным фондом зарегистрированы ФСФР России<br>
+<b>19.05.2009 г. за № 1426-94157340&nbsp;</b></font>
+
+
+	<script type="text/javascript">
+	function data_opublik_pai() {
+	$("#data_opublik_pai").load("/opifo/data_opublik_pai.php");
+	}
+	data_opublik_pai();
+	</script>
+
+	<script type="text/javascript">
+	function dohod() {
+	$("#dohod").load("/opifo/dohod.php");
+	//$("#dohod").load('index.php?route=information/information/agree&information_id=26');
+	}
+	dohod();
+	</script>
+
+	<script type="text/javascript">
+	function dohod1() {
+	$("#dohod1").load('index.php?route=information/information/agree&information_id=26');
+	}
+	dohod1();
+	</script>
+</div></div></div>
+</div>
+    </div>
+</div>
+<footer>
+  <div class="container">
+    <div class="row">
+                  <div class="col-sm-6 col-md-3">
+        <div class="h5 text-muted"><i class="fa fa-fw fa-file-text-o"></i> Информация</div>
+        <ul class="list-unstyled">
+<li><a href="/gerfin-uk/" style="">Раскрытие информации</a></li>
+                    <li><a href="https://gerfin.ru/news-u.php">Новости УК</a></li>
+                    <li><a href="https://gerfin.ru/about_us.php">О компании</a></li>
+                    <li><a href="https://gerfin.ru/privacy.php">Политика конфиденциальности</a></li>
+                  </ul>
+      </div>
+                                                      <div class="col-sm-6 col-md-3">
+            <div class="h5 text-muted"><i class="fa fa-fw fa-phone"></i> Контакты</div>
+            <ul class="list-unstyled">
+
+            <li><a href="viber://add?number=79661954912"><span class="fa fa-fw fa-lg"><img src="/image/cache/catalog/viber-16x16.png" alt="Чат Viber +79661954912"></span> Чат Viber +79661954912</a></li>
+            <li><a href="whatsapp://send?phone=+79661954912"><span class="fa fa-fw fa-lg"><img src="/image/cache/catalog/watsupp-16x16.png" alt="Чат WhatsApp +79661954912"></span> Чат WhatsApp+79661954912</a></li>
+            
+                                                <li> +7(495)748-0570</li>
+                                                                <li>125167, г. Москва, Нарышкинская аллея, д. 5, стр. 2, эт. 2, пом. IV, ком. 49а</li>
+                                          </ul>
+          </div>
+                                            <div class="col-sm-6 col-md-3">
+            <div class="h5 text-muted"><i class="fa fa-fw fa-bar-chart"></i> </div>
+            <ul class="list-unstyled">
+              <li><p><a href="https://www.bloomberg.com/quote/GERBNDS:RU" target="_blank">ОПИФ рыночных финансовых инструментов «ГЕРФИН – фонд облигаций» в Блумберге</a></p>
+<p><a href="/login/">Личный кабинет</a><br></p>
+<p><a href="/address-u.php">Связаться с нами</a></p>              </li>
+            </ul>
+          </div>
+                                      <div class="col-sm-6 col-md-3">
+            <div class="h5 text-muted"><i class="fa fa-fw fa-check"></i> </div>
+            <ul class="list-unstyled">
+              <li><p><a href="https://www.waterpolo.ru/" rel="nofollow">В 2020 году наша компания стала спонсором <br>Федерации водного поло России</a></p>                            <div id="logo"><img src="/image/catalog/polo.png" title=""></div></li>
+            </ul>
+          </div>
+                        </div>
+  </div>
+  <div class="bottom">
+
+    <div class="container">
+      <div class="row">
+          <p>Лицензия на осуществление деятельности по управлению инвестиционными фондами, паевыми инвестиционными фондами и негосударственными пенсионными фондами № 21-000-1-00921 от 07 сентября 2012 года выдана ФСФР России без ограничения срока действия.
+
+Стоимость инвестиционных паев может увеличиваться и уменьшаться, результаты инвестирования в прошлом не определяют доходы в будущем, государство не гарантирует доходность инвестиций в инвестиционные фонды. Прежде чем приобрести инвестиционный пай следует внимательно ознакомиться с правилами доверительного управления паевыми инвестиционными фондами.
+Подробную информацию о деятельности ООО "УК "ГЕРФИН" и паевых инвестиционных фондов, находящихся под ее управлением, включая тексты правил доверительного управления, всех изменений и дополнений к ним, а также сведения о местах приема заявок на приобретение, погашение и обмен инвестиционных паев Вы можете получить по адресу 125167, г. Москва, Нарышкинская аллея, д. 5, стр. 2, эт. 2, пом. IV, ком. 49а. Телефоны: 8 (495) 748-05-70, а также на сайте ООО "УК "ГЕРФИН" в сети Internet по адресу: <a href="http://gerfin.ru/">http://gerfin.ru/</a></p><p></p><p>Деятельность по доверительному управлению паевыми инвестиционными фондами не совмещается с деятельностью по управлению ценными бумагами.</p><br>
+           <br> <div class="">Информация о структуре и составе участников ООО "УК "ГЕРФИН", в том числе о лицах, под контролем либо значительным влиянием которых находится ООО "УК "ГЕРФИН", размещена на официальном сайте <a class="" target="_blank" rel="noreferrer noopener" href="https://www.cbr.ru/finorg/foinfo/?ogrn=5077746878633">Банка России</a> и соответствует информации, направленной в Банк России для размещения на официальном сайте Банка России.</div>
+        <div class="col-sm-9">
+                  </div>
+
+                <div class="col-sm-3">
+                                                        УК "ГЕРФИН" © 2007 – 2023                  </div>
+              </div>
+    </div>
+  </div>
+</footer>
+<div class="modal fade" id="infoModal">
+  <div class="modal-dialog modal-lg">
+    <div class="modal-content">
+      <div class="modal-header">
+        <button type="button" class="close" data-dismiss="modal" aria-label="Close"><span aria-hidden="true">×</span></button>
+        <p class="modal-title h4 text-center"></p>
+      </div>
+      <div class="modal-body">
+      </div>
+      <div class="modal-footer">
+        <button type="button" class="btn btn-sm btn-link" data-dismiss="modal">Назад</button>
+      </div>
+    </div>
+  </div>
+</div>
+<div class="modal fade" id="popupModal">
+  <div class="modal-dialog">
+    <div class="modal-content">
+      <div class="modal-header">
+        <button type="button" class="close hidden" data-dismiss="modal" aria-label="Close"><span aria-hidden="true">×</span></button>
+        <p class="modal-title h4 text-center"></p>
+        <div class="hidden" data-compare-title="Сравнение товаров" data-compare-link="https://gerfin.ru/compare-products/" data-wishlist-title="Мои закладки" data-wishlist-link="https://gerfin.ru/wishlist/"></div>
+      </div>
+      <div class="modal-body"></div>
+      <div class="modal-footer">
+        <button type="button" class="btn btn-sm btn-link btn-shopping hidden" data-dismiss="modal">Вернуться</button>
+        <button type="button" class="btn btn-sm btn-link btn-back" data-dismiss="modal">Назад</button>
+      </div>
+    </div>
+  </div>
+</div>
+
+
+            
+<div class="modal fade" id="popupInfoModal">
+  <div class="modal-dialog">
+    <div class="modal-content">
+      <div class="modal-header">
+        <button type="button" class="close hidden" data-dismiss="modal" aria-label="Close"><span aria-hidden="true">×</span></button>
+        <p class="modal-title text-center">Реквизиты для перечисления денежных средств в ООО "УК "ГЕРФИН"</p>
+      </div>
+      <div class="modal-body">
+        <p><b>Получатель:</b> </p>
+        <p><b>Название банка:</b> </p>
+  <!--      <p><b>Адрес:</b> </p>      -->
+  <!--      <p><b>Телефон:</b> </p>      -->
+        <p><b>ИНН:</b> </p>
+        <p><b>КПП:</b> </p>
+        <p><b>БИК:</b> </p>
+        <p><b>Корр. счет:</b> </p>
+        <p><b>Банковский счет:</b> </p>
+        <p><b>Назначение платежа:</b> </p>
+      <p>Последовательно, скопируйте реквизиты в платежное поручение, переключаясь между страницами "ЛК ГЕРФИН" и Вашим Банк-клиентом .
+<br>Рекомендуем сохранить реквизиты в вашем БК как шаблон "ГЕРфИН ОПИФО"</p>
+      </div>
+      <div class="modal-footer">
+       
+        <button type="button" class="btn btn-sm btn-link btn-back" data-dismiss="modal"><em class="fa fa-close">Закрыть</em></button>
+<button class="btn1 btn-primary" onclick="$('#popupInfoModal').printThis()" type="button"><em class="fa fa-print"></em> Печать</button>
+      </div>
+    </div>
+  </div>
+</div>
+<script type="text/javascript" src="catalog/view/javascript/printing/printThis.js"></script>
+
+
+<div class="modal fade" id="orderModal">
+  <div class="modal-dialog">
+    <div class="modal-content">
+      <div class="modal-header">
+        <input type="hidden" name="product_id" value="0">
+        <button type="button" class="close" data-dismiss="modal" aria-label="Close"><span aria-hidden="true">×</span></button>
+        <p class="modal-title h4 text-center"></p>
+      </div>
+      <div class="modal-body">
+        <input type="hidden" name="quantity" value="1">
+        <div class="row">
+          <div class="col-sm-12">
+            
+            <p class="text-center h3"></p>
+          </div>
+        </div>
+        <div class="form-horizontal">
+           	          <div class="form-group required">
+		  
+            <label for="quickorderemail" class="col-sm-3 control-label">E-Mail</label>
+            <div class="col-sm-8">
+              <input type="email" class="form-control" id="quickorderemail" name="quickorderemail" placeholder="Требуется только для отправки вам деталей заказа" value="">
+              <span class="quickorderemail form-control-feedback hidden"><i class="fa fa-check"></i></span>
+            </div>
+          </div>
+           	          <div class="form-group required">
+		  
+            <label for="quickorderphone" class="col-sm-3 control-label">Телефон</label>
+            <div class="col-sm-8">
+              <input type="tel" pattern="[0-9]*" class="form-control" id="quickorderphone" name="quickorderphone" value="">
+              <span class="quickorderphone form-control-feedback hidden"><i class="fa fa-check"></i></span>
+            </div>
+          </div>
+          <div class="form-group optional">
+             
+          <div class="form-group optional">
+            <label for="quickordername" class="col-sm-3 control-label">Фамилия, имя</label>
+            <div class="col-sm-3">
+              <input type="text" class="form-control" id="quickordername" name="quickordername" placeholder="Ваше имя" value="">
+              <span class="quickordername form-control-feedback hidden"><i class="fa fa-check"></i></span>
+            </div>
+            <div class="col-sm-5">
+              <input type="text" class="form-control" id="quickordercomment" name="quickordercomment" placeholder="Комментарий">
+              <span class="quickordercomment form-control-feedback hidden"><i class="fa fa-check"></i></span>
+            </div>
+          </div>
+          </div>
+
+
+            <div class="panel panel-info"><div class="panel-heading text-center"><small>Нажмите "Оформить", для отправки заявки</small></div></div>
+          </div>
+                  </div>
+        <div class="buttons">
+          <p class="text-center">
+            <button type="button" class="btn btn-primary"><i class="fa fa-fw fa-flip-horizontal fa-reply-all"></i> Отправить</button>
+          </p>
+          <p class="text-center">
+            <button type="button" class="btn btn-sm btn-default" data-dismiss="modal">Вернуться</button>
+          </p>
+        </div>
+      </div>
+      <div class="modal-body2"></div>
+    </div>
+  </div>
+
+
+<div class="btn btn-primary btn-floating-callback" data-toggle="modal" data-target="#orderModal" data-order-mode="callback" data-order-title="Получить консультацию!" data-order-img-src="https://gerfin.ru/image/cache/no_image-228x228.png"><div data-toggle="tooltip" data-template="<div class=&quot;tooltip btn-floating-callback-tooltip hidden-xs&quot; role=&quot;tooltip&quot;><div class=&quot;tooltip-arrow&quot;></div><div class=&quot;tooltip-inner&quot;></div></div>" data-placement="top" title="" data-original-title="Получить консультацию!"><i class="fa fa-2x fa-phone"></i></div></div>
+
+<div class="toggle-scroll-top btn btn-default hidden-xs"><i class="fa fa-2x fa-angle-up"></i></div>
+
+<script><!--
+  $(document).ready(function() {
+    $(window).load(function(){
+      var oldSSB = $.fn.modal.Constructor.prototype.setScrollbar;
+      $.fn.modal.Constructor.prototype.setScrollbar = function () {
+        oldSSB.apply(this);
+        if(this.bodyIsOverflowing && this.scrollbarWidth) {
+          $('.navbar-fixed-top, .navbar-fixed-bottom').css('padding-right', this.scrollbarWidth);
+        }
+      }
+      var oldRSB = $.fn.modal.Constructor.prototype.resetScrollbar;
+      $.fn.modal.Constructor.prototype.resetScrollbar = function () {
+        oldRSB.apply(this);
+        $('.navbar-fixed-top, .navbar-fixed-bottom').css('padding-right', '');
+      }
+    });
+
+    $('.navbar-cart-toggle').click(function(e) {
+      e.stopPropagation();
+      if ( !$('#top .navbar-collapse').hasClass('in')&&$('#top .navbar-toggle').length ) {
+        $('#top').addClass('cart-opened');
+        $('.navbar-toggle').click();
+        $('#top').on('shown.bs.collapse', function () {
+          if ( !$('#cart').hasClass('open')&&$('#top').hasClass('cart-opened') ) {
+            $('#cart > .dropdown-toggle').click();
+            $("#cart > .dropdown-toggle").velocity("scroll", { duration: 1000 });
+          }
+        })
+      } else if (($('#top .navbar-collapse').hasClass('in')&&!$('#cart').hasClass('open'))||(!$('#top .navbar-toggle').length&&!$('#cart').hasClass('open'))) {
+        $('#cart > .dropdown-toggle').click();
+        $("#cart > .dropdown-toggle").velocity("scroll", { duration: 1000 });
+      } else if ($('#cart').hasClass('open')) {
+        $('#cart > .dropdown-toggle').click();
+      }
+      $('.dropdown').on('hide.bs.dropdown', function () {
+        $('#top').removeClass('cart-opened');
+      })
+    });
+    $('.navbar-search-toggle').click(function(e) {
+      e.stopPropagation();
+      if ( !$('#top .navbar-collapse').hasClass('in')&&$('#top .navbar-toggle').length ) {
+        $('#top').addClass('search-opened');
+        $('.navbar-toggle').click();
+        $('#top').on('shown.bs.collapse', function () {
+          if ( !$('#search').hasClass('open')&&$('#top').hasClass('search-opened') ) {
+            $('#search > .dropdown-toggle').click();
+            $("#search").velocity("scroll", { duration: 1000 });
+          }
+        })
+      } else if (($('#top .navbar-collapse').hasClass('in')&&!$('#search').hasClass('open'))||(!$('#top .navbar-toggle').length&&!$('#search').hasClass('open'))) {
+        $('#search > .dropdown-toggle').click();
+        setTimeout(' $("#search > .dropdown-toggle").velocity("scroll", { duration: 1000 }); ', 300);
+      } else if ($('#search').hasClass('open')) {
+        $('#search > .dropdown-toggle').click();
+      }
+      $('.dropdown').on('hide.bs.dropdown', function () {
+        $('#top').removeClass('search-opened');
+      })
+    });
+    $('.navbar-language-toggle').click(function(e) {
+      e.stopPropagation();
+      if ( !$('#top .navbar-collapse').hasClass('in')&&$('#top .navbar-toggle').length ) {
+        $('#top').addClass('language-opened');
+        $('.navbar-toggle').click();
+        $('#top').on('shown.bs.collapse', function () {
+          if ( !$('#language-dropdown').hasClass('open')&&$('#top').hasClass('language-opened') ) {
+            $('#language-dropdown > .dropdown-toggle').click();
+            $("#language-dropdown > .dropdown-toggle").velocity("scroll", { duration: 1000 });
+          }
+        })
+      } else if (($('#top .navbar-collapse').hasClass('in')&&!$('#language-dropdown').hasClass('open'))||(!$('#top .navbar-toggle').length&&!$('#language-dropdown').hasClass('open'))) {
+        $('#language-dropdown > .dropdown-toggle').click();
+        setTimeout(' $("#language-dropdown > .dropdown-toggle").velocity("scroll", { duration: 1000 }); ', 300);
+      } else if ($('#language-dropdown').hasClass('open')) {
+        $('#language-dropdown > .dropdown-toggle').click();
+      }
+      $('.dropdown').on('hide.bs.dropdown', function () {
+        $('#top').removeClass('language-opened');
+      })
+    });
+
+    $(document).on('show.bs.modal', '.modal', function (event) {
+      var zIndex = 1040 + (10 * $('.modal:visible').length);
+      $(this).css('z-index', zIndex);
+      setTimeout(function() {
+        $('.modal-backdrop').not('.modal-stack').css('z-index', zIndex - 1).addClass('modal-stack');
+      }, 0);
+    });
+    $(document).on('hidden.bs.modal', '.modal', function () {
+      $('.modal:visible').length && $(document.body).addClass('modal-open');
+    });
+
+
+    $('#search a.dropdown-toggle').click(function() { setTimeout('$("#search > ul > li > div > input").focus()', 300); });
+    
+        $('#orderModal').on('hidden.bs.modal', function (event) {
+      if (($("#popupModal").data('bs.modal') || {}).isShown) $('#popupModal').modal('hide');
+            $('#orderModal .panel-default').remove();
+    })
+    $('#popupModal').on('hidden.bs.modal', function (event) {
+      $('#popupModal').css('opacity', '1');
+    })
+
+    $('#orderModal').on('show.bs.modal', function (event) {
+      if (($("#popupModal").data('bs.modal') || {}).isShown) $('#popupModal').css('opacity', '0');
+      var target = $(event.relatedTarget);
+      var mode = target.data('order-mode');
+      var product_id = target.data('order-product-id');
+      var title = target.data('order-title');
+      var img_src = target.data('order-img-src');
+      var price = target.data('order-price') && target.data('order-price').toString().replace(":", " ");
+      var modal = $(this);
+      modal.find('.modal-body2').html('');
+      modal.find('.modal-header input').val(product_id);
+      if (mode=="cart") {
+        $('#orderModal').find('.modal-body2').load('index.php?route=common/cart/info ul', function() {
+          $('#orderModal .modal-body2 > ul').removeClass('dropdown-menu keep-open');
+          $('#orderModal .modal-body2 > ul').addClass('list-unstyled');
+          $('#orderModal .modal-body2 > ul > li > div.text-center').remove();
+          $('#orderModal .modal-body2 > ul > li > table > tbody').prepend('<tr><td colspan="5"><hr></td></tr>');
+          $('#orderModal .modal-body2 > ul > li table td.text-center > a.text-muted').remove();
+        });
+      }
+      if (mode=="product") {
+          modal.find('.modal-body input[type=\'hidden\']').val($("#input-quantity").val());
+          if ($(".autocalc-product-price")[0]&&!$(".autocalc-product-special")[0]) {
+              price = $(".autocalc-product-price").first().text();
+          } else if ($(".autocalc-product-special")[0]) {
+              price = $(".autocalc-product-special").first().text();
+          } else {
+              if ($("#input-quantity").val() > 1) price = price + ' x ' + $("#input-quantity").val();
+          }
+      }
+      modal.find('.modal-title.h4').text(title);
+      modal.find('.img-responsive').addClass("hidden");
+      modal.find('.img-responsive').parent().find('div').addClass("hidden");
+      $('#quickorderemail').attr("placeholder", "Требуется только для отправки вам деталей заказа");
+      if (img_src!==0&&typeof img_src!=='undefined') {
+        modal.find('.img-responsive').removeClass("hidden");
+        modal.find('.img-responsive').attr("src",img_src);
+      }
+      if (mode=="product" || mode=="catalog" || mode=="cart") {
+        modal.find('.modal-dialog .form-group.required:first-child').removeClass('hidden');
+        modal.find('.modal-dialog .form-group.required:nth-child(2)').removeClass('hidden');
+        modal.find('.modal-dialog .form-group.optional').removeClass('hidden');
+                modal.find('.modal-dialog').removeClass('modal-dialog-callback');
+        modal.find('.modal-dialog').removeClass('modal-dialog-newsletter');
+        modal.find('.modal-dialog').addClass('modal-dialog-order');
+        
+        modal.find('.btn-primary').html('<i class="fa fa-fw fa-flip-horizontal fa-reply-all"></i> Оформить заявку');
+        modal.find('.panel small').html('Нажмите "Оформить", для отправки заявки');
+
+
+if (product_id=="51") {        
+modal.find('.panel small').html('Оператором будет сформирована и выслана на Ваш электронный адрес Заявка на погашение паев.');
+$("#quickordercomment").attr("placeholder","Укажите количество паев");
+
+}
+if (product_id=="52") {        
+modal.find('.panel small').html('Оператор отправит выписку по Вашему лицевому счету за выбранный период на Ваш электронный адрес.');
+//$("#quickordercomment").attr("placeholder","Укажите количество паев");
+
+}
+if (product_id=="53") {        
+modal.find('.panel small').html('Быстрое получение денежных средств через сделку купли-продажи паев.');
+$("#quickordercomment").attr("placeholder","Укажите количество паев");
+}
+if (product_id=="54") {        
+modal.find('.panel small').html('Вам будут высланы на электронный адрес актуальные банковские реквизиты для перечисления денежных средств на приобретение паев.');
+//                  modal.find('.modal-body #quickordercomment').val('Введите сумму');
+$("#quickordercomment").attr("placeholder","Введите сумму");
+
+}
+
+if (product_id=="55") {        
+modal.find('.panel small').html('Подготовьте в эл.виде документы на основании которых вносятся измененния в анкетные данные.');
+$("#quickordercomment").attr("placeholder","Измененния в анкетные данные");
+
+}
+
+
+
+            
+      } else if (mode=="callback") {
+        modal.find('.modal-dialog .form-group.required:nth-child(2)').removeClass('hidden');
+        modal.find('.modal-dialog .form-group.optional').removeClass('hidden');
+        modal.find('.modal-dialog .form-group.required:first-child').addClass('hidden');
+        modal.find('.modal-dialog').removeClass('modal-dialog-order');
+        modal.find('.modal-dialog').removeClass('modal-dialog-newsletter');
+        modal.find('.modal-dialog').addClass('modal-dialog-callback');
+        modal.find('.btn-primary').html('<i class="fa fa-fw fa-flip-horizontal fa-reply-all"></i> Отправить');
+        modal.find('.panel small').html('Нажмите Отправить, чтобы сделать запрос, и мы вам скоро перезвоним');
+      } else {
+        modal.find('.modal-dialog .form-group.required:first-child').removeClass('hidden');
+        modal.find('.modal-dialog .form-group.required:nth-child(2)').addClass('hidden');
+        modal.find('.modal-dialog .form-group.optional').addClass('hidden');
+                modal.find('.modal-dialog').removeClass('modal-dialog-order');
+        modal.find('.modal-dialog').removeClass('modal-dialog-callback');
+        modal.find('.modal-dialog').addClass('modal-dialog-newsletter');
+        $('#quickorderemail').attr("placeholder", "");
+        modal.find('.img-responsive').parent().find('div.hidden').html("");
+        modal.find('.img-responsive').parent().find('div.hidden').removeClass("hidden");
+        if ( $('#newsletteremail').val()||$('input[type="text"].newsletteremail').val() ) {
+          if ( $('input[type="text"].newsletteremail').val() ) {
+            modal.find('.modal-dialog #quickorderemail').val($('input[type="text"].newsletteremail').val());
+          } else {
+            modal.find('.modal-dialog #quickorderemail').val($('#newsletteremail').val());
+          }
+          $('#orderModal').one('shown.bs.modal', function (event) {
+            if (emailValidation( $("#quickorderemail").val() )) {
+              $('#quickorderemail').parent().parent().removeClass('has-error');
+              $("#quickorderemail").addClass('valid');
+              $("#quickorderemail").parent().parent().addClass('has-success has-feedback');
+              $(".quickorderemail.form-control-feedback").removeClass('hidden');
+            } else {
+              $("#quickorderemail").removeClass('valid');
+              $("#quickorderemail").parent().parent().removeClass('has-success has-feedback');
+              $(".quickorderemail.form-control-feedback").addClass('hidden');
+            }
+            $('#orderModal .btn-primary').click();
+          })
+        }
+        modal.find('.btn-primary').html('<i class="fa fa-fw fa-flip-horizontal fa-reply-all"></i> Подписаться');
+        modal.find('.panel small').html('Нажмите Подписаться, чтобы присоединиться к рассылке');
+      }
+      modal.find('.panel').removeClass('panel-danger');
+      modal.find('.panel').removeClass('panel-success');
+      modal.find('.panel').addClass('panel-info');
+      modal.find('.btn-primary').removeClass('btn-success');
+      modal.find('.btn-primary').removeAttr('disabled');
+      if ( ((mode=="product")&&($('#cart > ul > li > table').length>0)) || ((mode=="catalog")&&($('#cart > ul > li > table').length>0)) ) {
+        $('<div class="panel panel-default"><div class="panel-heading text-center"></div></div>').insertAfter($('#orderModal .panel'));
+      }
+    })
+    $('#orderModal .btn-primary').bind('click', function(e){
+      initialValidation();
+    });
+        function emailValidation(email) {
+      var regexp = /^(([^<>()\[\]\\.,;:\s@"]+(\.[^<>()\[\]\\.,;:\s@"]+)*)|(".+"))@((\[[0-9]{1,3}\.[0-9]{1,3}\.[0-9]{1,3}\.[0-9]{1,3}])|(([a-zA-Z\-0-9]+\.)+[a-zA-Z]{2,}))$/;
+      return regexp.test(email);
+    }
+    if (emailValidation( $("#quickorderemail").val() )) {
+      $('#quickorderemail').parent().parent().removeClass('has-error');
+      $("#quickorderemail").addClass('valid');
+      $("#quickorderemail").parent().parent().addClass('has-success has-feedback');
+      $(".quickorderemail.form-control-feedback").removeClass('hidden');
+    }
+    $('#quickorderemail').on('input',function(e) {
+        if (emailValidation( $("#quickorderemail").val())) {
+          $('#quickorderemail').parent().parent().removeClass('has-error');
+          $("#quickorderemail").addClass('valid');
+          $("#quickorderemail").parent().parent().addClass('has-success has-feedback');
+          $(".quickorderemail.form-control-feedback").removeClass('hidden');
+        } else {
+          $("#quickorderemail").removeClass('valid');
+          $("#quickorderemail").parent().parent().removeClass('has-success has-feedback');
+          $(".quickorderemail.form-control-feedback").addClass('hidden');
+        }
+      });
+      function initialValidation() {
+        $('#orderModal .panel-default').remove();
+                  if ($("#quickorderphone").val()) {
+            $('#quickorderphone').parent().parent().removeClass('has-error');
+            $("#quickorderphone").addClass('valid');
+            $("#quickorderphone").parent().parent().addClass('has-success has-feedback');
+                $(".quickorderphone.form-control-feedback").removeClass('hidden');
+          }
+          if ($("#quickordername").val()) {
+            $('#quickordername').parent().parent().removeClass('has-error');
+            $("#quickordername").addClass('valid');
+            $("#quickordername").parent().parent().addClass('has-success has-feedback');
+            $(".quickordername.form-control-feedback").removeClass('hidden');
+          }
+                if ((($( "#orderModal .modal-dialog-order" ).length && $("#quickordername").hasClass('valid') && $("#quickorderemail").hasClass('valid') && $("#quickorderphone").hasClass('valid')) || ($( "#orderModal .modal-dialog-callback" ).length && $("#quickorderphone").hasClass('valid')) || ($( "#orderModal .modal-dialog-newsletter" ).length && $("#quickorderemail").hasClass('valid')))  ) {
+          
+          $("#orderModal .panel").removeClass('panel-danger');
+          $('#quickorderagree').parent().parent().removeClass('text-danger');
+          $("#orderModal .panel").addClass('panel-info');
+          $("#quickordercomment").parent().parent().addClass('has-success has-feedback');
+          $(".quickordercomment.form-control-feedback").removeClass('hidden');
+          $("#quickordername").parent().parent().addClass('has-success has-feedback');
+          $(".quickordername.form-control-feedback").removeClass('hidden');
+          $("#orderModal .panel small").html('<i class="fa fa-spinner fa-spin"></i> Загрузка...');
+          $('#orderModal .btn-primary').attr('disabled','disabled');
+          if ( $( "#orderModal .modal-dialog-callback" ).length ) {
+            addCallback();
+          }
+          if ( $( "#orderModal .modal-dialog-newsletter" ).length ) {
+            addSubscriber();
+          }
+          if ( $( "#orderModal .modal-dialog-order" ).length ) {
+            addQuickOrder();
+          }
+        } else {
+          $("#orderModal .panel").removeClass('panel-info');
+          $("#orderModal .panel").addClass('panel-danger');
+          $("#orderModal .panel small").html('');
+        }
+        if (($( "#orderModal .modal-dialog-order" ).length && !$("#quickorderemail").hasClass('valid'))||($( "#orderModal .modal-dialog-newsletter" ).length && !$("#quickorderemail").hasClass('valid'))) {
+          $('#quickorderemail').parent().parent().addClass('has-error');
+          $("#orderModal .panel small").html('Пожалуйста укажите корректный адрес e-mail<br />');
+        }
+        if (!$("#orderModal .modal-dialog-newsletter").length && !$("#quickorderphone").hasClass('valid')) {
+          $('#quickorderphone').parent().parent().addClass('has-error');
+          $("#orderModal .panel small").html( $("#orderModal .panel small").html() + 'Пожалуйста укажите ваш номер телефона<br />');
+        }
+              };
+            function addQuickOrder() {
+        $.ajax({
+          url: 'index.php?route=common/footer/addquickorder',
+          type: 'post',
+          data: $('#orderModal input[type=\'text\'], #orderModal input[type=\'checkbox\']:checked, #orderModal input[type=\'tel\'], #orderModal input[type=\'email\'], #orderModal input[type=\'hidden\'], #product input[type=\'number\'], #product input[type=\'text\'], #product input[type=\'hidden\'], #product input[type=\'radio\']:checked, #product input[type=\'checkbox\']:checked, #product select, #product textarea'),
+          dataType: 'json',
+          success: function(json) {
+            $('.alert, .text-danger').remove();
+            $('.form-group').removeClass('has-error');
+            if (json['error']) {
+
+              if (json['error']['option']) {
+                $('.options .collapse').show();
+                if ($('.options > div').hasClass("collapse")) {
+                  $('.options > div:first-child').hide();
+                }
+                for (i in json['error']['option']) {
+                  var element = $('#input-option' + i.replace('_', '-'));
+                  if (element.parent().hasClass('input-group')) {
+                    element.parent().after('<div class="text-danger">' + json['error']['option'][i] + '</div>');
+                  } else {
+                    element.after('<div class="text-danger">' + json['error']['option'][i] + '</div>');
+                  }
+                }
+              }
+              if (json['error']['recurring']) {
+                $('select[name=\'recurring_id\']').after('<div class="text-danger">' + json['error']['recurring'] + '</div>');
+              }
+
+              if (json['error']['validation']) {
+                $("#orderModal .panel").removeClass('panel-info');
+                $("#orderModal .panel").addClass('panel-danger');
+                $("#orderModal .panel small").html(json['error']['validation']);
+                $('#orderModal .btn-primary').removeAttr('disabled');
+              }
+              $('.text-danger').parent().addClass('has-error');
+            }
+            if (json['success']) {
+              $("#orderModal .panel").removeClass('panel-danger');
+              $("#orderModal .panel").removeClass('panel-info');
+              $("#orderModal .panel").addClass('panel-success');
+              $("#orderModal .panel small").html(json['success']);
+              $('#orderModal .btn-primary').addClass('btn-success');
+              $('#orderModal .btn-primary').html('<i class="fa fa-check"></i> Заявка отправлена');
+                                                        var moneymaker2_total_count = json['moneymaker2_total_count'];
+              var moneymaker2_total_sum = json['moneymaker2_total_sum'];
+              $('#cart > .dropdown-toggle #cart-total').html(moneymaker2_total_sum);
+              $('#cart > .dropdown-toggle .fa-stack .fa-stack-1x, .navbar-cart-toggle .fa-stack .fa-stack-1x').html(moneymaker2_total_count);
+
+              $('#cart > ul').load('index.php?route=common/cart/info ul li');
+            }
+          },
+          error: function(xhr, ajaxOptions, thrownError) {
+            alert(thrownError + "\r\n" + xhr.statusText + "\r\n" + xhr.responseText);
+          }
+        });
+      };
+                  function addCallback() {
+        $.ajax({
+          url: 'index.php?route=common/footer/addCallback',
+          type: 'post',
+          data: $('#orderModal input[type=\'text\'], #orderModal input[type=\'tel\']'),
+          dataType: 'json',
+          success: function(json) {
+            $('.alert, .text-danger').remove();
+            $('.form-group').removeClass('has-error');
+            if (json['error']) {
+
+              if (json['error']['option']) {
+                $('.options .collapse').show();
+                if ($('.options > div').hasClass("collapse")) {
+                  $('.options > div:first-child').hide();
+                }
+                for (i in json['error']['option']) {
+                  var element = $('#input-option' + i.replace('_', '-'));
+                  if (element.parent().hasClass('input-group')) {
+                    element.parent().after('<div class="text-danger">' + json['error']['option'][i] + '</div>');
+                  } else {
+                    element.after('<div class="text-danger">' + json['error']['option'][i] + '</div>');
+                  }
+                }
+              }
+              if (json['error']['recurring']) {
+                $('select[name=\'recurring_id\']').after('<div class="text-danger">' + json['error']['recurring'] + '</div>');
+              }
+
+              if (json['error']['validation']) {
+                $("#orderModal .panel").removeClass('panel-info');
+                $("#orderModal .panel").addClass('panel-danger');
+                $("#orderModal .panel small").html(json['error']['validation']);
+                $('#orderModal .btn-primary').removeAttr('disabled');
+              }
+              $('.text-danger').parent().addClass('has-error');
+            }
+            if (json['success']) {
+              $("#orderModal .panel").removeClass('panel-danger');
+              $("#orderModal .panel").removeClass('panel-info');
+              $("#orderModal .panel").addClass('panel-success');
+              $("#orderModal .panel small").html(json['success']);
+              $('#orderModal .btn-primary').addClass('btn-success');
+              $('#orderModal .btn-primary').html('<i class="fa fa-check"></i> Запрос отправлен');
+                                                      }
+          },
+          error: function(xhr, ajaxOptions, thrownError) {
+            alert(thrownError + "\r\n" + xhr.statusText + "\r\n" + xhr.responseText);
+          }
+        });
+      };
+                                if (($(".owl-moneymaker2-slideshow .owl-controls [class*=\"arrow-\"]").length > 0)||($(".owl-moneymaker2-slideshow .owl-controls .owl-pagination").length > 0)) {
+      BackgroundCheck.init({
+        targets: '.owl-moneymaker2-slideshow .owl-prev .arrow-left, .owl-moneymaker2-slideshow .owl-next .arrow-right, .owl-moneymaker2-slideshow .owl-pagination',
+        images: '.owl-moneymaker2-slideshow .img-responsive'
+      });
+    }
+  });
+//--></script>

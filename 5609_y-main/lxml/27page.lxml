@@ -1,0 +1,682 @@
+	<style>
+.mobile_menu_button {
+	border: 1px solid #008400; 
+	position: absolute; height: 50px; width: 50px; 
+	background-color: #FFFFFF; opacity: 0.7;
+	z-index: 999;
+	right: 5px;
+	top: 5px;
+	display: block;
+	background: url('/pics/mobile_menu.png') no-repeat center center;
+	
+	-webkit-box-shadow: 0px 2px 4px 0px rgba(50, 50, 50, 0.2);
+	-moz-box-shadow:    0px 2px 4px 0px rgba(50, 50, 50, 0.2);
+	box-shadow:         0px 2px 4px 0px rgba(50, 50, 50, 0.2);
+}
+.mobile_menu_button.active {opacity: 1;}
+</style>
+<script type="text/javascript">
+$(function() {
+	$(".mobile_menu_button").click(function() {
+		$(".main_menu").toggle();
+
+		if ($(this).hasClass("active")) $(this).removeClass('active');
+		else $(this).addClass('active');
+		
+	});
+});
+</script>
+
+<a class="mobile_menu_button" href="#" onclick="return false;" style="display: none;"></a>
+	
+	
+	<div class="header  no_callback">	
+		<div class="container">
+			<div class="logo">
+				<a href="/"><img src="/pics/logo.png" alt=""></a>
+				<div class="clear"></div>
+			</div>
+			
+			<div class="contacts">
+				<div class="phone"><a href="tel://+7 (342) 225-02-31">+7 (342) <span>225-02-31</span></a></div>
+				<div class="phone"><a href="tel://+7 (342) 299-99-01 ">+7 (342) <span>299-99-01 </span></a></div>
+				<div class="address">г. Пермь, пер. Тополевый, д.5, оф. 1, ком. 7,8,9</div>
+			
+			</div>
+						
+			<div class="mobile_hr second" style="display: none;"></div>
+			
+			<ul class="main_menu second">
+			<li class="item sc"><a href="/about/">О компании</a>
+							
+																			<ul class="sub">
+																								<li>
+														<a href="/about/">О компании</a>
+													</li>
+																										<li>
+														<a href="/about/team/">Менеджмент</a>
+													</li>
+																										<li>
+														<a href="/about/news/">Новости</a>
+													</li>
+																							</ul>
+															</li>
+					<li class="item sc"><a class="active" href="/disclosure-of-information/">Раскрытие информации</a>
+							
+														</li>
+					<li class="item sc"><a href="/paevye_fondy/">Паевые фонды</a>
+							
+														</li>
+					<li class="item sc last"><a href="/contacts/">Контакты</a>
+							
+														</li>
+									<li class="mobile_content" style="display: none;">
+					<a rel="leanModal" href="#" onclick="show_modal_my('#popup_callback'); $('#phone').focus(); return false;">Заказать звонок</a>
+				</li>
+			
+			</ul>
+			<div class="clear"></div>
+		</div>
+		
+	<div class="clear"></div>
+	</div>
+
+<div class="container">
+<div class="content_container styled">
+<div class="mininav"><a href="/">Главная</a><img src="/pics/arrows/arrow_nav.png"><div><a href="/disclosure-of-information/">Раскрытие информации</a></div><img src="/pics/arrows/arrow_nav.png"><div>Расчет размера собственных средств</div></div>
+	<h1>Расчет размера собственных средств</h1>
+	<div class="disclosure"><h3><span style="font-size: 16pt;">&nbsp;Расчет собственных средств, осуществленный в соответствии с требованиями Банка России</span></h3>
+<table class=" table-content" style="width: 100%; height: 40px;">
+<tbody>
+<tr><th style="text-align: center;">
+<h3>Отчётность</h3>
+</th><th style="text-align: center;">
+<h3>Дата опубликования</h3>
+</th><th style="text-align: center;">
+<h3>Информация доступна до</h3>
+</th></tr>
+<tr>
+<td>
+<p><a href="/storage/source/_ss_na_31052023.pdf" title="Скачать файл <em>(_ss_na_31052023.pdf; 206 KB)</em>" class="filemanager">Расчет размера собственных средств на 31.05.2023г.</a></p>
+</td>
+<td><span>15.06</span><span>.</span><span>2023</span></td>
+<td style="text-align: center;"><span><span>15.06</span>.</span><span>2026</span></td>
+</tr>
+<tr>
+<td>
+<p><a href="/storage/source/_uk_na_30042023_dlya_sayta.pdf" title="Скачать файл <em>(_uk_na_30042023_dlya_sayta.pdf; 290 KB)</em>" class="filemanager"><span>Расчет размера собственных средств на 30.04.2023г.</span></a></p>
+</td>
+<td><span>18.05</span><span>.</span><span>2023</span></td>
+<td style="text-align: center;"><span><span>18.05</span>.</span><span>2026</span></td>
+</tr>
+<tr>
+<td>
+<p><a href="/storage/source/_na_31032023.pdf" title="Скачать файл <em>(_na_31032023.pdf; 292 KB)</em>" class="filemanager"><span>Расчет размера собственных средств на 31.03.2023г.</span></a></p>
+</td>
+<td><span>14.04</span><span>.</span><span>2023</span></td>
+<td style="text-align: center;"><span><span>14</span><span>.04</span>.</span><span>2026</span></td>
+</tr>
+<tr>
+<td>
+<p><a href="/storage/source/_ss_na_28022023.pdf" title="Скачать файл <em>(_ss_na_28022023.pdf; 290 KB)</em>" class="filemanager">Расчет размера собственных средств на 28.02.2023г.</a></p>
+</td>
+<td><span>15.03</span><span>.</span><span>2023</span></td>
+<td style="text-align: center;"><span><span>15</span><span>.03</span>.</span><span>2026</span></td>
+</tr>
+<tr>
+<td>
+<p><a href="/storage/source/_ss_na_31012023.pdf" title="Скачать файл <em>(_ss_na_31012023.pdf; 317 KB)</em>" class="filemanager">Расчет размера собственных средств на 31.01.2023г.</a></p>
+</td>
+<td><span>14.02</span><span>.</span><span>2023</span></td>
+<td style="text-align: center;"><span><span>14</span><span>.0</span><span>2</span>.</span><span>2026</span></td>
+</tr>
+<tr>
+<td>
+<p><a href="/storage/source/_uk_na_31122022.pdf" title="Скачать файл <em>(_uk_na_31122022.pdf; 290 KB)</em>" class="filemanager">Расчет размера собственных средств на 31.12.2022г.</a></p>
+</td>
+<td><span>23.01</span><span>.</span><span>2023</span></td>
+<td style="text-align: center;"><span><span>23.</span><span>01</span>.</span><span>2026</span></td>
+</tr>
+<tr>
+<td>
+<p><a href="/storage/source/_uk_noyabr_2022.pdf" title="Скачать файл <em>(_uk_noyabr_2022.pdf; 290 KB)</em>" class="filemanager">Расчет размера собственных средств на 30.11.2022г.</a></p>
+</td>
+<td><span>15.12</span><span>.</span><span>2022</span></td>
+<td style="text-align: center;"><span><span>15.12</span>.</span><span>2025</span></td>
+</tr>
+<tr>
+<td>
+<p><a href="/storage/source/_ss_na_31102022.pdf" title="Скачать файл <em>(_ss_na_31102022.pdf; 317 KB)</em>" class="filemanager">Расчет размера собственных средств на 31.10.2022г.</a></p>
+</td>
+<td><span>15.11</span><span>.</span><span>2022</span></td>
+<td style="text-align: center;"><span><span>15.11</span>.</span><span>2025</span></td>
+</tr>
+<tr>
+<td>
+<p><a href="/storage/source/_ss_na_30092022.pdf" title="Скачать файл <em>(_ss_na_30092022.pdf; 317 KB)</em>" class="filemanager">Расчет размера собственных средств на 30.09.2022г.</a></p>
+</td>
+<td><span>17.10</span><span>.</span><span>2022</span></td>
+<td style="text-align: center;"><span><span>17.10</span>.</span><span>2025</span></td>
+</tr>
+<tr>
+<td>
+<p><a href="/storage/source/_ss_na_31082022.pdf" title="Скачать файл <em>(_ss_na_31082022.pdf; 317 KB)</em>" class="filemanager">Расчет размера собственных средств на 31.08.2022г.</a></p>
+</td>
+<td><span>15.09</span><span>.</span><span>2022</span></td>
+<td style="text-align: center;"><span><span>15.09</span>.</span><span>2025</span></td>
+</tr>
+<tr>
+<td>
+<p><a href="/storage/source/raschet_ss_31072022.pdf" title="Скачать файл <em>(raschet_ss_31072022.pdf; 317 KB)</em>" class="filemanager">Расчет размера собственных средств на 31.07.2022г.</a></p>
+</td>
+<td><span>15.08</span><span>.</span><span>2022</span></td>
+<td style="text-align: center;"><span><span>15.08</span>.</span><span>2025</span></td>
+</tr>
+<tr>
+<td>
+<p><a href="/storage/source/raschet_ss_30062022.pdf" title="Скачать файл <em>(raschet_ss_30062022.pdf; 317 KB)</em>" class="filemanager">Расчет размера собственных средств на 30.06.2022г.</a></p>
+</td>
+<td><span>14.07</span><span>.</span><span>2022</span></td>
+<td style="text-align: center;"><span><span>14.07</span>.</span><span>2025</span></td>
+</tr>
+<tr>
+<td>
+<p><a href="/storage/source/raschet_ss_310522.pdf" title="Скачать файл <em>(raschet_ss_310522.pdf; 292 KB)</em>" class="filemanager">Расчет размера собственных средств на 31.05.2022г.</a></p>
+</td>
+<td><span>10.06</span><span>.</span><span>2022</span></td>
+<td style="text-align: center;"><span><span>10.06</span>.</span><span>2025</span></td>
+</tr>
+<tr>
+<td>
+<p><a href="/storage/source/rss_042022.pdf" title="Скачать файл <em>(rss_042022.pdf; 292 KB)</em>" class="filemanager">Расчет размера собственных средств на 30.04.2022г.</a></p>
+</td>
+<td><span>20.05</span><span>.</span><span>2022</span></td>
+<td style="text-align: center;"><span><span>20.05</span>.</span><span>2025</span></td>
+</tr>
+<tr>
+<td>
+<p><a href="/storage/source/raschet_sobstvennyih_sredstv_uk__31032022.pdf" title="Скачать файл <em>(raschet_sobstvennyih_sredstv_uk__31032022.pdf; 292 KB)</em>" class="filemanager">Расчет размера собственных средств на 31.03.2022г.</a></p>
+</td>
+<td><span>18.04</span><span>.</span><span>2022</span></td>
+<td style="text-align: center;"><span><span>18.04</span>.</span><span>2025</span></td>
+</tr>
+<tr>
+<td>
+<p><a href="/storage/source/raschet_sobstvennyih_sredstv_na_28022022.pdf" title="Скачать файл <em>(raschet_sobstvennyih_sredstv_na_28022022.pdf; 292 KB)</em>" class="filemanager">Расчет размера собственных средств на 28.02.2022г.</a></p>
+</td>
+<td><span>16.03</span><span>.</span><span>2022</span></td>
+<td style="text-align: center;"><span><span>16.03</span>.</span><span>2025</span></td>
+</tr>
+<tr>
+<td>
+<p><a href="/storage/source/raschet_sobstvennyih_sredstv_uk_aif__pif_i_npf_0420514.pdf" title="Скачать файл <em>(raschet_sobstvennyih_sredstv_uk_aif__pif_i_npf_0420514.pdf; 292 KB)</em>" class="filemanager">Расчет размера собственных средств на 31.01.2022г.</a></p>
+</td>
+<td><span>16.02</span><span>.</span><span>2022</span></td>
+<td style="text-align: center;"><span><span>16.02</span>.</span><span>2025</span></td>
+</tr>
+<tr>
+<td>
+<p><a href="/storage/source/rss_na_31122021.pdf" title="Скачать файл <em>(rss_na_31122021.pdf; 292 KB)</em>" class="filemanager">Расчет размера собственных средств на 31.12.2021г.</a></p>
+</td>
+<td><span>25.01</span><span>.</span><span>2022</span></td>
+<td style="text-align: center;"><span><span>25.01</span>.</span><span>2025</span></td>
+</tr>
+<tr>
+<td>
+<p><a href="/storage/source/rss_30112021.pdf" title="Скачать файл <em>(rss_30112021.pdf; 311 KB)</em>" class="filemanager">Расчет размера собственных средств на 30.11.2021г.</a></p>
+</td>
+<td><span>16.12</span><span>.</span><span>2021</span></td>
+<td style="text-align: center;"><span><span>16.12</span>.</span><span>2024</span></td>
+</tr>
+<tr>
+<td>
+<p><a href="/storage/source/rss_31102021.pdf" title="Скачать файл <em>(rss_31102021.pdf; 199 KB)</em>" class="filemanager">Расчет размера собственных средств на 31.10.2021г.</a></p>
+</td>
+<td><span>18.11</span><span>.</span><span>2021</span></td>
+<td style="text-align: center;"><span><span>18.11</span>.</span><span>2024</span></td>
+</tr>
+<tr>
+<td>
+<p><a href="/storage/source/rss_30092021.pdf" title="Скачать файл <em>(rss_30092021.pdf; 204 KB)</em>" class="filemanager">Расчет размера собственных средств на 30.09.2021г.</a></p>
+</td>
+<td><span>18.10</span><span>.</span><span>2021</span></td>
+<td style="text-align: center;"><span><span>18.10</span>.</span><span>2024</span></td>
+</tr>
+<tr>
+<td>
+<p><a href="/storage/source/rss_31082021.pdf" title="Скачать файл <em>(rss_31082021.pdf; 2 MB)</em>" class="filemanager">Расчет размера собственных средств на 31.08.2021г.</a></p>
+</td>
+<td><span>23.09</span><span>.</span><span>2021</span></td>
+<td style="text-align: center;"><span><span>23.09</span>.</span><span>2024</span></td>
+</tr>
+<tr>
+<td>
+<p><a href="/storage/source/rss_iyul_2021.pdf" title="Скачать файл <em>(rss_iyul_2021.pdf; 2 MB)</em>" class="filemanager">Расчет размера собственных средств на 31.07.2021г.</a></p>
+</td>
+<td><span>30.08</span><span>.</span><span>2021</span></td>
+<td style="text-align: center;"><span><span>30.08</span>.</span><span>2024</span></td>
+</tr>
+<tr>
+<td>
+<p><a href="/storage/source/rss_30062021.pdf" title="Скачать файл <em>(rss_30062021.pdf; 2 MB)</em>" class="filemanager">Расчет размера собственных средств на 30.06.2021г.</a></p>
+</td>
+<td><span>27.07</span><span>.</span><span>2021</span></td>
+<td style="text-align: center;"><span><span>27.07</span>.</span><span>2024</span></td>
+</tr>
+<tr>
+<td>
+<p><a href="/storage/source/rss_may_2021.pdf" title="Скачать файл <em>(rss_may_2021.pdf; 2 MB)</em>" class="filemanager">Расчет размера собственных средств на 31.05.2021г.</a></p>
+</td>
+<td><span>24.06</span><span>.</span><span>2021</span></td>
+<td style="text-align: center;"><span><span>24.06</span>.</span><span>2024</span></td>
+</tr>
+<tr>
+<td>
+<p>&nbsp;<a href="/storage/source/rss_30042021.pdf" title="Скачать файл <em>(rss_30042021.pdf; 2 MB)</em>" class="filemanager">Расчет размера собственных средств на 30.04.2021г.</a></p>
+</td>
+<td><span>26.05</span><span>.</span><span>2021</span></td>
+<td style="text-align: center;"><span><span>26.05</span>.</span><span>2024</span></td>
+</tr>
+<tr>
+<td>
+<p>&nbsp;<a href="/storage/source/rss_31032021.pdf" title="Скачать файл <em>(rss_31032021.pdf; 3 MB)</em>" class="filemanager">Расчет размера собственных средств на 31.03.2021г.</a></p>
+</td>
+<td><span>26.04</span><span>.</span><span>2021</span></td>
+<td style="text-align: center;"><span><span>26.04</span>.</span><span>2024</span></td>
+</tr>
+<tr>
+<td>
+<p>&nbsp;<a href="/storage/source/rss_fevral_2021.pdf" title="Скачать файл <em>(rss_fevral_2021.pdf; 2 MB)</em>" class="filemanager">Расчет размера собственных средств на 28.02.2021г.</a></p>
+</td>
+<td><span>29.03</span><span>.</span><span>2021</span></td>
+<td style="text-align: center;"><span><span>29.03</span>.</span><span>2024</span></td>
+</tr>
+<tr>
+<td>
+<p><a href="/storage/source/rss_31012021.pdf" title="Скачать файл <em>(rss_31012021.pdf; 2 MB)</em>" class="filemanager">Расчет размера собственных средств на 31.01.2021г.</a></p>
+</td>
+<td><span>26.02</span><span>.</span><span>2021</span></td>
+<td style="text-align: center;"><span><span>26.02</span>.</span><span>2024</span></td>
+</tr>
+<tr>
+<td>
+<p><a href="/storage/source/rss_31122020.pdf" title="Скачать файл <em>(rss_31122020.pdf; 1 MB)</em>" class="filemanager">Расчет размера собственных средств на&nbsp;31.12.2020г.</a></p>
+</td>
+<td><span>27.01</span><span>.</span><span>2021</span></td>
+<td style="text-align: center;"><span><span>27.01</span>.</span><span>2024</span></td>
+</tr>
+<tr>
+<td>
+<p><a href="/storage/source/rss_noyabr_2020.pdf" title="Скачать файл <em>(rss_noyabr_2020.pdf; 272 KB)</em>" class="filemanager">Расчет размера собственных средств на 30.11.2020г.</a></p>
+</td>
+<td><span>28.12</span><span>.</span><span>2020</span></td>
+<td style="text-align: center;"><span><span>28.12</span>.</span><span>2023</span></td>
+</tr>
+<tr>
+<td>
+<p><a href="/storage/source/rss_31102020_skan.pdf" title="Скачать файл <em>(rss_31102020_skan.pdf; 2 MB)</em>" class="filemanager">Расчет размера собственных средств на 31.10.2020г.</a></p>
+</td>
+<td><span>24.11</span><span>.</span><span>2020</span></td>
+<td style="text-align: center;"><span><span>24.11</span>.</span><span>2023</span></td>
+</tr>
+<tr>
+<td>
+<p><a href="/storage/source/rss_30092020.pdf" title="Скачать файл <em>(rss_30092020.pdf; 1 MB)</em>" class="filemanager">Расчет размера собственных средств на 30.09.2020г.</a></p>
+</td>
+<td><span>28.10</span><span>.</span><span>2020</span></td>
+<td style="text-align: center;"><span>28.10</span><span>.</span><span>2023</span></td>
+</tr>
+<tr>
+<td>
+<p><a href="/storage/source/rss_31082020.pdf" title="Скачать файл <em>(rss_31082020.pdf; 2 MB)</em>" class="filemanager">Расчет размера собственных средств на 31.08.2020г.</a></p>
+</td>
+<td><span>16.</span><span>09</span><span>.</span><span>2020</span></td>
+<td style="text-align: center;"><span>16.</span><span>09</span><span>.</span><span>2021</span></td>
+</tr>
+<tr>
+<td>
+<p><a href="/storage/source/rss_iyul_2020.pdf" title="Скачать файл <em>(rss_iyul_2020.pdf; 272 KB)</em>" class="filemanager">Расчет размера собственных средств на 31.07.2020г.</a></p>
+</td>
+<td><span>28.</span><span>08</span><span>.</span><span>2020</span></td>
+<td style="text-align: center;"><span>28.</span><span>08</span><span>.</span><span>2021</span></td>
+</tr>
+<tr>
+<td>
+<p><a href="/storage/source/rss_30062020.pdf" title="Скачать файл <em>(rss_30062020.pdf; 1 MB)</em>" class="filemanager">Расчет размера собственных средств на 30.06.2020г.</a></p>
+</td>
+<td><span>29.</span><span>07</span><span>.</span><span>2020</span></td>
+<td style="text-align: center;"><span>29.</span><span>07</span><span>.</span><span>2021</span></td>
+</tr>
+<tr>
+<td><a href="http://custom-capital.ru/storage/source/rss_may_2020.pdf" title="Скачать файл <em>(_aprel_2020_ispr.pdf; 1 MB)</em>" class="filemanager">Расчет размера собственных средств на 31.05.2020г.</a></td>
+<td><span>30.</span><span>06</span><span>.</span><span>2020</span></td>
+<td style="text-align: center;"><span>30.</span><span>06</span><span>.</span><span>2021</span></td>
+</tr>
+<tr>
+<td><a href="http://custom-capital.ru/storage/source/_aprel_2020_ispr.pdf" title="Скачать файл <em>(_aprel_2020_ispr.pdf; 1 MB)</em>" class="filemanager">Расчет размера собственных средств на 30.04.2020г. (исправленный)</a></td>
+<td><span>09.</span><span>06</span><span>.</span><span>2020</span></td>
+<td style="text-align: center;"><span>09.</span><span>06</span><span>.</span><span>2021</span></td>
+</tr>
+<tr>
+<td>
+<p><a href="http://custom-capital.ru/storage/source/_mart_2020_ispr2.pdf" title="Скачать файл <em>(_mart_2020_ispr2.pdf; 1 MB)</em>" class="filemanager">Расчет размера собственных средств на 31.03.2020г. (исправленный)</a></p>
+</td>
+<td><span>09.06.2020</span></td>
+<td style="text-align: center;"><span><span>09.</span><span>06</span><span>.</span><span>2021</span></span></td>
+</tr>
+<tr>
+<td>
+<p><a href="/storage/source/_aprel_2020.pdf" title="Скачать файл <em>(_aprel_2020.pdf; 1 MB)</em>" class="filemanager">Расчет размера собственных средств на 30.04.2020г.</a></p>
+</td>
+<td><span>29.05.2020</span></td>
+<td style="text-align: center;"><span>29.05.2021</span></td>
+</tr>
+<tr>
+<td>
+<p><a href="/storage/source/_mart_2020_1.pdf" title="Скачать файл <em>(_mart_2020_1.pdf; 1 MB)</em>" class="filemanager">Расчет размера собственных средств на 31.03.2020г. (исправленный)</a></p>
+</td>
+<td><span>25.05.2020</span></td>
+<td style="text-align: center;"><span>25.05.2021</span></td>
+</tr>
+<tr>
+<td>
+<p><a href="/storage/source/_mart_2020.pdf" title="Скачать файл <em>(_mart_2020.pdf; 1 MB)</em>" class="filemanager">Расчет размера собственных средств на 31.03.2020г.</a></p>
+</td>
+<td><span>28.04.2020</span></td>
+<td style="text-align: center;"><span>28.04.2021</span></td>
+</tr>
+<tr>
+<td>
+<p><a href="/storage/source/_29022020.pdf" title="Скачать файл <em>(_29022020.pdf; 2 MB)</em>" class="filemanager">Расчет размера собственных средств на 29.02.2020г.</a></p>
+</td>
+<td><span>27.03.2020</span></td>
+<td style="text-align: center;"><span>27.03.2021</span></td>
+</tr>
+<tr>
+<td>
+<p><a href="/storage/source/_31012020.pdf" title="Скачать файл <em>(_31012020.pdf; 2 MB)</em>" class="filemanager">Расчет размера собственных средств на 31.01.2020г.</a></p>
+</td>
+<td><span>28.02.2020</span></td>
+<td style="text-align: center;"><span>28.02.2021</span></td>
+</tr>
+<tr>
+<td>
+<p><a href="/storage/source/_31122019.pdf" title="Скачать файл <em>(_31122019.pdf; 2 MB)</em>" class="filemanager">Расчет размера собственных средств на 31.12.2019г.</a></p>
+</td>
+<td><span>30.01.2020</span></td>
+<td style="text-align: center;"><span>30.01.2021</span></td>
+</tr>
+<tr>
+<td>
+<p><a href="/storage/source/_311119.pdf" title="Скачать файл <em>(_311119.pdf; 2 MB)</em>" class="filemanager">Расчет размера собственных средств на 30.11.2019г.</a></p>
+</td>
+<td><span>30.12.2019</span></td>
+<td style="text-align: center;"><span>30.12.2020</span></td>
+</tr>
+<tr>
+<td>
+<p><a href="/storage/source/_31102019.pdf" title="Скачать файл <em>(_31102019.pdf; 2 MB)</em>" class="filemanager">Расчет размера собственных средств на 31.10.2019г.</a></p>
+</td>
+<td><span>29.11.2019</span></td>
+<td style="text-align: center;"><span>29.11.2020</span></td>
+</tr>
+<tr>
+<td>
+<p><a href="/storage/source/_30092019.pdf" title="Скачать файл <em>(_30092019.pdf; 2 MB)</em>" class="filemanager">Расчет размера собственных средств на 30.09.2019г.</a></p>
+</td>
+<td><span>31.10.2019</span></td>
+<td style="text-align: center;"><span>31.10.2020</span></td>
+</tr>
+<tr>
+<td>
+<p><a href="/storage/source/_ss_310819.pdf" title="Скачать файл <em>(_ss_310819.pdf; 3 MB)</em>" class="filemanager">Расчет размера собственных средств на 31.08.2019г.</a></p>
+</td>
+<td><span>30.09.2019</span></td>
+<td style="text-align: center;"><span>30.09.2020</span></td>
+</tr>
+<tr>
+<td>
+<p><a href="/storage/source/_ss_31072019.pdf" title="Скачать файл <em>(_ss_31072019.pdf; 2 MB)</em>" class="filemanager">Расчет размера собственных средств на 31.07.2019г.</a></p>
+</td>
+<td><span>29.08.2019</span></td>
+<td style="text-align: center;"><span>29.08.2020</span></td>
+</tr>
+<tr>
+<td>
+<p><a href="/storage/source/_ss_uk_300619.pdf" title="Скачать файл <em>(_ss_uk_300619.pdf; 2 MB)</em>" class="filemanager">Расчет размера собственных средств на 30.06.2019г.</a></p>
+</td>
+<td><span>31.07.2019</span></td>
+<td style="text-align: center;"><span>31.07.2020</span></td>
+</tr>
+<tr>
+<td>&nbsp;<a href="/storage/source/_uk_kk31052019.pdf" title="Скачать файл <em>(_uk_kk31052019.pdf; 1 MB)</em>" class="filemanager">Расчет размера собственных средств на 31.05.2019г.</a></td>
+<td><span>28.06.2019</span>&nbsp;</td>
+<td style="text-align: center;"><span>28.06.2020</span>&nbsp;</td>
+</tr>
+<tr>
+<td>&nbsp;<a href="/storage/source/_uk_kk_30042019.pdf" title="Скачать файл <em>(_uk_kk_30042019.pdf; 1 MB)</em>" class="filemanager">Расчет размера собственных средств на 30.04.2019г.</a></td>
+<td><span>29.05.2019</span>&nbsp;</td>
+<td style="text-align: center;"><span>29.05.2020</span>&nbsp;</td>
+</tr>
+<tr>
+<td>&nbsp;<a href="/storage/source/_31032019.pdf" title="Скачать файл <em>(_31032019.pdf; 1 MB)</em>" class="filemanager">Расчет размера собственных средств на 31.03.2019г.</a></td>
+<td><span>30.04.2019</span>&nbsp;</td>
+<td style="text-align: center;"><span>30.04.2020</span>&nbsp;</td>
+</tr>
+</tbody>
+</table>
+<p>&nbsp;</p></div>
+	<div class="clear"></div>
+	<div class="clear"></div>
+</div>
+</div>
+
+<a id="toTop" style="display: none;"></a>
+<div id="lean_overlay" style="display: none;"></div>
+<script type="text/javascript">
+
+function check_tel(obj)
+{
+	var val = $(obj).val();
+
+	var cnt=check_int_count(val);
+
+	if (cnt==7)
+	{
+		$('#popup_callback .phone').css('background','#DEF5E1 url(/pics/good.png) 370px center no-repeat');
+		$('#popup_callback .result').text('');
+	}
+	else if (cnt>=10)
+	{
+		$('#popup_callback .phone').css('background','#DEF5E1 url(/pics/good.png) 370px center no-repeat');
+		$('#popup_callback .result').text('');
+	}
+	else $('#popup_callback .phone').css('background','#FDE0E0');
+
+}
+
+function check_int_count(val)
+{
+	var int_count=0;
+	for ( var i = 0;i < val.length; i++ )
+	{
+		if (val[i]!=' ' && (parseInt(val[i]) || val[i]==0)) int_count++;
+	}
+	return int_count;
+}
+
+function send_callback()
+{
+	var val = $('#popup_callback #phone').val();
+	
+	var cnt=check_int_count(val);
+	var is_right=0;
+	var session_id = 'c22babe4643c6413a14290d823631322';
+	var errors='';
+
+	if (cnt==7) is_right=1;
+	else if (cnt>=10) is_right=1;
+
+	if (is_right==0)
+	{
+		errors+='<br> - В номере должно быть минимум 7 цифр, в мобильном более 10 цифр';
+	}
+
+	if (!$('.popup [name=personal_confirm]').is(':checked'))
+	errors+='<br> - Необходимо подтвердить свое согласие на обработку персональных данных';
+
+	var type=$('#type').val();
+	if (type<=0) errors+='<br> - Необходимо выбрать тему обращения';
+
+	if (errors!='')
+	{
+		$('#popup_callback .result').css('color','#FF0000');
+		$('#popup_callback .result').html('Ошибка:'+errors);
+	}
+	else
+	{
+		$('.result').text('');
+
+			$.ajax({
+		            type: "POST",
+		            url: "/inc/site/callback.php",
+		            data: "action=callback&phone="+$('#phone').val()+"&name="+$('#name').val()+"&type_id="+type+"&comment="+$('#comment').val()+"&session_id="+session_id,
+		            dataType: 'json',
+		            success: function(data){
+		          		if (data.ok=='ok')
+		          		{
+		        			$('#popup_callback .result').css('color','#019014');
+					   		$('#popup_callback .phone').val('');
+					   		$('#popup_callback .comment').val('');
+					   		$('#popup_callback .phone').css('background','#FFFFFF')
+
+
+							$('.result').text('Ваш запрос успешно отправлен, окно закроется автоматически через 5 секунд');
+
+							setTimeout(function()
+							{
+					   			$("#lean_overlay").fadeOut(200);
+					   			$(".popup").fadeOut(200);
+					   			$(".popup").css({"display":"none"});
+					   			$('#popup_callback .phone').css('background','#FDE0E0');
+					   			$('#popup_callback .result').text('');
+
+
+					   		},5000);
+
+		          		}
+		          		else
+		          		$('.result').text('Ошибка: запрос не отправлен!');
+		            }
+		});
+
+
+	}
+
+
+}
+
+$(document).ready(function(){
+	 $("#popup_callback").keypress(function(e){
+	   if(e.keyCode==13){
+		  send_callback(); return false;
+	   }
+	 });
+
+});
+
+</script>
+		
+<div id="popup_callback" style="display: none;" class="popup">
+	<div class="popup_close">
+		<a href="#" title="Закрыть окно" onclick="return false;"></a>
+	</div>
+	<div class="popup_header">Заказать обратный звонок</div>
+	
+	<div class="popup_content form">
+		<p>Мы свяжемся с вами в ближайшее время.</p>
+		<form action="/" class="-visor-no-click">
+	
+			<div>
+				<input id="phone" placeholder="Ваш телефон" class="phone" name="phone" type="text" onkeyup="check_tel(this); return false;" autocomplete="off">
+			</div>
+			
+			<div>
+			<select name="type" id="type">
+				<option class="select_placeholder" value="" disabled="" selected="" hidden="">Тема обращения...</option>
+						</select>
+			</div>
+		
+			<div>
+				<input id="name" placeholder="Ваше имя" class="name" name="name" type="text" autocomplete="off">
+			</div>
+			
+			<div>
+				<input id="comment" placeholder="Комментарий (не обязательно)" class="comment" name="comment" type="text">
+			</div>
+	
+	      	<div class="clear"></div>
+	      	<link rel="stylesheet" type="text/css" href="/inc/form_confirm/checkbox.css" media="all">
+<div class="styled">
+	<input type="checkbox" name="personal_confirm" id="personal_confirm" class="checkbox">
+	<label for="personal_confirm">Я подтверждаю свое согласие на обработку персональных данных</label>
+</div>
+
+			<div class="result"></div>
+			<div style="float: right; padding: 10px 0px 15px 0;">
+					<div>
+						<a style="color: #FFFFFF" class="mybtn big" onclick="send_callback(); return false;" href="#"> Отправить </a>
+					</div>
+			</div>
+	      	
+
+	
+		</form>
+	</div>
+</div>
+<div class="clear"></div>
+<div class="footer">
+	<div class="container">
+		<style>
+.dev .dev_text {position: absolute; top: 0px; left: 40px; color: #FFFFFF!important; } 
+.dev .dev_text a {white-space:nowrap; color: #FFFFFF!important; text-decoration: none;}
+.dev .dev_text a, .dev .dev_text {font-family: Tahoma!important; font-weight: normal!important; font-size: 13px!important; line-height: 16px!important; font-weight: normal!important;}
+</style>
+<div class="dev">
+	<div class="dev_text"><a href="http://brain-site.ru/">создание сайта</a>:</div>
+	<div><a href="http://brain-site.ru/" title="Разработка сайтов в Перми"><img src="/pics/dev_white.png" alt="Разработка сайтов в Перми"></a></div>
+</div>	
+		<div class="contacts">
+			<div class="phone">+7 (342) <span>225-02-31</span></div>
+			<div class="address">г. Пермь, пер. Тополевый, д.5, оф. 1, ком. 7,8,9</div>
+			<div class="air p80"></div>
+			<div style="text-align: center;"><img src="/pics/logo_white.png"></div>
+		</div>
+		
+		<ul class="footer_menu">
+			<li class="item">
+					<div><a href="/about/">О компании</a></div>
+																</li>
+							<li class="item">
+					<div><a class="active" href="/disclosure-of-information/">Раскрытие информации</a></div>
+																</li>
+							<li class="item">
+					<div><a href="/paevye_fondy/">Паевые фонды</a></div>
+																</li>
+							<li class="item">
+					<div><a href="/contacts/">Контакты</a></div>
+																</li>
+									</ul>
+		<div class="clear"></div>
+				<div class="footer_text">
+			<p style="text-align: justify;"><span style="font-size: 8pt;">&nbsp; &nbsp;<span style="font-size: 8pt;"><span style="font-size: 13pt;">Стоимость инвестиционных паев Фондов может увеличиваться и уменьшаться, результаты инвестирования в прошлом не определяют доходы в будущем, государство не гарантирует доходность инвестиций в паевые инвестиционные фонды, прежде чем приобрести инвестиционный пай, следует внимательно ознакомиться с правилами доверительного управления Фондами.&nbsp;</span></span><br><span>&nbsp; &nbsp; &nbsp; Получить подробную информацию о Фондах, ознакомиться с Правилами доверительного управления Фондами, а также с иными документами, предусмотренными Федеральным законом от 29 ноября 2001 года № 156-ФЗ «Об инвестиционных фондах» и нормативными правовыми актами федерального органа исполнительной власти по рынку ценных бумаг можно по следующему адресу:&nbsp;<span>614000, Пермский край, <br> г.о. Пермский, г. Пермь, пер. Тополевый, д. 5, офис 1, комнаты 7,8,9&nbsp;</span> и по телефонам: <br>(342) 299-99-01, (342) <span>225-02-31</span>.</span></span><br><span style="font-size: 8pt;">&nbsp; &nbsp; &nbsp; ООО «УК «Кастом Кэпитал» имеет бессрочную лицензию на осуществление деятельности по управлению инвестиционными фондами, паевыми инвестиционными фондами и негосударственными пенсионными фондами № 21-000-1-00597 от 18.09.2008, выдана ФСФР РФ</span></p>
+<p style="text-align: justify;"><span style="font-size: 13pt; color: #c0c0c0;"><a href="https://custom-capital.ru/disclosure-of-information/"><span style="color: #c0c0c0;">Раскрытие информации в соответствии с Указанием Банка России от 02.11.2020 № 5609-У</span></a></span></p>
+<p><span style="font-size: 8pt;">&nbsp;</span></p>		</div>
+			
+		<div class="cr"><div>© ООО «УК «Кастом Кэпитал»</div></div>
+
+	</div>
+</div>
+
+
+<div id="lightboxOverlay" class="lightboxOverlay" style="display: none;"></div><div id="lightbox" class="lightbox" style="display: none;"><div class="lb-outerContainer"><div class="lb-container"><img class="lb-image" src=""><div class="lb-nav"><a class="lb-prev" href=""></a><a class="lb-next" href=""></a></div><div class="lb-loader"><a class="lb-cancel"></a></div></div></div><div class="lb-dataContainer"><div class="lb-data"><div class="lb-details"><span class="lb-caption"></span><span class="lb-number"></span></div><div class="lb-closeContainer"><a class="lb-close"></a></div></div></div></div>

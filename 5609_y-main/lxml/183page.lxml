@@ -1,0 +1,2086 @@
+
+		<div class="body-innerwrapper">
+			<!--[if lt IE 9]>
+			<div class="chromeframe alert alert-danger" style="text-align:center">You are using an <strong>outdated</strong> browser. Please <a target="_blank" href="http://browsehappy.com/">upgrade your browser</a> or <a target="_blank" href="http://www.google.com/chromeframe/?redirect=true">activate Google Chrome Frame</a> to improve your experience.</div>
+			<![endif]-->
+			<header id="sp-header-wrapper" class=" "><div class="container"><div class="row-fluid" id="header">
+<div id="sp-logo" class="span6"><div class="logo-wrapper"><a href="/"><img alt="" class="image-logo" src="/images/gpi/logoE.png"></a></div></div>
+
+<div id="sp-search" class="span6 visible-desktop">
+
+<div class="custom clearfix">
+	<table style="margin-left: auto; margin-right: auto;" border="0" align="right">
+<tbody>
+<tr>
+<td style="text-align: center;">&nbsp;<a href="/index.html"> <img title="Страница приветствия" src="/images/gpi/icons/house_32x32.png" alt="Страница приветствия" width="16" height="16"></a></td>
+<td style="text-align: center;">&nbsp; &nbsp;<a href="/index.php/2014-01-11-17-28-36"><img title="Авторизация" src="/images/gpi/icons/key_2_32x32.png" alt="Кабинет инвестора" width="16" height="16"></a>&nbsp;</td>
+<td>&nbsp; &nbsp;<a href="/index.php/izmenit-parol?view=responsive"><img title="Обратная связь" src="/images/gpi/icons/mail_32x32.png" alt="images/gpi/icons/mail_32x322.png" width="16" height="16"></a></td>
+<td>&nbsp; &nbsp;<a href="/index.php/maps"><img title="Карта сайта" src="/images/gpi/icons/workflow_32x32.png" alt="" width="16" height="16"></a>&nbsp; &nbsp; &nbsp; &nbsp;&nbsp;</td>
+</tr>
+</tbody>
+</table></div>
+</div>
+</div></div></header><section id="sp-menu-wrapper" class=" "><div class="container"><div class="row-fluid" id="menu">
+<div id="sp-menu" class="span12">	
+					<div class="mobile-menu pull-right btn hidden-desktop" id="sp-moble-menu">
+						<i class="icon-align-justify"></i>
+					<select class="select-menu"><option value="#">--Navigate to--</option><option value="https://www.ocgpi.ru/">&nbsp;&nbsp;</option><option value="https://www.ocgpi.ru/index.php/about">&nbsp;О Компании</option><option value="https://www.ocgpi.ru/index.php/about/%D0%BE-%D0%BA%D0%BE%D0%BC%D0%BF%D0%B0%D0%BD%D0%B8%D0%B8">---&nbsp;О Компании</option><option value="https://www.ocgpi.ru/index.php/about/news">---&nbsp;Новости</option><option value="https://www.ocgpi.ru/index.php/disclosure-information">---&nbsp;Отчетность</option><option value="https://www.ocgpi.ru/index.php/about/vakansii">---&nbsp;Вакансии</option><option value="https://www.ocgpi.ru/index.php/contakt">---&nbsp;Контакты</option><option value="https://www.ocgpi.ru/index.php/funds">&nbsp;Фонды</option><option value="https://www.ocgpi.ru/index.php/funds/avantel">---&nbsp;ЗПИФ комбинированный «Авантель»</option><option value="https://www.ocgpi.ru/index.php/funds/alexeevskiy">---&nbsp;ЗПИФ недвижимости «Алексеевский»</option><option value="https://www.ocgpi.ru/index.php/funds/%D0%B7%D0%BF%D0%B8%D1%84%D0%BD-%C2%AB%D1%8D%D0%BB%D0%B8%D1%82%D0%B0%C2%BB">---&nbsp;ЗПИФ недвижимости «ЭЛИТА»</option><option value="https://www.ocgpi.ru/index.php/funds/sovuzsberzaim">---&nbsp;ЗПИФ комбинированный «Союзсберзайм»</option><option value="https://www.ocgpi.ru/index.php/funds/soglasie-razvitie">---&nbsp;ЗПИФ комбинированный «Согласие и Развитие»</option><option value="https://www.ocgpi.ru/index.php/funds/biznes-finans">---&nbsp;ЗПИФ комбинированный «Бизнес Финанс»</option><option value="https://www.ocgpi.ru/index.php/funds/zpifk-inntegraciya">---&nbsp;ЗПИФ комбинированный «Интеграция»</option><option value="https://www.ocgpi.ru/index.php/funds/pif-stolichniy-zaym">---&nbsp;ЗПИФ комбинированный «Столичный займ»</option><option value="https://www.ocgpi.ru/index.php/funds/perspektivnie-investicii">---&nbsp;ЗПИФ комбинированный «Джи Пи Ай Перспективные инвестиции»</option><option value="https://www.ocgpi.ru/index.php/funds/zpif-gelidor">---&nbsp;ЗПИФ комбинированный «Первый цифровой»</option><option value="https://www.ocgpi.ru/index.php/funds/%D0%B7%D0%BF%D0%B8%D1%84%D0%BD-%C2%AB%D1%86%D0%B5%D0%BD%D1%82%D1%80%D0%B0%D0%BB%D1%8C%D0%BD%D0%B0%D1%8F-%D1%83%D0%BF%D1%80%D0%B0%D0%B2%D0%BB%D1%8F%D1%8E%D1%89%D0%B0%D1%8F-%D0%BA%D0%BE%D0%BC%D0%BF%D0%B0%D0%BD%D0%B8%D1%8F-%D0%BD%D0%B5%D0%B4%D0%B2%D0%B8%D0%B6%D0%B8%D0%BC%D0%BE%D1%81%D1%82%D1%8C-%C2%BB">---&nbsp;ЗПИФН «Центральная Управляющая Компания. Недвижимость.»</option><option value="https://www.ocgpi.ru/index.php/funds/pia">---&nbsp;ЗПИФ комбинированный «Профессиональный инвестиционный альянс»</option><option value="https://www.ocgpi.ru/index.php/funds/%D0%B7%D0%BF%D0%B8%D1%84-%D0%BA%D0%BE%D0%BC%D0%B1%D0%B8%D0%BD%D0%B8%D1%80%D0%BE%D0%B2%D0%B0%D0%BD%D0%BD%D1%8B%D0%B9-%C2%AB%D1%8D%D0%BD%D0%B5%D1%80%D0%B3%D0%B8%D1%8F-%D1%80%D0%BE%D1%81%D1%82%D0%B0%C2%BB">---&nbsp;ЗПИФ комбинированный «Энергия роста»</option><option value="https://www.ocgpi.ru/index.php/funds/%D0%B7%D0%BF%D0%B8%D1%84-%D0%BA%D0%BE%D0%BC%D0%B1%D0%B8%D0%BD%D0%B8%D1%80%D0%BE%D0%B2%D0%B0%D0%BD%D0%BD%D1%8B%D0%B9-%C2%AB%D1%84%D0%B5%D0%BD%D0%B8%D0%BA%D1%81%C2%BB">---&nbsp;ЗПИФ комбинированный «Феникс»</option><option value="https://www.ocgpi.ru/index.php/funds/%D0%B7%D0%BF%D0%B8%D1%84-%D0%BA%D0%BE%D0%BC%D0%B1%D0%B8%D0%BD%D0%B8%D1%80%D0%BE%D0%B2%D0%B0%D0%BD%D0%BD%D1%8B%D0%B9-%C2%AB%D1%80%D1%81%D0%B2%C2%BB">---&nbsp;ЗПИФ комбинированный «РСВ»</option><option value="https://www.ocgpi.ru/index.php/funds/%D0%B7%D0%BF%D0%B8%D1%84-%D0%BA%D0%BE%D0%BC%D0%B1%D0%B8%D0%BD%D0%B8%D1%80%D0%BE%D0%B2%D0%B0%D0%BD%D0%BD%D1%8B%D0%B9-%C2%AB%D1%84%D0%BE%D1%80%D1%82%D0%B8%D1%84%D0%B8%D0%BA%D0%B0%C2%BB">---&nbsp;ЗПИФ комбинированный «Фортифика»</option><option value="https://www.ocgpi.ru/index.php/funds/%D0%B7%D0%BF%D0%B8%D1%84-%D0%BA%D0%BE%D0%BC%D0%B1%D0%B8%D0%BD%D0%B8%D1%80%D0%BE%D0%B2%D0%B0%D0%BD%D0%BD%D1%8B%D0%B9-%C2%AB%D0%BD%D0%BE%D0%B3%D0%B8%D0%BD%D1%81%D0%BA%D0%B8%D0%B9%C2%BB">---&nbsp;ЗПИФ комбинированный «Ногинский»</option><option value="https://www.ocgpi.ru/index.php/funds/%D0%B7%D0%BF%D0%B8%D1%84-%D0%BA%D0%BE%D0%BC%D0%B1%D0%B8%D0%BD%D0%B8%D1%80%D0%BE%D0%B2%D0%B0%D0%BD%D0%BD%D1%8B%D0%B9-%C2%AB%D0%BC%D1%83%D0%BB%D1%8C%D1%82%D0%B8-%D0%B8%D0%BD%D0%B2%D0%B5%D1%81%D1%82%C2%BB">---&nbsp;ЗПИФ комбинированный «Мульти-Инвест»</option><option value="https://www.ocgpi.ru/index.php/funds/%D0%B7%D0%BF%D0%B8%D1%84-%D0%BA%D0%BE%D0%BC%D0%B1%D0%B8%D0%BD%D0%B8%D1%80%D0%BE%D0%B2%D0%B0%D0%BD%D0%BD%D1%8B%D0%B9-%C2%AB%D0%BC%D0%B5%D1%81%D1%81%D0%B8%D0%B5%D1%80-55%C2%BB">---&nbsp;ЗПИФ комбинированный «Мессиер 55»</option><option value="https://www.ocgpi.ru/index.php/funds/%D0%B7%D0%BF%D0%B8%D1%84-%D0%BA%D0%BE%D0%BC%D0%B1%D0%B8%D0%BD%D0%B8%D1%80%D0%BE%D0%B2%D0%B0%D0%BD%D0%BD%D1%8B%D0%B9-%C2%AB%D0%BF%D0%B5%D1%82%D1%80%D0%BE%D0%BB%D0%B5%D1%83%D0%BC%C2%BB">---&nbsp;ЗПИФ комбинированный «Петролеум»</option><option value="https://www.ocgpi.ru/index.php/funds/%D0%B7%D0%BF%D0%B8%D1%84-%D0%BA%D0%BE%D0%BC%D0%B1%D0%B8%D0%BD%D0%B8%D1%80%D0%BE%D0%B2%D0%B0%D0%BD%D0%BD%D1%8B%D0%B9-%C2%AB%D0%BC%D0%B0%D0%B3%D0%B8%D1%81%D1%82%D1%80%D0%B0%D0%BB%D1%8C%D0%BD%D1%8B%D0%B9%C2%BB">---&nbsp;ЗПИФ комбинированный «Магистральный»</option><option value="https://www.ocgpi.ru/index.php/cisu">&nbsp;Управление ипотечным покрытием</option><option value="https://www.ocgpi.ru/index.php/cisu/isu-isu-m2">---&nbsp;Ипотечные сертификаты участия «ИСУ-М2»</option><option value="https://www.ocgpi.ru/index.php/cisu/isu-premium-es">---&nbsp;Ипотечные сертификаты участия «ИСУ Премиум Эстейт»</option><option value="https://www.ocgpi.ru/index.php/cisu/isu-oldtown">---&nbsp;Ипотечные сертификаты участия «ИСУ Старый Град»</option><option value="https://www.ocgpi.ru/index.php/cisu/isu_etalon">---&nbsp;Ипотечные сертификаты участия «ИСУ Эталон»</option><option value="https://www.ocgpi.ru/index.php/cisu/isu-isu-megdureche">---&nbsp;Ипотечные сертификаты участия «ИСУ Междуречье»</option><option value="https://www.ocgpi.ru/index.php/cisu/%D0%B8%D0%BF%D0%BE%D1%82%D0%B5%D1%87%D0%BD%D1%8B%D0%B5-%D1%81%D0%B5%D1%80%D1%82%D0%B8%D1%84%D0%B8%D0%BA%D0%B0%D1%82%D1%8B-%D1%83%D1%87%D0%B0%D1%81%D1%82%D0%B8%D1%8F-%C2%AB%D0%B8%D1%81%D1%83-%D0%BF%D0%B5%D1%80%D0%B2%D1%8B%D0%B9-%D1%81%D0%BB%D0%BE%D0%B1%D0%BE%D0%B4%D1%81%D0%BA%D0%BE%D0%B9%C2%BB">---&nbsp;Ипотечные сертификаты участия «ИСУ Первый Слободской» (не действует)</option><option value="https://www.ocgpi.ru/index.php/disclosure-information">&nbsp;Раскрытие информации</option><option value="https://www.ocgpi.ru/index.php/disclosure-information/financial-statements">---&nbsp;Бухгалтерская (финансовая) отчетность РСБУ</option><option value="https://www.ocgpi.ru/index.php/disclosure-information/financial-osbu">---&nbsp;Бухгалтерская (финансовая) отчетность ОСБУ</option><option value="https://www.ocgpi.ru/index.php/disclosure-information/msfo">---&nbsp;Консолидированная финансовая отчетность МСФО</option><option value="https://www.ocgpi.ru/index.php/disclosure-information/raschet-sobstvennykh-sredstv" selected="selected">---&nbsp;Расчет собственных средств</option><option value="https://www.ocgpi.ru/index.php/disclosure-information/raskrytie-informatsii">---&nbsp;Раскрытие информации по ПИФ</option><option value="https://www.ocgpi.ru/index.php/disclosure-information/dokumentooborot">---&nbsp;Электронный документооборот</option><option value="https://www.ocgpi.ru/index.php/about/news">---&nbsp;Официальные сообщения</option><option value="https://www.ocgpi.ru/index.php/disclosure-information/regcval">---&nbsp;Регламенты и положения</option><option value="https://www.ocgpi.ru/index.php/disclosure-information/founders">---&nbsp;Сведения об участниках общества</option><option value="https://www.ocgpi.ru/index.php/disclosure-information/%D0%B8%D0%BD%D1%84%D0%BE%D1%80%D0%BC%D0%B0%D1%86%D0%B8%D1%8F-%D0%BE-%D0%BB%D0%B8%D1%86%D0%B5,-%D0%BE%D1%81%D1%83%D1%89%D0%B5%D1%81%D1%82%D0%B2%D0%BB%D1%8F%D1%8E%D1%89%D0%B5%D0%BC-%D1%84%D1%83%D0%BD%D0%BA%D1%86%D0%B8%D0%B8-%D0%B5%D0%B4%D0%B8%D0%BD%D0%BE%D0%BB%D0%B8%D1%87%D0%BD%D0%BE%D0%B3%D0%BE-%D0%B8%D1%81%D0%BF%D0%BE%D0%BB%D0%BD%D0%B8%D1%82%D0%B5%D0%BB%D1%8C%D0%BD%D0%BE%D0%B3%D0%BE-%D0%BE%D1%80%D0%B3%D0%B0%D0%BD%D0%B0">---&nbsp;Информация о лице, осуществляющем функции единоличного исполнительного органа</option><option value="https://www.ocgpi.ru/index.php/contakt">&nbsp;Контакты</option></select></div>
+				
+					<div id="sp-main-menu" class="visible-desktop">
+						<ul class="sp-menu level-0"><li id="menu-item-101" class="menu-item first"><a href="https://www.ocgpi.ru/" class="menu-item first"><span class="menu"><span class="menu-title">&nbsp;</span></span></a></li><li id="menu-item-102" class="menu-item parent "><a href="/index.php/about" class="menu-item parent "><span class="menu"><span class="menu-title">О Компании</span></span></a><div class="sp-submenu sub-level" style="top: 60px; left: 0px;"><div class="sp-submenu-wrap" style="margin-top: 0px; margin-left: 0px;"><div class="sp-submenu-inner clearfix" style="width: 230px;"><div class="megacol col1 first" style="width: 230px;"><ul class="sp-menu level-1 menu-item"><li id="menu-item-359" class="menu-item first"><a href="/index.php/about/о-компании" class="menu-item first"><span class="menu"><span class="menu-title">О Компании</span></span></a></li><li id="menu-item-240" class="menu-item"><a href="/index.php/about/news" class="menu-item"><span class="menu"><span class="menu-title">Новости</span></span></a></li><li id="menu-item-233" class="menu-item"><a href="/index.php/disclosure-information" class="menu-item"><span class="menu"><span class="menu-title">Отчетность</span></span></a></li><li id="menu-item-234" class="menu-item"><a href="/index.php/about/vakansii" class="menu-item"><span class="menu"><span class="menu-title">Вакансии</span></span></a></li><li id="menu-item-235" class="menu-item last"><a href="/index.php/contakt" class="menu-item last"><span class="menu"><span class="menu-title">Контакты</span></span></a></li></ul></div></div></div></div></li><li id="menu-item-177" class="menu-item parent "><a href="/index.php/funds" class="menu-item parent "><span class="menu"><span class="menu-title">Фонды</span></span></a><div class="sp-submenu sub-level" style="top: 60px; left: -6.20312px;"><div class="sp-submenu-wrap" style="margin-top: 0px; margin-left: 0px;"><div class="sp-submenu-inner clearfix" style="width: 800px;"><div class="megacol col1 first" style="width: 250px;"><ul class="sp-menu level-1 menu-item"><li id="menu-item-221" class="menu-item first"><a href="/index.php/funds/avantel" class="menu-item first"><span class="menu"><span class="menu-title">ЗПИФ комбинированный «Авантель»</span></span></a></li><li id="menu-item-223" class="menu-item"><a href="/index.php/funds/alexeevskiy" class="menu-item"><span class="menu"><span class="menu-title">ЗПИФ недвижимости «Алексеевский»</span></span></a></li><li id="menu-item-328" class="menu-item"><a href="/index.php/funds/зпифн-«элита»" class="menu-item"><span class="menu"><span class="menu-title">ЗПИФ недвижимости «ЭЛИТА»</span></span></a></li><li id="menu-item-230" class="menu-item"><a href="/index.php/funds/sovuzsberzaim" class="menu-item"><span class="menu"><span class="menu-title">ЗПИФ комбинированный «Союзсберзайм»</span></span></a></li><li id="menu-item-293" class="menu-item"><a href="/index.php/funds/soglasie-razvitie" class="menu-item"><span class="menu"><span class="menu-title">ЗПИФ комбинированный «Согласие и Развитие»</span></span></a></li><li id="menu-item-326" class="menu-item"><a href="/index.php/funds/biznes-finans" class="menu-item"><span class="menu"><span class="menu-title">ЗПИФ комбинированный «Бизнес Финанс»</span></span></a></li><li id="menu-item-327" class="menu-item"><a href="/index.php/funds/zpifk-inntegraciya" class="menu-item"><span class="menu"><span class="menu-title">ЗПИФ комбинированный «Интеграция»</span></span></a></li></ul></div><div class="megacol col2" style="width: 300px;"><ul class="sp-menu level-1 menu-item"><li id="menu-item-335" class="menu-item first"><a href="/index.php/funds/pif-stolichniy-zaym" class="menu-item first"><span class="menu"><span class="menu-title">ЗПИФ комбинированный «Столичный займ»</span></span></a></li><li id="menu-item-336" class="menu-item"><a href="/index.php/funds/perspektivnie-investicii" class="menu-item"><span class="menu"><span class="menu-title">ЗПИФ комбинированный «Джи Пи Ай Перспективные инвестиции»</span></span></a></li><li id="menu-item-340" class="menu-item"><a href="/index.php/funds/zpif-gelidor" class="menu-item"><span class="menu"><span class="menu-title">ЗПИФ комбинированный «Первый цифровой»</span></span></a></li><li id="menu-item-341" class="menu-item"><a href="/index.php/funds/зпифн-«центральная-управляющая-компания-недвижимость-»" class="menu-item"><span class="menu"><span class="menu-title">ЗПИФН «Центральная Управляющая Компания. Недвижимость.»</span></span></a></li><li id="menu-item-342" class="menu-item"><a href="/index.php/funds/pia" class="menu-item"><span class="menu"><span class="menu-title">ЗПИФ комбинированный «Профессиональный инвестиционный альянс»</span></span></a></li><li id="menu-item-343" class="menu-item"><a href="/index.php/funds/зпиф-комбинированный-«энергия-роста»" class="menu-item"><span class="menu"><span class="menu-title">ЗПИФ комбинированный «Энергия роста»</span></span></a></li><li id="menu-item-345" class="menu-item"><a href="/index.php/funds/зпиф-комбинированный-«феникс»" class="menu-item"><span class="menu"><span class="menu-title">ЗПИФ комбинированный «Феникс»</span></span></a></li></ul></div><div class="megacol col3 last" style="width: 250px;"><ul class="sp-menu level-1 menu-item"><li id="menu-item-348" class="menu-item first"><a href="/index.php/funds/зпиф-комбинированный-«рсв»" class="menu-item first"><span class="menu"><span class="menu-title">ЗПИФ комбинированный «РСВ»</span></span></a></li><li id="menu-item-352" class="menu-item"><a href="/index.php/funds/зпиф-комбинированный-«фортифика»" class="menu-item"><span class="menu"><span class="menu-title">ЗПИФ комбинированный «Фортифика»</span></span></a></li><li id="menu-item-354" class="menu-item"><a href="/index.php/funds/зпиф-комбинированный-«ногинский»" class="menu-item"><span class="menu"><span class="menu-title">ЗПИФ комбинированный «Ногинский»</span></span></a></li><li id="menu-item-355" class="menu-item"><a href="/index.php/funds/зпиф-комбинированный-«мульти-инвест»" class="menu-item"><span class="menu"><span class="menu-title">ЗПИФ комбинированный «Мульти-Инвест»</span></span></a></li><li id="menu-item-361" class="menu-item"><a href="/index.php/funds/зпиф-комбинированный-«мессиер-55»" class="menu-item"><span class="menu"><span class="menu-title">ЗПИФ комбинированный «Мессиер 55»</span></span></a></li><li id="menu-item-364" class="menu-item"><a href="/index.php/funds/зпиф-комбинированный-«петролеум»" class="menu-item"><span class="menu"><span class="menu-title">ЗПИФ комбинированный «Петролеум»</span></span></a></li><li id="menu-item-365" class="menu-item"><a href="/index.php/funds/зпиф-комбинированный-«магистральный»" class="menu-item"><span class="menu"><span class="menu-title">ЗПИФ комбинированный «Магистральный»</span></span></a></li></ul></div></div></div></div></li><li id="menu-item-168" class="menu-item parent "><a href="/index.php/cisu" class="menu-item parent "><span class="menu"><span class="menu-title">Управление ипотечным покрытием</span></span></a><div class="sp-submenu sub-level" style="top: 60px; left: 0px;"><div class="sp-submenu-wrap" style="margin-top: 0px; margin-left: 0px;"><div class="sp-submenu-inner clearfix" style="width: 360px;"><div class="megacol col1 first" style="width: 360px;"><ul class="sp-menu level-1 menu-item"><li id="menu-item-284" class="menu-item first"><a href="/index.php/cisu/isu-isu-m2" class="menu-item first"><span class="menu"><span class="menu-title">Ипотечные сертификаты участия «ИСУ-М2»</span></span></a></li><li id="menu-item-285" class="menu-item"><a href="/index.php/cisu/isu-premium-es" class="menu-item"><span class="menu"><span class="menu-title">Ипотечные сертификаты участия «ИСУ Премиум Эстейт»</span></span></a></li><li id="menu-item-286" class="menu-item"><a href="/index.php/cisu/isu-oldtown" class="menu-item"><span class="menu"><span class="menu-title">Ипотечные сертификаты участия «ИСУ Старый Град»</span></span></a></li><li id="menu-item-287" class="menu-item"><a href="/index.php/cisu/isu_etalon" class="menu-item"><span class="menu"><span class="menu-title">Ипотечные сертификаты участия «ИСУ Эталон»</span></span></a></li><li id="menu-item-288" class="menu-item"><a href="/index.php/cisu/isu-isu-megdureche" class="menu-item"><span class="menu"><span class="menu-title">Ипотечные сертификаты участия «ИСУ Междуречье»</span></span></a></li><li id="menu-item-290" class="menu-item last"><a href="/index.php/cisu/ипотечные-сертификаты-участия-«ису-первый-слободской»" class="menu-item last"><span class="menu"><span class="menu-title">Ипотечные сертификаты участия «ИСУ Первый Слободской» (не действует)</span></span></a></li></ul></div></div></div></div></li><li id="menu-item-107" class="menu-item active parent "><a href="/index.php/disclosure-information" class="menu-item active parent "><span class="menu"><span class="menu-title">Раскрытие информации</span></span></a><div class="sp-submenu sub-level" style="top: 60px; left: -36.5469px;"><div class="sp-submenu-wrap" style="margin-top: 0px; margin-left: 0px;"><div class="sp-submenu-inner clearfix" style="width: 480px;"><div class="megacol col1 first" style="width: 480px;"><ul class="sp-menu level-1 menu-item"><li id="menu-item-266" class="menu-item first"><a href="/index.php/disclosure-information/financial-statements" class="menu-item first"><span class="menu"><span class="menu-title">Бухгалтерская (финансовая) отчетность РСБУ</span></span></a></li><li id="menu-item-338" class="menu-item"><a href="/index.php/disclosure-information/financial-osbu" class="menu-item"><span class="menu"><span class="menu-title">Бухгалтерская (финансовая) отчетность ОСБУ</span></span></a></li><li id="menu-item-294" class="menu-item"><a href="/index.php/disclosure-information/msfo" class="menu-item"><span class="menu"><span class="menu-title">Консолидированная финансовая отчетность МСФО</span></span></a></li><li id="menu-item-267" class="menu-item active"><a href="/index.php/disclosure-information/raschet-sobstvennykh-sredstv" class="menu-item active"><span class="menu"><span class="menu-title">Расчет собственных средств</span></span></a></li><li id="menu-item-271" class="menu-item"><a href="/index.php/disclosure-information/raskrytie-informatsii" class="menu-item"><span class="menu"><span class="menu-title">Раскрытие информации по ПИФ</span></span></a></li><li id="menu-item-269" class="menu-item"><a href="/index.php/disclosure-information/dokumentooborot" class="menu-item"><span class="menu"><span class="menu-title">Электронный документооборот</span></span></a></li><li id="menu-item-270" class="menu-item"><a href="/index.php/about/news" class="menu-item"><span class="menu"><span class="menu-title">Официальные сообщения</span></span></a></li><li id="menu-item-334" class="menu-item"><a href="/index.php/disclosure-information/regcval" class="menu-item"><span class="menu"><span class="menu-title">Регламенты и положения</span></span></a></li><li id="menu-item-337" class="menu-item"><a href="/index.php/disclosure-information/founders" class="menu-item"><span class="menu"><span class="menu-title">Сведения об участниках общества</span></span></a></li><li id="menu-item-360" class="menu-item last"><a href="/index.php/disclosure-information/информация-о-лице,-осуществляющем-функции-единоличного-исполнительного-органа" class="menu-item last"><span class="menu"><span class="menu-title">Информация о лице, осуществляющем функции единоличного исполнительного органа</span></span></a></li></ul></div></div></div></div></li><li id="menu-item-123" class="menu-item last"><a href="/index.php/contakt" class="menu-item last"><span class="menu"><span class="menu-title">Контакты</span></span></a></li></ul>        
+					</div>  				
+				</div>
+</div></div></section><section id="sp-title-wrapper" class="  visible-desktop"><div class="container"><div class="row-fluid" id="title">
+<div id="sp-title" class="span12">
+
+<div class="custom clearfix" style="background-image: url('/images/gpi/dao1.png')">
+	<p></p><div class="row-fluid "><div class="span6"><p></p>
+<h3><span style="color: #808080; font-size: large;">Раскрытие Информации ООО «УК «Джи Пи Ай»</span>&nbsp;</h3></div></div>&nbsp;</div>
+</div>
+</div></div></section><section id="sp-main-body-wrapper" class=" "><div class="container"><div class="row-fluid" id="main-body">
+<div id="sp-message-area" class="span8"><div id="system-message-container">
+	</div>
+<section id="sp-component-area-wrapper" class=" "><div class="row-fluid" id="component-area">
+<div id="sp-component-area" class="span12"><section id="sp-component-wrapper"><div id="sp-component"><div class=" koowa-container koowa com_docman">
+                <!--[if lte IE 8 ]><div class="old-ie"><![endif]-->
+                
+<script data-inline="" type="text/javascript">(function() {var el = document.documentElement; var cl = "k-js-enabled"; if (el.classList) { el.classList.add(cl); }else{ el.className += " " + cl;}})()</script>
+
+
+
+
+<div class="docman_list_layout docman_list_layout--default">
+
+        
+        
+
+            <div class="docman_category">
+
+                        <h3 class="koowa_header">
+                        
+                                        <span class="koowa_header__item">
+                    <span class="koowa_wrapped_content">
+                        <span class="whitespace_preserver">
+                            Расчет собственных средств                        </span>
+                    </span>
+                </span>
+                    </h3>
+        
+                
+
+                
+                            <div class="docman_description">
+                  <p>Согласно&nbsp;законодательству Российской Федерации, ООО «УК «Джи Пи Ай» раскрывает расчет собственных средств.</p>            </div>
+            </div>
+    
+
+        
+
+                <div class="docman_block">
+                        <h3 class="koowa_header">
+                            </h3>
+                    </div>
+
+                <form action="/index.php/disclosure-information/raschet-sobstvennykh-sredstv" method="get" class="k-js-grid-controller" data-token-name="csrf_token" data-token-value="24645ea9813a13affe219aca04cb38136207d873">
+
+                        
+                        
+                        
+    
+            
+            
+
+        
+
+
+
+            
+<div class="docman_document" itemscope="" itemtype="http://schema.org/CreativeWork">
+
+        	
+<div class="docman-row">
+    <div class="docman-group">	
+	
+    <h4 class="docman-doc-details">
+                        <span class="koowa_header__item koowa_header__item--image_container">
+                        <a class="koowa_header__image_link docman_track_download" href="/index.php/disclosure-information/raschet-sobstvennykh-sredstv/3088-расчет-собственных-средств-на-31-05-2023г/file" data-title="Расчет собственных средств на 31.05.2023г." data-id="3088" target="_blank"><!--
+                -->
+                
+<span class="k-icon-document-pdf  k-icon--size-medium k-icon-type-pdf" aria-hidden="true"></span>
+<span class="k-visually-hidden">pdf</span>
+            </a>
+                    </span>
+        
+                <span class="koowa_header__item">
+            <span class="koowa_wrapped_content">
+                <span class="whitespace_preserver">
+                                                                    <a class="koowa_header__title_link docman_track_download" href="/index.php/disclosure-information/raschet-sobstvennykh-sredstv/3088-расчет-собственных-средств-на-31-05-2023г/file" data-title="Расчет собственных средств на 31.05.2023г." data-id="3088" target="_blank"><!--
+                            --><span itemprop="name">Расчет собственных средств на 31.05.2023г.</span></a>
+                                            
+                    
+                                        
+                                        
+                                        
+                                        
+                                                        </span>
+            </span>
+        </span>
+    </h4>
+    
+
+        
+
+           <!-- <p class="docman_document_details">-->
+        <div class="docman-document-details">
+            <table class="table table-bordered">
+                <tbody>
+				<tr>
+				<td class="detail-label">
+                      <!--  <div class="created-on-label">-->
+            <!--<time itemprop="datePublished" datetime=""> -->
+			                 Опубликован: 
+				</td>
+				<td>
+				14.06.2023 15:15				</td>
+				</tr>
+         <!--   </time>-->
+       <!-- </div>-->
+        
+                		
+				
+      <!--  <div class="modified-on-label">-->
+         <!--   <time itemprop="dateModified" datetime="">-->
+		 <tr>
+		 <td class="detail-label">
+                Доступен до: 		</td>
+		<td>
+
+				17.06.2026		</td>
+		</tr>
+</tbody></table></div>		
+         <!--   </time>-->
+     <!--   </div>-->
+        </div></div>
+                        <!--    <div class="owner-label">-->
+                        <!--    </div>-->
+        
+                
+                 <!--   </p>-->
+    
+
+
+
+        
+
+            <div class="docman_description">
+        
+            </div>
+    
+
+        
+
+        
+
+</div>        
+
+
+
+            
+<div class="docman_document" itemscope="" itemtype="http://schema.org/CreativeWork">
+
+        	
+<div class="docman-row">
+    <div class="docman-group">	
+	
+    <h4 class="docman-doc-details">
+                        <span class="koowa_header__item koowa_header__item--image_container">
+                        <a class="koowa_header__image_link docman_track_download" href="/index.php/disclosure-information/raschet-sobstvennykh-sredstv/3073-расчет-собственных-средств-на-30-04-2023г/file" data-title="Расчет собственных средств на 30.04.2023г." data-id="3073" target="_blank"><!--
+                -->
+                
+<span class="k-icon-document-pdf  k-icon--size-medium k-icon-type-pdf" aria-hidden="true"></span>
+<span class="k-visually-hidden">pdf</span>
+            </a>
+                    </span>
+        
+                <span class="koowa_header__item">
+            <span class="koowa_wrapped_content">
+                <span class="whitespace_preserver">
+                                                                    <a class="koowa_header__title_link docman_track_download" href="/index.php/disclosure-information/raschet-sobstvennykh-sredstv/3073-расчет-собственных-средств-на-30-04-2023г/file" data-title="Расчет собственных средств на 30.04.2023г." data-id="3073" target="_blank"><!--
+                            --><span itemprop="name">Расчет собственных средств на 30.04.2023г.</span></a>
+                                            
+                    
+                                        
+                                        
+                                        
+                                        
+                                                        </span>
+            </span>
+        </span>
+    </h4>
+    
+
+        
+
+           <!-- <p class="docman_document_details">-->
+        <div class="docman-document-details">
+            <table class="table table-bordered">
+                <tbody>
+				<tr>
+				<td class="detail-label">
+                      <!--  <div class="created-on-label">-->
+            <!--<time itemprop="datePublished" datetime=""> -->
+			                 Опубликован: 
+				</td>
+				<td>
+				17.05.2023 16:51				</td>
+				</tr>
+         <!--   </time>-->
+       <!-- </div>-->
+        
+                		
+				
+      <!--  <div class="modified-on-label">-->
+         <!--   <time itemprop="dateModified" datetime="">-->
+		 <tr>
+		 <td class="detail-label">
+                Доступен до: 		</td>
+		<td>
+
+				17.05.2026		</td>
+		</tr>
+</tbody></table></div>		
+         <!--   </time>-->
+     <!--   </div>-->
+        </div></div>
+                        <!--    <div class="owner-label">-->
+                        <!--    </div>-->
+        
+                
+                 <!--   </p>-->
+    
+
+
+
+        
+
+            <div class="docman_description">
+        
+            </div>
+    
+
+        
+
+        
+
+</div>        
+
+
+
+            
+<div class="docman_document" itemscope="" itemtype="http://schema.org/CreativeWork">
+
+        	
+<div class="docman-row">
+    <div class="docman-group">	
+	
+    <h4 class="docman-doc-details">
+                        <span class="koowa_header__item koowa_header__item--image_container">
+                        <a class="koowa_header__image_link docman_track_download" href="/index.php/disclosure-information/raschet-sobstvennykh-sredstv/3040-rss-31-03-2023г/file" data-title="Расчет собственных средств на 31.03.2023г." data-id="3040" target="_blank"><!--
+                -->
+                
+<span class="k-icon-document-pdf  k-icon--size-medium k-icon-type-pdf" aria-hidden="true"></span>
+<span class="k-visually-hidden">pdf</span>
+            </a>
+                    </span>
+        
+                <span class="koowa_header__item">
+            <span class="koowa_wrapped_content">
+                <span class="whitespace_preserver">
+                                                                    <a class="koowa_header__title_link docman_track_download" href="/index.php/disclosure-information/raschet-sobstvennykh-sredstv/3040-rss-31-03-2023г/file" data-title="Расчет собственных средств на 31.03.2023г." data-id="3040" target="_blank"><!--
+                            --><span itemprop="name">Расчет собственных средств на 31.03.2023г.</span></a>
+                                            
+                    
+                                        
+                                        
+                                        
+                                        
+                                                        </span>
+            </span>
+        </span>
+    </h4>
+    
+
+        
+
+           <!-- <p class="docman_document_details">-->
+        <div class="docman-document-details">
+            <table class="table table-bordered">
+                <tbody>
+				<tr>
+				<td class="detail-label">
+                      <!--  <div class="created-on-label">-->
+            <!--<time itemprop="datePublished" datetime=""> -->
+			                 Опубликован: 
+				</td>
+				<td>
+				14.04.2023 15:27				</td>
+				</tr>
+         <!--   </time>-->
+       <!-- </div>-->
+        
+                		
+				
+      <!--  <div class="modified-on-label">-->
+         <!--   <time itemprop="dateModified" datetime="">-->
+		 <tr>
+		 <td class="detail-label">
+                Доступен до: 		</td>
+		<td>
+
+				14.04.2026		</td>
+		</tr>
+</tbody></table></div>		
+         <!--   </time>-->
+     <!--   </div>-->
+        </div></div>
+                        <!--    <div class="owner-label">-->
+                        <!--    </div>-->
+        
+                
+                 <!--   </p>-->
+    
+
+
+
+        
+
+            <div class="docman_description">
+        
+            </div>
+    
+
+        
+
+        
+
+</div>        
+
+
+
+            
+<div class="docman_document" itemscope="" itemtype="http://schema.org/CreativeWork">
+
+        	
+<div class="docman-row">
+    <div class="docman-group">	
+	
+    <h4 class="docman-doc-details">
+                        <span class="koowa_header__item koowa_header__item--image_container">
+                        <a class="koowa_header__image_link docman_track_download" href="/index.php/disclosure-information/raschet-sobstvennykh-sredstv/3022-расчет-собственных-средств-на-28-02-2023г/file" data-title="Расчет собственных средств на 28.02.2023г." data-id="3022" target="_blank"><!--
+                -->
+                
+<span class="k-icon-document-pdf  k-icon--size-medium k-icon-type-pdf" aria-hidden="true"></span>
+<span class="k-visually-hidden">pdf</span>
+            </a>
+                    </span>
+        
+                <span class="koowa_header__item">
+            <span class="koowa_wrapped_content">
+                <span class="whitespace_preserver">
+                                                                    <a class="koowa_header__title_link docman_track_download" href="/index.php/disclosure-information/raschet-sobstvennykh-sredstv/3022-расчет-собственных-средств-на-28-02-2023г/file" data-title="Расчет собственных средств на 28.02.2023г." data-id="3022" target="_blank"><!--
+                            --><span itemprop="name">Расчет собственных средств на 28.02.2023г.</span></a>
+                                            
+                    
+                                        
+                                        
+                                        
+                                        
+                                                        </span>
+            </span>
+        </span>
+    </h4>
+    
+
+        
+
+           <!-- <p class="docman_document_details">-->
+        <div class="docman-document-details">
+            <table class="table table-bordered">
+                <tbody>
+				<tr>
+				<td class="detail-label">
+                      <!--  <div class="created-on-label">-->
+            <!--<time itemprop="datePublished" datetime=""> -->
+			                 Опубликован: 
+				</td>
+				<td>
+				15.03.2023 11:43				</td>
+				</tr>
+         <!--   </time>-->
+       <!-- </div>-->
+        
+                		
+				
+      <!--  <div class="modified-on-label">-->
+         <!--   <time itemprop="dateModified" datetime="">-->
+		 <tr>
+		 <td class="detail-label">
+                Доступен до: 		</td>
+		<td>
+
+				15.03.2026		</td>
+		</tr>
+</tbody></table></div>		
+         <!--   </time>-->
+     <!--   </div>-->
+        </div></div>
+                        <!--    <div class="owner-label">-->
+                        <!--    </div>-->
+        
+                
+                 <!--   </p>-->
+    
+
+
+
+        
+
+            <div class="docman_description">
+        
+            </div>
+    
+
+        
+
+        
+
+</div>        
+
+
+
+            
+<div class="docman_document" itemscope="" itemtype="http://schema.org/CreativeWork">
+
+        	
+<div class="docman-row">
+    <div class="docman-group">	
+	
+    <h4 class="docman-doc-details">
+                        <span class="koowa_header__item koowa_header__item--image_container">
+                        <a class="koowa_header__image_link docman_track_download" href="/index.php/disclosure-information/raschet-sobstvennykh-sredstv/3004-расчет-собственных-средств-на-31-01-2023г/file" data-title="Расчет собственных средств на 31.01.2023г." data-id="3004" target="_blank"><!--
+                -->
+                
+<span class="k-icon-document-pdf  k-icon--size-medium k-icon-type-pdf" aria-hidden="true"></span>
+<span class="k-visually-hidden">pdf</span>
+            </a>
+                    </span>
+        
+                <span class="koowa_header__item">
+            <span class="koowa_wrapped_content">
+                <span class="whitespace_preserver">
+                                                                    <a class="koowa_header__title_link docman_track_download" href="/index.php/disclosure-information/raschet-sobstvennykh-sredstv/3004-расчет-собственных-средств-на-31-01-2023г/file" data-title="Расчет собственных средств на 31.01.2023г." data-id="3004" target="_blank"><!--
+                            --><span itemprop="name">Расчет собственных средств на 31.01.2023г.</span></a>
+                                            
+                    
+                                        
+                                        
+                                        
+                                        
+                                                        </span>
+            </span>
+        </span>
+    </h4>
+    
+
+        
+
+           <!-- <p class="docman_document_details">-->
+        <div class="docman-document-details">
+            <table class="table table-bordered">
+                <tbody>
+				<tr>
+				<td class="detail-label">
+                      <!--  <div class="created-on-label">-->
+            <!--<time itemprop="datePublished" datetime=""> -->
+			                 Опубликован: 
+				</td>
+				<td>
+				14.02.2023 15:34				</td>
+				</tr>
+         <!--   </time>-->
+       <!-- </div>-->
+        
+                		
+				
+      <!--  <div class="modified-on-label">-->
+         <!--   <time itemprop="dateModified" datetime="">-->
+		 <tr>
+		 <td class="detail-label">
+                Доступен до: 		</td>
+		<td>
+
+				14.02.2026		</td>
+		</tr>
+</tbody></table></div>		
+         <!--   </time>-->
+     <!--   </div>-->
+        </div></div>
+                        <!--    <div class="owner-label">-->
+                        <!--    </div>-->
+        
+                
+                 <!--   </p>-->
+    
+
+
+
+        
+
+            <div class="docman_description">
+        
+            </div>
+    
+
+        
+
+        
+
+</div>        
+
+
+
+            
+<div class="docman_document" itemscope="" itemtype="http://schema.org/CreativeWork">
+
+        	
+<div class="docman-row">
+    <div class="docman-group">	
+	
+    <h4 class="docman-doc-details">
+                        <span class="koowa_header__item koowa_header__item--image_container">
+                        <a class="koowa_header__image_link docman_track_download" href="/index.php/disclosure-information/raschet-sobstvennykh-sredstv/2964-расчет-собственных-средств-на-30-12-2022г/file" data-title="Расчет собственных средств на 30.12.2022г." data-id="2964" target="_blank"><!--
+                -->
+                
+<span class="k-icon-document-pdf  k-icon--size-medium k-icon-type-pdf" aria-hidden="true"></span>
+<span class="k-visually-hidden">pdf</span>
+            </a>
+                    </span>
+        
+                <span class="koowa_header__item">
+            <span class="koowa_wrapped_content">
+                <span class="whitespace_preserver">
+                                                                    <a class="koowa_header__title_link docman_track_download" href="/index.php/disclosure-information/raschet-sobstvennykh-sredstv/2964-расчет-собственных-средств-на-30-12-2022г/file" data-title="Расчет собственных средств на 30.12.2022г." data-id="2964" target="_blank"><!--
+                            --><span itemprop="name">Расчет собственных средств на 30.12.2022г.</span></a>
+                                            
+                    
+                                        
+                                        
+                                        
+                                        
+                                                        </span>
+            </span>
+        </span>
+    </h4>
+    
+
+        
+
+           <!-- <p class="docman_document_details">-->
+        <div class="docman-document-details">
+            <table class="table table-bordered">
+                <tbody>
+				<tr>
+				<td class="detail-label">
+                      <!--  <div class="created-on-label">-->
+            <!--<time itemprop="datePublished" datetime=""> -->
+			                 Опубликован: 
+				</td>
+				<td>
+				20.01.2023 17:49				</td>
+				</tr>
+         <!--   </time>-->
+       <!-- </div>-->
+        
+                		
+				
+      <!--  <div class="modified-on-label">-->
+         <!--   <time itemprop="dateModified" datetime="">-->
+		 <tr>
+		 <td class="detail-label">
+                Доступен до: 		</td>
+		<td>
+
+				20.01.2026		</td>
+		</tr>
+</tbody></table></div>		
+         <!--   </time>-->
+     <!--   </div>-->
+        </div></div>
+                        <!--    <div class="owner-label">-->
+                        <!--    </div>-->
+        
+                
+                 <!--   </p>-->
+    
+
+
+
+        
+
+            <div class="docman_description">
+        
+            </div>
+    
+
+        
+
+        
+
+</div>        
+
+
+
+            
+<div class="docman_document" itemscope="" itemtype="http://schema.org/CreativeWork">
+
+        	
+<div class="docman-row">
+    <div class="docman-group">	
+	
+    <h4 class="docman-doc-details">
+                        <span class="koowa_header__item koowa_header__item--image_container">
+                        <a class="koowa_header__image_link docman_track_download" href="/index.php/disclosure-information/raschet-sobstvennykh-sredstv/2959-расчет-собственных-средств-на-30-11-2022г/file" data-title="Расчет собственных средств на 30.11.2022г." data-id="2959" target="_blank"><!--
+                -->
+                
+<span class="k-icon-document-pdf  k-icon--size-medium k-icon-type-pdf" aria-hidden="true"></span>
+<span class="k-visually-hidden">pdf</span>
+            </a>
+                    </span>
+        
+                <span class="koowa_header__item">
+            <span class="koowa_wrapped_content">
+                <span class="whitespace_preserver">
+                                                                    <a class="koowa_header__title_link docman_track_download" href="/index.php/disclosure-information/raschet-sobstvennykh-sredstv/2959-расчет-собственных-средств-на-30-11-2022г/file" data-title="Расчет собственных средств на 30.11.2022г." data-id="2959" target="_blank"><!--
+                            --><span itemprop="name">Расчет собственных средств на 30.11.2022г.</span></a>
+                                            
+                    
+                                        
+                                        
+                                        
+                                        
+                                                        </span>
+            </span>
+        </span>
+    </h4>
+    
+
+        
+
+           <!-- <p class="docman_document_details">-->
+        <div class="docman-document-details">
+            <table class="table table-bordered">
+                <tbody>
+				<tr>
+				<td class="detail-label">
+                      <!--  <div class="created-on-label">-->
+            <!--<time itemprop="datePublished" datetime=""> -->
+			                 Опубликован: 
+				</td>
+				<td>
+				14.12.2022 10:08				</td>
+				</tr>
+         <!--   </time>-->
+       <!-- </div>-->
+        
+                		
+				
+      <!--  <div class="modified-on-label">-->
+         <!--   <time itemprop="dateModified" datetime="">-->
+		 <tr>
+		 <td class="detail-label">
+                Доступен до: 		</td>
+		<td>
+
+				14.12.2025		</td>
+		</tr>
+</tbody></table></div>		
+         <!--   </time>-->
+     <!--   </div>-->
+        </div></div>
+                        <!--    <div class="owner-label">-->
+                        <!--    </div>-->
+        
+                
+                 <!--   </p>-->
+    
+
+
+
+        
+
+            <div class="docman_description">
+        
+            </div>
+    
+
+        
+
+        
+
+</div>        
+
+
+
+            
+<div class="docman_document" itemscope="" itemtype="http://schema.org/CreativeWork">
+
+        	
+<div class="docman-row">
+    <div class="docman-group">	
+	
+    <h4 class="docman-doc-details">
+                        <span class="koowa_header__item koowa_header__item--image_container">
+                        <a class="koowa_header__image_link docman_track_download" href="/index.php/disclosure-information/raschet-sobstvennykh-sredstv/2940-расчет-собственных-средств-на-31-10-2022г/file" data-title="Расчет собственных средств на 31.10.2022г." data-id="2940" target="_blank"><!--
+                -->
+                
+<span class="k-icon-document-pdf  k-icon--size-medium k-icon-type-pdf" aria-hidden="true"></span>
+<span class="k-visually-hidden">pdf</span>
+            </a>
+                    </span>
+        
+                <span class="koowa_header__item">
+            <span class="koowa_wrapped_content">
+                <span class="whitespace_preserver">
+                                                                    <a class="koowa_header__title_link docman_track_download" href="/index.php/disclosure-information/raschet-sobstvennykh-sredstv/2940-расчет-собственных-средств-на-31-10-2022г/file" data-title="Расчет собственных средств на 31.10.2022г." data-id="2940" target="_blank"><!--
+                            --><span itemprop="name">Расчет собственных средств на 31.10.2022г.</span></a>
+                                            
+                    
+                                        
+                                        
+                                        
+                                        
+                                                        </span>
+            </span>
+        </span>
+    </h4>
+    
+
+        
+
+           <!-- <p class="docman_document_details">-->
+        <div class="docman-document-details">
+            <table class="table table-bordered">
+                <tbody>
+				<tr>
+				<td class="detail-label">
+                      <!--  <div class="created-on-label">-->
+            <!--<time itemprop="datePublished" datetime=""> -->
+			                 Опубликован: 
+				</td>
+				<td>
+				14.11.2022 18:13				</td>
+				</tr>
+         <!--   </time>-->
+       <!-- </div>-->
+        
+                		
+				
+      <!--  <div class="modified-on-label">-->
+         <!--   <time itemprop="dateModified" datetime="">-->
+		 <tr>
+		 <td class="detail-label">
+                Доступен до: 		</td>
+		<td>
+
+				14.11.2025		</td>
+		</tr>
+</tbody></table></div>		
+         <!--   </time>-->
+     <!--   </div>-->
+        </div></div>
+                        <!--    <div class="owner-label">-->
+                        <!--    </div>-->
+        
+                
+                 <!--   </p>-->
+    
+
+
+
+        
+
+            <div class="docman_description">
+        
+            </div>
+    
+
+        
+
+        
+
+</div>        
+
+
+
+            
+<div class="docman_document" itemscope="" itemtype="http://schema.org/CreativeWork">
+
+        	
+<div class="docman-row">
+    <div class="docman-group">	
+	
+    <h4 class="docman-doc-details">
+                        <span class="koowa_header__item koowa_header__item--image_container">
+                        <a class="koowa_header__image_link docman_track_download" href="/index.php/disclosure-information/raschet-sobstvennykh-sredstv/2914-расчет-собственных-средств-на-30-09-2022г/file" data-title="Расчет собственных средств на 30.09.2022г." data-id="2914" target="_blank"><!--
+                -->
+                
+<span class="k-icon-document-pdf  k-icon--size-medium k-icon-type-pdf" aria-hidden="true"></span>
+<span class="k-visually-hidden">pdf</span>
+            </a>
+                    </span>
+        
+                <span class="koowa_header__item">
+            <span class="koowa_wrapped_content">
+                <span class="whitespace_preserver">
+                                                                    <a class="koowa_header__title_link docman_track_download" href="/index.php/disclosure-information/raschet-sobstvennykh-sredstv/2914-расчет-собственных-средств-на-30-09-2022г/file" data-title="Расчет собственных средств на 30.09.2022г." data-id="2914" target="_blank"><!--
+                            --><span itemprop="name">Расчет собственных средств на 30.09.2022г.</span></a>
+                                            
+                    
+                                        
+                                        
+                                        
+                                        
+                                                        </span>
+            </span>
+        </span>
+    </h4>
+    
+
+        
+
+           <!-- <p class="docman_document_details">-->
+        <div class="docman-document-details">
+            <table class="table table-bordered">
+                <tbody>
+				<tr>
+				<td class="detail-label">
+                      <!--  <div class="created-on-label">-->
+            <!--<time itemprop="datePublished" datetime=""> -->
+			                 Опубликован: 
+				</td>
+				<td>
+				13.10.2022 14:23				</td>
+				</tr>
+         <!--   </time>-->
+       <!-- </div>-->
+        
+                		
+				
+      <!--  <div class="modified-on-label">-->
+         <!--   <time itemprop="dateModified" datetime="">-->
+		 <tr>
+		 <td class="detail-label">
+                Доступен до: 		</td>
+		<td>
+
+				13.10.2025		</td>
+		</tr>
+</tbody></table></div>		
+         <!--   </time>-->
+     <!--   </div>-->
+        </div></div>
+                        <!--    <div class="owner-label">-->
+                        <!--    </div>-->
+        
+                
+                 <!--   </p>-->
+    
+
+
+
+        
+
+            <div class="docman_description">
+        
+            </div>
+    
+
+        
+
+        
+
+</div>        
+
+
+
+            
+<div class="docman_document" itemscope="" itemtype="http://schema.org/CreativeWork">
+
+        	
+<div class="docman-row">
+    <div class="docman-group">	
+	
+    <h4 class="docman-doc-details">
+                        <span class="koowa_header__item koowa_header__item--image_container">
+                        <a class="koowa_header__image_link docman_track_download" href="/index.php/disclosure-information/raschet-sobstvennykh-sredstv/2886-расчет-собственных-средств-на-31-08-2022г/file" data-title="Расчет собственных средств на 31.08.2022г." data-id="2886" target="_blank"><!--
+                -->
+                
+<span class="k-icon-document-pdf  k-icon--size-medium k-icon-type-pdf" aria-hidden="true"></span>
+<span class="k-visually-hidden">pdf</span>
+            </a>
+                    </span>
+        
+                <span class="koowa_header__item">
+            <span class="koowa_wrapped_content">
+                <span class="whitespace_preserver">
+                                                                    <a class="koowa_header__title_link docman_track_download" href="/index.php/disclosure-information/raschet-sobstvennykh-sredstv/2886-расчет-собственных-средств-на-31-08-2022г/file" data-title="Расчет собственных средств на 31.08.2022г." data-id="2886" target="_blank"><!--
+                            --><span itemprop="name">Расчет собственных средств на 31.08.2022г.</span></a>
+                                            
+                    
+                                        
+                                        
+                                        
+                                        
+                                                        </span>
+            </span>
+        </span>
+    </h4>
+    
+
+        
+
+           <!-- <p class="docman_document_details">-->
+        <div class="docman-document-details">
+            <table class="table table-bordered">
+                <tbody>
+				<tr>
+				<td class="detail-label">
+                      <!--  <div class="created-on-label">-->
+            <!--<time itemprop="datePublished" datetime=""> -->
+			                 Опубликован: 
+				</td>
+				<td>
+				12.09.2022 15:18				</td>
+				</tr>
+         <!--   </time>-->
+       <!-- </div>-->
+        
+                		
+				
+      <!--  <div class="modified-on-label">-->
+         <!--   <time itemprop="dateModified" datetime="">-->
+		 <tr>
+		 <td class="detail-label">
+                Доступен до: 		</td>
+		<td>
+
+				12.09.2025		</td>
+		</tr>
+</tbody></table></div>		
+         <!--   </time>-->
+     <!--   </div>-->
+        </div></div>
+                        <!--    <div class="owner-label">-->
+                        <!--    </div>-->
+        
+                
+                 <!--   </p>-->
+    
+
+
+
+        
+
+            <div class="docman_description">
+        
+            </div>
+    
+
+        
+
+        
+
+</div>        
+
+
+
+            
+<div class="docman_document" itemscope="" itemtype="http://schema.org/CreativeWork">
+
+        	
+<div class="docman-row">
+    <div class="docman-group">	
+	
+    <h4 class="docman-doc-details">
+                        <span class="koowa_header__item koowa_header__item--image_container">
+                        <a class="koowa_header__image_link docman_track_download" href="/index.php/disclosure-information/raschet-sobstvennykh-sredstv/2868-расчет-собственных-средств-на-29-07-2022г/file" data-title="Расчет собственных средств на 29.07.2022г." data-id="2868" target="_blank"><!--
+                -->
+                
+<span class="k-icon-document-pdf  k-icon--size-medium k-icon-type-pdf" aria-hidden="true"></span>
+<span class="k-visually-hidden">pdf</span>
+            </a>
+                    </span>
+        
+                <span class="koowa_header__item">
+            <span class="koowa_wrapped_content">
+                <span class="whitespace_preserver">
+                                                                    <a class="koowa_header__title_link docman_track_download" href="/index.php/disclosure-information/raschet-sobstvennykh-sredstv/2868-расчет-собственных-средств-на-29-07-2022г/file" data-title="Расчет собственных средств на 29.07.2022г." data-id="2868" target="_blank"><!--
+                            --><span itemprop="name">Расчет собственных средств на 29.07.2022г.</span></a>
+                                            
+                    
+                                        
+                                        
+                                        
+                                        
+                                                        </span>
+            </span>
+        </span>
+    </h4>
+    
+
+        
+
+           <!-- <p class="docman_document_details">-->
+        <div class="docman-document-details">
+            <table class="table table-bordered">
+                <tbody>
+				<tr>
+				<td class="detail-label">
+                      <!--  <div class="created-on-label">-->
+            <!--<time itemprop="datePublished" datetime=""> -->
+			                 Опубликован: 
+				</td>
+				<td>
+				12.08.2022 15:46				</td>
+				</tr>
+         <!--   </time>-->
+       <!-- </div>-->
+        
+                		
+				
+      <!--  <div class="modified-on-label">-->
+         <!--   <time itemprop="dateModified" datetime="">-->
+		 <tr>
+		 <td class="detail-label">
+                Доступен до: 		</td>
+		<td>
+
+				12.08.2025		</td>
+		</tr>
+</tbody></table></div>		
+         <!--   </time>-->
+     <!--   </div>-->
+        </div></div>
+                        <!--    <div class="owner-label">-->
+                        <!--    </div>-->
+        
+                
+                 <!--   </p>-->
+    
+
+
+
+        
+
+            <div class="docman_description">
+        
+            </div>
+    
+
+        
+
+        
+
+</div>        
+
+
+
+            
+<div class="docman_document" itemscope="" itemtype="http://schema.org/CreativeWork">
+
+        	
+<div class="docman-row">
+    <div class="docman-group">	
+	
+    <h4 class="docman-doc-details">
+                        <span class="koowa_header__item koowa_header__item--image_container">
+                        <a class="koowa_header__image_link docman_track_download" href="/index.php/disclosure-information/raschet-sobstvennykh-sredstv/2837-расчет-собственных-средств-на-30-06-2022г/file" data-title="Расчет собственных средств на 30.06.2022г." data-id="2837" target="_blank"><!--
+                -->
+                
+<span class="k-icon-document-pdf  k-icon--size-medium k-icon-type-pdf" aria-hidden="true"></span>
+<span class="k-visually-hidden">pdf</span>
+            </a>
+                    </span>
+        
+                <span class="koowa_header__item">
+            <span class="koowa_wrapped_content">
+                <span class="whitespace_preserver">
+                                                                    <a class="koowa_header__title_link docman_track_download" href="/index.php/disclosure-information/raschet-sobstvennykh-sredstv/2837-расчет-собственных-средств-на-30-06-2022г/file" data-title="Расчет собственных средств на 30.06.2022г." data-id="2837" target="_blank"><!--
+                            --><span itemprop="name">Расчет собственных средств на 30.06.2022г.</span></a>
+                                            
+                    
+                                        
+                                        
+                                        
+                                        
+                                                        </span>
+            </span>
+        </span>
+    </h4>
+    
+
+        
+
+           <!-- <p class="docman_document_details">-->
+        <div class="docman-document-details">
+            <table class="table table-bordered">
+                <tbody>
+				<tr>
+				<td class="detail-label">
+                      <!--  <div class="created-on-label">-->
+            <!--<time itemprop="datePublished" datetime=""> -->
+			                 Опубликован: 
+				</td>
+				<td>
+				14.07.2022 14:09				</td>
+				</tr>
+         <!--   </time>-->
+       <!-- </div>-->
+        
+                		
+				
+      <!--  <div class="modified-on-label">-->
+         <!--   <time itemprop="dateModified" datetime="">-->
+		 <tr>
+		 <td class="detail-label">
+                Доступен до: 		</td>
+		<td>
+
+				14.07.2025		</td>
+		</tr>
+</tbody></table></div>		
+         <!--   </time>-->
+     <!--   </div>-->
+        </div></div>
+                        <!--    <div class="owner-label">-->
+                        <!--    </div>-->
+        
+                
+                 <!--   </p>-->
+    
+
+
+
+        
+
+            <div class="docman_description">
+        
+            </div>
+    
+
+        
+
+        
+
+</div>        
+
+
+
+            
+<div class="docman_document" itemscope="" itemtype="http://schema.org/CreativeWork">
+
+        	
+<div class="docman-row">
+    <div class="docman-group">	
+	
+    <h4 class="docman-doc-details">
+                        <span class="koowa_header__item koowa_header__item--image_container">
+                        <a class="koowa_header__image_link docman_track_download" href="/index.php/disclosure-information/raschet-sobstvennykh-sredstv/2833-расчет-собственных-средств-на-31-05-2022г/file" data-title="Расчет собственных средств на 31.05.2022г." data-id="2833" target="_blank"><!--
+                -->
+                
+<span class="k-icon-document-pdf  k-icon--size-medium k-icon-type-pdf" aria-hidden="true"></span>
+<span class="k-visually-hidden">pdf</span>
+            </a>
+                    </span>
+        
+                <span class="koowa_header__item">
+            <span class="koowa_wrapped_content">
+                <span class="whitespace_preserver">
+                                                                    <a class="koowa_header__title_link docman_track_download" href="/index.php/disclosure-information/raschet-sobstvennykh-sredstv/2833-расчет-собственных-средств-на-31-05-2022г/file" data-title="Расчет собственных средств на 31.05.2022г." data-id="2833" target="_blank"><!--
+                            --><span itemprop="name">Расчет собственных средств на 31.05.2022г.</span></a>
+                                            
+                    
+                                        
+                                        
+                                        
+                                        
+                                                        </span>
+            </span>
+        </span>
+    </h4>
+    
+
+        
+
+           <!-- <p class="docman_document_details">-->
+        <div class="docman-document-details">
+            <table class="table table-bordered">
+                <tbody>
+				<tr>
+				<td class="detail-label">
+                      <!--  <div class="created-on-label">-->
+            <!--<time itemprop="datePublished" datetime=""> -->
+			                 Опубликован: 
+				</td>
+				<td>
+				15.06.2022 17:00				</td>
+				</tr>
+         <!--   </time>-->
+       <!-- </div>-->
+        
+                		
+				
+      <!--  <div class="modified-on-label">-->
+         <!--   <time itemprop="dateModified" datetime="">-->
+		 <tr>
+		 <td class="detail-label">
+                Доступен до: 		</td>
+		<td>
+
+				15.06.2025		</td>
+		</tr>
+</tbody></table></div>		
+         <!--   </time>-->
+     <!--   </div>-->
+        </div></div>
+                        <!--    <div class="owner-label">-->
+                        <!--    </div>-->
+        
+                
+                 <!--   </p>-->
+    
+
+
+
+        
+
+            <div class="docman_description">
+        
+            </div>
+    
+
+        
+
+        
+
+</div>        
+
+
+
+            
+<div class="docman_document" itemscope="" itemtype="http://schema.org/CreativeWork">
+
+        	
+<div class="docman-row">
+    <div class="docman-group">	
+	
+    <h4 class="docman-doc-details">
+                        <span class="koowa_header__item koowa_header__item--image_container">
+                        <a class="koowa_header__image_link docman_track_download" href="/index.php/disclosure-information/raschet-sobstvennykh-sredstv/2813-расчет-собственных-средств-на-30-04-2022г/file" data-title="Расчет собственных средств на 30.04.2022г." data-id="2813" target="_blank"><!--
+                -->
+                
+<span class="k-icon-document-pdf  k-icon--size-medium k-icon-type-pdf" aria-hidden="true"></span>
+<span class="k-visually-hidden">pdf</span>
+            </a>
+                    </span>
+        
+                <span class="koowa_header__item">
+            <span class="koowa_wrapped_content">
+                <span class="whitespace_preserver">
+                                                                    <a class="koowa_header__title_link docman_track_download" href="/index.php/disclosure-information/raschet-sobstvennykh-sredstv/2813-расчет-собственных-средств-на-30-04-2022г/file" data-title="Расчет собственных средств на 30.04.2022г." data-id="2813" target="_blank"><!--
+                            --><span itemprop="name">Расчет собственных средств на 30.04.2022г.</span></a>
+                                            
+                    
+                                        
+                                        
+                                        
+                                        
+                                                        </span>
+            </span>
+        </span>
+    </h4>
+    
+
+        
+
+           <!-- <p class="docman_document_details">-->
+        <div class="docman-document-details">
+            <table class="table table-bordered">
+                <tbody>
+				<tr>
+				<td class="detail-label">
+                      <!--  <div class="created-on-label">-->
+            <!--<time itemprop="datePublished" datetime=""> -->
+			                 Опубликован: 
+				</td>
+				<td>
+				19.05.2022 14:44				</td>
+				</tr>
+         <!--   </time>-->
+       <!-- </div>-->
+        
+                		
+				
+      <!--  <div class="modified-on-label">-->
+         <!--   <time itemprop="dateModified" datetime="">-->
+		 <tr>
+		 <td class="detail-label">
+                Доступен до: 		</td>
+		<td>
+
+				19.05.2025		</td>
+		</tr>
+</tbody></table></div>		
+         <!--   </time>-->
+     <!--   </div>-->
+        </div></div>
+                        <!--    <div class="owner-label">-->
+                        <!--    </div>-->
+        
+                
+                 <!--   </p>-->
+    
+
+
+
+        
+
+            <div class="docman_description">
+        
+            </div>
+    
+
+        
+
+        
+
+</div>        
+
+
+
+            
+<div class="docman_document" itemscope="" itemtype="http://schema.org/CreativeWork">
+
+        	
+<div class="docman-row">
+    <div class="docman-group">	
+	
+    <h4 class="docman-doc-details">
+                        <span class="koowa_header__item koowa_header__item--image_container">
+                        <a class="koowa_header__image_link docman_track_download" href="/index.php/disclosure-information/raschet-sobstvennykh-sredstv/2797-расчет-собственных-средств-на-31-03-2022г/file" data-title="Расчет собственных средств на 31.03.2022г." data-id="2797" target="_blank"><!--
+                -->
+                
+<span class="k-icon-document-pdf  k-icon--size-medium k-icon-type-pdf" aria-hidden="true"></span>
+<span class="k-visually-hidden">pdf</span>
+            </a>
+                    </span>
+        
+                <span class="koowa_header__item">
+            <span class="koowa_wrapped_content">
+                <span class="whitespace_preserver">
+                                                                    <a class="koowa_header__title_link docman_track_download" href="/index.php/disclosure-information/raschet-sobstvennykh-sredstv/2797-расчет-собственных-средств-на-31-03-2022г/file" data-title="Расчет собственных средств на 31.03.2022г." data-id="2797" target="_blank"><!--
+                            --><span itemprop="name">Расчет собственных средств на 31.03.2022г.</span></a>
+                                            
+                    
+                                        
+                                        
+                                        
+                                        
+                                                        </span>
+            </span>
+        </span>
+    </h4>
+    
+
+        
+
+           <!-- <p class="docman_document_details">-->
+        <div class="docman-document-details">
+            <table class="table table-bordered">
+                <tbody>
+				<tr>
+				<td class="detail-label">
+                      <!--  <div class="created-on-label">-->
+            <!--<time itemprop="datePublished" datetime=""> -->
+			                 Опубликован: 
+				</td>
+				<td>
+				14.04.2022 14:51				</td>
+				</tr>
+         <!--   </time>-->
+       <!-- </div>-->
+        
+                		
+				
+      <!--  <div class="modified-on-label">-->
+         <!--   <time itemprop="dateModified" datetime="">-->
+		 <tr>
+		 <td class="detail-label">
+                Доступен до: 		</td>
+		<td>
+
+				14.04.2025		</td>
+		</tr>
+</tbody></table></div>		
+         <!--   </time>-->
+     <!--   </div>-->
+        </div></div>
+                        <!--    <div class="owner-label">-->
+                        <!--    </div>-->
+        
+                
+                 <!--   </p>-->
+    
+
+
+
+        
+
+            <div class="docman_description">
+        
+            </div>
+    
+
+        
+
+        
+
+</div>        
+
+
+
+            
+<div class="docman_document" itemscope="" itemtype="http://schema.org/CreativeWork">
+
+        	
+<div class="docman-row">
+    <div class="docman-group">	
+	
+    <h4 class="docman-doc-details">
+                        <span class="koowa_header__item koowa_header__item--image_container">
+                        <a class="koowa_header__image_link docman_track_download" href="/index.php/disclosure-information/raschet-sobstvennykh-sredstv/2763-расчет-собственных-средств-на-28-02-2022г/file" data-title="Расчет собственных средств на 28.02.2022г." data-id="2763" target="_blank"><!--
+                -->
+                
+<span class="k-icon-document-pdf  k-icon--size-medium k-icon-type-pdf" aria-hidden="true"></span>
+<span class="k-visually-hidden">pdf</span>
+            </a>
+                    </span>
+        
+                <span class="koowa_header__item">
+            <span class="koowa_wrapped_content">
+                <span class="whitespace_preserver">
+                                                                    <a class="koowa_header__title_link docman_track_download" href="/index.php/disclosure-information/raschet-sobstvennykh-sredstv/2763-расчет-собственных-средств-на-28-02-2022г/file" data-title="Расчет собственных средств на 28.02.2022г." data-id="2763" target="_blank"><!--
+                            --><span itemprop="name">Расчет собственных средств на 28.02.2022г.</span></a>
+                                            
+                    
+                                        
+                                        
+                                        
+                                        
+                                                        </span>
+            </span>
+        </span>
+    </h4>
+    
+
+        
+
+           <!-- <p class="docman_document_details">-->
+        <div class="docman-document-details">
+            <table class="table table-bordered">
+                <tbody>
+				<tr>
+				<td class="detail-label">
+                      <!--  <div class="created-on-label">-->
+            <!--<time itemprop="datePublished" datetime=""> -->
+			                 Опубликован: 
+				</td>
+				<td>
+				15.03.2022 12:50				</td>
+				</tr>
+         <!--   </time>-->
+       <!-- </div>-->
+        
+                		
+				
+      <!--  <div class="modified-on-label">-->
+         <!--   <time itemprop="dateModified" datetime="">-->
+		 <tr>
+		 <td class="detail-label">
+                Доступен до: 		</td>
+		<td>
+
+				15.03.2025		</td>
+		</tr>
+</tbody></table></div>		
+         <!--   </time>-->
+     <!--   </div>-->
+        </div></div>
+                        <!--    <div class="owner-label">-->
+                        <!--    </div>-->
+        
+                
+                 <!--   </p>-->
+    
+
+
+
+        
+
+            <div class="docman_description">
+        
+            </div>
+    
+
+        
+
+        
+
+</div>        
+
+
+
+            
+<div class="docman_document" itemscope="" itemtype="http://schema.org/CreativeWork">
+
+        	
+<div class="docman-row">
+    <div class="docman-group">	
+	
+    <h4 class="docman-doc-details">
+                        <span class="koowa_header__item koowa_header__item--image_container">
+                        <a class="koowa_header__image_link docman_track_download" href="/index.php/disclosure-information/raschet-sobstvennykh-sredstv/2735-расчет-собственных-средств-на-31-01-2022г/file" data-title="Расчет собственных средств на 31.01.2022г." data-id="2735" target="_blank"><!--
+                -->
+                
+<span class="k-icon-document-pdf  k-icon--size-medium k-icon-type-pdf" aria-hidden="true"></span>
+<span class="k-visually-hidden">pdf</span>
+            </a>
+                    </span>
+        
+                <span class="koowa_header__item">
+            <span class="koowa_wrapped_content">
+                <span class="whitespace_preserver">
+                                                                    <a class="koowa_header__title_link docman_track_download" href="/index.php/disclosure-information/raschet-sobstvennykh-sredstv/2735-расчет-собственных-средств-на-31-01-2022г/file" data-title="Расчет собственных средств на 31.01.2022г." data-id="2735" target="_blank"><!--
+                            --><span itemprop="name">Расчет собственных средств на 31.01.2022г.</span></a>
+                                            
+                    
+                                        
+                                        
+                                        
+                                        
+                                                        </span>
+            </span>
+        </span>
+    </h4>
+    
+
+        
+
+           <!-- <p class="docman_document_details">-->
+        <div class="docman-document-details">
+            <table class="table table-bordered">
+                <tbody>
+				<tr>
+				<td class="detail-label">
+                      <!--  <div class="created-on-label">-->
+            <!--<time itemprop="datePublished" datetime=""> -->
+			                 Опубликован: 
+				</td>
+				<td>
+				14.02.2022 15:23				</td>
+				</tr>
+         <!--   </time>-->
+       <!-- </div>-->
+        
+                		
+				
+      <!--  <div class="modified-on-label">-->
+         <!--   <time itemprop="dateModified" datetime="">-->
+		 <tr>
+		 <td class="detail-label">
+                Доступен до: 		</td>
+		<td>
+
+				14.02.2025		</td>
+		</tr>
+</tbody></table></div>		
+         <!--   </time>-->
+     <!--   </div>-->
+        </div></div>
+                        <!--    <div class="owner-label">-->
+                        <!--    </div>-->
+        
+                
+                 <!--   </p>-->
+    
+
+
+
+        
+
+            <div class="docman_description">
+        
+            </div>
+    
+
+        
+
+        
+
+</div>        
+
+
+
+            
+<div class="docman_document" itemscope="" itemtype="http://schema.org/CreativeWork">
+
+        	
+<div class="docman-row">
+    <div class="docman-group">	
+	
+    <h4 class="docman-doc-details">
+                        <span class="koowa_header__item koowa_header__item--image_container">
+                        <a class="koowa_header__image_link docman_track_download" href="/index.php/disclosure-information/raschet-sobstvennykh-sredstv/2717-расчет-собственных-средств-на-30-12-2021г/file" data-title="Расчет собственных средств на 30.12.2021г." data-id="2717" target="_blank"><!--
+                -->
+                
+<span class="k-icon-document-pdf  k-icon--size-medium k-icon-type-pdf" aria-hidden="true"></span>
+<span class="k-visually-hidden">pdf</span>
+            </a>
+                    </span>
+        
+                <span class="koowa_header__item">
+            <span class="koowa_wrapped_content">
+                <span class="whitespace_preserver">
+                                                                    <a class="koowa_header__title_link docman_track_download" href="/index.php/disclosure-information/raschet-sobstvennykh-sredstv/2717-расчет-собственных-средств-на-30-12-2021г/file" data-title="Расчет собственных средств на 30.12.2021г." data-id="2717" target="_blank"><!--
+                            --><span itemprop="name">Расчет собственных средств на 30.12.2021г.</span></a>
+                                            
+                    
+                                        
+                                        
+                                        
+                                        
+                                                        </span>
+            </span>
+        </span>
+    </h4>
+    
+
+        
+
+           <!-- <p class="docman_document_details">-->
+        <div class="docman-document-details">
+            <table class="table table-bordered">
+                <tbody>
+				<tr>
+				<td class="detail-label">
+                      <!--  <div class="created-on-label">-->
+            <!--<time itemprop="datePublished" datetime=""> -->
+			                 Опубликован: 
+				</td>
+				<td>
+				21.01.2022 16:51				</td>
+				</tr>
+         <!--   </time>-->
+       <!-- </div>-->
+        
+                		
+				
+      <!--  <div class="modified-on-label">-->
+         <!--   <time itemprop="dateModified" datetime="">-->
+		 <tr>
+		 <td class="detail-label">
+                Доступен до: 		</td>
+		<td>
+
+				21.01.2025		</td>
+		</tr>
+</tbody></table></div>		
+         <!--   </time>-->
+     <!--   </div>-->
+        </div></div>
+                        <!--    <div class="owner-label">-->
+                        <!--    </div>-->
+        
+                
+                 <!--   </p>-->
+    
+
+
+
+        
+
+            <div class="docman_description">
+        
+            </div>
+    
+
+        
+
+        
+
+</div>        
+
+
+
+            
+<div class="docman_document" itemscope="" itemtype="http://schema.org/CreativeWork">
+
+        	
+<div class="docman-row">
+    <div class="docman-group">	
+	
+    <h4 class="docman-doc-details">
+                        <span class="koowa_header__item koowa_header__item--image_container">
+                        <a class="koowa_header__image_link docman_track_download" href="/index.php/disclosure-information/raschet-sobstvennykh-sredstv/2699-расчет-собственных-средств-на-30-11-2021г/file" data-title="Расчет собственных средств на 30.11.2021г." data-id="2699" target="_blank"><!--
+                -->
+                
+<span class="k-icon-document-pdf  k-icon--size-medium k-icon-type-pdf" aria-hidden="true"></span>
+<span class="k-visually-hidden">pdf</span>
+            </a>
+                    </span>
+        
+                <span class="koowa_header__item">
+            <span class="koowa_wrapped_content">
+                <span class="whitespace_preserver">
+                                                                    <a class="koowa_header__title_link docman_track_download" href="/index.php/disclosure-information/raschet-sobstvennykh-sredstv/2699-расчет-собственных-средств-на-30-11-2021г/file" data-title="Расчет собственных средств на 30.11.2021г." data-id="2699" target="_blank"><!--
+                            --><span itemprop="name">Расчет собственных средств на 30.11.2021г.</span></a>
+                                            
+                    
+                                        
+                                        
+                                        
+                                        
+                                                        </span>
+            </span>
+        </span>
+    </h4>
+    
+
+        
+
+           <!-- <p class="docman_document_details">-->
+        <div class="docman-document-details">
+            <table class="table table-bordered">
+                <tbody>
+				<tr>
+				<td class="detail-label">
+                      <!--  <div class="created-on-label">-->
+            <!--<time itemprop="datePublished" datetime=""> -->
+			                 Опубликован: 
+				</td>
+				<td>
+				13.12.2021 17:24				</td>
+				</tr>
+         <!--   </time>-->
+       <!-- </div>-->
+        
+                		
+				
+      <!--  <div class="modified-on-label">-->
+         <!--   <time itemprop="dateModified" datetime="">-->
+		 <tr>
+		 <td class="detail-label">
+                Доступен до: 		</td>
+		<td>
+
+				13.12.2024		</td>
+		</tr>
+</tbody></table></div>		
+         <!--   </time>-->
+     <!--   </div>-->
+        </div></div>
+                        <!--    <div class="owner-label">-->
+                        <!--    </div>-->
+        
+                
+                 <!--   </p>-->
+    
+
+
+
+        
+
+            <div class="docman_description">
+        
+            </div>
+    
+
+        
+
+        
+
+</div>        
+
+
+
+            
+<div class="docman_document" itemscope="" itemtype="http://schema.org/CreativeWork">
+
+        	
+<div class="docman-row">
+    <div class="docman-group">	
+	
+    <h4 class="docman-doc-details">
+                        <span class="koowa_header__item koowa_header__item--image_container">
+                        <a class="koowa_header__image_link docman_track_download" href="/index.php/disclosure-information/raschet-sobstvennykh-sredstv/2679-расчет-собственных-средств-на-31-10-2021г/file" data-title="Расчет собственных средств на 31.10.2021г." data-id="2679" target="_blank"><!--
+                -->
+                
+<span class="k-icon-document-pdf  k-icon--size-medium k-icon-type-pdf" aria-hidden="true"></span>
+<span class="k-visually-hidden">pdf</span>
+            </a>
+                    </span>
+        
+                <span class="koowa_header__item">
+            <span class="koowa_wrapped_content">
+                <span class="whitespace_preserver">
+                                                                    <a class="koowa_header__title_link docman_track_download" href="/index.php/disclosure-information/raschet-sobstvennykh-sredstv/2679-расчет-собственных-средств-на-31-10-2021г/file" data-title="Расчет собственных средств на 31.10.2021г." data-id="2679" target="_blank"><!--
+                            --><span itemprop="name">Расчет собственных средств на 31.10.2021г.</span></a>
+                                            
+                    
+                                        
+                                        
+                                        
+                                        
+                                                        </span>
+            </span>
+        </span>
+    </h4>
+    
+
+        
+
+           <!-- <p class="docman_document_details">-->
+        <div class="docman-document-details">
+            <table class="table table-bordered">
+                <tbody>
+				<tr>
+				<td class="detail-label">
+                      <!--  <div class="created-on-label">-->
+            <!--<time itemprop="datePublished" datetime=""> -->
+			                 Опубликован: 
+				</td>
+				<td>
+				16.11.2021 15:31				</td>
+				</tr>
+         <!--   </time>-->
+       <!-- </div>-->
+        
+                		
+				
+      <!--  <div class="modified-on-label">-->
+         <!--   <time itemprop="dateModified" datetime="">-->
+		 <tr>
+		 <td class="detail-label">
+                Доступен до: 		</td>
+		<td>
+
+				16.11.2024		</td>
+		</tr>
+</tbody></table></div>		
+         <!--   </time>-->
+     <!--   </div>-->
+        </div></div>
+                        <!--    <div class="owner-label">-->
+                        <!--    </div>-->
+        
+                
+                 <!--   </p>-->
+    
+
+
+
+        
+
+            <div class="docman_description">
+        
+            </div>
+    
+
+        
+
+        
+
+</div>
+                                        <div class="k-pagination"><ul class="k-pagination__pages"><li class="k-is-active"><a>1</a></li><li class=""><a href="https://www.ocgpi.ru/index.php/disclosure-information/raschet-sobstvennykh-sredstv?limit=20&amp;limitstart=20">2</a></li><li><a href="https://www.ocgpi.ru/index.php/disclosure-information/raschet-sobstvennykh-sredstv?limit=20&amp;limitstart=20">»</a></li></ul></div>            
+        </form>
+    </div>
+
+                <!--[if lte IE 8 ]></div><![endif]-->
+                </div></div></section></div>
+</div></section></div>
+
+<aside id="sp-right" class="span4">	<div class="module ">	
+		<div class="mod-wrapper clearfix">		
+						<div class="mod-content clearfix">	
+				<div class="mod-inner clearfix">
+					
+<div class="search">
+    <form action="/index.php/disclosure-information/raschet-sobstvennykh-sredstv" method="post" class="input-append">
+		<input name="searchword" id="mod-search-searchword" type="text" placeholder="Поиск...">
+		<input type="hidden" name="task" value="search">
+    	<input type="hidden" name="option" value="com_search">
+    	<input type="hidden" name="Itemid" value="0">
+		<span class="add-on"><i class="icon-search"></i></span>
+    </form>
+</div>
+				</div>
+			</div>
+		</div>
+	</div>
+	<div class="gap"></div>
+		<div class="module ">	
+		<div class="mod-wrapper clearfix">		
+							<h3 class="header">			
+					<span>Раскрытие информации</span>				</h3>
+											<div class="mod-content clearfix">	
+				<div class="mod-inner clearfix">
+					<ul class="nav ">
+<li class="item-266"><a href="/index.php/disclosure-information/financial-statements">Бухгалтерская (финансовая) отчетность РСБУ</a></li><li class="item-338"><a href="/index.php/disclosure-information/financial-osbu">Бухгалтерская (финансовая) отчетность ОСБУ</a></li><li class="item-294"><a href="/index.php/disclosure-information/msfo">Консолидированная финансовая отчетность МСФО</a></li><li class="item-267 current"><a href="/index.php/disclosure-information/raschet-sobstvennykh-sredstv">Расчет собственных средств</a></li><li class="item-271"><a href="/index.php/disclosure-information/raskrytie-informatsii">Раскрытие информации по ПИФ</a></li><li class="item-269"><a href="/index.php/disclosure-information/dokumentooborot">Электронный документооборот</a></li><li class="item-270"><a href="/index.php/about/news">Официальные сообщения</a></li><li class="item-334"><a href="/index.php/disclosure-information/regcval">Регламенты и положения</a></li><li class="item-337"><a href="/index.php/disclosure-information/founders">Сведения об участниках общества</a></li><li class="item-360"><a href="/index.php/disclosure-information/информация-о-лице,-осуществляющем-функции-единоличного-исполнительного-органа">Информация о лице, осуществляющем функции единоличного исполнительного органа</a></li></ul>
+				</div>
+			</div>
+		</div>
+	</div>
+	<div class="gap"></div>
+		<div class="module ">	
+		<div class="mod-wrapper clearfix">		
+							<h3 class="header">			
+					<span>Курсы валют</span>				</h3>
+											<div class="mod-content clearfix">	
+				<div class="mod-inner clearfix">
+					
+<div class="jextcurrency" style="width:100%;">
+
+    
+        <div class="rates">
+                            <div class="item">
+                <div class="item1">
+                                            <img title="USD" alt="USD" src="https://www.ocgpi.ru/modules/mod_jextcurrency/assets/img/flags/USD.gif ">
+                                        <div class="scale">1</div> Доллар США
+                </div>
+                <div class="item2">84,23                    <span class="positive" title="вчера: 83,99">
+                        0,25                    </span>
+                </div>
+                <div style="clear:both;"></div>
+                </div>
+                            <div class="item">
+                <div class="item1">
+                                            <img title="EUR" alt="EUR" src="https://www.ocgpi.ru/modules/mod_jextcurrency/assets/img/flags/EUR.gif ">
+                                        <div class="scale">1</div> Евро
+                </div>
+                <div class="item2">92,07                    <span class="positive" title="вчера: 91,80">
+                        0,28                    </span>
+                </div>
+                <div style="clear:both;"></div>
+                </div>
+                            <div class="item">
+                <div class="item1">
+                                            <img title="GBP" alt="GBP" src="https://www.ocgpi.ru/modules/mod_jextcurrency/assets/img/flags/GBP.gif ">
+                                        <div class="scale">1</div> Фунт
+                </div>
+                <div class="item2">107,79                    <span class="positive" title="вчера: 107,60">
+                        0,18                    </span>
+                </div>
+                <div style="clear:both;"></div>
+                </div>
+                            <div class="item">
+                <div class="item1">
+                                            <img title="CHF" alt="CHF" src="https://www.ocgpi.ru/modules/mod_jextcurrency/assets/img/flags/CHF.gif ">
+                                        <div class="scale">1</div> Швейцарский франк
+                </div>
+                <div class="item2">93,83                    <span class="negative" title="вчера: 93,88">
+                        -0,05                    </span>
+                </div>
+                <div style="clear:both;"></div>
+                </div>
+                            <div class="item">
+                <div class="item1">
+                                            <img title="BYN" alt="BYN" src="https://www.ocgpi.ru/modules/mod_jextcurrency/assets/img/flags/BYN.gif ">
+                                        <div class="scale">1</div> Белорусский рубль
+                </div>
+                <div class="item2">28,24                    <span class="positive" title="вчера: 28,14">
+                        0,10                    </span>
+                </div>
+                <div style="clear:both;"></div>
+                </div>
+                            <div class="item">
+                <div class="item1">
+                                            <img title="KZT" alt="KZT" src="https://www.ocgpi.ru/modules/mod_jextcurrency/assets/img/flags/KZT.gif ">
+                                        <div class="scale">100</div> Казахстанских тенге
+                </div>
+                <div class="item2">18,84                    <span class="positive" title="вчера: 18,62">
+                        0,22                    </span>
+                </div>
+                <div style="clear:both;"></div>
+                </div>
+                    </div>
+
+        <div class="notes">
+            Дата: <strong>21.06.2023</strong><br>            Источник:             <strong><a id="notes" href="http://www.cbr.ru" target="_blank">ЦБ РФ</a></strong>
+        </div>
+
+        
+    <div style="clear:both;"></div>
+</div>				</div>
+			</div>
+		</div>
+	</div>
+	<div class="gap"></div>
+	</aside>
+</div></div></section><section id="sp-bottom-wrapper" class=" "><div class="container"><div class="row-fluid" id="bottom">
+<div id="sp-bottom" class="span12">
+
+<div class="custom clearfix">
+	<p></p><div class="row-fluid "><div class="span6"><p></p>
+<h4><span style="font-size: x-large; color: #993366;">Есть вопросы? Нужна консультация?</span></h4>
+<p><span style="font-size: medium;">Мы всегда рады ответить на все Ваши вопросы</span> </p></div><div class="span6"><p></p>
+<h1 class="bottom-h3" style="text-align: right;"><span style="font-size: 24pt;">+7 495 650 7777</span></h1></div></div></div>
+</div>
+</div></div></section><footer id="sp-footer-wrapper" class=" "><div class="container"><div class="row-fluid" id="footer">
+<div id="sp-footer1" class="span7"><span class="copyright">Copyright ©  2023 ООО "УК "Джи Пи Ай"</span><span class="designed-by">Дизайн студия Shaper </span> </div>
+
+<div id="sp-footer2" class="span5"><a class="sp-totop" href="javascript:;" title="Gotp Top" rel="nofollow"><small>Gotp Top </small><i class="icon-angle-up"></i></a><ul class="nav ">
+<li class="item-243"><a href="/index.php/shareholder">Словарь Пайщика</a></li><li class="item-242"><a href="/index.php/questions">Часто задаваемые вопросы</a></li><li class="item-153"><a href="/index.php/contakt">Контакты</a></li></ul>
+</div>
+</div></div></footer>			
+		</div>
+<!-- Yandex.Metrika counter -->
+<script type="text/javascript">
+    (function (d, w, c) {
+        (w[c] = w[c] || []).push(function() {
+            try {
+                w.yaCounter36917315 = new Ya.Metrika({
+                    id:36917315,
+                    clickmap:true,
+                    trackLinks:true,
+                    accurateTrackBounce:true,
+                    webvisor:true
+                });
+            } catch(e) { }
+        });
+
+        var n = d.getElementsByTagName("script")[0],
+            s = d.createElement("script"),
+            f = function () { n.parentNode.insertBefore(s, n); };
+        s.type = "text/javascript";
+        s.async = true;
+        s.src = "https://mc.yandex.ru/metrika/watch.js";
+
+        if (w.opera == "[object Opera]") {
+            d.addEventListener("DOMContentLoaded", f, false);
+        } else { f(); }
+    })(document, window, "yandex_metrika_callbacks");
+</script>
+<noscript><div><img src="https://mc.yandex.ru/watch/36917315" style="position:absolute; left:-9999px;" alt="" /></div></noscript>
+<!-- /Yandex.Metrika counter -->			
+    
+

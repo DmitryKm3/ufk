@@ -1,0 +1,924 @@
+
+
+
+<header class="mt-site-header container" role="banner">
+	<div class="row justify-content-center align-items-center py-4">
+		<div class="col-12 d-none d-md-block mb-md-4 mb-lg-0 col-lg-4">
+			<a href="https://www.uk-aris.com/" class="brand" rel="home">
+				<img src="/images/logo.png" alt="Управляющая Компания «Ар.И.С.»" class="img-fluid img-crisp">
+				<h1 class="sr-only">Управляющая Компания «Ар.И.С.»</h1>
+				
+			</a>
+		</div>
+		<div class="col-6 col-md-auto ml-lg-auto text-center text-lg-right mt-header-contact">
+			<a href="tel:+78612620494" class="mt-header-contact-link"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" class="mt-header-contact-icon" viewBox="0 0 24 24">
+    <path d="M0 0h24v24H0z" fill="none"></path>
+    <path d="M6.62 10.79c1.44 2.83 3.76 5.14 6.59 6.59l2.2-2.2c.27-.27.67-.36 1.02-.24 1.12.37 2.33.57 3.57.57.55 0 1 .45 1 1V20c0 .55-.45 1-1 1-9.39 0-17-7.61-17-17 0-.55.45-1 1-1h3.5c.55 0 1 .45 1 1 0 1.25.2 2.45.57 3.57.11.35.03.74-.25 1.02l-2.2 2.2z"></path>
+</svg> +7 (861) 262-04-94</a>
+		</div>
+		<div class="col-6 col-md-auto text-center text-lg-right mt-header-contact">
+			<a href="mailto:aris@uk-aris.com"><svg width="24" height="24" xmlns="http://www.w3.org/2000/svg" class="mt-header-contact-icon" viewBox="0 0 24 24">
+    <path fill="none" d="M0 0h24v24H0z"></path>
+    <path d="M20 4H4c-1.1 0-1.99.9-1.99 2L2 18c0 1.1.9 2 2 2h16c1.1 0 2-.9 2-2V6c0-1.1-.9-2-2-2zm0 14H4V8l8 5 8-5v10zm-8-7L4 6h16l-8 5z"></path>
+</svg> aris@uk-aris.com</a>
+		</div>
+		
+	</div>
+	<nav class="navbar navbar-expand-md navbar-dark bg-dark mt-navbar">
+	<button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
+    <span class="navbar-toggler-icon"></span>
+    Управляющая Компания «Ар.И.С.»
+  </button>
+  <div class="collapse navbar-collapse" id="navbarSupportedContent">
+	<ul class="navbar-nav" data-smartmenus-id="16873202656503494">
+		
+			<li class="nav-item dropdown"><a class="nav-link has-submenu" role="button" aria-haspopup="true" aria-expanded="false" href="/about-us/" title="Информация об УК" id="sm-16873202656503494-1" aria-controls="sm-16873202656503494-2">Информация об УК<span class="sub-arrow"></span></a>
+				
+				<ul class="dropdown-menu" id="sm-16873202656503494-2" role="group" aria-hidden="true" aria-labelledby="sm-16873202656503494-1" aria-expanded="false">
+				
+					<li><a class="dropdown-item" href="/about-us/company-info/" title="Реквизиты УК">Реквизиты УК</a></li>
+				
+					<li><a class="dropdown-item" href="/about-us/litsenziya/" title="Лицензии">Лицензии</a></li>
+				
+					<li><a class="dropdown-item" href="/about-us/managed-funds/" title="Фонды под управлением УК">Фонды под управлением УК</a></li>
+				
+				</ul>
+				
+			</li>
+		
+			<li class="nav-item dropdown"><a class="nav-link has-submenu" role="button" aria-haspopup="true" aria-expanded="false" href="/disclosure/" title="Документы и отчетность УК" id="sm-16873202656503494-3" aria-controls="sm-16873202656503494-4">Документы и отчетность УК<span class="sub-arrow"></span></a>
+				
+				<ul class="dropdown-menu" id="sm-16873202656503494-4" role="group" aria-hidden="true" aria-labelledby="sm-16873202656503494-3" aria-expanded="false">
+				
+					<li><a class="dropdown-item" href="/disclosure/managing-company/" title="Управляющая компания">Управляющая компания</a></li>
+				
+					<li><a class="dropdown-item" href="/disclosure/investment-funds-docs/" title="Паевые фонды">Паевые фонды</a></li>
+				
+					<li><a class="dropdown-item" href="/disclosure/data-provision/" title="Предоставление раскрываемой информации и прием обращений">Предоставление раскрываемой информации и прием обращений</a></li>
+				
+				</ul>
+				
+			</li>
+		
+			<li class="nav-item dropdown"><a class="nav-link has-submenu" role="button" aria-haspopup="true" aria-expanded="false" href="/managing-company-reports/" title="Сообщения о деятельности УК" id="sm-16873202656503494-5" aria-controls="sm-16873202656503494-6">Сообщения о деятельности УК<span class="sub-arrow"></span></a>
+				
+				<ul class="dropdown-menu" id="sm-16873202656503494-6" role="group" aria-hidden="true" aria-labelledby="sm-16873202656503494-5" aria-expanded="false">
+				
+					<li><a class="dropdown-item" href="/managing-company-reports/managing-company-messages/" title="Сообщения управляющей компании">Сообщения управляющей компании</a></li>
+				
+					<li><a class="dropdown-item" href="/managing-company-reports/reef-fund/" title="ЗПИФ недвижимости «РИФ»">ЗПИФ недвижимости «РИФ»</a></li>
+				
+					<li><a class="dropdown-item" href="/managing-company-reports/atoll-fund/" title="ЗПИФ недвижимости «Атолл»">ЗПИФ недвижимости «Атолл»</a></li>
+				
+					<li><a class="dropdown-item" href="/managing-company-reports/start-fund/" title="ЗПИФ комбинированный «СТАРТ»">ЗПИФ комбинированный «СТАРТ»</a></li>
+				
+				</ul>
+				
+			</li>
+		
+			<li class="nav-item"><a class="nav-link" href="/contact/" title="Контакты">Контакты</a>
+				
+			</li>
+		
+	</ul>
+  </div>
+</nav>
+
+</header>
+
+<div class="mt-site-content" role="main">
+	<div class="container">
+    <div class="row justify-content-center py-5">
+        <aside class="mt-sidebar col">
+	
+		<div class="card">
+			
+		  <div class="card-header">
+		    
+		    <a href="/disclosure/" class="section">Документы и отчетность УК</a>
+		    
+		  </div>
+		  <ul class="list-group list-group-flush">
+		    
+
+	
+		
+			<li class="list-group-item section">
+				<a href="/disclosure/managing-company/" class="section" title="Перейти на страницу Управляющая компания">
+					<span class="arrow">→</span>
+					<span class="text">Управляющая компания</span>
+				</a>
+
+				
+					<ul class="list-group list-group-flush">
+						
+
+	
+		
+			<li class="list-group-item current active">
+				
+					<span class="arrow">→</span>
+					<span class="text">Расчет собственных средств</span>
+				
+
+				
+					<ul class="list-group list-group-flush">
+						
+
+	
+		
+			<li class="list-group-item link">
+				<a href="/disclosure/managing-company/raschet-sobstvennykh-sredstv/arkhiv-upravlyayushchaya-kompaniya/" class="link" title="Перейти на страницу Архив расчета собственных средств">
+					<span class="arrow">→</span>
+					<span class="text">Архив расчета собственных средств</span>
+				</a>
+
+				
+
+			</li>
+		
+	
+
+
+					</ul>
+				
+
+			</li>
+		
+			<li class="list-group-item link">
+				<a href="/disclosure/managing-company/finreports-intermediate/" class="link" title="Перейти на страницу Промежуточная бухгалтерская (финансовая) отчетность">
+					<span class="arrow">→</span>
+					<span class="text">Промежуточная бухгалтерская (финансовая) отчетность</span>
+				</a>
+
+				
+
+			</li>
+		
+			<li class="list-group-item link">
+				<a href="/disclosure/managing-company/finreports-annual-audits/" class="link" title="Перейти на страницу Годовая бухгалтерская (финансовая) отчетность и аудиторское заключение">
+					<span class="arrow">→</span>
+					<span class="text">Годовая бухгалтерская (финансовая) отчетность и аудиторское заключение</span>
+				</a>
+
+				
+
+			</li>
+		
+			<li class="list-group-item link">
+				<a href="/disclosure/managing-company/finreports-annual-consolidated/" class="link" title="Перейти на страницу Годовая консолидированная бухгалтерская (финансовая) отчетность и аудиторское заключение">
+					<span class="arrow">→</span>
+					<span class="text">Годовая консолидированная бухгалтерская (финансовая) отчетность и аудиторское заключение</span>
+				</a>
+
+				
+
+			</li>
+		
+			<li class="list-group-item link">
+				<a href="/disclosure/managing-company/finreports-archive/" class="link" title="Перейти на страницу Бухгалтерская отчетность — архив">
+					<span class="arrow">→</span>
+					<span class="text">Бухгалтерская отчетность — архив</span>
+				</a>
+
+				
+
+			</li>
+		
+			<li class="list-group-item link">
+				<a href="/disclosure/managing-company/dokumenty-kasayushchiesya-deyatelnosti-uk/" class="link" title="Перейти на страницу Документы, касающиеся деятельности УК">
+					<span class="arrow">→</span>
+					<span class="text">Документы, касающиеся деятельности УК</span>
+				</a>
+
+				
+					<ul class="list-group list-group-flush">
+						
+
+
+					</ul>
+				
+
+			</li>
+		
+	
+
+
+					</ul>
+				
+
+			</li>
+		
+			<li class="list-group-item link">
+				<a href="/disclosure/investment-funds-docs/" class="link" title="Перейти на страницу Паевые фонды">
+					<span class="arrow">→</span>
+					<span class="text">Паевые фонды</span>
+				</a>
+
+				
+					<ul class="list-group list-group-flush">
+						
+
+
+					</ul>
+				
+
+			</li>
+		
+			<li class="list-group-item link">
+				<a href="/disclosure/data-provision/" class="link" title="Перейти на страницу Предоставление раскрываемой информации и прием обращений">
+					<span class="arrow">→</span>
+					<span class="text">Предоставление раскрываемой информации и прием обращений</span>
+				</a>
+
+				
+
+			</li>
+		
+	
+
+
+		  </ul>
+			
+		</div>
+	
+</aside>
+
+        <div class="col-12 col-md-8">
+        	<article>
+                <h1>Расчет собственных средств</h1>
+        		
+                    
+                    
+                        
+    
+	   <div class="element dnadesign__elemental__models__elementcontent" id="e1093">
+	<div class="content-element__content">
+	
+        <h2 class="content-element__title">2023 г.</h2>
+    
+    <p><a href="/assets/Uploads/ARIS/Raschet-sob-sredstv-2023/05-Raschet-sobstvennykh-sredstv-UK-na-31.05.2023.docx">Расчет собственных средств ООО "УК "АрИС", осуществленный на 31.05.2023 г. (Дата размещения 19.06.2023 г.; доступ к информации - в течение 3 лет с даты размещения).</a></p>
+</div>
+
+</div>
+
+    
+	   <div class="element dnadesign__elemental__models__elementcontent" id="e1089">
+	<div class="content-element__content">
+	
+    <p><a href="/assets/Uploads/ARIS/Raschet-sob-sredstv-2023/04-Raschet-sobstvennykh-sredstv-UK-na-30.04.2023.docx">Расчет собственных средств ООО "УК "АрИС", осуществленный на 30.04.2023 г. (Дата размещения 17.05.2023 г.; доступ к информации - в течение 3 лет с даты размещения)</a>.</p>
+</div>
+
+</div>
+
+    
+	   <div class="element dnadesign__elemental__models__elementcontent" id="e1082">
+	<div class="content-element__content">
+	
+    <p><a href="/assets/Uploads/ARIS/Raschet-sob-sredstv-2023/03-Raschet-sobstvennykh-sredstv-UK-na-31.03.2023.docx">Расчет собственных средств ООО "УК "АрИС", осуществленный на 31.03.2023 г. (Дата размещения 17.04.2023 г.; доступ к информации - в течение 3 лет с даты размещения).</a></p>
+</div>
+
+</div>
+
+    
+	   <div class="element dnadesign__elemental__models__elementcontent" id="e1076">
+	<div class="content-element__content">
+	
+    <p><a href="/assets/Uploads/ARIS/Raschet-sob-sredstv-2023/02-Raschet-sobstvennykh-sredstv-UK-na-28.02.2023.docx">Расчет собственных средств ООО "УК "АрИС", осуществленный на 28.02.2023 г. (Дата размещения 16.03.2023 г.; доступ к информации - в течение 3 лет с даты размещения).</a></p>
+</div>
+
+</div>
+
+    
+	   <div class="element dnadesign__elemental__models__elementcontent" id="e1074">
+	<div class="content-element__content">
+	
+    <p><a href="/assets/Uploads/ARIS/Raschet-sob-sredstv-2023/01-Raschet-sobstvennykh-sredstv-UK-na-31.01.2023.docx">Расчет собственных средств ООО "УК "АрИС", осуществленный на 31.01.2023 г. (Дата размещения 16.02.2023 г.; доступ к информации - в течение 3 лет с даты размещения).</a></p>
+</div>
+
+</div>
+
+    
+	   <div class="element dnadesign__elemental__models__elementcontent" id="e1060">
+	<div class="content-element__content">
+	
+        <h2 class="content-element__title">2022 г.</h2>
+    
+    <p><a href="/assets/Uploads/ARIS/Raschet-sob-sredstv-2022/12-Raschet-sobstvennykh-sredstv-UK-na-31.12.2022..docx">Расчет собственных средств ООО "УК "АрИС", осуществленный на 31.12.2022 г. (Дата размещения 20.01.2023 г.; доступ к информации - в течение 3 лет с даты размещения).</a></p>
+</div>
+
+</div>
+
+    
+	   <div class="element dnadesign__elemental__models__elementcontent" id="e1052">
+	<div class="content-element__content">
+	
+    <p><a href="/assets/Uploads/ARIS/Raschet-sob-sredstv-2022/11-Raschet-sobstvennykh-sredstv-UK-na-30.11.2022.docx">Расчет собственных средств ООО "УК "АрИС", осуществленный на 30.11.2022 г. (Дата размещения 14.12.2022 г.; доступ к информации - в течение 3 лет с даты размещения).</a></p>
+</div>
+
+</div>
+
+    
+	   <div class="element dnadesign__elemental__models__elementcontent" id="e1048">
+	<div class="content-element__content">
+	
+    <p><a href="/assets/Uploads/ARIS/Raschet-sob-sredstv-2022/10-Raschet-sobstvennykh-sredstv-UK-na-31.10.2022.docx">Расчет собственных средств ООО "УК "АрИС", осуществленный на 31.10.2022 г. (Дата размещения 16.11.2022 г.; доступ к информации - в течение 3 лет с даты размещения).</a></p>
+</div>
+
+</div>
+
+    
+	   <div class="element dnadesign__elemental__models__elementcontent" id="e1044">
+	<div class="content-element__content">
+	
+    <p><a href="/assets/Uploads/ARIS/Raschet-sob-sredstv-2022/09-Raschet-sobstvennykh-sredstv-UK-na-30.09.2022.docx">Расчет собственных средств ООО "УК "АрИС", осуществленный на 30.09.2022 г. (Дата размещения 17.10.2022 г.; доступ к информации - в течение 3 лет с даты размещения).</a></p>
+</div>
+
+</div>
+
+    
+	   <div class="element dnadesign__elemental__models__elementcontent" id="e1041">
+	<div class="content-element__content">
+	
+    <p><a href="/assets/Uploads/ARIS/Raschet-sob-sredstv-2022/08-Raschet-sobstvennykh-sredstv-UK-na-31.08.2022.docx">Расчет собственных средств ООО "УК "АрИС", осуществленный на 31.08.2022 г. (Дата размещения 14.09.2022 г.; доступ к информации - в течение 3 лет с даты размещения).</a></p>
+</div>
+
+</div>
+
+    
+	   <div class="element dnadesign__elemental__models__elementcontent" id="e1038">
+	<div class="content-element__content">
+	
+    <p><a href="/assets/Uploads/ARIS/Raschet-sob-sredstv-2022/02_Raschet_sobstvennykh_sredstv_UK_na_31_07_2022.docx">Расчет собственных средств ООО "УК "АрИС", осуществленный на 31.07.2022 г. (Дата размещения 15.08.2022 г.; доступ к информации - в течение 3 лет с даты размещения).</a></p>
+</div>
+
+</div>
+
+    
+	   <div class="element dnadesign__elemental__models__elementcontent" id="e1034">
+	<div class="content-element__content">
+	
+    <p><a href="/assets/Uploads/ARIS/Raschet-sob-sredstv-2022/06-Raschet-sobstvennykh-sredstv-UK-na-30.06.2022.docx">Расчет собственных средств ООО "УК "АрИС", осуществленный на 30.06.2022 г. (Дата размещения 18.07.2022 г.; доступ&nbsp; к информации - в течение 3 лет с даты размещения).</a></p>
+</div>
+
+</div>
+
+    
+	   <div class="element dnadesign__elemental__models__elementcontent" id="e1023">
+	<div class="content-element__content">
+	
+    <p><a href="/assets/Uploads/ARIS/Raschet-sob-sredstv-2022/05-Raschet-sobstvennykh-sredstv-UK-na-31.05.2022.docx">Расчет собственных средств ООО "УК "АрИС", осуществленный на 31.05.2022 г. (Дата размещения 15.06.2022 г.; доступ&nbsp; к информации - в течение 3 лет с даты размещения).</a></p>
+</div>
+
+</div>
+
+    
+	   <div class="element dnadesign__elemental__models__elementcontent" id="e1019">
+	<div class="content-element__content">
+	
+    <p><a href="/assets/Uploads/ARIS/Raschet-sob-sredstv-2022/04-Raschet-sobstvennykh-sredstv-UK-na-30.04.2022.docx">Расчет собственных средств ООО "УК "АрИС", осуществленный на 30.04.2022 г. (Дата размещения 19.05.2022 г.; доступ&nbsp; к информации - в течение 3 лет с даты размещения).</a></p>
+</div>
+
+</div>
+
+    
+	   <div class="element dnadesign__elemental__models__elementcontent" id="e1015">
+	<div class="content-element__content">
+	
+    <p><a href="/assets/Uploads/ARIS/Raschet-sob-sredstv-2022/03-Raschet-sobstvennykh-sredstv-UK-na-31.03.2022.docx">Расчет собственных средств ООО "УК "АрИС", осуществленный на 31.03.2022 г. (Дата размещения 15.04.2022 г.; доступ&nbsp; к информации - в течение 3 лет с даты размещения).</a></p>
+</div>
+
+</div>
+
+    
+	   <div class="element dnadesign__elemental__models__elementcontent" id="e1003">
+	<div class="content-element__content">
+	
+    <p><a href="/assets/Uploads/ARIS/Raschet-sob-sredstv-2022/02-Raschet-sobstvennykh-sredstv-UK-na-28.02.2022.docx">Расчет собственных средств ООО "УК "АрИС", осуществленный на 28.02.2022 г. (Дата размещения 17.03.2022 г.; доступ&nbsp; к информации - в течение 3 лет с даты размещения).</a></p>
+</div>
+
+</div>
+
+    
+	   <div class="element dnadesign__elemental__models__elementcontent" id="e996">
+	<div class="content-element__content">
+	
+    <p><a href="/assets/Uploads/ARIS/Raschet-sob-sredstv-2022/01-Raschet-sobstvennykh-sredstv-UK-na-31.01.2022.docx">Расчет собственных средств ООО "УК "АрИС", осуществленный на 31.01.2022 г. (Дата размещения 15.02.2022 г.;&nbsp; доступ к информации - в течение 3 лет с даты размещения).</a></p>
+</div>
+
+</div>
+
+    
+	   <div class="element dnadesign__elemental__models__elementcontent" id="e979">
+	<div class="content-element__content">
+	
+        <h2 class="content-element__title">2021 г.</h2>
+    
+    <p><a href="/assets/Uploads/ARIS/Raschet-sobstvennykh-sredstv-2021/12-Raschet-sobstvennykh-sredstv-UK-korrektirovka-na-31.12.2021-1.docx">Расчет собственных средств ООО "УК "АрИС", осуществленный на 31.12.2021 г. (корректировка). (Дата размещения 27.01.2022 г.;&nbsp; доступ к информации - в течение 3 лет с даты размещения).</a></p>
+</div>
+
+</div>
+
+    
+	   <div class="element dnadesign__elemental__models__elementcontent" id="e976">
+	<div class="content-element__content">
+	
+    <p><a href="/assets/Uploads/ARIS/Raschet-sobstvennykh-sredstv-2021/12-Raschet-sobstvennykh-sredstv-UK-na-31.12.2021.docx">Расчет собственных средств ООО "УК "АрИС", осуществленный на 31.12.2021 г. (Дата размещения 24.01.2022 г.; &nbsp; доступ к информации в течение 3 лет с даты размещения).</a></p>
+</div>
+
+</div>
+
+    
+	   <div class="element dnadesign__elemental__models__elementcontent" id="e965">
+	<div class="content-element__content">
+	
+    <p><a href="/assets/Uploads/ARIS/Raschet-sobstvennykh-sredstv-2021/11-Raschet-sobstvennykh-sredstv-UK-na-30.11.2021.pdf">Расчет собственных средств ООО "УК "АрИС", осуществленный на 30.11.2021 г. (Дата размещения 14.12.2021 г.; &nbsp; доступ к информации в течение 3 лет с даты размещения).</a></p>
+</div>
+
+</div>
+
+    
+	   <div class="element dnadesign__elemental__models__elementcontent" id="e957">
+	<div class="content-element__content">
+	
+    <p><a href="/assets/Uploads/ARIS/Raschet-sobstvennykh-sredstv-2021/10-Raschet-sobstvennykh-sredstv-UK-na-31.10.2021.pdf">Расчет собственных средств ООО "УК "АрИС", осуществленный на 31.10.2021 г. (Дата размещения 19.11.2021 г.; &nbsp; доступ к информации в течение 3 лет с даты размещения).</a></p>
+</div>
+
+</div>
+
+    
+	   <div class="element dnadesign__elemental__models__elementcontent" id="e945">
+	<div class="content-element__content">
+	
+    <p><a href="/assets/Uploads/ARIS/Raschet-sobstvennykh-sredstv-2021/09-Raschet-sobstvennykh-sredstv-UK-na-30.09.2021.pdf">Расчет собственных средств ООО "УК "АрИС", осуществленный на 30.09.2021 г. (Дата размещения 14.10.2021 г.; &nbsp; доступ к информации в течение 3 лет с даты размещения).</a></p>
+</div>
+
+</div>
+
+    
+	   <div class="element dnadesign__elemental__models__elementcontent" id="e722">
+	<div class="content-element__content">
+	
+    <p><a href="/assets/Uploads/ARIS/Raschet-sobstvennykh-sredstv-2021/08-Raschet-sobstvennykh-sredstv-UK-na-31.08.2021.pdf">Расчет собственных средств ООО "УК "АрИС", осуществленный на 31.08.2021 г. (Дата и время размещения 14.09.2021 г.; время 17:51. Срок доступа к информации - в течение года с даты размещения).</a></p>
+</div>
+
+</div>
+
+    
+	   <div class="element dnadesign__elemental__models__elementcontent" id="e673">
+	<div class="content-element__content">
+	
+    <p><a href="/assets/Uploads/ARIS/Raschet-sobstvennykh-sredstv-2021/07-Raschet-sobstvennykh-sredstv-UK-na-31.07.2021.pdf">Расчет собственных средств ООО "УК "АрИС", осуществленный на 31.07.2021 г. (Дата и время размещения 13.08.2021 г.; время 19:36. Срок доступа к информации - в течение года с даты размещения).</a></p>
+</div>
+
+</div>
+
+    
+	   <div class="element dnadesign__elemental__models__elementcontent" id="e671">
+	<div class="content-element__content">
+	
+    <p><a href="/assets/Uploads/ARIS/Raschet-sobstvennykh-sredstv-2021/06-Raschet-sobstvennykh-sredstv-UK-na-30.06.2021.pdf">Расчет собственных средств ООО "УК "АрИС", осуществленный на 30.06.2021 г. (Дата и время размещения 14.07.2021 г.; время 20:52. Срок доступа к информации - в течение года с даты размещения).</a></p>
+</div>
+
+</div>
+
+    
+	   <div class="element dnadesign__elemental__models__elementcontent" id="e663">
+	<div class="content-element__content">
+	
+    <p><a href="/assets/Uploads/ARIS/Raschet-sobstvennykh-sredstv-2021/05-Raschet-sobstvennykh-sredstv-UK-na-31.05.2021.pdf">Расчет собственных средств ООО "УК "АрИС", осуществленный на 31.05.2021 г. (Дата и время размещения 15.06.2021 г.; время 15:45. Срок доступа к информации - в течение года с даты размещения).</a></p>
+</div>
+
+</div>
+
+    
+	   <div class="element dnadesign__elemental__models__elementcontent" id="e655">
+	<div class="content-element__content">
+	
+    <p><a href="/assets/Uploads/ARIS/Raschet-sobstvennykh-sredstv-2021/04-Raschet-sobstvennykh-sredstv-UK-na-30.04.2021.pdf">Расчет собственных средств ООО "УК "АрИС", осуществленный на 30.04.2021 г. (Дата и время размещения 20.05.2021 г.; время 10:05. Срок доступа к информации - в течение года с даты размещения).</a></p>
+</div>
+
+</div>
+
+    
+	   <div class="element dnadesign__elemental__models__elementcontent" id="e642">
+	<div class="content-element__content">
+	
+    <p><a href="/assets/Uploads/ARIS/Raschet-sobstvennykh-sredstv-2021/03-Raschet-sobstvennykh-sredstv-UK-na-31.03.2021.pdf">Расчет собственных средств ООО "УК "АрИС", осуществленный на 31.03.2021 г. (Дата и время размещения 14.04.2021 г.; время 10:45. Срок доступа к информации - в течение года с даты размещения).</a></p>
+</div>
+
+</div>
+
+    
+	   <div class="element dnadesign__elemental__models__elementcontent" id="e636">
+	<div class="content-element__content">
+	
+    <p><a href="/assets/Uploads/ARIS/Raschet-sobstvennykh-sredstv-2021/02-Raschet-sobstvennykh-sredstv-UK-na-28.02.2021.pdf">Расчет собственных средств ООО "УК "АрИС", осуществленный на 28.02.2021 г. (Дата и время размещения 15.03.2021 г.; время 18:10. Срок доступа к информации - в течение года с даты размещения)</a></p>
+</div>
+
+</div>
+
+    
+	   <div class="element dnadesign__elemental__models__elementcontent" id="e632">
+	<div class="content-element__content">
+	
+    <p><a href="/assets/Uploads/ARIS/Raschet-sobstvennykh-sredstv-2021/01-Raschet-sobstvennykh-sredstv-UK-na-31.01.2021.pdf">Расчет собственных средств ООО "УК "АрИС", осуществленный на 31.01.2021 г. (Дата и время размещения 12.02.2021 г.; время 12:20. Срок доступа к информации - в течение года с даты размещения)</a></p>
+</div>
+
+</div>
+
+    
+	   <div class="element dnadesign__elemental__models__elementcontent" id="e626">
+	<div class="content-element__content">
+	
+        <h2 class="content-element__title">2020 г.</h2>
+    
+    <p><a href="/assets/Uploads/ARIS/raschet-sob.-sredstv-2020/12-Raschet-sobstvennykh-sredstv-UK-na-31.12.2020.pdf">Расчет собственных средств ООО "УК "АрИС", осуществленный на 31.12.2020 г. (Дата и время размещения 22.01.2021 г.; время 22:07. Срок доступа к информации - в течение года с даты размещения)</a></p>
+</div>
+
+</div>
+
+    
+	   <div class="element dnadesign__elemental__models__elementcontent" id="e619">
+	<div class="content-element__content">
+	
+    <p><a href="/assets/Uploads/ARIS/raschet-sob.-sredstv-2020/11-Raschet-sobstvennykh-sredstv-UK-na-30.11.2020.pdf">Расчет собственных средств ООО "УК "АрИС", осуществленный на 30.11.2020 г. (Дата и время размещения 14.12.2020 г.; время 16:40. Срок доступа к информации - в течение года с даты размещения)</a></p>
+</div>
+
+</div>
+
+    
+	   <div class="element dnadesign__elemental__models__elementcontent" id="e616">
+	<div class="content-element__content">
+	
+    <p><a href="/assets/Uploads/ARIS/raschet-sob.-sredstv-2020/10-Raschet-sobstvennykh-sredstv-UK-na-31.10.2020.pdf">Расчет собственных средств ООО "УК "АрИС", осуществленный на 31.10.2020 г. (Дата и время размещения 16.11.2020 г.; время 17:40. Срок доступа к информации - в течение года с даты размещения)</a></p>
+</div>
+
+</div>
+
+    
+	   <div class="element dnadesign__elemental__models__elementcontent" id="e611">
+	<div class="content-element__content">
+	
+    <p><a href="/assets/Uploads/ARIS/raschet-sob.-sredstv-2020/09-Raschet-sobstvennykh-sredstv-UK-na-30.09.2020.pdf">Расчет собственных средств ООО "УК "АрИС", осуществленный на 30.09.2020 г. (Дата и время размещения 14.10.2020 г.; время 19:05. Срок доступа к информации - в течение года с даты размещения)</a></p>
+</div>
+
+</div>
+
+    
+	   <div class="element dnadesign__elemental__models__elementcontent" id="e605">
+	<div class="content-element__content">
+	
+    <p><a href="/assets/Uploads/ARIS/raschet-sob.-sredstv-2020/08-Raschet-sobstvennykh-sredstv-UK-na-31.08.2020.pdf">Расчет собственных средств ООО "УК "АрИС", осуществленный на 31.08.2020 г. (Дата и время размещения 11.09.2020 г.; время 17:30. Срок доступа к информации - в течение года с даты размещения)</a></p>
+</div>
+
+</div>
+
+    
+	   <div class="element dnadesign__elemental__models__elementcontent" id="e601">
+	<div class="content-element__content">
+	
+    <p><a href="/assets/Uploads/ARIS/raschet-sob.-sredstv-2020/44359d68d0/07-Raschet-sobstvennykh-sredstv-UK-na-31.07.2020.pdf">Расчет собственных средств ООО "УК "АрИС", осуществленный на 31.07.2020 г. (Дата и время размещения 14.08.2020 г.; время 17:42. Срок доступа к информации - в течение года с даты размещения)</a></p>
+</div>
+
+</div>
+
+    
+	   <div class="element dnadesign__elemental__models__elementcontent" id="e592">
+	<div class="content-element__content">
+	
+    <p><a href="/assets/Uploads/ARIS/raschet-sob.-sredstv-2020/526641ee5d/06-Raschet-sobstvennykh-sredstv-UK-na-30.06.2020.pdf">Расчет собственных средств ООО "УК "АрИС", осуществленный на 30.06.2020 г. (Дата и время размещения 15.07.2020 г.; время 19:37. Срок доступа к информации - в течение года с даты размещения)</a></p>
+</div>
+
+</div>
+
+    
+	   <div class="element dnadesign__elemental__models__elementcontent" id="e568">
+	<div class="content-element__content">
+	
+    <p><a href="/assets/Uploads/ARIS/raschet-sob.-sredstv-2020/02507c7b38/05-Raschet-sobstvennykh-sredstv-UK-na-31.05.2020.pdf">Расчет собственных средств ООО "УК "АрИС", осуществленный на 31.05.2020 г. (Дата и время размещения 15.06.2020 г.; время 16:00. Срок доступа к информации - в течение года с даты размещения)</a></p>
+</div>
+
+</div>
+
+    
+	   <div class="element dnadesign__elemental__models__elementcontent" id="e562">
+	<div class="content-element__content">
+	
+    <p><a href="/assets/Uploads/ARIS/raschet-sob.-sredstv-2020/baa36663b8/04-Raschet-sobstvennykh-sredstv-UK-na-30.04.2020.pdf">Расчет собственных средств ООО "УК "АрИС", осуществленный на 30.04.2020 г. (Дата и время размещения 20.05.2020 г.; время 18:20. Срок доступа к информации - в течение года с даты размещения)</a></p>
+</div>
+
+</div>
+
+    
+	   <div class="element dnadesign__elemental__models__elementcontent" id="e549">
+	<div class="content-element__content">
+	
+    <p><a href="/assets/Uploads/ARIS/raschet-sob.-sredstv-2020/2654399dba/03-Raschet-sobstvennykh-sredstv-UK-na-31.03.2020.pdf">Расчет собственных средств ООО "УК "АрИС", осуществленный на 31.03.2020 г. (Дата и время размещения 17.04.2020 г.; время 17:40. Срок доступа к информации - в течение года с даты размещения)</a></p>
+</div>
+
+</div>
+
+    
+	   <div class="element dnadesign__elemental__models__elementcontent" id="e538">
+	<div class="content-element__content">
+	
+    <p><a href="/assets/Uploads/ARIS/raschet-sob.-sredstv-2020/46049aa099/02-Raschet-sobstvennykh-sredstv-UK-na-29.02.2020.pdf">Расчет собственных средств ООО "УК "АрИС", осуществленный на 29.02.2020 г. (Дата и время размещения 16.03.2020 г.; время 15:50. Срок доступа к информации - в течение года с даты размещения)</a></p>
+</div>
+
+</div>
+
+    
+	   <div class="element dnadesign__elemental__models__elementcontent" id="e534">
+	<div class="content-element__content">
+	
+    <p><a href="/assets/Uploads/ARIS/raschet-sob.-sredstv-2020/01703d9317/01-Raschet-sobstvennykh-sredstv-UK-na-31.01.2020.pdf">Расчет собственных средств ООО "УК "АрИС", осуществленный на 31.01.2020 г. (Дата и время размещения 14.02.2020 г.; время 14:03. Срок доступа к информации - в течение года с даты размещения)</a></p>
+</div>
+
+</div>
+
+    
+	   <div class="element dnadesign__elemental__models__elementcontent" id="e533">
+	<div class="content-element__content">
+	
+        <h2 class="content-element__title">2019 г.</h2>
+    
+    <p><a href="/assets/Uploads/ARIS/raschet-sob.-sredstv-2019/0298abcb95/12-Raschet-sobstvennykh-sredstv-UK-na-31.12.2019_korr.pdf">Расчет собственных средств ООО "УК "АрИС", осуществленный на 31.12.2019 г. (корректировка) (Дата и время размещения 13.02.2020 г.; время 11:53. Срок доступа к информации - в течение года с даты размещения)</a></p>
+</div>
+
+</div>
+
+    
+	   <div class="element dnadesign__elemental__models__elementcontent" id="e528">
+	<div class="content-element__content">
+	
+    <p><a href="/assets/Uploads/ARIS/raschet-sob.-sredstv-2019/bde1617642/12-Raschet-sobstvennykh-sredstv-UK-na-31.12.2019.pdf">Расчет собственных средств ООО "УК "АрИС", осуществленный на 31.12.2019 г. (Дата и время размещения 22.01.2020 г.; время 14:26. Срок доступа к информации - в течение года с даты размещения)</a></p>
+</div>
+
+</div>
+
+    
+	   <div class="element dnadesign__elemental__models__elementcontent" id="e522">
+	<div class="content-element__content">
+	
+    <p><a href="/assets/Uploads/ARIS/raschet-sob.-sredstv-2019/53a2631d57/11-Raschet-sobstvennykh-sredstv-UK-na-30.11.2019.pdf">Расчет собственных средств ООО "УК "АрИС", осуществленный на 30.11.2019 г. (Дата и время размещения 13.12.2019 г.; время 20:47. Срок доступа к информации - в течение года с даты размещения)</a></p>
+</div>
+
+</div>
+
+    
+	   <div class="element dnadesign__elemental__models__elementcontent" id="e517">
+	<div class="content-element__content">
+	
+    <p><a href="/assets/Uploads/ARIS/raschet-sob.-sredstv-2019/82ca8e7bac/10-Raschet-sobstvennykh-sredstv-UK-na-31.10.2019.pdf">Расчет собственных средств ООО "УК "АрИС", осуществленный на 31.10.2019 г. (Дата и время размещения 15.11.2019 г.; время 20:33. Срок доступа к информации - в течение года с даты размещения)</a></p>
+</div>
+
+</div>
+
+    
+	   <div class="element dnadesign__elemental__models__elementcontent" id="e482">
+	<div class="content-element__content">
+	
+    <p><a href="/assets/Uploads/ARIS/raschet-sob.-sredstv-2019/cc5ed08ba7/09-Raschet-sobstvennykh-sredstv-UK-na-30.09.2019.pdf">Расчет собственных средств ООО "УК "АрИС", осуществленный на 30.09.2019 г. (Дата и время размещения 14.10.2019 г.; время 18:35. Срок доступа к информации - в течение года с даты размещения)</a><span style="font-size: 10.0pt; font-family: 'Helvetica','sans-serif'; color: black;"></span></p>
+</div>
+
+</div>
+
+    
+	   <div class="element dnadesign__elemental__models__elementcontent" id="e479">
+	<div class="content-element__content">
+	
+    <p><a href="/assets/Uploads/ARIS/raschet-sob.-sredstv-2019/ef87f865dc/08-Raschet-sobstvennykh-sredstv-UK-na-31.08.2019.pdf">Расчет собственных средств ООО "УК "АрИС", осуществленный на 31.08.2019 г. (Дата и время размещения 13.09.2019 г.; время 16:30. Срок доступа к информации - в течение года с даты размещения)</a></p>
+</div>
+
+</div>
+
+    
+	   <div class="element dnadesign__elemental__models__elementcontent" id="e473">
+	<div class="content-element__content">
+	
+    <p><a href="/assets/Uploads/ARIS/raschet-sob.-sredstv-2019/bc3b4883e3/11_Raschet-sobstvennykh-sredstv-UK-na-31.07.2019_korr.pdf">Расчет собственных средств ООО "УК "АрИС", осуществленный на 31.07.2019 г. (корректировка) (Дата и время размещения 26.08.2019 г.; время 12:35. Срок доступа к информации - в течение года с даты размещения)</a></p>
+</div>
+
+</div>
+
+    
+	   <div class="element dnadesign__elemental__models__elementcontent" id="e472">
+	<div class="content-element__content">
+	
+    <p><a href="/assets/Uploads/ARIS/raschet-sob.-sredstv-2019/46b5e52d04/10_Raschet-sobstvennykh-sredstv-UK-na-30.06.2019_korr.pdf">Расчет собственных средств ООО "УК "АрИС", осуществленный на 30.06.2019 г. (корректировка) (Дата и время размещения 26.08.2019 г.; время 12:30. Срок доступа к информации - в течение года с даты размещения)</a></p>
+</div>
+
+</div>
+
+    
+	   <div class="element dnadesign__elemental__models__elementcontent" id="e471">
+	<div class="content-element__content">
+	
+    <p><a href="/assets/Uploads/ARIS/raschet-sob.-sredstv-2019/4fa4546c26/9_Raschet-sobstvennykh-sredstv-UK-na-31.05.2019_korr.pdf">Расчет собственных средств ООО "УК "АрИС", осуществленный на 31.05.2019 г. (корректировка) (Дата и время размещения 26.08.2019 г.; время 12:25. Срок доступа к информации - в течение года с даты размещения)</a></p>
+</div>
+
+</div>
+
+    
+	   <div class="element dnadesign__elemental__models__elementcontent" id="e470">
+	<div class="content-element__content">
+	
+    <p><a href="/assets/Uploads/ARIS/raschet-sob.-sredstv-2019/3ba1d7680e/8_Raschet-sobstvennykh-sredstv-UK-na-30.04.2019_korr.pdf">Расчет собственных средств ООО "УК "АрИС", осуществленный на 30.04.2019 г. (корректировка) (Дата и время размещения 26.08.2019 г.; время 12:20. Срок доступа к информации - в течение года с даты размещения)</a></p>
+</div>
+
+</div>
+
+    
+	   <div class="element dnadesign__elemental__models__elementcontent" id="e469">
+	<div class="content-element__content">
+	
+    <p><a href="/assets/Uploads/ARIS/raschet-sob.-sredstv-2019/b4d9b81b9f/7_Raschet-sobstvennykh-sredstv-UK-na-31.03.2019_korr.pdf">Расчет собственных средств ООО "УК "АрИС", осуществленный на 31.03.2019 г. (корректировка) (Дата и время размещения 26.08.2019 г.; время 12:05. Срок доступа к информации - в течение года с даты размещения)</a></p>
+</div>
+
+</div>
+
+    
+	   <div class="element dnadesign__elemental__models__elementcontent" id="e468">
+	<div class="content-element__content">
+	
+    <p><a href="/assets/Uploads/ARIS/raschet-sob.-sredstv-2019/641731a035/6_Raschet-sobstvennykh-sredstv-UK-na-28.02.2019_korr.pdf">Расчет собственных средств ООО "УК "АрИС", осуществленный на 28.02.2019 г. (корректировка) (Дата и время размещения 26.08.2019 г.; время 12:00. Срок доступа к информации - в течение года с даты размещения)</a></p>
+</div>
+
+</div>
+
+    
+	   <div class="element dnadesign__elemental__models__elementcontent" id="e467">
+	<div class="content-element__content">
+	
+    <p><a href="/assets/Uploads/ARIS/raschet-sob.-sredstv-2019/6a6d8e543f/5_Raschet-sobstvennykh-sredstv-UK-na-31.01.2019_korr.pdf">Расчет собственных средств ООО "УК "АрИС", осуществленный на 31.01.2019 г. (корректировка) (Дата и время размещения 26.08.2019 г.; время 11:55. Срок доступа к информации - в течение года с даты размещения)</a></p>
+</div>
+
+</div>
+
+    
+	   <div class="element dnadesign__elemental__models__elementcontent" id="e466">
+	<div class="content-element__content">
+	
+    <p><a href="/assets/Uploads/ARIS/raschet-sob.-sredstv-2019/8499127b9c/4_Raschet-sobstvennykh-sredstv-UK-na-31.12.2018_korr.pdf">Расчет собственных средств ООО "УК "АрИС", осуществленный на 31.12.2018 г. (корректировка) (Дата и время размещения 26.08.2019 г.; время 11:50. Срок доступа к информации - в течение года с даты размещения)</a></p>
+</div>
+
+</div>
+
+    
+	   <div class="element dnadesign__elemental__models__elementcontent" id="e465">
+	<div class="content-element__content">
+	
+    <p><a href="/assets/Uploads/ARIS/raschet-sob.-sredstv-2019/a04fbd158d/3_-Raschet-sobstvennykh-sredstv-UK-na-30.11.2018_ZAMENA.pdf">Расчет собственных средств ООО "УК "АрИС", осуществленный на 30.11.2018 г. (корректировка) (Дата и время размещения 26.08.2019 г.; время 11:45. Срок доступа к информации - в течение года с даты размещения)</a></p>
+</div>
+
+</div>
+
+    
+	   <div class="element dnadesign__elemental__models__elementcontent" id="e464">
+	<div class="content-element__content">
+	
+    <p><a href="/assets/Uploads/ARIS/raschet-sob.-sredstv-2019/c756e89182/2_Raschet-sobstvennykh-sredstv-UK-na-31.10.2018_korr.pdf">Расчет собственных средств ООО "УК "АрИС", осуществленный на 31.10.2018 г. (корректировка) (Дата и время размещения 26.08.2019 г.; время 11:40. Срок доступа к информации - в течение года с даты размещения)</a></p>
+</div>
+
+</div>
+
+    
+	   <div class="element dnadesign__elemental__models__elementcontent" id="e463">
+	<div class="content-element__content">
+	
+    <p><a href="/assets/Uploads/ARIS/raschet-sob.-sredstv-2019/58c8a1bcb3/1_Raschet-sobstvennykh-sredstv-UK-na-30.09.2018_korr.pdf">Расчет собственных средств ООО "УК "АрИС", осуществленный на 30.09.2018 г. (корректировка) (Дата и время размещения 26.08.2019 г.; время 11:35. Срок доступа к информации - в течение года с даты размещения)</a></p>
+</div>
+
+</div>
+
+    
+	   <div class="element dnadesign__elemental__models__elementcontent" id="e462">
+	<div class="content-element__content">
+	
+    <p><a href="/assets/Uploads/ARIS/raschet-sob.-sredstv-2019/5ab57a60ff/07-Raschet-sobstvennykh-sredstv-UK-na-31.07.2019.pdf">Расчет собственных средств ООО "УК "АрИС", осуществленный на 31.07.2019 г. (Дата и время размещения 14.08.2019 г.; время 16:35. Срок доступа к информации - в течение года с даты размещения)</a></p>
+</div>
+
+</div>
+
+    
+	   <div class="element dnadesign__elemental__models__elementcontent" id="e455">
+	<div class="content-element__content">
+	
+    <p><a href="/assets/Uploads/ARIS/c1969c4009/06-Raschet-sobstvennykh-sredstv-UK-na-30.06.2019.pdf"><span style="font-family: 'Segoe UI','sans-serif'; background: white;">Расчет собственных средств ООО "УК "АрИС", осуществленный на 30.06.2019 г. (Дата и время размещения 12.07.2019 г.; время 16:15. Срок доступа к информации - в течение года с даты размещения)</span></a></p>
+</div>
+
+</div>
+
+    
+	   <div class="element dnadesign__elemental__models__elementcontent" id="e453">
+	<div class="content-element__content">
+	
+    <p><a href="/assets/Uploads/ARIS/276cae44c0/05-Raschet-sobstvennykh-sredstv-UK-na-31.05.2019.pdf"><span style="font-family: 'Segoe UI','sans-serif'; background: white;">Расчет собственных средств ООО "УК "АрИС", осуществленный на 31.05.2019 г. (Дата и время размещения 17.06.2019 г.; время 12:53. Срок доступа к информации - в течение года с даты размещения)</span></a></p>
+</div>
+
+</div>
+
+    
+	   <div class="element dnadesign__elemental__models__elementcontent" id="e449">
+	<div class="content-element__content">
+	
+    <p><a href="/assets/Uploads/ARIS/0b2a27539a/04_Raschet_sobstvennykh_sredstv_UK.pdf">Расчет собственных средств ООО "УК "АрИС", осуществленный на 30.04.2019 г. (Дата и время размещения 21.05.2019 г.; время 15:17. Срок доступа к информации - в течение года с даты размещения)</a></p>
+</div>
+
+</div>
+
+    
+	   <div class="element dnadesign__elemental__models__elementcontent" id="e439">
+	<div class="content-element__content">
+	
+    <p><a href="/assets/Uploads/ARIS/raschet-sob.-sredstv-2019/5e1fe91405/03-Raschet-sobstvennykh-sredstv-UK-na-31.03.2019.pdf">Расчет собственных средств ООО "УК "АрИС", осуществленный на 31.03.2019 г. (Дата и время размещения 11.04.2019 г.; время 18:30. Срок доступа к информации - в течение года с даты размещения)</a></p>
+</div>
+
+</div>
+
+    
+	   <div class="element dnadesign__elemental__models__elementcontent" id="e430">
+	<div class="content-element__content">
+	
+    <p><a style="outline-width: 0px !important; user-select: auto !important;" href="/assets/Uploads/ARIS/raschet-sob.-sredstv-2019/efcf2b943b/02-Raschet-sobstvennykh-sredstv-UK-na-28.02.2019.pdf">Расчет собственных средств ООО "УК "АрИС", осуществленный на 28.02.2019 г. (Дата и время размещения 15.03.2019 г.; время 15:42. Срок доступа к информации - в течение года с даты размещения)</a></p>
+</div>
+
+</div>
+
+    
+	   <div class="element dnadesign__elemental__models__elementcontent" id="e416">
+	<div class="content-element__content">
+	
+    <p><a href="/assets/Uploads/ARIS/raschet-sob.-sredstv-2019/1f43b3cbfb/01-Raschet-sobstvennykh-sredstv-UK-na-31.01.2019.pdf">Расчет собственных средств ООО "УК "АрИС", осуществленный на 31.01.2019 г. (Дата и время размещения 14.02.2019 г.; время 09:48. Срок доступа к информации - в течение года с даты размещения)</a></p>
+</div>
+
+</div>
+
+    
+	   <div class="element dnadesign__elemental__models__elementcontent" id="e413">
+	<div class="content-element__content">
+	
+        <h2 class="content-element__title">2018 г.</h2>
+    
+    <p><a href="/assets/Uploads/ARIS/b44d74af67/Raschet-sobstvennykh-sredstv-UK-na-31.12.2018-na-sayt.pdf">Расчет собственных средств ООО "УК "АрИС", осуществленный на 31.12.2018 г. (Дата и время размещения 22.01.2019 г.; время 19:05. Срок доступа к информации - в течение года с даты размещения)</a></p>
+</div>
+
+</div>
+
+    
+	   <div class="element dnadesign__elemental__models__elementcontent" id="e382">
+	<div class="content-element__content">
+	
+    <p><a href="/assets/Uploads/ARIS/8cc3d942f3/Raschet-sobstvennykh-sredstv-UK-na-30.11.2018.pdf">Расчет собственных средств ООО "УК "АрИС", осуществленный на 30.11.2018 г. (Дата и время размещения 14.12.2018 г.; время 15:12. Срок доступа к информации - в течение года с даты размещения)</a></p>
+</div>
+
+</div>
+
+    
+	   <div class="element dnadesign__elemental__models__elementcontent" id="e383">
+	<div class="content-element__content">
+	
+    <p><a href="/disclosure/managing-company/raschet-sobstvennykh-sredstv/arkhiv-upravlyayushchaya-kompaniya/">Архив расчета собственных средств</a></p>
+</div>
+
+</div>
+
+    
+
+
+                    
+                
+        	</article>
+            
+            
+        </div>
+    </div>
+</div>
+</div>
+<footer class="mt-site-footer py-5" role="contentinfo">
+	<div class="container">
+		<div class="row">
+			<div class="col-12 mt-footer-copy">
+				<p>Общество с ограниченной ответственностью «Управляющая Компания «Ар.И.С.», 2023</p>
+			</div>
+			 
+		</div>
+
+		
+		<section class="mt-footer-content">
+		<p>Лицензия на осуществление деятельности по управлению инвестиционными фондами, паевыми инвестиционными фондами и негосударственными пенсионными фондами № 21–000–1–00888 от 14 сентября 2012 года выдана ФСФР России, без ограничения срока действия.</p><p>Стоимость инвестиционных паев может увеличиваться и уменьшаться, результаты инвестирования в прошлом не определяют доходы в будущем, государство не гарантирует доходность инвестиций в инвестиционные фонды. Прежде чем приобрести инвестиционный пай, следует внимательно ознакомиться с правилами доверительного управления паевым инвестиционным фондом. Подробную информацию о деятельности ООО «УК «АрИС» и паевых инвестиционных фондов, находящихся под ее управлением, включая тексты правил доверительного управления, всех изменений и дополнений к ним, а также сведения о местах приема заявок на приобретение, погашение и обмен инвестиционных паев Вы можете получить по адресу: 350000,Россия, Краснодарский край, г. Краснодар, ул. Орджоникидзе, д. 41, Телефон: (861) 262-04-94, а также на сайте ООО «УК «АрИС» в сети Internet по адресу: www.uk-aris.com</p><p><a title="Политика обработки персональных данных" rel="noopener" href="/assets/Uploads/ARIS/UK/Politika-obrabotki-PDn-Aris-2023-novaya-redaktsiya-.doc" target="_blank">Политика обработки персональных данных</a></p>
+		</section>
+		
+	</div>
+</footer>
+
+
+
+
+
+
+
+<script type="application/javascript" src="/javascript/mt-aris.js?m=1632236535"></script>
+
+

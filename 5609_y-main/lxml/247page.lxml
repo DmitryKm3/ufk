@@ -1,0 +1,617 @@
+
+    
+    <header class="header">
+    <div class="header__container">
+      <a class="header__logo" href="/">
+        <img src="assets/templates/mrgroup/assets/img/MR_Capital_logo.png" alt="Logo">
+        <span class="header__logo-title">Capital, LLC.</span>
+      </a>
+      <div class="header__nav-wrapper">
+        <nav class="header__nav">
+          <a class="header__nav-link" href="/">Главная</a>
+          <a class="header__nav-link" href="raskryitie-informaczii/dokumentacziya-i-oficzialnyie-soobshheniya/">Раскрытие информации</a>
+          <a class="header__nav-link" href="liczenzii.html">Лицензии</a>
+          <a class="header__nav-link" href="kontaktyi.html">Контакты</a>
+        </nav>
+      </div>
+      <a class="header__tel" href="tel:74950230132">+7 (495) 136-21-50</a>
+      <button class="header__hmb js-toggle-menu d-md-none" type="button">
+        <span class="header__hmb-in">
+          <span class="header__hmb-icon header__hmb-icon--1">
+            <svg width="25" height="15">
+              <use xlink:href="#hamburger"></use>
+            </svg>
+          </span>
+          <span class="header__hmb-icon header__hmb-icon--2">
+            <svg width="25" height="25">
+              <use xlink:href="#cross"></use>
+            </svg>
+          </span>
+        </span>
+      </button>
+    </div>
+</header>
+    
+    <section class="banner">
+    <div class="container">
+      <div class="row">
+        <div class="col-md-6">
+            <div class="banner__title">Раскрытие информации</div>
+          
+        </div>
+      </div>
+    </div>
+</section>
+    
+    
+    <!--<span style="display: block; font-size: 32px; font-weight: bold; text-transform: uppercase; letter-spacing: 4px; text-align: center; margin: 100px 0 100px 0;">Раздел в разработке</span>-->
+    
+    
+   <section class="disclosure section--inner">
+    <div class="container">
+      <div class="section__title">Расчет размера собственных средств</div>
+      <div class="row">
+        <div class="col-md-4">
+          <div class="d-flex justify-content-center">
+    <button class="button sidebar__button js-toggle-sidebar">Навигация</button>
+</div>
+<aside class="sidebar ">
+    <a class="sidebar__link" href="raskryitie-informaczii/dokumentacziya-i-oficzialnyie-soobshheniya/">
+ <svg class="sidebar__link-icon" width="26" height="32">
+    <use xlink:href="#doc--1"></use>
+ </svg>
+ <span class="sidebar__link-text">Документы ООО «УК «МР Капитал» и официальные сообщения</span>
+</a><a class="sidebar__link" href="raskryitie-informaczii/obshhaya-informacziya.html">
+ <svg class="sidebar__link-icon" width="26" height="32">
+  <use xlink:href="#doc--3"></use>
+</svg>
+ <span class="sidebar__link-text">Реквизиты ООО «УК «МР Капитал»</span>
+</a><a class="sidebar__link" href="raskryitie-informaczii/finansovaya-otchetnost.html">
+ <svg class="sidebar__link-icon" width="26" height="31">
+  <use xlink:href="#doc--2"></use>
+</svg>
+ <span class="sidebar__link-text">Финансовая отчетность</span>
+</a><a class="sidebar__link sidebar__link--here" href="raskryitie-informaczii/sobstvennyie-sredstva/">
+ <svg class="sidebar__link-icon" width="26" height="23">
+  <use xlink:href="#coins"></use>
+</svg>
+ <span class="sidebar__link-text">Расчет размера собственных средств</span>
+</a><a class="sidebar__link" href="raskryitie-informaczii/fatca.html">
+ <svg class="sidebar__link-icon" width="28" height="28">
+  <use xlink:href="#home"></use>
+</svg>
+ <span class="sidebar__link-text">Положение о критериях отнесения клиентов к категории иностранных налогоплательщиков и способах получения информации от них</span>
+</a><a class="sidebar__link" href="raskryitie-informaczii/informacziya-o-texnicheskix-sboyax.html">
+ <svg class="sidebar__link-icon" width="26" height="32">
+  <use xlink:href="#doc--4"></use>
+</svg>
+ <span class="sidebar__link-text">Электронный документооборот</span>
+</a><a class="sidebar__link" href="raskryitie-informaczii/informacziya-dlya-kvalificzirovannyix-investorov.html">
+ 
+    <svg class="sidebar__link-icon" width="26" height="32">
+      <use xlink:href="#doc--1"></use>
+    </svg>
+ 
+ <span class="sidebar__link-text">Информация для квалифицированных инвесторов</span>
+</a><a class="sidebar__link" href="raskryitie-informaczii/perechen-insajderskoj-informaczii.html">
+ 
+    <svg class="sidebar__link-icon" width="26" height="32">
+      <use xlink:href="#doc--1"></use>
+    </svg>
+ 
+ <span class="sidebar__link-text">Перечень инсайдерской информации</span>
+</a><a class="sidebar__link" href="raskryitie-informaczii/fondyi-nedvizhimosti/">
+ 
+    <svg class="sidebar__link-icon" width="26" height="32">
+      <use xlink:href="#doc--1"></use>
+    </svg>
+ 
+ <span class="sidebar__link-text">Фонды недвижимости</span>
+</a>
+</aside>
+        </div>
+        <div class="col-md-8">
+          <div class="disclosure__content">
+              
+
+              
+             
+              
+                  <div class="disclosure__item">
+                    <a class="disclosure__item-top" href="Расчет собственных средств на 31.05.2023.pdf" target="_blank">
+                      <svg class="disclosure__item-icon" width="26" height="26">
+                        <use xlink:href="#pdf"></use>
+                      </svg>
+                      <span class="disclosure__item-text section__text">
+                        <span>Расчет собственных средств на 31.05.2023</span>
+                      </span>
+                    </a>
+                    <div class="disclosure__item-description section__text">Опубликовано 19.06.2023, 11.00 Срок публикации до 19.06.2026</div>
+                  </div>
+            	
+                  <div class="disclosure__item">
+                    <a class="disclosure__item-top" href="Расчет собственных средств на 30.04.2023.pdf" target="_blank">
+                      <svg class="disclosure__item-icon" width="26" height="26">
+                        <use xlink:href="#pdf"></use>
+                      </svg>
+                      <span class="disclosure__item-text section__text">
+                        <span>Расчет собственных средств на 30.04.2023</span>
+                      </span>
+                    </a>
+                    <div class="disclosure__item-description section__text">Опубликовано 18.05.2023, 09:25 Срок публикации до 18.05.2026</div>
+                  </div>
+            	
+                  <div class="disclosure__item">
+                    <a class="disclosure__item-top" href="Расчет собственных средств на 31.03.2023.pdf" target="_blank">
+                      <svg class="disclosure__item-icon" width="26" height="26">
+                        <use xlink:href="#pdf"></use>
+                      </svg>
+                      <span class="disclosure__item-text section__text">
+                        <span>Расчет собственных средств на 31.03.2023</span>
+                      </span>
+                    </a>
+                    <div class="disclosure__item-description section__text">Опубликовано 17.04.2023, 10:36 Срок публикации до 17.04.2026</div>
+                  </div>
+            	
+                  <div class="disclosure__item">
+                    <a class="disclosure__item-top" href="Расчет собственных средств на 28.02.2023.pdf" target="_blank">
+                      <svg class="disclosure__item-icon" width="26" height="26">
+                        <use xlink:href="#pdf"></use>
+                      </svg>
+                      <span class="disclosure__item-text section__text">
+                        <span>Расчет собственных средств на 28.02.2023</span>
+                      </span>
+                    </a>
+                    <div class="disclosure__item-description section__text">Опубликовано 17.03.2023, 11:50 Срок публикации до 17.03.2026</div>
+                  </div>
+            	
+                  <div class="disclosure__item">
+                    <a class="disclosure__item-top" href="Расчет собственных средств на 31.01.2023.pdf" target="_blank">
+                      <svg class="disclosure__item-icon" width="26" height="26">
+                        <use xlink:href="#pdf"></use>
+                      </svg>
+                      <span class="disclosure__item-text section__text">
+                        <span>Расчет собственных средств на 31.01.2023</span>
+                      </span>
+                    </a>
+                    <div class="disclosure__item-description section__text">Опубликовано 15.02.2023, 14.44 Срок публикации до 15.02.2026 </div>
+                  </div>
+            	
+                  <div class="disclosure__item">
+                    <a class="disclosure__item-top" href="Расчет собственных средств на 31.12.2022.pdf" target="_blank">
+                      <svg class="disclosure__item-icon" width="26" height="26">
+                        <use xlink:href="#pdf"></use>
+                      </svg>
+                      <span class="disclosure__item-text section__text">
+                        <span>Расчет собственных средств на 31.12.2022</span>
+                      </span>
+                    </a>
+                    <div class="disclosure__item-description section__text">Опубликовано 23.01.2023, 09:37 Срок публикации до 23.01.2026</div>
+                  </div>
+            	
+                  <div class="disclosure__item">
+                    <a class="disclosure__item-top" href="Расчет собственных средств на 30.11.2022.pdf" target="_blank">
+                      <svg class="disclosure__item-icon" width="26" height="26">
+                        <use xlink:href="#pdf"></use>
+                      </svg>
+                      <span class="disclosure__item-text section__text">
+                        <span>Расчет собственных средств на 30.11.2022</span>
+                      </span>
+                    </a>
+                    <div class="disclosure__item-description section__text">Опубликовано 16.12.2022, 17.20 Срок публикации до 16.12.2025</div>
+                  </div>
+            	
+                  <div class="disclosure__item">
+                    <a class="disclosure__item-top" href="Расчет собственных средств на 31.10.2022.pdf" target="_blank">
+                      <svg class="disclosure__item-icon" width="26" height="26">
+                        <use xlink:href="#pdf"></use>
+                      </svg>
+                      <span class="disclosure__item-text section__text">
+                        <span>Расчет собственных средств на 31.10.2022</span>
+                      </span>
+                    </a>
+                    <div class="disclosure__item-description section__text">Опубликовано 15.11.2022, 11.31 Срок публикации до 15.11.2025</div>
+                  </div>
+            	
+                  <div class="disclosure__item">
+                    <a class="disclosure__item-top" href="Расчет собственных средств на 30.09.2022.pdf" target="_blank">
+                      <svg class="disclosure__item-icon" width="26" height="26">
+                        <use xlink:href="#pdf"></use>
+                      </svg>
+                      <span class="disclosure__item-text section__text">
+                        <span>Расчет собственных средств на 30.09.2022</span>
+                      </span>
+                    </a>
+                    <div class="disclosure__item-description section__text">Опубликовано 18.10.2022, 14:15 Срок публикации до: 18.10.2025</div>
+                  </div>
+            	
+                  <div class="disclosure__item">
+                    <a class="disclosure__item-top" href="Расчет собственных средств на 31.08.2022.pdf" target="_blank">
+                      <svg class="disclosure__item-icon" width="26" height="26">
+                        <use xlink:href="#pdf"></use>
+                      </svg>
+                      <span class="disclosure__item-text section__text">
+                        <span>Расчет собственных средств на 31.08.2022</span>
+                      </span>
+                    </a>
+                    <div class="disclosure__item-description section__text">Опубликовано 14.09.2022, 10:50 Срок публикации до 14.09.2025</div>
+                  </div>
+            	
+                  <div class="disclosure__item">
+                    <a class="disclosure__item-top" href="Расчет собственных средств на 31.07.2022.pdf" target="_blank">
+                      <svg class="disclosure__item-icon" width="26" height="26">
+                        <use xlink:href="#pdf"></use>
+                      </svg>
+                      <span class="disclosure__item-text section__text">
+                        <span>Расчет собственных средств на 31.07.2022</span>
+                      </span>
+                    </a>
+                    <div class="disclosure__item-description section__text">Опубликовано 15.08.2022, 10:34 Срок публикации до 15.08.2025</div>
+                  </div>
+            	
+                  <div class="disclosure__item">
+                    <a class="disclosure__item-top" href="Расчет собственных средств на 30.06.2022 г..pdf" target="_blank">
+                      <svg class="disclosure__item-icon" width="26" height="26">
+                        <use xlink:href="#pdf"></use>
+                      </svg>
+                      <span class="disclosure__item-text section__text">
+                        <span>Расчет собственных средств на 30.06.2022 г.</span>
+                      </span>
+                    </a>
+                    <div class="disclosure__item-description section__text">Опубликовано 15.07.2022, 12:07 Срок публикации до 15.07.2025</div>
+                  </div>
+            	
+                  <div class="disclosure__item">
+                    <a class="disclosure__item-top" href="Расчет собственных средств на 31.05.2022.pdf" target="_blank">
+                      <svg class="disclosure__item-icon" width="26" height="26">
+                        <use xlink:href="#pdf"></use>
+                      </svg>
+                      <span class="disclosure__item-text section__text">
+                        <span>Расчет собственных средств на 31.05.2022</span>
+                      </span>
+                    </a>
+                    <div class="disclosure__item-description section__text">Опубликовано 17.06.2022, 11:50 Срок публикации до 17.06.2025</div>
+                  </div>
+            	
+                  <div class="disclosure__item">
+                    <a class="disclosure__item-top" href="Расчет собственных средств на 30.04.2022.pdf" target="_blank">
+                      <svg class="disclosure__item-icon" width="26" height="26">
+                        <use xlink:href="#pdf"></use>
+                      </svg>
+                      <span class="disclosure__item-text section__text">
+                        <span>Расчет собственных средств на 30.04.2022</span>
+                      </span>
+                    </a>
+                    <div class="disclosure__item-description section__text">Опубликовано 23.05.2022, 16:45 Срок публикации до 23.05.2025</div>
+                  </div>
+            	
+                  <div class="disclosure__item">
+                    <a class="disclosure__item-top" href="Расчет собственных средств на 31.03.2022.pdf" target="_blank">
+                      <svg class="disclosure__item-icon" width="26" height="26">
+                        <use xlink:href="#pdf"></use>
+                      </svg>
+                      <span class="disclosure__item-text section__text">
+                        <span>Расчет собственных средств на 31.03.2022</span>
+                      </span>
+                    </a>
+                    <div class="disclosure__item-description section__text">Опубликовано: 18.04.2022, 12:20. Срок публикации до: 18.04.2025</div>
+                  </div>
+            	
+                  <div class="disclosure__item">
+                    <a class="disclosure__item-top" href="Расчет собственных средств на 31.12.2021 (скорректированный).pdf" target="_blank">
+                      <svg class="disclosure__item-icon" width="26" height="26">
+                        <use xlink:href="#pdf"></use>
+                      </svg>
+                      <span class="disclosure__item-text section__text">
+                        <span>Расчет собственных средств на 31.12.2021 (скорректированный)</span>
+                      </span>
+                    </a>
+                    <div class="disclosure__item-description section__text">Опубликовано: 05.04.2022, 14:40 Срок публикации до: 05.04.2025 </div>
+                  </div>
+            	
+                  <div class="disclosure__item">
+                    <a class="disclosure__item-top" href="Расчет собственных средств на 28.02.2022.pdf" target="_blank">
+                      <svg class="disclosure__item-icon" width="26" height="26">
+                        <use xlink:href="#pdf"></use>
+                      </svg>
+                      <span class="disclosure__item-text section__text">
+                        <span>Расчет собственных средств на 28.02.2022</span>
+                      </span>
+                    </a>
+                    <div class="disclosure__item-description section__text">Опубликовано 16.03.2022, 07:45 Срок публикации до: 16.03.2025</div>
+                  </div>
+            	
+                  <div class="disclosure__item">
+                    <a class="disclosure__item-top" href="Расчет собственных средств на 31.01.2022.pdf" target="_blank">
+                      <svg class="disclosure__item-icon" width="26" height="26">
+                        <use xlink:href="#pdf"></use>
+                      </svg>
+                      <span class="disclosure__item-text section__text">
+                        <span>Расчет собственных средств на 31.01.2022</span>
+                      </span>
+                    </a>
+                    <div class="disclosure__item-description section__text">Опубликовано 15.02.2022, 13:02 Срок публикации до: 15.02.2025</div>
+                  </div>
+            	
+                  <div class="disclosure__item">
+                    <a class="disclosure__item-top" href="Расчет собственных средств на 31.12.2021.pdf" target="_blank">
+                      <svg class="disclosure__item-icon" width="26" height="26">
+                        <use xlink:href="#pdf"></use>
+                      </svg>
+                      <span class="disclosure__item-text section__text">
+                        <span>Расчет собственных средств на 31.12.2021 </span>
+                      </span>
+                    </a>
+                    <div class="disclosure__item-description section__text">Опубликовано 25.01.2022, 11:00 Срок публикации до: 25.01.2025 </div>
+                  </div>
+            	
+                  <div class="disclosure__item">
+                    <a class="disclosure__item-top" href="Расчет собственных средств на 30.11.2021.pdf" target="_blank">
+                      <svg class="disclosure__item-icon" width="26" height="26">
+                        <use xlink:href="#pdf"></use>
+                      </svg>
+                      <span class="disclosure__item-text section__text">
+                        <span>Расчет собственных средств на 30.11.2021</span>
+                      </span>
+                    </a>
+                    <div class="disclosure__item-description section__text">Опубликовано 15.12.2021, 07:10 Срок публикации до: 15.12.2024</div>
+                  </div>
+            	
+                  <div class="disclosure__item">
+                    <a class="disclosure__item-top" href="Расчет собственных средств на 31.10.2021.pdf" target="_blank">
+                      <svg class="disclosure__item-icon" width="26" height="26">
+                        <use xlink:href="#pdf"></use>
+                      </svg>
+                      <span class="disclosure__item-text section__text">
+                        <span>Расчет собственных средств на 31.10.2021 </span>
+                      </span>
+                    </a>
+                    <div class="disclosure__item-description section__text">Опубликовано 24.11.2021, 16:55 Срок публикации до: 24.11.2024 </div>
+                  </div>
+            	
+                  <div class="disclosure__item">
+                    <a class="disclosure__item-top" href="Расчет собственных средств на 30.09.2021.pdf" target="_blank">
+                      <svg class="disclosure__item-icon" width="26" height="26">
+                        <use xlink:href="#pdf"></use>
+                      </svg>
+                      <span class="disclosure__item-text section__text">
+                        <span>Расчет собственных средств на 30.09.2021</span>
+                      </span>
+                    </a>
+                    <div class="disclosure__item-description section__text">Опубликовано: 15.10.2021, 17:55 Срок публикации до: 15.10.2024</div>
+                  </div>
+            	
+                  <div class="disclosure__item">
+                    <a class="disclosure__item-top" href="Расчет собственных средств на 31.08.2021.pdf" target="_blank">
+                      <svg class="disclosure__item-icon" width="26" height="26">
+                        <use xlink:href="#pdf"></use>
+                      </svg>
+                      <span class="disclosure__item-text section__text">
+                        <span>Расчет собственных средств на 31.08.2021</span>
+                      </span>
+                    </a>
+                    <div class="disclosure__item-description section__text">Опубликовано: 24.09.2021, 11:40 Срок публикации до: 01.10.2024</div>
+                  </div>
+            	
+                  <div class="disclosure__item">
+                    <a class="disclosure__item-top" href="Расчет собственных средств на 31.07.2021.pdf" target="_blank">
+                      <svg class="disclosure__item-icon" width="26" height="26">
+                        <use xlink:href="#pdf"></use>
+                      </svg>
+                      <span class="disclosure__item-text section__text">
+                        <span>Расчет собственных средств на 31.07.2021</span>
+                      </span>
+                    </a>
+                    <div class="disclosure__item-description section__text">Опубликовано: 18.08.2021, 16:05 Срок публикации до: 01.10.2024</div>
+                  </div>
+            	
+                  <div class="disclosure__item">
+                    <a class="disclosure__item-top" href="Расчет собственных средств на 30.06.2021.pdf" target="_blank">
+                      <svg class="disclosure__item-icon" width="26" height="26">
+                        <use xlink:href="#pdf"></use>
+                      </svg>
+                      <span class="disclosure__item-text section__text">
+                        <span>Расчет собственных средств на 30.06.2021 </span>
+                      </span>
+                    </a>
+                    <div class="disclosure__item-description section__text">Опубликовано: 15.07.2021, 12:20 Срок публикации до: 01.10.2024</div>
+                  </div>
+            	
+                  <div class="disclosure__item">
+                    <a class="disclosure__item-top" href=".htaccess" target="_blank">
+                      <svg class="disclosure__item-icon" width="26" height="26">
+                        <use xlink:href="#pdf"></use>
+                      </svg>
+                      <span class="disclosure__item-text section__text">
+                        <span>Расчет размера собственных средств на 31.03.2023</span>
+                      </span>
+                    </a>
+                    <div class="disclosure__item-description section__text">Расчет размера собственных средств на 31.03.2023</div>
+                  </div>
+            	
+             
+            </div>
+          </div>
+        </div>
+      </div>
+    
+    </section>
+    
+    <div class="footer js-footer">
+    <div class="footer-inner">
+        <div class="footer-logo-and-links">
+            <div class="footer-logo">
+                <span><a href="https://mrcapital.ru/">
+                    <img class="footer__image" src="assets/templates/mrgroup/assets/img/MR_Capital_logo_footer.png" alt="Footer Logo">
+                </a></span>
+                <p>127015, г. Мо­сква, вн. тер.<br>
+                г. муниципальный округ Бутырский,<br>
+                ул. Новодмитровская, д. 2, корп. 2,<br>
+                этаж 12, комнаты 12.27, 12.28, 12.29, 12.30, 12.31.</p>
+            </div>
+                <!--<div class="footer-social">
+                    <a href="" target="_blank">
+                        <img src="assets/templates/mrgroup/assets/img/social/vk.svg" alt="">
+                    </a>
+                        <a href="" target="_blank">
+                        <img src="assets/templates/mrgroup/assets/img/social/facebook.svg" alt="">
+                    </a>
+                        <a href="" target="_blank">
+                        <img src="assets/templates/mrgroup/assets/img/social/youtube.svg" alt="">
+                    </a>
+                        <a href="" target="_blank">
+                        <img src="assets/templates/mrgroup/assets/img/social/instagram.svg" alt="">
+                    </a>
+                        <a href="" target="_blank">
+                        <img src="assets/templates/mrgroup/assets/img/social/twitter.svg" alt="">
+                    </a>
+                </div>-->
+
+
+
+        </div>
+        <div class="footer-contacts">
+            <div class="footer-contacts__item">
+                <div class="footer-contacts__item-title">Телефон</div>
+                <div class="footer-contacts__item-phone">
+                    <a href="tel:+74951362150">+7 (495) 136-21-50</a>
+                </div>
+                <div class="footer-contacts__item-mail">
+                    <a href="mailto:info@mrcapital.ru">info@mrcapital.ru</a>
+                </div>
+            </div>
+            </div>
+        <div class="footer-copyright-wrap">
+            <div class="footer-copyright">© MR CAPITAL AM, LLC, 2022</div>
+            <div class="footer-info">
+                <a class="footer-nor-offer" href="politika-obrabotki-personalnyix-dannyix.html" target="_blank">
+                    Политика обработки персональных данных                </a>
+            </div>
+        </div>
+    </div>
+</div>
+
+<!--<footer class="footer">
+    <div class="container">
+      <div class="row h-100">
+        <div class="col-md-6">
+          <img class="footer__image" src="assets/templates/mrgroup/assets/img/footer__image-1.png" alt="Footer Logo">
+        </div>
+        <div class="col-md-6">
+          <div class="footer__info d-flex flex-column justify-content-between">
+            <div class="footer__title">ООО "УК "МР КАПИТАЛ"</div>
+            <div class="footer__description">Адрес: 127015, г. Москва, Муниципальный округ Бутырский вн.тер.г., Новодмитровская ул., д. 2, к. 2, этаж 9, помещ./ком. XXVIIIЗ/1, 14-16.</div>
+            <a class="link" href="#"><span>Политика обработки персональных данных</span></a>
+            <div class="footer__copy">© MR CAPITAL AM, LLC, 2021</div>
+          </div>
+        </div>
+      </div>
+    </div>
+</footer>-->
+    <svg width="0" height="0" class="svg-sprite">
+    <symbol id="quotes" viewBox="0 0 50 37" fill="none" xmlns="http://www.w3.org/2000/svg">
+      <path opacity="0.2" d="M24.5462 3.24802C20.4602 4.91467 16.9656 7.41465 14.0624 10.7479C12.6646 12.3608 11.9657 14.3232 11.9657 16.635C11.9657 17.7102 12.1001 18.5973 12.3689 19.2962C12.5302 19.6726 13.2022 20.5866 14.385 22.0382C15.6216 23.436 16.4011 24.4844 16.7237 25.1833C17.1 26.0973 17.2882 27.0112 17.2882 27.9252C17.2882 30.1832 16.4818 32.1725 14.8689 33.8929C13.256 35.5595 11.3205 36.3928 9.06248 36.3928C6.8582 36.3928 4.94962 35.5326 3.33673 33.8122C1.77761 32.0381 0.998047 29.7262 0.998047 26.8768C0.998047 23.7048 1.83137 20.4522 3.49802 17.1189C5.16467 13.7856 7.63776 10.7479 10.9173 8.00604C13.1753 6.12434 17.1 3.70501 22.6914 0.748047L24.5462 3.24802ZM50.0008 3.24802C44.5707 6.25874 41.103 8.75872 39.5977 10.7479C38.0923 12.6834 37.3396 14.5651 37.3396 16.3931C37.3396 17.5221 37.5278 18.4898 37.9041 19.2962C38.0654 19.7264 38.7375 20.6403 39.9202 22.0382C41.1568 23.436 41.9095 24.4037 42.1783 24.9414C42.5546 25.8553 42.7428 26.7962 42.7428 27.7639C42.7428 30.1295 41.9363 32.1725 40.3235 33.8929C38.7106 35.5595 36.7751 36.3928 34.5171 36.3928C32.259 36.3928 30.3236 35.5595 28.7107 33.8929C27.1515 32.1725 26.372 29.8607 26.372 26.9575C26.372 22.3339 28.0386 17.8178 31.3719 13.4092C34.7052 9.00065 40.3772 4.96843 48.3879 1.31256L50.0008 3.24802Z"></path>
+    </symbol>
+    <symbol id="arrow-button" viewBox="0 0 49 28" fill="none" xmlns="http://www.w3.org/2000/svg">
+      <path d="M0.984375 13.5312H36.4844M36.4844 13.5312L32.9844 10.0312M36.4844 13.5312L32.9844 17.0312"></path>
+      <path d="M23.9844 20.0312C26.208 23.917 30.364 26.5312 35.1241 26.5312C42.2267 26.5312 47.9844 20.711 47.9844 13.5312C47.9844 6.35155 42.2267 0.53125 35.1241 0.53125C30.5712 0.53125 26.5709 2.92294 24.2856 6.53125"></path>
+    </symbol>
+    <symbol id="attachment" viewBox="0 0 16 16" xmlns="http://www.w3.org/2000/svg">
+      <path fill-rule="evenodd" clip-rule="evenodd" d="M10.3849 1.48551C9.82542 1.48551 9.28881 1.70778 8.89316 2.10343L2.4352 8.56138C1.77584 9.22074 1.40543 10.115 1.40543 11.0475C1.40543 11.98 1.77584 12.8743 2.4352 13.5337C3.09457 14.193 3.98886 14.5635 4.92134 14.5635C5.85382 14.5635 6.74812 14.193 7.40748 13.5337L13.8654 7.0757C14.1399 6.80128 14.5848 6.80128 14.8592 7.0757C15.1336 7.35013 15.1336 7.79505 14.8592 8.06947L8.40127 14.5274C7.47834 15.4504 6.22657 15.9689 4.92134 15.9689C3.61612 15.9689 2.36435 15.4504 1.44141 14.5274C0.518483 13.6045 0 12.3527 0 11.0475C0 9.7423 0.518483 8.49054 1.44141 7.56761L7.89937 1.10966C8.55858 0.450444 9.45267 0.0800781 10.3849 0.0800781C11.3172 0.0800781 12.2113 0.450444 12.8705 1.10966C13.5297 1.76888 13.9001 2.66297 13.9001 3.59524C13.9001 4.52751 13.5297 5.4216 12.8705 6.08082L6.40554 12.5388C6.01004 12.9343 5.47363 13.1564 4.91431 13.1564C4.35499 13.1564 3.81858 12.9343 3.42308 12.5388C3.02758 12.1433 2.80539 11.6068 2.80539 11.0475C2.80539 10.4882 3.02758 9.95177 3.42308 9.55626L9.38942 3.59696C9.66401 3.32269 10.1089 3.32297 10.3832 3.59756C10.6575 3.87214 10.6572 4.31706 10.3826 4.59132L4.41687 10.5501C4.28512 10.682 4.21082 10.8611 4.21082 11.0475C4.21082 11.2341 4.28494 11.413 4.41687 11.545C4.5488 11.6769 4.72773 11.751 4.91431 11.751C5.10089 11.751 5.27984 11.6769 5.41177 11.545L11.8767 5.08701C12.2722 4.69139 12.4947 4.15464 12.4947 3.59524C12.4947 3.03571 12.2724 2.49908 11.8767 2.10343C11.4811 1.70778 10.9445 1.48551 10.3849 1.48551Z"></path>
+    </symbol>
+    <symbol id="cross" viewBox="0 0 15 15" fill="none" xmlns="http://www.w3.org/2000/svg">
+      <path d="M1.64453 1.5L13.6445 13.5M13.6445 1.5L1.64453 13.5" stroke-width="2"></path>
+    </symbol>
+    <symbol id="hamburger" viewBox="0 0 47 16" xmlns="http://www.w3.org/2000/svg">
+      <path d="M0 0H47V4H0V0Z"></path>
+      <path d="M0 12H47V16H0V12Z"></path>
+    </symbol>
+    <symbol id="check" viewBox="0 0 21 18" fill="none" xmlns="http://www.w3.org/2000/svg">
+      <path d="M1.51953 8.73364L7.94946 15.1633L19.4787 1.19531" stroke="#FF7635" stroke-width="3"></path>
+    </symbol>
+  
+    <symbol id="doc--1" viewBox="0 0 26 32" xmlns="http://www.w3.org/2000/svg">
+      <path d="M8.08284 22.9024H7.06294C6.78132 22.9024 6.55299 23.1308 6.55299 23.4124C6.55299 23.694 6.78132 23.9223 7.06294 23.9223H8.08284C8.36446 23.9223 8.59278 23.694 8.59278 23.4124C8.59278 23.1308 8.36446 22.9024 8.08284 22.9024Z"></path>
+      <path d="M22.3614 22.9024H10.1226C9.84101 22.9024 9.61268 23.1308 9.61268 23.4124C9.61268 23.694 9.84101 23.9223 10.1226 23.9223H22.3614C22.643 23.9223 22.8714 23.694 22.8714 23.4124C22.8714 23.1308 22.643 22.9024 22.3614 22.9024Z"></path>
+      <path d="M8.08284 19.8427H7.06294C6.78132 19.8427 6.55299 20.0711 6.55299 20.3527C6.55299 20.6343 6.78132 20.8626 7.06294 20.8626H8.08284C8.36446 20.8626 8.59278 20.6343 8.59278 20.3527C8.59278 20.0711 8.36446 19.8427 8.08284 19.8427Z"></path>
+      <path d="M22.3614 19.8427H10.1226C9.84101 19.8427 9.61268 20.0711 9.61268 20.3527C9.61268 20.6343 9.84101 20.8626 10.1226 20.8626H22.3614C22.643 20.8626 22.8714 20.6343 22.8714 20.3527C22.8714 20.0711 22.643 19.8427 22.3614 19.8427Z"></path>
+      <path d="M8.08284 16.783H7.06294C6.78132 16.783 6.55299 17.0114 6.55299 17.293C6.55299 17.5746 6.78132 17.8029 7.06294 17.8029H8.08284C8.36446 17.8029 8.59278 17.5746 8.59278 17.293C8.59278 17.0114 8.36446 16.783 8.08284 16.783Z"></path>
+      <path d="M22.3614 16.783H10.1226C9.84101 16.783 9.61268 17.0114 9.61268 17.293C9.61268 17.5746 9.84101 17.8029 10.1226 17.8029H22.3614C22.643 17.8029 22.8714 17.5746 22.8714 17.293C22.8714 17.0114 22.643 16.783 22.3614 16.783Z"></path>
+      <path d="M8.08284 13.7233H7.06294C6.78132 13.7233 6.55299 13.9517 6.55299 14.2333C6.55299 14.5149 6.78132 14.7432 7.06294 14.7432H8.08284C8.36446 14.7432 8.59278 14.5149 8.59278 14.2333C8.59278 13.9517 8.36446 13.7233 8.08284 13.7233Z"></path>
+      <path d="M22.3614 13.7233H10.1226C9.84101 13.7233 9.61268 13.9517 9.61268 14.2333C9.61268 14.5149 9.84101 14.7432 10.1226 14.7432H22.3614C22.643 14.7432 22.8714 14.5149 22.8714 14.2333C22.8714 13.9517 22.643 13.7233 22.3614 13.7233Z"></path>
+      <path d="M25.9244 8.59172C25.9219 8.54704 25.9132 8.50293 25.8984 8.46067C25.8928 8.44435 25.8887 8.42854 25.8816 8.41273C25.8568 8.35728 25.8223 8.30666 25.7796 8.26332L18.6403 1.12402C18.597 1.08138 18.5464 1.04683 18.4909 1.02203C18.4751 1.0149 18.4593 1.01082 18.4435 1.00521C18.4008 0.990545 18.3564 0.981621 18.3114 0.978689C18.3027 0.980219 18.293 0.974609 18.2818 0.974609H4.00324C3.72162 0.974609 3.49329 1.20294 3.49329 1.48456V3.01441H0.943543C0.661924 3.01441 0.433594 3.24274 0.433594 3.52436V31.0616C0.433594 31.3432 0.661924 31.5716 0.943543 31.5716H22.3614C22.643 31.5716 22.8714 31.3432 22.8714 31.0616V28.5119H25.4211C25.7027 28.5119 25.9311 28.2836 25.9311 28.0019V8.62385C25.9311 8.61263 25.9255 8.60294 25.9244 8.59172ZM18.7918 2.71558L24.1901 8.1139H18.7918V2.71558ZM21.8515 30.5517H1.45349V4.03431H3.49329V28.0019C3.49329 28.2836 3.72162 28.5119 4.00324 28.5119H21.8515V30.5517ZM24.9112 27.492H4.51319V1.99451H17.7719V8.62385C17.7719 8.90547 18.0002 9.1338 18.2818 9.1338H24.9112V27.492Z"></path>
+      <path d="M12.7882 5.56415H7.06294C6.78132 5.56415 6.55299 5.79248 6.55299 6.0741V11.452C6.55299 11.7336 6.78132 11.9619 7.06294 11.9619H12.7882C13.0699 11.9619 13.2982 11.7336 13.2982 11.452V6.0741C13.2982 5.79248 13.0699 5.56415 12.7882 5.56415ZM12.2783 10.942H7.57289V6.58405H12.2783V10.942Z"></path>
+      <path d="M8.20923 8.96598C8.04674 8.80349 8.04674 8.54004 8.20923 8.37754C8.37172 8.21505 8.63517 8.21505 8.79766 8.37754L10.1487 9.72854L9.56022 10.317L8.20923 8.96598Z"></path>
+      <path d="M11.0913 7.60898C11.2538 7.44649 11.5173 7.44649 11.6798 7.60898C11.8423 7.77147 11.8423 8.03492 11.6798 8.19741L9.56022 10.317L8.97179 9.72854L11.0913 7.60898Z"></path>
+    </symbol>
+    <symbol id="doc--2" viewBox="0 0 26 31" xmlns="http://www.w3.org/2000/svg">
+      <path d="M7.64924 21.9278H6.62934C6.34772 21.9278 6.11939 22.1562 6.11939 22.4378C6.11939 22.7194 6.34772 22.9477 6.62934 22.9477H7.64924C7.93086 22.9477 8.15919 22.7194 8.15919 22.4378C8.15919 22.1562 7.93086 21.9278 7.64924 21.9278Z"></path>
+      <path d="M21.9278 21.9278H9.68904C9.40742 21.9278 9.17909 22.1562 9.17909 22.4378C9.17909 22.7194 9.40742 22.9477 9.68904 22.9477H21.9278C22.2094 22.9477 22.4378 22.7194 22.4378 22.4378C22.4378 22.1562 22.2094 21.9278 21.9278 21.9278Z"></path>
+      <path d="M7.64924 18.8681H6.62934C6.34772 18.8681 6.11939 19.0965 6.11939 19.3781C6.11939 19.6597 6.34772 19.888 6.62934 19.888H7.64924C7.93086 19.888 8.15919 19.6597 8.15919 19.3781C8.15919 19.0965 7.93086 18.8681 7.64924 18.8681Z"></path>
+      <path d="M21.9278 18.8681H9.68904C9.40742 18.8681 9.17909 19.0965 9.17909 19.3781C9.17909 19.6597 9.40742 19.888 9.68904 19.888H21.9278C22.2094 19.888 22.4378 19.6597 22.4378 19.3781C22.4378 19.0965 22.2094 18.8681 21.9278 18.8681Z"></path>
+      <path d="M7.64924 15.8084H6.62934C6.34772 15.8084 6.11939 16.0368 6.11939 16.3184C6.11939 16.6 6.34772 16.8283 6.62934 16.8283H7.64924C7.93086 16.8283 8.15919 16.6 8.15919 16.3184C8.15919 16.0368 7.93086 15.8084 7.64924 15.8084Z"></path>
+      <path d="M21.9278 15.8084H9.68904C9.40742 15.8084 9.17909 16.0368 9.17909 16.3184C9.17909 16.6 9.40742 16.8283 9.68904 16.8283H21.9278C22.2094 16.8283 22.4378 16.6 22.4378 16.3184C22.4378 16.0368 22.2094 15.8084 21.9278 15.8084Z"></path>
+      <path d="M7.64924 12.7487H6.62934C6.34772 12.7487 6.11939 12.9771 6.11939 13.2587C6.11939 13.5403 6.34772 13.7686 6.62934 13.7686H7.64924C7.93086 13.7686 8.15919 13.5403 8.15919 13.2587C8.15919 12.9771 7.93086 12.7487 7.64924 12.7487Z"></path>
+      <path d="M21.9278 12.7487H9.68904C9.40742 12.7487 9.17909 12.9771 9.17909 13.2587C9.17909 13.5403 9.40742 13.7686 9.68904 13.7686H21.9278C22.2094 13.7686 22.4378 13.5403 22.4378 13.2587C22.4378 12.9771 22.2094 12.7487 21.9278 12.7487Z"></path>
+      <path d="M25.4908 7.61711C25.4883 7.57243 25.4796 7.52832 25.4648 7.48606C25.4592 7.46974 25.4551 7.45393 25.448 7.43812C25.4232 7.38266 25.3887 7.33205 25.346 7.28871L18.2067 0.149415C18.1634 0.106771 18.1128 0.0722216 18.0573 0.0474253C18.0415 0.040286 18.0257 0.0362064 18.0099 0.030597C17.9672 0.0159359 17.9228 0.0070118 17.8778 0.00407959C17.8691 0.00560944 17.8594 0 17.8482 0H3.56965C3.28803 0 3.0597 0.22833 3.0597 0.509949V2.0398H0.509949C0.22833 2.0398 0 2.26813 0 2.54975V30.087C0 30.3686 0.22833 30.597 0.509949 30.597H21.9278C22.2094 30.597 22.4378 30.3686 22.4378 30.087V27.5373H24.9875C25.2691 27.5373 25.4975 27.3089 25.4975 27.0273V7.64924C25.4975 7.63802 25.4919 7.62833 25.4908 7.61711ZM18.3582 1.74097L23.7565 7.13929H18.3582V1.74097ZM21.4179 29.5771H1.0199V3.0597H3.0597V27.0273C3.0597 27.3089 3.28803 27.5373 3.56965 27.5373H21.4179V29.5771ZM24.4776 26.5174H4.07959V1.0199H17.3383V7.64924C17.3383 7.93086 17.5666 8.15919 17.8482 8.15919H24.4776V26.5174Z"></path>
+      <path d="M12.3546 4.58954H6.62934C6.34772 4.58954 6.11939 4.81787 6.11939 5.09949V10.4774C6.11939 10.759 6.34772 10.9873 6.62934 10.9873H12.3546C12.6363 10.9873 12.8646 10.759 12.8646 10.4774V5.09949C12.8646 4.81787 12.6363 4.58954 12.3546 4.58954ZM11.8447 9.96741H7.13929V5.60944H11.8447V9.96741Z"></path>
+      <path d="M9.14006 7.76598H9.37216C9.58909 7.76598 9.75141 7.7235 9.85912 7.63855C9.96683 7.55208 10.0207 7.42693 10.0207 7.26309C10.0207 7.09774 9.97517 6.97562 9.88415 6.89673C9.79465 6.81785 9.65357 6.77841 9.46091 6.77841H9.14006V7.76598ZM10.7329 7.23806C10.7329 7.59608 10.6207 7.86989 10.3961 8.05952C10.1731 8.24915 9.85533 8.34396 9.4427 8.34396H9.14006V9.52723H8.43465V6.20043H9.49732C9.90084 6.20043 10.2073 6.28766 10.4166 6.46211C10.6275 6.63505 10.7329 6.8937 10.7329 7.23806Z"></path>
+      <path d="M7.98382 8.06122C7.98382 7.90633 8.10938 7.78078 8.26426 7.78078H9.44257V8.34166H8.26426C8.10938 8.34166 7.98382 8.2161 7.98382 8.06122Z"></path>
+      <path d="M7.98382 8.89357C7.98382 8.73869 8.10938 8.61313 8.26426 8.61313H9.68126C9.83614 8.61313 9.9617 8.73869 9.9617 8.89357C9.9617 9.04845 9.83614 9.17401 9.68126 9.17401H8.26426C8.10938 9.17401 7.98382 9.04845 7.98382 8.89357Z"></path>
+    </symbol>
+    <symbol id="coins" viewBox="0 0 26 23" xmlns="http://www.w3.org/2000/svg">
+      <path fill-rule="evenodd" clip-rule="evenodd" d="M3.39247 12.7523L4.66999 12.6847C4.11794 12.1711 3.72374 11.5107 3.53359 10.7811C3.34345 10.0515 3.36523 9.28273 3.5964 8.56503C3.82757 7.84733 4.25854 7.2104 4.83879 6.7289C5.41904 6.2474 6.12452 5.94128 6.87254 5.84643V5.31906C6.87254 5.1877 6.92472 5.06171 7.01761 4.96883C7.1105 4.87594 7.23648 4.82376 7.36784 4.82376H7.86315V3.83315H7.36784C7.23648 3.83315 7.1105 3.78097 7.01761 3.68808C6.92472 3.59519 6.87254 3.46921 6.87254 3.33784V1.51345C6.87254 1.15329 7.16451 0.861328 7.52466 0.861328H14.3021C14.4335 0.861328 14.5594 0.913512 14.6523 1.0064C14.7452 1.09929 14.7974 1.22527 14.7974 1.35663V2.84254H21.9867C22.3929 2.84254 22.7223 3.17185 22.7223 3.57807V5.31906C22.7223 5.45042 22.6701 5.57641 22.5772 5.66929C22.4843 5.76218 22.3583 5.81436 22.227 5.81436H21.7316V6.80497H22.227C22.3583 6.80497 22.4843 6.85715 22.5772 6.95004C22.6701 7.04293 22.7223 7.16891 22.7223 7.30027V9.28149C22.7223 9.41285 22.6701 9.53883 22.5772 9.63172C22.4843 9.72461 22.3583 9.77679 22.227 9.77679H21.7316V10.7674H22.227C22.3583 10.7674 22.4843 10.8196 22.5772 10.9125C22.6701 11.0054 22.7223 11.1313 22.7223 11.2627V12.7486H23.2176C23.3489 12.7486 23.4749 12.8008 23.5678 12.8937C23.6607 12.9866 23.7129 13.1126 23.7129 13.2439V14.0163C24.1683 13.9815 24.6212 14.1117 24.9886 14.3832C25.356 14.6546 25.6134 15.0492 25.7139 15.4949C25.8143 15.9405 25.7511 16.4074 25.5357 16.8102C25.3203 17.2131 24.9672 17.525 24.5408 17.689L12.9941 22.13C12.9012 22.1658 12.7996 22.1727 12.7028 22.1498L4.33838 20.1818L0.928897 20.18C0.797534 20.18 0.671552 20.1278 0.578664 20.035C0.485777 19.9421 0.433594 19.8161 0.433594 19.6847V13.2458C0.433594 13.1144 0.485777 12.9884 0.578664 12.8955C0.671552 12.8027 0.797534 12.7505 0.928897 12.7505L3.39247 12.7523ZM5.44383 7.51076C5.98119 7.05481 6.66311 6.80466 7.36784 6.80497C8.04534 6.80511 8.70246 7.0367 9.23033 7.46139C9.75821 7.88607 10.1251 8.47835 10.2704 9.1401C10.4156 9.80186 10.3303 10.4934 10.0288 11.1001C9.72725 11.7067 9.22748 12.1922 8.61229 12.476L6.41538 12.5923C5.74771 12.3667 5.18193 11.9112 4.81903 11.3071C4.45613 10.703 4.31973 9.98957 4.43417 9.29418C4.54862 8.5988 4.90646 7.96672 5.44383 7.51076ZM14.7974 7.79558V8.78618H11.2049C11.1147 8.43895 10.9776 8.10567 10.7972 7.79558H14.7974ZM13.8068 10.7674H11.2049C11.2882 10.4438 11.3303 10.111 11.3303 9.77679H13.8068V10.7674ZM14.7974 3.83315V4.82376H8.85375V3.83315H14.7974ZM15.788 4.82376V3.83315H21.7316V4.82376H15.788ZM14.7974 5.81436H20.741V6.80497H14.7974V5.81436ZM14.7974 10.7674V9.77679H20.741V10.7674H14.7974ZM13.3483 14.7298C13.5228 14.4307 13.5964 14.0834 13.5581 13.7392H15.788V14.7298H13.3483ZM11.1076 15.795L11.4058 15.7204L17.0592 15.7207L13.3441 16.6899L11.1076 15.795ZM14.7974 11.758V12.7486L13.0643 12.7485C12.9058 12.5975 12.7185 12.4802 12.5134 12.4038C12.3084 12.3273 12.09 12.2931 11.8714 12.3035L10.3532 12.3839C10.5224 12.1903 10.6722 11.9807 10.8007 11.758H14.7974ZM13.8068 5.81436V6.80497H9.98453C9.38985 6.27945 8.65056 5.94541 7.86315 5.84643V5.81436H13.8068ZM13.8068 2.84254H7.86315V1.85193H13.8068V2.84254ZM15.788 7.79558H21.7316V8.78618H15.788V7.79558ZM15.788 11.758H21.7316V12.7486H15.788V11.758ZM16.7786 13.7392H22.7223V14.2431L20.8565 14.7298H16.7786V13.7392ZM4.39602 19.1912L1.4242 19.1897L1.42439 13.7413C1.42439 13.7413 3.42294 13.7425 3.43179 13.742L11.9225 13.2927C12.0776 13.2852 12.23 13.3357 12.35 13.4344C12.47 13.533 12.549 13.6728 12.5716 13.8265C12.5943 13.9801 12.5589 14.1367 12.4725 14.2658C12.3861 14.3949 12.2547 14.4872 12.104 14.5248L7.24792 15.7388C7.1213 15.7714 7.01272 15.8527 6.94585 15.9651C6.87898 16.0774 6.85924 16.2117 6.89095 16.3385C6.92266 16.4654 7.00323 16.5745 7.11511 16.6422C7.22698 16.7099 7.36107 16.7306 7.48814 16.6998L9.46638 16.2052L13.1277 17.6698C13.226 17.7091 13.3343 17.7159 13.4367 17.6891L23.6276 15.0307C23.853 14.972 24.0924 15.0018 24.2965 15.114C24.5006 15.2262 24.6541 15.4123 24.7254 15.634C24.7967 15.8558 24.7805 16.0964 24.68 16.3065C24.5796 16.5167 24.4025 16.6805 24.1852 16.7642L12.7808 21.1506L4.50926 19.2044C4.47216 19.1956 4.43415 19.1912 4.39602 19.1912Z"></path>
+      <path d="M7.38958 9.7883H7.6167C7.82899 9.7883 7.98783 9.74673 8.09323 9.6636C8.19863 9.57899 8.25133 9.45651 8.25133 9.29619C8.25133 9.13438 8.20679 9.01488 8.11772 8.93768C8.03014 8.86049 7.89208 8.82189 7.70355 8.82189H7.38958V9.7883ZM8.9483 9.27169C8.9483 9.62204 8.83845 9.88999 8.61874 10.0756C8.40052 10.2611 8.08952 10.3539 7.68573 10.3539H7.38958V11.5118H6.69928V8.2563H7.73918C8.13405 8.2563 8.43392 8.34165 8.63878 8.51237C8.84513 8.68161 8.9483 8.93471 8.9483 9.27169Z"></path>
+      <path d="M6.25811 10.0772C6.25811 9.92565 6.38098 9.80278 6.53255 9.80278H7.68561V10.3516H6.53255C6.38098 10.3516 6.25811 10.2288 6.25811 10.0772Z"></path>
+      <path d="M6.25811 10.8917C6.25811 10.7402 6.38098 10.6173 6.53255 10.6173H7.91918C8.07074 10.6173 8.19361 10.7402 8.19361 10.8917C8.19361 11.0433 8.07074 11.1662 7.91918 11.1662H6.53255C6.38098 11.1662 6.25811 11.0433 6.25811 10.8917Z"></path>
+    </symbol>
+    <symbol id="home" viewBox="0 0 28 28" xmlns="http://www.w3.org/2000/svg">
+      <path d="M27.414 26.4213C26.6865 26.4204 25.9891 26.1311 25.4748 25.6167C24.9604 25.1023 24.671 24.4049 24.6702 23.6775V4.01382C24.6691 3.0439 24.2833 2.11402 23.5975 1.42818C22.9117 0.742341 21.9818 0.356558 21.0119 0.355469H2.26278C2.1415 0.355469 2.02518 0.403648 1.93942 0.489407C1.85366 0.575167 1.80548 0.691481 1.80548 0.812763C1.80548 0.934045 1.85366 1.05036 1.93942 1.13612C2.02518 1.22188 2.1415 1.27006 2.26278 1.27006C2.99021 1.27089 3.68762 1.56023 4.20199 2.07461C4.71637 2.58898 5.00571 3.28639 5.00654 4.01382V15.2081L0.628635 18.2726C0.530749 18.3411 0.463572 18.4453 0.44148 18.5627C0.419387 18.6801 0.444134 18.8015 0.510425 18.9009L1.42501 20.2728C1.4923 20.3737 1.59691 20.4438 1.71583 20.4675C1.83476 20.4913 1.95826 20.4669 2.05917 20.3996L2.26278 20.2638V26.8785C2.26278 26.9998 2.31096 27.1161 2.39672 27.2019C2.48248 27.2877 2.59879 27.3358 2.72007 27.3358H27.414C27.5353 27.3358 27.6516 27.2877 27.7373 27.2019C27.8231 27.1161 27.8713 26.9998 27.8713 26.8785C27.8713 26.7573 27.8231 26.641 27.7373 26.5552C27.6516 26.4694 27.5353 26.4213 27.414 26.4213ZM4.68009 1.27006H21.0119C21.7393 1.27089 22.4367 1.56023 22.9511 2.07461C23.4654 2.58898 23.7548 3.28639 23.7556 4.01382V18.8187C23.0679 17.7793 22.0467 17.0052 20.8601 16.6238C19.6736 16.2425 18.3926 16.2767 17.2281 16.7209L10.299 11.8705C10.2222 11.8167 10.1306 11.7878 10.0368 11.7878C9.94295 11.7878 9.85139 11.8167 9.77452 11.8705L5.92113 14.5679V4.01382C5.9213 3.49453 5.81068 2.98118 5.59667 2.50803C5.38266 2.03489 5.07018 1.61284 4.68009 1.27006ZM1.93232 19.385L1.51933 18.7655L10.0368 12.8033L16.295 17.1839C16.0514 17.3352 15.82 17.5053 15.6028 17.6926L10.2905 14.1511C10.2153 14.101 10.1271 14.0743 10.0368 14.0743C9.94649 14.0743 9.85822 14.101 9.7831 14.1511L1.93232 19.385ZM11.4087 26.4213H8.6649V20.0191C8.66519 19.7767 8.76164 19.5442 8.93309 19.3727C9.10455 19.2013 9.33701 19.1048 9.57949 19.1045H10.4941C10.7366 19.1048 10.969 19.2013 11.1405 19.3727C11.3119 19.5442 11.4084 19.7767 11.4087 20.0191V26.4213ZM12.3233 26.4213V20.0191C12.3227 19.5342 12.1298 19.0692 11.7869 18.7263C11.444 18.3834 10.979 18.1905 10.4941 18.19H9.57949C9.09453 18.1905 8.62959 18.3834 8.28667 18.7263C7.94375 19.0692 7.75086 19.5342 7.75031 20.0191V26.4213H3.17737V19.6542L10.0368 15.0812L14.9516 18.3577C14.4617 18.9503 14.102 19.6394 13.8958 20.3802C13.6897 21.1209 13.6417 21.8968 13.7551 22.6573C13.8684 23.4178 14.1405 24.1459 14.5536 24.7944C14.9667 25.4429 15.5117 25.9972 16.1531 26.4213H12.3233ZM14.6097 21.8483C14.6097 20.9439 14.8779 20.0597 15.3804 19.3077C15.8829 18.5557 16.5971 17.9696 17.4327 17.6235C18.2683 17.2773 19.1877 17.1868 20.0748 17.3632C20.9619 17.5397 21.7767 17.9752 22.4162 18.6147C23.0558 19.2543 23.4913 20.0691 23.6678 20.9562C23.8442 21.8432 23.7536 22.7627 23.4075 23.5983C23.0614 24.4339 22.4753 25.1481 21.7233 25.6506C20.9712 26.1531 20.0871 26.4213 19.1827 26.4213C17.9703 26.4199 16.8079 25.9376 15.9506 25.0803C15.0933 24.2231 14.6111 23.0607 14.6097 21.8483ZM22.2122 26.4213C22.8951 25.9673 23.4684 25.3671 23.8907 24.6642C24.0823 25.3442 24.4664 25.9544 24.9967 26.4213H22.2122Z"></path>
+      <path d="M6.37843 20.0191H4.54925C4.42797 20.0191 4.31165 20.0673 4.22589 20.1531C4.14013 20.2388 4.09196 20.3551 4.09196 20.4764V22.3056C4.09196 22.4269 4.14013 22.5432 4.22589 22.629C4.31165 22.7147 4.42797 22.7629 4.54925 22.7629H6.37843C6.49971 22.7629 6.61602 22.7147 6.70178 22.629C6.78754 22.5432 6.83572 22.4269 6.83572 22.3056V20.4764C6.83572 20.3551 6.78754 20.2388 6.70178 20.1531C6.61602 20.0673 6.49971 20.0191 6.37843 20.0191ZM5.92113 21.8483H5.00654V20.9337H5.92113V21.8483Z"></path>
+      <path d="M7.75031 5.38571H21.9264C22.0477 5.38571 22.164 5.33753 22.2498 5.25177C22.3356 5.16601 22.3837 5.0497 22.3837 4.92841V3.09924C22.3837 2.97795 22.3356 2.86164 22.2498 2.77588C22.164 2.69012 22.0477 2.64194 21.9264 2.64194H7.75031C7.62903 2.64194 7.51271 2.69012 7.42695 2.77588C7.3412 2.86164 7.29302 2.97795 7.29302 3.09924V4.92841C7.29302 5.0497 7.3412 5.16601 7.42695 5.25177C7.51271 5.33753 7.62903 5.38571 7.75031 5.38571ZM8.2076 3.55653H21.4691V4.47112H8.2076V3.55653Z"></path>
+      <path d="M21.4691 6.3003H8.2076C8.08632 6.3003 7.97001 6.34848 7.88425 6.43424C7.79849 6.51999 7.75031 6.63631 7.75031 6.75759C7.75031 6.87887 7.79849 6.99519 7.88425 7.08095C7.97001 7.16671 8.08632 7.21489 8.2076 7.21489H21.4691C21.5904 7.21489 21.7067 7.16671 21.7925 7.08095C21.8783 6.99519 21.9264 6.87887 21.9264 6.75759C21.9264 6.63631 21.8783 6.51999 21.7925 6.43424C21.7067 6.34848 21.5904 6.3003 21.4691 6.3003Z"></path>
+      <path d="M21.4691 8.12947H8.2076C8.08632 8.12947 7.97001 8.17765 7.88425 8.26341C7.79849 8.34917 7.75031 8.46549 7.75031 8.58677C7.75031 8.70805 7.79849 8.82437 7.88425 8.91013C7.97001 8.99588 8.08632 9.04406 8.2076 9.04406H21.4691C21.5904 9.04406 21.7067 8.99588 21.7925 8.91013C21.8783 8.82437 21.9264 8.70805 21.9264 8.58677C21.9264 8.46549 21.8783 8.34917 21.7925 8.26341C21.7067 8.17765 21.5904 8.12947 21.4691 8.12947Z"></path>
+      <path d="M21.4691 9.95865H8.2076C8.08632 9.95865 7.97001 10.0068 7.88425 10.0926C7.79849 10.1784 7.75031 10.2947 7.75031 10.4159C7.75031 10.5372 7.79849 10.6535 7.88425 10.7393C7.97001 10.8251 8.08632 10.8732 8.2076 10.8732H21.4691C21.5904 10.8732 21.7067 10.8251 21.7925 10.7393C21.8783 10.6535 21.9264 10.5372 21.9264 10.4159C21.9264 10.2947 21.8783 10.1784 21.7925 10.0926C21.7067 10.0068 21.5904 9.95865 21.4691 9.95865Z"></path>
+      <path d="M21.4691 11.7878H15.067C14.9457 11.7878 14.8294 11.836 14.7437 11.9218C14.6579 12.0075 14.6097 12.1238 14.6097 12.2451C14.6097 12.3664 14.6579 12.4827 14.7437 12.5685C14.8294 12.6542 14.9457 12.7024 15.067 12.7024H21.4691C21.5904 12.7024 21.7067 12.6542 21.7925 12.5685C21.8783 12.4827 21.9264 12.3664 21.9264 12.2451C21.9264 12.1238 21.8783 12.0075 21.7925 11.9218C21.7067 11.836 21.5904 11.7878 21.4691 11.7878Z"></path>
+      <path d="M19.0593 21.7243H19.4406C19.7971 21.7243 20.0638 21.6545 20.2407 21.5149C20.4177 21.3728 20.5062 21.1672 20.5062 20.898C20.5062 20.6263 20.4314 20.4257 20.2819 20.2961C20.1348 20.1665 19.903 20.1017 19.5864 20.1017H19.0593V21.7243ZM21.6764 20.8569C21.6764 21.4451 21.492 21.895 21.1231 22.2066C20.7567 22.5182 20.2345 22.6739 19.5565 22.6739H19.0593V24.6181H17.9003V19.152H19.6463C20.3093 19.152 20.8128 19.2953 21.1567 19.582C21.5032 19.8661 21.6764 20.2911 21.6764 20.8569Z"></path>
+      <path d="M17.1595 22.2094C17.1595 21.9549 17.3658 21.7486 17.6203 21.7486H19.5563V22.6702H17.6203C17.3658 22.6702 17.1595 22.4639 17.1595 22.2094Z"></path>
+      <path d="M17.1595 23.577C17.1595 23.3225 17.3658 23.1162 17.6203 23.1162H19.9485C20.203 23.1162 20.4093 23.3225 20.4093 23.577C20.4093 23.8315 20.203 24.0378 19.9485 24.0378H17.6203C17.3658 24.0378 17.1595 23.8315 17.1595 23.577Z"></path>
+    </symbol>
+    <symbol id="doc--3" viewBox="0 0 26 32" xmlns="http://www.w3.org/2000/svg">
+      <path d="M8.08283 22.795H7.06294C6.78132 22.795 6.55299 23.0233 6.55299 23.305C6.55299 23.5866 6.78132 23.8149 7.06294 23.8149H8.08283C8.36445 23.8149 8.59278 23.5866 8.59278 23.305C8.59278 23.0233 8.36445 22.795 8.08283 22.795Z"></path>
+      <path d="M22.3614 22.795H10.1226C9.84101 22.795 9.61268 23.0233 9.61268 23.305C9.61268 23.5866 9.84101 23.8149 10.1226 23.8149H22.3614C22.643 23.8149 22.8714 23.5866 22.8714 23.305C22.8714 23.0233 22.643 22.795 22.3614 22.795Z"></path>
+      <path d="M8.08283 19.7353H7.06294C6.78132 19.7353 6.55299 19.9636 6.55299 20.2453C6.55299 20.5269 6.78132 20.7552 7.06294 20.7552H8.08283C8.36445 20.7552 8.59278 20.5269 8.59278 20.2453C8.59278 19.9636 8.36445 19.7353 8.08283 19.7353Z"></path>
+      <path d="M22.3614 19.7353H10.1226C9.84101 19.7353 9.61268 19.9636 9.61268 20.2453C9.61268 20.5269 9.84101 20.7552 10.1226 20.7552H22.3614C22.643 20.7552 22.8714 20.5269 22.8714 20.2453C22.8714 19.9636 22.643 19.7353 22.3614 19.7353Z"></path>
+      <path d="M8.08283 16.6756H7.06294C6.78132 16.6756 6.55299 16.9039 6.55299 17.1856C6.55299 17.4672 6.78132 17.6955 7.06294 17.6955H8.08283C8.36445 17.6955 8.59278 17.4672 8.59278 17.1856C8.59278 16.9039 8.36445 16.6756 8.08283 16.6756Z"></path>
+      <path d="M22.3614 16.6756H10.1226C9.84101 16.6756 9.61268 16.9039 9.61268 17.1856C9.61268 17.4672 9.84101 17.6955 10.1226 17.6955H22.3614C22.643 17.6955 22.8714 17.4672 22.8714 17.1856C22.8714 16.9039 22.643 16.6756 22.3614 16.6756Z"></path>
+      <path d="M8.08283 13.6159H7.06294C6.78132 13.6159 6.55299 13.8442 6.55299 14.1259C6.55299 14.4075 6.78132 14.6358 7.06294 14.6358H8.08283C8.36445 14.6358 8.59278 14.4075 8.59278 14.1259C8.59278 13.8442 8.36445 13.6159 8.08283 13.6159Z"></path>
+      <path d="M22.3614 13.6159H10.1226C9.84101 13.6159 9.61268 13.8442 9.61268 14.1259C9.61268 14.4075 9.84101 14.6358 10.1226 14.6358H22.3614C22.643 14.6358 22.8714 14.4075 22.8714 14.1259C22.8714 13.8442 22.643 13.6159 22.3614 13.6159Z"></path>
+      <path d="M25.9244 8.4843C25.9219 8.43962 25.9132 8.39551 25.8984 8.35324C25.8928 8.33693 25.8887 8.32112 25.8816 8.30531C25.8568 8.24985 25.8223 8.19924 25.7796 8.15589L18.6403 1.0166C18.597 0.973958 18.5464 0.939409 18.4909 0.914613C18.4751 0.907473 18.4593 0.903394 18.4435 0.897784C18.4008 0.883123 18.3564 0.874199 18.3114 0.871267C18.3027 0.872797 18.293 0.867188 18.2818 0.867188H4.00324C3.72162 0.867188 3.49329 1.09552 3.49329 1.37714V2.90698H0.943543C0.661924 2.90698 0.433594 3.13531 0.433594 3.41693V30.9542C0.433594 31.2358 0.661924 31.4641 0.943543 31.4641H22.3614C22.643 31.4641 22.8714 31.2358 22.8714 30.9542V28.4044H25.4211C25.7027 28.4044 25.9311 28.1761 25.9311 27.8945V8.51643C25.9311 8.50521 25.9255 8.49552 25.9244 8.4843ZM18.7918 2.60815L24.1901 8.00648H18.7918V2.60815ZM21.8515 30.4442H1.45349V3.92688H3.49329V27.8945C3.49329 28.1761 3.72162 28.4044 4.00324 28.4044H21.8515V30.4442ZM24.9112 27.3846H4.51319V1.88709H17.7719V8.51643C17.7719 8.79805 18.0002 9.02638 18.2818 9.02638H24.9112V27.3846Z"></path>
+      <path d="M12.7882 5.45673H7.06294C6.78132 5.45673 6.55299 5.68506 6.55299 5.96668V11.3445C6.55299 11.6262 6.78132 11.8545 7.06294 11.8545H12.7882C13.0699 11.8545 13.2982 11.6262 13.2982 11.3445V5.96668C13.2982 5.68506 13.0699 5.45673 12.7882 5.45673ZM12.2783 10.8346H7.57288V6.47663H12.2783V10.8346Z"></path>
+      <path d="M10.1849 7.48957C10.1849 7.30487 10.0821 7.21252 9.87629 7.21252C9.67051 7.21252 9.56763 7.30487 9.56763 7.48957C9.56763 7.57758 9.59366 7.64638 9.64572 7.69596C9.69655 7.7443 9.7734 7.76847 9.87629 7.76847C10.0821 7.76847 10.1849 7.67551 10.1849 7.48957ZM9.59366 10.1057H10.1608V8.02693H9.59366V10.1057Z"></path>
+    </symbol>
+    <symbol id="doc--4" viewBox="0 0 26 32" xmlns="http://www.w3.org/2000/svg">
+      <path d="M8.08283 22.6134H7.06294C6.78132 22.6134 6.55299 22.8417 6.55299 23.1233C6.55299 23.4049 6.78132 23.6333 7.06294 23.6333H8.08283C8.36445 23.6333 8.59278 23.4049 8.59278 23.1233C8.59278 22.8417 8.36445 22.6134 8.08283 22.6134Z"></path>
+      <path d="M22.3614 22.6134H10.1226C9.84101 22.6134 9.61268 22.8417 9.61268 23.1233C9.61268 23.4049 9.84101 23.6333 10.1226 23.6333H22.3614C22.643 23.6333 22.8714 23.4049 22.8714 23.1233C22.8714 22.8417 22.643 22.6134 22.3614 22.6134Z"></path>
+      <path d="M8.08283 19.5537H7.06294C6.78132 19.5537 6.55299 19.782 6.55299 20.0636C6.55299 20.3452 6.78132 20.5736 7.06294 20.5736H8.08283C8.36445 20.5736 8.59278 20.3452 8.59278 20.0636C8.59278 19.782 8.36445 19.5537 8.08283 19.5537Z"></path>
+      <path d="M22.3614 19.5537H10.1226C9.84101 19.5537 9.61268 19.782 9.61268 20.0636C9.61268 20.3452 9.84101 20.5736 10.1226 20.5736H22.3614C22.643 20.5736 22.8714 20.3452 22.8714 20.0636C22.8714 19.782 22.643 19.5537 22.3614 19.5537Z"></path>
+      <path d="M8.08283 16.494H7.06294C6.78132 16.494 6.55299 16.7223 6.55299 17.0039C6.55299 17.2855 6.78132 17.5139 7.06294 17.5139H8.08283C8.36445 17.5139 8.59278 17.2855 8.59278 17.0039C8.59278 16.7223 8.36445 16.494 8.08283 16.494Z"></path>
+      <path d="M22.3614 16.494H10.1226C9.84101 16.494 9.61268 16.7223 9.61268 17.0039C9.61268 17.2855 9.84101 17.5139 10.1226 17.5139H22.3614C22.643 17.5139 22.8714 17.2855 22.8714 17.0039C22.8714 16.7223 22.643 16.494 22.3614 16.494Z"></path>
+      <path d="M8.08283 13.4343H7.06294C6.78132 13.4343 6.55299 13.6626 6.55299 13.9442C6.55299 14.2258 6.78132 14.4542 7.06294 14.4542H8.08283C8.36445 14.4542 8.59278 14.2258 8.59278 13.9442C8.59278 13.6626 8.36445 13.4343 8.08283 13.4343Z"></path>
+      <path d="M22.3614 13.4343H10.1226C9.84101 13.4343 9.61268 13.6626 9.61268 13.9442C9.61268 14.2258 9.84101 14.4542 10.1226 14.4542H22.3614C22.643 14.4542 22.8714 14.2258 22.8714 13.9442C22.8714 13.6626 22.643 13.4343 22.3614 13.4343Z"></path>
+      <path d="M25.9244 8.30266C25.9219 8.25798 25.9132 8.21387 25.8984 8.1716C25.8928 8.15528 25.8887 8.13948 25.8816 8.12367C25.8568 8.06821 25.8223 8.0176 25.7796 7.97425L18.6403 0.834962C18.597 0.792318 18.5464 0.757768 18.4909 0.732972C18.4751 0.725833 18.4593 0.721753 18.4435 0.716144C18.4008 0.701483 18.3564 0.692559 18.3114 0.689626C18.3027 0.691156 18.293 0.685547 18.2818 0.685547H4.00324C3.72162 0.685547 3.49329 0.913877 3.49329 1.1955V2.72534H0.943543C0.661924 2.72534 0.433594 2.95367 0.433594 3.23529V30.7726C0.433594 31.0542 0.661924 31.2825 0.943543 31.2825H22.3614C22.643 31.2825 22.8714 31.0542 22.8714 30.7726V28.2228H25.4211C25.7027 28.2228 25.9311 27.9945 25.9311 27.7129V8.33479C25.9311 8.32357 25.9255 8.31388 25.9244 8.30266ZM18.7918 2.42651L24.1901 7.82484H18.7918V2.42651ZM21.8515 30.2626H1.45349V3.74524H3.49329V27.7129C3.49329 27.9945 3.72162 28.2228 4.00324 28.2228H21.8515V30.2626ZM24.9112 27.2029H4.51319V1.70545H17.7719V8.33479C17.7719 8.61641 18.0002 8.84474 18.2818 8.84474H24.9112V27.2029Z"></path>
+      <path d="M10.1928 11.7988H9.71593C9.33025 11.7988 9.01646 11.485 9.01646 11.0993V10.938C8.85249 10.8856 8.69318 10.8195 8.54013 10.7403L8.4258 10.8546C8.1489 11.1318 7.70534 11.1237 7.43648 10.8545L7.09945 10.5175C6.83012 10.2484 6.82237 9.80501 7.09954 9.52814L7.21378 9.4139C7.13458 9.26086 7.06846 9.10158 7.01606 8.93758H6.85475C6.46908 8.93758 6.15529 8.6238 6.15529 8.23812V7.76124C6.15529 7.37556 6.46908 7.06178 6.85476 7.06178H7.01608C7.06848 6.8978 7.13459 6.7385 7.21379 6.58545L7.09946 6.47114C6.82246 6.19443 6.8301 5.75098 7.09955 5.48182L7.43662 5.14477C7.7061 4.87492 8.14955 4.86818 8.42592 5.14486L8.54015 5.25908C8.69319 5.1799 8.8525 5.11377 9.01647 5.06137V4.90006C9.01647 4.51438 9.33025 4.20059 9.71595 4.20059H10.1928C10.5785 4.20059 10.8923 4.51438 10.8923 4.90006V5.06138C11.0562 5.11377 11.2155 5.1799 11.3686 5.2591L11.4829 5.14477C11.7598 4.86753 12.2034 4.87566 12.4722 5.14487L12.8093 5.48189C13.0786 5.75093 13.0864 6.19434 12.8092 6.47122L12.695 6.58545C12.7742 6.7385 12.8403 6.89778 12.8927 7.06178H13.054C13.4397 7.06178 13.7535 7.37556 13.7535 7.76124V8.23812C13.7535 8.6238 13.4397 8.93758 13.054 8.93758H12.8927C12.8403 9.10156 12.7742 9.26086 12.695 9.4139L12.8093 9.52823C13.0863 9.80494 13.0786 10.2484 12.8092 10.5176L12.4721 10.8546C12.2026 11.1245 11.7592 11.1312 11.4828 10.8545L11.3686 10.7403C11.2155 10.8195 11.0562 10.8856 10.8923 10.938V11.0993C10.8923 11.485 10.5785 11.7988 10.1928 11.7988ZM8.61456 10.2727C8.82717 10.3985 9.05601 10.4935 9.2947 10.5551C9.393 10.5804 9.46168 10.6691 9.46168 10.7706V11.0993C9.46168 11.2395 9.57575 11.3536 9.71595 11.3536H10.1928C10.333 11.3536 10.4471 11.2395 10.4471 11.0993V10.7706C10.4471 10.6691 10.5158 10.5804 10.6141 10.5551C10.8528 10.4935 11.0816 10.3985 11.2942 10.2727C11.3817 10.221 11.4931 10.2351 11.5649 10.307L11.7977 10.5398C11.8981 10.6403 12.0593 10.6379 12.1572 10.5399L12.4945 10.2026C12.5922 10.1051 12.5954 9.94384 12.4946 9.84312L12.2617 9.61021C12.1898 9.53835 12.1758 9.42696 12.2275 9.33949C12.3532 9.12689 12.4482 8.89806 12.5098 8.65935C12.5352 8.56105 12.6238 8.49239 12.7253 8.49239H13.054C13.1942 8.49239 13.3083 8.37833 13.3083 8.23813V7.76126C13.3083 7.62106 13.1942 7.507 13.054 7.507H12.7253C12.6238 7.507 12.5352 7.43832 12.5098 7.34003C12.4482 7.10133 12.3532 6.87249 12.2275 6.65989C12.1758 6.57242 12.1898 6.46103 12.2617 6.38918L12.4945 6.15635C12.5951 6.05582 12.5925 5.89466 12.4946 5.79685L12.1573 5.45961C12.0596 5.36172 11.8984 5.35886 11.7978 5.45952L11.5649 5.69243C11.4931 5.7643 11.3817 5.77837 11.2942 5.72664C11.0816 5.6009 10.8528 5.50591 10.6141 5.4443C10.5158 5.41894 10.4471 5.33029 10.4471 5.22877V4.90006C10.4471 4.75986 10.333 4.6458 10.1928 4.6458H9.71596C9.57577 4.6458 9.46169 4.75986 9.46169 4.90006V5.22874C9.46169 5.33026 9.39301 5.41891 9.29471 5.44428C9.05602 5.50588 8.82719 5.60087 8.61457 5.72661C8.52707 5.77833 8.4157 5.76426 8.34384 5.6924L8.11103 5.45958C8.01065 5.35908 7.84944 5.36141 7.75154 5.45947L7.41427 5.79673C7.31659 5.89429 7.31333 6.0555 7.41418 6.15623L7.6471 6.38915C7.71895 6.46101 7.73302 6.5724 7.6813 6.65986C7.55556 6.87246 7.46059 7.1013 7.39898 7.34C7.37361 7.4383 7.28495 7.50697 7.18344 7.50697H6.85476C6.71457 7.50698 6.60049 7.62105 6.60049 7.76124V8.23812C6.60049 8.37831 6.71457 8.49237 6.85476 8.49237H7.18343C7.28495 8.49237 7.37359 8.56105 7.39897 8.65934C7.46057 8.89804 7.55556 9.12688 7.68129 9.33948C7.73301 9.42695 7.71894 9.53834 7.64708 9.61019L7.41425 9.84302C7.31361 9.94355 7.31623 10.1047 7.41416 10.2025L7.75141 10.5398C7.84916 10.6377 8.01038 10.6405 8.11091 10.5399L8.34381 10.3069C8.39676 10.254 8.50692 10.2091 8.61456 10.2727Z"></path>
+      <path d="M9.95437 9.65287C9.04278 9.65287 8.30118 8.91125 8.30118 7.99968C8.30118 7.08811 9.04278 6.34648 9.95437 6.34648C10.866 6.34648 11.6076 7.08811 11.6076 7.99968C11.6076 8.91125 10.866 9.65287 9.95437 9.65287ZM9.95437 6.79169C9.28827 6.79169 8.74638 7.33359 8.74638 7.99968C8.74638 8.66576 9.28829 9.20767 9.95437 9.20767C10.6205 9.20767 11.1624 8.66576 11.1624 7.99968C11.1624 7.33359 10.6205 6.79169 9.95437 6.79169Z"></path>
+    </symbol>
+    <symbol id="pdf" viewBox="0 0 26 26" xmlns="http://www.w3.org/2000/svg">
+      <path d="M23.3092 0H5.83979C4.60133 0 3.59372 1.00761 3.59372 2.24607V6.03944H1.79939C0.807182 6.03944 0 6.84662 0 7.83883V17.7165C0 18.7087 0.807182 19.5159 1.79939 19.5159H3.59372V23.3092C3.59372 24.5477 4.60133 25.5553 5.83979 25.5553H23.3092C24.5477 25.5553 25.5553 24.5477 25.5553 23.3092V2.24607C25.5553 1.00761 24.5477 0 23.3092 0ZM1.49738 17.7165V7.83883C1.49738 7.67233 1.63289 7.53682 1.79939 7.53682H20.7612C20.9277 7.53682 21.0632 7.67233 21.0632 7.83883V17.7165C21.0632 17.883 20.9277 18.0185 20.7612 18.0185H1.79939C1.63289 18.0185 1.49738 17.883 1.49738 17.7165ZM24.0579 23.3092C24.0579 23.722 23.722 24.0579 23.3092 24.0579H5.83979C5.42703 24.0579 5.0911 23.722 5.0911 23.3092V19.5159H20.7612C21.7534 19.5159 22.5606 18.7087 22.5606 17.7165V7.83883C22.5606 6.84662 21.7534 6.03944 20.7612 6.03944H5.0911V2.24607C5.0911 1.83332 5.42703 1.49738 5.83979 1.49738H23.3092C23.722 1.49738 24.0579 1.83332 24.0579 2.24607V23.3092Z"></path>
+      <path d="M4.49215 14.0255H5.24084C6.61695 14.0255 7.73647 12.906 7.73647 11.5298C7.73647 10.1537 6.61695 9.0342 5.24084 9.0342H3.74345C3.32992 9.0342 2.99476 9.36936 2.99476 9.7829V15.7724C2.99476 16.186 3.32992 16.5211 3.74345 16.5211C4.15699 16.5211 4.49215 16.186 4.49215 15.7724V14.0255ZM4.49215 10.5316H5.24084C5.79124 10.5316 6.23909 10.9794 6.23909 11.5298C6.23909 12.0802 5.79124 12.5281 5.24084 12.5281H4.49215V10.5316Z"></path>
+      <path d="M9.98255 16.5211H11.2304C12.7441 16.5211 13.9756 15.2897 13.9756 13.7759V11.7794C13.9756 10.2656 12.7441 9.0342 11.2304 9.0342H9.98255C9.56901 9.0342 9.23386 9.36936 9.23386 9.7829V15.7724C9.23386 16.186 9.56901 16.5211 9.98255 16.5211ZM10.7312 10.5316H11.2304C11.9184 10.5316 12.4782 11.0913 12.4782 11.7794V13.7759C12.4782 14.464 11.9184 15.0237 11.2304 15.0237H10.7312V10.5316Z"></path>
+      <path d="M16.2216 16.5211C16.6352 16.5211 16.9703 16.186 16.9703 15.7724V13.5264H18.4677C18.8812 13.5264 19.2164 13.1912 19.2164 12.7777C19.2164 12.3641 18.8812 12.029 18.4677 12.029H16.9703V10.5316H18.8171C19.2306 10.5316 19.5658 10.1964 19.5658 9.7829C19.5658 9.36936 19.2306 9.0342 18.8171 9.0342H16.2216C15.8081 9.0342 15.4729 9.36936 15.4729 9.7829V15.7724C15.4729 16.186 15.8081 16.5211 16.2216 16.5211Z"></path>
+    </symbol>
+  
+  
+  </svg>
+    <script src="assets/templates/mrgroup/assets/js/app.js"></script>
+
+

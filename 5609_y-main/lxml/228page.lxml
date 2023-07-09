@@ -1,0 +1,493 @@
+
+<div id="panel"></div>
+
+<header class="shadow">
+    <div class="container">
+        <nav class="main-menu navbar navbar-expand-lg navbar-light py-lg-0">
+            <a class="navbar-brand ml-lg-3 mr-lg-5" href="/" title="Главная">
+                <img class="header-logo" src="/local/templates/base/static/images/logo.svg" alt="Главная" style="width: 125px;">
+            </a>
+                        <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
+                <span class="navbar-toggler-icon"></span>
+            </button>
+            
+<div class="collapse navbar-collapse" id="navbarSupportedContent">
+    <ul class="navbar-nav w-100 justify-content-around">
+
+	
+	                    <li class="nav-item ">
+                <a href="/about/" class="px-0 nav-link">О компании</a></li>
+        	
+	
+    
+
+	
+	                    <li class="nav-item active">
+                <a href="/information/" class="px-0 nav-link">Раскрытие информации</a></li>
+        	
+	
+    
+
+	
+	                    <li class="nav-item ">
+                <a href="/unit-trust/" class="px-0 nav-link">Паевые фонды</a></li>
+        	
+	
+    
+
+	
+	                    <li class="nav-item ">
+                <a href="/news/" class="px-0 nav-link">Новости</a></li>
+        	
+	
+    
+
+	
+	                    <li class="nav-item ">
+                <a href="/contacts/" class="px-0 nav-link">Контакты</a></li>
+        	
+	
+    
+
+</ul>
+</div>
+                        <div class="navbar-text navbar-contacts-text ml-lg-5 d-none d-xl-block float-right">
+                <ul class="list-unstyled m-0">
+	<li class="list-item"> <a href="mailto:info@nevo-invest.ru"> <picture> <source srcset="/local/templates/base/static/images/glyph/mail.svg" type="image/svg+xml"> <img alt="Galochka" src="/local/templates/base/static/images/glyph/mail.svg" class="align-self-center mr-1" style="width: 20px; height: 20px;"> </picture>
+	info@nevo-invest.ru </a> </li>
+	<li class="list-item"> <a href="tel:+7-812-622-44-06"> <picture> <source srcset="/local/templates/base/static/images/glyph/phone.svg" type="image/svg+xml"> <img alt="Galochka" src="/local/templates/base/static/images/glyph/phone.svg" class="align-self-center mr-1" style="width: 20px; height: 20px;"> </picture>
+	+7 (812) 622-44-06 </a> </li>
+</ul>            </div>
+        </nav>
+    </div>
+
+    <div class="main-menu-block d-none">
+        <div class="container">
+            <div class="header-main-menu shadow d-none">
+                <nav class="navbar navbar-expand-md navbar-light">
+                    <div class="container position-relative">
+                        <button class="navbar-toggler mt-3" type="button" data-toggle="collapse" data-target="#navbarText" aria-controls="navbarText" aria-expanded="false" aria-label="Toggle navigation">
+                            <span class="navbar-toggler-icon"></span>
+                        </button>
+                        <div class="collapse navbar-collapse" id="navbarText">
+                            
+<ul id="horizontal-multilevel-menu">
+
+
+	
+	
+		
+							<li><a href="/about/" class="root-item">О компании</a></li>
+			
+		
+	
+	
+
+	
+	
+					<li><a href="/information/" class="root-item-selected">Раскрытие информации</a>
+				<ul>
+		
+	
+	
+
+	
+	
+		
+							<li><a href="/information/information-messages/">Информационные сообщения</a></li>
+			
+		
+	
+	
+
+	
+	
+		
+							<li><a href="/information/dms/">ЭДО в УК</a></li>
+			
+		
+	
+	
+
+	
+	
+		
+							<li><a href="/information/reporting/">Бухгалтерская отчетность</a></li>
+			
+		
+	
+	
+
+	
+	
+		
+							<li class="item-selected"><a href="/information/calculation-of-equity/">Расчет размера собственных средств</a></li>
+			
+		
+	
+	
+
+	
+	
+		
+							<li><a href="/information/insider-Information/">Перечень инсайдерской информации</a></li>
+			
+		
+	
+	
+
+	
+	
+		
+							<li><a href="/information/kvalifitsirovannyy-investor/">Квалифицированный инвестор</a></li>
+			
+		
+	
+	
+
+	
+	
+		
+							<li><a href="/information/structure/">Структура и состав акционеров</a></li>
+			
+		
+	
+	
+
+	
+	
+		
+							<li><a href="/information/obrabotka-personalnykh-dannykh/">Обработка персональных данных</a></li>
+			
+		
+	
+	
+
+	
+	
+		
+							<li><a href="/information/rezultaty-sout/">Результаты специальной оценки условий труда</a></li>
+			
+		
+	
+	
+
+	
+	
+		
+							<li><a href="/information/foreign-taxpayer-criteria/">Критерии иностранного налогоплательщика</a></li>
+			
+		
+	
+	
+
+	
+	
+		
+							<li><a href="/information/rekviziti/">Реквизиты управляющей компании</a></li>
+			
+		
+	
+	
+
+	
+	
+		
+							<li><a href="/information/technical-messages/">Технические сообщения</a></li>
+			
+		
+	
+	
+
+			</ul></li>	
+	
+		
+							<li><a href="/unit-trust/" class="root-item">Паевые фонды</a></li>
+			
+		
+	
+	
+
+	
+	
+		
+							<li><a href="/news/" class="root-item">Новости</a></li>
+			
+		
+	
+	
+
+	
+	
+		
+							<li><a href="/contacts/" class="root-item">Контакты</a></li>
+			
+		
+	
+	
+
+
+</ul>
+<div class="menu-clear-left"></div>
+                        </div>
+                    </div>
+                </nav>
+            </div>
+        </div>
+    </div>
+</header>
+
+<main class="py-3">
+    
+    <div class="container">
+
+<div class="main-container">
+    <div class="row">
+        <div class="col-12 offset-md-1 col-md-11"><h1>Расчет размера собственных средств</h1></div>
+    </div>
+    <div class="row">
+        <div class="col-12 col-md-4 col-lg-3">
+            
+<ul class="left-menu mb-3 list-group list-group-flush">
+
+			<li class="list-group-item"><a href="/information/information-messages/">Информационные сообщения</a></li>
+	
+			<li class="list-group-item"><a href="/information/dms/">ЭДО в УК</a></li>
+	
+			<li class="list-group-item"><a href="/information/reporting/">Бухгалтерская отчетность</a></li>
+	
+			<li class="list-group-item active"><a href="/information/calculation-of-equity/" class="selected">Расчет размера собственных средств</a></li>
+	
+			<li class="list-group-item"><a href="/information/insider-Information/">Перечень инсайдерской информации</a></li>
+	
+			<li class="list-group-item"><a href="/information/kvalifitsirovannyy-investor/">Квалифицированный инвестор</a></li>
+	
+			<li class="list-group-item"><a href="/information/structure/">Структура и состав акционеров</a></li>
+	
+			<li class="list-group-item"><a href="/information/obrabotka-personalnykh-dannykh/">Обработка персональных данных</a></li>
+	
+			<li class="list-group-item"><a href="/information/rezultaty-sout/">Результаты специальной оценки условий труда</a></li>
+	
+			<li class="list-group-item"><a href="/information/foreign-taxpayer-criteria/">Критерии иностранного налогоплательщика</a></li>
+	
+			<li class="list-group-item"><a href="/information/rekviziti/">Реквизиты управляющей компании</a></li>
+	
+			<li class="list-group-item"><a href="/information/technical-messages/">Технические сообщения</a></li>
+	
+
+</ul>
+        </div>
+        <div class="col-12 col-md-8 col-lg-9 mt-3">
+            
+
+<div class="table-responsive-lg information-table">
+    <table class="table table-text-smaller">
+        <thead>
+        <tr>
+            <th scope="col" class="align-top">Дата&nbsp;и&nbsp;время<br>публикации</th>
+            <th scope="col" class="align-top">Вид&nbsp;раскрываемой информации</th>
+            <th scope="col" class="align-top">Формат</th>
+            <th scope="col" colspan="2" class="align-top">Дата,&nbsp;до&nbsp;которой осуществляется<br>доступ к&nbsp;информации</th>
+        </tr>
+        </thead>
+        <tbody>
+                    <tr>
+                <td>16.06.2023&nbsp;09:00:00</td>
+                <td>
+                                            <a href="/upload/iblock/d51/84q4xatyj2b6x3721i786w6uw17vjpt3.pdf">Расчет размера собственных средств на 31.05.2023</a></td>
+                                    <td>*.pdf</td>
+                <td>-                </td>
+                <td>
+                    <a href="/upload/iblock/d51/84q4xatyj2b6x3721i786w6uw17vjpt3.pdf">
+                        <picture>
+                            <source srcset="/local/templates/base/static/images/glyph/arrow-right.svg" type="image/svg+xml">
+                            <img src="/local/templates/base/static/images/glyph/arrow-right.svg" alt="Arrow" class="align-self-center" style="width: 24px; height: 24px;">
+                        </picture>&nbsp;Открыть
+                    </a>
+                </td>
+            </tr>
+                    <tr>
+                <td>18.05.2023&nbsp;09:00:00</td>
+                <td>
+                                            <a href="/upload/iblock/12a/svm63g70muayjspkk2wf3fpf0prdj4f5.pdf">Расчет размера собственных средств на 30.04.2023</a></td>
+                                    <td>*.pdf</td>
+                <td>-                </td>
+                <td>
+                    <a href="/upload/iblock/12a/svm63g70muayjspkk2wf3fpf0prdj4f5.pdf">
+                        <picture>
+                            <source srcset="/local/templates/base/static/images/glyph/arrow-right.svg" type="image/svg+xml">
+                            <img src="/local/templates/base/static/images/glyph/arrow-right.svg" alt="Arrow" class="align-self-center" style="width: 24px; height: 24px;">
+                        </picture>&nbsp;Открыть
+                    </a>
+                </td>
+            </tr>
+                    <tr>
+                <td>17.04.2023&nbsp;09:00:00</td>
+                <td>
+                                            <a href="/upload/iblock/632/700moaomorxb3r7b739xvwhf3qz5hwb6.pdf">Расчет размера собственных средств на 31.03.2023</a></td>
+                                    <td>*.pdf</td>
+                <td>-                </td>
+                <td>
+                    <a href="/upload/iblock/632/700moaomorxb3r7b739xvwhf3qz5hwb6.pdf">
+                        <picture>
+                            <source srcset="/local/templates/base/static/images/glyph/arrow-right.svg" type="image/svg+xml">
+                            <img src="/local/templates/base/static/images/glyph/arrow-right.svg" alt="Arrow" class="align-self-center" style="width: 24px; height: 24px;">
+                        </picture>&nbsp;Открыть
+                    </a>
+                </td>
+            </tr>
+                    <tr>
+                <td>16.03.2023&nbsp;10:00:00</td>
+                <td>
+                                            <a href="/upload/iblock/a00/j9p972ojh6hbqz6g9nnb80a1a1cvsxb2.pdf">Расчет размера собственных средств на 28.02.2023</a></td>
+                                    <td>*.pdf</td>
+                <td>-                </td>
+                <td>
+                    <a href="/upload/iblock/a00/j9p972ojh6hbqz6g9nnb80a1a1cvsxb2.pdf">
+                        <picture>
+                            <source srcset="/local/templates/base/static/images/glyph/arrow-right.svg" type="image/svg+xml">
+                            <img src="/local/templates/base/static/images/glyph/arrow-right.svg" alt="Arrow" class="align-self-center" style="width: 24px; height: 24px;">
+                        </picture>&nbsp;Открыть
+                    </a>
+                </td>
+            </tr>
+                    <tr>
+                <td>15.02.2023&nbsp;09:00:00</td>
+                <td>
+                                            <a href="/upload/iblock/813/fz39ssrkzvzodzp0jhwinq0qp9gbx58f.pdf">Расчет размера собственных средств на 31.01.2023</a></td>
+                                    <td>*.pdf</td>
+                <td>-                </td>
+                <td>
+                    <a href="/upload/iblock/813/fz39ssrkzvzodzp0jhwinq0qp9gbx58f.pdf">
+                        <picture>
+                            <source srcset="/local/templates/base/static/images/glyph/arrow-right.svg" type="image/svg+xml">
+                            <img src="/local/templates/base/static/images/glyph/arrow-right.svg" alt="Arrow" class="align-self-center" style="width: 24px; height: 24px;">
+                        </picture>&nbsp;Открыть
+                    </a>
+                </td>
+            </tr>
+                    <tr>
+                <td>23.01.2023&nbsp;09:00:00</td>
+                <td>
+                                            <a href="/upload/iblock/3a8/dph1q5rqnaeaza3lldb5wthe5muq2clf.pdf">Расчет размера собственных средств на 31.12.2022</a></td>
+                                    <td>*.pdf</td>
+                <td>-                </td>
+                <td>
+                    <a href="/upload/iblock/3a8/dph1q5rqnaeaza3lldb5wthe5muq2clf.pdf">
+                        <picture>
+                            <source srcset="/local/templates/base/static/images/glyph/arrow-right.svg" type="image/svg+xml">
+                            <img src="/local/templates/base/static/images/glyph/arrow-right.svg" alt="Arrow" class="align-self-center" style="width: 24px; height: 24px;">
+                        </picture>&nbsp;Открыть
+                    </a>
+                </td>
+            </tr>
+                    <tr>
+                <td>16.12.2022&nbsp;09:00:00</td>
+                <td>
+                                            <a href="/upload/iblock/142/efdnsxvfw6zztk5cv4efjrt74e1aed0w.pdf">Расчет размера собственных средств на 30.11.2022</a></td>
+                                    <td>*.pdf</td>
+                <td>-                </td>
+                <td>
+                    <a href="/upload/iblock/142/efdnsxvfw6zztk5cv4efjrt74e1aed0w.pdf">
+                        <picture>
+                            <source srcset="/local/templates/base/static/images/glyph/arrow-right.svg" type="image/svg+xml">
+                            <img src="/local/templates/base/static/images/glyph/arrow-right.svg" alt="Arrow" class="align-self-center" style="width: 24px; height: 24px;">
+                        </picture>&nbsp;Открыть
+                    </a>
+                </td>
+            </tr>
+                    <tr>
+                <td>15.11.2022&nbsp;09:00:00</td>
+                <td>
+                                            <a href="/upload/iblock/920/2t67guvyenv5rea6cppgajp5pd9moc0q.pdf">Расчет размера собственных средств на 31.10.2022</a></td>
+                                    <td>*.pdf</td>
+                <td>-                </td>
+                <td>
+                    <a href="/upload/iblock/920/2t67guvyenv5rea6cppgajp5pd9moc0q.pdf">
+                        <picture>
+                            <source srcset="/local/templates/base/static/images/glyph/arrow-right.svg" type="image/svg+xml">
+                            <img src="/local/templates/base/static/images/glyph/arrow-right.svg" alt="Arrow" class="align-self-center" style="width: 24px; height: 24px;">
+                        </picture>&nbsp;Открыть
+                    </a>
+                </td>
+            </tr>
+                    <tr>
+                <td>14.10.2022&nbsp;09:00:00</td>
+                <td>
+                                            <a href="/upload/iblock/2fa/cg6s11e924ncpt1fvmdub9y1ogjp24mw.pdf">Расчет размера собственных средств на 30.09.2022</a></td>
+                                    <td>*.pdf</td>
+                <td>-                </td>
+                <td>
+                    <a href="/upload/iblock/2fa/cg6s11e924ncpt1fvmdub9y1ogjp24mw.pdf">
+                        <picture>
+                            <source srcset="/local/templates/base/static/images/glyph/arrow-right.svg" type="image/svg+xml">
+                            <img src="/local/templates/base/static/images/glyph/arrow-right.svg" alt="Arrow" class="align-self-center" style="width: 24px; height: 24px;">
+                        </picture>&nbsp;Открыть
+                    </a>
+                </td>
+            </tr>
+                    <tr>
+                <td>16.09.2022&nbsp;13:00:00</td>
+                <td>
+                                            <a href="/upload/iblock/8d5/d8auh3hcm2xtnvjsc7aiximka071q032.pdf">Расчет размера собственных средств на 31.08.2022</a></td>
+                                    <td>*.pdf</td>
+                <td>-                </td>
+                <td>
+                    <a href="/upload/iblock/8d5/d8auh3hcm2xtnvjsc7aiximka071q032.pdf">
+                        <picture>
+                            <source srcset="/local/templates/base/static/images/glyph/arrow-right.svg" type="image/svg+xml">
+                            <img src="/local/templates/base/static/images/glyph/arrow-right.svg" alt="Arrow" class="align-self-center" style="width: 24px; height: 24px;">
+                        </picture>&nbsp;Открыть
+                    </a>
+                </td>
+            </tr>
+                </tbody>
+    </table>
+</div>
+
+<nav class="pagination-container d-flex justify-content-between"><ul class="pagination pagination-sm">
+			<li class="page-item disabled"><span class="page-link">Страницы:</span></li><li class="page-item active"><span class="page-link">1</span></li><li class="page-item"><a class="page-link" href="/information/calculation-of-equity/?PAGEN_2=2">2</a></li><li class="page-item"><a class="page-link" href="/information/calculation-of-equity/?PAGEN_2=3">3</a></li><li class="page-item"><a class="page-link" href="/information/calculation-of-equity/?PAGEN_2=4">4</a></li>		</ul>
+
+		<ul class="pagination pagination-sm"><li class="page-item"><span class="page-link">Предыдущая</span></li><li class="page-item"><a class="page-link" href="/information/calculation-of-equity/?PAGEN_2=2">Следующая</a></li>	</ul></nav>        </div>
+    </div>
+</div>
+
+        </div>
+    </main>
+
+    <footer>
+        <div class="container">
+            <div class="row my-4">
+                <div class="col-12 col-lg-7 my-1 align-self-center">
+                    Акционерное общество «Управляющая компания «НЕВО-Инвест». Лицензия управляющей компании на осуществление деятельности по управлению инвестиционными фондами, паевыми инвестиционными фондами и негосударственными пенсионными фондами, выданная Банком России № 21-000-1-01034 от 20.02.2020г. Стоимость инвестиционных паев может увеличиваться и уменьшаться, результаты инвестирования в прошлом не определяют доходы в будущем, государство не гарантирует доходность инвестиций в паевые инвестиционные фонды, прежде чем приобрести инвестиционный пай, следует внимательно ознакомиться с правилами. Узнать более подробную информацию о Фондах, ознакомиться с правилами доверительного управления паевыми инвестиционными фондами, а также с иными документами можно в офисе управляющей компании по адресу: 191124, г. Санкт-Петербург, Ставропольская ул. 10 лит. А пом.316 по телефону: +7 (812) 622-44-06, а также на официальном сайте Управляющей компании по адресу: <a href="https://nevo-invest.ru/">https://nevo-invest.ru/</a>                </div>
+                <div class="col-12 col-md-6 col-lg-3 text-center copyright align-self-center">
+                    <ul class="list-unstyled">
+	<li class="list-item">© 2023 АО «УК «НЕВО-Инвест»</li>
+	<li class="list-item">Все права защищены.</li>
+</ul>                </div>
+                <div class="col-12 col-md-6 col-lg-2 text-center align-self-center">
+                    <picture>
+                        <source srcset="/local/templates/base/static/images/glyph/galochka.svg" type="image/svg+xml">
+                        <img src="/local/templates/base/static/images/glyph/galochka.svg" alt="Galochka" class="align-self-center mr-3" style="width: 120px; height: 113px;">
+                    </picture>
+                </div>
+            </div>
+        </div>
+    </footer>
+<script type="text/javascript">if(!window.BX)window.BX={};if(!window.BX.message)window.BX.message=function(mess){if(typeof mess==='object'){for(let i in mess) {BX.message[i]=mess[i];} return true;}};</script>
+<script type="text/javascript">(window.BX||top.BX).message({'JS_CORE_LOADING':'Загрузка...','JS_CORE_NO_DATA':'- Нет данных -','JS_CORE_WINDOW_CLOSE':'Закрыть','JS_CORE_WINDOW_EXPAND':'Развернуть','JS_CORE_WINDOW_NARROW':'Свернуть в окно','JS_CORE_WINDOW_SAVE':'Сохранить','JS_CORE_WINDOW_CANCEL':'Отменить','JS_CORE_WINDOW_CONTINUE':'Продолжить','JS_CORE_H':'ч','JS_CORE_M':'м','JS_CORE_S':'с','JSADM_AI_HIDE_EXTRA':'Скрыть лишние','JSADM_AI_ALL_NOTIF':'Показать все','JSADM_AUTH_REQ':'Требуется авторизация!','JS_CORE_WINDOW_AUTH':'Войти','JS_CORE_IMAGE_FULL':'Полный размер'});</script><script type="text/javascript" src="/bitrix/js/main/core/core.min.js?1658581573216421"></script><script>BX.setJSList(['/bitrix/js/main/core/core_ajax.js','/bitrix/js/main/core/core_promise.js','/bitrix/js/main/polyfill/promise/js/promise.js','/bitrix/js/main/loadext/loadext.js','/bitrix/js/main/loadext/extension.js','/bitrix/js/main/polyfill/promise/js/promise.js','/bitrix/js/main/polyfill/find/js/find.js','/bitrix/js/main/polyfill/includes/js/includes.js','/bitrix/js/main/polyfill/matches/js/matches.js','/bitrix/js/ui/polyfill/closest/js/closest.js','/bitrix/js/main/polyfill/fill/main.polyfill.fill.js','/bitrix/js/main/polyfill/find/js/find.js','/bitrix/js/main/polyfill/matches/js/matches.js','/bitrix/js/main/polyfill/core/dist/polyfill.bundle.js','/bitrix/js/main/core/core.js','/bitrix/js/main/polyfill/intersectionobserver/js/intersectionobserver.js','/bitrix/js/main/lazyload/dist/lazyload.bundle.js','/bitrix/js/main/polyfill/core/dist/polyfill.bundle.js','/bitrix/js/main/parambag/dist/parambag.bundle.js']);
+BX.setCSSList(['/bitrix/js/main/lazyload/dist/lazyload.bundle.css','/bitrix/js/main/parambag/dist/parambag.bundle.css']);</script>
+<script type="text/javascript">(window.BX||top.BX).message({'LANGUAGE_ID':'ru','FORMAT_DATE':'DD.MM.YYYY','FORMAT_DATETIME':'DD.MM.YYYY HH:MI:SS','COOKIE_PREFIX':'BITRIX_SM','SERVER_TZ_OFFSET':'10800','UTF_MODE':'Y','SITE_ID':'s1','SITE_DIR':'/','USER_ID':'','SERVER_TIME':'1687320622','USER_TZ_OFFSET':'0','USER_TZ_AUTO':'Y','bitrix_sessid':'89de971a354312c6659406865809c1da'});</script><script type="text/javascript">BX.setJSList(['/bitrix/components/bitrix/menu/templates/horizontal_multilevel/script.js']);</script>
+<script type="text/javascript">BX.setCSSList(['/bitrix/components/bitrix/system.pagenavigation/templates/bootstrap_v4/style.css','/local/templates/base/styles.css','/bitrix/components/bitrix/menu/templates/horizontal_multilevel/style.css']);</script>
+<script src="https://code.jquery.com/jquery-3.5.1.slim.min.js" integrity="sha384-DfXdz2htPH0lsSSs5nCTpuj/zy4C+OGpamoFVy38MVBnE+IbbVYUew+OrCXaRkfj" crossorigin="anonymous"></script>
+<script src="https://cdn.jsdelivr.net/npm/popper.js@1.16.0/dist/umd/popper.min.js" integrity="sha384-Q6E9RHvbIyZFJoft+2mJbHaEWldlvI9IOYy5n3zV9zzTtmI3UksdQRVvoxMfooAo" crossorigin="anonymous"></script>
+<script src="https://stackpath.bootstrapcdn.com/bootstrap/4.5.0/js/bootstrap.min.js" integrity="sha384-OgVRvuATP1z7JjHLkuOU7Xw704+h835Lr+6QL9UvYjZE3Ipu6Tp75j7Bh/kR0JKI" crossorigin="anonymous"></script>
+
+
+
+<script type="text/javascript" src="/bitrix/cache/js/s1/base/template_bb961110d3d229f0afd9c27b41de0560/template_bb961110d3d229f0afd9c27b41de0560_v1.js?1685103046965"></script>
+<script type="text/javascript">var _ba = _ba || []; _ba.push(["aid", "d80b77f1a92ca52dcca0fc3c640a6302"]); _ba.push(["host", "nevo-invest.ru"]); (function() {var ba = document.createElement("script"); ba.type = "text/javascript"; ba.async = true;ba.src = (document.location.protocol == "https:" ? "https://" : "http://") + "bitrix.info/ba.js";var s = document.getElementsByTagName("script")[0];s.parentNode.insertBefore(ba, s);})();</script>
+
+
+
+

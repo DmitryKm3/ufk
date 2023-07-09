@@ -1,0 +1,530 @@
+
+
+<table width="100%" height="100%">
+	<tbody><tr>
+		<td align="center" valign="top">
+			<table style="width: 1004px;" height="100%">
+				
+				<tbody><tr>
+					<td align="center" valign="top">
+						<table style="width: 1004px;" height="100%">
+							<tbody><tr>
+								<td>
+									<table width="100%">
+										<tbody><tr>
+											<td><img src="/image/tel2.jpg" width="281" height="65" alt="">
+												<div class="header_phone"><span>+7 (495)</span> 988-98-01</div>
+											</td>
+											<td class="topBgr">
+												<table class="h65 ">
+													<tbody><tr>
+														<td>&nbsp;</td>
+														<td class="padl40">&nbsp;</td>
+														<td class="padl80"><a href="/" title="Главная" onmousemove="GID('home').src='/image/pic1-a.gif'" onmouseout="GID('home').src='/image/pic1.gif'"><img id="home" src="/image/pic1.gif" width="11" height="10" alt="Главная"></a></td>
+														<td class="padl40"><a href="/sitemap" title="Карта сайта" onmousemove="GID('sitemap').src='/image/pic2-a.gif'" onmouseout="GID('sitemap').src='/image/pic2.gif'"><img id="sitemap" src="/image/pic2.gif" width="11" height="11" alt="Карта сайта"></a></td>
+														<td class="padl40"><a href="/feedback/" title="Обратная связь" onmousemove="GID('mail').src='/image/pic3-a.gif'" onmouseout="GID('mail').src='/image/pic3.gif'"><img id="mail" src="/image/pic3.gif" width="11" height="7" alt="Обратная связь"></a></td>
+													</tr>
+												</tbody></table>
+											</td>
+																																	<td><img src="/image/top-right_work.png" width="390" height="65" alt=""></td>
+																																</tr>
+									</tbody></table>
+									<table width="100%">
+										<tbody><tr>
+											<td class="logo">
+												<div id="topSnow">
+												<a href="/" title="Управляющая компания «Развитие»">
+													<img src="/image/logo.jpg" width="281" height="139" alt="Управляющая компания «Развитие»"></a>
+												</div>
+											</td>
+											<td class="top2l" align="right">
+																																				<img src="/image/top1.jpg" width="723" height="139" alt="">
+																																			</td>
+										</tr>
+									</tbody></table>
+								</td>
+							</tr>
+							
+							<tr>
+								<td class="wh100">
+									<table class="wh100">
+										<tbody><tr>
+											<td class="padt20 padb37 leftb vat">
+											
+																								<img src="/image/0.gif" width="99" height="13" alt="">
+												
+<table width="100%">
+	<tbody><tr>
+		<td class="padl15">
+			<table>
+				<tbody><tr>
+					<td rowspan="2"><img src="/image/menu-bullet.gif" width="14" height="16" alt=""></td>
+					<td class="padl8"><a href="/company/" title="Управляющая компания" class="black"><strong>Управляющая компания</strong></a></td>
+				</tr>
+				<tr>
+					<td class="padl8"><div class="menuline"></div></td>
+				</tr>
+			</tbody></table>
+		</td>
+	</tr>
+
+	<tr>
+		<td class="manulink"><a href="/company/history/" title="История создания">История создания</a></td>
+	</tr>
+
+
+	<tr>
+		<td class="manulink"><a href="/company/docs/" title="Сведения о компании">Сведения о компании</a></td>
+	</tr>
+
+
+	<tr>
+		<td class="manulink"><a href="/company/edocs/" title="Электронный документооборот">Электронный документооборот</a></td>
+	</tr>
+
+
+	<tr>
+		<td class="manulink"><a href="/company/partners/" title="Наши партнеры">Наши партнеры</a></td>
+	</tr>
+
+
+	<tr>
+		<td class="manulink"><a href="/company/requisites/" title="Реквизиты">Реквизиты</a></td>
+	</tr>
+
+
+	<tr>
+		<td class="manulink"><a href="/company/contacts/" title="Контакты">Контакты</a></td>
+	</tr>
+
+	<tr>
+		<td class="padt15"></td>
+	</tr>
+	<tr>
+		<td class="padl15">
+			<table>
+				<tbody><tr>
+					<td rowspan="2"><img src="/image/menu-bullet.gif" width="14" height="16" alt=""></td>
+					<td class="padl8"><a href="/information/" title="Раскрытие информации" class="black"><strong>Раскрытие информации</strong></a></td>
+				</tr>
+				<tr>
+					<td class="padl8"><div class="menuline"></div></td>
+				</tr>
+			</tbody></table>
+		</td>
+	</tr>
+
+	<tr>
+		<td class="manulink"><a href="/information/own/" title="Cобственные средства <br />Управляющей компании">Cобственные средства <br>Управляющей компании</a></td>
+	</tr>
+
+
+	<tr>
+		<td class="manulink"><a href="/information/account/" title="Бухгалтерская (финансовая) отчетность <br />Управляющей компании">Бухгалтерская (финансовая) отчетность <br>Управляющей компании</a></td>
+	</tr>
+
+
+	<tr>
+		<td class="manulink"><a href="/information/structure/" title="Структура и состав участников <br />Управляющей компании">Структура и состав участников <br>Управляющей компании</a></td>
+	</tr>
+
+
+	<tr>
+		<td class="manulink"><a href="/information/other/" title="Иная информация">Иная информация</a></td>
+	</tr>
+
+	<tr>
+		<td class="padt15"></td>
+	</tr>
+	<tr>
+		<td class="padl15">
+			<table>
+				<tbody><tr>
+					<td rowspan="2"><img src="/image/menu-bullet.gif" width="14" height="16" alt=""></td>
+					<td class="padl8"><a href="/funds/" title="Фонды под управлением" class="black"><strong>Фонды под управлением</strong></a></td>
+				</tr>
+				<tr>
+					<td class="padl8"><div class="menuline"></div></td>
+				</tr>
+			</tbody></table>
+		</td>
+	</tr>
+
+	<tr>
+		<td class="manulink"><a href="/funds/dostijenie/" title="ЗПИФ комбинированный " Достижение""="">ЗПИФ комбинированный "Достижение"</a></td>
+	</tr>
+
+	<tr>
+		<td class="padt15"></td>
+	</tr>
+	<tr>
+		<td class="padl15">
+			<table>
+				<tbody><tr>
+					<td rowspan="2"><img src="/image/menu-bullet.gif" width="14" height="16" alt=""></td>
+					<td class="padl8"><a href="/investors/" title="Инвестору" class="black"><strong>Инвестору</strong></a></td>
+				</tr>
+				<tr>
+					<td class="padl8"><div class="menuline"></div></td>
+				</tr>
+			</tbody></table>
+		</td>
+	</tr>
+
+	<tr>
+		<td class="manulink"><a href="/investors/links/" title="Полезные ссылки">Полезные ссылки</a></td>
+	</tr>
+
+
+</tbody></table>
+											</td>
+											<td class="vat padt20 padb37 padr10">
+
+												<table width="100%">
+																										<tbody><tr>
+														<td class="contentMain">
+															<div class="small">
+													<!--Крошки-->
+													<a title="Главная" href="/">Главная</a>&nbsp;&gt;&nbsp;<a href="/information/" title="Раскрытие информации">Раскрытие информации</a> &gt; Собственные средства Управляющей компании													<!--//Крошки-->
+															</div>
+															<div class="padt10"></div>
+														</td>
+													</tr>
+																										
+													<tr>
+														<td class="line1"></td>
+													</tr>
+																										<tr>
+														<td class="padt12"><h1>Собственные средства Управляющей компании</h1>														
+														<p align="justify">
+	 Сообщаем, что собственные средства ООО УК «Развитие» соответствуют нормативам достаточности собственных средств управляющих компаний паевых инвестиционных фондов, и раскрываем сведения в соответствии с <a href="/upload/5609-U_23122020.pdf" target="_blank">Указанием Банка России&nbsp;от 02.11.2020&nbsp;№ 5609-У.</a>
+</p>
+<p>
+	 </p><table style="width: 100%;">
+    <tbody>
+        <tr>
+            <th align="center">Дата<br>
+            отчетного периода<br>
+			(последний календарный день месяца)</th>
+            <th align="center" style="width: 120px;">Размер собственных средств (руб.)</th>
+			<th align="center" style="width: 80px;">Дата раскрытия информации</th>
+			<th align="center" style="width: 80px;">Доступен до<font color="red">*</font></th>
+        </tr>
+		        <tr align="center" class="td1">
+            <td>31.05.2023</td>
+            <td><a href="/upload/iblock/5d3/jpgyeo2rn43odo3q4b0413crovs0gq4n/рсс для сайта 31 05 2023.pdf" target="_blank">48 841 548,02</a></td>
+			<td>16.06.2023 14:29:00</td>
+			<td>30.06.2028 14:29:00</td>
+        </tr>
+
+        <tr align="center" class="td1">
+            <td>30.04.2023</td>
+            <td><a href="/upload/iblock/851/zsqutycg8d1arbuqsj6cpbd0b2ocnnml/рсс сайт 30.04.2023.pdf" target="_blank">48 106 211,78</a></td>
+			<td>19.05.2023 14:35:00</td>
+			<td>31.05.2028 14:35:00</td>
+        </tr>
+
+        <tr align="center" class="td1">
+            <td>31.03.2023</td>
+            <td><a href="/upload/iblock/694/p1w8p5abs7bic103shv3cr4hqzvr0ddk/рсс сайт 31.03.2023.pdf" target="_blank">47 679 257,00</a></td>
+			<td>13.04.2023 17:21:00</td>
+			<td>30.04.2028 17:22:00</td>
+        </tr>
+
+        <tr align="center" class="td1">
+            <td>28.02.2023</td>
+            <td><a href="/upload/iblock/32a/bhq13jz9t0k3daz0t6q0ahe716ndt8dy/рсс сайт 28 02 2023.pdf" target="_blank">47 371 253,75</a></td>
+			<td>15.03.2023 13:02:00</td>
+			<td>31.03.2028 13:03:00</td>
+        </tr>
+
+        <tr align="center" class="td1">
+            <td>31.01.2023</td>
+            <td><a href="/upload/iblock/009/mijvzcw9lrpoilvw23n6o6s7y4dim2hb/рсс для сайта 01 2023.pdf" target="_blank">47 178 993,86</a></td>
+			<td>14.02.2023 13:25:00</td>
+			<td>29.02.2028 13:25:00</td>
+        </tr>
+
+        <tr align="center" class="td1">
+            <td>31.12.2022</td>
+            <td><a href="/upload/iblock/3c5/6g5srxct7yn4ec4u8mmyv1xy95eu2x0m/Рсс для сайта 31 12 2022.pdf" target="_blank">47 268 416,31</a></td>
+			<td>24.01.2023 12:43:00</td>
+			<td>31.01.2028 12:45:00</td>
+        </tr>
+
+        <tr align="center" class="td1">
+            <td>30.11.2022</td>
+            <td><a href="/upload/iblock/d91/4ol7n1j748yv3kzh1lgfpzr2xzuf0iqk/рсс для сайта 30.11.2022.pdf" target="_blank">48 930 941,67</a></td>
+			<td>13.12.2022 13:46:00</td>
+			<td>31.12.2027 13:48:00</td>
+        </tr>
+
+        <tr align="center" class="td1">
+            <td>31.10.2022</td>
+            <td><a href="/upload/iblock/099/j6pci1epfcsnsfwtgbgr2hm48t28wwf5/рсс для сайта 10 2022Д.pdf" target="_blank">48 254 850,28</a></td>
+			<td>14.11.2022 15:12:00</td>
+			<td>30.11.2027 15:14:00</td>
+        </tr>
+
+        <tr align="center" class="td1">
+            <td>30.09.2022</td>
+            <td><a href="/upload/iblock/2e3/fm0ubkq0y76rbi3gjgexox4gd2pbi2gm/рсс сайт 30.09.2022 Д.pdf" target="_blank">47 277 631,98</a></td>
+			<td>14.10.2022 12:55:00</td>
+			<td>31.10.2027 12:55:00</td>
+        </tr>
+
+        <tr align="center" class="td1">
+            <td>31.08.2022</td>
+            <td><a href="/upload/iblock/e54/axl4w4hi6nef7mxag6et40u2yczursam/рсс 31.08.2022_сайт.pdf" target="_blank">46 380 709,24</a></td>
+			<td>14.09.2022 13:16:00</td>
+			<td>30.09.2027 13:16:00</td>
+        </tr>
+
+        <tr align="center" class="td1">
+            <td>31.07.2022</td>
+            <td><a href="/upload/iblock/b31/882i0e0z8rescb0j3akzpkpmzdr8urrt/рсс сайт 07 2022.pdf" target="_blank">45 207 618,54</a></td>
+			<td>12.08.2022 13:02:00</td>
+			<td>31.08.2027 13:02:00</td>
+        </tr>
+
+        <tr align="center" class="td1">
+            <td>30.06.2022</td>
+            <td><a href="/upload/iblock/17e/6dx3hbkx8szafpnf57wg2jbovx8jo1go/РСС для сайта 30 06 2022_Д.pdf" target="_blank">44 339 946,48</a></td>
+			<td>14.07.2022 12:23:00</td>
+			<td>31.07.2027 12:23:00</td>
+        </tr>
+
+        <tr align="center" class="td1">
+            <td>31.05.2022</td>
+            <td><a href="/upload/iblock/302/k7omr7slms81o9lljtrgc7uig0k53fxx/РСС сайт 31.05.2022 Д.pdf" target="_blank">45 335 429,92</a></td>
+			<td>16.06.2022 16:15:00</td>
+			<td>30.06.2027 16:15:00</td>
+        </tr>
+
+        <tr align="center" class="td1">
+            <td>30.04.2022</td>
+            <td><a href="/upload/iblock/efc/q4p1hqznrdsonmijcc3qjuf319n7hdux/рсс сайт 30042022 Д.pdf" target="_blank">44 376 767,83</a></td>
+			<td>19.05.2022 16:34:00</td>
+			<td>31.05.2027 16:34:00</td>
+        </tr>
+
+        <tr align="center" class="td1">
+            <td>31.03.2022</td>
+            <td><a href="/upload/iblock/826/vtjoo9crlosqwpnxrxfhnup88qdvf7x6/рсс 31.03.2022_сайт визуализация 16.12.2021_Д печать.pdf" target="_blank">43 717 865,37</a></td>
+			<td>13.04.2022 15:42:00</td>
+			<td>30.04.2027 15:42:00</td>
+        </tr>
+
+        <tr align="center" class="td1">
+            <td>28.02.2022</td>
+            <td><a href="/upload/iblock/048/bx6smcgcuzks5jbr38w5xmruwgp9hu5x/рсс 28.02.2022_сайт визуализация_Д.pdf" target="_blank">43 321 697,10</a></td>
+			<td>16.03.2022 15:37:00</td>
+			<td>31.03.2027 15:37:00</td>
+        </tr>
+
+        <tr align="center" class="td1">
+            <td>31.01.2022</td>
+            <td><a href="/upload/iblock/ad8/рсс 31.01.2022_сайт визуализация_Д.pdf" target="_blank">42 628 808,55</a></td>
+			<td>14.02.2022 16:43:00</td>
+			<td>28.02.2027 16:43:00</td>
+        </tr>
+
+        <tr align="center" class="td1">
+            <td>31.12.2021</td>
+            <td><a href="/upload/iblock/a34/рсс 31.12.2021_сайт визуализация 16.11.2021_Д.pdf" target="_blank">42 104 332,17</a></td>
+			<td>20.01.2022 15:33:00</td>
+			<td>31.01.2027 15:33:00</td>
+        </tr>
+
+        <tr align="center" class="td1">
+            <td>30.11.2021</td>
+            <td><a href="/upload/iblock/916/Копия рсс на 30.11.2021 на сайт новая форма с подписью.pdf" target="_blank">44 146 492,93</a></td>
+			<td>13.12.2021 10:31:00</td>
+			<td>31.12.2026 10:31:00</td>
+        </tr>
+
+        <tr align="center" class="td1">
+            <td>31.10.2021</td>
+            <td><a href="/upload/iblock/515/Копия рсс на 31.10.2021 на сайт новая форма.pdf" target="_blank">43 574 953,75</a></td>
+			<td>17.11.2021 13:24:00</td>
+			<td>30.11.2026 13:24:00</td>
+        </tr>
+
+        <tr align="center" class="td1">
+            <td>30.09.2021</td>
+            <td><a href="/upload/iblock/c21/Копия рсс ук 30.09.2021 рекомендованная форма для сайта нарисовать на 1 листе.pdf" target="_blank">42 868 864,57</a></td>
+			<td>14.10.2021 16:30:00</td>
+			<td>30.10.2026 16:30:00</td>
+        </tr>
+
+        <tr align="center" class="td1">
+            <td>31.08.2021</td>
+            <td><a href="/upload/iblock/980/РСС август.pdf" target="_blank">41 841 892,86</a></td>
+			<td>16.09.2021 13:01:00</td>
+			<td>30.09.2026 13:01:00</td>
+        </tr>
+
+        <tr align="center" class="td1">
+            <td>31.07.2021</td>
+            <td><a href="/upload/iblock/12e/РСС июль.pdf" target="_blank">40 863 191,49</a></td>
+			<td>16.08.2021 12:35:00</td>
+			<td>30.08.2026 12:35:00</td>
+        </tr>
+
+        <tr align="center" class="td1">
+            <td>30.06.2021</td>
+            <td><a href="/upload/iblock/420/Июнь.pdf" target="_blank">40 150 297,93</a></td>
+			<td>19.07.2021 10:48:00</td>
+			<td>31.07.2026 10:48:00</td>
+        </tr>
+
+        <tr align="center" class="td1">
+            <td>31.05.2021</td>
+            <td><a href="/upload/iblock/daa/РСС май.pdf" target="_blank">41 114 322,54</a></td>
+			<td>15.06.2021 11:37:00</td>
+			<td>30.06.2026 11:37:00</td>
+        </tr>
+
+        <tr align="center" class="td1">
+            <td>30.04.2021</td>
+            <td><a href="/upload/iblock/4f5/РСС апрель.pdf" target="_blank">40 510 758,29</a></td>
+			<td>19.05.2021</td>
+			<td>31.05.2026</td>
+        </tr>
+
+        <tr align="center" class="td1">
+            <td>31.03.2021</td>
+            <td><a href="/upload/iblock/2c6/2c65cad6912dd72dae29e2e070ddd16a.pdf" target="_blank">39 973 770,94</a></td>
+			<td>13.04.2021</td>
+			<td>30.04.2026</td>
+        </tr>
+
+        <tr align="center" class="td1">
+            <td>28.02.2021</td>
+            <td><a href="/upload/iblock/f6d/f6d5685fe56d9dec0461be0a571d952e.pdf" target="_blank">39 341 060,33</a></td>
+			<td>15.03.2021</td>
+			<td>30.03.2026</td>
+        </tr>
+
+        <tr align="center" class="td1">
+            <td>31.01.2021</td>
+            <td><a href="/upload/iblock/5e9/5e946ae83128b4029dc3b303621ca052.pdf" target="_blank">38 630 501.21</a></td>
+			<td>16.02.2021</td>
+			<td>28.02.2026</td>
+        </tr>
+
+        <tr align="center" class="td1">
+            <td>31.12.2020</td>
+            <td><a href="/upload/iblock/095/095d71ae3a116157f03df9ae5bfa1ac6.pdf" target="_blank">37 999 238,87</a></td>
+			<td>25.01.2021</td>
+			<td>28.01.2026</td>
+        </tr>
+
+        <tr align="center" class="td1">
+            <td>30.11.2020</td>
+            <td><a href="/upload/iblock/1f9/1f92aaa493add9f3c05bda1ef84d889b.pdf" target="_blank">39 811 773,73</a></td>
+			<td>14.12.2020</td>
+			<td>31.12.2025</td>
+        </tr>
+
+        <tr align="center" class="td1">
+            <td>31.10.2020</td>
+            <td><a href="/upload/iblock/6d5/6d59235af304c8aee37b7b463f1a18e8.pdf" target="_blank">39 120 542,20</a></td>
+			<td>13.11.2020</td>
+			<td>30.11.2025</td>
+        </tr>
+
+        <tr align="center" class="td1">
+            <td>30.09.2020</td>
+            <td><a href="/upload/iblock/5d2/5d22abaf28432e6b3fd8ed9879ead79f.pdf" target="_blank">39 064 046,62</a></td>
+			<td>14.10.2020</td>
+			<td>30.10.2025</td>
+        </tr>
+
+    </tbody>
+</table>
+
+<br>
+<font color="red">* </font>Информация о расчете собственных средств доступна на странице в течение 5 лет с даты раскрытия указанной информации.<p></p><p></p>
+ <br>
+														
+																											
+																													</td>
+													</tr>
+
+													<tr>
+														<td class="padt10">
+
+									</td></tr></tbody></table>
+								</td>
+								<td align="right" class="vat padt20 padl10 padr10 padb37 rightBgr" width="236">
+
+									
+									
+									
+									<table align="center">
+	<tbody><tr>
+		<td class="padt20">Поиск по сайту</td>
+	</tr>
+	<tr>
+		<td class="ac">
+			<form action="/search/index.php">
+				<table class="search">
+					<tbody><tr>
+						<td align="center"><input type="text" name="q" value="" size="15" class="searchInput"></td>
+					</tr>
+					<tr>
+						<td class="ac padt10"><input name="s" type="image" src="/image/poisk.gif" title="Поиск" alt="Поиск"></td>
+					</tr>
+				</tbody></table>
+			</form>
+		</td>
+	</tr>
+</tbody></table>								</td>
+							</tr>
+						</tbody></table>
+					</td>
+				</tr>
+				<tr>
+					<td>
+						<table width="100%">
+							<tbody><tr>
+								<td width="100%">
+									<table width="100%" class="bottl">
+										<tbody><tr valign="top">
+											<td width="710px" style="padding: 10px 0 10px 30px;">
+																							<!--Footer-->
+												<p style="text-align: justify;">
+	 Общество с ограниченной ответственностью Управляющая компания «Развитие» (Лицензия на осуществление деятельности по управлению инвестиционными фондами, паевыми инвестиционными фондами и негосударственными пенсионными фондами №21-000-1-00978 от 15 августа 2014 года, предоставлена Баком России без ограничения срока действия).<br>
+	 В соответствии с требованиями Федерального закона от 29.11.2001г. № 156-ФЗ «Об инвестиционных фондах» не допускается распространение информации о паевом инвестиционном фонде, инвестиционные паи которого ограничены в обороте (предназначены для квалифицированных инвесторов), за исключением случаев ее раскрытия в соответствии с федеральными законами.<br>
+	 Информация о паевом инвестиционном фонде, инвестиционные паи которого ограничены в обороте, может распространяться путем размещения на официальном сайте управляющей компании и специализированного депозитария такого паевого инвестиционного фонда и на официальном сайте Банка России в сети Интернет для неограниченного круга лиц.<br>
+	 Порядок раскрытия и (или) предоставления информации о паевом инвестиционном фонде устанавливается правилами доверительного управления Фондом.<br>
+	 Любая информация о паевом инвестиционном фонде, инвестиционные паи которого ограничены в обороте, должна содержать указание на это обстоятельство.<br>
+	 Прежде чем приобрести инвестиционный пай, следует внимательно ознакомиться с правилами доверительного управления Фондом. Стоимость инвестиционных паев может увеличиваться и уменьшаться, результаты инвестирования в прошлом не определяют доходы в будущем, государство не гарантирует доходность инвестиций в паевые инвестиционные фонды.<br>
+	 Получить подробную информацию о паевых инвестиционных фондах и ознакомиться с правилами доверительного управления, а также иными документами, предусмотренными законодательством, можно по адресу: 125319, РФ, город Москва, Кочновский проезд, дом 4, корпус 3 или по телефону +7 (495) 988-98-01. Адрес в Интернете: <a href="http://www.development-am.ru">www.development-am.ru</a>.
+</p>												<!--//Footer-->
+											</td>
+											<td class="botBgr">
+												 &nbsp;<br><br><br><br>
+											</td>											
+										</tr>
+									</tbody></table>
+								</td>
+								<td class="bottr" style="vertical-align: bottom; padding: 10px 0 10px 30px;">
+									<!--Footer-->
+									© 2023 ООО УК "Развитие"<br>
+<div style="font-size:10px"><a href="https://w24.ru/support/" target="_blank">Поддержка сайта</a></div>									<!--//Footer-->
+									<div><img src="/image/0.gif" width="200" height="1" alt=""></div>
+								</td>
+							</tr>
+						</tbody></table>
+					</td>
+				</tr>
+			</tbody></table>
+		</td>
+	</tr>
+</tbody></table>
+
+	
+														
+														</td></tr></tbody></table>

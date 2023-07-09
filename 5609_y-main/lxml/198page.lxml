@@ -1,0 +1,292 @@
+
+<header class="header">
+    <div class="container">
+      <div class="header-wrap">
+        <a href="/" class="logo"><img src="template/img/main/logo.png" alt="logo-image"></a>
+        <nav class="menu" data-da="mob-menu,1,992" data-da-index="0">
+          <ul class="menu-top">
+		             
+            <li><a href="/#fond">Фонды</a>
+            <ul class="menu-bottom">
+				
+				     
+            </ul>
+            </li>
+            <li><a href="raskrytie-informacii">Раскрытие информации</a></li>
+            <li><a href="/#contact">Контакты</a></li>
+          </ul>
+          
+        </nav>
+        <div class="header-phone" data-da="mob-menu,2,992" data-da-index="1">
+          <a class="header-phone__tel" href="tel:+74957752787">
+            <svg viewBox="0 0 36 37" fill="none" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+              <rect width="36" height="37" fill="url(#pattern0)"></rect>
+              <defs>
+                <pattern id="pattern0" patternContentUnits="objectBoundingBox" width="1" height="1">
+                  <use xlink:href="#image0" transform="translate(-0.0138889) scale(0.0411111 0.04)"></use>
+                </pattern>
+                <image id="image0" width="25" height="25" xlink:href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABkAAAAZCAYAAADE6YVjAAAAGXRFWHRTb2Z0d2FyZQBBZG9iZSBJbWFnZVJlYWR5ccllPAAAA4BpVFh0WE1MOmNvbS5hZG9iZS54bXAAAAAAADw/eHBhY2tldCBiZWdpbj0i77u/IiBpZD0iVzVNME1wQ2VoaUh6cmVTek5UY3prYzlkIj8+IDx4OnhtcG1ldGEgeG1sbnM6eD0iYWRvYmU6bnM6bWV0YS8iIHg6eG1wdGs9IkFkb2JlIFhNUCBDb3JlIDUuNi1jMTM4IDc5LjE1OTgyNCwgMjAxNi8wOS8xNC0wMTowOTowMSAgICAgICAgIj4gPHJkZjpSREYgeG1sbnM6cmRmPSJodHRwOi8vd3d3LnczLm9yZy8xOTk5LzAyLzIyLXJkZi1zeW50YXgtbnMjIj4gPHJkZjpEZXNjcmlwdGlvbiByZGY6YWJvdXQ9IiIgeG1sbnM6eG1wTU09Imh0dHA6Ly9ucy5hZG9iZS5jb20veGFwLzEuMC9tbS8iIHhtbG5zOnN0UmVmPSJodHRwOi8vbnMuYWRvYmUuY29tL3hhcC8xLjAvc1R5cGUvUmVzb3VyY2VSZWYjIiB4bWxuczp4bXA9Imh0dHA6Ly9ucy5hZG9iZS5jb20veGFwLzEuMC8iIHhtcE1NOk9yaWdpbmFsRG9jdW1lbnRJRD0ieG1wLmRpZDpBNTg4QjI3OThCMThFMzExQkNDRUQ5RTc4RjM4N0M5NCIgeG1wTU06RG9jdW1lbnRJRD0ieG1wLmRpZDo2NDU2RUJFMTA1MDMxMUVDQUZGRkI1ODI3OEI0ODY2NyIgeG1wTU06SW5zdGFuY2VJRD0ieG1wLmlpZDo2NDU2RUJFMDA1MDMxMUVDQUZGRkI1ODI3OEI0ODY2NyIgeG1wOkNyZWF0b3JUb29sPSJBZG9iZSBQaG90b3Nob3AgQ0MgMjAxNyAoV2luZG93cykiPiA8eG1wTU06RGVyaXZlZEZyb20gc3RSZWY6aW5zdGFuY2VJRD0ieG1wLmlpZDowNmFlNWVlNi1kNDE3LTA0NGUtYjU5Ny0yYWQ2MWQ4OWFjZDIiIHN0UmVmOmRvY3VtZW50SUQ9ImFkb2JlOmRvY2lkOnBob3Rvc2hvcDphNDkyODk2NS0wNTAxLTExZWMtYWExMS04M2Y3MTljZjdiY2IiLz4gPC9yZGY6RGVzY3JpcHRpb24+IDwvcmRmOlJERj4gPC94OnhtcG1ldGE+IDw/eHBhY2tldCBlbmQ9InIiPz4zEc2qAAACoElEQVR42pyWS0iUURTHHbPSnJ4m0QOzTWElBVkQPei9CjSIIHuAQbQQadNGN7kplNZF2MJFUGDFSEFU9BjQ6A0FQbXSRdLCLHo3NjX9DvwHLrc733x04cflvs6533l9N7Fz/5mSmK0M5kMSvsIIZOMejGrVcAgaoQEmOmu/4Cn0Qy+MFhJSWmB+MnTCEHTBWvgDw/AMXmps893a16lzsZSYSQbhOJTDRdgG02CRvqhe461aL9f+QZ2PVFKtjQ267Wpohjsw7u218V2t5/dbPyA5QSWTIAW1kJYf2qAHaor47rlMl9bXpiTvHyUdsA7e6HZ90AKH5Yf6Ioos4prgteR0+Ers845BDg7APljlCJgt25cWUfRJ53OSV+0qsRtXwhV44ttUbRnMiZEWFtaXJK/FVdKk/qz6dODwY3gXM3F71DfmlZQpKn4qMqzdhFfewVRJ/DYgeRadZaZkgTJ52AlTS7RW72Cr9sZp45JncueZkqla+OBtvAfnnLEpuA5VMRXlTVthSr5oMCuwsc3zj4XxA1gMMxSmJ2Bu4OxROGgpkaAKm0++w2+YHshsm7sFa5y5rGye1NiK4xZlfbB2ZRV2Vn82FIj9HfDQq95Jrxz1uVkeKiv96o9EJJnd9HKED+pgRZSSXplst8Iu1H7AHmiHTGDdzP02SonZ9BQk4Lz8EGo5/V/qlHCfNW8XnADXQgHk1qKTcB+WyHyVEaYZkmlnSqhV7heqdzd02aASi6pdSqJNcvTKIrlgSfsRFjq/5iq/kPpV1cy2XtG2XMXyAmwORE4FbFcwPIKlOrdR/ol8SIxIUbvK9V6RURaPyWc1juJv8mlXKCgKvVYyehic9l4rtSK/5zZc1deO/e+TaFSvkW7n3TUF3kc9gfz2V4ABAJX7l05v3BC3AAAAAElFTkSuQmCC"></image>
+              </defs>
+            </svg>
+
+          <span>+7&nbsp;(495)&nbsp;775-27-87</span>
+          </a>
+          <div class="header-phone__btn js-call-modal btn-blue-hover">Связаться с нами</div>
+        </div>
+        <div class="burger">
+          <div class="burger-icon"></div>
+        </div>
+      </div>
+      <div class="mob-menu active">
+
+      </div>
+    </div>
+  </header>
+
+<nav aria-label="breadcrumb">
+    <div class="container">
+      <ul class="breadcrumb" itemscope="" itemtype="http://schema.org/BreadcrumbList">
+        <li class="breadcrumb-item" itemprop="itemListElement" itemscope="" itemtype="http://schema.org/ListItem"><meta itemprop="position" content="1">
+    <a href="https://cfcpi.ru/" title="Главная" itemprop="item">
+        <span itemprop="name">Главная</span>
+    </a>
+</li><li class="active" itemprop="itemListElement" itemscope="" itemtype="http://schema.org/ListItem"><meta itemprop="position" content="2"><span typeof="WebPage" resource="https://cfcpi.ru/raskrytie-informacii"><span itemprop="name">Раскрывающая информация</span></span></li>
+      </ul>
+	</div>
+</nav>
+  <div class="informacii">
+    <div class="container">
+      <h2 class="title-section">Раскрытие информации</h2>
+      <div class="informacii-wrap">
+        <div class="informacii-item">
+          <div class="informacii-item__title">Отчетность управляющей компании </div>
+          <div class="informacii-content">
+            <div class="informacii-item__tabs">
+              <div class="informacii-item__tabs-head active">Финансовая отчетность</div>
+              <div class="informacii-item__tabs-head">Расчет размера собственных средств</div>
+            </div>
+            <div class="informacii-item__content">
+              <div class="informacii-item__content-item active">
+	  
+      <div class="js-paginate" data-perpage="5" style="display: block;">
+          <a href="assets/files/uk-cfc/otchet-buh/az-sfspi-2022-osbu.pdf" class="disclosure-information__item" style="">Аудиторское заключение к Годовой финансовой отчетности, в соответствии с ОСБУ за 2022 год. Размещено: 15.05.23 21:00 Доступно до 16.05.2026.</a><a href="assets/files/uk-cfc/otchet-buh/osbu-2023-1_kv.pdf" class="disclosure-information__item" style="">Промежуточная финансовая отчетность, в соответствии с ОСБУ за 1й квартал 2023 года. Размещено: 28.04.23 18:00 Доступно до 30.04.2026.</a><a href="assets/files/uk-cfc/otchet-buh/msfo-2022.pdf" class="disclosure-information__item" style="">Финансовая отчетность, подготовленная в соответствии с МСФО за год, закончившийся 31 декабря 2022 года с аудиторским заключением  Размещено: 28.04.23 18:00  Доступно бессрочно.</a><a href="assets/files/uk-cfc/otchet-buh/osbu-2022.pdf" class="disclosure-information__item" style="">Годовая финансовая отчетность, в соответствии с ОСБУ за 2022 год. Размещено: 31.01.23 12:30 Доступно до 31.01.2026.</a><a href="assets/files/uk-cfc/otchet-buh/rsbu-2022-3_kv.pdf" class="disclosure-information__item" style="">Промежуточная финансовая отчетность, в соответствии с РСБУ за 3й квартал 2022 года. Размещено: 31.10.22 19:00 Доступно до 31.10.2025.</a><a href="assets/files/uk-cfc/otchet-buh/rsbu-2022-2_kv.pdf" class="disclosure-information__item" style="display: none;">Промежуточная финансовая отчетность, в соответствии с РСБУ за 2й квартал 2022 года. Размещено: 29.07.22 18:00 Доступно до 30.07.2025.</a><a href="assets/files/uk-cfc/otchet-buh/rsbu-2022-1_kv.pdf" class="disclosure-information__item" style="display: none;">Промежуточная финансовая отчетность, в соответствии с РСБУ за 1й квартал 2022 года. Размещено: 29.04.22 15:30 Доступно до 30.04.2025.</a><a href="assets/files/uk-cfc/otchet-buh/msfo-2021.pdf" class="disclosure-information__item" style="display: none;">Финансовая отчетность, подготовленная в соответствии с МСФО за год, закончившийся 31 декабря 2021 года с аудиторским заключением  Размещено: 29.04.22 17:00  Доступно бессрочно.</a><a href="assets/files/uk-cfc/otchet-buh/rsbu-2021.pdf" class="disclosure-information__item" style="display: none;">Годовая финансовая отчетность, в соответствии с РСБУ за 2021 год. Размещено: 31.01.22 15:30 Доступно до 31.01.2025.</a><a href="assets/files/uk-cfc/otchet-buh/msfo-2021-3_kv.pdf" class="disclosure-information__item" style="display: none;">Промежуточная финансовая отчетность, в соответствии с РСБУ за 3й квартал 2021 года. Размещено: 29.10.21 13:30 Доступно до 30.10.2024.</a><a href="assets/files/uk-cfc/otchet-buh/msfo-2020.pdf" class="disclosure-information__item" style="display: none;">Финансовая отчетность, подготовленная в соответствии с МСФО за год, закончившийся 31 декабря 2020 года с аудиторским заключением  Размещено: 01.04.21 18:20  Доступно бессрочно.</a><a href="assets/files/uk-cfc/otchet-buh/msfo-2019.pdf" class="disclosure-information__item" style="display: none;">Финансовая отчетность, подготовленная в соответствии с МСФО за год, закончившийся 31 декабря 2019 года с аудиторским заключением  Размещено: 30.04.20 22:20  Доступно бессрочно.</a><a href="assets/files/uk-cfc/otchet-buh/msfo-2018.pdf" class="disclosure-information__item" style="display: none;">Финансовая отчетность, подготовленная в соответствии с МСФО за год, закончившийся 31 декабря 2018 года с аудиторским заключением  Размещено: 30.04.19 17:30  Доступно бессрочно.</a>
+      </div>
+      <div class="pagination light-theme simple-pagination"><ul><li class="disabled"><span class="current prev"> &lt; </span></li><li class="active"><span class="current">1</span></li><li><a href="#page-2" class="page-link">2</a></li><li><a href="#page-3" class="page-link">3</a></li><li><a href="#page-2" class="page-link next"> &gt; </a></li></ul></div>
+
+              </div>
+              <div class="informacii-item__content-item">
+	  
+      <div class="js-paginate" data-perpage="5" style="display: block;">
+          <a href="assets/files/uk-cfc/sobstbennye-sredctva/20230430-rss-30_04-2023.pdf" class="disclosure-information__item" style="">Расчет размера собственных средств ООО «Си-Эф-Си Прямые инвестиции» на 30.04.2023 Размещено: 17.05.23 18:00 Доступно до 18.05.2026.</a><a href="assets/files/uk-cfc/sobstbennye-sredctva/20230331-rss-31_03-2023.pdf" class="disclosure-information__item" style="">Расчет размера собственных средств ООО «Си-Эф-Си Прямые инвестиции» на 31.03.2023 Размещено: 14.04.23 17:30 Доступно до 16.04.2026.</a><a href="assets/files/uk-cfc/sobstbennye-sredctva/20230228-rss-28_02-2023.pdf" class="disclosure-information__item" style="">Расчет размера собственных средств ООО «Си-Эф-Си Прямые инвестиции» на 28.02.2023 Размещено: 15.03.23 18:30 Доступно до 16.03.2026.</a><a href="assets/files/uk-cfc/sobstbennye-sredctva/20230131-rss-31_01-2023.pdf" class="disclosure-information__item" style="">Расчет размера собственных средств ООО «Си-Эф-Си Прямые инвестиции» на 31.01.2023 Размещено: 14.02.23 18:30 Доступно до 15.02.2026.</a><a href="assets/files/uk-cfc/sobstbennye-sredctva/20221231-rss-31_12-2022.pdf" class="disclosure-information__item" style="">Расчет размера собственных средств ООО «Си-Эф-Си Прямые инвестиции» на 31.12.2022 Размещено: 20.01.23 15:00 Доступно до 21.01.2026.</a><a href="assets/files/uk-cfc/sobstbennye-sredctva/20221130-rss-30_11-2022.pdf" class="disclosure-information__item" style="display: none;">Расчет размера собственных средств ООО «Си-Эф-Си Прямые инвестиции» на 30.11.2022 Размещено: 14.12.22 17:00 Доступно до 15.12.2025.</a><a href="assets/files/uk-cfc/sobstbennye-sredctva/20221031-rss-31_10-2022.pdf" class="disclosure-information__item" style="display: none;">Расчет размера собственных средств ООО «Си-Эф-Си Прямые инвестиции» на 31.10.2022 Размещено: 15.11.22 17:00 Доступно до 16.11.2025.</a><a href="assets/files/uk-cfc/sobstbennye-sredctva/20220930-rss-30_09-2022.pdf" class="disclosure-information__item" style="display: none;">Расчет размера собственных средств ООО «Си-Эф-Си Прямые инвестиции» на 30.09.2022 Размещено: 14.10.22 17:00 Доступно до 15.10.2025.</a><a href="assets/files/uk-cfc/sobstbennye-sredctva/20220831-rss-31_08-2022.pdf" class="disclosure-information__item" style="display: none;">Расчет размера собственных средств ООО «Си-Эф-Си Прямые инвестиции» на 31.08.2022 Размещено: 14.09.22 16:00 Доступно до 15.09.2025.</a><a href="assets/files/uk-cfc/sobstbennye-sredctva/20220731-rss-31_07-2022.pdf" class="disclosure-information__item" style="display: none;">Расчет размера собственных средств ООО «Си-Эф-Си Прямые инвестиции» на 31.07.2022 Размещено: 11.08.22 14:00 Доступно до 12.08.2025.</a><a href="assets/files/uk-cfc/sobstbennye-sredctva/20220630-rss-30_06-2022.pdf" class="disclosure-information__item" style="display: none;">Расчет размера собственных средств ООО «Си-Эф-Си Прямые инвестиции» на 30.06.2022 Размещено: 14.07.22 18:00 Доступно до 15.07.2025.</a><a href="assets/files/uk-cfc/sobstbennye-sredctva/20220531-rss-31_05-2022.pdf" class="disclosure-information__item" style="display: none;">Расчет размера собственных средств ООО «Си-Эф-Си Прямые инвестиции» на 31.05.2022 Размещено: 20.06.22 18:00 Доступно до 20.06.2025.</a><a href="assets/files/uk-cfc/sobstbennye-sredctva/20220430-rss-30_04-2022.pdf" class="disclosure-information__item" style="display: none;">Расчет размера собственных средств ООО «Си-Эф-Си Прямые инвестиции» на 30.04.2022 Размещено: 19.05.22 16:00 Доступно до 19.05.2025.</a><a href="assets/files/uk-cfc/sobstbennye-sredctva/20220331-rss-31_03_2022.pdf" class="disclosure-information__item" style="display: none;">Расчет размера собственных средств ООО «Си-Эф-Си Прямые инвестиции» на 31.03.2022 Размещено: 13.04.22 16:00 Доступно до 13.04.2025.</a><a href="assets/files/uk-cfc/sobstbennye-sredctva/20220228-rss-28_02_2022.pdf" class="disclosure-information__item" style="display: none;">Расчет размера собственных средств ООО «Си-Эф-Си Прямые инвестиции» на 28.02.2022 Размещено: 14.03.22 15:30 Доступно до 14.03.2025.</a><a href="assets/files/uk-cfc/sobstbennye-sredctva/20220131-rss-31_01_2022.pdf" class="disclosure-information__item" style="display: none;">Расчет размера собственных средств ООО «Си-Эф-Си Прямые инвестиции» на 31.01.2022 Размещено: 11.02.22 15:00 Доступно до 11.02.2025.</a><a href="assets/files/uk-cfc/sobstbennye-sredctva/20211231-rss-31_12_2021.pdf" class="disclosure-information__item" style="display: none;">Расчет размера собственных средств ООО «Си-Эф-Си Прямые инвестиции» на 31.12.2021 Размещено: 21.01.22 16:00 Доступно до 21.01.2025.</a><a href="assets/files/uk-cfc/sobstbennye-sredctva/20211130-rss-30_11_2021.pdf" class="disclosure-information__item" style="display: none;">Расчет размера собственных средств ООО «Си-Эф-Си Прямые инвестиции» на 30.11.2021 Размещено: 14.12.21 13:00 Доступно до 14.12.2024.</a><a href="assets/files/uk-cfc/sobstbennye-sredctva/20211031-rss-31_10_2021.pdf" class="disclosure-information__item" style="display: none;">Расчет размера собственных средств ООО «Си-Эф-Си Прямые инвестиции» на 31.10.2021 Размещено: 18.11.21 15:10 Доступно до 19.11.2024.</a><a href="assets/files/uk-cfc/sobstbennye-sredctva/20210930-rss-30_09_2021.pdf" class="disclosure-information__item" style="display: none;">Расчет размера собственных средств ООО «Си-Эф-Си Прямые инвестиции» на 30.09.2021 Размещено: 14.10.21 15:20 Доступно бессрочно.</a><a href="assets/files/uk-cfc/sobstbennye-sredctva/20210831-rss-31_08_2021.pdf" class="disclosure-information__item" style="display: none;">Расчет размера собственных средств ООО «Си-Эф-Си Прямые инвестиции» на 31.08.2021 Размещено: 14.09.21 16:00 Доступно бессрочно.</a><a href="assets/files/uk-cfc/sobstbennye-sredctva/20210731-rss-31_07_2021.pdf" class="disclosure-information__item" style="display: none;">Расчет размера собственных средств ООО «Си-Эф-Си Прямые инвестиции» на 31.07.2021 Размещено: 12.08.21 13:30 Доступно бессрочно.</a><a href="assets/files/uk-cfc/sobstbennye-sredctva/20210630-rss-30_06_2021.pdf" class="disclosure-information__item" style="display: none;">Расчет размера собственных средств ООО «Си-Эф-Си Прямые инвестиции» на 30.06.2021 Размещено: 09.07.21 14:00 Доступно бессрочно.</a><a href="assets/files/uk-cfc/sobstbennye-sredctva/20210531-rss-31_05_2021.pdf" class="disclosure-information__item" style="display: none;">Расчет размера собственных средств ООО «Си-Эф-Си Прямые инвестиции» на 31.05.2021 Размещено: 15.06.21 15:20 Доступно бессрочно.</a><a href="assets/files/uk-cfc/sobstbennye-sredctva/20210430-rss-30_04_2021.pdf" class="disclosure-information__item" style="display: none;">Расчет размера собственных средств ООО «Си-Эф-Си Прямые инвестиции» на 30.04.2021 Размещено: 18.05.21 15:00 Доступно бессрочно.</a><a href="assets/files/uk-cfc/sobstbennye-sredctva/20210331-rss-31_03_2021.pdf" class="disclosure-information__item" style="display: none;">Расчет размера собственных средств ООО «Си-Эф-Си Прямые инвестиции» на 31.03.2021 Размещено: 12.04.21 16:40 Доступно бессрочно.</a><a href="assets/files/uk-cfc/sobstbennye-sredctva/20210228-rss-28_02_2021.pdf" class="disclosure-information__item" style="display: none;">Расчет размера собственных средств ООО «Си-Эф-Си Прямые инвестиции» на 28.02.2021 Размещено: 12.03.21 17:15 Доступно бессрочно.</a><a href="assets/files/uk-cfc/sobstbennye-sredctva/20210131-rss-31_01_2021.pdf" class="disclosure-information__item" style="display: none;">Расчет размера собственных средств ООО «Си-Эф-Си Прямые инвестиции» на 31.01.2021 Размещено: 12.02.21 15:00 Доступно бессрочно.</a><a href="assets/files/uk-cfc/sobstbennye-sredctva/20201231-rss-31_12_2020.pdf" class="disclosure-information__item" style="display: none;">Расчет размера собственных средств ООО «Си-Эф-Си Прямые инвестиции» на 31.12.2020 Размещено: 22.01.21 15:00 Доступно бессрочно.</a><a href="assets/files/uk-cfc/sobstbennye-sredctva/20201130-rss-30_11_2020.pdf" class="disclosure-information__item" style="display: none;">Расчет размера собственных средств ООО «Си-Эф-Си Прямые инвестиции» на 30.11.2020 Размещено: 14.12.20 17:40 Доступно бессрочно.</a><a href="assets/files/uk-cfc/sobstbennye-sredctva/20201031-rss-31_10_2020.pdf" class="disclosure-information__item" style="display: none;">Расчет размера собственных средств ООО «Си-Эф-Си Прямые инвестиции» на 31.10.2020 Размещено: 16.11.20 16:40 Доступно бессрочно.</a><a href="assets/files/uk-cfc/sobstbennye-sredctva/20200930-rss-30_09_2020.pdf" class="disclosure-information__item" style="display: none;">Расчет размера собственных средств ООО «Си-Эф-Си Прямые инвестиции» на 30.09.2020 Размещено: 20.10.20 15:30 Доступно бессрочно.</a><a href="assets/files/uk-cfc/sobstbennye-sredctva/20200831-rss-31_08_2020.pdf" class="disclosure-information__item" style="display: none;">Расчет размера собственных средств ООО «Си-Эф-Си Прямые инвестиции» на 31.08.2020 Размещено: 15.09.20 12:30 Доступно бессрочно.</a><a href="assets/files/uk-cfc/sobstbennye-sredctva/20200731-rss-31_07_2020.pdf" class="disclosure-information__item" style="display: none;">Расчет размера собственных средств ООО «Си-Эф-Си Прямые инвестиции» на 31.07.2020 Размещено: 19.08.20 19:00 Доступно бессрочно.</a><a href="assets/files/uk-cfc/sobstbennye-sredctva/20200630-rss-30_06_2020.pdf" class="disclosure-information__item" style="display: none;">Расчет размера собственных средств ООО «Си-Эф-Си Прямые инвестиции» на 30.06.2020 Размещено: 21.07.20 14:00 Доступно бессрочно.</a><a href="assets/files/uk-cfc/sobstbennye-sredctva/20200531-rss-31_05_2020.pdf" class="disclosure-information__item" style="display: none;">Расчет размера собственных средств ООО «Си-Эф-Си Прямые инвестиции» на 31.05.2020 Размещено: 23.06.20 16:15 Доступно бессрочно.</a><a href="assets/files/uk-cfc/sobstbennye-sredctva/20200430-rss-30_04_2020.pdf" class="disclosure-information__item" style="display: none;">Расчет размера собственных средств ООО «Си-Эф-Си Прямые инвестиции» на 30.04.2020 Размещено: 26.05.20 12:30 Доступно бессрочно.</a><a href="assets/files/uk-cfc/sobstbennye-sredctva/20200331-rss-31_03_2020.pdf" class="disclosure-information__item" style="display: none;">Расчет размера собственных средств ООО «Си-Эф-Си Прямые инвестиции» на 31.03.2020 Размещено: 22.04.20 22:00 Доступно бессрочно.</a><a href="assets/files/uk-cfc/sobstbennye-sredctva/20200229-rss-29_02_2020.pdf" class="disclosure-information__item" style="display: none;">Расчет размера собственных средств ООО «Си-Эф-Си Прямые инвестиции» на 29.02.2020 Размещено: 20.03.20 17:00 Доступно бессрочно.</a><a href="assets/files/uk-cfc/sobstbennye-sredctva/20200131-rss-31_01_2020.pdf" class="disclosure-information__item" style="display: none;">Расчет размера собственных средств ООО «Си-Эф-Си Прямые инвестиции» на 31.01.2020 Размещено: 18.02.20 14:00 Доступно бессрочно.</a><a href="assets/files/uk-cfc/sobstbennye-sredctva/20191231-rss-31_12_2019.pdf" class="disclosure-information__item" style="display: none;">Расчет размера собственных средств ООО «Си-Эф-Си Прямые инвестиции» на 31.12.2019 Размещено: 23.01.20 16:30 Доступно бессрочно.</a><a href="assets/files/uk-cfc/sobstbennye-sredctva/20191130-rss-30_11_2019.pdf" class="disclosure-information__item" style="display: none;">Расчет размера собственных средств ООО «Си-Эф-Си Прямые инвестиции» на 30.11.2019 Размещено: 17.12.19 12:00 Доступно бессрочно.</a><a href="assets/files/uk-cfc/sobstbennye-sredctva/20191031-rss-31_10_2019.pdf" class="disclosure-information__item" style="display: none;">Расчет размера собственных средств ООО «Си-Эф-Си Прямые инвестиции» на 31.10.2019 Размещено: 21.11.19 15:00 Доступно бессрочно.</a><a href="assets/files/uk-cfc/sobstbennye-sredctva/20190930-rss-30_09_2019.pdf" class="disclosure-information__item" style="display: none;">Расчет размера собственных средств ООО «Си-Эф-Си Прямые инвестиции» на 30.09.2019 Размещено: 17.10.19 14:00 Доступно бессрочно.</a><a href="assets/files/uk-cfc/sobstbennye-sredctva/20190831-rss-31_08_2019.pdf" class="disclosure-information__item" style="display: none;">Расчет размера собственных средств ООО «Си-Эф-Си Прямые инвестиции» на 31.08.2019 Размещено: 19.09.19 15:00 Доступно бессрочно.</a><a href="assets/files/uk-cfc/sobstbennye-sredctva/20190731-rss-31_07_2019.pdf" class="disclosure-information__item" style="display: none;">Расчет размера собственных средств ООО «Си-Эф-Си Прямые инвестиции» на 31.07.2019 Размещено: 15.08.19 11:50 Доступно бессрочно.</a><a href="assets/files/uk-cfc/sobstbennye-sredctva/20190630-rss-30_06_2019.pdf" class="disclosure-information__item" style="display: none;">Расчет размера собственных средств ООО «Си-Эф-Си Прямые инвестиции» на 30.06.2019 Размещено: 19.07.19 16:40 Доступно бессрочно.</a><a href="assets/files/uk-cfc/sobstbennye-sredctva/20190531-rss-31_05_2019.pdf" class="disclosure-information__item" style="display: none;">Расчет размера собственных средств ООО «Си-Эф-Си Прямые инвестиции» на 31.05.2019 Размещено: 24.06.19 16:10 Доступно бессрочно.</a><a href="assets/files/uk-cfc/sobstbennye-sredctva/20190430-rss-30_04_2019.pdf" class="disclosure-information__item" style="display: none;">Расчет размера собственных средств ООО «Си-Эф-Си Прямые инвестиции» на 30.04.2019 Размещено: 28.05.19 15:50 Доступно бессрочно.</a><a href="assets/files/uk-cfc/sobstbennye-sredctva/20190331-rss-31_03_2019.pdf" class="disclosure-information__item" style="display: none;">Расчет размера собственных средств ООО «Си-Эф-Си Прямые инвестиции» на 31.03.2019 Размещено: 23.04.19 18:40 Доступно бессрочно.</a><a href="assets/files/uk-cfc/sobstbennye-sredctva/20190228-rss-28_02_2019.pdf" class="disclosure-information__item" style="display: none;">Расчет размера собственных средств ООО «Си-Эф-Си Прямые инвестиции» на 28.02.2019 Размещено: 22.03.19 11:20 Доступно бессрочно.</a><a href="assets/files/uk-cfc/sobstbennye-sredctva/20190131-rss-31_01_2019.pdf" class="disclosure-information__item" style="display: none;">Расчет размера собственных средств ООО «Си-Эф-Си Прямые инвестиции» на 31.01.2019 Размещено: 21.02.19 11:50 Доступно бессрочно.</a><a href="assets/files/uk-cfc/sobstbennye-sredctva/20181231-rss-31_12_2018.pdf" class="disclosure-information__item" style="display: none;">Расчет размера собственных средств ООО «Си-Эф-Си Прямые инвестиции» на 31.12.2018 Размещено: 22.01.19 15:40 Доступно бессрочно.</a><a href="assets/files/uk-cfc/sobstbennye-sredctva/20181130-rss-30_11_2018.pdf" class="disclosure-information__item" style="display: none;">Расчет размера собственных средств ООО «Си-Эф-Си Прямые инвестиции» на 30.11.2018 Размещено: 24.12.18 15:20 Доступно бессрочно.</a><a href="assets/files/uk-cfc/sobstbennye-sredctva/20181031-rss-31_10_2018.pdf" class="disclosure-information__item" style="display: none;">Расчет размера собственных средств ООО «Си-Эф-Си Прямые инвестиции» на 31.10.2018 Размещено: 19.11.18 18:35 Доступно бессрочно.</a><a href="assets/files/uk-cfc/sobstbennye-sredctva/20180930-rss-30_09_2018.pdf" class="disclosure-information__item" style="display: none;">Расчет размера собственных средств ООО «Си-Эф-Си Прямые инвестиции» на 30.09.2018 Размещено: 24.10.18 16:50 Доступно бессрочно.</a><a href="assets/files/uk-cfc/sobstbennye-sredctva/20180831-rss-31_08_2018.pdf" class="disclosure-information__item" style="display: none;">Расчет размера собственных средств ООО «Си-Эф-Си Прямые инвестиции» на 31.08.2018 Размещено: 19.09.18 12:05 Доступно бессрочно.</a><a href="assets/files/uk-cfc/sobstbennye-sredctva/20180731-rss-31_07_2018.pdf" class="disclosure-information__item" style="display: none;">Расчет размера собственных средств ООО «Си-Эф-Си Прямые инвестиции» на 31.07.2018 Размещено: 22.08.18 17:10 Доступно бессрочно.</a><a href="assets/files/uk-cfc/sobstbennye-sredctva/20180630-raschet-sobstvennyh-sredstv-ooo-si-ef-si-na-30.06.2018.pdf" class="disclosure-information__item" style="display: none;">Расчет размера собственных средств ООО «Си-Эф-Си Прямые инвестиции» на 30.06.2018 Размещено: 17.07.18 14:21 Доступно бессрочно.</a>
+      </div>
+      <div class="pagination light-theme simple-pagination"><ul><li class="disabled"><span class="current prev"> &lt; </span></li><li class="active"><span class="current">1</span></li><li><a href="#page-2" class="page-link">2</a></li><li><a href="#page-3" class="page-link">3</a></li><li><a href="#page-4" class="page-link">4</a></li><li><a href="#page-5" class="page-link">5</a></li><li><a href="#page-6" class="page-link">6</a></li><li><a href="#page-7" class="page-link">7</a></li><li class=""><span class="ellipse clickable">…</span></li><li><a href="#page-11" class="page-link">11</a></li><li><a href="#page-12" class="page-link">12</a></li><li><a href="#page-2" class="page-link next"> &gt; </a></li></ul></div>
+
+              </div>
+            </div>
+          </div>
+          
+        </div>
+    
+    
+		  <div class="informacii-item">
+          <div class="informacii-item__title">Наши Лицензии</div>
+          <div class="informacii-content">
+            <div class="informacii-item__tabs">
+              <div class="informacii-item__tabs-head active"><!--БПИФ Коган Сбалансированный СКРЫТО--></div>
+              <div class="informacii-item__tabs-head"><!--БПИФ Коган Агрессивный СКРЫТО--></div>
+            </div>
+            <div class="informacii-item__content">
+				Лицензия управляющей компании инвестиционных фондов, паевых инвестиционных фондов и негосударственных пенсионных фондов №21-000-1-01018 выдана Банком России 19.06.2018. Срок действия - бессрочно.
+			<div class="informacii-item__content-item active">
+	  
+              </div>
+              <div class="informacii-item__content-item">
+	  
+              </div>
+            </div>
+          </div>
+         </div>
+	
+		  
+        <div class="informacii-item">
+          <div class="informacii-item__title">Информационные сообщения</div>
+          <div class="informacii-content">
+            <div class="informacii-item__content">
+	  
+      <div class="js-paginate" data-perpage="5" style="display: block;">
+          <a href="" class="disclosure-information__item" style="">Уважаемые клиенты! Доводим до вашего сведения, что с 20.12.2021 ПАО Московская Биржа осуществляет расчет индикатора Коган уверенный. Более подробную информацию можно получить  по адресу; https://www.moex.com/ru/index/KOSRUB?utm_source=www.moex.com&amp;utm_term=%D0%BA%D0%BE%D0%B3%D0%B0%D0%BD </a><a href="" class="disclosure-information__item" style="">Уважаемые клиенты! Доводим до вашего сведения, что в период с 28 октября 2021 г. по 03 ноября 2021 г. включительно ООО «Си-Эф-Си Прямые Инвестиции» работает в стандартном режиме и осуществляет все предусмотренные действующим законодательством и договорами функции с использованием дистанционного режима работы. Получить подробную консультацию вы всегда можете не выходя из дома по телефону +7 (495) 775 27 87</a>
+      </div>
+      <div class="pagination light-theme simple-pagination" style="display: none;"><ul><li class="disabled"><span class="current prev"> &lt; </span></li><li class="active"><span class="current">1</span></li><li class="disabled"><span class="current next"> &gt; </span></li></ul></div>
+
+            </div>
+          </div>
+          
+        </div>
+        <div class="informacii-item">
+          <div class="informacii-item__title"><!--Ранее был Электронный документооборот-->Документы управляющей компании</div>
+          <div class="informacii-content">
+            <div class="informacii-item__content">
+	  
+      <div class="informacii-item__content-item active js-paginate" data-perpage="5">
+          <a href="assets/files/uk-cfc/doki_uk/metodika-indikatora-kogan-uverennyj.pdf" class="disclosure-information__item" style="">Методика расчета индикатора Коган уверенный Доступен с 20.12.2021 Период актуальности: с 20.12.2021 до внесения изменений</a><a href="assets/files/uk-cfc/doki_uk/reglament-priznaniya-kvalificirovannym-investorom_-si-ef-si-pryamye-investicii_-redakciya-2.pdf" class="disclosure-information__item" style="">Регламент признания лица квалифицированным инвестором ООО «Си-Эф-Си Прямые Инвестиции» редакция 2 Доступен с 27.09.2021 Период актуальности: с 04.10.2021 до внесения изменений</a><a href="assets/files/uk-cfc/doki_uk/reglament-priznaniya-kvalificirovannym-investorom_-si-ef-si-pryamye-investicii_-redakciya-1.pdf" class="disclosure-information__item" style="">Регламент признания лица квалифицированным инвестором ООО «Си-Эф-Си Прямые Инвестиции» редакция 1 Доступен с 19.08.2018 Период актуальности: с 19.08.2018 до 04.10.2021</a><a href="assets/files/uk-cfc/doki_uk/shema-i-spisok-uchastnikov-i-lic.pdf" class="disclosure-information__item" style="">Список и Схема взаимосвязей акционеров (участников) НФО и лиц, под контролем либо значительным влиянием которых находится ООО «Си-Эф-Си Прямые Инвестиции» Доступен с 30.03.2021 Информация размещена на официальном сайте Банка России 29.03.2021. Период актуальности: до внесения изменений</a><a href="assets/files/uk-cfc/doki_uk/polozhenie-o-kriteriyah-otneseniya-klientov-k-kategorii-klienta-inostrann.pdf" class="disclosure-information__item" style="">Положение «О критериях отнесения клиентов к категории клиента – иностранного налогоплательщика и способах получения от них необходимой информации» Доступен с 19.07.2018 Период актуальности: до внесения изменений</a><a href="assets/files/uk-cfc/doki_uk/licenziya.pdf" class="disclosure-information__item" style="display: none;">Сведения о лицензиях, предоставленный Центральным Банком Российской Федерации (Банком России), на осуществление деятельности на рынке ценных бумаг: Лицензия управляющей компании от "19" июня 2018 г. № 21-000-1-01018 на осуществление деятельности по управлению инвестиционными фондами, паевыми инвестиционными фондами и негосударственными пенсионными фондами, предоставленная Центральным Банком Российской Федерации (Банком России) Доступен с 29.06.2018 Период актуальности: бессрочно</a>
+      </div>
+      <div class="pagination light-theme simple-pagination"><ul><li class="disabled"><span class="current prev"> &lt; </span></li><li class="active"><span class="current">1</span></li><li><a href="#page-2" class="page-link">2</a></li><li><a href="#page-2" class="page-link next"> &gt; </a></li></ul></div>
+
+            </div>
+          </div>
+          
+        </div>
+		  
+		<div class="informacii-item">
+          <div class="informacii-item__title">Инсайдерам</div>
+          <div class="informacii-content">
+            <div class="informacii-item__content">
+	  			
+            </div>
+          </div>
+        </div>  
+       
+ 		<div class="informacii-item">
+          <div class="informacii-item__title">Электронный документооборот</div>
+          <div class="informacii-content">
+            <div class="informacii-item__content">
+Электронный документооборот c АО «Специализированный депозитарий «ИНФИНИТУМ»                                          
+Документооборот осуществляется с использованием системы электронного документооборота ООО «Технический центр «ИНФИНИТУМ». С правилами электронного документооборота ООО «Технический центр «ИНФИНИТУМ» и регламентом подсистемы электронного документооборота АО «Специализированный депозитарий «ИНФИНИТУМ» можно ознакомиться на сайте в сети Интернет.
+Доступен с 28.08.2018
+Период актуальности: до внесения изменений
+	<!-- заблокирована ссылка на параметр TV
+	  
+	-->
+	
+            </div>
+          </div>
+        </div>  
+		  
+        <div class="informacii-item" data-informacii="fond-8">
+          <div class="informacii-item__title"><!--БПИФ Коган Сбалансированный СКРЫТО--></div>
+          <div class="informacii-content">
+            <div class="informacii-item__content">
+				<div class="informacii-item__content-item active">
+                
+              </div>
+            </div>
+          </div>
+        </div>
+        
+		
+      
+        <div class="informacii-item" data-informacii="fond-9">
+          <div class="informacii-item__title"><!--БПИФ Коган Агрессивный СКРЫТО--></div>
+          <div class="informacii-content">
+            <div class="informacii-item__content">
+				<div class="informacii-item__content-item active">
+                
+              </div>
+            </div>
+          </div>
+        </div>
+		  
+     
+		  
+		  
+      </div>
+    </div>
+  </div>
+
+  <footer class="footer">
+    <div class="container">
+      <div class="footer-wrap">
+        <div class="footer-logo">
+          <div class="footer-logo__img">
+            <img src="template/img/main/logo.png" alt="logo">
+          </div>
+          <div class="footer-logo__info">
+            <p>ООО CFC DIRECT INVESTMENTS</p>
+            <p> 121552, город Москва, вн. тер. г. муниципальный округ Кунцево, улица Ярцевская, дом 19, этаж/блок 8/В, часть помещения №15</p>
+          </div>
+        </div>
+        <nav class="footer-menu">
+          <a href="/#fond" class="link-hover">Фонды</a>
+          <a href="raskrytie-informacii" class="link-hover">Раскрытие информации</a>
+          <a href="/#contact" class="link-hover">Контакты</a>
+          <a href="novosti" class="link-hover">Новости</a>  
+        </nav>
+      </div>
+      <div class="footer-text">
+		  <p>Запись в ЕГРЮЛ о создании юридического лица за государственным регистрационным номером (ГРН) 1177746234489 внесена «10» марта 2017 года Межрайонной Инспекцией Федеральной налоговой службы № 46 по г. Москве (ОГРН 1177746234489). Лицензия на осуществление деятельности по управлению инвестиционными фондами, паевыми инвестиционными фондами и негосударственными пенсионными фондами № 21-000-1-01018 выдана Центральным Банком Российской Федерации (Банк России) от 19.06.2018 года. Срок действия: бессрочно.</p>
+<p>Получить подробную информацию о деятельности управляющей компании, о паевых инвестиционных фондах, ознакомиться с правилами доверительного управления паевыми инвестиционными фондами и иными документами, предусмотренными Федеральным законом от 29.11.2001 г № 156-ФЗ «Об инвестиционных фондах» и Указанием Банка России от 02.11.2020 г. № 5609-У «О раскрытии, распространении и предоставлении информации, акционерными инвестиционными фондами и управляющими компаниями инвестиционных фондов, паевых инвестиционных фондов, негосударственных пенсионных фондов а также к расчету доходности инвестиционной деятельности акционерного инвестиционного фонда и управляющей компании паевого инвестиционного фонда», можно в офисе ООО «Си-Эф-Си Прямые Инвестиции» по адресу: 121552, город Москва, вн. тер. г. муниципальный округ Кунцево, улица Ярцевская, дом 19, этаж/блок 8/В, часть помещения №15, по телефону: (495) 775 27 87, на сайте в сети Интернет по адресу: www.cfcpi.ru, а также, в случаях, предусмотренных законодательством Российской Федерации, в периодическом печатном издании «Приложение к Вестнику Федеральной службы по финансовым рынкам».</p>
+<p>Информация о структуре и составе участников ООО «Си-Эф-Си Прямые инвестиции», в том числе о лицах, под контролем либо значительным влиянием которых находится ООО «Си-Эф-Си Прямые инвестиции», размещена на официальном сайте Банка России и соответствует информации, направленной в Банк России для размещения на официальном сайте Банка России.</p>
+<p>ООО «Си-Эф-Си Прямые инвестиции» сообщает об отсутствии совмещения деятельности по доверительному управлению паевыми инвестиционными фондами и деятельности по управлению ценными бумагами.</p>
+<p class="cssClass4 cssClass3"><strong><span class="cssClass1 cssClass2">Стоимость инвестиционных паев может увеличиваться и уменьшаться, результаты инвестирования в прошлом не определяют доходы в будущем, государство не гарантирует доходность инвестиций в инвестиционные фонды. Прежде чем приобрести инвестиционный пай, следует внимательно ознакомиться с правилами доверительного управления паевым инвестиционным фондом.</span></strong></p>
+      </div>
+      <div class="footer-copy">Все права защищены. Москва 2021</div>
+    </div>
+  </footer>
+<script type="application/ld+json">
+		{
+		  "@context" : "http://schema.org",
+		  "@type" : "LocalBusiness",
+		  "name" : "CFC инвестиции",
+		  "image" : "http://cfc.jetbit.pro/template/img/main/logo.png",
+		  "telephone" : [ "+7 (495) 775-27-87" ],
+		  "email" : "info@cfcpi.ru",
+		  "address" : {
+			"@type" : "PostalAddress",
+			"streetAddress" : "вн. тер. г. муниципальный округ Кунцево, улица Ярцевская, дом 19, этаж/блок 8/В, часть помещения №15",
+			"addressLocality" : "г. Москва"
+		  }
+		}
+		</script>
+  <div class="modal">
+    <div class="modal-order modal-block">
+      <div class="modal-close">
+        <svg width="32" height="32" viewBox="0 0 32 32" fill="none" xmlns="http://www.w3.org/2000/svg">
+          <rect y="30.2701" width="42.8084" height="2.4462" transform="rotate(-45 0 30.2701)" fill="#000745"></rect>
+          <rect y="30.2701" width="42.8084" height="2.4462" transform="rotate(-45 0 30.2701)" fill="#000745"></rect>
+          <rect y="30.2701" width="42.8084" height="2.4462" transform="rotate(-45 0 30.2701)" fill="#868FDD"></rect>
+          <rect x="30.2703" y="31.9999" width="42.8084" height="2.4462" transform="rotate(-135 30.2703 31.9999)" fill="#000745"></rect>
+          <rect x="30.2703" y="31.9999" width="42.8084" height="2.4462" transform="rotate(-135 30.2703 31.9999)" fill="#000745"></rect>
+          <rect x="30.2703" y="31.9999" width="42.8084" height="2.4462" transform="rotate(-135 30.2703 31.9999)" fill="#868FDD"></rect>
+        </svg>
+      </div>
+      <div class="modal-title">Связаться с нами</div>
+        <div class="modal-form">
+            <form action="#" class="modal-consul" novalidate="novalidate">
+              <div class="input-wrap">
+                <input type="text" name="name" placeholder="Ваше имя"></div>
+              <div class="input-wrap"><input class="phone-mask" type="tel" name="tel" placeholder="+7 (___) ___ - __-__"></div>
+              <div class="input-wrap"><input type="email" name="email" placeholder="Ваша электронная почта">
+              </div>
+              <div class="input-wrap"><textarea name="comment" placeholder="Комментарий"></textarea>
+              </div>
+
+              <input class="order-form__btn btn-blue-hover" type="submit" value="Отправить">
+
+              <div class="input-checkbox">
+                <input type="checkbox" name="agree" id="modal-form__checkbox" checked="">
+                <label for="modal-form__checkbox" name="agree"></label>
+                <a target="_blank" href="#">Оставив заявку, вы даете согласие на обработку персональных данных</a>
+              </div>
+				<input type="hidden" name="action" value="contact-form">
+            </form>
+        </div>
+          <div class="modal-access-ajax">
+            Заявка успешно отправлена. <br>
+            В ближайшее время <br>
+            с Вами свяжется наш консультант
+          </div>
+    </div>
+  </div>
+  <script src="https://cdnjs.cloudflare.com/ajax/libs/fancybox/3.3.5/jquery.fancybox.min.js"></script>
+  <script src="template/js/jquery.maskedinput.min.js"></script>
+  <script src="template/js/jquery.validate.min.js"></script>
+  <script src="template/simplePagination/jquery.simplePagination.js"></script>
+  <script src="template/slick/slick.min.js"></script>
+  <script src="template/js/jquery-ui.min.js"></script>
+  <script src="template/js/datepicker-ru.js"></script>
+  <script src="template/js/jQuery-plugin-progressbar.js"></script>
+  <script src="https://cdnjs.cloudflare.com/ajax/libs/ion-rangeslider/2.3.0/js/ion.rangeSlider.min.js"></script>
+  <script src="template/js/dinamic.js"></script>
+  <script src="template/js/script.js"></script>
+
+

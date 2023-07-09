@@ -1,0 +1,929 @@
+
+        <!-- Yandex.Metrika counter -->
+<script data-skip-moving="true" type="text/javascript">
+    (function(m,e,t,r,i,k,a){m[i]=m[i]||function(){(m[i].a=m[i].a||[]).push(arguments)};
+        m[i].l=1*new Date();k=e.createElement(t),a=e.getElementsByTagName(t)[0],k.async=1,k.src=r,a.parentNode.insertBefore(k,a)})
+    (window, document, "script", "https://mc.yandex.ru/metrika/tag.js", "ym");
+
+    ym(41044004, "init", {clickmap:true, trackLinks:true, accurateTrackBounce:true});
+    ym(56804458, "init", {clickmap:true, trackLinks:true, accurateTrackBounce:true, webvisor:true});
+
+</script>
+<noscript>
+    <div>
+        <img src="https://mc.yandex.ru/watch/41044004?ut=noindex" style="position:absolute; left:-9999px;" alt="" />
+        <img src="https://mc.yandex.ru/watch/56804458?ut=noindex" style="position:absolute; left:-9999px;" alt="" />
+    </div>
+</noscript>
+<!-- /Yandex.Metrika counter -->
+		<div id="panel">
+					</div>
+		<div class="global__preloader">
+			<div class="preloader">
+				<div class="preloader-wrapper big active">
+					<div class="spinner-layer">
+						<div class="circle-clipper left">
+							<div class="circle"></div>
+						</div>
+						<div class="gap-patch">
+							<div class="circle"></div>
+						</div>
+						<div class="circle-clipper right">
+							<div class="circle"></div>
+						</div>
+					</div>
+				</div>
+				<div class="preloader__text">
+					<span>Загрузка ...</span>
+				</div>
+			</div>
+		</div>
+				<div class="" style="min-height:0;"></div>
+		<div class="global__wrapper  page   ">
+			<header class="header cookie">
+				<div class="header__block">
+					<a class="header__logo hide-mobile" href="/">
+						<img src="/local/templates/main/img/logo_white_new.svg" alt="">
+					</a>
+					<a class="header__logo show-mobile" href="/">
+						<img src="/local/templates/main/img/logo_black_new.svg" alt="">
+					</a>
+				</div>
+									<div class="header__block ">
+																<a href="https://lk.raiffeisen-capital.ru" class="header__signin sign__caller btn" data-event="266">Личный кабинет</a>
+										<button class="menu__caller" data-event="267"></button>
+					<span class="titleHeader " style="color: #fff"></span>
+				</div>
+			</header>
+			<div class="menu" style="height: 852px;">
+				<div class="header_inner cookie">
+					<div class="header__block">
+						<a class="header__logo" href="/">
+							<img src="/local/templates/main/img/logo_black_new.svg" alt="">
+						</a>
+					</div>
+					<div class="header__block">
+                        <a href="https://lk.raiffeisen-capital.ru" class="btn header__login" data-event="266">Личный кабинет</a><button class="header__close" data-event="267"></button>
+					</div>
+				</div>
+				<form action="/search/pages/" method="get" class="menu__search cookie" style="left: 0px;">
+					<input autocomplete="off" type="text" name="q" placeholder="Поиск по сайту">
+					<button type="submit"></button>
+				</form>
+			<!--	<a href="" class="menu__lang">
+					<div class="menu__lang-img" style="background-image: url(/upload/iblock/2ea/eng.svg)"></div>
+					<span>EN</span>
+				</a> -->
+				<div class="menu__list">
+					
+<ul class="menu__column">
+
+
+				 	<div class="menu__hide-desktop">
+				<li class="menu__item menu__item_phone">
+            <a href="tel:+74957779998" class="menu__link" data-event="252">+7 (495) 777-99-98</a>
+            <div class="menu__text"><span>с 9:00 до 18:00 по мск</span></div>
+          </li>
+		  </div> 
+
+
+
+		
+
+	
+        
+        <li class="menu__item ">
+        <a class="menu__link " href="/pifs/" data-event="250">Паевые фонды</a>
+        <ul class="menu__sublist">
+
+    
+    
+        
+    
+                                    <li class="menu__subitem">
+                    <a class="menu__sublink" href="/pifs/raiffeisen-equities/" data-event="262" data-event-pif="2">Акции</a>
+                </li>
+                    
+    
+    
+        
+    
+                                    <li class="menu__subitem">
+                    <a class="menu__sublink" href="/pifs/raiffeisen-dividend_equities/" data-event="262" data-event-pif="3">Дивидендные акции</a>
+                </li>
+                    
+    
+    
+        
+    
+                                    <li class="menu__subitem">
+                    <a class="menu__sublink" href="/pifs/raiffeisen-developed_countries_debt_market/" data-event="262" data-event-pif="18">Долговые рынки развитых стран</a>
+                </li>
+                    
+    
+    
+        
+    
+                                    <li class="menu__subitem">
+                    <a class="menu__sublink" href="/pifs/raiffeisen-europe/" data-event="262" data-event-pif="14">Европа</a>
+                </li>
+                    
+    
+    
+        
+    
+                                    <li class="menu__subitem">
+                    <a class="menu__sublink" href="/pifs/raiffeisen-gold/" data-event="262" data-event-pif="7">Золото</a>
+                </li>
+                    
+    
+    
+        
+    
+                                    <li class="menu__subitem">
+                    <a class="menu__sublink" href="/pifs/raiffeisen-industrial/" data-event="262" data-event-pif="11">Индустриальный</a>
+                </li>
+                    
+    
+    
+        
+    
+                                    <li class="menu__subitem">
+                    <a class="menu__sublink" href="/pifs/raiffeisen-information_technologies/" data-event="262" data-event-pif="9">Информационные технологии</a>
+                </li>
+                    
+    
+    
+        
+    
+                                    <li class="menu__subitem">
+                    <a class="menu__sublink" href="/pifs/raiffeisen-corporate_bonds/" data-event="262" data-event-pif="16">Корпоративные облигации</a>
+                </li>
+                    
+    
+    
+        
+    
+                                    <li class="menu__subitem">
+                    <a class="menu__sublink" href="/landings/opif-rayffayzen-mm-strategy/">Ликвидная стратегия</a>
+                </li>
+                    
+    
+    
+        
+    
+                                    <li class="menu__subitem">
+                    <a class="menu__sublink" href="/pifs/raiffeisen-bonds/" data-event="262" data-event-pif="4">Облигации</a>
+                </li>
+                    
+    
+    
+        
+    
+                                    <li class="menu__subitem">
+                    <a class="menu__sublink" href="/pifs/raiffeisen-consumer_sector/" data-event="262" data-event-pif="6">Потребительский сектор</a>
+                </li>
+                    
+    
+    
+        
+    
+                                    <li class="menu__subitem">
+                    <a class="menu__sublink" href="/pifs/raiffeisen-emerging_markets/" data-event="262" data-event-pif="15">Развивающиеся рынки</a>
+                </li>
+                    
+    
+    
+        
+    
+                                    <li class="menu__subitem">
+                    <a class="menu__sublink" href="/pifs/raiffeisen-usa/" data-event="262" data-event-pif="1"><b>США</b></a>
+                </li>
+                    
+    
+    
+        
+    
+                                    <li class="menu__subitem">
+                    <a class="menu__sublink" href="/pifs/raiffeisen-commodities/" data-event="262" data-event-pif="10">Сырьевой сектор</a>
+                </li>
+                    
+    
+    
+        
+    
+                                    <li class="menu__subitem">
+                    <a class="menu__sublink" href="/pifs/raiffeisen-active_management_fund/" data-event="262" data-event-pif="17">Фонд активного управления</a>
+                </li>
+                    
+    
+    
+        
+    
+                                    <li class="menu__subitem">
+                    <a class="menu__sublink" href="/pifs/raiffeisen-energy_sector/" data-event="262" data-event-pif="8">Электроэнергетика</a>
+                </li>
+                    
+    
+    
+    
+            </ul></li>    
+</ul>
+
+					
+<ul class="menu__column">
+
+
+
+
+		
+
+	
+        
+        <li class="menu__item ">
+        <a class="menu__link " href="/bpifs/">Биржевые паевые фонды</a>
+        <ul class="menu__sublist">
+
+    
+    
+        
+    
+                                    <li class="menu__subitem">
+                    <a class="menu__sublink" href="/bpifs/american-equities/">Американские акции</a>
+                </li>
+                    
+    
+    
+        
+    
+                                    <li class="menu__subitem">
+                    <a class="menu__sublink" href="/bpifs/high-yield-bonds/">Высокодоходные облигации</a>
+                </li>
+                    
+    
+    
+        
+    
+                                    <li class="menu__subitem">
+                    <a class="menu__sublink" href="/bpifs/eurobonds/">Еврооблигации</a>
+                </li>
+                    
+    
+    
+        
+    
+                                    <li class="menu__subitem">
+                    <a class="menu__sublink" href="/landings/bpif-rayffayzen-zoloto/">Золото</a>
+                </li>
+                    
+    
+    
+        
+    
+                                    <li class="menu__subitem">
+                    <a class="menu__sublink" href="/bpifs/">Индекс МосБиржи полной доходности&nbsp;15</a>
+                </li>
+                    
+    
+    
+        
+    
+                                    <li class="menu__subitem">
+                    <a class="menu__sublink" href="/bpifs/money-market-fund/">Фонд денежного рынка</a>
+                </li>
+                    
+    
+    
+        
+    
+                                    <li class="menu__subitem">
+                    <a class="menu__sublink" href="/landings/bpif-rayffayzen-mm-usd/">Фонд денежного рынка валютный</a>
+                </li>
+                    
+    
+    
+                </ul></li>    
+    
+                                    <li class="menu__item">
+                    <a class="menu__link" href="/pifs-yield/" data-event="261">Результаты работы фондов</a>
+                </li>
+                    
+    
+    
+        
+    
+                                    <li class="menu__item">
+                    <a class="menu__link" href="/iis/" data-event="254">Индивидуальный инвестиционный счет</a>
+                </li>
+                    
+    
+    
+        
+    
+                                    <li class="menu__item">
+                    <a class="menu__link" href="/idu/" data-event="251">Индивидуальное доверительное управление</a>
+                </li>
+                    
+    
+    
+        
+    
+                                    <li class="menu__item">
+                    <a class="menu__link" href="/corporate/">Корпоративные инвесторы</a>
+                </li>
+                    
+    
+    
+        
+    
+                                    <li class="menu__item">
+                    <a class="menu__link" href="/presscenter/">Новости и пресс-центр</a>
+                </li>
+                    
+    
+    
+        
+    
+                                    <li class="menu__item">
+                    <a class="menu__link" href="/analytics/">Аналитика</a>
+                </li>
+                    
+    
+    
+        
+    
+                                    <li class="menu__item">
+                    <a class="menu__link" href="/information/">Раскрытие информации</a>
+                </li>
+                    
+    
+    
+        
+    
+                                    <li class="menu__item">
+                    <a class="menu__link" href="/faq/" data-event="260">Вопросы и ответы</a>
+                </li>
+                    
+    
+    
+    
+    
+</ul>
+
+					
+<ul class="menu__column">
+
+
+
+
+		<div class="hide-mobile">
+	<li class="menu__item menu__item_phone">
+            <a href="tel:+74957779998" class="menu__link" data-event="252">+7 (495) 777-99-98</a>
+            <div class="menu__text"><span>с 9:00 до 18:00 по мск</span></div>
+          </li>
+		  </div>
+		
+
+	
+        
+    
+                                    <li class="menu__item">
+                    <a class="menu__link" href="/buy/" data-event="253">Где купить?</a>
+                </li>
+                    
+    
+    
+        
+    
+                                    <li class="menu__item">
+                    <a class="menu__link" href="/about/">О компании</a>
+                </li>
+                    
+    
+    
+        
+    
+                                    <li class="menu__item">
+                    <a class="menu__link" href="/contacts/" data-event="255">Контакты</a>
+                </li>
+                    
+    
+    
+        
+        <li class="menu__item menu__item_independent">
+        <a class="menu__link menu__link_interactiv" href="/interactive/">Интерактивные сервисы</a>
+        <ul class="menu__sublist">
+
+    
+    
+        
+    
+                                    <li class="menu__subitem">
+                    <a class="menu__sublink" href="/invest/" data-event="256">Инвестиционное планирование</a>
+                </li>
+                    
+    
+    
+        
+    
+                                    <li class="menu__subitem">
+                    <a class="menu__sublink" href="/invest-calculator/" data-event="257">Калькулятор доходности фондов</a>
+                </li>
+                    
+    
+    
+        
+    
+                                    <li class="menu__subitem">
+                    <a class="menu__sublink" href="/idu/?sect_id=1-4" data-event="258">Подбор стратегий доверительного управления</a>
+                </li>
+                    
+    
+    
+        
+    
+                                    <li class="menu__subitem">
+                    <a class="menu__sublink" href="/iis/?sect_id=1-5" data-event="259">Калькулятор ИИС</a>
+                </li>
+                    
+    
+    
+    
+            </ul></li>    
+</ul>
+
+				</div>
+			</div><!--//end menu-->
+			
+
+<div class="page__bg" style="background-image: url(&quot;/upload/iblock/ab9/4_1_.jpg&quot;); height: 187.203px;">
+</div>
+<div class="page__main">
+    <div class="page__head">
+        <div class="h1">Раскрытие информации</div>
+    </div>
+    <div class="page__content">
+        <div class="page__content-faq faq not_main">
+            <div class="faq__aside">
+                        <div class="faq__title ">
+                            <div class="faq__title-head not_open active" data-fq="63"><span class="lead">Управляющая компания</span></div>
+                                        <ul class="faq__menu">
+                                            <li class="faq__menu-link "><a href="/information/upravlyayushchaya-kompaniya/o-kompanii/">О компании ООО «УК «Райффайзен Капитал»</a></li>
+                                            <li class="faq__menu-link active"><a href="/information/upravlyayushchaya-kompaniya/otchetnost/">Отчетность</a></li>
+                                            <li class="faq__menu-link "><a href="/information/upravlyayushchaya-kompaniya/dokumenty/">Документы</a></li>
+                                            <li class="faq__menu-link "><a href="/information/upravlyayushchaya-kompaniya/arkhiv-informatsiya-ob-agentakh-uk-/">Информация об агентах УК </a></li>
+                                            <li class="faq__menu-link "><a href="/information/upravlyayushchaya-kompaniya/arkhiv-informatsiya-ob-agentakh-uk-i-ppz-priobreteniya-pogasheniya-i-obmena-pif-do-01-10-2021/"> Архив - информация об агентах УК и ППЗ приобретения, погашения и обмена ПИФ до 01.10.2021</a></li>
+                                    </ul>
+                    </div>
+                <div class="faq__title post_mn">
+                            <div class="faq__title-head not_open" data-fq="64"><span class="lead">Паевые инвестиционные фонды</span></div>
+                                        <ul class="faq__menu">
+                                            <li class="faq__menu-link "><a href="/information/paevye-investitsionnye-fondy/pravila-doveritelnogo-upravleniya/">Правила доверительного управления ПИФ </a></li>
+                                            <li class="faq__menu-link "><a href="/information/paevye-investitsionnye-fondy/obshchie-i-inye-svedeniya/">Сведения ПИФ</a></li>
+                                            <li class="faq__menu-link "><a href="/information/paevye-investitsionnye-fondy/inye-osnovnye-dokumenty/">Иные основные документы</a></li>
+                                            <li class="faq__menu-link "><a href="/information/paevye-investitsionnye-fondy/otchetnost-2/">Отчетность</a></li>
+                                            <li class="faq__menu-link "><a href="/information/paevye-investitsionnye-fondy/klyuchevoy-informatsionnyy-dokument/">Ключевой информационный документ</a></li>
+                                            <li class="faq__menu-link "><a href="/information/paevye-investitsionnye-fondy/rekvizity/">Реквизиты</a></li>
+                                            <li class="faq__menu-link "><a href="/information/paevye-investitsionnye-fondy/indeks-vysokodokhodnykh-korporativnykh-obligatsiy/">Индекс высокодоходных корпоративных облигаций</a></li>
+                                            <li class="faq__menu-link "><a href="/information/paevye-investitsionnye-fondy/indeks-rayffayzen-takticheskaya-strategiya-birzhevykh-fondov/">Индекс «Райффайзен Тактическая Стратегия Биржевых Фондов»</a></li>
+                                            <li class="faq__menu-link "><a href="/information/paevye-investitsionnye-fondy/indeks-rayffayzen-sbalansirovannaya-strategiya-birzhevykh-fondov/">Индекс «Райффайзен Сбалансированная Стратегия Биржевых Фондов»</a></li>
+                                            <li class="faq__menu-link "><a href="/information/paevye-investitsionnye-fondy/indeks-rayffayzen-evroobligatsii-em/">Индекс «Райффайзен — Еврооблигации ЕМ»</a></li>
+                                    </ul>
+                    </div>
+                <div class="faq__title post_mn">
+                            <div class="faq__title-head not_open" data-fq="65"><span class="lead">Индивидуальное доверительное управление</span></div>
+                                        <ul class="faq__menu">
+                                            <li class="faq__menu-link "><a href="/information/individualnoe-doveritelnoe-upravlenie/dogovory-doveritelnogo-upravleniya/">Договоры доверительного управления</a></li>
+                                            <li class="faq__menu-link "><a href="/information/individualnoe-doveritelnoe-upravlenie/dokumenty-k-dogovoram-doveritelnogo-upravleniya/">Документы к Договорам доверительного управления</a></li>
+                                            <li class="faq__menu-link "><a href="/information/individualnoe-doveritelnoe-upravlenie/dogovory-na-vedenie-iis/">Договоры на ведение ИИС (стандартные стратегии)</a></li>
+                                            <li class="faq__menu-link "><a href="/information/individualnoe-doveritelnoe-upravlenie/dokumenty-k-dogovoram-na-vedenie-iis-standartnye-strategii/">Документы к Договорам на ведение ИИС (стандартные стратегии)</a></li>
+                                            <li class="faq__menu-link "><a href="/information/individualnoe-doveritelnoe-upravlenie/arkhiv-dogovorov-i-dokumentov-individualnogo-doveritelnogo-upravleniya/">Архив договоров и документов Индивидуального доверительного управления (стандартные стратегии)</a></li>
+                                            <li class="faq__menu-link "><a href="/information/individualnoe-doveritelnoe-upravlenie/arkhiv-dogovorov-i-dokumentov-individualnogo-doveritelnogo-upravleniya-individualnye-strategii/">Архив договоров и документов Индивидуального доверительного управления (индивидуальные стратегии)</a></li>
+                                            <li class="faq__menu-link "><a href="/information/individualnoe-doveritelnoe-upravlenie/novosti-po-izmeneniyam/">Новости по изменениям</a></li>
+                                            <li class="faq__menu-link "><a href="/information/individualnoe-doveritelnoe-upravlenie/informatsiyu-dlya-fizicheskikh-lits-o-poryadke-peredachi-aktivov-pri-perekhode/">Информацию для физических лиц о порядке передачи/принятия активов при переходе от одного профессионального участника к другому</a></li>
+                                    </ul>
+                    </div>
+                <div class="faq__title post_mn">
+                            <div class="faq__title-head not_open icon-not" data-fq="454"><a href="/information/investitsionnoe-konsultirovanie-fizicheskikh-lits/" class="lead">Инвестиционное консультирование физических лиц</a></div>
+                                </div>
+                <div class="faq__title post_mn">
+                            <div class="faq__title-head not_open icon-not" data-fq="66"><a href="/information/message/" class="lead">Сообщения</a></div>
+                                </div>
+                <div class="faq__title post_mn">
+                            <div class="faq__title-head not_open icon-not" data-fq="67"><a href="/information/obyavleniya-o-planovykh-rabotakh-i-tekhnicheskikh-nepoladkakh-na-sayte/" class="lead">Объявления о плановых работах и технических неполадках на сайте</a></div>
+                                </div>
+                <div class="faq__title post_mn">
+                            <div class="faq__title-head not_open icon-not" data-fq="68"><a href="/information/perechen-insayderskoy-informatsii/" class="lead">Перечень инсайдерской информации</a></div>
+                                </div>
+                <div class="faq__title post_mn">
+                            <div class="faq__title-head not_open" data-fq="69"><span class="lead">Информация для клиентов</span></div>
+                                        <ul class="faq__menu">
+                                            <li class="faq__menu-link "><a href="/information/informatsiya-dlya-klientov/informatsiya-po-trebovaniyam-fatca/">Информация по требованиям FATCA</a></li>
+                                            <li class="faq__menu-link "><a href="/information/informatsiya-dlya-klientov/informatsiya-po-trebovaniyam-crs/">Информация по требованиям CRS</a></li>
+                                            <li class="faq__menu-link "><a href="/information/informatsiya-dlya-klientov/obnovlenie-svedeniy-o-klientakh-ooo-uk-rayffayzen-kapital/">Обновление сведений о клиентах ООО «УК «Райффайзен Капитал»</a></li>
+                                            <li class="faq__menu-link "><a href="/information/informatsiya-dlya-klientov/coglashenie-ob-elektronnom-dokumentooborote/">Cоглашение об электронном документообороте</a></li>
+                                    </ul>
+                    </div>
+                <div class="faq__title post_mn">
+                            <div class="faq__title-head not_open icon-not" data-fq="475"><a href="/information/informatsiya-dlya-partnerov/" class="lead">Информация для партнеров</a></div>
+                                </div>
+                <div class="faq__title post_mn">
+                            <div class="faq__title-head not_open icon-not" data-fq="70"><a href="/information/informatsiya-i-dokumenty/" class="lead">Информация, документы и уведомления в отношении услуг по договору доверительного управления (в том числе профессионального участника в соответствии с требованиями Положения 482-П от 03.08.2015 г.)</a></div>
+                                </div>
+                <div class="faq__title post_mn">
+                            <div class="faq__title-head not_open" data-fq="451"><span class="lead">Квалификация инвесторов</span></div>
+                                        <ul class="faq__menu">
+                                            <li class="faq__menu-link "><a href="/information/uvedomlenie-o-prave-klienta-podat-zayavlenie-ooo-uk-rayffayzen-kapital-ob-isklyuchenii-iz-reestra-li/uvedomlenie-o-prave-klienta-podat-zayavlenie-ob-isklyuchenii-iz-reestra-lits-priznannykh-kvalifitsir/">Уведомление о праве клиента подать заявление об исключении из реестра лиц, признанных квалифицированными инвесторами</a></li>
+                                            <li class="faq__menu-link "><a href="/information/uvedomlenie-o-prave-klienta-podat-zayavlenie-ooo-uk-rayffayzen-kapital-ob-isklyuchenii-iz-reestra-li/reglament-o-poryadke-priznaniya-lits-kvalifitsirovannymi-investorami/">Регламент о порядке признания лиц квалифицированными инвесторами</a></li>
+                                    </ul>
+                    </div>
+                <div class="faq__title post_mn">
+                            <div class="faq__title-head not_open" data-fq="399"><span class="lead">Обработка персональных данных</span></div>
+                                        <ul class="faq__menu">
+                                            <li class="faq__menu-link "><a href="/information/obrabotka-personalnykh-dannykh/edinyy-novyy-sopd-dlya-klientov/">Согласие на обработку персональных данных для клиентов</a></li>
+                                            <li class="faq__menu-link "><a href="/information/obrabotka-personalnykh-dannykh/sopd-dlya-posetiteley-sayta-/"> Согласие на обработку персональных данных для посетителей сайта </a></li>
+                                            <li class="faq__menu-link "><a href="/information/obrabotka-personalnykh-dannykh/perechen-kontragentov-v-otnoshenii-personalnykh-dannykh-klientov-v-ramkakh-dogovorov-doveritelnogo-u/">Перечень контрагентов в отношении персональных данных клиентов в рамках договоров доверительного управления</a></li>
+                                            <li class="faq__menu-link "><a href="/information/obrabotka-personalnykh-dannykh/perechen-kontragentov-v-otnoshenii-personalnykh-dannykh-klientov-fizicheskikh-lits-payshchikov/">Перечень контрагентов в отношении персональных данных клиентов по операциям с паями ПИФ</a></li>
+                                            <li class="faq__menu-link "><a href="/information/obrabotka-personalnykh-dannykh/politika-ooo-uk-rayffayzen-kapital-v-oblasti-obrabotki-personalnykh-dannykh/">Политика ООО "УК "Райффайзен Капитал" в области обработки персональных данных</a></li>
+                                    </ul>
+                    </div>
+                    </div>
+                        <div class="faq__main detail" data-elem="63">
+                <div class="faq__content-block__title">
+                    <h1>Отчетность</h1>
+                </div>
+                                
+    <div class="faq__content-filter">
+        <div class="jq-selectbox jqselect select_filter select_filter-info select_filter_scroll"><select class="select_filter select_filter-info select_filter_scroll" data-key="INFO_YEAR" data-id="5"><option value="2023" selected="" data-prop="INFO_YEAR" data-section="2">2023</option><option value="2022" data-prop="INFO_YEAR" data-section="2">2022</option><option value="2021" data-prop="INFO_YEAR" data-section="2">2021</option><option value="2020" data-prop="INFO_YEAR" data-section="2">2020</option><option value="2019" data-prop="INFO_YEAR" data-section="2">2019</option><option value="2018" data-prop="INFO_YEAR" data-section="2">2018</option><option value="2017" data-prop="INFO_YEAR" data-section="2">2017</option><option value="2016" data-prop="INFO_YEAR" data-section="2">2016</option><option value="2015" data-prop="INFO_YEAR" data-section="2">2015</option><option value="2014" data-prop="INFO_YEAR" data-section="2">2014</option><option value="2013" data-prop="INFO_YEAR" data-section="2">2013</option><option value="2012" data-prop="INFO_YEAR" data-section="2">2012</option><option value="2011" data-prop="INFO_YEAR" data-section="2">2011</option><option value="2010" data-prop="INFO_YEAR" data-section="2">2010</option><option value="2009" data-prop="INFO_YEAR" data-section="2">2009</option><option value="2007" data-prop="INFO_YEAR" data-section="2">2007</option></select><div class="jq-selectbox__select"><div class="jq-selectbox__select-text" style="width: 28.8967px;">2023</div><div class="jq-selectbox__trigger"><div class="jq-selectbox__trigger-arrow"></div></div></div><div class="jq-selectbox__dropdown" style="display: none;"><div class="scroll-wrapper" style="position: relative;"><ul class="scroll-content" style="height: auto; margin-bottom: 0px; margin-right: 0px; max-height: 0px;"><li data-section="2" data-prop="INFO_YEAR" class="selected sel" style="">2023</li><li data-section="2" data-prop="INFO_YEAR" style="">2022</li><li data-section="2" data-prop="INFO_YEAR" style="">2021</li><li data-section="2" data-prop="INFO_YEAR" style="">2020</li><li data-section="2" data-prop="INFO_YEAR" style="">2019</li><li data-section="2" data-prop="INFO_YEAR" style="">2018</li><li data-section="2" data-prop="INFO_YEAR" style="">2017</li><li data-section="2" data-prop="INFO_YEAR" style="">2016</li><li data-section="2" data-prop="INFO_YEAR" style="">2015</li><li data-section="2" data-prop="INFO_YEAR" style="">2014</li><li data-section="2" data-prop="INFO_YEAR" style="">2013</li><li data-section="2" data-prop="INFO_YEAR" style="">2012</li><li data-section="2" data-prop="INFO_YEAR" style="">2011</li><li data-section="2" data-prop="INFO_YEAR" style="">2010</li><li data-section="2" data-prop="INFO_YEAR" style="">2009</li><li data-section="2" data-prop="INFO_YEAR" style="">2007</li></ul><div class="scroll-element scroll-x"><div class="scroll-element_outer"><div class="scroll-element_size"></div><div class="scroll-element_track"></div><div class="scroll-bar"></div></div></div><div class="scroll-element scroll-y"><div class="scroll-element_outer"><div class="scroll-element_size"></div><div class="scroll-element_track"></div><div class="scroll-bar"></div></div></div></div></div></div>    </div><!--//end faq__content-filter-->
+                        <div class="faq__content-files not_cdk showMoreBtn" id="fcs">
+                                <div class="lead"><p>2 Квартал</p></div>                    <div class="list_files">
+                                                <div data-fl="0"><a href="/upload/iblock/704/csa03vxg0nm3w75ljlfyy3klgkx63842/RSS-_-may-2023.pdf" class="file">
+                                Расчет размера собственных средств на 31.05.2023 ООО «УК «Райффайзен Капитал»                                <nobr><span>(.pdf&nbsp;395.95 Kb)</span></nobr>
+                                <p>
+                                    16.06.2023 11:47:59 <span class="date_active">Доступен&nbsp;до:&nbsp;Бессрочно</span>
+                                </p>
+                            </a></div>
+                                                <div data-fl="1"><a href="/upload/iblock/b9e/uixvglgoa7mlw6u82nmp3ma995pxb9bt/RSS-_-april-2023.pdf" class="file">
+                                Расчет размера собственных средств на 30.04.2023 ООО «УК «Райффайзен Капитал»                                <nobr><span>(.pdf&nbsp;388.46 Kb)</span></nobr>
+                                <p>
+                                    18.05.2023 16:14:48 <span class="date_active">Доступен&nbsp;до:&nbsp;Бессрочно</span>
+                                </p>
+                            </a></div>
+                                            </div>
+                                    <div class="lead"><p>1 Квартал</p></div>                    <div class="list_files">
+                                                <div data-fl="2"><a href="/upload/iblock/627/nyqvfwesumiwy2ad7mp6ikyt6edlisc8/RSS-mart-2023.pdf" class="file">
+                                Расчет размера собственных средств на 31.03.2023 ООО «УК «Райффайзен Капитал»                                <nobr><span>(.pdf&nbsp;55.26 Kb)</span></nobr>
+                                <p>
+                                    17.04.2023 21:26:27 <span class="date_active">Доступен&nbsp;до:&nbsp;Бессрочно</span>
+                                </p>
+                            </a></div>
+                                                <div data-fl="3"><a href="/upload/iblock/be1/qf1gp4ewwwh1tsegvkdkd737gzy1j2z7/RSS-_-february-2023.pdf" class="file">
+                                Расчет размера собственных средств на 28.02.2023 ООО «УК «Райффайзен Капитал»                                <nobr><span>(.pdf&nbsp;55.42 Kb)</span></nobr>
+                                <p>
+                                    16.03.2023 12:24:03 <span class="date_active">Доступен&nbsp;до:&nbsp;Бессрочно</span>
+                                </p>
+                            </a></div>
+                                                <div data-fl="4"><a href="/upload/iblock/9e3/3p01116mki03sgj8kgdbturryja3sawo/RSS-_-january-2023.pdf" class="file">
+                                Расчет размера собственных средств на 31.01.2023 ООО «УК «Райффайзен Капитал»                                <nobr><span>(.pdf&nbsp;55.41 Kb)</span></nobr>
+                                <p>
+                                    15.02.2023 11:04:13 <span class="date_active">Доступен&nbsp;до:&nbsp;Бессрочно</span>
+                                </p>
+                            </a></div>
+                                            </div>
+                    </div>
+
+<script type="html/tpl" id="files-div">
+<div data-fl="{FL}">
+    <a href="{SRC}" class="file">
+        {NAME}
+        <nobr><span>({TYPE_SIZE})</span></nobr>
+        <p>{DATE_ACTIVE_FROM} <span class="date_active">{DATE_SPAN}</span></p>
+    </a>
+</div>
+</script>
+                                <noindex>
+    <h2 class="form_title_page">Подписка на раскрытие информации</h2>
+    <form name="information" id="form_information" action="/json/" role="form" method="POST" class="anim SubmitFormAjaxPage" novalidate="" style="width: auto;">
+
+                    
+                                    <div class="field">
+                        <label for="form_text_80">Имя</label>
+                        <input id="form_text_80" type="text" name="name" autocomplete="off" required="">
+                    </div>
+                
+                
+            
+                                    <div class="field">
+                        <label for="form_email_84">Электронная почта</label>
+                        <input id="form_email_84" type="email" name="email" autocomplete="off" required="">
+                    </div>
+                
+                
+            
+                
+                                    <div class="area">
+                        <label for="form_textarea_86">Просим написать, какая информация вас интересует: общие документы УК, документы по конкретному ПИФ или по всем ПИФ</label>
+                        <textarea id="form_textarea_86" name="text" required=""></textarea>
+                    </div>
+                
+                    
+        <div class="buttons">
+            <div class="checkbox form__data-processing" style="margin-left: 0 !important; margin-bottom: 2.22222vh;">
+                <input type="checkbox" id="feedBack_information" name="feedBack" required="" checked="" value="1">
+                <label for="feedBack_information">Согласен на обработку <a href="/personal-privacy/" target="_blank">персональных данных</a></label>
+            </div>
+            <input type="hidden" name="FORM_ID" value="28">
+            <input type="hidden" name="PARAMS_HASH" value="836ab83ada40bf1ce62c1a6edbd8302f">
+            <input type="hidden" name="go" value="information">
+                            <input type="hidden" name="recaptcha_information" id="recaptcha_information" data-badge="inline">
+                        <button type="submit" class="btn btn_yellow" value="Y" data-callback="onSubmit" data-badge="inline" data-sid="information" data-fid="28" data-tokenkey="6LcGHe0UAAAAALyQN2Cw3EvNUAlew-DL7Y8uSYv4">Отправить</button>
+        </div>
+
+    </form>
+</noindex>
+            </div>
+            <div class="faq__aside menu_mob">
+            <div class="faq__title">
+                            <div class="faq__title-head not_open"><span class="lead">Паевые инвестиционные фонды</span></div>
+                                        <ul class="faq__menu">
+                                            <li class="faq__menu-link "><a href="/information/paevye-investitsionnye-fondy/pravila-doveritelnogo-upravleniya/">Правила доверительного управления ПИФ </a></li>
+                                            <li class="faq__menu-link "><a href="/information/paevye-investitsionnye-fondy/obshchie-i-inye-svedeniya/">Сведения ПИФ</a></li>
+                                            <li class="faq__menu-link "><a href="/information/paevye-investitsionnye-fondy/inye-osnovnye-dokumenty/">Иные основные документы</a></li>
+                                            <li class="faq__menu-link "><a href="/information/paevye-investitsionnye-fondy/otchetnost-2/">Отчетность</a></li>
+                                            <li class="faq__menu-link "><a href="/information/paevye-investitsionnye-fondy/klyuchevoy-informatsionnyy-dokument/">Ключевой информационный документ</a></li>
+                                            <li class="faq__menu-link "><a href="/information/paevye-investitsionnye-fondy/rekvizity/">Реквизиты</a></li>
+                                            <li class="faq__menu-link "><a href="/information/paevye-investitsionnye-fondy/indeks-vysokodokhodnykh-korporativnykh-obligatsiy/">Индекс высокодоходных корпоративных облигаций</a></li>
+                                            <li class="faq__menu-link "><a href="/information/paevye-investitsionnye-fondy/indeks-rayffayzen-takticheskaya-strategiya-birzhevykh-fondov/">Индекс «Райффайзен Тактическая Стратегия Биржевых Фондов»</a></li>
+                                            <li class="faq__menu-link "><a href="/information/paevye-investitsionnye-fondy/indeks-rayffayzen-sbalansirovannaya-strategiya-birzhevykh-fondov/">Индекс «Райффайзен Сбалансированная Стратегия Биржевых Фондов»</a></li>
+                                            <li class="faq__menu-link "><a href="/information/paevye-investitsionnye-fondy/indeks-rayffayzen-evroobligatsii-em/">Индекс «Райффайзен — Еврооблигации ЕМ»</a></li>
+                                            <li class="faq__menu-link "><a href="/information/paevye-investitsionnye-fondy/pravila-doveritelnogo-upravleniya/">Правила доверительного управления ПИФ </a></li>
+                                            <li class="faq__menu-link "><a href="/information/paevye-investitsionnye-fondy/obshchie-i-inye-svedeniya/">Сведения ПИФ</a></li>
+                                            <li class="faq__menu-link "><a href="/information/paevye-investitsionnye-fondy/inye-osnovnye-dokumenty/">Иные основные документы</a></li>
+                                            <li class="faq__menu-link "><a href="/information/paevye-investitsionnye-fondy/otchetnost-2/">Отчетность</a></li>
+                                            <li class="faq__menu-link "><a href="/information/paevye-investitsionnye-fondy/klyuchevoy-informatsionnyy-dokument/">Ключевой информационный документ</a></li>
+                                            <li class="faq__menu-link "><a href="/information/paevye-investitsionnye-fondy/rekvizity/">Реквизиты</a></li>
+                                            <li class="faq__menu-link "><a href="/information/paevye-investitsionnye-fondy/indeks-vysokodokhodnykh-korporativnykh-obligatsiy/">Индекс высокодоходных корпоративных облигаций</a></li>
+                                            <li class="faq__menu-link "><a href="/information/paevye-investitsionnye-fondy/indeks-rayffayzen-takticheskaya-strategiya-birzhevykh-fondov/">Индекс «Райффайзен Тактическая Стратегия Биржевых Фондов»</a></li>
+                                            <li class="faq__menu-link "><a href="/information/paevye-investitsionnye-fondy/indeks-rayffayzen-sbalansirovannaya-strategiya-birzhevykh-fondov/">Индекс «Райффайзен Сбалансированная Стратегия Биржевых Фондов»</a></li>
+                                            <li class="faq__menu-link "><a href="/information/paevye-investitsionnye-fondy/indeks-rayffayzen-evroobligatsii-em/">Индекс «Райффайзен — Еврооблигации ЕМ»</a></li>
+                                    </ul>
+                    </div>
+                <div class="faq__title">
+                            <div class="faq__title-head not_open"><span class="lead">Индивидуальное доверительное управление</span></div>
+                                        <ul class="faq__menu">
+                                            <li class="faq__menu-link "><a href="/information/individualnoe-doveritelnoe-upravlenie/dogovory-doveritelnogo-upravleniya/">Договоры доверительного управления</a></li>
+                                            <li class="faq__menu-link "><a href="/information/individualnoe-doveritelnoe-upravlenie/dokumenty-k-dogovoram-doveritelnogo-upravleniya/">Документы к Договорам доверительного управления</a></li>
+                                            <li class="faq__menu-link "><a href="/information/individualnoe-doveritelnoe-upravlenie/dogovory-na-vedenie-iis/">Договоры на ведение ИИС (стандартные стратегии)</a></li>
+                                            <li class="faq__menu-link "><a href="/information/individualnoe-doveritelnoe-upravlenie/dokumenty-k-dogovoram-na-vedenie-iis-standartnye-strategii/">Документы к Договорам на ведение ИИС (стандартные стратегии)</a></li>
+                                            <li class="faq__menu-link "><a href="/information/individualnoe-doveritelnoe-upravlenie/arkhiv-dogovorov-i-dokumentov-individualnogo-doveritelnogo-upravleniya/">Архив договоров и документов Индивидуального доверительного управления (стандартные стратегии)</a></li>
+                                            <li class="faq__menu-link "><a href="/information/individualnoe-doveritelnoe-upravlenie/arkhiv-dogovorov-i-dokumentov-individualnogo-doveritelnogo-upravleniya-individualnye-strategii/">Архив договоров и документов Индивидуального доверительного управления (индивидуальные стратегии)</a></li>
+                                            <li class="faq__menu-link "><a href="/information/individualnoe-doveritelnoe-upravlenie/novosti-po-izmeneniyam/">Новости по изменениям</a></li>
+                                            <li class="faq__menu-link "><a href="/information/individualnoe-doveritelnoe-upravlenie/informatsiyu-dlya-fizicheskikh-lits-o-poryadke-peredachi-aktivov-pri-perekhode/">Информацию для физических лиц о порядке передачи/принятия активов при переходе от одного профессионального участника к другому</a></li>
+                                            <li class="faq__menu-link "><a href="/information/individualnoe-doveritelnoe-upravlenie/dogovory-doveritelnogo-upravleniya/">Договоры доверительного управления</a></li>
+                                            <li class="faq__menu-link "><a href="/information/individualnoe-doveritelnoe-upravlenie/dokumenty-k-dogovoram-doveritelnogo-upravleniya/">Документы к Договорам доверительного управления</a></li>
+                                            <li class="faq__menu-link "><a href="/information/individualnoe-doveritelnoe-upravlenie/dogovory-na-vedenie-iis/">Договоры на ведение ИИС (стандартные стратегии)</a></li>
+                                            <li class="faq__menu-link "><a href="/information/individualnoe-doveritelnoe-upravlenie/dokumenty-k-dogovoram-na-vedenie-iis-standartnye-strategii/">Документы к Договорам на ведение ИИС (стандартные стратегии)</a></li>
+                                            <li class="faq__menu-link "><a href="/information/individualnoe-doveritelnoe-upravlenie/arkhiv-dogovorov-i-dokumentov-individualnogo-doveritelnogo-upravleniya/">Архив договоров и документов Индивидуального доверительного управления (стандартные стратегии)</a></li>
+                                            <li class="faq__menu-link "><a href="/information/individualnoe-doveritelnoe-upravlenie/arkhiv-dogovorov-i-dokumentov-individualnogo-doveritelnogo-upravleniya-individualnye-strategii/">Архив договоров и документов Индивидуального доверительного управления (индивидуальные стратегии)</a></li>
+                                            <li class="faq__menu-link "><a href="/information/individualnoe-doveritelnoe-upravlenie/novosti-po-izmeneniyam/">Новости по изменениям</a></li>
+                                            <li class="faq__menu-link "><a href="/information/individualnoe-doveritelnoe-upravlenie/informatsiyu-dlya-fizicheskikh-lits-o-poryadke-peredachi-aktivov-pri-perekhode/">Информацию для физических лиц о порядке передачи/принятия активов при переходе от одного профессионального участника к другому</a></li>
+                                    </ul>
+                    </div>
+                <div class="faq__title">
+                            <div class="faq__title-head not_open icon-not"><a href="/information/investitsionnoe-konsultirovanie-fizicheskikh-lits/" class="lead">Инвестиционное консультирование физических лиц</a></div>
+                                </div>
+                <div class="faq__title">
+                            <div class="faq__title-head not_open icon-not"><a href="/information/message/" class="lead">Сообщения</a></div>
+                                </div>
+                <div class="faq__title">
+                            <div class="faq__title-head not_open icon-not"><a href="/information/obyavleniya-o-planovykh-rabotakh-i-tekhnicheskikh-nepoladkakh-na-sayte/" class="lead">Объявления о плановых работах и технических неполадках на сайте</a></div>
+                                </div>
+                <div class="faq__title">
+                            <div class="faq__title-head not_open icon-not"><a href="/information/perechen-insayderskoy-informatsii/" class="lead">Перечень инсайдерской информации</a></div>
+                                </div>
+                <div class="faq__title">
+                            <div class="faq__title-head not_open"><span class="lead">Информация для клиентов</span></div>
+                                        <ul class="faq__menu">
+                                            <li class="faq__menu-link "><a href="/information/informatsiya-dlya-klientov/informatsiya-po-trebovaniyam-fatca/">Информация по требованиям FATCA</a></li>
+                                            <li class="faq__menu-link "><a href="/information/informatsiya-dlya-klientov/informatsiya-po-trebovaniyam-crs/">Информация по требованиям CRS</a></li>
+                                            <li class="faq__menu-link "><a href="/information/informatsiya-dlya-klientov/obnovlenie-svedeniy-o-klientakh-ooo-uk-rayffayzen-kapital/">Обновление сведений о клиентах ООО «УК «Райффайзен Капитал»</a></li>
+                                            <li class="faq__menu-link "><a href="/information/informatsiya-dlya-klientov/coglashenie-ob-elektronnom-dokumentooborote/">Cоглашение об электронном документообороте</a></li>
+                                            <li class="faq__menu-link "><a href="/information/informatsiya-dlya-klientov/informatsiya-po-trebovaniyam-fatca/">Информация по требованиям FATCA</a></li>
+                                            <li class="faq__menu-link "><a href="/information/informatsiya-dlya-klientov/informatsiya-po-trebovaniyam-crs/">Информация по требованиям CRS</a></li>
+                                            <li class="faq__menu-link "><a href="/information/informatsiya-dlya-klientov/obnovlenie-svedeniy-o-klientakh-ooo-uk-rayffayzen-kapital/">Обновление сведений о клиентах ООО «УК «Райффайзен Капитал»</a></li>
+                                            <li class="faq__menu-link "><a href="/information/informatsiya-dlya-klientov/coglashenie-ob-elektronnom-dokumentooborote/">Cоглашение об электронном документообороте</a></li>
+                                    </ul>
+                    </div>
+                <div class="faq__title">
+                            <div class="faq__title-head not_open icon-not"><a href="/information/informatsiya-dlya-partnerov/" class="lead">Информация для партнеров</a></div>
+                                </div>
+                <div class="faq__title">
+                            <div class="faq__title-head not_open icon-not"><a href="/information/informatsiya-i-dokumenty/" class="lead">Информация, документы и уведомления в отношении услуг по договору доверительного управления (в том числе профессионального участника в соответствии с требованиями Положения 482-П от 03.08.2015 г.)</a></div>
+                                </div>
+                <div class="faq__title">
+                            <div class="faq__title-head not_open"><span class="lead">Квалификация инвесторов</span></div>
+                                        <ul class="faq__menu">
+                                            <li class="faq__menu-link "><a href="/information/uvedomlenie-o-prave-klienta-podat-zayavlenie-ooo-uk-rayffayzen-kapital-ob-isklyuchenii-iz-reestra-li/uvedomlenie-o-prave-klienta-podat-zayavlenie-ob-isklyuchenii-iz-reestra-lits-priznannykh-kvalifitsir/">Уведомление о праве клиента подать заявление об исключении из реестра лиц, признанных квалифицированными инвесторами</a></li>
+                                            <li class="faq__menu-link "><a href="/information/uvedomlenie-o-prave-klienta-podat-zayavlenie-ooo-uk-rayffayzen-kapital-ob-isklyuchenii-iz-reestra-li/reglament-o-poryadke-priznaniya-lits-kvalifitsirovannymi-investorami/">Регламент о порядке признания лиц квалифицированными инвесторами</a></li>
+                                            <li class="faq__menu-link "><a href="/information/uvedomlenie-o-prave-klienta-podat-zayavlenie-ooo-uk-rayffayzen-kapital-ob-isklyuchenii-iz-reestra-li/uvedomlenie-o-prave-klienta-podat-zayavlenie-ob-isklyuchenii-iz-reestra-lits-priznannykh-kvalifitsir/">Уведомление о праве клиента подать заявление об исключении из реестра лиц, признанных квалифицированными инвесторами</a></li>
+                                            <li class="faq__menu-link "><a href="/information/uvedomlenie-o-prave-klienta-podat-zayavlenie-ooo-uk-rayffayzen-kapital-ob-isklyuchenii-iz-reestra-li/reglament-o-poryadke-priznaniya-lits-kvalifitsirovannymi-investorami/">Регламент о порядке признания лиц квалифицированными инвесторами</a></li>
+                                    </ul>
+                    </div>
+                <div class="faq__title">
+                            <div class="faq__title-head not_open"><span class="lead">Обработка персональных данных</span></div>
+                                        <ul class="faq__menu">
+                                            <li class="faq__menu-link "><a href="/information/obrabotka-personalnykh-dannykh/edinyy-novyy-sopd-dlya-klientov/">Согласие на обработку персональных данных для клиентов</a></li>
+                                            <li class="faq__menu-link "><a href="/information/obrabotka-personalnykh-dannykh/sopd-dlya-posetiteley-sayta-/"> Согласие на обработку персональных данных для посетителей сайта </a></li>
+                                            <li class="faq__menu-link "><a href="/information/obrabotka-personalnykh-dannykh/perechen-kontragentov-v-otnoshenii-personalnykh-dannykh-klientov-v-ramkakh-dogovorov-doveritelnogo-u/">Перечень контрагентов в отношении персональных данных клиентов в рамках договоров доверительного управления</a></li>
+                                            <li class="faq__menu-link "><a href="/information/obrabotka-personalnykh-dannykh/perechen-kontragentov-v-otnoshenii-personalnykh-dannykh-klientov-fizicheskikh-lits-payshchikov/">Перечень контрагентов в отношении персональных данных клиентов по операциям с паями ПИФ</a></li>
+                                            <li class="faq__menu-link "><a href="/information/obrabotka-personalnykh-dannykh/politika-ooo-uk-rayffayzen-kapital-v-oblasti-obrabotki-personalnykh-dannykh/">Политика ООО "УК "Райффайзен Капитал" в области обработки персональных данных</a></li>
+                                            <li class="faq__menu-link "><a href="/information/obrabotka-personalnykh-dannykh/edinyy-novyy-sopd-dlya-klientov/">Согласие на обработку персональных данных для клиентов</a></li>
+                                            <li class="faq__menu-link "><a href="/information/obrabotka-personalnykh-dannykh/sopd-dlya-posetiteley-sayta-/"> Согласие на обработку персональных данных для посетителей сайта </a></li>
+                                            <li class="faq__menu-link "><a href="/information/obrabotka-personalnykh-dannykh/perechen-kontragentov-v-otnoshenii-personalnykh-dannykh-klientov-v-ramkakh-dogovorov-doveritelnogo-u/">Перечень контрагентов в отношении персональных данных клиентов в рамках договоров доверительного управления</a></li>
+                                            <li class="faq__menu-link "><a href="/information/obrabotka-personalnykh-dannykh/perechen-kontragentov-v-otnoshenii-personalnykh-dannykh-klientov-fizicheskikh-lits-payshchikov/">Перечень контрагентов в отношении персональных данных клиентов по операциям с паями ПИФ</a></li>
+                                            <li class="faq__menu-link "><a href="/information/obrabotka-personalnykh-dannykh/politika-ooo-uk-rayffayzen-kapital-v-oblasti-obrabotki-personalnykh-dannykh/">Политика ООО "УК "Райффайзен Капитал" в области обработки персональных данных</a></li>
+                                    </ul>
+                    </div>
+        </div>
+        </div>
+    </div>
+</div>
+
+
+</div>
+
+
+<noindex>
+    <div id="modalAsk" class="global__modal global__modal_ask">
+        <h4>Задать вопрос</h4>
+        <form name="feed_back_old" action="/information/upravlyayushchaya-kompaniya/otchetnost/" method="POST" enctype="multipart/form-data" class="anim feed_back_form" id="feed_back_form" novalidate="novalidate">
+            <input type="hidden" name="sessid" id="sessid" value="64e6454d2a25ee16e3ef97b040ca98f6">            <input type="hidden" name="FORM_ID" value="1">
+            <input type="hidden" name="PARAMS_HASH" value="4d3085eff00ab836218f36d0623875d4">
+            <input type="hidden" name="go" value="feed_back_old">
+            <div class="field">
+                <label for="form_text_1">ФИО</label>
+                <input type="text" name="form_text_1" id="form_text_1" class="input-validate_name" required="" autocomplete="off">
+            </div>
+            <div class="field ">
+                <label for="form_text_2">Телефон</label>
+                <input type="text" name="form_text_2" id="form_text_2" class="input-mask_phone" maxlength="18" required="" autocomplete="off">
+            </div>
+            <div class="field ">
+                <label for="form_text_3">E-mail</label>
+                <input type="email" name="form_text_3" id="form_text_3" required="" autocomplete="off">
+            </div>
+            <div class="area">
+                <label for="form_textarea_4">Написать сообщение</label>
+                <textarea name="form_textarea_4" id="form_textarea_4" required=""></textarea>
+            </div>
+            <div class="buttons">
+                <div class="checkbox form__data-processing">
+                    <input type="checkbox" id="feedBack" name="feedBack" required="" checked="">
+                    <label for="feedBack">Согласен на обработку <a href="/personal-privacy/" target="_blank">персональных данных</a></label>
+                </div>
+                                    <input type="hidden" name="recaptcha_feed_back_old" id="recaptcha_feed_back_old" data-badge="inline">
+                                <button class="btn" name="web_form_submit" type="submit" value="Y" data-callback="onSubmit" data-badge="inline" data-sid="feed_back_old" data-fid="1" data-tokenkey="6LcGHe0UAAAAALyQN2Cw3EvNUAlew-DL7Y8uSYv4">Сохранить</button>
+                            </div>
+        </form>
+    </div>
+</noindex>
+
+<noindex>
+    <div id="modalAskTop" class="global__modal global__modal_ask">
+        <h4>Оставьте отзыв о работе сайта</h4>
+        <form name="feed_back_top" action="/information/upravlyayushchaya-kompaniya/otchetnost/" method="POST" enctype="multipart/form-data" class="anim feed_back_form_top" id="feed_back_form_top" novalidate="novalidate">
+            <input type="hidden" name="sessid" id="sessid_1" value="64e6454d2a25ee16e3ef97b040ca98f6">            <input type="hidden" name="FORM_ID" value="5">
+            <input type="hidden" name="PARAMS_HASH" value="5af64840d95ee152e324f64f1b729feb">
+            <input type="hidden" name="go" value="feed_back_top">
+            <div class="field">
+                <label for="form_text_23">ФИО</label>
+                <input type="text" name="form_text_23" id="form_text_23" class="input-validate_name" required="" autocomplete="off">
+            </div>
+                        <div class="field ">
+                <label for="form_text_25">E-mail</label>
+                <input type="email" name="form_text_25" id="form_text_25" required="" autocomplete="off">
+            </div>
+            <div class="area">
+                <label for="form_textarea_26">Написать сообщение</label>
+                <textarea name="form_textarea_26" id="form_textarea_26" required=""></textarea>
+            </div>
+            <div class="buttons">
+                <div class="checkbox form__data-processing">
+                    <input type="checkbox" id="feedBack5" name="feedBack" required="" checked="">
+                    <label for="feedBack5">Согласен на обработку <a href="/personal-privacy/" target="_blank">персональных данных</a></label>
+                </div>
+                                    <input type="hidden" name="recaptcha_feed_back_top" id="recaptcha_feed_back_top" data-badge="inline">
+                                <button class="btn" name="web_form_submit" type="submit" value="Y" data-callback="onSubmit" data-badge="inline" data-sid="feed_back_top" data-fid="5" data-tokenkey="6LcGHe0UAAAAALyQN2Cw3EvNUAlew-DL7Y8uSYv4">Отправить</button>
+                            </div>
+        </form>
+    </div>
+</noindex>
+
+
+<div id="modalAskMessage" class="global__modal global__modal_message">
+    <h4>Спасибо!</h4>
+    <p>Ваше сообщение успешно отправлено.</p>
+</div>
+
+<div id="modalSubMessage" class="global__modal global__modal_message">
+    <h4>Спасибо!</h4>
+    <p class="update_sub">Ваша подписка была успешно обновлена!</p>
+    <p class="new_sub">На вашу почту отправлено письмо с подтверждением подписки!</p>
+</div>
+
+<footer class="footer">
+    <div class="footer__row">
+        <ul class="footer__menu show-tablet-only"><li class="footer__menu-item"><a href="/pifs/" class="footer__menu-link" data-event="287">Паевые фонды</a></li><li class="footer__menu-item"><a href="/bpifs/" class="footer__menu-link">БПИФ</a></li><li class="footer__menu-item"><a href="/iis/" class="footer__menu-link" data-event="288">Инвестиционный счет (ИИС)</a></li><li class="footer__menu-item"><a href="/idu/" class="footer__menu-link" data-event="289">Доверительное управление</a></li><li class="footer__menu-item"><a href="/analytics/" class="footer__menu-link">Аналитика</a></li></ul><ul class="footer__menu show-tablet-only"><li class="footer__menu-item"><a href="/about/" class="footer__menu-link">О компании</a></li><li class="footer__menu-item"><a href="/corporate/" class="footer__menu-link">Корпоративные клиенты</a></li><li class="footer__menu-item"><a href="/presscenter/" class="footer__menu-link">Новости и пресс-центр</a></li><li class="footer__menu-item"><a href="/information/" class="footer__menu-link">Раскрытие информации</a></li></ul><ul class="footer__menu show-desktop-only"><li class="footer__menu-item"><a href="/pifs/" class="footer__menu-link" data-event="287">Паевые фонды</a></li><li class="footer__menu-item"><a href="/bpifs/" class="footer__menu-link">БПИФ</a></li><li class="footer__menu-item"><a href="/iis/" class="footer__menu-link" data-event="288">Инвестиционный счет (ИИС)</a></li></ul><ul class="footer__menu show-desktop-only"><li class="footer__menu-item"><a href="/idu/" class="footer__menu-link" data-event="289">Доверительное управление</a></li><li class="footer__menu-item"><a href="/analytics/" class="footer__menu-link">Аналитика</a></li><li class="footer__menu-item"><a href="/about/" class="footer__menu-link">О компании</a></li></ul><ul class="footer__menu show-desktop-only"><li class="footer__menu-item"><a href="/corporate/" class="footer__menu-link">Корпоративные клиенты</a></li><li class="footer__menu-item"><a href="/presscenter/" class="footer__menu-link">Новости и пресс-центр</a></li><li class="footer__menu-item"><a href="/information/" class="footer__menu-link">Раскрытие информации</a></li></ul><ul class="footer__menu show-mobile">
+                                <li class="footer__menu-item"><a href="/pifs/" class="footer__menu-link" data-event="287">Паевые фонды</a></li>
+                    <li class="footer__menu-item"><a href="/bpifs/" class="footer__menu-link">БПИФ</a></li>
+                    <li class="footer__menu-item"><a href="/iis/" class="footer__menu-link" data-event="288">Инвестиционный счет (ИИС)</a></li>
+                    <li class="footer__menu-item"><a href="/idu/" class="footer__menu-link" data-event="289">Доверительное управление</a></li>
+        
+                                <li class="footer__menu-item"><a href="/analytics/" class="footer__menu-link">Аналитика</a></li>
+                    <li class="footer__menu-item"><a href="/about/" class="footer__menu-link">О компании</a></li>
+        
+                                <li class="footer__menu-item"><a href="/corporate/" class="footer__menu-link">Корпоративные клиенты</a></li>
+                    <li class="footer__menu-item"><a href="/presscenter/" class="footer__menu-link">Новости и пресс-центр</a></li>
+                    <li class="footer__menu-item"><a href="/information/" class="footer__menu-link">Раскрытие информации</a></li>
+        
+        </ul>
+        <div class="footer__contacts">
+            <div class="footer__contacts-item">
+                <span>Консультация:</span>
+                <a href="callto:+7 (495) 777-99-98" data-event="290">+7 (495) 777-99-98</a>
+            </div>
+            <div class="footer__contacts-item">
+                понедельник-пятница с 9:00 до 18:00 мск            </div>
+        </div>
+        <div class="footer__quest">
+            <a href="#modalAsk" class="btn" data-fancybox="" data-event="291">Задать вопрос онлайн</a>
+            <div>
+                <a href="/faq/" class="underline underline_nobg">Возможно, у нас уже есть ответ на Ваш вопрос</a>
+
+            </div>
+        </div>
+    </div>
+
+            <div class="footer__row_link">
+                        <div><a class="underline underline_nobg" href="#modalAskTop" rel="nofollow" data-fancybox="">Оставить отзыв о сайте</a></div>
+            <div><a href="/personal-data/" rel="nofollow" target="_blank" class="underline underline_nobg">Продолжая пользование сайтом, я выражаю согласие на обработку моих персональных данных</a></div>
+        </div>
+        <div class="footer__row f_disclaimer">
+        <p class="footer-text-copy"><noindex>&nbsp; &nbsp; &nbsp;Информация раскрывается на&nbsp;сайте по&nbsp;адресу:&nbsp;<a href="https://raiffeisen-capital.ru/">www.raiffeisen-capital.ru</a>, в случаях, предусмотренных нормативными актами в сфере финансовых рынков, в «Приложении к Вестнику ФСФР», а также&nbsp;<a href="https://e-disclosure.ru/portal/company.aspx?id=37192">https://e-disclosure.ru/portal/company.aspx?id=37192</a>. Получить подробную информацию о&nbsp;паевых инвестиционных фондах и&nbsp;ознакомиться с&nbsp;правилами доверительного управления паевыми инвестиционными фондами и&nbsp;иными документами можно по&nbsp;тел.: + 7&nbsp;495 745-52-10, +7&nbsp;495 777-99-98, по&nbsp;адресу: 119002, Москва, Смоленская-Сенная пл., 28.<br>
+ Агент&nbsp;по&nbsp;приему заявок на&nbsp;осуществление операций с&nbsp;инвестиционными паями:&nbsp; &nbsp; <br>
+ &nbsp; &nbsp; &nbsp;АО&nbsp;«Райффайзенбанк»&nbsp;— лицензия профессионального участника рынка ценных бумаг на&nbsp;осуществление брокерской деятельности, выданная ФКЦБ России №&nbsp;177-02900-100000 от&nbsp;27.11.00, срок действия лицензии не&nbsp;ограничен. Место нахождения:&nbsp;Российская Федерация, г. Москва&nbsp;(Адрес: Российская Федерация, 119002, г. Москва, Смоленская-Сенная площадь, дом 28), тел.: + 7&nbsp;495 721-91-00, 8&nbsp;800 700-91-00;<br>
+ &nbsp; &nbsp; &nbsp;Прежде чем приобрести инвестиционный пай, следует внимательно ознакомиться с&nbsp;правилами доверительного управления (далее – «ПДУ»):<br>
+ ~ Открытым паевым инвестиционным фондом (далее – «ОПИФ»)&nbsp;под управлением ООО «УК&nbsp;«Райффайзен Капитал»:&nbsp;<br>
+ ОПИФ рыночных финансовых инструментов «Райффайзен&nbsp;— Акции»&nbsp;— ПДУ № 0241-74050443&nbsp;зарегистрированы&nbsp;ФСФР России 04.08.04; ОПИФ рыночных финансовых инструментов «Райффайзен&nbsp;— Облигации»&nbsp;— ПДУ № 0242-74050284 зарегистрированы&nbsp;ФСФР России&nbsp;04.08.04; ОПИФ рыночных финансовых инструментов «Райффайзен&nbsp;— Дивидендные акции»&nbsp;— ПДУ № 0243-74050367 зарегистрированы&nbsp;ФСФР России&nbsp;04.08.04; ОПИФ рыночных финансовых инструментов «Райффайзен&nbsp;— США»&nbsp;— ПДУ № 0647-94120199 зарегистрированы&nbsp;ФСФР России 26.10.06; ОПИФ рыночных финансовых инструментов «Райффайзен&nbsp;— Потребительский сектор»&nbsp;— ПДУ № 0986-94131808 зарегистрированы&nbsp;ФСФР России 20.09.07; ОПИФ рыночных финансовых инструментов «Райффайзен&nbsp;— Сырьевой сектор»&nbsp;— ПДУ № 0987-94132127 зарегистрированы&nbsp;ФСФР России&nbsp;20.09.07; ОПИФ рыночных финансовых инструментов «Райффайзен&nbsp;— Информационные технологии»&nbsp;— ПДУ № 0988-94131961 зарегистрированы&nbsp;ФСФР России от&nbsp;20.09.07; ОПИФ рыночных финансовых инструментов «Райффайзен&nbsp;— Электроэнергетика»&nbsp;— ПДУ № 0981-94132044 зарегистрированы&nbsp;ФСФР России&nbsp;20.09.07; ОПИФ рыночных финансовых инструментов «Райффайзен&nbsp;— Индустриальный»&nbsp;— ПДУ № 0984-94131889 зарегистрированы&nbsp;ФСФР России&nbsp;20.09.07; ОПИФ рыночных финансовых инструментов «Райффайзен&nbsp;— Европа»&nbsp;— ПДУ №&nbsp;2063-94172606 зарегистрированы&nbsp;ФСФР России 22.02.11; ОПИФ рыночных финансовых инструментов «Райффайзен&nbsp;— Развивающиеся рынки»&nbsp;— ПДУ №&nbsp;2075-94172523 зарегистрированы&nbsp;ФСФР России&nbsp;03.03.11; ОПИФ рыночных финансовых инструментов «Райффайзен&nbsp;— Золото»&nbsp;— ПДУ №&nbsp;2241 зарегистрированы&nbsp;ФСФР России&nbsp;08.11.11; ОПИФ рыночных финансовых инструментов «Райффайзен&nbsp;— Корпоративные облигации»&nbsp;— ПДУ № 2260 зарегистрированы&nbsp;ФСФР России&nbsp;29.11.11; ОПИФ рыночных финансовых инструментов «Райффайзен&nbsp;— Фонд активного управления»&nbsp;— ПДУ №&nbsp;2261 зарегистрированы&nbsp;ФСФР России&nbsp;29.11.11; ОПИФ рыночных финансовых инструментов «Райффайзен&nbsp;— Долговые рынки развитых стран»&nbsp;— ПДУ №&nbsp;2356 зарегистрированы&nbsp;ФСФР России&nbsp;15.05.12;&nbsp;ОПИФ рыночных финансовых инструментов «Райффайзен – Ликвидная стратегия» ПДУ №&nbsp;5097 зарегистрированы ЦБ РФ 08.09.22.&nbsp;<br>
+ ~&nbsp;Биржевым паевым инвестиционным фондом (далее – «БПИФ»)&nbsp;под управлением ООО «УК&nbsp;«Райффайзен Капитал»:&nbsp;<br>
+ БПИФ рыночных финансовых инструментов «Райффайзен&nbsp;— Индекс МосБиржи полной доходности 15»&nbsp;— ПДУ №&nbsp;4027 зарегистрированы&nbsp;ЦБ РФ&nbsp;23.04.20; БПИФ рыночных финансовых инструментов «Райффайзен&nbsp;— Еврооблигации»&nbsp;— ПДУ №&nbsp;4154 зарегистрированы&nbsp;ЦБ РФ&nbsp;03.10.20; БПИФ рыночных финансовых инструментов «Райффайзен&nbsp;— Высокодоходные облигации»&nbsp;— ПДУ №&nbsp;4497 зарегистрированы&nbsp;ЦБ РФ&nbsp;08.07.21; БПИФ рыночных финансовых инструментов «Райффайзен&nbsp;— Фонд денежного рынка»&nbsp;— ПДУ №&nbsp;4507 зарегистрированы&nbsp;ЦБ РФ&nbsp;19.07.21; БПИФ рыночных финансовых инструментов «Райффайзен —&nbsp;Американские акции» — ПДУ №&nbsp;4562 зарегистрированы&nbsp;ЦБ РФ&nbsp;19.08.21; БПИФ&nbsp;рыночных финансовых инструментов&nbsp;«Райффайзен —&nbsp;Тактическая Стратегия Биржевых фондов» —&nbsp;ПДУ № 4626 зарегистрированы&nbsp;ЦБ РФ 30.09.21; БПИФ рыночных финансовых инструментов «Райффайзен —&nbsp;Сбалансированная Стратегия Биржевых фондов» — ПДУ № 4686 зарегистрированы&nbsp;ЦБ РФ 08.11.21; БПИФ рыночных финансовых инструментов «МЕТИБ —&nbsp;Акции, лидеры рынка» — ПДУ № 4740 зарегистрированы&nbsp;ЦБ РФ 02.12.21; БПИФ рыночных финансовых инструментов «МЕТИБ —&nbsp;Государственные облигации» — ПДУ № 4741 зарегистрированы&nbsp;ЦБ РФ 02.12.21, БПИФ рыночных финансовых инструментов «Райффайзен - Фонд денежного рынка валютный» — ПДУ № 5017&nbsp;зарегистрированы&nbsp;ЦБ РФ 30.06.22; &nbsp;БПИФ рыночных финансовых инструментов "Райффайзен - Золото" — ПДУ № 5059 зарегистрированы ЦБ РФ&nbsp;11.08.22.<br>
+ &nbsp; &nbsp; &nbsp;Стоимость инвестиционных паев может увеличиваться и&nbsp;уменьшаться. Результаты инвестирования в&nbsp;прошлом не&nbsp;определяют доходы в&nbsp;будущем. Взимание надбавок и&nbsp;скидок уменьшает доходность вложений в&nbsp;инвестиционные паи паевых инвестиционных фондов. Ни&nbsp;государство, ни&nbsp;управляющая компания не&nbsp;гарантируют доходность инвестиций в&nbsp;паевые инвестиционные фонды. <br>
+ &nbsp; &nbsp; &nbsp;Оказываемые управляющей компанией финансовые услуги не являются услугами по открытию банковских счетов и приему вкладов, а также накопительных счетов; денежные средства, передаваемые по договору доверительного управления, не подлежат страхованию в соответствии с Федеральным законом от 23 декабря 2003 года №177-ФЗ «О страховании вкладов физических лиц в банках Российской Федерации».&nbsp;<br>
+ &nbsp; &nbsp; &nbsp;ООО «УК&nbsp;«Райффайзен Капитал»&nbsp;— лицензия ФСФР России №&nbsp;21-000-1-00640 от&nbsp;21.04.09&nbsp;на осуществление деятельности по&nbsp;управлению инвестиционными фондами, паевыми инвестиционными фондами и&nbsp;негосударственными пенсионными фондами, лицензия ФСФР России №&nbsp;045-10230-001000 от&nbsp;31.05.07&nbsp;на осуществление деятельности по&nbsp;управлению ценными бумагами.&nbsp;188 млрд ₽&nbsp;объем активов под управлением — физические и юридические лица, на конец 2022 года. Топ-5 в рэнкинге управляющих компаний по объему активов в фондах по данным&nbsp;<a href="https://investfunds.ru/fund-rankings/uk-nav/?date=2022-12-30&amp;tId=0-4q">investfunds.ru&nbsp;</a>на конец 2022 года.&nbsp;Рейтинг AAA.am по оценке Национального рейтингового агентства <a href="https://www.ra-national.ru/organizatsii/rajffajzen-kapital/">подтвержден</a>
+02 июня 2023&nbsp;года.</noindex></p>            </div>
+    <a target="_blank" href="http://buroburo.ru" class="buroburo" rel="nofollow">
+        <img src="/local/templates/main/img/logo-buro.svg" alt="Сделано в БюроБюро">
+    </a>
+</footer>
+		<div class="fix_top_block">
+			<div id="cookie-policy-warning" class="">
+						<button class="fancybox-close-small" title="Close"></button>
+						<div class="cookie-text">
+						Райффайзен Капитал работает в обычном режиме. <a href="https://www.raiffeisen-capital.ru/presscenter/news/glavnoe-o-rabote-rayffayzen-kapital/">Ответы на частые вопросы</a>						</div>
+			</div>
+		</div>
+
+
+
+
+<script src="https://yastatic.net/share2/share.js" async="async"></script>
+<script type="text/javascript">(window.BX||top.BX).message({'pull_server_enabled':'N','pull_config_timestamp':'0','pull_guest_mode':'N','pull_guest_user_id':'0'});(window.BX||top.BX).message({'PULL_OLD_REVISION':'Для продолжения корректной работы с сайтом необходимо перезагрузить страницу.'});</script>
+
+<script type="text/javascript" src="/bitrix/js/pull/protobuf/protobuf.min.js?164814951776433"></script>
+<script type="text/javascript" src="/bitrix/js/pull/protobuf/model.min.js?164814951714190"></script>
+<script type="text/javascript" src="/bitrix/js/main/core/core_promise.min.js?16481490032490"></script>
+<script type="text/javascript" src="/bitrix/js/rest/client/rest.client.min.js?16481505089240"></script>
+<script type="text/javascript" src="/bitrix/js/pull/client/pull.client.min.js?167550950848293"></script>
+
+
+<script type="text/javascript" src="/bitrix/cache/js/s1/main/template_250c895bfa417f5f57af51a8775c6486/template_250c895bfa417f5f57af51a8775c6486_v1.js?16872776601816369"></script>
+<script type="text/javascript" src="/bitrix/cache/js/s1/main/page_0e6089580199151ebd3b0f095e42b2a5/page_0e6089580199151ebd3b0f095e42b2a5_v1.js?16872777457816"></script>
+
+
+<script type="text/javascript">
+    var $selectUF = {"UF_FILTER":["5"],"UF_SHOW_ELSE":null,"PAGE":10};
+    var $filesList = [{"NAME":"Расчет размера собственных средств на 31.05.2023 ООО «УК «Райффайзен Капитал»","DATE_ACTIVE_FROM":"16.06.2023 11:47:59","DATE_ACTIVE_TO":null,"DATE_SPAN":"Доступен&nbsp;до:&nbsp;Бессрочно","INFO_SUBSECTION_VALUE":"2 Квартал","INFO_SUBSECTION":"103","INFO_STRATEGY_VALUE":false,"INFO_STRATEGY":false,"INFO_FUND":false,"INFO_YEAR":"2023","TYPE_SIZE":".pdf&nbsp;395.95 Kb","SRC":"\/upload\/iblock\/704\/csa03vxg0nm3w75ljlfyy3klgkx63842\/RSS-_-may-2023.pdf","IBLOCK_SECTION_ID":"73"},{"NAME":"Расчет размера собственных средств на 30.04.2023 ООО «УК «Райффайзен Капитал»","DATE_ACTIVE_FROM":"18.05.2023 16:14:48","DATE_ACTIVE_TO":null,"DATE_SPAN":"Доступен&nbsp;до:&nbsp;Бессрочно","INFO_SUBSECTION_VALUE":"2 Квартал","INFO_SUBSECTION":"103","INFO_STRATEGY_VALUE":false,"INFO_STRATEGY":false,"INFO_FUND":false,"INFO_YEAR":"2023","TYPE_SIZE":".pdf&nbsp;388.46 Kb","SRC":"\/upload\/iblock\/b9e\/uixvglgoa7mlw6u82nmp3ma995pxb9bt\/RSS-_-april-2023.pdf","IBLOCK_SECTION_ID":"73"},{"NAME":"Расчет размера собственных средств на 31.03.2023 ООО «УК «Райффайзен Капитал»","DATE_ACTIVE_FROM":"17.04.2023 21:26:27","DATE_ACTIVE_TO":null,"DATE_SPAN":"Доступен&nbsp;до:&nbsp;Бессрочно","INFO_SUBSECTION_VALUE":"1 Квартал","INFO_SUBSECTION":"104","INFO_STRATEGY_VALUE":false,"INFO_STRATEGY":false,"INFO_FUND":false,"INFO_YEAR":"2023","TYPE_SIZE":".pdf&nbsp;55.26 Kb","SRC":"\/upload\/iblock\/627\/nyqvfwesumiwy2ad7mp6ikyt6edlisc8\/RSS-mart-2023.pdf","IBLOCK_SECTION_ID":"73"},{"NAME":"Расчет размера собственных средств на 28.02.2023 ООО «УК «Райффайзен Капитал»","DATE_ACTIVE_FROM":"16.03.2023 12:24:03","DATE_ACTIVE_TO":null,"DATE_SPAN":"Доступен&nbsp;до:&nbsp;Бессрочно","INFO_SUBSECTION_VALUE":"1 Квартал","INFO_SUBSECTION":"104","INFO_STRATEGY_VALUE":false,"INFO_STRATEGY":false,"INFO_FUND":false,"INFO_YEAR":"2023","TYPE_SIZE":".pdf&nbsp;55.42 Kb","SRC":"\/upload\/iblock\/be1\/qf1gp4ewwwh1tsegvkdkd737gzy1j2z7\/RSS-_-february-2023.pdf","IBLOCK_SECTION_ID":"73"},{"NAME":"Расчет размера собственных средств на 31.01.2023 ООО «УК «Райффайзен Капитал»","DATE_ACTIVE_FROM":"15.02.2023 11:04:13","DATE_ACTIVE_TO":null,"DATE_SPAN":"Доступен&nbsp;до:&nbsp;Бессрочно","INFO_SUBSECTION_VALUE":"1 Квартал","INFO_SUBSECTION":"104","INFO_STRATEGY_VALUE":false,"INFO_STRATEGY":false,"INFO_FUND":false,"INFO_YEAR":"2023","TYPE_SIZE":".pdf&nbsp;55.41 Kb","SRC":"\/upload\/iblock\/9e3\/3p01116mki03sgj8kgdbturryja3sawo\/RSS-_-january-2023.pdf","IBLOCK_SECTION_ID":"73"},{"NAME":"Расчет размера собственных средств на 31.12.2022 ООО «УК «Райффайзен Капитал» ","DATE_ACTIVE_FROM":"23.01.2023 10:55:53","DATE_ACTIVE_TO":null,"DATE_SPAN":"Доступен&nbsp;до:&nbsp;Бессрочно","INFO_SUBSECTION_VALUE":"4 Квартал","INFO_SUBSECTION":"101","INFO_STRATEGY_VALUE":false,"INFO_STRATEGY":false,"INFO_FUND":false,"INFO_YEAR":"2022","TYPE_SIZE":".pdf&nbsp;55.09 Kb","SRC":"\/upload\/iblock\/00d\/npxp3a83uxpy31m2090hj5yvwkd9vm1l\/RSS-DEC-2022.pdf","IBLOCK_SECTION_ID":"73"},{"NAME":"Расчет размера собственных средств на 30.11.2022 ООО «УК «Райффайзен Капитал»","DATE_ACTIVE_FROM":"15.12.2022 22:20:00","DATE_ACTIVE_TO":null,"DATE_SPAN":"Доступен&nbsp;до:&nbsp;Бессрочно","INFO_SUBSECTION_VALUE":"4 Квартал","INFO_SUBSECTION":"101","INFO_STRATEGY_VALUE":false,"INFO_STRATEGY":false,"INFO_FUND":false,"INFO_YEAR":"2022","TYPE_SIZE":".PDF&nbsp;55.42 Kb","SRC":"\/upload\/iblock\/b3c\/mmxx7mhn2w2icg1sthqctjl1cdy1gd1r\/RSS-2022_11.PDF","IBLOCK_SECTION_ID":"73"},{"NAME":"Расчет размера собственных средств на 31.10.2022 ООО «УК «Райффайзен Капитал»","DATE_ACTIVE_FROM":"16.11.2022 10:21:23","DATE_ACTIVE_TO":null,"DATE_SPAN":"Доступен&nbsp;до:&nbsp;Бессрочно","INFO_SUBSECTION_VALUE":"4 Квартал","INFO_SUBSECTION":"101","INFO_STRATEGY_VALUE":false,"INFO_STRATEGY":false,"INFO_FUND":false,"INFO_YEAR":"2022","TYPE_SIZE":".PDF&nbsp;55.25 Kb","SRC":"\/upload\/iblock\/b93\/gzp231rfkytan71rnyql0hl187gbw67q\/RSS_2022_10.PDF","IBLOCK_SECTION_ID":"73"},{"NAME":"Расчет размера собственных средств на 30.09.2022 ООО «УК «Райффайзен Капитал» -скорректированный","DATE_ACTIVE_FROM":"16.11.2022 10:20:40","DATE_ACTIVE_TO":null,"DATE_SPAN":"Доступен&nbsp;до:&nbsp;Бессрочно","INFO_SUBSECTION_VALUE":"3 Квартал","INFO_SUBSECTION":"102","INFO_STRATEGY_VALUE":false,"INFO_STRATEGY":false,"INFO_FUND":false,"INFO_YEAR":"2022","TYPE_SIZE":".PDF&nbsp;55.25 Kb","SRC":"\/upload\/iblock\/b7e\/dgu7zaro9gng1mva53j8j38pj388dg2k\/RSS-09_2022_corrected.PDF","IBLOCK_SECTION_ID":"73"},{"NAME":"Расчет размера собственных средств на 30.09.2022 ООО «УК «Райффайзен Капитал»","DATE_ACTIVE_FROM":"17.10.2022 09:39:51","DATE_ACTIVE_TO":null,"DATE_SPAN":"Доступен&nbsp;до:&nbsp;Бессрочно","INFO_SUBSECTION_VALUE":"3 Квартал","INFO_SUBSECTION":"102","INFO_STRATEGY_VALUE":false,"INFO_STRATEGY":false,"INFO_FUND":false,"INFO_YEAR":"2022","TYPE_SIZE":".pdf&nbsp;197.67 Kb","SRC":"\/upload\/iblock\/234\/x2ezlyzonpql3uu2t466bnrlsuvxhq1g\/RSS_2022_09.pdf","IBLOCK_SECTION_ID":"73"},{"NAME":"Расчет размера собственных средств на 31.08.2022 ООО «УК «Райффайзен Капитал»","DATE_ACTIVE_FROM":"15.09.2022 12:12:55","DATE_ACTIVE_TO":null,"DATE_SPAN":"Доступен&nbsp;до:&nbsp;Бессрочно","INFO_SUBSECTION_VALUE":"3 Квартал","INFO_SUBSECTION":"102","INFO_STRATEGY_VALUE":false,"INFO_STRATEGY":false,"INFO_FUND":false,"INFO_YEAR":"2022","TYPE_SIZE":".PDF&nbsp;54.98 Kb","SRC":"\/upload\/iblock\/6da\/3t20xkkyw0iff7zgm9kbmp50g5bw45uz\/RSS-avgust-2022.PDF","IBLOCK_SECTION_ID":"73"},{"NAME":"Расчет размера собственных средств на 31.07.2022 ООО «УК «Райффайзен Капитал» - скорректированный","DATE_ACTIVE_FROM":"31.08.2022 11:26:11","DATE_ACTIVE_TO":null,"DATE_SPAN":"Доступен&nbsp;до:&nbsp;Бессрочно","INFO_SUBSECTION_VALUE":"3 Квартал","INFO_SUBSECTION":"102","INFO_STRATEGY_VALUE":false,"INFO_STRATEGY":false,"INFO_FUND":false,"INFO_YEAR":"2022","TYPE_SIZE":".PDF&nbsp;55.2 Kb","SRC":"\/upload\/iblock\/e89\/njulkqmvonbcld45j4bhon5hajc95tor\/RSS_2022_07_corrected.PDF","IBLOCK_SECTION_ID":"73"},{"NAME":"Расчет размера собственных средств на 31.07.2022 ООО «УК «Райффайзен Капитал»","DATE_ACTIVE_FROM":"16.08.2022 18:08:55","DATE_ACTIVE_TO":null,"DATE_SPAN":"Доступен&nbsp;до:&nbsp;Бессрочно","INFO_SUBSECTION_VALUE":"3 Квартал","INFO_SUBSECTION":"102","INFO_STRATEGY_VALUE":false,"INFO_STRATEGY":false,"INFO_FUND":false,"INFO_YEAR":"2022","TYPE_SIZE":".PDF&nbsp;55.2 Kb","SRC":"\/upload\/iblock\/a69\/twu2hzeqmfdwf9v88j14rjkrxg71r9dz\/RSS_2022_07.PDF","IBLOCK_SECTION_ID":"73"},{"NAME":"Расчет размера собственных средств на 30.06.2022 ООО «УК «Райффайзен Капитал»","DATE_ACTIVE_FROM":"15.07.2022 15:56:53","DATE_ACTIVE_TO":null,"DATE_SPAN":"Доступен&nbsp;до:&nbsp;Бессрочно","INFO_SUBSECTION_VALUE":"2 Квартал","INFO_SUBSECTION":"103","INFO_STRATEGY_VALUE":false,"INFO_STRATEGY":false,"INFO_FUND":false,"INFO_YEAR":"2022","TYPE_SIZE":".PDF&nbsp;55.49 Kb","SRC":"\/upload\/iblock\/9e6\/xnmo2h8hhqal7n9myom2h8xc7s3hnxlz\/RSS_2022_06.PDF","IBLOCK_SECTION_ID":"73"},{"NAME":"Расчет размера собственных средств на 31.05.2022 ООО «УК «Райффайзен Капитал»","DATE_ACTIVE_FROM":"16.06.2022 17:35:05","DATE_ACTIVE_TO":null,"DATE_SPAN":"Доступен&nbsp;до:&nbsp;Бессрочно","INFO_SUBSECTION_VALUE":"2 Квартал","INFO_SUBSECTION":"103","INFO_STRATEGY_VALUE":false,"INFO_STRATEGY":false,"INFO_FUND":false,"INFO_YEAR":"2022","TYPE_SIZE":".pdf&nbsp;173.15 Kb","SRC":"\/upload\/iblock\/b5f\/2xdwz76z6bj6uxw0g771sx6ffxffdhmf\/RSS_2022_05.pdf","IBLOCK_SECTION_ID":"73"},{"NAME":"Расчет размера собственных средств на 30.04.2022 ООО «УК «Райффайзен Капитал»","DATE_ACTIVE_FROM":"23.05.2022 10:17:44","DATE_ACTIVE_TO":null,"DATE_SPAN":"Доступен&nbsp;до:&nbsp;Бессрочно","INFO_SUBSECTION_VALUE":"2 Квартал","INFO_SUBSECTION":"103","INFO_STRATEGY_VALUE":false,"INFO_STRATEGY":false,"INFO_FUND":false,"INFO_YEAR":"2022","TYPE_SIZE":".pdf&nbsp;174.6 Kb","SRC":"\/upload\/iblock\/ee0\/1utjrxt1jczitymy5xml15dbm8f16jos\/RSS_2022_04.pdf","IBLOCK_SECTION_ID":"73"},{"NAME":"Расчет размера собственных средств на 31.03.2022 ООО «УК «Райффайзен Капитал»","DATE_ACTIVE_FROM":"15.04.2022 10:47:49","DATE_ACTIVE_TO":null,"DATE_SPAN":"Доступен&nbsp;до:&nbsp;Бессрочно","INFO_SUBSECTION_VALUE":"1 Квартал","INFO_SUBSECTION":"104","INFO_STRATEGY_VALUE":false,"INFO_STRATEGY":false,"INFO_FUND":false,"INFO_YEAR":"2022","TYPE_SIZE":".pdf&nbsp;274.46 Kb","SRC":"\/upload\/iblock\/a01\/z0ecif9e4hit5t917j61n3vfm77szqym\/RSS_2022_03.pdf","IBLOCK_SECTION_ID":"73"},{"NAME":"Расчет размера собственных средств на 28.02.2022 ООО «УК «Райффайзен Капитал»","DATE_ACTIVE_FROM":"16.03.2022 13:57:19","DATE_ACTIVE_TO":null,"DATE_SPAN":"Доступен&nbsp;до:&nbsp;Бессрочно","INFO_SUBSECTION_VALUE":"1 Квартал","INFO_SUBSECTION":"104","INFO_STRATEGY_VALUE":false,"INFO_STRATEGY":false,"INFO_FUND":false,"INFO_YEAR":"2022","TYPE_SIZE":".pdf&nbsp;174.97 Kb","SRC":"\/upload\/iblock\/136\/RSS_2022_02.pdf","IBLOCK_SECTION_ID":"73"},{"NAME":"Расчет размера собственных средств на 31.01.2022 ООО «УК «Райффайзен Капитал»","DATE_ACTIVE_FROM":"15.02.2022 10:07:55","DATE_ACTIVE_TO":null,"DATE_SPAN":"Доступен&nbsp;до:&nbsp;Бессрочно","INFO_SUBSECTION_VALUE":"1 Квартал","INFO_SUBSECTION":"104","INFO_STRATEGY_VALUE":false,"INFO_STRATEGY":false,"INFO_FUND":false,"INFO_YEAR":"2022","TYPE_SIZE":".pdf&nbsp;385.96 Kb","SRC":"\/upload\/iblock\/d8e\/RSS_2022_01.pdf","IBLOCK_SECTION_ID":"73"},{"NAME":"Расчет размера собственных средств на 31.12.2021 г. ООО «УК «Райффайзен Капитал»","DATE_ACTIVE_FROM":"24.01.2022 08:09:48","DATE_ACTIVE_TO":null,"DATE_SPAN":"Доступен&nbsp;до:&nbsp;Бессрочно","INFO_SUBSECTION_VALUE":"4 Квартал","INFO_SUBSECTION":"101","INFO_STRATEGY_VALUE":false,"INFO_STRATEGY":false,"INFO_FUND":false,"INFO_YEAR":"2021","TYPE_SIZE":".pdf&nbsp;53.19 Kb","SRC":"\/upload\/iblock\/1be\/RSS-December-2021.pdf","IBLOCK_SECTION_ID":"73"},{"NAME":"Расчет размера собственных средств на 30.11.2021 г. ООО «УК «Райффайзен Капитал»","DATE_ACTIVE_FROM":"15.12.2021 13:59:03","DATE_ACTIVE_TO":null,"DATE_SPAN":"Доступен&nbsp;до:&nbsp;Бессрочно","INFO_SUBSECTION_VALUE":"4 Квартал","INFO_SUBSECTION":"101","INFO_STRATEGY_VALUE":["ИИС"],"INFO_STRATEGY":["171"],"INFO_FUND":false,"INFO_YEAR":"2021","TYPE_SIZE":".pdf&nbsp;53.46 Kb","SRC":"\/upload\/iblock\/6cf\/RSS-OCTOBER-2021.pdf","IBLOCK_SECTION_ID":"73"},{"NAME":"Расчет размера собственных средств на 31.10.2021 г. ООО «УК «Райффайзен Капитал»","DATE_ACTIVE_FROM":"22.11.2021 09:48:11","DATE_ACTIVE_TO":null,"DATE_SPAN":"Доступен&nbsp;до:&nbsp;Бессрочно","INFO_SUBSECTION_VALUE":"4 Квартал","INFO_SUBSECTION":"101","INFO_STRATEGY_VALUE":false,"INFO_STRATEGY":false,"INFO_FUND":false,"INFO_YEAR":"2021","TYPE_SIZE":".PDF&nbsp;53.3 Kb","SRC":"\/upload\/iblock\/695\/RSS_October_2021.PDF","IBLOCK_SECTION_ID":"73"},{"NAME":"Расчет размера собственных средств на 30.09.2021 г. ООО «УК «Райффайзен Капитал»","DATE_ACTIVE_FROM":"18.10.2021 08:53:44","DATE_ACTIVE_TO":null,"DATE_SPAN":"Доступен&nbsp;до:&nbsp;Бессрочно","INFO_SUBSECTION_VALUE":"3 Квартал","INFO_SUBSECTION":"102","INFO_STRATEGY_VALUE":false,"INFO_STRATEGY":false,"INFO_FUND":false,"INFO_YEAR":"2021","TYPE_SIZE":".pdf&nbsp;197.52 Kb","SRC":"\/upload\/iblock\/d3a\/_-_-2021.pdf","IBLOCK_SECTION_ID":"73"},{"NAME":"Расчет размера собственных средств на 31.08.2021 г. ООО «УК «Райффайзен Капитал»_cкорректированный ","DATE_ACTIVE_FROM":"28.09.2021 11:53:16","DATE_ACTIVE_TO":null,"DATE_SPAN":"Доступен&nbsp;до:&nbsp;Бессрочно","INFO_SUBSECTION_VALUE":"3 Квартал","INFO_SUBSECTION":"102","INFO_STRATEGY_VALUE":false,"INFO_STRATEGY":false,"INFO_FUND":false,"INFO_YEAR":"2021","TYPE_SIZE":".pdf&nbsp;179.78 Kb","SRC":"\/upload\/iblock\/730\/_-_-2021_.pdf","IBLOCK_SECTION_ID":"73"},{"NAME":"Расчет размера собственных средств на 31.07.2021 г. ООО «УК «Райффайзен Капитал»_скорректированный","DATE_ACTIVE_FROM":"28.09.2021 11:52:51","DATE_ACTIVE_TO":null,"DATE_SPAN":"Доступен&nbsp;до:&nbsp;Бессрочно","INFO_SUBSECTION_VALUE":"3 Квартал","INFO_SUBSECTION":"102","INFO_STRATEGY_VALUE":false,"INFO_STRATEGY":false,"INFO_FUND":false,"INFO_YEAR":"2021","TYPE_SIZE":".pdf&nbsp;178.87 Kb","SRC":"\/upload\/iblock\/2a0\/_-_-21_2.pdf","IBLOCK_SECTION_ID":"73"},{"NAME":"Расчет размера собственных средств на 31.08.2021 г. ООО «УК «Райффайзен Капитал»","DATE_ACTIVE_FROM":"17.09.2021 18:32:43","DATE_ACTIVE_TO":null,"DATE_SPAN":"Доступен&nbsp;до:&nbsp;Бессрочно","INFO_SUBSECTION_VALUE":"3 Квартал","INFO_SUBSECTION":"102","INFO_STRATEGY_VALUE":false,"INFO_STRATEGY":false,"INFO_FUND":false,"INFO_YEAR":"2021","TYPE_SIZE":".pdf&nbsp;396.27 Kb","SRC":"\/upload\/iblock\/6b6\/0241_.pdf","IBLOCK_SECTION_ID":"73"},{"NAME":"Расчет размера собственных средств на 31.07.2021 г. ООО «УК «Райффайзен Капитал»_скорректированный","DATE_ACTIVE_FROM":"31.08.2021 09:49:43","DATE_ACTIVE_TO":null,"DATE_SPAN":"Доступен&nbsp;до:&nbsp;Бессрочно","INFO_SUBSECTION_VALUE":"3 Квартал","INFO_SUBSECTION":"102","INFO_STRATEGY_VALUE":false,"INFO_STRATEGY":false,"INFO_FUND":false,"INFO_YEAR":"2021","TYPE_SIZE":".pdf&nbsp;178.89 Kb","SRC":"\/upload\/iblock\/6dc\/_-_-21_.pdf","IBLOCK_SECTION_ID":"73"},{"NAME":"Расчет размера собственных средств на 31.07.2021 г. ООО «УК «Райффайзен Капитал»","DATE_ACTIVE_FROM":"17.08.2021 11:22:09","DATE_ACTIVE_TO":null,"DATE_SPAN":"Доступен&nbsp;до:&nbsp;Бессрочно","INFO_SUBSECTION_VALUE":"3 Квартал","INFO_SUBSECTION":"102","INFO_STRATEGY_VALUE":false,"INFO_STRATEGY":false,"INFO_FUND":false,"INFO_YEAR":"2021","TYPE_SIZE":".PDF&nbsp;55.48 Kb","SRC":"\/upload\/iblock\/053\/0241_.PDF","IBLOCK_SECTION_ID":"73"},{"NAME":"Расчет размера собственных средств на 30.06.2021 г. ООО «УК «Райффайзен Капитал»","DATE_ACTIVE_FROM":"21.07.2021 17:15:04","DATE_ACTIVE_TO":null,"DATE_SPAN":"Доступен&nbsp;до:&nbsp;Бессрочно","INFO_SUBSECTION_VALUE":"2 Квартал","INFO_SUBSECTION":"103","INFO_STRATEGY_VALUE":false,"INFO_STRATEGY":false,"INFO_FUND":false,"INFO_YEAR":"2021","TYPE_SIZE":".pdf&nbsp;178.2 Kb","SRC":"\/upload\/iblock\/242\/_-_-_21.pdf","IBLOCK_SECTION_ID":"73"},{"NAME":"Расчет размера собственных средств на 31.05.2021 г. ООО «УК «Райффайзен Капитал»","DATE_ACTIVE_FROM":"22.06.2021 12:51:27","DATE_ACTIVE_TO":null,"DATE_SPAN":"Доступен&nbsp;до:&nbsp;Бессрочно","INFO_SUBSECTION_VALUE":"2 Квартал","INFO_SUBSECTION":"103","INFO_STRATEGY_VALUE":false,"INFO_STRATEGY":false,"INFO_FUND":false,"INFO_YEAR":"2021","TYPE_SIZE":".PDF&nbsp;55.47 Kb","SRC":"\/upload\/iblock\/a9d\/0241_.PDF","IBLOCK_SECTION_ID":"73"},{"NAME":"Расчет размера собственных средств на 30.04.2021 г. ООО «УК «Райффайзен Капитал»","DATE_ACTIVE_FROM":"26.05.2021 10:22:19","DATE_ACTIVE_TO":null,"DATE_SPAN":"Доступен&nbsp;до:&nbsp;Бессрочно","INFO_SUBSECTION_VALUE":"2 Квартал","INFO_SUBSECTION":"103","INFO_STRATEGY_VALUE":false,"INFO_STRATEGY":false,"INFO_FUND":false,"INFO_YEAR":"2021","TYPE_SIZE":".PDF&nbsp;201.42 Kb","SRC":"\/upload\/iblock\/240\/0241_.PDF","IBLOCK_SECTION_ID":"73"},{"NAME":"Расчет размера собственных средств на 31.03.2021 г. ООО «УК «Райффайзен Капитал»","DATE_ACTIVE_FROM":"16.04.2021 11:51:13","DATE_ACTIVE_TO":null,"DATE_SPAN":"Доступен&nbsp;до:&nbsp;Бессрочно","INFO_SUBSECTION_VALUE":"1 Квартал","INFO_SUBSECTION":"104","INFO_STRATEGY_VALUE":false,"INFO_STRATEGY":false,"INFO_FUND":false,"INFO_YEAR":"2021","TYPE_SIZE":".PDF&nbsp;55.5 Kb","SRC":"\/upload\/iblock\/bb4\/0241_.PDF","IBLOCK_SECTION_ID":"73"},{"NAME":"Расчет размера собственных средств на 28.02.2021 г. ООО «УК «Райффайзен Капитал»","DATE_ACTIVE_FROM":"17.03.2021 10:33:21","DATE_ACTIVE_TO":null,"DATE_SPAN":"Доступен&nbsp;до:&nbsp;Бессрочно","INFO_SUBSECTION_VALUE":"1 Квартал","INFO_SUBSECTION":"104","INFO_STRATEGY_VALUE":false,"INFO_STRATEGY":false,"INFO_FUND":false,"INFO_YEAR":"2021","TYPE_SIZE":".PDF&nbsp;55.49 Kb","SRC":"\/upload\/iblock\/23d\/0241_-_2_.PDF","IBLOCK_SECTION_ID":"73"},{"NAME":"Расчет размера собственных средств на 31.01.2021 г. ООО «УК «Райффайзен Капитал»","DATE_ACTIVE_FROM":"16.02.2021 11:02:10","DATE_ACTIVE_TO":null,"DATE_SPAN":"Доступен&nbsp;до:&nbsp;Бессрочно","INFO_SUBSECTION_VALUE":"1 Квартал","INFO_SUBSECTION":"104","INFO_STRATEGY_VALUE":false,"INFO_STRATEGY":false,"INFO_FUND":false,"INFO_YEAR":"2021","TYPE_SIZE":".PDF&nbsp;55.47 Kb","SRC":"\/upload\/iblock\/4a1\/0241_.PDF","IBLOCK_SECTION_ID":"73"},{"NAME":"Расчет размера собственных средств на 31.12.2020 г. ООО «УК «Райффайзен Капитал»","DATE_ACTIVE_FROM":"25.01.2021 15:29:48","DATE_ACTIVE_TO":null,"DATE_SPAN":"Доступен&nbsp;до:&nbsp;Бессрочно","INFO_SUBSECTION_VALUE":"4 Квартал","INFO_SUBSECTION":"101","INFO_STRATEGY_VALUE":false,"INFO_STRATEGY":false,"INFO_FUND":false,"INFO_YEAR":"2020","TYPE_SIZE":".PDF&nbsp;55.48 Kb","SRC":"\/upload\/iblock\/be5\/0241_.PDF","IBLOCK_SECTION_ID":"73"},{"NAME":"Расчет размера собственных средств на 30.11.2020 г. ООО «УК «Райффайзен Капитал»","DATE_ACTIVE_FROM":"15.12.2020 13:11:38","DATE_ACTIVE_TO":null,"DATE_SPAN":"Доступен&nbsp;до:&nbsp;Бессрочно","INFO_SUBSECTION_VALUE":"4 Квартал","INFO_SUBSECTION":"101","INFO_STRATEGY_VALUE":false,"INFO_STRATEGY":false,"INFO_FUND":false,"INFO_YEAR":"2020","TYPE_SIZE":".pdf&nbsp;55.5 Kb","SRC":"\/upload\/iblock\/dca\/NSO_UK_0420514_.pdf","IBLOCK_SECTION_ID":"73"},{"NAME":"Расчет размера собственных средств на 31.10.2020 г. ООО «УК «Райффайзен Капитал»","DATE_ACTIVE_FROM":"17.11.2020 14:43:15","DATE_ACTIVE_TO":null,"DATE_SPAN":"Доступен&nbsp;до:&nbsp;Бессрочно","INFO_SUBSECTION_VALUE":"4 Квартал","INFO_SUBSECTION":"101","INFO_STRATEGY_VALUE":false,"INFO_STRATEGY":false,"INFO_FUND":false,"INFO_YEAR":"2020","TYPE_SIZE":".PDF&nbsp;55.5 Kb","SRC":"\/upload\/iblock\/607\/31.10.2020_RSS.PDF","IBLOCK_SECTION_ID":"73"},{"NAME":"Расчет размера собственных средств на 30.09.2020 г. ООО «УК «Райффайзен Капитал»","DATE_ACTIVE_FROM":"15.10.2020 14:48:32","DATE_ACTIVE_TO":null,"DATE_SPAN":"Доступен&nbsp;до:&nbsp;Бессрочно","INFO_SUBSECTION_VALUE":"3 Квартал","INFO_SUBSECTION":"102","INFO_STRATEGY_VALUE":false,"INFO_STRATEGY":false,"INFO_FUND":false,"INFO_YEAR":"2020","TYPE_SIZE":".pdf&nbsp;408.97 Kb","SRC":"\/upload\/iblock\/d37\/30092020_RSS.pdf","IBLOCK_SECTION_ID":"73"},{"NAME":"Расчет размера собственных средств на 31.08.2020 г. ООО «УК «Райффайзен Капитал»","DATE_ACTIVE_FROM":"15.09.2020 10:42:56","DATE_ACTIVE_TO":null,"DATE_SPAN":"Доступен&nbsp;до:&nbsp;Бессрочно","INFO_SUBSECTION_VALUE":"3 Квартал","INFO_SUBSECTION":"102","INFO_STRATEGY_VALUE":false,"INFO_STRATEGY":false,"INFO_FUND":false,"INFO_YEAR":"2020","TYPE_SIZE":".pdf&nbsp;409.03 Kb","SRC":"\/upload\/iblock\/2ff\/31082020_RSS.pdf","IBLOCK_SECTION_ID":"73"},{"NAME":"Расчет размера собственных средств на 31.07.2020 г. ООО «УК «Райффайзен Капитал»","DATE_ACTIVE_FROM":"17.08.2020 12:30:00","DATE_ACTIVE_TO":null,"DATE_SPAN":"Доступен&nbsp;до:&nbsp;Бессрочно","INFO_SUBSECTION_VALUE":"3 Квартал","INFO_SUBSECTION":"102","INFO_STRATEGY_VALUE":false,"INFO_STRATEGY":false,"INFO_FUND":false,"INFO_YEAR":"2020","TYPE_SIZE":".pdf&nbsp;409.21 Kb","SRC":"\/upload\/iblock\/4df\/31072020_RSS.pdf","IBLOCK_SECTION_ID":"73"},{"NAME":"Расчет размера собственных средств на 30.06.2020 г. ООО «УК «Райффайзен Капитал»","DATE_ACTIVE_FROM":"16.07.2020 18:40:05","DATE_ACTIVE_TO":null,"DATE_SPAN":"Доступен&nbsp;до:&nbsp;Бессрочно","INFO_SUBSECTION_VALUE":"2 Квартал","INFO_SUBSECTION":"103","INFO_STRATEGY_VALUE":false,"INFO_STRATEGY":false,"INFO_FUND":false,"INFO_YEAR":"2020","TYPE_SIZE":".pdf&nbsp;408.41 Kb","SRC":"\/upload\/iblock\/3d7\/1953_NSO_UK_0420514.pdf","IBLOCK_SECTION_ID":"73"},{"NAME":"Расчет размера собственных средств на 31.05.2020 г. ООО «УК «Райффайзен Капитал»","DATE_ACTIVE_FROM":"16.06.2020 12:18:35","DATE_ACTIVE_TO":null,"DATE_SPAN":"Доступен&nbsp;до:&nbsp;Бессрочно","INFO_SUBSECTION_VALUE":"2 Квартал","INFO_SUBSECTION":"103","INFO_STRATEGY_VALUE":false,"INFO_STRATEGY":false,"INFO_FUND":false,"INFO_YEAR":"2020","TYPE_SIZE":".pdf&nbsp;56.3 Kb","SRC":"\/upload\/iblock\/5fe\/31052020_RSS.pdf","IBLOCK_SECTION_ID":"73"},{"NAME":"Расчет размера собственных средств на 30.04.2020 г. ООО «УК «Райффайзен Капитал»","DATE_ACTIVE_FROM":"21.05.2020 12:57:09","DATE_ACTIVE_TO":null,"DATE_SPAN":"Доступен&nbsp;до:&nbsp;Бессрочно","INFO_SUBSECTION_VALUE":"2 Квартал","INFO_SUBSECTION":"103","INFO_STRATEGY_VALUE":false,"INFO_STRATEGY":false,"INFO_FUND":false,"INFO_YEAR":"2020","TYPE_SIZE":".pdf&nbsp;56.28 Kb","SRC":"\/upload\/iblock\/9cb\/30.04.2020_RSS.pdf","IBLOCK_SECTION_ID":"73"},{"NAME":"Расчет размера собственных средств на 31.03.2020 г. ООО «УК «Райффайзен Капитал»","DATE_ACTIVE_FROM":"15.04.2020 17:43:27","DATE_ACTIVE_TO":null,"DATE_SPAN":"Доступен&nbsp;до:&nbsp;Бессрочно","INFO_SUBSECTION_VALUE":"1 Квартал","INFO_SUBSECTION":"104","INFO_STRATEGY_VALUE":false,"INFO_STRATEGY":false,"INFO_FUND":false,"INFO_YEAR":"2020","TYPE_SIZE":".pdf&nbsp;56.28 Kb","SRC":"\/upload\/iblock\/5d4\/31032020_RSS.pdf","IBLOCK_SECTION_ID":"73"},{"NAME":"Расчет размера собственных средств на 29.02.2020 г. ООО «УК «Райффайзен Капитал»","DATE_ACTIVE_FROM":"18.03.2020 11:55:40","DATE_ACTIVE_TO":null,"DATE_SPAN":"Доступен&nbsp;до:&nbsp;Бессрочно","INFO_SUBSECTION_VALUE":"1 Квартал","INFO_SUBSECTION":"104","INFO_STRATEGY_VALUE":false,"INFO_STRATEGY":false,"INFO_FUND":false,"INFO_YEAR":"2020","TYPE_SIZE":".pdf&nbsp;523.73 Kb","SRC":"\/upload\/iblock\/92d\/29022020_RSS.pdf","IBLOCK_SECTION_ID":"73"},{"NAME":"Расчет размера собственных средств на 31.01.2020 г. ООО «УК «Райффайзен Капитал»_скорректированный","DATE_ACTIVE_FROM":"12.03.2020 11:36:35","DATE_ACTIVE_TO":null,"DATE_SPAN":"Доступен&nbsp;до:&nbsp;Бессрочно","INFO_SUBSECTION_VALUE":"1 Квартал","INFO_SUBSECTION":"104","INFO_STRATEGY_VALUE":false,"INFO_STRATEGY":false,"INFO_FUND":false,"INFO_YEAR":"2020","TYPE_SIZE":".pdf&nbsp;510.01 Kb","SRC":"\/upload\/iblock\/7a2\/31012020_RSS_korr.pdf","IBLOCK_SECTION_ID":"73"},{"NAME":"Расчет размера собственных средств на 31.12.2019 г. ООО «УК «Райффайзен Капитал»_скорректированный","DATE_ACTIVE_FROM":"12.03.2020 11:34:50","DATE_ACTIVE_TO":null,"DATE_SPAN":"Доступен&nbsp;до:&nbsp;Бессрочно","INFO_SUBSECTION_VALUE":"4 Квартал","INFO_SUBSECTION":"101","INFO_STRATEGY_VALUE":false,"INFO_STRATEGY":false,"INFO_FUND":false,"INFO_YEAR":"2019","TYPE_SIZE":".pdf&nbsp;507.46 Kb","SRC":"\/upload\/iblock\/224\/31122019_RSS_korr.pdf","IBLOCK_SECTION_ID":"73"},{"NAME":"Расчет размера собственных средств на 31.01.2020 г. ООО «УК «Райффайзен Капитал»","DATE_ACTIVE_FROM":"17.02.2020 16:25:54","DATE_ACTIVE_TO":null,"DATE_SPAN":"Доступен&nbsp;до:&nbsp;Бессрочно","INFO_SUBSECTION_VALUE":"1 Квартал","INFO_SUBSECTION":"104","INFO_STRATEGY_VALUE":false,"INFO_STRATEGY":false,"INFO_FUND":false,"INFO_YEAR":"2020","TYPE_SIZE":".pdf&nbsp;510.83 Kb","SRC":"\/upload\/iblock\/e46\/514_31012020.pdf","IBLOCK_SECTION_ID":"73"},{"NAME":"Расчет размера собственных средств на 31.12.2019 г. ООО «УК «Райффайзен Капитал»_скорректированный","DATE_ACTIVE_FROM":"14.02.2020 13:32:57","DATE_ACTIVE_TO":null,"DATE_SPAN":"Доступен&nbsp;до:&nbsp;Бессрочно","INFO_SUBSECTION_VALUE":"4 Квартал","INFO_SUBSECTION":"101","INFO_STRATEGY_VALUE":false,"INFO_STRATEGY":false,"INFO_FUND":false,"INFO_YEAR":"2019","TYPE_SIZE":".pdf&nbsp;508.81 Kb","SRC":"\/upload\/iblock\/36a\/31122019_RSS_korr.pdf","IBLOCK_SECTION_ID":"73"},{"NAME":"Расчет размера собственных средств на 31.12.2019 г. ООО «УК «Райффайзен Капитал»","DATE_ACTIVE_FROM":"28.01.2020 17:41:16","DATE_ACTIVE_TO":null,"DATE_SPAN":"Доступен&nbsp;до:&nbsp;Бессрочно","INFO_SUBSECTION_VALUE":"4 Квартал","INFO_SUBSECTION":"101","INFO_STRATEGY_VALUE":false,"INFO_STRATEGY":false,"INFO_FUND":false,"INFO_YEAR":"2019","TYPE_SIZE":".pdf&nbsp;533.25 Kb","SRC":"\/upload\/iblock\/4ee\/RR-SS-na-31.12.2019.pdf","IBLOCK_SECTION_ID":"73"},{"NAME":"Расчет размера собственных средств на 30.11.2019 г. ООО «УК «Райффайзен Капитал» ","DATE_ACTIVE_FROM":"24.12.2019 10:33:15","DATE_ACTIVE_TO":null,"DATE_SPAN":"Доступен&nbsp;до:&nbsp;Бессрочно","INFO_SUBSECTION_VALUE":"4 Квартал","INFO_SUBSECTION":"101","INFO_STRATEGY_VALUE":false,"INFO_STRATEGY":false,"INFO_FUND":false,"INFO_YEAR":"2019","TYPE_SIZE":".pdf&nbsp;68.67 Kb","SRC":"\/upload\/iblock\/660\/RRRSS-na-30.11.2019.pdf","IBLOCK_SECTION_ID":"73"},{"NAME":"Расчет размера собственных средств на 31.10.2019 г. ООО «УК «Райффайзен Капитал» ","DATE_ACTIVE_FROM":"20.11.2019 12:31:23","DATE_ACTIVE_TO":null,"DATE_SPAN":"Доступен&nbsp;до:&nbsp;Бессрочно","INFO_SUBSECTION_VALUE":"4 Квартал","INFO_SUBSECTION":"101","INFO_STRATEGY_VALUE":false,"INFO_STRATEGY":false,"INFO_FUND":false,"INFO_YEAR":"2019","TYPE_SIZE":".pdf&nbsp;64.01 Kb","SRC":"\/upload\/iblock\/29d\/RRRSS-na-31.10.2019.pdf","IBLOCK_SECTION_ID":"73"},{"NAME":"Расчет размера собственных средств на 30.09.2019 г. ООО «УК «Райффайзен Капитал» ","DATE_ACTIVE_FROM":"22.10.2019 11:15:39","DATE_ACTIVE_TO":null,"DATE_SPAN":"Доступен&nbsp;до:&nbsp;Бессрочно","INFO_SUBSECTION_VALUE":"3 Квартал","INFO_SUBSECTION":"102","INFO_STRATEGY_VALUE":false,"INFO_STRATEGY":false,"INFO_FUND":false,"INFO_YEAR":"2019","TYPE_SIZE":".pdf&nbsp;65.39 Kb","SRC":"\/upload\/iblock\/e52\/RRRSS-na-30.09.2019.pdf","IBLOCK_SECTION_ID":"73"},{"NAME":"Расчет размера собственных средств на 31.08.2019 г. ООО «УК «Райффайзен Капитал» ","DATE_ACTIVE_FROM":"18.09.2019 11:43:36","DATE_ACTIVE_TO":null,"DATE_SPAN":"Доступен&nbsp;до:&nbsp;Бессрочно","INFO_SUBSECTION_VALUE":"3 Квартал","INFO_SUBSECTION":"102","INFO_STRATEGY_VALUE":false,"INFO_STRATEGY":false,"INFO_FUND":false,"INFO_YEAR":"2019","TYPE_SIZE":".pdf&nbsp;67.25 Kb","SRC":"\/upload\/iblock\/669\/RRRSS-na-31.08.2019.pdf","IBLOCK_SECTION_ID":"73"},{"NAME":"Расчет размера собственных средств на 31.07.2019 г. ООО «УК «Райффайзен Капитал» ","DATE_ACTIVE_FROM":"20.08.2019 11:36:54","DATE_ACTIVE_TO":null,"DATE_SPAN":"Доступен&nbsp;до:&nbsp;Бессрочно","INFO_SUBSECTION_VALUE":"3 Квартал","INFO_SUBSECTION":"102","INFO_STRATEGY_VALUE":false,"INFO_STRATEGY":false,"INFO_FUND":false,"INFO_YEAR":"2019","TYPE_SIZE":".pdf&nbsp;68.19 Kb","SRC":"\/upload\/iblock\/054\/RRRSS-na-31.07.2019.pdf","IBLOCK_SECTION_ID":"73"},{"NAME":"Расчет размера собственных средств на 30.06.2019 г. ООО «УК «Райффайзен Капитал» ","DATE_ACTIVE_FROM":"23.07.2019 12:26:33","DATE_ACTIVE_TO":null,"DATE_SPAN":"Доступен&nbsp;до:&nbsp;Бессрочно","INFO_SUBSECTION_VALUE":"2 Квартал","INFO_SUBSECTION":"103","INFO_STRATEGY_VALUE":false,"INFO_STRATEGY":false,"INFO_FUND":false,"INFO_YEAR":"2019","TYPE_SIZE":".pdf&nbsp;64.67 Kb","SRC":"\/upload\/iblock\/4cf\/RRRSS-na-30.06.2019.pdf","IBLOCK_SECTION_ID":"73"},{"NAME":"Расчет размера собственных средств на 31.05.2019 г. ООО «УК «Райффайзен Капитал» ","DATE_ACTIVE_FROM":"28.06.2019 13:58:29","DATE_ACTIVE_TO":null,"DATE_SPAN":"Доступен&nbsp;до:&nbsp;Бессрочно","INFO_SUBSECTION_VALUE":"2 Квартал","INFO_SUBSECTION":"103","INFO_STRATEGY_VALUE":false,"INFO_STRATEGY":false,"INFO_FUND":false,"INFO_YEAR":"2019","TYPE_SIZE":".pdf&nbsp;60.87 Kb","SRC":"\/upload\/iblock\/1b3\/RRRSS-na-31.05.2019.pdf","IBLOCK_SECTION_ID":"73"},{"NAME":"Расчет размера собственных средств на 30.04.2019 г. ООО «УК «Райффайзен Капитал» ","DATE_ACTIVE_FROM":"30.05.2019 10:37:53","DATE_ACTIVE_TO":null,"DATE_SPAN":"Доступен&nbsp;до:&nbsp;Бессрочно","INFO_SUBSECTION_VALUE":"2 Квартал","INFO_SUBSECTION":"103","INFO_STRATEGY_VALUE":false,"INFO_STRATEGY":false,"INFO_FUND":false,"INFO_YEAR":"2019","TYPE_SIZE":".pdf&nbsp;247.07 Kb","SRC":"\/upload\/iblock\/767\/RRRSS-na-30.04.2019.pdf","IBLOCK_SECTION_ID":"73"},{"NAME":"Расчет размера собственных средств на 31.03.2019 г. ООО «УК «Райффайзен Капитал» ","DATE_ACTIVE_FROM":"16.04.2019 15:10:24","DATE_ACTIVE_TO":null,"DATE_SPAN":"Доступен&nbsp;до:&nbsp;Бессрочно","INFO_SUBSECTION_VALUE":"1 Квартал","INFO_SUBSECTION":"104","INFO_STRATEGY_VALUE":false,"INFO_STRATEGY":false,"INFO_FUND":false,"INFO_YEAR":"2019","TYPE_SIZE":".pdf&nbsp;62.12 Kb","SRC":"\/upload\/iblock\/19e\/RRRSS-na-31.03.2019.pdf","IBLOCK_SECTION_ID":"73"},{"NAME":"Расчет размера собственных средств на 28.02.2019 г. ООО «УК «Райффайзен Капитал»_скорректированный","DATE_ACTIVE_FROM":"09.04.2019 11:36:35","DATE_ACTIVE_TO":null,"DATE_SPAN":"Доступен&nbsp;до:&nbsp;Бессрочно","INFO_SUBSECTION_VALUE":"1 Квартал","INFO_SUBSECTION":"104","INFO_STRATEGY_VALUE":false,"INFO_STRATEGY":false,"INFO_FUND":false,"INFO_YEAR":"2019","TYPE_SIZE":".pdf&nbsp;61.24 Kb","SRC":"\/upload\/iblock\/f9d\/RRRSS-na-28.02.2019_korr.pdf","IBLOCK_SECTION_ID":"73"},{"NAME":"Расчет размера собственных средств на 31.01.2019 г. ООО «УК «Райффайзен Капитал»_скорректированный ","DATE_ACTIVE_FROM":"09.04.2019 11:34:09","DATE_ACTIVE_TO":null,"DATE_SPAN":"Доступен&nbsp;до:&nbsp;Бессрочно","INFO_SUBSECTION_VALUE":"1 Квартал","INFO_SUBSECTION":"104","INFO_STRATEGY_VALUE":false,"INFO_STRATEGY":false,"INFO_FUND":false,"INFO_YEAR":"2019","TYPE_SIZE":".pdf&nbsp;61.89 Kb","SRC":"\/upload\/iblock\/d06\/RRRSS-na-31.01.2019_korr.pdf","IBLOCK_SECTION_ID":"73"},{"NAME":"Расчет размера собственных средств на 31.12.2018 г. ООО «УК «Райффайзен Капитал»_скорректированный ","DATE_ACTIVE_FROM":"09.04.2019 11:32:53","DATE_ACTIVE_TO":null,"DATE_SPAN":"Доступен&nbsp;до:&nbsp;Бессрочно","INFO_SUBSECTION_VALUE":"4 Квартал","INFO_SUBSECTION":"101","INFO_STRATEGY_VALUE":false,"INFO_STRATEGY":false,"INFO_FUND":false,"INFO_YEAR":"2018","TYPE_SIZE":".pdf&nbsp;61.57 Kb","SRC":"\/upload\/iblock\/ee2\/RRRSS-na-31.12.2018_korr.pdf","IBLOCK_SECTION_ID":"73"},{"NAME":"Расчет размера собственных средств на 28.02.2019 г. ООО «УК «Райффайзен Капитал» ","DATE_ACTIVE_FROM":"20.03.2019 13:35:53","DATE_ACTIVE_TO":null,"DATE_SPAN":"Доступен&nbsp;до:&nbsp;Бессрочно","INFO_SUBSECTION_VALUE":"1 Квартал","INFO_SUBSECTION":"104","INFO_STRATEGY_VALUE":false,"INFO_STRATEGY":false,"INFO_FUND":false,"INFO_YEAR":"2019","TYPE_SIZE":".pdf&nbsp;61.63 Kb","SRC":"\/upload\/iblock\/d2b\/_-_-28.02.2019.pdf","IBLOCK_SECTION_ID":"73"},{"NAME":"Расчет размера собственных средств на 31.01.2019 г. ООО «УК «Райффайзен Капитал»   ","DATE_ACTIVE_FROM":"22.02.2019 10:58:38","DATE_ACTIVE_TO":null,"DATE_SPAN":"Доступен&nbsp;до:&nbsp;Бессрочно","INFO_SUBSECTION_VALUE":"1 Квартал","INFO_SUBSECTION":"104","INFO_STRATEGY_VALUE":false,"INFO_STRATEGY":false,"INFO_FUND":false,"INFO_YEAR":"2019","TYPE_SIZE":".pdf&nbsp;62.27 Kb","SRC":"\/upload\/iblock\/4d0\/RRRSS-na-31.01.2019.pdf","IBLOCK_SECTION_ID":"73"},{"NAME":"Расчет размера собственных средств на 31.12.2018 г. ООО «УК «Райффайзен Капитал»   ","DATE_ACTIVE_FROM":"29.01.2019 10:05:20","DATE_ACTIVE_TO":null,"DATE_SPAN":"Доступен&nbsp;до:&nbsp;Бессрочно","INFO_SUBSECTION_VALUE":"4 Квартал","INFO_SUBSECTION":"101","INFO_STRATEGY_VALUE":false,"INFO_STRATEGY":false,"INFO_FUND":false,"INFO_YEAR":"2018","TYPE_SIZE":".pdf&nbsp;65.57 Kb","SRC":"\/upload\/iblock\/df7\/RRRSS-na-31.12.2018.pdf","IBLOCK_SECTION_ID":"73"},{"NAME":"Расчет размера собственных средств на 30.11.2018 г. ООО «УК «Райффайзен Капитал»","DATE_ACTIVE_FROM":"28.12.2018 13:55:52","DATE_ACTIVE_TO":null,"DATE_SPAN":"Доступен&nbsp;до:&nbsp;Бессрочно","INFO_SUBSECTION_VALUE":"4 Квартал","INFO_SUBSECTION":"101","INFO_STRATEGY_VALUE":false,"INFO_STRATEGY":false,"INFO_FUND":false,"INFO_YEAR":"2018","TYPE_SIZE":".pdf&nbsp;62.62 Kb","SRC":"\/upload\/iblock\/ad4\/RRRSS-na-30.11.2018.pdf","IBLOCK_SECTION_ID":"73"},{"NAME":"Расчет размера собственных средств на 31.10.2018 г. ООО «УК «Райффайзен Капитал»","DATE_ACTIVE_FROM":"21.11.2018 14:59:02","DATE_ACTIVE_TO":null,"DATE_SPAN":"Доступен&nbsp;до:&nbsp;Бессрочно","INFO_SUBSECTION_VALUE":"4 Квартал","INFO_SUBSECTION":"101","INFO_STRATEGY_VALUE":false,"INFO_STRATEGY":false,"INFO_FUND":false,"INFO_YEAR":"2018","TYPE_SIZE":".pdf&nbsp;59.22 Kb","SRC":"\/upload\/iblock\/5c4\/RRRSS-na-31.10.2018.pdf","IBLOCK_SECTION_ID":"73"},{"NAME":"Расчет размера собственных средств на 30.09.2018 г. ООО «УК «Райффайзен Капитал»","DATE_ACTIVE_FROM":"18.10.2018 14:15:19","DATE_ACTIVE_TO":null,"DATE_SPAN":"Доступен&nbsp;до:&nbsp;Бессрочно","INFO_SUBSECTION_VALUE":"3 Квартал","INFO_SUBSECTION":"102","INFO_STRATEGY_VALUE":false,"INFO_STRATEGY":false,"INFO_FUND":false,"INFO_YEAR":"2018","TYPE_SIZE":".pdf&nbsp;63.2 Kb","SRC":"\/upload\/iblock\/52a\/RRSS-na-30.09.2018.pdf","IBLOCK_SECTION_ID":"73"},{"NAME":"Расчет размера собственных средств на 31.08.2018 г. ООО «УК «Райффайзен Капитал»","DATE_ACTIVE_FROM":"21.09.2018 13:47:10","DATE_ACTIVE_TO":null,"DATE_SPAN":"Доступен&nbsp;до:&nbsp;Бессрочно","INFO_SUBSECTION_VALUE":"3 Квартал","INFO_SUBSECTION":"102","INFO_STRATEGY_VALUE":false,"INFO_STRATEGY":false,"INFO_FUND":false,"INFO_YEAR":"2018","TYPE_SIZE":".pdf&nbsp;62.78 Kb","SRC":"\/upload\/iblock\/991\/RRSS-na-31.08.2018.pdf","IBLOCK_SECTION_ID":"73"},{"NAME":"Расчет размера собственных средств на 31.07.2018 г. ООО «УК «Райффайзен Капитал»","DATE_ACTIVE_FROM":"23.08.2018 19:22:39","DATE_ACTIVE_TO":null,"DATE_SPAN":"Доступен&nbsp;до:&nbsp;23.08.2021 19:22:39","INFO_SUBSECTION_VALUE":"3 Квартал","INFO_SUBSECTION":"102","INFO_STRATEGY_VALUE":false,"INFO_STRATEGY":false,"INFO_FUND":false,"INFO_YEAR":"2018","TYPE_SIZE":".pdf&nbsp;67.31 Kb","SRC":"\/upload\/iblock\/737\/RRSS-na-31.07.2018.pdf","IBLOCK_SECTION_ID":"73"},{"NAME":"Расчет размера собственных средств на 30.06.2018 г. ООО «УК «Райффайзен Капитал»","DATE_ACTIVE_FROM":"20.07.2018 18:07:06","DATE_ACTIVE_TO":null,"DATE_SPAN":"Доступен&nbsp;до:&nbsp;20.07.2021 18:07:06","INFO_SUBSECTION_VALUE":"2 Квартал","INFO_SUBSECTION":"103","INFO_STRATEGY_VALUE":false,"INFO_STRATEGY":false,"INFO_FUND":false,"INFO_YEAR":"2018","TYPE_SIZE":".pdf&nbsp;69.26 Kb","SRC":"\/upload\/iblock\/010\/RRSS-na-30.06.2018.pdf","IBLOCK_SECTION_ID":"73"},{"NAME":"Расчет размера собственных средств на 31.05.2018 г. ООО «УК «Райффайзен Капитал»","DATE_ACTIVE_FROM":"22.06.2018 13:03:04","DATE_ACTIVE_TO":null,"DATE_SPAN":"Доступен&nbsp;до:&nbsp;22.06.2021 13:03:04","INFO_SUBSECTION_VALUE":"2 Квартал","INFO_SUBSECTION":"103","INFO_STRATEGY_VALUE":false,"INFO_STRATEGY":false,"INFO_FUND":false,"INFO_YEAR":"2018","TYPE_SIZE":".pdf&nbsp;69.62 Kb","SRC":"\/upload\/iblock\/82a\/RRSS-na-31.05.2018.pdf","IBLOCK_SECTION_ID":"73"},{"NAME":"Расчет размера собственных средств на 30.04.2018 г. ООО «УК «Райффайзен Капитал»","DATE_ACTIVE_FROM":"23.05.2018 20:07:32","DATE_ACTIVE_TO":null,"DATE_SPAN":"Доступен&nbsp;до:&nbsp;23.05.2021 20:07:32","INFO_SUBSECTION_VALUE":"2 Квартал","INFO_SUBSECTION":"103","INFO_STRATEGY_VALUE":false,"INFO_STRATEGY":false,"INFO_FUND":false,"INFO_YEAR":"2018","TYPE_SIZE":".pdf&nbsp;387.02 Kb","SRC":"\/upload\/iblock\/4f0\/RRSS-na-30.04.2018.pdf","IBLOCK_SECTION_ID":"73"},{"NAME":"Расчет размера собственных средств на 31.03.2018 г. ООО «УК «Райффайзен Капитал»","DATE_ACTIVE_FROM":"26.04.2018 19:10:55","DATE_ACTIVE_TO":null,"DATE_SPAN":"Доступен&nbsp;до:&nbsp;Бессрочно","INFO_SUBSECTION_VALUE":"1 Квартал","INFO_SUBSECTION":"104","INFO_STRATEGY_VALUE":false,"INFO_STRATEGY":false,"INFO_FUND":false,"INFO_YEAR":"2018","TYPE_SIZE":".pdf&nbsp;385.43 Kb","SRC":"\/upload\/iblock\/562\/RRSS-na-31.03.2018.pdf","IBLOCK_SECTION_ID":"73"},{"NAME":"Расчет размера собственных средств на 28.02.2018 г. ООО «УК «Райффайзен Капитал»","DATE_ACTIVE_FROM":"28.03.2018 19:03:25","DATE_ACTIVE_TO":null,"DATE_SPAN":"Доступен&nbsp;до:&nbsp;28.03.2021 19:03:25","INFO_SUBSECTION_VALUE":"1 Квартал","INFO_SUBSECTION":"104","INFO_STRATEGY_VALUE":false,"INFO_STRATEGY":false,"INFO_FUND":false,"INFO_YEAR":"2018","TYPE_SIZE":".pdf&nbsp;345.78 Kb","SRC":"\/upload\/iblock\/226\/RRSS-na-28.02.2018.pdf","IBLOCK_SECTION_ID":"73"},{"NAME":"Расчет размера собственных средств на 31.01.2018 г. ООО «УК «Райффайзен Капитал»","DATE_ACTIVE_FROM":"28.02.2018 19:42:01","DATE_ACTIVE_TO":null,"DATE_SPAN":"Доступен&nbsp;до:&nbsp;28.02.2021 19:42:01","INFO_SUBSECTION_VALUE":"1 Квартал","INFO_SUBSECTION":"104","INFO_STRATEGY_VALUE":false,"INFO_STRATEGY":false,"INFO_FUND":false,"INFO_YEAR":"2018","TYPE_SIZE":".pdf&nbsp;382.06 Kb","SRC":"\/upload\/iblock\/382\/RRSS-na-31.01.2018.pdf","IBLOCK_SECTION_ID":"73"},{"NAME":"Расчет размера собственных средств на 31.12.2017 г. ООО «УК «Райффайзен Капитал»","DATE_ACTIVE_FROM":"24.01.2018 08:08:55","DATE_ACTIVE_TO":null,"DATE_SPAN":"Доступен&nbsp;до:&nbsp;Бессрочно","INFO_SUBSECTION_VALUE":"4 Квартал","INFO_SUBSECTION":"101","INFO_STRATEGY_VALUE":false,"INFO_STRATEGY":false,"INFO_FUND":false,"INFO_YEAR":"2017","TYPE_SIZE":".pdf&nbsp;392.06 Kb","SRC":"\/upload\/iblock\/8d7\/RRSS-na-31.12-2017.pdf","IBLOCK_SECTION_ID":"73"},{"NAME":"Расчет размера собственных средств на 30.11.2017 г. ООО «УК «Райффайзен Капитал»","DATE_ACTIVE_FROM":"19.12.2017 09:04:00","DATE_ACTIVE_TO":null,"DATE_SPAN":"Доступен&nbsp;до:&nbsp;бессрочно","INFO_SUBSECTION_VALUE":"4 Квартал","INFO_SUBSECTION":"101","INFO_STRATEGY_VALUE":false,"INFO_STRATEGY":false,"INFO_FUND":false,"INFO_YEAR":"2017","TYPE_SIZE":".pdf&nbsp;392.09 Kb","SRC":"\/upload\/iblock\/c9b\/RRSS-na-30.11.pdf","IBLOCK_SECTION_ID":"73"},{"NAME":"Расчет размера собственных средств на 31.10.2017 г. ООО «УК «Райффайзен Капитал»","DATE_ACTIVE_FROM":"20.11.2017 17:36:00","DATE_ACTIVE_TO":null,"DATE_SPAN":"Доступен&nbsp;до:&nbsp;бессрочно","INFO_SUBSECTION_VALUE":"4 Квартал","INFO_SUBSECTION":"101","INFO_STRATEGY_VALUE":false,"INFO_STRATEGY":false,"INFO_FUND":false,"INFO_YEAR":"2017","TYPE_SIZE":".pdf&nbsp;397.55 Kb","SRC":"\/upload\/iblock\/d5e\/Raschet_razmera_SS_na_31.10.pdf","IBLOCK_SECTION_ID":"73"},{"NAME":"Расчет размера собственных средств на 30.09.2017 г. ООО «УК «Райффайзен Капитал»","DATE_ACTIVE_FROM":"18.10.2017 15:13:00","DATE_ACTIVE_TO":null,"DATE_SPAN":"Доступен&nbsp;до:&nbsp;бессрочно","INFO_SUBSECTION_VALUE":"3 Квартал","INFO_SUBSECTION":"102","INFO_STRATEGY_VALUE":false,"INFO_STRATEGY":false,"INFO_FUND":false,"INFO_YEAR":"2017","TYPE_SIZE":".pdf&nbsp;391.69 Kb","SRC":"\/upload\/iblock\/660\/Raschet_razmera_SS_na_30.09.pdf","IBLOCK_SECTION_ID":"73"},{"NAME":"Расчет размера собственных средств на 31.08.2017 г. ООО «УК «Райффайзен Капитал»","DATE_ACTIVE_FROM":"19.09.2017 15:13:00","DATE_ACTIVE_TO":null,"DATE_SPAN":"Доступен&nbsp;до:&nbsp;бессрочно","INFO_SUBSECTION_VALUE":"3 Квартал","INFO_SUBSECTION":"102","INFO_STRATEGY_VALUE":false,"INFO_STRATEGY":false,"INFO_FUND":false,"INFO_YEAR":"2017","TYPE_SIZE":".pdf&nbsp;413.02 Kb","SRC":"\/upload\/iblock\/1f8\/Raschet_razmera_SS_na_31.08.pdf","IBLOCK_SECTION_ID":"73"},{"NAME":"Расчет размера собственных средств на 31.07.2017 г. ООО «УК «Райффайзен Капитал»","DATE_ACTIVE_FROM":"16.08.2017 14:42:00","DATE_ACTIVE_TO":null,"DATE_SPAN":"Доступен&nbsp;до:&nbsp;бессрочно","INFO_SUBSECTION_VALUE":"3 Квартал","INFO_SUBSECTION":"102","INFO_STRATEGY_VALUE":false,"INFO_STRATEGY":false,"INFO_FUND":false,"INFO_YEAR":"2017","TYPE_SIZE":".pdf&nbsp;368.43 Kb","SRC":"\/upload\/iblock\/72d\/Raschet_razmera_SS_na_31.07.pdf","IBLOCK_SECTION_ID":"73"},{"NAME":"Расчет размера собственных средств на 30.06.2017 г. ООО «УК «Райффайзен Капитал»","DATE_ACTIVE_FROM":"18.07.2017 16:56:00","DATE_ACTIVE_TO":null,"DATE_SPAN":"Доступен&nbsp;до:&nbsp;бессрочно","INFO_SUBSECTION_VALUE":"2 Квартал","INFO_SUBSECTION":"103","INFO_STRATEGY_VALUE":false,"INFO_STRATEGY":false,"INFO_FUND":false,"INFO_YEAR":"2017","TYPE_SIZE":".pdf&nbsp;371.93 Kb","SRC":"\/upload\/iblock\/73e\/Raschet_razmera_SS_na_30.06.2017.pdf","IBLOCK_SECTION_ID":"73"},{"NAME":"Расчет размера собственных средств на 31.05.2017 г. ООО «УК «Райффайзен Капитал»","DATE_ACTIVE_FROM":"26.06.2017 14:31:00","DATE_ACTIVE_TO":null,"DATE_SPAN":"Доступен&nbsp;до:&nbsp;бессрочно","INFO_SUBSECTION_VALUE":"2 Квартал","INFO_SUBSECTION":"103","INFO_STRATEGY_VALUE":false,"INFO_STRATEGY":false,"INFO_FUND":false,"INFO_YEAR":"2017","TYPE_SIZE":".pdf&nbsp;363.65 Kb","SRC":"\/upload\/iblock\/4e1\/Raschet_razmera_SS_na_31.05.pdf","IBLOCK_SECTION_ID":"73"},{"NAME":"Расчет размера собственных средств на 30.04.2017 г. ООО «УК «Райффайзен Капитал»","DATE_ACTIVE_FROM":"19.05.2017 17:54:00","DATE_ACTIVE_TO":null,"DATE_SPAN":"Доступен&nbsp;до:&nbsp;бессрочно","INFO_SUBSECTION_VALUE":"2 Квартал","INFO_SUBSECTION":"103","INFO_STRATEGY_VALUE":false,"INFO_STRATEGY":false,"INFO_FUND":false,"INFO_YEAR":"2017","TYPE_SIZE":".pdf&nbsp;363.18 Kb","SRC":"\/upload\/iblock\/3d2\/RRSS_na_30.04.2017.pdf","IBLOCK_SECTION_ID":"73"},{"NAME":"Расчет размера собственных средств на 31.03.2017 г. ООО «УК «Райффайзен Капитал»","DATE_ACTIVE_FROM":"24.04.2017 19:25:00","DATE_ACTIVE_TO":null,"DATE_SPAN":"Доступен&nbsp;до:&nbsp;бессрочно","INFO_SUBSECTION_VALUE":"1 Квартал","INFO_SUBSECTION":"104","INFO_STRATEGY_VALUE":false,"INFO_STRATEGY":false,"INFO_FUND":false,"INFO_YEAR":"2017","TYPE_SIZE":".pdf&nbsp;371.3 Kb","SRC":"\/upload\/iblock\/7a1\/Raschet_razmera_SS_na_31.03.pdf","IBLOCK_SECTION_ID":"73"},{"NAME":"Расчет размера собственных средств на 28.02.2017 г. ООО «УК «Райффайзен Капитал»","DATE_ACTIVE_FROM":"17.03.2017 15:22:00","DATE_ACTIVE_TO":null,"DATE_SPAN":"Доступен&nbsp;до:&nbsp;бессрочно","INFO_SUBSECTION_VALUE":"1 Квартал","INFO_SUBSECTION":"104","INFO_STRATEGY_VALUE":false,"INFO_STRATEGY":false,"INFO_FUND":false,"INFO_YEAR":"2017","TYPE_SIZE":".pdf&nbsp;336.21 Kb","SRC":"\/upload\/iblock\/403\/RRSS_na_28.02.2017.pdf","IBLOCK_SECTION_ID":"73"},{"NAME":"Расчет размера собственных средств на 31.01.2017 г. ООО «УК «Райффайзен Капитал»","DATE_ACTIVE_FROM":"17.02.2017 17:12:00","DATE_ACTIVE_TO":null,"DATE_SPAN":"Доступен&nbsp;до:&nbsp;бессрочно","INFO_SUBSECTION_VALUE":"1 Квартал","INFO_SUBSECTION":"104","INFO_STRATEGY_VALUE":false,"INFO_STRATEGY":false,"INFO_FUND":false,"INFO_YEAR":"2017","TYPE_SIZE":".pdf&nbsp;392.43 Kb","SRC":"\/upload\/iblock\/761\/Raschet_razmera_SS_na_31.01.pdf","IBLOCK_SECTION_ID":"73"},{"NAME":"Расчет размера собственных средств на 31.12.2016 г. ООО «УК «Райффайзен Капитал»","DATE_ACTIVE_FROM":"25.01.2017 12:10:00","DATE_ACTIVE_TO":null,"DATE_SPAN":"Доступен&nbsp;до:&nbsp;бессрочно","INFO_SUBSECTION_VALUE":"4 Квартал","INFO_SUBSECTION":"101","INFO_STRATEGY_VALUE":false,"INFO_STRATEGY":false,"INFO_FUND":false,"INFO_YEAR":"2016","TYPE_SIZE":".pdf&nbsp;431.28 Kb","SRC":"\/upload\/iblock\/960\/Raschet_razmera_SS_na_31.12.2016_1.pdf","IBLOCK_SECTION_ID":"73"},{"NAME":"Расчет размера собственных средств на 30.11.2016 г. ООО «УК «Райффайзен Капитал»","DATE_ACTIVE_FROM":"16.12.2016 19:21:00","DATE_ACTIVE_TO":null,"DATE_SPAN":"Доступен&nbsp;до:&nbsp;бессрочно","INFO_SUBSECTION_VALUE":"4 Квартал","INFO_SUBSECTION":"101","INFO_STRATEGY_VALUE":false,"INFO_STRATEGY":false,"INFO_FUND":false,"INFO_YEAR":"2016","TYPE_SIZE":".pdf&nbsp;387.55 Kb","SRC":"\/upload\/iblock\/eba\/Raschet_razmera_SS_na_30.11.16.pdf","IBLOCK_SECTION_ID":"73"},{"NAME":"Расчет размера собственных средств на 31.10.2016 г. ООО «УК «Райффайзен Капитал»","DATE_ACTIVE_FROM":"17.11.2016 19:17:00","DATE_ACTIVE_TO":null,"DATE_SPAN":"Доступен&nbsp;до:&nbsp;бессрочно","INFO_SUBSECTION_VALUE":"4 Квартал","INFO_SUBSECTION":"101","INFO_STRATEGY_VALUE":false,"INFO_STRATEGY":false,"INFO_FUND":false,"INFO_YEAR":"2016","TYPE_SIZE":".pdf&nbsp;389.8 Kb","SRC":"\/upload\/iblock\/b5b\/Raschet_razmera_sobstvennykh_sredstv_na_31.10.pdf","IBLOCK_SECTION_ID":"73"},{"NAME":"Расчет размера собственных средств на 30.09.2016 г. ООО «УК «Райффайзен Капитал»","DATE_ACTIVE_FROM":"19.10.2016 17:56:00","DATE_ACTIVE_TO":null,"DATE_SPAN":"Доступен&nbsp;до:&nbsp;бессрочно","INFO_SUBSECTION_VALUE":"3 Квартал","INFO_SUBSECTION":"102","INFO_STRATEGY_VALUE":false,"INFO_STRATEGY":false,"INFO_FUND":false,"INFO_YEAR":"2016","TYPE_SIZE":".pdf&nbsp;336.41 Kb","SRC":"\/upload\/iblock\/857\/Raschet_razmera_sobstvennykh_sredstv_na_30.09.16.pdf","IBLOCK_SECTION_ID":"73"},{"NAME":"Расчет размера собственных средств на 31.08.2016 г. ООО «УК «Райффайзен Капитал»","DATE_ACTIVE_FROM":"12.09.2016 12:11:00","DATE_ACTIVE_TO":null,"DATE_SPAN":"Доступен&nbsp;до:&nbsp;бессрочно","INFO_SUBSECTION_VALUE":"3 Квартал","INFO_SUBSECTION":"102","INFO_STRATEGY_VALUE":false,"INFO_STRATEGY":false,"INFO_FUND":false,"INFO_YEAR":"2016","TYPE_SIZE":".pdf&nbsp;295.39 Kb","SRC":"\/upload\/iblock\/603\/RRSS_na_31.08.2016.pdf","IBLOCK_SECTION_ID":"73"},{"NAME":"Расчет размера собственных средств на 31.07.2016 г. ООО «УК «Райффайзен Капитал»","DATE_ACTIVE_FROM":"15.08.2016 17:12:00","DATE_ACTIVE_TO":null,"DATE_SPAN":"Доступен&nbsp;до:&nbsp;бессрочно","INFO_SUBSECTION_VALUE":"3 Квартал","INFO_SUBSECTION":"102","INFO_STRATEGY_VALUE":false,"INFO_STRATEGY":false,"INFO_FUND":false,"INFO_YEAR":"2016","TYPE_SIZE":".pdf&nbsp;214.58 Kb","SRC":"\/upload\/iblock\/c33\/RRSS_na_31.07.2016.pdf","IBLOCK_SECTION_ID":"73"},{"NAME":"Расчет размера собственных средств на 30.06.2016 г. ООО «УК «Райффайзен Капитал»","DATE_ACTIVE_FROM":"19.07.2016 19:13:00","DATE_ACTIVE_TO":null,"DATE_SPAN":"Доступен&nbsp;до:&nbsp;бессрочно","INFO_SUBSECTION_VALUE":"2 Квартал","INFO_SUBSECTION":"103","INFO_STRATEGY_VALUE":false,"INFO_STRATEGY":false,"INFO_FUND":false,"INFO_YEAR":"2016","TYPE_SIZE":".pdf&nbsp;211.11 Kb","SRC":"\/upload\/iblock\/77b\/RRSS_na_30.06.2016.pdf","IBLOCK_SECTION_ID":"73"},{"NAME":"Расчет размера собственных средств на 31.05.2016 г. ООО «УК «Райффайзен Капитал»","DATE_ACTIVE_FROM":"16.06.2016 15:34:00","DATE_ACTIVE_TO":null,"DATE_SPAN":"Доступен&nbsp;до:&nbsp;бессрочно","INFO_SUBSECTION_VALUE":"2 Квартал","INFO_SUBSECTION":"103","INFO_STRATEGY_VALUE":false,"INFO_STRATEGY":false,"INFO_FUND":false,"INFO_YEAR":"2016","TYPE_SIZE":".pdf&nbsp;193.44 Kb","SRC":"\/upload\/iblock\/23d\/RRSS_na_31.05.2016_g..pdf","IBLOCK_SECTION_ID":"73"},{"NAME":"Расчет размера собственных средств на 30.04.2016 г. ООО «УК «Райффайзен Капитал»","DATE_ACTIVE_FROM":"20.05.2016 15:54:00","DATE_ACTIVE_TO":null,"DATE_SPAN":"Доступен&nbsp;до:&nbsp;бессрочно","INFO_SUBSECTION_VALUE":"2 Квартал","INFO_SUBSECTION":"103","INFO_STRATEGY_VALUE":false,"INFO_STRATEGY":false,"INFO_FUND":false,"INFO_YEAR":"2016","TYPE_SIZE":".pdf&nbsp;213.53 Kb","SRC":"\/upload\/iblock\/8ae\/RRSS_na_30.04.2016_g..pdf","IBLOCK_SECTION_ID":"73"},{"NAME":"Расчет размера собственных средств на 31.03.2016 г. ООО «УК «Райффайзен Капитал»","DATE_ACTIVE_FROM":"18.04.2016 13:30:00","DATE_ACTIVE_TO":null,"DATE_SPAN":"Доступен&nbsp;до:&nbsp;бессрочно","INFO_SUBSECTION_VALUE":"1 Квартал","INFO_SUBSECTION":"104","INFO_STRATEGY_VALUE":false,"INFO_STRATEGY":false,"INFO_FUND":false,"INFO_YEAR":"2016","TYPE_SIZE":".pdf&nbsp;218.53 Kb","SRC":"\/upload\/iblock\/803\/RRSS_na_31.03.2016.pdf","IBLOCK_SECTION_ID":"73"},{"NAME":"Расчет размера собственных средств на 29.02.2016 г. ООО «УК «Райффайзен Капитал»","DATE_ACTIVE_FROM":"15.03.2016 13:49:00","DATE_ACTIVE_TO":null,"DATE_SPAN":"Доступен&nbsp;до:&nbsp;бессрочно","INFO_SUBSECTION_VALUE":"1 Квартал","INFO_SUBSECTION":"104","INFO_STRATEGY_VALUE":false,"INFO_STRATEGY":false,"INFO_FUND":false,"INFO_YEAR":"2016","TYPE_SIZE":".pdf&nbsp;232.61 Kb","SRC":"\/upload\/iblock\/076\/RRSS_na_29.02.2016.pdf","IBLOCK_SECTION_ID":"73"},{"NAME":"Расчет размера собственных средств на 31.01.2016 г. ООО «УК «Райффайзен Капитал»","DATE_ACTIVE_FROM":"17.02.2016 16:23:00","DATE_ACTIVE_TO":null,"DATE_SPAN":"Доступен&nbsp;до:&nbsp;бессрочно","INFO_SUBSECTION_VALUE":"1 Квартал","INFO_SUBSECTION":"104","INFO_STRATEGY_VALUE":false,"INFO_STRATEGY":false,"INFO_FUND":false,"INFO_YEAR":"2016","TYPE_SIZE":".pdf&nbsp;215.73 Kb","SRC":"\/upload\/iblock\/5e1\/RRSS_31.01.2016.pdf","IBLOCK_SECTION_ID":"73"},{"NAME":"Расчет размера собственных средств на 31.12.2015 г. ООО «УК «Райффайзен Капитал»","DATE_ACTIVE_FROM":"27.01.2016 13:40:00","DATE_ACTIVE_TO":null,"DATE_SPAN":"Доступен&nbsp;до:&nbsp;бессрочно","INFO_SUBSECTION_VALUE":"4 Квартал","INFO_SUBSECTION":"101","INFO_STRATEGY_VALUE":false,"INFO_STRATEGY":false,"INFO_FUND":false,"INFO_YEAR":"2015","TYPE_SIZE":".pdf&nbsp;224.15 Kb","SRC":"\/upload\/iblock\/753\/Raschet_razmera_sobstvennykh_sredstv_na_31.12.2015g..pdf","IBLOCK_SECTION_ID":"73"},{"NAME":"Расчет размера собственных средств на 30.11.2015 г. ООО «УК «Райффайзен Капитал»","DATE_ACTIVE_FROM":"15.12.2015 16:35:00","DATE_ACTIVE_TO":null,"DATE_SPAN":"Доступен&nbsp;до:&nbsp;бессрочно","INFO_SUBSECTION_VALUE":"4 Квартал","INFO_SUBSECTION":"101","INFO_STRATEGY_VALUE":false,"INFO_STRATEGY":false,"INFO_FUND":false,"INFO_YEAR":"2015","TYPE_SIZE":".pdf&nbsp;213.73 Kb","SRC":"\/upload\/iblock\/cab\/RRSS_na_30.11.2015_g..pdf","IBLOCK_SECTION_ID":"73"},{"NAME":"Расчет размера собственных средств на 31.10.2015 ООО «УК «Райффайзен Капитал»","DATE_ACTIVE_FROM":"24.11.2015 19:24:00","DATE_ACTIVE_TO":null,"DATE_SPAN":"Доступен&nbsp;до:&nbsp;бессрочно","INFO_SUBSECTION_VALUE":"4 Квартал","INFO_SUBSECTION":"101","INFO_STRATEGY_VALUE":false,"INFO_STRATEGY":false,"INFO_FUND":false,"INFO_YEAR":"2015","TYPE_SIZE":".pdf&nbsp;219.2 Kb","SRC":"\/upload\/iblock\/9bc\/RRSS_na_31.10.2015_g..pdf","IBLOCK_SECTION_ID":"73"},{"NAME":"Расчет размера собственных средств на 30.09.2015 ООО «УК «Райффайзен Капитал»","DATE_ACTIVE_FROM":"22.10.2015 18:49:00","DATE_ACTIVE_TO":null,"DATE_SPAN":"Доступен&nbsp;до:&nbsp;бессрочно","INFO_SUBSECTION_VALUE":"3 Квартал","INFO_SUBSECTION":"102","INFO_STRATEGY_VALUE":false,"INFO_STRATEGY":false,"INFO_FUND":false,"INFO_YEAR":"2015","TYPE_SIZE":".pdf&nbsp;222.81 Kb","SRC":"\/upload\/iblock\/288\/RRSS_na_30.09.2015_g..pdf","IBLOCK_SECTION_ID":"73"},{"NAME":"Расчет размера собственных средств на 31.08.2015 ООО «УК «Райффайзен Капитал»","DATE_ACTIVE_FROM":"18.09.2015 19:10:00","DATE_ACTIVE_TO":null,"DATE_SPAN":"Доступен&nbsp;до:&nbsp;бессрочно","INFO_SUBSECTION_VALUE":"3 Квартал","INFO_SUBSECTION":"102","INFO_STRATEGY_VALUE":false,"INFO_STRATEGY":false,"INFO_FUND":false,"INFO_YEAR":"2015","TYPE_SIZE":".pdf&nbsp;208.63 Kb","SRC":"\/upload\/iblock\/fda\/Raschet_razmera_sobstvennykh_sredstv_na_31.08.2015_g..pdf","IBLOCK_SECTION_ID":"73"},{"NAME":"Расчет размера собственных средств на 31.07.2015 ООО «УК «Райффайзен Капитал»","DATE_ACTIVE_FROM":"17.08.2015 17:44:00","DATE_ACTIVE_TO":null,"DATE_SPAN":"Доступен&nbsp;до:&nbsp;бессрочно","INFO_SUBSECTION_VALUE":"3 Квартал","INFO_SUBSECTION":"102","INFO_STRATEGY_VALUE":false,"INFO_STRATEGY":false,"INFO_FUND":false,"INFO_YEAR":"2015","TYPE_SIZE":".pdf&nbsp;200.25 Kb","SRC":"\/upload\/iblock\/9cf\/2015.07.31_RRSS.pdf","IBLOCK_SECTION_ID":"73"},{"NAME":"Расчет размера собственных средств на 30.06.2015 ООО «УК «Райффайзен Капитал»","DATE_ACTIVE_FROM":"20.07.2015 16:23:00","DATE_ACTIVE_TO":null,"DATE_SPAN":"Доступен&nbsp;до:&nbsp;бессрочно","INFO_SUBSECTION_VALUE":"2 Квартал","INFO_SUBSECTION":"103","INFO_STRATEGY_VALUE":false,"INFO_STRATEGY":false,"INFO_FUND":false,"INFO_YEAR":"2015","TYPE_SIZE":".pdf&nbsp;199.16 Kb","SRC":"\/upload\/iblock\/bc7\/RRSS_na_30.06.2015_g..pdf","IBLOCK_SECTION_ID":"73"},{"NAME":"Расчет размера собственных средств на 31.05.2015 ООО «УК «Райффайзен Капитал»","DATE_ACTIVE_FROM":"19.06.2015 15:27:00","DATE_ACTIVE_TO":null,"DATE_SPAN":"Доступен&nbsp;до:&nbsp;бессрочно","INFO_SUBSECTION_VALUE":"2 Квартал","INFO_SUBSECTION":"103","INFO_STRATEGY_VALUE":false,"INFO_STRATEGY":false,"INFO_FUND":false,"INFO_YEAR":"2015","TYPE_SIZE":".pdf&nbsp;217.15 Kb","SRC":"\/upload\/iblock\/cb0\/Raschet_razmera_sobstvennykh_sredstv_na_31.05.2015_g.pdf","IBLOCK_SECTION_ID":"73"},{"NAME":"Расчет размера собственных средств на 30.04.2015 ООО «УК «Райффайзен Капитал»","DATE_ACTIVE_FROM":"25.05.2015 18:40:00","DATE_ACTIVE_TO":null,"DATE_SPAN":"Доступен&nbsp;до:&nbsp;бессрочно","INFO_SUBSECTION_VALUE":"2 Квартал","INFO_SUBSECTION":"103","INFO_STRATEGY_VALUE":false,"INFO_STRATEGY":false,"INFO_FUND":false,"INFO_YEAR":"2015","TYPE_SIZE":".pdf&nbsp;202.15 Kb","SRC":"\/upload\/iblock\/050\/Raschet_razmera_SS_na_30.04.2015.pdf","IBLOCK_SECTION_ID":"73"},{"NAME":"Расчет размера собственных средств на 31.03.2015 ООО «УК «Райффайзен Капитал»","DATE_ACTIVE_FROM":"20.04.2015 12:57:00","DATE_ACTIVE_TO":null,"DATE_SPAN":"Доступен&nbsp;до:&nbsp;бессрочно","INFO_SUBSECTION_VALUE":"1 Квартал","INFO_SUBSECTION":"104","INFO_STRATEGY_VALUE":false,"INFO_STRATEGY":false,"INFO_FUND":false,"INFO_YEAR":"2015","TYPE_SIZE":".pdf&nbsp;222.62 Kb","SRC":"\/upload\/iblock\/f25\/Raschet_razmera_sobstvennykh_sredstv_na_31.03.2015.pdf","IBLOCK_SECTION_ID":"73"},{"NAME":"Расчет размера собственных средств на 28.02.2015 ООО «УК «Райффайзен Капитал»","DATE_ACTIVE_FROM":"26.03.2015 13:47:00","DATE_ACTIVE_TO":null,"DATE_SPAN":"Доступен&nbsp;до:&nbsp;бессрочно","INFO_SUBSECTION_VALUE":"1 Квартал","INFO_SUBSECTION":"104","INFO_STRATEGY_VALUE":false,"INFO_STRATEGY":false,"INFO_FUND":false,"INFO_YEAR":"2015","TYPE_SIZE":".pdf&nbsp;254.04 Kb","SRC":"\/upload\/iblock\/9e5\/RRSS_0.pdf","IBLOCK_SECTION_ID":"73"},{"NAME":"Расчет размера собственных средств на 31.01.2015 ООО «УК «Райффайзен Капитал»","DATE_ACTIVE_FROM":"25.02.2015 19:30:00","DATE_ACTIVE_TO":null,"DATE_SPAN":"Доступен&nbsp;до:&nbsp;бессрочно","INFO_SUBSECTION_VALUE":"1 Квартал","INFO_SUBSECTION":"104","INFO_STRATEGY_VALUE":false,"INFO_STRATEGY":false,"INFO_FUND":false,"INFO_YEAR":"2015","TYPE_SIZE":".pdf&nbsp;290.62 Kb","SRC":"\/upload\/iblock\/d29\/RRSS.pdf","IBLOCK_SECTION_ID":"73"},{"NAME":"Расчет размера собственных средств на 31.12.2014 ООО «УК «Райффайзен Капитал»","DATE_ACTIVE_FROM":"28.01.2015 19:11:00","DATE_ACTIVE_TO":null,"DATE_SPAN":"Доступен&nbsp;до:&nbsp;бессрочно","INFO_SUBSECTION_VALUE":"4 Квартал","INFO_SUBSECTION":"101","INFO_STRATEGY_VALUE":false,"INFO_STRATEGY":false,"INFO_FUND":false,"INFO_YEAR":"2014","TYPE_SIZE":".pdf&nbsp;309.11 Kb","SRC":"\/upload\/iblock\/bf4\/RRSS_na_31.12.2014_1.pdf","IBLOCK_SECTION_ID":"73"},{"NAME":"Расчет размера собственных средств на 30.11.2014 ООО «УК «Райффайзен Капитал»","DATE_ACTIVE_FROM":"23.12.2014 16:21:00","DATE_ACTIVE_TO":null,"DATE_SPAN":"Доступен&nbsp;до:&nbsp;бессрочно","INFO_SUBSECTION_VALUE":"4 Квартал","INFO_SUBSECTION":"101","INFO_STRATEGY_VALUE":false,"INFO_STRATEGY":false,"INFO_FUND":false,"INFO_YEAR":"2014","TYPE_SIZE":".pdf&nbsp;263.65 Kb","SRC":"\/upload\/iblock\/cf9\/RRSS_na_30.11.2014.pdf","IBLOCK_SECTION_ID":"73"},{"NAME":"Расчет размера собственных средств на 31.10.2014 ООО «УК «Райффайзен Капитал»","DATE_ACTIVE_FROM":"25.11.2014 12:25:00","DATE_ACTIVE_TO":null,"DATE_SPAN":"Доступен&nbsp;до:&nbsp;бессрочно","INFO_SUBSECTION_VALUE":"4 Квартал","INFO_SUBSECTION":"101","INFO_STRATEGY_VALUE":false,"INFO_STRATEGY":false,"INFO_FUND":false,"INFO_YEAR":"2014","TYPE_SIZE":".pdf&nbsp;811.86 Kb","SRC":"\/upload\/iblock\/d67\/RRSS_na_31.10.2014.pdf","IBLOCK_SECTION_ID":"73"},{"NAME":"Расчет размера собственных средств на 30.09.2014 ООО «УК «Райффайзен Капитал»","DATE_ACTIVE_FROM":"29.10.2014 13:32:00","DATE_ACTIVE_TO":null,"DATE_SPAN":"Доступен&nbsp;до:&nbsp;бессрочно","INFO_SUBSECTION_VALUE":"3 Квартал","INFO_SUBSECTION":"102","INFO_STRATEGY_VALUE":false,"INFO_STRATEGY":false,"INFO_FUND":false,"INFO_YEAR":"2014","TYPE_SIZE":".pdf&nbsp;157.9 Kb","SRC":"\/upload\/iblock\/2af\/RRSS_na_30.09.2014.pdf","IBLOCK_SECTION_ID":"73"},{"NAME":"Расчет размера собственных средств на 31.08.2014 ООО «УК «Райффайзен Капитал»","DATE_ACTIVE_FROM":"22.09.2014 12:33:00","DATE_ACTIVE_TO":null,"DATE_SPAN":"Доступен&nbsp;до:&nbsp;бессрочно","INFO_SUBSECTION_VALUE":"3 Квартал","INFO_SUBSECTION":"102","INFO_STRATEGY_VALUE":false,"INFO_STRATEGY":false,"INFO_FUND":false,"INFO_YEAR":"2014","TYPE_SIZE":".pdf&nbsp;118.9 Kb","SRC":"\/upload\/iblock\/703\/RRSS_na_31.08.2014.pdf","IBLOCK_SECTION_ID":"73"},{"NAME":"Расчет размера собственных средств на 31.07.2014 ООО «УК «Райффайзен Капитал»","DATE_ACTIVE_FROM":"27.08.2014 15:57:00","DATE_ACTIVE_TO":null,"DATE_SPAN":"Доступен&nbsp;до:&nbsp;бессрочно","INFO_SUBSECTION_VALUE":"2 Квартал","INFO_SUBSECTION":"103","INFO_STRATEGY_VALUE":false,"INFO_STRATEGY":false,"INFO_FUND":false,"INFO_YEAR":"2014","TYPE_SIZE":".pdf&nbsp;383.99 Kb","SRC":"\/upload\/iblock\/b09\/RRSS_na_31.07.2014.pdf","IBLOCK_SECTION_ID":"73"},{"NAME":"Расчет размера собственных средств на 30.06.2014 ООО «УК «Райффайзен Капитал»","DATE_ACTIVE_FROM":"23.07.2014 15:58:00","DATE_ACTIVE_TO":null,"DATE_SPAN":"Доступен&nbsp;до:&nbsp;бессрочно","INFO_SUBSECTION_VALUE":"2 Квартал","INFO_SUBSECTION":"103","INFO_STRATEGY_VALUE":false,"INFO_STRATEGY":false,"INFO_FUND":false,"INFO_YEAR":"2014","TYPE_SIZE":".pdf&nbsp;179.82 Kb","SRC":"\/upload\/iblock\/cb8\/RRSS.pdf","IBLOCK_SECTION_ID":"73"},{"NAME":"Расчет размера собственных средств на 31.05.2014 ООО «УК «Райффайзен Капитал»","DATE_ACTIVE_FROM":"23.06.2014 14:18:00","DATE_ACTIVE_TO":null,"DATE_SPAN":"Доступен&nbsp;до:&nbsp;бессрочно","INFO_SUBSECTION_VALUE":"2 Квартал","INFO_SUBSECTION":"103","INFO_STRATEGY_VALUE":false,"INFO_STRATEGY":false,"INFO_FUND":false,"INFO_YEAR":"2014","TYPE_SIZE":".pdf&nbsp;157.02 Kb","SRC":"\/upload\/iblock\/d24\/RRSS_na_31.05.2014.pdf","IBLOCK_SECTION_ID":"73"},{"NAME":"Расчет размера собственных средств на 30.04.2014 ООО «УК «Райффайзен Капитал»","DATE_ACTIVE_FROM":"23.05.2014 13:19:00","DATE_ACTIVE_TO":null,"DATE_SPAN":"Доступен&nbsp;до:&nbsp;бессрочно","INFO_SUBSECTION_VALUE":"1 Квартал","INFO_SUBSECTION":"104","INFO_STRATEGY_VALUE":false,"INFO_STRATEGY":false,"INFO_FUND":false,"INFO_YEAR":"2014","TYPE_SIZE":".pdf&nbsp;121.72 Kb","SRC":"\/upload\/iblock\/aec\/RRSS_na_30.04.2014.pdf","IBLOCK_SECTION_ID":"73"},{"NAME":"Расчет размера собственных средств на 31.03.2014 ООО «УК «Райффайзен Капитал»","DATE_ACTIVE_FROM":"21.04.2014 18:24:00","DATE_ACTIVE_TO":null,"DATE_SPAN":"Доступен&nbsp;до:&nbsp;бессрочно","INFO_SUBSECTION_VALUE":"1 Квартал","INFO_SUBSECTION":"104","INFO_STRATEGY_VALUE":false,"INFO_STRATEGY":false,"INFO_FUND":false,"INFO_YEAR":"2014","TYPE_SIZE":".pdf&nbsp;3.66 Mb","SRC":"\/upload\/iblock\/612\/RRSS_na_31.03.2014_kvartalnaya_otchetnost_.pdf","IBLOCK_SECTION_ID":"73"},{"NAME":"Расчет размера собственных средств на 28.02.2014 ООО «УК «Райффайзен Капитал»","DATE_ACTIVE_FROM":"26.03.2014 19:51:00","DATE_ACTIVE_TO":null,"DATE_SPAN":"Доступен&nbsp;до:&nbsp;бессрочно","INFO_SUBSECTION_VALUE":"1 Квартал","INFO_SUBSECTION":"104","INFO_STRATEGY_VALUE":false,"INFO_STRATEGY":false,"INFO_FUND":false,"INFO_YEAR":"2014","TYPE_SIZE":".pdf&nbsp;153.08 Kb","SRC":"\/upload\/iblock\/ddd\/RRSS_na_28.02.2014.pdf","IBLOCK_SECTION_ID":"73"},{"NAME":"Расчет размера собственных средств на 31.01.2014 ООО «УК «Райффайзен Капитал»","DATE_ACTIVE_FROM":"26.02.2014 13:35:00","DATE_ACTIVE_TO":null,"DATE_SPAN":"Доступен&nbsp;до:&nbsp;бессрочно","INFO_SUBSECTION_VALUE":"1 Квартал","INFO_SUBSECTION":"104","INFO_STRATEGY_VALUE":false,"INFO_STRATEGY":false,"INFO_FUND":false,"INFO_YEAR":"2014","TYPE_SIZE":".pdf&nbsp;262.81 Kb","SRC":"\/upload\/iblock\/047\/RRSS_na_31.01.2014.pdf","IBLOCK_SECTION_ID":"73"},{"NAME":"Расчет размера собственных средств на 31.12.2013 ООО «УК «Райффайзен Капитал»","DATE_ACTIVE_FROM":"30.01.2014 16:26:00","DATE_ACTIVE_TO":null,"DATE_SPAN":"Доступен&nbsp;до:&nbsp;бессрочно","INFO_SUBSECTION_VALUE":"4 Квартал","INFO_SUBSECTION":"101","INFO_STRATEGY_VALUE":false,"INFO_STRATEGY":false,"INFO_FUND":false,"INFO_YEAR":"2013","TYPE_SIZE":".pdf&nbsp;159.96 Kb","SRC":"\/upload\/iblock\/b35\/RRSS_na_31.12.2013.pdf","IBLOCK_SECTION_ID":"73"},{"NAME":"Расчет размера собственных средств на 30.11.2013 ООО «УК «Райффайзен Капитал»","DATE_ACTIVE_FROM":"25.12.2013 16:25:00","DATE_ACTIVE_TO":null,"DATE_SPAN":"Доступен&nbsp;до:&nbsp;бессрочно","INFO_SUBSECTION_VALUE":"4 Квартал","INFO_SUBSECTION":"101","INFO_STRATEGY_VALUE":false,"INFO_STRATEGY":false,"INFO_FUND":false,"INFO_YEAR":"2013","TYPE_SIZE":".pdf&nbsp;104.93 Kb","SRC":"\/upload\/iblock\/808\/Raschet_razmera_sobstvennykh_sredstv_na_30.11.2013.pdf","IBLOCK_SECTION_ID":"73"},{"NAME":"Расчет размера собственных средств на 31.10.2013 ООО «УК «Райффайзен Капитал»","DATE_ACTIVE_FROM":"27.11.2013 14:17:00","DATE_ACTIVE_TO":null,"DATE_SPAN":"Доступен&nbsp;до:&nbsp;бессрочно","INFO_SUBSECTION_VALUE":"4 Квартал","INFO_SUBSECTION":"101","INFO_STRATEGY_VALUE":false,"INFO_STRATEGY":false,"INFO_FUND":false,"INFO_YEAR":"2013","TYPE_SIZE":".pdf&nbsp;159.48 Kb","SRC":"\/upload\/iblock\/300\/UK_Rayffayzen_Kapital_RRSS_na_31.10.2013.pdf","IBLOCK_SECTION_ID":"73"},{"NAME":"Расчет размера собственных средств на 30.09.2013 ООО «УК «Райффайзен Капитал»","DATE_ACTIVE_FROM":"25.10.2013 14:15:00","DATE_ACTIVE_TO":null,"DATE_SPAN":"Доступен&nbsp;до:&nbsp;бессрочно","INFO_SUBSECTION_VALUE":"3 Квартал","INFO_SUBSECTION":"102","INFO_STRATEGY_VALUE":false,"INFO_STRATEGY":false,"INFO_FUND":false,"INFO_YEAR":"2013","TYPE_SIZE":".pdf&nbsp;113.55 Kb","SRC":"\/upload\/iblock\/63e\/UK_Rayffayzen_Kapital_RRSS_na_30.09.2013.pdf","IBLOCK_SECTION_ID":"73"},{"NAME":"Расчет размера собственных средств на 31.08.2013 ООО «УК «Райффайзен Капитал»","DATE_ACTIVE_FROM":"27.09.2013 17:29:00","DATE_ACTIVE_TO":null,"DATE_SPAN":"Доступен&nbsp;до:&nbsp;бессрочно","INFO_SUBSECTION_VALUE":"3 Квартал","INFO_SUBSECTION":"102","INFO_STRATEGY_VALUE":false,"INFO_STRATEGY":false,"INFO_FUND":false,"INFO_YEAR":"2013","TYPE_SIZE":".pdf&nbsp;123.9 Kb","SRC":"\/upload\/iblock\/0fb\/Raschet_razmera_sobstvennykh_sredstv_na_31.08.2013.pdf","IBLOCK_SECTION_ID":"73"},{"NAME":"Расчет размера собственных средств на 31.07.2013 ООО «УК «Райффайзен Капитал»","DATE_ACTIVE_FROM":"28.08.2013 14:59:00","DATE_ACTIVE_TO":null,"DATE_SPAN":"Доступен&nbsp;до:&nbsp;бессрочно","INFO_SUBSECTION_VALUE":"3 Квартал","INFO_SUBSECTION":"102","INFO_STRATEGY_VALUE":false,"INFO_STRATEGY":false,"INFO_FUND":false,"INFO_YEAR":"2013","TYPE_SIZE":".pdf&nbsp;103.09 Kb","SRC":"\/upload\/iblock\/59f\/Raschet_razmera_sobstvennykh_sredstv_na_31.07.2013.pdf","IBLOCK_SECTION_ID":"73"},{"NAME":"Расчет размера собственных средств на 30.06.2013 ООО «УК «Райффайзен Капитал»","DATE_ACTIVE_FROM":"24.07.2013 17:18:00","DATE_ACTIVE_TO":null,"DATE_SPAN":"Доступен&nbsp;до:&nbsp;бессрочно","INFO_SUBSECTION_VALUE":"2 Квартал","INFO_SUBSECTION":"103","INFO_STRATEGY_VALUE":false,"INFO_STRATEGY":false,"INFO_FUND":false,"INFO_YEAR":"2013","TYPE_SIZE":".pdf&nbsp;98.28 Kb","SRC":"\/upload\/iblock\/d6e\/Raschet_razmera_sobstvennykh_sredstv_na_30.06.2013.pdf","IBLOCK_SECTION_ID":"73"},{"NAME":"Расчет размера собственных средств на 31.05.2013 ООО «УК «Райффайзен Капитал»","DATE_ACTIVE_FROM":"24.06.2013 12:12:00","DATE_ACTIVE_TO":null,"DATE_SPAN":"Доступен&nbsp;до:&nbsp;бессрочно","INFO_SUBSECTION_VALUE":"2 Квартал","INFO_SUBSECTION":"103","INFO_STRATEGY_VALUE":false,"INFO_STRATEGY":false,"INFO_FUND":false,"INFO_YEAR":"2013","TYPE_SIZE":".pdf&nbsp;113.88 Kb","SRC":"\/upload\/iblock\/a4e\/Raschet_razmera_sobstvennykh_sredstv_na_31.05.2013.pdf","IBLOCK_SECTION_ID":"73"},{"NAME":"Расчет размера собственных средств на 30.04.2013 ООО «УК «Райффайзен Капитал»","DATE_ACTIVE_FROM":"29.05.2013 19:35:00","DATE_ACTIVE_TO":null,"DATE_SPAN":"Доступен&nbsp;до:&nbsp;бессрочно","INFO_SUBSECTION_VALUE":"2 Квартал","INFO_SUBSECTION":"103","INFO_STRATEGY_VALUE":false,"INFO_STRATEGY":false,"INFO_FUND":false,"INFO_YEAR":"2013","TYPE_SIZE":".pdf&nbsp;133.64 Kb","SRC":"\/upload\/iblock\/188\/Raschet_razmera_sobstvennykh_sredstv_na_30.04.2013.pdf","IBLOCK_SECTION_ID":"73"},{"NAME":"Расчет размера собственных средств на 31.03.2013 ООО «УК «Райффайзен Капитал»","DATE_ACTIVE_FROM":"24.04.2013 19:45:00","DATE_ACTIVE_TO":null,"DATE_SPAN":"Доступен&nbsp;до:&nbsp;бессрочно","INFO_SUBSECTION_VALUE":"1 Квартал","INFO_SUBSECTION":"104","INFO_STRATEGY_VALUE":false,"INFO_STRATEGY":false,"INFO_FUND":false,"INFO_YEAR":"2013","TYPE_SIZE":".pdf&nbsp;107.4 Kb","SRC":"\/upload\/iblock\/9e4\/Raschet_razmera_sobstvennykh_sredstv_na_31.03.2013.pdf","IBLOCK_SECTION_ID":"73"},{"NAME":"Расчет размера собственных средств на 28.02.2013 ООО «УК «Райффайзен Капитал»","DATE_ACTIVE_FROM":"25.03.2013 15:44:00","DATE_ACTIVE_TO":null,"DATE_SPAN":"Доступен&nbsp;до:&nbsp;бессрочно","INFO_SUBSECTION_VALUE":"1 Квартал","INFO_SUBSECTION":"104","INFO_STRATEGY_VALUE":false,"INFO_STRATEGY":false,"INFO_FUND":false,"INFO_YEAR":"2013","TYPE_SIZE":".pdf&nbsp;234.4 Kb","SRC":"\/upload\/iblock\/048\/UK_Rayffayzen_Kapital_RRSS_na_28.02.2013.pdf","IBLOCK_SECTION_ID":"73"},{"NAME":"Расчет размера собственных средств на 31.01.2013 ООО «УК «Райффайзен Капитал»","DATE_ACTIVE_FROM":"26.02.2013 16:27:00","DATE_ACTIVE_TO":null,"DATE_SPAN":"Доступен&nbsp;до:&nbsp;бессрочно","INFO_SUBSECTION_VALUE":"1 Квартал","INFO_SUBSECTION":"104","INFO_STRATEGY_VALUE":false,"INFO_STRATEGY":false,"INFO_FUND":false,"INFO_YEAR":"2013","TYPE_SIZE":".pdf&nbsp;262.3 Kb","SRC":"\/upload\/iblock\/e18\/UK_Rayffayzen_Kapital_RRSS_na_31.01.2013.pdf","IBLOCK_SECTION_ID":"73"},{"NAME":"Расчет размера собственных средств на 31.12.2012 ООО «УК «Райффайзен Капитал»","DATE_ACTIVE_FROM":"24.01.2013 17:49:00","DATE_ACTIVE_TO":null,"DATE_SPAN":"Доступен&nbsp;до:&nbsp;бессрочно","INFO_SUBSECTION_VALUE":"4 Квартал","INFO_SUBSECTION":"101","INFO_STRATEGY_VALUE":false,"INFO_STRATEGY":false,"INFO_FUND":false,"INFO_YEAR":"2012","TYPE_SIZE":".pdf&nbsp;267.68 Kb","SRC":"\/upload\/iblock\/63e\/UK_Rayffayzen_Kapital_RRSS_na_31.12.2012.pdf","IBLOCK_SECTION_ID":"73"},{"NAME":"Расчет размера собственных средств на 30.11.2012 ООО «УК «Райффайзен Капитал»","DATE_ACTIVE_FROM":"19.12.2012 14:36:00","DATE_ACTIVE_TO":null,"DATE_SPAN":"Доступен&nbsp;до:&nbsp;бессрочно","INFO_SUBSECTION_VALUE":"4 Квартал","INFO_SUBSECTION":"101","INFO_STRATEGY_VALUE":false,"INFO_STRATEGY":false,"INFO_FUND":false,"INFO_YEAR":"2012","TYPE_SIZE":".pdf&nbsp;238.17 Kb","SRC":"\/upload\/iblock\/265\/OOO_UK_Rayffayzen_Kapital_RRSS_na_30.11.2012.pdf","IBLOCK_SECTION_ID":"73"},{"NAME":"Расчет размера собственных средств на 31.10.2012 ООО «УК «Райффайзен Капитал»","DATE_ACTIVE_FROM":"23.11.2012 17:24:00","DATE_ACTIVE_TO":null,"DATE_SPAN":"Доступен&nbsp;до:&nbsp;бессрочно","INFO_SUBSECTION_VALUE":"4 Квартал","INFO_SUBSECTION":"101","INFO_STRATEGY_VALUE":false,"INFO_STRATEGY":false,"INFO_FUND":false,"INFO_YEAR":"2012","TYPE_SIZE":".pdf&nbsp;254.9 Kb","SRC":"\/upload\/iblock\/999\/OOO_UK_Rayffayzen_Kapital_RRSS_na_31.10.12.pdf","IBLOCK_SECTION_ID":"73"},{"NAME":"Расчет размера собственных средств на 30.09.2012 ООО «УК «Райффайзен Капитал»","DATE_ACTIVE_FROM":"24.10.2012 15:30:00","DATE_ACTIVE_TO":null,"DATE_SPAN":"Доступен&nbsp;до:&nbsp;бессрочно","INFO_SUBSECTION_VALUE":"3 Квартал","INFO_SUBSECTION":"102","INFO_STRATEGY_VALUE":false,"INFO_STRATEGY":false,"INFO_FUND":false,"INFO_YEAR":"2012","TYPE_SIZE":".pdf&nbsp;278.65 Kb","SRC":"\/upload\/iblock\/7dc\/RRSS_na_30.09.2012.pdf","IBLOCK_SECTION_ID":"73"},{"NAME":"Расчет размера собственных средств на 31.08.2012 ООО «УК «Райффайзен Капитал»","DATE_ACTIVE_FROM":"20.09.2012 13:26:00","DATE_ACTIVE_TO":null,"DATE_SPAN":"Доступен&nbsp;до:&nbsp;бессрочно","INFO_SUBSECTION_VALUE":"3 Квартал","INFO_SUBSECTION":"102","INFO_STRATEGY_VALUE":false,"INFO_STRATEGY":false,"INFO_FUND":false,"INFO_YEAR":"2012","TYPE_SIZE":".pdf&nbsp;265.1 Kb","SRC":"\/upload\/iblock\/5a6\/RRSS_na_31.08.2012.pdf","IBLOCK_SECTION_ID":"73"},{"NAME":"Расчет размера собственных средств на 31.07.2012 ООО «УК «Райффайзен Капитал»","DATE_ACTIVE_FROM":"28.08.2012 19:56:00","DATE_ACTIVE_TO":null,"DATE_SPAN":"Доступен&nbsp;до:&nbsp;бессрочно","INFO_SUBSECTION_VALUE":"3 Квартал","INFO_SUBSECTION":"102","INFO_STRATEGY_VALUE":false,"INFO_STRATEGY":false,"INFO_FUND":false,"INFO_YEAR":"2012","TYPE_SIZE":".pdf&nbsp;255.22 Kb","SRC":"\/upload\/iblock\/62b\/Raschet_razmera_sobstvennykh_sredstv_31.07.2012.pdf","IBLOCK_SECTION_ID":"73"},{"NAME":"Расчет размера собственных средств на 30.06.2012 ООО «УК «Райффайзен Капитал»","DATE_ACTIVE_FROM":"26.07.2012 19:27:00","DATE_ACTIVE_TO":null,"DATE_SPAN":"Доступен&nbsp;до:&nbsp;бессрочно","INFO_SUBSECTION_VALUE":"2 Квартал","INFO_SUBSECTION":"103","INFO_STRATEGY_VALUE":false,"INFO_STRATEGY":false,"INFO_FUND":false,"INFO_YEAR":"2012","TYPE_SIZE":".pdf&nbsp;223.97 Kb","SRC":"\/upload\/iblock\/cf0\/Raschet_razmera_sobstvennykh_sredstv_30.06.2012.pdf","IBLOCK_SECTION_ID":"73"},{"NAME":"Расчет размера собственных средств на 31.05.2012 ООО «УК «Райффайзен Капитал»","DATE_ACTIVE_FROM":"22.06.2012 19:54:00","DATE_ACTIVE_TO":null,"DATE_SPAN":"Доступен&nbsp;до:&nbsp;бессрочно","INFO_SUBSECTION_VALUE":"2 Квартал","INFO_SUBSECTION":"103","INFO_STRATEGY_VALUE":false,"INFO_STRATEGY":false,"INFO_FUND":false,"INFO_YEAR":"2012","TYPE_SIZE":".pdf&nbsp;264.47 Kb","SRC":"\/upload\/iblock\/6bb\/Raschet_razmera_sobstvennykh_sredstv_31.05.2012.pdf","IBLOCK_SECTION_ID":"73"},{"NAME":"Расчет размера собственных средств на 30.04.2012 ООО «УК «Райффайзен Капитал»","DATE_ACTIVE_FROM":"18.05.2012 19:17:00","DATE_ACTIVE_TO":null,"DATE_SPAN":"Доступен&nbsp;до:&nbsp;бессрочно","INFO_SUBSECTION_VALUE":"2 Квартал","INFO_SUBSECTION":"103","INFO_STRATEGY_VALUE":false,"INFO_STRATEGY":false,"INFO_FUND":false,"INFO_YEAR":"2012","TYPE_SIZE":".pdf&nbsp;240.42 Kb","SRC":"\/upload\/iblock\/581\/Raschet_razmera_sobstvennykh_sredstv_30.04.2012.pdf","IBLOCK_SECTION_ID":"73"},{"NAME":"Расчет размера собственных средств на 31.03.2012 ООО «УК «Райффайзен Капитал»","DATE_ACTIVE_FROM":"25.04.2012 15:19:00","DATE_ACTIVE_TO":null,"DATE_SPAN":"Доступен&nbsp;до:&nbsp;бессрочно","INFO_SUBSECTION_VALUE":"1 Квартал","INFO_SUBSECTION":"104","INFO_STRATEGY_VALUE":false,"INFO_STRATEGY":false,"INFO_FUND":false,"INFO_YEAR":"2012","TYPE_SIZE":".pdf&nbsp;223.67 Kb","SRC":"\/upload\/iblock\/5b5\/Raschet_razmera_sobstvennykh_sredstv_31.03.2012.pdf","IBLOCK_SECTION_ID":"73"},{"NAME":"Расчет размера собственных средств на 29.02.2012 ООО «УК «Райффайзен Капитал»","DATE_ACTIVE_FROM":"29.03.2012 16:59:00","DATE_ACTIVE_TO":null,"DATE_SPAN":"Доступен&nbsp;до:&nbsp;бессрочно","INFO_SUBSECTION_VALUE":"1 Квартал","INFO_SUBSECTION":"104","INFO_STRATEGY_VALUE":false,"INFO_STRATEGY":false,"INFO_FUND":false,"INFO_YEAR":"2012","TYPE_SIZE":".pdf&nbsp;221.13 Kb","SRC":"\/upload\/iblock\/fad\/Raschet_razmera_sobstvennykh_sredstv_29.02.2012.pdf","IBLOCK_SECTION_ID":"73"},{"NAME":"Расчет размера собственных средств на 31.01.2012 ООО «УК «Райффайзен Капитал»","DATE_ACTIVE_FROM":"29.02.2012 18:26:00","DATE_ACTIVE_TO":null,"DATE_SPAN":"Доступен&nbsp;до:&nbsp;бессрочно","INFO_SUBSECTION_VALUE":"1 Квартал","INFO_SUBSECTION":"104","INFO_STRATEGY_VALUE":false,"INFO_STRATEGY":false,"INFO_FUND":false,"INFO_YEAR":"2012","TYPE_SIZE":".pdf&nbsp;240.29 Kb","SRC":"\/upload\/iblock\/fb1\/Raschet_razmera_sobstvennykh_sredstv_31.01.2012.pdf","IBLOCK_SECTION_ID":"73"},{"NAME":"Расчет размера собственных средств на 31.12.2011 ООО «УК «Райффайзен Капитал»","DATE_ACTIVE_FROM":"30.01.2012 13:26:00","DATE_ACTIVE_TO":null,"DATE_SPAN":"Доступен&nbsp;до:&nbsp;бессрочно","INFO_SUBSECTION_VALUE":"4 Квартал","INFO_SUBSECTION":"101","INFO_STRATEGY_VALUE":false,"INFO_STRATEGY":false,"INFO_FUND":false,"INFO_YEAR":"2011","TYPE_SIZE":".pdf&nbsp;229.07 Kb","SRC":"\/upload\/iblock\/5f7\/Raschet_razmera_sobstvennykh_sredstv_31.12.2011.pdf","IBLOCK_SECTION_ID":"73"},{"NAME":"Расчет размера собственных средств на 30.11.2011 ООО «УК «Райффайзен Капитал»","DATE_ACTIVE_FROM":"27.12.2011 12:10:00","DATE_ACTIVE_TO":null,"DATE_SPAN":"Доступен&nbsp;до:&nbsp;бессрочно","INFO_SUBSECTION_VALUE":"4 Квартал","INFO_SUBSECTION":"101","INFO_STRATEGY_VALUE":false,"INFO_STRATEGY":false,"INFO_FUND":false,"INFO_YEAR":"2011","TYPE_SIZE":".pdf&nbsp;226.64 Kb","SRC":"\/upload\/iblock\/b27\/Raschet_razmera_sobstvennykh_sredstv_30.11.2011.pdf","IBLOCK_SECTION_ID":"73"},{"NAME":"Расчет размера собственных средств на 31.10.2011 ООО «УК «Райффайзен Капитал»","DATE_ACTIVE_FROM":"16.11.2011 18:43:00","DATE_ACTIVE_TO":null,"DATE_SPAN":"Доступен&nbsp;до:&nbsp;бессрочно","INFO_SUBSECTION_VALUE":"4 Квартал","INFO_SUBSECTION":"101","INFO_STRATEGY_VALUE":false,"INFO_STRATEGY":false,"INFO_FUND":false,"INFO_YEAR":"2011","TYPE_SIZE":".pdf&nbsp;272.58 Kb","SRC":"\/upload\/iblock\/708\/Raschet_razmera_sobstvennykh_sredstv_31.10.2011.pdf","IBLOCK_SECTION_ID":"73"},{"NAME":"Расчет размера собственных средств на 30.09.2011 ООО «УК «Райффайзен Капитал»","DATE_ACTIVE_FROM":"25.10.2011 14:13:00","DATE_ACTIVE_TO":null,"DATE_SPAN":"Доступен&nbsp;до:&nbsp;бессрочно","INFO_SUBSECTION_VALUE":"3 Квартал","INFO_SUBSECTION":"102","INFO_STRATEGY_VALUE":false,"INFO_STRATEGY":false,"INFO_FUND":false,"INFO_YEAR":"2011","TYPE_SIZE":".pdf&nbsp;224.99 Kb","SRC":"\/upload\/iblock\/2ea\/Raschet_razmera_sobstvennykh_sredstv_30.09.2011.pdf","IBLOCK_SECTION_ID":"73"},{"NAME":"Расчет размера собственных средств на 31.08.2011 ООО «УК «Райффайзен Капитал»","DATE_ACTIVE_FROM":"26.09.2011 17:52:00","DATE_ACTIVE_TO":null,"DATE_SPAN":"Доступен&nbsp;до:&nbsp;бессрочно","INFO_SUBSECTION_VALUE":"3 Квартал","INFO_SUBSECTION":"102","INFO_STRATEGY_VALUE":false,"INFO_STRATEGY":false,"INFO_FUND":false,"INFO_YEAR":"2011","TYPE_SIZE":".pdf&nbsp;240.04 Kb","SRC":"\/upload\/iblock\/077\/Raschet_razmera_sobstvennykh_sredstv_31.08.2011.pdf","IBLOCK_SECTION_ID":"73"},{"NAME":"Расчет размера собственных средств на 31.07.2011 ООО «УК «Райффайзен Капитал»","DATE_ACTIVE_FROM":"26.08.2011 12:22:00","DATE_ACTIVE_TO":null,"DATE_SPAN":"Доступен&nbsp;до:&nbsp;бессрочно","INFO_SUBSECTION_VALUE":"3 Квартал","INFO_SUBSECTION":"102","INFO_STRATEGY_VALUE":false,"INFO_STRATEGY":false,"INFO_FUND":false,"INFO_YEAR":"2011","TYPE_SIZE":".pdf&nbsp;277.78 Kb","SRC":"\/upload\/iblock\/f8d\/Raschet_razmera_sobstvennykh_sredstv_31.07.2011.pdf","IBLOCK_SECTION_ID":"73"},{"NAME":"Расчет размера собственных средств на 30.06.2011 ООО «УК «Райффайзен Капитал»","DATE_ACTIVE_FROM":"29.07.2011 14:59:00","DATE_ACTIVE_TO":null,"DATE_SPAN":"Доступен&nbsp;до:&nbsp;бессрочно","INFO_SUBSECTION_VALUE":"2 Квартал","INFO_SUBSECTION":"103","INFO_STRATEGY_VALUE":false,"INFO_STRATEGY":false,"INFO_FUND":false,"INFO_YEAR":"2011","TYPE_SIZE":".pdf&nbsp;258.13 Kb","SRC":"\/upload\/iblock\/918\/Raschet_razmera_sobstvennykh_sredstv_30.06.2011.pdf","IBLOCK_SECTION_ID":"73"},{"NAME":"Расчет размера собственных средств на 31.05.2011 ООО «УК «Райффайзен Капитал»","DATE_ACTIVE_FROM":"21.06.2011 15:46:00","DATE_ACTIVE_TO":null,"DATE_SPAN":"Доступен&nbsp;до:&nbsp;бессрочно","INFO_SUBSECTION_VALUE":"2 Квартал","INFO_SUBSECTION":"103","INFO_STRATEGY_VALUE":false,"INFO_STRATEGY":false,"INFO_FUND":false,"INFO_YEAR":"2011","TYPE_SIZE":".pdf&nbsp;340.55 Kb","SRC":"\/upload\/iblock\/c8b\/Raschet_razmera_sobstvennykh_sredstv_na_31.05.2011_g.pdf","IBLOCK_SECTION_ID":"73"},{"NAME":"Расчет размера собственных средств на 30.04.2011 ООО «УК «Райффайзен Капитал»","DATE_ACTIVE_FROM":"26.05.2011 19:47:00","DATE_ACTIVE_TO":null,"DATE_SPAN":"Доступен&nbsp;до:&nbsp;бессрочно","INFO_SUBSECTION_VALUE":"2 Квартал","INFO_SUBSECTION":"103","INFO_STRATEGY_VALUE":false,"INFO_STRATEGY":false,"INFO_FUND":false,"INFO_YEAR":"2011","TYPE_SIZE":".pdf&nbsp;292.01 Kb","SRC":"\/upload\/iblock\/c01\/Raschet_razmera_sobstvennykh_sredstv_na_30.04.2011_g.pdf","IBLOCK_SECTION_ID":"73"},{"NAME":"Расчет размера собственных средств на 31.03.2011 ООО «УК «Райффайзен Капитал»","DATE_ACTIVE_FROM":"28.04.2011 12:33:00","DATE_ACTIVE_TO":null,"DATE_SPAN":"Доступен&nbsp;до:&nbsp;бессрочно","INFO_SUBSECTION_VALUE":"1 Квартал","INFO_SUBSECTION":"104","INFO_STRATEGY_VALUE":false,"INFO_STRATEGY":false,"INFO_FUND":false,"INFO_YEAR":"2011","TYPE_SIZE":".pdf&nbsp;289.58 Kb","SRC":"\/upload\/iblock\/544\/Raschet_razmera_sobstvennykh_sredstv_na_31.03.2011_g.pdf","IBLOCK_SECTION_ID":"73"},{"NAME":"Расчет размера собственных средств на 28.02.2011 ООО «УК «Райффайзен Капитал»","DATE_ACTIVE_FROM":"24.03.2011 16:41:00","DATE_ACTIVE_TO":null,"DATE_SPAN":"Доступен&nbsp;до:&nbsp;бессрочно","INFO_SUBSECTION_VALUE":"1 Квартал","INFO_SUBSECTION":"104","INFO_STRATEGY_VALUE":false,"INFO_STRATEGY":false,"INFO_FUND":false,"INFO_YEAR":"2011","TYPE_SIZE":".pdf&nbsp;334.45 Kb","SRC":"\/upload\/iblock\/234\/Raschet_razmera_sobstvennykh_sredstv_na_28.02.2011_g.pdf","IBLOCK_SECTION_ID":"73"},{"NAME":"Расчет размера собственных средств на 31.01.2011 ООО «УК «Райффайзен Капитал»","DATE_ACTIVE_FROM":"28.02.2011 13:28:00","DATE_ACTIVE_TO":null,"DATE_SPAN":"Доступен&nbsp;до:&nbsp;бессрочно","INFO_SUBSECTION_VALUE":"1 Квартал","INFO_SUBSECTION":"104","INFO_STRATEGY_VALUE":false,"INFO_STRATEGY":false,"INFO_FUND":false,"INFO_YEAR":"2011","TYPE_SIZE":".pdf&nbsp;334.45 Kb","SRC":"\/upload\/iblock\/88a\/Raschet_razmera_sobstvennykh_sredstv_na_28.02.2011_g.pdf","IBLOCK_SECTION_ID":"73"},{"NAME":"Расчет размера собственных средств на 31.12.2010 ООО «УК «Райффайзен Капитал»","DATE_ACTIVE_FROM":"26.01.2011 16:59:00","DATE_ACTIVE_TO":null,"DATE_SPAN":"Доступен&nbsp;до:&nbsp;бессрочно","INFO_SUBSECTION_VALUE":"4 Квартал","INFO_SUBSECTION":"101","INFO_STRATEGY_VALUE":false,"INFO_STRATEGY":false,"INFO_FUND":false,"INFO_YEAR":"2010","TYPE_SIZE":".pdf&nbsp;261.79 Kb","SRC":"\/upload\/iblock\/23a\/Rast_razmera_sobstvennykh_sredstv_na_31.12.2010_g..pdf","IBLOCK_SECTION_ID":"73"},{"NAME":"Расчет размера собственных средств на 30.11.2010 ООО «УК «Райффайзен Капитал»","DATE_ACTIVE_FROM":"29.12.2010 12:37:00","DATE_ACTIVE_TO":null,"DATE_SPAN":"Доступен&nbsp;до:&nbsp;бессрочно","INFO_SUBSECTION_VALUE":"4 Квартал","INFO_SUBSECTION":"101","INFO_STRATEGY_VALUE":false,"INFO_STRATEGY":false,"INFO_FUND":false,"INFO_YEAR":"2010","TYPE_SIZE":".pdf&nbsp;264.56 Kb","SRC":"\/upload\/iblock\/07f\/Raschet_razmera_sobstvennykh_sredstv_na_30.11.2010_g.pdf","IBLOCK_SECTION_ID":"73"},{"NAME":"Расчет размера собственных средств на 31.10.2010 ООО «УК «Райффайзен Капитал»","DATE_ACTIVE_FROM":"24.11.2010 16:59:00","DATE_ACTIVE_TO":null,"DATE_SPAN":"Доступен&nbsp;до:&nbsp;бессрочно","INFO_SUBSECTION_VALUE":"4 Квартал","INFO_SUBSECTION":"101","INFO_STRATEGY_VALUE":false,"INFO_STRATEGY":false,"INFO_FUND":false,"INFO_YEAR":"2010","TYPE_SIZE":".pdf&nbsp;459.83 Kb","SRC":"\/upload\/iblock\/b47\/Raschet_razmera_sobstvennykh_sredstv_na_31.10.2010_g.pdf","IBLOCK_SECTION_ID":"73"},{"NAME":"Расчет размера собственных средств на 30.09.2010 ООО «УК «Райффайзен Капитал»","DATE_ACTIVE_FROM":"26.10.2010 12:52:00","DATE_ACTIVE_TO":null,"DATE_SPAN":"Доступен&nbsp;до:&nbsp;бессрочно","INFO_SUBSECTION_VALUE":"3 Квартал","INFO_SUBSECTION":"102","INFO_STRATEGY_VALUE":false,"INFO_STRATEGY":false,"INFO_FUND":false,"INFO_YEAR":"2010","TYPE_SIZE":".pdf&nbsp;215.3 Kb","SRC":"\/upload\/iblock\/0c6\/Raschet_razmera_sobstvennykh_sredstv_na_30.09.2010_g.pdf","IBLOCK_SECTION_ID":"73"},{"NAME":"Расчет размера собственных средств на 31.08.2010 ООО «УК «Райффайзен Капитал»","DATE_ACTIVE_FROM":"29.09.2010 15:39:00","DATE_ACTIVE_TO":null,"DATE_SPAN":"Доступен&nbsp;до:&nbsp;бессрочно","INFO_SUBSECTION_VALUE":"3 Квартал","INFO_SUBSECTION":"102","INFO_STRATEGY_VALUE":false,"INFO_STRATEGY":false,"INFO_FUND":false,"INFO_YEAR":"2010","TYPE_SIZE":".pdf&nbsp;276.92 Kb","SRC":"\/upload\/iblock\/dbe\/Raschet_razmera_sobstvennykh_sredstv_na_31.08.2010_g.pdf","IBLOCK_SECTION_ID":"73"},{"NAME":"Расчет размера собственных средств на 31.07.2010 ООО «УК «Райффайзен Капитал»","DATE_ACTIVE_FROM":"26.08.2010 13:24:00","DATE_ACTIVE_TO":null,"DATE_SPAN":"Доступен&nbsp;до:&nbsp;бессрочно","INFO_SUBSECTION_VALUE":"3 Квартал","INFO_SUBSECTION":"102","INFO_STRATEGY_VALUE":false,"INFO_STRATEGY":false,"INFO_FUND":false,"INFO_YEAR":"2010","TYPE_SIZE":".pdf&nbsp;245.17 Kb","SRC":"\/upload\/iblock\/15b\/Raschet_razmera_sobstvennykh_sredstv_na_31.07.2010_g.pdf","IBLOCK_SECTION_ID":"73"},{"NAME":"Расчет размера собственных средств на 30.06.2010 ООО «УК «Райффайзен Капитал»","DATE_ACTIVE_FROM":"29.07.2010 16:14:00","DATE_ACTIVE_TO":null,"DATE_SPAN":"Доступен&nbsp;до:&nbsp;бессрочно","INFO_SUBSECTION_VALUE":"2 Квартал","INFO_SUBSECTION":"103","INFO_STRATEGY_VALUE":false,"INFO_STRATEGY":false,"INFO_FUND":false,"INFO_YEAR":"2010","TYPE_SIZE":".pdf&nbsp;230.43 Kb","SRC":"\/upload\/iblock\/338\/Raschet_razmera_sobstvennykh_sredstv_na_30.06.2010_g.pdf","IBLOCK_SECTION_ID":"73"},{"NAME":"Расчет размера собственных средств на 31.05.2010 ООО «УК «Райффайзен Капитал»","DATE_ACTIVE_FROM":"29.06.2010 13:25:00","DATE_ACTIVE_TO":null,"DATE_SPAN":"Доступен&nbsp;до:&nbsp;бессрочно","INFO_SUBSECTION_VALUE":"2 Квартал","INFO_SUBSECTION":"103","INFO_STRATEGY_VALUE":false,"INFO_STRATEGY":false,"INFO_FUND":false,"INFO_YEAR":"2010","TYPE_SIZE":".pdf&nbsp;228.99 Kb","SRC":"\/upload\/iblock\/0d5\/Raschet_razmera_sobstvennykh_sredstv_na_31.05.2010_g.pdf","IBLOCK_SECTION_ID":"73"},{"NAME":"Расчет размера собственных средств на 30.04.2010 ООО «УК «Райффайзен Капитал»","DATE_ACTIVE_FROM":"28.05.2010 13:54:00","DATE_ACTIVE_TO":null,"DATE_SPAN":"Доступен&nbsp;до:&nbsp;бессрочно","INFO_SUBSECTION_VALUE":"1 Квартал","INFO_SUBSECTION":"104","INFO_STRATEGY_VALUE":false,"INFO_STRATEGY":false,"INFO_FUND":false,"INFO_YEAR":"2010","TYPE_SIZE":".pdf&nbsp;229.88 Kb","SRC":"\/upload\/iblock\/53b\/Raschet_razmera_sobstvennykh_sredstv_na_30.04.2010_g..pdf","IBLOCK_SECTION_ID":"73"},{"NAME":"Расчет размера собственных средств на 31.03.2010 ООО «УК «Райффайзен Капитал»","DATE_ACTIVE_FROM":"22.04.2010 19:25:00","DATE_ACTIVE_TO":null,"DATE_SPAN":"Доступен&nbsp;до:&nbsp;бессрочно","INFO_SUBSECTION_VALUE":"1 Квартал","INFO_SUBSECTION":"104","INFO_STRATEGY_VALUE":false,"INFO_STRATEGY":false,"INFO_FUND":false,"INFO_YEAR":"2010","TYPE_SIZE":".pdf&nbsp;283.87 Kb","SRC":"\/upload\/iblock\/aec\/Raschet_razmera_sobstvennykh_sredstv_na_31.03.2010_OOO_UK_Rayffayzen_Kapital.pdf","IBLOCK_SECTION_ID":"73"},{"NAME":"Расчет размера собственных средств на 28.02.2010 ООО УК Райффайзен Капитал","DATE_ACTIVE_FROM":"19.03.2010 12:43:00","DATE_ACTIVE_TO":null,"DATE_SPAN":"Доступен&nbsp;до:&nbsp;бессрочно","INFO_SUBSECTION_VALUE":"1 Квартал","INFO_SUBSECTION":"104","INFO_STRATEGY_VALUE":false,"INFO_STRATEGY":false,"INFO_FUND":false,"INFO_YEAR":"2010","TYPE_SIZE":".pdf&nbsp;214.67 Kb","SRC":"\/upload\/iblock\/b61\/Raschet_razmera_sobstvennykh_sredstv_na_28.02.2010_OOO_UK_Rayffayzen_Kapital.pdf","IBLOCK_SECTION_ID":"73"},{"NAME":"Расчет размера собственных средств на 31.01.2010 ООО «УК «Райффайзен Капитал»","DATE_ACTIVE_FROM":"26.02.2010 12:25:00","DATE_ACTIVE_TO":null,"DATE_SPAN":"Доступен&nbsp;до:&nbsp;бессрочно","INFO_SUBSECTION_VALUE":"1 Квартал","INFO_SUBSECTION":"104","INFO_STRATEGY_VALUE":false,"INFO_STRATEGY":false,"INFO_FUND":false,"INFO_YEAR":"2010","TYPE_SIZE":".pdf&nbsp;216 Kb","SRC":"\/upload\/iblock\/dba\/Sobstvennye_sredstva_na_01.02.2010.pdf","IBLOCK_SECTION_ID":"73"},{"NAME":"Расчет размера собственных средств на 31.10.2009 ООО «УК «Райффайзен Капитал».","DATE_ACTIVE_FROM":"30.01.2010 17:25:00","DATE_ACTIVE_TO":null,"DATE_SPAN":"Доступен&nbsp;до:&nbsp;бессрочно","INFO_SUBSECTION_VALUE":"4 Квартал","INFO_SUBSECTION":"101","INFO_STRATEGY_VALUE":false,"INFO_STRATEGY":false,"INFO_FUND":false,"INFO_YEAR":"2009","TYPE_SIZE":".pdf&nbsp;204.46 Kb","SRC":"\/upload\/iblock\/71f\/Raschet_sobstvennykh_sredstv_30.10.2009.pdf","IBLOCK_SECTION_ID":"73"},{"NAME":"Расчет размера собственных средств на 31.12.2009 ООО «УК «Райффайзен Капитал».","DATE_ACTIVE_FROM":"30.01.2010 14:54:00","DATE_ACTIVE_TO":null,"DATE_SPAN":"Доступен&nbsp;до:&nbsp;бессрочно","INFO_SUBSECTION_VALUE":"4 Квартал","INFO_SUBSECTION":"101","INFO_STRATEGY_VALUE":false,"INFO_STRATEGY":false,"INFO_FUND":false,"INFO_YEAR":"2009","TYPE_SIZE":".pdf&nbsp;223.9 Kb","SRC":"\/upload\/iblock\/a0d\/Raschet_razmera_sobstvennykh_sredstv_na_31.12.2009.pdf","IBLOCK_SECTION_ID":"73"},{"NAME":"Расчет размера собственных средств на 30.11.2009 ООО «УК «Райффайзен Капитал».","DATE_ACTIVE_FROM":"28.12.2009 13:34:00","DATE_ACTIVE_TO":null,"DATE_SPAN":"Доступен&nbsp;до:&nbsp;бессрочно","INFO_SUBSECTION_VALUE":"4 Квартал","INFO_SUBSECTION":"101","INFO_STRATEGY_VALUE":false,"INFO_STRATEGY":false,"INFO_FUND":false,"INFO_YEAR":"2009","TYPE_SIZE":".pdf&nbsp;228.52 Kb","SRC":"\/upload\/iblock\/ad2\/Spravka_o_strukture_sobstvennosti_na_30.11.2009_g..pdf","IBLOCK_SECTION_ID":"73"},{"NAME":"Расчет размера собственных средств на 30.09.2009 г. ООО «УК «Райффайзен Капитал»","DATE_ACTIVE_FROM":"29.10.2009 17:50:00","DATE_ACTIVE_TO":null,"DATE_SPAN":"Доступен&nbsp;до:&nbsp;бессрочно","INFO_SUBSECTION_VALUE":"3 Квартал","INFO_SUBSECTION":"102","INFO_STRATEGY_VALUE":false,"INFO_STRATEGY":false,"INFO_FUND":false,"INFO_YEAR":"2009","TYPE_SIZE":".pdf&nbsp;213 Kb","SRC":"\/upload\/iblock\/3ea\/Raschet_razmera_sobstvennykh_sredstv_na_30.09.2009.pdf","IBLOCK_SECTION_ID":"73"},{"NAME":"Расчет размера собственных средств на 31.08.2009 ООО «УК «Райффайзен Капитал».","DATE_ACTIVE_FROM":"29.09.2009 16:57:00","DATE_ACTIVE_TO":null,"DATE_SPAN":"Доступен&nbsp;до:&nbsp;бессрочно","INFO_SUBSECTION_VALUE":"3 Квартал","INFO_SUBSECTION":"102","INFO_STRATEGY_VALUE":false,"INFO_STRATEGY":false,"INFO_FUND":false,"INFO_YEAR":"2009","TYPE_SIZE":".pdf&nbsp;227.94 Kb","SRC":"\/upload\/iblock\/a99\/Raschet_razmera_sobstvennykh_sredstv_na_31.08.2009.pdf","IBLOCK_SECTION_ID":"73"},{"NAME":"Расчет размера собственных средств на 31.07.2009 ООО «УК «Райффайзен Капитал».","DATE_ACTIVE_FROM":"27.08.2009 13:19:00","DATE_ACTIVE_TO":null,"DATE_SPAN":"Доступен&nbsp;до:&nbsp;бессрочно","INFO_SUBSECTION_VALUE":"3 Квартал","INFO_SUBSECTION":"102","INFO_STRATEGY_VALUE":false,"INFO_STRATEGY":false,"INFO_FUND":false,"INFO_YEAR":"2009","TYPE_SIZE":".pdf&nbsp;212.32 Kb","SRC":"\/upload\/iblock\/7c7\/Sobstvennye_sredstva.pdf","IBLOCK_SECTION_ID":"73"},{"NAME":"Расчет размера собственных средств на 30.06.2009 ООО «УК «Райффайзен Капитал».","DATE_ACTIVE_FROM":"29.07.2009 19:36:00","DATE_ACTIVE_TO":null,"DATE_SPAN":"Доступен&nbsp;до:&nbsp;бессрочно","INFO_SUBSECTION_VALUE":"2 Квартал","INFO_SUBSECTION":"103","INFO_STRATEGY_VALUE":false,"INFO_STRATEGY":false,"INFO_FUND":false,"INFO_YEAR":"2009","TYPE_SIZE":".pdf&nbsp;210.38 Kb","SRC":"\/upload\/iblock\/c57\/Raschet_sobstvennykh_sredstv_IIQ09.pdf","IBLOCK_SECTION_ID":"73"},{"NAME":"Расчет размера собственных средств на 31.03.2009 ООО «УК «Райффайзен Капитал».","DATE_ACTIVE_FROM":"29.04.2009 18:24:00","DATE_ACTIVE_TO":null,"DATE_SPAN":"Доступен&nbsp;до:&nbsp;бессрочно","INFO_SUBSECTION_VALUE":"1 Квартал","INFO_SUBSECTION":"104","INFO_STRATEGY_VALUE":false,"INFO_STRATEGY":false,"INFO_FUND":false,"INFO_YEAR":"2009","TYPE_SIZE":".pdf&nbsp;119.61 Kb","SRC":"\/upload\/iblock\/c2a\/Cobstvennye_sredstva_na_01042009.pdf","IBLOCK_SECTION_ID":"73"},{"NAME":"Собственные средства ООО «УК «Райффайзен Капитал» согласно Форме С-01 на 01.01.2008","DATE_ACTIVE_FROM":"14.01.2008 19:30:00","DATE_ACTIVE_TO":null,"DATE_SPAN":"Доступен&nbsp;до:&nbsp;бессрочно","INFO_SUBSECTION_VALUE":"Год","INFO_SUBSECTION":"135","INFO_STRATEGY_VALUE":false,"INFO_STRATEGY":false,"INFO_FUND":false,"INFO_YEAR":"2007","TYPE_SIZE":".pdf&nbsp;101.7 Kb","SRC":"\/upload\/iblock\/0fd\/Sobstvennye_sredstva_UK_forma_S_01_2007.pdf","IBLOCK_SECTION_ID":"73"},{"NAME":"Собственные средства ООО «УК «Райффайзен Капитал» согласно 5\/пс ФКЦБ от 21.03.2002 на 01.01.2008","DATE_ACTIVE_FROM":"14.01.2008 18:45:00","DATE_ACTIVE_TO":null,"DATE_SPAN":"Доступен&nbsp;до:&nbsp;бессрочно","INFO_SUBSECTION_VALUE":"Год","INFO_SUBSECTION":"135","INFO_STRATEGY_VALUE":false,"INFO_STRATEGY":false,"INFO_FUND":false,"INFO_YEAR":"2007","TYPE_SIZE":".pdf&nbsp;95.61 Kb","SRC":"\/upload\/iblock\/7ef\/Sobstvennye_sredstva_UK_5_ps_FKTSB_2007.pdf","IBLOCK_SECTION_ID":"73"}];
+    var $infoSubsection = [{"ID":"135","VALUE":"Год","SORT":"100","PROPERTY_ID":"239","XML_ID":"f93fc5d91c34e8c54f3047f1430a73f1"},{"ID":"101","VALUE":"4 Квартал","SORT":"200","PROPERTY_ID":"239","XML_ID":"SUBSECTION_1"},{"ID":"102","VALUE":"3 Квартал","SORT":"300","PROPERTY_ID":"239","XML_ID":"SUBSECTION_2"},{"ID":"103","VALUE":"2 Квартал","SORT":"400","PROPERTY_ID":"239","XML_ID":"SUBSECTION_3"},{"ID":"104","VALUE":"1 Квартал","SORT":"500","PROPERTY_ID":"239","XML_ID":"SUBSECTION_4"},{"ID":"105","VALUE":"Актуальные","SORT":"500","PROPERTY_ID":"239","XML_ID":"SUBSECTION_5"},{"ID":"106","VALUE":"Архив","SORT":"500","PROPERTY_ID":"239","XML_ID":"SUBSECTION_6"},{"ID":"197","VALUE":"Предыдущие редакции","SORT":"500","PROPERTY_ID":"239","XML_ID":"SUBSECTION_7"},{"ID":0,"VALUE":false}];
+    var $infoStrategy = [{"ID":"97","VALUE":"Защита капитала","SORT":"500","PROPERTY_ID":"238","XML_ID":"STRATEGY_1"},{"ID":"98","VALUE":"Классическое ДУ","SORT":"500","PROPERTY_ID":"238","XML_ID":"STRATEGY_2"},{"ID":"171","VALUE":"ИИС","SORT":"500","PROPERTY_ID":"238","XML_ID":"8bbe897375cb1d555167c660fa23f2fa"}];
+</script>
+<script>
+    $(document).ready(function () {
+        if (navigator.userAgent.match(/iPhone|iPad|iPod/i)) {
+            $("body").addClass("mac_os");
+        }
+    });
+</script>
+
+
+
+<div style="left: -1000px; overflow: scroll; position: absolute; top: -1000px; border: none; box-sizing: content-box; height: 200px; margin: 0px; padding: 0px; width: 200px;"><div style="border: none; box-sizing: content-box; height: 200px; margin: 0px; padding: 0px; width: 200px;"></div></div>

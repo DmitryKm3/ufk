@@ -1,0 +1,726 @@
+
+<header class="header ">
+    <div class="container">
+        <a class="header-logo" href="/">
+            <img src="/local/templates/asset-management/images/logo_ru.png">
+        </a>
+        
+
+
+    <div class="top-menu-inner">
+            
+                    <div class="menu-item-wrapper">
+                <a class="simple" href="/ofitsialnaya_informatsiya/">Официальная информация</a>
+                            </div>
+                            
+                    <div class="menu-item-wrapper has-children">
+                                    <strong class="blue">Раскрытие информации</strong>
+                                            <div class="show-children"></div>
+                                </div>
+                            <div class="top-menu-children level-1">
+                    
+                    <div class="menu-item-wrapper">
+                <a class="simple" href="/public/licenses/">Лицензии</a>
+                            </div>
+                            
+                    <div class="menu-item-wrapper">
+                <a class="simple" href="/public/buhotchetnost/">Финансовая отчетность и аудиторское заключение</a>
+                            </div>
+                            
+                    <div class="menu-item-wrapper">
+                                    <strong class="blue">Расчет размера собственных средств</strong>
+                                </div>
+                            
+                    <div class="menu-item-wrapper">
+                <a class="simple" href="/public/edms/">Электронный документооборот</a>
+                            </div>
+                            
+                    <div class="menu-item-wrapper">
+                <a class="simple" href="/public/regulations/">Регламент о признании лиц квалифицированными инвесторами</a>
+                            </div>
+                            
+                    <div class="menu-item-wrapper">
+                <a class="simple" href="/public/msfo/">Консолидированная МСФО отчетность</a>
+                            </div>
+                            
+                    <div class="menu-item-wrapper">
+                <a class="simple" href="/public/inside_info/">Перечень информации, относящейся к инсайдерской информации</a>
+                            </div>
+                            
+                    <div class="menu-item-wrapper">
+                <a class="simple" href="/public/company/">Раскрытие предшествующих наименований компании</a>
+                            </div>
+                            
+                    <div class="menu-item-wrapper">
+                <a class="simple" href="/public/conflict/">Информация о конфликте интересов УК</a>
+                            </div>
+                            
+                    <div class="menu-item-wrapper">
+                <a class="simple" href="/public/security/">Информационная безопасность и Персональные данные</a>
+                            </div>
+                            
+                    <div class="menu-item-wrapper has-children">
+                <a class="simple" href="/public/public_management/">Раскрытие информации по доверительному управлению</a>
+                                    <div class="show-children"></div>
+                            </div>
+                            <div class="top-menu-children level-2">
+                    
+                    <div class="menu-item-wrapper">
+                <a class="simple" href="/public/mandatory/">Обязательная информация, подлежащая раскрытию</a>
+                            </div>
+                            
+                    <div class="menu-item-wrapper">
+                <a class="simple" href="/public/documents/">Документы по управлению ценными бумагами</a>
+                            </div>
+                                            </div>
+                            </div>
+                    
+                    <div class="menu-item-wrapper has-children">
+                <a class="simple" href="/help/">Поддержка</a>
+                                    <div class="show-children"></div>
+                            </div>
+                            <div class="top-menu-children level-1">
+                    
+                    <div class="menu-item-wrapper">
+                <a class="simple" href="/help/consultation/">Обратный звонок или консультация</a>
+                            </div>
+                            
+                    <div class="menu-item-wrapper">
+                <a class="simple" href="/help/handling/">Подать обращение</a>
+                            </div>
+                                            </div>
+                    
+                    <div class="menu-item-wrapper has-children">
+                <a class="simple" href="/contacts/">Контакты</a>
+                                    <div class="show-children"></div>
+                            </div>
+                            <div class="top-menu-children level-1">
+                    
+                    <div class="menu-item-wrapper">
+                <a class="simple" href="/contacts/info/">Контакты</a>
+                            </div>
+                            
+                    <div class="menu-item-wrapper">
+                <a class="simple" href="/contacts/requisites/">Реквизиты компании</a>
+                            </div>
+                                </div>
+                    </div>
+            </div>
+        <div id="menu-icon-wrapper">
+            <img class="open-menu" src="/local/templates/asset-management/images/menu-icon.svg">
+
+        </div>
+    
+</header>
+
+
+<div id="mobile_menu" class="mobile_menu_wrap ">
+    <div class="mobile_menu whitebg">
+        <div class="mobile_menu_close">
+            <img class="close-menu" src="/local/templates/asset-management/images/menu_icon_close.svg">
+        </div>
+        
+<ul id="horizontal-multilevel-menu">
+
+
+	
+	
+									<li><a href="/ofitsialnaya_informatsiya/" class="root-item">Официальная информация</a></li>
+					
+	
+	
+
+	
+	
+					<li class="root-item-parent  selectedli"><a href="/public/" class="  root-item  root-item-selected">Раскрытие информации</a>
+				<ul>
+		
+	
+	
+
+	
+	
+									<li><a href="/public/licenses/">Лицензии</a></li>
+					
+	
+	
+
+	
+	
+									<li><a href="/public/buhotchetnost/">Финансовая отчетность и аудиторское заключение</a></li>
+					
+	
+	
+
+	
+	
+									<li class="item-selected"><a href="/public/calculation/">Расчет размера собственных средств</a></li>
+					
+	
+	
+
+	
+	
+									<li><a href="/public/edms/">Электронный документооборот</a></li>
+					
+	
+	
+
+	
+	
+									<li><a href="/public/regulations/">Регламент о признании лиц квалифицированными инвесторами</a></li>
+					
+	
+	
+
+	
+	
+									<li><a href="/public/msfo/">Консолидированная МСФО отчетность</a></li>
+					
+	
+	
+
+	
+	
+									<li><a href="/public/inside_info/">Перечень информации, относящейся к инсайдерской информации</a></li>
+					
+	
+	
+
+	
+	
+									<li><a href="/public/company/">Раскрытие предшествующих наименований компании</a></li>
+					
+	
+	
+
+	
+	
+									<li><a href="/public/conflict/">Информация о конфликте интересов УК</a></li>
+					
+	
+	
+
+	
+	
+									<li><a href="/public/security/">Информационная безопасность и Персональные данные</a></li>
+					
+	
+	
+
+	
+	
+					<li class="root-item-parent "><a href="/public/public_management/" class="root-item">Раскрытие информации по доверительному управлению</a>
+				<ul>
+		
+	
+	
+
+	
+	
+									<li><a href="/public/mandatory/">Обязательная информация, подлежащая раскрытию</a></li>
+					
+	
+	
+
+	
+	
+									<li><a href="/public/documents/">Документы по управлению ценными бумагами</a></li>
+					
+	
+	
+
+			</ul></li></ul></li>	
+	
+					<li class="root-item-parent  "><a href="/help/" class=" root-item">Поддержка</a>
+				<ul>
+		
+	
+	
+
+	
+	
+									<li><a href="/help/consultation/">Обратный звонок или консультация</a></li>
+					
+	
+	
+
+	
+	
+									<li><a href="/help/handling/">Подать обращение</a></li>
+					
+	
+	
+
+			</ul></li>	
+	
+					<li class="root-item-parent  "><a href="/contacts/" class=" root-item">Контакты</a>
+				<ul>
+		
+	
+	
+
+	
+	
+									<li><a href="/contacts/info/">Контакты</a></li>
+					
+	
+	
+
+	
+	
+									<li><a href="/contacts/requisites/">Реквизиты компании</a></li>
+					
+	
+	
+
+	</ul></li>
+</ul>
+<div class="menu-clear-left"></div>
+    </div>
+    <div class="mobile_menu_bg"></div>
+</div>
+<div class="content_wrapper">
+    <div class="container">
+                    <div class="left_menu whitebg bord_radius">
+                
+<ul id="horizontal-multilevel-menu">
+
+
+	
+	
+									<li><a href="/public/licenses/" class="root-item">Лицензии</a></li>
+					
+	
+	
+
+	
+	
+									<li><a href="/public/buhotchetnost/" class="root-item">Финансовая отчетность и аудиторское заключение</a></li>
+					
+	
+	
+
+	
+	
+									<li><a href="/public/calculation/" class="root-item-selected">Расчет размера собственных средств</a></li>
+					
+	
+	
+
+	
+	
+									<li><a href="/public/edms/" class="root-item">Электронный документооборот</a></li>
+					
+	
+	
+
+	
+	
+									<li><a href="/public/regulations/" class="root-item">Регламент о признании лиц квалифицированными инвесторами</a></li>
+					
+	
+	
+
+	
+	
+									<li><a href="/public/msfo/" class="root-item">Консолидированная МСФО отчетность</a></li>
+					
+	
+	
+
+	
+	
+									<li><a href="/public/inside_info/" class="root-item">Перечень информации, относящейся к инсайдерской информации</a></li>
+					
+	
+	
+
+	
+	
+									<li><a href="/public/company/" class="root-item">Раскрытие предшествующих наименований компании</a></li>
+					
+	
+	
+
+	
+	
+									<li><a href="/public/conflict/" class="root-item">Информация о конфликте интересов УК</a></li>
+					
+	
+	
+
+	
+	
+									<li><a href="/public/security/" class="root-item">Информационная безопасность и Персональные данные</a></li>
+					
+	
+	
+
+	
+	
+					<li class="root-item-parent  "><a href="/public/public_management/" class=" root-item">Раскрытие информации по доверительному управлению</a>
+				<ul>
+		
+	
+	
+
+	
+	
+									<li><a href="/public/mandatory/">Обязательная информация, подлежащая раскрытию</a></li>
+					
+	
+	
+
+	
+	
+									<li><a href="/public/documents/">Документы по управлению ценными бумагами</a></li>
+					
+	
+	
+
+	</ul></li>
+</ul>
+<div class="menu-clear-left"></div>
+            </div>
+                <div class="content_block whitebg bord_radius">
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+    <h1>Расчет размера собственных средств</h1>
+
+    <div class="disclosure-wrapper">
+                                <div id="bx_3218110189_9987" class="disclosure-item">
+                <div class="disclosure-name" nowrap="">
+                    <a href="/upload/iblock/466/k41g9dp8fmyn0p31c6024npc1yjxh1j6/Raschet-sobstvennykh-sredstv-OOO-VTB-UA_31.05.2023-g.pdf" target="_blank">Расчет размера собственных средств на 31.05.2023 г.</a>
+                    <div class="disclosure-dates-wrapper">
+                        <div class="date-from">
+                            <span class="date-notice">Дата и время публикации</span>
+                            <span class="date-val">16.06.2023 13:45</span>
+                        </div>
+                                                    <div class="date-to">
+                                <span class="date-notice">Действителен до</span>
+                                <span class="date-val">*</span>
+                            </div>
+                                            </div>
+                </div>
+                <div class="disclosure-file center">
+                    <div class="disclosure-file-inner">
+                        <a href="/upload/iblock/466/k41g9dp8fmyn0p31c6024npc1yjxh1j6/Raschet-sobstvennykh-sredstv-OOO-VTB-UA_31.05.2023-g.pdf" class="disclosure-file-link" target="_blank" title="Расчет размера собственных средств на 31.05.2023 г.">
+                            <svg class="icon-pdf" width="40" height="40" viewBox="0 0 40 40" fill="none" xmlns="http://www.w3.org/2000/svg">
+    <path d="M15.9909 22.3818C15.3952 21.9549 14.6666 21.755 13.9364 21.8181C13.2453 21.8081 12.5547 21.8598 11.8727 21.9727V29.0909H13.3818V26.5091C13.5543 26.5214 13.7275 26.5214 13.9 26.5091C14.7019 26.5611 15.4912 26.2893 16.0909 25.7545C16.5139 25.2884 16.7361 24.6743 16.7091 24.0455C16.7234 23.4128 16.4612 22.8053 15.9909 22.3818ZM14.1366 25.3077C14.0544 25.3109 13.972 25.3052 13.8909 25.2909L13.9363 25.2819C13.7672 25.3017 13.5963 25.3017 13.4273 25.2819V23.1182C13.6327 23.07 13.8436 23.0486 14.0545 23.0545C14.8182 23.0545 15.2455 23.4545 15.2455 24.1091C15.2702 24.7463 14.7738 25.2829 14.1366 25.3077Z"></path>
+    <path d="M27.2728 0H7.27276C5.26448 0 3.63635 1.62805 3.63635 3.63633V36.3636C3.63635 38.3719 5.2644 39.9999 7.27268 39.9999H32.7272C34.7355 39.9999 36.3635 38.3719 36.3635 36.3636V10L27.2728 0ZM34.5455 36.3637C34.5455 37.3678 33.7314 38.1819 32.7273 38.1819H7.27276C6.26862 38.1819 5.45456 37.3678 5.45456 36.3637V3.63633C5.45456 2.63219 6.26862 1.81813 7.27276 1.81813H23.6364V10.9091C23.6364 11.9132 24.4504 12.7273 25.4546 12.7273H34.5456V36.3637H34.5455ZM25.4546 10.9091V1.8182H26.3636L34.5454 10.9091H25.4546V10.9091Z"></path>
+    <path d="M22.1455 22.6454C21.3562 22.0483 20.3786 21.7547 19.3909 21.8182C18.7 21.8133 18.0098 21.8651 17.3273 21.9727V29.0909C17.8998 29.1675 18.477 29.2039 19.0545 29.2C20.1666 29.2822 21.271 28.9594 22.1636 28.2909C22.9406 27.5255 23.3484 26.4614 23.2818 25.3727C23.3568 24.3349 22.9352 23.3229 22.1455 22.6454ZM21.6727 25.3727C21.6637 27.0909 20.7637 27.9 19.3909 27.8909V27.8819C19.2156 27.8994 19.039 27.8994 18.8637 27.8819V23.1455C19.0907 23.0976 19.3226 23.0762 19.5546 23.0819C20.6565 23.0044 21.6124 23.8349 21.6898 24.9368C21.7 25.0822 21.6943 25.2284 21.6727 25.3727Z"></path>
+    <path d="M24.6 29.0909H26.1273V26.1909H28.5455V24.8636H26.1273V23.2182H28.7182V21.8818H24.6V29.0909Z"></path>
+</svg>
+                            <div class="doc-download-wrapper">
+                                <div class="doc-download-down">Скачать</div>
+                                <small>0.20                                    mb</small>
+                            </div>
+                        </a>
+                    </div>
+                </div>
+            </div>
+                                <div id="bx_3218110189_9985" class="disclosure-item">
+                <div class="disclosure-name" nowrap="">
+                    <a href="/upload/iblock/3ab/ja40hrgv7p7lesbk3zs60z4w3r2btn20/Raschet-sobstvennykh-sredstv-OOO-VTB-UA_30.04.2023-g.pdf" target="_blank">Расчет размера собственных средств на 30.04.2023 г.</a>
+                    <div class="disclosure-dates-wrapper">
+                        <div class="date-from">
+                            <span class="date-notice">Дата и время публикации</span>
+                            <span class="date-val">18.05.2023 13:27</span>
+                        </div>
+                                                    <div class="date-to">
+                                <span class="date-notice">Действителен до</span>
+                                <span class="date-val">*</span>
+                            </div>
+                                            </div>
+                </div>
+                <div class="disclosure-file center">
+                    <div class="disclosure-file-inner">
+                        <a href="/upload/iblock/3ab/ja40hrgv7p7lesbk3zs60z4w3r2btn20/Raschet-sobstvennykh-sredstv-OOO-VTB-UA_30.04.2023-g.pdf" class="disclosure-file-link" target="_blank" title="Расчет размера собственных средств на 30.04.2023 г.">
+                            <svg class="icon-pdf" width="40" height="40" viewBox="0 0 40 40" fill="none" xmlns="http://www.w3.org/2000/svg">
+    <path d="M15.9909 22.3818C15.3952 21.9549 14.6666 21.755 13.9364 21.8181C13.2453 21.8081 12.5547 21.8598 11.8727 21.9727V29.0909H13.3818V26.5091C13.5543 26.5214 13.7275 26.5214 13.9 26.5091C14.7019 26.5611 15.4912 26.2893 16.0909 25.7545C16.5139 25.2884 16.7361 24.6743 16.7091 24.0455C16.7234 23.4128 16.4612 22.8053 15.9909 22.3818ZM14.1366 25.3077C14.0544 25.3109 13.972 25.3052 13.8909 25.2909L13.9363 25.2819C13.7672 25.3017 13.5963 25.3017 13.4273 25.2819V23.1182C13.6327 23.07 13.8436 23.0486 14.0545 23.0545C14.8182 23.0545 15.2455 23.4545 15.2455 24.1091C15.2702 24.7463 14.7738 25.2829 14.1366 25.3077Z"></path>
+    <path d="M27.2728 0H7.27276C5.26448 0 3.63635 1.62805 3.63635 3.63633V36.3636C3.63635 38.3719 5.2644 39.9999 7.27268 39.9999H32.7272C34.7355 39.9999 36.3635 38.3719 36.3635 36.3636V10L27.2728 0ZM34.5455 36.3637C34.5455 37.3678 33.7314 38.1819 32.7273 38.1819H7.27276C6.26862 38.1819 5.45456 37.3678 5.45456 36.3637V3.63633C5.45456 2.63219 6.26862 1.81813 7.27276 1.81813H23.6364V10.9091C23.6364 11.9132 24.4504 12.7273 25.4546 12.7273H34.5456V36.3637H34.5455ZM25.4546 10.9091V1.8182H26.3636L34.5454 10.9091H25.4546V10.9091Z"></path>
+    <path d="M22.1455 22.6454C21.3562 22.0483 20.3786 21.7547 19.3909 21.8182C18.7 21.8133 18.0098 21.8651 17.3273 21.9727V29.0909C17.8998 29.1675 18.477 29.2039 19.0545 29.2C20.1666 29.2822 21.271 28.9594 22.1636 28.2909C22.9406 27.5255 23.3484 26.4614 23.2818 25.3727C23.3568 24.3349 22.9352 23.3229 22.1455 22.6454ZM21.6727 25.3727C21.6637 27.0909 20.7637 27.9 19.3909 27.8909V27.8819C19.2156 27.8994 19.039 27.8994 18.8637 27.8819V23.1455C19.0907 23.0976 19.3226 23.0762 19.5546 23.0819C20.6565 23.0044 21.6124 23.8349 21.6898 24.9368C21.7 25.0822 21.6943 25.2284 21.6727 25.3727Z"></path>
+    <path d="M24.6 29.0909H26.1273V26.1909H28.5455V24.8636H26.1273V23.2182H28.7182V21.8818H24.6V29.0909Z"></path>
+</svg>
+                            <div class="doc-download-wrapper">
+                                <div class="doc-download-down">Скачать</div>
+                                <small>0.20                                    mb</small>
+                            </div>
+                        </a>
+                    </div>
+                </div>
+            </div>
+                                <div id="bx_3218110189_9981" class="disclosure-item">
+                <div class="disclosure-name" nowrap="">
+                    <a href="/upload/iblock/712/0qpj2xkxn71rhsd12zzj4w3390oqiy07/Raschet-sobstvennykh-sredstv-OOO-VTB-UA_31.03.2023-g.pdf" target="_blank">Расчет размера собственных средств на 31.03.2023 г.</a>
+                    <div class="disclosure-dates-wrapper">
+                        <div class="date-from">
+                            <span class="date-notice">Дата и время публикации</span>
+                            <span class="date-val">17.04.2023 12:27</span>
+                        </div>
+                                                    <div class="date-to">
+                                <span class="date-notice">Действителен до</span>
+                                <span class="date-val">*</span>
+                            </div>
+                                            </div>
+                </div>
+                <div class="disclosure-file center">
+                    <div class="disclosure-file-inner">
+                        <a href="/upload/iblock/712/0qpj2xkxn71rhsd12zzj4w3390oqiy07/Raschet-sobstvennykh-sredstv-OOO-VTB-UA_31.03.2023-g.pdf" class="disclosure-file-link" target="_blank" title="Расчет размера собственных средств на 31.03.2023 г.">
+                            <svg class="icon-pdf" width="40" height="40" viewBox="0 0 40 40" fill="none" xmlns="http://www.w3.org/2000/svg">
+    <path d="M15.9909 22.3818C15.3952 21.9549 14.6666 21.755 13.9364 21.8181C13.2453 21.8081 12.5547 21.8598 11.8727 21.9727V29.0909H13.3818V26.5091C13.5543 26.5214 13.7275 26.5214 13.9 26.5091C14.7019 26.5611 15.4912 26.2893 16.0909 25.7545C16.5139 25.2884 16.7361 24.6743 16.7091 24.0455C16.7234 23.4128 16.4612 22.8053 15.9909 22.3818ZM14.1366 25.3077C14.0544 25.3109 13.972 25.3052 13.8909 25.2909L13.9363 25.2819C13.7672 25.3017 13.5963 25.3017 13.4273 25.2819V23.1182C13.6327 23.07 13.8436 23.0486 14.0545 23.0545C14.8182 23.0545 15.2455 23.4545 15.2455 24.1091C15.2702 24.7463 14.7738 25.2829 14.1366 25.3077Z"></path>
+    <path d="M27.2728 0H7.27276C5.26448 0 3.63635 1.62805 3.63635 3.63633V36.3636C3.63635 38.3719 5.2644 39.9999 7.27268 39.9999H32.7272C34.7355 39.9999 36.3635 38.3719 36.3635 36.3636V10L27.2728 0ZM34.5455 36.3637C34.5455 37.3678 33.7314 38.1819 32.7273 38.1819H7.27276C6.26862 38.1819 5.45456 37.3678 5.45456 36.3637V3.63633C5.45456 2.63219 6.26862 1.81813 7.27276 1.81813H23.6364V10.9091C23.6364 11.9132 24.4504 12.7273 25.4546 12.7273H34.5456V36.3637H34.5455ZM25.4546 10.9091V1.8182H26.3636L34.5454 10.9091H25.4546V10.9091Z"></path>
+    <path d="M22.1455 22.6454C21.3562 22.0483 20.3786 21.7547 19.3909 21.8182C18.7 21.8133 18.0098 21.8651 17.3273 21.9727V29.0909C17.8998 29.1675 18.477 29.2039 19.0545 29.2C20.1666 29.2822 21.271 28.9594 22.1636 28.2909C22.9406 27.5255 23.3484 26.4614 23.2818 25.3727C23.3568 24.3349 22.9352 23.3229 22.1455 22.6454ZM21.6727 25.3727C21.6637 27.0909 20.7637 27.9 19.3909 27.8909V27.8819C19.2156 27.8994 19.039 27.8994 18.8637 27.8819V23.1455C19.0907 23.0976 19.3226 23.0762 19.5546 23.0819C20.6565 23.0044 21.6124 23.8349 21.6898 24.9368C21.7 25.0822 21.6943 25.2284 21.6727 25.3727Z"></path>
+    <path d="M24.6 29.0909H26.1273V26.1909H28.5455V24.8636H26.1273V23.2182H28.7182V21.8818H24.6V29.0909Z"></path>
+</svg>
+                            <div class="doc-download-wrapper">
+                                <div class="doc-download-down">Скачать</div>
+                                <small>0.20                                    mb</small>
+                            </div>
+                        </a>
+                    </div>
+                </div>
+            </div>
+                                <div id="bx_3218110189_9977" class="disclosure-item">
+                <div class="disclosure-name" nowrap="">
+                    <a href="/upload/iblock/e24/rrer0v03ttnvwik486oyz89yjcknaow4/Raschet_sobstvennykh_sredstv_OOO_VTB_UA_28.02.2023_g.pdf" target="_blank">Расчет размера собственных средств на 28.02.2023 г.</a>
+                    <div class="disclosure-dates-wrapper">
+                        <div class="date-from">
+                            <span class="date-notice">Дата и время публикации</span>
+                            <span class="date-val">15.03.2023 13:05</span>
+                        </div>
+                                                    <div class="date-to">
+                                <span class="date-notice">Действителен до</span>
+                                <span class="date-val">*</span>
+                            </div>
+                                            </div>
+                </div>
+                <div class="disclosure-file center">
+                    <div class="disclosure-file-inner">
+                        <a href="/upload/iblock/e24/rrer0v03ttnvwik486oyz89yjcknaow4/Raschet_sobstvennykh_sredstv_OOO_VTB_UA_28.02.2023_g.pdf" class="disclosure-file-link" target="_blank" title="Расчет размера собственных средств на 28.02.2023 г.">
+                            <svg class="icon-pdf" width="40" height="40" viewBox="0 0 40 40" fill="none" xmlns="http://www.w3.org/2000/svg">
+    <path d="M15.9909 22.3818C15.3952 21.9549 14.6666 21.755 13.9364 21.8181C13.2453 21.8081 12.5547 21.8598 11.8727 21.9727V29.0909H13.3818V26.5091C13.5543 26.5214 13.7275 26.5214 13.9 26.5091C14.7019 26.5611 15.4912 26.2893 16.0909 25.7545C16.5139 25.2884 16.7361 24.6743 16.7091 24.0455C16.7234 23.4128 16.4612 22.8053 15.9909 22.3818ZM14.1366 25.3077C14.0544 25.3109 13.972 25.3052 13.8909 25.2909L13.9363 25.2819C13.7672 25.3017 13.5963 25.3017 13.4273 25.2819V23.1182C13.6327 23.07 13.8436 23.0486 14.0545 23.0545C14.8182 23.0545 15.2455 23.4545 15.2455 24.1091C15.2702 24.7463 14.7738 25.2829 14.1366 25.3077Z"></path>
+    <path d="M27.2728 0H7.27276C5.26448 0 3.63635 1.62805 3.63635 3.63633V36.3636C3.63635 38.3719 5.2644 39.9999 7.27268 39.9999H32.7272C34.7355 39.9999 36.3635 38.3719 36.3635 36.3636V10L27.2728 0ZM34.5455 36.3637C34.5455 37.3678 33.7314 38.1819 32.7273 38.1819H7.27276C6.26862 38.1819 5.45456 37.3678 5.45456 36.3637V3.63633C5.45456 2.63219 6.26862 1.81813 7.27276 1.81813H23.6364V10.9091C23.6364 11.9132 24.4504 12.7273 25.4546 12.7273H34.5456V36.3637H34.5455ZM25.4546 10.9091V1.8182H26.3636L34.5454 10.9091H25.4546V10.9091Z"></path>
+    <path d="M22.1455 22.6454C21.3562 22.0483 20.3786 21.7547 19.3909 21.8182C18.7 21.8133 18.0098 21.8651 17.3273 21.9727V29.0909C17.8998 29.1675 18.477 29.2039 19.0545 29.2C20.1666 29.2822 21.271 28.9594 22.1636 28.2909C22.9406 27.5255 23.3484 26.4614 23.2818 25.3727C23.3568 24.3349 22.9352 23.3229 22.1455 22.6454ZM21.6727 25.3727C21.6637 27.0909 20.7637 27.9 19.3909 27.8909V27.8819C19.2156 27.8994 19.039 27.8994 18.8637 27.8819V23.1455C19.0907 23.0976 19.3226 23.0762 19.5546 23.0819C20.6565 23.0044 21.6124 23.8349 21.6898 24.9368C21.7 25.0822 21.6943 25.2284 21.6727 25.3727Z"></path>
+    <path d="M24.6 29.0909H26.1273V26.1909H28.5455V24.8636H26.1273V23.2182H28.7182V21.8818H24.6V29.0909Z"></path>
+</svg>
+                            <div class="doc-download-wrapper">
+                                <div class="doc-download-down">Скачать</div>
+                                <small>0.20                                    mb</small>
+                            </div>
+                        </a>
+                    </div>
+                </div>
+            </div>
+                                <div id="bx_3218110189_9976" class="disclosure-item">
+                <div class="disclosure-name" nowrap="">
+                    <a href="/upload/iblock/f06/rsw7eucuoy0esv5vtn10dlsbewe0u9tu/Raschet_sobstvennykh_sredstv_OOO_VTB_UA_31.01.2023_g.pdf" target="_blank">Расчет размера собственных средств на 31.01.2023 г.</a>
+                    <div class="disclosure-dates-wrapper">
+                        <div class="date-from">
+                            <span class="date-notice">Дата и время публикации</span>
+                            <span class="date-val">17.02.2023 18:30</span>
+                        </div>
+                                                    <div class="date-to">
+                                <span class="date-notice">Действителен до</span>
+                                <span class="date-val">*</span>
+                            </div>
+                                            </div>
+                </div>
+                <div class="disclosure-file center">
+                    <div class="disclosure-file-inner">
+                        <a href="/upload/iblock/f06/rsw7eucuoy0esv5vtn10dlsbewe0u9tu/Raschet_sobstvennykh_sredstv_OOO_VTB_UA_31.01.2023_g.pdf" class="disclosure-file-link" target="_blank" title="Расчет размера собственных средств на 31.01.2023 г.">
+                            <svg class="icon-pdf" width="40" height="40" viewBox="0 0 40 40" fill="none" xmlns="http://www.w3.org/2000/svg">
+    <path d="M15.9909 22.3818C15.3952 21.9549 14.6666 21.755 13.9364 21.8181C13.2453 21.8081 12.5547 21.8598 11.8727 21.9727V29.0909H13.3818V26.5091C13.5543 26.5214 13.7275 26.5214 13.9 26.5091C14.7019 26.5611 15.4912 26.2893 16.0909 25.7545C16.5139 25.2884 16.7361 24.6743 16.7091 24.0455C16.7234 23.4128 16.4612 22.8053 15.9909 22.3818ZM14.1366 25.3077C14.0544 25.3109 13.972 25.3052 13.8909 25.2909L13.9363 25.2819C13.7672 25.3017 13.5963 25.3017 13.4273 25.2819V23.1182C13.6327 23.07 13.8436 23.0486 14.0545 23.0545C14.8182 23.0545 15.2455 23.4545 15.2455 24.1091C15.2702 24.7463 14.7738 25.2829 14.1366 25.3077Z"></path>
+    <path d="M27.2728 0H7.27276C5.26448 0 3.63635 1.62805 3.63635 3.63633V36.3636C3.63635 38.3719 5.2644 39.9999 7.27268 39.9999H32.7272C34.7355 39.9999 36.3635 38.3719 36.3635 36.3636V10L27.2728 0ZM34.5455 36.3637C34.5455 37.3678 33.7314 38.1819 32.7273 38.1819H7.27276C6.26862 38.1819 5.45456 37.3678 5.45456 36.3637V3.63633C5.45456 2.63219 6.26862 1.81813 7.27276 1.81813H23.6364V10.9091C23.6364 11.9132 24.4504 12.7273 25.4546 12.7273H34.5456V36.3637H34.5455ZM25.4546 10.9091V1.8182H26.3636L34.5454 10.9091H25.4546V10.9091Z"></path>
+    <path d="M22.1455 22.6454C21.3562 22.0483 20.3786 21.7547 19.3909 21.8182C18.7 21.8133 18.0098 21.8651 17.3273 21.9727V29.0909C17.8998 29.1675 18.477 29.2039 19.0545 29.2C20.1666 29.2822 21.271 28.9594 22.1636 28.2909C22.9406 27.5255 23.3484 26.4614 23.2818 25.3727C23.3568 24.3349 22.9352 23.3229 22.1455 22.6454ZM21.6727 25.3727C21.6637 27.0909 20.7637 27.9 19.3909 27.8909V27.8819C19.2156 27.8994 19.039 27.8994 18.8637 27.8819V23.1455C19.0907 23.0976 19.3226 23.0762 19.5546 23.0819C20.6565 23.0044 21.6124 23.8349 21.6898 24.9368C21.7 25.0822 21.6943 25.2284 21.6727 25.3727Z"></path>
+    <path d="M24.6 29.0909H26.1273V26.1909H28.5455V24.8636H26.1273V23.2182H28.7182V21.8818H24.6V29.0909Z"></path>
+</svg>
+                            <div class="doc-download-wrapper">
+                                <div class="doc-download-down">Скачать</div>
+                                <small>0.20                                    mb</small>
+                            </div>
+                        </a>
+                    </div>
+                </div>
+            </div>
+            </div>
+    <div class="ps">
+                    <small>
+                                    <strong>*</strong> - документ бессрочного хранения<br>
+                                <strong>**</strong>- для просмотра документов на Вашем компьютере должны быть установлены MS Word и Adobe Acrobat Reader                <br>
+            </small>
+            </div>
+            <br>
+<div class="bx-pagination ">
+<div class="bx-pagination-text">
+    Новости 1 - 5 из 6</div>
+    <div class="bx-pagination-container">
+        <ul>
+            <li class="bx-page-start">
+                <a href="/public/calculation/?SECTION_CODE=calculation&amp;PAGEN_1=1">
+                    <span>
+                        <svg xmlns="http://www.w3.org/2000/svg" width="20" height="20" viewBox="0 0 20 20" fill="none">
+                        <g clip-path="url(#clip0_501_1349)">
+                            <path d="M4.24375 10.5917L8.06875 14.4167C8.39375 14.7417 8.91875 14.7417 9.24375 14.4167C9.56875 14.0917 9.56875 13.5667 9.24375 13.2417L6.01042 9.99998L9.24375 6.76665C9.56875 6.44165 9.56875 5.91665 9.24375 5.59165C8.91875 5.26665 8.39375 5.26665 8.06875 5.59165L4.24375 9.41665C3.91875 9.73332 3.91875 10.2667 4.24375 10.5917Z" fill="#2F3441"></path>
+                            <path d="M9.2291 10.5917L13.0541 14.4167C13.3791 14.7417 13.9041 14.7417 14.2291 14.4167C14.5541 14.0917 14.5541 13.5667 14.2291 13.2417L10.9958 9.99998L14.2291 6.76665C14.5541 6.44165 14.5541 5.91665 14.2291 5.59165C13.9041 5.26665 13.3791 5.26665 13.0541 5.59165L9.2291 9.41665C8.9041 9.73332 8.9041 10.2667 9.2291 10.5917Z" fill="#2F3441"></path>
+                        </g>
+                        <defs>
+                            <clipPath id="clip0_501_1349">
+                                <rect width="20" height="20" fill="white" transform="translate(0 20) rotate(-90)"></rect>
+                            </clipPath>
+                        </defs>
+                    </svg>
+                    </span>
+                </a>
+            </li>
+
+            
+                                    <li class="bx-pag-prev">
+                        <span>
+                            <svg xmlns="http://www.w3.org/2000/svg" width="20" height="20" viewBox="0 0 20 20" fill="none">
+<g clip-path="url(#clip0_501_1355)">
+<path d="M7.25828 9.40832L11.0833 5.58332C11.4083 5.25832 11.9333 5.25832 12.2583 5.58332C12.5833 5.90832 12.5833 6.43332 12.2583 6.75832L9.02494 9.99999L12.2583 13.2333C12.5833 13.5583 12.5833 14.0833 12.2583 14.4083C11.9333 14.7333 11.4083 14.7333 11.0833 14.4083L7.25828 10.5833C6.93328 10.2667 6.93328 9.73332 7.25828 9.40832Z" fill="#2F3441"></path>
+</g>
+<defs>
+<clipPath id="clip0_501_1355">
+<rect width="20" height="20" fill="white" transform="matrix(-4.37114e-08 1 1 4.37114e-08 0 0)"></rect>
+</clipPath>
+</defs>
+</svg>
+                        </span>
+                        </li>
+                    <li class="bx-active"><span>1</span></li>
+                
+                
+                                                            <li class=""><a href="/public/calculation/?SECTION_CODE=calculation&amp;PAGEN_1=2"><span>2</span></a>
+                        </li>
+                                        <li class="bx-pag-next"><a href="/public/calculation/?SECTION_CODE=calculation&amp;PAGEN_1=2">
+                            <span>
+                                <svg xmlns="http://www.w3.org/2000/svg" width="6" height="10" viewBox="0 0 6 10" fill="none">
+                                <path d="M5.74172 5.59168L1.91672 9.41668C1.59172 9.74168 1.06672 9.74168 0.741724 9.41668C0.416723 9.09168 0.416723 8.56668 0.741724 8.24168L3.97506 5.00001L0.741724 1.76668C0.416724 1.44168 0.416724 0.91668 0.741724 0.59168C1.06672 0.266681 1.59172 0.266681 1.91672 0.59168L5.74172 4.41668C6.06672 4.73335 6.06672 5.26668 5.74172 5.59168Z" fill="#2F3441"></path>
+                                </svg>
+                            </span>
+                        </a>
+                    </li>
+                                <li class="bx-page-end">
+                    <a href="/public/calculation/?SECTION_CODE=calculation&amp;PAGEN_1=2">
+                        <span>
+                            <svg xmlns="http://www.w3.org/2000/svg" width="20" height="20" viewBox="0 0 20 20" fill="none">
+                            <g clip-path="url(#clip0_501_1390)">
+                                <path d="M15.7562 9.40835L11.9312 5.58335C11.6062 5.25835 11.0812 5.25835 10.7562 5.58335C10.4312 5.90835 10.4312 6.43335 10.7562 6.75835L13.9896 10L10.7562 13.2333C10.4312 13.5583 10.4312 14.0833 10.7562 14.4083C11.0812 14.7333 11.6062 14.7333 11.9312 14.4083L15.7562 10.5833C16.0812 10.2667 16.0812 9.73335 15.7562 9.40835Z" fill="#2F3441"></path>
+                                <path d="M10.7709 9.40835L6.9459 5.58335C6.6209 5.25835 6.0959 5.25835 5.7709 5.58335C5.4459 5.90835 5.4459 6.43335 5.7709 6.75835L9.00423 10L5.7709 13.2333C5.4459 13.5583 5.4459 14.0833 5.7709 14.4083C6.0959 14.7333 6.6209 14.7333 6.9459 14.4083L10.7709 10.5833C11.0959 10.2667 11.0959 9.73335 10.7709 9.40835Z" fill="#2F3441"></path>
+                            </g>
+                            <defs>
+                                <clipPath id="clip0_501_1390">
+                                    <rect width="20" height="20" fill="white" transform="translate(20) rotate(90)"></rect>
+                                </clipPath>
+                            </defs>
+                        </svg>
+                        </span>
+                    </a>
+                </li>
+                    </ul>
+        <div class="all_pages">
+                                                <div class="bx-pag-all"><a href="/public/calculation/?SECTION_CODE=calculation&amp;SHOWALL_1=1" rel="nofollow"><span>Все</span></a></div>
+                                    </div>
+    </div>
+</div>
+        </div>
+
+
+</div><!--container-->
+</div> <!-- content_block -->
+ <!--content_wrapper-->
+
+<div class="footer">
+    <div class="container">
+        <div class="disclaimer invisibe">
+            <div class="announcement header-bottom">
+    <div class="wrapper">
+        <div class="col-1"></div>
+        <div class="col-16">
+            <div id="" class="cookie-policy-warning">
+                <div class="col-15">
+                    <div class="cookie-text">
+                                                                                    <div id="14" rel="/" class="popupBlock invisibe">
+                                    <div class="fixed">
+                                        <div class="popup">
+                                                                                        <p>ООО ВТБ Управление активами (Лицензия Банка России от 21.07.2022 г. № 045-14143-001000 на осуществление деятельности по управлению ценными бумагами, без ограничения срока действия; Лицензия Банка России от 27.07.2022 г. № 21-000-1-01059 на осуществление деятельности по управлению инвестиционными фондами, паевыми инвестиционными фондами и негосударственными пенсионными фондами, без ограничения срока действия). Содержание сайта <a href="http://www.vtbam.ru">www.vtbam.ru</a> и любых страниц сайта («Сайт») предназначено исключительно для информационных целей. Сайт не рассматривается и не должен рассматриваться как предложение ООО ВТБ Управление активами о покупке или продаже каких-либо финансовых инструментов или оказание услуг какому-либо лицу. Информация на Сайте не может рассматриваться в качестве рекомендации к инвестированию средств, а также гарантий или обещаний в будущем доходности вложений. Никакие положения информации или материалов, представленных на Сайте, не являются и не должны рассматриваться как индивидуальные инвестиционные рекомендации и/или намерение ООО ВТБ Управление активами предоставить услуги инвестиционного советника. ООО ВТБ Управление активами не может гарантировать, что финансовые инструменты, продукты и услуги, описанные на Сайте, подходят лицам, которые ознакомились с такими материалами в соответствии с их инвестиционным профилем. Финансовые инструменты, упоминаемые в информационных материалах Сайта, также могут быть предназначены исключительно для квалифицированных инвесторов. ООО ВТБ Управление активами не несёт ответственности за финансовые или иные последствия, которые могут возникнуть в результате принятия Вами решений в отношении финансовых инструментов, продуктов и услуг, представленных в информационных материалах. Никакие финансовые инструменты, продукты или услуги, упомянутые на Сайте, не предлагаются к продаже и не продаются в какой-либо юрисдикции, где такая деятельность противоречила бы законодательству о ценных бумагах или другим местным законам и нормативно-правовым актам или обязывала бы ООО ВТБ Управление активами выполнить требование регистрации в такой юрисдикции. Прежде чем воспользоваться какой-либо услугой или приобретением финансового инструмента или инвестиционного продукта, Вы должны самостоятельно оценить экономические риски и выгоды от услуги и/или продукта, налоговые, юридические, бухгалтерские последствия заключения сделки при пользовании конкретной услугой, или перед приобретением конкретного финансового инструмента или инвестиционного продукта, свою готовность и возможность принять такие риски. При принятии инвестиционных решений, Вы не должны полагаться исключительно на мнения, изложенные на Сайте, но должны провести собственный анализ финансового положения эмитента и всех рисков, связанных с инвестированием в финансовые инструменты. Ни прошлый опыт, ни финансовый успех других лиц не гарантирует и не определяет получение таких же результатов в будущем. Стоимость или доход от любых инвестиций, упомянутых на Сайте, могут изменяться и/или испытывать воздействие изменений рыночной конъюнктуры, в том числе процентных ставок. Все цифровые и расчетные данные на Сайте приведены без каких-либо обязательств и исключительно в качестве примера финансовых параметров. ООО ВТБ Управление активами не несет ответственности за какие-либо убытки (прямые или косвенные), включая реальный ущерб и упущенную выгоду, возникшие в связи с использованием информации на Сайте. Настоящий Сайт не предоставляет и не предназначен для оказания консультационных услуг по правовым, бухгалтерским, инвестиционным или налоговым вопросам, в связи с чем не следует полагаться на содержимое Сайта в этом отношении. ООО ВТБ Управление активами прилагает разумные усилия для получения информации из надежных, по его мнению, источников. Вместе с тем, ООО ВТБ Управление активами не делает каких-либо заверений в отношении того, что информация или оценки, содержащиеся в информационном материале, размещенном на Сайте, являются достоверными, точными или полными. Любая информация, представленная в материалах Сайта, может быть изменена в любое время без предварительного уведомления. Любая приведенная на Сайте информация и оценки не являются условиями какой-либо сделки, в том числе потенциальной. ООО ВТБ Управление активами не гарантирует доходность инвестиций, инвестиционной деятельности или финансовых инструментов. До осуществления инвестиций необходимо внимательно ознакомиться с условиями и/или документами, которые регулируют порядок их осуществления. До приобретения финансовых инструментов необходимо внимательно ознакомиться с условиями их обращения. ООО ВТБ Управление активами настоящим информирует Вас о возможном наличии конфликта интересов при предложении рассматриваемых на Сайте финансовых инструментов. При урегулировании возникающих конфликтов интересов ООО ВТБ Управление активами руководствуется интересами своих клиентов. Более подробную информацию о мерах, предпринимаемых ООО ВТБ Управление активами в отношении конфликтов интересов, можно найти в Политике ООО ВТБ Управление активами по управлению конфликтом интересов, размещённой на Сайте. Ознакомиться с документами, предусмотренными Федеральным законом «Об инвестиционных фондах» и нормативными актами в сфере финансовых рынков, можно по адресу: Россия, 123112, г. Москва, вн.тер.г. муниципальный округ Пресненский, Пресненская набережная, дом 10, строение 1, этаж 38, помещение 38.29, по телефону 8-(495)-223-05-75, в сети Интернет по адресу <a href="http://www.vtbam.ru">www.vtbam.ru</a>. ООО ВТБ Управление активами не гарантирует, что работа Сайта или любого контента будет бесперебойной и безошибочной, что дефекты будут исправлены или что серверы, с которых эта информация предоставляется, будут защищены от вирусов, троянских коней, червей, программных бомб или подобных предметов или процессов или других вредных компонентов. любые выражения мнений, оценок и прогнозов на сайте, являются мнениями авторов на дату написания. они не обязательно отражают точку зрения ООО ВТБ Управление активами и могут быть изменены в любое время без предварительного предупреждения. Ни при каких обстоятельствах ООО ВТБ Управление активами не будет нести ответственности за любые косвенные, случайные, специальные, штрафные или косвенные убытки (включая, без ограничения, убытки за потерю данных, бизнеса или прибыли), вытекающие из или в связи с этими условиями, за невозможность использования Сайта или любых продуктов, услуг или контента купленных, полученных или хранящихся на Сайте, будь то на основе контракта, деликта, объективной ответственности или иным образом, даже если ООО ВТБ Управление активами был предупрежден о возможности такого ущерба, и невзирая на то, что средство правовой защиты не достигает своей основной цели. Без ограничения вышеизложенного положения, равно как и эти ограничения распространяются также на любые претензии третьих лиц в отношении пользователей. Несмотря на любые другие заявления, ничто в настоящих условиях не призвано исключить или ограничить любые обязанности или обязательства, которые ООО ВТБ Управление активами имеет перед своими клиентами в соответствии с действующим законодательством, или которые не могут быть исключены или ограничены в порядке действующего законодательства.</p>
+                                        </div>
+                                    </div>
+                                </div>
+                                                                        </div>
+                </div>
+                <div class="col-1"></div>
+            </div>
+        </div>
+        <div class="col-1"></div>
+    </div>
+</div>
+
+
+        </div>
+        <div class="disclaimer_btnwrapper">
+            <div class="disclaimer_showbtn">
+                <svg width="13" height="12" viewBox="0 0 13 12" fill="none" xmlns="http://www.w3.org/2000/svg">
+                    <path d="M5.46604 1.19944L5.4615 9.11217L1.50592 5.15658C1.2298 4.88047 0.776434 4.88073 0.500003 5.15716C0.223572 5.43359 0.223316 5.87988 0.49943 6.15599L5.66567 11.3222C5.94178 11.5983 6.38807 11.5981 6.6645 11.3217L11.8437 6.15657C12.1202 5.88014 12.1204 5.43385 11.8443 5.15774C11.5682 4.88162 11.1219 4.88188 10.8455 5.15831L6.87828 9.11136L6.88282 1.19863C6.88305 0.809015 6.56445 0.490422 6.17484 0.490646C5.78522 0.490869 5.46627 0.809828 5.46604 1.19944Z" fill="#fff"></path>
+                </svg>
+            </div>
+        </div>
+        <div class="footer_menu">
+            <ul class="footer_menu_list">
+                <li><a href="/contacts/">Контактная информация</a></li>
+                <li><a href="/map/">Карта сайта</a></li>
+                <li class="longli"><a href="/public/nfoinformation/">Информация о лицах, под контролем либо значительным влиянием которых находится управляющая компания</a></li>
+            </ul>
+        </div>
+    </div>
+</div>
+
+<script>
+    $('.disclaimer_showbtn').click(function(){
+        let footerMargin = - $('.footer').outerHeight();
+        $('.disclaimer').toggleClass("invisibe");
+        $('.footer').toggleClass("disclaimer-opened");
+        $('.footer.disclaimer-opened').css('margin-top', footerMargin);
+        $(this).find('svg').toggleClass("rotate");
+        $(this).toggleClass("bottom24");
+    });
+</script>
+
+
+		<!-- Yandex.Metrika counter -->
+<script type="text/javascript">
+   (function(m,e,t,r,i,k,a){m[i]=m[i]||function(){(m[i].a=m[i].a||[]).push(arguments)};
+   m[i].l=1*new Date();k=e.createElement(t),a=e.getElementsByTagName(t)[0],k.async=1,k.src=r,a.parentNode.insertBefore(k,a)})
+   (window, document, "script", "https://mc.yandex.ru/metrika/tag.js", "ym");
+
+   ym(73189195, "init", {
+        clickmap:true,
+        trackLinks:true,
+        accurateTrackBounce:true
+   });
+</script>
+<noscript><div><img src="https://mc.yandex.ru/watch/73189195" style="position:absolute; left:-9999px;" alt="" /></div></noscript>
+<!-- /Yandex.Metrika counter -->    

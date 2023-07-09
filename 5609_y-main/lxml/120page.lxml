@@ -1,0 +1,922 @@
+
+<div class="bg_cont mh100">
+	<div class="w980 mrg0a site">
+		<div class="bg_head posRel">
+<a class="posAbs a_vhod"><img alt="" title="Вход в систему" src="/images/key.png"></a>
+<div class="posAbs log dispnon">
+<img src="/bitrix/js/main/core/images/close.gif" title="Click to close" align="right" id="closelog" style="cursor:pointer;">
+
+<div id="bx-system-auth-form">
+
+
+<form name="system_auth_form31107" method="post" target="_top" action="/raskrytie-informatsii/region-development/upravlyayushchaya-kompaniya/?login=yes">
+	<input type="hidden" name="backurl" value="/raskrytie-informatsii/region-development/upravlyayushchaya-kompaniya/">
+	<input type="hidden" name="AUTH_FORM" value="Y">
+	<input type="hidden" name="TYPE" value="AUTH">
+	<table width="95%">
+		<tbody><tr>
+			<td colspan="2">
+			Логин:<br>
+			<input type="text" name="USER_LOGIN" maxlength="50" value="" size="17"></td>
+		</tr>
+		<tr>
+			<td colspan="2">
+			Пароль:<br>
+			<input type="password" name="USER_PASSWORD" maxlength="50" size="17">
+			</td>
+		</tr>
+		<tr>
+			<td valign="top"><input type="checkbox" id="USER_REMEMBER_frm" name="USER_REMEMBER" value="Y"></td>
+			<td width="100%"><label for="USER_REMEMBER_frm" title="Запомнить меня на этом компьютере">Запомнить меня</label></td>
+		</tr>
+		<tr>
+			<td colspan="2"><input type="submit" name="Login" value="Войти"></td>
+		</tr>
+
+
+	</tbody></table>
+</form>
+
+
+</div></div>
+<script type="text/javascript">
+$(".a_vhod").click(function () { $('.log').removeClass("dispnon");} );
+$(".log").mouseover(function () { $(this).removeClass("dispnon"); $("#closelog").click(function () {$(".log").addClass("dispnon");}); });
+</script>
+<!--region-rd.ru-->
+
+<a style="display:block;width:250px;text-decoration: none !important;" href="/" class="posAbs logo">
+<img style="position:absolute;top: 0;left:0" alt="logo" src="/images/logo_rd.png" height="63px">
+</a>
+			<img alt="bg_vn" src="/images/nebo.jpg">		</div>
+<div class="bg0 brdt1_ff brdb1_ff fs14 tm"> 
+	<h1 style="color:#fff;padding:3px 0px 0px 43px;">РЕГИОН Девелопмент - раскрытие информации</h1>
+
+			</div> 
+		<div class="fl_l lm"> 
+<script src="/bitrix/templates/.default/components/profline/leftmenu/domain_left_menu/script.js?1507801631" type="text/javascript"></script><!--pre>array(17) {
+  [0]=>
+  array(11) {
+    ["TEXT"]=>
+    string(35) "РЕГИОН Девелопмент"
+    ["LINK"]=>
+    string(42) "/raskrytie-informatsii/region-development/"
+    ["SELECTED"]=>
+    bool(true)
+    ["PERMISSION"]=>
+    string(1) "R"
+    ["ADDITIONAL_LINKS"]=>
+    array(0) {
+    }
+    ["ITEM_TYPE"]=>
+    string(1) "D"
+    ["ITEM_INDEX"]=>
+    int(0)
+    ["PARAMS"]=>
+    array(1) {
+      ["domain"]=>
+      string(12) "region-rd.ru"
+    }
+    ["DEPTH_LEVEL"]=>
+    int(1)
+    ["IS_PARENT"]=>
+    bool(true)
+    ["CHILD_SELECTED"]=>
+    bool(true)
+  }
+  [1]=>
+  array(10) {
+    ["TEXT"]=>
+    string(39) "Управляющая компания"
+    ["LINK"]=>
+    string(70) "/raskrytie-informatsii/region-development/upravlyayushchaya-kompaniya/"
+    ["SELECTED"]=>
+    bool(true)
+    ["PERMISSION"]=>
+    string(1) "R"
+    ["ADDITIONAL_LINKS"]=>
+    array(0) {
+    }
+    ["ITEM_TYPE"]=>
+    string(1) "D"
+    ["ITEM_INDEX"]=>
+    int(0)
+    ["PARAMS"]=>
+    array(0) {
+    }
+    ["DEPTH_LEVEL"]=>
+    int(2)
+    ["IS_PARENT"]=>
+    bool(false)
+  }
+  [2]=>
+  array(10) {
+    ["TEXT"]=>
+    string(69) "Информация о структуре собственности"
+    ["LINK"]=>
+    string(81) "/raskrytie-informatsii/region-development/informatsiya-o-strukture-sobstvennosti/"
+    ["SELECTED"]=>
+    bool(false)
+    ["PERMISSION"]=>
+    string(1) "R"
+    ["ADDITIONAL_LINKS"]=>
+    array(0) {
+    }
+    ["ITEM_TYPE"]=>
+    string(1) "D"
+    ["ITEM_INDEX"]=>
+    int(1)
+    ["PARAMS"]=>
+    array(0) {
+    }
+    ["DEPTH_LEVEL"]=>
+    int(2)
+    ["IS_PARENT"]=>
+    bool(false)
+  }
+  [3]=>
+  array(10) {
+    ["TEXT"]=>
+    string(82) "Информация для получателей финансовых услуг"
+    ["LINK"]=>
+    string(90) "/raskrytie-informatsii/region-development/informatsiya-dlya-poluchateley-finansovykh-uslu/"
+    ["SELECTED"]=>
+    bool(false)
+    ["PERMISSION"]=>
+    string(1) "R"
+    ["ADDITIONAL_LINKS"]=>
+    array(0) {
+    }
+    ["ITEM_TYPE"]=>
+    string(1) "D"
+    ["ITEM_INDEX"]=>
+    int(2)
+    ["PARAMS"]=>
+    array(0) {
+    }
+    ["DEPTH_LEVEL"]=>
+    int(2)
+    ["IS_PARENT"]=>
+    bool(false)
+  }
+  [4]=>
+  array(10) {
+    ["TEXT"]=>
+    string(52) "Паевые инвестиционные фонды"
+    ["LINK"]=>
+    string(71) "/raskrytie-informatsii/region-development/paevye-investitsionnye-fondy/"
+    ["SELECTED"]=>
+    bool(false)
+    ["PERMISSION"]=>
+    string(1) "R"
+    ["ADDITIONAL_LINKS"]=>
+    array(0) {
+    }
+    ["ITEM_TYPE"]=>
+    string(1) "D"
+    ["ITEM_INDEX"]=>
+    int(3)
+    ["PARAMS"]=>
+    array(0) {
+    }
+    ["DEPTH_LEVEL"]=>
+    int(2)
+    ["IS_PARENT"]=>
+    bool(true)
+  }
+  [5]=>
+  array(10) {
+    ["TEXT"]=>
+    string(97) "Информация о должностных лицах Управляющей компании"
+    ["LINK"]=>
+    string(103) "/raskrytie-informatsii/region-development/paevye-investitsionnye-fondy/info-o-dolzhnostnykh-litsakh-uk/"
+    ["SELECTED"]=>
+    bool(false)
+    ["PERMISSION"]=>
+    string(1) "R"
+    ["ADDITIONAL_LINKS"]=>
+    array(0) {
+    }
+    ["ITEM_TYPE"]=>
+    string(1) "D"
+    ["ITEM_INDEX"]=>
+    int(0)
+    ["PARAMS"]=>
+    array(0) {
+    }
+    ["DEPTH_LEVEL"]=>
+    int(3)
+    ["IS_PARENT"]=>
+    bool(false)
+  }
+  [6]=>
+  array(10) {
+    ["TEXT"]=>
+    string(50) "ЗПИФ недвижимости «Протон»"
+    ["LINK"]=>
+    string(78) "/raskrytie-informatsii/region-development/paevye-investitsionnye-fondy/proton/"
+    ["SELECTED"]=>
+    bool(false)
+    ["PERMISSION"]=>
+    string(1) "R"
+    ["ADDITIONAL_LINKS"]=>
+    array(0) {
+    }
+    ["ITEM_TYPE"]=>
+    string(1) "D"
+    ["ITEM_INDEX"]=>
+    int(1)
+    ["PARAMS"]=>
+    array(0) {
+    }
+    ["DEPTH_LEVEL"]=>
+    int(3)
+    ["IS_PARENT"]=>
+    bool(false)
+  }
+  [7]=>
+  array(10) {
+    ["TEXT"]=>
+    string(104) "ЗПИФ недвижимости «Атлант – региональная недвижимость»"
+    ["LINK"]=>
+    string(78) "/raskrytie-informatsii/region-development/paevye-investitsionnye-fondy/Atlant/"
+    ["SELECTED"]=>
+    bool(false)
+    ["PERMISSION"]=>
+    string(1) "R"
+    ["ADDITIONAL_LINKS"]=>
+    array(0) {
+    }
+    ["ITEM_TYPE"]=>
+    string(1) "D"
+    ["ITEM_INDEX"]=>
+    int(2)
+    ["PARAMS"]=>
+    array(0) {
+    }
+    ["DEPTH_LEVEL"]=>
+    int(3)
+    ["IS_PARENT"]=>
+    bool(false)
+  }
+  [8]=>
+  array(10) {
+    ["TEXT"]=>
+    string(52) "ЗПИФ недвижимости «Базальт»"
+    ["LINK"]=>
+    string(78) "/raskrytie-informatsii/region-development/paevye-investitsionnye-fondy/bazalt/"
+    ["SELECTED"]=>
+    bool(false)
+    ["PERMISSION"]=>
+    string(1) "R"
+    ["ADDITIONAL_LINKS"]=>
+    array(0) {
+    }
+    ["ITEM_TYPE"]=>
+    string(1) "D"
+    ["ITEM_INDEX"]=>
+    int(3)
+    ["PARAMS"]=>
+    array(0) {
+    }
+    ["DEPTH_LEVEL"]=>
+    int(3)
+    ["IS_PARENT"]=>
+    bool(false)
+  }
+  [9]=>
+  array(10) {
+    ["TEXT"]=>
+    string(104) "Регламент признания лиц квалифицированными инвесторами"
+    ["LINK"]=>
+    string(55) "/raskrytie-informatsii/region-development/reglament-qi/"
+    ["SELECTED"]=>
+    bool(false)
+    ["PERMISSION"]=>
+    string(1) "R"
+    ["ADDITIONAL_LINKS"]=>
+    array(0) {
+    }
+    ["ITEM_TYPE"]=>
+    string(1) "D"
+    ["ITEM_INDEX"]=>
+    int(4)
+    ["PARAMS"]=>
+    array(0) {
+    }
+    ["DEPTH_LEVEL"]=>
+    int(2)
+    ["IS_PARENT"]=>
+    bool(false)
+  }
+  [10]=>
+  array(10) {
+    ["TEXT"]=>
+    string(151) "Критерии отнесения клиентов к категории клиента - иностранного налогоплательщика"
+    ["LINK"]=>
+    string(62) "/raskrytie-informatsii/region-development/kriterii-otneseniya/"
+    ["SELECTED"]=>
+    bool(false)
+    ["PERMISSION"]=>
+    string(1) "R"
+    ["ADDITIONAL_LINKS"]=>
+    array(0) {
+    }
+    ["ITEM_TYPE"]=>
+    string(1) "D"
+    ["ITEM_INDEX"]=>
+    int(5)
+    ["PARAMS"]=>
+    array(0) {
+    }
+    ["DEPTH_LEVEL"]=>
+    int(2)
+    ["IS_PARENT"]=>
+    bool(false)
+  }
+  [11]=>
+  array(10) {
+    ["TEXT"]=>
+    string(62) "Перечень инсайдерской информации"
+    ["LINK"]=>
+    string(76) "/raskrytie-informatsii/region-development/perechen-insayderskoy-informatsii/"
+    ["SELECTED"]=>
+    bool(false)
+    ["PERMISSION"]=>
+    string(1) "R"
+    ["ADDITIONAL_LINKS"]=>
+    array(0) {
+    }
+    ["ITEM_TYPE"]=>
+    string(1) "D"
+    ["ITEM_INDEX"]=>
+    int(6)
+    ["PARAMS"]=>
+    array(0) {
+    }
+    ["DEPTH_LEVEL"]=>
+    int(2)
+    ["IS_PARENT"]=>
+    bool(false)
+  }
+  [12]=>
+  array(10) {
+    ["TEXT"]=>
+    string(41) "Официальные сообщения"
+    ["LINK"]=>
+    string(68) "/raskrytie-informatsii/region-development/ofitsialnye-soobshcheniya/"
+    ["SELECTED"]=>
+    bool(false)
+    ["PERMISSION"]=>
+    string(1) "R"
+    ["ADDITIONAL_LINKS"]=>
+    array(0) {
+    }
+    ["ITEM_TYPE"]=>
+    string(1) "D"
+    ["ITEM_INDEX"]=>
+    int(7)
+    ["PARAMS"]=>
+    array(0) {
+    }
+    ["DEPTH_LEVEL"]=>
+    int(2)
+    ["IS_PARENT"]=>
+    bool(false)
+  }
+  [13]=>
+  array(10) {
+    ["TEXT"]=>
+    string(56) "Обработка персональных данных"
+    ["LINK"]=>
+    string(73) "/raskrytie-informatsii/region-development/obrabotka-personalnykh-dannykh/"
+    ["SELECTED"]=>
+    bool(false)
+    ["PERMISSION"]=>
+    string(1) "R"
+    ["ADDITIONAL_LINKS"]=>
+    array(0) {
+    }
+    ["ITEM_TYPE"]=>
+    string(1) "D"
+    ["ITEM_INDEX"]=>
+    int(8)
+    ["PARAMS"]=>
+    array(0) {
+    }
+    ["DEPTH_LEVEL"]=>
+    int(2)
+    ["IS_PARENT"]=>
+    bool(false)
+  }
+  [14]=>
+  array(10) {
+    ["TEXT"]=>
+    string(53) "Электронный документооборот"
+    ["LINK"]=>
+    string(70) "/raskrytie-informatsii/region-development/elektronnyy-dokumentooborot/"
+    ["SELECTED"]=>
+    bool(false)
+    ["PERMISSION"]=>
+    string(1) "R"
+    ["ADDITIONAL_LINKS"]=>
+    array(0) {
+    }
+    ["ITEM_TYPE"]=>
+    string(1) "D"
+    ["ITEM_INDEX"]=>
+    int(9)
+    ["PARAMS"]=>
+    array(0) {
+    }
+    ["DEPTH_LEVEL"]=>
+    int(2)
+    ["IS_PARENT"]=>
+    bool(false)
+  }
+  [15]=>
+  array(10) {
+    ["TEXT"]=>
+    string(16) "Лицензии"
+    ["LINK"]=>
+    string(52) "/raskrytie-informatsii/region-development/litsenzii/"
+    ["SELECTED"]=>
+    bool(false)
+    ["PERMISSION"]=>
+    string(1) "R"
+    ["ADDITIONAL_LINKS"]=>
+    array(0) {
+    }
+    ["ITEM_TYPE"]=>
+    string(1) "D"
+    ["ITEM_INDEX"]=>
+    int(10)
+    ["PARAMS"]=>
+    array(0) {
+    }
+    ["DEPTH_LEVEL"]=>
+    int(2)
+    ["IS_PARENT"]=>
+    bool(false)
+  }
+  [16]=>
+  array(10) {
+    ["TEXT"]=>
+    string(18) "Реквизиты"
+    ["LINK"]=>
+    string(61) "/raskrytie-informatsii/region-development/requisite-elements/"
+    ["SELECTED"]=>
+    bool(false)
+    ["PERMISSION"]=>
+    string(1) "R"
+    ["ADDITIONAL_LINKS"]=>
+    array(0) {
+    }
+    ["ITEM_TYPE"]=>
+    string(1) "D"
+    ["ITEM_INDEX"]=>
+    int(11)
+    ["PARAMS"]=>
+    array(0) {
+    }
+    ["DEPTH_LEVEL"]=>
+    int(2)
+    ["IS_PARENT"]=>
+    bool(false)
+  }
+}
+</pre-->
+<div class="menu-sitemap-tree leftmen">
+<ul>							<li style="list-style: none!important;">
+						<!--<li >-->
+			<div class="folder" onclick="OpenMenuNode(this)"></div>
+		<div class="item-text a_pm"><a href="/raskrytie-informatsii/region-development/">РЕГИОН Девелопмент</a></div>
+			<ul>
+											<li class="akt" style="list-style: none!important;">
+				<div class="page"></div>
+				<div class="item-text"><a href="/raskrytie-informatsii/region-development/upravlyayushchaya-kompaniya/">Управляющая компания</a></div>
+				</li>
+													<li style="list-style: none!important;">
+				<div class="page"></div>
+				<div class="item-text"><a href="/raskrytie-informatsii/region-development/informatsiya-o-strukture-sobstvennosti/">Информация о структуре собственности</a></div>
+				</li>
+													<li style="list-style: none!important;">
+				<div class="page"></div>
+				<div class="item-text"><a href="/raskrytie-informatsii/region-development/informatsiya-dlya-poluchateley-finansovykh-uslu/">Информация для получателей финансовых услуг</a></div>
+				</li>
+											<li class="close" style="list-style: none!important;">
+						<!--<li >-->
+			<div class="folder" onclick="OpenMenuNode(this)"></div>
+		<div class="item-text a_pm"><a href="/raskrytie-informatsii/region-development/paevye-investitsionnye-fondy/">Паевые инвестиционные фонды</a></div>
+			<ul>
+											<li style="list-style: none!important;">
+				<div class="page"></div>
+				<div class="item-text"><a href="/raskrytie-informatsii/region-development/paevye-investitsionnye-fondy/info-o-dolzhnostnykh-litsakh-uk/">Информация о должностных лицах Управляющей компании</a></div>
+				</li>
+													<li style="list-style: none!important;">
+				<div class="page"></div>
+				<div class="item-text"><a href="/raskrytie-informatsii/region-development/paevye-investitsionnye-fondy/proton/">ЗПИФ недвижимости «Протон»</a></div>
+				</li>
+													<li style="list-style: none!important;">
+				<div class="page"></div>
+				<div class="item-text"><a href="/raskrytie-informatsii/region-development/paevye-investitsionnye-fondy/Atlant/">ЗПИФ недвижимости «Атлант – региональная недвижимость»</a></div>
+				</li>
+													<li style="list-style: none!important;">
+				<div class="page"></div>
+				<div class="item-text"><a href="/raskrytie-informatsii/region-development/paevye-investitsionnye-fondy/bazalt/">ЗПИФ недвижимости «Базальт»</a></div>
+				</li>
+							</ul></li>									<li style="list-style: none!important;">
+				<div class="page"></div>
+				<div class="item-text"><a href="/raskrytie-informatsii/region-development/reglament-qi/">Регламент признания лиц квалифицированными инвесторами</a></div>
+				</li>
+													<li style="list-style: none!important;">
+				<div class="page"></div>
+				<div class="item-text"><a href="/raskrytie-informatsii/region-development/kriterii-otneseniya/">Критерии отнесения клиентов к категории клиента - иностранного налогоплательщика</a></div>
+				</li>
+													<li style="list-style: none!important;">
+				<div class="page"></div>
+				<div class="item-text"><a href="/raskrytie-informatsii/region-development/perechen-insayderskoy-informatsii/">Перечень инсайдерской информации</a></div>
+				</li>
+													<li style="list-style: none!important;">
+				<div class="page"></div>
+				<div class="item-text"><a href="/raskrytie-informatsii/region-development/ofitsialnye-soobshcheniya/">Официальные сообщения</a></div>
+				</li>
+													<li style="list-style: none!important;">
+				<div class="page"></div>
+				<div class="item-text"><a href="/raskrytie-informatsii/region-development/obrabotka-personalnykh-dannykh/">Обработка персональных данных</a></div>
+				</li>
+													<li style="list-style: none!important;">
+				<div class="page"></div>
+				<div class="item-text"><a href="/raskrytie-informatsii/region-development/elektronnyy-dokumentooborot/">Электронный документооборот</a></div>
+				</li>
+													<li style="list-style: none!important;">
+				<div class="page"></div>
+				<div class="item-text"><a href="/raskrytie-informatsii/region-development/litsenzii/">Лицензии</a></div>
+				</li>
+													<li style="list-style: none!important;">
+				<div class="page"></div>
+				<div class="item-text"><a href="/raskrytie-informatsii/region-development/requisite-elements/">Реквизиты</a></div>
+				</li>
+					</ul></li></ul>
+</div>
+		</div>
+		<div class="fl_l padt28 cont">
+<ul class="breadcrumb-navigation"><li><a href="/raskrytie-informatsii/region-development/" title="РЕГИОН Девелопмент">РЕГИОН Девелопмент</a></li><li><span>&nbsp;&gt;&nbsp;</span></li><li><a href="/raskrytie-informatsii/region-development/upravlyayushchaya-kompaniya/" title="Управляющая компания">Управляющая компания</a></li></ul><br>
+			<h1>Управляющая компания</h1>
+			  
+<div class="vkladki"> 	<span id="ejekvartalnayaOtchetnostDiv" class="">Ежеквартальная отчетность</span> 	<span id="rasschetSredstvDiv" class="active">Расчет размера собственных средств</span> 	<span id="raskritieInfoDiv" class="">Аудиторское заключение</span> 	<span id="konsfinrepInfoDiv" class="">Финансовая отчетность в&nbsp;соответствии с МСФО</span> 	<span id="obshInfoDiv" class="">Общие сведения</span> </div>
+ 
+<div class="myContent"> 	 
+  <div class="ejekvartalnayaOtchetnostDiv" style="display: none;"><span class="otchetnostText">Документ будет доступен на сайте неограниченное время.</span> 		
+<div class="yearFilter">
+				<div class="yearFilterrpi_ki" id="100">2003</div>
+							<div class="yearFilterrpi_ki" id="98">2004</div>
+							<div class="yearFilterrpi_ki" id="101">2005</div>
+							<div class="yearFilterrpi_ki" id="103">2006</div>
+							<div class="yearFilterrpi_ki" id="105">2007</div>
+							<div class="yearFilterrpi_ki" id="107">2008</div>
+							<div class="yearFilterrpi_ki" id="109">2009</div>
+							<div class="yearFilterrpi_ki" id="111">2010</div>
+							<div class="yearFilterrpi_ki" id="113">2011</div>
+							<div class="yearFilterrpi_ki" id="115">2012</div>
+							<div class="yearFilterrpi_ki" id="2456">2013</div>
+							<div class="yearFilterrpi_ki" id="2565">2014</div>
+							<div class="yearFilterrpi_ki" id="2679">2015</div>
+							<div class="yearFilterrpi_ki" id="2987">2016</div>
+							<div class="yearFilterrpi_ki" id="3344">2017</div>
+							<div class="yearFilterrpi_ki" id="3572">2018</div>
+							<div class="yearFilterrpi_ki" id="3746">2019</div>
+							<div class="yearFilterrpi_ki" id="3808">2020</div>
+							<div class="yearFilterrpi_ki" id="3855">2021</div>
+							<div class="yearFilterrpi_ki" id="3901">2022</div>
+							<div class="yearFilterrpi_ki active" id="3920">2023</div>
+					</div>
+
+
+<div class="rpi_ki lineDivs">
+	<table class="tab td_tac" border="0" cellpadding="10" cellspacing="0">
+		<tbody><tr><th>Наименование</th>
+		<th>Файл</th>
+		<th>Дата раскрытия</th></tr>
+			<tr>
+				<td width="50%">Промежуточная бухгалтерская (финансовая) отчетность за 1 квартал 2023								<br>(I квартал)
+								</td>
+	<td>
+			<a target="_blanc" href="/upload/iblock/c37/_31.03.2023.pdf">Скачать</a><br>
+		pdf (1.42 мБ) 	</td><td>
+		(28.04.2023 15:42:00)	</td>
+	</tr>
+</tbody></table>
+</div>
+
+<script>
+$(document).ready(
+	function(){
+		$(".yearFilterrpi_ki").click(//Бэкенд для переключения по году
+			function(){
+				var url = "/raskrytie-informatsii/rpi_ki_backend.php?SECTION_ID="+$(this).attr("id"); //В блоке с годом в атрибуте id хранится id секции которую необходимо получить в бэкенде
+				
+				$(".yearFilterrpi_ki").each(
+					function(){
+						$(this).attr("class", "yearFilterrpi_ki");
+					}
+				);
+				$(this).attr("class", "yearFilterrpi_ki active");
+				
+				$.get(url, function(result){
+					$(".rpi_ki").html(result);
+				}, "html");
+			}
+		);
+	}
+);
+</script>
+
+ 	</div>
+
+  <div class="rasschetSredstvDiv" style="display: block;"><span class="otchetnostText">Документ будет доступен на сайте неограниченное время.</span> 		
+<div class="yearFilter">
+				<div class="yearFilterrpi_ki" id="340">2009</div>
+							<div class="yearFilterrpi_ki" id="162">2010</div>
+							<div class="yearFilterrpi_ki" id="163">2011</div>
+							<div class="yearFilterrpi_ki" id="164">2012</div>
+							<div class="yearFilterrpi_ki" id="2325">2013</div>
+							<div class="yearFilterrpi_ki" id="2496">2014</div>
+							<div class="yearFilterrpi_ki" id="2638">2015</div>
+							<div class="yearFilterrpi_ki" id="2872">2016</div>
+							<div class="yearFilterrpi_ki" id="3253">2017</div>
+							<div class="yearFilterrpi_ki" id="3450">2018</div>
+							<div class="yearFilterrpi_ki" id="3659">2019</div>
+							<div class="yearFilterrpi_ki" id="3782">2020</div>
+							<div class="yearFilterrpi_ki" id="3829">2021</div>
+							<div class="yearFilterrpi_ki" id="3884">2022</div>
+							<div class="yearFilterrpi_ki active" id="3908">2023</div>
+					</div>
+
+
+<div class="rpi_ki lineDivs">
+	<table class="tab td_tac" border="0" cellpadding="10" cellspacing="0">
+		<tbody><tr><th>Наименование</th>
+		<th>Файл</th>
+		<th>Дата раскрытия</th></tr>
+			<tr>
+				<td width="50%">Расчет СС на 31.05.2023								<br>(II квартал)
+								</td>
+	<td>
+			<a target="_blanc" href="/upload/iblock/f4c/raschetss_310523.pdf">Скачать</a><br>
+		pdf (195 кБ) 	</td><td>
+		(20.06.2023 19:54:00)	</td>
+	</tr>
+			<tr class="gray">
+				<td width="50%">Расчет СС на 30.04.2023								<br>(II квартал)
+								</td>
+	<td>
+			<a target="_blanc" href="/upload/iblock/946/raschetss_300423.pdf">Скачать</a><br>
+		pdf (195 кБ) 	</td><td>
+		(22.05.2023 17:19:00)	</td>
+	</tr>
+			<tr>
+				<td width="50%">Расчет СС на 31.03.2023								<br>(I квартал)
+								</td>
+	<td>
+			<a target="_blanc" href="/upload/iblock/21e/raschetss_310323.pdf">Скачать</a><br>
+		pdf (193 кБ) 	</td><td>
+		(18.04.2023 23:40:00)	</td>
+	</tr>
+			<tr class="gray">
+				<td width="50%">Расчет СС на 28.02.2023								<br>(I квартал)
+								</td>
+	<td>
+			<a target="_blanc" href="/upload/iblock/621/raschetss_280223.pdf">Скачать</a><br>
+		pdf (193 кБ) 	</td><td>
+		(17.03.2023 16:24:00)	</td>
+	</tr>
+			<tr>
+				<td width="50%">Расчет СС на 31.01.2023								<br>(I квартал)
+								</td>
+	<td>
+			<a target="_blanc" href="/upload/iblock/61a/raschetss_310123.pdf">Скачать</a><br>
+		pdf (193 кБ) 	</td><td>
+		(16.02.2023 16:40:00)	</td>
+	</tr>
+</tbody></table>
+</div>
+
+<script>
+$(document).ready(
+	function(){
+		$(".yearFilterrpi_ki").click(//Бэкенд для переключения по году
+			function(){
+				var url = "/raskrytie-informatsii/rpi_ki_backend.php?SECTION_ID="+$(this).attr("id"); //В блоке с годом в атрибуте id хранится id секции которую необходимо получить в бэкенде
+				
+				$(".yearFilterrpi_ki").each(
+					function(){
+						$(this).attr("class", "yearFilterrpi_ki");
+					}
+				);
+				$(this).attr("class", "yearFilterrpi_ki active");
+				
+				$.get(url, function(result){
+					$(".rpi_ki").html(result);
+				}, "html");
+			}
+		);
+	}
+);
+</script>
+
+ 	</div>
+ 	 
+  <div class="raskritieInfoDiv" style="display: none;"><span class="otchetnostText">Документ будет доступен на сайте неограниченное время.</span> 		
+<div class="yearFilter">
+				<div class="yearFilterZakluchenie" id="155">2005</div>
+							<div class="yearFilterZakluchenie" id="156">2006</div>
+							<div class="yearFilterZakluchenie" id="157">2007</div>
+							<div class="yearFilterZakluchenie" id="158">2008</div>
+							<div class="yearFilterZakluchenie" id="159">2009</div>
+							<div class="yearFilterZakluchenie" id="160">2010</div>
+							<div class="yearFilterZakluchenie" id="161">2011</div>
+							<div class="yearFilterZakluchenie" id="2431">2012</div>
+							<div class="yearFilterZakluchenie" id="2514">2013</div>
+							<div class="yearFilterZakluchenie" id="2641">2014</div>
+							<div class="yearFilterZakluchenie" id="2893">2015</div>
+							<div class="yearFilterZakluchenie" id="3284">2016</div>
+							<div class="yearFilterZakluchenie" id="3484">2017</div>
+							<div class="yearFilterZakluchenie" id="3689">2018</div>
+							<div class="yearFilterZakluchenie" id="3785">2019</div>
+							<div class="yearFilterZakluchenie" id="3835">2020</div>
+							<div class="yearFilterZakluchenie" id="3891">2021</div>
+							<div class="yearFilterZakluchenie active" id="3913">2022</div>
+					</div>
+
+
+<div class="zakluchenie lineDivs">
+		<div>
+		<a target="_blanc" href="/upload/iblock/bd2/aud_uk.pdf">Скачать</a>
+		pdf (12.59 мБ) 		(03.04.2023 23:43:00)	</div>
+</div>
+
+<script>
+$(document).ready(
+	function(){
+		$(".yearFilterZakluchenie").click(//Бэкенд для переключения по году
+			function(){
+				var url = "/raskrytie-informatsii/zakluchenie_backend.php?SECTION_ID="+$(this).attr("id"); //В блоке с годом в атрибуте id хранится id секции которую необходимо получить в бэкенде
+				
+				$(".yearFilterZakluchenie").each(
+					function(){
+						$(this).attr("class", "yearFilterZakluchenie");
+					}
+				);
+				$(this).attr("class", "yearFilterZakluchenie active");
+				
+				$.get(url, function(result){
+					$(".zakluchenie").html(result);
+				}, "html");
+			}
+		);
+	}
+);
+</script>
+
+ 	</div>
+ 	 
+  <div class="konsfinrepInfoDiv" style="display: none;"><span class="otchetnostText">Документ будет доступен на сайте неограниченное время.</span> 		
+<div class="yearFilter">
+				<div class="yearFilterKonsfinrep" id="3014">2015</div>
+							<div class="yearFilterKonsfinrep" id="3403">2016</div>
+							<div class="yearFilterKonsfinrep" id="3550">2017</div>
+							<div class="yearFilterKonsfinrep" id="3739">2018</div>
+							<div class="yearFilterKonsfinrep" id="3786">2019</div>
+							<div class="yearFilterKonsfinrep" id="3834">2020</div>
+							<div class="yearFilterKonsfinrep" id="3892">2021</div>
+							<div class="yearFilterKonsfinrep active" id="3914">2022</div>
+					</div>
+
+
+<div class="konsfinrep lineDivs">
+		<div>
+		<a target="_blanc" href="/upload/iblock/903/aud_uk.pdf">Скачать</a>
+		pdf (12.59 мБ) 		(03.04.2023 23:44:00)	</div>
+</div>
+
+<script>
+$(document).ready(
+	function(){
+		$(".yearFilterKonsfinrep").click(//Бэкенд для переключения по году
+			function(){
+				var url = "/raskrytie-informatsii/konsfinrep_backend.php?SECTION_ID="+$(this).attr("id"); //В блоке с годом в атрибуте id хранится id секции которую необходимо получить в бэкенде
+				
+				$(".yearFilterKonsfinrep").each(
+					function(){
+						$(this).attr("class", "yearFilterKonsfinrep");
+					}
+				);
+				$(this).attr("class", "yearFilterKonsfinrep active");
+				
+				$.get(url, function(result){
+					$(".konsfinrep").html(result);
+				}, "html");
+			}
+		);
+	}
+);
+</script>
+
+ 	</div>
+ 	 
+  <div class="obshInfoDiv" style="display: none;"> 		<span class="otchetnostText"> 
+      <p>Дата раскрытия информации: 28.02.2022</p>
+     </span> 		 
+    <p><a target="_blank" href="/upload/rd/rekvizity_uk_280222.pdf">Реквизиты управляющей компании</a></p>
+   		 
+    <br>
+   		<span class="zagDocFond" id="rec_arc">Архив</span> 				 
+    <div class="rec_arc dispnon"> 						<span class="otchetnostText"> 
+        <p>Дата раскрытия информации: 01.10.2021</p>
+       </span> 						 
+      <p><a target="_blank" href="/upload/rd/rekvizity_uk.pdf">Реквизиты управляющей компании</a></p>
+     				</div>
+   	</div>
+ </div>
+ 
+<script type="text/javascript" src="/js/perekluchatel_vkladok.js"></script>
+ <br>
+<div class="otchetnostText" style="display: block;"> 
+  <p style="text-align: justify;">Общество с ограниченной ответственностью «РЕГИОН Девелопмент». Лицензия на осуществление деятельности по управлению инвестиционными фондами, паевыми инвестиционными фондами и негосударственными пенсионными фондами № 21-000-1-00591 от-21 августа 2008 года предоставлена ФСФР России, без ограничения срока действия. </p>
+ 
+  <p style="text-align: justify;">До приобретения инвестиционных паев фондов получить подробную информацию о фондах, ознакомиться с правилами доверительного управления фондов, а также получить сведения об ООО «РЕГИОН Девелопмент» и иную информацию, предусмотренную законодательством Российской Федерации и нормативными актами Российской Федерации можно по адресу: Российская Федерация, Российская Федерация, 123112, г. Москва, 1-й Красногвардейский проезд, д. 22, стр. 1, этаж 11, помещение А11, комната № 30, телефон: (495) 777-29-64. Адрес сайта в сети Интернет: <a href="http://www.region-rd.ru/">www.region-rd.ru</a>. </p>
+ 
+  <p style="text-align: justify;">Стоимость инвестиционных паев может увеличиваться и уменьшаться. Результаты инвестирования в прошлом не определяют доходы в будущем. Государство не гарантирует доходность инвестиций, в том числе в паевой инвестиционный фонд. Прежде чем приобрести инвестиционный пай, следует внимательно ознакомиться с правилами доверительного управления паевым инвестиционным фондом.</p>
+ 
+  <p style="text-align: justify;">Паевые инвестиционные фонды под управлением ООО «РЕГИОН Девелопмент»:</p>
+ 
+  <p style="text-align: justify;">· Закрытый паевой инвестиционный фонд недвижимости «Протон» (Правила доверительного управления Фондом зарегистрированы ФСФР России 17 января 2012г. № 2299).</p>
+ 
+  <p style="text-align: justify;">· Закрытый паевой инвестиционный фонд недвижимости «Атлант – региональная недвижимость» (Правила доверительного управления Фондом зарегистрированы ФСФР России 18 декабря 2012 года за №2509).</p>
+ 
+  <p style="text-align: justify;">· Закрытый паевой инвестиционный фонд недвижимости «Базальт» (Правила доверительного управления Фондом зарегистрированы Банком России 05 октября 2017 года за №3399).</p>
+ 
+  <p style="text-align: justify;">· Закрытый паевой инвестиционный комбинированный фонд «Объединение» (Правила доверительного управления Фондом зарегистрированы Банком России 11 июля 2019 года за № 3768, инвестиционные паи ЗПИФ комбинированный «Объединение» ограничены в обороте).</p>
+ 
+  <p style="text-align: justify;">· Закрытый паевой инвестиционный комбинированный фонд «Концепция» (Правила доверительного управления зарегистрированы Банком России 11 июля 2019 года за № 3770, инвестиционные паи ЗПИФ комбинированный «Концепция» ограничены в обороте).</p>
+ 
+  <p style="text-align: justify;">· Закрытый паевой инвестиционный комбинированный фонд «Партнерство» (Правила доверительного управления Фондом зарегистрированы Банком России 11 июля 2019 года за № 3769, инвестиционные паи ЗПИФ комбинированный «Партнерство» ограничены в обороте).</p>
+ 
+  <p style="text-align: justify;">· Закрытый паевой инвестиционный комбинированный фонд «Сотрудничество» (Правила доверительного управления Фондом зарегистрированы Банком России 07 ноября 2018 года за № 3588, инвестиционные паи ЗПИФ комбинированный «Сотрудничество» ограничены в обороте).</p>
+ 
+  <p style="text-align: justify;">· Закрытый паевой инвестиционный комбинированный фонд «Аштарак» (Правила доверительного управления Фондом зарегистрированы Банком России 27 июня 2014 года за № 2822, инвестиционные паи ЗПИФ комбинированный «Аштарак» ограничены в обороте).</p>
+ 
+  <p style="text-align: justify;">· Закрытый паевой инвестиционный комбинированный фонд «М-Капитал» (Правила доверительного управления Фондом, согласованными специализированным депозитарием Акционерным обществом «Депозитарная компания «РЕГИОН» 19.05.2021г. и внесенным Банком России в реестр паевых инвестиционных фондов 20.05.2021 года за № 4422-СД, инвестиционные паи ЗПИФ комбинированный «М-Капитал» ограничены в обороте).</p>
+ 
+  <p style="text-align: justify;">Не допускается распространение информации о паевом инвестиционном фонде, инвестиционные паи которых ограничены в обороте, за исключением случаев ее раскрытия в соответствии с федеральными законами.</p>
+ 
+  <p style="text-align: justify;">ООО «РЕГИОН Девелопмент» информирует об отсутствии совмещения деятельности по доверительному управлению паевыми инвестиционными фондами с иными видами деятельности.</p>
+ 
+  <p> </p>
+ 
+  <p></p>
+ </div><p></p>
+ <p style="text-align: center;"><br>
+ <a href="/raskrytie-informatsii/region-development/subscription/" class="otchetnostText" style="display: block;text-decoration:none;color:#333;width:280px;border-radius:4px;    margin: auto;">Подписка на раскрываемую информацию</a>
+</p>			
+		</div>
+		<div class="fl_r pad0_20 padt35 w150 rm"><div class="right_obl">
+<div class="r_anons_news">
+		<p class="news-item" id="bx_3393582192_217532">
+							<span class="news-date-time">
+				21.04.2023 17:12			</span>
+											<a href="/raskrytie-informatsii/region-development/ofitsialnye-soobshcheniya/217532/"><b>ООО "РЕГИОН Девелопмент" сообщает о регистрации Банком России изменений и дополнений в Правила доверительного управления ЗПИФ недвижимости "Протон"</b></a>
+														</p>
+		<p class="news-item" id="bx_3393582192_217315">
+							<span class="news-date-time">
+				04.04.2023 14:08			</span>
+											<a href="/raskrytie-informatsii/region-development/ofitsialnye-soobshcheniya/217315/"><b>ООО "РЕГИОН Девелопмент" сообщает о дате составления списка владельцев инвестиционных паев ЗПИФ недвижимости «Протон» для частичного погашения инвестиционных паев фонда без заявления владельцами инвестиционных паев требований об их погашении</b></a>
+														</p>
+		<p class="news-item" id="bx_3393582192_217271">
+							<span class="news-date-time">
+				31.03.2023 17:05			</span>
+											<a href="/raskrytie-informatsii/region-development/ofitsialnye-soobshcheniya/217271/"><b>Результаты проведения специальной оценки условий труда</b></a>
+														</p>
+		<p class="news-item" id="bx_3393582192_216799">
+							<span class="news-date-time">
+				18.02.2023 19:45			</span>
+											<a href="/raskrytie-informatsii/region-development/ofitsialnye-soobshcheniya/216799/"><b>ООО "РЕГИОН Девелопмент" сообщает о технических неполадках на сайте</b></a>
+														</p>
+		<p class="news-item" id="bx_3393582192_216779">
+							<span class="news-date-time">
+				17.02.2023 14:53			</span>
+											<a href="/raskrytie-informatsii/region-development/ofitsialnye-soobshcheniya/216779/"><b>ООО "РЕГИОН Девелопмент" сообщает о технических неполадках на сайте</b></a>
+														</p>
+
+</div>
+<a class="a_allnews" href="/raskrytie-informatsii/region-development/ofitsialnye-soobshcheniya/">Все сообщения</a></div>
+
+</div>
+<div class="clearBlock h70p"></div>
+</div>
+ </div>
+<div class="ta_c padb10 fs11 footer">
+<a href="http://www.prof-line.ru/" title="Сделано в интернет-агентстве ПРОФЛАЙН" target="_blank"><img alt="Сделано в интернет-агентстве ПРОФЛАЙН" title="Сделано в интернет-агентстве ПРОФЛАЙН" border="0" src="/images/profline.png" style="margin-bottom:-10px;"></a>
+</div>
+

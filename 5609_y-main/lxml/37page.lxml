@@ -1,0 +1,539 @@
+
+    <div class="overlay" id="overlay" onclick="overlayClicked();"></div>
+
+    <div class="container">
+
+        <div class="wrapper">
+
+            <header class="header flexbox">
+                <div class="left header__left" style1="border:1px solid;">
+                    <div class="logo-wrap">
+                        <a href="/"><img src="/img/logo.png" alt="" class="logo"></a>
+                    </div>
+                </div>
+
+                <div class="right header__right">
+                    <div class="header__service">
+                        <div class="header__icons">
+                            <a href="/" class="icons icon--home" style="width:100px;line-height:28px;" title="Переход на главную страницу сайта">Главная</a> &nbsp;  &nbsp; 
+                            <a href="/order/" class="icons icon--mail" style="width:150px;line-height:28px;" title="Форма обратной связи">Обратная связь</a>
+                        </div>
+			<form action="/search/" method="post">
+                        <div class="header__search">
+                            <input type="search" name="search_str" class="header__search-input">
+                            <button type="submit" class="header__search-button">Найти</button>
+                            <input type="hidden" name="submit" value="1">
+                        </div>
+                        </form>
+                    </div>
+                </div>
+                    
+
+
+
+            </header>
+
+
+	    <div class="header__pic-wrap" style="padding-bottom:7px; margin-bottom:10px;border-bottom:1px solid #d9d9d9;">
+                        <img src="/img/header-image.jpg" alt="" class="header__pic" style="width:1180px;height:240px;">
+    	    </div>
+
+<br>
+
+
+            <div class="breadcrumbs">
+        	<a href="/" class="breadcrumbs__link breadcrumbs--active">Главная</a><span class="breadcrumbs__icon"></span>
+<span class="breadcrumbs--inactive"><span class="breadcrumbs--inactive">Расчет собственных средств ООО УК "Инвест-Урал"</span></span>    	    </div>
+
+            <main class="flexbox" role="main">
+                <div class="left content">
+
+					<h1>Расчет собственных средств ООО УК "Инвест-Урал"</h1>
+
+					
+                    <div class="doclist">
+
+					
+
+						<div class="doclist__item">
+							<div class="icons icon--save doclist__item__icon"></div>
+							<div>
+								<a href="/content/files/20230609-122231_0.xls" class="doclist__item__link" target="_blank">Расчет СС на 31.05.2023 г. (опубликовано 09.06.2023 г., доступно до 09.06.2026 г.)</a>
+								<span class="doclist__item__date"> 9 июня 2023 (xls, 36 кб)</span>
+							</div>
+						</div>
+
+					
+
+						<div class="doclist__item">
+							<div class="icons icon--save doclist__item__icon"></div>
+							<div>
+								<a href="/content/files/20230515-180740_0.xls" class="doclist__item__link" target="_blank">Расчет СС на 30.04.2023 г. (опубликовано 15.05.2023 г., доступно до 15.05.2026 г.)</a>
+								<span class="doclist__item__date">15 мая 2023 (xls, 36 кб)</span>
+							</div>
+						</div>
+
+					
+
+						<div class="doclist__item">
+							<div class="icons icon--save doclist__item__icon"></div>
+							<div>
+								<a href="/content/files/20230413-120912_0.xls" class="doclist__item__link" target="_blank">Расчет СС на 31.03.2023 г. (опубликовано 13.04.2023 г., доступно до 13.04.2026 г.)</a>
+								<span class="doclist__item__date">13 апреля 2023 (xls, 34 кб)</span>
+							</div>
+						</div>
+
+					
+
+						<div class="doclist__item">
+							<div class="icons icon--save doclist__item__icon"></div>
+							<div>
+								<a href="/content/files/20230314-143017_0.xls" class="doclist__item__link" target="_blank">Расчет СС на 28.02.2023 г. (опубликовано 14.03.2023 г., доступно до 14.03.2026 г.)</a>
+								<span class="doclist__item__date">14 марта 2023 (xls, 34 кб)</span>
+							</div>
+						</div>
+
+					
+
+						<div class="doclist__item">
+							<div class="icons icon--save doclist__item__icon"></div>
+							<div>
+								<a href="/content/files/20230210-171143_0.xls" class="doclist__item__link" target="_blank">Расчет СС на 31.01.2023 г. (опубликовано 10.02.2023 г., доступно до 10.02.2027 г.)</a>
+								<span class="doclist__item__date">10 февраля 2023 (xls, 34 кб)</span>
+							</div>
+						</div>
+
+					
+
+						<div class="doclist__item">
+							<div class="icons icon--save doclist__item__icon"></div>
+							<div>
+								<a href="/content/files/20230119-181116_0.xls" class="doclist__item__link" target="_blank">Расчет СС на 31.12.2022 г. (опубликовано 19.01.2023 г., доступно до 19.01.2026 г.)</a>
+								<span class="doclist__item__date">19 января 2023 (xls, 34 кб)</span>
+							</div>
+						</div>
+
+					
+
+						<div class="doclist__item">
+							<div class="icons icon--save doclist__item__icon"></div>
+							<div>
+								<a href="/content/files/20221212-125631_0.xls" class="doclist__item__link" target="_blank">Расчет СС на 30.11.2021 г. (опубликовано 12.12.2022 г., доступно до 12.12.2025 г.)</a>
+								<span class="doclist__item__date">12 декабря 2022 (xls, 34 кб)</span>
+							</div>
+						</div>
+
+					
+
+						<div class="doclist__item">
+							<div class="icons icon--save doclist__item__icon"></div>
+							<div>
+								<a href="/content/files/20221111-122741_0.xls" class="doclist__item__link" target="_blank">Расчет СС на 31.10.2022 г. (опубликовано 11.11.2022 г., доступно до 11.11.2025 г.)</a>
+								<span class="doclist__item__date">11 ноября 2022 (xls, 34 кб)</span>
+							</div>
+						</div>
+
+					
+
+						<div class="doclist__item">
+							<div class="icons icon--save doclist__item__icon"></div>
+							<div>
+								<a href="/content/files/20221012-153351_15011.xls" class="doclist__item__link" target="_blank">Расчет СС на 30.09.2022 г. (опубликовано 12.10.2022 г., доступно до 12.10.2025 г.)</a>
+								<span class="doclist__item__date">12 октября 2022 (xls, 35 кб)</span>
+							</div>
+						</div>
+
+					
+
+						<div class="doclist__item">
+							<div class="icons icon--save doclist__item__icon"></div>
+							<div>
+								<a href="/content/files/20220909-171314_0.xls" class="doclist__item__link" target="_blank">Расчет СС на 31.08.2022 г. (опубликовано 09.09.2022 г., доступно до 09.09.2025 г.)</a>
+								<span class="doclist__item__date"> 9 сентября 2022 (xls, 34 кб)</span>
+							</div>
+						</div>
+
+					
+
+						<div class="doclist__item">
+							<div class="icons icon--save doclist__item__icon"></div>
+							<div>
+								<a href="/content/files/20220810-110926_0.xls" class="doclist__item__link" target="_blank">Расчет СС на 31.07.2022 г. (опубликовано 10.08.2022 г., доступно до 10.08.2025 г.)</a>
+								<span class="doclist__item__date">10 августа 2022 (xls, 34 кб)</span>
+							</div>
+						</div>
+
+					
+
+						<div class="doclist__item">
+							<div class="icons icon--save doclist__item__icon"></div>
+							<div>
+								<a href="/content/files/20220712-161544_14971.xls" class="doclist__item__link" target="_blank">Расчет СС на 30.06.2022 г. (опубликовано 12.07.2022 г., доступно до 12.07.2025 г.)</a>
+								<span class="doclist__item__date">12 июля 2022 (xls, 34 кб)</span>
+							</div>
+						</div>
+
+					
+
+						<div class="doclist__item">
+							<div class="icons icon--save doclist__item__icon"></div>
+							<div>
+								<a href="/content/files/20220615-161706_14958.xls" class="doclist__item__link" target="_blank">Расчет СС на 31.05.2022 г. (опубликовано 14.06.2022 г., доступно до 14.06.2025 г.)</a>
+								<span class="doclist__item__date">14 июня 2022 (xls, 39 кб)</span>
+							</div>
+						</div>
+
+					
+
+						<div class="doclist__item">
+							<div class="icons icon--save doclist__item__icon"></div>
+							<div>
+								<a href="/content/files/20220517-113757_0.xls" class="doclist__item__link" target="_blank">Расчет СС на 30.04.2022 г. (опубликовано 17.05.2022 г., доступно до 17.05.2025 г.)</a>
+								<span class="doclist__item__date">17 мая 2022 (xls, 34 кб)</span>
+							</div>
+						</div>
+
+					
+
+						<div class="doclist__item">
+							<div class="icons icon--save doclist__item__icon"></div>
+							<div>
+								<a href="/content/files/20220413-170759_0.xls" class="doclist__item__link" target="_blank">Расчет СС на 31.03.2022 г. (опубликовано 13.04.2022 г., доступно до 13.04.2025 г.)</a>
+								<span class="doclist__item__date">13 апреля 2022 (xls, 34 кб)</span>
+							</div>
+						</div>
+
+					
+
+						<div class="doclist__item">
+							<div class="icons icon--save doclist__item__icon"></div>
+							<div>
+								<a href="/content/files/20220315-124345_14903.xls" class="doclist__item__link" target="_blank">Расчет СС на 28.02.2022 г. (опубликовано 15.03.2022 г., доступно до 15.03.2025 г.)</a>
+								<span class="doclist__item__date">15 марта 2022 (xls, 34 кб)</span>
+							</div>
+						</div>
+
+					
+
+						<div class="doclist__item">
+							<div class="icons icon--save doclist__item__icon"></div>
+							<div>
+								<a href="/content/files/20220214-153647_14896.xls" class="doclist__item__link" target="_blank">Расчет СС на 31.01.2022 г. (опубликовано 14.02.2022 г., доступно до 14.02.2026 г.)</a>
+								<span class="doclist__item__date">14 февраля 2022 (xls, 37 кб)</span>
+							</div>
+						</div>
+
+					
+
+						<div class="doclist__item">
+							<div class="icons icon--save doclist__item__icon"></div>
+							<div>
+								<a href="/content/files/20220121-104139_14870.xls" class="doclist__item__link" target="_blank">Расчет СС на 31.12.2021 г. (опубликовано 20.01.2022 г., доступно до 20.01.2025 г.)</a>
+								<span class="doclist__item__date">20 января 2021 (xls, 42 кб)</span>
+							</div>
+						</div>
+
+					
+
+						<div class="doclist__item">
+							<div class="icons icon--save doclist__item__icon"></div>
+							<div>
+								<a href="/content/files/20211213-164207_14853.xls" class="doclist__item__link" target="_blank">Расчет СС на 30.11.2021 г. (опубликовано 13.12.2021 г., доступно до 13.12.2024 г.)</a>
+								<span class="doclist__item__date">13 декабря 2021 (xls, 48 кб)</span>
+							</div>
+						</div>
+
+					
+
+						<div class="doclist__item">
+							<div class="icons icon--save doclist__item__icon"></div>
+							<div>
+								<a href="/content/files/20211117-100411_14836.xls" class="doclist__item__link" target="_blank">Расчет СС на 31.10.2021 г. (опубликовано 15.11.2021 г., доступно до 15.11.2024 г.)</a>
+								<span class="doclist__item__date">15 ноября 2021 (xls, 49 кб)</span>
+							</div>
+						</div>
+
+					
+
+						<div class="doclist__item">
+							<div class="icons icon--save doclist__item__icon"></div>
+							<div>
+								<a href="/content/files/20211014-111712_14786.xls" class="doclist__item__link" target="_blank">Расчет собственных средств на 30.09.2021 г. (опубликовано 14.10.2021 г., доступно до 14.10.2024 г.)</a>
+								<span class="doclist__item__date">14 октября 2021 (xls, 65 кб)</span>
+							</div>
+						</div>
+
+					
+
+						<div class="doclist__item">
+							<div class="icons icon--save doclist__item__icon"></div>
+							<div>
+								<a href="/content/files/20210929-130049_14768.pdf" class="doclist__item__link" target="_blank">Расчет СС на 31.08.2021 г. (опубликовано в 11-46 10.09.2021 г., доступно до 10.09.2024 г.)</a>
+								<span class="doclist__item__date">10 сентября 2021 (pdf, 250 кб)</span>
+							</div>
+						</div>
+
+					
+
+						<div class="doclist__item">
+							<div class="icons icon--save doclist__item__icon"></div>
+							<div>
+								<a href="/content/files/20210929-130144_14767.pdf" class="doclist__item__link" target="_blank">Расчет СС на 31.07.2021 г. (опубликовано в 17-32 12.08.2021 г., доступно до 12.08.2024 г.)</a>
+								<span class="doclist__item__date">12 августа 2021 (pdf, 250 кб)</span>
+							</div>
+						</div>
+
+					
+
+						<div class="doclist__item">
+							<div class="icons icon--save doclist__item__icon"></div>
+							<div>
+								<a href="/content/files/20210929-130240_14760.pdf" class="doclist__item__link" target="_blank">Расчет СС на 30.06.2021 г. (опубликовано в 15-17 13.07.2021 г., доступно до 13.07.2024 г.)</a>
+								<span class="doclist__item__date">13 июля 2021 (pdf, 250 кб)</span>
+							</div>
+						</div>
+
+					
+
+						<div class="doclist__item">
+							<div class="icons icon--save doclist__item__icon"></div>
+							<div>
+								<a href="/content/files/20210929-132232_14754.pdf" class="doclist__item__link" target="_blank">Расчет СС на 31.05.2021 г. (опубликовано в 09:40 11.06.2021 г., доступно до 11.06.2024 г.)</a>
+								<span class="doclist__item__date">11 июня 2021 (pdf, 250 кб)</span>
+							</div>
+						</div>
+
+					
+
+						<div class="doclist__item">
+							<div class="icons icon--save doclist__item__icon"></div>
+							<div>
+								<a href="/content/files/20210929-180408_14753.pdf" class="doclist__item__link" target="_blank">Расчет СС на 30.04.2021 г. (опубликовано в 09:19 18.05.2021 г., доступно до 18.05.2024 г.)</a>
+								<span class="doclist__item__date">18 мая 2021 (pdf, 250 кб)</span>
+							</div>
+						</div>
+
+					
+
+						<div class="doclist__item">
+							<div class="icons icon--save doclist__item__icon"></div>
+							<div>
+								<a href="/content/files/20210929-132417_14745.pdf" class="doclist__item__link" target="_blank">Расчет СС на 31.03.2021 г. (опубликовано в 15:47 13.04.2021 г., доступно до 13.04.2024 г.)</a>
+								<span class="doclist__item__date">13 апреля 2021 (pdf, 247 кб)</span>
+							</div>
+						</div>
+
+					
+
+						<div class="doclist__item">
+							<div class="icons icon--save doclist__item__icon"></div>
+							<div>
+								<a href="/content/files/20210929-132523_14743.pdf" class="doclist__item__link" target="_blank">Расчет СС на 28.02.2021 г. (опубликовано в 16-08 12.03.2021 г., доступно до 12.03.2024 г.)</a>
+								<span class="doclist__item__date">12 марта 2021 (pdf, 246 кб)</span>
+							</div>
+						</div>
+
+					
+
+						<div class="doclist__item">
+							<div class="icons icon--save doclist__item__icon"></div>
+							<div>
+								<a href="/content/files/20210929-132723_14737.pdf" class="doclist__item__link" target="_blank">Расчет СС на 31.01.2021 г. (опубликовано в 10-40 10.02.2021 г., доступно до 10.02.2024 г.)</a>
+								<span class="doclist__item__date">10 февраля 2021 (pdf, 246 кб)</span>
+							</div>
+						</div>
+
+					
+
+						<div class="doclist__item">
+							<div class="icons icon--save doclist__item__icon"></div>
+							<div>
+								<a href="/content/files/20210929-132800_14730.pdf" class="doclist__item__link" target="_blank">Расчет СС на 31.12.2020 г. (опубликовано в 16-01 21.01.2021 г., доступно до 21.01.2024 г.)</a>
+								<span class="doclist__item__date">21 января 2021 (pdf, 247 кб)</span>
+							</div>
+						</div>
+
+					
+
+						<div class="doclist__item">
+							<div class="icons icon--save doclist__item__icon"></div>
+							<div>
+								<a href="/content/files/20210929-132845_14716.pdf" class="doclist__item__link" target="_blank">Расчет СС на 30.11.2020 г. (опубликовано в 17-30 10.12.2020 г., доступно до 10.12.2023 г.)</a>
+								<span class="doclist__item__date">10 декабря 2020 (pdf, 246 кб)</span>
+							</div>
+						</div>
+
+					
+
+						<div class="doclist__item">
+							<div class="icons icon--save doclist__item__icon"></div>
+							<div>
+								<a href="/content/files/20210929-180514_14714.pdf" class="doclist__item__link" target="_blank">Расчет СС на 31.10.2020 г. (опубликовано в 10-45 13.11.2020 г., доступно до 13.11.2023 г.)</a>
+								<span class="doclist__item__date">13 ноября 2020 (pdf, 246 кб)</span>
+							</div>
+						</div>
+
+					
+
+						<div class="doclist__item">
+							<div class="icons icon--save doclist__item__icon"></div>
+							<div>
+								<a href="/content/files/20210929-132947_14707.pdf" class="doclist__item__link" target="_blank">Расчет СС на 30.09.2020 г. (опубликовано в 15-47 13.10.2020 г., доступно до 13.10.2023 г.)</a>
+								<span class="doclist__item__date">13 октября 2020 (pdf, 246 кб)</span>
+							</div>
+						</div>
+
+					
+
+                    </div>
+
+<form action="/subscribe/" method="post">
+                        <div class="header__search">
+                                                    <button type="submit" class="header__search-button">Подписаться на рассылку</button>
+                                                                                <input type="hidden" name="submit2" value="1">
+                                                                                                        </div>
+                                                                                                                                </form>
+
+
+                </div>
+
+                <div class="right aside">
+                    <div class="aside__news">
+						<div class="aside__news__item"><span>Расчет собственных средств ООО УК "Инвест-Урал"</span></div>
+<div class="aside__news__item"><a href="https://invest-ural.ru/otchetnost-uk-invest-ural/">Отчетность ООО УК «Инвест-Урал»</a></div>
+<div class="aside__news__item"><a href="https://invest-ural.ru/opifo-alternativnyy-procent/">ОПИФ рыночных финансовых инструментов «Альтернативный процент»</a></div>
+<div class="aside__news__item"><a href="https://invest-ural.ru/opif-akciy-bazovye-otrasli/">ОПИФ рыночных финансовых инструментов «Базовые отрасли»</a></div>
+<div class="aside__news__item"><a href="https://invest-ural.ru/opif-denezhnogo-rynka-mobilnyy-kapital/">ОПИФ рыночных финансовых инструментов «Мобильный капитал»</a></div>
+<div class="aside__news__item"><a href="https://invest-ural.ru/opif-obligaciy-aktivnye-investicii/">ОПИФ рыночных финансовых инструментов «Активные инвестиции»</a></div>
+<div class="aside__news__item"><a href="https://invest-ural.ru/opif-obligaciy-lombardnyy-spisok/">ОПИФ рыночных финансовых инструментов «Ломбардный список»</a></div>
+<div class="aside__news__item"><a href="https://invest-ural.ru/zakrytyy-kombinirovannyy-paevoy-investicionnyy-fon/">Закрытый комбинированный паевой инвестиционный фонд "Инвестиционные облигации"</a></div>
+<div class="aside__news__item"><a href="https://invest-ural.ru/informaciya-o-strukture-i-sostave-uchastnikov-v-to/">Информация о структуре и составе участников, в том числе о лицах, под контролем либо значительным влиянием которых находится ООО УК «Инвест-Урал» </a></div>
+<div class="aside__news__item"><a href="https://invest-ural.ru/svedeniya-o-dolzhnostnyh-licah-ooo-uk---invest-ura/">Сведения о должностных лицах ООО УК «Инвест-Урал»</a></div>
+<div class="aside__news__item"><a href="https://invest-ural.ru/informaciya-o-licah-s-kotorymi-upravlyayuschey-kom/">Информация о лицах, с которыми управляющей компанией заключен договор </a></div>
+<div class="aside__news__item"><a href="https://invest-ural.ru/kvalificirovannye-investory/">Квалифицированные инвесторы</a></div>
+<div class="aside__news__item"><a href="https://invest-ural.ru/informaciya-dlya-poluchateley-finansovyh-uslug/">Информация для получателей финансовых услуг</a></div>
+<div class="aside__news__item"><a href="https://invest-ural.ru/konflikt-interesov/">Конфликт интересов</a></div>
+
+                    </div>
+                </div>
+            </main>
+
+
+        </div>
+
+        <div class="footer">
+            <div class="footer__text">
+				<p style="text-align: justify;"><span style="font-family:georgia,serif"><span style="font-size:16px">Стоимость инвестиционных паев может увеличиваться и уменьшаться, результаты инвестирования в прошлом не определяют доходы в будущем, государство не гарантирует доходность инвестиций в паевые инвестиционные фонды, прежде чем приобрести инвестиционный пай, следует внимательно ознакомиться с Правилами доверительного управления паевым инвестиционным Фондом. Получить подробную информацию о деятельности ООО УК «Инвест-Урал» и паевых инвестиционных фондах, ознакомиться с правилами доверительного управления и иными документами, подлежащими раскрытию и предоставлению в соответствии с действующим законодательством, можно по адресу: 620063, г. Екатеринбург, ул. 8 Марта, д. 51, а также в сети Интернет по адресу www.invest-ural.ru и по телефону +7 (343) 264-72-60. Информация, подлежащая опубликованию в печатном издании, публикуется в «Приложении к Вестнику Федеральной службы по финансовым рынкам».</span></span></p>
+
+<p style="text-align: justify;"><span style="font-family:georgia,serif"><span style="font-size:16px">Общество с ограниченной ответственностью Управляющая компания «Инвест-Урал», лицензия на осуществление деятельности по управлению инвестиционными фондами, паевыми инвестиционными фондами и негосударственными пенсионными фондами № 21-000-1-00746 от 12 августа 2010 года выдана Федеральной службой по финансовым рынкам. Общество с ограниченной ответственностью Управляющая компания «Инвест-Урал» не совмещает вышеуказанную деятельность с деятельностью по управлению ценными бумагами, предусмотренной Федеральным законом от 22.04.1996&nbsp;№ 39-ФЗ.</span></span></p>
+
+<p style="text-align: justify;">&nbsp;</p>
+
+<p style="text-align: justify;"><span style="font-family:georgia,serif"><span style="font-size:16px">Реквизиты управляющей компании.</span></span></p>            </div>
+
+            <div class="footer__copyright">
+                <table border="1" cellpadding="0" cellspacing="0">
+	<tbody>
+		<tr>
+			<td style="width: 319px;">
+			<p><span style="font-size:12px"><span style="font-family:times new roman,times,serif">Полное и сокращенное (при наличии) фирменные наименования (далее - наименование)</span></span></p>
+			</td>
+			<td style="width: 319px;">
+			<p><span style="font-size:12px"><span style="font-family:times new roman,times,serif">Общество с ограниченной ответственностью Управляющая компания "Инвест-Урал",</span></span></p>
+
+			<p><span style="font-size:12px"><span style="font-family:times new roman,times,serif">ООО УК "Инвест-Урал"</span></span></p>
+			</td>
+		</tr>
+		<tr>
+			<td style="width: 319px;">
+			<p><span style="font-size:12px"><span style="font-family:times new roman,times,serif">Номер и дата выдачи лицензии управляющей компании</span></span></p>
+			</td>
+			<td style="width: 319px;">
+			<p><span style="font-size:12px"><span style="font-family:times new roman,times,serif">№ 21-000-1-00746 от 12 августа 2010 года выдана Федеральной службой по финансовым рынкам</span></span></p>
+			</td>
+		</tr>
+		<tr>
+			<td style="width: 319px;">
+			<p><span style="font-size:12px"><span style="font-family:times new roman,times,serif">Основной государственный регистрационный номер (ОГРН)</span></span></p>
+			</td>
+			<td style="width: 319px;">
+			<p><span style="font-size:12px"><span style="font-family:times new roman,times,serif">1086671002582</span></span></p>
+			</td>
+		</tr>
+		<tr>
+			<td style="width: 319px;">
+			<p><span style="font-size:12px"><span style="font-family:times new roman,times,serif">Место нахождения (адрес)</span></span></p>
+			</td>
+			<td style="width: 319px;">
+			<p><span style="font-size:12px"><span style="font-family:times new roman,times,serif">620063, Свердловская область, г. Екатеринбург, ул. 8 Марта, д. 51</span></span></p>
+			</td>
+		</tr>
+		<tr>
+			<td style="width: 319px;">
+			<p><span style="font-size:12px"><span style="font-family:times new roman,times,serif">Номер телефона</span></span></p>
+			</td>
+			<td style="width: 319px;">
+			<p><span style="font-size:12px"><span style="font-family:times new roman,times,serif">+7 (343) 264-72-60</span></span></p>
+			</td>
+		</tr>
+		<tr>
+			<td style="width: 319px;">
+			<p><span style="font-size:12px"><span style="font-family:times new roman,times,serif">Адрес сайта</span></span></p>
+			</td>
+			<td style="width: 319px;">
+			<p><span style="font-size:12px"><span style="font-family:times new roman,times,serif">https://invest-ural.ru/</span></span></p>
+			</td>
+		</tr>
+	</tbody>
+</table>
+
+<p>&nbsp;</p>                <a href="#!" class="footer__copyright__developer">
+
+                </a>
+            </div>
+        </div>
+    </div>
+
+    <script>
+        function mailForm(){
+            var mailForm = document.getElementById('mailForm'),
+                mailClose = document.getElementById('mailFormClose');
+
+            mailForm.style.display = 'block';
+            overlayClicked();
+
+            if(mailForm.style.display !== 'none'){
+                mailClose.onclick = function(){
+                    mailForm.style.display = 'none';
+                    overlayClicked();
+                };
+            }
+        }
+
+        function overlayClicked(){
+            var overlay = document.getElementById('overlay');
+            if(overlay.style.display != 'block'){
+                overlay.style.display = 'block';
+            }
+            else{
+                overlay.style.display = 'none';
+                document.getElementById('mailForm').style.display = 'none';
+            }
+        }
+
+        function openRightMenu(){
+            var menu = document.getElementById('asideMenu'),
+                wrap = document.getElementById('asideWrap');
+            if(menu.style.display != 'block'){
+                wrap.classList.add('aside--visible');
+                menu.style.display = 'block';
+            }
+            else{
+                menu.style.display = 'none';
+                wrap.classList.remove('aside--visible');
+            }
+        }
+    </script>
+
+
+

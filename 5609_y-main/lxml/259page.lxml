@@ -1,0 +1,280 @@
+
+<header id="header" class="fixed-top">
+        <div class="container d-flex align-items-center">
+
+        <h1 class="logo me-auto"><a href="/">OVERBEST ASSET MANAGEMENT</a></h1>
+        <nav id="navbar" class="navbar">
+            
+    <ul>
+
+    
+    
+    
+        
+                            <li class="nav-link scrollto "><a href="/news/">Новости</a></li>
+            
+        
+    
+    
+
+    
+    
+        
+                            <li class="nav-link scrollto "><a href="/#contact">Контакты</a></li>
+            
+        
+    
+    
+
+    
+    
+        <li class="dropdown"><a href="/disclosure/"><span>Раскрытие Информации</span> <i class="bi bi-chevron-down"></i></a>
+    <ul>
+    
+    
+    
+
+    
+    
+        
+                            <li class="nav-link scrollto "><a href="/disclosure/dokumenty-upravlyayushchey-kompanii">Документы управляющей компании</a></li>
+            
+        
+    
+    
+
+    
+    
+        
+                            <li class="nav-link scrollto "><a href="/disclosure/informatsionnaya-bezopasnost">Информационная безопасность</a></li>
+            
+        
+    
+    
+
+    
+    
+        
+                            <li class="nav-link scrollto active"><a href="/disclosure/raschet-sobstvennykh-sredstv">Расчет собственных средств</a></li>
+            
+        
+    
+    
+
+    
+    
+        
+                            <li class="nav-link scrollto "><a href="/disclosure/svedeniya-ob-upravlyayushchey-kompanii">Сведения об управляющей компании</a></li>
+            
+        
+    
+    
+
+    
+    
+        
+                            <li class="nav-link scrollto "><a href="/disclosure/finansovaya-i-bukhgalterskaya-otchetnost">Финансовая и бухгалтерская отчетность</a></li>
+            
+        
+    
+    
+
+    
+    
+        
+                            <li class="nav-link scrollto "><a href="/disclosure/priznanie-lits-kvalifitsirovannymi-investorami">Признание лиц квалифицированными инвесторами</a></li>
+            
+        
+    
+    
+
+    
+    
+        
+                            <li class="nav-link scrollto "><a href="/disclosure/arkhiv">Архив</a></li>
+            
+        
+    
+    
+
+            </ul></li>    
+    </ul>
+        <i class="bi bi-list mobile-nav-toggle"></i>
+        </nav>
+    </div>
+</header>
+    <section id="hero" class="d-flex align-items-center">
+        <section id="hero" class="d-flex align-items-center">
+    <div class="container">
+        <div class="row">
+            <div class="col-lg-9 d-flex flex-column justify-content-center pt-4 pt-lg-0 order-2 order-lg-1 aos-init aos-animate" data-aos="fade-up" data-aos-delay="200">
+                <h1>Раскрытие информации</h1>
+                <h2>УК «Овербест Эссет Менеджмент»</h2>
+            </div>
+            <div class="col-lg-3 order-1 order-lg-2 hero-img aos-init aos-animate" data-aos="zoom-in" data-aos-delay="200">
+                <img src="/upload/iblock/e8d/8f5tg8imdewgzcmy778z7byf2l4qeybk.png" class="img-fluid animated" alt="">
+            </div>
+        </div>
+    </div>
+</section> </section>
+
+
+
+
+    <section id="portfolio" class="portfolio">
+        <div class="container aos-init" data-aos="fade-up">
+            <div class="section-title">
+                <h2>Расчет собственных средств</h2>
+            </div>
+            <ul id="portfolio-flters" class="d-flex justify-content-center aos-init" data-aos="fade-up" data-aos-delay="100">
+                <li data-filter="*" class="filter-active">Все</li>
+                                    <li data-filter=".filter-Y2023">2023</li>
+                                    <li data-filter=".filter-Y2022">2022</li>
+                            </ul>
+            <div class="row portfolio-container" style="position: relative; height: 1017.5px;">
+                                    <div class="col-12 portfolio-item filter-Y2023" id="bx_3218110189_38" style="position: absolute; left: 0px; top: 0px;">
+                        <div class="card text-start">
+                            <div class="card-body">
+                                <h6 class="card-subtitle mb-2 text-muted"><i class="bi bi-calendar-event"></i> Дата
+                                    раскрытия: 13.06.2023 16:38:00 / pdf,351 кБ</h6>
+                                <i class="bi bi-file-earmark-arrow-down"></i>
+                                <a target="_blank" href="/upload/iblock/617/4h39eafoq1t80b88n3l0cnp1z3rfiq1v/RSS_za-may-2023_na-sayt.pdf" class="card-title">
+                                    Расчет размера собственных средств УК на 31.05.2023</a>
+                                <p></p>
+                            </div>
+                        </div>
+                    </div>
+
+                                    <div class="col-12 portfolio-item filter-Y2023" id="bx_3218110189_37" style="position: absolute; left: 0px; top: 127.188px;">
+                        <div class="card text-start">
+                            <div class="card-body">
+                                <h6 class="card-subtitle mb-2 text-muted"><i class="bi bi-calendar-event"></i> Дата
+                                    раскрытия: 17.05.2023 11:06:00 / pdf,351 кБ</h6>
+                                <i class="bi bi-file-earmark-arrow-down"></i>
+                                <a target="_blank" href="/upload/iblock/ab5/jh2exo6k25gtu5r2ae6f16gm10ld4n5t/RSS_za-aprel-2023_na-sayt.pdf" class="card-title">
+                                    Расчет размера собственных средств УК на 30.04.2023</a>
+                                <p></p>
+                            </div>
+                        </div>
+                    </div>
+
+                                    <div class="col-12 portfolio-item filter-Y2023" id="bx_3218110189_33" style="position: absolute; left: 0px; top: 254.375px;">
+                        <div class="card text-start">
+                            <div class="card-body">
+                                <h6 class="card-subtitle mb-2 text-muted"><i class="bi bi-calendar-event"></i> Дата
+                                    раскрытия: 11.04.2023 18:26:00 / pdf,152 кБ</h6>
+                                <i class="bi bi-file-earmark-arrow-down"></i>
+                                <a target="_blank" href="/upload/iblock/f87/a8i2mektx0aq62ee89vrf0wcoloazs1m/Raschet-sobstvennykh-sredstv-za-mart-2023.pdf" class="card-title">
+                                    Расчет размера собственных средств УК на 31.03.2023</a>
+                                <p></p>
+                            </div>
+                        </div>
+                    </div>
+
+                                    <div class="col-12 portfolio-item filter-Y2023" id="bx_3218110189_20" style="position: absolute; left: 0px; top: 381.562px;">
+                        <div class="card text-start">
+                            <div class="card-body">
+                                <h6 class="card-subtitle mb-2 text-muted"><i class="bi bi-calendar-event"></i> Дата
+                                    раскрытия: 17.03.2023 12:40:00 / pdf,280 кБ</h6>
+                                <i class="bi bi-file-earmark-arrow-down"></i>
+                                <a target="_blank" href="/upload/iblock/c27/lnucmqfh2twmum9621f6d8d8x6lxipud.pdf" class="card-title">
+                                    Расчет размера собственных средств УК на 28.02.2023</a>
+                                <p></p>
+                            </div>
+                        </div>
+                    </div>
+
+                                    <div class="col-12 portfolio-item filter-Y2023" id="bx_3218110189_4" style="position: absolute; left: 0px; top: 508.75px;">
+                        <div class="card text-start">
+                            <div class="card-body">
+                                <h6 class="card-subtitle mb-2 text-muted"><i class="bi bi-calendar-event"></i> Дата
+                                    раскрытия: 08.02.2023 14:03:00 / pdf,280 кБ</h6>
+                                <i class="bi bi-file-earmark-arrow-down"></i>
+                                <a target="_blank" href="/upload/iblock/16e/3qnn25810fq04wqv92okbmqqk74vxpjj.pdf" class="card-title">
+                                    Расчет размера собственных средств УК на 31.01.2023</a>
+                                <p></p>
+                            </div>
+                        </div>
+                    </div>
+
+                                    <div class="col-12 portfolio-item filter-Y2022" id="bx_3218110189_3" style="position: absolute; left: 0px; top: 635.938px;">
+                        <div class="card text-start">
+                            <div class="card-body">
+                                <h6 class="card-subtitle mb-2 text-muted"><i class="bi bi-calendar-event"></i> Дата
+                                    раскрытия: 17.01.2023 14:02:00 / pdf,280 кБ</h6>
+                                <i class="bi bi-file-earmark-arrow-down"></i>
+                                <a target="_blank" href="/upload/iblock/69e/57s0pg3s2w5gg1mvs4mfjgvij2g6p7ho.pdf" class="card-title">
+                                    Расчет размера собственных средств УК на 31.12.2022</a>
+                                <p></p>
+                            </div>
+                        </div>
+                    </div>
+
+                                    <div class="col-12 portfolio-item filter-Y2022" id="bx_3218110189_2" style="position: absolute; left: 0px; top: 763.125px;">
+                        <div class="card text-start">
+                            <div class="card-body">
+                                <h6 class="card-subtitle mb-2 text-muted"><i class="bi bi-calendar-event"></i> Дата
+                                    раскрытия: 13.12.2022 12:01:00 / pdf,527 кБ</h6>
+                                <i class="bi bi-file-earmark-arrow-down"></i>
+                                <a target="_blank" href="/upload/iblock/4ff/ad26qok39zv6ai13hdzdwateos4mudme.pdf" class="card-title">
+                                    Расчет размера собственных средств УК на 30.11.2022</a>
+                                <p></p>
+                            </div>
+                        </div>
+                    </div>
+
+                                    <div class="col-12 portfolio-item filter-Y2022" id="bx_3218110189_1" style="position: absolute; left: 0px; top: 890.312px;">
+                        <div class="card text-start">
+                            <div class="card-body">
+                                <h6 class="card-subtitle mb-2 text-muted"><i class="bi bi-calendar-event"></i> Дата
+                                    раскрытия: 11.11.2022 11:01:00 / pdf,186 кБ</h6>
+                                <i class="bi bi-file-earmark-arrow-down"></i>
+                                <a target="_blank" href="/upload/iblock/262/o2gzrreisnmydfesk5hopqa8ke0s30s0.pdf" class="card-title">
+                                    Расчет размера собственных средств УК на 31.10.2022</a>
+                                <p></p>
+                            </div>
+                        </div>
+                    </div>
+
+                            </div>
+
+        </div>
+    </section>
+<footer id="footer">
+    <div class="footer-top">
+        <div class="container-fluid">
+            <blockquote class="row">
+                <blockquote class="" style="justify-content: center;">
+                    Общество с ограниченной ответственностью «Управляющая Компания «Овербест Эссет Менеджмент». Лицензия на осуществление деятельности по управлению инвестиционными фондами, паевыми инвестиционными фондами и негосударственными пенсионными фондами от 08.11.2022 года № 21-000-1-01064 предоставлена Банком России. Получить информацию о фондах и ознакомиться с Правилами доверительного управления паевыми инвестиционными фондами, с иными документами, предусмотренными Федеральным законом от 29.11.2001 № 156-ФЗ «Об инвестиционных фондах» и нормативными правовыми актами федерального органа исполнительной власти по рынку ценных бумаг можно в рабочие дни с 10:00 до 18:00 по адресу: Российская Федерация, 115035, г. Москва, Садовническая наб., д. 71, тел. +7 (495) 181-51-04 или в сети Internet по адресу: <a href="http://overbestam.ru">http://overbestam.ru</a>. Стоимость инвестиционных паёв может увеличиваться и уменьшаться. Результаты инвестирования в прошлом не определяют доходы в будущем. Государство не гарантирует доходность инвестиций в паевые инвестиционные фонды. Перед приобретением инвестиционных паев необходимо внимательно ознакомиться с правилами доверительного управления паевым инвестиционным фондом. Раскрываемая на сайте информация находится в постоянном доступе бессрочно, если не указано иное. Для ознакомления с материалами Вам могут понадобиться программы просмотра pdf и xls файлов. Представленные на сайте материалы и указанная в них информация не являются индивидуальными инвестиционными рекомендациями. Управляющая компания не совмещает деятельность по доверительному управлению инвестиционными фондами, паевыми инвестиционными фондами и негосударственными пенсионными фондами с деятельностью профессионального участника рынка ценных бумаг по управлению ценными бумагами. Информация раскрывается в соответствии с требованиями Стандарта деятельности управляющих компаний паевых инвестиционных фондов НАУФОР.<br>                </blockquote>
+            </blockquote></div>
+        </div>
+    
+
+    <div class="container footer-bottom align-content-center">
+        <strong><span>© 2023 Все права защищены.</span></strong>
+    </div>
+</footer>
+
+
+<a href="#" class="back-to-top d-flex align-items-center justify-content-center"><i class="bi bi-arrow-up-short"></i></a>
+
+<script type="text/javascript" async="" src="http://bitrix.info/ba.js"></script><script type="text/javascript">if (Intl && Intl.DateTimeFormat) document.cookie="BITRIX_SM_TZ="+Intl.DateTimeFormat().resolvedOptions().timeZone+"; path=/; expires=Sat, 01 Jun 2024 00:00:00 +0300";</script>
+
+
+
+<script type="text/javascript">var _ba = _ba || []; _ba.push(["aid", "66901c18d7af7f35bb8d8fcf0c353031"]); _ba.push(["host", "overbestam.ru"]); (function() {var ba = document.createElement("script"); ba.type = "text/javascript"; ba.async = true;ba.src = (document.location.protocol == "https:" ? "https://" : "http://") + "bitrix.info/ba.js";var s = document.getElementsByTagName("script")[0];s.parentNode.insertBefore(ba, s);})();</script>
+
+
+<script src="/bitrix/templates/overbest/assets/vendor/aos/aos.js"></script>
+<script src="/bitrix/templates/overbest/assets/vendor/bootstrap/js/bootstrap.bundle.min.js"></script>
+<script src="/bitrix/templates/overbest/assets/vendor/glightbox/js/glightbox.min.js"></script>
+<script src="/bitrix/templates/overbest/assets/vendor/isotope-layout/isotope.pkgd.min.js"></script>
+<script src="/bitrix/templates/overbest/assets/vendor/swiper/swiper-bundle.min.js"></script>
+<script src="/bitrix/templates/overbest/assets/vendor/waypoints/noframework.waypoints.js"></script>
+<script src="/bitrix/templates/overbest/assets/vendor/php-email-form/validate.js"></script>
+
+
+<script src="/bitrix/templates/overbest/assets/js/main.js"></script>
+
+
+

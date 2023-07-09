@@ -1,0 +1,3129 @@
+
+<!-- Google Tag Manager (noscript) -->
+<noscript><iframe src="https://www.googletagmanager.com/ns.html?id=GTM-536V57B"
+height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
+<!-- End Google Tag Manager (noscript) -->
+
+<!-- Yandex.Metrika counter -->
+            <script type="text/javascript">
+              (function (d, w, c) {
+                  (w[c] = w[c] || []).push(function() {
+                      try {
+                          w.yaCounter37300040 = new Ya.Metrika({
+                              id:37300040,
+                              clickmap:true,
+                              trackLinks:true,
+                              accurateTrackBounce:true,
+                              webvisor:true
+                          });
+                      } catch(e) { }
+                  });
+
+                  var n = d.getElementsByTagName("script")[0],
+                      s = d.createElement("script"),
+                      f = function () { n.parentNode.insertBefore(s, n); };
+                  s.type = "text/javascript";
+                  s.async = true;
+                  s.src = "https://mc.yandex.ru/metrika/watch.js";
+
+                  if (w.opera == "[object Opera]") {
+                      d.addEventListener("DOMContentLoaded", f, false);
+                  } else { f(); }
+              })(document, window, "yandex_metrika_callbacks");
+            </script>
+            <noscript><div><img src="https://mc.yandex.ru/watch/37300040" style="position:absolute; left:-9999px;" alt="" /></div></noscript>
+            <!-- /Yandex.Metrika counter -->
+  <form name="aspnetForm" method="post" action="http://www.ingosinvest-am.ru/openinfo/otchetnost/" id="aspnetForm">
+<div>
+<input type="hidden" name="bitrix_include_areas" id="bitrix_include_areas" value="N">
+<input type="hidden" name="__VIEWSTATE" id="__VIEWSTATE" value="/wEPDwUJNDMwMzU1NjI2D2QWAmYPZBYEAgIPZBYCAgsPFgIeB2NvbnRlbnQF2AHQntGC0YfQtdGC0L3QvtGB0YLRjC4g0JjQvdGE0L7RgNC80LDRhtC40L7QvdC90LDRjyDQvtGC0LrRgNGL0YLQvtGB0YLRjCDRj9Cy0LvRj9C10YLRgdGPINC+0LTQvdC40Lwg0LjQtyDQutC+0L3QutGD0YDQtdC90YLQvdGL0YUg0L/RgNC10LjQvNGD0YnQtdGB0YLQsiDQkNCeINCj0JogJiMxNzE70JjQvdCz0L7RgdGB0YLRgNCw0YUt0JjQvdCy0LXRgdGC0LjRhtC40LgmIzE4NztkAgQPZBYCAgEPZBYCAgEPFgIeBXN0eWxlBSd3aWR0aDowcHg7IGhlaWdodDowcHg7IG92ZXJmbG93OmhpZGRlbjtkZJBqnuHlfTHNLctjJqSAcx2s0Uka">
+</div>
+
+
+<script type="text/javascript">
+//<![CDATA[
+var dotNetVars = {'ADMIN_THEME_ID':'.default', 'LANGUAGE_ID':'ru', 'FORMAT_DATE':'DD.MM.YYYY', 'FORMAT_DATETIME':'DD.MM.YYYY HH:MI:SS', 'opt_context_ctrl':false, 'cookiePrefix':'BITRIX_SM', 'titlePrefix':'...', 'messPanelFixOn':'Закрепить панель', 'messPanelFixOff':'Открепить панель', 'messHideMenu':'Скрыть меню', 'messShowMenu':'Показать меню', 'messHideButtons':'Уменьшить кнопки', 'messShowButtons':'Увеличить кнопки', 'messFilterInactive':'Поиск не используется - показаны все записи', 'messFilterActive':'Используется поиск - показаны только найденные записи', 'messFilterLess':'Скрыть условие поиска', 'messLoading':'Загрузка...', 'messMenuLoading':'Загрузка...', 'messMenuLoadingTitle':'Загружаются пункты меню...', 'messNoData':'- Нет данных -', 'messExpandTabs':'Развернуть все вкладки на одну страницу', 'messCollapseTabs':'Свернуть вкладки', 'messPanelCollapse':'Скрыть панель', 'messPanelExpand':'Показать панель', 'exFormatDate':'dd.MM.yyyy', 'exFormatDateTime':'dd.MM.yyyy H:mm:ss', 'currentCultureInfoID':'1049', 'currentCultureInfoName':'ru-RU', 'securityTokenPair':'bxValidationToken=646698572c94a50a4e0aafcb443cd800'}; var phpVars = dotNetVars;var bitrixWebAppPath=''; var APPPath = '';//]]>
+</script>
+
+                <script type="text/javascript">
+                    var bxReconnectCount = 0;
+                    var bxReconnectMaxCount = 5;
+                    function BXReconnect()
+                    {
+                        bxReconnectCount++;
+                        if (bxReconnectCount < bxReconnectMaxCount)
+                        {
+                            var img = new Image(1,1);
+                            img.src = '/bitrix/Reconnect.aspx';
+                        }
+                    }
+
+                    window.setInterval('BXReconnect()',1170000);
+
+                </script>
+            
+<script src="data:text/javascript;base64,Ow==" type="text/javascript"></script>
+<script type="text/javascript">
+//<![CDATA[
+function bxPageAddHeadItemCompare(tag, item)
+{
+  if (!tag.tagName || (tag.tagName.toLowerCase() != item.tag.toLowerCase()))
+	  return false;
+  for(var key in item.attributes)
+    if (tag.getAttribute(key) == null ||  (tag.getAttribute(key).toLowerCase() != item.attributes[key].toLowerCase()))
+	    return false;
+	return true;
+}
+function bxPageAddHeadItems(items)
+{
+  var head = document.getElementsByTagName('head')[0];
+  for(var i = head.childNodes.length - 1; i >= 0; i--)
+    if (head.childNodes[i].getAttribute)
+    {
+	    if (head.childNodes[i].getAttribute('bxPageHeadItem') != null)
+        head.childNodes[i].isMarkedForDeletion = true;
+      for(var j = 0; j < items.length; j++)
+	      if (bxPageAddHeadItemCompare(head.childNodes[i], items[j]))
+          items[j].doNotAdd = true;
+    }
+
+  for(var i = 0; i < items.length; i++)
+  {
+    if (items[i].doNotAdd)
+      continue;
+    var item = document.createElement(items[i].tag);
+    item.setAttribute('bxPageHeadItem', 'true');
+    for(var key in items[i].attributes)
+      item.setAttribute(key, items[i].attributes[key]);
+    head.insertBefore(item, head.childNodes[0]);
+  }
+}
+//]]>
+</script>
+
+							
+<!-- BEGIN BODY -->
+
+<div class="mainWrapper">
+	
+<!-- BEGIN HEADER -->
+    <div style="width:0px; height:0px; overflow:hidden;"><div id="ctl00_Requisite_UP_AJAX">
+
+</div></div><input type="hidden" name="bxValidationToken" value="646698572c94a50a4e0aafcb443cd800">
+
+
+	<header>	
+		<div class="boxSlideshow">
+			<div class="slider">
+					
+			</div>
+		</div>		
+		<div class="headerBottom">
+			<div class="line_1">
+				
+				
+				<div class="clear"></div>
+			</div>
+			<div class="line_2">
+				<div class="lineWrapper">
+					<div class="logo2"><a href="/"><img src="/bitrix/templates/IngosInvestIndex/img/logo2.png" alt=""></a></div>
+					<div class="headerRight">
+						<nav class="mainNav">
+							<ul>
+								<li><a href="/services/">Услуги</a>
+                  <div class="subnav"><ul><li><a href="http://www.ingosinvest-am.ru/services/fiz/">Физическим лицам</a></li><li><a href="http://www.ingosinvest-am.ru/services/corp/">Юридическим лицам</a></li><li><a href="http://www.ingosinvest-am.ru/services/fiz/iis/">ИИС - Инфляционный</a></li></ul></div>
+
+
+	
+								</li>
+								<li><a href="/investor/">Инвестору</a>
+									<div class="subnav"><ul><li><a href="http://www.ingosinvest-am.ru/investor/">Зачем инвестировать</a></li><li><a href="http://www.ingosinvest-am.ru/feedback">Записаться на семинар</a></li><li><a href="http://www.ingosinvest-am.ru/feedback">Заказать звонок</a></li><li><a href="http://www.ingosinvest-am.ru/feedback">Написать письмо</a></li></ul></div>
+
+
+	
+								</li>
+								<li><a href="/analytics/">Аналитика</a>
+                   
+								</li>
+								<li><a href="/smi/">Пресс-центр</a>
+									<div class="subnav"><ul><li><a href="http://www.ingosinvest-am.ru/smi/">Новости компании</a></li><li><a href="http://www.ingosinvest-am.ru/smi/media/">Компания в СМИ</a></li><li><a href="http://www.ingosinvest-am.ru/contacts/?open=press">Контакты для прессы</a></li></ul></div>
+
+
+	
+								</li>
+								<li class="last"><a href="/openinfo/" style="font-size:15pt;">Раскрытие информации</a>
+									<div class="subnav"><ul><li><a href="http://www.ingosinvest-am.ru/openinfo/messeges/">Сообщения компании</a></li><li class="item-selected"><a href="http://www.ingosinvest-am.ru/openinfo/otchetnost/">Отчетность УК</a></li><li><a href="http://www.ingosinvest-am.ru/services/fiz/pif/">Информация по ПИФам</a></li><li><a href="http://www.ingosinvest-am.ru/openinfo/pension/">Пенсионные накопления</a></li><li><a href="http://www.ingosinvest-am.ru/openinfo/e_docs/">Электронный документооборот</a></li><li><a href="http://www.ingosinvest-am.ru/services/fiz/iis/">Информация по ИИС</a></li><li><a href="http://www.ingosinvest-am.ru/services/fiz/management/">Информация по ДУ</a></li></ul></div>
+
+
+	
+								</li>
+<li class="last"><input type="button" value="Личный кабинет" class="form-submit" onclick="window.open('https://pa.ingosinvest.ru', '_blank');"></li>
+							</ul>
+							<div class="clear"></div>
+						</nav>	
+						<div class="linkContact">
+							<a href="/contacts/" style="background: none;"><span>Наши контакты</span></a>
+						</div>
+						<div class="headerTel">
+							<a href="call:8 (800) 100-48-98" class="phone">8 800 100-48-98</a>
+							<!--<a href="/contacts/phone/">Заказать звонок</a>-->
+							<a href="/feedback">Написать обращение</a>
+						</div>
+						
+<a href="#SearchPopup" class="iconSearch fancybox_search" onclick="return false;"></a>
+<div class="popup-holder">
+    <div id="SearchPopup" class="lightbox">
+        <div class="risk-profile risk-profile2" style="padding: 0 0 0 0;">
+            <div class="boxSubscription">
+                <input id="SearchPopupText" type="text" placeholder="Поиск по сайту">
+                <input type="submit" value="Найти" id="SearchPopupButton">
+                <div class="clear"></div>
+            </div>
+        </div>
+    </div>
+</div>
+						<div style="float: left; padding: 7px 0 0 9px;">
+							<!-- <a href="//www.ingos.ru/ru/"><img src="/bitrix/templates/IngosInvest/img/logo_ingos.jpg" style="width: 150px; height: 50px; position:inherit;" alt="" draggable="false" /></a>
+						</div>-->
+						<div class="clear"></div>				
+					</div>
+					<div class="clear"></div>
+				</div>
+			</div>
+		</div>		
+	</div></header>
+	
+<!-- HEADER EOF   -->	
+
+<!-- BEGIN CONTENT -->
+
+	<div class="content">
+		<div class="wrapper">
+      <div class="contentMain" id="container">			
+          				 
+<div class="breadCrumbs"> 		<a href="/">Главная</a> 		/ 		<a href="/openinfo/">Раскрытие информации</a> 		/ 		<span>Отчетность управляющей компании</span> 	</div>
+ 	 
+<h1>Отчетность управляющей компании</h1>
+ 
+ 
+
+<div class="listQuestion borderTop">
+
+
+  <ul>
+
+    <li>
+      <a href="#" class="question">
+				<span class="nameQuestion">Годовая бухгалтерская отчётность</span>
+				<span class="iconOpen"></span>
+			</a>
+      <div class="openBlockInfo" style="display: none;">
+				<div class="textBlock">
+    
+            <p>
+              <a target="_blank" href="/upload/uf/ac4/ac437671287ba56aebdbce48798158bc.pdf">Годовая бухгалтерская (финансовая) отчетность за 2022 г. </a>
+              <span> (16647 Кб, pdf
+                , опубликовано 03.04.2023г. 9:46
+               )</span>
+            </p>
+            <p>
+              <a target="_blank" href="/upload/uf/d46/d464aa8d62cc889f7bfbdd29c0c11a0e.pdf">Годовая бухгалтерская (финансовая) отчетность за 2021 г.</a>
+              <span> (7264 Кб, pdf
+                , опубликовано 31.03.2022г. 16:37
+               )</span>
+            </p>
+            <p>
+              <a target="_blank" href="/upload/uf/e46/e464582c45ba90da0ff4fe873ac62787.pdf">Годовая бухгалтерская (финансовая) отчетность за 2020 г.</a>
+              <span> (7916 Кб, pdf
+                , опубликовано 30.03.2021г. 21:57
+               )</span>
+            </p>
+            <p>
+              <a target="_blank" href="/upload/uf/2a8/2a8d6056039d31e426490a8802501f64.pdf">Годовая бухгалтерская (финансовая) отчетность за 2019 г.</a>
+              <span> (7189 Кб, pdf
+                , опубликовано 30.03.2020г. 23:43
+               )</span>
+            </p>
+            <p>
+              <a target="_blank" href="/upload/uf/b16/b16b4eda33898238f321312e13fcfe59.pdf">Годовая бухгалтерская (финансовая) отчетность за 2018 г.</a>
+              <span> (12566 Кб, pdf
+                , опубликовано 04.04.2019г. 16:00
+               )</span>
+            </p>
+            <p>
+              <a target="_blank" href="/upload/uf/0eb/0ebda2b6e671bd0cc62bdfd9a8e4e177.pdf">Отчет о финансовых результатах за Январь-Декабрь 2017 г</a>
+              <span> (340 Кб, pdf
+                , опубликовано 29.03.2018г. 17:35
+               )</span>
+            </p>
+            <p>
+              <a target="_blank" href="/upload/uf/e81/e8102fa64cd22186b54c7b95d4b3e4bf.pdf">Бухгалтерский баланс на 31 декабря 2017 г.</a>
+              <span> (459 Кб, pdf
+                , опубликовано 29.03.2018г. 17:33
+               )</span>
+            </p>
+            <p>
+              <a target="_blank" href="/upload/uf/e88/e88782e462aafb509e279d42b52e4149.pdf">Отчет о финансовых результатах за Январь - Декабрь 2016 г.</a>
+              <span> (110 Кб, pdf
+                , опубликовано 31.03.2017г. 15:14
+               )</span>
+            </p>
+            <p>
+              <a target="_blank" href="/upload/uf/12d/12d77c464881e06620a1497d55492ba6.pdf">Бухгалтерский баланс на 31 декабря 2016 г.</a>
+              <span> (148 Кб, pdf
+                , опубликовано 31.03.2017г. 15:12
+               )</span>
+            </p>
+            <p>
+              <a target="_blank" href="/upload/uf/1bf/1bfabd20121c63996dd01ec831d344b4.pdf">Отчет о финансовых результатах за Январь-Декабрь 2015 г.</a>
+              <span> (114 Кб, pdf
+                , опубликовано 31.03.2016г. 16:21
+               )</span>
+            </p>
+            <p>
+              <a target="_blank" href="/upload/uf/1aa/1aa8b81d74b59e98c03f5cbf3d59bf3d.pdf">Бухгалтерский баланс на 31 декабря 2015 г.</a>
+              <span> (159 Кб, pdf
+                , опубликовано 31.03.2016г. 16:11
+               )</span>
+            </p>
+            <p>
+              <a target="_blank" href="/upload/256/2565e3f66db820ebf0ff58552d799e7d.zip">Бухгалтерская отчетность за 2014 год</a>
+              <span> (856 Кб, zip
+                , опубликовано 27.03.2015г. 15:29
+               )</span>
+            </p>
+            <p>
+              <a target="_blank" href="/upload/624/624e10c6b0e3c5121b3aee4ae89c6b99.zip">Бухгалтерская отчетность за 2013 год</a>
+              <span> (1165 Кб, zip
+                , опубликовано 31.03.2014г. 16:30
+               )</span>
+            </p>
+            <p>
+              <a target="_blank" href="/upload/6bc/6bc68199610411c5fd3c631a0f202415.zip">Бухгалтерская отчетность за 2012 год</a>
+              <span> (1493 Кб, zip
+                , опубликовано 28.03.2013г. 12:33
+               )</span>
+            </p>
+            <p>
+              <a target="_blank" href="/upload/ef9/ef9024d6f496d73778e61449531c8830.zip">Бухгалтерская отчетность за 2011 год</a>
+              <span> (123 Кб, zip
+                , опубликовано 23.03.2012г. 11:37
+               )</span>
+            </p>
+            <p>
+              <a target="_blank" href="/upload/002/0025c71775fb171defc29c3c93c451ce.zip">Бухгалтерская отчетность за 2010 год</a>
+              <span> (105 Кб, zip
+                , опубликовано 01.04.2011г. 11:01
+               )</span>
+            </p>
+            <p>
+              <a target="_blank" href="/upload/cfa/cfabd5fdd3f167417db4fab34bf656a5.zip">Бухгалтерская отчетность за 2009 год</a>
+              <span> (61 Кб, zip
+                , опубликовано 28.04.2010г. 16:35
+               )</span>
+            </p>
+            <p>
+              <a target="_blank" href="/upload/b40/b400bce94599659020441990b9f00ec6.zip">Бухгалтерская отчетность за 2008 год</a>
+              <span> (94 Кб, zip
+                , опубликовано 28.04.2009г. 12:00
+               )</span>
+            </p>
+            <p>
+              <a target="_blank" href="/upload/402/402ce6e2348b55b35fdc9c3e99c630d4.zip">Бухгалтерская отчетность за 2007 год</a>
+              <span> (99 Кб, zip
+                , опубликовано 31.03.2008г. 12:01
+               )</span>
+            </p>
+            <p>
+              <a target="_blank" href="/upload/8ad/8ad7f1c8ea58e6ab220c9e348d5b234a.zip">Бухгалтерская отчетность за 2006 год</a>
+              <span> (19 Кб, zip
+                , опубликовано 27.03.2007г. 12:00
+               )</span>
+            </p>
+            <p>
+              <a target="_blank" href="/upload/ff8/ff858559ff1dc477655496f2b7f53fe0.zip">Бухгалтерская отчетность за 2005 год</a>
+              <span> (18 Кб, zip
+                , опубликовано 26.04.2006г. 12:01
+               )</span>
+            </p>
+            <p>
+              <a target="_blank" href="/upload/e3f/e3f510f3fecbebefb2dcc9a28ebc9b7f.zip">Бухгалтерская отчетность за 2004 год</a>
+              <span> (17 Кб, zip
+                , опубликовано 24.03.2005г. 12:00
+               )</span>
+            </p> 
+              </div>
+      </div>
+      </li>
+      
+    <li>
+      <a href="#" class="question">
+				<span class="nameQuestion">Ежеквартальная бухгалтерская отчетность</span>
+				<span class="iconOpen"></span>
+			</a>
+      <div class="openBlockInfo" style="display: none;">
+				<div class="textBlock">
+    
+            <p>
+              <a target="_blank" href="/upload/uf/c97/c97e9f18a0d5d9d05b4c11c4315548ed.pdf">Отчетность на 31.03.2023 (актуально c даты размещения по настоящее время)</a>
+              <span> (1105 Кб, pdf
+                , опубликовано 02.05.2023г. 14:10
+               )</span>
+            </p>
+            <p>
+              <a target="_blank" href="/upload/uf/a4d/a4db480f8f930fddb989798855466661.pdf">Отчетность на 30.09.2022 (актуально c даты размещения по настоящее время) </a>
+              <span> (1205 Кб, pdf
+                , опубликовано 31.10.2022г. 10:34
+               )</span>
+            </p>
+            <p>
+              <a target="_blank" href="/upload/uf/831/831ce358acc7d0c726a7b7c6fcf980c5.pdf">Отчетность на 30.06.2022 (актуально c даты размещения по настоящее время.) </a>
+              <span> (1258 Кб, pdf
+                , опубликовано 29.07.2022г. 15:37
+               )</span>
+            </p>
+            <p>
+              <a target="_blank" href="/upload/uf/cfe/cfe00400c8975c6ec58fec67cf010db4.pdf">Отчетность на 31.03.2022 (актуально c даты размещения по настоящее время.)</a>
+              <span> (1240 Кб, pdf
+                , опубликовано 29.04.2022г. 15:20
+               )</span>
+            </p>
+            <p>
+              <a target="_blank" href="/upload/uf/903/903c3d5f94708f1ce5610887c26a5722.pdf">Отчетность на 30.09.2021 (актуально c даты размещения по настоящее время)</a>
+              <span> (1082 Кб, pdf
+                , опубликовано 28.10.2021г. 17:54
+               )</span>
+            </p>
+            <p>
+              <a target="_blank" href="/upload/uf/761/761efc7e03c9143ea91a71c69c49fc9d.pdf">Отчетность на 30.06.2021 (актуально c даты размещения по настоящее время).</a>
+              <span> (3197 Кб, pdf
+                , опубликовано 30.07.2021г. 16:14
+               )</span>
+            </p>
+            <p>
+              <a target="_blank" href="/upload/uf/9c0/9c09e31c47ee62693dd1d36080a0aa66.pdf">Отчетность на 31.03.2021 (актуально c даты размещения по настоящее время.) </a>
+              <span> (3543 Кб, pdf
+                , опубликовано 30.04.2021г. 16:35
+               )</span>
+            </p>
+            <p>
+              <a target="_blank" href="/upload/uf/cc3/cc3ed011f854501928ec286eaf8a7892.pdf">Отчетность на 30.09.2020 г. (актуально c даты размещения по настоящее время.)</a>
+              <span> (3996 Кб, pdf
+                , опубликовано 30.10.2020г. 14:51
+               )</span>
+            </p>
+            <p>
+              <a target="_blank" href="/upload/uf/c1b/c1b28ddb973af6aae7f3ff8e9418cdaf.pdf">Отчетность на 30.06.2020 г. (актуально c даты размещениями по настоящее время.)</a>
+              <span> (4003 Кб, pdf
+                , опубликовано 30.07.2020г. 19:35
+               )</span>
+            </p>
+            <p>
+              <a target="_blank" href="/upload/uf/3ca/3ca901565d573c2e87c1806de1333d90.pdf">Отчетность на 31.03.2020 г.</a>
+              <span> (3854 Кб, pdf
+                , опубликовано 30.04.2020г. 17:48
+               )</span>
+            </p>
+            <p>
+              <a target="_blank" href="/upload/uf/9e2/9e2d3bcdfa07e3cd1344da154ae68e57.pdf">Отчетность на 30.09.2019</a>
+              <span> (4043 Кб, pdf
+                , опубликовано 30.10.2019г. 16:53
+               )</span>
+            </p>
+            <p>
+              <a target="_blank" href="/upload/uf/95d/95d22cfbc757ea0038493a68837a024e.pdf">Отчетность на 30.06.2019 г</a>
+              <span> (12292 Кб, pdf
+                , опубликовано 30.07.2019г. 11:25
+               )</span>
+            </p>
+            <p>
+              <a target="_blank" href="/upload/uf/6b7/6b708f20163377fa547a7dcb30742a13.pdf">Отчетность на 31.03.2019 г</a>
+              <span> (4050 Кб, pdf
+                , опубликовано 30.04.2019г. 14:28
+               )</span>
+            </p>
+            <p>
+              <a target="_blank" href="/upload/uf/129/12991c5b91fff849629b34a0d05a9f3b.pdf">Отчетность на 30.09.2018</a>
+              <span> (7031 Кб, pdf
+                , опубликовано 30.10.2018г. 17:40
+               )</span>
+            </p>
+            <p>
+              <a target="_blank" href="/upload/uf/ff9/ff98b72591fd0f5746a1b595c1f85a5a.pdf">Отчетность на 30.06.2018 г.</a>
+              <span> (7086 Кб, pdf
+                , опубликовано 30.07.2018г. 18:25
+               )</span>
+            </p>
+            <p>
+              <a target="_blank" href="/upload/uf/64e/64ef0ef62ef64ce7d37d8b0f8b480618.pdf">Отчетность на 31.03.2018 г.</a>
+              <span> (11709 Кб, pdf
+                , опубликовано 11.05.2018г. 17:36
+               )</span>
+            </p>
+            <p>
+              <a target="_blank" href="/upload/uf/ad5/ad5eb1835abcd4effc55d307204a85dc.pdf">Отчетность на 30.09.2017 г.</a>
+              <span> (2435 Кб, pdf
+                , опубликовано 30.10.2017г. 17:52
+               )</span>
+            </p>
+            <p>
+              <a target="_blank" href="/upload/uf/582/582b13551ddc6ca636d9137f9e4f1db5.pdf">Отчетность на 30 июня 2017 г.</a>
+              <span> (2413 Кб, pdf
+                , опубликовано 28.07.2017г. 17:09
+               )</span>
+            </p>
+            <p>
+              <a target="_blank" href="/upload/uf/ba3/ba38f5b3497986792eedffe8acea86d4.pdf">Отчетность на 31 марта 2017 г.</a>
+              <span> (2622 Кб, pdf
+                , опубликовано 28.04.2017г. 16:33
+               )</span>
+            </p>
+            <p>
+              <a target="_blank" href="/upload/uf/985/98526686958f21f56b42659dc8a3c7dd.pdf">Отчетность на 30 сентября 2016 г. скорректированная (взамен опубликованной 28.10.2016г. 16:06 )</a>
+              <span> (259 Кб, pdf
+                , опубликовано 09.11.2016г. 15:48
+               )</span>
+            </p>
+            <p>
+              <a target="_blank" href="/upload/uf/b46/b4647ba68f5e7c7b3dff3550ae114fe0.pdf">Отчетность на 30 сентября 2016 г.</a>
+              <span> (273 Кб, pdf
+                , опубликовано 28.10.2016г. 16:06
+               )</span>
+            </p>
+            <p>
+              <a target="_blank" href="/upload/uf/7bb/7bb038405495b6bfa2352c4a2533ba88.pdf">Отчетность на 30 июня 2016 г.</a>
+              <span> (253 Кб, pdf
+                , опубликовано 29.07.2016г. 15:28
+               )</span>
+            </p>
+            <p>
+              <a target="_blank" href="/upload/uf/26b/26b6b448b4cb2254b828c3ca709f5e07.pdf">Отчетность на 31 Марта 2016 г.</a>
+              <span> (268 Кб, pdf
+                , опубликовано 29.04.2016г. 9:49
+               )</span>
+            </p>
+            <p>
+              <a target="_blank" href="/upload/uf/a16/a16938222869d37879ffe30801905503.zip">Отчетность на 30 сентября 2015 г</a>
+              <span> (481 Кб, zip
+                , опубликовано 30.10.2015г. 11:54
+               )</span>
+            </p>
+            <p>
+              <a target="_blank" href="/upload/uf/cec/cecda9ece8ce7da297df680069d43785.zip">Отчетность на 30 июня 2015</a>
+              <span> (475 Кб, zip
+                , опубликовано 31.07.2015г. 9:50
+               )</span>
+            </p>
+            <p>
+              <a target="_blank" href="/upload/6d3/6d354ef9e242e956c97ea627957065b8.zip">Отчетность на 31 марта 2015 г</a>
+              <span> (351 Кб, zip
+                , опубликовано 30.04.2015г. 14:46
+               )</span>
+            </p>
+            <p>
+              <a target="_blank" href="/upload/6be/6bec75f8a27f21e9d3df4a76aa15b507.zip">Отчетность на 30 сентября 2014 г</a>
+              <span> (351 Кб, zip
+                , опубликовано 06.11.2014г. 14:44
+               )</span>
+            </p>
+            <p>
+              <a target="_blank" href="/upload/8d8/8d8255034cb31c715c31c3dba011ee15.zip">Отчетность на 30 июня 2014 г</a>
+              <span> (155 Кб, zip
+                , опубликовано 25.07.2014г. 13:25
+               )</span>
+            </p>
+            <p>
+              <a target="_blank" href="/upload/8cc/8cc0a8e56d0ef64e02683a96442515e4.zip">Отчетность на 31 марта 2014 г.</a>
+              <span> (127 Кб, zip
+                , опубликовано 24.04.2014г. 17:20
+               )</span>
+            </p>
+            <p>
+              <a target="_blank" href="/upload/480/4807ff3de0e8a390e37885bbc3b00af4.zip">Отчетность на 30 сентября 2013 г.</a>
+              <span> (119 Кб, zip
+                , опубликовано 13.11.2013г. 17:41
+               )</span>
+            </p>
+            <p>
+              <a target="_blank" href="/upload/425/42532800ec70805a0358c72c0d39b67a.zip">Отчетность на 30 июня 2013 г.</a>
+              <span> (113 Кб, zip
+                , опубликовано 08.11.2013г. 16:44
+               )</span>
+            </p>
+            <p>
+              <a target="_blank" href="/upload/e2d/e2dbe296202175bc926faab37741ac20.pdf">Отчетность на 31 марта 2012 г.</a>
+              <span> (222 Кб, pdf
+                , опубликовано 08.11.2013г. 16:44
+               )</span>
+            </p>
+            <p>
+              <a target="_blank" href="/upload/dd3/dd377056696ffac76cb37e8e81f1abe2.zip">Отчетность на 31 марта 2013 г.</a>
+              <span> (112 Кб, zip
+                , опубликовано 30.04.2013г. 15:34
+               )</span>
+            </p>
+            <p>
+              <a target="_blank" href="/upload/08c/08ca465d2af7dc8f2a4b43f2a4dc13e5.zip">Отчетность на 30 сентября 2012 г.</a>
+              <span> (30 Кб, zip
+                , опубликовано 01.11.2012г. 16:20
+               )</span>
+            </p>
+            <p>
+              <a target="_blank" href="/upload/f61/f61896c81bfde1d5d16f4b94108cc0bd.zip">Отчетность на 30 июня 2012 г.</a>
+              <span> (24 Кб, zip
+                , опубликовано 10.08.2012г. 10:33
+               )</span>
+            </p>
+            <p>
+              <a target="_blank" href="/upload/cc8/cc83f098503b81a644d8068f54029f78.pdf">Отчетность на 30 сентября 2011 г.</a>
+              <span> (127 Кб, pdf
+                , опубликовано 31.10.2011г. 18:11
+               )</span>
+            </p>
+            <p>
+              <a target="_blank" href="/upload/ad9/ad9f02f3489031dffbfe6082cce05954.pdf">Отчетность на 30 июня 2011 г.</a>
+              <span> (203 Кб, pdf
+                , опубликовано 29.07.2011г. 12:36
+               )</span>
+            </p>
+            <p>
+              <a target="_blank" href="/upload/c5c/c5ca58f1034aa3038e9f993c8fe998c8.pdf">Отчетность на 31 марта 2011 г.</a>
+              <span> (278 Кб, pdf
+                , опубликовано 12.05.2011г. 19:40
+               )</span>
+            </p>
+            <p>
+              <a target="_blank" href="/upload/1f8/1f8a85e89ec93127925bcbd49a3fc3de.zip">Отчетность на 30 сентября 2010 г.</a>
+              <span> (22 Кб, zip
+                , опубликовано 29.10.2010г. 12:31
+               )</span>
+            </p>
+            <p>
+              <a target="_blank" href="/upload/6d5/6d545d2d9e40cf05f5975e4cd8d9db7e.zip">Отчетность на 30 июня 2010 г.</a>
+              <span> (16 Кб, zip
+                , опубликовано 28.07.2010г. 11:53
+               )</span>
+            </p>
+            <p>
+              <a target="_blank" href="/upload/260/2607463c11bb27eb014d3bcec999f69e.zip">Отчетность на 31 марта 2010 г.</a>
+              <span> (87 Кб, zip
+                , опубликовано 28.04.2010г. 12:06
+               )</span>
+            </p>
+            <p>
+              <a target="_blank" href="/upload/b09/b091f3250b148eb6f7e33b10be740e52.zip">Отчетность на 31 декабря 2009 г. </a>
+              <span> (24 Кб, zip
+                , опубликовано 31.03.2010г. 12:06
+               )</span>
+            </p>
+            <p>
+              <a target="_blank" href="/upload/b86/b86085b9400a01bd384fc62a16733c50.zip">Отчетность на 30 сентября 2009 г.</a>
+              <span> (11 Кб, zip
+                , опубликовано 30.10.2009г. 12:06
+               )</span>
+            </p>
+            <p>
+              <a target="_blank" href="/upload/b41/b41a71b252e88f274143d2d1d409e062.zip">Отчетность на 30 июня 2009 г.</a>
+              <span> (12 Кб, zip
+                , опубликовано 29.07.2009г. 12:06
+               )</span>
+            </p>
+            <p>
+              <a target="_blank" href="/upload/ce7/ce77a718359ce6f1b8ff338962b35993.zip">Отчетность на 31 марта 2009 г. </a>
+              <span> (24 Кб, zip
+                , опубликовано 05.05.2009г. 12:07
+               )</span>
+            </p>
+            <p>
+              <a target="_blank" href="/upload/45d/45d5c319acb23b1988b4e55f4abd2da8.zip">Отчетность на 31 декабря 2008 г.</a>
+              <span> (25 Кб, zip
+                , опубликовано 27.04.2009г. 12:07
+               )</span>
+            </p>
+            <p>
+              <a target="_blank" href="/upload/e6f/e6fc7d803bf7c69850c0a3191660f82a.zip">Отчетность на 30 сентября 2008 г.</a>
+              <span> (12 Кб, zip
+                , опубликовано 13.11.2008г. 12:07
+               )</span>
+            </p>
+            <p>
+              <a target="_blank" href="/upload/160/1600f6015c8f66b1f54be2bad9cf14a1.zip">Отчетность на 30 июня 2008 г.</a>
+              <span> (10 Кб, zip
+                , опубликовано 04.08.2008г. 12:07
+               )</span>
+            </p>
+            <p>
+              <a target="_blank" href="/upload/065/0653fe6a2103656a6a8ba4bd4890d41f.zip">Отчетность на 25 марта 2008 г.</a>
+              <span> (19 Кб, zip
+                , опубликовано 25.04.2008г. 12:08
+               )</span>
+            </p>
+            <p>
+              <a target="_blank" href="/upload/d07/d07179cb6336fe8636adef136d4122a9.zip">Отчетность на 28 декабря 2007 г.</a>
+              <span> (19 Кб, zip
+                , опубликовано 31.03.2008г. 12:08
+               )</span>
+            </p>
+            <p>
+              <a target="_blank" href="/upload/507/507c29405c6d644cb7faf0864efd201f.zip">Отчетность на 28 июня 2005 г.</a>
+              <span> (17 Кб, zip
+                , опубликовано 28.12.2007г. 12:11
+               )</span>
+            </p>
+            <p>
+              <a target="_blank" href="/upload/5e9/5e9f1f5ec6bbda8a5ea1c7a1e73d9dc2.zip">Отчетность на 28 сентября 2007 г.</a>
+              <span> (20 Кб, zip
+                , опубликовано 02.11.2007г. 12:09
+               )</span>
+            </p>
+            <p>
+              <a target="_blank" href="/upload/d87/d873517540a6e4193b096988d677fed5.zip">Отчетность на 28 июня 2007 г.</a>
+              <span> (20 Кб, zip
+                , опубликовано 27.07.2007г. 12:09
+               )</span>
+            </p>
+            <p>
+              <a target="_blank" href="/upload/dcb/dcb5a61166152613b656d602604e6bc6.zip">Отчетность на 28 марта 2007 г.</a>
+              <span> (21 Кб, zip
+                , опубликовано 25.04.2007г. 12:09
+               )</span>
+            </p>
+            <p>
+              <a target="_blank" href="/upload/49a/49a1ac7c3de6fb467e04c8959faba3ca.zip">Отчетность на 28 декабря 2006 г. </a>
+              <span> (19 Кб, zip
+                , опубликовано 27.03.2007г. 12:09
+               )</span>
+            </p>
+            <p>
+              <a target="_blank" href="/upload/5c1/5c157461fbc8a1e48dc33b6271628bc2.zip">Отчетность на 28 сентября 2006 г.</a>
+              <span> (23 Кб, zip
+                , опубликовано 30.10.2006г. 12:10
+               )</span>
+            </p>
+            <p>
+              <a target="_blank" href="/upload/3f8/3f84a0ef8572cdb87769ecad07a7e505.zip">Отчетность на 28 июня 2006 г.</a>
+              <span> (22 Кб, zip
+                , опубликовано 27.07.2006г. 12:10
+               )</span>
+            </p>
+            <p>
+              <a target="_blank" href="/upload/03f/03f70bf3e8bcd5b9239bf137156f6b73.zip">Отчетность на 28 декабря 2005 г.</a>
+              <span> (18 Кб, zip
+                , опубликовано 26.04.2006г. 12:10
+               )</span>
+            </p>
+            <p>
+              <a target="_blank" href="/upload/66f/66f542b35611af44b7431858ad011323.zip">Отчетность на 28 марта 2006 г.</a>
+              <span> (19 Кб, zip
+                , опубликовано 26.04.2006г. 12:10
+               )</span>
+            </p>
+            <p>
+              <a target="_blank" href="/upload/13e/13edb60f400ca42f8f0f81cf3867b337.zip">Отчетность на 28 сентября 2005 г.</a>
+              <span> (17 Кб, zip
+                , опубликовано 08.02.2006г. 12:11
+               )</span>
+            </p> 
+              </div>
+      </div>
+      </li>
+      
+    <li>
+      <a href="#" class="question">
+				<span class="nameQuestion">Аудиторские заключения</span>
+				<span class="iconOpen"></span>
+			</a>
+      <div class="openBlockInfo" style="display: none;">
+				<div class="textBlock">
+    
+            <p>
+              <a target="_blank" href="/upload/uf/382/382059f891eaefedabf008f934891f2e.pdf">Аудиторское заключение за 2022 г.</a>
+              <span> (16647 Кб, pdf
+                , опубликовано 03.04.2023г. 9:46
+               )</span>
+            </p>
+            <p>
+              <a target="_blank" href="/upload/uf/fc2/fc2a0412a0f28ab8da8356c1fa5958aa.pdf">Аудиторское заключение за 2021 г.</a>
+              <span> (7264 Кб, pdf
+                , опубликовано 31.03.2022г. 16:35
+               )</span>
+            </p>
+            <p>
+              <a target="_blank" href="/upload/uf/b31/b31fc9095d85c71a3b5d900fa917b58b.pdf">Аудиторское заключение за 2020 г. </a>
+              <span> (7916 Кб, pdf
+                , опубликовано 30.03.2021г. 22:01
+               )</span>
+            </p>
+            <p>
+              <a target="_blank" href="/upload/uf/e5a/e5acf658dab923c92a077fe039cc00d0.pdf">Аудиторское заключение за 2019 г. </a>
+              <span> (7937 Кб, pdf
+                , опубликовано 30.03.2020г. 23:21
+               )</span>
+            </p>
+            <p>
+              <a target="_blank" href="/upload/uf/f8d/f8d94fccac0b3f6b794a02b9cd7dca1e.pdf">Аудиторское заключение за 2018 г</a>
+              <span> (3755 Кб, pdf
+                , опубликовано 04.04.2019г. 16:02
+               )</span>
+            </p>
+            <p>
+              <a target="_blank" href="/upload/uf/de7/de7f71c670e21c364e701d3bd7e6c82d.pdf">Аудиторское заключение 2017 год</a>
+              <span> (10653 Кб, pdf
+                , опубликовано 29.03.2018г. 17:38
+               )</span>
+            </p>
+            <p>
+              <a target="_blank" href="/upload/uf/818/818a01836dd308c1afc633fc2e1788b5.pdf">Аудиторское заключение за 2016</a>
+              <span> (9295 Кб, pdf
+                , опубликовано 31.03.2017г. 16:28
+               )</span>
+            </p>
+            <p>
+              <a target="_blank" href="/upload/uf/20b/20b063aaece3549523c12ed41f955ca1.pdf">Аудиторское заключение за 2015 год</a>
+              <span> (2605 Кб, pdf
+                , опубликовано 31.03.2016г. 16:14
+               )</span>
+            </p>
+            <p>
+              <a target="_blank" href="/upload/ec5/ec5fa3c3e2d16beb9c2514ca05173b08.pdf">Аудиторское заключение за 2014 год</a>
+              <span> (1722 Кб, pdf
+                , опубликовано 27.03.2015г. 15:39
+               )</span>
+            </p>
+            <p>
+              <a target="_blank" href="/upload/b53/b5307e105d1f8eb2709b9c383527f6c3.zip">Аудиторское заключение за 2013 год</a>
+              <span> (1295 Кб, zip
+                , опубликовано 31.03.2014г. 16:48
+               )</span>
+            </p>
+            <p>
+              <a target="_blank" href="/upload/e48/e48250989916f578a5265858d400e3cf.pdf">Аудиторское заключение за 2012 год</a>
+              <span> (582 Кб, pdf
+                , опубликовано 06.05.2013г. 15:43
+               )</span>
+            </p>
+            <p>
+              <a target="_blank" href="/upload/9b7/9b70c6a593fa46ccc15bad1b4eb502ad.pdf">Аудиторское заключение за 2011 год </a>
+              <span> (3416 Кб, pdf
+                , опубликовано 27.03.2012г. 20:10
+               )</span>
+            </p>
+            <p>
+              <a target="_blank" href="/upload/8a7/8a7a76e72eff88caf85a43ed44aa2499.pdf">Аудиторское заключение за 2010 год</a>
+              <span> (1579 Кб, pdf
+                , опубликовано 15.03.2011г. 19:25
+               )</span>
+            </p>
+            <p>
+              <a target="_blank" href="/upload/f9e/f9e503b2203e3e6467964821ad2e45f1.pdf">Аудиторское заключение за 2009 год</a>
+              <span> (415 Кб, pdf
+                , опубликовано 28.04.2010г. 12:36
+               )</span>
+            </p>
+            <p>
+              <a target="_blank" href="/upload/ffa/ffa69f254a00485e378fd201cc5a1f23.pdf">Аудиторское заключение за 2008 год</a>
+              <span> (460 Кб, pdf
+                , опубликовано 11.09.2009г. 12:36
+               )</span>
+            </p>
+            <p>
+              <a target="_blank" href="/upload/f72/f72a759b4df70cf0b39b8225cae0521d.pdf">Аудиторское заключение за 2007 год</a>
+              <span> (637 Кб, pdf
+                , опубликовано 11.09.2009г. 12:36
+               )</span>
+            </p>
+            <p>
+              <a target="_blank" href="/upload/a4a/a4a2f5d2816fe3709b12ff9d9a322621.pdf">Аудиторское заключение за 2012 год</a>
+              <span> (582 Кб, pdf
+                )</span>
+            </p> 
+              </div>
+      </div>
+      </li>
+      
+    <li>
+      <a href="#" class="question">
+				<span class="nameQuestion">Годовые отчеты</span>
+				<span class="iconOpen"></span>
+			</a>
+      <div class="openBlockInfo" style="display: none;">
+				<div class="textBlock">
+    
+            <p>
+              <a target="_blank" href="/upload/uf/cff/cff234e2d6e31528060569896fc89ca2.pdf">Годовой отчет за 2020 год</a>
+              <span> (427 Кб, pdf
+                , опубликовано 01.07.2021г. 16:44
+               )</span>
+            </p>
+            <p>
+              <a target="_blank" href="/upload/uf/8e3/8e35c584f34d8870d52b3800f39a0fe8.pdf">Годовой отчет за 2019 год</a>
+              <span> (350 Кб, pdf
+                , опубликовано 01.07.2021г. 16:43
+               )</span>
+            </p>
+            <p>
+              <a target="_blank" href="/upload/uf/994/99433f8afb7f5655666520302ed7d15a.pdf">Годовой отчет за 2018 год</a>
+              <span> (653 Кб, pdf
+                , опубликовано 28.06.2019г. 13:21
+               )</span>
+            </p>
+            <p>
+              <a target="_blank" href="/upload/uf/f9e/f9ea43995928e37eae8d92b6096456a8.pdf">Годовой отчет за 2017 год</a>
+              <span> (526 Кб, pdf
+                , опубликовано 29.06.2018г. 13:58
+               )</span>
+            </p>
+            <p>
+              <a target="_blank" href="/upload/uf/5c6/5c61ea32b9ffd711a45e8c9ad495d654.pdf">Годовой отчет за 2016 год</a>
+              <span> (486 Кб, pdf
+                , опубликовано 29.06.2017г. 16:30
+               )</span>
+            </p>
+            <p>
+              <a target="_blank" href="/upload/uf/937/937a644db55f16391d3f417f6bdcd5a1.pdf">Годовой отчет за 2015 год</a>
+              <span> (6524 Кб, pdf
+                , опубликовано 30.06.2016г. 16:01
+               )</span>
+            </p>
+            <p>
+              <a target="_blank" href="/upload/uf/c8b/c8b1f40b0029abbe72dc7ff909efb46e.pdf">Годовой отчет за 2014 год </a>
+              <span> (1403 Кб, pdf
+                , опубликовано 30.06.2015г. 16:10
+               )</span>
+            </p>
+            <p>
+              <a target="_blank" href="/upload/cf6/cf6ca1c48046c7cea7ec5b669d1c7a00.pdf">Годовой отчет за 2013 год</a>
+              <span> (1109 Кб, pdf
+                , опубликовано 24.06.2014г. 17:14
+               )</span>
+            </p>
+            <p>
+              <a target="_blank" href="/upload/0e4/0e4de2355667bba222b43421b448940b.pdf">Годовой отчет за 2012 год</a>
+              <span> (1642 Кб, pdf
+                , опубликовано 18.06.2013г. 11:45
+               )</span>
+            </p>
+            <p>
+              <a target="_blank" href="/upload/cde/cde566fa87c7734aeb1d442959b42db3.pdf">Годовой отчет за 2011 год</a>
+              <span> (488 Кб, pdf
+                , опубликовано 21.06.2012г. 16:08
+               )</span>
+            </p>
+            <p>
+              <a target="_blank" href="/upload/a1d/a1dfd5bbc242aa42bc8c81d921d461b3.pdf">Годовой отчет за 2010 год</a>
+              <span> (481 Кб, pdf
+                , опубликовано 29.06.2011г. 20:04
+               )</span>
+            </p>
+            <p>
+              <a target="_blank" href="/upload/faa/faa3e8cc5201d032e82d1bec68a2ad6f.pdf">Годовой отчет за 2009 год</a>
+              <span> (91 Кб, pdf
+                , опубликовано 01.07.2010г. 14:25
+               )</span>
+            </p>
+            <p>
+              <a target="_blank" href="/upload/a63/a63a0dc1289ebd03a578c3075a8e815c.pdf">Годовой отчет за 2008 год</a>
+              <span> (172 Кб, pdf
+                , опубликовано 01.07.2009г. 12:39
+               )</span>
+            </p>
+            <p>
+              <a target="_blank" href="/upload/90f/90f1306f854b6a72e6b31a170b5e13c8.pdf">Годовой отчет за 2007 год</a>
+              <span> (250 Кб, pdf
+                , опубликовано 28.04.2009г. 12:39
+               )</span>
+            </p>
+            <p>
+              <a target="_blank" href="/upload/0b4/0b461845e794b9cf98f598dd28a54abf.pdf">Годовой отчет за 2006 год</a>
+              <span> (163 Кб, pdf
+                , опубликовано 28.04.2009г. 12:38
+               )</span>
+            </p>
+            <p>
+              <a target="_blank" href="/upload/bff/bff67f4796991fe0f9a92de1610dc114.pdf">Годовой отчет за 2005 год</a>
+              <span> (163 Кб, pdf
+                , опубликовано 28.04.2009г. 12:38
+               )</span>
+            </p>
+            <p>
+              <a target="_blank" href="/upload/5d0/5d00824157a60898a29f36d5b7136333.pdf">Годовой отчет за 2004 год</a>
+              <span> (181 Кб, pdf
+                , опубликовано 28.04.2009г. 12:38
+               )</span>
+            </p> 
+              </div>
+      </div>
+      </li>
+      
+    <li>
+      <a href="#" class="question">
+				<span class="nameQuestion">Списки аффилированных лиц</span>
+				<span class="iconOpen"></span>
+			</a>
+      <div class="openBlockInfo" style="display: none;">
+				<div class="textBlock">
+    
+            <p>
+              <a target="_blank" href="/upload/uf/e42/e42208e441180c7763e071e9a3d12a43.pdf">Список аффилированных лиц на 30.06.2019г</a>
+              <span> (456 Кб, pdf
+                , опубликовано 01.07.2019г. 10:34
+               )</span>
+            </p>
+            <p>
+              <a target="_blank" href="/upload/uf/a21/a219bf934b0bafbcbecdccd3f6bf339b.pdf">Список аффилированных лиц на 31.03.2019г</a>
+              <span> (679 Кб, pdf
+                , опубликовано 01.04.2019г. 16:14
+               )</span>
+            </p>
+            <p>
+              <a target="_blank" href="/upload/uf/c9b/c9b152eccb74db49c29d5fe98571015e.pdf">Список аффилированных лиц на 31.12.2018</a>
+              <span> (457 Кб, pdf
+                , опубликовано 09.01.2019г. 12:46
+               )</span>
+            </p>
+            <p>
+              <a target="_blank" href="/upload/uf/886/88639fce751fc11a4b93b7ef04dcb45f.pdf">Спсок аффилированных лиц на 30.09.2018</a>
+              <span> (474 Кб, pdf
+                , опубликовано 01.10.2018г. 0:00
+               )</span>
+            </p>
+            <p>
+              <a target="_blank" href="/upload/uf/2c2/2c2643015f7c52fa33778de5f2d9dafa.pdf">Список аффилированных лиц на 30.06.2018г</a>
+              <span> (496 Кб, pdf
+                , опубликовано 02.07.2018г. 14:03
+               )</span>
+            </p>
+            <p>
+              <a target="_blank" href="/upload/uf/b96/b961b54d926c970865f157339fee5269.pdf">Список аффилированных лиц на 31.03.2018г</a>
+              <span> (460 Кб, pdf
+                , опубликовано 02.04.2018г. 11:49
+               )</span>
+            </p>
+            <p>
+              <a target="_blank" href="/upload/uf/63f/63fbceea019fd8d9dbb59252f59168a5.pdf">Список аффилированных лиц на 31.12.2017г.</a>
+              <span> (400 Кб, pdf
+                , опубликовано 09.01.2018г. 11:17
+               )</span>
+            </p>
+            <p>
+              <a target="_blank" href="/upload/uf/e9e/e9efb8d2e31592210f5bb904781c2a10.pdf">Список аффилированных лиц на 30.09.2017г</a>
+              <span> (441 Кб, pdf
+                , опубликовано 02.10.2017г. 12:10
+               )</span>
+            </p>
+            <p>
+              <a target="_blank" href="/upload/uf/acf/acfc77a62c161a769e966e7f3f2fc37f.pdf">Список аффилированных лиц на 30.06.2017 г.</a>
+              <span> (1597 Кб, pdf
+                , опубликовано 03.07.2017г. 11:09
+               )</span>
+            </p>
+            <p>
+              <a target="_blank" href="/upload/uf/a60/a60eb067aa3e7d3b592b8ceca10c42d4.pdf">Список аффилированных лиц на 31.03.2017г</a>
+              <span> (4861 Кб, pdf
+                , опубликовано 31.03.2017г. 14:37
+               )</span>
+            </p>
+            <p>
+              <a target="_blank" href="/upload/uf/dfe/dfe924e1c2a6d5007133c63257a23f00.pdf">Список аффилированных лиц на 31.12.2016г</a>
+              <span> (293 Кб, pdf
+                , опубликовано 10.01.2017г. 11:05
+               )</span>
+            </p>
+            <p>
+              <a target="_blank" href="/upload/uf/0e4/0e48105c4c5c03ce5c0c9aa269078781.pdf">Список аффилированных лиц на 30.09.2016г</a>
+              <span> (306 Кб, pdf
+                , опубликовано 30.09.2016г. 11:16
+               )</span>
+            </p>
+            <p>
+              <a target="_blank" href="/upload/uf/d2b/d2bf4b3134e16c6a321a4ab40d6a754f.pdf">Список аффилированных лиц на 30.06.2016г</a>
+              <span> (350 Кб, pdf
+                , опубликовано 30.06.2016г. 15:37
+               )</span>
+            </p>
+            <p>
+              <a target="_blank" href="/upload/uf/6dc/6dce343881e0be02ec79d7e26a85e50f.pdf">Список аффилированных лиц на 31.03.2016г</a>
+              <span> (265 Кб, pdf
+                , опубликовано 01.04.2016г. 10:14
+               )</span>
+            </p>
+            <p>
+              <a target="_blank" href="/upload/uf/02b/02b9a028ca75cb69a8b46691f3f6c4de.pdf">Список аффилированных лиц на 31.12.2015 года</a>
+              <span> (277 Кб, pdf
+                , опубликовано 11.01.2016г. 15:40
+               )</span>
+            </p>
+            <p>
+              <a target="_blank" href="/upload/uf/770/770b42a846d84e7ed3bee613dc4505ce.pdf">Список аффилированных лиц на 30.09.2015 года </a>
+              <span> (334 Кб, pdf
+                , опубликовано 01.10.2015г. 15:47
+               )</span>
+            </p>
+            <p>
+              <a target="_blank" href="/upload/uf/6bb/6bb9e9f608336160d83d5fc712082d19.pdf">Список аффилированных лиц на 30.06.2015 года</a>
+              <span> (291 Кб, pdf
+                , опубликовано 01.07.2015г. 16:55
+               )</span>
+            </p>
+            <p>
+              <a target="_blank" href="/upload/623/6233f46eff46f0265ff26e4e4048b8d4.pdf">Список аффилированных лиц на 31 марта 2015 года</a>
+              <span> (254 Кб, pdf
+                , опубликовано 01.04.2015г. 12:23
+               )</span>
+            </p>
+            <p>
+              <a target="_blank" href="/upload/c26/c26d53ef652d3d4859ead08d84a9f69d.pdf">Список аффилированных лиц на 31 декабря 2014 года</a>
+              <span> (260 Кб, pdf
+                , опубликовано 12.01.2015г. 16:27
+               )</span>
+            </p>
+            <p>
+              <a target="_blank" href="/upload/d01/d01554b358badfa4f36be252bb9ae1f9.pdf">Список аффилированных лиц на 30 сентября 2014 года</a>
+              <span> (254 Кб, pdf
+                , опубликовано 01.10.2014г. 15:07
+               )</span>
+            </p>
+            <p>
+              <a target="_blank" href="/upload/158/158754921a02452037e4f02135ce1f23.pdf">Список аффилированных лиц на 30 июня 2014 года </a>
+              <span> (259 Кб, pdf
+                , опубликовано 01.07.2014г. 11:48
+               )</span>
+            </p>
+            <p>
+              <a target="_blank" href="/upload/291/291196d3d2680bd69fb1d17d6f7e13d6.pdf">Список аффилированных лиц на 31 марта 2014 года</a>
+              <span> (260 Кб, pdf
+                , опубликовано 01.04.2014г. 17:44
+               )</span>
+            </p>
+            <p>
+              <a target="_blank" href="/upload/f9b/f9bb77ac901fab840ffe2fa69b614b40.pdf">Список аффилированных лиц на 31 декабря 2013 года</a>
+              <span> (354 Кб, pdf
+                , опубликовано 09.01.2014г. 15:42
+               )</span>
+            </p>
+            <p>
+              <a target="_blank" href="/upload/4b9/4b929fde0019d76cfc28a1dddeda0c4e.pdf">Изменения в список аффилированных лиц на 05 ноября 2013 года</a>
+              <span> (290 Кб, pdf
+                , опубликовано 05.11.2013г. 0:00
+               )</span>
+            </p>
+            <p>
+              <a target="_blank" href="/upload/d03/d035e097725d4a0066b3af12c5ed70da.pdf">Список аффилированных лиц на 30 сентября 2013 года </a>
+              <span> (308 Кб, pdf
+                , опубликовано 01.10.2013г. 17:47
+               )</span>
+            </p>
+            <p>
+              <a target="_blank" href="/upload/221/221d1819791371df85eac8bd7fbd1a0b.pdf">Список аффилированных лиц на 30 июня 2013 года </a>
+              <span> (345 Кб, pdf
+                , опубликовано 01.07.2013г. 17:55
+               )</span>
+            </p>
+            <p>
+              <a target="_blank" href="/upload/ce0/ce03e02536e89c3b6ba59aa4fbea0296.pdf">Список аффилированных лиц на 31.03.2013</a>
+              <span> (310 Кб, pdf
+                , опубликовано 01.04.2013г. 15:05
+               )</span>
+            </p>
+            <p>
+              <a target="_blank" href="/upload/778/778586d91c701d034fbf3a6e1f4b8988.pdf">Список аффилированных лиц на 31 декабря 2012 года</a>
+              <span> (369 Кб, pdf
+                , опубликовано 10.01.2013г. 17:05
+               )</span>
+            </p>
+            <p>
+              <a target="_blank" href="/upload/fb8/fb84e3c75f5648e731ffd810be14a971.pdf">Список аффилированных лиц на 30 сентября 2012 года</a>
+              <span> (328 Кб, pdf
+                , опубликовано 02.10.2012г. 15:35
+               )</span>
+            </p>
+            <p>
+              <a target="_blank" href="/upload/7aa/7aadf2677a8eec2f81f5aafd9ca356fb.pdf">Список аффилированных лиц на 30 июня 2012 года</a>
+              <span> (228 Кб, pdf
+                , опубликовано 03.07.2012г. 10:30
+               )</span>
+            </p>
+            <p>
+              <a target="_blank" href="/upload/234/2346bd8f585f864adc2572fe9d33a005.pdf">Список аффилированных лиц на 31 марта 2012 года</a>
+              <span> (169 Кб, pdf
+                , опубликовано 03.04.2012г. 5:40
+               )</span>
+            </p>
+            <p>
+              <a target="_blank" href="/upload/9f3/9f3f86d10456b4762621761bd23b846c.pdf">Список аффилированных лиц на 31 декабря 2011 года</a>
+              <span> (181 Кб, pdf
+                , опубликовано 10.01.2012г. 18:42
+               )</span>
+            </p>
+            <p>
+              <a target="_blank" href="/upload/d12/d120efb8950d944914e95d33a34d23cd.pdf">Список аффилированных лиц на 30 сентября 2011 года </a>
+              <span> (200 Кб, pdf
+                , опубликовано 03.10.2011г. 10:59
+               )</span>
+            </p>
+            <p>
+              <a target="_blank" href="/upload/c0c/c0ce30bbb572cafc2a567b573d168355.pdf">Список аффилированных лиц на 30 июня 2011 года</a>
+              <span> (94 Кб, pdf
+                , опубликовано 01.07.2011г. 9:51
+               )</span>
+            </p>
+            <p>
+              <a target="_blank" href="/upload/6c9/6c9ccbc814055e13501d81c86b7a5277.pdf">Список аффилированных лиц на 31 марта 2011 года</a>
+              <span> (84 Кб, pdf
+                , опубликовано 04.04.2011г. 16:26
+               )</span>
+            </p>
+            <p>
+              <a target="_blank" href="/upload/08b/08bfee59e334a3994bb4ea54addfe56f.pdf">Список аффилированных лиц на 31 декабря 2010 года</a>
+              <span> (140 Кб, pdf
+                , опубликовано 12.01.2011г. 11:05
+               )</span>
+            </p>
+            <p>
+              <a target="_blank" href="/upload/0d8/0d83e41509346df0ed34fe3abebe9752.pdf">Список аффилированных лиц на 30 сентября 2010 года</a>
+              <span> (119 Кб, pdf
+                , опубликовано 04.10.2010г. 11:20
+               )</span>
+            </p>
+            <p>
+              <a target="_blank" href="/upload/176/176822dfe8744a6c63454608fe51a949.pdf">Список аффилированных лиц на 30 июня 2010 года</a>
+              <span> (129 Кб, pdf
+                , опубликовано 02.07.2010г. 11:10
+               )</span>
+            </p>
+            <p>
+              <a target="_blank" href="/upload/b08/b088f2e8f6497fcfef11bc97b984cc7c.pdf">Список аффилированных лиц на 31 марта 2010 года</a>
+              <span> (120 Кб, pdf
+                , опубликовано 02.07.2010г. 10:08
+               )</span>
+            </p>
+            <p>
+              <a target="_blank" href="/upload/caa/caa62ffa539ec57b403df5733a70f0f8.pdf">Список аффилированных лиц на 31 декабря 2009 года</a>
+              <span> (141 Кб, pdf
+                , опубликовано 11.01.2010г. 16:59
+               )</span>
+            </p>
+            <p>
+              <a target="_blank" href="/upload/c5d/c5d05e0ae8a6119e014519076b47b9d1.pdf">Список аффилированных лиц на 30 сентября 2009 года</a>
+              <span> (214 Кб, pdf
+                , опубликовано 01.10.2009г. 10:35
+               )</span>
+            </p>
+            <p>
+              <a target="_blank" href="/upload/913/913b7f18ae441b806324f7c715a2ef2f.pdf">Список аффилированных лиц на 31 марта 2009 года</a>
+              <span> (113 Кб, pdf
+                , опубликовано 25.09.2009г. 15:45
+               )</span>
+            </p>
+            <p>
+              <a target="_blank" href="/upload/aff/affddde95c49120fffff7dc3976e7108.pdf">Список аффилированных лиц на 30 июня 2009 года</a>
+              <span> (114 Кб, pdf
+                , опубликовано 01.07.2009г. 9:25
+               )</span>
+            </p> 
+              </div>
+      </div>
+      </li>
+      
+    <li>
+      <a href="#" class="question">
+				<span class="nameQuestion">Изменения в списках аффилированных лиц</span>
+				<span class="iconOpen"></span>
+			</a>
+      <div class="openBlockInfo" style="display: none;">
+				<div class="textBlock">
+    
+            <p>
+              <a target="_blank" href="/upload/357/357ab3a2779207081a5cbfc9f53ce9ce.pdf">Изменения в Список аффилированных лиц на 06.10.2014</a>
+              <span> (231 Кб, pdf
+                , опубликовано 06.10.2014г. 17:05
+               )</span>
+            </p>
+            <p>
+              <a target="_blank" href="/upload/aff/aff78c343c0bb9ed64f214e82103b36d.pdf">	Изменения в Список аффилированных лиц на 08.04.2014</a>
+              <span> (288 Кб, pdf
+                , опубликовано 08.04.2014г. 12:01
+               )</span>
+            </p>
+            <p>
+              <a target="_blank" href="/upload/286/286a0d84625c6fecb5de202dd0c91ddc.pdf">Изменения в список аффилированных лиц на 23/01/2014</a>
+              <span> (290 Кб, pdf
+                , опубликовано 24.01.2014г. 11:37
+               )</span>
+            </p>
+            <p>
+              <a target="_blank" href="/upload/78e/78e08be234f5ef050c5be11400144ebc.rtf">Изменения в Список аффилированных лиц, 18 января 2013 года</a>
+              <span> (3619 Кб, rtf
+                , опубликовано 15.11.2013г. 18:08
+               )</span>
+            </p>
+            <p>
+              <a target="_blank" href="/upload/7c3/7c3fa700815a51d1186cb3e4b9558d44.pdf">Изменения в список аффилированных лиц на 05 ноября 2013 года</a>
+              <span> (290 Кб, pdf
+                , опубликовано 05.11.2013г. 22:16
+               )</span>
+            </p>
+            <p>
+              <a target="_blank" href="/upload/08d/08d6c5c11decd070cfdbf68ef6ffe536.pdf">Изменения в список аффилированных лиц на 05 ноября 2013 года</a>
+              <span> (290 Кб, pdf
+                , опубликовано 05.11.2013г. 0:00
+               )</span>
+            </p>
+            <p>
+              <a target="_blank" href="/upload/b6b/b6bdafb7ef5c87055f3d3d6972a2a60e.pdf">Изменения в список аффилированных лиц на 15 октября 2013 года</a>
+              <span> (409 Кб, pdf
+                , опубликовано 15.10.2013г. 16:52
+               )</span>
+            </p>
+            <p>
+              <a target="_blank" href="/upload/648/6481e6baf55a79c0c6360602de9c6c94.pdf">Изменения в Список аффилированных лиц 03.07.2013</a>
+              <span> (200 Кб, pdf
+                , опубликовано 04.07.2013г. 18:03
+               )</span>
+            </p>
+            <p>
+              <a target="_blank" href="/upload/cae/cae9e86983bbf494914a16089b042119.pdf">Изменения в Список аффилированных лиц, 11 июня 2013 года </a>
+              <span> (220 Кб, pdf
+                , опубликовано 14.06.2013г. 11:06
+               )</span>
+            </p>
+            <p>
+              <a target="_blank" href="/upload/93c/93c6c67b3bfcff9155f80ceabd51d39b.pdf">Изменения в Список аффилированных лиц, 25 декабря 2012 года</a>
+              <span> (220 Кб, pdf
+                , опубликовано 25.12.2012г. 17:45
+               )</span>
+            </p>
+            <p>
+              <a target="_blank" href="/upload/6a9/6a967c24e865b0c9f044c1543a1e5852.pdf">Изменения в Список аффилированных лиц, 4 декабря 2012 года</a>
+              <span> (181 Кб, pdf
+                , опубликовано 04.12.2012г. 11:36
+               )</span>
+            </p>
+            <p>
+              <a target="_blank" href="/upload/66b/66b0256e8b03fcdfaef191757e3591cb.pdf">Изменения в Список аффилированных лиц, 23 ноября 2012 года</a>
+              <span> (180 Кб, pdf
+                , опубликовано 23.11.2012г. 14:30
+               )</span>
+            </p>
+            <p>
+              <a target="_blank" href="/upload/8a6/8a6fcdbc785da4ec8c6f1bd7515ff6c4.pdf">Изменения в Список аффилированных лиц, 14 ноября 2012 года</a>
+              <span> (203 Кб, pdf
+                , опубликовано 14.11.2012г. 13:49
+               )</span>
+            </p>
+            <p>
+              <a target="_blank" href="/upload/e89/e89e13494fff7d24d0a3652c093ab3bc.pdf">Изменения в Список аффилированных лиц, 06 ноября 2012 года</a>
+              <span> (189 Кб, pdf
+                , опубликовано 07.11.2012г. 17:44
+               )</span>
+            </p>
+            <p>
+              <a target="_blank" href="/upload/a42/a423dbba1219c85e01f723fdce16a5f9.pdf">Изменения в Список аффилированных лиц, 22 октября 2012 года</a>
+              <span> (119 Кб, pdf
+                , опубликовано 24.10.2012г. 11:10
+               )</span>
+            </p>
+            <p>
+              <a target="_blank" href="/upload/802/802f20e5bacf4ea1c0f3c854ca2085a7.pdf">Изменения в Список аффилированных лиц, 15 октября 2012 года</a>
+              <span> (480 Кб, pdf
+                , опубликовано 17.10.2012г. 18:07
+               )</span>
+            </p>
+            <p>
+              <a target="_blank" href="/upload/16e/16e953f55c0c6ac6df0887524a3f9d93.pdf">Изменения в Список аффилированных лиц, 24 августа 2012 года</a>
+              <span> (1230 Кб, pdf
+                , опубликовано 24.08.2012г. 12:36
+               )</span>
+            </p>
+            <p>
+              <a target="_blank" href="/upload/3af/3af20c18738b911792345cb60fe8623e.pdf">Изменения в Список аффилированных лиц, 05 июля 2012 г.</a>
+              <span> (193 Кб, pdf
+                , опубликовано 05.07.2012г. 11:43
+               )</span>
+            </p>
+            <p>
+              <a target="_blank" href="/upload/759/759b1da420df8318ec0d7ba7bf53cc74.pdf">Изменения, произошедшие в списке аффилированных лиц, 29.02.2012 г.</a>
+              <span> (64 Кб, pdf
+                , опубликовано 29.02.2012г. 17:31
+               )</span>
+            </p>
+            <p>
+              <a target="_blank" href="/upload/909/909600fca7c3a4ad67f7f85d1e2255d9.pdf">Изменения, произошедшие в списке аффилированных лиц, 26.09.2011 г.</a>
+              <span> (79 Кб, pdf
+                , опубликовано 26.09.2011г. 14:14
+               )</span>
+            </p>
+            <p>
+              <a target="_blank" href="/upload/1be/1be3ca52001782da1bfc5282cd6491a8.pdf">Изменения, произошедшие в списке аффилированных лиц, 21.07.2011 г.</a>
+              <span> (90 Кб, pdf
+                , опубликовано 21.07.2011г. 16:58
+               )</span>
+            </p>
+            <p>
+              <a target="_blank" href="/upload/837/837e08662382e353fccc951aead73bf7.pdf">Изменения, произошедшие в списке аффилированных лиц, 13.07.2011 г.</a>
+              <span> (42 Кб, pdf
+                , опубликовано 13.07.2011г. 16:29
+               )</span>
+            </p>
+            <p>
+              <a target="_blank" href="/upload/fff/fffcc43a5263d8c0bd902d0639d82f9f.pdf">Изменения, произошедшие в списке аффилированных лиц, 30.06.2011 г.</a>
+              <span> (55 Кб, pdf
+                , опубликовано 30.06.2011г. 15:29
+               )</span>
+            </p>
+            <p>
+              <a target="_blank" href="/upload/9a9/9a943ad15be329d770386e0deb9c2c9f.pdf">Изменения, произошедшие в списке аффилированных лиц, 12.04.2011 г.</a>
+              <span> (86 Кб, pdf
+                , опубликовано 18.04.2011г. 17:21
+               )</span>
+            </p>
+            <p>
+              <a target="_blank" href="/upload/a87/a87273471cce6b749e3bfc0903e8fd85.pdf">Изменения, произошедшие в списке аффилированных лиц, 31.03.2011 г.</a>
+              <span> (35 Кб, pdf
+                , опубликовано 04.04.2011г. 16:27
+               )</span>
+            </p>
+            <p>
+              <a target="_blank" href="/upload/7ef/7ef108457862df130ab788763f0f8160.pdf">Изменения, произошедшие в списке аффилированных лиц, 11.11.2010 г.</a>
+              <span> (64 Кб, pdf
+                , опубликовано 11.11.2010г. 12:55
+               )</span>
+            </p>
+            <p>
+              <a target="_blank" href="/upload/643/64326595be20e73180d79d0fdfbba340.pdf">Изменения, произошедшие в списке аффилированных лиц, 30.09.2010 г.</a>
+              <span> (74 Кб, pdf
+                , опубликовано 04.10.2010г. 11:19
+               )</span>
+            </p>
+            <p>
+              <a target="_blank" href="/upload/b6b/b6b9178a97a57ef00ff74378b49ab4e6.pdf">Изменения, произошедшие в списке аффилированных лиц, 30.06.2010 г.</a>
+              <span> (86 Кб, pdf
+                , опубликовано 02.07.2010г. 11:11
+               )</span>
+            </p>
+            <p>
+              <a target="_blank" href="/upload/61c/61c81837c6ab81bd378c4a42697f8cd5.pdf">Изменения, произошедшие в списке аффилированных лиц, 31.03.2010 г.</a>
+              <span> (75 Кб, pdf
+                , опубликовано 01.04.2010г. 18:54
+               )</span>
+            </p>
+            <p>
+              <a target="_blank" href="/upload/655/6558e6eaac443102a0c9fed7882fbac2.pdf">Изменения, произошедшие в списке аффилированных лиц, 31.12.2009 г.</a>
+              <span> (94 Кб, pdf
+                , опубликовано 11.01.2010г. 17:03
+               )</span>
+            </p>
+            <p>
+              <a target="_blank" href="/upload/8be/8beaaf9cbc8bd6edf32e12c9d976e223.pdf">Изменения, произошедшие в списке аффилированных лиц, 02.07.2009 г.</a>
+              <span> (62 Кб, pdf
+                , опубликовано 02.09.2009г. 12:18
+               )</span>
+            </p>
+            <p>
+              <a target="_blank" href="/upload/066/0668af1edab11dfbb5c9a73648ac6a61.pdf">Изменения, произошедшие в списке аффилированных лиц, 02.09.2009 г.</a>
+              <span> (95 Кб, pdf
+                , опубликовано 02.09.2009г. 12:18
+               )</span>
+            </p>
+            <p>
+              <a target="_blank" href="/upload/0b3/0b3cf3a16aea854974c472a631441013.pdf">Изменения, произошедшие в списке аффилированных лиц, 01.07.2009 г.</a>
+              <span> (61 Кб, pdf
+                , опубликовано 01.07.2009г. 9:26
+               )</span>
+            </p> 
+              </div>
+      </div>
+      </li>
+      
+    <li>
+      <a href="#" class="question">
+				<span class="nameQuestion">Информация о структуре и составе акционеров управляющей компании</span>
+				<span class="iconOpen"></span>
+			</a>
+      <div class="openBlockInfo" style="display: none;">
+				<div class="textBlock">
+    
+            <p>
+              <a target="_blank" href="/upload/uf/4c6/4c6416acef8ff5e3428f41ad4b7aa654.pdf">Информация о структуре и составе акционеров управляющей компании на 04 марта 2019 г.</a>
+              <span> (203 Кб, pdf
+                , опубликовано 06.03.2019г. 22:53
+               )</span>
+            </p>
+            <p>
+              <a target="_blank" href="/upload/uf/f2e/f2e3a04b40d03ea4ea44d66173310689.pdf">Информация о структуре и составе акционеров управляющей компании на 09 января 2019 г.</a>
+              <span> (207 Кб, pdf
+                , опубликовано 17.01.2019г. 10:54
+               )</span>
+            </p>
+            <p>
+              <a target="_blank" href="/upload/uf/549/549e0aab1ddd204c6e5513d0903cf4a9.pdf">Информация о структуре и составе акционеров управляющей компании на 09 января 2018 г.</a>
+              <span> (204 Кб, pdf
+                , опубликовано 12.01.2018г. 17:20
+               )</span>
+            </p>
+            <p>
+              <a target="_blank" href="/upload/uf/eb8/eb8da1c8fcf5e6b0396f70ed06722ba7.pdf">Информация о структуре и составе акционеров управляющей компании на 09 января 2017 г.</a>
+              <span> (135 Кб, pdf
+                , опубликовано 19.01.2017г. 15:36
+               )</span>
+            </p>
+            <p>
+              <a target="_blank" href="/upload/uf/28e/28e769c857e674a8ea443652330fac3a.pdf">Информация о структуре и составе акционеров управляющей компании на 11 января 2016 г.</a>
+              <span> (104 Кб, pdf
+                , опубликовано 22.01.2016г. 14:04
+               )</span>
+            </p>
+            <p>
+              <a target="_blank" href="/upload/dd7/dd7d606752b94fe0e7783a5241a71644.pdf">Информация о структуре и составе акционеров управляющей компании на 01.06.2015</a>
+              <span> (107 Кб, pdf
+                , опубликовано 02.06.2015г. 10:16
+               )</span>
+            </p>
+            <p>
+              <a target="_blank" href="/upload/097/09746680e239a4cc706ae04a8002d494.pdf">Информация о структуре и составе акционеров управляющей компании на 12.01.2015</a>
+              <span> (107 Кб, pdf
+                , опубликовано 30.01.2015г. 11:30
+               )</span>
+            </p>
+            <p>
+              <a target="_blank" href="/upload/0b8/0b8a819342ab53c53e740190fb73c759.pdf">Информация о структуре и составе акционеров Управляющей компании на 09.01.2014 г.</a>
+              <span> (107 Кб, pdf
+                , опубликовано 30.01.2014г. 15:00
+               )</span>
+            </p>
+            <p>
+              <a target="_blank" href="/upload/efe/efeccc2a02d11e1131fe7ac3c4de0f99.pdf">Информация о структуре и составе акционеров управляющей компании на 9 января 2013 г.</a>
+              <span> (107 Кб, pdf
+                , опубликовано 21.01.2013г. 12:50
+               )</span>
+            </p>
+            <p>
+              <a target="_blank" href="/upload/4a6/4a6d06f759b63128c84b7a466555fb6b.pdf">Информация о структуре и составе акционеров управляющей компании на 10 января 2012 г.</a>
+              <span> (71 Кб, pdf
+                , опубликовано 23.01.2012г. 12:49
+               )</span>
+            </p>
+            <p>
+              <a target="_blank" href="/upload/1ac/1ac43bbe5c2238551137045d69044fb7.pdf">Информация о структуре и составе акционеров управляющей компании на 11 января 2011 г. </a>
+              <span> (54 Кб, pdf
+                , опубликовано 11.01.2011г. 17:06
+               )</span>
+            </p>
+            <p>
+              <a target="_blank" href="/upload/266/2665be0f4d25aac2f6db3c396ceb6e06.pdf">Информация о структуре и составе акционеров управляющей компании на 11 января 2010 г.</a>
+              <span> (65 Кб, pdf
+                , опубликовано 01.01.2010г. 12:49
+               )</span>
+            </p>
+            <p>
+              <a target="_blank" href="/upload/3ff/3ff2870db440405e57426e4a970c0152.pdf">Информация о структуре и составе акционеров управляющей компании на 14 января 2009 г.</a>
+              <span> (48 Кб, pdf
+                , опубликовано 14.01.2009г. 12:48
+               )</span>
+            </p> 
+              </div>
+      </div>
+      </li>
+      
+    <li>
+      <a href="#" class="question">
+				<span class="nameQuestion">Информация о размере собственных средств управляющей компании</span>
+				<span class="iconOpen"></span>
+			</a>
+      <div class="openBlockInfo" style="display: none;">
+				<div class="textBlock">
+    
+            <p>
+              <a target="_blank" href="/upload/uf/4ec/4ec703313c816d567e100e5851ed2355.pdf">Информация о размере собственных средств управляющей компании на 31.05.23г. Период актуальности: с даты размещения по настоящее время.</a>
+              <span> (172 Кб, pdf
+                , опубликовано 19.06.2023г. 10:06
+               )</span>
+            </p>
+            <p>
+              <a target="_blank" href="/upload/uf/8f9/8f9a165e5e8d8da22d9d7b9afa568545.pdf">Информация о размере собственных средств управляющей компании на 30.04.23г. Период актуальности: с даты размещения по настоящее время.  </a>
+              <span> (172 Кб, pdf
+                , опубликовано 18.05.2023г. 12:14
+               )</span>
+            </p>
+            <p>
+              <a target="_blank" href="/upload/uf/aaf/aaf3b74f33b5824ca1fc3dfc75f324e2.pdf">Информация о размере собственных средств управляющей компании на 31.03.23г. Период актуальности: с даты размещения по настоящее время.</a>
+              <span> (172 Кб, pdf
+                , опубликовано 17.04.2023г. 10:54
+               )</span>
+            </p>
+            <p>
+              <a target="_blank" href="/upload/uf/5a9/5a98ffeb57a88eaa5ff2c6350d4ee01e.pdf">Информация о размере собственных средств управляющей компании на 31.12.22г. (скорректированная) Период актуальности: с даты размещения по настоящее время</a>
+              <span> (172 Кб, pdf
+                , опубликовано 12.04.2023г. 10:43
+               )</span>
+            </p>
+            <p>
+              <a target="_blank" href="/upload/uf/077/077c280929fc200a9fcf29ed4c7d26cc.pdf">Информация о размере собственных средств управляющей компании на 28.02.23г. Период актуальности: с даты размещения по настоящее время.</a>
+              <span> (172 Кб, pdf
+                , опубликовано 16.03.2023г. 11:09
+               )</span>
+            </p>
+            <p>
+              <a target="_blank" href="/upload/uf/f85/f853bc4e47e7fe9962587398f063a8b7.pdf">Информация о размере собственных средств управляющей компании на 31.01.23г. Период актуальности: с даты размещения по настоящее время.</a>
+              <span> (172 Кб, pdf
+                , опубликовано 15.02.2023г. 9:40
+               )</span>
+            </p>
+            <p>
+              <a target="_blank" href="/upload/uf/b88/b88b3fbe4168cd5abfd328b2d594c30f.pdf">Информация о размере собственных средств управляющей компании на 31.12.22г. Период актуальности: с даты размещения по настоящее время.</a>
+              <span> (172 Кб, pdf
+                , опубликовано 20.01.2023г. 17:29
+               )</span>
+            </p>
+            <p>
+              <a target="_blank" href="/upload/uf/764/764ec54ae1c4ebe176667b7dac65b825.pdf">Информация о размере собственных средств управляющей компании на 30.11.22г. Период актуальности: с даты размещения по настоящее время.</a>
+              <span> (172 Кб, pdf
+                , опубликовано 14.12.2022г. 14:49
+               )</span>
+            </p>
+            <p>
+              <a target="_blank" href="/upload/uf/f01/f01589e2978cff2ca3587ae75f40983d.pdf">Информация о размере собственных средств управляющей компании на 31.10.22г. Период актуальности: с даты размещения по настоящее время</a>
+              <span> (172 Кб, pdf
+                , опубликовано 15.11.2022г. 16:48
+               )</span>
+            </p>
+            <p>
+              <a target="_blank" href="/upload/uf/5a5/5a51bf39cdb71e9239fc1a08d3f09d8c.pdf">Информация о размере собственных средств управляющей компании на 30.09.22г. Период актуальности: с даты размещения по настоящее время.</a>
+              <span> (172 Кб, pdf
+                , опубликовано 14.10.2022г. 17:01
+               )</span>
+            </p>
+            <p>
+              <a target="_blank" href="/upload/uf/724/724c02717b19d6bf7d6499e60223e440.pdf">Информация о размере собственных средств управляющей компании на 31.08.2022г. Период актуальности: с даты размещения по настоящее время.</a>
+              <span> (172 Кб, pdf
+                , опубликовано 14.09.2022г. 16:42
+               )</span>
+            </p>
+            <p>
+              <a target="_blank" href="/upload/uf/af7/af7f782779e452e9c50b1e1e15d78eeb.pdf">Информация о размере собственных средств управляющей компании на 31.07.22г. Период актуальности: с даты размещения по настоящее время.</a>
+              <span> (172 Кб, pdf
+                , опубликовано 12.08.2022г. 17:11
+               )</span>
+            </p>
+            <p>
+              <a target="_blank" href="/upload/uf/867/867d8a3d995c11b23fe355d246b6f4d9.pdf">Информация о размере собственных средств управляющей компании на 30.06.22г. Период актуальности: с даты размещения по настоящее время.</a>
+              <span> (173 Кб, pdf
+                , опубликовано 15.07.2022г. 9:42
+               )</span>
+            </p>
+            <p>
+              <a target="_blank" href="/upload/uf/e54/e5464628b541377d4185b6a44c7db190.pdf">Информация о размере собственных средств управляющей компании на 31.05.22г. Период актуальности: с даты размещения по настоящее время.</a>
+              <span> (172 Кб, pdf
+                , опубликовано 15.06.2022г. 11:53
+               )</span>
+            </p>
+            <p>
+              <a target="_blank" href="/upload/uf/869/8696df7b004b4a234bae355474fd1dc6.pdf">Информация о размере собственных средств управляющей компании на 30.04.22г. Период актуальности: с даты размещения по настоящее время</a>
+              <span> (173 Кб, pdf
+                , опубликовано 20.05.2022г. 9:26
+               )</span>
+            </p>
+            <p>
+              <a target="_blank" href="/upload/uf/9f0/9f0ad5a2e276203d17688a876bef39e4.pdf">Информация о размере собственных средств управляющей компании на 31.03.22г. (скорректированная).Период актуальности: с даты размещения по настоящее время.</a>
+              <span> (173 Кб, pdf
+                , опубликовано 29.04.2022г. 17:51
+               )</span>
+            </p>
+            <p>
+              <a target="_blank" href="/upload/uf/1d8/1d8b146e781176de1a7bca34932709b1.pdf">Информация о размере собственных средств управляющей компании на 31.03.22г. Период актуальности: с даты размещения по настоящее время</a>
+              <span> (173 Кб, pdf
+                , опубликовано 15.04.2022г. 9:21
+               )</span>
+            </p>
+            <p>
+              <a target="_blank" href="/upload/uf/450/4503d4415a9196f5c93caf879d086abf.pdf">Информация о размере собственных средств управляющей компании на 31.12.21г. (скорректированная). Период актуальности: с даты размещения по настоящее время.</a>
+              <span> (173 Кб, pdf
+                , опубликовано 24.03.2022г. 14:10
+               )</span>
+            </p>
+            <p>
+              <a target="_blank" href="/upload/uf/312/312572f79d876af6e105b48509f20f54.pdf">Информация о размере собственных средств управляющей компании на 28.02.22г. Период актуальности: с даты размещения по настоящее время.</a>
+              <span> (173 Кб, pdf
+                , опубликовано 16.03.2022г. 9:40
+               )</span>
+            </p>
+            <p>
+              <a target="_blank" href="/upload/uf/3af/3af37dd445b968959fb0cddf4f8ad3c0.pdf">Информация о размере собственных средств управляющей компании на 31.01.22г. (скорректированная). Период актуальности: с даты размещения по настоящее время.</a>
+              <span> (172 Кб, pdf
+                , опубликовано 02.03.2022г. 14:52
+               )</span>
+            </p>
+            <p>
+              <a target="_blank" href="/upload/uf/b0a/b0a09ab5fbb2673e0492616e7a288c08.pdf">Информация о размере собственных средств управляющей компании на 31.01.22г. Период актуальности: с даты размещения по настоящее время.</a>
+              <span> (172 Кб, pdf
+                , опубликовано 15.02.2022г. 10:21
+               )</span>
+            </p>
+            <p>
+              <a target="_blank" href="/upload/uf/5c2/5c2b699c2d30860aeea96cb84914271a.pdf">Информация о размере собственных средств управляющей компании на 31.12.21г.  Период актуальности: с даты размещения по настоящее время. </a>
+              <span> (172 Кб, pdf
+                , опубликовано 24.01.2022г. 14:35
+               )</span>
+            </p>
+            <p>
+              <a target="_blank" href="/upload/uf/590/590c77463fdc077b053d455613d1c5d5.pdf">Информация о размере собственных средств управляющей компании на 31.10.21г. (скорректированная). Период актуальности: с даты размещения по настоящее время.</a>
+              <span> (171 Кб, pdf
+                , опубликовано 24.12.2021г. 18:29
+               )</span>
+            </p>
+            <p>
+              <a target="_blank" href="/upload/uf/a9e/a9e0a383a3239eea5944862f1442ee28.pdf">Информация о размере собственных средств управляющей компании на 30.11.21г. Период актуальности: с даты размещения по настоящее время.</a>
+              <span> (170 Кб, pdf
+                , опубликовано 15.12.2021г. 17:57
+               )</span>
+            </p>
+            <p>
+              <a target="_blank" href="/upload/uf/8e3/8e3cb4d5e17ea3cd2fd10808a1e5ec50.pdf">Информация о размере собственных средств управляющей компании на 31.10.21г. Период актуальности: с даты размещения по настоящее время.</a>
+              <span> (170 Кб, pdf
+                , опубликовано 19.11.2021г. 13:19
+               )</span>
+            </p>
+            <p>
+              <a target="_blank" href="/upload/uf/763/763882262cda3df0fe5e4f3189cc9fd3.pdf">Информация о размере собственных средств управляющей компании на 30.09.21г. (скорректированная). Период актуальности: с даты размещения по настоящее время.</a>
+              <span> (177 Кб, pdf
+                , опубликовано 27.10.2021г. 17:30
+               )</span>
+            </p>
+            <p>
+              <a target="_blank" href="/upload/uf/f43/f435467e2ec27c9c66a1d97d3bda27f7.pdf">Информация о размере собственных средств управляющей компании на 30.09.21г. Период актуальности: с даты размещения по настоящее время.</a>
+              <span> (177 Кб, pdf
+                , опубликовано 15.10.2021г. 17:48
+               )</span>
+            </p>
+            <p>
+              <a target="_blank" href="/upload/uf/6ef/6ef4c16dc9d62c7a9fbcb21514ebef03.pdf">Информация о размере собственных средств управляющей компании на 31.08.21г. Период актуальности: с даты размещения по настоящее время.</a>
+              <span> (115 Кб, pdf
+                , опубликовано 30.09.2021г. 17:44
+               )</span>
+            </p>
+            <p>
+              <a target="_blank" href="/upload/uf/b88/b88a5a52a40579eb51cb35f634b67ae8.pdf">Информация о размере собственных средств управляющей компании на 31.07.21г. Период актуальности: с даты размещения по настоящее время.</a>
+              <span> (115 Кб, pdf
+                , опубликовано 27.08.2021г. 17:11
+               )</span>
+            </p>
+            <p>
+              <a target="_blank" href="/upload/uf/0c8/0c810da54b1f7d9e0662606ab8571dd5.pdf">Информация о размере собственных средств управляющей компании на 30.06.21г. Период актуальности: с даты размещения по настоящее время</a>
+              <span> (115 Кб, pdf
+                , опубликовано 30.07.2021г. 16:07
+               )</span>
+            </p>
+            <p>
+              <a target="_blank" href="/upload/uf/413/413470d8dbd263c5c115fb9518ac801f.pdf">Информация о размере собственных средств управляющей компании на 31.05.21г. Период актуальности: с даты размещения по настоящее время.</a>
+              <span> (116 Кб, pdf
+                , опубликовано 29.06.2021г. 18:24
+               )</span>
+            </p>
+            <p>
+              <a target="_blank" href="/upload/uf/71a/71afb09a790517df6661c89f891bc530.pdf">Информация о размере собственных средств управляющей компании на 30.04.21г. (скорректированная). Период актуальности: с даты размещения по настоящее время.</a>
+              <span> (115 Кб, pdf
+                , опубликовано 31.05.2021г. 16:21
+               )</span>
+            </p>
+            <p>
+              <a target="_blank" href="/upload/uf/bca/bcadb7387fc3c1d73bae50d75e95c5f6.pdf">Информация о размере собственных средств управляющей компании на 30.04.21г. Период актуальности: с даты размещения по настоящее время.</a>
+              <span> (115 Кб, pdf
+                , опубликовано 28.05.2021г. 18:07
+               )</span>
+            </p>
+            <p>
+              <a target="_blank" href="/upload/uf/fe3/fe3f2f5d695bfae4d033ad743d10ca43.pdf">Информация о размере собственных средств управляющей компании на 31.03.2021. Период актуальности: с даты размещения по настоящее время.</a>
+              <span> (115 Кб, pdf
+                , опубликовано 30.04.2021г. 8:57
+               )</span>
+            </p>
+            <p>
+              <a target="_blank" href="/upload/uf/cb6/cb648c837ddf3d448fa226a4c9f095f5.pdf">Информация о размере собственных средств управляющей компании на 28.02.21г. Период актуальности: с даты размещения по настоящее время.</a>
+              <span> (115 Кб, pdf
+                , опубликовано 30.03.2021г. 18:16
+               )</span>
+            </p>
+            <p>
+              <a target="_blank" href="/upload/uf/b1c/b1c1f3b5602f358c992b0e957969e674.pdf">Информация о размере собственных средств управляющей компании на 31.01.21г. (скорректированная). Период актуальности: с даты размещения по настоящее время.</a>
+              <span> (115 Кб, pdf
+                , опубликовано 16.03.2021г. 11:44
+               )</span>
+            </p>
+            <p>
+              <a target="_blank" href="/upload/uf/0a2/0a282e66fd7b9128b0f2c055007e48d9.pdf">Информация о размере собственных средств управляющей компании на 31.01.21г. Период актуальности: с даты размещения по настоящее время.</a>
+              <span> (115 Кб, pdf
+                , опубликовано 24.02.2021г. 15:41
+               )</span>
+            </p>
+            <p>
+              <a target="_blank" href="/upload/uf/fbf/fbf5cc51f6a3ca9ed92d7be79ad4b0be.pdf">Информация о размере собственных средств управляющей компании на 31.12.20г. Период актуальности: с даты размещения по настоящее время.</a>
+              <span> (115 Кб, pdf
+                , опубликовано 29.01.2021г. 17:28
+               )</span>
+            </p>
+            <p>
+              <a target="_blank" href="/upload/uf/7ce/7cea9fb91130d1924bb334d510f65512.pdf">Информация о размере собственных средств управляющей компании на 30.11.20г. Период актуальности: с даты размещения по настоящее время. </a>
+              <span> (115 Кб, pdf
+                , опубликовано 30.12.2020г. 10:00
+               )</span>
+            </p>
+            <p>
+              <a target="_blank" href="/upload/uf/8d8/8d8e6b34a87b2b82334c77ff0795841f.pdf">Информация о размере собственных средств управляющей компании на 31.10.20г. Период актуальности: с даты размещения по настоящее время. </a>
+              <span> (114 Кб, pdf
+                , опубликовано 27.11.2020г. 17:04
+               )</span>
+            </p>
+            <p>
+              <a target="_blank" href="/upload/uf/28f/28f442644a6deac595f50dceda4aa603.pdf">Информация о размере собственных средств управляющей компании на 30.09.20г. (скорректированная). Период актуальности: с даты размещения по настоящее время.</a>
+              <span> (115 Кб, pdf
+                , опубликовано 17.11.2020г. 11:42
+               )</span>
+            </p>
+            <p>
+              <a target="_blank" href="/upload/uf/192/19201847988312c86225f7730119fa9a.pdf">Информация о размере собственных средств управляющей компании на 30.09.20г. Период актуальности: с даты размещения по настоящее время.</a>
+              <span> (115 Кб, pdf
+                , опубликовано 30.10.2020г. 14:11
+               )</span>
+            </p>
+            <p>
+              <a target="_blank" href="/upload/uf/5d7/5d77c32ef85f177c664dc47198d92417.pdf">Информация о размере собственных средств управляющей компании на 31.08.20г. Период актуальности: с даты размещения по настоящее время. </a>
+              <span> (114 Кб, pdf
+                , опубликовано 25.09.2020г. 12:13
+               )</span>
+            </p>
+            <p>
+              <a target="_blank" href="/upload/uf/1ac/1ac1cbaf5f73b78c801788addbc340e2.pdf">Информация о размере собственных средств управляющей компании на 31.07.20г. (скорректированная). Период актуальности: с даты размещения по настоящее время.</a>
+              <span> (350 Кб, pdf
+                , опубликовано 14.09.2020г. 10:32
+               )</span>
+            </p>
+            <p>
+              <a target="_blank" href="/upload/uf/5dd/5dd6223a6cb8f304f5ef05f88b11029e.pdf">Информация о размере собственных средств управляющей компании на 31.07.20г. (скорректированная). Период актуальности: с даты размещения по настоящее время.</a>
+              <span> (349 Кб, pdf
+                , опубликовано 26.08.2020г. 9:59
+               )</span>
+            </p>
+            <p>
+              <a target="_blank" href="/upload/uf/ec2/ec277757107445c2abcddd7ef855e34a.pdf">Информация о размере собственных средств управляющей компании на 31.07.20г. Период актуальности: с даты размещения по настоящее время.</a>
+              <span> (349 Кб, pdf
+                , опубликовано 17.08.2020г. 15:14
+               )</span>
+            </p>
+            <p>
+              <a target="_blank" href="/upload/uf/329/329e2231f9deec6f6a639034e147f785.pdf">Информация о размере собственных средств управляющей компании на 30.06.20г. Период актуальности: с даты размещения по настоящее время. </a>
+              <span> (350 Кб, pdf
+                , опубликовано 31.07.2020г. 11:19
+               )</span>
+            </p>
+            <p>
+              <a target="_blank" href="/upload/uf/0fc/0fcb5c76a04706d3b456c477164dae61.pdf">Информация о размере собственных средств управляющей компании на 30.11.19г. (скорректированная). Период актуальности: с даты размещения по настоящее время.</a>
+              <span> (349 Кб, pdf
+                , опубликовано 22.07.2020г. 13:37
+               )</span>
+            </p>
+            <p>
+              <a target="_blank" href="/upload/uf/62b/62b2167dc6e5fef91991509ff467d698.pdf">Информация о размере собственных средств управляющей компании на 31.10.19г. (скорректированная). Период актуальности: с даты размещения по настоящее время.</a>
+              <span> (349 Кб, pdf
+                , опубликовано 22.07.2020г. 13:31
+               )</span>
+            </p>
+            <p>
+              <a target="_blank" href="/upload/uf/979/979b06ae3d8b8414cc980c41d2220666.pdf">Информация о размере собственных средств управляющей компании на 30.09.19г. (скорректированная). Период актуальности: с даты размещения по настоящее время.</a>
+              <span> (349 Кб, pdf
+                , опубликовано 22.07.2020г. 13:25
+               )</span>
+            </p>
+            <p>
+              <a target="_blank" href="/upload/uf/8d3/8d309e8b47a8fb05ff988423534c1ec7.pdf">Информация о размере собственных средств управляющей компании на 31.05.20г. Период актуальности: с даты размещения по настоящее время. </a>
+              <span> (349 Кб, pdf
+                , опубликовано 29.06.2020г. 11:57
+               )</span>
+            </p>
+            <p>
+              <a target="_blank" href="/upload/uf/4d0/4d08624d0da2af501c3a2aef615d9942.pdf">Информация о размере собственных средств управляющей компании на 30.04.20г. Период актуальности: с даты размещения по настоящее время.</a>
+              <span> (350 Кб, pdf
+                , опубликовано 29.05.2020г. 18:19
+               )</span>
+            </p>
+            <p>
+              <a target="_blank" href="/upload/uf/2ae/2ae168ccb85515a7211803b6081167c9.pdf">Информация о размере собственных средств управляющей компании на 31.03.20г. (скорректированная). Период актуальности: с даты размещения по настоящее время.</a>
+              <span> (350 Кб, pdf
+                , опубликовано 26.05.2020г. 13:04
+               )</span>
+            </p>
+            <p>
+              <a target="_blank" href="/upload/uf/ec4/ec49d28d09771f8a5566a68cdfc766eb.pdf">Информация о размере собственных средств управляющей компании на 29.02.20г. (скорректированная). Период актуальности: с даты размещения по настоящее время. </a>
+              <span> (350 Кб, pdf
+                , опубликовано 26.05.2020г. 12:48
+               )</span>
+            </p>
+            <p>
+              <a target="_blank" href="/upload/uf/f9b/f9b71f3a7a0717592ade0548ffdd814b.pdf">Информация о размере собственных средств управляющей компании на 31.01.20г. (скорректированная). Период актуальности: с даты размещения по настоящее время.</a>
+              <span> (349 Кб, pdf
+                , опубликовано 26.05.2020г. 12:36
+               )</span>
+            </p>
+            <p>
+              <a target="_blank" href="/upload/uf/13f/13fb2d328d343a06f42bf5cca7116ee6.pdf">Информация о размере собственных средств управляющей компании на 31.12.19г. (скорректированная). Период актуальности: с даты размещения по настоящее время.</a>
+              <span> (349 Кб, pdf
+                , опубликовано 26.05.2020г. 11:40
+               )</span>
+            </p>
+            <p>
+              <a target="_blank" href="/upload/uf/fc1/fc150f2699f7ff63732481e0e67abd5a.pdf">Информация о размере собственных средств управляющей компании на 31.03.20г. Период актуальности: с даты размещения по настоящее время.</a>
+              <span> (350 Кб, pdf
+                , опубликовано 30.04.2020г. 13:41
+               )</span>
+            </p>
+            <p>
+              <a target="_blank" href="/upload/uf/0de/0de62b7dc56e8cf6f2d06bf35210c3f4.pdf">Информация о размере собственных средств управляющей компании на 29.02.20г. Период актуальности: с даты размещения по настоящее время.</a>
+              <span> (350 Кб, pdf
+                , опубликовано 17.03.2020г. 17:06
+               )</span>
+            </p>
+            <p>
+              <a target="_blank" href="/upload/uf/bd7/bd78a45dab28a594715a994c500923a7.pdf">Информация о размере собственных средств управляющей компании на 31.01.20г. (cкорректированная). Период актуальности: с даты размещения по настоящее время.</a>
+              <span> (350 Кб, pdf
+                , опубликовано 17.03.2020г. 16:19
+               )</span>
+            </p>
+            <p>
+              <a target="_blank" href="/upload/uf/3d2/3d2c1e2c56700176e8f864cd6a55387c.pdf">Информация о размере собственных средств управляющей компании на 31.12.19г. (cкорректированная). Период актуальности: с даты размещения по настоящее время. </a>
+              <span> (350 Кб, pdf
+                , опубликовано 16.03.2020г. 10:09
+               )</span>
+            </p>
+            <p>
+              <a target="_blank" href="/upload/uf/99c/99ca508aec3c415d4301eda196e553cb.pdf">Информация о размере собственных средств управляющей компании на 31.01.20г. (cкорректированная). Период актуальности: с даты размещения по настоящее время. </a>
+              <span> (350 Кб, pdf
+                , опубликовано 02.03.2020г. 16:35
+               )</span>
+            </p>
+            <p>
+              <a target="_blank" href="/upload/uf/161/1611c26629eb0983fffb64eeeb9ce1cb.pdf">Информация о размере собственных средств управляющей компании на 31.01.20г. Период актуальности: с даты размещения по настоящее время. </a>
+              <span> (350 Кб, pdf
+                , опубликовано 17.02.2020г. 10:37
+               )</span>
+            </p>
+            <p>
+              <a target="_blank" href="/upload/uf/c76/c7665a85e247c0e15726ba2c39c57d6c.pdf">Информация о размере собственных средств управляющей компании на 31.12.19 г. Период актуальности: с даты размещения по настоящее время.</a>
+              <span> (350 Кб, pdf
+                , опубликовано 31.01.2020г. 15:26
+               )</span>
+            </p>
+            <p>
+              <a target="_blank" href="/upload/uf/73f/73fd42c7f9766269afc89d78a3197304.pdf">Информация о размере собственных средств управляющей компании на 30.11.19г. Период актуальности: с даты размещения по 21.07.2020. </a>
+              <span> (349 Кб, pdf
+                , опубликовано 31.12.2019г. 13:05
+               )</span>
+            </p>
+            <p>
+              <a target="_blank" href="/upload/uf/6ce/6ce78b9e84f655e686240f5b471d6450.pdf">Информация о размере собственных средств управляющей компании на 31.10.19г. Период актуальности: с даты размещения по 21.07.2020. </a>
+              <span> (349 Кб, pdf
+                , опубликовано 02.12.2019г. 19:16
+               )</span>
+            </p>
+            <p>
+              <a target="_blank" href="/upload/uf/e23/e23db433cc9b22992e4069ffad35d10b.pdf">Информация о размере собственных средств управляющей компании на 30.09.19г. Период актуальности: с даты размещения по 21.07.2020</a>
+              <span> (349 Кб, pdf
+                , опубликовано 30.10.2019г. 16:56
+               )</span>
+            </p>
+            <p>
+              <a target="_blank" href="/upload/uf/e9b/e9b21c158533fe4e59e9f5f107aeb904.pdf">Информация о размере собственных средств управляющей компании на 31.08.19г. (скорректированная). Период актуальности: с даты размещения по настоящее время.</a>
+              <span> (349 Кб, pdf
+                , опубликовано 22.10.2019г. 13:16
+               )</span>
+            </p>
+            <p>
+              <a target="_blank" href="/upload/uf/486/486e3f61f1ce750af363bc3615ce5d1e.pdf">Информация о размере собственных средств управляющей компании на 31.07.19 г.(скорректированная) Период актуальности: с 04.10.2019 по настоящее время.</a>
+              <span> (349 Кб, pdf
+                , опубликовано 04.10.2019г. 12:10
+               )</span>
+            </p>
+            <p>
+              <a target="_blank" href="/upload/uf/49c/49c4962b200d9204b95da0f97081a411.pdf">Информация о размере собственных средств управляющей компании на 31.08.19 г.Период актуальности: с даты размещения по 21.07.2020. </a>
+              <span> (349 Кб, pdf
+                , опубликовано 30.09.2019г. 20:00
+               )</span>
+            </p>
+            <p>
+              <a target="_blank" href="/upload/uf/dd4/dd41cb9f64acfba8dbce5ddc30016925.pdf">Информация о размере собственных средств управляющей компании на 31.07.19г. (скорректированная) Период актуальности: с 31.07.2019 по 04.10.2019</a>
+              <span> (128 Кб, pdf
+                , опубликовано 02.09.2019г. 12:28
+               )</span>
+            </p>
+            <p>
+              <a target="_blank" href="/upload/uf/0f4/0f49b176a4b0eed457808d8d24856485.pdf">Информация о размере собственных средств управляющей компании на 30.06.19 г</a>
+              <span> (129 Кб, pdf
+                , опубликовано 31.07.2019г. 17:35
+               )</span>
+            </p>
+            <p>
+              <a target="_blank" href="/upload/uf/cd1/cd14b1e0b57baefa30b20104f6687d2e.pdf">Информация о размере собственных средств управляющей компании на 31.05.19 г.(скорректированная)</a>
+              <span> (129 Кб, pdf
+                , опубликовано 29.07.2019г. 14:30
+               )</span>
+            </p>
+            <p>
+              <a target="_blank" href="/upload/uf/316/3166394fb17e8408f9f329372d6b4737.pdf">Информация о размере собственных средств управляющей компании на 30.04.19 г.(скорректированная)</a>
+              <span> (129 Кб, pdf
+                , опубликовано 29.07.2019г. 14:29
+               )</span>
+            </p>
+            <p>
+              <a target="_blank" href="/upload/uf/f11/f11c1bea1d50ad7793e2211faea945d7.pdf">Информация о размере собственных средств управляющей компании на 31.03.19 г. (скорректированная)</a>
+              <span> (129 Кб, pdf
+                , опубликовано 29.07.2019г. 14:25
+               )</span>
+            </p>
+            <p>
+              <a target="_blank" href="/upload/uf/8f9/8f9a2d85d0c8f81d0772d9e1edd7aa0f.pdf">Информация о размере собственных средств управляющей компании на 28.02.19 г. (скорректированная)</a>
+              <span> (129 Кб, pdf
+                , опубликовано 29.07.2019г. 12:24
+               )</span>
+            </p>
+            <p>
+              <a target="_blank" href="/upload/uf/81f/81f4692079f2f24eceed631fc978f0b3.pdf">Информация о размере собственных средств управляющей компании на 31.01.19 г.(скорректированная)</a>
+              <span> (129 Кб, pdf
+                , опубликовано 29.07.2019г. 12:23
+               )</span>
+            </p>
+            <p>
+              <a target="_blank" href="/upload/uf/012/012ea5458c62becd4421b0aa43586702.pdf">Информация о размере собственных средств управляющей компании на 31.12.18 г.(скорректированная)</a>
+              <span> (129 Кб, pdf
+                , опубликовано 29.07.2019г. 12:22
+               )</span>
+            </p>
+            <p>
+              <a target="_blank" href="/upload/uf/638/63813afa7c96b7881281e0201b585b53.pdf">Информация о размере собственных средств управляющей компании на 31.05.19 г</a>
+              <span> (129 Кб, pdf
+                , опубликовано 01.07.2019г. 17:23
+               )</span>
+            </p>
+            <p>
+              <a target="_blank" href="/upload/uf/798/7984c147935a723cafc0b0e591d872f5.pdf">Информация о размере собственных средств управляющей компании на 30.04.19 г.</a>
+              <span> (129 Кб, pdf
+                , опубликовано 31.05.2019г. 18:02
+               )</span>
+            </p>
+            <p>
+              <a target="_blank" href="/upload/uf/199/19994c14b85dfeb6c29a2f20b382d89e.pdf">Информация о размере собственных средств управляющей компании на 31.03.19 г</a>
+              <span> (129 Кб, pdf
+                , опубликовано 30.04.2019г. 17:10
+               )</span>
+            </p>
+            <p>
+              <a target="_blank" href="/upload/uf/f1c/f1c2ce4ca557d5602dde448facad708f.pdf">Информация о размере собственных средств управляющей компании на 28.02.19г</a>
+              <span> (129 Кб, pdf
+                , опубликовано 01.04.2019г. 20:16
+               )</span>
+            </p>
+            <p>
+              <a target="_blank" href="/upload/uf/e97/e9779175c946ba726e4c73cc4a71413a.pdf">Информация о размере собственных средств управляющей компании на 31.01.19 г. (скорректированная)</a>
+              <span> (129 Кб, pdf
+                , опубликовано 15.03.2019г. 16:17
+               )</span>
+            </p>
+            <p>
+              <a target="_blank" href="/upload/uf/b82/b821f88d9dd6ebed4d4f8cb3698f859c.pdf">Информация о размере собственных средств управляющей компании на 31.12.18 г. (скорректированная)</a>
+              <span> (129 Кб, pdf
+                , опубликовано 15.03.2019г. 16:15
+               )</span>
+            </p>
+            <p>
+              <a target="_blank" href="/upload/uf/69b/69b309523e957feac7652956542166af.pdf">Информация о размере собственных средств управляющей компании на 31.01.2019 г.</a>
+              <span> (129 Кб, pdf
+                , опубликовано 28.02.2019г. 19:34
+               )</span>
+            </p>
+            <p>
+              <a target="_blank" href="/upload/uf/16f/16f6626474c777b308c6eab886bd1431.pdf">Информация о размере собственных средств управляющей компании на 31.12.2018 г.</a>
+              <span> (129 Кб, pdf
+                , опубликовано 31.01.2019г. 18:40
+               )</span>
+            </p>
+            <p>
+              <a target="_blank" href="/upload/uf/bfe/bfe3446a252b6186a99b59e6c0ea8139.pdf">Информация о размере собственных средств управляющей компании на 30.11.2018 г.</a>
+              <span> (129 Кб, pdf
+                , опубликовано 29.12.2018г. 14:57
+               )</span>
+            </p>
+            <p>
+              <a target="_blank" href="/upload/uf/ca3/ca39835b44cbf9a03e37148d73b41eeb.pdf">Информация о размере собственных средств управляющей компании на 31.10.2018 </a>
+              <span> (129 Кб, pdf
+                , опубликовано 30.11.2018г. 17:51
+               )</span>
+            </p>
+            <p>
+              <a target="_blank" href="/upload/uf/214/214602be62ce5726fe29ea2810d32c09.pdf">Информация о размере собственных средств управляющей компании на 30.09.2018 г. </a>
+              <span> (129 Кб, pdf
+                , опубликовано 31.10.2018г. 17:53
+               )</span>
+            </p>
+            <p>
+              <a target="_blank" href="/upload/uf/059/059a5a2cbe45866b4af4e1e377f3ca52.pdf">Информация о размере собственных средств управляющей компании на 31.08.2018 г. </a>
+              <span> (129 Кб, pdf
+                , опубликовано 01.10.2018г. 0:00
+               )</span>
+            </p>
+            <p>
+              <a target="_blank" href="/upload/uf/06d/06dc12752ef08b401239de6e1cef5497.pdf">Информация о размере собственных средств управляющей компании на 31.07.2018 г. </a>
+              <span> (118 Кб, pdf
+                , опубликовано 31.08.2018г. 12:25
+               )</span>
+            </p>
+            <p>
+              <a target="_blank" href="/upload/uf/4f3/4f30171fd1d137c574526ac06336e8ec.pdf">Информация о размере собственных средств управляющей компании на 30.06.2018</a>
+              <span> (129 Кб, pdf
+                , опубликовано 31.07.2018г. 10:22
+               )</span>
+            </p>
+            <p>
+              <a target="_blank" href="/upload/uf/137/137922325c064abaea2fbb2f0fae2492.pdf">Скорректированная Информация о размере собственных средств управляющей компании на 31.05.2018 г.</a>
+              <span> (129 Кб, pdf
+                , опубликовано 19.07.2018г. 18:27
+               )</span>
+            </p>
+            <p>
+              <a target="_blank" href="/upload/uf/3f9/3f918d4f705a8aab0763647097af9c3d.pdf">Скорректированная Информация о размере собственных средств управляющей компании на 30.04.2018 г.</a>
+              <span> (129 Кб, pdf
+                , опубликовано 06.07.2018г. 11:23
+               )</span>
+            </p>
+            <p>
+              <a target="_blank" href="/upload/uf/673/673177a0b270d1b53738370164c23734.pdf">Скорректированная Информация о размере собственных средств управляющей компании на 31.03.2018 г.</a>
+              <span> (129 Кб, pdf
+                , опубликовано 06.07.2018г. 11:22
+               )</span>
+            </p>
+            <p>
+              <a target="_blank" href="/upload/uf/ba8/ba86413aba4efadecc8c6c467a7ce2ba.pdf">Скорректированная Информация о размере собственных средств управляющей компании на 28.02.2018 г.</a>
+              <span> (129 Кб, pdf
+                , опубликовано 06.07.2018г. 11:21
+               )</span>
+            </p>
+            <p>
+              <a target="_blank" href="/upload/uf/781/7817aa3be5d5027ff26a90f64e3be581.pdf">Скорректированная информация о размере собственных средств управляющей компании на 31.01.2018 г.</a>
+              <span> (132 Кб, pdf
+                , опубликовано 05.07.2018г. 15:38
+               )</span>
+            </p>
+            <p>
+              <a target="_blank" href="/upload/uf/70d/70da2daf31ff4cd3e8b27911ae011c3f.pdf">Информация о размере собственных средств управляющей компании на 31.05.2018 г.</a>
+              <span> (118 Кб, pdf
+                , опубликовано 02.07.2018г. 17:32
+               )</span>
+            </p>
+            <p>
+              <a target="_blank" href="/upload/uf/759/759bab31b2cb87021a4e220d1cf5d973.pdf">Информацию о размере собственных средств управляющей компании на 30.04.2018 г.</a>
+              <span> (118 Кб, pdf
+                , опубликовано 31.05.2018г. 13:31
+               )</span>
+            </p>
+            <p>
+              <a target="_blank" href="/upload/uf/e09/e09afb464007706412ab238646830458.pdf">Информация о размере собственных средств управляющей компании на 31.03.2018 г.</a>
+              <span> (129 Кб, pdf
+                , опубликовано 03.05.2018г. 10:34
+               )</span>
+            </p>
+            <p>
+              <a target="_blank" href="/upload/uf/b42/b4200f9cedbbd53b14bd1a391ff4a70a.pdf">Информация о размере собственных средств управляющей компании на 28.02.2018 г.</a>
+              <span> (118 Кб, pdf
+                , опубликовано 30.03.2018г. 17:09
+               )</span>
+            </p>
+            <p>
+              <a target="_blank" href="/upload/uf/bd0/bd0741a2db272478511c26351adcfbc8.pdf">Информация о размере собственных средств управляющей компании на 31.01.2018 г.</a>
+              <span> (129 Кб, pdf
+                , опубликовано 28.02.2018г. 15:14
+               )</span>
+            </p>
+            <p>
+              <a target="_blank" href="/upload/uf/c36/c36e1c82bd92739e8953c6ea9d2c670c.pdf">Информация о размере собственных средств управляющей компании на 31.12.2017 г.</a>
+              <span> (129 Кб, pdf
+                , опубликовано 31.01.2018г. 12:45
+               )</span>
+            </p>
+            <p>
+              <a target="_blank" href="/upload/uf/bb9/bb9ff8882a954b5221ea6f7052bead62.pdf">Информация о размере собственных средств управляющей компании на 30.11.2017 г.</a>
+              <span> (129 Кб, pdf
+                , опубликовано 28.12.2017г. 17:11
+               )</span>
+            </p>
+            <p>
+              <a target="_blank" href="/upload/uf/353/353b377d6ae9be50ea9a25e455a1fee7.pdf">Информация о размере собственных средств управляющей компании на 31.10.2017 г.</a>
+              <span> (129 Кб, pdf
+                , опубликовано 30.11.2017г. 12:56
+               )</span>
+            </p>
+            <p>
+              <a target="_blank" href="/upload/uf/f6b/f6b5fa363f8ae481274e4aaa1f54856e.pdf">Информация о размере собственных средств управляющей компании на 30.09.2017 г.</a>
+              <span> (129 Кб, pdf
+                , опубликовано 30.10.2017г. 16:41
+               )</span>
+            </p>
+            <p>
+              <a target="_blank" href="/upload/uf/78c/78cd75aacc77c3117f2514aa459e011f.pdf">Информация о размере собственных средств управляющей компании на 31.08.2017 г.</a>
+              <span> (118 Кб, pdf
+                , опубликовано 29.09.2017г. 16:22
+               )</span>
+            </p>
+            <p>
+              <a target="_blank" href="/upload/uf/f97/f9735eade5e2afd62b7b219fdc99bde7.pdf">Информация о размере собственных средств управляющей компании на 31.07.2017 г.</a>
+              <span> (119 Кб, pdf
+                , опубликовано 31.08.2017г. 17:24
+               )</span>
+            </p>
+            <p>
+              <a target="_blank" href="/upload/uf/5f2/5f2d093f0caf97f443f0d3ef3b895b73.pdf">Информация о размере собственных средств управляющей компании на 30.06.2017 г.</a>
+              <span> (129 Кб, pdf
+                , опубликовано 31.07.2017г. 10:40
+               )</span>
+            </p>
+            <p>
+              <a target="_blank" href="/upload/uf/eaa/eaa85f785abecb9b226d913fec4ee0bb.pdf">Информацию о размере собственных средств управляющей компании на 31.05.2017 г.</a>
+              <span> (113 Кб, pdf
+                , опубликовано 29.06.2017г. 17:42
+               )</span>
+            </p>
+            <p>
+              <a target="_blank" href="/upload/uf/09c/09cab297577042ad25cf4a5684aabe0e.pdf">Информация о размере собственных средств управляющей компании на 30.04.2017 г.</a>
+              <span> (224 Кб, pdf
+                , опубликовано 30.05.2017г. 17:19
+               )</span>
+            </p>
+            <p>
+              <a target="_blank" href="/upload/uf/2f6/2f6a6a8e2fbfdbef98479f4783d24dae.pdf">Информация о размере собственных средств управляющей компании на 31.03.2017 г.</a>
+              <span> (127 Кб, pdf
+                , опубликовано 28.04.2017г. 13:07
+               )</span>
+            </p>
+            <p>
+              <a target="_blank" href="/upload/uf/9d4/9d44457f72dcd2f23730783c83c38928.pdf">Информация о размере собственных средств управляющей компании на 28.02.2017 г.</a>
+              <span> (174 Кб, pdf
+                , опубликовано 30.03.2017г. 10:23
+               )</span>
+            </p>
+            <p>
+              <a target="_blank" href="/upload/uf/6e6/6e610eb7b597d3a06de3a5a7a370726e.pdf">Информация о размере собственных средств управляющей компании на 31.01.2017 г.</a>
+              <span> (140 Кб, pdf
+                , опубликовано 28.02.2017г. 16:32
+               )</span>
+            </p>
+            <p>
+              <a target="_blank" href="/upload/uf/d9f/d9f996002ff23d0f6932bf98ab2b63f6.pdf">Информация о размере собственных средств управляющей компании на 31.12.2016 г</a>
+              <span> (251 Кб, pdf
+                , опубликовано 30.01.2017г. 14:52
+               )</span>
+            </p>
+            <p>
+              <a target="_blank" href="/upload/uf/f9c/f9ca5b66adb2eaf91a735f4b2c59d92c.pdf">Информация о размере собственных средств управляющей компании на 30.11.2016 г.</a>
+              <span> (126 Кб, pdf
+                , опубликовано 28.12.2016г. 14:15
+               )</span>
+            </p>
+            <p>
+              <a target="_blank" href="/upload/uf/a4d/a4d325396473f0b93814c23785a8002e.pdf">Информация о размере собственных средств управляющей компании на 31.10.2016 г.</a>
+              <span> (204 Кб, pdf
+                , опубликовано 29.11.2016г. 16:07
+               )</span>
+            </p>
+            <p>
+              <a target="_blank" href="/upload/uf/d06/d063bb4cc66c71b2fa9902d47b1eb139.pdf">Информация о размере собственных средств управляющей компании на 30.09.2016 г.</a>
+              <span> (96 Кб, pdf
+                , опубликовано 28.10.2016г. 18:23
+               )</span>
+            </p>
+            <p>
+              <a target="_blank" href="/upload/uf/c26/c2634f9d005031449a730055494b6862.pdf">Информация о размере собственных средств управляющей компании на 31.08.2016</a>
+              <span> (118 Кб, pdf
+                , опубликовано 26.09.2016г. 12:40
+               )</span>
+            </p>
+            <p>
+              <a target="_blank" href="/upload/uf/73b/73b4dda0a50df162a5e34790b40c8023.pdf">Информация о размере собственных средств управляющей компании на 31.07.2016</a>
+              <span> (118 Кб, pdf
+                , опубликовано 29.08.2016г. 16:15
+               )</span>
+            </p>
+            <p>
+              <a target="_blank" href="/upload/uf/ecd/ecd649fc4a2a734bdfff6793f41eeaea.pdf">Информация о размере собственных средств управляющей компании на 30.06.2016</a>
+              <span> (117 Кб, pdf
+                , опубликовано 29.07.2016г. 16:48
+               )</span>
+            </p>
+            <p>
+              <a target="_blank" href="/upload/uf/195/1956d19dc11eafe5c9c013af48074be6.pdf">Информация о размере собственных средств управляющей компании на 31.05.2016</a>
+              <span> (119 Кб, pdf
+                , опубликовано 29.06.2016г. 17:43
+               )</span>
+            </p>
+            <p>
+              <a target="_blank" href="/upload/uf/476/47631a35e88fb912d9d94261e913077c.pdf">Информация о размере собственных средств управляющей компании на 30.04.2016</a>
+              <span> (120 Кб, pdf
+                , опубликовано 30.05.2016г. 12:34
+               )</span>
+            </p>
+            <p>
+              <a target="_blank" href="/upload/uf/cb9/cb9f358b5e87781eb4c0e93b2d219f68.pdf">Информация о размере собственных средств управляющей компании на 31.03.2016 г.</a>
+              <span> (120 Кб, pdf
+                , опубликовано 28.04.2016г. 12:31
+               )</span>
+            </p>
+            <p>
+              <a target="_blank" href="/upload/uf/cd6/cd6da032eca4840b6b54088cbe4dad57.pdf">Информация о размере собственных средств управляющей компании на 29.02.2016 г.</a>
+              <span> (86 Кб, pdf
+                , опубликовано 17.03.2016г. 9:37
+               )</span>
+            </p>
+            <p>
+              <a target="_blank" href="/upload/uf/921/921d38a3084a3cac4b6316d780b7bb65.pdf">Информация о размере собственных средств управляющей компании на 31.01.2016 г.</a>
+              <span> (86 Кб, pdf
+                , опубликовано 26.02.2016г. 9:40
+               )</span>
+            </p>
+            <p>
+              <a target="_blank" href="/upload/uf/bad/bad9480bf475e8d5d1d27fa53bfa33b5.pdf">Информация о размере собственных средств управляющей компании на 31.12.2015 г.</a>
+              <span> (87 Кб, pdf
+                , опубликовано 29.01.2016г. 19:55
+               )</span>
+            </p>
+            <p>
+              <a target="_blank" href="/upload/uf/b27/b272bc7b82b57efe2bb31db168895130.pdf">Информация о размере собственных средств управляющей компании на 30.11.2015 г.</a>
+              <span> (86 Кб, pdf
+                , опубликовано 31.12.2015г. 12:13
+               )</span>
+            </p>
+            <p>
+              <a target="_blank" href="/upload/uf/b4a/b4afd64e38ebeb8fc2891c0bb7e87b6a.pdf">Информация о размере собственных средств управляющей компании на 31.10.2015 г.</a>
+              <span> (86 Кб, pdf
+                , опубликовано 20.11.2015г. 15:34
+               )</span>
+            </p>
+            <p>
+              <a target="_blank" href="/upload/uf/861/86165916e97942b7948fc4da3344719e.pdf">Информация о размере собственных средств управляющей компании на 30.09.2015 г.</a>
+              <span> (117 Кб, pdf
+                , опубликовано 30.10.2015г. 16:03
+               )</span>
+            </p>
+            <p>
+              <a target="_blank" href="/upload/uf/37d/37dabea573b642ed8df514a016faf6fe.pdf">Информация о размере собственных средств управляющей компании на 31.08.2015 г.</a>
+              <span> (86 Кб, pdf
+                , опубликовано 30.09.2015г. 10:18
+               )</span>
+            </p>
+            <p>
+              <a target="_blank" href="/upload/uf/52e/52ef061e719237eba7589b4707d9460f.pdf">Информация о размере собственных средств управляющей компании на 31.07.2015 г.</a>
+              <span> (86 Кб, pdf
+                , опубликовано 31.08.2015г. 13:44
+               )</span>
+            </p>
+            <p>
+              <a target="_blank" href="/upload/uf/c17/c1790fff3037d8a4d91e9344935a2402.pdf">Информация о размере собственных средств управляющей компании на 30.06.2015 г.</a>
+              <span> (90 Кб, pdf
+                , опубликовано 31.07.2015г. 9:48
+               )</span>
+            </p>
+            <p>
+              <a target="_blank" href="/upload/uf/942/942ea64775c175966f19385881846ce0.pdf">Информация о размере собственных средств управляющей компании на 31.05.2015 г.</a>
+              <span> (86 Кб, pdf
+                , опубликовано 30.06.2015г. 13:24
+               )</span>
+            </p>
+            <p>
+              <a target="_blank" href="/upload/753/75386c672d7b57507d4a863593fa0221.pdf">Информация о размере собственных средств управляющей компании на 30.04.2015 г.</a>
+              <span> (98 Кб, pdf
+                , опубликовано 29.05.2015г. 16:25
+               )</span>
+            </p>
+            <p>
+              <a target="_blank" href="/upload/3f7/3f757fa5a8beb8c5b48cb7dddf4e2d91.pdf">Информация о размере собственных средств управляющей компании на 31.03.2015 г.</a>
+              <span> (98 Кб, pdf
+                , опубликовано 30.04.2015г. 11:42
+               )</span>
+            </p>
+            <p>
+              <a target="_blank" href="/upload/315/3155d395b497b9f4c111f77cc657f38f.pdf">Информация о размере собственных средств управляющей компании на 28.02.2015 г.</a>
+              <span> (97 Кб, pdf
+                , опубликовано 31.03.2015г. 8:47
+               )</span>
+            </p>
+            <p>
+              <a target="_blank" href="/upload/b51/b51933e9c754221de32f44510f4f824e.pdf">Информация о размере собственных средств управляющей компании на 31.01.2015 г.</a>
+              <span> (98 Кб, pdf
+                , опубликовано 27.02.2015г. 9:06
+               )</span>
+            </p>
+            <p>
+              <a target="_blank" href="/upload/f90/f90aeaae0e014d01b3db4f2e04bb90a1.pdf">Информация о размере собственных средств управляющей компании на 31.12.2014 г.</a>
+              <span> (98 Кб, pdf
+                , опубликовано 30.01.2015г. 10:31
+               )</span>
+            </p>
+            <p>
+              <a target="_blank" href="/upload/7c9/7c92849366244e68a1b92992fb409ce5.pdf">Информация о размере собственных средств управляющей компании на 30.11.2014 г.</a>
+              <span> (98 Кб, pdf
+                , опубликовано 26.12.2014г. 10:04
+               )</span>
+            </p>
+            <p>
+              <a target="_blank" href="/upload/1f1/1f19707ffca43f5c302915732a048ce3.pdf">Информация о размере собственных средств управляющей компании на 31.10.2014 г.</a>
+              <span> (86 Кб, pdf
+                , опубликовано 28.11.2014г. 10:05
+               )</span>
+            </p>
+            <p>
+              <a target="_blank" href="/upload/9fb/9fbf62473c2fb69bed6d994206a8634b.pdf">Информация о размере собственных средств управляющей компании на 30.09.2014 г.</a>
+              <span> (98 Кб, pdf
+                , опубликовано 31.10.2014г. 10:05
+               )</span>
+            </p>
+            <p>
+              <a target="_blank" href="/upload/81a/81a5a6cf7245b7c80c5a8dac7c21c795.pdf">Информация о размере собственных средств управляющей компании на 31.08.2014 г.</a>
+              <span> (143 Кб, pdf
+                , опубликовано 22.09.2014г. 9:53
+               )</span>
+            </p>
+            <p>
+              <a target="_blank" href="/upload/fe2/fe2f735fe72e3228787e17e9a95a216d.pdf">Информация о размере собственных средств управляющей компании на 31.07.2014 г.</a>
+              <span> (143 Кб, pdf
+                , опубликовано 27.08.2014г. 9:13
+               )</span>
+            </p>
+            <p>
+              <a target="_blank" href="/upload/676/67688f31e84a366b3fc6205e7843a9b2.pdf">Информация о размере собственных средств управляющей компании на 30.06.2014 г.</a>
+              <span> (143 Кб, pdf
+                , опубликовано 30.07.2014г. 8:58
+               )</span>
+            </p>
+            <p>
+              <a target="_blank" href="/upload/fe5/fe52a271aa78e39a4da026e4b38a69f9.pdf">Информация о размере собственных средств управляющей компании на 31.05.2014 г.</a>
+              <span> (98 Кб, pdf
+                , опубликовано 30.06.2014г. 9:47
+               )</span>
+            </p>
+            <p>
+              <a target="_blank" href="/upload/651/6512a196b933818c5e2a3031a20f9548.pdf">Информация о размере собственных средств управляющей компании на 30.04.2014 г.</a>
+              <span> (98 Кб, pdf
+                , опубликовано 28.05.2014г. 14:23
+               )</span>
+            </p>
+            <p>
+              <a target="_blank" href="/upload/23c/23ca928c2d3cea30e5d2b2dae5ebd45c.pdf">Информация о размере собственных средств управляющей компании на 31.03.2014 г.</a>
+              <span> (98 Кб, pdf
+                , опубликовано 28.04.2014г. 11:26
+               )</span>
+            </p>
+            <p>
+              <a target="_blank" href="/upload/45b/45b839b19df9fe42a269e4ccc6212e1c.pdf">Информация о размере собственных средств управляющей компании на 28.02.2014 г.</a>
+              <span> (98 Кб, pdf
+                , опубликовано 28.03.2014г. 9:10
+               )</span>
+            </p>
+            <p>
+              <a target="_blank" href="/upload/488/488062b42f9e658f50011e7fdd69fcee.pdf">Информация о размере собственных средств управляющей компании на 31.01.2014 г.</a>
+              <span> (98 Кб, pdf
+                , опубликовано 27.02.2014г. 9:51
+               )</span>
+            </p>
+            <p>
+              <a target="_blank" href="/upload/a3a/a3ad9c18e92433dfd928c5ddec347d34.pdf">Информация о размере собственных средств управляющей компании на 31.01.2014 г.</a>
+              <span> (98 Кб, pdf
+                , опубликовано 27.02.2014г. 9:50
+               )</span>
+            </p>
+            <p>
+              <a target="_blank" href="/upload/4a8/4a8db7620acb80bba80000f164a6479f.pdf">Информация о размере собственных средств управляющей компании на 31.12.2013 г.</a>
+              <span> (98 Кб, pdf
+                , опубликовано 30.01.2014г. 14:01
+               )</span>
+            </p>
+            <p>
+              <a target="_blank" href="/upload/dc3/dc344af13dbd4d562059d751098e00b4.pdf">Информация о размере собственных средств управляющей компании на 31.12.2013 г.</a>
+              <span> (98 Кб, pdf
+                , опубликовано 30.01.2014г. 13:59
+               )</span>
+            </p>
+            <p>
+              <a target="_blank" href="/upload/c4a/c4a78215f86a61c05f793aca791fdb5d.pdf">Информация о размере собственных средств управляющей компании на 30.11.2013</a>
+              <span> (126 Кб, pdf
+                , опубликовано 30.12.2013г. 14:45
+               )</span>
+            </p>
+            <p>
+              <a target="_blank" href="/upload/26c/26cc3f522c6714af469228ff297bc4d0.pdf">Информация о размере собственных средств управляющей компании на 31.10.2013 г.</a>
+              <span> (126 Кб, pdf
+                , опубликовано 29.11.2013г. 12:51
+               )</span>
+            </p>
+            <p>
+              <a target="_blank" href="/upload/0f2/0f263cd9f68300ca94afba0d5a96f09e.pdf">Информация о размере собственных средств управляющей компании на 30.09.2013 г.</a>
+              <span> (98 Кб, pdf
+                , опубликовано 31.10.2013г. 14:35
+               )</span>
+            </p>
+            <p>
+              <a target="_blank" href="/upload/f56/f564ba09daa15866424ac30a658fc51b.pdf">Информация о размере собственных средств управляющей компании на 31.08.2013</a>
+              <span> (126 Кб, pdf
+                , опубликовано 27.09.2013г. 11:26
+               )</span>
+            </p>
+            <p>
+              <a target="_blank" href="/upload/7e8/7e80c195c00fad62a1144a091af226fe.pdf">Информация о размере собственных средств управляющей компании на 31.07.2013</a>
+              <span> (115 Кб, pdf
+                , опубликовано 30.08.2013г. 14:24
+               )</span>
+            </p>
+            <p>
+              <a target="_blank" href="/upload/2ab/2ab6da749e8d863aa85d38baf0510750.pdf">Информация о размере собственных средств управляющей компании на 30.06.2013</a>
+              <span> (126 Кб, pdf
+                , опубликовано 30.07.2013г. 17:26
+               )</span>
+            </p>
+            <p>
+              <a target="_blank" href="/upload/567/56706c94ae06d860c3c9c3c86de95a6b.pdf">Информация о размере собственных средств управляющей компании на 31.05.2013</a>
+              <span> (126 Кб, pdf
+                , опубликовано 01.07.2013г. 15:22
+               )</span>
+            </p>
+            <p>
+              <a target="_blank" href="/upload/b71/b71b561782a76a16447c8bbc3ac509c8.pdf">Информация о размере собственных средств управляющей компании на 30.04.2013.</a>
+              <span> (126 Кб, pdf
+                , опубликовано 31.05.2013г. 16:27
+               )</span>
+            </p>
+            <p>
+              <a target="_blank" href="/upload/1cc/1cc23712dd3c80370892c285ae2aa25d.pdf">Информация о размере собственных средств управляющей компании на 30.04.2013.</a>
+              <span> (126 Кб, pdf
+                , опубликовано 31.05.2013г. 0:00
+               )</span>
+            </p>
+            <p>
+              <a target="_blank" href="/upload/35d/35d04d76e228bd6861273045321bae15.pdf">Информация о размере собственных средств управляющей компании на 30.04.2013.</a>
+              <span> (126 Кб, pdf
+                , опубликовано 31.05.2013г. 0:00
+               )</span>
+            </p>
+            <p>
+              <a target="_blank" href="/upload/4ab/4aba6d7c251286bef94abf15e815c4c3.pdf">Информация о размере собственных средств управляющей компании на 31.01.2010 г. </a>
+              <span> (115 Кб, pdf
+                , опубликовано 07.05.2013г. 12:55
+               )</span>
+            </p>
+            <p>
+              <a target="_blank" href="/upload/5f0/5f0fbd4f7211ebd3914121daf36f294a.pdf">Информация о размере собственных средств управляющей компании на 31.03.2013 г.</a>
+              <span> (126 Кб, pdf
+                , опубликовано 30.04.2013г. 11:47
+               )</span>
+            </p>
+            <p>
+              <a target="_blank" href="/upload/790/790386c7ee8fbd442647d4e01a820653.pdf">Информация о размере собственных средств управляющей компании на 28.02.2013 г.</a>
+              <span> (126 Кб, pdf
+                , опубликовано 01.04.2013г. 15:02
+               )</span>
+            </p>
+            <p>
+              <a target="_blank" href="/upload/e2e/e2e53437066cd322f5eb3366eac6f4c4.pdf">Информация о размере собственных средств управляющей компании на 31.12.2012 г.</a>
+              <span> (126 Кб, pdf
+                , опубликовано 28.02.2013г. 15:05
+               )</span>
+            </p>
+            <p>
+              <a target="_blank" href="/upload/701/70137a9ceaabb40ce23aefdc82b32fb6.pdf">Информация о размере собственных средств управляющей компании на 31.01.2013 г.</a>
+              <span> (126 Кб, pdf
+                , опубликовано 28.02.2013г. 14:34
+               )</span>
+            </p>
+            <p>
+              <a target="_blank" href="/upload/c2a/c2ac7e175a43cd38ecd6b196ef09de2a.pdf">Информация о размере собственных средств управляющей компании на 30.11.2012 г.</a>
+              <span> (126 Кб, pdf
+                , опубликовано 29.12.2012г. 15:31
+               )</span>
+            </p>
+            <p>
+              <a target="_blank" href="/upload/ab3/ab3313383a7dfc83963c7291d57dca0b.pdf">Информация о размере собственных средств управляющей компании на 31.10.2012 г.</a>
+              <span> (126 Кб, pdf
+                , опубликовано 30.11.2012г. 13:48
+               )</span>
+            </p>
+            <p>
+              <a target="_blank" href="/upload/edc/edc9dcf2eb91920e6486b4a06707ad03.pdf">Информация о размере собственных средств управляющей компании на 30.09.2012</a>
+              <span> (126 Кб, pdf
+                , опубликовано 31.10.2012г. 16:53
+               )</span>
+            </p>
+            <p>
+              <a target="_blank" href="/upload/175/175393bfe8f1ce025a4fb0adda361dab.pdf">Информация о размере собственных средств управляющей компании на 31.08.2012</a>
+              <span> (126 Кб, pdf
+                , опубликовано 28.09.2012г. 15:32
+               )</span>
+            </p>
+            <p>
+              <a target="_blank" href="/upload/25f/25fb902170e45bb19a56b9edfbae9146.pdf">Информация о размере собственных средств управляющей компании на 31.07.2012</a>
+              <span> (126 Кб, pdf
+                , опубликовано 31.08.2012г. 17:01
+               )</span>
+            </p>
+            <p>
+              <a target="_blank" href="/upload/882/882ba43b76ce5f5779124be1954eaf1b.pdf">Информация о размере собственных средств управляющей компании на 30.06.2012 г.</a>
+              <span> (126 Кб, pdf
+                , опубликовано 31.07.2012г. 15:45
+               )</span>
+            </p>
+            <p>
+              <a target="_blank" href="/upload/10f/10f88a6748a2fa7df8903fd123809a8b.pdf">Информация о размере собственных средств управляющей компании на 31.05.2012 г.</a>
+              <span> (126 Кб, pdf
+                , опубликовано 29.06.2012г. 11:48
+               )</span>
+            </p>
+            <p>
+              <a target="_blank" href="/upload/b69/b69b43ae151b16175bb38c7d17ee5e0d.pdf">Информация о размере собственных средств управляющей компании на 30.04.2012 г.</a>
+              <span> (90 Кб, pdf
+                , опубликовано 31.05.2012г. 15:25
+               )</span>
+            </p>
+            <p>
+              <a target="_blank" href="/upload/68e/68e11edbce2c0a779c9218d6c7911445.pdf">Информация о размере собственных средств управляющей компании на 31.03.2012 г.</a>
+              <span> (137 Кб, pdf
+                , опубликовано 28.04.2012г. 17:53
+               )</span>
+            </p>
+            <p>
+              <a target="_blank" href="/upload/a9d/a9d409cdf43dddeb6ab940aac3844676.pdf">Информация о размере собственных средств управляющей компании на 29.02.2012 г.</a>
+              <span> (90 Кб, pdf
+                , опубликовано 03.04.2012г. 5:42
+               )</span>
+            </p>
+            <p>
+              <a target="_blank" href="/upload/e9b/e9b2a2f1528947ad595f4b7557b542a2.pdf">Информация о размере собственных средств управляющей компании на 31.01.2012 г.</a>
+              <span> (93 Кб, pdf
+                , опубликовано 29.02.2012г. 17:35
+               )</span>
+            </p>
+            <p>
+              <a target="_blank" href="/upload/620/6200f49af9ddd4408197f2621f1da3b0.pdf">Информация о размере собственных средств управляющей компании на 31.12.2011 г.</a>
+              <span> (241 Кб, pdf
+                , опубликовано 31.01.2012г. 17:56
+               )</span>
+            </p>
+            <p>
+              <a target="_blank" href="/upload/b23/b23207b988bb4567d3e4e1e23cb637a1.pdf">Информация о размере собственных средств управляющей компании на 30.11.2011 г. </a>
+              <span> (280 Кб, pdf
+                , опубликовано 28.12.2011г. 20:05
+               )</span>
+            </p>
+            <p>
+              <a target="_blank" href="/upload/828/8282ab31f439033b4ac96d97def3213f.pdf">Информация о размере собственных средств управляющей компании на 31.10.2011 г.</a>
+              <span> (283 Кб, pdf
+                , опубликовано 30.11.2011г. 18:55
+               )</span>
+            </p>
+            <p>
+              <a target="_blank" href="/upload/ee9/ee9e0e9a5f9acccced86513bab02b219.pdf">Информация о размере собственных средств управляющей компании на 30.09.2011 г. </a>
+              <span> (204 Кб, pdf
+                , опубликовано 31.10.2011г. 18:14
+               )</span>
+            </p>
+            <p>
+              <a target="_blank" href="/upload/bbb/bbb97cc9361acd71781b4db16554a1ab.pdf">Информация о размере собственных средств управляющей компании на 31.08.2011 г.</a>
+              <span> (272 Кб, pdf
+                , опубликовано 29.09.2011г. 15:07
+               )</span>
+            </p>
+            <p>
+              <a target="_blank" href="/upload/1fe/1fe66f2f687e9be2eebf774b4b700e59.pdf">Информация о размере собственных средств управляющей компании на 31.07.2011 г.</a>
+              <span> (133 Кб, pdf
+                , опубликовано 31.08.2011г. 16:03
+               )</span>
+            </p>
+            <p>
+              <a target="_blank" href="/upload/1a2/1a21f5896f90fed0080898f25cde5e21.pdf">Информация о размере собственных средств управляющей компании на 30.06.2011 г. </a>
+              <span> (133 Кб, pdf
+                , опубликовано 01.08.2011г. 13:06
+               )</span>
+            </p>
+            <p>
+              <a target="_blank" href="/upload/dba/dba1bf1638d3871b62746a3f17f4469d.pdf">Информация о размере собственных средств управляющей компании на 31.05.2011 г.</a>
+              <span> (98 Кб, pdf
+                , опубликовано 29.06.2011г. 21:36
+               )</span>
+            </p>
+            <p>
+              <a target="_blank" href="/upload/fde/fdea33922eae0b0958591fb2bdab7b55.pdf">Информация о размере собственных средств управляющей компании на 30.04.2011 г.</a>
+              <span> (133 Кб, pdf
+                , опубликовано 27.05.2011г. 17:28
+               )</span>
+            </p>
+            <p>
+              <a target="_blank" href="/upload/89f/89f5f188f14e6c268bb5820ceb802585.pdf">Информация о размере собственных средств управляющей компании на 31.03.2011 г.</a>
+              <span> (74 Кб, pdf
+                , опубликовано 29.04.2011г. 10:45
+               )</span>
+            </p>
+            <p>
+              <a target="_blank" href="/upload/bbb/bbb35e7be448d007505202c4e44b41c0.pdf">Информация о размере собственных средств управляющей компании на 28.02.2011 г.</a>
+              <span> (74 Кб, pdf
+                , опубликовано 31.03.2011г. 16:16
+               )</span>
+            </p>
+            <p>
+              <a target="_blank" href="/upload/008/008808f1e8cbad353971305152621c18.pdf">Информация о размере собственных средств управляющей компании на 31.01.2011 г.</a>
+              <span> (74 Кб, pdf
+                , опубликовано 28.02.2011г. 15:49
+               )</span>
+            </p>
+            <p>
+              <a target="_blank" href="/upload/50d/50daa929a1b22bb232f698507f1f6181.pdf">Информация о размере собственных средств управляющей компании на 31.12.2010 г.</a>
+              <span> (107 Кб, pdf
+                , опубликовано 24.01.2011г. 17:00
+               )</span>
+            </p>
+            <p>
+              <a target="_blank" href="/upload/796/796f0c2441aea8f197714ce89b3a2c4b.pdf">Информация о размере собственных средств управляющей компании на 30.11.2010 г.</a>
+              <span> (120 Кб, pdf
+                , опубликовано 23.12.2010г. 13:41
+               )</span>
+            </p>
+            <p>
+              <a target="_blank" href="/upload/31e/31e948bbd7cd51d566c47f80e02a5e7c.pdf">Информация о размере собственных средств управляющей компании на 31.10.2010 г.</a>
+              <span> (107 Кб, pdf
+                , опубликовано 29.11.2010г. 14:52
+               )</span>
+            </p>
+            <p>
+              <a target="_blank" href="/upload/856/856034f4774dc13614966976a7ce0e4c.pdf">Информация о размере собственных средств управляющей компании на 30.09.2010 г.</a>
+              <span> (120 Кб, pdf
+                , опубликовано 13.10.2010г. 18:11
+               )</span>
+            </p>
+            <p>
+              <a target="_blank" href="/upload/d70/d707f95e0ceeb719a2c6f0d201da2b8d.pdf">Информация о размере собственных средств управляющей компании на 31.08.2010 г.</a>
+              <span> (116 Кб, pdf
+                , опубликовано 29.09.2010г. 13:43
+               )</span>
+            </p>
+            <p>
+              <a target="_blank" href="/upload/9f2/9f2640888c16a52abe1b3c5bf2d982e2.pdf">Информация о размере собственных средств управляющей компании на 31.07.2010 г.</a>
+              <span> (70 Кб, pdf
+                , опубликовано 26.08.2010г. 15:48
+               )</span>
+            </p>
+            <p>
+              <a target="_blank" href="/upload/ca9/ca9c66c29466c867e56a4f6b1ceec8d5.pdf">Информация о размере собственных средств управляющей компании на 30.06.2010 г.</a>
+              <span> (70 Кб, pdf
+                , опубликовано 14.07.2010г. 15:16
+               )</span>
+            </p>
+            <p>
+              <a target="_blank" href="/upload/a0e/a0e4e1bec11c3cc879531159d0272a83.pdf">Информация о размере собственных средств управляющей компании на 31.05.2010 г. </a>
+              <span> (70 Кб, pdf
+                , опубликовано 29.06.2010г. 13:33
+               )</span>
+            </p>
+            <p>
+              <a target="_blank" href="/upload/3a8/3a88b487209397a9f21c80bbae1bb8ba.pdf">Информация о размере собственных средств управляющей компании на 31.12.2009 г.</a>
+              <span> (115 Кб, pdf
+                , опубликовано 05.05.2010г. 12:55
+               )</span>
+            </p>
+            <p>
+              <a target="_blank" href="/upload/fdb/fdb3658f56c93e8b3b9c34719bce85b7.pdf">Информация о размере собственных средств управляющей компании на 30.06.2009 г.</a>
+              <span> (115 Кб, pdf
+                , опубликовано 05.05.2010г. 12:54
+               )</span>
+            </p>
+            <p>
+              <a target="_blank" href="/upload/44c/44c0bec389e01fb3ce52625f57653dfd.pdf">Информация о размере собственных средств управляющей компании на 30.09.2009 г.</a>
+              <span> (115 Кб, pdf
+                , опубликовано 05.05.2010г. 12:54
+               )</span>
+            </p>
+            <p>
+              <a target="_blank" href="/upload/e11/e11fc7f5e135ac14d64a5b6a048f128b.pdf">Информация о размере собственных средств управляющей компании на 30.11.2009 г.</a>
+              <span> (116 Кб, pdf
+                , опубликовано 05.05.2010г. 12:54
+               )</span>
+            </p>
+            <p>
+              <a target="_blank" href="/upload/96a/96adb020610d9197c449da082c4ee27b.pdf">Информация о размере собственных средств управляющей компании на 31.03.2009 г.</a>
+              <span> (116 Кб, pdf
+                , опубликовано 05.05.2010г. 12:54
+               )</span>
+            </p>
+            <p>
+              <a target="_blank" href="/upload/f42/f42109082c933a5e08fdb1207225c0ca.pdf">Информация о размере собственных средств управляющей компании на 31.07.2009 г.</a>
+              <span> (115 Кб, pdf
+                , опубликовано 05.05.2010г. 12:54
+               )</span>
+            </p>
+            <p>
+              <a target="_blank" href="/upload/2b2/2b208b9a5f0b4c4cf825780bf5d16f82.pdf">Информация о размере собственных средств управляющей компании на 31.08.2009 г.</a>
+              <span> (116 Кб, pdf
+                , опубликовано 05.05.2010г. 12:54
+               )</span>
+            </p>
+            <p>
+              <a target="_blank" href="/upload/2e5/2e557f2980ee9a3df8cfd16845bc7c94.pdf">Информация о размере собственных средств управляющей компании на 31.10.2009 г.</a>
+              <span> (116 Кб, pdf
+                , опубликовано 05.05.2010г. 12:54
+               )</span>
+            </p>
+            <p>
+              <a target="_blank" href="/upload/a93/a9357029f92fb47d4d919cc3e8aef7a5.pdf">Информация о размере собственных средств управляющей компании на 31.12.2008 г.</a>
+              <span> (116 Кб, pdf
+                , опубликовано 05.05.2010г. 12:54
+               )</span>
+            </p>
+            <p>
+              <a target="_blank" href="/upload/6f1/6f1f495e9e4e8d5f7a30e73ed020cb14.pdf">Информация о размере собственных средств управляющей компании на 28.02.2010 г.</a>
+              <span> (115 Кб, pdf
+                , опубликовано 05.05.2010г. 9:20
+               )</span>
+            </p>
+            <p>
+              <a target="_blank" href="/upload/8a8/8a8f6e7ec001f301f009054a708fef77.pdf">Информация о размере собственных средств управляющей компании на 30.04.2010 г. </a>
+              <span> (70 Кб, pdf
+                , опубликовано 28.04.2010г. 12:56
+               )</span>
+            </p>
+            <p>
+              <a target="_blank" href="/upload/29b/29b18e6b3cf404c4d0c853d869bbfda8.pdf">Информация о размере собственных средств управляющей компании на 31.03.2010 г.</a>
+              <span> (71 Кб, pdf
+                , опубликовано 28.04.2010г. 12:56
+               )</span>
+            </p> 
+              </div>
+      </div>
+      </li>
+      
+    <li>
+      <a href="#" class="question">
+				<span class="nameQuestion">Критерии выявления иностранных налогоплательщиков</span>
+				<span class="iconOpen"></span>
+			</a>
+      <div class="openBlockInfo" style="display: none;">
+				<div class="textBlock">
+    
+            <p>
+              <a target="_blank" href="/upload/uf/4df/4df3fc6e840329fe0eff7787d1feda89.pdf">Правила определения налогового резиденства в целях исполнения требований CRS</a>
+              <span> (1944 Кб, pdf
+                , опубликовано 14.05.2019г. 17:55
+               )</span>
+            </p>
+            <p>
+              <a target="_blank" href="/upload/uf/7ab/7abe91e10dae4c5aa3bd373af52f59a6.pdf">Форма самосертификации юридического лица в целях CRS</a>
+              <span> (349 Кб, pdf
+                , опубликовано 14.05.2019г. 17:46
+               )</span>
+            </p>
+            <p>
+              <a target="_blank" href="/upload/uf/b05/b0531a40f01c15b7a7e5b745e0d5a0d8.pdf">Форма самосертификации физического лица в целях CRS</a>
+              <span> (344 Кб, pdf
+                , опубликовано 14.05.2019г. 17:04
+               )</span>
+            </p>
+            <p>
+              <a target="_blank" href="/upload/460/4609c77ff9cdf52308e14f5205d37ec5.pdf">Критерии отнесения клиентов к категории клиента - иностранного налогоплательщика и способы получения от них необходимой информации</a>
+              <span> (144 Кб, pdf
+                , опубликовано 04.07.2014г. 10:44
+               )</span>
+            </p> 
+              </div>
+      </div>
+      </li>
+      
+    <li>
+      <a href="#" class="question">
+				<span class="nameQuestion">Ежегодная финансовая отчетность по МСФО</span>
+				<span class="iconOpen"></span>
+			</a>
+      <div class="openBlockInfo" style="display: none;">
+				<div class="textBlock">
+    
+            <p>
+              <a target="_blank" href="/upload/uf/30e/30ec49218df1e6908f1537dedb8796b1.pdf">Финансовая отчетность, подготовленная в соответствии с МСФО за 2022 год и аудиторское заключение </a>
+              <span> (4076 Кб, pdf
+                , опубликовано 27.04.2023г. 15:45
+               )</span>
+            </p>
+            <p>
+              <a target="_blank" href="/upload/uf/a5a/a5adb735f7abe8419dc65a3ace68f73d.pdf">Финансовая отчетность, подготовленная в соответствии с МСФО за 2021 год и аудиторское заключение </a>
+              <span> (3867 Кб, pdf
+                , опубликовано 18.04.2022г. 9:39
+               )</span>
+            </p>
+            <p>
+              <a target="_blank" href="/upload/uf/0d9/0d9cdf2d2dae182a0e2ede2755e99bab.pdf">Финансовая отчетность, подготовленная в соответствии с МСФО за 2020 год и аудиторское заключение </a>
+              <span> (13888 Кб, pdf
+                , опубликовано 29.04.2021г. 9:07
+               )</span>
+            </p>
+            <p>
+              <a target="_blank" href="/upload/uf/f58/f58bb553f3ca59182e8420a1a4e2edd6.pdf">Финансовая отчетность, подготовленная в соответствии с МСФО за 2019 год и аудиторское заключение </a>
+              <span> (13591 Кб, pdf
+                , опубликовано 29.04.2020г. 16:24
+               )</span>
+            </p>
+            <p>
+              <a target="_blank" href="/upload/uf/c99/c99bddcdc3235948006d4d158b8b2c8b.pdf">Финансовая отчетность, подготовленная в соответствии с МСФО за 2018 год</a>
+              <span> (16064 Кб, pdf
+                , опубликовано 30.04.2019г. 12:41
+               )</span>
+            </p>
+            <p>
+              <a target="_blank" href="/upload/uf/76f/76fcc4a286638cfaab9e83b3603cd2bc.pdf">Финансовая отчетность подготовленная в соответствии с МСФО за 2017 год</a>
+              <span> (15870 Кб, pdf
+                , опубликовано 28.04.2018г. 14:30
+               )</span>
+            </p>
+            <p>
+              <a target="_blank" href="/upload/uf/b0b/b0b0efd1dbe20e7b53cacf1cabd42c8e.pdf">Финансовая отчетность подготовленная в соответствии с МСФО за 2016 год</a>
+              <span> (6332 Кб, pdf
+                , опубликовано 28.04.2017г. 17:19
+               )</span>
+            </p>
+            <p>
+              <a target="_blank" href="/upload/uf/99c/99ca5396778e700fecf074e102bca4a5.pdf">Финансовая отчетность подготовленная в соответствии с МСФО за 2015 год</a>
+              <span> (5455 Кб, pdf
+                , опубликовано 29.04.2016г. 16:34
+               )</span>
+            </p> 
+              </div>
+      </div>
+      </li>
+      
+  </ul>
+  
+ 
+</div>
+
+ 
+
+<div>
+   
+<p class="fontBottom">
+    <br>
+    <span style="font-size: 14pt;">Стоимость инвестиционных паев может увеличиваться и уменьшаться, результаты
+        инвестирования в прошлом не определяют доходы в будущем, государство не гарантирует доходность инвестиций в
+        паевые инвестиционные фонды. Прежде чем приобрести инвестиционный пай паевого инвестиционного фонда, следует
+        внимательно ознакомиться с правилами доверительного управления фондом.</span>
+    <br>
+    <br>
+    Лицо, оказывающее услуги по доверительному управлению и осуществляющее управление паевыми инвестиционными фондами:
+    АО УК «Ингосстрах – Инвестиции». Лицензия ФКЦБ России №21-000-1-00020 от 25.08.1997 на
+    осуществление деятельности по управлению инвестиционными фондами, паевыми инвестиционными фондами и
+    негосударственными пенсионными фондами (без ограничения срока действия). Лицензия профессионального участника рынка
+    ценных бумаг на осуществление деятельности по управлению ценными бумагами №077-08203-001000 от 23.12.2004 выдана
+    ФСФР России (без ограничения срока действия). Результаты инвестирования в прошлом не определяют и не являются
+    гарантией доходности инвестирования в будущем. Стоимость активов может как увеличиваться, так и уменьшаться. До
+    заключения договора необходимо внимательно ознакомиться с его условиями, в том числе с декларацией о рисках.
+    Раскрытая информация не является индивидуальной инвестиционной рекомендацией. Получить сведения о лице,
+    осуществляющем управление активами, и иную информацию, которая должна быть предоставлена в соответствии с
+    законодательством Российской Федерации, можно по адресу: 115035, г. Москва, ул. Пятницкая, д. 12, стр. 2, по
+    телефону: (495) 720-48-98, а также на официальном сайте АО УК «Ингосстрах – Инвестиции» в сети Интернет по адресу:
+    <a href="//www.ingosinvest-am.ru"><u>www.ingosinvest-am.ru</u></a>. Дополнительно о паевых инвестиционных фондах
+    информацию можно получить по адресам агентов (в местах приема заявок на приобретение, погашение и обмен
+    инвестиционных паев).
+    <br>
+    <br>
+    ОПИФ рыночных финансовых инструментов «Ингосстрах – передовые технологии» (Правила фонда зарегистрированы Банком
+    России 30.05.2016 за №3160), ОПИФ рыночных финансовых инструментов «Моя пенсия» (Правила фонда зарегистрированы ФКЦБ
+    России 15.11.2000 за №0050-54904637), ОПИФ рыночных финансовых инструментов «Мои облигации» (Правила фонда
+    зарегистрированы ФКЦБ России 05.11.2003 за №0142-70286742), ОПИФ рыночных финансовых инструментов «Моё будущее»
+    (Правила фонда зарегистрированы ФКЦБ России 05.11.2003 за №0143-70286663), ОПИФ рыночных финансовых инструментов
+    «Мой сейф» (Правила фонда зарегистрированы ФСФР России 27.12.2007 за №1148-94139715), ОПИФ рыночных финансовых
+    инструментов «Мои акции» (Правила фонда зарегистрированы ФСФР России 27.12.2007 за №1149-94139555), ОПИФ рыночных
+    финансовых инструментов «Ингосстрах-валютные облигации» (Правила фонда зарегистрированы ФСФР России 25.07.2013 за
+    №2622), ОПИФ рыночных финансовых инструментов «Ингосстрах – Международные рынки» (Правила фонда зарегистрированы
+    Банком России 05.02.2015 за №2937), ОПИФ рыночных финансовых инструментов «Ингосстрах – драгоценные металлы»
+    (Правила фонда зарегистрированы Банком России 30.05.2016 за №3161), БПИФ рыночных финансовых инструментов
+    «Ингосстрах – корпоративные облигации» (Правила фонда зарегистрированы Банком России 28.06.2021 за №4483),БПИФ
+    рыночных финансовых инструментов «Ингосстрах – облигации ЕМ» (Правила фонда зарегистрированы Банком России
+    05.07.2021 за №4490), БПИФ рыночных финансовых инструментов «Ингосстрах Инфляционный» (Правила фонда
+    зарегистрированы Банком России 02.12.2021, номер: 4742), БПИФ рыночных финансовых инструментов «Ингосстрах Россия»
+    (Правила фонда зарегистрированы Банком России 21.04.2022 номер: 4938); БПИФ рыночных финансовых инструментов
+    «Облигации в юанях» (Правила фонда зарегистрированы Банком России 19.01.2023 номер: 5248).
+    <br>
+    <br>
+    По всем ОПИФ (кроме ОПИФ рыночных финансовых инструментов «Мой сейф») предусмотрены надбавки и скидки к расчетной
+    стоимости инвестиционных паев при их выдаче и погашении, взимание которых уменьшает доходность инвестиций в
+    инвестиционные паи.
+    Индекс МосБиржи корпоративных облигаций (1-3 года, рейтинг ≥ ВВВ-) – совокупный доход (RUCBITRBBB3Y); Индекс
+    МосБиржи полной доходности «брутто» (MCFTR); Индекс МосБиржи государственных облигаций (RUGBINFTR); Индекс МосБиржи
+    Облигаций, номинированных в китайских юанях RUCNYTR – являются финансовыми индикаторами, рассчитываемыми ПАО
+    Московская Биржа. Правообладателем товарного знака «Индекс МосБиржи» является ПАО Московская Биржа. ПАО Московская
+    Биржа не дает никаких гарантий и заверений третьим лицам в целесообразности инвестирования в финансовые продукты АО
+    УК «Ингосстрах – Инвестиции», основанные на индексах, рассчитываемых ПАО Московская Биржа. Указанные индексы,
+    которые напрямую ассоциируются с товарным знаком «Индекс МосБиржи», созданы и рассчитываются без привязки к
+    хозяйственной деятельности АО УК «Ингосстрах – Инвестиции.
+    Передача активов в доверительное управление (в том числе по договору с открытием и ведением индивидуального
+    инвестиционного счета) и инвестирование в паевые инвестиционные фонды не являются услугами по открытию банковских
+    счетов и размещением денежных средств в банковский вклад (депозит), а на переданные (инвестированные) средства не
+    распространяются нормы и гарантии, предусмотренные Федеральным законом от 23.12.2003 №177-ФЗ «О страховании вкладов
+    в банках Российской Федерации» (переданные в доверительное управления денежные средства не подлежат страхованию).
+
+    <br>
+    <br>
+    АО УК «Ингосстрах – Инвестиции» информирует о совмещении различных видов деятельности, а также о существовании риска
+    возникновения конфликта интересов.
+    <br>
+    Раскрываемая на сайте информация находится в постоянном доступе.
+</p>
+
+
+</div>
+
+
+ 
+      </div>
+			<aside>
+				
+
+				<div class="oneList">
+					<div class="iconList"></div>
+					<h3><a href="/services/fiz/">Физическим лицам</a></h3>
+					<ol>
+	
+			<li><a href="http://www.ingosinvest-am.ru/pif?utm_source=old_website">Паевые инвестиционные фонды</a></li>			
+			
+			<li><a href="http://www.ingosinvest-am.ru/trust-management?utm_source=old_website">Доверительное управление</a></li>			
+			
+			<li><a href="http://www.ingosinvest-am.ru/services/fiz/pension/">Пенсионные накопления</a></li>			
+								
+					</ol>
+				</div>
+
+ 				
+
+				<div class="oneList second">
+					<div class="iconList"></div>
+					<h3><a href="/services/corp/">Юридическим лицам</a></h3>
+					<ol>
+	
+			<li><a href="http://www.ingosinvest-am.ru/services/corp/pension_fund/">Негосударственным пенсионным фондам</a></li>			
+			
+			<li><a href="http://www.ingosinvest-am.ru/services/corp/insurance-company/">Страховым компаниям</a></li>			
+			
+			<li><a href="http://www.ingosinvest-am.ru/services/corp/endowment/">Эндаумент-Фондам</a></li>			
+			
+			<li><a href="http://www.ingosinvest-am.ru/services/corp/organizations/">Саморегулируемым организациям</a></li>			
+			
+			<li><a href="http://www.ingosinvest-am.ru/services/corp/corp_clients/">Корпоративным клиентам</a></li>			
+								
+					</ol>
+				</div>
+
+		
+				<div class="rightLinks">
+					<ul>
+						<li>
+							<a href="/agents">
+								<span class="boxIconLink">
+									<span class="boxIconLinkCont">
+										<img alt="" src="/bitrix/templates/IngosInvestIndex/img/icon_link_1.png">
+									</span>
+								</span>
+								<span class="linkText">Стать агентом</span>
+							</a>
+						</li>
+						<!--<li>
+							<a href="https://www.facebook.com/ingosinvest" target="_blank">
+								<span class="boxIconLink">
+									<span class="boxIconLinkCont">
+										<img alt="" src="/bitrix/templates/IngosInvestIndex/img/icon_link_2.png"/>
+									</span>
+								</span>
+								<span class="linkText">Facebook</span>
+							</a>
+						</li>-->
+					</ul>
+				</div>
+			</aside>
+			<div class="clear"></div>
+		</div>			
+	</div>	
+			
+<!-- CONTENT EOF   -->
+
+</div>
+
+<!-- BEGIN FOOTER -->	
+	
+	<footer>	
+		<div class="wrapper">
+			<div class="footerLeft">
+				<a href="http://www.cetis.ru/" class="logoFooter"><img alt="" src="/bitrix/templates/IngosInvestIndex/img/logo_footer.png"></a>
+				<p class="design">Дизайн — <a href="http://www.cetis.ru/">Cetis Branding Agency</a></p>
+			</div>
+			<div class="footerCenter">
+				<p class="name">© АО УК «Ингосстрах-Инвестиции»</p>
+				
+<div class="fieldSearch">
+    <input type="text" id="FooterSearchText" placeholder="Поиск по сайту">
+    <input type="button" id="FooterSearchButton" value=" ">
+</div>
+			</div>
+			<div class="footerRight">
+				<div class="boxFeedback">
+					<a href="call:8 (495) 720-48-98" class="phone">(495) 720-48-98 </a>
+					<a href="/contacts/mail/" class="mail">info@ingosinvest.ru</a>				
+				</div>
+			</div>
+			<div class="clear"></div>
+		</div>
+		 
+	</footer>
+	
+	
+	
+<!-- FOOTER EOF   -->			
+	
+        <script type="text/javascript" src="/bitrix/templates/IngosInvestIndex/js/jquery-1.11.0.min.js"></script>
+        <script type="text/javascript" src="/bitrix/templates/IngosInvestIndex/js/jquery-migrate.min.js"></script>
+		<script type="text/javascript" src="/bitrix/templates/IngosInvestIndex/js/idangerous.swiper-2.1.min.js"></script>
+		<script type="text/javascript" src="/bitrix/templates/IngosInvestIndex/js/jquery.flexslider.js"></script>	
+		<script type="text/javascript" src="/bitrix/templates/IngosInvestIndex/js/organictabs.jquery.js"></script>
+		<script type="text/javascript" src="/bitrix/templates/IngosInvestIndex/js/organictabs.jquery2.js"></script>
+        <script type="text/javascript" src="/bitrix/templates/IngosInvestIndex/js/jquery.tabs.js"></script>
+		<script type="text/javascript" src="/bitrix/templates/IngosInvestIndex/js/jquery-ui.min.js"></script>
+		<script type="text/javascript" src="/bitrix/templates/IngosInvestIndex/js/jquery.ui-slider.js"></script>
+		<script type="text/javascript" src="/bitrix/templates/IngosInvestIndex/js/jquery.formstyler.js"></script>	
+		<script type="text/javascript" src="/bitrix/templates/IngosInvestIndex/js/custom.js"></script>
+
+        <script type="text/javascript" src="/bitrix/templates/IngosInvestIndex/js/jquery.scrollUp.min.js"></script>
+        <script type="text/javascript" src="/bitrix/templates/IngosInvestIndex/js/jquery.fancybox.js"></script>
+
+        <script src="/bitrix/templates/de/js/globalize.js"></script>       
+        <script src="/bitrix/templates/de/js/globalize.culture.ru.js"></script>
+        <script src="/bitrix/templates/de/js/dx.all.js"></script>
+        <script src="/bitrix/templates/de/js/localization/dx.all.ru.js"></script>
+        <script src="/bitrix/templates/de/js/date.js"></script>
+
+        <script src="/bitrix/templates/IngosInvestIndex/js/jquery.tmpl.js"></script>
+
+        <script type="text/javascript" src="/bitrix/templates/utils.js"></script>
+        <script type="text/javascript" src="/bitrix/templates/main.js"></script>
+        <script type="text/javascript" src="/bitrix/templates/main.chart.js"></script>
+        <script type="text/javascript" src="/bitrix/templates/main.calc.js"></script>
+
+
+		
+
+  
+<div>
+
+	<input type="hidden" name="__VIEWSTATEGENERATOR" id="__VIEWSTATEGENERATOR" value="1E6DA600">
+</div>
+<a id="scrollUp" href="#top" style="display: none; position: fixed; z-index: 2147483647;"></a></form>
+<script type="text/javascript" id="">(function(a,e,f,g,b,c,d){a[b]=a[b]||function(){(a[b].a=a[b].a||[]).push(arguments)};a[b].l=1*new Date;c=e.createElement(f);d=e.getElementsByTagName(f)[0];c.async=1;c.src=g;d.parentNode.insertBefore(c,d)})(window,document,"script","https://mc.yandex.ru/metrika/tag.js","ym");ym(83976883,"init",{clickmap:!0,trackLinks:!0,accurateTrackBounce:!0,webvisor:!0});</script>
+<noscript><div><img src="https://mc.yandex.ru/watch/83976883" style="position:absolute; left:-9999px;" alt=""></div></noscript>
+<script type="text/javascript" id="">setTimeout(function(){gtag("event",location.pathname,{event_category:"\u041d\u043e\u0432\u044b\u0439 \u043f\u043e\u0441\u0435\u0442\u0438\u0442\u0435\u043b\u044c"})},15E3);</script><script type="text/javascript" id="">(function(d,b,e,c,a){d._uxsSettings={id:"d6psdq1koczqw7wgsja0r5o9"};c=b.getElementsByTagName("head")[0];a=b.createElement("script");a.async=1;a.src=e;c.appendChild(a)})(window,document,"https://cdn.uxfeedback.ru/widget.js");</script>
+
+
+<div id="fancybox-tmp"></div><div id="fancybox-loading"><div></div></div><div id="fancybox-overlay"></div><div id="fancybox-wrap"><div id="fancybox-outer"><div class="fancybox-bg" id="fancybox-bg-n"></div><div class="fancybox-bg" id="fancybox-bg-ne"></div><div class="fancybox-bg" id="fancybox-bg-e"></div><div class="fancybox-bg" id="fancybox-bg-se"></div><div class="fancybox-bg" id="fancybox-bg-s"></div><div class="fancybox-bg" id="fancybox-bg-sw"></div><div class="fancybox-bg" id="fancybox-bg-w"></div><div class="fancybox-bg" id="fancybox-bg-nw"></div><div id="fancybox-content"></div><a id="fancybox-close"></a><div id="fancybox-title"></div><a href="javascript:;" id="fancybox-left"><span class="fancy-ico" id="fancybox-left-ico"></span></a><a href="javascript:;" id="fancybox-right"><span class="fancy-ico" id="fancybox-right-ico"></span></a></div></div><div style="display: none; visibility: hidden;"><img src="https://px.adhigh.net/p/tracking.gif?syncs=default&amp;site_id=7625&amp;pixel_id=TrackOPIF" width="1" height="1">
+<img src="https://px.adhigh.net/p/tracking.gif?syncs=bsw&amp;syncs_only=true" width="1" height="1">
+</div><div style="display: none; visibility: hidden;">
+<script type="text/javascript">var _tmr=window._tmr||(window._tmr=[]);_tmr.push({id:"3275146",type:"pageView",start:(new Date).getTime()});(function(c,e,a){if(!c.getElementById(a)){var b=c.createElement("script");b.type="text/javascript";b.async=!0;b.id=a;b.src="https://top-fwz1.mail.ru/js/code.js";a=function(){var d=c.getElementsByTagName("script")[0];d.parentNode.insertBefore(b,d)};"[object Opera]"==e.opera?c.addEventListener("DOMContentLoaded",a,!1):a()}})(document,window,"tmr-code");</script>
+<noscript></noscript>
+</div><div class="pub_300x250 advblock pub_728x90 advertBlock b-rb banner_240 rb-floating" style="position: absolute !important; top: -9999px !important; left: -9999px !important; width: 1px !important; height: 1px !important;" id="trg-b-banners-1" data-view="SlotView.mimic"></div> <div class="uxs-1dgxlX5kAb uxs-1pt9a7d">  </div>

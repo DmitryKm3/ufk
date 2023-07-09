@@ -1,0 +1,342 @@
+
+
+<div id="wrapper">
+	
+	<div id="header">
+		<a href="/ru/"><div id="logo"></div></a>
+		<div id="search"><form action="/ru/search/" name="se_form">
+
+<!--label onclick="$(this).next().focus()" style="position:absolute; padding-left: 4px; line-height:18px; color:#b9c3c2; text-align:left;">поиск</label-->
+
+<input type="text" id="ret_urn" name="q4" onfocus="$(this).prev().css('visibility', 'hidden');" onblur="if($(this).val() == '') $(this).prev().css('visibility', 'visible');">
+
+<a href="#" title="Найти"><img src="/common/navigator/img/sbutton.gif" alt="Найти" class="mag" onclick="document.se_form.submit(); return false;"></a>
+
+</form>
+
+</div>
+         <div id="phone"><span block_id="7918" sys_name="content_text" tarea_id="77"></span><span class="code brown">495|</span>
+<span class="number blue">213-18-37</span></div>
+        <div id="nav"><span block_id="7917" sys_name="content_text" tarea_id="8"></span><table>
+  <tbody><tr>
+    <td><a class="home_act" href="/ru/" title="Главная"></a></td>
+    <td><a class="mail" href="/ru/contacts" title="Контакты"></a></td>
+    <td><a class="map" href="/ru/map" title="Карта сайта"></a></td>
+  </tr>
+</tbody></table>
+</div>       
+		<div style="clear:both;"></div>
+	</div>
+    
+    <div id="inner_menu"><table align="right">
+<tbody><tr>
+<td><a class="first" href="/ru/" title="Главная">Главная</a></td>
+	<td><a href="/ru/about_company/" title="О компании">О компании</a></td>
+		<td><a href="/ru/news/" title="Новости">Новости</a></td>
+		<td><a href="/ru/details/" title="Реквизиты">Реквизиты</a></td>
+		<td><a href="/ru/contacts/" title="Контакты">Контакты</a></td>
+			<td><a href="/ru/jobs/" title="Вакансии">Вакансии</a></td>
+		</tr>
+</tbody></table></div>
+    <div id="banner_top"></div>
+    <div id="podmenu"><span block_id="7921" sys_name="content_text" tarea_id="25"></span><style>
+a.common-button {padding: 16px 0px 20px !important;line-height: 18px !important; display: block !important; font-weight: bold;}
+</style>
+
+<table align="center" width="100%">
+  <tbody><tr>
+    <td style="padding-left: 24px; padding-right: 12px; width:50%;"><a class="common-button" href="/ru/disclosure/" title="Раскрытие информации">Раскрытие информации<br>(в т. ч. в соответствии с Указанием 5609-У)</a></td>
+    <!--td><a href="/ru/pension_savings/" title="Доверительное управление пенсионными накоплениями">Доверительное управление пенсионными накоплениями</a></td-->
+    <td style="padding-right: 24px; padding-left: 12px;"><a class="common-button" href="/ru/funds_management/" title="Раскрытие информации">Доверительное управление<br>паевыми инвестиционными фондами</a></td>
+   </tr>
+</tbody></table>
+
+
+<!--ttable align="center" width="100%">
+  <tr>
+    <td><a class="common-button" href="/ru/funds_management/" title="Раскрытие информации">Доверительное управление паевыми инвестиционными фондами</a></td>
+   </tr>
+</table-->
+</div>
+	<table>
+    	<tbody><tr>
+    <td><div id="left_menu">
+                                
+	    	<div class="current_ipage">
+		<div class="item_box_ipade"><a href="/ru/disclosure/report/">Отчетность управляющей компании</a></div>
+                        <div class="menu_item2">
+                
+			        
+                
+			        
+                
+			        
+                
+			        
+                
+			        
+                
+			        
+                
+			        
+                
+			        
+                
+			        
+                
+			        
+                
+			        
+                
+			        
+                </div>
+                    	</div>
+                
+        
+	    	<div>
+		<div class="item_box_ipade"><a href="/ru/disclosure/company-info/">Сведения об Управляющей компании</a></div>
+            	</div>
+                
+        
+	    	<div>
+		<div class="item_box_ipade"><a href="/ru/disclosure/sobranie/">Закрытый паевой инвестиционный фонд недвижимости "Собрание"</a></div>
+            	</div>
+                
+        
+	    	<div>
+		<div class="item_box_ipade"><a href="/ru/disclosure/ufa-ekspo/">Закрытый паевой инвестиционный фонд недвижимости "УФА ЭКСПО"</a></div>
+            	</div>
+                
+        
+	    	<div>
+		<div class="item_box_ipade"><a href="/ru/disclosure/finam/">Закрытый рентный паевой инвестиционный фонд<br>"Капитальные вложения"</a></div>
+            	</div>
+                
+        
+	    	<div>
+		<div class="item_box_ipade"><a href="/ru/disclosure/dominion/">Закрытый паевой инвестиционный фонд недвижимости "Доминион Тауэр"</a></div>
+            	</div>
+                
+        
+	    	<div>
+		<div class="item_box_ipade"><a href="/ru/disclosure/salaryevo/">Закрытый паевой инвестиционный фонд недвижимости "Саларьево"</a></div>
+            	</div>
+                
+        
+	    	<div>
+		<div class="item_box_ipade"><a href="/ru/disclosure/inside/">Инсайдерам</a></div>
+            	</div>
+                
+        
+	    	<div>
+		<div class="item_box_ipade"><a href="/ru/disclosure/e-documentation/">Электронный документооборот</a></div>
+            	</div>
+                
+        
+	    	<div>
+		<div class="item_box_ipade"><a href="/ru/disclosure/qualified_investors/">Квалифицированным инвесторам</a></div>
+            	</div>
+                
+        
+	    	<div>
+		<div class="item_box_ipade"><a href="/ru/disclosure/data/">Персональные данные</a></div>
+            	</div>
+                
+        
+	    	<div>
+		<div class="item_box_ipade"><a href="/ru/disclosure/fatca/">Критерии отнесения клиентов к категории налогоплательщиков США в целях FATCA</a></div>
+            	</div>
+                
+        
+	    	<div>
+		<div class="item_box_ipade"><a href="/ru/disclosure/622-p/">Информация о структуре и составе акционеров (участников) НФО (Положение 622-П)</a></div>
+            	</div>
+                
+        
+	    	<div>
+		<div class="item_box_ipade"><a href="/ru/disclosure/ib/">Рекомендации по информационной безопасности</a></div>
+            	</div>
+                
+        
+	    	<div>
+		<div class="item_box_ipade"><a href="/ru/disclosure/conflict-interest/">Информация о конфликте интересов</a></div>
+            	</div>
+                
+        
+	        
+                            </div>
+</td>	<td><div id="content">
+		<div id="status"><table>
+	<tbody><tr>
+		<td class="title_page"><span class="active">Отчетность управляющей компании</span></td>
+		<td class="lines"></td>
+	</tr>
+</tbody></table>
+</div>        <ul class="menu clearfix" id="found">
+			<li class="active"><a href="/ru/disclosure/report/2023/">2023</a></li>
+			<li><a href="/ru/disclosure/report/2022/">2022</a></li>
+			<li><a href="/ru/disclosure/report/2021/">2021</a></li>
+			<li><a href="/ru/disclosure/report/2020/">2020</a></li>
+			<li><a href="/ru/disclosure/report/2019/">2019</a></li>
+			<li><a href="/ru/disclosure/report/2018/">2018</a></li>
+			<li><a href="/ru/disclosure/report/2017/">2017</a></li>
+			<li><a href="/ru/disclosure/report/2016/">2016</a></li>
+			<li><a href="/ru/disclosure/report/2015/">2015</a></li>
+			<li><a href="/ru/disclosure/report/2014/">2014</a></li>
+			<li><a href="/ru/disclosure/report/2013/">2013</a></li>
+			<li><a href="/ru/disclosure/report/2012/">2011-2012</a></li>
+	</ul>
+        		   
+                		    
+        		<table class="grey" width="100%" style="margin-top: 1.5em;">
+
+  <tbody><tr>
+    <th rowspan="2">Наименование документа</th>
+    <th colspan="4">Отчетность за 2023 год*</th>
+  </tr>
+  <tr>
+    <th style="width:15%">IV квартал</th>
+    <th style="width:15%">III квартал</th>
+    <th style="width:15%">II квартал</th>
+    <th style="width:15%">I квартал</th>
+  </tr>
+   <tr>
+    <td>Бухгалтерская финансовая отчетность (Положение 532-П)</td>
+	<td>-</td>
+	<td>-</td>
+	<td>-</td>
+    <td><a href="/common/img/uploaded/Navigator/disclosure/report-1q23.pdf" target="_blank">скачать</a><br>опубликовано <br>
+    24.04.2023 17:40</td>
+  </tr>
+   <!--tr>
+    <td>Консолидированная отчетность Управляющей компании</td>
+    <td colspan="4"><a href="/common/img/uploaded/Navigator/disclosure/ifrs-2018.pdf" target="_blank">скачать</a><br>опубликовано <br>
+    24.04.2019, 23:10</td>
+  </tr>
+    <td>Аудиторское заключение о годовой бухгалтерской (финансовой) отчетности + годовая бухгалтерская (финансовая) отчетность</td>
+    <td colspan="4"><a href="/common/img/uploaded/Navigator/disclosure/audit-2018.pdf" target="_blank">скачать</a><br>опубликовано <br>
+    19.03.2019, 21:00</td>
+  </tr>
+  <tr>
+    <td>Бухгалтерский баланс некредитной финансовой организации на 31 декабря 2018 года</td>
+    <td colspan="4"><a href="/common/img/uploaded/Navigator/disclosure/bb-2018.pdf" target="_blank">скачать</a><br>опубликовано <br>
+    19.03.2019, 21:00</td>
+  </tr>
+  <tr>
+    <td>Отчет о финансовом результате некредитной финансовой организации за 2018 год</td>
+    <td colspan="4"><a href="/common/img/uploaded/Navigator/disclosure/fr-2018.pdf" target="_blank">скачать</a><br>опубликовано <br>
+    19.03.2019, 21:00</td>
+  </tr>
+  <tr>
+    <td>Квитанция об отправке бухгалтерского баланса в ИФНС</td>
+    <td colspan="4"><a href="/common/img/uploaded/Navigator/disclosure/receipt-bb-2018.pdf" target="_blank">скачать</a><br>опубликовано <br>
+    19.03.2019, 21:00</td>
+  </tr>
+  <tr>
+    <td>Квитанция об отправке отчета о финансовом результате в ИФНС</td>
+    <td colspan="4"><a href="/common/img/uploaded/Navigator/disclosure/receipt-fr-2018.pdf" target="_blank">скачать</a><br>опубликовано <br>
+    19.03.2019, 21:00</td>
+  </tr-->
+  
+</tbody></table>
+
+
+<h2>Собственные средства ООО «УК «Навигатор», тыс. рублей*</h2>
+<table border="0" cellpadding="0" class="grey" style="margin:0px 20px 40px 0px; width: 100%;">
+<tbody><tr>
+	<th>Дата и время размещения</th>
+	<th>Размер собственных средств, тыс. рублей</th>
+	<th>Расчет собственных средств в соответствии с Указанием Банка России от 19.07.2016 N 4075-У</th>
+
+</tr><tr>
+	<td>15.06.2023 13:12</td>
+	<td>61 622,867</td>
+	<td><a href="/common/img/uploaded/Navigator/disclosure/ss-may2023.pdf" target="_blank">на 31.05.2023</a></td>
+</tr>
+<tr>
+	<td>19.05.2023 19:15</td>
+	<td>62 436,944</td>
+	<td><a href="/common/img/uploaded/Navigator/disclosure/ss-april2023.pdf" target="_blank">на 30.04.2023</a></td>
+</tr>
+<tr>
+	<td>17.04.2023 13:03</td>
+	<td>61 316,921</td>
+	<td><a href="/common/img/uploaded/Navigator/disclosure/ss-march2023.pdf" target="_blank">на 31.03.2023</a></td>
+</tr>
+<tr>
+	<td>16.03.2023 17:50</td>
+	<td>62 115,014</td>
+	<td><a href="/common/img/uploaded/Navigator/disclosure/ss-feb2023.pdf" target="_blank">на 28.02.2023</a></td>
+</tr>
+<tr>
+	<td>14.02.2023 17:56</td>
+	<td>66 261,132</td>
+	<td><a href="/common/img/uploaded/Navigator/disclosure/ss-jan2023.pdf" target="_blank">на 31.01.2023</a></td>
+</tr>
+</tbody></table>
+
+
+		<!--p style="margin-top:40px;">Подписаться на рассылку об изменении сведений об ООО «УК «Навигатор», а также изменении информации по ЗПИФ, можно написав запрос на электронную почту: <a href="mailto:uk@am-navigator.ru">uk@am-navigator.ru</a></p>
+<p>В теме письма обязательно указать - <strong>Оформление рассылки на новости.</strong></p>
+<p><strong>Пример письма:</strong></p>
+<p>Тема письма – <strong>Оформление рассылки на новости</strong></p>
+<p>«Просьба подключить меня к рассылке об изменении сведений об ООО «УК «Навигатор», а также изменении информации по следующим фондам:</p>
+<ul>
+	<li>Закрытый паевой инвестиционный фонд недвижимости «Собрание»</li>
+	<li>Закрытый паевой инвестиционный фонд недвижимости «УФА ЭКСПО»</li>
+	<li>Закрытый рентный паевой инвестиционный фонд «Капитальные вложения»</li>
+</ul>
+<p>E-mail для рассылки: (указать Вашу электронную почту)»</p-->
+
+
+	</div></td>
+    	</tr>
+    </tbody></table>
+    
+	<div class="slash" style="clear:both;"></div>
+	<div id="footer">
+		<div id="copyright"><span block_id="7923" sys_name="content_text" tarea_id="24"></span>© УК Навигатор, 2021
+
+
+</div>
+		<div id="nav_bottom"></div>
+        <div style="clear:both;"></div>
+	</div>
+
+<div class="disclaim">
+  <p>Общество с ограниченной ответственностью "Управляющая компания "Навигатор". Лицензия № 21-000-1-00102 от 24 декабря 2002 г. на осуществление деятельности по управлению инвестиционными фондами, паевыми инвестиционными фондами и негосударственными пенсионными фондами, выданная ФКЦБ России, без ограничения срока действия.</p>
+  <p>Получить подробную информацию о паевых инвестиционных фондах, ознакомиться с правилами доверительного управления  паевыми инвестиционными фондами, а также иными документами можно по адресу: Российская Федерация, 129110, г. Москва, ул. Гиляровского, д. 39, стр. 3, эт. 8, ком. 4, тел.: (495) 213-18-37, а также в сети Интернет по адресу: <a href="http://www.am-navigator.ru/">http://www.am-navigator.ru</a></p>
+  <p>Прежде чем приобрести инвестиционный пай, следует внимательно ознакомиться с правилами доверительного управления паевым  инвестиционным фондом. Стоимость инвестиционных паев может увеличиваться и уменьшаться, результаты инвестирования в прошлом не определяют доходы в будущем, государство не гарантирует доходность инвестиций в паевые инвестиционные фонды. Взимание надбавок (скидок)  уменьшит доходность инвестиций в инвестиционные паи паевого инвестиционного фонда. Результаты деятельности управляющего по управлению ценными бумагами в прошлом не определяют доходы учредителя управления в будущем.</p>
+  <p>
+  <!--Правила доверительного управления ЗПИФ недвижимости "Сто одиннадцать" зарегистрированы Банком России за № 3204 от 23.08.2016 года.<br>
+  Правила доверительного управления ЗПИФ недвижимости "Шоколад" зарегистрированы Банком России за № 3214 от 08.09.2016 года.<br>
+  Правила доверительного управления ЗПИФ недвижимости "Траст Девелопмент Второй" зарегистрированы ФСФР России за № 1765-94163688 от 06.04.2010 года.<br>
+  Правила доверительного управления ЗПИФ недвижимости "Саларьево" зарегистрированы Банком России за № 2950 от 03.03.2015 года.<br>
+  Правила доверительного управления ЗПИФ недвижимости "Доминион Тауэр" зарегистрированы Банком России за № 3118 от 18.02.2016 года.  <br-->
+  Правила доверительного управления ЗПИФ недвижимости "Собрание" зарегистрированы Центральным Банком РФ за № 3156 от 26 мая 2016 года.<br>
+ 
+  Правила доверительного управления ЗПИФ недвижимости "УФА ЭКСПО" зарегистрированы Банком России за № 3167 от 09.06.2016 года.<br>
+  
+  Правила доверительного управления ЗПИФ рентный "Капитальные вложения" зарегистрированы ФСФР России за № 0464-93295436 от 26.01.2006 года.
+  </p>
+  <p>*При опубликовании раскрываемой информации на сайте <a href="http://www.am-navigator.ru" target="_blank" title="http://www.am-navigator.ru">http://www.am-navigator.ru</a> доступ к такой информации осуществляется в следующие сроки (за исключением случаев, установленных законодательством РФ): для информации размещенной с 23.04.2010 до 31.12.2010 доступ – до 31.12.2012, для информации размещенной с 01.01.2011 до 31.12.2011 доступ – до 31.12.2013, для информации размещенной с 01.01.2012 до 31.12.2012 доступ – до 31.12.2014, для информации размещенной с 01.01.2013 до 31.12.2013 - до 31.12.2015, для информации размещенной с 01.01.2014 до 31.12.2014 - до 31.12.2016, для информации размещенной с 01.01.2015 до 31.12.2015 - до 31.12.2017, для информации, размещенной с 01.01.2016 до 31.12.2016 - до 31.12.2018, для информации, размещенной с 01.01.2017 до 31.12.2017 - до 31.12.2019, для информации, размещенной с 01.01.2018 до 31.12.2018 - до 31.12.2020, для информации, размещенной с 01.01.2019 по 31.12.2019 – до 31.12.2021, для информации, размещенной с 01.01.2020 по 31.12.2020 – до 31.12.2022, для информации, размещенной с 01.01.2021 по 31.12.2021 – до 31.12.2023, для информации, размещенной с 01.01.2022 по 31.12.2022 – до 31.12.2024. Доступ к раскрываемой информации прекращается в случае, если у ООО "УК "Навигатор" прекращаются обязательства, установленные законодательством РФ, по опубликованию такой информации. ООО "УК "Навигатор" при наличии технической возможности и целесообразности оставляет за собой право обеспечения доступа к указанной информации на более длительные сроки.</p>
+
+</div>
+
+
+<style>
+#found  {margin-bottom:0 !important; padding-bottom: 0 !important;
+display: -webkit-inline-flex;
+display: inline-flex;
+flex-wrap: wrap;
+justify-content: space-between; 
+}
+#found li {border:1px solid #ffffff !important; border-bottom:1px solid #e1e1e1 !important;}
+#found li:hover{border:1px solid #e1e1e1; border-bottom: 1px solid #ffffff !important; border-radius: 5px 5px 0px 0px; background-color: #e1e1e1;}
+</style>
+	
+</div>
+
+
+
+		

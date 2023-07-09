@@ -1,0 +1,1433 @@
+
+	<div class="not-footer block">
+		<div class="header">
+			<a href="#">
+				<img class="header-logo" src="/templates/site/images/header-logo.gif" alt="Управляющая компания СГБ"></a>
+		</div>
+		<div class="services-home">
+			<a href="http://www.uksgb.ru/">
+			<img src="/templates/site/images/home.gif" alt="На главную" title="На главную"></a>
+		</div>
+		<div class="services-send">
+			<a href="mailto:mav@uksgb.ru">
+			<img src="/templates/site/images/send.gif" alt="Написать письмо" title="Написать письмо"></a>
+		</div>
+		<div class="main block">
+			<div class="menu">
+
+	<div><a class="menu-items menu-comp" href="http://www.uksgb.ru/text/38.htm">
+		<span class="">О компании</span></a></div>
+
+	<div><a class="menu-items menu-invest" href="http://www.uksgb.ru/text/36.htm">
+		<span class="">Для инвесторов</span></a></div>
+
+	<div><a class="menu-items menu-pay" href="http://www.uksgb.ru/text/41.htm">
+		<span class="menu-pay-span">Паевые фонды</span></a></div>
+
+	<div><a class="menu-items menu-cont" href="http://www.uksgb.ru/text/39.htm">
+		<span class="">Контакты</span></a></div>
+
+	<div class="clear"></div>
+</div>
+
+
+			<div class="clear"></div>
+			<div class="left column">
+				<div class="news-anons-image"><img src="/templates/site/images/news-anons-image.gif" alt="НОВОСТИ"></div>
+				<div class="news-anons-block anons-first">
+	<div>
+		<div class="dotted-line">&nbsp;</div>
+		<div class="news-anons-date">
+			<a href="news/2023/05/24">24</a>&nbsp;&nbsp;<a href="news/2023/05">мая&nbsp;&nbsp;</a><a href="news/2023">2023</a>
+
+		</div>
+		<div class="clear"></div>
+
+
+		<div class="news-anons-text">
+			Сообщение о регистрации изменений и дополнений в Правила доверительного управления Закрытым паевым инвестиционным фондом недвижимости «Большой Урал»
+		</div>
+
+		<div class="news-anons-more"><a href="news/2023/05/24/351">подробнее&nbsp;»</a></div>
+
+	</div>
+</div>
+<div class="news-anons-block anons-secondary">
+	<div>
+		<div class="dotted-line">&nbsp;</div>
+		<div class="news-anons-date">
+			<a href="news/2023/05/24">24</a>&nbsp;&nbsp;<a href="news/2023/05">мая&nbsp;&nbsp;</a><a href="news/2023">2023</a>
+
+		</div>
+		<div class="clear"></div>
+
+
+		<div class="news-anons-text">
+			Сообщение о регистрации изменений и дополнений в Правила доверительного управления Закрытым паевым инвестиционным фондом недвижимости «Стабильный»
+		</div>
+
+		<div class="news-anons-more"><a href="news/2023/05/24/350">подробнее&nbsp;»</a></div>
+
+	</div>
+</div>
+<div class="news-anons-block anons-secondary">
+	<div>
+		<div class="dotted-line">&nbsp;</div>
+		<div class="news-anons-date">
+			<a href="news/2023/03/23">23</a>&nbsp;&nbsp;<a href="news/2023/03">марта&nbsp;&nbsp;</a><a href="news/2023">2023</a>
+
+		</div>
+		<div class="clear"></div>
+
+
+		<div class="news-anons-text">
+			Сообщение о дате составления списка владельцев инвестиционных паев ЗПИФ недвижимости "Стабильный"
+		</div>
+
+		<div class="news-anons-more"><a href="news/2023/03/23/349">подробнее&nbsp;»</a></div>
+
+	</div>
+</div>
+<div class="news-anons-block anons-secondary">
+	<div>
+		<div class="dotted-line">&nbsp;</div>
+		<div class="news-anons-date">
+			<a href="news/2023/03/23">23</a>&nbsp;&nbsp;<a href="news/2023/03">марта&nbsp;&nbsp;</a><a href="news/2023">2023</a>
+
+		</div>
+		<div class="clear"></div>
+
+
+		<div class="news-anons-text">
+			Сообщение о дате составления списка владельцев инвестиционных паев ЗПИФ недвижимости «Большой Урал»
+		</div>
+
+		<div class="news-anons-more"><a href="news/2023/03/23/348">подробнее&nbsp;»</a></div>
+
+	</div>
+</div>
+<div class="news-anons-block anons-secondary">
+	<div>
+		<div class="dotted-line">&nbsp;</div>
+		<div class="news-anons-date">
+			<a href="news/2022/05/26">26</a>&nbsp;&nbsp;<a href="news/2022/05">мая&nbsp;&nbsp;</a><a href="news/2022">2022</a>
+
+		</div>
+		<div class="clear"></div>
+
+
+		<div class="news-anons-text">
+			Сообщение о регистрации изменений и дополнений в Правила доверительного управления
+		</div>
+
+		<div class="news-anons-more"><a href="news/2022/05/26/347">подробнее&nbsp;»</a></div>
+
+	</div>
+</div>
+<div class="news-anons-block anons-secondary">
+	<div>
+		<div class="dotted-line">&nbsp;</div>
+		<div class="news-anons-date">
+			<a href="news/2022/05/26">26</a>&nbsp;&nbsp;<a href="news/2022/05">мая&nbsp;&nbsp;</a><a href="news/2022">2022</a>
+
+		</div>
+		<div class="clear"></div>
+
+
+		<div class="news-anons-text">
+			Сообщение о регистрации изменений и дополнений в Правила доверительного управления
+		</div>
+
+		<div class="news-anons-more"><a href="news/2022/05/26/346">подробнее&nbsp;»</a></div>
+
+	</div>
+</div>
+<div class="news-anons-block anons-secondary">
+	<div>
+		<div class="dotted-line">&nbsp;</div>
+		<div class="news-anons-date">
+			<a href="news/2022/03/22">22</a>&nbsp;&nbsp;<a href="news/2022/03">марта&nbsp;&nbsp;</a><a href="news/2022">2022</a>
+
+		</div>
+		<div class="clear"></div>
+
+
+		<div class="news-anons-text">
+			Сообщение о дате составления списка владельцев инвестиционных паев
+		</div>
+
+		<div class="news-anons-more"><a href="news/2022/03/22/345">подробнее&nbsp;»</a></div>
+
+	</div>
+</div>
+<div class="news-anons-block anons-secondary">
+	<div>
+		<div class="dotted-line">&nbsp;</div>
+		<div class="news-anons-date">
+			<a href="news/2022/03/22">22</a>&nbsp;&nbsp;<a href="news/2022/03">марта&nbsp;&nbsp;</a><a href="news/2022">2022</a>
+
+		</div>
+		<div class="clear"></div>
+
+
+		<div class="news-anons-text">
+			Сообщение о дате составления списка владельцев инвестиционных паев 
+		</div>
+
+		<div class="news-anons-more"><a href="news/2022/03/22/344">подробнее&nbsp;»</a></div>
+
+	</div>
+</div>
+
+			</div>
+			<div class="right column"><!----></div>
+			<div class="center column"><div class="center-inner">
+			    <div class="main-header">6. Расчет размера собственных средств</div>
+
+<div class="main-path">
+		<a href="http://www.uksgb.ru/">На главную</a>&nbsp;»
+		<a href="http://www.uksgb.ru/text/38">О компании</a>&nbsp;»
+	<span>6. Расчет размера собственных средств</span>
+</div>
+
+<div class="content">
+
+	
+
+<p>
+</p><p>
+</p><p>
+</p><p>
+</p><p>
+</p><p>
+</p><p>
+</p><p>
+</p><p>
+</p><p>
+</p><p>
+</p><p>
+</p><p>
+</p><p>
+</p><p>
+</p><p>
+</p><p>
+</p><h1 style="font-weight: normal; font-family: Arial, Helvetica, sans-serif; background-color: rgb(255, 255, 255);">
+</h1><h1 style="background-color: rgb(255, 255, 255);">
+</h1><h1 style="background-color: rgb(255, 255, 255);">
+</h1><h1 style="background-color: rgb(255, 255, 255);">
+</h1><h1 style="background-color: rgb(255, 255, 255);">
+</h1><h1 style="background-color: rgb(255, 255, 255);">
+</h1><h1 style="background-color: rgb(255, 255, 255);">
+<p class=" ">
+</p></h1>
+<h1 style="background-color: rgb(255, 255, 255);">
+</h1><h1 style="background-color: rgb(255, 255, 255);">
+</h1><h1 style="background-color: rgb(255, 255, 255);">
+</h1><h1 style="background-color: rgb(255, 255, 255);">
+</h1><h1 style="background-color: rgb(255, 255, 255);">
+<u>
+</u></h1><u>
+<p>
+<u>
+<u>
+<u>
+<u>
+<u>
+<u>
+<u>
+<u>
+<u>
+<u>
+<u>
+<u>
+<u>
+<u>
+<u>
+<u>
+<u>
+<u>
+<u>
+<u>
+<u>
+<u>
+<u>
+<u>
+<u>
+<u>
+<u>
+<u>
+<u>
+<u>
+<u>
+<u>
+<u>
+<u>
+<u>
+<u>
+<u>
+<u>
+<u>
+<u>
+<u>
+<u>
+<u>
+<u>
+<u>
+<u>
+<u>
+<u>
+<u>
+<u>
+<u>
+<u>
+<u>
+<u>
+<u>
+<u>
+<u>
+<u>
+<u>
+<u>
+<u>
+<u>
+<u>
+<u>
+<u>
+<u>
+<u>
+<u>
+<u>
+<u>
+<u>
+<u>
+<u>
+<u>
+<u>
+<u>
+<u>
+<u>
+<u>
+<u>
+<u>
+<u>
+<u>
+<u>
+<u>
+<u>
+<u>
+<u>
+<u>
+<u>
+<u>
+<u>
+<u>
+<u>
+<u>
+<u>
+<u>
+<u>
+<u>
+<u>
+<u>
+<u>
+<u>
+<u>
+<u>
+<u>
+<u>
+<u>
+<u>
+<u>
+<u>
+<u>
+<u>
+<u>
+<u>
+<u>
+<u>
+<u>
+<u>
+<u>
+<u>
+<u>
+<u>
+<u>
+<u>
+<u>
+<u>
+<u>
+<u>
+<u>
+<u>
+<u>
+<u>
+<u>
+<u>
+<u>
+<u>
+<u>
+<u>
+<u>
+<u>
+<u>
+<u>
+<u>
+<u>
+<u>
+<u>
+<u>
+<u>
+<u>
+<u>
+<u>
+<u>
+<u>
+<u>
+<u>
+<u>
+<u>
+<u>
+<u>
+<u>
+</u>
+</u>
+</u>
+</u>
+</u>
+</u>
+</u>
+</u>
+</u>
+</u>
+</u>
+</u>
+</u>
+</u>
+</u>
+</u>
+</u>
+</u>
+</u>
+</u>
+</u>
+</u>
+</u>
+</u>
+</u>
+</u>
+</u>
+</u>
+</u>
+</u>
+</u>
+</u>
+</u>
+</u>
+</u>
+</u>
+</u>
+</u>
+</u>
+</u>
+</u>
+</u>
+</u>
+</u>
+</u>
+</u>
+</u>
+</u>
+</u>
+</u>
+</u>
+</u>
+</u>
+</u>
+</u>
+</u>
+</u>
+</u>
+</u>
+</u>
+</u>
+</u>
+</u>
+</u>
+</u>
+</u>
+</u>
+</u>
+</u>
+</u>
+</u>
+</u>
+</u>
+</u>
+</u>
+</u>
+</u>
+</u>
+</u>
+</u>
+</u>
+</u>
+</u>
+</u>
+</u>
+</u>
+</u>
+</u>
+</u>
+</u>
+</u>
+</u>
+</u>
+</u>
+</u>
+</u>
+</u>
+</u>
+</u>
+</u>
+</u>
+</u>
+</u>
+</u>
+</u>
+</u>
+</u>
+</u>
+</u>
+</u>
+</u>
+</u>
+</u>
+</u>
+</u>
+</u>
+</u>
+</u>
+</u>
+</u>
+</u>
+</u>
+</u>
+</u>
+</u>
+</u>
+</u>
+</u>
+</u>
+</u>
+</u>
+</u>
+</u>
+</u>
+</u>
+</u>
+</u>
+</u>
+</u>
+</u>
+</u>
+</u>
+</u>
+</u>
+</u>
+</u>
+</u>
+</u>
+</u>
+</u>
+</u>
+</u>
+</u>
+</u>
+</u>
+</u>
+</u>
+</u>
+</u>
+</u>
+</u></p>
+<p>
+<u>
+<u>
+<u>
+<u>
+<u>
+<u>
+<u>
+<u>
+<u>
+<u>
+<u>
+<u>
+<u>
+<u>
+<u>
+<u>
+</u>
+</u>
+</u>
+</u>
+</u>
+</u>
+</u>
+</u>
+</u>
+</u>
+</u>
+</u>
+</u>
+</u>
+</u>
+</u></p>
+<p>
+<u>
+<u>
+<u>
+<u>
+<u>
+<u>
+<u>
+<u>
+<u>
+<u>
+<u>
+<u>
+<u>
+<u>
+<u>
+<u>
+</u>
+</u>
+</u>
+</u>
+</u>
+</u>
+</u>
+</u>
+</u>
+</u>
+</u>
+</u>
+</u>
+</u>
+</u>
+</u></p>
+<p>
+<u>
+</u></p><u>
+<p>
+<u>
+<u>
+<u>
+<u>
+<u>
+<u>
+<u>
+<u>
+<u>
+<u>
+<u>
+<u>
+<u>
+<u>
+<u>
+<u>
+<u>
+<u>
+<u>
+<u>
+<u>
+<u>
+<u>
+<u>
+<u>
+<u>
+<u>
+<u>
+<u>
+<u>
+<u>
+<u>
+<u>
+<u>
+<u>
+<u>
+<u>
+<u>
+<u>
+<u>
+<u>
+<u>
+<u>
+<u>
+<u>
+<u>
+<u>
+<u>
+<u>
+<u>
+<u>
+<u>
+<u>
+<u>
+<u>
+<u>
+<u>
+<u>
+<u>
+<u>
+<u>
+<u>
+<u>
+<u>
+<u>
+<u>
+<u>
+<u>
+<u>
+<u>
+<u>
+<u>
+<u>
+<u>
+<u>
+<u>
+<u>
+<u>
+<u>
+<u>
+<u>
+<u>
+<u>
+<u>
+<u>
+<u>
+<u>
+<u>
+<u>
+<u>
+<u>
+<u>
+<u>
+<u>
+<u>
+<u>
+<u>
+<u>
+<u>
+<u>
+<u>
+<u>
+<u>
+<u>
+<u>
+<u>
+<u>
+<u>
+<u>
+<u>
+<u>
+<u>
+<u>
+<u>
+</u>
+</u>
+</u>
+</u>
+</u>
+</u>
+</u>
+</u>
+</u>
+</u>
+</u>
+</u>
+</u>
+</u>
+</u>
+</u>
+</u>
+</u>
+</u>
+</u>
+</u>
+</u>
+</u>
+</u>
+</u>
+</u>
+</u>
+</u>
+</u>
+</u>
+</u>
+</u>
+</u>
+</u>
+</u>
+</u>
+</u>
+</u>
+</u>
+</u>
+</u>
+</u>
+</u>
+</u>
+</u>
+</u>
+</u>
+</u>
+</u>
+</u>
+</u>
+</u>
+</u>
+</u>
+</u>
+</u>
+</u>
+</u>
+</u>
+</u>
+</u>
+</u>
+</u>
+</u>
+</u>
+</u>
+</u>
+</u>
+</u>
+</u>
+</u>
+</u>
+</u>
+</u>
+</u>
+</u>
+</u>
+</u>
+</u>
+</u>
+</u>
+</u>
+</u>
+</u>
+</u>
+</u>
+</u>
+</u>
+</u>
+</u>
+</u>
+</u>
+</u>
+</u>
+</u>
+</u>
+</u>
+</u>
+</u>
+</u>
+</u>
+</u>
+</u>
+</u>
+</u>
+</u>
+</u>
+</u>
+</u>
+</u>
+</u>
+</u>
+</u>
+</u></p>
+<p>
+<u>
+<u>
+<u>
+<u>
+<u>
+<u>
+</u>
+</u>
+</u>
+</u>
+</u>
+</u></p>
+<p>
+<u>
+<a href="download.php?id=1400">
+</a>
+</u>
+</p>
+<p>
+<u>
+<a href="download.php?id=1413">
+</a>
+</u>
+</p>
+<p>
+<u>
+<a href="download.php?id=1426">
+</a>
+</u>
+</p>
+<p>
+<u>
+<a href="download.php?id=1457">
+</a>
+</u>
+</p>
+<p>
+<u>
+<a href="download.php?id=1681">
+</a>
+</u>
+</p>
+<p>
+<u>
+<a href="download.php?id=1793">
+</a>
+</u>
+</p>
+<p>
+</p><table border="1" cellspacing="1" cellpadding="1" class="table-style" style="width: 100%;">
+<tbody>
+<tr class="table-header">
+<td style="text-align: center; width: 50%;">
+Документ
+</td>
+<td style="text-align: center; width: 50%;">
+Дата публикации
+</td>
+</tr>
+<tr class="default_table_row_2">
+<td style="width: 50%;" rowspan="1">
+<u>
+<a href="download.php?id=2034">
+Расчет размера собственных средств на 31.05.2023
+</a>
+</u>
+</td>
+<td style="text-align: center; width: 50%;" rowspan="1">
+15.06.2023
+</td>
+</tr>
+<tr class="default_table_row_2">
+<td style="width: 50%;" rowspan="1">
+<u>
+<a href="download.php?id=2022">
+Расчет размера собственных средств на 30.04.2023
+</a>
+</u>
+</td>
+<td style="text-align: center; width: 50%;" rowspan="1">
+19.05.2023
+</td>
+</tr>
+<tr class="default_table_row_2">
+<td style="width: 50%;" rowspan="1">
+<u>
+<a href="download.php?id=2006">
+Расчет размера собственных средств на 31.03.2023
+</a>
+</u>
+</td>
+<td style="text-align: center; width: 50%;" rowspan="1">
+13.04.2023
+</td>
+</tr>
+<tr class="default_table_row_2">
+<td style="width: 50%;" rowspan="1">
+<u>
+<a href="download.php?id=1996">
+Расчет размера собственных средств на 28.02.2023
+</a>
+</u>
+</td>
+<td style="text-align: center; width: 50%;" rowspan="1">
+15.03.2023
+</td>
+</tr>
+<tr class="default_table_row_2">
+<td style="width: 50%;" rowspan="1">
+<u>
+<a href="wysiwyg/htmlarea3rc3/uksgb.ru/download.php?id=1972">
+</a>
+<a href="download.php?id=1989">
+Расчет размера собственных средств на 31.01.2023
+</a>
+</u>
+</td>
+<td style="text-align: center; width: 50%;" rowspan="1">
+14.02.2023
+</td>
+</tr>
+<tr class="default_table_row_2">
+<td style="width: 50%;" rowspan="1">
+<u>
+<a href="download.php?id=1972">
+Расчет размера собственных средств на 31.12.2022
+</a>
+</u>
+</td>
+<td style="text-align: center; width: 50%;" rowspan="1">
+20.01.2023
+</td>
+</tr>
+<tr class="default_table_row_2">
+<td style="width: 50%;" rowspan="1">
+<u>
+<a href="download.php?id=1965">
+Расчет размера собственных средств на 30.11.2022
+</a>
+</u>
+</td>
+<td style="text-align: center; width: 50%;" rowspan="1">
+14.12.2022
+</td>
+</tr>
+<tr class="default_table_row_2">
+<td style="width: 50%;" rowspan="1">
+<u>
+<a href="download.php?id=1958">
+Расчет размера собственных средств на 31.10.2022
+</a>
+</u>
+</td>
+<td style="text-align: center; width: 50%;" rowspan="1">
+14.11.2022
+</td>
+</tr>
+<tr class="default_table_row_2">
+<td style="width: 50%;" rowspan="1">
+<u>
+<a href="download.php?id=1950">
+Расчет размера собственных средств на 30.09.2022
+</a>
+</u>
+</td>
+<td style="text-align: center; width: 50%;" rowspan="1">
+13.10.2022
+</td>
+</tr>
+<tr class="default_table_row_2">
+<td style="width: 50%;" rowspan="1">
+<u>
+<a href="download.php?id=1943">
+Расчет размера собственных средств на 31.08.2022
+</a>
+</u>
+</td>
+<td style="text-align: center; width: 50%;" rowspan="1">
+13.09.2022
+</td>
+</tr>
+<tr class="default_table_row_2">
+<td style="width: 50%;" rowspan="1">
+<u>
+<a href="download.php?id=1931">
+Расчет размера собственных средств на 31.07.2022
+</a>
+</u>
+</td>
+<td style="text-align: center; width: 50%;" rowspan="1">
+11.08.2022
+</td>
+</tr>
+<tr class="default_table_row_2">
+<td style="width: 50%;" rowspan="1">
+<u>
+<a href="download.php?id=1919">
+Расчет размера собственных средств на 30.06.2022
+</a>
+</u>
+</td>
+<td style="text-align: center; width: 50%;" rowspan="1">
+14.07.2022
+</td>
+</tr>
+<tr class="default_table_row_2">
+<td style="width: 50%;" rowspan="1">
+<u>
+<a href="download.php?id=1908">
+Расчет размера собственных средств на 31.05.2022
+</a>
+</u>
+</td>
+<td style="text-align: center; width: 50%;" rowspan="1">
+11.06.2022
+</td>
+</tr>
+<tr class="default_table_row_2">
+<td style="width: 50%;" rowspan="1">
+<u>
+<a href="download.php?id=1881">
+Расчет размера собственных средств на 30.04.2022
+</a>
+</u>
+</td>
+<td style="text-align: center; width: 50%;" rowspan="1">
+20.05.2022
+</td>
+</tr>
+<tr class="default_table_row_2">
+<td style="width: 50%;" rowspan="1">
+<u>
+<a href="download.php?id=1870">
+Расчет размера собственных средств на 31.03.2022
+</a>
+</u>
+</td>
+<td style="text-align: center; width: 50%;" rowspan="1">
+14.04.2022
+</td>
+</tr>
+<tr class="default_table_row_2">
+<td style="width: 50%;" rowspan="1">
+<u>
+<a href="download.php?id=1856">
+Расчет размера собственных средств на 28.02.2022
+</a>
+</u>
+</td>
+<td style="text-align: center; width: 50%;" rowspan="1">
+14.03.2022
+</td>
+</tr>
+<tr class="default_table_row_2">
+<td style="width: 50%;" rowspan="1">
+<u>
+<a href="wysiwyg/htmlarea3rc3/uksgb.ru/download.php?id=1824">
+</a>
+<a href="download.php?id=1842">
+Расчет размера собственных средств на 31.01.2022
+</a>
+</u>
+</td>
+<td style="text-align: center; width: 50%;" rowspan="1">
+11.02.2022
+</td>
+</tr>
+<tr class="default_table_row_2">
+<td style="width: 50%;" rowspan="1">
+<u>
+<a href="download.php?id=1824">
+Расчет размера собственных средств на 31.12.2021
+</a>
+</u>
+</td>
+<td style="text-align: center; width: 50%;" rowspan="1">
+24.01.2022
+</td>
+</tr>
+<tr class="default_table_row_2">
+<td style="width: 50%;" rowspan="1">
+<u>
+<a href="download.php?id=1819">
+Расчет размера собственных средств на 30.11.2021
+</a>
+</u>
+</td>
+<td style="text-align: center; width: 50%;" rowspan="1">
+14.12.2021
+</td>
+</tr>
+<tr class="default_table_row_2">
+<td style="width: 50%;" rowspan="1">
+<u>
+<a href="download.php?id=1815">
+Расчет размера собственных средств на 31.10.2021
+</a>
+</u>
+</td>
+<td style="text-align: center; width: 50%;" rowspan="1">
+17.11.2021
+</td>
+</tr>
+<tr class="default_table_row_2">
+<td style="width: 50%;">
+<u>
+<a href="download.php?id=1804">
+Расчет размера собственных средств на 30.09.2021
+</a>
+</u>
+</td>
+<td style="text-align: center; width: 50%;">
+14.10.2021
+</td>
+</tr>
+</tbody>
+</table>
+<p></p>
+<p>
+<u>
+<a href="download.php?id=1793">
+Расчет размера собственных средств на 31.08.2021г
+</a>
+&nbsp;(опубликовано 13.09.2021г. 12ч.39 мин., доступно до 14.09
+</u>
+<u>
+.2024г.)
+</u>
+</p>
+<p>
+<u>
+<u>
+<a href="download.php?id=1756">
+Расчет размера собственных средств на 31.07.2021г
+</a>
+&nbsp;(опубликовано 12.08.2021г. 16ч.50 мин., доступно до 13.08
+</u>
+<u>
+.2024г.)
+</u>
+</u>
+</p>
+<p>
+<u>
+<u>
+<u>
+<a href="download.php?id=1743">
+Расчет размера собственных средств на 30.06.2021г
+</a>
+&nbsp;(опубликовано 13.07.2021г. 18ч.20 мин., доступно до 14.07
+</u>
+<u>
+.2024г.)
+</u>
+</u>
+</u>
+</p>
+<p>
+<u>
+<u>
+<u>
+<u>
+<a href="wysiwyg/htmlarea3rc3/uksgb.ru/download.php?id=1735">
+</a>
+<a href="download.php?id=1740">
+Расчет размера собственных средств на 31.05.2021г
+</a>
+(опубликовано 16.06.2021г. 11ч.40 мин., доступно до 17.06
+</u>
+<u>
+.2024г.)
+</u>
+</u>
+</u>
+</u>
+</p>
+<p>
+<u>
+<u>
+<u>
+<a href="download.php?id=1735">
+Расчет размера собственных средств на 30.04.2021г
+</a>
+&nbsp;(опубликовано 21.05.2021г. 11ч.50 мин., доступно до 22.05
+</u>
+<u>
+.2024г.)
+</u>
+</u>
+</u>
+</p>
+<p>
+<u>
+<u>
+<u>
+<u>
+<a href="download.php?id=1731">
+Расчет размера собственных средств на 31.03.2021г
+</a>
+&nbsp;(опубликовано 14.04.2021г. 18ч.39 мин., доступно до 15.04
+</u>
+<u>
+.2024г.)
+</u>
+</u>
+</u>
+</u>
+</p>
+<p>
+<u>
+<u>
+<u>
+<u>
+<a href="download.php?id=1718">
+Расчет размера собственных средств на 28.02.2021г
+</a>
+&nbsp;(опубликовано 15.03.2021г. 13ч.20 мин., доступно до 16.03
+</u>
+<u>
+.2024г.)
+</u>
+</u>
+</u>
+</u>
+</p>
+<p>
+<u>
+<u>
+<u>
+<u>
+<a href="download.php?id=1710">
+Расчет размера собственных средств на 31.01.2021г
+</a>
+&nbsp;(опубликовано 11.02.2021г. 17ч.00 мин., доступно до 12.02
+</u>
+<u>
+.2024г.)
+</u>
+</u>
+</u>
+</u>
+</p>
+<p>
+<u>
+<u>
+<u>
+<u>
+<a href="download.php?id=1709">
+Расчет размера собственных средств на 31.12.2020г
+</a>
+&nbsp;(опубликовано 22.01.2021г. 16ч.40 мин., доступно до 23.01
+</u>
+<u>
+.2024г.)
+</u>
+</u>
+</u>
+</u>
+</p>
+<p>
+<u>
+<u>
+<u>
+<u>
+<a href="download.php?id=1704">
+Расчет размера собственных средств на 30.11.2020г
+</a>
+&nbsp;(опубликовано 14.12.2020г. 16ч.50 мин., доступно до 15.12
+</u>
+<u>
+.2023г.)
+</u>
+</u>
+</u>
+</u>
+</p>
+<p>
+<u>
+<u>
+<u>
+<u>
+<a href="download.php?id=1703">
+Расчет размера собственных средств на 31.10.2020г
+</a>
+&nbsp;(опубликовано 13.11.2020г. 15ч.30 мин., доступно до 14.11
+</u>
+<u>
+.2023г.)
+</u>
+</u>
+</u>
+</u>
+</p>
+<p>
+<u>
+<u>
+<u>
+<u>
+<a href="download.php?id=1701">
+Расчет размера собственных средств на 30.09.2020г
+</a>
+&nbsp;(опубликовано 13.10.2020г. 18ч.40 мин., доступно до 14.10
+</u>
+<u>
+.2023г.)
+</u>
+</u>
+</u>
+</u>
+</p>
+<p>
+</p><p>
+</p><p>
+<u>
+<u>
+<u>
+<u>
+<u>
+<u>
+<u>
+<u>
+<u>
+<u>
+<u>
+</u>
+</u>
+</u>
+</u>
+</u>
+</u>
+</u>
+</u>
+</u>
+</u>
+</u></p>
+<u>
+<u>
+<u>
+<u>
+<u>
+<u>
+<u>
+<u>
+<u>
+<u>
+<u>
+</u>
+</u>
+</u>
+</u>
+</u>
+</u>
+</u>
+</u>
+</u>
+
+
+</u>
+
+</u></u></u></div>
+
+			<table class="w100"><tbody><tr><td><!----></td></tr></tbody></table>
+			</div>
+			<div class="clear"><!----></div></div>
+		</div>
+	</div>
+	<div class="footer block">
+	    <div class="contacts">620026, г.Екатеринбург, ул. Белинского, 83, тел./факс: (343) 278-96-58<br>
+Ознакомиться с Правилами доверительного управления Фондом и получить более подробную информацию о Фонде и Управляющей компании можно по адресу:  г.Екатеринбург, ул.Белинского, 83, а также по тел. (343) 278-96-58 и на странице в сети Интернет по адресу www.uksgb.ru. <br>
+!!!СТОИМОСТЬ ИНВЕСТИЦИОННЫХ ПАЕВ МОЖЕТ УВЕЛИЧИВАТЬСЯ И УМЕНЬШАТЬСЯ, РЕЗУЛЬТАТЫ ИНВЕСТИРОВАНИЯ В ПРОШЛОМ НЕ ОПРЕДЕЛЯЮТ ДОХОДЫ В БУДУЩЕМ, ГОСУДАРСТВО НЕ ГАРАНТИРУЕТ ДОХОДНОСТЬ ИНВЕСТИЦИЙ В ПАЕВЫЕ ИНВЕСТИЦИОННЫЕ ФОНДЫ. ПРЕЖДЕ ЧЕМ ПРИОБРЕСТИ ИНВЕСТИЦИОННЫЙ ПАЙ, СЛЕДУЕТ ВНИМАТЕЛЬНО ОЗНАКОМИТЬСЯ С ПРАВИЛАМИ ФОНДА!!!</div>
+	    <div class="develop">
+	        <a href="http://www.titansoft.ru/" target="_blank">
+				разработка корпоративных сайтов<br>
+				<img src="/templates/site/images/footer-logo.gif" alt="TitanSoft">
+			</a><br>
+			<a href="http://www.titansoft.ru/" target="_blank">
+				продвижение корпоративного сайта
+			</a>
+	    </div>
+	</div>
+
+

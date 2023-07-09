@@ -1,0 +1,172 @@
+
+<header class="header container">
+    <div id="menu-icon-wrapper">
+        <img class="open-menu" src="/local/templates/alternative-im/img/menu-icon.svg">
+        <img class="close-menu" src="/local/templates/alternative-im/img/menu_icon_close.svg">
+    </div>
+    <a class="header-logo" href="/">
+        <img src="/local/templates/alternative-im/img/logo.svg">
+    </a>
+</header>
+<div class="top-menu-wrapper white-back">
+    <div class="container">
+            <div class="top-menu-inner">
+            
+                    <div class="menu-item-wrapper">
+                <a class="simple" href="/licences/">Лицензии</a>
+                            </div>
+                            
+                    <div class="menu-item-wrapper has-children">
+                <a class="simple" href="/public/">Раскрытие информации</a>
+                                    <div class="show-children"></div>
+                            </div>
+                            <div class="top-menu-children level-1">
+                    
+                    <div class="menu-item-wrapper">
+                <a class="simple" href="/public/buhotchetnost/">Финансовая отчетность и аудиторское заключение</a>
+                            </div>
+                            
+                    <div class="menu-item-wrapper">
+                <a class="simple" href="/public/balancesheet/">Бухгалтерский баланс (архив)</a>
+                            </div>
+                            
+                    <div class="menu-item-wrapper">
+                <a class="simple" href="/public/audit/">Аудиторское заключение (архив)</a>
+                            </div>
+                            
+                    <div class="menu-item-wrapper">
+                <a class="simple" href="/public/profitloss/">Отчет о финансовых результатах (архив)</a>
+                            </div>
+                            
+                    <div class="menu-item-wrapper">
+                <a class="simple" href="/public/calculation/">Расчет размера собственных средств</a>
+                            </div>
+                            
+                    <div class="menu-item-wrapper">
+                <a class="simple" href="/public/kriterii_otneseniya_klientov_k_kategorii_nalogoplatelshchikov_ssha/">Критерии отнесения клиентов к категории налогоплательщиков США</a>
+                            </div>
+                            
+                    <div class="menu-item-wrapper">
+                <a class="simple" href="/public/edms/">Электронный документооборот</a>
+                            </div>
+                            
+                    <div class="menu-item-wrapper">
+                <a class="simple" href="/public/regulations/">Регламент о признании лиц квалифицированными инвесторами</a>
+                            </div>
+                            
+                    <div class="menu-item-wrapper">
+                <a class="simple" href="/public/msfo/">Консолидированная МСФО отчетность</a>
+                            </div>
+                            
+                    <div class="menu-item-wrapper">
+                <a class="simple" href="/public/capitalchange/">Отчет об изменениях капитала (архив)</a>
+                            </div>
+                            
+                    <div class="menu-item-wrapper">
+                <a class="simple" href="/public/odds/">Отчет о потоках денежных средств (архив)</a>
+                            </div>
+                            
+                    <div class="menu-item-wrapper">
+                <a class="simple" href="/public/reportnotes/">Примечания к отчетности (архив)</a>
+                            </div>
+                            
+                    <div class="menu-item-wrapper">
+                <a class="simple" href="/public/company/">Раскрытие предшествующих наименований компании</a>
+                            </div>
+                                            </div>
+                    
+                    <div class="menu-item-wrapper">
+                <a class="simple" href="/requisites/">Реквизиты компании</a>
+                            </div>
+                            
+                    <div class="menu-item-wrapper">
+                <a class="simple" href="/contacts/">Контакты</a>
+                            </div>
+                            
+                    <div class="menu-item-wrapper">
+                <a class="simple" href="/ofitsialnaya_informatsiya/">Официальная информация</a>
+                            </div>
+                            
+                    <div class="menu-item-wrapper has-children">
+                <a class="simple" href="/help/">Поддержка</a>
+                                    <div class="show-children"></div>
+                            </div>
+                            <div class="top-menu-children level-1">
+                    
+                    <div class="menu-item-wrapper">
+                <a class="simple" href="/help/faq/">Часто задаваемые вопросы</a>
+                            </div>
+                            
+                    <div class="menu-item-wrapper">
+                <a class="simple" href="/help/consultation/">Обратный звонок</a>
+                            </div>
+                            
+                    <div class="menu-item-wrapper">
+                <a class="simple" href="/help/ask/">Задать вопрос</a>
+                            </div>
+                            
+                    <div class="menu-item-wrapper">
+                <a class="simple" href="/help/handling/">Подать обращение</a>
+                            </div>
+                                </div>
+                    </div>
+            </div>
+    </div>
+
+<main class="container main">
+    <div class="row">
+                <div class="col">
+            <div class="main-container white-back">
+<div class="list1_1">
+            <h3>Обновления раскрытия информации</h3>
+    	<ul>
+				<li>
+			<p class="date1">16.06.2023, 13:41</p>
+			<a href="/public/calculation/" title="Расчет собственных средств на 31.05.2023">
+                Расчет собственных средств на 31.05.2023            </a>
+		</li>
+				<li>
+			<p class="date1">18.05.2023, 13:20</p>
+			<a href="/public/calculation/" title="Расчет собственных средств на 30.04.2023">
+                Расчет собственных средств на 30.04.2023            </a>
+		</li>
+				<li>
+			<p class="date1">02.05.2023, 10:34</p>
+			<a href="/public/buhotchetnost/" title="Годовая консолидированная отчетность за  2022 г. по стандартам МСФО">
+                Годовая консолидированная отчетность за  2022 г. по стандартам МСФО            </a>
+		</li>
+				<li>
+			<p class="date1">28.04.2023, 12:28</p>
+			<a href="/public/buhotchetnost/" title="Бухгалтерская (финансовая) отчетность за 1 квартал 2023 г.">
+                Бухгалтерская (финансовая) отчетность за 1 квартал 2023 г.            </a>
+		</li>
+			</ul>
+	
+            <h4>
+            <a href="/public/all/" title="Посмотреть все уведомления">Посмотреть все уведомления</a>
+        </h4>
+    </div>
+
+    <br>                </div>
+            </div>
+        </div>
+    </main>
+<footer class="footer">
+    <div class="container">
+            <div class="top-menu-inner">
+            
+                    <div class="menu-item-wrapper">
+                <a class="simple" href="/contacts/">Контактная информация</a>
+                            </div>
+                            
+                    <div class="menu-item-wrapper">
+                <a class="simple" href="/map/">Карта сайта</a>
+                            </div>
+                            
+                    <div class="menu-item-wrapper">
+                <a class="simple" href="/public/nfoinformation/">Информация о лицах, под контролем либо значительным влиянием которых находится управляющая компания</a>
+                            </div>
+                                </div>
+    </div>
+</footer>
+

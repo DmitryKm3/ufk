@@ -1,0 +1,988 @@
+
+<div id="panel"></div>
+  <header class="c-header">
+    <div class="c-header__topline">
+      <div class="l-container">
+        <div class="c-header__row">
+          <div class="c-header__col c-header__col--logo">
+            <a href="/" class="c-header__logo">
+              <img src="/images/logo.png" alt="Национальная Управляющая компания">
+            </a>
+          </div>
+		  
+<div class="c-header__col c-header__col--nav">
+            <nav class="c-header__nav">
+
+				<a href="/about/" class="c-header__nav-item">О Компании</a>
+				<a href="/about/contacts/" class="c-header__nav-item">Контакты</a>
+		</nav>
+      </div>
+          <div class="c-header__col c-header__col--contacts">
+			              <div class="c-header__contacts">
+              <div class="c-header__contacts-title">Единая справочная служба в Москве:</div>
+              <a href="tel:+74956401711" class="c-header__contacts-tel">+7 (495) 640-17-11</a>
+            </div>
+          </div>
+          <div class="c-header__col c-header__col--menu">
+            <div class="c-burger">
+              <div class="c-burger__line"></div>
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+	
+<div class="c-header__navline">
+      <div class="l-container">
+        <div class="c-header__controls">
+          <div class="c-header__userblock">
+            <a href="#" class="c-header__userblock-signin">Вход</a>&nbsp;|&nbsp;<a class="c-header__userblock-signup" href="#">Регистрация</a>
+          </div>
+          <div class="c-header__close"></div>
+        </div>
+        <nav class="c-header__menu">
+								<div class="c-header__menu-item ">
+				Частным клиентам				<div class="c-header__submenu c-subnav">
+				  <div class="c-subnav__container">
+					<div class="c-subnav__row">
+																						<div class="c-subnav__col c-subnav__col--2">															<a href="/individuals/pif/" class="c-subnav__link">Паевые фонды</a>
+																													<div class="c-subnav__col c-subnav__col--1">
+							<span class="c-subnav__link"><a href="/individuals/trust/" class="c-subnav__link">Доверительное управление</a></span>
+							<div class="c-subnav__subitems">
+							  <div class="c-subnav__row">
+								<div class="c-subnav__col c-subnav__col--4">
+																<a href="/individuals/trust/strategies/" class="c-subnav__sublink">ИНДИВИДУАЛЬНЫЙ ПОДХОД</a>
+																</div>
+							  </div>
+							</div>
+						</div>
+																							<div class="c-subnav__col c-subnav__col--1">
+							<span class="c-subnav__link"><a href="/individuals/pension/" class="c-subnav__link">Управление Пенсией</a></span>
+							<div class="c-subnav__subitems">
+							  <div class="c-subnav__row">
+								<div class="c-subnav__col c-subnav__col--4">
+																<a href="/individuals/pension/services/" class="c-subnav__sublink">Услуги УК</a>
+																<a href="/disclosure/pension/" class="c-subnav__sublink">Отчетность</a>
+																</div>
+							  </div>
+							</div>
+						</div>
+																																						<a href="/individuals/analytics/" class="c-subnav__link" style="margin-top: 6px;">Колонка Аналитика</a>
+						</div>																</div>
+				  </div>
+				</div>
+			  </div>
+											<div class="c-header__menu-item ">
+				Корпоративным клиентам				<div class="c-header__submenu c-subnav">
+				  <div class="c-subnav__container">
+					<div class="c-subnav__row">
+																						<div class="c-subnav__col c-subnav__col--1">
+							<span class="c-subnav__link"><a href="/corporate/pif/" class="c-subnav__link">Паевые фонды </a></span>
+							<div class="c-subnav__subitems">
+							  <div class="c-subnav__row">
+								<div class="c-subnav__col c-subnav__col--4">
+																<a href="/corporate/pif/zakrytye-pif-corp/" class="c-subnav__sublink">Закрытые ПИФы</a>
+																</div>
+							  </div>
+							</div>
+						</div>
+																							<div class="c-subnav__col c-subnav__col--1">
+							<span class="c-subnav__link"><a href="/corporate/trust/" class="c-subnav__link">Доверительное управление</a></span>
+							<div class="c-subnav__subitems">
+							  <div class="c-subnav__row">
+								<div class="c-subnav__col c-subnav__col--4">
+																<a href="/corporate/trust/strategies/" class="c-subnav__sublink">Стратегии</a>
+																</div>
+							  </div>
+							</div>
+						</div>
+																							<div class="c-subnav__col c-subnav__col--2">															<a href="/corporate/upravlenie-tselevym-kapitalom/" class="c-subnav__link">Управление целевым капиталом</a>
+																																												<a href="/corporate/upravlenie-strakhovymi-rezervami/" class="c-subnav__link">Управление страховыми резервами</a>
+																																											</div>
+							<div class="c-subnav__col c-subnav__col--2">
+															<a href="/corporate/upravlenie-kompensatsionnym-fondom-sro/" class="c-subnav__link">Управление компенсационным фондом СРО</a>
+																																												<a href="/corporate/upravlenie-aktivami-npf/" class="c-subnav__link">Управление активами НПФ</a>
+						</div>																</div>
+				  </div>
+				</div>
+			  </div>
+											<div class="c-header__menu-item ">
+				Раскрытие информации				<div class="c-header__submenu c-subnav">
+				  <div class="c-subnav__container">
+					<div class="c-subnav__row">
+																						<div class="c-subnav__col c-subnav__col--2">															<a href="/disclosure/company/" class="c-subnav__link">Отчетность управляющей компании</a>
+																																												<a href="/disclosure/pif/" class="c-subnav__link">Отчетность по паевым инвестиционным фондам</a>
+																																											</div>
+							<div class="c-subnav__col c-subnav__col--2">
+															<a href="/disclosure/pension/" class="c-subnav__link">Отчетность по пенсионным накоплениям</a>
+																																												<a href="/disclosure/prof/" class="c-subnav__link">Отчетность профессионального участника рынка ценных бумаг</a>
+																																											</div>
+							<div class="c-subnav__col c-subnav__col--2">
+															<a href="/disclosure/messages/" class="c-subnav__link">Информационные сообщения (существенные факты)	</a>
+																																												<a href="/disclosure/workflow/" class="c-subnav__link">Электронный документооборот	</a>
+																																											</div>
+							<div class="c-subnav__col c-subnav__col--2">
+															<a href="/disclosure/inside/" class="c-subnav__link">Перечень инсайдерской информации</a>
+																																												<a href="/disclosure/customers/" class="c-subnav__link">Информация для клиентов</a>
+																																											</div>
+							<div class="c-subnav__col c-subnav__col--2">
+															<a href="/disclosure/info/" class="c-subnav__link">Информация о структуре и составе акционеров управляющей компании, в том числе о лицах, под контролем либо значительным влиянием которых находится управляющая компания</a>
+						</div>																</div>
+				  </div>
+				</div>
+			  </div>
+											<a href="/about/news/" class="c-header__menu-item ">Новости</a>
+							</nav>
+      </div>
+    </div>
+  </header>
+
+	<div class="c-page l-container">
+    <aside class="c-page__aside">
+	  
+<div class="c-asideMenu">
+
+
+	
+	
+		
+							<div class="c-asideMenu__item c-asideMenu__item--active"><a href="/disclosure/company/" class="c-asideMenu__item-caption">Отчетность управляющей компании</a></div>
+					
+	
+	
+
+	
+	
+		
+							<div class="c-asideMenu__item"><a href="/disclosure/pif/" class="c-asideMenu__item-caption">Отчетность по паевым инвестиционным фондам</a></div>
+					
+	
+	
+
+	
+	
+		
+							<div class="c-asideMenu__item"><a href="/disclosure/pension/" class="c-asideMenu__item-caption">Отчетность по пенсионным накоплениям</a></div>
+					
+	
+	
+
+	
+	
+		
+							<div class="c-asideMenu__item"><a href="/disclosure/prof/" class="c-asideMenu__item-caption">Отчетность профессионального участника рынка ценных бумаг</a></div>
+					
+	
+	
+
+	
+	
+		
+							<div class="c-asideMenu__item"><a href="/disclosure/messages/" class="c-asideMenu__item-caption">Информационные сообщения (существенные факты)	</a></div>
+					
+	
+	
+
+	
+	
+		
+							<div class="c-asideMenu__item"><a href="/disclosure/workflow/" class="c-asideMenu__item-caption">Электронный документооборот	</a></div>
+					
+	
+	
+
+	
+	
+		
+							<div class="c-asideMenu__item"><a href="/disclosure/inside/" class="c-asideMenu__item-caption">Перечень инсайдерской информации</a></div>
+					
+	
+	
+
+	
+	
+		
+							<div class="c-asideMenu__item"><a href="/disclosure/customers/" class="c-asideMenu__item-caption">Информация для клиентов</a></div>
+					
+	
+	
+
+	
+	
+		
+							<div class="c-asideMenu__item"><a href="/disclosure/info/" class="c-asideMenu__item-caption">Информация о структуре и составе акционеров управляющей компании, в том числе о лицах, под контролем либо значительным влиянием которых находится управляющая компания</a></div>
+					
+	
+	
+
+</div>
+			      </aside>
+    <main class="c-page__main">
+	  <ul class="c-breadCrumbs"><li class="c-breadCrumbs__item"><a href="/" title="Главная" itemprop="url">Главная</a></li><li class="c-breadCrumbs__item"><a href="/disclosure/" title="Раскрытие информации" itemprop="url">Раскрытие информации</a></li><li class="c-breadCrumbs__item">Отчетность управляющей компании</li></ul>      <h1 class="c-page__title">Реквизиты управляющей компании</h1>
+		<article class="c-wysiwyg">			  
+<div class="c-tabs__unit" id="nmc_tab_sharing" style="display: block;">
+	<div class="c-wysiwyg">
+		<div class="c-smalltab">
+			<div class="c-smalltab__menu">
+ <a href="#" class="c-smalltab__menu-item c-smalltab__menu-item--active" data-tab="#smallTab4">Отчетность</a>
+<a href="#" class="c-smalltab__menu-item" data-tab="#smallTab4">Реквизиты управляющей компании</a>
+
+			</div>
+			<div class="c-smalltab__content">
+				 
+				<div id="smallTab1" class="c-smalltab__unit c-smalltab__unit--active">
+                    <div class="c-pager">
+										                      <a href="/ajax/reports.php?id=707" class="c-pager__item c-pager__item--active">2023</a>
+															                      <a href="/ajax/reports.php?id=703" class="c-pager__item">2022</a>
+															                      <a href="/ajax/reports.php?id=690" class="c-pager__item">2021</a>
+															                      <a href="/ajax/reports.php?id=678" class="c-pager__item">2020</a>
+															                      <a href="/ajax/reports.php?id=653" class="c-pager__item">2019</a>
+															                      <a href="/ajax/reports.php?id=614" class="c-pager__item">2018</a>
+															                      <a href="/ajax/reports.php?id=566" class="c-pager__item">2017</a>
+															                      <a href="/ajax/reports.php?id=308" class="c-pager__item">2016</a>
+															                      <a href="/ajax/reports.php?id=307" class="c-pager__item">2015</a>
+															                      <a href="/ajax/reports.php?id=306" class="c-pager__item">2014</a>
+															                      <a href="/ajax/reports.php?id=305" class="c-pager__item">2013</a>
+															                      <a href="/ajax/reports.php?id=304" class="c-pager__item">2012</a>
+															                      <a href="/ajax/reports.php?id=303" class="c-pager__item">2011</a>
+															                      <a href="/ajax/reports.php?id=302" class="c-pager__item">2010</a>
+										                    </div>
+                    <div class="j-ajaxContent" style="opacity: 1; display: block;">
+																<div class="u-mb25">
+                        <div class="c-h4">1 квартал</div>
+												                        <a href="/upload/iblock/87c/uffsxz39pcvgiugu25tq7233jylmpel7/Auditorskoe-zaklyuchenie-AO-NUK-2023_1-kvartal.pdf" class="c-file c-file--pdf">Аудиторское заключение <span class="u-gray">[10010&nbsp;Кб], 01.06.2023</span></a>
+																			                        <a href="/upload/iblock/668/fm2qy2a9ih2sq58jdzf09oqpdxsa04d5/Bukhgalterskaya-_finansovaya_-otchyetnost_NUK-AO_2023_1-kvartal.pdf" class="c-file c-file--pdf">Бухгалтерская (финансовая) отчетность  <span class="u-gray">[10663&nbsp;Кб], 27.04.2023</span></a>
+																			                        <a href="/upload/iblock/e0c/c6bwqt6ynh87729ihgahqaq8z9w867ws/Raschyet-sobstvennykh-sredstv_2023.03.31.xlsx" class="c-file c-file--pdf">Расчет размера собственных средств - март <span class="u-gray">[26&nbsp;Кб], 17.04.2023</span></a>
+																			                        <a href="/upload/iblock/70e/uscj769xnoht6fzp0zvos1e9jsf3izs9/Raschyet-sobstvennykh-sredstv_2023.02.28.xlsx" class="c-file c-file--pdf">Расчет размера собственных средств - февраль <span class="u-gray">[26&nbsp;Кб], 17.03.2023</span></a>
+																			                        <a href="/upload/iblock/a5b/Raschyet-sobstvennykh-sredstv_2023.01.31.xlsx" class="c-file c-file--pdf">Расчет размера собственных средств - январь <span class="u-gray">[26&nbsp;Кб], 15.02.2023</span></a>
+																			</div>
+						<p></p>
+																					<div class="u-mb25">
+                        <div class="c-h4">2 квартал</div>
+												                        <a href="/upload/iblock/d4b/6k5pdzrtmlzi71w323idza3la2fb4lp1/Raschyet-razmera-sobstvennykh-sredstv_2023.05.31.xlsx" class="c-file c-file--pdf">Расчет размера собственных средств - май <span class="u-gray">[26&nbsp;Кб], 16.06.2023</span></a>
+																			                        <a href="/upload/iblock/803/ztwxsho2jrlogdpossxp8g3qvfbje7oj/Raschyet-razmera-sobstvennykh-sredstv_2023.04.30.xlsx" class="c-file c-file--pdf">Расчет размера собственных средств - апрель <span class="u-gray">[27&nbsp;Кб], 18.05.2023</span></a>
+																			</div>
+						<p></p>
+															</div>
+					<p>Раскрываемая на сайте информация находится в постоянном доступе.</p>
+                </div>
+				<script>
+              $(function() {
+                $('.c-pager').on('click', function(e) {
+                  e.preventDefault();
+                  var that = $(this), 
+                      url, 
+                      container, 
+                      link = $(e.target).closest('.c-pager__item');
+                  
+                  if(link.length === 0) {return};
+            
+                  link.addClass('c-pager__item--active').siblings().removeClass('c-pager__item--active')
+                  url = link.attr('href');
+                  container = that.siblings('.j-ajaxContent');
+                  container.stop().fadeOut();
+            
+                  var jqxhr = $.get({
+                    url: url,
+                    dataType: 'html'
+                  })
+                    .done(function(d) {
+                      container.html(d)
+                      .stop(true, true).fadeIn();
+                    })
+                    .fail(function() {
+                      container.html('Произошла ошибка на сервере. Пожалуйста, повторите попытку позже.').stop(true, true).fadeIn()
+                    });
+                })
+				
+				$('.c-pager__item--active').click();
+				
+              });
+            </script> <div id="smallTab2" class="c-smalltab__unit">
+    <div class="j-ajaxContent"><br><br>
+                    </div>
+                  </div> <div id="smallTab3" class="c-smalltab__unit">
+    <div class="j-ajaxContent"><br><br>
+			<div class="u-mb25">
+
+					<a href="/upload/iblock/35d/soobshchenie_adres_utochnenie_12.2019.pdf" class="c-file c-file--pdf">Сообщение об изменении (уточнении) адреса АО «НУК» <span class="u-gray">[39&nbsp;Кб], 24.12.2019 15:59</span></a>
+		</div>
+			<div class="u-mb25">
+
+					<a href="/upload/iblock/cbc/soobshchenie_faks_2019.pdf" class="c-file c-file--pdf">Сообщение об изменении факса АО "НУК" <span class="u-gray">[39&nbsp;Кб], 02.08.2019 13:56</span></a>
+		</div>
+			<div class="u-mb25">
+
+					<a href="/upload/iblock/4bf/soobshchenie_adres_2019_utochnenie.pdf" class="c-file c-file--pdf">Сообщение об уточнении адреса АО "НУК" <span class="u-gray">[39&nbsp;Кб], 17.07.2019 16:56</span></a>
+		</div>
+			<div class="u-mb25">
+
+					<a href="/upload/iblock/9ee/soobshchenie_adres_2019.pdf" class="c-file c-file--pdf">Сообщение об изменении адреса АО «НУК» <span class="u-gray">[39&nbsp;Кб], 24.06.2019 17:41</span></a>
+		</div>
+			<div class="u-mb25">
+
+					<a href="/upload/iblock/a6f/Soobshchenie-o-prekrashchenii-paevogo-investitsionnogo-fonda_SHESTOY-NATSIONALNYY.pdf" class="c-file c-file--pdf">Сообщение о прекращении Закрытого паевого инвестиционно фонда недвижимости "ШЕСТОЙ НАЦИОНАЛЬНЫЙ"* <span class="u-gray">[59&nbsp;Кб], 28.03.2018 10:06</span></a>
+		</div>
+			<div class="u-mb25">
+
+					<a href="/upload/iblock/dbe/Soobshchenie-o-vnesenii-izmeneniy-v-svedeniya-ob-agente_izmenenie-nazvaniy-fondov_10.2017.pdf" class="c-file c-file--pdf">Сообщение об изменении сведений об агенте по выдаче, погашению и обмену инвестиционных паев <span class="u-gray">[116&nbsp;Кб], 27.10.2017 17:27</span></a>
+		</div>
+			<div class="u-mb25">
+
+					<a href="/upload/iblock/b86/soobshchenie-o-vnesenii-izmeneniy-v-svedeniya-ob-agente_izm.nazvaniy-anatresa_-3d_201703.pdf" class="c-file c-file--pdf">Сообщение об изменении сведений об агенте по выдаче, погашению и обмену инвестиционных паев <span class="u-gray">[112&nbsp;Кб], 06.02.2017 06:20</span></a>
+		</div>
+			<div class="u-mb25">
+
+					<a href="/upload/iblock/2ff/soobshchenie-o-vnesenii-izmeneniy-v-svedeniya-ob-agente_201612.doc" class="c-file c-file--pdf">Сообщение об изменении сведений об агенте по выдаче, погашению и обмену инвестиционных паев <span class="u-gray">[114&nbsp;Кб], 06.12.2016 10:22</span></a>
+		</div>
+			<div class="u-mb25">
+
+					<a href="/upload/iblock/eb4/soobshchenie-o-vnesenii-izmeneniy-v-svedeniya-ob-agente_izmenenie-nazvaniy-fondov-k_pz_s.doc" class="c-file c-file--pdf">Сообщение об изменении сведений об агенте по выдаче, погашению и обмену инвестиционных паев <span class="u-gray">[114&nbsp;Кб], 31.10.2016 10:12</span></a>
+		</div>
+			<div class="u-mb25">
+
+					<a href="/upload/iblock/fad/soobshchenie-o-vnesenii-svedeniy-ob-agente-v-reestr.doc" class="c-file c-file--pdf">Сообщение о внесении сведений об агенте в реестр <span class="u-gray">[108&nbsp;Кб], 27.10.2016 11:00</span></a>
+		</div>
+			<div class="u-mb25">
+
+					<a href="/upload/iblock/d3f/soobshchenie-o-vnesenii-izmeneniy-v-svedeniya-ob-agente_201607.doc" class="c-file c-file--pdf">Сообщение об изменении сведений об агенте по выдаче, погашению и обмену инвестиционных паев <span class="u-gray">[116&nbsp;Кб], 29.07.2016 09:53</span></a>
+		</div>
+			<div class="u-mb25">
+
+					<a href="/upload/iblock/0ae/0aee4ffe1c2f00fdbf40819cccaaf7a4.doc" class="c-file c-file--pdf">Сообщение об изменении места нахождения АО «НУК» <span class="u-gray">[36&nbsp;Кб], 11.04.2016 10:49</span></a>
+		</div>
+			<div class="u-mb25">
+
+					<a href="/upload/iblock/7a8/7a87718b661bb638b0520e28c393c37a.doc" class="c-file c-file--pdf">Критерии отнесения клиентов АО «НУК» к категории иностранных налогоплательщиков и способы получения от них необходимой информации <span class="u-gray">[93&nbsp;Кб], 14.03.2016 18:00</span></a>
+		</div>
+			<div class="u-mb25">
+
+					<a href="/upload/iblock/40f/40f26cdbec034182f9473ac110163374.doc" class="c-file c-file--pdf">Политика АО «НУК» в отношении обработки персональных данных <span class="u-gray">[105&nbsp;Кб], 14.03.2016 18:00</span></a>
+		</div>
+			<div class="u-mb25">
+
+					<a href="/upload/iblock/c35/soobshchenie-o-vnesenii-izmeneniy-v-svedeniya-ob-agente_201512.doc" class="c-file c-file--pdf">Сообщение об изменении сведений об агенте по выдаче, погашению и обмену инвестиционных паев <span class="u-gray">[122&nbsp;Кб], 23.12.2015 14:35</span></a>
+		</div>
+			<div class="u-mb25">
+
+					<a href="/upload/iblock/018/soobshchenie-o-vnesenii-izmeneniy-v-svedeniya-ob-agente_201510.doc" class="c-file c-file--pdf">Сообщение об изменении сведений об агенте по выдаче, погашению и обмену инвестиционных паев <span class="u-gray">[113&nbsp;Кб], 19.10.2015 16:33</span></a>
+		</div>
+			<div class="u-mb25">
+
+					<a href="/upload/iblock/91c/91c930cb46907362dd34c7f85d0a3ea3.doc" class="c-file c-file--pdf">Регламент АО «НУК» о порядке признания лиц квалифицированными инвесторами <span class="u-gray">[356&nbsp;Кб], 25.09.2015 16:07</span></a>
+		</div>
+			<div class="u-mb25">
+
+					<a href="/upload/iblock/76a/76a3115d523e83d7130e13692c8fc5bf.doc" class="c-file c-file--pdf">Сообщение об изменении сведений об агенте по выдаче, погашению и обмену инвестиционных паев <span class="u-gray">[113&nbsp;Кб], 10.06.2015 17:03</span></a>
+		</div>
+			<div class="u-mb25">
+
+					<a href="/upload/iblock/31e/31e88f0d810926daf71a20dcc7e086a2.doc" class="c-file c-file--pdf">Сообщение об изменении фирменного наименования,места нахождения,номеров телефонов и факсов <span class="u-gray">[40&nbsp;Кб], 29.04.2015 10:00</span></a>
+		</div>
+			<div class="u-mb25">
+
+					<a href="/upload/iblock/f10/f1049cc0212d8f9e3c6a2082c3936b19.doc" class="c-file c-file--pdf">Сообщение об изменении сведений об агенте по выдаче, погашению и обмену инвестиционных паев <span class="u-gray">[115&nbsp;Кб], 16.02.2015 16:00</span></a>
+		</div>
+			<div class="u-mb25">
+
+					<a href="/upload/iblock/080/08060c7274b277c9a5b0a44d0e1353f7.doc" class="c-file c-file--pdf">Сообщение об изменении сведений об агенте по выдаче, погашению и обмену инвестиционных паев <span class="u-gray">[117&nbsp;Кб], 08.10.2014 16:00</span></a>
+		</div>
+			<div class="u-mb25">
+
+					<a href="/upload/iblock/f55/f55d814b67eef6d4ecb2a6050902f9fa.doc" class="c-file c-file--pdf">Сообщение об изменении сведений об агенте по выдаче, погашению и обмену инвестиционных паев <span class="u-gray">[113&nbsp;Кб], 20.12.2013 16:00</span></a>
+		</div>
+			<div class="u-mb25">
+
+					<a href="/upload/iblock/c02/c023ccbd4c875454434948ea81e35d73.doc" class="c-file c-file--pdf">Сообщение об изменении сведений об агенте по выдаче, погашению и обмену инвестиционных паев <span class="u-gray">[107&nbsp;Кб], 26.08.2013 10:00</span></a>
+		</div>
+			<div class="u-mb25">
+
+					<a href="/upload/iblock/eca/ecafc3335c7b9cf5e6f0cdf899d0ca49.doc" class="c-file c-file--pdf">Сообщение об изменении сведений об агенте по выдаче, погашению и обмену инвестиционных паев <span class="u-gray">[100&nbsp;Кб], 17.04.2013 10:00</span></a>
+		</div>
+			<div class="u-mb25">
+
+					<a href="/upload/iblock/d62/soobshchenie-o-vnesenii-svedeniy-ob-agente-v-reestr.doc" class="c-file c-file--pdf">Сообщение о внесении сведений об агенте в реестр <span class="u-gray">[109&nbsp;Кб], 12.02.2013 10:00</span></a>
+		</div>
+			<div class="u-mb25">
+
+					<a href="/upload//" class="c-file c-file--pdf">Сообщение о выплате дохода по инвестиционным паям Закрытого паевого инвестиционного фонда недвижимости «ПЕРВЫЙ НАЦИОНАЛЬНЫЙ» <span class="u-gray">[0&nbsp;Кб], 15.01.2013 10:00</span></a>
+		</div>
+			<div class="u-mb25">
+
+					<a href="/upload/iblock/6b2/6b2f2d67bbbc5c4825a01e6ecd186440.doc" class="c-file c-file--pdf">Сообщение о прекращении паевого инвестиционного фонда <span class="u-gray">[34&nbsp;Кб], 28.12.2012 11:00</span></a>
+		</div>
+			<div class="u-mb25">
+
+					<a href="/upload/iblock/812/8126406c8c4f2b73cc8f954d6d828df1.doc" class="c-file c-file--pdf">Сообщение о выплате дохода по инвестиционным паям Закрытого паевого инвестиционного фонда недвижимости «ПЕРВЫЙ НАЦИОНАЛЬНЫЙ» <span class="u-gray">[35&nbsp;Кб], 15.10.2012 20:00</span></a>
+		</div>
+			<div class="u-mb25">
+
+					<a href="/upload/iblock/51a/51a818b17ba4cbcacd943cfa5cf1e1c3.doc" class="c-file c-file--pdf">Сообщение о выплате дохода по инвестиционным паям Закрытого паевого инвестиционного фонда смешанных инвестиций «ТРЕТИЙ НАЦИОНАЛЬНЫЙ» за III квартал 2012 г. <span class="u-gray">[35&nbsp;Кб], 15.10.2012 20:00</span></a>
+		</div>
+			<div class="u-mb25">
+
+					<a href="/upload/iblock/44f/44fda19d706da4800e1fcee29ecdb769.doc" class="c-file c-file--pdf">Сообщение о выплате дохода по инвестиционным паям Закрытого паевого инвестиционного фонда недвижимости «ПЕРВЫЙ НАЦИОНАЛЬНЫЙ» <span class="u-gray">[35&nbsp;Кб], 13.07.2012 20:00</span></a>
+		</div>
+			<div class="u-mb25">
+
+					<a href="/upload/iblock/1c9/1c9852768f297f13c59365a67207f499.doc" class="c-file c-file--pdf">Сообщение о выплате дохода по инвестиционным паям Закрытого паевого инвестиционного фонда смешанных инвестиций «ТРЕТИЙ НАЦИОНАЛЬНЫЙ» за II квартал 2012 г. <span class="u-gray">[35&nbsp;Кб], 13.07.2012 20:00</span></a>
+		</div>
+			<div class="u-mb25">
+
+					<a href="/upload/iblock/11c/11c2d47ddf69c3e7e1109ffe08307e9a.doc" class="c-file c-file--pdf">Сообщение о выплате дохода по инвестиционным паям Закрытого паевого инвестиционного фонда недвижимости «ПЕРВЫЙ НАЦИОНАЛЬНЫЙ» <span class="u-gray">[35&nbsp;Кб], 16.04.2012 20:00</span></a>
+		</div>
+			<div class="u-mb25">
+
+					<a href="/upload/iblock/94a/94a47cb904687122e9e766fb7fda43e8.doc" class="c-file c-file--pdf">Сообщение о выплате дохода по инвестиционным паям Закрытого паевого инвестиционного фонда смешанных инвестиций «ТРЕТИЙ НАЦИОНАЛЬНЫЙ» за I квартал 2012 г. <span class="u-gray">[35&nbsp;Кб], 16.04.2012 20:00</span></a>
+		</div>
+			<div class="u-mb25">
+
+					<a href="/upload/iblock/9c6/9c6ba4f8b27474578fa633845654b6f6.doc" class="c-file c-file--pdf">СООБЩЕНИЕ О РЕГИСТРАЦИИ ИЗМЕНЕНИЙ И ДОПОЛНЕНИЙ В ПРАВИЛА ДОВЕРИТЕЛЬНОГО УПРАВЛЕНИЯ (зарегистрированы ФСФР России 17.11.2010 г. за №1062−94135031−7) <span class="u-gray">[29&nbsp;Кб], 02.03.2012 17:21</span></a>
+		</div>
+			<div class="u-mb25">
+
+					<a href="/upload/iblock/fbf/fbf450e53bf565fa5cface31ae063077.doc" class="c-file c-file--pdf">Сообщение о выплате дохода по инвестиционным паям Закрытого паевого инвестиционного фонда недвижимости «ПЕРВЫЙ НАЦИОНАЛЬНЫЙ» <span class="u-gray">[35&nbsp;Кб], 27.01.2012 17:59</span></a>
+		</div>
+			<div class="u-mb25">
+
+					<a href="/upload/iblock/53d/53d34fe46f1ae6eb2af4c91422c0d5a4.doc" class="c-file c-file--pdf">Сообщение о выплате дохода по инвестиционным паям Закрытого паевого инвестиционного фонда смешанных инвестиций «ТРЕТИЙ НАЦИОНАЛЬНЫЙ» за IV квартал 2011 г. <span class="u-gray">[35&nbsp;Кб], 16.01.2012 17:57</span></a>
+		</div>
+			<div class="u-mb25">
+
+					<a href="/upload/iblock/5fe/5fed92d1965dc15b772200abe1a39150.doc" class="c-file c-file--pdf">СООБЩЕНИЕ О РЕГИСТРАЦИИ ИЗМЕНЕНИЙ И ДОПОЛНЕНИЙ В ПРАВИЛА ДОВЕРИТЕЛЬНОГО УПРАВЛЕНИЯ (зарегистрированы ФСФР России 17.11.2010 г. за №1062−94135031−6) <span class="u-gray">[29&nbsp;Кб], 28.12.2011 17:55</span></a>
+		</div>
+			<div class="u-mb25">
+
+					<a href="/upload/iblock/9e6/9e6048a7a490f30fabcbffef354404a3.doc" class="c-file c-file--pdf">СООБЩЕНИЕ О РЕГИСТРАЦИИ ИЗМЕНЕНИЙ И ДОПОЛНЕНИЙ В ПРАВИЛА ДОВЕРИТЕЛЬНОГО УПРАВЛЕНИЯ (зарегистрированы ФСФР России 17.11.2010 г. за №1062−94135031−5) <span class="u-gray">[29&nbsp;Кб], 30.11.2011 16:00</span></a>
+		</div>
+			<div class="u-mb25">
+
+					<a href="/upload/iblock/466/466e1c6307222bd9743ad1c1694c8b7c.doc" class="c-file c-file--pdf">СООБЩЕНИЕ О РЕГИСТРАЦИИ ИЗМЕНЕНИЙ И ДОПОЛНЕНИЙ В ПРАВИЛА ДОВЕРИТЕЛЬНОГО УПРАВЛЕНИЯ (зарегистрированы ФСФР России 27.10.2011 г. за № 0293−74134868−11) <span class="u-gray">[60&nbsp;Кб], 09.11.2011 17:27</span></a>
+		</div>
+			<div class="u-mb25">
+
+					<a href="/upload/iblock/bf0/bf0d6aa1f1d8b9841aeb3b43013f8939.doc" class="c-file c-file--pdf">ОТЧЕТ ОБ ИТОГАХ ГОЛОСОВАНИЯ на Общем собрании владельцев инвестиционных паев Закрытого паевого инвестиционного фонда смешанных инвестиций «ТРЕТИЙ НАЦИОНАЛЬНЫЙ» <span class="u-gray">[60&nbsp;Кб], 21.10.2011 16:06</span></a>
+		</div>
+			<div class="u-mb25">
+
+					<a href="/upload/iblock/436/436d902dbf9d6a997fba45e87800b154.doc" class="c-file c-file--pdf">Сообщение о выплате дохода по инвестиционным паям Закрытого паевого инвестиционного фонда смешанных инвестиций «ТРЕТИЙ НАЦИОНАЛЬНЫЙ» за III квартал 2011 г. <span class="u-gray">[35&nbsp;Кб], 17.10.2011 18:04</span></a>
+		</div>
+			<div class="u-mb25">
+
+					<a href="/upload/iblock/e25/e25a2ac70f6853e949080fb2c1f29bd5.doc" class="c-file c-file--pdf">Сообщение о выплате дохода по инвестиционным паям Закрытого паевого инвестиционного фонда недвижимости «ПЕРВЫЙ НАЦИОНАЛЬНЫЙ» <span class="u-gray">[35&nbsp;Кб], 17.10.2011 18:04</span></a>
+		</div>
+			<div class="u-mb25">
+
+					<a href="/upload/iblock/868/868eae383cb329c191ee8a82e5d2c4b3.doc" class="c-file c-file--pdf">Сообщение о созыве Общего собрания владельцев инвестиционных паев Закрытого паевого инвестиционного фонда смешанных инвестиций «ТРЕТИЙ НАЦИОНАЛЬНЫЙ» <span class="u-gray">[49&nbsp;Кб], 27.09.2011 10:35</span></a>
+		</div>
+			<div class="u-mb25">
+
+					<a href="/upload/iblock/036/0363f9ae215db990e2ff663e8450e257.doc" class="c-file c-file--pdf">ОТЧЕТ ОБ ИТОГАХ ГОЛОСОВАНИЯ на Общем собрании владельцев инвестиционных паев Закрытого паевого инвестиционного фонда недвижимости «ПЕРВЫЙ НАЦИОНАЛЬНЫЙ» <span class="u-gray">[57&nbsp;Кб], 23.09.2011 16:40</span></a>
+		</div>
+			<div class="u-mb25">
+
+					<a href="/upload/iblock/238/238e9ba0004fa41a07d0671702c89088.doc" class="c-file c-file--pdf">Сообщение о созыве Общего собрания владельцев инвестиционных паев  Закрытого паевого инвестиционного фонда недвижимости «ПЕРВЫЙ НАЦИОНАЛЬНЫЙ» <span class="u-gray">[49&nbsp;Кб], 31.08.2011 11:53</span></a>
+		</div>
+			<div class="u-mb25">
+
+					<a href="/upload/iblock/60d/60d61cc09ae9e695e438ffb7d27a260a.doc" class="c-file c-file--pdf">Сообщение о выплате дохода по инвестиционным паям Закрытого паевого инвестиционного фонда смешанных инвестиций «ТРЕТИЙ НАЦИОНАЛЬНЫЙ» за II квартал 2011 г. <span class="u-gray">[49&nbsp;Кб], 15.07.2011 16:43</span></a>
+		</div>
+			<div class="u-mb25">
+
+					<a href="/upload/iblock/2c4/2c4e722f10eb9a3ac36f4f32c82233ab.doc" class="c-file c-file--pdf">Сообщение о выплате дохода по инвестиционным паям Закрытого паевого инвестиционного фонда недвижимости «ПЕРВЫЙ НАЦИОНАЛЬНЫЙ» <span class="u-gray">[49&nbsp;Кб], 15.07.2011 16:43</span></a>
+		</div>
+			<div class="u-mb25">
+
+					<a href="/upload/iblock/839/83931915068ec48a069eb408125a1f10.doc" class="c-file c-file--pdf">Сообщение о созыве Общего собрания владельцев инвестиционных паев Закрытого паевого инвестиционного фонда смешанных инвестиций «ТРЕТИЙ НАЦИОНАЛЬНЫЙ» <span class="u-gray">[49&nbsp;Кб], 28.06.2011 15:10</span></a>
+		</div>
+			<div class="u-mb25">
+
+					<a href="/upload/iblock/061/061040d24c1027e281f709f0b34770c5.doc" class="c-file c-file--pdf">ОТЧЕТ ОБ ИТОГАХ ГОЛОСОВАНИЯ на Общем собрании владельцев инвестиционных паев Закрытого паевого инвестиционного фонда смешанных инвестиций «ТРЕТИЙ НАЦИОНАЛЬНЫЙ» <span class="u-gray">[60&nbsp;Кб], 18.05.2011 15:13</span></a>
+		</div>
+			<div class="u-mb25">
+
+					<a href="/upload/iblock/236/236b60339a65a4c93376e96708e6484c.doc" class="c-file c-file--pdf">Сообщение о созыве Общего собрания владельцев инвестиционных паев Закрытого паевого инвестиционного фонда смешанных инвестиций «ТРЕТИЙ НАЦИОНАЛЬНЫЙ» <span class="u-gray">[49&nbsp;Кб], 21.04.2011 15:55</span></a>
+		</div>
+			<div class="u-mb25">
+
+					<a href="/upload/iblock/6b5/6b5ae7ac7d06704d45f918521d6a9766.doc" class="c-file c-file--pdf">Сообщение о выплате дохода по инвестиционным паям Закрытого паевого инвестиционного фонда смешанных инвестиций «ТРЕТИЙ НАЦИОНАЛЬНЫЙ» за I квартал 2011 г. <span class="u-gray">[35&nbsp;Кб], 15.04.2011 16:20</span></a>
+		</div>
+			<div class="u-mb25">
+
+					<a href="/upload/iblock/2b3/2b36ae71bfd6330c84c37b52763463c0.doc" class="c-file c-file--pdf">Сообщение о выплате дохода по инвестиционным паям Закрытого паевого инвестиционного фонда недвижимости «ПЕРВЫЙ НАЦИОНАЛЬНЫЙ» <span class="u-gray">[35&nbsp;Кб], 15.04.2011 16:15</span></a>
+		</div>
+			<div class="u-mb25">
+
+					<a href="/upload/iblock/cb9/cb9be85d13d6ed011b72aab45c1c2a43.doc" class="c-file c-file--pdf">ОТЧЕТ ОБ ИТОГАХ ГОЛОСОВАНИЯ на Общем собрании владельцев инвестиционных паев Закрытого паевого инвестиционного фонда смешанных инвестиций «ТРЕТИЙ НАЦИОНАЛЬНЫЙ» <span class="u-gray">[60&nbsp;Кб], 28.03.2011 16:11</span></a>
+		</div>
+			<div class="u-mb25">
+
+					<a href="/upload/iblock/762/762ae1426777cc5bb5cc1936418dc58f.doc" class="c-file c-file--pdf">Сообщение о созыве Общего собрания владельцев инвестиционных паев Закрытого паевого инвестиционного фонда смешанных инвестиций «ТРЕТИЙ НАЦИОНАЛЬНЫЙ» <span class="u-gray">[49&nbsp;Кб], 03.03.2011 17:27</span></a>
+		</div>
+			<div class="u-mb25">
+
+					<a href="/upload/iblock/f28/f28e16b770bdd91c0fb08a84de6a464e.doc" class="c-file c-file--pdf">Сообщение о выплате дохода по инвестиционным паям Закрытого паевого инвестиционного фонда смешанных инвестиций «ТРЕТИЙ НАЦИОНАЛЬНЫЙ» за IV квартал 2010 г. <span class="u-gray">[35&nbsp;Кб], 14.01.2011 17:45</span></a>
+		</div>
+			<div class="u-mb25">
+
+					<a href="/upload/iblock/fed/feda9315c729d8bbeed9b209ad580a47.doc" class="c-file c-file--pdf">Сообщение о выплате дохода по инвестиционным паям Закрытого паевого инвестиционного фонда недвижимости «ПЕРВЫЙ НАЦИОНАЛЬНЫЙ» <span class="u-gray">[35&nbsp;Кб], 14.01.2011 17:44</span></a>
+		</div>
+			<div class="u-mb25">
+
+					<a href="/upload/iblock/8b8/8b8f11e91fc24402f88cf2f35556a87d.doc" class="c-file c-file--pdf">СООБЩЕНИЕ О РЕГИСТРАЦИИ ИЗМЕНЕНИЙ И ДОПОЛНЕНИЙ В ПРАВИЛА ДОВЕРИТЕЛЬНОГО УПРАВЛЕНИЯ зарегистрированы ФСФР России 19.10.2010 г. за №1062−94135031−4) <span class="u-gray">[29&nbsp;Кб], 03.11.2010 15:27</span></a>
+		</div>
+			<div class="u-mb25">
+
+					<a href="/upload/iblock/ed9/ed9324265c5e79b52cb6a2d5ea7013ae.doc" class="c-file c-file--pdf">СООБЩЕНИЕ О РЕГИСТРАЦИИ ИЗМЕНЕНИЙ И ДОПОЛНЕНИЙ В ПРАВИЛА ДОВЕРИТЕЛЬНОГО УПРАВЛЕНИЯ (зарегистрированы ФСФР России 19.10.2010 г. за №0293−74134868−10) <span class="u-gray">[29&nbsp;Кб], 03.11.2010 15:25</span></a>
+		</div>
+			<div class="u-mb25">
+
+					<a href="/upload/iblock/70b/70b2e0eea80ed4d74f6d34047d52978c.doc" class="c-file c-file--pdf">СООБЩЕНИЕ О РЕГИСТРАЦИИ ИЗМЕНЕНИЙ И ДОПОЛНЕНИЙ В ПРАВИЛА ДОВЕРИТЕЛЬНОГО УПРАВЛЕНИЯ (зарегистрированы ФСФР России 12.10.2010 г. за №0569−94119061−5 <span class="u-gray">[33&nbsp;Кб], 27.10.2010 15:52</span></a>
+		</div>
+			<div class="u-mb25">
+
+					<a href="/upload/iblock/547/547fd6be046d35a810914244a31456b6.doc" class="c-file c-file--pdf">Сообщение о выплате дохода по инвестиционным паям Закрытого паевого инвестиционного фонда недвижимости «ПЕРВЫЙ НАЦИОНАЛЬНЫЙ» <span class="u-gray">[35&nbsp;Кб], 15.10.2010 15:20</span></a>
+		</div>
+			<div class="u-mb25">
+
+					<a href="/upload/iblock/fba/fba60c68e2dbde9e13aa6b1e5d5ab403.doc" class="c-file c-file--pdf">Сообщение о выплате дохода по инвестиционным паям Закрытого паевого инвестиционного фонда смешанных инвестиций «ТРЕТИЙ НАЦИОНАЛЬНЫЙ» за III квартал 2010 г. <span class="u-gray">[35&nbsp;Кб], 15.10.2010 15:18</span></a>
+		</div>
+			<div class="u-mb25">
+
+					<a href="/upload/iblock/f1f/f1f46f301d79398c96d3410f60783320.doc" class="c-file c-file--pdf">ОТЧЕТ ОБ ИТОГАХ ГОЛОСОВАНИЯ на Общем собрании владельцев инвестиционных паев Закрытого паевого инвестиционного фонда смешанных инвестиций «ТРЕТИЙ НАЦИОНАЛЬНЫЙ» <span class="u-gray">[60&nbsp;Кб], 20.08.2010 13:25</span></a>
+		</div>
+			<div class="u-mb25">
+
+					<a href="/upload/iblock/4c5/4c57073136c4f618eb006a76960c09c8.doc" class="c-file c-file--pdf">Сообщение о созыве Общего собрания владельцев инвестиционных паев Закрытого паевого инвестиционного фонда смешанных инвестиций «ТРЕТИЙ НАЦИОНАЛЬНЫЙ» <span class="u-gray">[49&nbsp;Кб], 29.07.2010 12:22</span></a>
+		</div>
+			<div class="u-mb25">
+
+					<a href="/upload/iblock/656/656dd639b5a8b64d76ddf83290334f6b.doc" class="c-file c-file--pdf">Сообщение о выплате дохода по инвестиционным паям Закрытого паевого инвестиционного фонда смешанных инвестиций «ТРЕТИЙ НАЦИОНАЛЬНЫЙ» за II квартал 2010 г. <span class="u-gray">[35&nbsp;Кб], 15.07.2010 16:00</span></a>
+		</div>
+			<div class="u-mb25">
+
+					<a href="/upload//" class="c-file c-file--pdf">Сообщение о регистрации Правил доверительного управления <span class="u-gray">[0&nbsp;Кб]</span></a>
+		</div>
+			<div class="u-mb25">
+
+					<a href="/upload//" class="c-file c-file--pdf">СООБЩЕНИЕ О НАЧАЛЕ ФОРМИРОВАНИЯ ПАЕВОГО ИНВЕСТИЦИОННОГО ФОНДА <span class="u-gray">[0&nbsp;Кб]</span></a>
+		</div>
+			<div class="u-mb25">
+
+					<a href="/upload//" class="c-file c-file--pdf">СООБЩЕНИЕ О ВКЛЮЧЕНИИ СВЕДЕНИЙ ОБ АГЕНТЕ В РЕЕСТР ПАЕВЫХ ИНВЕСТИЦИОННЫХ ФОНДОВ <span class="u-gray">[0&nbsp;Кб]</span></a>
+		</div>
+			<div class="u-mb25">
+
+					<a href="/upload//" class="c-file c-file--pdf">Банковские реквизиты для оплаты паев <span class="u-gray">[0&nbsp;Кб]</span></a>
+		</div>
+			<div class="u-mb25">
+
+					<a href="/upload//" class="c-file c-file--pdf">СООБЩЕНИЕ О СОЗЫВЕ ОБЩЕГО СОБРАНИЯ ВЛАДЕЛЬЦЕВ ИНВЕСТИЦИОННЫХ ПАЕВ <span class="u-gray">[0&nbsp;Кб]</span></a>
+		</div>
+			<div class="u-mb25">
+
+					<a href="/upload//" class="c-file c-file--pdf">ОТЧЕТ ОБ ИТОГАХ ГОЛОСОВАНИЯ на Общем собрании владельцев инвестиционных паев Закрытого паевого инвестиционного фонда недвижимости «ПЕРВЫЙ НАЦИОНАЛЬНЫЙ" <span class="u-gray">[0&nbsp;Кб]</span></a>
+		</div>
+			<div class="u-mb25">
+
+					<a href="/upload//" class="c-file c-file--pdf">СООБЩЕНИЕ ОБ ИСКЛЮЧЕНИИ СВЕДЕНИЙ ОБ АГЕНТЕ ИЗ РЕЕСТРА ПАЕВЫХ ИНВЕСТИЦИОННЫХ ФОНДОВ <span class="u-gray">[0&nbsp;Кб]</span></a>
+		</div>
+			<div class="u-mb25">
+
+					<a href="/upload//" class="c-file c-file--pdf">СООБЩЕНИЕ О ВКЛЮЧЕНИИ СВЕДЕНИЙ ОБ АГЕНТЕ В РЕЕСТР ПАЕВЫХ ИНВЕСТИЦИОННЫХ ФОНДОВ <span class="u-gray">[0&nbsp;Кб]</span></a>
+		</div>
+			<div class="u-mb25">
+
+					<a href="/upload//" class="c-file c-file--pdf">Сведения о пунктах приема заявок на погашение и приобретение инвестиционных паев Закрытого паевого инвестиционного фонда недвижимости «ПЕРВЫЙ НАЦИОНАЛЬНЫЙ" <span class="u-gray">[0&nbsp;Кб]</span></a>
+		</div>
+			<div class="u-mb25">
+
+					<a href="/upload//" class="c-file c-file--pdf">СООБЩЕНИЕ О ЗАВЕРШЕНИИ ФОРМИРОВАНИЯ ПАЕВОГО ИНВЕСТИЦИОННОГО ФОНДА <span class="u-gray">[0&nbsp;Кб]</span></a>
+		</div>
+			<div class="u-mb25">
+
+					<a href="/upload//" class="c-file c-file--pdf">Сообщение о выплате дохода по инвестиционным паям Закрытого паевого инвестиционного фонда недвижимости «ПЕРВЫЙ НАЦИОНАЛЬНЫЙ» <span class="u-gray">[0&nbsp;Кб]</span></a>
+		</div>
+			<div class="u-mb25">
+
+					<a href="/upload//" class="c-file c-file--pdf">Сведения о пунктах приема заявок на погашение и приобретение инвестиционных паев Закрытого паевого инвестиционного фонда недвижимости «ПЕРВЫЙ НАЦИОНАЛЬНЫЙ" <span class="u-gray">[0&nbsp;Кб]</span></a>
+		</div>
+			<div class="u-mb25">
+
+					<a href="/upload//" class="c-file c-file--pdf">Сведения о пунктах приема заявок на погашение и приобретение инвестиционных паев Открытого паевого инвестиционного фонда смешанных инвестиций «ВТОРОЙ НАЦИОНАЛЬНЫЙ» <span class="u-gray">[0&nbsp;Кб]</span></a>
+		</div>
+			<div class="u-mb25">
+
+					<a href="/upload//" class="c-file c-file--pdf">Сообщение о внесении изменений в список ценных бумаг, используемых для расчета индекса <span class="u-gray">[0&nbsp;Кб]</span></a>
+		</div>
+			<div class="u-mb25">
+
+					<a href="/upload//" class="c-file c-file--pdf">СООБЩЕНИЕ ОБ ИЗМЕНЕНИИ СВЕДЕНИЙ ОБ АГЕНТЕ В РЕЕСТРЕ ПАЕВЫХ ИНВЕСТИЦИОННЫХ ФОНДОВ <span class="u-gray">[0&nbsp;Кб]</span></a>
+		</div>
+			<div class="u-mb25">
+
+					<a href="/upload/iblock/989/9898d4a93ff0e80628bde416654b3480.doc" class="c-file c-file--pdf">СООБЩЕНИЕ О РЕГИСТРАЦИИ ИЗМЕНЕНИЙ И ДОПОЛНЕНИЙ В ПРАВИЛА ДОВЕРИТЕЛЬНОГО УПРАВЛЕНИЯ (зарегистрированы ФСФР России 20.03.2007 г. за № 0293−74134868−5) <span class="u-gray">[29&nbsp;Кб]</span></a>
+		</div>
+			<div class="u-mb25">
+
+					<a href="/upload/iblock/4c7/4c7eff2825c82c63719d1ef503c2cd54.doc" class="c-file c-file--pdf">СООБЩЕНИЕ О РЕГИСТРАЦИИ ИЗМЕНЕНИЙ И ДОПОЛНЕНИЙ В ПРАВИЛА ДОВЕРИТЕЛЬНОГО УПРАВЛЕНИЯ (зарегистрированы ФСФР России 20.03.2007 г. за №0569−94119061−1) <span class="u-gray">[29&nbsp;Кб]</span></a>
+		</div>
+			<div class="u-mb25">
+
+					<a href="/upload//" class="c-file c-file--pdf">Сообщение о выплате дохода по инвестиционным паям Закрытого паевого инвестиционного фонда недвижимости «ПЕРВЫЙ НАЦИОНАЛЬНЫЙ» <span class="u-gray">[0&nbsp;Кб]</span></a>
+		</div>
+			<div class="u-mb25">
+
+					<a href="/upload//" class="c-file c-file--pdf">СООБЩЕНИЕ ОБ ИЗМЕНЕНИИ СВЕДЕНИЙ ОБ АГЕНТЕ В РЕЕСТРЕ ПАЕВЫХ ИНВЕСТИЦИОННЫХ ФОНДОВ <span class="u-gray">[0&nbsp;Кб]</span></a>
+		</div>
+			<div class="u-mb25">
+
+					<a href="/upload//" class="c-file c-file--pdf">Сведения о пунктах приема заявок на погашение и приобретение инвестиционных паев Открытого паевого инвестиционного фонда смешанных инвестиций «ВТОРОЙ НАЦИОНАЛЬНЫЙ» <span class="u-gray">[0&nbsp;Кб]</span></a>
+		</div>
+			<div class="u-mb25">
+
+					<a href="/upload//" class="c-file c-file--pdf">Сведения о пунктах приема заявок на погашение и приобретение инвестиционных паев Закрытого паевого инвестиционного фонда недвижимости «ПЕРВЫЙ НАЦИОНАЛЬНЫЙ" <span class="u-gray">[0&nbsp;Кб]</span></a>
+		</div>
+			<div class="u-mb25">
+
+					<a href="/upload//" class="c-file c-file--pdf">Сообщение о внесении изменений в список ценных бумаг, используемых для расчета индекса <span class="u-gray">[0&nbsp;Кб]</span></a>
+		</div>
+			<div class="u-mb25">
+
+					<a href="/upload/iblock/51c/51c3cf5a84a0d52527afb20aea1a1eea.doc" class="c-file c-file--pdf">Сообщение об изменении номера телефона и факса <span class="u-gray">[25&nbsp;Кб]</span></a>
+		</div>
+			<div class="u-mb25">
+
+					<a href="/upload//" class="c-file c-file--pdf">Сообщение о выплате дохода по инвестиционным паям Закрытого паевого инвестиционного фонда недвижимости «ПЕРВЫЙ НАЦИОНАЛЬНЫЙ» <span class="u-gray">[0&nbsp;Кб]</span></a>
+		</div>
+			<div class="u-mb25">
+
+					<a href="/upload//" class="c-file c-file--pdf">Сообщение о внесении изменений в список ценных бумаг, используемых для расчета индекса <span class="u-gray">[0&nbsp;Кб]</span></a>
+		</div>
+			<div class="u-mb25">
+
+					<a href="/upload/iblock/604/6040d892cbc263ecb2b0968c743aaf3b.doc" class="c-file c-file--pdf">СООБЩЕНИЕ О РЕГИСТРАЦИИ ИЗМЕНЕНИЙ И ДОПОЛНЕНИЙ В ПРАВИЛА ДОВЕРИТЕЛЬНОГО УПРАВЛЕНИЯ (зарегистрированы ФСФР России 11.09.2007 г. за №0569−94119061−2) <span class="u-gray">[30&nbsp;Кб]</span></a>
+		</div>
+			<div class="u-mb25">
+
+					<a href="/upload//" class="c-file c-file--pdf">Сообщение о выплате дохода по инвестиционным паям Закрытого паевого инвестиционного фонда недвижимости «ПЕРВЫЙ НАЦИОНАЛЬНЫЙ» <span class="u-gray">[0&nbsp;Кб]</span></a>
+		</div>
+			<div class="u-mb25">
+
+					<a href="/upload/iblock/554/5546bebeff425db9288d187ea093a564.doc" class="c-file c-file--pdf">СООБЩЕНИЕ О ЗАВЕРШЕНИИ ФОРМИРОВАНИЯ ПАЕВОГО ИНВЕСТИЦИОННОГО ФОНДА <span class="u-gray">[37&nbsp;Кб]</span></a>
+		</div>
+			<div class="u-mb25">
+
+					<a href="/upload/iblock/5d4/5d4b00d58f457ec01bce398faeff9bba.doc" class="c-file c-file--pdf">Сообщение о выплате дохода по инвестиционным паям Закрытого паевого инвестиционного фонда смешанных инвестиций «ТРЕТИЙ НАЦИОНАЛЬНЫЙ» <span class="u-gray">[31&nbsp;Кб]</span></a>
+		</div>
+			<div class="u-mb25">
+
+					<a href="/upload/iblock/715/715567ee1ab65297ccadf590df55b0b1.doc" class="c-file c-file--pdf">Сообщение о выплате дохода по инвестиционным паям Закрытого паевого инвестиционного фонда смешанных инвестиций «ТРЕТИЙ НАЦИОНАЛЬНЫЙ» <span class="u-gray">[32&nbsp;Кб]</span></a>
+		</div>
+			<div class="u-mb25">
+
+					<a href="/upload//" class="c-file c-file--pdf">СООБЩЕНИЕ О РЕГИСТРАЦИИ ИЗМЕНЕНИЙ И ДОПОЛНЕНИЙ В ПРАВИЛА ДОВЕРИТЕЛЬНОГО УПРАВЛЕНИЯ (зарегистрированы ФСФР России 30.11.2008 г. за №0293−74134868−6) <span class="u-gray">[0&nbsp;Кб]</span></a>
+		</div>
+			<div class="u-mb25">
+
+					<a href="/upload/iblock/d33/d33bdd1251327b25eff6554f37e908bd.doc" class="c-file c-file--pdf">Сообщение о выплате дохода по инвестиционным паям Закрытого паевого инвестиционного фонда смешанных инвестиций «ТРЕТИЙ НАЦИОНАЛЬНЫЙ» <span class="u-gray">[33&nbsp;Кб]</span></a>
+		</div>
+			<div class="u-mb25">
+
+					<a href="/upload/iblock/375/375ecb7e6c49722c982d14344caadb5a.doc" class="c-file c-file--pdf">СООБЩЕНИЕ О РЕГИСТРАЦИИ ИЗМЕНЕНИЙ И ДОПОЛНЕНИЙ В ПРАВИЛА ДОВЕРИТЕЛЬНОГО УПРАВЛЕНИЯ (зарегистрированы ФСФР России 30.09.2008 г. за №1062−94135031−1) <span class="u-gray">[29&nbsp;Кб]</span></a>
+		</div>
+			<div class="u-mb25">
+
+					<a href="/upload/iblock/603/603a9f1e3d379af0e0d05032c7fbd1cb.doc" class="c-file c-file--pdf">Сообщение о выплате дохода по инвестиционным паям Закрытого паевого инвестиционного фонда смешанных инвестиций «ТРЕТИЙ НАЦИОНАЛЬНЫЙ» <span class="u-gray">[33&nbsp;Кб]</span></a>
+		</div>
+			<div class="u-mb25">
+
+					<a href="/upload//" class="c-file c-file--pdf">СООБЩЕНИЕ О СОЗЫВЕ ОБЩЕГО СОБРАНИЯ ВЛАДЕЛЬЦЕВ ИНВЕСТИЦИОННЫХ ПАЕВ <span class="u-gray">[0&nbsp;Кб]</span></a>
+		</div>
+			<div class="u-mb25">
+
+					<a href="/upload/iblock/587/5872a11d2206ebbc51bd1012e3ec83de.doc" class="c-file c-file--pdf">СООБЩЕНИЕ О СОЗЫВЕ ОБЩЕГО СОБРАНИЯ ВЛАДЕЛЬЦЕВ ИНВЕСТИЦИОННЫХ ПАЕВ <span class="u-gray">[49&nbsp;Кб]</span></a>
+		</div>
+			<div class="u-mb25">
+
+					<a href="/upload/iblock/df9/df9a203050527153ae5c73c27f82cddd.doc" class="c-file c-file--pdf">Сообщение о выплате дохода по инвестиционным паям Закрытого паевого инвестиционного фонда смешанных инвестиций «ТРЕТИЙ НАЦИОНАЛЬНЫЙ» <span class="u-gray">[33&nbsp;Кб]</span></a>
+		</div>
+			<div class="u-mb25">
+
+					<a href="/upload//" class="c-file c-file--pdf">СООБЩЕНИЕ ОБ ИСКЛЮЧЕНИИ СВЕДЕНИЙ ОБ АГЕНТЕ ИЗ РЕЕСТРА ПАЕВЫХ ИНВЕСТИЦИОННЫХ ФОНДОВ <span class="u-gray">[0&nbsp;Кб]</span></a>
+		</div>
+			<div class="u-mb25">
+
+					<a href="/upload//" class="c-file c-file--pdf">СООБЩЕНИЕ ОБ   АГЕНТАХ <span class="u-gray">[0&nbsp;Кб]</span></a>
+		</div>
+			<div class="u-mb25">
+
+					<a href="/upload//" class="c-file c-file--pdf">СООБЩЕНИЕ ОБ ИЗМЕНЕНИИ СВЕДЕНИЙ ОБ АГЕНТЕ В РЕЕСТРЕ ПАЕВЫХ ИНВЕСТИЦИОННЫХ ФОНДОВ <span class="u-gray">[0&nbsp;Кб]</span></a>
+		</div>
+			<div class="u-mb25">
+
+					<a href="/upload/iblock/501/501d844f29ccb228f354f6ad415d3752.doc" class="c-file c-file--pdf">Сообщение о выплате дохода по инвестиционным паям Закрытого паевого инвестиционного фонда смешанных инвестиций «ТРЕТИЙ НАЦИОНАЛЬНЫЙ» <span class="u-gray">[32&nbsp;Кб]</span></a>
+		</div>
+			<div class="u-mb25">
+
+					<a href="/upload/iblock/dc8/dc80a24ba7dce247f1a4804d1dd73a29.doc" class="c-file c-file--pdf">Сообщение о выплате дохода по инвестиционным паям Закрытого паевого инвестиционного фонда смешанных инвестиций «ТРЕТИЙ НАЦИОНАЛЬНЫЙ» <span class="u-gray">[33&nbsp;Кб]</span></a>
+		</div>
+			<div class="u-mb25">
+
+					<a href="/upload/iblock/61a/61abca18024e3a53b518e9b96fe1ced4.doc" class="c-file c-file--pdf">Сообщение об изменении места нахождения <span class="u-gray">[31&nbsp;Кб]</span></a>
+		</div>
+			<div class="u-mb25">
+
+					<a href="/upload/iblock/c17/c173b6644d1e0a48bce2911ca29b6d59.doc" class="c-file c-file--pdf">СООБЩЕНИЕ О СОЗЫВЕ ОБЩЕГО СОБРАНИЯ ВЛАДЕЛЬЦЕВ ИНВЕСТИЦИОННЫХ ПАЕВ <span class="u-gray">[49&nbsp;Кб]</span></a>
+		</div>
+			<div class="u-mb25">
+
+					<a href="/upload/iblock/fe4/fe4b454a13f1ea4150af281954f7efcc.doc" class="c-file c-file--pdf">Сообщение о выплате дохода по инвестиционным паям Закрытого паевого инвестиционного фонда смешанных инвестиций «ТРЕТИЙ НАЦИОНАЛЬНЫЙ» <span class="u-gray">[33&nbsp;Кб]</span></a>
+		</div>
+			<div class="u-mb25">
+
+					<a href="/upload/iblock/3b7/3b741f8e0d7ac214620aca8aa9310127.doc" class="c-file c-file--pdf">СООБЩЕНИЕ О РЕГИСТРАЦИИ ИЗМЕНЕНИЙ И ДОПОЛНЕНИЙ В ПРАВИЛА ДОВЕРИТЕЛЬНОГО УПРАВЛЕНИЯ (зарегистрированы ФСФР России 15.10.2009 г. за №0569−94119061−3) <span class="u-gray">[29&nbsp;Кб]</span></a>
+		</div>
+			<div class="u-mb25">
+
+					<a href="/upload/iblock/3b9/3b94d502012fcaaa5f891d096bf9417b.doc" class="c-file c-file--pdf">ОТЧЕТ ОБ ИТОГАХ ГОЛОСОВАНИЯ на Общем собрании владельцев инвестиционных паев Закрытого паевого инвестиционного фонда смешанных инвестиций «ТРЕТИЙ НАЦИОНАЛЬНЫЙ» <span class="u-gray">[60&nbsp;Кб]</span></a>
+		</div>
+			<div class="u-mb25">
+
+					<a href="/upload/iblock/1a6/1a6be35311a904174300d2867a2f3af9.doc" class="c-file c-file--pdf">СООБЩЕНИЕ О РЕГИСТРАЦИИ ИЗМЕНЕНИЙ И ДОПОЛНЕНИЙ В ПРАВИЛА ДОВЕРИТЕЛЬНОГО УПРАВЛЕНИЯ (зарегистрированы ФСФР России 22.10.2009 г. за №0293−74134868−7) <span class="u-gray">[29&nbsp;Кб]</span></a>
+		</div>
+			<div class="u-mb25">
+
+					<a href="/upload//" class="c-file c-file--pdf">СООБЩЕНИЕ О СОЗЫВЕ ОБЩЕГО СОБРАНИЯ ВЛАДЕЛЬЦЕВ ИНВЕСТИЦИОННЫХ ПАЕВ <span class="u-gray">[0&nbsp;Кб]</span></a>
+		</div>
+			<div class="u-mb25">
+
+					<a href="/upload//" class="c-file c-file--pdf">ОТЧЕТ ОБ ИТОГАХ ГОЛОСОВАНИЯ на Общем собрании владельцев инвестиционных паев Закрытого паевого инвестиционного фонда недвижимости «ПЕРВЫЙ НАЦИОНАЛЬНЫЙ» <span class="u-gray">[0&nbsp;Кб]</span></a>
+		</div>
+			<div class="u-mb25">
+
+					<a href="/upload//" class="c-file c-file--pdf">СООБЩЕНИЕ ОБ ИСКЛЮЧЕНИИ СВЕДЕНИЙ ОБ АГЕНТЕ ИЗ РЕЕСТРА ПАЕВЫХ ИНВЕСТИЦИОННЫХ ФОНДОВ <span class="u-gray">[0&nbsp;Кб]</span></a>
+		</div>
+			<div class="u-mb25">
+
+					<a href="/upload/iblock/4ea/4ea06231a95fff324abe29b41d6e3e16.doc" class="c-file c-file--pdf">Сообщение о выплате дохода по инвестиционным паям Закрытого паевого инвестиционного фонда смешанных инвестиций «ТРЕТИЙ НАЦИОНАЛЬНЫЙ» <span class="u-gray">[32&nbsp;Кб]</span></a>
+		</div>
+			<div class="u-mb25">
+
+					<a href="/upload/iblock/e0a/e0a51e57438c573c755866269438382c.doc" class="c-file c-file--pdf">СООБЩЕНИЕ О РЕГИСТРАЦИИ ИЗМЕНЕНИЙ И ДОПОЛНЕНИЙ В ПРАВИЛА ДОВЕРИТЕЛЬНОГО УПРАВЛЕНИЯ (зарегистрированы ФСФР России 29.12.2009 г. за №0569−94119061−4) <span class="u-gray">[29&nbsp;Кб]</span></a>
+		</div>
+			<div class="u-mb25">
+
+					<a href="/upload/iblock/cd9/cd9d6b558034d79ec787e97e8136ddb3.doc" class="c-file c-file--pdf">СООБЩЕНИЕ О РЕГИСТРАЦИИ ИЗМЕНЕНИЙ И ДОПОЛНЕНИЙ В ПРАВИЛА ДОВЕРИТЕЛЬНОГО УПРАВЛЕНИЯ (зарегистрированы ФСФР России 24.12.2009 г. за №1062−94135031−2) <span class="u-gray">[29&nbsp;Кб]</span></a>
+		</div>
+			<div class="u-mb25">
+
+					<a href="/upload/iblock/472/472648d5187983b3f803802b731cfedf.doc" class="c-file c-file--pdf">СООБЩЕНИЕ ОБ ИСКЛЮЧЕНИИ СВЕДЕНИЙ ОБ АГЕНТЕ ИЗ РЕЕСТРА ПАЕВЫХ ИНВЕСТИЦИОННЫХ ФОНДОВ <span class="u-gray">[42&nbsp;Кб]</span></a>
+		</div>
+			<div class="u-mb25">
+
+					<a href="/upload/iblock/b2f/b2f1b29d7ce63d79b729953657a2d592.doc" class="c-file c-file--pdf">СООБЩЕНИЕ О РЕГИСТРАЦИИ ИЗМЕНЕНИЙ И ДОПОЛНЕНИЙ В ПРАВИЛА ДОВЕРИТЕЛЬНОГО УПРАВЛЕНИЯ (зарегистрированы ФСФР России 04.02.2010 г. за №0293−74134868−8) <span class="u-gray">[29&nbsp;Кб]</span></a>
+		</div>
+			<div class="u-mb25">
+
+					<a href="/upload/iblock/293/293532de3c50595cb609489aa2c46601.doc" class="c-file c-file--pdf">СООБЩЕНИЕ О РЕГИСТРАЦИИ ИЗМЕНЕНИЙ И ДОПОЛНЕНИЙ В ПРАВИЛА ДОВЕРИТЕЛЬНОГО УПРАВЛЕНИЯ зарегистрированы ФСФР России 25.02.2010 г. за №1062−94135031−3) <span class="u-gray">[29&nbsp;Кб]</span></a>
+		</div>
+			<div class="u-mb25">
+
+					<a href="/upload/iblock/fff/fff3d22c966b1a2e02a121cfa6fe6c46.doc" class="c-file c-file--pdf">СООБЩЕНИЕ О РЕГИСТРАЦИИ ИЗМЕНЕНИЙ И ДОПОЛНЕНИЙ В ПРАВИЛА ДОВЕРИТЕЛЬНОГО УПРАВЛЕНИЯ (зарегистрированы ФСФР России 25.02.2010 г. за №0293−74134868−9) <span class="u-gray">[29&nbsp;Кб]</span></a>
+		</div>
+			<div class="u-mb25">
+
+					<a href="/upload/iblock/509/5092f236b2a69e1dff1fb7fe1c515527.doc" class="c-file c-file--pdf">Сообщение о выплате дохода по инвестиционным паям Закрытого паевого инвестиционного фонда смешанных инвестиций «ТРЕТИЙ НАЦИОНАЛЬНЫЙ» за I квартал 2010 г. <span class="u-gray">[35&nbsp;Кб]</span></a>
+		</div>
+                    </div>
+                  </div>
+				<div id="smallTab4" class="c-smalltab__unit">
+				<p>
+
+</p><div class="c-news__list">
+<table>
+		<tbody><tr id="bx_1373509569_12723">
+		<td>Полное и сокращенное фирменные наименования управляющей компании</td>
+		<td><a href="/disclosure/company/12723/" class="c-btn c-btn--out-border c-news__btn">Подробнее</a>
+					</td>
+	</tr>
+			<tr id="bx_1373509569_12724">
+		<td>Номер и дата выдачи лицензии управляющей компании</td>
+		<td><a href="/disclosure/company/12724/" class="c-btn c-btn--out-border c-news__btn">Подробнее</a>
+					</td>
+	</tr>
+			<tr id="bx_1373509569_12725">
+		<td>Основной государственный регистрационный номер (ОГРН)</td>
+		<td><a href="/disclosure/company/12725/" class="c-btn c-btn--out-border c-news__btn">Подробнее</a>
+					</td>
+	</tr>
+			<tr id="bx_1373509569_12726">
+		<td>Место нахождения (адрес) управляющей компании</td>
+		<td><a href="/disclosure/company/12726/" class="c-btn c-btn--out-border c-news__btn">Подробнее</a>
+					</td>
+	</tr>
+			<tr id="bx_1373509569_12727">
+		<td>Номер телефона управляющей компании</td>
+		<td><a href="/disclosure/company/12727/" class="c-btn c-btn--out-border c-news__btn">Подробнее</a>
+					</td>
+	</tr>
+			<tr id="bx_1373509569_12728">
+		<td>Адрес сайта управляющей компании</td>
+		<td><a href="/disclosure/company/12728/" class="c-btn c-btn--out-border c-news__btn">Подробнее</a>
+					</td>
+	</tr>
+			<tr id="bx_1373509569_12729">
+		<td>Банковские реквизиты расчётного счёта (счетов) для оплаты расходов за изготовление документов, предусмотренных пунктами 13 и 15 Указания Банка России от 2 ноября 2020 г. №5609-У «О раскрытии, распространении и предоставлении информации акционерными инвестиционными фондами и управляющими компаниями инвестиционных фондов, паевых инвестиционных фондов и негосударственных пенсионных фондов, а также о требованиях к расчету доходности инвестиционной деятельности акционерного инвестиционного фонда и управляющей компании паевого инвестиционного фонда», с указанием порядка оплаты и размера (порядка определения размера) указанных расходов </td>
+		<td><a href="/disclosure/company/12729/" class="c-btn c-btn--out-border c-news__btn">Подробнее</a>
+					</td>
+	</tr>
+	</tbody></table>
+
+<p>Раскрываемая на сайте информация находится в постоянном доступе.</p>
+	<br></div>
+<pre></pre><p></p>
+				</div>
+
+			</div>
+		</div>
+	</div>
+</div>
+			<script>
+              $(function() {
+                $('.c-pager').on('click', function(e) {
+                  e.preventDefault();
+                  var that = $(this), 
+                      url, 
+                      container, 
+                      link = $(e.target).closest('.c-pager__item');
+                  
+                  if(link.length === 0) {return};
+            
+                  link.addClass('c-pager__item--active').siblings().removeClass('c-pager__item--active')
+                  url = link.attr('href');
+                  container = that.siblings('.j-ajaxContent');
+                  container.stop().fadeOut();
+            
+                  var jqxhr = $.get({
+                    url: url,
+                    dataType: 'html'
+                  })
+                    .done(function(d) {
+                      container.html(d)
+                      .stop(true, true).fadeIn();
+                    })
+                    .fail(function() {
+                      container.html('Произошла ошибка на сервере. Пожалуйста, повторите попытку позже.').stop(true, true).fadeIn()
+                    });
+                })
+				
+				$('.c-pager__item--active').click();
+				
+              });
+            </script>
+
+		
+		</article>    </main>
+  </div>
+  
+  <footer class="c-footer">
+    <div class="c-footer__topline">
+      <div class="l-container">
+        <div class="c-footer__row">
+          <div class="c-footer__col c-footer__col--1">
+            <div class="c-footer__copy">2002–2023 © Национальная управляющая компания</div>
+			<form action="/search/index.php" class="c-footer__search">
+	<input type="text" class="c-footer__search-input" placeholder="Поиск по сайту" name="q">
+	</form>                        <div class="c-footer__devcopy">Создание сайта — <a target="_blank" href="http://www.hcube.ru/">HCube</a>
+            </div>
+          </div>
+          <div class="c-footer__col c-footer__col--2">
+            <div class="c-footer__contacts">
+              <p>127015, г. Москва, ул. Новодмитровская, д. 2, корп. 1, помещение XXI комната 1 этаж 2</p>
+<p>Телефон/факс: <a href="tel: +74956401711">+7 (495) 640-17-11</a></p>
+<p>E-mail: <a href="mailto:mail@namc.ru">mail@namc.ru</a></p>            </div>
+          </div>
+          <div class="c-footer__col c-footer__col--3">
+            <div class="c-footer__stats">
+				<a href="https://raexpert.ru/releases/2018/Jul20a" target="_blank"><img src="/uploads/statimg1.png" alt=""></a>
+				            </div>
+			  <a href="/search/map.php" class="c-footer__special-link"><span class="c-icon c-icon--sitemap"></span>Карта сайта</a>
+          </div>
+          <div class="c-footer__col c-footer__col--4">
+            <p>
+			<a class="c-footer__link" href="tel: 74956401711">+7 (495) 640-17-11</a>            </p>
+            <p><a class="c-footer__link" href="/about/contacts/">Обратная связь</a>
+            </p>
+			  <a class="c-footer__special-link" href="/about/contacts/"><span class="c-icon c-icon--tel"></span>Контакты</a>
+          </div>
+        </div>
+      </div>
+    </div>
+    <div class="c-footer__license">
+      <div class="l-container">
+        <p></p><p align="justify">
+</p>
+<p align="justify">
+	 Акционерное общество «Национальная управляющая компания» (лицензия ФКЦБ России от 05.11.2002 г. №21-000-1-00085 на осуществление деятельности по управлению инвестиционными фондами, паевыми инвестиционными фондами и негосударственными пенсионными фондами, без ограничения срока действия).
+</p>
+ <br>
+<p align="justify">
+	 Получить подробную информацию, предусмотренную Федеральным законом от 29.11.2001 г. №156-ФЗ «Об инвестиционных фондах» и Указанием Банка России от 02 ноября 2020 г. №5609-У «О раскрытии, распространении и предоставлении информации акционерными инвестиционными фондами и управляющими компаниями инвестиционных фондов, паевых инвестиционных фондов и негосударственных пенсионных фондов, а также о требованиях к расчету доходности инвестиционной деятельности акционерного инвестиционного фонда и управляющей компании паевого инвестиционного фонда», можно в офисе АО «НУК» по адресу: 127015, г. Москва, ул. Новодмитровская, д. 2, корп. 1, помещение XXI комната 1 этаж 2, телефон: + 7 (495) 640-17-11, или в сети Интернет по адресу: <a href="http://www.namc.ru">http://www.namc.ru</a><br>
+</p>
+ <br>
+<p align="justify" style="color: #000; font-size: 16px;">
+	 Стоимость инвестиционных паев может увеличиваться и уменьшаться, результаты инвестирования в прошлом не определяют доходы в будущем, государство не гарантирует доходность инвестиций в паевые инвестиционные фонды. Прежде чем приобрести инвестиционный пай, следует внимательно ознакомиться с правилами доверительного управления паевым инвестиционным фондом. Взимание скидок уменьшит доходность инвестиций в инвестиционные паи паевого инвестиционного фонда.
+</p><p></p>
+      </div>
+    </div>
+  </footer>
+
+
+  <script src="/javascripts/app.min.js"></script>
+<!-- BEGIN JIVOSITE CODE {literal} -->
+<script type="text/javascript">
+(function(){ var widget_id = 'NVeaPfSHPv';var d=document;var w=window;function l(){
+var s = document.createElement('script'); s.type = 'text/javascript'; s.async = true; s.src = '//code.jivosite.com/script/widget/'+widget_id; var ss = document.getElementsByTagName('script')[0]; ss.parentNode.insertBefore(s, ss);}if(d.readyState=='complete'){l();}else{if(w.attachEvent){w.attachEvent('onload',l);}else{w.addEventListener('load',l,false);}}})();</script>
+<!-- {/literal} END JIVOSITE CODE -->
+
+<script>
+(function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+(i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+})(window,document,'script','https://www.google-analytics.com/analytics.js','ga');
+
+ga('create', 'UA-88866605-1', 'auto');
+ga('send', 'pageview');
+
+</script>
+
+<!-- Yandex.Metrika counter -->
+<script type="text/javascript">
+(function (d, w, c) {
+(w[c] = w[c] || []).push(function() {
+try {
+w.yaCounter45310671 = new Ya.Metrika({
+id:45310671,
+clickmap:true,
+trackLinks:true,
+accurateTrackBounce:true
+});
+} catch(e) { }
+});
+
+var n = d.getElementsByTagName("script")[0],
+s = d.createElement("script"),
+f = function () { n.parentNode.insertBefore(s, n); };
+s.type = "text/javascript";
+s.async = true;
+s.src = "https://mc.yandex.ru/metrika/watch.js";
+
+if (w.opera == "[object Opera]") {
+d.addEventListener("DOMContentLoaded", f, false);
+} else { f(); }
+})(document, window, "yandex_metrika_callbacks");
+</script>
+<noscript><div><img src="https://mc.yandex.ru/watch/45310671" style="position:absolute; left:-9999px;" alt="" /></div></noscript>
+<!-- /Yandex.Metrika counter -->
+

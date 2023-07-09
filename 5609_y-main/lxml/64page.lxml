@@ -1,0 +1,747 @@
+
+		<table class="main" align="center">
+			<tbody><tr style="height:124px; background-color: #ffffff">
+				<td>
+					<!-- шапка -->
+					<table id="block" align="center">
+						<tbody><tr>
+							<td>
+								<span id="rbccontents_ee_block" block_id="660" sys_name="content_text" tarea_id="50"></span><table>
+									<!-- логотип -->
+									<tbody><tr>
+										<td height="95px" align="left" colspan="2">
+											<table style="height:100%">
+												<tbody><tr>
+													<td height="66px" align="left" class="vcenter"><span id="rbccontents_ee_block" block_id="614" sys_name="content_text" tarea_id="47"></span><a href="http://www.contrada-capital.ru/" target="_blank"><img border="0" src="/common/img/uploaded/pifKapital/logoPIF.png" width="425" height="137"></a>
+</td>
+													<td width="21%">&nbsp;</td>
+													<td width="544px" align="right" class="vcenter">
+														<span id="rbccontents_ee_block" block_id="616" sys_name="content_text" tarea_id="48"></span><span id="rbccontents_ee_block" block_id="615" sys_name="content_text" tarea_id="49"></span><table>
+															<tbody><tr>
+																<!--<td width="157px">&nbsp;</td>-->
+																<td class="vcenter"><img src="/common/img/uploaded/pifKapital/phone.gif" id="phone" border="0"></td>
+																<td class="vcenter" align="left" width="150px"><nobr><span class="code_tel"></span> <span class="num_tel">+7 (495) 745-51-99</span></nobr></td>																<td width="100px">&nbsp;</td>
+																<td class="vcenter"><a href="/"><img id="icon_home" src="/common/img/uploaded/pifKapital/home_unactive.png" name="home" border="0" onmouseout="unHighlight('home');" onmouseover="highlight('home');"></a></td>
+																<td width="30px">&nbsp;</td>
+																<td class="vcenter"><a href="/ru/tree/"><img id="icon_tree" src="/common/img/uploaded/pifKapital/tree_unactive.png" name="tree" border="0" onmouseout="unHighlight('tree');" onmouseover="highlight('tree');"></a></td>
+																<td width="30px">&nbsp;</td>
+																<!--<td class="vcenter"><a href="mailto:shvarts@kapital-pif.ru"><img id="icon_mail" src="/common/img/uploaded/pifKapital/mail_unactive.png" name="mail" border="0" onmouseout="unHighlight('mail');" onmouseover="highlight('mail');"></a></td>-->
+																<!--<td class="vcenter"><a class="node" href="https:\\lk.contrada-capital.ru">личный кабинет</a></td>-->															</tr>
+														</tbody></table>
+													</td>
+												</tr>
+											</tbody></table>
+										</td>
+									</tr>
+									<!-- меню -->
+									<tr>
+	<td height="30px" class="bg-menu">
+		<table style="width:100%">
+			<tbody><tr>
+				<td class="menu-first" style="width:20%; background-color: #8A8B90" align="center" onmouseover="this.style.backgroundColor = '#8A8B90'" onmouseout="this.style.backgroundColor = '#8A8B90'">
+					<table class="menu" height="30px">
+						<tbody><tr>
+							<td width="16%" class="menu-first" align="center">
+								<div style="width:100%; height:23px"><a href="/ru/about/" class="vcenter">О Компании</a></div>
+							</td>
+						</tr>
+					</tbody></table>
+				</td>
+				<td class="menu-first" style="width: 20%; border-left: 1px dotted #8A8B90" onmouseover="this.style.backgroundColor = '#8A8B90'" onmouseout="this.style.backgroundColor = '#ab0635'">
+					<table class="menu" height="30px">
+						<tbody><tr>
+							<td align="center">
+								<div style="width:100%; height:23px" onmouseover="javascript:showMenu(1);" onmouseout="javascript:hideMenu(1);">
+									<div class="fallout-cont" id="fallout-cont1" style="visibility:hidden;">
+										<div class="grc">
+											<div>
+												<table>
+													<tbody><tr>
+														<td class="fout-cont">
+															<ul>
+																<li><a href="/ru/products/realty/">Доверительное управление средствами клиента</a></li>
+																<li><a href="/ru/products/makezpif/">Управление ЗПИФ недвижимости</a></li>
+																<li><a href="/ru/products/stroipro/">Финансирование строительных проектов</a></li>
+															</ul>
+														</td>
+													</tr>
+												</tbody></table>
+											</div>
+											<b class="e"><span></span><s></s><u></u><i><strong></strong></i><b><strong></strong></b></b>
+										</div>
+									</div>
+									<a class="vcenter">Услуги</a>
+								</div>
+							</td>
+						</tr>
+					</tbody></table>
+				</td>
+				<td style="width: 20%; border-left: 1px dotted #8A8B90" onmouseover="this.style.backgroundColor = '#8A8B90'" onmouseout="this.style.backgroundColor = '#ab0635'">
+					<table class="menu">
+						<tbody><tr>
+							<td align="center">
+								<div style="width:100%; height:23px" onmouseover="javascript:showMenu(3);" onmouseout="javascript:hideMenu(3);">
+									<div class="fallout-cont" id="fallout-cont3" style="visibility:hidden;">
+										<div class="grc"><div>
+											<table>
+												<tbody><tr>
+													<td class="fout-cont">
+														<ul>
+															<li><a href="/ru/zpif/house/about/">Жилищная программа</a></li>
+															<li><a href="/ru/zpif/building/about/">КапиталЪ-инвестиции в строительство</a></li>
+															<li><a href="/ru/zpif/stroy/about/">СтройКапиталЪ</a></li>
+															<li><a href="/ru/zpif/cityhouse/about/">Фонды для квалифицированных инвесторов</a></li>
+															<li><a href="/ru/opif/power/about/">Сила Баланса</a></li>
+														</ul>
+													</td>
+												</tr>
+											</tbody></table></div>
+											<b class="e"><span></span><s></s><u></u><i><strong></strong></i><b><strong></strong></b></b>
+										</div>
+									</div>
+									<a class="vcenter">Фонды&nbsp;в&nbsp;управлении</a>
+								</div>
+							</td>
+						</tr>
+					</tbody></table>
+				</td>
+				<td style="width: 20%; border-left: 1px dotted #8A8B90" onmouseover="this.style.backgroundColor = '#8A8B90'" onmouseout="this.style.backgroundColor = '#ab0635'">
+					<table class="menu">
+						<tbody><tr>
+							<td align="center"><div style="width:100%"><a href="/ru/finotch/" class="vcenter">Отчетность Компании</a></div></td>
+						</tr>
+					</tbody></table>
+					<!--<table class="menu">
+						<tr>
+							<td align="center">
+								<div style="width:100%; height:23px" onmouseover="javascript:showMenu(2);" onmouseout="javascript:hideMenu(2);">
+									<div class="fallout-cont" id="fallout-cont2" style="visibility:hidden;">
+										<div class="grc"><div>
+											<table>
+												<tr>
+													<td class="fout-cont">
+														<ul>
+															<li><a href="/ru/info/finotch/">По компании</a></li>
+															<li><a href="/ru/info/managezpif/">По фондам</a></li>
+															<li><a href="/ru/info/inside/">Прочая информация</a></li>
+														</ul>
+													</td>
+												</tr>
+											</table></div>
+											<b class='e'><span></span><s></s><u></u><i><strong></strong></i><b><strong></strong></b></b>
+										</div>
+									</div>
+									<a class="vcenter">Раскрытие&nbsp;информации</a>
+								</div>
+							</td>
+						</tr>
+					</table>-->
+				</td>
+				<td style="width:20%; border-left: 1px dotted #8A8B90" onmouseover="this.style.backgroundColor = '#8A8B90'" onmouseout="this.style.backgroundColor = '#ab0635'">
+					<table class="menu">
+						<tbody><tr>
+							<td align="center"><div style="width:100%"><a href="/ru/about/contacts/" class="vcenter">Реквизиты</a></div></td>
+						</tr>
+					</tbody></table>
+				</td>
+			</tr>
+		</tbody></table>
+	</td>
+</tr>									<!-- меню -->
+								</tbody></table>
+							</td>
+						</tr>
+					</tbody></table>
+					<!-- / шапка -->
+				</td>
+			</tr>
+			<tr valign="top">
+				<td style="height:10px; line-height: .1em"><img src="/common/img/uploaded/pifKapital/blank.gif" style="height: 10px" border="0"></td>
+			</tr>
+			<tr style="height:130px">
+				<td><!-- class="main_pic"-->
+					<!-- центральная картинка -->
+					<table id="block" align="center">
+						<tbody><tr>
+							<td>
+								<div class="mayak_pic">
+									<span><!--<img class="main" src="/common/img/uploaded/pifKapital/cap.jpg" border="0px" height="130px" align="right">--></span>
+								</div>
+							</td>
+						</tr>
+					</tbody></table>
+					<!-- центральная картинка -->
+				</td>
+			</tr>
+			<tr valign="top">
+				<td style="height:20px"><img src="/common/img/uploaded/pifKapital/blank.gif" style="height: 20px" border="0"></td>
+			</tr>
+			<tr valign="top">
+				<td>
+					<!-- центральная часть -->
+					<table id="block" align="center">
+						<tbody><tr>
+							<td>
+								<img src="/common/img/uploaded/1x1.gif" boredr="0" height="1px" width="230px">
+	<link rel="StyleSheet" href="/common/pifKapital/dtree.css?123" type="text/css">
+	<script type="text/javascript" src="/common/pifKapital/dtree.js?123"></script>
+	<div class="dtree">
+		<script type="text/javascript">
+			<!--
+			d = new dTree('d');
+			d.config.closeSameLevel = true;
+							d.add(696,-1,'ПИФ КапиталЪ', '/ru/');
+							d.add(709,696,'О Компании', '/ru/about/');
+							d.add(726,696,'Закрытые паевые инвестиционные фонды', '/ru/zpif/');
+							d.add(1385,696,'Открытые паевые инвестиционные фонды', '/ru/opif/');
+							d.add(1405,696,'Доверительное управление ', '/ru/du/');
+							d.add(772,696,'Отчетность Компании', '/ru/finotch/');
+							d.add(1338,696,'FATCA/CRS', '/ru/fatca/');
+							d.add(803,696,'Прочее', '/ru/inside/');
+							d.add(797,709,'Новости и пресс-релизы', '/ru/about/news/');
+							d.add(1340,709,'Лицензии', '/ru/about/license/');
+							d.add(1339,709,'Членство в СРО', '/ru/about/sro/');
+							d.add(728,709,'Информация для клиентов', '/ru/about/contacts/');
+							d.add(725,722,'Доверительное управление средствами клиента', '//realty/');
+							d.add(723,722,'Управление ЗПИФ недвижимости', '//makezpif/');
+							d.add(724,722,'Финансирование строительных проектов', '//stroipro/');
+							d.add(730,726,'ЗПИФ недвижимости «Жилищная программа» (прекращен)', '/ru/zpif/house/');
+							d.add(735,726,'ЗПИФ недвижимости «КапиталЪ-инвестиции в строительство»', '/ru/zpif/building/');
+							d.add(831,726,'ЗПИФ недвижимости «СтройКапиталЪ»', '/ru/zpif/stroy/');
+							d.add(732,726,'Фонды для квалифицированных инвесторов', '/ru/zpif/cityhouse/');
+							d.add(1248,730,'О фонде', '/ru/zpif/house/about/');
+							d.add(742,730,'Сообщения фонда', '/ru/zpif/house/message/');
+							d.add(745,730,'Отчетность', '/ru/zpif/house/otch/');
+							d.add(1408,732,'ЗПИФ комбинированный «Структурированные облигации»', '/ru/zpif/cityhouse/scha/');
+							d.add(1249,735,'О фонде', '/ru/zpif/building/about/');
+							d.add(766,735,'Документы фонда', '/ru/zpif/building/rule/');
+							d.add(767,735,'Сообщения фонда', '/ru/zpif/building/message/');
+							d.add(768,735,'Стоимость чистых активов', '/ru/zpif/building/price/');
+							d.add(769,735,'Строительные проекты', '/ru/zpif/building/build/');
+							d.add(1406,735,'Отчетность', '/ru/zpif/building/otch1/');
+							d.add(1269,735,'Отчеты оценщика', '/ru/zpif/building/appraisersreport/');
+							d.add(1382,735,'Ключевой информационный документ', '/ru/zpif/building/infodoc/');
+							d.add(1250,831,'О фонде', '/ru/zpif/stroy/about/');
+							d.add(832,831,'Документы фонда', '/ru/zpif/stroy/rule/');
+							d.add(833,831,'Сообщения фонда', '/ru/zpif/stroy/message/');
+							d.add(834,831,'Стоимость чистых активов', '/ru/zpif/stroy/price/');
+							d.add(835,831,'Строительные проекты', '/ru/zpif/stroy/build/');
+							d.add(836,831,'Отчетность', '/ru/zpif/stroy/otch/');
+							d.add(1270,831,'Отчеты оценщика', '/ru/zpif/stroy/appraisersreport/');
+							d.add(1383,831,'Ключевой информационный документ', '/ru/zpif/stroy/infodoc/');
+							d.add(1397,1385,'ОПИФ рыночных финансовых инструментов «Сила Баланса»', '/ru/opif/power/');
+							d.add(1398,1397,'О фонде', '/ru/opif/power/about/');
+							d.add(1399,1397,'Об агентах и о посреднических договорах', '/ru/opif/power/agent/');
+							d.add(1400,1397,'Документы фонда', '/ru/opif/power/rule/');
+							d.add(1401,1397,'Сообщения фонда', '/ru/opif/power/message/');
+							d.add(1402,1397,'Стоимость чистых активов и расчетная стоимость инвестиционного пая', '/ru/opif/power/price/');
+							d.add(1403,1397,'Отчетность', '/ru/opif/power/otch/');
+							d.add(1404,1397,'Ключевой информационный документ', '/ru/opif/power/infodoc/');
+						document.write(d);
+			d.openTo(772, true);
+			-->
+		</script><div class="dtree">
+<div class="dTreeNode" style="display: none;min-height: 25px"><img id="id0" src="/common/img/uploaded/pifKapital/menuimg/empty.gif" alt="" style="padding-top:3px">ПИФ КапиталЪ</div><div id="dd0" class="clip" style="display:block;cursor:pointer"><div class="dTreeNode" id="dv1" style="min-height: 25px"><a href="javascript: d.o(1);"><img id="jd1" src="/common/img/uploaded/pifKapital/menuimg/right.gif" alt=""></a><img id="id1" src="/common/img/uploaded/pifKapital/menuimg/empty1px.gif" alt="" style="padding-top:3px"><a href="javascript: d.o(1);" class="node"><span style="color:#a50031;font-weight:bold">О Компании</span></a></div><div id="dd1" class="clip" style="display:none;cursor:pointer"><div class="dTreeNode" id="dv8" style="min-height: 25px"><img src="/common/img/uploaded/pifKapital/menuimg/empty.gif" alt=""><img id="id8" src="/common/img/uploaded/pifKapital/menuimg/arrow22s.gif" alt="" style="padding-top:3px"><a id="sd8" class="node" href="/ru/about/news/" onclick="javascript: d.s(8);">Новости и пресс-релизы</a></div><div class="dTreeNode" id="dv9" style="min-height: 25px"><img src="/common/img/uploaded/pifKapital/menuimg/empty.gif" alt=""><img id="id9" src="/common/img/uploaded/pifKapital/menuimg/arrow22s.gif" alt="" style="padding-top:3px"><a id="sd9" class="node" href="/ru/about/license/" onclick="javascript: d.s(9);">Лицензии</a></div><div class="dTreeNode" id="dv10" style="min-height: 25px"><img src="/common/img/uploaded/pifKapital/menuimg/empty.gif" alt=""><img id="id10" src="/common/img/uploaded/pifKapital/menuimg/arrow22s.gif" alt="" style="padding-top:3px"><a id="sd10" class="node" href="/ru/about/sro/" onclick="javascript: d.s(10);">Членство в СРО</a></div><div class="dTreeNode" id="dv11" style="min-height: 25px"><img src="/common/img/uploaded/pifKapital/menuimg/empty.gif" alt=""><img id="id11" src="/common/img/uploaded/pifKapital/menuimg/arrow22s.gif" alt="" style="padding-top:3px"><a id="sd11" class="node" href="/ru/about/contacts/" onclick="javascript: d.s(11);">Информация для клиентов</a></div></div><div class="dTreeNode" id="dv2" style="min-height: 25px"><a href="javascript: d.o(2);"><img id="jd2" src="/common/img/uploaded/pifKapital/menuimg/right.gif" alt=""></a><img id="id2" src="/common/img/uploaded/pifKapital/menuimg/empty1px.gif" alt="" style="padding-top:3px"><a href="javascript: d.o(2);" class="node"><span style="color:#a50031;font-weight:bold">Закрытые паевые<br><span>инвестиционные фонды</span></span></a></div><div id="dd2" class="clip" style="display:none;cursor:pointer"><div class="dTreeNode" id="dv15" style="min-height: 25px"><a href="javascript: d.o(15);"><img id="jd15" src="/common/img/uploaded/pifKapital/menuimg/right.gif" alt=""></a><img id="id15" src="/common/img/uploaded/pifKapital/menuimg/empty1px.gif" alt="" style="padding-top:3px"><a href="javascript: d.o(15);" class="node">ЗПИФ недвижимости<br><span>«Жилищная программа»</span><br><span style="padding-left:20px">(прекращен)</span></a></div><div id="dd15" class="clip" style="display:none;cursor:pointer"><div class="dTreeNode" id="dv19" style="min-height: 25px"><img src="/common/img/uploaded/pifKapital/menuimg/empty.gif" alt=""><img id="id19" src="/common/img/uploaded/pifKapital/menuimg/arrow22s.gif" alt="" style="padding-top:3px"><a id="sd19" class="node" href="/ru/zpif/house/about/" onclick="javascript: d.s(19);">О фонде</a></div><div class="dTreeNode" id="dv20" style="min-height: 25px"><img src="/common/img/uploaded/pifKapital/menuimg/empty.gif" alt=""><img id="id20" src="/common/img/uploaded/pifKapital/menuimg/arrow22s.gif" alt="" style="padding-top:3px"><a id="sd20" class="node" href="/ru/zpif/house/message/" onclick="javascript: d.s(20);">Сообщения фонда</a></div><div class="dTreeNode" id="dv21" style="min-height: 25px"><img src="/common/img/uploaded/pifKapital/menuimg/empty.gif" alt=""><img id="id21" src="/common/img/uploaded/pifKapital/menuimg/arrow22s.gif" alt="" style="padding-top:3px"><a id="sd21" class="node" href="/ru/zpif/house/otch/" onclick="javascript: d.s(21);">Отчетность</a></div></div><div class="dTreeNode" id="dv16" style="min-height: 25px"><a href="javascript: d.o(16);"><img id="jd16" src="/common/img/uploaded/pifKapital/menuimg/right.gif" alt=""></a><img id="id16" src="/common/img/uploaded/pifKapital/menuimg/empty1px.gif" alt="" style="padding-top:3px"><a href="javascript: d.o(16);" class="node">ЗПИФ недвижимости<br><span>«КапиталЪ-инвестиции в</span><br><span style="padding-left:20px">строительство»</span></a></div><div id="dd16" class="clip" style="display:none;cursor:pointer"><div class="dTreeNode" id="dv23" style="min-height: 25px"><img src="/common/img/uploaded/pifKapital/menuimg/empty.gif" alt=""><img id="id23" src="/common/img/uploaded/pifKapital/menuimg/arrow22s.gif" alt="" style="padding-top:3px"><a id="sd23" class="node" href="/ru/zpif/building/about/" onclick="javascript: d.s(23);">О фонде</a></div><div class="dTreeNode" id="dv24" style="min-height: 25px"><img src="/common/img/uploaded/pifKapital/menuimg/empty.gif" alt=""><img id="id24" src="/common/img/uploaded/pifKapital/menuimg/arrow22s.gif" alt="" style="padding-top:3px"><a id="sd24" class="node" href="/ru/zpif/building/rule/" onclick="javascript: d.s(24);">Документы фонда</a></div><div class="dTreeNode" id="dv25" style="min-height: 25px"><img src="/common/img/uploaded/pifKapital/menuimg/empty.gif" alt=""><img id="id25" src="/common/img/uploaded/pifKapital/menuimg/arrow22s.gif" alt="" style="padding-top:3px"><a id="sd25" class="node" href="/ru/zpif/building/message/" onclick="javascript: d.s(25);">Сообщения фонда</a></div><div class="dTreeNode" id="dv26" style="min-height: 25px"><img src="/common/img/uploaded/pifKapital/menuimg/empty.gif" alt=""><img id="id26" src="/common/img/uploaded/pifKapital/menuimg/arrow22s.gif" alt="" style="padding-top:3px"><a id="sd26" class="node" href="/ru/zpif/building/price/" onclick="javascript: d.s(26);">Стоимость чистых активов</a></div><div class="dTreeNode" id="dv27" style="min-height: 25px"><img src="/common/img/uploaded/pifKapital/menuimg/empty.gif" alt=""><img id="id27" src="/common/img/uploaded/pifKapital/menuimg/arrow22s.gif" alt="" style="padding-top:3px"><a id="sd27" class="node" href="/ru/zpif/building/build/" onclick="javascript: d.s(27);">Строительные проекты</a></div><div class="dTreeNode" id="dv28" style="min-height: 25px"><img src="/common/img/uploaded/pifKapital/menuimg/empty.gif" alt=""><img id="id28" src="/common/img/uploaded/pifKapital/menuimg/arrow22s.gif" alt="" style="padding-top:3px"><a id="sd28" class="node" href="/ru/zpif/building/otch1/" onclick="javascript: d.s(28);">Отчетность</a></div><div class="dTreeNode" id="dv29" style="min-height: 25px"><img src="/common/img/uploaded/pifKapital/menuimg/empty.gif" alt=""><img id="id29" src="/common/img/uploaded/pifKapital/menuimg/arrow22s.gif" alt="" style="padding-top:3px"><a id="sd29" class="node" href="/ru/zpif/building/appraisersreport/" onclick="javascript: d.s(29);">Отчеты оценщика</a></div><div class="dTreeNode" id="dv30" style="min-height: 25px"><img src="/common/img/uploaded/pifKapital/menuimg/empty.gif" alt=""><img id="id30" src="/common/img/uploaded/pifKapital/menuimg/arrow22s.gif" alt="" style="padding-top:3px"><a id="sd30" class="node" href="/ru/zpif/building/infodoc/" onclick="javascript: d.s(30);">Ключевой информационный<br><span>документ</span></a></div></div><div class="dTreeNode" id="dv17" style="min-height: 25px"><a href="javascript: d.o(17);"><img id="jd17" src="/common/img/uploaded/pifKapital/menuimg/right.gif" alt=""></a><img id="id17" src="/common/img/uploaded/pifKapital/menuimg/empty1px.gif" alt="" style="padding-top:3px"><a href="javascript: d.o(17);" class="node">ЗПИФ недвижимости<br><span>«СтройКапиталЪ»</span></a></div><div id="dd17" class="clip" style="display:none;cursor:pointer"><div class="dTreeNode" id="dv31" style="min-height: 25px"><img src="/common/img/uploaded/pifKapital/menuimg/empty.gif" alt=""><img id="id31" src="/common/img/uploaded/pifKapital/menuimg/arrow22s.gif" alt="" style="padding-top:3px"><a id="sd31" class="node" href="/ru/zpif/stroy/about/" onclick="javascript: d.s(31);">О фонде</a></div><div class="dTreeNode" id="dv32" style="min-height: 25px"><img src="/common/img/uploaded/pifKapital/menuimg/empty.gif" alt=""><img id="id32" src="/common/img/uploaded/pifKapital/menuimg/arrow22s.gif" alt="" style="padding-top:3px"><a id="sd32" class="node" href="/ru/zpif/stroy/rule/" onclick="javascript: d.s(32);">Документы фонда</a></div><div class="dTreeNode" id="dv33" style="min-height: 25px"><img src="/common/img/uploaded/pifKapital/menuimg/empty.gif" alt=""><img id="id33" src="/common/img/uploaded/pifKapital/menuimg/arrow22s.gif" alt="" style="padding-top:3px"><a id="sd33" class="node" href="/ru/zpif/stroy/message/" onclick="javascript: d.s(33);">Сообщения фонда</a></div><div class="dTreeNode" id="dv34" style="min-height: 25px"><img src="/common/img/uploaded/pifKapital/menuimg/empty.gif" alt=""><img id="id34" src="/common/img/uploaded/pifKapital/menuimg/arrow22s.gif" alt="" style="padding-top:3px"><a id="sd34" class="node" href="/ru/zpif/stroy/price/" onclick="javascript: d.s(34);">Стоимость чистых активов</a></div><div class="dTreeNode" id="dv35" style="min-height: 25px"><img src="/common/img/uploaded/pifKapital/menuimg/empty.gif" alt=""><img id="id35" src="/common/img/uploaded/pifKapital/menuimg/arrow22s.gif" alt="" style="padding-top:3px"><a id="sd35" class="node" href="/ru/zpif/stroy/build/" onclick="javascript: d.s(35);">Строительные проекты</a></div><div class="dTreeNode" id="dv36" style="min-height: 25px"><img src="/common/img/uploaded/pifKapital/menuimg/empty.gif" alt=""><img id="id36" src="/common/img/uploaded/pifKapital/menuimg/arrow22s.gif" alt="" style="padding-top:3px"><a id="sd36" class="node" href="/ru/zpif/stroy/otch/" onclick="javascript: d.s(36);">Отчетность</a></div><div class="dTreeNode" id="dv37" style="min-height: 25px"><img src="/common/img/uploaded/pifKapital/menuimg/empty.gif" alt=""><img id="id37" src="/common/img/uploaded/pifKapital/menuimg/arrow22s.gif" alt="" style="padding-top:3px"><a id="sd37" class="node" href="/ru/zpif/stroy/appraisersreport/" onclick="javascript: d.s(37);">Отчеты оценщика</a></div><div class="dTreeNode" id="dv38" style="min-height: 25px"><img src="/common/img/uploaded/pifKapital/menuimg/empty.gif" alt=""><img id="id38" src="/common/img/uploaded/pifKapital/menuimg/arrow22s.gif" alt="" style="padding-top:3px"><a id="sd38" class="node" href="/ru/zpif/stroy/infodoc/" onclick="javascript: d.s(38);">Ключевой информационный<br><span>документ</span></a></div></div><div class="dTreeNode" id="dv18" style="min-height: 25px"><a href="javascript: d.o(18);"><img id="jd18" src="/common/img/uploaded/pifKapital/menuimg/right.gif" alt=""></a><img id="id18" src="/common/img/uploaded/pifKapital/menuimg/empty1px.gif" alt="" style="padding-top:3px"><a href="javascript: d.o(18);" class="node">Фонды для<br><span>квалифицированных</span><br><span style="padding-left:20px">инвесторов</span></a></div><div id="dd18" class="clip" style="display:none;cursor:pointer"><div class="dTreeNode" id="dv22" style="min-height: 25px"><img src="/common/img/uploaded/pifKapital/menuimg/empty.gif" alt=""><img id="id22" src="/common/img/uploaded/pifKapital/menuimg/arrow22s.gif" alt="" style="padding-top:3px"><a id="sd22" class="node" href="/ru/zpif/cityhouse/scha/" onclick="javascript: d.s(22);">ЗПИФ комбинированный<br><span>«Структурированные</span><br><span style="padding-left:20px">облигации»</span></a></div></div></div><div class="dTreeNode" id="dv3" style="min-height: 25px"><a href="javascript: d.o(3);"><img id="jd3" src="/common/img/uploaded/pifKapital/menuimg/right.gif" alt=""></a><img id="id3" src="/common/img/uploaded/pifKapital/menuimg/empty1px.gif" alt="" style="padding-top:3px"><a href="javascript: d.o(3);" class="node"><span style="color:#a50031;font-weight:bold">Открытые паевые<br><span>инвестиционные фонды</span></span></a></div><div id="dd3" class="clip" style="display:none;cursor:pointer"><div class="dTreeNode" id="dv39" style="min-height: 25px"><a href="javascript: d.o(39);"><img id="jd39" src="/common/img/uploaded/pifKapital/menuimg/right.gif" alt=""></a><img id="id39" src="/common/img/uploaded/pifKapital/menuimg/empty1px.gif" alt="" style="padding-top:3px"><a href="javascript: d.o(39);" class="node">ОПИФ рыночных финансовых<br><span>инструментов «Сила</span><br><span style="padding-left:20px">Баланса»</span></a></div><div id="dd39" class="clip" style="display:none;cursor:pointer"><div class="dTreeNode" id="dv40" style="min-height: 25px"><img src="/common/img/uploaded/pifKapital/menuimg/empty.gif" alt=""><img id="id40" src="/common/img/uploaded/pifKapital/menuimg/arrow22s.gif" alt="" style="padding-top:3px"><a id="sd40" class="node" href="/ru/opif/power/about/" onclick="javascript: d.s(40);">О фонде</a></div><div class="dTreeNode" id="dv41" style="min-height: 25px"><img src="/common/img/uploaded/pifKapital/menuimg/empty.gif" alt=""><img id="id41" src="/common/img/uploaded/pifKapital/menuimg/arrow22s.gif" alt="" style="padding-top:3px"><a id="sd41" class="node" href="/ru/opif/power/agent/" onclick="javascript: d.s(41);">Об агентах и о<br><span>посреднических договорах</span></a></div><div class="dTreeNode" id="dv42" style="min-height: 25px"><img src="/common/img/uploaded/pifKapital/menuimg/empty.gif" alt=""><img id="id42" src="/common/img/uploaded/pifKapital/menuimg/arrow22s.gif" alt="" style="padding-top:3px"><a id="sd42" class="node" href="/ru/opif/power/rule/" onclick="javascript: d.s(42);">Документы фонда</a></div><div class="dTreeNode" id="dv43" style="min-height: 25px"><img src="/common/img/uploaded/pifKapital/menuimg/empty.gif" alt=""><img id="id43" src="/common/img/uploaded/pifKapital/menuimg/arrow22s.gif" alt="" style="padding-top:3px"><a id="sd43" class="node" href="/ru/opif/power/message/" onclick="javascript: d.s(43);">Сообщения фонда</a></div><div class="dTreeNode" id="dv44" style="min-height: 25px"><img src="/common/img/uploaded/pifKapital/menuimg/empty.gif" alt=""><img id="id44" src="/common/img/uploaded/pifKapital/menuimg/arrow22s.gif" alt="" style="padding-top:3px"><a id="sd44" class="node" href="/ru/opif/power/price/" onclick="javascript: d.s(44);">Стоимость чистых активов<br><span>и расчетная стоимость</span><br><span style="padding-left:20px">инвестиционного пая</span></a></div><div class="dTreeNode" id="dv45" style="min-height: 25px"><img src="/common/img/uploaded/pifKapital/menuimg/empty.gif" alt=""><img id="id45" src="/common/img/uploaded/pifKapital/menuimg/arrow22s.gif" alt="" style="padding-top:3px"><a id="sd45" class="node" href="/ru/opif/power/otch/" onclick="javascript: d.s(45);">Отчетность</a></div><div class="dTreeNode" id="dv46" style="min-height: 25px"><img src="/common/img/uploaded/pifKapital/menuimg/empty.gif" alt=""><img id="id46" src="/common/img/uploaded/pifKapital/menuimg/arrow22s.gif" alt="" style="padding-top:3px"><a id="sd46" class="node" href="/ru/opif/power/infodoc/" onclick="javascript: d.s(46);">Ключевой информационный<br><span>документ</span></a></div></div></div><div class="dTreeNode" id="dv4" style="min-height: 25px"><img src="/common/img/uploaded/pifKapital/menuimg/empty.gif" alt=""><img id="id4" src="/common/img/uploaded/pifKapital/menuimg/empty1px.gif" alt="" style="padding-top:3px"><a id="sd4" class="node" href="/ru/du/" onclick="javascript: d.s(4);"><span style="color:#a50031;font-weight:bold">Доверительное управление </span></a></div><div class="dTreeNodeSel" id="dv5" style="min-height: 25px"><img src="/common/img/uploaded/pifKapital/menuimg/empty.gif" alt=""><img id="id5" src="/common/img/uploaded/pifKapital/menuimg/empty1px.gif" alt="" style="padding-top:3px"><a id="sd5" class="nodeSel" href="/ru/finotch/" onclick="javascript: d.s(5);"><span style="color:#a50031;font-weight:bold">Отчетность Компании</span></a></div><div class="dTreeNode" id="dv6" style="min-height: 25px"><img src="/common/img/uploaded/pifKapital/menuimg/empty.gif" alt=""><img id="id6" src="/common/img/uploaded/pifKapital/menuimg/empty1px.gif" alt="" style="padding-top:3px"><a id="sd6" class="node" href="/ru/fatca/" onclick="javascript: d.s(6);"><span style="color:#a50031;font-weight:bold">FATCA/CRS</span></a></div><div class="dTreeNode" id="dv7" style="min-height: 25px"><img src="/common/img/uploaded/pifKapital/menuimg/empty.gif" alt=""><img id="id7" src="/common/img/uploaded/pifKapital/menuimg/empty1px.gif" alt="" style="padding-top:3px"><a id="sd7" class="node" href="/ru/inside/" onclick="javascript: d.s(7);"><span style="color:#a50031;font-weight:bold">Прочее</span></a></div></div></div>
+	</div>							</td>
+							<td style="width: 60%;border-left: 1px solid #eceeef; padding: 0px 15px 0px 15px">
+								<table>
+									<tbody><tr>
+										<td align="justify">
+											<span id="rbccontents_ee_block" block_id="736" sys_name="news" tarea_id="52"></span><script type="text/javascript">
+	function opendiv(th){
+		if(document.getElementById(th).style.display == 'none'){
+			document.getElementById(th).style.display = '';
+			document.getElementById('arch_nav').style.display = '';
+		}
+		else{
+			document.getElementById(th).style.display = 'none';
+			document.getElementById('arch_nav').style.display = 'none';
+		}
+	}
+</script>
+<!---->
+					<div class="list6">
+			<table border="0" cellspacing="0" cellpadding="0" width="100%">
+									<tbody><tr valign="top">
+						<td colspan="3">
+															<div class="text">19.06.2023 13:16<br>Доступно в течение трех лет с даты опубликования</div>
+													</td>
+					</tr>
+								<tr valign="top">
+					<td style="padding: 0px 0px 0px 8px;" width="100%">
+						<b><a target="_self" href="index.php?id52=93357">Расчет размера собственных средств. Май 2023г.</a></b>
+						<div class="text"></div>
+						
+					</td>
+				</tr>
+			</tbody></table>
+		</div>
+							<div class="list6">
+			<table border="0" cellspacing="0" cellpadding="0" width="100%">
+									<tbody><tr valign="top">
+						<td colspan="3">
+															<div class="text">22.05.2023 13:01<br>Доступно в течение трех лет с даты опубликования</div>
+													</td>
+					</tr>
+								<tr valign="top">
+					<td style="padding: 0px 0px 0px 8px;" width="100%">
+						<b><a target="_self" href="index.php?id52=93355">Расчет размера собственных средств. Апрель 2023г.</a></b>
+						<div class="text"></div>
+						
+					</td>
+				</tr>
+			</tbody></table>
+		</div>
+							<div class="list6">
+			<table border="0" cellspacing="0" cellpadding="0" width="100%">
+									<tbody><tr valign="top">
+						<td colspan="3">
+															<div class="text">03.05.2023 18:07<br> Доступно в течение трех лет с даты опубликования</div>
+													</td>
+					</tr>
+								<tr valign="top">
+					<td style="padding: 0px 0px 0px 8px;" width="100%">
+						<b><a target="_self" href="index.php?id52=93352">Финансовая отчетность, подготовленная в соответствии с международными стандартами финансовой отчетности (МСФО) за 2022 год</a></b>
+						<div class="text"></div>
+						
+					</td>
+				</tr>
+			</tbody></table>
+		</div>
+							<div class="list6">
+			<table border="0" cellspacing="0" cellpadding="0" width="100%">
+									<tbody><tr valign="top">
+						<td colspan="3">
+															<div class="text">03.05.2023 18:04<br>Доступно в течение трех лет с даты опубликования</div>
+													</td>
+					</tr>
+								<tr valign="top">
+					<td style="padding: 0px 0px 0px 8px;" width="100%">
+						<b><a target="_self" href="index.php?id52=93351">Отчетность ООО "Контрада Капитал" за 1 квартал 2023 года</a></b>
+						<div class="text"></div>
+						
+					</td>
+				</tr>
+			</tbody></table>
+		</div>
+							<div class="list6">
+			<table border="0" cellspacing="0" cellpadding="0" width="100%">
+									<tbody><tr valign="top">
+						<td colspan="3">
+															<div class="text">18.04.2023 15:12<br>Доступно в течение трех лет с даты опубликования</div>
+													</td>
+					</tr>
+								<tr valign="top">
+					<td style="padding: 0px 0px 0px 8px;" width="100%">
+						<b><a target="_self" href="index.php?id52=93349"> Расчет размера собственных средств. Март 2023г</a></b>
+						<div class="text"></div>
+						
+					</td>
+				</tr>
+			</tbody></table>
+		</div>
+							<div class="list6">
+			<table border="0" cellspacing="0" cellpadding="0" width="100%">
+									<tbody><tr valign="top">
+						<td colspan="3">
+															<div class="text">14.04.2023 10:57<br>Доступно в течение трех лет с даты опубликования</div>
+													</td>
+					</tr>
+								<tr valign="top">
+					<td style="padding: 0px 0px 0px 8px;" width="100%">
+						<b><a target="_self" href="index.php?id52=93345">Отчетность ООО "Контрада Капитал" за 2022 год</a></b>
+						<div class="text"></div>
+						
+					</td>
+				</tr>
+			</tbody></table>
+		</div>
+							<div class="list6">
+			<table border="0" cellspacing="0" cellpadding="0" width="100%">
+									<tbody><tr valign="top">
+						<td colspan="3">
+															<div class="text">17.03.2023 15:27<br>Доступно в течение трех лет с даты опубликования</div>
+													</td>
+					</tr>
+								<tr valign="top">
+					<td style="padding: 0px 0px 0px 8px;" width="100%">
+						<b><a target="_self" href="index.php?id52=93341">Расчет размера собственных средств. Февраль 2023г.</a></b>
+						<div class="text"></div>
+						
+					</td>
+				</tr>
+			</tbody></table>
+		</div>
+							<div class="list6">
+			<table border="0" cellspacing="0" cellpadding="0" width="100%">
+									<tbody><tr valign="top">
+						<td colspan="3">
+															<div class="text">16.02.2023 16:55<br>Доступно в течение трех лет с даты опубликования</div>
+													</td>
+					</tr>
+								<tr valign="top">
+					<td style="padding: 0px 0px 0px 8px;" width="100%">
+						<b><a target="_self" href="index.php?id52=93333">Расчет размера собственных средств. Январь 2023г.</a></b>
+						<div class="text"></div>
+						
+					</td>
+				</tr>
+			</tbody></table>
+		</div>
+							<div class="list6">
+			<table border="0" cellspacing="0" cellpadding="0" width="100%">
+									<tbody><tr valign="top">
+						<td colspan="3">
+															<div class="text">24.01.2023 12:45<br>Доступно в течение трех лет с даты опубликования</div>
+													</td>
+					</tr>
+								<tr valign="top">
+					<td style="padding: 0px 0px 0px 8px;" width="100%">
+						<b><a target="_self" href="index.php?id52=93331">Расчет размера собственных средств. Декабрь 2022г</a></b>
+						<div class="text"></div>
+						
+					</td>
+				</tr>
+			</tbody></table>
+		</div>
+							<div class="list6">
+			<table border="0" cellspacing="0" cellpadding="0" width="100%">
+									<tbody><tr valign="top">
+						<td colspan="3">
+															<div class="text">18.07.2022 17:07<br>Доступно в течение трех лет с даты опубликования</div>
+													</td>
+					</tr>
+								<tr valign="top">
+					<td style="padding: 0px 0px 0px 8px;" width="100%">
+						<b><a target="_self" href="index.php?id52=93295">Расчет размера собственных средств. Июнь 2022г</a></b>
+						<div class="text"></div>
+						
+					</td>
+				</tr>
+			</tbody></table>
+		</div>
+							<div class="list6">
+			<table border="0" cellspacing="0" cellpadding="0" width="100%">
+									<tbody><tr valign="top">
+						<td colspan="3">
+															<div class="text">16.06.2022 11:19<br>Доступно в течение трех лет с даты опубликования</div>
+													</td>
+					</tr>
+								<tr valign="top">
+					<td style="padding: 0px 0px 0px 8px;" width="100%">
+						<b><a target="_self" href="index.php?id52=93294">Расчет размера собственных средств. Май 2022г</a></b>
+						<div class="text"></div>
+						
+					</td>
+				</tr>
+			</tbody></table>
+		</div>
+							<div class="list6">
+			<table border="0" cellspacing="0" cellpadding="0" width="100%">
+									<tbody><tr valign="top">
+						<td colspan="3">
+															<div class="text">23.05.2022 13:13<br>Доступно в течение трех лет с даты опубликования</div>
+													</td>
+					</tr>
+								<tr valign="top">
+					<td style="padding: 0px 0px 0px 8px;" width="100%">
+						<b><a target="_self" href="index.php?id52=93287">Расчет размера собственных средств. Апрель 2022г.</a></b>
+						<div class="text"></div>
+						
+					</td>
+				</tr>
+			</tbody></table>
+		</div>
+							<div class="list6">
+			<table border="0" cellspacing="0" cellpadding="0" width="100%">
+									<tbody><tr valign="top">
+						<td colspan="3">
+															<div class="text" title="">26.04.2022 12:27</div>
+													</td>
+					</tr>
+								<tr valign="top">
+					<td style="padding: 0px 0px 0px 8px;" width="100%">
+						<b><a target="_self" href="index.php?id52=93285">Финансовая отчетность, подготовленная в соответствии с международными стандартами финансовой отчетности (МСФО) за 2021 год</a></b>
+						<div class="text"></div>
+						
+					</td>
+				</tr>
+			</tbody></table>
+		</div>
+							<div class="list6">
+			<table border="0" cellspacing="0" cellpadding="0" width="100%">
+									<tbody><tr valign="top">
+						<td colspan="3">
+															<div class="text">21.04.2022 15:21<br>Доступно в течение трех лет с даты опубликования.</div>
+													</td>
+					</tr>
+								<tr valign="top">
+					<td style="padding: 0px 0px 0px 8px;" width="100%">
+						<b><a target="_self" href="index.php?id52=93284">Отчетность ООО "УК КапиталЪ ПИФ" за 1 квартал 2022 года</a></b>
+						<div class="text"></div>
+						
+					</td>
+				</tr>
+			</tbody></table>
+		</div>
+							<div class="list6">
+			<table border="0" cellspacing="0" cellpadding="0" width="100%">
+									<tbody><tr valign="top">
+						<td colspan="3">
+															<div class="text">15.04.2022 13:52<br>Доступно в течение трех лет с даты опубликования</div>
+													</td>
+					</tr>
+								<tr valign="top">
+					<td style="padding: 0px 0px 0px 8px;" width="100%">
+						<b><a target="_self" href="index.php?id52=93283">Расчет размера собственных средств. Март 2022г. </a></b>
+						<div class="text"></div>
+						
+					</td>
+				</tr>
+			</tbody></table>
+		</div>
+							<div class="list6">
+			<table border="0" cellspacing="0" cellpadding="0" width="100%">
+									<tbody><tr valign="top">
+						<td colspan="3">
+															<div class="text">23.03.2022 16:04<br>Доступно в течение трех лет с даты опубликования.</div>
+													</td>
+					</tr>
+								<tr valign="top">
+					<td style="padding: 0px 0px 0px 8px;" width="100%">
+						<b><a target="_self" href="index.php?id52=93279">Отчетность ООО "УК КапиталЪ ПИФ" за 2021 год</a></b>
+						<div class="text"></div>
+						
+					</td>
+				</tr>
+			</tbody></table>
+		</div>
+							<div class="list6">
+			<table border="0" cellspacing="0" cellpadding="0" width="100%">
+									<tbody><tr valign="top">
+						<td colspan="3">
+															<div class="text">17.03.2022 14:08<br>Доступно в течение трех лет с даты опубликования</div>
+													</td>
+					</tr>
+								<tr valign="top">
+					<td style="padding: 0px 0px 0px 8px;" width="100%">
+						<b><a target="_self" href="index.php?id52=93272">Расчет размера собственных средств. Февраль 2022г.</a></b>
+						<div class="text"></div>
+						
+					</td>
+				</tr>
+			</tbody></table>
+		</div>
+							<div class="list6">
+			<table border="0" cellspacing="0" cellpadding="0" width="100%">
+									<tbody><tr valign="top">
+						<td colspan="3">
+															<div class="text">15.02.2022 11:58<br>Доступно в течение трех лет с даты опубликован</div>
+													</td>
+					</tr>
+								<tr valign="top">
+					<td style="padding: 0px 0px 0px 8px;" width="100%">
+						<b><a target="_self" href="index.php?id52=93253">Расчет размера собственных средств. Январь 2022г. </a></b>
+						<div class="text"></div>
+						
+					</td>
+				</tr>
+			</tbody></table>
+		</div>
+							<div class="list6">
+			<table border="0" cellspacing="0" cellpadding="0" width="100%">
+									<tbody><tr valign="top">
+						<td colspan="3">
+															<div class="text">25.01.2022 14:12<br>Доступно в течение трех лет с даты опубликования</div>
+													</td>
+					</tr>
+								<tr valign="top">
+					<td style="padding: 0px 0px 0px 8px;" width="100%">
+						<b><a target="_self" href="index.php?id52=93252">Расчет размера собственных средств. Декабрь 2021г.</a></b>
+						<div class="text"></div>
+						
+					</td>
+				</tr>
+			</tbody></table>
+		</div>
+							<div class="list6">
+			<table border="0" cellspacing="0" cellpadding="0" width="100%">
+									<tbody><tr valign="top">
+						<td colspan="3">
+															<div class="text">15.12.2021 14:40<br>Доступно в течение трех лет с даты опубликования</div>
+													</td>
+					</tr>
+								<tr valign="top">
+					<td style="padding: 0px 0px 0px 8px;" width="100%">
+						<b><a target="_self" href="index.php?id52=93247">Расчет размера собственных средств. Ноябрь 2021г</a></b>
+						<div class="text"></div>
+						
+					</td>
+				</tr>
+			</tbody></table>
+		</div>
+			<noindex><div class="nav noprint">
+<!--
+<img src="/common/pif/img/but/n-bb.gif" border="0" alt="" hspace="3" vspace="2" align="absmiddle">
+
+&nbsp;
+
+<img src="/common/pif/img/but/n-b.gif" border="0" alt="" hspace="4" vspace="2" align="absmiddle">
+
+&nbsp;&nbsp;-->
+
+ 
+
+&nbsp;<b>1</b>&nbsp;
+
+&nbsp;<span class="hr">|</span>&nbsp;
+ 
+
+&nbsp;<a href="/ru/finotch/index.php?from52=2">2</a>&nbsp;
+
+&nbsp;<span class="hr">|</span>&nbsp;
+ 
+
+&nbsp;<a href="/ru/finotch/index.php?from52=3">3</a>&nbsp;
+
+&nbsp;<span class="hr">|</span>&nbsp;
+ 
+
+&nbsp;<a href="/ru/finotch/index.php?from52=4">4</a>&nbsp;
+
+&nbsp;<span class="hr">|</span>&nbsp;
+ 
+
+&nbsp;<a href="/ru/finotch/index.php?from52=5">5</a>&nbsp;
+
+&nbsp;<span class="hr">|</span>&nbsp;
+ 
+
+&nbsp;<a href="/ru/finotch/index.php?from52=6">...</a>&nbsp;
+
+&nbsp;<span class="hr">|</span>&nbsp;
+ 
+
+&nbsp;<a href="/ru/finotch/index.php?from52=11">11</a>&nbsp;
+
+
+<!--
+&nbsp;&nbsp;
+
+ <a href="/ru/finotch/index.php?from52=2"><img src="/common/pif/img/but/n-n-a.gif" border="0" alt="" hspace="4" vspace="2" align="absmiddle"></a>
+
+&nbsp;
+
+ <a href="/ru/finotch/index.php?from52=11"><img src="/common/pif/img/but/n-nn-a.gif" border="0" alt="" hspace="3" vspace="2" align="absmiddle"></a>
+
+-->
+
+</div></noindex>										</td>
+									</tr>
+									<tr>
+										<td align="justify">
+																					</td>
+									</tr>
+									<tr>
+										<td align="justify">
+																					</td>
+									</tr>
+								</tbody></table>
+							</td>
+							<td align="center" style="border-left: 1px solid #eceeef; padding-left: 15px; width: 20%; padding-top: 0px">
+								<!--<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<tbody><tr>
+	<td style="padding: 0px; background: rgb(255, 255, 255) url(http://www.kapital-pif.ru/common/pif/img/bg-4.gif) repeat-x scroll center bottom; ">
+<div class="left"><h3 style="color:#3e464d;margin-top:10px">Фондовые индексы</h3></div>
+</td>
+</tr>
+</tbody></table>
+<div style="display:'';height:258px" id="fid">
+	<table style="width:200px;height:100%" cellspacing="0" cellpadding="0" border="0">
+		<tr align="center">
+			<th colspan="3" style="height:28px;border-bottom: 1px solid rgb(62, 70, 77);font-size: 0.65em">&nbsp;</th>
+			<th style="border-bottom: 1px solid rgb(62, 70, 77);font-size: 0.65em">Знач.</th>
+			<th style="border-bottom: 1px solid rgb(62, 70, 77);font-size: 0.65em">Измен.</th>
+		</tr>
+									<tr>
+					<td style="height:28px;vertical-align:middle" align="left"><font color="#333333"><a class="ltl" target="_blank" href="#">РТС</a>&nbsp;</font></td>
+					<td style="font-size: 0.65em;vertical-align:middle">02/09&nbsp;</td>
+					<td style="vertical-align:middle"><img src="/common/img/uploaded/pifKapital/arrow_green.gif" width="10" height="10" border="0"></td>
+					<td style="font-size: 0.65em;vertical-align:middle">1308.64&nbsp;</td>
+					<td style="font-size: 0.65em;vertical-align:middle"><font class="ltl" color="green">1.37%&nbsp;</font></td>
+				</tr>
+							<tr>
+					<td style="height:28px;vertical-align:middle" align="left"><font color="#333333"><a class="ltl" target="_blank" href="#">ММВБ</a>&nbsp;</font></td>
+					<td style="font-size: 0.65em;vertical-align:middle">02/09&nbsp;</td>
+					<td style="vertical-align:middle"><img src="/common/img/uploaded/pifKapital/arrow_green.gif" width="10" height="10" border="0"></td>
+					<td style="font-size: 0.65em;vertical-align:middle">2771.74&nbsp;</td>
+					<td style="font-size: 0.65em;vertical-align:middle"><font class="ltl" color="green">1.32%&nbsp;</font></td>
+				</tr>
+							<tr>
+					<td style="height:28px;vertical-align:middle" align="left"><font color="#333333"><a class="ltl" target="_blank" href="#">USD ЦБ РФ</a>&nbsp;</font></td>
+					<td style="font-size: 0.65em;vertical-align:middle">03/09&nbsp;</td>
+					<td style="vertical-align:middle"><img src="/common/img/uploaded/pifKapital/arrow_green.gif" width="10" height="10" border="0"></td>
+					<td style="font-size: 0.65em;vertical-align:middle">66.6235&nbsp;</td>
+					<td style="font-size: 0.65em;vertical-align:middle"><font class="ltl" color="green">0.1338&nbsp;</font></td>
+				</tr>
+							<tr>
+					<td style="height:28px;vertical-align:middle" align="left"><font color="#333333"><a class="ltl" target="_blank" href="#">EUR ЦБ РФ</a>&nbsp;</font></td>
+					<td style="font-size: 0.65em;vertical-align:middle">03/09&nbsp;</td>
+					<td style="vertical-align:middle"><img src="/common/img/uploaded/pifKapital/arrow_red.gif" width="10" height="10" border="0"></td>
+					<td style="font-size: 0.65em;vertical-align:middle">73.1726&nbsp;</td>
+					<td style="font-size: 0.65em;vertical-align:middle"><font class="ltl" color="red">-0.2121&nbsp;</font></td>
+				</tr>
+							<tr align="center">
+			<td colspan="5" style="height:17px;border-top: 1px solid rgb(62, 70, 77);"><small><a class="ltl" target="_blank" href="#"></a></small></td>
+		</tr>
+	</table>
+</div>--><span id="rbccontents_ee_block" block_id="686" sys_name="promo_block" tarea_id="59"></span><noindex>
+<div>&nbsp;</div></noindex><span id="rbccontents_ee_block" block_id="625" sys_name="promo_block" tarea_id="60"></span><noindex>
+<div>&nbsp;</div></noindex>							</td>
+						</tr>
+					</tbody></table>
+					<!-- центральная часть -->
+				</td>
+			</tr>
+			<tr valign="top">
+				<td style="height:40px"><img src="/common/img/uploaded/pifKapital/blank.gif" style="height: 40px" border="0"></td>
+			</tr>
+			<tr valign="top">
+				<td>
+					<!-- подвал -->
+					<span id="rbccontents_ee_block" block_id="1354" sys_name="content_text" tarea_id="61"></span><p>Общество с ограниченной ответственностью «Контрада Капитал» (ООО «Контрада Капитал»), наименование до 27.04.2022: Общество с ограниченной ответственностью «Управляющая компания КапиталЪ Паевые Инвестиционные Фонды», имеет лицензию на осуществление деятельности по управлению инвестиционными фондами, паевыми инвестиционными фондами и негосударственными пенсионными фондами № 21-000-1-00636 от 17.04.2009, выданную на основании решения ФСФР России, без ограничения срока действия; лицензию профессионального участника рынка ценных бумаг на осуществление деятельности по управлению ценными бумагами № 045-14152-001000 от 12.09.2022, выданную на основании решения Банка России, без ограничения срока действия.* Сведения о регистрации правил доверительного управления ФСФР России: ЗПИФ недвижимости «КапиталЪ-инвестиции в строительство» — № 1844-94151768 от 22.07.2010; ЗПИФ недвижимости «СтройКапиталЪ» — № 2387 от 05.07.2012. Сведения о регистрации правил доверительного управления Банком России: ЗПИФ комбинированный «Капитал Сити Эстейт» — № 3292 от 04.04.2017 (паи ограничены в обороте); ОПИФ рыночных финансовых инструментов «Сила Баланса» — № 4693 от 11.11.2021. Сведения о внесении в реестр паевых инвестиционных фондов Банком России: ЗПИФ комбинированный «Структурированные облигации» — № 5063-СД от 12.08.2022 (паи ограничены в обороте); ЗПИФ комбинированный «Контрада - Спутник» — № 5024-СД от 08.07.2022 (паи ограничены в обороте); ЗПИФ комбинированный «ММК Капитал» — № 4725-СД от 29.11.2021 (паи ограничены в обороте); ЗПИФ комбинированный «Фонд проектных инвестиций» № 5135-СД от 18.10.2022 (паи ограничены в обороте); ЗПИФ комбинированный «Аквила» — № 5200-СД от 24.11.2022 (паи ограничены в обороте); ЗПИФ комбинированный «Торре» — № 5292-СД от 01.03.2023 (паи ограничены в обороте); ЗПИФ комбинированный «Инвестиционные проекты» — № 5297-СД от 07.03.2023 (паи ограничены в обороте); ЗПИФ комбинированный «Бруко» — № 5274-СД от 09.02.2023 (паи ограничены в обороте). Стоимость инвестиционных паев может увеличиваться и уменьшаться, результаты инвестирования в прошлом не определяют доходы в будущем, государство не гарантирует доходность инвестиций в паевые инвестиционные фонды. Денежные средства, передаваемые в оплату инвестиционных паев, не застрахованы в государственной корпорации «Агентство по страхованию вкладов» в соответствии с Федеральным законом от 23.12.2003 № 177-ФЗ «О страховании вкладов в банках Российской Федерации». Прежде чем приобрести инвестиционный пай, следует внимательно ознакомиться с правилами доверительного управления паевым инвестиционным фондом Результаты деятельности управляющего по управлению ценными бумагами в прошлом не определяют доходы учредителя управления в будущем. Прежде чем принять решение об инвестировании, необходимо внимательно ознакомиться с договором доверительного управления и декларацией о рисках. Заключаемый договор доверительного управления не является договором банковского вклада или банковского счета. Передаваемые в управление денежные средства не застрахованы в государственной корпорации «Агентство по страхованию вкладов» в соответствии с Федеральным законом от 23.12.2003 № 177-ФЗ «О страховании вкладов в банках РФ», государство и Компания не дают никаких гарантий сохранности и возврата инвестируемых денежных средств. Услуга по доверительному управлению означает инвестирование денежных средств в ценные бумаги. Инвестирование в ценные бумаги влечет кредитные и рыночные риски, в том числе риск потери всех или части инвестированных денежных средств. Вложение в ценные бумаги всех имеющихся у клиента денежных средств или большей их части может привести к утрате всех его накоплений, а также к банкротству клиента. Ознакомиться с правилами доверительного управления паевыми инвестиционными фондами, с условиями управления активами и иными документами, а также получить информацию о Компании, о паевых инвестиционных фондах и иную информацию, которая должна быть предоставлена в соответствии с законодательством Российской Федерации, заинтересованные лица могут по адресу: 123022, г. Москва, вн. тер. г. муниципальный округ Пресненский, Столярный пер., д. 3, к. 14, помещ. 1, этаж 4, часть комнат 23, 35, а также по телефону: +7-495-745-51-99.
+Адрес в сети Интернет www.contrada-capital.ru.</p><p>
+</p><p>
+Ознакомьтесь с <a href="http://old.contrada-capital.ru/common/img/uploaded/files_list/POLITIKA_OBRABOTKI_PD.pdf">Политикой обработки персональных данных</a> ООО «Контрада Капитал».
+</p><p>
+ <a href="http://old.contrada-capital.ru/common/img/uploaded/files_list/Rekomendatsii_po_zashchite_informatsii.pdf">Рекомендации клиентам по защите информации</a> .
+</p><p>
+* При совмещении деятельности по доверительному управлению паевыми инвестиционными фондами и деятельности по управлению ценными бумагами существует риск конфликта интересов, вызванный таким совмещением.
+</p><p>
+						</p><table id="block" align="center">
+						<tbody><tr>
+							</tr>
+					</tbody></table>
+				</td>
+			</tr>
+			<tr valign="top">
+				<td style="height:40px"><img src="/common/img/uploaded/pifKapital/blank.gif" style="height: 40px" border="0"></td>
+			</tr>
+			<tr valign="top">
+				<td style="height:30%">&nbsp;</td>
+			</tr>
+		</tbody></table>
+<script type="text/javascript">
+
+  var _gaq = _gaq || [];
+  _gaq.push(['_setAccount', 'UA-9490818-7']);
+  _gaq.push(['_trackPageview']);
+
+  (function() {
+    var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+    ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+    var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+  })();
+
+</script>
+	

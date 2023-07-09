@@ -1,0 +1,1269 @@
+
+
+<div id="t3-off-canvas" class="t3-off-canvas  hidden-lg hidden-md hidden-sm off-canvas-effect-4 off-canvas-left">
+
+  <div class="t3-off-canvas-header">
+    <h2 class="t3-off-canvas-header-title">Sidebar</h2>
+    <button type="button" class="close" data-dismiss="modal" aria-hidden="true">×</button>
+  </div>
+
+  <div class="t3-off-canvas-body">
+    <div class="t3-module module " id="Mod119"><div class="module-inner"><div class="module-ct"><ul class="nav menu">
+<li class="item-251"><a href="/about" class="">О компании</a></li><li class="item-253"><a href="/rekvisity" class="">Реквизиты</a></li><li class="item-254"><a href="/info" class="">Раскрытие информации</a></li><li class="item-255"><a href="/news" class="">Новости</a></li><li class="item-256"><a href="/contact" class="">Контакты</a></li><li class="item-101 default"><a href="/" class="">Главная</a></li></ul>
+</div></div></div>
+  </div>
+
+</div><div class="t3-wrapper"> <!-- Need this wrapper for off-canvas menu. Remove if you don't use of-canvas -->
+  <div class="container-hd">
+    
+    
+	<!-- TOP BAR -->
+	<div class="t3-top-bar">
+		<div class="container">
+			<div class="row">
+				<div class="col-sm-6 col-md-6 top-left ">
+					
+
+<div class="custom">
+	<p>197198, город Санкт-Петербург, улица Блохина, дом 9, Литера А, помещение 301-В, 302-В</p></div>
+
+				</div>
+
+				<div class="col-sm-6 col-md-6 top-right ">
+					<div class="right-info ">
+						
+
+<div class="custom">
+	<ul>
+<li><span class="hidden-sm hidden-xs gray-light"> Тел:</span> +7 (812) 667-84-83</li>
+<li><span class="hidden-sm hidden-xs gray-light">Email:</span> <a href="mailto:info@fonddom.spb.ru">info@fonddom.spb.ru</a></li>
+</ul></div>
+
+					</div>
+
+									</div>
+			</div>
+		</div>
+	</div>
+	<!-- //TOP BAR -->
+
+
+    
+<!-- HEADER -->
+<header id="t3-header" class="container t3-header">
+	<div class="row">
+
+		<!-- LOGO -->
+		<div class="col-xs-3 col-sm-8 logo">
+			<div class="logo-image">
+				<a href="https://fonddom.spb.ru/" title="УК " Фондовый="" дом""="">
+											<img class="logo-img" src="/images/logo2.png" alt="УК " Фондовый="" дом""="">
+															<span>УК "Фондовый дом"</span>
+				</a>
+				<small class="site-slogan"></small>
+			</div>
+		</div>
+		<!-- //LOGO -->
+
+					<div class="col-xs-9 col-sm-4">
+									<!-- HEAD ACTION -->
+					<div class="head-action text-right ">
+						
+
+<div class="custom">
+	<p><span style="font-size: 12pt;"><a class="btn btn-lg btn-secondary" href="/journal">Электронный журнал раскрытия информации</a></span></p></div>
+
+					</div>
+					<!-- //HEAD ACTION -->
+				
+			</div>
+		
+	</div>
+</header>
+<!-- //HEADER -->
+
+
+    
+<!-- MAIN NAVIGATION -->
+<nav id="t3-mainnav" class="wrap navbar navbar-default t3-mainnav affix-top">
+	<div class="container">
+				
+		
+					
+<button class="btn btn-primary off-canvas-toggle  hidden-lg hidden-md hidden-sm" type="button" data-pos="left" data-nav="#t3-off-canvas" data-effect="off-canvas-effect-4">
+  <i class="fa fa-bars"></i>
+</button>
+
+<!-- OFF-CANVAS SIDEBAR -->
+
+<!-- //OFF-CANVAS SIDEBAR -->
+
+		
+		<div class="row">
+			<div class="col-sm-12 col-md-12">
+				<!-- Brand and toggle get grouped for better mobile display -->
+
+				
+				<div class="t3-navbar navbar-collapse collapse">
+							<ul class="nav navbar-nav">
+			<li class="item-251">				<a href="/about">О компании</a>
+				</li><li class="item-253">				<a href="/rekvisity">Реквизиты</a>
+				</li><li class="item-254">				<a href="/info">Раскрытие информации</a>
+				</li><li class="item-255">				<a href="/news">Новости</a>
+				</li><li class="item-256">				<a href="/contact">Контакты</a>
+				</li><li class="item-101">				<a href="/">Главная</a>
+				</li>		</ul>
+	
+				</div>
+			</div>
+					</div>
+	</div>
+</nav>
+<!-- //MAIN NAVIGATION -->
+
+
+    
+
+
+    
+
+
+    
+	<!-- MASTHEAD -->
+	<div class="wrap t3-masthead ">
+			<div class="ja-masthead">
+	    <div class="ja-masthead-detail container">
+		<h3 class="ja-masthead-title">ООО " УК "Фондовый ДОМ"</h3>
+        		  <div class="ja-masthead-description">Управляющая компания из Санкт-Петербурга</div>
+        	</div>
+</div>	
+	</div>
+	<!-- //MASTHEAD -->
+
+
+    
+
+
+    
+
+<div id="t3-mainbody" class="container t3-mainbody">
+	<div class="row">
+
+		<!-- MAIN CONTENT -->
+		<div id="t3-content" class="t3-content col-xs-12">
+						<div id="system-message-container">
+	</div>
+
+						
+
+
+<!-- Start K2 Category Layout -->
+
+
+
+<div id="k2Container" class="itemListView">
+
+  
+  
+  
+  
+
+  <!-- Blocks for current category and subcategories -->
+
+  
+
+  <div class="itemListCategoriesBlock">
+
+    
+    
+
+    <!-- Category block -->
+
+    
+
+    <div class="itemListCategory12">
+
+      
+      
+      
+      
+
+      <!-- Category title -->
+
+      <h1 class="componentheading">Расчет размера собственных средств</h1>
+
+      
+      
+      
+
+      <!-- K2 Plugins: K2CategoryDisplay --> 
+
+      
+
+      
+      <div class="clr"></div>
+
+    </div>
+
+    
+    
+  </div>
+
+  
+  
+  
+
+  <!-- Item list -->
+
+  
+
+  <div class="itemList">
+
+    
+    
+    
+
+    <!-- Primary items -->
+
+    
+
+    <div id="itemListPrimary">
+
+      
+      
+      <div class="itemContainer itemContainerLast" style="width:99.9%;">
+
+        
+<!-- Start K2 Item Layout -->
+
+<div class=" groupPrimary">
+
+	<!-- Plugins: BeforeDisplay -->
+
+	
+	<!-- K2 Plugins: K2BeforeDisplay -->
+
+	
+
+
+	
+
+	<!-- Item attachments -->
+	<div class="catItemLinks">
+
+		<div class="row">
+
+
+
+
+			<div class="col-xs-2 center">
+				<span class="published">
+					15.06.2023					<span>
+			</span></span></div>
+
+
+			<div class="col-xs-10">
+								<div class="journalIcon">
+				<a title="Дата и время публикации: 15.06.2023, 12:09" href="/journal/item/download/328_4d08c0e3aed53f05405a3ec34d7c0363" class="docName"><img src="/../images/pdf.png" alt="скачать документ в формате PDF"></a>
+				</div>
+				
+				<div class="journalItem">
+				
+				<a title="Дата и время публикации: 15.06.2023, 12:09" href="/journal/item/download/328_4d08c0e3aed53f05405a3ec34d7c0363" class="docName">
+					Расчет размера собственных средств на 31.05.2023				</a>
+				
+
+				<!-- Date created -->
+				<br>
+				Дата и время публикации: 15.06.2023, 12:09 (доступно до
+				15.06.2028)
+				
+				</div>
+							</div>
+
+
+
+			
+
+		</div>
+	</div>
+		<!-- Item attachments rows -->
+
+
+
+
+
+	<!-- Plugins: AfterDisplay -->
+
+
+
+	
+
+
+	<!-- K2 Plugins: K2AfterDisplay -->
+
+
+
+	
+	<div class="clr"></div>
+
+</div>
+
+
+
+<!-- End K2 Item Layout -->
+      </div>
+
+      
+      <div class="clr"></div>
+
+      
+      
+      
+      <div class="itemContainer itemContainerLast" style="width:99.9%;">
+
+        
+<!-- Start K2 Item Layout -->
+
+<div class=" groupPrimary">
+
+	<!-- Plugins: BeforeDisplay -->
+
+	
+	<!-- K2 Plugins: K2BeforeDisplay -->
+
+	
+
+
+	
+
+	<!-- Item attachments -->
+	<div class="catItemLinks">
+
+		<div class="row">
+
+
+
+
+			<div class="col-xs-2 center">
+				<span class="published">
+					18.05.2023					<span>
+			</span></span></div>
+
+
+			<div class="col-xs-10">
+								<div class="journalIcon">
+				<a title="Дата и время публикации: 18.05.2023, 14:49" href="/journal/item/download/327_98106b6ea8896544aa7e22215a3baf62" class="docName"><img src="/../images/pdf.png" alt="скачать документ в формате PDF"></a>
+				</div>
+				
+				<div class="journalItem">
+				
+				<a title="Дата и время публикации: 18.05.2023, 14:49" href="/journal/item/download/327_98106b6ea8896544aa7e22215a3baf62" class="docName">
+					Расчет размера собственных средств на 30.04.2023				</a>
+				
+
+				<!-- Date created -->
+				<br>
+				Дата и время публикации: 18.05.2023, 14:49 (доступно до
+				18.05.2028)
+				
+				</div>
+							</div>
+
+
+
+			
+
+		</div>
+	</div>
+		<!-- Item attachments rows -->
+
+
+
+
+
+	<!-- Plugins: AfterDisplay -->
+
+
+
+	
+
+
+	<!-- K2 Plugins: K2AfterDisplay -->
+
+
+
+	
+	<div class="clr"></div>
+
+</div>
+
+
+
+<!-- End K2 Item Layout -->
+      </div>
+
+      
+      <div class="clr"></div>
+
+      
+      
+      
+      <div class="itemContainer itemContainerLast" style="width:99.9%;">
+
+        
+<!-- Start K2 Item Layout -->
+
+<div class=" groupPrimary">
+
+	<!-- Plugins: BeforeDisplay -->
+
+	
+	<!-- K2 Plugins: K2BeforeDisplay -->
+
+	
+
+
+	
+
+	<!-- Item attachments -->
+	<div class="catItemLinks">
+
+		<div class="row">
+
+
+
+
+			<div class="col-xs-2 center">
+				<span class="published">
+					19.04.2023					<span>
+			</span></span></div>
+
+
+			<div class="col-xs-10">
+								<div class="journalIcon">
+				<a title="Дата и время публикации: 19.04.2023, 18:34" href="/journal/item/download/324_7668c76a4b21889900194f00b5ce7271" class="docName"><img src="/../images/pdf.png" alt="скачать документ в формате PDF"></a>
+				</div>
+				
+				<div class="journalItem">
+				
+				<a title="Дата и время публикации: 19.04.2023, 18:34" href="/journal/item/download/324_7668c76a4b21889900194f00b5ce7271" class="docName">
+					Расчет размера собственных средств на 31.03.2023				</a>
+				
+
+				<!-- Date created -->
+				<br>
+				Дата и время публикации: 19.04.2023, 18:34 (доступно до
+				19.04.2028)
+				
+				</div>
+							</div>
+
+
+
+			
+
+		</div>
+	</div>
+		<!-- Item attachments rows -->
+
+
+
+
+
+	<!-- Plugins: AfterDisplay -->
+
+
+
+	
+
+
+	<!-- K2 Plugins: K2AfterDisplay -->
+
+
+
+	
+	<div class="clr"></div>
+
+</div>
+
+
+
+<!-- End K2 Item Layout -->
+      </div>
+
+      
+      <div class="clr"></div>
+
+      
+      
+      
+      <div class="itemContainer itemContainerLast" style="width:99.9%;">
+
+        
+<!-- Start K2 Item Layout -->
+
+<div class=" groupPrimary">
+
+	<!-- Plugins: BeforeDisplay -->
+
+	
+	<!-- K2 Plugins: K2BeforeDisplay -->
+
+	
+
+
+	
+
+	<!-- Item attachments -->
+	<div class="catItemLinks">
+
+		<div class="row">
+
+
+
+
+			<div class="col-xs-2 center">
+				<span class="published">
+					15.03.2023					<span>
+			</span></span></div>
+
+
+			<div class="col-xs-10">
+								<div class="journalIcon">
+				<a title="Дата и время публикации: 15.03.2023, 16:43" href="/journal/item/download/320_746dd717c9bf0324e9bc1c82012f7afc" class="docName"><img src="/../images/pdf.png" alt="скачать документ в формате PDF"></a>
+				</div>
+				
+				<div class="journalItem">
+				
+				<a title="Дата и время публикации: 15.03.2023, 16:43" href="/journal/item/download/320_746dd717c9bf0324e9bc1c82012f7afc" class="docName">
+					Расчет размера собственных средств на 28.02.2023				</a>
+				
+
+				<!-- Date created -->
+				<br>
+				Дата и время публикации: 15.03.2023, 16:43 (доступно до
+				15.03.2028)
+				
+				</div>
+							</div>
+
+
+
+			
+
+		</div>
+	</div>
+		<!-- Item attachments rows -->
+
+
+
+
+
+	<!-- Plugins: AfterDisplay -->
+
+
+
+	
+
+
+	<!-- K2 Plugins: K2AfterDisplay -->
+
+
+
+	
+	<div class="clr"></div>
+
+</div>
+
+
+
+<!-- End K2 Item Layout -->
+      </div>
+
+      
+      <div class="clr"></div>
+
+      
+      
+      
+      <div class="itemContainer itemContainerLast" style="width:99.9%;">
+
+        
+<!-- Start K2 Item Layout -->
+
+<div class=" groupPrimary">
+
+	<!-- Plugins: BeforeDisplay -->
+
+	
+	<!-- K2 Plugins: K2BeforeDisplay -->
+
+	
+
+
+	
+
+	<!-- Item attachments -->
+	<div class="catItemLinks">
+
+		<div class="row">
+
+
+
+
+			<div class="col-xs-2 center">
+				<span class="published">
+					14.02.2023					<span>
+			</span></span></div>
+
+
+			<div class="col-xs-10">
+								<div class="journalIcon">
+				<a title="Дата и время публикации: 14.02.2023, 16:21" href="/journal/item/download/319_66ca70fac1f901133b2c9414238f059d" class="docName"><img src="/../images/pdf.png" alt="скачать документ в формате PDF"></a>
+				</div>
+				
+				<div class="journalItem">
+				
+				<a title="Дата и время публикации: 14.02.2023, 16:21" href="/journal/item/download/319_66ca70fac1f901133b2c9414238f059d" class="docName">
+					Расчет размера собственных средств на 31.01.2023				</a>
+				
+
+				<!-- Date created -->
+				<br>
+				Дата и время публикации: 14.02.2023, 16:21 (доступно до
+				14.02.2028)
+				
+				</div>
+							</div>
+
+
+
+			
+
+		</div>
+	</div>
+		<!-- Item attachments rows -->
+
+
+
+
+
+	<!-- Plugins: AfterDisplay -->
+
+
+
+	
+
+
+	<!-- K2 Plugins: K2AfterDisplay -->
+
+
+
+	
+	<div class="clr"></div>
+
+</div>
+
+
+
+<!-- End K2 Item Layout -->
+      </div>
+
+      
+      <div class="clr"></div>
+
+      
+      
+      
+      <div class="itemContainer itemContainerLast" style="width:99.9%;">
+
+        
+<!-- Start K2 Item Layout -->
+
+<div class=" groupPrimary">
+
+	<!-- Plugins: BeforeDisplay -->
+
+	
+	<!-- K2 Plugins: K2BeforeDisplay -->
+
+	
+
+
+	
+
+	<!-- Item attachments -->
+	<div class="catItemLinks">
+
+		<div class="row">
+
+
+
+
+			<div class="col-xs-2 center">
+				<span class="published">
+					24.01.2023					<span>
+			</span></span></div>
+
+
+			<div class="col-xs-10">
+								<div class="journalIcon">
+				<a title="Дата и время публикации: 24.01.2023, 17:35" href="/journal/item/download/318_c5e39f9b656a6ad8e828ff03506e695e" class="docName"><img src="/../images/pdf.png" alt="скачать документ в формате PDF"></a>
+				</div>
+				
+				<div class="journalItem">
+				
+				<a title="Дата и время публикации: 24.01.2023, 17:35" href="/journal/item/download/318_c5e39f9b656a6ad8e828ff03506e695e" class="docName">
+					Расчет размера собственных средств на 31.12.2022				</a>
+				
+
+				<!-- Date created -->
+				<br>
+				Дата и время публикации: 24.01.2023, 17:35 (доступно до
+				24.01.2028)
+				
+				</div>
+							</div>
+
+
+
+			
+
+		</div>
+	</div>
+		<!-- Item attachments rows -->
+
+
+
+
+
+	<!-- Plugins: AfterDisplay -->
+
+
+
+	
+
+
+	<!-- K2 Plugins: K2AfterDisplay -->
+
+
+
+	
+	<div class="clr"></div>
+
+</div>
+
+
+
+<!-- End K2 Item Layout -->
+      </div>
+
+      
+      <div class="clr"></div>
+
+      
+      
+      
+      <div class="itemContainer itemContainerLast" style="width:99.9%;">
+
+        
+<!-- Start K2 Item Layout -->
+
+<div class=" groupPrimary">
+
+	<!-- Plugins: BeforeDisplay -->
+
+	
+	<!-- K2 Plugins: K2BeforeDisplay -->
+
+	
+
+
+	
+
+	<!-- Item attachments -->
+	<div class="catItemLinks">
+
+		<div class="row">
+
+
+
+
+			<div class="col-xs-2 center">
+				<span class="published">
+					19.12.2022					<span>
+			</span></span></div>
+
+
+			<div class="col-xs-10">
+								<div class="journalIcon">
+				<a title="Дата и время публикации: 19.12.2022, 10:53" href="/journal/item/download/317_844a058d3f1d1471edca66e9e37d551a" class="docName"><img src="/../images/pdf.png" alt="скачать документ в формате PDF"></a>
+				</div>
+				
+				<div class="journalItem">
+				
+				<a title="Дата и время публикации: 19.12.2022, 10:53" href="/journal/item/download/317_844a058d3f1d1471edca66e9e37d551a" class="docName">
+					Расчет размера собственных средств на 30.11.2022				</a>
+				
+
+				<!-- Date created -->
+				<br>
+				Дата и время публикации: 19.12.2022, 10:53 (доступно до
+				19.12.2027)
+				
+				</div>
+							</div>
+
+
+
+			
+
+		</div>
+	</div>
+		<!-- Item attachments rows -->
+
+
+
+
+
+	<!-- Plugins: AfterDisplay -->
+
+
+
+	
+
+
+	<!-- K2 Plugins: K2AfterDisplay -->
+
+
+
+	
+	<div class="clr"></div>
+
+</div>
+
+
+
+<!-- End K2 Item Layout -->
+      </div>
+
+      
+      <div class="clr"></div>
+
+      
+      
+      
+      <div class="itemContainer itemContainerLast" style="width:99.9%;">
+
+        
+<!-- Start K2 Item Layout -->
+
+<div class=" groupPrimary">
+
+	<!-- Plugins: BeforeDisplay -->
+
+	
+	<!-- K2 Plugins: K2BeforeDisplay -->
+
+	
+
+
+	
+
+	<!-- Item attachments -->
+	<div class="catItemLinks">
+
+		<div class="row">
+
+
+
+
+			<div class="col-xs-2 center">
+				<span class="published">
+					18.11.2022					<span>
+			</span></span></div>
+
+
+			<div class="col-xs-10">
+								<div class="journalIcon">
+				<a title="Дата и время публикации: 18.11.2022, 17:53" href="/journal/item/download/316_1e527ac40eb8931640851dbdfe101aac" class="docName"><img src="/../images/pdf.png" alt="скачать документ в формате PDF"></a>
+				</div>
+				
+				<div class="journalItem">
+				
+				<a title="Дата и время публикации: 18.11.2022, 17:53" href="/journal/item/download/316_1e527ac40eb8931640851dbdfe101aac" class="docName">
+					Расчет размера собственных средств на 31.10.2022				</a>
+				
+
+				<!-- Date created -->
+				<br>
+				Дата и время публикации: 18.11.2022, 17:53 (доступно до
+				18.11.2027)
+				
+				</div>
+							</div>
+
+
+
+			
+
+		</div>
+	</div>
+		<!-- Item attachments rows -->
+
+
+
+
+
+	<!-- Plugins: AfterDisplay -->
+
+
+
+	
+
+
+	<!-- K2 Plugins: K2AfterDisplay -->
+
+
+
+	
+	<div class="clr"></div>
+
+</div>
+
+
+
+<!-- End K2 Item Layout -->
+      </div>
+
+      
+      <div class="clr"></div>
+
+      
+      
+      
+      <div class="itemContainer itemContainerLast" style="width:99.9%;">
+
+        
+<!-- Start K2 Item Layout -->
+
+<div class=" groupPrimary">
+
+	<!-- Plugins: BeforeDisplay -->
+
+	
+	<!-- K2 Plugins: K2BeforeDisplay -->
+
+	
+
+
+	
+
+	<!-- Item attachments -->
+	<div class="catItemLinks">
+
+		<div class="row">
+
+
+
+
+			<div class="col-xs-2 center">
+				<span class="published">
+					14.10.2022					<span>
+			</span></span></div>
+
+
+			<div class="col-xs-10">
+								<div class="journalIcon">
+				<a title="Дата и время публикации: 14.10.2022, 14:16" href="/journal/item/download/313_91bc0b27261703e443501b0e3653ebcb" class="docName"><img src="/../images/pdf.png" alt="скачать документ в формате PDF"></a>
+				</div>
+				
+				<div class="journalItem">
+				
+				<a title="Дата и время публикации: 14.10.2022, 14:16" href="/journal/item/download/313_91bc0b27261703e443501b0e3653ebcb" class="docName">
+					Расчет размера собственных средств на 30.09.2022				</a>
+				
+
+				<!-- Date created -->
+				<br>
+				Дата и время публикации: 14.10.2022, 14:16 (доступно до
+				14.10.2027)
+				
+				</div>
+							</div>
+
+
+
+			
+
+		</div>
+	</div>
+		<!-- Item attachments rows -->
+
+
+
+
+
+	<!-- Plugins: AfterDisplay -->
+
+
+
+	
+
+
+	<!-- K2 Plugins: K2AfterDisplay -->
+
+
+
+	
+	<div class="clr"></div>
+
+</div>
+
+
+
+<!-- End K2 Item Layout -->
+      </div>
+
+      
+      <div class="clr"></div>
+
+      
+      
+      
+      <div class="itemContainer itemContainerLast" style="width:99.9%;">
+
+        
+<!-- Start K2 Item Layout -->
+
+<div class=" groupPrimary">
+
+	<!-- Plugins: BeforeDisplay -->
+
+	
+	<!-- K2 Plugins: K2BeforeDisplay -->
+
+	
+
+
+	
+
+	<!-- Item attachments -->
+	<div class="catItemLinks">
+
+		<div class="row">
+
+
+
+
+			<div class="col-xs-2 center">
+				<span class="published">
+					11.10.2022					<span>
+			</span></span></div>
+
+
+			<div class="col-xs-10">
+								<div class="journalIcon">
+				<a title="Дата и время публикации: 11.10.2022 16:24 / Уточненная информация " href="/journal/item/download/312_424482a385b09f3f1df06a2ed194a541" class="docName"><img src="/../images/pdf.png" alt="скачать документ в формате PDF"></a>
+				</div>
+				
+				<div class="journalItem">
+				
+				<a title="Дата и время публикации: 11.10.2022 16:24 / Уточненная информация " href="/journal/item/download/312_424482a385b09f3f1df06a2ed194a541" class="docName">
+					Расчет размера собственных средств на 31.08.2022				</a>
+				
+
+				<!-- Date created -->
+				<br>
+				Дата и время публикации: 11.10.2022 16:24 / Уточненная информация  (доступно до
+				11.10.2027)
+				
+				</div>
+							</div>
+
+
+
+			
+
+		</div>
+	</div>
+		<!-- Item attachments rows -->
+
+
+
+
+
+	<!-- Plugins: AfterDisplay -->
+
+
+
+	
+
+
+	<!-- K2 Plugins: K2AfterDisplay -->
+
+
+
+	
+	<div class="clr"></div>
+
+</div>
+
+
+
+<!-- End K2 Item Layout -->
+      </div>
+
+      
+      <div class="clr"></div>
+
+      
+      
+      <div class="clr"></div>
+
+    </div>
+
+    
+    
+    
+  </div>
+
+  
+
+  <!-- Pagination -->
+
+  
+
+  
+  <div class="k2Pagination">
+
+    <ul class="pagination"><li class="disabled"><a>В начало</a></li><li class="disabled"><a>Назад</a></li><li class="active"><a>1</a></li><li><a title="2" href="/journal/itemlist/category/11-rrss?start=10">2</a></li><li><a title="3" href="/journal/itemlist/category/11-rrss?start=20">3</a></li><li><a title="4" href="/journal/itemlist/category/11-rrss?start=30">4</a></li><li><a title="5" href="/journal/itemlist/category/11-rrss?start=40">5</a></li><li><a title="6" href="/journal/itemlist/category/11-rrss?start=50">6</a></li><li><a title="7" href="/journal/itemlist/category/11-rrss?start=60">7</a></li><li><a title="8" href="/journal/itemlist/category/11-rrss?start=70">8</a></li><li><a title="9" href="/journal/itemlist/category/11-rrss?start=80">9</a></li><li><a title="Вперёд" href="/journal/itemlist/category/11-rrss?start=10">Вперёд</a></li><li><a title="В конец" href="/journal/itemlist/category/11-rrss?start=80">В конец</a></li></ul>
+  </div>
+
+  
+  
+</div>
+
+
+
+<!-- End K2 Category Layout --> 
+
+
+
+
+<!-- JoomlaWorks "K2" (v2.8.0) | Learn more about K2 at http://getk2.org -->
+
+
+		</div>
+		<!-- //MAIN CONTENT -->
+
+	</div>
+</div> 
+
+
+    
+
+
+    
+
+
+<!-- BACK TOP TOP BUTTON -->
+<div id="back-to-top" data-spy="affix" data-offset-top="300" class="back-to-top hidden-xs hidden-sm affix-top">
+  <button class="btn btn-inverse" title="Back to Top"><i class="icon-arrow-up fa fa-angle-double-up"></i></button>
+</div>
+
+<script type="text/javascript">
+(function($) {
+  // Back to top
+  $('#back-to-top').on('click', function(){
+    $("html, body").animate({scrollTop: 0}, 500);
+    return false;
+  });
+})(jQuery);
+</script>
+<!-- BACK TO TOP BUTTON -->
+
+<!-- FOOTER -->
+<footer id="t3-footer" class="wrap t3-footer">
+
+			<!-- FOOT NAVIGATION -->
+		<div class="container">
+			  <!-- SPOTLIGHT -->
+  <div class="t3-spotlight t3-footnav equal-height equal-height-child row">
+          <div class=" col-lg-3 col-md-3 col-sm-6 col-xs-12  col">
+                  <div class="t3-module module " id="Mod133" style="min-height: 396px;"><div class="module-inner"><h3 class="module-title "><span>Документы</span></h3><div class="module-ct">
+
+<div class="custom">
+	<ul>
+<li><a title="partners-1" href="/images/licenziya-cb.pdf">Лицензия Банка России</a></li>
+<li><a title="partners-1" href="/images/svidetelstvo-naufor.pdf">Свидетельство НАУФОР</a></li>
+<li><a title="partners-1" href="/rekvisity">Реквизиты</a></li>
+</ul></div>
+</div></div></div>
+              </div>
+          <div class=" col-lg-3 col-md-3 col-sm-6  col-xs-12 hidden-xs   col">
+                  <div class="t3-module module " id="Mod127" style="min-height: 396px;"><div class="module-inner"><h3 class="module-title "><span>О нас</span></h3><div class="module-ct">
+
+<div class="custom">
+	<p>Компания была создана профессионалами, имеющими длительный и успешный опыт&nbsp;работы на рынке коллективных инвестиций, с целью эффективного управления закрытых&nbsp;паевых инвестиционных фондов, основным направлением инвестирования которых является недвижимое имущество</p></div>
+</div></div></div>
+              </div>
+          <div class=" col-lg-3 col-md-3 col-sm-6  col-xs-6 hidden-xs   col">
+                  <div class="t3-module module " id="Mod128" style="min-height: 396px;"><div class="module-inner"><h3 class="module-title "><span>Лицензия</span></h3><div class="module-ct">
+
+<div class="custom">
+	<p>Лицензия&nbsp;Банка России на осуществление деятельности по управлению инвестиционными фондами, паевыми инвестиционными фондами и негосударственными пенсионными фондами&nbsp;№ 21-000-1-01019 от 09.10.2018</p></div>
+</div></div></div>
+              </div>
+          <div class=" col-lg-3 col-md-3 col-sm-6 col-xs-12  col">
+                  <div class="t3-module module " id="Mod129" style="min-height: 396px;"><div class="module-inner"><h3 class="module-title "><span>Контактная информация</span></h3><div class="module-ct">
+
+<div class="custom">
+	<div class="find-us">
+<div>
+<h5>Адрес</h5>
+197198, город Санкт-Петербург, улица Блохина, дом 9, Литера А, помещение 301-В, 302-В</div>
+<div>
+<h5>Телефон</h5>
++7 (812) 667-84-83</div>
+</div></div>
+</div></div></div>
+              </div>
+      </div>
+<!-- SPOTLIGHT -->
+		</div>
+		<!-- //FOOT NAVIGATION -->
+	
+	<section class="t3-copyright">
+		<div class="container">
+			<div class="row">
+				<div class="col-md-12 copyright ">
+					
+          <big>
+            <p style="text-align: center;">ООО «УК «Фондовый ДОМ» информирует об отсутствии совмещения деятельности по доверительному управлению паевыми инвестиционными фондами и деятельности по управлению ценными бумагами. Инвестирование в активы, предусмотренные в инвестиционной декларации паевого инвестиционного фонда связано с определенной степенью рисков и не подразумевает гарантий, как по возврату основной инвестированной суммы, так и по получению доходов. Стоимость объектов инвестирования, составляющих паевой инвестиционный фонд, и, соответственно, расчетная стоимость инвестиционного пая, могут увеличиваться или уменьшаться, результаты инвестирования управляющей компании в прошлом не определяют доходы в будущем, государство не гарантирует доходность инвестиций в паевой инвестиционный фонд. Взимание надбавок/скидок уменьшает доходность вложений в паевые инвестиционные фонды. Прежде чем приобрести инвестиционный пай, следует внимательно ознакомиться с Правилами доверительного управления Фондом.В соответствии с п. 3 ст. 51 Федерального закона от «29» ноября 2001 года № 156-ФЗ «Об инвестиционных фондах» не допускается распространение информации о паевом инвестиционном фонде, инвестиционные паи которого ограничены в обороте, за исключением случаев ее раскрытия в соответствии с Федеральным законом от «29» ноября 2001 года № 156-ФЗ «Об инвестиционных фондах» и иными федеральными законами. Получить подробную информацию о деятельности управляющей компании, о паевых инвестиционных фондах, ознакомиться с правилами доверительного управления паевыми инвестиционными фондами и иными документами можно в рабочие дни в офисе ООО «УК «Фондовый ДОМ» по адресу: 197198, город Санкт-Петербург, улица Блохина, дом 9, Литера А, помещение 301-В, 302-В, по телефону: +7 (812) 667-84-83 или в сети Интернет по адресу: https://fonddom.spb.ru</p></big><p><big>
+
+Раздел сайта, содержащий информацию о составе и структуре участников ООО «УК «Фондовый ДОМ», в том числе о лицах, под контролем либо значительным влиянием которых находится ООО «УК «Фондовый ДОМ»: https://fonddom.spb.ru/journal/itemlist/category/15-documents
+
+         </big>
+          <small>
+            </small></p><p style="text-align: center;"><small>При использовании материалов ссылка на <a href="https://fonddom.spb.ru" target="_blank">fonddom.spb.ru</a> обязательна. © 2018-2022, ООО «УК «Фондовый ДОМ». Все права защищены.</small></p><p><small>
+          </small>
+          <small class="border">
+            
+Лицензия Банка России на осуществление деятельности по управлению инвестиционными фондами, паевыми инвестиционными фондами и негосударственными пенсионными фондами
+<br>№ 21-000-1-01019 от 09.10.2018
+          </small>
+				</p></div>
+							</div>
+		</div>
+	</section>
+
+</footer>
+<!-- //FOOTER -->
+
+  </div>
+</div>
+
+
+

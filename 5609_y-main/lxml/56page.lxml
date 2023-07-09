@@ -1,0 +1,189 @@
+
+
+<!-- page layout //-->
+<header><div class="section">
+  <div class="block-header">
+	<div class="grid between">
+	  <div class="cell cell-logo width-x-3"><a href="/">
+<img src="/i/logo.png" width="217" height="39" alt="Управляющая компания «Финансовый капитал»">
+</a>
+</div>
+	  <div class="cell"><div class="block-address"><span>РФ, 125190, г. Москва, Ермолаевский пер., д.22-26, стр. 1, офис 28</span></div></div>
+	  <div class="cell width-x-3 right-x"><div class="block-phone">
+  <i class="fa fa-fw fa-phone"></i>
+  <a href="tel:+74951203370">+7 (495) 120-33-70</a>
+</div><div class="block-email">
+  <span class="btn-feedback" title="Обратная связь" data-modal-url="/contacts.html" data-module-main="241329">
+	<i class="fa fa-fw fa-envelope-o"></i>
+	<span>Отправить сообщение</span>
+  </span>
+</div><span style="font-size:10px;line-height:0;">Нажимая кнопку "Отправить сообщение", вы даете <a href="/consent.html">согласие на обработку своих персональных данных</a></span>
+</div>
+	</div>
+  </div>
+</div><div class="section">
+  <div class="breadcrumbs">
+	<span id="a" itemscope="" itemtype="http://data-vocabulary.org/Breadcrumb" itemref="b">
+	  <i class="fa fa-home" aria-hidden="true"></i>
+	  <a href="/" itemprop="url"><span itemprop="title">Начало</span></a>
+	</span>
+	<span id="b" itemscope="" itemtype="http://data-vocabulary.org/Breadcrumb" itemprop="child" itemref="c">
+	/ <a href="/account/" itemprop="url"><span itemprop="title">Документы и отчетность</span></a>
+</span>
+<span id="c" itemscope="" itemtype="http://data-vocabulary.org/Breadcrumb" itemprop="child" itemref="d">
+	/ <a href="/account/own/" itemprop="url"><span itemprop="title">Собственные средства</span></a>
+</span>
+<span id="d" itemscope="" itemtype="http://data-vocabulary.org/Breadcrumb" itemprop="child" itemref="e">
+	/ <a href="/account/own/2023/" itemprop="url"><span itemprop="title">2023</span></a>
+</span>
+
+  </div>
+</div></header>
+<main>
+  <div class="content section">
+	<div class="grid">
+	  <div class="cell width-x-12"></div>	
+	  <div class="cell width-x-3"><ul class="navbar-menu navbar-left menu-main"><li>
+	<a href="/inforg/" class="btn-navbar">Информация об организации</a>
+	
+</li>
+<li class="active">
+	<a href="/account/" class="btn-navbar">Документы и отчетность</a>
+	 <ul class="menu-sub">
+  <li><a href="/account/own/" class="active">Собственные средства</a>
+  <ul class="menu-sub">
+  <li><a href="/account/own/2020/">2020</a></li>
+<li><a href="/account/own/2021/">2021</a></li>
+<li><a href="/account/own/2022/">2022</a></li>
+<li><a href="/account/own/2023/" class="active">2023</a>
+<ul>
+
+</ul>
+</li>
+</ul>
+</li>
+<li><a href="/account/profit_and_loss/">Баланс и отчет о прибылях и убытках</a></li>
+<li><a href="/account/pif/">Отчетность паевых фондов</a></li>
+<li><a href="/account/other/">Иная отчетность</a></li>
+</ul> 
+</li>
+<li>
+	<a href="/message/" class="btn-navbar">Сообщения о деятельности</a>
+	
+</li>
+<li>
+	<a href="/documents/" class="btn-navbar">Иные документы и информация</a>
+	
+</li>
+<li>
+	<a href="/contacts/" class="btn-navbar">Контакты</a>
+	
+</li></ul></div>
+	  <div class="cell width-x-9"> <div class="block-menu-photo">
+  <img src="/i/7.jpg" width="780" height="220" alt="2023" class="img-responsive">
+</div>
+
+<h1>2023</h1>
+
+
+
+<ul class="menu-files">
+  <li>
+  <a href="/i/news/Raschet-sobstvennyh-sredstv-OOO-Upravlyayuschaya-kompaniya-Finansovyi-kapital-na-31052023g.pdf" target="_blank" download="">Расчет собственных средств ООО Управляющая компания Финансовый капитал на 31.05.2023г.</a>
+  <div class="grid between">
+	<div class="cell ">
+	  <span>Дата публикации: </span>
+	  <b>2023-06-13 16:51:29</b>
+	</div>
+	<div class="cell">
+	  <i>Срок доступа к документу: 2026-06-13</i>
+	</div>
+  </div>
+</li>
+<li>
+  <a href="/i/news/Raschet-sobstvennyh-sredstv-OOO-Upravlyayuschaya-kompaniya-Finansovyi-kapital-na-30042023g.pdf" target="_blank" download="">Расчет собственных средств ООО Управляющая компания Финансовый капитал на 30.04.2023г.</a>
+  <div class="grid between">
+	<div class="cell ">
+	  <span>Дата публикации: </span>
+	  <b>2023-05-22 22:49:14</b>
+	</div>
+	<div class="cell">
+	  <i>Срок доступа к документу: 2026-05-22</i>
+	</div>
+  </div>
+</li>
+<li>
+  <a href="/i/news/Raschet-sobstvennyh-sredstv-OOO-Upravlyayuschaya-kompaniya-Finansovyi-kapital-na-31032023g.pdf" target="_blank" download="">Расчет собственных средств ООО Управляющая компания Финансовый капитал на 31.03.2023г.</a>
+  <div class="grid between">
+	<div class="cell ">
+	  <span>Дата публикации: </span>
+	  <b>2023-04-17 18:31:04</b>
+	</div>
+	<div class="cell">
+	  <i>Срок доступа к документу: 2026-04-17</i>
+	</div>
+  </div>
+</li>
+<li>
+  <a href="/i/news/Raschet-sobstvennyh-sredstv-OOO-Upravlyayuschaya-kompaniya-Finansovyi-kapital-na-28022023g.pdf" target="_blank" download="">Расчет собственных средств ООО Управляющая компания Финансовый капитал на 28.02.2023г.</a>
+  <div class="grid between">
+	<div class="cell ">
+	  <span>Дата публикации: </span>
+	  <b>2023-03-13 11:30:52</b>
+	</div>
+	<div class="cell">
+	  <i>Срок доступа к документу: 2026-03-13</i>
+	</div>
+  </div>
+</li>
+<li>
+  <a href="/i/news/Raschet-sobstvennyh-sredstv-OOO-Upravlyayuschaya-kompaniya-Finansovyi-kapital-na-31012023g.pdf" target="_blank" download="">Расчет собственных средств ООО Управляющая компания Финансовый капитал на 31.01.2023г.</a>
+  <div class="grid between">
+	<div class="cell ">
+	  <span>Дата публикации: </span>
+	  <b>2023-02-13 18:04:38</b>
+	</div>
+	<div class="cell">
+	  <i>Срок доступа к документу: 2026-02-13</i>
+	</div>
+  </div>
+</li>
+</ul></div>
+	  <div class="cell width-x-12"></div>		
+	</div>
+  </div>
+</main>
+<footer><div class="section">
+  <div class="block-footer">
+	<div class="grid nowrap between">
+	  <div class="cell width-x-3"><div class="block-webring">
+  <div>© 2010 - 2023 ООО УК «Финкапитал»</div>
+  <a href="https://plarson.ru/" target="_blank">Работает под управлением PLARSON</a>
+</div></div>
+	  <div class="cell width-x-9 right-x"><div class="block-license"><p>Общество с ограниченной ответственностью «Управляющая
+компания «Финансовый капитал» Лицензия на осуществление деятельности по
+управлению ИФ, ПИФ и НПФ № 21-000-1-00733 от "29" июня 2010 года, выдана ФСФР России.</p><p>Получить информацию о фондах и
+ознакомиться с Правилами доверительного управления паевыми инвестиционными
+фондами, с иными документами, предусмотренными Федеральным законом от
+29.11.2001 №156-ФЗ «Об инвестиционных фондах» и нормативными правовыми актами
+федерального органа исполнительной власти по рынку ценных бумаг можно по
+адресу: 125190, г. Москва, Ермолаевский пер., д. 22-26, стр. 1, офис 28. тел.&nbsp;<span style="color: rgb(255, 255, 255); font-family: &quot;Open Sans&quot;, Arial, sans-serif; text-align: right; background-color: rgb(0, 0, 0);">+7 (495) 120-33-70</span>, а также на сайте компании -
+www.fincapitalam.ru.</p><p>Стоимость инвестиционного пая может как увеличиваться, так
+и уменьшаться. Результаты инвестирования в прошлом не определяют доходы в
+будущем. Доходность инвестиций в паевой инвестиционный фонд не гарантируется
+государством. Перед приобретением инвестиционных паев необходимо внимательно ознакомиться
+с правилами доверительного управления паевым инвестиционным фондом. </p>
+
+<p>Закрытый паевой инвестиционный фонд недвижимости
+«Север-Запад» под управлением Общества с ограниченной
+ответственностью «Управляющая компания «Финансовый капитал». Тип фонда – закрытый. Правила
+доверительного управления Фондом зарегистрированы ФСФР России 16.09.2010 г., в
+реестре за номером 1908-94169586.</p></div><div class="block-address">РФ, 125190, г. Москва, Ермолаевский пер., д.22-26, стр. 1, офис 28. Тел.: +7 (495) 120-33-70</div><div class="block-email">
+  <a href="mailto:fincapitalam@rambler.ru">fincapitalam@rambler.ru</a>
+</div></div>
+	</div>
+  </div>
+</div></footer>
+<!--// page layout -->
+
+

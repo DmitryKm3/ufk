@@ -1,0 +1,660 @@
+
+<div align="right" id="before">		<table cellpadding="0" cellspacing="0" class="moduletablesearch">
+				<tbody><tr>
+			<td>
+				
+<form action="index.php?option=com_search" method="get">
+	<div class="searchsearch">
+		<input name="searchword" id="mod_search_searchword" maxlength="20" alt="search" class="inputboxsearch" type="text" size="20" value="Поиск..." onblur="if(this.value=='') this.value='Поиск...';" onfocus="if(this.value=='Поиск...') this.value='';"><input type="submit" value="&nbsp;" class="buttonsearch">	</div>
+
+	<input type="hidden" name="option" value="com_search">
+	<input type="hidden" name="Itemid" value="">	
+</form>			</td>
+		</tr>
+		</tbody></table>
+		</div>
+<table border="0" cellspacing="0" cellpadding="0" width="100%">
+<tbody><tr><td class="leftbg" width="16"></td>
+<td>
+<table border="0" cellspacing="0" cellpadding="0" class="mmain">
+<tbody><tr>
+   <td colspan="2" border="1">
+	<div id="rightcolumntop">
+	<div id="header">
+        			<table cellpadding="0" cellspacing="0" class="moduletabletop">
+				<tbody><tr>
+			<td>
+				<a href="http://www.ukrfc.ru"><img valign="bottom" src="/templates/rfc-kapital/images/logo.gif" border="0" alt="Акционерное общество Управляющая компания «РФЦ-Капитал»" width="220" height="115"></a>			</td>
+		</tr>
+		</tbody></table>
+			</div>
+	</div>
+   </td>
+</tr>
+<tr>
+   <td valign="top" id="leftcolumn">
+        		<table cellpadding="0" cellspacing="0" class="moduletable">
+				<tbody><tr>
+			<td>
+				
+<table width="100%" border="0" cellpadding="0" cellspacing="0">
+<tbody><tr align="left"><td><a href="http://www.ukrfc.ru/content/view/49/62/" class="mainlevel">О компании</a></td></tr>
+<tr align="left"><td><a href="http://www.ukrfc.ru/content/view/343/182/" class="mainlevel">Контакты</a></td></tr>
+<tr align="left"><td><a href="http://www.ukrfc.ru/content/blogcategory/1/63/" class="mainlevel">Новости</a></td></tr>
+<tr align="left"><td><a href="http://www.ukrfc.ru/content/blogcategory/14/64/" class="mainlevel">Документы</a></td></tr>
+<tr align="left"><td><a href="http://www.ukrfc.ru/content/view/107/109/" class="mainlevel">Гостевая книга</a></td></tr>
+<tr align="left"><td><a href="http://www.ukrfc.ru/content/blogcategory/17/67/" class="mainlevel">Пенсионная реформа</a></td></tr>
+<tr align="left"><td><a href="http://www.ukrfc.ru/content/view/89/96/" class="mainlevel">Паевые фонды</a></td></tr>
+<tr align="left"><td><a href="http://www.ukrfc.ru/content/blogcategory/30/154/" class="mainlevel">Раскрытие информации</a>
+
+<div style="padding-left: 10px"><img src="http://www.ukrfc.ru/images/M_images/indent1.png" alt=""><a href="http://www.ukrfc.ru/content/view/158/130/" class="sublevel" id="active_menu">Расчет собственных средств</a></div>
+<div style="padding-left: 10px"><img src="http://www.ukrfc.ru/images/M_images/indent1.png" alt=""><a href="http://www.ukrfc.ru/content/view/207/139/" class="sublevel">Доверительное управление</a></div>
+<div style="padding-left: 10px"><img src="http://www.ukrfc.ru/images/M_images/indent1.png" alt=""><a href="http://www.ukrfc.ru/content/view/205/149/" class="sublevel">Документы по инсайдерской информации</a></div>
+<div style="padding-left: 10px"><img src="http://www.ukrfc.ru/images/M_images/indent1.png" alt=""><a href="http://www.ukrfc.ru/content/view/62/158/" class="sublevel">Бухгалтерская отчетность</a></div>
+<div style="padding-left: 10px"><img src="http://www.ukrfc.ru/images/M_images/indent1.png" alt=""><a href="http://www.ukrfc.ru/content/blogcategory/31/157/" class="sublevel">Паевые фонды</a></div>
+<div style="padding-left: 10px"><img src="http://www.ukrfc.ru/images/M_images/indent1.png" alt=""><a href="http://www.ukrfc.ru/content/view/255/160/" class="sublevel">Электронный журнал</a></div>
+<div style="padding-left: 10px"><img src="http://www.ukrfc.ru/images/M_images/indent1.png" alt=""><a href="http://www.ukrfc.ru/content/view/324/176/" class="sublevel">Спецоценка условий труда</a></div>
+</td></tr>
+<tr align="left"><td><a href="http://www.ukrfc.ru/content/blogcategory/33/171/" class="mainlevel">НПФ</a></td></tr>
+<tr align="left"><td><a href="http://www.ukrfc.ru/content/view/325/178/" class="mainlevel">Спецоценка условий труда</a></td></tr>
+</tbody></table>			</td>
+		</tr>
+		</tbody></table>
+				<table cellpadding="0" cellspacing="0" class="moduletableauth">
+					<tbody><tr>
+				<th valign="top">
+					Вход для пользователей				</th>
+			</tr>
+					<tr>
+			<td>
+					<form action="http://www.ukrfc.ru/" method="post" name="login">
+	
+	<table width="100%" border="0" cellspacing="0" cellpadding="0" align="center">
+	<tbody><tr>
+		<td>
+		<table><tbody><tr><td>
+			<label for="mod_login_username">
+				Пользователь			</label>
+		</td>
+		<td>
+			<input name="username" id="mod_login_username" type="text" class="inputbox" alt="username" size="10">
+		</td></tr>
+		<tr><td>
+			<label for="mod_login_password">
+				Пароль			</label>
+		</td>
+		<td>
+			<input type="password" id="mod_login_password" name="passwd" class="inputbox" size="10" alt="password">
+		</td></tr>
+		<tr><td colspan="2">
+			<center>
+			<input type="checkbox" name="remember" id="mod_login_remember" class="inputbox" value="yes" alt="Remember Me">
+			<label for="mod_login_remember">
+				Запомнить			</label>
+			<br>
+			<input type="submit" name="Submit" class="button" value="Войти">
+			</center>
+		</td></tr></tbody></table>
+		</td>
+	</tr>
+		</tbody></table>
+	
+	<input type="hidden" name="option" value="login">
+	<input type="hidden" name="op2" value="login">
+	<input type="hidden" name="lang" value="russian">
+	<input type="hidden" name="return" value="http://www.ukrfc.ru/content/view/158/130/">
+	<input type="hidden" name="message" value="0">
+	<input type="hidden" name="force_session" value="1">
+	<input type="hidden" name="j6ccf1198b3f5c873916c3dd48f41ad9e" value="1">
+	</form>
+				</td>
+		</tr>
+		</tbody></table>
+				<table cellpadding="0" cellspacing="0" class="moduletablebanner">
+				<tbody><tr>
+			<td>
+				 	<div align="center">
+ 	  		<a href="https://www.ra-national.ru/" target="_self">
+  		 	<img src="http://www.ukrfc.ru/pics/ad_nra//footer_nra.jpg" border="0" width="180" height="67" alt="footer_nra.jpg"><br>
+ 	  		</a>
+  		 	</div>
+  				</td>
+		</tr>
+		</tbody></table>
+				<table cellpadding="0" cellspacing="0" class="moduletablebanner">
+				<tbody><tr>
+			<td>
+				 	<div align="center">
+ 	  		<a href="https://doverie56.ru/" target="_self">
+  		 	<img src="http://www.ukrfc.ru/pics/dover//logo5.png" border="0" width="180" height="55" alt="logo5.png"><br>
+ 	  		</a>
+  		 	</div>
+  				</td>
+		</tr>
+		</tbody></table>
+		   </td>
+   <td valign="top" id="maincol">
+                <div id="line"><span class="pathway"><a href="http://www.ukrfc.ru/" class="pathway">Главная</a> <img src="http://www.ukrfc.ru/images/M_images/arrow.png" alt="arrow"> <a href="http://www.ukrfc.ru/content/blogcategory/30/154/" class="pathway">Раскрытие информации</a> <img src="http://www.ukrfc.ru/images/M_images/arrow.png" alt="arrow">   Расчет собственных средств </span></div>
+			
+		<table class="contentpaneopen">
+				<tbody><tr>
+			<td valign="top" colspan="2">
+			<h3>Расчет собственных средств</h3>
+
+<p align="left"><strong>2023 год</strong></p>
+
+
+<li><a href="/docs/rss31052023.pdf" target="_blank">31 мая 2023 </a> (дата размещения: 14 июня 2023 года 14:39:00, доступно в течение 3-х лет с даты опубликования)</li>
+
+<li><a href="/docs/rss30042023.pdf" target="_blank">30 апреля 2023 </a> (дата размещения: 17 мая 2023 года 09:35:00, доступно в течение 3-х лет с даты опубликования)</li>
+
+
+<li><a href="/docs/rss31032023.pdf" target="_blank">31 марта 2023 </a> (дата размещения: 18 апреля 2023 года 10:38:00, доступно в течение 3-х лет с даты опубликования)</li>
+
+
+<li><a href="/docs/rss28022023.pdf" target="_blank">28 февраля 2023 </a> (дата размещения: 15 марта 2023 года 15:21:00, доступно в течение 3-х лет с даты опубликования)</li>
+
+<li><a href="/docs/rss31012023-1.pdf" target="_blank">31 января 2023 </a> (дата размещения: 16 февраля 2023 года 10:25:00, доступно в течение 3-х лет с даты опубликования)</li>
+
+<ul>
+<li><a href="/docs/rss31012023.pdf" target="_blank">31 января 2023 </a> (дата размещения: 14 февраля 2023 года 21:55:00, доступно в течение 3-х лет с даты опубликования)</li>
+
+<p>Информация ранее размещена: http://www.ukrfc.ru/content/view/158/130/</p>
+<p>Информация изменена: http://www.ukrfc.ru/content/view/158/130/</p>
+<p>В разделе II Расчет собственных средств исправлен показатель строки 02 «Ценные бумаги».
+</p>
+</ul>
+
+<li><a href="/docs/rss31012023.pdf" target="_blank">31 января 2023 </a> (дата размещения: 14 февраля 2023 года 21:55:00, доступно в течение 3-х лет с даты опубликования)</li>
+
+<p align="left"><strong>2022 год</strong></p> 
+
+<li><a href="/docs/rss31122022.pdf" target="_blank">31 декабря 2022 </a> (дата размещения: 23 января 2023 года 10:34:00, доступно в течение 3-х лет с даты опубликования)</li>
+
+<li><a href="/docs/rss30112022.pdf" target="_blank">30 ноября 2022 </a> (дата размещения: 14 декабря 2022 года 18:07:00, доступно в течение 3-х лет с даты опубликования)</li>
+
+
+<li><a href="/docs/rss31102022.pdf" target="_blank">31 октября 2022 </a> (дата размещения: 15 ноября 2022 года 15:45:00, доступно в течение 3-х лет с даты опубликования)</li>
+
+<li><a href="/docs/rss30092022.pdf" target="_blank">30 сентября 2022 </a> (дата размещения: 14 октября 2022 года 23:55:00, доступно в течение 3-х лет с даты опубликования)</li>
+
+<li><a href="/docs/rss31082022.pdf" target="_blank">31 августа 2022 </a> (дата размещения: 14 сентября 2022 года 14:36:00, доступно в течение 3-х лет с даты опубликования)</li>
+
+
+
+
+
+<li><a href="/docs/rss31072022-1.pdf" target="_blank">31 июля 2022 замена</a> (дата размещения: 13 сентября 2022 года 17:40:00, доступно в течение 3-х лет с даты опубликования)</li>
+
+<p>АО УК «РФЦ-Капитал» сообщает, что скорректированы следующие документы:</p>
+<ul>
+<li><a href="/docs/rss31072022.pdf" target="_blank">31 июля 2022 </a> (дата размещения: 12 августа 2022 года 11:36:00, доступно в течение 3-х лет с даты опубликования)</li>
+
+<p>Информация ранее размещена: http://www.ukrfc.ru/content/view/158/130/</p>
+<p>Информация изменена: http://www.ukrfc.ru/content/view/158/130/</p>
+<p>В связи с технической ошибкой были пересчитаны средства АО УК «РФЦ-Капитал». В разделе II Расчет собственных средств исправлен показатель «Минимальный размер собственных средств».
+</p>
+</ul>
+
+
+
+<li><a href="/docs/rss31072022.pdf" target="_blank">31 июля 2022 </a> (дата размещения: 12 августа 2022 года 11:36:00, доступно в течение 3-х лет с даты опубликования)</li>
+
+
+<li><a href="/docs/rss30062022-1.pdf" target="_blank">30 июня 2022 замена</a> (дата размещения: 13 сентября 2022 года 17:45:00, доступно в течение 3-х лет с даты опубликования)</li>
+
+<p>АО УК «РФЦ-Капитал» сообщает, что скорректированы следующие документы:</p>
+<ul>
+<li><a href="/docs/rss30062022.pdf" target="_blank">30 июня 2022 </a> (дата размещения: 14 июля 2022 года 11:44:00, доступно в течение 3-х лет с даты опубликования)</li>
+
+<p>Информация ранее размещена: http://www.ukrfc.ru/content/view/158/130/</p>
+<p>Информация изменена: http://www.ukrfc.ru/content/view/158/130/</p>
+<p>В связи с технической ошибкой были пересчитаны средства АО УК «РФЦ-Капитал». В разделе II Расчет собственных средств исправлен показатель «Минимальный размер собственных средств».
+</p>
+</ul>
+
+
+
+
+<li><a href="/docs/rss30062022.pdf" target="_blank">30 июня 2022 </a> (дата размещения: 14 июля 2022 года 11:44:00, доступно в течение 3-х лет с даты опубликования)</li>
+<li><a href="/docs/rss31052022.pdf" target="_blank">31 мая 2022 </a> (дата размещения: 15 июня 2022 года 23:35:00, доступно в течение 3-х лет с даты опубликования)</li>
+
+
+<li><a href="/docs/rss30042022.pdf" target="_blank">30 апреля 2022 </a> (дата размещения: 19 мая 2022 года 11:06:00, доступно в течение 3-х лет с даты опубликования)</li>
+<li><a href="/docs/rss31032022.pdf" target="_blank">31 марта 2022 </a> (дата размещения: 15 апреля 2022 года 15:14:00, доступно в течение 3-х лет с даты опубликования)</li>
+
+<p>АО УК «РФЦ-Капитал» сообщает, что скорректированы следующие документы:</p>
+<ul>
+<li>Расчет собственных средств <a href="/docs/rss28022022.pdf" target="_blank">28 февраля 2022</a> (дата размещения: 15 марта 2022 года 14:14:00, доступно в течение 3-х лет с даты опубликования)</li>
+
+<p>Информация ранее размещена: http://www.ukrfc.ru/content/view/158/130/</p>
+<p>Информация изменена: http://www.ukrfc.ru/content/view/158/130/</p>
+<p>Скорректирован показатель строки 08 «Минимальный размер собственных средств», согласно письму № 38-3-4/874 от 01.04.2022 года: «в случае невозможности определения СЧА ПИФ по состоянию на 28.02.2022 при определении МРСС по состоянию на 28.02.2022 управляющая компания использует СЧА ПИФ на последнюю дату в соответствии с пунктом 1.10 Указания Банка России № 3758-У5, когда СЧА ПИФ было определено».</p>
+</ul>
+
+
+<li><a href="/docs/rss28022022-1.pdf" target="_blank">Замена 28 февраля 2022 </a> (дата размещения: 15 апреля 2022 года 15:14:00, доступно в течение 3-х лет с даты опубликования)</li>
+
+
+<li><a href="/docs/rss28022022.pdf" target="_blank">28 февраля 2022 </a> (дата размещения: 15 марта 2022 года 14:14:00, доступно в течение 3-х лет с даты опубликования)</li>
+
+<p>АО УК «РФЦ-Капитал» сообщает, что скорректированы следующие документы:</p>
+<ul>
+
+<li><a href="/docs/rss31012022.pdf" target="_blank">31 января 2022 </a> (дата размещения: 14 февраля 2022 года 23:55:00, доступно в течение 3-х лет с даты опубликования)</li>
+
+</ul>
+
+<p>Информация ранее размещена: http://www.ukrfc.ru/content/view/158/130/</p>
+<p>Информация изменена: http://www.ukrfc.ru/content/view/158/130/</p>
+<p>В связи с технической ошибкой были пересчитаны средства АО УК «РФЦ-
+Капитал». Изменения затронули форму 0420514 Раздел II «Ценные бумаги» и
+«Дебиторская задолженность».
+</p>
+
+
+<ul>
+<li><a href="/docs/rss31012022-1.pdf" target="_blank">Замена 31 января 2022 </a> (дата размещения: 9 марта 2022 года 14:20:00, доступно в течение 3-х лет с даты опубликования)</li>
+
+<li><a href="/docs/rss31012022.pdf" target="_blank">31 января 2022 </a> (дата размещения: 14 февраля 2022 года 23:55:00, доступно в течение 3-х лет с даты опубликования)</li>
+
+</ul>
+
+
+
+<p align="left"><strong>2021 год</strong></p> 
+<ul>
+
+
+<li><a href="/docs/rss31122021-1.pdf" target="_blank"> Замена 31 декабря 2021 </a> (дата размещения: 27 января 2021 года 14:55:00, доступно в течение 3-х лет с даты опубликования)</li>
+<li><a href="/docs/rss31122021.pdf" target="_blank"> 31 декабря 2021 </a> (дата размещения: 21 января 2022 года 14:00:00, доступно в течение 3-х лет с даты опубликования)</li>
+
+<li><a href="/docs/rss30112021-1.pdf" target="_blank"> Замена 30 ноября 2021 </a> (дата размещения: 27 января 2021 года 14:55:00, доступно в течение 3-х лет с даты опубликования)</li>
+<li><a href="/docs/rss30112021.pdf" target="_blank"> 30 ноября 2021 </a> (дата размещения: 13 декабря 2021 года 11:47:00, доступно в течение 3-х лет с даты опубликования)</li>
+
+<li><a href="/docs/rss31102021.pdf" target="_blank"> 31 октября 2021 </a> (дата размещения: 15 ноября 2021 года 14:48:00, доступно в течение 3-х лет с даты опубликования)</li>
+
+<li><a href="/docs/rss30092021.pdf" target="_blank"> 30 сентября 2021 </a> (дата размещения: 13 октября 2021 года 11:33:00, доступно в течение 3-х лет с даты опубликования)</li>
+
+<li><a href="/docs/rss31082021.pdf" target="_blank"> 31 августа 2021 </a> (дата размещения: 15 сентября 2021 года 10:22:00, доступно в течение 3-х лет с даты опубликования)</li>
+
+<li><a href="/docs/rss31072021.pdf" target="_blank"> 31 июля 2021 </a> (дата размещения: 13 августа 2021 года 11:39:00, доступно в течение 3-х лет с даты опубликования)</li>
+<li><a href="/docs/rss30062021.pdf" target="_blank"> 30 июня 2021 </a> (дата размещения: 15 июля 2021 года 12:10:00, доступно в течение 3-х лет с даты опубликования)</li>
+<li><a href="/docs/rss31052021.pdf" target="_blank"> 31 мая 2021 </a> (дата размещения: 15 июня 2021 года 13:06:00, доступно в течение 3-х лет с даты опубликования)</li>
+<li><a href="/docs/rss30042021.pdf" target="_blank"> 30 апреля 2021 </a> (дата размещения: 18 мая 2021 года 14:42:00, доступно в течение 3-х лет с даты опубликования)</li>
+<li><a href="/docs/rss31032021.pdf" target="_blank"> 31 марта 2021 </a> (дата размещения: 13 апреля 2021 года 16:42:00, доступно в течение 3-х лет с даты опубликования)</li>
+
+
+<li><a href="/docs/rss28022021.pdf" target="_blank"> 28 февраля 2021 </a> (дата размещения: 15 марта 2021 года 15:33:00, доступно в течение 3-х лет с даты опубликования)</li>
+
+<li><a href="/docs/rss31012021.pdf" target="_blank"> 31 января 2021 </a> (дата размещения: 10 февраля 2021 года 18:49:00, доступно в течение 3-х лет с даты опубликования)</li>
+</ul>
+
+
+
+<p align="left"><strong>2020 год</strong></p> 
+<ul>
+
+
+
+<li><a href="/docs/rss31122020.pdf" target="_blank"> 31 декабря 2020 </a> (дата размещения: 22 января 2021 года 14:49:00, доступно в течение 3-х лет с даты опубликования)</li>
+
+<li><a href="/docs/rss30112020.pdf" target="_blank"> 30 ноября 2020 </a> (дата размещения: 11 декабря 2020 года 15:01:00, доступно в течение 3-х лет с даты опубликования)</li>
+
+<li><a href="/docs/rss31102020.pdf" target="_blank"> 31 октября 2020 </a> (дата размещения: 16 ноября 2020 года 19:20:00, доступно в течение 3-х лет с даты опубликования)</li>
+
+<li><a href="/docs/rss30092020.pdf" target="_blank"> 30 сентября 2020 </a> (дата размещения: 14 октября 2020 года 10:03:00, доступно в течение 3-х лет с даты опубликования)</li>
+<li><a href="/docs/rss31082020.pdf" target="_blank"> 31 августа 2020 </a> (дата размещения: 10 сентября 2020 года 17:55:00, доступно в течение 3-х лет с даты опубликования)</li>
+<li><a href="/docs/rss310720.pdf" target="_blank"> 31 июля 2020 </a> (дата размещения: 13 августа 2020 года 16:03:00, доступно в течение 3-х лет с даты опубликования)</li>
+
+
+<li><a href="/docs/rss30062020.pdf" target="_blank"> 30 июня 2020 </a> (дата размещения: 14 июля 2020 года 09:34:00, доступно в течение 3-х лет с даты опубликования)</li>
+<li><a href="/docs/rss31052020.pdf" target="_blank"> 31 мая 2020 </a> (дата размещения: 15 июня 2020 года 17:53:00, доступно в течение 3-х лет с даты опубликования)</li>
+<li><a href="/docs/rss30042020.pdf" target="_blank"> 30 апреля 2020 </a> (дата размещения: 19 мая 2020 года 15:22:00, доступно в течение 3-х лет с даты опубликования)</li>
+<li><a href="/docs/rss31032020.pdf" target="_blank"> 31 марта 2020 </a> (дата размещения: 13 апреля 2020 года 17:20:00, доступно в течение 3-х лет с даты опубликования)</li>
+
+<li><a href="/docs/rss29022020.pdf" target="_blank"> 29 февраля 2020 </a> (дата размещения: 16 марта 2020 года 08:17:00, доступно в течение 3-х лет с даты опубликования)</li>
+<li><a href="/docs/rss31012020.pdf" target="_blank"> 31 января 2020 </a> (дата размещения: 12 февраля 2020 года 17:10:00, доступно в течение 3-х лет с даты опубликования)</li>
+
+
+</ul>
+
+<p align="left"><strong>2019 год</strong></p> 
+<ul>
+
+<li><a href="/docs/rss31122019.pdf" target="_blank"> 31 декабря 2019 </a> (дата размещения: 21 января 2020 года 09:20:00, доступно в течение 3-х лет с даты опубликования)</li>
+<li><a href="/docs/rss30112019.pdf" target="_blank"> 30 ноября 2019 </a> (дата размещения: 12 декабря 2019 года 15:23:00, доступно в течение 3-х лет с даты опубликования)</li>
+<li><a href="/docs/rss31102019.pdf" target="_blank"> 31 октября 2019 </a> (дата размещения: 15 ноября 2019 года 15:27:00, доступно в течение 3-х лет с даты опубликования)</li>
+<li><a href="/docs/rss30092019-1.pdf" target="_blank"> 30 сентября 2019 </a> (дата размещения: 28 октября 2019 года 16:55:00, доступно в течение 3-х лет с даты опубликования)</li>
+<li><a href="/docs/rss30092019.pdf" target="_blank"> 30 сентября 2019 </a> (дата размещения: 14 октября 2019 года 11:35:00, доступно в течение 3-х лет с даты опубликования)</li>
+<li><a href="/docs/rss31082019-1.pdf" target="_blank"> 31 августа 2019 </a> (дата размещения: 29 октября 2019 года 12:08:00, доступно в течение 3-х лет с даты опубликования)</li>
+<li><a href="/docs/rss31082019.pdf" target="_blank"> 31 августа 2019 </a> (дата размещения: 13 сентября 2019 года 16:39:00, доступно в течение 3-х лет с даты опубликования)</li>
+
+<li><a href="/docs/rss31072019.pdf" target="_blank"> 31 июля 2019 </a> (дата размещения: 14 августа 2019 года 15:12:00, доступно в течение 3-х лет с даты опубликования)</li>
+<li><a href="/docs/rss30062019.pdf" target="_blank"> 30 июня 2019 </a> (дата размещения: 12 июля 2019 года 11:13:00, доступно в течение 3-х лет с даты опубликования)</li>
+<li><a href="/docs/rss31052019.pdf" target="_blank"> 31 мая 2019 </a> (дата размещения: 14 июня 2019 года 15:45:00, доступно в течение 3-х лет с даты опубликования)</li>
+<li><a href="/docs/rss30042019.pdf" target="_blank"> 30 апреля 2019 </a> (дата размещения: 20 мая 2019 года 18:00:00, доступно в течение 3-х лет с даты опубликования)</li>
+<li><a href="/docs/rss31032019.pdf" target="_blank"> 31 марта 2019 </a> (дата размещения: 11 апреля 2019 года 15:04:00, доступно в течение 3-х лет с даты опубликования)</li>
+<li><a href="/docs/rss28022019.pdf" target="_blank"> 28 февраля 2019 </a> (дата размещения: 15 марта 2019 года 13:25:00, доступно в течение 3-х лет с даты опубликования)</li>
+<li><a href="/docs/rss31012019-2.pdf" target="_blank"> 31 января 2019 </a> (дата размещения: 29 апреля 2019 года 13:27:00, доступно в течение 3-х лет с даты опубликования)</li>
+<li><a href="/docs/rss31012019-1.pdf" target="_blank"> 31 января 2019 </a> (дата размещения: 15 марта 2019 года 11:48:00, доступно в течение 3-х лет с даты опубликования)</li>
+<li><a href="/docs/rss31012019.pdf" target="_blank"> 31 января 2019 </a> (дата размещения: 14 февраля 2019 года 15:58:00, доступно в течение 3-х лет с даты опубликования)</li>
+
+
+</ul>
+<p align="left"><strong>2018 год</strong></p> 
+<ul>
+
+<li><a href="/docs/rss31122018-2.pdf" target="_blank"> 31 декабря 2018 </a> (дата размещения: 29 апреля 2019 года 13:27:00, доступно в течение 3-х лет с даты опубликования)</li>
+<li><a href="/docs/rss31122018-1.pdf" target="_blank"> 31 декабря 2018 </a> (дата размещения: 15 марта 2019 года 11:48:00, доступно в течение 3-х лет с даты опубликования)</li>
+<li><a href="/docs/rss31122018.pdf" target="_blank"> 31 декабря 2018 </a> (дата размещения: 22 января 2019 года 15:58:00, доступно в течение 3-х лет с даты опубликования)</li>
+
+<li><a href="/docs/rss30112018.pdf" target="_blank"> 30 ноября 2018 </a> (дата размещения: 14 декабря 2018 года 13:28:00, доступно в течение 3-х лет с даты опубликования)</li>
+
+
+<li><a href="/docs/rss31102018.pdf" target="_blank"> 31 октября 2018 </a> (дата размещения: 14 ноября  2018 года 09:31:00, доступно в течение 3-х лет с даты опубликования)</li>
+
+<li><a href="/docs/rss30092018.pdf" target="_blank"> 30 сентября 2018 </a> (дата размещения: 12 октября  2018 года 11:12:00, доступно в течение 3-х лет с даты опубликования)</li>
+
+<li><a href="/docs/rss31082018.pdf" target="_blank"> 31 августа 2018 </a> (дата размещения: 14 сентября 2018 года 13:26:00, доступно в течение 3-х лет с даты опубликования)</li>
+<li><a href="/docs/rss31072018.pdf" target="_blank"> 31 июля 2018 </a> (дата размещения: 14 августа 2018 года 20:30:00, доступно в течение 3-х лет с даты опубликования)</li>
+
+
+<li><a href="/docs/rss30062018.pdf" target="_blank"> 30 июня 2018 </a> (дата размещения: 13 июля 2018 года 16:20:00, доступно в течение 3-х лет с даты опубликования)</li>
+<li><a href="/docs/rss31052018.pdf" target="_blank"> 31 мая 2018 </a> (дата размещения: 05 июня 2018 года 13:13:00, доступно в течение 3-х лет с даты опубликования)</li>
+<li><a href="/docs/rss30042018.pdf" target="_blank"> 30 апреля 2018 </a> (дата размещения: 17 мая 2018 года 09:53:00, доступно в течение 3-х лет с даты опубликования)</li>
+<li><a href="/docs/rss31032018.pdf" target="_blank"> 31 марта 2018 </a> (дата размещения: 13 апреля 2018 года 09:43:00, доступно в течение 3-х лет с даты опубликования)</li>
+<li><a href="/docs/rss28022018.pdf" target="_blank">28 февраль 2018 </a> (дата размещения: 16 марта 2018 года 10:17:00, доступно в течение 3-х лет с даты опубликования)</li>
+
+<li><a href="/docs/rss31012018.pdf" target="_blank">31 января 2018 </a> (дата размещения: 16 февраля 2018 года 11:41:00, доступно в течение 3-х лет с даты опубликования)</li>
+
+</ul>
+
+<p align="left"><strong>2017 год</strong></p> 
+
+<ul>
+
+<li><a href="/docs/rss31122017-1.pdf" target="_blank">31 декабря 2017 </a> (дата размещения: 30 марта 2018 года 09:26:00, доступно в течение 3-х лет с даты опубликования)</li>
+<li><a href="/docs/rss31122017.pdf" target="_blank">31 декабря 2017 </a> (дата размещения: 19 января 2017 года 10:36:00, доступно в течение 3-х лет с даты опубликования)</li>
+
+<li><a href="/docs/rss30112017.pdf" target="_blank">30 ноября 2017 </a> (дата размещения: 14 декабря 2017 года 18:42:00, доступно в течение 3-х лет с даты опубликования)</li>
+
+<li><a href="/docs/rss31102017.pdf" target="_blank">31 октября 2017 </a> (дата размещения: 14 ноября 2017 года 10:11:00, доступно в течение 3-х лет с даты опубликования)</li>
+
+<li><a href="/docs/rss30092017.pdf" target="_blank">30 сентября 2017 </a> (дата размещения: 12 октября 2017 года 11:49:00, доступно в течение 3-х лет с даты опубликования)</li>
+
+<li><a href="/docs/rss310817.pdf" target="_blank">31 августа 2017 </a> (дата размещения: 14 асентября 2017 года 18:32:00, доступно в течение 3-х лет с даты опубликования)</li>
+
+<li><a href="/docs/rss310717.pdf" target="_blank">31 июля 2017 </a> (дата размещения: 14 августа 2017 года 15:49:00, доступно в течение 3-х лет с даты опубликования)</li>
+
+<li><a href="/docs/rss300617.pdf" target="_blank">30 июня 2017 </a> (дата размещения: 12 июль 2017 года 16:30:00, доступно в течение 3-х лет с даты опубликования)</li>
+
+<li><a href="/docs/rss310517.pdf" target="_blank">31 мая 2017 </a> (дата размещения: 14 июня 2017 года 21:08:00, доступно в течение 3-х лет с даты опубликования)</li>
+
+<li><a href="/docs/rss300417.pdf" target="_blank">30 апреля 2017 </a> (дата размещения: 17 мая 2017 года 17:21:00, доступно в течение 3-х лет с даты опубликования)</li>
+
+<li><a href="/docs/rss310317-1.pdf" target="_blank">31 марта 2017 </a> (дата размещения: 20 апреля 2017 года 16:24:00, доступно в течение 3-х лет с даты опубликования)</li>
+
+<li><a href="/docs/rss310317.pdf" target="_blank">31 марта 2017 </a> (дата размещения: 13 апреля 2017 года 09:54:00, доступно в течение 3-х лет с даты опубликования)</li>
+
+<li><a href="/docs/rss280217-2.pdf" target="_blank">28 февраля 2017 </a> (дата размещения: 17 марта 2017 года 16:03:00, доступно в течение 3-х лет с даты опубликования)</li>
+
+<li><a href="/docs/rss280217.pdf" target="_blank">28 февраля 2017 </a> (дата размещения: 14 марта 2017 года 17:25:00, доступно в течение 3-х лет с даты опубликования)</li>
+
+<li><a href="/docs/rss310117_3.pdf" target="_blank">31 января 2017 </a> (дата размещения: 16 июня 2017 года 18:11:00, доступно в течение 3-х лет с даты опубликования)</li>
+
+<li><a href="/docs/rss310117.pdf" target="_blank">31 января 2017 </a> (дата размещения: 14 февраля 2017 года 16:06:00, доступно в течение 3-х лет с даты опубликования)</li>
+</ul>
+<p align="left"><strong>2016 год</strong></p> 
+<ul>
+<li><a href="/docs/rss31122016_2.pdf" target="_blank">31 декабря 2016 </a> (дата размещения: 10 апреля 2017 года 18:33:00, доступно в течение 3-х лет с даты опубликования)</li>
+
+<li><a href="/docs/rss31122016.pdf" target="_blank">31 декабря 2016 </a> (дата размещения: 20 января 2017 года 15:11:00, доступно в течение 3-х лет с даты опубликования)</li>
+
+<li><a href="/docs/rss30112016.pdf" target="_blank">30 ноября 2016 </a> (дата размещения: 14 декабря 2016 года 17:03:00, доступно в течение 3-х лет с даты опубликования)</li>
+
+<li><a href="/docs/rss31102016.pdf" target="_blank">31 октября 2016 </a> (дата размещения 08 ноября 2016 года 18:02:00, доступно в течение 3-х лет с даты опубликования)</li>
+<li><a href="/docs/rss30092016.pdf" target="_blank">30 сентября 2016 </a> (дата размещения: 14 октября 2016 года 11:31:00, доступно в течение 3-х лет с даты опубликования)</li>
+<li><a href="/docs/rss31082016.pdf" target="_blank">31 августа 2016 </a> (дата размещения: 14 сентября 2016 года 17:21:00, доступно в течение 3-х лет с даты опубликования)</li>
+<li><a href="/docs/rss31072016.pdf" target="_blank">31 июля 2016 </a> (дата размещения: 16 августа 2016 года 14:23:00, доступно в течение 3-х лет с даты опубликования)</li>
+<li><a href="/docs/rss30062016-2.pdf" target="_blank">30 июня 2016 </a> (дата размещения: 09 августа 2016 года 14:43:00, доступно в течение 3-х лет с даты опубликования)</li>
+<li><a href="/docs/rss30062016-1.pdf" target="_blank">30 июня 2016 </a> (дата размещения: 19 июля 2016 года 14:40:00, доступно в течение 3-х лет с даты опубликования)</li>
+<li><a href="/docs/rss30062016.pdf" target="_blank">30 июня 2016 </a> (дата размещения: 13 июля 2016 года 16:43:00, доступно в течение 3-х лет с даты опубликования)</li>
+<li><a href="/docs/rss31052016.pdf" target="_blank">31 мая 2016 </a> (дата размещения: 15 июня 2016 года 16:23:00, доступно в течение 3-х лет с даты опубликования)</li>
+<li><a href="/docs/rss30042016.pdf" target="_blank">30 апреля 2016 </a> (дата размещения: 18 мая 2016 года 09:28:00, доступно в течение 3-х лет с даты опубликования)</li>
+<li><a href="/docs/rss31032016.pdf" target="_blank">31 марта 2016 </a> (дата размещения: 13 апреля 2016 года 17:48:00, доступно в течение 3-х лет с даты опубликования)</li>
+<li><a href="/docs/rss29022016.pdf" target="_blank">29 февраля 2016 </a> (дата размещения: 16 марта 2016 года 13:13:00, доступно в течение 3-х лет с даты опубликования)</li>
+<li><a href="/docs/rss31012016.pdf" target="_blank">31 января 2016 </a> (дата размещения: 29 февраля 2016 года 13:30:00, доступно в течение 3-х лет с даты опубликования)</li>
+</ul>
+
+<p align="left"><strong>2015 год</strong></p> 
+<ul>
+
+<li><a href="/docs/rss31122015-1.pdf" target="_blank">31 декабрь 2015 </a> (дата размещения: 30 марта 2016 года 13:58:00, доступно в течение 3-х лет с даты опубликования)</li>
+<li><a href="/docs/rss31122015.pdf" target="_blank">31 декабрь 2015 </a> (дата размещения: 29 января 2016 года 15:44:00, доступно в течение 3-х лет с даты опубликования)</li>
+<li><a href="/docs/rss30112015.pdf" target="_blank">30 ноября 2015 </a> (дата размещения: 22 декабря 2015 года 11:44:00, доступно в течение 3-х лет с даты опубликования)</li>
+<li><a href="/docs/rss31102015.pdf" target="_blank">31 октября 2015 </a> (дата размещения: 24 ноября 2015 года 15:52:00, доступно в течение 3-х лет с даты опубликования)</li>
+<li><a href="/docs/rss30092015.pdf" target="_blank">30 сентября 2015 </a> (дата размещения: 26 октября 2015 года 18:00:00, доступно в течение 3-х лет с даты опубликования)</li>
+<li><a href="/docs/rss31082015.pdf" target="_blank">31 августа 2015 </a> (дата размещения: 22 сентября 2015 года 11:49:00, доступно в течение 3-х лет с даты опубликования)</li>
+
+<li><a href="/docs/rss31072015-1.pdf" target="_blank">31 июля 2015 </a>(замена, дата размещения: 31 августа 2015 года 11:30:00, доступно в течение 3-х лет с даты опубликования)</li>
+<li><a href="/docs/rss31072015.pdf" target="_blank">31 июля 2015 </a> (дата размещения: 24 августа 2015 года 17:23:00, доступно в течение 3-х лет с даты опубликования)</li>
+<li><a href="/docs/rss30062015.pdf" target="_blank">30 июня 2015 </a> (дата размещения: 29 июля 2015 года 10:45:00, доступно в течение 3-х лет с даты опубликования)</li>
+<li><a href="/docs/rss31052015.pdf" target="_blank">31 мая 2015 </a> (дата размещения: 25 июня 2015 года 17:50:00, доступно в течение 3-х лет с даты опубликования)</li>
+<li><a href="/docs/rss30042015.pdf" target="_blank">30 апреля 2015 </a> (дата размещения: 02 июня 2015 года 13:50:00, доступно в течение 3-х лет с даты опубликования)</li>
+<li><a href="/docs/rss31032015.pdf" target="_blank">31 марта 2015 </a> (дата размещения: 27 апреля 2015 года 09:09:00, доступно в течение 3-х лет с даты опубликования)</li>
+<li><a href="/docs/rss28022015.pdf" target="_blank">28 февраля 2015 </a> (дата размещения: 31 марта 2015 года 09:06:00, доступно в течение 3-х лет с даты опубликования)</li>
+<li><a href="/docs/rss31012015.pdf" target="_blank">31 января 2015 </a> (дата размещения: 24 февраля 2015 года 16:30:00, доступно в течение 3-х лет с даты опубликования)</li>
+</ul>
+
+<p align="left"><strong>2014 год</strong></p> 
+<ul>
+<li><a href="/docs/rss31122014-1.pdf" target="_blank">31 декабря 2014 </a>(по состоянию на 17 марта 2015 года, дата размещения: 24 марта 2015 года 17:06:00) <br>
+<a href="/docs/rss31122014.pdf" target="_blank">31 декабря 2014 </a> (дата размещения: 26 января 2015 года 17:19:00, доступно в течение 3-х лет с даты опубликования) 
+
+</li>
+<li><a href="/docs/rss30112014.pdf" target="_blank">30 ноября 2014 </a> (дата размещения: 24 декабря 2014 года 16:31:00, доступно в течение 3-х лет с даты опубликования)</li>
+<li><a href="/docs/rss31102014.pdf" target="_blank">31 октября 2014 </a> (дата размещения: 28 ноября 2014 года 16:04:00, доступно в течение 3-х лет с даты опубликования)</li>
+<li><a href="/docs/rss30092014.pdf" target="_blank">30 сентября 2014 </a> (дата размещения: 22 октября 2014 года 10:56:00, доступно в течение 3-х лет с даты опубликования)</li>
+<li><a href="/docs/rss31082014.pdf" target="_blank">31 августа 2014 </a> (дата размещения: 17 сентября 2014 года 10:33:00, доступно в течение 3-х лет с даты опубликования)</li>
+<li><a href="/docs/rss31072014.pdf" target="_blank">31 июля 2014 </a> (дата размещения: 27 августа 2014 года 17:09:00, доступно в течение 3-х лет с даты опубликования)</li>
+<li><a href="/docs/rss30062014.pdf" target="_blank">30 июня 2014 </a> (дата размещения: 22 июля 2014 года 09:43:00, доступно в течение 3-х лет с даты опубликования)</li>
+<li><a href="/docs/rss31052014.pdf" target="_blank">31 мая 2014 </a> (дата размещения: 23 июня 2014 года 16:29:00, доступно в течение 3-х лет с даты опубликования)</li>
+<li><a href="/docs/rss30042014.pdf" target="_blank">30 апреля 2014 </a> (дата размещения: 29 мая 2014 года 16:09:00, доступно в течение 3-х лет с даты опубликования)</li>
+<li><a href="/docs/rss31032014.pdf" target="_blank">31 марта 2014 </a> (дата размещения: 24 апреля 2014 года 17:00:00, доступно в течение 3-х лет с даты опубликования)</li>
+<li><a href="/docs/rss28022014.pdf" target="_blank">28 февраля 2014 </a> (дата размещения: 26 марта 2014 года 18:15:00, доступно в течение 3-х лет с даты опубликования)</li>
+<li><a href="/docs/rss31012014.pdf" target="_blank">31 января 2014 </a> (дата размещения: 20 февраля 2014 года, доступно в течение 3-х лет с даты опубликования)</li>
+</ul>
+<p align="left"><strong>2013 год</strong></p> 
+<ul>
+<li><a href="/docs/rss31122013-1.pdf" target="_blank">31 декабря 2013 </a>(по состоянию на 14.03.2014 г., дата размещения 26.03.2014 18:15:30, доступно в течение 3-х лет с даты опубликования)</li>
+<li><a href="/docs/rss31122013.pdf" target="_blank">31 декабря 2013</a></li>
+<li><a href="/docs/rss30112013.pdf" target="_blank">30 ноября 2013</a></li>
+<li><a href="/docs/rss31102013.pdf" target="_blank">31 октября 2013</a></li>
+<li><a href="/docs/rss30092013.pdf" target="_blank">30 сентября 2013</a></li>
+<li><a href="/docs/rss31082013.pdf" target="_blank">31 августа 2013</a></li>
+<li><a href="/docs/rss31072013.pdf" target="_blank">31 июля 2013</a></li>
+<li><a href="/docs/rss30062013.pdf" target="_blank">30 июня 2013</a></li>
+<li><a href="/docs/rss31052013.pdf" target="_blank">31 мая 2013</a></li>
+<li><a href="/docs/rss30042013.pdf" target="_blank">30 апреля 2013</a></li>
+<li><a href="/docs/rss31032013.pdf" target="_blank">31 марта 2013</a></li>
+<li><a href="/docs/rss28022013.pdf" target="_blank">28 февраля 2013</a></li>
+<li><a href="/docs/rss31012013.pdf" target="_blank">31 января 2013</a></li>
+</ul>
+
+
+<p align="left"><strong>2012 год</strong></p> 
+<ul>
+<li><a href="/docs/rss31122012-2.pdf" target="_blank">31 декабря 2012 </a> (дата размещения: 29 марта 2013 года)
+<a href="/docs/rss31122012.pdf" target="_blank">31 декабря 2012</a></li>
+
+<li><a href="/docs/rss30112012.pdf" target="_blank">30 ноября 2012</a></li>
+<li><a href="/docs/rss31102012.pdf" target="_blank">31 октября 2012</a></li>
+<li>
+<a href="/docs/rss30092012-2.pdf" target="_blank">30 сентября 2012 </a> (дата размещения: 28 февраля 2013 года)
+<a href="/docs/rss30092012.pdf" target="_blank">30 сентября 2012</a></li>
+<li><a href="/docs/rss31082012.pdf" target="_blank">31 августа 2012</a></li>
+<li><a href="/docs/rss31072012.pdf" target="_blank">31 июля 2012</a></li>
+<li>
+<a href="/docs/rss30062012-2.pdf" target="_blank">30 июня 2012 </a> (дата размещения: 28 февраля 2013 года)
+<a href="/docs/rss30062012.pdf" target="_blank">30 июня 2012</a></li>
+<li><a href="/docs/rss31052012.pdf" target="_blank">31 мая 2012</a></li>
+<li><a href="/docs/rss30042012.pdf" target="_blank">30 апреля 2012</a></li>
+<li>
+<a href="/docs/rss31032012-2.pdf" target="_blank">31 марта 2012 </a> (дата размещения: 28 февраля 2013 года)
+<a href="/docs/rss31032012.pdf" target="_blank">31 марта 2012</a></li>
+<li><a href="/docs/rss29022012.pdf" target="_blank">29 февраля 2012</a></li>
+<li><a href="/docs/rss31012012.pdf" target="_blank">31 января 2012</a></li>
+</ul>
+
+<p align="left"><strong>2011 год</strong></p> 
+<ul>
+<li>
+<a href="/docs/rss31122011-2.pdf" target="_blank">31 декабря 2011 </a> (дата размещения: 28 февраля 2013 года)
+<a href="/docs/rss31122011-1.pdf" target="_blank">31 декабря 2011 </a> (дата размещения: 28 марта 2012 года)
+<a href="/docs/rss31122011.pdf" target="_blank">31 декабря 2011</a> 
+
+</li>
+<li><a href="/docs/rss30112011.pdf" target="_blank">30 ноября 2011</a></li>
+<li><a href="/docs/rss31102011.pdf" target="_blank">31 октября 2011</a></li>
+<li><a href="/docs/rss30092011.pdf" target="_blank">30 сентября 2011</a></li>
+<li><a href="/docs/rss31082011.pdf" target="_blank">31 августа 2011</a></li>
+<li><a href="/docs/rss31072011.pdf" target="_blank">31 июля 2011</a></li>
+<li><a href="/docs/rss30062011.pdf" target="_blank">30 июня 2011</a></li>
+<li><a href="/docs/rss31052011.xls" target="_blank">31 мая 2011</a></li>
+<li><a href="/docs/rss30042011.xls" target="_blank">30 апреля 2011</a></li>
+<li><a href="/docs/rss31032011.xls" target="_blank">31 марта 2011</a></li>
+<li><a href="/docs/rss28022011.xls" target="_blank">28 февраля 2011</a></li>
+<li><a href="/docs/rss31012011.xls" target="_blank">31 января 2011</a></li>
+</ul>
+
+<p align="left"><strong>2010 год</strong></p> 
+<ul>
+<li><a href="/docs/rss31122010.xls" target="_blank">31 декабря 2010</a></li>
+<li><a href="/docs/rss30112010.xls" target="_blank">30 ноября 2010</a></li>
+<li><a href="/docs/rss31102010.xls" target="_blank">31 октября 2010</a></li>
+<li><a href="/docs/rss30092010.xls" target="_blank">30 сентября 2010</a></li>
+<li><a href="/docs/rss31082010.xls" target="_blank">31 августа 2010</a></li>
+<li><a href="/docs/rss31072010.xls" target="_blank">31 июля 2010</a></li>
+<li><a href="/docs/rss30062010.xls" target="_blank">30 июня 2010</a></li>
+<li><a href="/docs/rss31052010.xls" target="_blank">31 мая 2010</a></li>
+<li><a href="/docs/rss30042010.xls" target="_blank">30 апреля 2010</a></li>
+<li><a href="/docs/rss31032010.xls" target="_blank">31 марта 2010</a></li>
+<li><a href="/docs/rss28022010.xls" target="_blank">28 февраля 2010</a></li>
+<li><a href="/docs/rss31012010.xls" target="_blank">31 января 2010</a></li>
+</ul>
+
+<p align="left"><strong>2009 год</strong></p> 
+<ul>
+<li><a href="/docs/rss31122009.xls" target="_blank">31 декабря 2009</a></li> 
+<li><a href="/docs/rss30112009.xls" target="_blank">30 ноября 2009</a></li> 
+<li><a href="/docs/rss31102009.xls" target="_blank">31 октября 2009</a></li> 
+<li><a href="/docs/rss30092009.xls" target="_blank">30 сентября 2009</a></li> 
+<li><a href="/docs/rss31082009.xls" target="_blank">31 августа 2009</a></li> 
+<li><a href="/docs/rss31072009.tif" target="_blank">31 июля 2009</a></li>   
+<li><a href="/docs/rss30062009.xls" target="_blank">30 июня 2009</a></li>
+</ul>
+
+			</td>
+		</tr>
+				</tbody></table>
+
+		<span class="article_seperator">&nbsp;</span>
+
+		        	   </td>
+</tr>
+<tr>
+   <td colspan="2" align="center">
+        <div id="footer">		<table cellpadding="0" cellspacing="0" class="moduletablecopyright">
+				<tbody><tr>
+			<td>
+				© Все права принадлежат АО УК «РФЦ-Капитал»<br><br> Россия, 455008, Челябинская обл., г. Магнитогорск, пр. К. Маркса, 212.<br> <strong>Тел.:</strong>&nbsp;(3519)&nbsp;25-60-25,&nbsp;(3519)&nbsp;25-60-26,&nbsp;58-61-62<br> <strong>Факс:</strong>&nbsp;(3519)&nbsp;25-60-20<br> <strong>E-mail:</strong> <a href="mailto:delo@ukrfc.ru">Delo@ukrfc.ru</a><br>
+
+<strong><a href="http://www.ukrfc.ru/docs/inside/reglament_obrab_persdan.pdf">Политика обработки персональных данных клиентов</a></strong> <br>
+Бессрочная лицензия ФКЦБ Росcии на осуществление деятельности по управлению инвестиционными фондами,<br> паевыми инвестиционными фондами и негосударственными пенсионными фондами (№ 21-000-1-00097 от 24 декабря 2002г.)<br>Бессрочная лицензия ФСФР Росcии на осуществление деятельности по управлению ценными бумагами (№075-10692-001000 от 30 октября 2007г.)			</td>
+		</tr>
+		</tbody></table>
+		</div>
+   </td>
+</tr><tr>
+</tr><tr><td colspan="2" id="headerbanner"> Разработка АО УК "РФЦ-Капитал" </td></tr>
+</tbody></table>
+</td>
+<td class="rightbg" width="16"></td>
+</tr>
+<tr>
+   <td width="16"></td>
+   <td colspan="2" align="center"><br>
+        		<table cellpadding="0" cellspacing="0" class="moduletablestat">
+				<tbody><tr>
+			<td>
+				<strong>Посетителей:</strong> 1969155
+			</td>
+		</tr>
+		</tbody></table>
+			<!-- START Cookie-Alert -->
+	<div id="cookie_note" class="show">
+         <p>Мы используем файлы cookies для улучшения работы сайта. Оставаясь на нашем сайте, вы соглашаетесь с условиями
+           использования файлов cookies.</p>
+         <button class="button cookie_accept">Я согласен</button>
+</div>
+<!-- END Cookie-Alert -->
+<script type="text/javascript">
+    function setCookie(name, value, days) {
+        let expires = "";
+	
+        if (days) {
+            let date = new Date();
+            date.setTime(date.getTime() + (days * 24 * 60 * 60 * 1000));
+            expires = "; expires=" + date.toUTCString();
+	
+        }
+        document.cookie = name + "=" + (value || "") + expires + "; path=/";
+    }
+
+    function getCookie(name) {
+        let matches = document.cookie.match(new RegExp("(?:^|; )" + name.replace(/([\.$?*|{}\(\)\[\]\\\/\+^])/g, '\\$1') + "=([^;]*)"));
+        return matches ? decodeURIComponent(matches[1]) : undefined;
+    }
+
+
+    function checkCookies() {
+        let cookieNote = document.getElementById('cookie_note');
+        let cookieBtnAccept = cookieNote.querySelector('.cookie_accept');
+
+        // Если куки cookies_policy нет или она просрочена, то показываем уведомление
+        if (!getCookie('cookies_policy')) {
+            cookieNote.classList.add('show');
+        }
+
+        // При клике на кнопку устанавливаем куку cookies_policy на один год
+        cookieBtnAccept.addEventListener('click', function () {
+            setCookie('cookies_policy', 'true', 365);
+            cookieNote.classList.remove('show');
+	    cookieNote.hidden= true;
+        });
+    }
+
+    checkCookies();
+    
+</script>
+
+   </td>
+   <td width="16"></td>
+</tr><tr>
+</tr></tbody></table>
+
+<script type="text/javascript">
+var gaJsHost = (("https:" == document.location.protocol) ? "https://ssl." : "http://www.");
+document.write(unescape("%3Cscript src='" + gaJsHost + "google-analytics.com/ga.js' type='text/javascript'%3E%3C/script%3E"));
+</script><script src="http://www.google-analytics.com/ga.js" type="text/javascript"></script>
+<script type="text/javascript">
+try {
+var pageTracker = _gat._getTracker("UA-11481219-2");
+pageTracker._setDomainName(".ukrfc.ru");
+pageTracker._trackPageview();
+} catch(err) {}</script>
+
+
+
+<div id="ui-datepicker-div"></div>

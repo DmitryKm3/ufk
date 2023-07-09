@@ -1,0 +1,263 @@
+
+	<div id="pageWrapper" class="page-wrapper">
+		<div id="page" class="page">
+			<header id="header" class="header">
+				<div class="container">
+					<div class="header-layout clearfix">
+						<div class="block block_logo">
+							<a href="/" class="link link_logo">
+																<img src="/images/mthf-logo-tr-small.png" alt="mthf.ru" class="img img_logo">
+							</a>
+						</div>
+						<nav class="nav-wrapper">
+	<ul class="block block_nav">
+									<li class="nav__item"><a class="link link_nav" href="/">О компании</a></li>
+												<li class="nav__item"><a class="link link_nav" href="/novosti">Новости</a></li>
+												<li class="nav__item"><a class="link link_nav" href="/raskrytie-informacii">Раскрытие информации</a></li>
+												<li class="nav__item nav__item_current"><a class="link link_nav">Официальная отчетность</a></li>
+												<li class="nav__item"><a class="link link_nav" href="/client">Клиентам</a></li>
+												<li class="nav__item"><a class="link link_nav" href="/contacts">Контакты</a></li>
+						</ul>
+</nav>
+					</div>
+				</div>
+			<div class="slicknav_menu"><a href="#" aria-haspopup="true" tabindex="0" class="slicknav_btn slicknav_collapsed"><span class="slicknav_menutxt"></span><span class="slicknav_icon slicknav_no-text"><span class="slicknav_icon-bar"></span><span class="slicknav_icon-bar"></span><span class="slicknav_icon-bar"></span></span></a><ul class="slicknav_nav slicknav_hidden" aria-hidden="true" role="menu" style="display: none;">
+									<li class="nav__item"><a class="link link_nav" href="/" role="menuitem" tabindex="-1">О компании</a></li>
+												<li class="nav__item"><a class="link link_nav" href="/novosti" role="menuitem" tabindex="-1">Новости</a></li>
+												<li class="nav__item"><a class="link link_nav" href="/raskrytie-informacii" role="menuitem" tabindex="-1">Раскрытие информации</a></li>
+												<li class="nav__item nav__item_current"><a class="link link_nav" role="menuitem" tabindex="-1">Официальная отчетность</a></li>
+												<li class="nav__item"><a class="link link_nav" href="/client" role="menuitem" tabindex="-1">Клиентам</a></li>
+												<li class="nav__item"><a class="link link_nav" href="/contacts" role="menuitem" tabindex="-1">Контакты</a></li>
+						</ul></div></header>
+			<main id="pageMain" class="page-main"><div id="breadcrumbs">
+	<h1>Официальная отчетность</h1>
+		<div class="breadcrumbs">
+		<div class="container">
+			<a href="/">Главная</a> /
+												<span>Официальная отчетность</span>
+				 
+					</div>
+	</div>
+</div>
+<div class="container">
+				<div id="news">
+			<div class="row">
+				<div class="block block_news">
+											<div class="news__item col-md-6">
+							<div class="news-inner">
+								<figure class="news-photo">
+									<a href="/files/news/000/000137/817-rss-2023.05.31-signed.pdf" class="link link_news-photo">
+																					<img src="/images/news/000/000137/436-icon.crop-95x95.de261f6946.png" alt="Расчет размера собственных средств ООО «МАТТЕРХОРН-ФИНАНС» на 31 мая 2023 года" class="img img_news">
+																				<span class="news-caption">
+											<span class="news-title">Расчет размера собственных средств ООО «МАТТЕРХОРН-ФИНАНС» на 31 мая 2023 года</span>
+											<span class="news-date">14 июня 2023</span>
+										</span>
+									</a>
+								</figure>
+								<p class="news-summary"></p>
+							</div>
+						</div>
+											<div class="news__item col-md-6">
+							<div class="news-inner">
+								<figure class="news-photo">
+									<a href="/files/news/000/000136/143-rss-2023.04.30-signed.pdf" class="link link_news-photo">
+																					<img src="/images/news/000/000136/886-icon.crop-95x95.1e570f82b9.png" alt="Расчет размера собственных средств ООО «МАТТЕРХОРН-ФИНАНС» на 30 апреля 2023 года" class="img img_news">
+																				<span class="news-caption">
+											<span class="news-title">Расчет размера собственных средств ООО «МАТТЕРХОРН-ФИНАНС» на 30 апреля 2023 года</span>
+											<span class="news-date">17 мая 2023</span>
+										</span>
+									</a>
+								</figure>
+								<p class="news-summary"></p>
+							</div>
+						</div>
+											<div class="news__item col-md-6">
+							<div class="news-inner">
+								<figure class="news-photo">
+									<a href="/files/news/000/000135/420-matterxorn_2022-msfopdf.pdf" class="link link_news-photo">
+																					<img src="/images/news/000/000135/615-icon.crop-95x95.de5a2650ec.png" alt="Годовая финансовая отчетность ООО «МАТТЕРХОРН-ФИНАНС» за 2022 год, составленная в соответствии с МСФО" class="img img_news">
+																				<span class="news-caption">
+											<span class="news-title">Годовая финансовая отчетность ООО «МАТТЕРХОРН-ФИНАНС» за 2022 год, составленная в соответствии с МСФО</span>
+											<span class="news-date">25 апреля 2023</span>
+										</span>
+									</a>
+								</figure>
+								<p class="news-summary"></p>
+							</div>
+						</div>
+											<div class="news__item col-md-6">
+							<div class="news-inner">
+								<figure class="news-photo">
+									<a href="/files/news/000/000132/854-rss-2023.03.31-signed.pdf" class="link link_news-photo">
+																					<img src="/images/news/000/000132/447-icon.crop-95x95.b60275a849.png" alt="Расчет размера собственных средств ООО «МАТТЕРХОРН-ФИНАНС» на 31 марта 2023 года" class="img img_news">
+																				<span class="news-caption">
+											<span class="news-title">Расчет размера собственных средств ООО «МАТТЕРХОРН-ФИНАНС» на 31 марта 2023 года</span>
+											<span class="news-date">11 апреля 2023</span>
+										</span>
+									</a>
+								</figure>
+								<p class="news-summary"></p>
+							</div>
+						</div>
+											<div class="news__item col-md-6">
+							<div class="news-inner">
+								<figure class="news-photo">
+									<a href="/files/news/000/000134/631-audit_report_mthf_2022.pdf" class="link link_news-photo">
+																					<img src="/images/news/000/000134/177-icon.crop-95x95.a49058f1f2.png" alt="Аудиторское заключение о бухгалтерской (финансовой ) отчетности ООО " МАТТЕРХОРН-ФИНАНС"="" за="" 2022="" год"="" class="img img_news">
+																				<span class="news-caption">
+											<span class="news-title">Аудиторское заключение о бухгалтерской (финансовой ) отчетности ООО "МАТТЕРХОРН-ФИНАНС" за 2022 год</span>
+											<span class="news-date">01 апреля 2023</span>
+										</span>
+									</a>
+								</figure>
+								<p class="news-summary"></p>
+							</div>
+						</div>
+											<div class="news__item col-md-6">
+							<div class="news-inner">
+								<figure class="news-photo">
+									<a href="/files/news/000/000133/116-balans-mthf-2022-12-31.pdf" class="link link_news-photo">
+																					<img src="/images/news/000/000133/294-icon.crop-95x95.36e9a85f58.png" alt="Бухгалтерская (финансовая) отчетность ООО «МАТТЕРХОРН-ФИНАНС» на 31.12.2022" class="img img_news">
+																				<span class="news-caption">
+											<span class="news-title">Бухгалтерская (финансовая) отчетность ООО «МАТТЕРХОРН-ФИНАНС» на 31.12.2022</span>
+											<span class="news-date">01 апреля 2023</span>
+										</span>
+									</a>
+								</figure>
+								<p class="news-summary"></p>
+							</div>
+						</div>
+											<div class="news__item col-md-6">
+							<div class="news-inner">
+								<figure class="news-photo">
+									<a href="/files/news/000/000131/553-rss-2023.02.28-signed.pdf" class="link link_news-photo">
+																					<img src="/images/news/000/000131/196-icon.crop-95x95.b76e0ad94e.png" alt="Расчет размера собственных средств ООО «МАТТЕРХОРН-ФИНАНС» на 28 февраля 2023 года" class="img img_news">
+																				<span class="news-caption">
+											<span class="news-title">Расчет размера собственных средств ООО «МАТТЕРХОРН-ФИНАНС» на 28 февраля 2023 года</span>
+											<span class="news-date">09 марта 2023</span>
+										</span>
+									</a>
+								</figure>
+								<p class="news-summary"></p>
+							</div>
+						</div>
+											<div class="news__item col-md-6">
+							<div class="news-inner">
+								<figure class="news-photo">
+									<a href="/files/news/000/000130/615-rss-2023.01.31-signed.pdf" class="link link_news-photo">
+																					<img src="/images/news/000/000130/711-icon.crop-95x95.cd92cfd186.png" alt="Расчет размера собственных средств ООО «МАТТЕРХОРН-ФИНАНС» на 31 января 2023 года" class="img img_news">
+																				<span class="news-caption">
+											<span class="news-title">Расчет размера собственных средств ООО «МАТТЕРХОРН-ФИНАНС» на 31 января 2023 года</span>
+											<span class="news-date">09 февраля 2023</span>
+										</span>
+									</a>
+								</figure>
+								<p class="news-summary"></p>
+							</div>
+						</div>
+											<div class="news__item col-md-6">
+							<div class="news-inner">
+								<figure class="news-photo">
+									<a href="/files/news/000/000129/127-rss-2022.12.31-signed.pdf" class="link link_news-photo">
+																					<img src="/images/news/000/000129/114-icon.crop-95x95.5c86ead9de.png" alt="Расчет размера собственных средств ООО «МАТТЕРХОРН-ФИНАНС» на 31 декабря 2022 года" class="img img_news">
+																				<span class="news-caption">
+											<span class="news-title">Расчет размера собственных средств ООО «МАТТЕРХОРН-ФИНАНС» на 31 декабря 2022 года</span>
+											<span class="news-date">13 января 2023</span>
+										</span>
+									</a>
+								</figure>
+								<p class="news-summary"></p>
+							</div>
+						</div>
+											<div class="news__item col-md-6">
+							<div class="news-inner">
+								<figure class="news-photo">
+									<a href="/files/news/000/000128/524-rss-2022.11.30-signed.pdf" class="link link_news-photo">
+																					<img src="/images/news/000/000128/992-icon.crop-95x95.bd6e093c32.png" alt="Расчет размера собственных средств ООО «МАТТЕРХОРН-ФИНАНС» на 30 ноября 2022 года" class="img img_news">
+																				<span class="news-caption">
+											<span class="news-title">Расчет размера собственных средств ООО «МАТТЕРХОРН-ФИНАНС» на 30 ноября 2022 года</span>
+											<span class="news-date">07 декабря 2022</span>
+										</span>
+									</a>
+								</figure>
+								<p class="news-summary"></p>
+							</div>
+						</div>
+									</div>
+			</div>
+							<div id="paging">
+					<ul class="block block_paging">
+																											<li class="paging__item paging__item_current"><a class="link link_paging">1</a></li>
+																												<li class="paging__item"><a class="link link_paging" href="/oficialnaya-otchetnost/page:2/pcnt:10">2</a></li>
+																												<li class="paging__item"><a class="link link_paging" href="/oficialnaya-otchetnost/page:3/pcnt:10">3</a></li>
+																												<li class="paging__item"><a class="link link_paging" href="/oficialnaya-otchetnost/page:4/pcnt:10">4</a></li>
+																												<li class="paging__item"><a class="link link_paging" href="/oficialnaya-otchetnost/page:5/pcnt:10">5</a></li>
+																												<li class="paging__item"><a class="link link_paging" href="/oficialnaya-otchetnost/page:6/pcnt:10">6</a></li>
+																												<li class="paging__item"><a class="link link_paging" href="/oficialnaya-otchetnost/page:7/pcnt:10">7</a></li>
+																												<li class="paging__item"><a class="link link_paging" href="/oficialnaya-otchetnost/page:8/pcnt:10">8</a></li>
+																												<li class="paging__item"><a class="link link_paging" href="/oficialnaya-otchetnost/page:9/pcnt:10">9</a></li>
+																												<li class="paging__item"><a class="link link_paging" href="/oficialnaya-otchetnost/page:10/pcnt:10">10</a></li>
+																										<li class="paging__item">
+								<a href="/oficialnaya-otchetnost/page:2/pcnt:10" class="lnk-page link link_paging">
+									<i class="fas fa-angle-right" aria-hidden="true"></i>
+								</a>
+							</li>
+											</ul>
+				</div>
+					</div>
+	</div></main>
+		</div>
+		<footer id="footer" class="footer">
+			<div class="footer__item footer__item_top">
+				<div class="container">
+					<div class="row">
+						<div class="footer-top-layout block">
+							<div class="footer-col col-md-4">
+								<p class="footer-h">О нас</p>
+								<p class="footer-text">Компания MATTERHORN-FINANCE LLC <br>
+(до 14.02.2018г. WS Fund Management LLC)<br>
+Управление Фондами.
+<br><br>
+Компания MATTERHORN-FINANCE LLC <br>
+(до 14.02.2018г. WS Fund Management LLC) создана в 2015 году.</p>
+								<div class="block block_socials">
+									<a href="" target="_blank" class="link link_socials fab fa-vk"></a>
+									<a href="" target="_blank" class="link link_socials fab fa-facebook-f"></a>
+									<a href="" target="_blank" class="link link_socials fab fa-instagram"></a>
+								</div>
+							</div>
+							<div class="footer-col col-md-4">
+								<p class="footer-h">Контакты</p>
+								<ul class="footer-list">
+									<li class="footer-list__item"><a href="tel:+4957904465" class="link link_footer-list">(495) 790-44-65</a></li>
+									<li class="footer-list__item"><a href="mailto:info@mthf.ru" class="link link_footer-list">info@mthf.ru</a></li>
+									<li class="footer-list__item"><span class="link link_footer-list">Россия, 125130, город Москва, улица Старопетровский проезд, дом 11 корпус 1, этаж 3 пом 25.</span></li>
+								</ul>
+							</div>
+							<div class="footer-col col-md-4">
+								<p class="footer-h">Карта</p>
+								<div class="footer-map"><iframe src="https://yandex.ru/map-widget/v1/?lang=ru_RU&amp;scroll=true&amp;um=constructor%3A8929b8bf520a0cc4ae0124dc980eeb485a82051ccf88be1a0a12aaa90ff05972" frameborder="0" allowfullscreen="true" width="450px" height="300px" style="display: block;"></iframe></div>
+							</div>
+						</div>
+					</div>
+				</div>
+			</div>
+			<div class="footer__item footer__item_bottom">
+				<div class="container">
+					<div class="footer-bottom-layout clearfix">
+						<div class="block block_copyright">© 2015-2020 Компания «MATTERHORN-FINANCE LLC»</div>
+					</div>
+				</div>
+			</div>
+		</footer>
+	</div>
+	<script type="text/javascript" src="/javascript/core.js"></script>
+	<script type="text/javascript" src="/javascript/jquery.slicknav.min.js"></script>
+	<script type="text/javascript" src="/javascript/jquery.fancybox.min.js"></script>
+	<script type="text/javascript" src="/javascript/scripts.js"></script>
+	
+		<style type="text/css">
+			#breadcrumbs {background: url(/images/param/000/000068/153-bss_banner.jpg) no-repeat center/cover;}
+		</style>
+	
+

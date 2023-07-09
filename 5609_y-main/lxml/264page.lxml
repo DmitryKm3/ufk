@@ -1,0 +1,174 @@
+
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 0 0" width="0" height="0" focusable="false" role="none" style="visibility: hidden; position: absolute; left: -9999px; overflow: hidden;"><defs><filter id="wp-duotone-dark-grayscale"><feColorMatrix color-interpolation-filters="sRGB" type="matrix" values=" .299 .587 .114 0 0 .299 .587 .114 0 0 .299 .587 .114 0 0 .299 .587 .114 0 0 "></feColorMatrix><feComponentTransfer color-interpolation-filters="sRGB"><feFuncR type="table" tableValues="0 0.49803921568627"></feFuncR><feFuncG type="table" tableValues="0 0.49803921568627"></feFuncG><feFuncB type="table" tableValues="0 0.49803921568627"></feFuncB><feFuncA type="table" tableValues="1 1"></feFuncA></feComponentTransfer><feComposite in2="SourceGraphic" operator="in"></feComposite></filter></defs></svg><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 0 0" width="0" height="0" focusable="false" role="none" style="visibility: hidden; position: absolute; left: -9999px; overflow: hidden;"><defs><filter id="wp-duotone-grayscale"><feColorMatrix color-interpolation-filters="sRGB" type="matrix" values=" .299 .587 .114 0 0 .299 .587 .114 0 0 .299 .587 .114 0 0 .299 .587 .114 0 0 "></feColorMatrix><feComponentTransfer color-interpolation-filters="sRGB"><feFuncR type="table" tableValues="0 1"></feFuncR><feFuncG type="table" tableValues="0 1"></feFuncG><feFuncB type="table" tableValues="0 1"></feFuncB><feFuncA type="table" tableValues="1 1"></feFuncA></feComponentTransfer><feComposite in2="SourceGraphic" operator="in"></feComposite></filter></defs></svg><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 0 0" width="0" height="0" focusable="false" role="none" style="visibility: hidden; position: absolute; left: -9999px; overflow: hidden;"><defs><filter id="wp-duotone-purple-yellow"><feColorMatrix color-interpolation-filters="sRGB" type="matrix" values=" .299 .587 .114 0 0 .299 .587 .114 0 0 .299 .587 .114 0 0 .299 .587 .114 0 0 "></feColorMatrix><feComponentTransfer color-interpolation-filters="sRGB"><feFuncR type="table" tableValues="0.54901960784314 0.98823529411765"></feFuncR><feFuncG type="table" tableValues="0 1"></feFuncG><feFuncB type="table" tableValues="0.71764705882353 0.25490196078431"></feFuncB><feFuncA type="table" tableValues="1 1"></feFuncA></feComponentTransfer><feComposite in2="SourceGraphic" operator="in"></feComposite></filter></defs></svg><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 0 0" width="0" height="0" focusable="false" role="none" style="visibility: hidden; position: absolute; left: -9999px; overflow: hidden;"><defs><filter id="wp-duotone-blue-red"><feColorMatrix color-interpolation-filters="sRGB" type="matrix" values=" .299 .587 .114 0 0 .299 .587 .114 0 0 .299 .587 .114 0 0 .299 .587 .114 0 0 "></feColorMatrix><feComponentTransfer color-interpolation-filters="sRGB"><feFuncR type="table" tableValues="0 1"></feFuncR><feFuncG type="table" tableValues="0 0.27843137254902"></feFuncG><feFuncB type="table" tableValues="0.5921568627451 0.27843137254902"></feFuncB><feFuncA type="table" tableValues="1 1"></feFuncA></feComponentTransfer><feComposite in2="SourceGraphic" operator="in"></feComposite></filter></defs></svg><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 0 0" width="0" height="0" focusable="false" role="none" style="visibility: hidden; position: absolute; left: -9999px; overflow: hidden;"><defs><filter id="wp-duotone-midnight"><feColorMatrix color-interpolation-filters="sRGB" type="matrix" values=" .299 .587 .114 0 0 .299 .587 .114 0 0 .299 .587 .114 0 0 .299 .587 .114 0 0 "></feColorMatrix><feComponentTransfer color-interpolation-filters="sRGB"><feFuncR type="table" tableValues="0 0"></feFuncR><feFuncG type="table" tableValues="0 0.64705882352941"></feFuncG><feFuncB type="table" tableValues="0 1"></feFuncB><feFuncA type="table" tableValues="1 1"></feFuncA></feComponentTransfer><feComposite in2="SourceGraphic" operator="in"></feComposite></filter></defs></svg><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 0 0" width="0" height="0" focusable="false" role="none" style="visibility: hidden; position: absolute; left: -9999px; overflow: hidden;"><defs><filter id="wp-duotone-magenta-yellow"><feColorMatrix color-interpolation-filters="sRGB" type="matrix" values=" .299 .587 .114 0 0 .299 .587 .114 0 0 .299 .587 .114 0 0 .299 .587 .114 0 0 "></feColorMatrix><feComponentTransfer color-interpolation-filters="sRGB"><feFuncR type="table" tableValues="0.78039215686275 1"></feFuncR><feFuncG type="table" tableValues="0 0.94901960784314"></feFuncG><feFuncB type="table" tableValues="0.35294117647059 0.47058823529412"></feFuncB><feFuncA type="table" tableValues="1 1"></feFuncA></feComponentTransfer><feComposite in2="SourceGraphic" operator="in"></feComposite></filter></defs></svg><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 0 0" width="0" height="0" focusable="false" role="none" style="visibility: hidden; position: absolute; left: -9999px; overflow: hidden;"><defs><filter id="wp-duotone-purple-green"><feColorMatrix color-interpolation-filters="sRGB" type="matrix" values=" .299 .587 .114 0 0 .299 .587 .114 0 0 .299 .587 .114 0 0 .299 .587 .114 0 0 "></feColorMatrix><feComponentTransfer color-interpolation-filters="sRGB"><feFuncR type="table" tableValues="0.65098039215686 0.40392156862745"></feFuncR><feFuncG type="table" tableValues="0 1"></feFuncG><feFuncB type="table" tableValues="0.44705882352941 0.4"></feFuncB><feFuncA type="table" tableValues="1 1"></feFuncA></feComponentTransfer><feComposite in2="SourceGraphic" operator="in"></feComposite></filter></defs></svg><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 0 0" width="0" height="0" focusable="false" role="none" style="visibility: hidden; position: absolute; left: -9999px; overflow: hidden;"><defs><filter id="wp-duotone-blue-orange"><feColorMatrix color-interpolation-filters="sRGB" type="matrix" values=" .299 .587 .114 0 0 .299 .587 .114 0 0 .299 .587 .114 0 0 .299 .587 .114 0 0 "></feColorMatrix><feComponentTransfer color-interpolation-filters="sRGB"><feFuncR type="table" tableValues="0.098039215686275 1"></feFuncR><feFuncG type="table" tableValues="0 0.66274509803922"></feFuncG><feFuncB type="table" tableValues="0.84705882352941 0.41960784313725"></feFuncB><feFuncA type="table" tableValues="1 1"></feFuncA></feComponentTransfer><feComposite in2="SourceGraphic" operator="in"></feComposite></filter></defs></svg>
+<a class="skip-link screen-reader-text" href="#wp--skip-link--target">Перейти к содержимому</a><div class="wp-site-blocks"><header class="site-header wp-block-template-part">
+<div class="wp-block-group alignfull is-style-boxshadow has-black-color has-text-color has-background is-layout-flow" style="background:linear-gradient(135deg,rgb(249,249,249) 21%,rgba(23,22,22,0.31) 100%);border-radius:0px;padding-top:30px;padding-bottom:30px;padding-left:0px">
+<div class="wp-block-group alignwide is-content-justification-space-between is-layout-flex wp-container-6">
+<div class="wp-block-group is-layout-flex wp-container-1"><div class="is-style-default wp-block-site-logo"><a href="https://a-yuga.ru/" class="custom-logo-link" rel="home"><img width="266" height="53" src="https://a-yuga.ru/wp-content/uploads/2022/04/cropped-_без-фона-2-e1650520377930.png" class="custom-logo" alt="ООО УК &quot;Активы Юга&quot;" decoding="async" srcset="https://a-yuga.ru/wp-content/uploads/2022/04/cropped-_без-фона-2-e1650520377930.png 570w, https://a-yuga.ru/wp-content/uploads/2022/04/cropped-_без-фона-2-e1650520377930-300x60.png 300w" sizes="(max-width: 266px) 100vw, 266px"></a></div></div>
+
+
+<nav style="font-size:18px;font-style:normal;font-weight:500;text-transform:capitalize;" class="has-text-color has-primary-color is-responsive items-justified-left no-wrap wp-block-navigation is-horizontal is-content-justification-left is-nowrap is-layout-flex wp-container-3" aria-label="Основное меню"><button aria-haspopup="true" aria-label="Открыть меню" class="wp-block-navigation__responsive-container-open " data-micromodal-trigger="modal-2"><svg width="24" height="24" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" aria-hidden="true" focusable="false"><rect x="4" y="7.5" width="16" height="1.5"></rect><rect x="4" y="15" width="16" height="1.5"></rect></svg></button>
+			<div class="wp-block-navigation__responsive-container  has-text-color has-black-color" style="" id="modal-2">
+				<div class="wp-block-navigation__responsive-close" tabindex="-1" data-micromodal-close="">
+					<div class="wp-block-navigation__responsive-dialog" aria-label="Меню">
+							<button aria-label="Закрыть меню" data-micromodal-close="" class="wp-block-navigation__responsive-container-close"><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" width="24" height="24" aria-hidden="true" focusable="false"><path d="M13 11.8l6.1-6.3-1-1-6.1 6.2-6.1-6.2-1 1 6.1 6.3-6.5 6.7 1 1 6.5-6.6 6.5 6.6 1-1z"></path></svg></button>
+						<div class="wp-block-navigation__responsive-container-content" id="modal-2-content">
+							<ul class="wp-block-navigation__container"><li style="font-size: 18px;" class="has-text-color has-primary-color wp-block-navigation-item has-child open-on-hover-click wp-block-navigation-submenu"><a class="wp-block-navigation-item__content" href="http://a-yuga.ru/company/"><strong>О компании</strong></a><button aria-label="О компании подменю" class="wp-block-navigation__submenu-icon wp-block-navigation-submenu__toggle" aria-expanded="false"><svg xmlns="http://www.w3.org/2000/svg" width="12" height="12" viewBox="0 0 12 12" fill="none" aria-hidden="true" focusable="false"><path d="M1.50002 4L6.00002 8L10.5 4" stroke-width="1.5"></path></svg></button><ul class="wp-block-navigation__submenu-container has-text-color has-black-color wp-block-navigation-submenu"><li style="font-size: 18px;" class=" wp-block-navigation-item wp-block-navigation-link"><a class="wp-block-navigation-item__content" href="http://a-yuga.ru/press-relizy/"><span class="wp-block-navigation-item__label">Пресс-релизы</span></a></li><li style="font-size: 18px;" class=" wp-block-navigation-item wp-block-navigation-link"><a class="wp-block-navigation-item__content" href="http://a-yuga.ru/soobshheniya/"><span class="wp-block-navigation-item__label">Сообщения</span></a></li><li style="font-size: 18px;" class=" wp-block-navigation-item wp-block-navigation-link"><a class="wp-block-navigation-item__content" href="http://a-yuga.ru/chlenstvo-v-sro/"><span class="wp-block-navigation-item__label">Членство в СРО</span></a></li><li style="font-size: 18px;" class=" wp-block-navigation-item wp-block-navigation-link"><a class="wp-block-navigation-item__content" href="http://a-yuga.ru/rekvizity/"><span class="wp-block-navigation-item__label">Реквизиты</span></a></li></ul></li><li style="font-size: 18px;" class="has-text-color has-primary-color wp-block-navigation-item has-child open-on-hover-click wp-block-navigation-submenu"><a class="wp-block-navigation-item__content current-menu-ancestor" href="http://a-yuga.ru/info/"><strong>Раскрытие информации</strong></a><button aria-label="Раскрытие информации подменю" class="wp-block-navigation__submenu-icon wp-block-navigation-submenu__toggle" aria-expanded="false"><svg xmlns="http://www.w3.org/2000/svg" width="12" height="12" viewBox="0 0 12 12" fill="none" aria-hidden="true" focusable="false"><path d="M1.50002 4L6.00002 8L10.5 4" stroke-width="1.5"></path></svg></button><ul class="wp-block-navigation__submenu-container has-text-color has-black-color wp-block-navigation-submenu"><li style="font-size: 18px;" class=" wp-block-navigation-item wp-block-navigation-link"><a class="wp-block-navigation-item__content" href="http://a-yuga.ru/dokumenty/"><span class="wp-block-navigation-item__label">Документы</span></a></li><li style="font-size: 18px;" class=" wp-block-navigation-item wp-block-navigation-link"><a class="wp-block-navigation-item__content" href="http://a-yuga.ru/licenzii/"><span class="wp-block-navigation-item__label">Лицензии</span></a></li><li style="font-size: 18px;" class="has-text-color has-primary-color wp-block-navigation-item has-child open-on-hover-click wp-block-navigation-submenu"><a class="wp-block-navigation-item__content current-menu-ancestor" href="http://a-yuga.ru/otchetnost/"><strong>Отчетность</strong></a><button aria-label="Отчетность подменю" class="wp-block-navigation__submenu-icon wp-block-navigation-submenu__toggle" aria-expanded="false"><svg xmlns="http://www.w3.org/2000/svg" width="12" height="12" viewBox="0 0 12 12" fill="none" aria-hidden="true" focusable="false"><path d="M1.50002 4L6.00002 8L10.5 4" stroke-width="1.5"></path></svg></button><ul class="wp-block-navigation__submenu-container has-text-color has-black-color wp-block-navigation-submenu"><li style="font-size: 18px;" class=" wp-block-navigation-item wp-block-navigation-link"><a class="wp-block-navigation-item__content" href="http://a-yuga.ru/godovaya-otchetnost/"><span class="wp-block-navigation-item__label">Годовая отчетность</span></a></li><li style="font-size: 18px;" class=" wp-block-navigation-item wp-block-navigation-link"><a class="wp-block-navigation-item__content" href="http://a-yuga.ru/promezhutochnaya-otchetnost/"><span class="wp-block-navigation-item__label">Промежуточная отчетность</span></a></li><li style="font-size: 18px;" class=" wp-block-navigation-item current-menu-item wp-block-navigation-link"><a class="wp-block-navigation-item__content" href="http://a-yuga.ru/raschet-razmera-sobstvennyh-sredstv/" aria-current="page"><span class="wp-block-navigation-item__label">Расчет размера собственных средств</span></a></li></ul></li><li style="font-size: 18px;" class=" wp-block-navigation-item wp-block-navigation-link"><a class="wp-block-navigation-item__content" href="http://a-yuga.ru/struktura-sobstvennosti/"><span class="wp-block-navigation-item__label">Структура собственности</span></a></li></ul></li><li style="font-size: 18px;" class=" wp-block-navigation-item wp-block-navigation-link"><a class="wp-block-navigation-item__content" href="http://a-yuga.ru/zakrytye-paevye-investitsionnye-fondy/"><span class="wp-block-navigation-item__label"><strong>Паевые фонды</strong></span></a></li><li style="font-size: 18px;" class=" wp-block-navigation-item wp-block-navigation-link"><a class="wp-block-navigation-item__content" href="http://a-yuga.ru/contact/"><span class="wp-block-navigation-item__label">Контакты</span></a></li></ul>
+						</div>
+					</div>
+				</div>
+			</div></nav>
+
+
+<div class="wp-block-columns are-vertically-aligned-bottom is-layout-flex wp-container-5">
+<div class="wp-block-column is-vertically-aligned-bottom is-layout-flow" style="padding-top:0px;padding-right:0px;padding-bottom:0px;padding-left:0px;flex-basis:100%">
+<h5 class="has-x-small-font-size wp-block-heading" style="margin-top:5px;margin-right:5px;margin-bottom:5px;margin-left:5px"><a href="tel:+78612900031" data-type="tel" data-id="tel:+78612900031"><mark style="background-color:rgba(0, 0, 0, 0);color:#ef0000" class="has-inline-color">8 (861) 290 00 31</mark></a></h5>
+
+
+
+<h5 class="has-x-small-font-size wp-block-heading" style="margin-top:5px;margin-right:5px;margin-bottom:5px;margin-left:5px"><mark style="background-color:rgba(0, 0, 0, 0);color:#ef0000" class="has-inline-color"><a href="mailto:info@a-yuga.ru">info@a-yuga.ru</a></mark></h5>
+</div>
+</div>
+</div>
+</div>
+</header>
+
+
+<main class="wp-block-group site-content is-style-boxshadow has-background is-layout-flow wp-container-15" style="background:linear-gradient(160deg,rgba(255,255,255,0) 0%,rgba(255,255,255,0.58) 14%,rgba(0,0,0,0) 93%);padding-top:50px;padding-right:50px;padding-bottom:100px;padding-left:50px" id="wp--skip-link--target">
+<div class="wp-block-columns is-layout-flex wp-container-14">
+<div class="wp-block-column is-layout-flow" style="padding-top:5px;padding-right:5%;padding-bottom:5px;padding-left:5px;flex-basis:350px"><h2 class="wp-block-post-title has-small-font-size">Расчет размера собственных средств:</h2></div>
+
+
+
+<div class="wp-block-column post-content is-layout-flow" style="flex-basis:60%"><div class="entry-content wp-block-post-content is-layout-flow">
+<div class="wp-block-columns is-layout-flex wp-container-11">
+<div class="wp-block-column is-layout-flow" style="flex-basis:100%">
+<figure class="wp-block-table is-style-stripes"><table><tbody><tr><td></td><td class="has-text-align-center" data-align="center">дата и время публикации</td></tr><tr><td><a href="https://a-yuga.ru/wp-content/uploads/2023/SS/SS_310523.pdf">Расчет размера собственных средств на 31.05.2023</a></td><td class="has-text-align-center" data-align="center">14.06.2023г. 10:45</td></tr><tr><td><a href="https://a-yuga.ru/wp-content/uploads/2023/SS/SS_300423.pdf">Расчет размера собственных средств на 30.04.2023г.</a></td><td class="has-text-align-center" data-align="center">18.05.2023г. 13:42</td></tr><tr><td><a href="https://a-yuga.ru/wp-content/uploads/2023/SS/SS_310323.pdf">Расчет размера собственных средств на 31.03.2023г.</a></td><td class="has-text-align-center" data-align="center">14.04.2023г. 11:15</td></tr><tr><td><a href="https://a-yuga.ru/wp-content/uploads/2023/SS/SS_280223.pdf">Расчет размера собственных средств на 28.02.2023г.</a></td><td class="has-text-align-center" data-align="center">14.03.2023г. 11:44</td></tr><tr><td><a href="https://a-yuga.ru/wp-content/uploads/2023/SS/SS_310123.pdf">Расчет размера собственных средств на 31.01.2023г.</a></td><td class="has-text-align-center" data-align="center">13.02.2023г. 13:17</td></tr><tr><td><a rel="noreferrer noopener" href="https://a-yuga.ru/wp-content/uploads/2023/01/RSS_311222.pdf" target="_blank">Ра</a><a href="https://a-yuga.ru/wp-content/uploads/2023/SS/SS_311222.pdf" data-type="URL" target="_blank" rel="noreferrer noopener">счет размера собственных средств на 31.12.2</a><a rel="noreferrer noopener" href="https://a-yuga.ru/wp-content/uploads/2023/01/RSS_311222.pdf" target="_blank">022г.</a></td><td class="has-text-align-center" data-align="center">20.01.2023г. 11:45</td></tr></tbody></table></figure>
+
+
+
+<div class="wp-block-group is-layout-constrained"></div>
+</div>
+</div>
+</div></div>
+</div>
+</main>
+
+
+<footer class="site-footer wp-block-template-part">
+<div class="wp-block-group alignfull has-x-small-font-size is-style-boxshadow has-border-color has-secondary-border-color has-secondary-color has-text-color has-background has-link-color wp-elements-6ba6b97c499805f14b02f1e747f990e4 is-layout-constrained wp-container-22" style="background:linear-gradient(180deg,rgba(44,44,44,0.4) 0%,rgb(13,1,1) 74%);padding-top:3vh;padding-right:40px;padding-bottom:3px;padding-left:40px">
+<div class="wp-block-group alignfull is-layout-flow">
+<p style="font-size:12px">* В соответствии с Указанием Банка России от 02.11.2020 №5609-У «О раскрытии, распространении и предоставлении информации акционерными инвестиционными фондами и управляющими компаниями инвестиционных фондов, паевых инвестиционных фондов и негосударственных пенсионных фондов, а также о требованиях к расчету доходности инвестиционной деятельности акционерного инвестиционного фонда и управляющей компании паевого инвестиционного фонда» и иными Федеральными законами и нормативными актами.</p>
+
+
+
+<p style="font-size:12px">Незаконное использование логотипа и знака обслуживания компании преследуется по закону. Документы, заявления и предложения, сделанные на настоящем сайте, действительны на момент их раскрытия.</p>
+
+
+
+<p style="font-size:12px">Инвестиционные паи Фонда предназначены для квалифицированных инвесторов. Информация адресована квалифицированным инвесторам. В соответствии с п. 3 ст. 51 Федерального закона от 29.11.2001г. № 156-ФЗ «Об инвестиционных фондах» не допускается распространение информации о паевом инвестиционном фонде, инвестиционные паи которого ограничены в обороте, за исключением случаев ее раскрытия в соответствии с федеральными законами.</p>
+
+
+
+<p style="font-size:12px">Стоимость инвестиционных паев может увеличиваться и уменьшаться. Результаты инвестирования в прошлом не определяют доходы в будущем. Государство не гарантирует доходность инвестиций в инвестиционные фонды. Прежде чем приобрести инвестиционный пай, следует внимательно ознакомиться с правилами доверительного управления паевым инвестиционным фондом.</p>
+
+
+
+<p style="font-size:12px">Получить подробную информацию о Фонде, ознакомиться с правилами доверительного управления и иными документами, подлежащими предоставлению в соответствии с действующим законодательством, можно по адресу <mark style="background-color:rgba(0, 0, 0, 0);color:#e10000" class="has-inline-color">350024, КРАСНОДАРСКИЙ КРАЙ, Г.О. ГОРОД КРАСНОДАР, Г КРАСНОДАР, УЛ ИМ. ПЕТРА МЕТАЛЬНИКОВА, Д. 42, ПОМЕЩ. 173</mark><mark style="background-color:rgba(0, 0, 0, 0);color:#e00000" class="has-inline-color"> </mark>или по телефону<strong> <mark style="background-color:rgba(0, 0, 0, 0);color:#ef0000" class="has-inline-color">+7 (861) 290 00 31</mark></strong>, в сети Интернет на сайте Управляющей компании по адресу: <strong><mark style="background-color:rgba(0, 0, 0, 0);color:#ef0000" class="has-inline-color">a-yuga.ru</mark></strong></p>
+
+
+
+<div class="wp-block-columns is-layout-flex wp-container-20">
+<div class="wp-block-column is-layout-flow">
+<p class="has-text-align-center" style="font-size:28px"><a href="tel:+78612900031" data-type="tel" data-id="tel:+78612900031"><mark style="background-color:rgba(0, 0, 0, 0);color:#ef0000" class="has-inline-color">8 (861) 290-00-31</mark></a></p>
+</div>
+
+
+
+<div class="wp-block-column is-layout-flow">
+<p class="has-text-align-center">НАПИШИТЕ НАМ: <a href="mailto:INFO@A-YUGA.RU" data-type="mailto" data-id="mailto:INFO@A-YUGA.RU">INFO@A-YUGA.RU</a></p>
+</div>
+
+
+
+<div class="wp-block-column is-layout-flow"><div class="wp-duotone-rgb23900-rgba240000-18 aligncenter is-style-default wp-block-site-logo"><a href="https://a-yuga.ru/" class="custom-logo-link" rel="home"><img loading="lazy" width="269" height="53" src="https://a-yuga.ru/wp-content/uploads/2022/04/cropped-_без-фона-2-e1650520377930.png" class="custom-logo" alt="ООО УК &quot;Активы Юга&quot;" decoding="async" srcset="https://a-yuga.ru/wp-content/uploads/2022/04/cropped-_без-фона-2-e1650520377930.png 570w, https://a-yuga.ru/wp-content/uploads/2022/04/cropped-_без-фона-2-e1650520377930-300x60.png 300w" sizes="(max-width: 269px) 100vw, 269px"></a></div></div>
+</div>
+</div>
+</div>
+</footer></div>
+
+		<style id="skip-link-styles">
+		.skip-link.screen-reader-text {
+			border: 0;
+			clip: rect(1px,1px,1px,1px);
+			clip-path: inset(50%);
+			height: 1px;
+			margin: -1px;
+			overflow: hidden;
+			padding: 0;
+			position: absolute !important;
+			width: 1px;
+			word-wrap: normal !important;
+		}
+
+		.skip-link.screen-reader-text:focus {
+			background-color: #eee;
+			clip: auto !important;
+			clip-path: none;
+			color: #444;
+			display: block;
+			font-size: 1em;
+			height: auto;
+			left: 5px;
+			line-height: normal;
+			padding: 15px 23px 14px;
+			text-decoration: none;
+			top: 5px;
+			width: auto;
+			z-index: 100000;
+		}
+	</style>
+		<script>
+	( function() {
+		var skipLinkTarget = document.querySelector( 'main' ),
+			sibling,
+			skipLinkTargetID,
+			skipLink;
+
+		// Early exit if a skip-link target can't be located.
+		if ( ! skipLinkTarget ) {
+			return;
+		}
+
+		// Get the site wrapper.
+		// The skip-link will be injected in the beginning of it.
+		sibling = document.querySelector( '.wp-site-blocks' );
+
+		// Early exit if the root element was not found.
+		if ( ! sibling ) {
+			return;
+		}
+
+		// Get the skip-link target's ID, and generate one if it doesn't exist.
+		skipLinkTargetID = skipLinkTarget.id;
+		if ( ! skipLinkTargetID ) {
+			skipLinkTargetID = 'wp--skip-link--target';
+			skipLinkTarget.id = skipLinkTargetID;
+		}
+
+		// Create the skip link.
+		skipLink = document.createElement( 'a' );
+		skipLink.classList.add( 'skip-link', 'screen-reader-text' );
+		skipLink.href = '#' + skipLinkTargetID;
+		skipLink.innerHTML = 'Перейти к содержимому';
+
+		// Inject the skip link.
+		sibling.parentElement.insertBefore( skipLink, sibling );
+	}() );
+	</script>
+	<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 0 0" width="0" height="0" focusable="false" role="none" style="visibility: hidden; position: absolute; left: -9999px; overflow: hidden;"><defs><filter id="wp-duotone-rgb23900-rgba240000-18"><feColorMatrix color-interpolation-filters="sRGB" type="matrix" values=" .299 .587 .114 0 0 .299 .587 .114 0 0 .299 .587 .114 0 0 .299 .587 .114 0 0 "></feColorMatrix><feComponentTransfer color-interpolation-filters="sRGB"><feFuncR type="table" tableValues="0.93725490196078 0.94117647058824"></feFuncR><feFuncG type="table" tableValues="0 0"></feFuncG><feFuncB type="table" tableValues="0 0"></feFuncB><feFuncA type="table" tableValues="1 0"></feFuncA></feComponentTransfer><feComposite in2="SourceGraphic" operator="in"></feComposite></filter></defs></svg><script src="https://a-yuga.ru/wp-includes/js/hoverIntent.min.js?ver=1.10.2" id="hoverIntent-js"></script>
+<script id="megamenu-js-extra">
+var megamenu = {"timeout":"300","interval":"100"};
+</script>
+<script src="https://a-yuga.ru/wp-content/plugins/megamenu/js/maxmegamenu.js?ver=2.9.6" id="megamenu-js"></script>
+
+

@@ -1,0 +1,35 @@
+{% extends 'selfcare_base.html' %}
+{% load static %}
+{% block content %}
+<div class="container">
+{% for group in content %}
+	<div class="row pt-5">
+		<div class="col-12">
+			<h2>{{group.name}}</h2>
+		</div>
+	</div>
+	<div class="row">
+		<div class="card-group">
+		{% for device in group.devices %}
+		<div class="row">
+		<div class="col">
+			<div class="card h-100">
+						<a href="{{device.get_absolute_url}}">
+				<div class="row card-body">
+					<div class="col">
+							<img src="{% static device.logo %}" class="border-0 card-img-bottom">
+					</div>
+					<div class="col">
+						<h3 class="card-title">{{device.name}}</h3>
+					</div>
+				</div>
+						</a>
+			</div>
+		</div>
+		</div>
+		{% endfor %}
+		</div>
+	</div>
+{% endfor %}
+</div>
+{% endblock %}

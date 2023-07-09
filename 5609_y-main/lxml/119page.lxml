@@ -1,0 +1,428 @@
+
+<!-- Roistat-->
+     <div class="b-page" style="display: block;">
+    <div class="b-page__container ">
+      <header class="b-header b-header--white">
+        <div class="b-header__container b-page__container">
+                        <a href="/" class="b-header__logo"><i class="icon icon-logo"></i></a>
+                    
+      
+	<div class="b-header-search">
+		<a href="/search" class="b-header__nav-item"><span>Поиск</span></a>
+		<i class="fas fa-search"></i>
+    </div>
+	<div class="b-header-menu-lk">
+      <a href="//lk.tfg.ru" target="_blank" class="b-header__nav-item" onclick="ga('send', 'event', 'button', 'click', 'personalarea'); yaCounter36813210.reachGoal('clicklk'); return true;"><span>Личный кабинет</span></a>
+    </div>
+    <div class="b-header__menu">
+      Меню
+      <div class="b-header__menu-strips">
+          <span class="b-header__menu-strip b-header__menu-strip--1"></span>
+          <span class="b-header__menu-strip b-header__menu-strip--2"></span>
+          <span class="b-header__menu-strip b-header__menu-strip--3"></span>
+      </div>
+    </div>
+    <nav class="b-header__nav">
+      <div class="b-header__nav-wrapper">
+        <div class="b-header__nav-wrapper-col b-header__nav-wrapper-col--1">			<a href="/o-kompanii/svedeniya-ob-uk" class="b-header__nav-item">
+              <span class="b-header__nav-item-text ">О компании</span>
+            </a>        
+        			<a href="/press-centr/" class="b-header__nav-item">
+              <span class="b-header__nav-item-text ">Пресс-центр</span>
+            </a>        
+        			<a href="/press-centr/novosti/" class="b-header__nav-item">
+              <span class="b-header__nav-item-text ">Новости</span>
+            </a>        
+        </div><div class="b-header__nav-wrapper-col b-header__nav-wrapper-col--2">			<a href="/kontakty/" onclick="ga('send', 'event', 'button', 'click', 'contact'); yaCounter36813210.reachGoal('contact'); return true;" class="b-header__nav-item">
+              <span class="b-header__nav-item-text ">Контакты</span>
+            </a>        
+        			<a href="/pensionnye-sredstva/" class="b-header__nav-item">
+              <span class="b-header__nav-item-text ">Пенсионные средства</span>
+            </a>        
+        			<a href="/doveritelnoe-upravlenie/" class="b-header__nav-item">
+              <span class="b-header__nav-item-text ">Доверительное управление</span>
+            </a>        
+        </div><div class="b-header__nav-wrapper-col b-header__nav-wrapper-col--3">			<a href="/paevye-fondy/" class="b-header__nav-item">
+              <span class="b-header__nav-item-text ">Паевые фонды</span>
+            </a>        
+        			<a href="/zakupki/" class="b-header__nav-item">
+              <span class="b-header__nav-item-text ">Закупки</span>
+            </a>        
+        			<a href="/pvo/" class="b-header__nav-item">
+              <span class="b-header__nav-item-text ">Представитель владельцев облигаций</span>
+            </a>        
+        </div><div class="b-header__nav-wrapper-col b-header__nav-wrapper-col--4">			<a href="/raskrytie-informatsii/" class="b-header__nav-item">
+              <span class="b-header__nav-item-text ">Раскрытие информации**</span>
+            </a>        
+        </div>      </div>
+    </nav>
+    
+        </div>
+      </header>   
+            <div class="b-content ">
+                    <h1 class="b-content__h1">Расчет<br>собственных средств</h1>
+                                                   
+                            
+    <div class="b-content__sidebar">
+      <div class="b-content__nav">
+                            <a href="/raschet-sobstvennyh-sredstv/2023/" class="b-content__nav__item b-content__nav__item--active">2023</a>
+                                    <a href="/raschet-sobstvennyh-sredstv/2022/" class="b-content__nav__item ">2022</a>
+                                    <a href="/raschet-sobstvennyh-sredstv/2021/" class="b-content__nav__item ">2021</a>
+                                    <a href="/raschet-sobstvennyh-sredstv/2020/" class="b-content__nav__item ">2020</a>
+                                    <a href="/raschet-sobstvennyh-sredstv/2019/" class="b-content__nav__item ">2019</a>
+                                    <a href="/raschet-sobstvennyh-sredstv/2018/" class="b-content__nav__item ">2018</a>
+                                    <a href="/raschet-sobstvennyh-sredstv/2017/" class="b-content__nav__item ">2017</a>
+                                    <a href="/raschet-sobstvennyh-sredstv/2016/" class="b-content__nav__item ">2016</a>
+                                    <a href="/raschet-sobstvennyh-sredstv/2015/" class="b-content__nav__item ">2015</a>
+                                    <a href="/raschet-sobstvennyh-sredstv/2014/" class="b-content__nav__item ">2014</a>
+                      </div>
+    </div> 
+ 
+                                
+<div class="b-content__col">
+    <h2 class="b-content__col__title hidden-mobile">Расчет размера собственных <br>средств за 2023 год</h2>
+            
+        <div class="b-content__table">
+            <div class="b-content__table__row">
+                <div class="b-content__table__col"><div class="b-content__table__title">МАЙ</div></div>
+                <div class="b-content__table__col hidden-mobile"><div class="b-content__table__text">Опубликовано</div></div>
+                <div class="b-content__table__col hidden-mobile"><div class="b-content__table__text">Доступно до</div></div>
+            </div>
+                                            <div class="b-content__table__row" id="bx_3218110189_6095">
+                  <div class="b-content__table__col">
+                    <a href="/upload/iblock/009/h3fn6r7zcir61cx0tu074hea4oc4i79z/Отчет 20230531-1.pdf" class="b-content__table__link b-content__table__link--pdf">Расчет собственных средств на 31.05.2023 г.</a>
+                  </div>
+                  <div class="b-content__table__col hidden-mobile">
+                    <div class="b-content__table__text">
+                                                    16.06.2023    
+                            <br>
+                            12:50  
+                                            </div>
+                  </div>
+                  <div class="b-content__table__col hidden-mobile">
+                    <div class="b-content__table__text">
+                                                    3 года с даты раскрытия                                            </div>
+                  </div>
+                </div>
+                      </div>
+            
+        <div class="b-content__table">
+            <div class="b-content__table__row">
+                <div class="b-content__table__col"><div class="b-content__table__title">АПРЕЛЬ</div></div>
+                <div class="b-content__table__col hidden-mobile"><div class="b-content__table__text">Опубликовано</div></div>
+                <div class="b-content__table__col hidden-mobile"><div class="b-content__table__text">Доступно до</div></div>
+            </div>
+                                            <div class="b-content__table__row" id="bx_3218110189_6072">
+                  <div class="b-content__table__col">
+                    <a href="/upload/iblock/005/zvlbsj3223y5goa4gnnhc349fjqoj9dt/отчет 20230430-1.pdf" class="b-content__table__link b-content__table__link--pdf">Расчет собственных средств на 30.04.2023 г.</a>
+                  </div>
+                  <div class="b-content__table__col hidden-mobile">
+                    <div class="b-content__table__text">
+                                                    18.05.2023    
+                            <br>
+                            17:19  
+                                            </div>
+                  </div>
+                  <div class="b-content__table__col hidden-mobile">
+                    <div class="b-content__table__text">
+                                                    3 года с даты раскрытия                                            </div>
+                  </div>
+                </div>
+                      </div>
+            
+        <div class="b-content__table">
+            <div class="b-content__table__row">
+                <div class="b-content__table__col"><div class="b-content__table__title">МАРТ</div></div>
+                <div class="b-content__table__col hidden-mobile"><div class="b-content__table__text">Опубликовано</div></div>
+                <div class="b-content__table__col hidden-mobile"><div class="b-content__table__text">Доступно до</div></div>
+            </div>
+                                            <div class="b-content__table__row" id="bx_3218110189_6009">
+                  <div class="b-content__table__col">
+                    <a href="/upload/iblock/f63/cthaumgyqxktbf05byn9hgscpnacpp91/rss_2023_03_31.pdf" class="b-content__table__link b-content__table__link--pdf">Расчет собственных средств на 31.03.2023 г.</a>
+                  </div>
+                  <div class="b-content__table__col hidden-mobile">
+                    <div class="b-content__table__text">
+                                                    14.04.2023    
+                            <br>
+                            14:59  
+                                            </div>
+                  </div>
+                  <div class="b-content__table__col hidden-mobile">
+                    <div class="b-content__table__text">
+                                                    3 года с даты раскрытия                                            </div>
+                  </div>
+                </div>
+                      </div>
+            
+        <div class="b-content__table">
+            <div class="b-content__table__row">
+                <div class="b-content__table__col"><div class="b-content__table__title">ФЕВРАЛЬ</div></div>
+                <div class="b-content__table__col hidden-mobile"><div class="b-content__table__text">Опубликовано</div></div>
+                <div class="b-content__table__col hidden-mobile"><div class="b-content__table__text">Доступно до</div></div>
+            </div>
+                                            <div class="b-content__table__row" id="bx_3218110189_5946">
+                  <div class="b-content__table__col">
+                    <a href="/upload/iblock/43e/mja6uhgbtsd9su5z593x5yny7ett0hxz/rss_2023_02_28.pdf" class="b-content__table__link b-content__table__link--pdf">Расчет собственных средств на 28.02.2023 г.</a>
+                  </div>
+                  <div class="b-content__table__col hidden-mobile">
+                    <div class="b-content__table__text">
+                                                    15.03.2023    
+                            <br>
+                            17:53  
+                                            </div>
+                  </div>
+                  <div class="b-content__table__col hidden-mobile">
+                    <div class="b-content__table__text">
+                                                    бессрочно                                            </div>
+                  </div>
+                </div>
+                      </div>
+            
+        <div class="b-content__table">
+            <div class="b-content__table__row">
+                <div class="b-content__table__col"><div class="b-content__table__title">ЯНВАРЬ</div></div>
+                <div class="b-content__table__col hidden-mobile"><div class="b-content__table__text">Опубликовано</div></div>
+                <div class="b-content__table__col hidden-mobile"><div class="b-content__table__text">Доступно до</div></div>
+            </div>
+                                            <div class="b-content__table__row" id="bx_3218110189_5911">
+                  <div class="b-content__table__col">
+                    <a href="/upload/iblock/290/w8e22ixdpoh7rrqztrol8w9589dy13c7/rss_2023_01_31.pdf" class="b-content__table__link b-content__table__link--pdf">Расчет собственных средств на 31.01.2023 г.</a>
+                  </div>
+                  <div class="b-content__table__col hidden-mobile">
+                    <div class="b-content__table__text">
+                                                    14.02.2023    
+                            <br>
+                            16:05  
+                                            </div>
+                  </div>
+                  <div class="b-content__table__col hidden-mobile">
+                    <div class="b-content__table__text">
+                                                    бессрочно                                            </div>
+                  </div>
+                </div>
+                      </div>
+      
+</div>
+</div>
+ 
+    </div>
+<footer class="b-footer">
+  <div class="b-page__container">
+    <div class="b-footer__row">
+        
+    <div class="b-footer__col">
+        <a class="b-footer__title">О КОМПАНИИ</a>    
+                    <a href="/o-kompanii/svedeniya-ob-uk" class="b-footer__nav-item ">Сведения об УК</a>
+                    <a href="/o-kompanii/istorija/" class="b-footer__nav-item ">История</a>
+                    <a href="/o-kompanii/reytingi-i-nagrady/" class="b-footer__nav-item ">Рейтинги и награды</a>
+                    <a href="/o-kompanii/karera/" class="b-footer__nav-item ">Карьера</a>
+                    <a href="/press-centr/" class="b-footer__nav-item ">Пресс-центр</a>
+                    <a href="/kontakty/" class="b-footer__nav-item ">Контакты</a>
+            </div>
+        
+    <div class="b-footer__col">
+        <a class="b-footer__title">РАСКРЫТИЕ ИНФОРМАЦИИ</a>    
+                    <a href="/oficialnaja-informacija/prochaya-informatsiya/" class="b-footer__nav-item ">Информация о технических сбоях</a>
+                    <a href="https://tfg.ru/oficialnaja-informacija/otchetnost-uk/" class="b-footer__nav-item ">Отчетность УК</a>
+                    <a href="https://tfg.ru/raschet-sobstvennyh-sredstv/" class="b-footer__nav-item ">Расчет собственных средств</a>
+                    <a href="http://www.tfg.ru/oficialnaja-informacija/prochaya-informatsiya/#bx_3218110189_579" class="b-footer__nav-item ">Регламент признания лиц квалифицированными инвесторами</a>
+                    <a href="http://www.tfg.ru/oficialnaja-informacija/prochaya-informatsiya/#bx_3218110189_680" class="b-footer__nav-item ">Порядок ЭДО</a>
+                    <a href="https://tfg.ru/oficialnaja-informacija/prochaya-informatsiya/#link_3921" class="b-footer__nav-item ">Раскрытие информации в соответствии с Указанием Банка России от 28.12.2015 N 3921-У</a>
+                    <a href="https://tfg.ru/oficialnaja-informacija/prochaya-informatsiya/#link_5609" class="b-footer__nav-item ">Раскрытие информации в соответствии с Указанием Банка России от 02.11.2020 № 5609-У</a>
+                    <a href="http://www.tfg.ru/oficialnaja-informacija/prochaya-informatsiya/#link_482" class="b-footer__nav-item ">Документы управляющего, разработанные в соответствии с Положением Банка России от 03.08.2015 г. №482-П</a>
+            </div>
+          
+    <div class="b-footer__col">
+                    <div><a href="/doveritelnoe-upravlenie/" class="b-footer__title b-footer__title--underline ">ДОВЕРИТЕЛЬНОЕ УПРАВЛЕНИЕ</a></div>
+                    <div><a href="/pensionnye-sredstva/" class="b-footer__title b-footer__title--underline ">ПЕНСИОННЫЕ СРЕДСТВА</a></div>
+                    <div><a href="/paevye-fondy/" class="b-footer__title b-footer__title--underline ">ПАЕВЫЕ ФОНДЫ</a></div>
+            </div>
+      <div class="b-footer__col">
+        <a href="tell:+74957729742" class="b-footer__title b-footer__phone">+7 (495) 772-97-42</a>
+ <a href="tell:+74959807870" class="b-footer__title b-footer__phone">+7 (495) 980-78-70</a>        <a href="mailto:tfg@tfgroup.ru" class="b-footer__nav-item b-footer__email">tfg@tfg.ru</a>      </div>
+    </div>
+    <div class="b-footer__text">
+        <p>
+</p>
+<h3></h3>
+<h3></h3>
+<p style="text-align: justify;">
+</p>
+<p>
+</p>
+<p style="text-align: justify;">
+	<span style="font-family: Verdana; font-size: 18pt; color: #000000;">Стоимость инвестиционных паев может увеличиваться и уменьшаться, результаты инвестирования в прошлом не определяют доходы в будущем, государство не гарантирует доходность инвестиций в паевые инвестиционные фонды. Прежде чем приобрести инвестиционный пай, следует внимательно ознакомиться с правилами доверительного управления Фондами. Получить информацию о Фондах и ознакомиться с правилами доверительного управления Фондами, с иными документами, предусмотренными Федеральным законом «Об инвестиционных фондах» и нормативными актами в сфере финансовых рынков можно по адресу: 107078, Россия, г. Москва, ул. Маши Порываевой, д. 34, помещение II, по телефонам 8-495-772-97-42, 8-495-980-78-70 или в сети Интернет по адресу&nbsp;</span><a href="http://www.tfg.ru/"><span style="font-family: Verdana; font-size: 18pt; color: #000000;">www.tfg.ru</span></a><span style="font-family: Verdana; font-size: 18pt; color: #000000;">&nbsp;(за исключением Фондов, инвестиционные паи которых ограничены в обороте). </span><span style="color: #000000;"> </span>
+</p>
+<p style="text-align: justify;">
+ <span style="color: #000000;"> </span><span style="font-family: Verdana; font-size: 18pt; color: #000000;"> </span><span style="color: #000000;"> </span>
+</p>
+<p style="text-align: justify;">
+ <span style="color: #000000;"> </span><span style="font-family: Verdana; font-size: 18pt; color: #000000;">
+	Акционерное общество «Управляющая компания «ТРАНСФИНГРУП» (АО «УК ТФГ») имеет лицензию от 06.11.2001 № 21-000-1-00052 на осуществление деятельности по управлению инвестиционными фондами, паевыми инвестиционными фондами и негосударственными пенсионными фондами, орган, выдавший лицензию: ФКЦБ России, без ограничения срока действия; лицензию от 06.04.2010 № 045-13027-001000 на осуществление деятельности по управлению ценными бумагами, орган, выдавший лицензию: ФСФР России, без ограничения срока действия. </span><span style="color: #000000;"> </span>
+</p>
+<p style="text-align: justify;">
+ <span style="color: #000000;"> </span><span style="font-family: Verdana; font-size: 18pt; color: #000000;"> </span><span style="color: #000000;"> </span>
+</p>
+<p style="text-align: justify;">
+ <span style="color: #000000;"> </span><span style="font-family: Verdana; font-size: 18pt; color: #000000;">
+	Правилами доверительного управления Открытым паевым инвестиционным фондом рыночных финансовых инструментов «ТФГ - Валютные облигации», правилами доверительного управления Открытым паевым инвестиционным фондом рыночных финансовых инструментов «ТФГ – Рублевые облигации» и правилами доверительного управления Открытым паевым инвестиционным фондом рыночных финансовых инструментов&nbsp; «ТФГ – Акции» предусмотрены надбавки к расчетной стоимости инвестиционных паев при их выдаче и скидки с расчетной стоимости инвестиционных паев при их погашении. Взимание надбавок и (или) скидок уменьшает доходность инвестиций в: </span><span style="color: #000000;"> </span>
+</p>
+<p style="text-align: justify;">
+ <span style="color: #000000;"> </span><span style="font-family: Verdana; font-size: 18pt; color: #000000;"> </span><span style="color: #000000;"> </span>
+</p>
+<p style="text-align: justify;">
+ <span style="color: #000000;"> </span><span style="font-family: Verdana; font-size: 18pt; color: #000000;">
+	- инвестиционные паи Открытого паевого инвестиционного фонда рыночных финансовых инструментов «ТФГ - Валютные облигации», </span><span style="color: #000000;"> </span>
+</p>
+<p style="text-align: justify;">
+ <span style="color: #000000;"> </span><span style="font-family: Verdana; font-size: 18pt; color: #000000;"> </span><span style="color: #000000;"> </span>
+</p>
+<p style="text-align: justify;">
+ <span style="color: #000000;"> </span><span style="font-family: Verdana; font-size: 18pt; color: #000000;">
+	- инвестиционные паи Открытого паевого инвестиционного фонда рыночных финансовых инструментов «ТФГ – Рублевые облигации», </span><span style="color: #000000;"> </span>
+</p>
+<p style="text-align: justify;">
+ <span style="color: #000000;"> </span><span style="font-family: Verdana; font-size: 18pt; color: #000000;"> </span><span style="color: #000000;"> </span>
+</p>
+<p style="text-align: justify;">
+ <span style="color: #000000;"> </span><span style="font-family: Verdana; font-size: 18pt; color: #000000;">
+	- инвестиционные паи Открытого паевого инвестиционного фонда рыночных финансовых инструментов «ТФГ – Акции». </span><span style="color: #000000;"> </span>
+</p>
+<p style="text-align: justify;">
+ <span style="color: #000000;"> </span><span style="font-family: Verdana; font-size: 18pt; color: #000000;"> </span><span style="color: #000000;"> </span>
+</p>
+<p style="text-align: justify;">
+ <span style="color: #000000;"> </span><span style="font-family: Verdana; font-size: 18pt; color: #000000;">
+	&nbsp; </span><span style="color: #000000;"> </span>
+</p>
+<p style="text-align: justify;">
+ <span style="color: #000000;"> </span><span style="font-family: Verdana; font-size: 18pt; color: #000000;"> </span><span style="color: #000000;"> </span>
+</p>
+<p style="text-align: justify;">
+ <span style="color: #000000;"> </span><span style="font-family: Verdana; font-size: 18pt; color: #000000;">
+	АО «УК ТФГ» осуществляет доверительное управление активами закрытых паевых инвестиционных фондов, инвестиционные паи которых ограничены в обороте в соответствии с законодательством Российской Федерации. Информация о данных паевых инвестиционных фондах может предоставляться лицам, которым в соответствии с Федеральным законом «О рынке ценных бумаг» может предоставляться информация о ценных бумагах, предназначенных для квалифицированных инвесторов. Паевые инвестиционные фонды под управлением АО «УК ТФГ»: ОПИФ рыночных финансовых инструментов «ТФГ – Валютные облигации» (правила доверительного управления фондом зарегистрированы ФКЦБ России 16.01.2004, №&nbsp;0174-71670299); ОПИФ рыночных финансовых инструментов «ТФГ – Рублевые облигации»(правила доверительного управления фондом зарегистрированы ФСФР России 28.09.2006, №&nbsp;0626-94123756); ОПИФ рыночных финансовых инструментов «ТФГ – Акции» (правила доверительного управления фондом зарегистрированы Банком России за №&nbsp;3247 от 08.11.2016); ЗПИФ комбинированный «Комфортный» (правила доверительного управления фондом зарегистрированы ФСФР России 11.12.2012, № 2500. Инвестиционные паи ограничены в обороте); ЗПИФ комбинированный «ТФГ - Венчурный» (правила доверительного управления фондом зарегистрированы Банком России за №&nbsp;2825 от 10.07.2014. Инвестиционные паи ограничены в обороте); ЗПИФ комбинированный «Технологический» (правила доверительного управления фондом зарегистрированы ФСФР России за №&nbsp;1051-94136869 от 01.11.2007. Инвестиционные паи ограничены в обороте), ЗПИФ смешанных инвестиций «Спектр» (правила доверительного управления фондом зарегистрированы ФСФР России за №&nbsp;1846-94164707 от 22.07.2010), ЗПИФ комбинированный «ТФГ - Перспективный» (правила доверительного управления фондом зарегистрированы Банком России за&nbsp;№ 3733 от 28.05.2019. Инвестиционные паи ограничены в обороте), ЗПИФ комбинированный «ТФГ - Стабильный» (правила доверительного управления фондом зарегистрированы Банком России за №&nbsp;3734 от 28.05.2019. Инвестиционные паи ограничены в обороте), ЗПИФ недвижимости «Енисей» (правила доверительного управления фондом зарегистрированы Банком России за №&nbsp;3757 от 02.07.2019), ЗПИФ комбинированный «Иртыш» (правила доверительного управления фондом зарегистрированы Банком России за №&nbsp;3874 от 04.10.2019. Инвестиционные паи ограничены в обороте), ЗПИФ комбинированный «Амур» (правила доверительного управления фондом зарегистрированы Банком России за №&nbsp;3930 от 26.12.2019. Инвестиционные паи ограничены в обороте), ЗПИФ комбинированный «Кама» (правила доверительного управления фондом зарегистрированы Банком России за №&nbsp;2913 от 23.12.2014. Инвестиционные паи ограничены в обороте), ЗПИФ недвижимости «Печора» (правила доверительного управления фондом зарегистрированы ФСФР России за №&nbsp;2334 от 05.04.2012), ЗПИФ недвижимости «ТФГ – Ангара» (правила доверительного управления фондом зарегистрированы ФСФР России за №&nbsp;0426-78989377 от 24.11.2005), ЗПИФ комбинированный «Ока» (правила доверительного управления фондом зарегистрированы ФСФР России за №&nbsp;0946-94124694 от 06.09.2007. Инвестиционные паи ограничены в обороте), ЗПИФ комбинированный «Десна» (правила доверительного управления фондом согласованы специализированным депозитарием и направлены в Банк России 22.11.2022, внесены в реестр паевых инвестиционных фондов за №&nbsp;5193-СД. Инвестиционные паи ограничены в обороте). </span><span style="color: #000000;"> </span>
+</p>
+<p style="text-align: justify;">
+ <span style="color: #000000;"> </span><span style="font-family: Verdana; font-size: 18pt; color: #000000;"> </span><span style="color: #000000;"> </span>
+</p>
+<p style="text-align: justify;">
+ <span style="color: #000000;"> </span><span style="font-family: Verdana; font-size: 18pt; color: #000000;">
+	Настоящим АО «УК ТФГ» сообщает о совмещении двух видов деятельности: деятельность по управлению инвестиционными фондами, паевыми инвестиционными фондами и негосударственными пенсионными фондами и деятельность профессионального участника рынка ценных бумаг, осуществляющего управление ценными бумагами, и о существовании в связи с этим риска возникновения конфликта интересов. </span><span style="color: #000000;"> </span>
+</p>
+<p style="text-align: justify;">
+ <span style="color: #000000;"> </span><span style="font-family: Verdana; font-size: 18pt; color: #000000;"> </span><span style="color: #000000;"> </span>
+</p>
+<p style="text-align: justify;">
+ <span style="color: #000000;"> </span><span style="font-family: Verdana; font-size: 18pt; color: #000000;"> </span><span style="color: #000000;"> </span>
+</p>
+<p style="text-align: justify;">
+ <span style="color: #000000;"> </span><span style="font-family: Verdana; font-size: 18pt; color: #000000;"> </span><span style="color: #000000;"> </span>
+</p>
+<p style="text-align: justify;">
+ <span style="color: #000000;"> </span><span style="font-family: Verdana; font-size: 18pt; color: #000000;">
+	**Информация, подлежащая раскрытию в соответствии с законодательством, в том числе, согласно Указанию Банка России от 02.11.2020 №&nbsp;5609-У «О раскрытии, распространении и предоставлении информации акционерными инвестиционными фондами и управляющими компаниями инвестиционных фондов, паевых инвестиционных фондов и негосударственных пенсионных фондов, а также о требованиях к расчету доходности инвестиционной деятельности акционерного инвестиционного фонда и управляющей компании паевого инвестиционного фонда».</span><span style="font-family: Verdana; color: #000000;"> </span><span style="color: #000000;"> </span>
+</p>
+<p style="text-align: justify;">
+ <span style="color: #000000;"> </span><span style="font-family: Verdana; color: #000000;"> </span><span style="color: #000000;"> </span>
+</p>
+<p style="text-align: justify;">
+ <span style="color: #000000;"> </span><span style="font-family: Verdana; color: #000000;"> </span><span style="color: #000000; font-family: Verdana;"> </span><span style="font-family: Verdana; color: #000000;"> </span><span style="color: #000000;"> </span>
+</p>
+<p style="text-align: justify;">
+ <span style="color: #000000;"> </span><span style="font-family: Verdana; color: #000000;"> </span><span style="color: #000000; font-family: Verdana;"> </span><span style="font-family: Verdana; color: #000000;"> </span><span style="color: #000000;"> </span>
+</p>
+<p style="text-align: justify;">
+ <span style="color: #000000;"> </span><span style="font-family: Verdana; color: #000000;"> </span><span style="color: #000000; font-family: Verdana;"> </span><span style="font-family: Verdana; font-size: 18pt; color: #000000;">&nbsp;&nbsp;</span><span style="color: #111111; font-family: Verdana;"> </span><span style="font-family: Verdana;"> </span>
+</p>
+<p style="text-align: justify;">
+ <span style="font-family: Verdana;"> </span><span style="color: #111111; font-family: Verdana;"> </span><span style="font-family: Verdana;"> </span>
+</p>
+<p style="text-align: justify;">
+ <span style="font-family: Verdana;"> </span><span style="color: #111111; font-family: Verdana;"> </span><span style="font-family: Verdana;"> </span>
+</p>
+<p style="text-align: justify;">
+ <span style="font-family: Verdana;"> </span><span style="color: #111111; font-family: Verdana;"> </span><span style="font-family: Verdana;"> </span>
+</p>
+<h3 style="text-align: justify;"><span style="color: #111111; font-family: Verdana;"> </span><span style="color: #0000ff;"><span style="color: #111111; font-family: Verdana;">***</span><span style="color: #111111; font-family: Verdana;"> </span><span style="color: #111111; font-family: Verdana;">Данные основаны на информации, предоставленной</span><span style="color: #111111; font-family: Verdana;">&nbsp;</span></span><span style="color: #0000ff;"><a href="http://raexpert.ru/rankingtable/managing/uk_2021/tab01/" target="_blank"><span style="color: #111111; font-family: Verdana;">РА "ЭКСПЕРТ"</span></a></span><span style="color: #111111; font-family: Verdana;"> </span><span style="color: #111111; font-family: Verdana;"> </span><br>
+ <span style="font-family: Verdana;"> </span><span style="color: #111111; font-family: Verdana;"> </span><span style="color: #0000ff;"><span style="color: #111111; font-family: Verdana;"> </span><span style="color: #111111; font-family: Verdana;">****&nbsp;</span></span><span style="color: #111111; font-family: Verdana;">Данные основаны на информации, предоставленной</span><span style="color: #111111; font-family: Verdana;">&nbsp;</span><span style="color: #0000ff;"><a href="http://raexpert.ru/rankingtable/managing/uk_2021/tab08/" target="_blank"><span style="color: #111111; font-family: Verdana;">РА "ЭКСПЕРТ"</span></a></span></h3>
+<p style="text-align: justify;">
+ <span style="font-family: Verdana;"> </span><span style="color: #111111; font-family: Verdana;"> </span><span style="font-family: Verdana;"> </span>
+</p>
+<p style="text-align: justify;">
+ <span style="font-family: Verdana;"> </span><span style="color: #111111; font-family: Verdana;"> </span><br>
+ <span style="font-family: Verdana;"> </span><span style="color: #111111; font-family: Verdana;"> </span><span style="font-family: Verdana;"> </span>
+</p>
+<p style="text-align: justify;">
+ <span style="font-family: Verdana;"> </span><span style="color: #111111; font-family: Verdana;"> </span><br>
+ <span style="font-family: Verdana;"> </span><span style="color: #111111; font-family: Verdana;"> </span><span style="color: #111111; font-family: Verdana;"> </span><span style="color: #111111; font-family: Verdana;"> </span><span style="font-family: Verdana;"> </span>
+</p>
+<p style="text-align: justify;">
+ <span style="font-family: Verdana;"> </span><span style="color: #111111; font-family: Verdana;"> </span><span style="font-family: Verdana; font-size: 18pt; color: #000000;"><br>
+ <span style="color: #111111;"> </span></span><span style="color: #111111; font-family: Verdana;"> </span><span style="font-family: Verdana;"> </span>
+</p>
+<p style="text-align: justify;">
+</p>
+<span style="font-family: Verdana;"> </span><span style="color: #111111;"> </span><span style="font-family: Verdana; font-size: 18pt; color: #000000;"><br>
+ </span>
+<p>
+</p>    </div>
+    <div class="b-footer__copyright">
+      <div>
+        © 2007-2023&nbsp;АО «УК ТФГ»      </div>
+
+      <a href="http://ony.ru/" target="_blank" class="b-footer__dev-by">MADE IN ONY</a>
+    </div>
+  </div>
+</footer>
+
+  </div>
+
+<script type="text/javascript" src="/bitrix/cache/js/s1/main/template_fe7e58ac9a5bf5ee26eff29d8e22b9f2/template_fe7e58ac9a5bf5ee26eff29d8e22b9f2_v1.js?1683892892350179"></script>
+<script type="text/javascript">var _ba = _ba || []; _ba.push(["aid", "d7d22b46ea2434c9f871ba07bbf828f0"]); _ba.push(["host", "tfg.ru"]); (function() {var ba = document.createElement("script"); ba.type = "text/javascript"; ba.async = true;ba.src = (document.location.protocol == "https:" ? "https://" : "http://") + "bitrix.info/ba.js";var s = document.getElementsByTagName("script")[0];s.parentNode.insertBefore(ba, s);})();</script>
+
+
+
+<script src="https://maps.googleapis.com/maps/api/js?key=AIzaSyCo42IFKnJA-8lEorOyCEgF1M70Zia2d28&amp;signed_in=true"></script><script type="text/javascript">
+   (function(m,e,t,r,i,k,a){m[i]=m[i]||function(){(m[i].a=m[i].a||[]).push(arguments)};
+   m[i].l=1*new Date();k=e.createElement(t),a=e.getElementsByTagName(t)[0],k.async=1,k.src=r,a.parentNode.insertBefore(k,a)})
+   (window, document, "script", "https://mc.yandex.ru/metrika/tag.js", "ym");
+
+   ym(55706668, "init", {
+        clickmap:true,
+        trackLinks:true,
+        accurateTrackBounce:true,
+        webvisor:true
+   });
+</script>
+<script type="text/javascript">
+function runOnload(){
+  
+  
+
+    (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+  })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+
+  ga('create', 'UA-2828394-1', 'auto');
+  ga('send', 'pageview');
+  
+    (function (d, w, c) { (w[c] = w[c] || []).push(function() { try { w.yaCounter36813210 = new Ya.Metrika({ id:36813210, clickmap:true, trackLinks:true, accurateTrackBounce:true, webvisor:true }); } catch(e) { } }); var n = d.getElementsByTagName("script")[0], s = d.createElement("script"), f = function () { n.parentNode.insertBefore(s, n); }; s.type = "text/javascript"; s.async = true; s.src = "https://mc.yandex.ru/metrika/watch.js"; if (w.opera == "[object Opera]") { d.addEventListener("DOMContentLoaded", f, false); } else { f(); } })(document, window, "yandex_metrika_callbacks"); 
+  
+(function(w, d, s, h, id) {
+    w.roistatProjectId = id; w.roistatHost = h;
+    var p = d.location.protocol == "https:" ? "https://" : "http://";
+    var u = /^.*roistat_visit=[^;]+(.*)?$/.test(d.cookie) ? "/dist/module.js" : "/api/site/1.0/"+id+"/init";
+    var js = d.createElement(s); js.charset="UTF-8"; js.async = 1; js.src = p+h+u; var js2 = d.getElementsByTagName(s)[0]; js2.parentNode.insertBefore(js, js2);
+})(window, document, 'script', 'cloud.roistat.com', '1a0cbbf0ff4b4cf6948fc070eb948072');
+
+}
+setTimeout(function(){
+  if(window.addEventListener)
+      window.addEventListener("load", runOnload, false);
+      else if (window.attachEvent)
+      window.attachEvent("onload", runOnload);
+      else window.onload = runOnload;
+}, 1000);
+</script>
+

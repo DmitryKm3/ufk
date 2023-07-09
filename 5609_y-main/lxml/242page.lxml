@@ -1,0 +1,566 @@
+
+				<div class="wrapper">
+			<header id="header">
+				<div class="container">
+					<div class="row">
+						<div class="col-sm-4">
+							<a alt="" class="logo" href="//rt-invest.ru">
+								<img alt="" src="/local/templates/main/images/logo.png">
+							</a>
+							<nav class="top-nav">
+								<ul>
+			<li class=""><a href="/">Главная</a></li>
+				<li class=""><a href="/info/">Кто мы</a></li>
+				<li class=""><a href="/branches/">Отрасли и проекты</a></li>
+				<li class=""><a href="/news/">Новости</a></li>
+				<li class=""><a href="/contact/">Контакты</a></li>
+		</ul>							</nav>
+						</div>
+						<div class="col-sm-6 pull-right">
+							<div class="phone">+7 (495) 374-80-54</div>
+													</div>
+					</div>
+				</div>
+			</header>
+
+			<section id="content" class="">
+									<div class="container">
+						<div class="row">
+							<div class="col-md-12">
+								<h1>Официальная информация</h1>
+							</div>
+						</div>
+					</div>
+										<div class="container "> 
+<div class="info-header">
+	<p>Отметьте нужные файлы и нажмите «Скачать»  внизу страницы.</p>
+	<div class="check-all"><input type="checkbox" id="all"><label for="all">Выбрать все</label></div>
+</div>
+
+<form action="" method="post" id="download_docs">
+	<input type="hidden" name="download" value="1">
+			<h2>Информация о структуре и составе акционеров, в том числе о лицах, под контролем либо значительным влиянием которых находится Управляющая компания.  Соответствует информации, направленной в Банк России для размещения на официальном сайте Банка России. </h2>
+		<div class="info-wrapper">
+			<div class="info-box">
+				<ul>
+											<li id="bx_3218110189_463">
+														
+							<input type="checkbox" id="file848" data-size="50" value="848" name="FILE[]">
+							<label for="file848"></label>
+							<em class="icon-txt"></em>
+														<a href="/upload/iblock/0c4/0c4c6c831dc7b24af196594157a03e84.txt" target="_blank">Информация не раскрывается</a>
+							<span class="file_size">(TXT - 50 B)</span>
+						</li>
+										</ul>
+			</div>
+					</div>
+				<h2>Документы компании</h2>
+		<div class="info-wrapper">
+			<div class="info-box">
+				<ul>
+											<li id="bx_3218110189_420">
+														
+							<input type="checkbox" id="file800" data-size="430549" value="800" name="FILE[]">
+							<label for="file800"></label>
+							<em class="icon-pdf"></em>
+														<a href="/upload/iblock/e59/e5948ffc11a88b30dab7b4d59518e827.pdf" target="_blank">Реквизиты компании. Дата публикации 01.10.2021 г. Время публикации: 17:50</a>
+							<span class="file_size">(PDF - 420 kB)</span>
+						</li>
+												<li id="bx_3218110189_280">
+														
+							<input type="checkbox" id="file684" data-size="763865" value="684" name="FILE[]">
+							<label for="file684"></label>
+							<em class="icon-pdf"></em>
+														<a href="/upload/iblock/a19/a199600df5c674e09f6c0badb451fe22.pdf" target="_blank">Положение о критериях отнесения клиентов Акционерного общества "РТ-Инвест" к категории иностранных налогоплательщиков и способы получения от них информации.  Дата публикации 04 сентября 2018 года, время публикации 14:00</a>
+							<span class="file_size">(PDF - 746 kB)</span>
+						</li>
+												<li id="bx_3218110189_225">
+														
+							<input type="checkbox" id="file620" data-size="263255" value="620" name="FILE[]">
+							<label for="file620"></label>
+							<em class="icon-pdf"></em>
+														<a href="/upload/iblock/db6/db6453ed4d4b943195a745d1b312ae93.pdf" target="_blank">Уведомление о реорганизации. Дата публикации 18.04.2017 г. Время публикации 18:00</a>
+							<span class="file_size">(PDF - 257 kB)</span>
+						</li>
+												<li id="bx_3218110189_36">
+														
+							<input type="checkbox" id="file623" data-size="2221709" value="623" name="FILE[]">
+							<label for="file623"></label>
+							<em class="icon-pdf"></em>
+														<a href="/upload/iblock/0f1/0f1838be5527076b594cf1f2279f9b92.pdf" target="_blank">Лицензия на управление инвестиционными, паевыми инвестиционными и негосударственными пенсионными фондами № 21-000-1-00852 от 8 декабря 2011 г.</a>
+							<span class="file_size">(PDF - 2 MB)</span>
+						</li>
+												<li id="bx_3218110189_213" class="hideitem">
+														
+							<input type="checkbox" id="file599" data-size="416044" value="599" name="FILE[]">
+							<label for="file599"></label>
+							<em class="icon-pdf"></em>
+														<a href="/upload/iblock/4d5/4d548dd6fef300d48cdecba3559e1362.pdf" target="_blank">Антикоррупционная политика ООО "РТ-Инвест"</a>
+							<span class="file_size">(PDF - 406 kB)</span>
+						</li>
+										</ul>
+			</div>
+			<a href="#" class="show-all"><span>Показать все</span></a>		</div>
+				<h2>Информация об отсутствии совмещения деятельности по доверительному управлению паевыми инвестиционными фондами и деятельности по управлению ценными бумагами.</h2>
+		<div class="info-wrapper">
+			<div class="info-box">
+				<ul>
+											<li id="bx_3218110189_367">
+														
+							<input type="checkbox" id="file744" data-size="139608" value="744" name="FILE[]">
+							<label for="file744"></label>
+							<em class="icon-pdf"></em>
+														<a href="/upload/iblock/aa2/aa235230c51d6705220d1fe985f81d32.pdf" target="_blank">Информация об отсутствии совмещения деятельности по доверительному управлению паевыми инвестиционными фондами и деятельности по управлению ценными бумагами.</a>
+							<span class="file_size">(PDF - 136 kB)</span>
+						</li>
+										</ul>
+			</div>
+					</div>
+				<h2>Бухгалтерская отчетность</h2>
+		<div class="info-wrapper">
+			<div class="info-box">
+				<ul>
+											<li id="bx_3218110189_561">
+							<span class="info-term">доступен до 30.03.2026</span>							
+							<input type="checkbox" id="file932" data-size="2709222" value="932" name="FILE[]">
+							<label for="file932"></label>
+							<em class="icon-pdf"></em>
+														<a href="/upload/iblock/eda/eda607f888347319d8c1acd3567d1468.pdf" target="_blank">Годовая бухгалтерская (финансовая) отчетность за 2022 год. Дата публикации: 30.03.2023 г. Время публикации: 19:00 </a>
+							<span class="file_size">(PDF - 3 MB)</span>
+						</li>
+												<li id="bx_3218110189_467">
+							<span class="info-term">доступен до 29.04.2025</span>							
+							<input type="checkbox" id="file852" data-size="484688" value="852" name="FILE[]">
+							<label for="file852"></label>
+							<em class="icon-pdf"></em>
+														<a href="/upload/iblock/c2f/c2fb78b1c1eb634df132e2052c0a3c07.pdf" target="_blank">Промежуточная бухгалтерская (финансовая) отчетность за 1 квартал 2022 года. Дата публикации: 29 апреля 2022 г. Время публикации: 20:45 </a>
+							<span class="file_size">(PDF - 473 kB)</span>
+						</li>
+												<li id="bx_3218110189_460">
+							<span class="info-term">доступен до 01.04.2025</span>							
+							<input type="checkbox" id="file845" data-size="12265548" value="845" name="FILE[]">
+							<label for="file845"></label>
+							<em class="icon-pdf"></em>
+														<a href="/upload/iblock/d20/d20e94f2df1d96cf9b26d09f84d4b2a4.pdf" target="_blank">Годовая бухгалтерская (финансовая) отчетность за 2021 г. Дата публикации: 31.03.2022 Время публикации: 11:00</a>
+							<span class="file_size">(PDF - 12 MB)</span>
+						</li>
+												<li id="bx_3218110189_436">
+							<span class="info-term">доступен до 29.10.2024</span>							
+							<input type="checkbox" id="file824" data-size="504236" value="824" name="FILE[]">
+							<label for="file824"></label>
+							<em class="icon-pdf"></em>
+														<a href="/upload/iblock/1a0/1a0c7035376aa488bf0a162170c383f6.pdf" target="_blank">Промежуточная бухгалтерская (финансовая) отчетность за 3 квартал 2021 года. Дата публикации: 29.10.2021 г. Время публикации: 20:30</a>
+							<span class="file_size">(PDF - 492 kB)</span>
+						</li>
+										</ul>
+			</div>
+					</div>
+				<h2>Расчет размера собственных средств</h2>
+		<div class="info-wrapper">
+			<div class="info-box">
+				<ul>
+											<li id="bx_3218110189_574">
+							<span class="info-term">доступен до 10.06.2026</span>							
+							<input type="checkbox" id="file945" data-size="402217" value="945" name="FILE[]">
+							<label for="file945"></label>
+							<em class="icon-pdf"></em>
+														<a href="/upload/iblock/2b5/2b5ac690846c7efcb02ea016b10340a7.pdf" target="_blank">Расчет размера собственных средств по состоянию на 31 мая 2023 г. Время публикации: 12:50. Дата публикации: 09 июня 2023 г</a>
+							<span class="file_size">(PDF - 393 kB)</span>
+						</li>
+												<li id="bx_3218110189_570">
+							<span class="info-term">доступен до 05.05.2026</span>							
+							<input type="checkbox" id="file942" data-size="401819" value="942" name="FILE[]">
+							<label for="file942"></label>
+							<em class="icon-pdf"></em>
+														<a href="/upload/iblock/eb6/eb692de153a26279f297f0150e7bdc80.pdf" target="_blank">Расчет размера собственных средств по состоянию на 30 апреля 2023 г. Время публикации: 17:45. Дата публикации: 05 мая 2023 г</a>
+							<span class="file_size">(PDF - 392 kB)</span>
+						</li>
+												<li id="bx_3218110189_566">
+							<span class="info-term">доступен до 12.04.2026</span>							
+							<input type="checkbox" id="file935" data-size="746339" value="935" name="FILE[]">
+							<label for="file935"></label>
+							<em class="icon-pdf"></em>
+														<a href="/upload/iblock/966/966c07d11a9ae944d82fc4c14e9cb54f.pdf" target="_blank">Расчет размера собственных средств по состоянию на 31 марта 2023 г. Время публикации: 14:25. Дата публикации: 12 апреля 2023 г</a>
+							<span class="file_size">(PDF - 729 kB)</span>
+						</li>
+												<li id="bx_3218110189_559">
+							<span class="info-term">доступен до 17.03.2026</span>							
+							<input type="checkbox" id="file927" data-size="746360" value="927" name="FILE[]">
+							<label for="file927"></label>
+							<em class="icon-pdf"></em>
+														<a href="/upload/iblock/c35/c359be779f62de6b45cdb06916957ea8.pdf" target="_blank">Расчет размера собственных средств по состоянию на 28 февраля 2023 г. Время публикации: 19:00 Дата публикации: 17.03.2023 г.</a>
+							<span class="file_size">(PDF - 729 kB)</span>
+						</li>
+												<li id="bx_3218110189_556" class="hideitem">
+							<span class="info-term">доступен до 03.03.2026</span>							
+							<input type="checkbox" id="file924" data-size="746022" value="924" name="FILE[]">
+							<label for="file924"></label>
+							<em class="icon-pdf"></em>
+														<a href="/upload/iblock/820/82010c2ab4120890ebb3d8e63b82afe6.pdf" target="_blank">Расчет размера собственных средств по состоянию на 31 января 2023 г. Время публикации: 18:40. Дата публикации: 03 марта 2023 г</a>
+							<span class="file_size">(PDF - 729 kB)</span>
+						</li>
+												<li id="bx_3218110189_555" class="hideitem">
+							<span class="info-term">доступен до 03.03.2026</span>							
+							<input type="checkbox" id="file923" data-size="745991" value="923" name="FILE[]">
+							<label for="file923"></label>
+							<em class="icon-pdf"></em>
+														<a href="/upload/iblock/4ad/4adb3226c43fec0ebb94601f82453ed2.pdf" target="_blank">Расчет размера собственных средств по состоянию на 31 декабря 2022 г. Время публикации: 18:40. Дата публикации: 03 марта 2023 г</a>
+							<span class="file_size">(PDF - 729 kB)</span>
+						</li>
+												<li id="bx_3218110189_471" class="hideitem">
+							<span class="info-term">доступен до 25.05.2025</span>							
+							<input type="checkbox" id="file856" data-size="310556" value="856" name="FILE[]">
+							<label for="file856"></label>
+							<em class="icon-pdf"></em>
+														<a href="/upload/iblock/275/27589f0860abdde6326eb7932f7a641a.pdf" target="_blank">Расчет размера собственных средств по состоянию на 30 апреля 2022 г. Время публикации: 16:50. Дата публикации: 24 мая 2022 г</a>
+							<span class="file_size">(PDF - 303 kB)</span>
+						</li>
+												<li id="bx_3218110189_465" class="hideitem">
+							<span class="info-term">доступен до 14.04.2025</span>							
+							<input type="checkbox" id="file850" data-size="310527" value="850" name="FILE[]">
+							<label for="file850"></label>
+							<em class="icon-pdf"></em>
+														<a href="/upload/iblock/f32/f32ba288193eea85351de20236058e57.pdf" target="_blank">Расчет размера собственных средств по состоянию на 31 марта 2022 года. Время публикации: 10:00. Дата публикации: 13.04.2022</a>
+							<span class="file_size">(PDF - 303 kB)</span>
+						</li>
+												<li id="bx_3218110189_457" class="hideitem">
+							<span class="info-term">доступен до 15.03.2025</span>							
+							<input type="checkbox" id="file842" data-size="310527" value="842" name="FILE[]">
+							<label for="file842"></label>
+							<em class="icon-pdf"></em>
+														<a href="/upload/iblock/8af/8af59c3f23e5e5e6e26b18c1d332221d.pdf" target="_blank">Расчет размера собственных средств по состоянию на 28 февраля 2022 г. Время публикации: 09:30. Дата публикации: 15.03.2022 г.</a>
+							<span class="file_size">(PDF - 303 kB)</span>
+						</li>
+												<li id="bx_3218110189_452" class="hideitem">
+							<span class="info-term">доступен до 10.02.2025</span>							
+							<input type="checkbox" id="file837" data-size="310399" value="837" name="FILE[]">
+							<label for="file837"></label>
+							<em class="icon-pdf"></em>
+														<a href="/upload/iblock/523/5236c8b5538da7afc8f0095161a66428.pdf" target="_blank">Расчет размера собственных средств по состоянию на 31 января 2022 г. Время публикации: 19:00. Дата публикации: 10.02.2022 г.</a>
+							<span class="file_size">(PDF - 303 kB)</span>
+						</li>
+												<li id="bx_3218110189_449" class="hideitem">
+							<span class="info-term">доступен до 25.02.2025</span>							
+							<input type="checkbox" id="file834" data-size="310555" value="834" name="FILE[]">
+							<label for="file834"></label>
+							<em class="icon-pdf"></em>
+														<a href="/upload/iblock/14b/14b7a7f6fd60840e16680ca0aa2a8cee.pdf" target="_blank">Расчет размера собственных средств по состоянию на 31 декабря 2021 г.  Время публикации: 19:30. Дата публикации: 20.01.2022 г.</a>
+							<span class="file_size">(PDF - 303 kB)</span>
+						</li>
+												<li id="bx_3218110189_441" class="hideitem">
+							<span class="info-term">доступен до 14.12.2024</span>							
+							<input type="checkbox" id="file827" data-size="310613" value="827" name="FILE[]">
+							<label for="file827"></label>
+							<em class="icon-pdf"></em>
+														<a href="/upload/iblock/b88/b880bf72b7cd14fc732f00e8292ec4fd.pdf" target="_blank">Расчет размера собственных средств по состоянию на 30 ноября 2021 г. Время публикации: 15:30 Дата публикации: 14.12.2021 г.</a>
+							<span class="file_size">(PDF - 303 kB)</span>
+						</li>
+												<li id="bx_3218110189_438" class="hideitem">
+							<span class="info-term">доступен до 15.11.2024</span>							
+							<input type="checkbox" id="file820" data-size="310528" value="820" name="FILE[]">
+							<label for="file820"></label>
+							<em class="icon-pdf"></em>
+														<a href="/upload/iblock/8f8/8f8f8d15dcdeae86cb9560022fc53c5b.pdf" target="_blank">Расчет размера собственных средств по состоянию на 31 октября 2021 года. Время публикации: 14:20. Дата публикации: 15 ноября 2021 года</a>
+							<span class="file_size">(PDF - 303 kB)</span>
+						</li>
+												<li id="bx_3218110189_430" class="hideitem">
+							<span class="info-term">доступен до 01.10.2024</span>							
+							<input type="checkbox" id="file810" data-size="310533" value="810" name="FILE[]">
+							<label for="file810"></label>
+							<em class="icon-pdf"></em>
+														<a href="/upload/iblock/a64/a6441eb2cdd340111bcb5999033c10ca.pdf" target="_blank">Расчет размера собственных средств по состоянию на 30 сентября 2021 г. Время публикации: 14:30. Дата публикации: 14.10.2021 г. </a>
+							<span class="file_size">(PDF - 303 kB)</span>
+						</li>
+										</ul>
+			</div>
+			<a href="#" class="show-all"><span>Показать все</span></a>		</div>
+				<h2>Паевые инвестиционные фонды</h2>
+		<div class="info-wrapper">
+			<div class="info-box">
+				<ul>
+											<li id="bx_3218110189_412">
+														
+							<input type="checkbox" id="file792" data-size="203801" value="792" name="FILE[]">
+							<label for="file792"></label>
+							<em class="icon-pdf"></em>
+														<a href="/upload/iblock/5f6/5f618e83c0f645f6afcf4292d6eaf137.pdf" target="_blank">ЗПИФ долгосрочных прямых инвестиций «Технологические Инвестиции» Дата публикации: 24 августа 2021 г. Время публикации: 18:50. Доступность: до даты исключения из реестра ПИФ </a>
+							<span class="file_size">(PDF - 199 kB)</span>
+						</li>
+												<li id="bx_3218110189_189">
+														
+							<input type="checkbox" id="file531" data-size="135768" value="531" name="FILE[]">
+							<label for="file531"></label>
+							<em class="icon-pdf"></em>
+														<a href="/upload/iblock/7ca/7cafd67eccf0af2f40180dcfff216af2.pdf" target="_blank">ЗПИФ долгосрочных прямых инвестиций «РТ-Инвест глобальный технологический III». (Дата публикации 14.07.2015 г. Время публикации: 16:10)</a>
+							<span class="file_size">(PDF - 133 kB)</span>
+						</li>
+												<li id="bx_3218110189_188">
+														
+							<input type="checkbox" id="file530" data-size="135447" value="530" name="FILE[]">
+							<label for="file530"></label>
+							<em class="icon-pdf"></em>
+														<a href="/upload/iblock/08d/08dc23a17017bbb5407a47825f382a4c.pdf" target="_blank">ЗПИФ долгосрочных прямых инвестиций «РТ-Инвест Глобальный Технологический I». (Дата публикации 13.02.2013 г. Время публикации: 15:05)</a>
+							<span class="file_size">(PDF - 132 kB)</span>
+						</li>
+										</ul>
+			</div>
+					</div>
+				<h2>Аудиторское заключение</h2>
+		<div class="info-wrapper">
+			<div class="info-box">
+				<ul>
+											<li id="bx_3218110189_563">
+							<span class="info-term">доступен до 28.03.2026</span>							
+							<input type="checkbox" id="file931" data-size="4896809" value="931" name="FILE[]">
+							<label for="file931"></label>
+							<em class="icon-pdf"></em>
+														<a href="/upload/iblock/0a1/0a1c01c84b4ff1a36c1b4866dfeb6c54.pdf" target="_blank">Аудиторское заключение АО «РТ-Инвест» за 202 г. Дата публикации: 28.03.2022 Время публикации: 20:10</a>
+							<span class="file_size">(PDF - 5 MB)</span>
+						</li>
+												<li id="bx_3218110189_461">
+							<span class="info-term">доступен до 01.04.2025</span>							
+							<input type="checkbox" id="file846" data-size="13570549" value="846" name="FILE[]">
+							<label for="file846"></label>
+							<em class="icon-pdf"></em>
+														<a href="/upload/iblock/f12/f12f912883fd3f0623ae12040aa815b3.pdf" target="_blank">Аудиторское заключение АО «РТ-Инвест» за 2021 г. Дата публикации: 31.03.2022  Время публикации: 11:00</a>
+							<span class="file_size">(PDF - 13 MB)</span>
+						</li>
+										</ul>
+			</div>
+					</div>
+				<h2>Консолидированная отчетность в соответствии с МСФО</h2>
+		<div class="info-wrapper">
+			<div class="info-box">
+				<ul>
+											<li id="bx_3218110189_569">
+							<span class="info-term">доступен до 02.05.2026</span>							
+							<input type="checkbox" id="file938" data-size="11202271" value="938" name="FILE[]">
+							<label for="file938"></label>
+							<em class="icon-pdf"></em>
+														<a href="/upload/iblock/619/6190be8d9701d6017fc0bd6a0a4c1fbb.pdf" target="_blank">Консолидированная финансовая отчетность по Группе компаний РТ-Инвест за 2022 год. Дата публикации: 02 мая 2023 г. Время публикации: 11:10</a>
+							<span class="file_size">(PDF - 11 MB)</span>
+						</li>
+												<li id="bx_3218110189_468">
+							<span class="info-term">доступен до 29.04.2025</span>							
+							<input type="checkbox" id="file853" data-size="6515534" value="853" name="FILE[]">
+							<label for="file853"></label>
+							<em class="icon-pdf"></em>
+														<a href="/upload/iblock/498/4984165a35305a9149204a30b1e8721c.pdf" target="_blank">Консолидированная финансовая отчетность по Группе компаний РТ-Инвест за 2021 год. Дата публикации: 29 апреля 2022 г.  Время публикации: 20:50</a>
+							<span class="file_size">(PDF - 6 MB)</span>
+						</li>
+										</ul>
+			</div>
+					</div>
+				<h2>Порядок и условия обмена электронными документами</h2>
+		<div class="info-wrapper">
+			<div class="info-box">
+				<ul>
+											<li id="bx_3218110189_187">
+														
+							<input type="checkbox" id="file584" data-size="273480" value="584" name="FILE[]">
+							<label for="file584"></label>
+							<em class="icon-pdf"></em>
+														<a href="/upload/iblock/265/265d1b5019c171a191904498a92169c8.pdf" target="_blank">Информация о порядке и условиях обмена электронными документами</a>
+							<span class="file_size">(PDF - 267 kB)</span>
+						</li>
+												<li id="bx_3218110189_411">
+														
+							<input type="checkbox" id="file791" data-size="200222" value="791" name="FILE[]">
+							<label for="file791"></label>
+							<em class="icon-pdf"></em>
+														<a href="/upload/iblock/306/306c1cca312b645617409163a34fc78a.pdf" target="_blank">Информация о начале использования электронного документооборота с ООО «СДК «Гарант» Дата публикации: 24 августа 2021 г. Время публикации: 18:30 Доступность: Документ доступен неограниченное время.</a>
+							<span class="file_size">(PDF - 196 kB)</span>
+						</li>
+										</ul>
+			</div>
+					</div>
+				<h2>Признание лиц квалифицированными инвесторами</h2>
+		<div class="info-wrapper">
+			<div class="info-box">
+				<ul>
+											<li id="bx_3218110189_435">
+														
+							<input type="checkbox" id="file817" data-size="1016622" value="817" name="FILE[]">
+							<label for="file817"></label>
+							<em class="icon-pdf"></em>
+														<a href="/upload/iblock/81d/81d087c166d631f277092140927f5f0c.pdf" target="_blank">Регламент признания лиц квалифицированными инвесторами. Начало действия документа с 08.11.2021 г. Дата публикации 08.11.2021 г.</a>
+							<span class="file_size">(PDF - 993 kB)</span>
+						</li>
+												<li id="bx_3218110189_422">
+														
+							<input type="checkbox" id="file802" data-size="125503" value="802" name="FILE[]">
+							<label for="file802"></label>
+							<em class="icon-pdf"></em>
+														<a href="/upload/iblock/ec6/ec6bb8c0b4dfb21cbf434037c8a208d4.pdf" target="_blank">Информация для клиентов - физических лиц, признанных АО «РТ-Инвест» квалифицированными инвесторами</a>
+							<span class="file_size">(PDF - 123 kB)</span>
+						</li>
+										</ul>
+			</div>
+					</div>
+				<h2>Оценка условий труда</h2>
+		<div class="info-wrapper">
+			<div class="info-box">
+				<ul>
+											<li id="bx_3218110189_427">
+														
+							<input type="checkbox" id="file807" data-size="732661" value="807" name="FILE[]">
+							<label for="file807"></label>
+							<em class="icon-pdf"></em>
+														<a href="/upload/iblock/50c/50ca5392ebce70cbe158fda896b89d75.pdf" target="_blank">Сводная ведомость результатов проведения специальной оценки условий труда. 2021 год</a>
+							<span class="file_size">(PDF - 715 kB)</span>
+						</li>
+												<li id="bx_3218110189_426">
+														
+							<input type="checkbox" id="file806" data-size="343906" value="806" name="FILE[]">
+							<label for="file806"></label>
+							<em class="icon-pdf"></em>
+														<a href="/upload/iblock/0e5/0e569a9cf676867faef425ae8e7c7e9e.pdf" target="_blank">Перечень рекомендуемых мероприятий по улучшению условий труда. 2021 год</a>
+							<span class="file_size">(PDF - 336 kB)</span>
+						</li>
+												<li id="bx_3218110189_425">
+														
+							<input type="checkbox" id="file805" data-size="158611" value="805" name="FILE[]">
+							<label for="file805"></label>
+							<em class="icon-pdf"></em>
+														<a href="/upload/iblock/77c/77c43cfd2456283d88cfa0148bdad260.pdf" target="_blank">Сводная ведомость результатов проведения специальной оценки условий труда. 2019 год</a>
+							<span class="file_size">(PDF - 155 kB)</span>
+						</li>
+												<li id="bx_3218110189_424">
+														
+							<input type="checkbox" id="file804" data-size="58078" value="804" name="FILE[]">
+							<label for="file804"></label>
+							<em class="icon-pdf"></em>
+														<a href="/upload/iblock/a8a/a8a83e018d860f598c3622d9698046f1.pdf" target="_blank">Перечень рекомендуемых мероприятий по улучшению условий труда. 2019 год</a>
+							<span class="file_size">(PDF - 57 kB)</span>
+						</li>
+										</ul>
+			</div>
+					</div>
+				<h2>Информация для получателей финансовых услуг</h2>
+		<div class="info-wrapper">
+			<div class="info-box">
+				<ul>
+											<li id="bx_3218110189_462">
+														
+							<input type="checkbox" id="file847" data-size="421020" value="847" name="FILE[]">
+							<label for="file847"></label>
+							<em class="icon-pdf"></em>
+														<a href="/upload/iblock/7d0/7d0b472a81851e3a14892ae35c61a887.pdf" target="_blank">Информация для получателей финансовых услуг. Дата публикации: 01 апреля 2022 г. Время публикации: 18:30</a>
+							<span class="file_size">(PDF - 411 kB)</span>
+						</li>
+										</ul>
+			</div>
+					</div>
+			<div class="info-bottom">
+		<p></p>
+			<input type="submit" class="button download_block" value="Скачать архивом">
+	</div>
+</form> 				</div>
+			</section>
+        
+		</div>
+		<footer id="footer">
+			<div class="container">
+				<div class="row">
+					<div class="col-md-3">
+	<nav>
+		<ul>
+		<li class=""><a href="/">Главная</a></li><li class=""><a href="/info/">Кто мы</a></li><li class=""><a href="/branches/">Отрасли и проекты</a></li><li class=""><a href="/board/">Совет директоров</a></li>		</ul>
+	</nav>
+</div>
+<div class="col-md-4">
+	<nav>
+		<ul>
+		<li class=""><a href="/vacancy/">Вакансии</a></li><li class="active"><a>Официальная информация</a></li><li class=""><a href="/contact/">Контакты</a></li>		</ul>
+	</nav>
+</div>
+						<div class="col-md-5">
+						<div class="footer-text">
+							<h3>АО «РТ-Инвест»</h3>
+<p>119180, Россия, г. Москва, ул. Малая Якиманка, д. 10, эт/пом. 4 пом. 4.5</p>
+<p>Тел.: <a href="tel:+74953748054">+7 495 374-80-54</a>  Email: <a href="mailto:info@rt-invest.com">info@rt-invest.com</a></p>
+<p>Сайт: <a href="http://www.rt-invest.com/">http://www.rt-invest.com/</a></p>
+<p class="copyright">©2017 RT-invest</p>
+
+						</div>
+					</div>
+				</div>
+			</div>
+		</footer>
+		
+		<section class="popup box-styled" id="popup-form">
+			<span class="bClose close-link"></span>
+			<form class="form">
+				<h2>Задать вопрос</h2>
+				<div class="form-field">
+					<label for="name">Фамилия, имя, отчество: <span>*</span></label>
+					<input type="text" id="name" class="req">
+				</div>
+				<div class="form-field">
+					<label for="mail">Электроннная почта: <span>*</span></label>
+					<input type="email" id="mail" class="req">
+				</div>
+				<div class="form-field">
+					<label for="tel">Телефон:</label>
+					<input type="tel" id="tel" class="tel">
+				</div>
+				<div class="form-textarea">
+					<label for="text1">Ваш вопрос: <span>*</span></label>
+					<div class="textarea"><textarea class="req" id="text"></textarea></div>
+				</div>
+				<div>
+					<button type="submit" class="button">Отправить</button>
+					<span class="form-note">*Поля, обязательные для заполнения</span>
+				</div>
+			</form>
+			<div class="form-success">
+				<p>Спасибо!<br>Ваше сообщение успешно отправлено</p>
+			</div>
+		</section>
+		
+		<div id="popup2" class="video-popup box-styled">
+			<span class="bClose close-link"></span>
+			<div class="content"></div>
+		</div>
+			
+		
+
+	<!-- Yandex.Metrika counter -->
+	<script type="text/javascript">
+	(function (d, w, c) {
+	    (w[c] = w[c] || []).push(function() {
+	        try {
+	            w.yaCounter28190580 = new Ya.Metrika({id:28190580,
+	                    clickmap:true,
+	                    trackLinks:true,
+	                    accurateTrackBounce:true});
+	        } catch(e) { }
+	    });
+
+	    var n = d.getElementsByTagName("script")[0],
+	        s = d.createElement("script"),
+	        f = function () { n.parentNode.insertBefore(s, n); };
+	    s.type = "text/javascript";
+	    s.async = true;
+	    s.src = (d.location.protocol == "https:" ? "https:" : "http:") + "//mc.yandex.ru/metrika/watch.js";
+
+	    if (w.opera == "[object Opera]") {
+	        d.addEventListener("DOMContentLoaded", f, false);
+	    } else { f(); }
+	})(document, window, "yandex_metrika_callbacks");
+	</script>
+	<noscript><div><img src="//mc.yandex.ru/watch/28190580" style="position:absolute; left:-9999px;" alt="" /></div></noscript>
+	<!-- /Yandex.Metrika counter -->
+	
+	<script>
+	  (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+	  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+	  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+	  })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+
+	  ga('create', 'UA-59236085-1', 'auto');
+	  ga('send', 'pageview');
+
+	</script>	
+
+	

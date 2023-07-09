@@ -1,0 +1,419 @@
+
+	
+	<header class="header">
+		<div class="inner">
+			<div class="flex">
+				<div class="item item-1">
+					<a href="/" title="УК &quot;Восхождение&quot; - Управляющая компания" class="logo"><img src="/wp-content/themes/uk/assets/images/logosvg.svg" alt="УК &quot;Восхождение&quot; - Управляющая компания"></a>				</div>
+				<div class="item item-2">
+				     <a href="tel:+7 (495) 131-83-29" class="phone">+7 (495) 131-83-29</a><a href="mailto:info@uk-voshozhdenie.ru" class="email">info@uk-voshozhdenie.ru</a>				</div>
+				<!--
+				<div class="item item-3">
+				    <a href="" class="button">Личный кабинет</a>
+				</div>
+				-->
+			</div>
+		</div>
+	</header>
+	
+	<a class="screen-reader-text skip-link" href="#content" title="Перейти к содержимому">Перейти к содержимому</a>		<header id="masthead" class="site-header" itemtype="https://schema.org/WPHeader" itemscope="">
+			<div class="inside-header">
+							</div>
+		</header>
+				<nav id="site-navigation" class="main-navigation sub-menu-right stuckElement" itemtype="https://schema.org/SiteNavigationElement" itemscope="" style="z-index: 100;">
+			<div class="inside-navigation grid-container grid-parent">
+				<form method="get" class="search-form navigation-search" action="https://uk-voshozhdenie.ru/">
+					<input type="search" class="search-field" value="" name="s" title="Поиск">
+				</form>		<div class="mobile-bar-items">
+						<span class="search-item">
+				<a aria-label="Открыть строку поиска" href="#">
+									</a>
+			</span>
+		</div>
+						<button class="menu-toggle" aria-controls="primary-menu" aria-expanded="false">
+					<span class="mobile-menu">Меню</span>				</button>
+				<div id="primary-menu" class="main-nav"><ul id="menu-glavnoe-menyu" class=" menu sf-menu"><li id="menu-item-240" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-240"><a href="https://uk-voshozhdenie.ru/o-kompanii/">О компании</a></li>
+<li id="menu-item-27" class="menu-item menu-item-type-post_type menu-item-object-page current-menu-item page_item page-item-26 current_page_item menu-item-27"><a href="https://uk-voshozhdenie.ru/raskrytie-informatsii/" aria-current="page">РАСКРЫТИЕ ИНФОРМАЦИИ</a></li>
+<li id="menu-item-29" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-29"><a href="https://uk-voshozhdenie.ru/kontakty/">Контакты</a></li>
+<li class="search-item menu-item-align-right"><a aria-label="Открыть строку поиска" href="#"></a></li></ul></div>			</div>
+		</nav><nav id="sticky-placeholder" class="main-navigation sub-menu-right" style="visibility: hidden; display: none;">
+			<div class="inside-navigation grid-container grid-parent">
+				<form method="get" class="search-form navigation-search" action="https://uk-voshozhdenie.ru/">
+					<input type="search" class="search-field" value="" name="s" title="Поиск">
+				</form>		<div class="mobile-bar-items">
+						<span class="search-item">
+				<a aria-label="Открыть строку поиска" href="#">
+									</a>
+			</span>
+		</div>
+						<button class="menu-toggle" aria-controls="primary-menu" aria-expanded="false">
+					<span class="mobile-menu">Меню</span>				</button>
+				<div id="primary-menu" class="main-nav"><ul id="menu-glavnoe-menyu" class=" menu sf-menu"><li id="menu-item-240" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-240"><a href="https://uk-voshozhdenie.ru/o-kompanii/">О компании</a></li>
+<li id="menu-item-27" class="menu-item menu-item-type-post_type menu-item-object-page current-menu-item page_item page-item-26 current_page_item menu-item-27"><a href="https://uk-voshozhdenie.ru/raskrytie-informatsii/" aria-current="page">РАСКРЫТИЕ ИНФОРМАЦИИ</a></li>
+<li id="menu-item-29" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-29"><a href="https://uk-voshozhdenie.ru/kontakty/">Контакты</a></li>
+<li class="search-item menu-item-align-right"><a aria-label="Открыть строку поиска" href="#"></a></li></ul></div>			</div>
+		</nav>
+			
+	<div class="breadcrumbs"><div class="inner"></div></div>
+	<div id="page" class="hfeed site grid-container container grid-parent">
+		<div id="content" class="site-content">
+			
+	<div id="primary" class="content-area grid-parent mobile-grid-100 grid-100 tablet-grid-100">
+		<main id="main" class="site-main">
+			
+<article id="post-26" class="post-26 page type-page status-publish" itemtype="https://schema.org/CreativeWork" itemscope="">
+	<div class="inside-article">
+		
+		
+		<style>
+			.container.grid-container { max-width: 100%; }
+			.separate-containers .site-main { margin:0; }
+			.separate-containers .inside-article { padding:0; }
+			.entry-content { margin-top:0; }
+			</style>		
+		<div class="open-data">
+			
+			<div class="wrapper">
+				<div class="inner">
+					<h1>Раскрытие информации</h1><div class="flex"><a href="#item-1" style="display:block;" class="tab-header js-tab-trigger smooth-scroll active" data-tab="1">Раскрытие информации об УК</a><a href="#item-2" style="display:block;" class="tab-header js-tab-trigger smooth-scroll" data-tab="2">Финансовая отчетность УК</a><a href="#item-3" style="display:block;" class="tab-header js-tab-trigger smooth-scroll" data-tab="3">Собственные средства</a><a href="#item-4" style="display:block;" class="tab-header js-tab-trigger smooth-scroll" data-tab="4">Прочая информация</a></div>				</div>
+				<script>
+					jQuery(function($) {
+					   $('.tab-header')
+					       .slice(0,1).addClass('active');
+					});
+				</script>
+			</div>
+			
+			<div class="inner" style="margin:40px auto; margin-bottom:40px;">
+				<div class="data">
+					<div id="item-1" class="tab-text js-tab-content active" data-tab="1"><h2>Раскрытие информации об УК</h2><div class="text">
+<div class="wpdt-c">
+    
+<input type="hidden" id="wdtNonceFrontendEdit" name="wdtNonceFrontendEdit" value="7b54520dd2"><input type="hidden" name="_wp_http_referer" value="/raskrytie-informatsii/">    <input type="hidden" id="table_1_desc" value="{&quot;tableId&quot;:&quot;table_1&quot;,&quot;tableType&quot;:&quot;manual&quot;,&quot;selector&quot;:&quot;#table_1&quot;,&quot;responsive&quot;:false,&quot;editable&quot;:false,&quot;inlineEditing&quot;:false,&quot;infoBlock&quot;:false,&quot;globalSearch&quot;:false,&quot;showRowsPerPage&quot;:false,&quot;popoverTools&quot;:false,&quot;hideBeforeLoad&quot;:false,&quot;number_format&quot;:2,&quot;decimalPlaces&quot;:2,&quot;spinnerSrc&quot;:&quot;https:\/\/uk-voshozhdenie.ru\/wp-content\/plugins\/wpdatatables\/assets\/\/img\/spinner.gif&quot;,&quot;groupingEnabled&quot;:false,&quot;tableWpId&quot;:&quot;19&quot;,&quot;dataTableParams&quot;:{&quot;sDom&quot;:&quot;BT\u003C\u0027clear\u0027\u003Etp&quot;,&quot;bSortCellsTop&quot;:false,&quot;bFilter&quot;:true,&quot;bPaginate&quot;:true,&quot;aLengthMenu&quot;:[[1,5,10,25,50,100,-1],[1,5,10,25,50,100,&quot;\u0412\u0441\u0435&quot;]],&quot;iDisplayLength&quot;:-1,&quot;columnDefs&quot;:[{&quot;sType&quot;:&quot;formatted-num&quot;,&quot;wdtType&quot;:&quot;int&quot;,&quot;bVisible&quot;:false,&quot;orderable&quot;:true,&quot;searchable&quot;:true,&quot;InputType&quot;:&quot;text&quot;,&quot;name&quot;:&quot;wdt_ID&quot;,&quot;origHeader&quot;:&quot;wdt_ID&quot;,&quot;notNull&quot;:false,&quot;conditionalFormattingRules&quot;:[],&quot;className&quot;:&quot;numdata integer  column-wdt_id&quot;,&quot;aTargets&quot;:[0]},{&quot;sType&quot;:&quot;string&quot;,&quot;wdtType&quot;:&quot;string&quot;,&quot;bVisible&quot;:true,&quot;orderable&quot;:true,&quot;searchable&quot;:true,&quot;InputType&quot;:&quot;textarea&quot;,&quot;name&quot;:&quot;wdtcolumn&quot;,&quot;origHeader&quot;:&quot;wdtcolumn&quot;,&quot;notNull&quot;:false,&quot;conditionalFormattingRules&quot;:[],&quot;className&quot;:&quot; column-wdtcolumn&quot;,&quot;aTargets&quot;:[1]},{&quot;sType&quot;:&quot;string&quot;,&quot;wdtType&quot;:&quot;string&quot;,&quot;bVisible&quot;:true,&quot;orderable&quot;:true,&quot;searchable&quot;:true,&quot;InputType&quot;:&quot;text&quot;,&quot;name&quot;:&quot;wdtcolumn1&quot;,&quot;origHeader&quot;:&quot;wdtcolumn1&quot;,&quot;notNull&quot;:false,&quot;conditionalFormattingRules&quot;:[],&quot;className&quot;:&quot; column-wdtcolumn1&quot;,&quot;aTargets&quot;:[2]},{&quot;sType&quot;:&quot;string&quot;,&quot;wdtType&quot;:&quot;string&quot;,&quot;bVisible&quot;:true,&quot;orderable&quot;:true,&quot;searchable&quot;:true,&quot;InputType&quot;:&quot;text&quot;,&quot;name&quot;:&quot;wdtcolumn2&quot;,&quot;origHeader&quot;:&quot;wdtcolumn2&quot;,&quot;notNull&quot;:false,&quot;conditionalFormattingRules&quot;:[],&quot;className&quot;:&quot; column-wdtcolumn2&quot;,&quot;aTargets&quot;:[3]}],&quot;bAutoWidth&quot;:false,&quot;order&quot;:[[0,&quot;asc&quot;]],&quot;ordering&quot;:false,&quot;oLanguage&quot;:{&quot;sProcessing&quot;:&quot;\u041f\u043e\u0434\u043e\u0436\u0434\u0438\u0442\u0435...&quot;,&quot;sLengthMenu&quot;:&quot;\u041f\u043e\u043a\u0430\u0437\u0430\u0442\u044c _MENU_ \u0437\u0430\u043f\u0438\u0441\u0435\u0439&quot;,&quot;sZeroRecords&quot;:&quot;\u0417\u0430\u043f\u0438\u0441\u0438 \u043e\u0442\u0441\u0443\u0442\u0441\u0442\u0432\u0443\u044e\u0442.&quot;,&quot;sInfo&quot;:&quot;\u0417\u0430\u043f\u0438\u0441\u0438 \u0441 _START_ \u0434\u043e _END_ \u0438\u0437 _TOTAL_ \u0437\u0430\u043f\u0438\u0441\u0435\u0439&quot;,&quot;sInfoEmpty&quot;:&quot;\u0417\u0430\u043f\u0438\u0441\u0438 \u0441 0 \u0434\u043e 0 \u0438\u0437 0 \u0437\u0430\u043f\u0438\u0441\u0435\u0439&quot;,&quot;sInfoFiltered&quot;:&quot;(\u043e\u0442\u0444\u0438\u043b\u044c\u0442\u0440\u043e\u0432\u0430\u043d\u043e \u0438\u0437 _MAX_ \u0437\u0430\u043f\u0438\u0441\u0435\u0439)&quot;,&quot;sInfoPostFix&quot;:&quot;&quot;,&quot;sSearch&quot;:&quot;\u041f\u043e\u0438\u0441\u043a:&quot;,&quot;sUrl&quot;:&quot;&quot;,&quot;oPaginate&quot;:{&quot;sFirst&quot;:&quot;\u041f\u0435\u0440\u0432\u0430\u044f&quot;,&quot;sPrevious&quot;:&quot;\u041f\u0440\u0435\u0434\u044b\u0434\u0443\u0449\u0430\u044f&quot;,&quot;sNext&quot;:&quot;\u0421\u043b\u0435\u0434\u0443\u044e\u0449\u0430\u044f&quot;,&quot;sLast&quot;:&quot;\u041f\u043e\u0441\u043b\u0435\u0434\u043d\u044f\u044f&quot;}},&quot;buttons&quot;:[],&quot;bProcessing&quot;:false,&quot;serverSide&quot;:true,&quot;ajax&quot;:{&quot;url&quot;:&quot;https:\/\/uk-voshozhdenie.ru\/wp-admin\/admin-ajax.php?action=get_wdtable&amp;table_id=19&quot;,&quot;type&quot;:&quot;POST&quot;},&quot;sPaginationType&quot;:&quot;full_numbers&quot;,&quot;oSearch&quot;:{&quot;bSmart&quot;:false,&quot;bRegex&quot;:false,&quot;sSearch&quot;:&quot;&quot;}},&quot;tabletWidth&quot;:&quot;1024&quot;,&quot;mobileWidth&quot;:&quot;480&quot;,&quot;advancedFilterEnabled&quot;:false,&quot;serverSide&quot;:true,&quot;autoRefreshInterval&quot;:0,&quot;processing&quot;:true,&quot;fnServerData&quot;:true,&quot;columnsFixed&quot;:0,&quot;sumFunctionsLabel&quot;:&quot;&quot;,&quot;avgFunctionsLabel&quot;:&quot;&quot;,&quot;minFunctionsLabel&quot;:&quot;&quot;,&quot;maxFunctionsLabel&quot;:&quot;&quot;,&quot;columnsDecimalPlaces&quot;:{&quot;wdt_ID&quot;:-1,&quot;wdtcolumn&quot;:-1,&quot;wdtcolumn1&quot;:-1,&quot;wdtcolumn2&quot;:-1},&quot;columnsThousandsSeparator&quot;:{&quot;wdt_ID&quot;:0},&quot;sumColumns&quot;:[],&quot;avgColumns&quot;:[],&quot;sumAvgColumns&quot;:[],&quot;timeFormat&quot;:&quot;H:i&quot;,&quot;datepickFormat&quot;:&quot;dd.mm.yy&quot;}">
+
+    <div id="table_1_wrapper" class="wpDataTables wpDataTablesWrapper no-footer"><div class="dt-buttons"></div><div class="clear"></div><table id="table_1" class="display nowrap data-t data-t wpDataTable dataTable no-footer overlayed" style="" data-described-by="table_1_desc" data-wpdatatable_id="19" role="grid">
+
+        <!-- Table header -->
+        
+<thead>
+<tr role="row"><th data-class="expand" class="wdtheader sort  sorting_disabled column-wdtcolumn" style="" rowspan="1" colspan="1">Полное фирменное наименование</th><th class="wdtheader sort  sorting_disabled column-wdtcolumn1" style="" rowspan="1" colspan="1">Общество с ограниченной ответственностью Управляющая Компания «Восхождение»</th><th class="wdtheader sort  sorting_disabled column-wdtcolumn2" style="" rowspan="1" colspan="1">15.01.2018 Бессрочно до внесения изменений</th></tr>
+</thead>
+        <!-- /Table header -->
+
+        <!-- Table body -->
+        
+<tbody>
+        <tr id="table_19_row_0">
+                    <td style="">1</td>
+                    <td style="">Полное фирменное наименование на иностранном языке</td>
+                    <td style="">Voshozhdenie Asset Management Limited Liability Company</td>
+                    <td style="">15.01.2018 Бессрочно до внесения изменений</td>
+            </tr>
+            <tr id="table_19_row_1">
+                    <td style="">2</td>
+                    <td style="">Сокращенное фирменное наименование</td>
+                    <td style="">ООО УК «Восхождение»</td>
+                    <td style="">15.01.2018 Бессрочно до внесения изменений</td>
+            </tr>
+            <tr id="table_19_row_2">
+                    <td style="">3</td>
+                    <td style="">Сокращенное фирменное наименование на иностранном языке</td>
+                    <td style="">Voshozhdenie AM LLC</td>
+                    <td style="">15.01.2018 Бессрочно до внесения изменений</td>
+            </tr>
+            <tr id="table_19_row_3">
+                    <td style="">4</td>
+                    <td style="">ОГРН/ИНН</td>
+                    <td style="">5167746349843/9705081245</td>
+                    <td style="">15.01.2018 Бессрочно до внесения изменений</td>
+            </tr>
+            <tr id="table_19_row_4">
+                    <td style="">5</td>
+                    <td style="">Адрес, указанный в ЕГРЮЛ</td>
+                    <td style="">115035, г. Москва, вн. тер. г. муниципальный округ Замоскворечье, ул. Пятницкая, д.14, стр. 1, этаж 3, пом. II, ком. 2</td>
+                    <td style="">22.09.2021 Бессрочно до внесения изменений</td>
+            </tr>
+            <tr id="table_19_row_5">
+                    <td style="">6</td>
+                    <td style="">Место нахождения</td>
+                    <td style="">г. Москва</td>
+                    <td style="">05.03.2020 Бессрочно до внесения изменений</td>
+            </tr>
+            <tr id="table_19_row_6">
+                    <td style="">7</td>
+                    <td style="">Номер телефона/факса</td>
+                    <td style="">+7 (495) 131-83-29</td>
+                    <td style="">26.07.2019 Бессрочно до внесения изменений</td>
+            </tr>
+            <tr id="table_19_row_7">
+                    <td style="">8</td>
+                    <td style="">Адрес электронной почты</td>
+                    <td style="">info@uk-voshozhdenie.ru</td>
+                    <td style="">15.01.2018 Бессрочно до внесения изменений</td>
+            </tr>
+            <tr id="table_19_row_8">
+                    <td style="">9</td>
+                    <td style="">Адрес сайта</td>
+                    <td style="">www.uk-voshozhdenie.ru</td>
+                    <td style="">27.09.2021 Бессрочно до внесения изменений</td>
+            </tr>
+            <tr id="table_19_row_9">
+                    <td style="">10</td>
+                    <td style="">Электронная скан-копия лицензии на осуществление деятельности по управлению инвестиционными фондами, паевыми инвестиционными фондами и негосударственными пенсионными фондами</td>
+                    <td style=""><a href="/wp-content/uploads/litsentsiya.pdf">Лицензия № 21-000-1-01017 от 15 мая 2018 года</a></td>
+                    <td style="">17.05.2018 Бессрочно до внесения изменений</td>
+            </tr>
+    </tbody>        <!-- /Table body -->
+
+        <!-- Table footer -->
+        
+        <!-- /Table footer -->
+
+    </table><div class="dataTables_paginate paging_full_numbers" id="table_1_paginate" style="display: none;"></div></div>
+
+</div><style>
+table.wpDataTable { table-layout: fixed !important; }
+table.wpDataTable td, table.wpDataTable th { white-space: normal !important; }
+</style>
+
+<hr>
+</div></div><div id="item-2" class="tab-text js-tab-content" data-tab="2"><h2>Финансовая отчетность УК</h2><div class="item"><a href="https://uk-voshozhdenie.ru/wp-content/uploads/finansovaya-otchetnost-po-msfo-nekonsolidirovannaya-ooo-uk-voshozhdenie-za-2022-god-s-auditorskim-zaklyucheniem-2.pdf" class="heading underline">Финансовая отчетность по МСФО (неконсолидированная) ООО УК Восхождение за 2022 год с Аудиторским заключением.</a><div class="info"><span class="upload-date">Опубликовано: 02.05.2023 16:50</span><span class="valid-until">Доступно до: 03.05.2026</span></div></div><div class="item"><a href="https://uk-voshozhdenie.ru/wp-content/uploads/buhgalterskaya-finansovaya-otchetnost-za-1-kvartal-2023g-1.pdf" class="heading underline">Промежуточная бухгалтерская (финансовая) отчетность за 1кв. 2023</a><div class="info"><span class="upload-date">Опубликовано: 02.05.2023 14:30</span><span class="valid-until">Доступно до: 03.05.2026</span></div></div><div class="item"><a href="https://uk-voshozhdenie.ru/wp-content/uploads/auditorskoe-zaklyuchenie-o-buhgalterskoy-finansovoy-otchetnosti-ooo-uk-voshozhdenie-za-2022-god.pdf" class="heading underline">Аудиторское заключение о бухгалтерской (финансовой) отчетности ООО УК "Восхождение" за 2022 год.</a><div class="info"><span class="upload-date">Опубликовано: 04.04.2023 15:00</span><span class="valid-until">Доступно до: 05.04.2026</span></div></div><div class="item"><a href="https://uk-voshozhdenie.ru/wp-content/uploads/godovaya-buhgalterskaya-finansovaya-otchetnost-ooo-uk-voshozhdenie-za-2022-god.pdf" class="heading underline">Годовая бухгалтерская (финансовая) отчетность ООО УК "Восхождение" за 2022 год.</a><div class="info"><span class="upload-date">Опубликовано: 04.04.2023 15:00</span><span class="valid-until">Доступно до: 05.04.2026</span></div></div><div class="item"><a href="https://uk-voshozhdenie.ru/wp-content/uploads/buhgalterskaya-finansovaya-otchetnost-za-3-kvartal-2022g.pdf" class="heading underline">Промежуточная бухгалтерская (финансовая) отчетность за 3 кв. 2022</a><div class="info"><span class="upload-date">Опубликовано: 01.11.2022 16:25</span><span class="valid-until">Доступно до: 02.11.2025</span></div></div><div class="item"><a href="https://uk-voshozhdenie.ru/wp-content/uploads/buhgalterskaya-finansovaya-otchetnost-za-2-kvartal-2022g.pdf" class="heading underline">Промежуточная бухгалтерская (финансовая) отчетность за 2 кв. 2022</a><div class="info"><span class="upload-date">Опубликовано: 01.08.2022 15:40</span><span class="valid-until">Доступно до: 02.08.2025</span></div></div><div class="item"><a href="https://uk-voshozhdenie.ru/wp-content/uploads/soobschenie-o-korrektirovke-informatsii-v-bfo.pdf" class="heading underline">Сообщение об обнаружении (выявлении) неточных, неполных и (или) недостоверных сведений в раскрываемой информации</a><div class="info"><span class="upload-date">Опубликовано: 29.07.2022 11:15</span><span class="valid-until">Доступно до: 30.07.2025</span></div></div><div class="item"><a href="https://uk-voshozhdenie.ru/wp-content/uploads/buhgalterskaya-finansovaya-otchetnost-za-1-kvartal-2022g-1.pdf" class="heading underline">Промежуточная бухгалтерская (финансовая) отчетность за 1кв. 2022 (скорректированная)</a><div class="info"><span class="upload-date">Опубликовано: 29.07.2022 11:15</span><span class="valid-until">Доступно до: 30.07.2025</span></div></div><div class="item"><a href="https://uk-voshozhdenie.ru/wp-content/uploads/buhgalterskaya-finansovaya-otchetnost-za-1-kvartal-2022g-szhatyy.pdf" class="heading underline">Промежуточная бухгалтерская (финансовая) отчетность за 1кв. 2022</a><div class="info"><span class="upload-date">Опубликовано: 05.05.2022 12:25</span><span class="valid-until">Доступно до: 06.05.2025</span></div></div><div class="item"><a href="https://uk-voshozhdenie.ru/wp-content/uploads/finansovaya-otchetnost-po-msfo-nekonsolidirovannaya-za-2021-god.pdf" class="heading underline">Финансовая отчетность по МСФО (неконсолидированная) ООО УК "Восхождение" за 2021 год.</a><div class="info"><span class="upload-date">Опубликовано: 05.05.2022 11:50</span><span class="valid-until">Доступно до: 06.05.2025</span></div></div><div class="item"><a href="https://uk-voshozhdenie.ru/wp-content/uploads/auditorskoe-zaklyuchenie-2021.pdf" class="heading underline">Аудиторское заключение о бухгалтерской (финансовой) отчетности ООО УК "Восхождение" за 2021 год.</a><div class="info"><span class="upload-date">Опубликовано: 13.04.2022 13:45</span><span class="valid-until">Доступно до: 14.04.2025</span></div></div><div class="item"><a href="https://uk-voshozhdenie.ru/wp-content/uploads/otchetnostuk2021.pdf" class="heading underline">Годовая бухгалтерская (финансовая) отчетность ООО УК "Восхождение" за 2021 год.</a><div class="info"><span class="upload-date">Опубликовано: 13.04.2022 13:45</span><span class="valid-until">Доступно до: 14.04.2025</span></div></div><div class="item"><a href="https://uk-voshozhdenie.ru/wp-content/uploads/buhgalterskaya-finansovaya-otchetnost-za-9-mes.-2021g.pdf" class="heading underline">Бухгалтерская (финансовая) отчетность за 9 месяцев 2021 года.</a><div class="info"><span class="upload-date">Опубликовано: 08.11.2021 18:15</span><span class="valid-until">Доступно до: 08.11.2024</span></div></div><div class="item"><a href="https://uk-voshozhdenie.ru/wp-content/uploads/buhgalterskaya-finansovaya-otchetnost-za-1-polugodie-2021.pdf" class="heading underline">Бухгалтерская (финансовая) отчетность за 1-ое полугодие 2021 года.</a><div class="info"><span class="upload-date">Опубликовано: 28.07.2021 16:10</span><span class="valid-until">Доступно до: 28.07.2022</span></div></div><div class="item"><a href="https://uk-voshozhdenie.ru/wp-content/uploads/promezhutochnaya-buhgalterskaya-finansovaya-otchyotnost-za-1-kv.2021.pdf" class="heading underline">Промежуточная бухгалтерская (финансовая) отчетность за 1кв. 2021</a><div class="info"><span class="upload-date">Опубликовано: 30.04.2021 11:54</span><span class="valid-until">Доступно до: 30.04.2022</span></div></div><div class="item"><a href="https://uk-voshozhdenie.ru/wp-content/uploads/otchet-o-finansovyh-rezultatah-za-2020-god.pdf" class="heading underline">Отчет о финансовых результатах за 2020 год.</a><div class="info"><span class="upload-date">Опубликовано: 02.04.2021 10:40</span><span class="valid-until">Доступно до: 04.04.2025</span></div></div><div class="item"><a href="https://uk-voshozhdenie.ru/wp-content/uploads/buhgalterskiy-balans-na-31.12.2020.pdf" class="heading underline">Бухгалтерский баланс на 31.12.2020</a><div class="info"><span class="upload-date">Опубликовано: 02.04.2021 10:39</span><span class="valid-until">Доступно до: 04.04.2025</span></div></div><div class="item"><a href="https://uk-voshozhdenie.ru/wp-content/uploads/auditorskoe-zaklyuchenie-o-buhgalterskoy-finansovoy-otchetnosti-ooo-uk-voshozhdenie-za-2020-god.pdf" class="heading underline">Аудиторское заключение о бухгалтерской (финансовой) отчетности ООО УК "Восхождение" за 2020 год.</a><div class="info"><span class="upload-date">Опубликовано: 02.04.2021 10:38</span><span class="valid-until">Доступно до: 04.04.2025</span></div></div><div class="item"><a href="https://uk-voshozhdenie.ru/wp-content/uploads/buhgalterskiy-balans-na-30.09.2020.pdf" class="heading underline">Бухгалтерский баланс на 30.09.2020</a><div class="info"><span class="upload-date">Опубликовано: 30.10.2020 15:50</span><span class="valid-until">Доступно до: 01.10.2021</span></div></div><div class="item"><a href="https://uk-voshozhdenie.ru/wp-content/uploads/otchet-o-finansovyh-rezultatah-za-3-kv.-2020.pdf" class="heading underline">Отчет о финансовых результатах за третий квартал 2020 года.</a><div class="info"><span class="upload-date">Опубликовано: 30.10.2020 15:45</span><span class="valid-until">Доступно до: 01.10.2021</span></div></div><div class="item"><a href="https://uk-voshozhdenie.ru/wp-content/uploads/buhgalterskiy-balans-na-30.06.2020.pdf" class="heading underline">Бухгалтерский баланс на 30.06.2020</a><div class="info"><span class="upload-date">Опубликовано: 30.07.2020 23:35</span><span class="valid-until">Доступно до: 01.07.2021</span></div></div><div class="item"><a href="https://uk-voshozhdenie.ru/wp-content/uploads/otchet-o-finansovyh-rezultatah-za-2-kv.-2020.pdf" class="heading underline">Отчет о финансовых результатах за второй квартал 2020 года.</a><div class="info"><span class="upload-date">Опубликовано: 30.07.2020 23:35</span><span class="valid-until">Доступно до: 01.07.2021</span></div></div></div><div id="item-3" class="tab-text js-tab-content" data-tab="3"><h2>Собственные средства</h2><div class="item"><a href="https://uk-voshozhdenie.ru/wp-content/uploads/raschet-sobstvennyh-sredstv-na-31.05.2023g.pdf" class="heading underline">Расчет собственных средств на 31.05.2023</a><div class="info"><span class="upload-date">Опубликовано: 16.06.2023 11:05</span><span class="valid-until">Доступно до: 17.06.2026</span></div></div><div class="item"><a href="https://uk-voshozhdenie.ru/wp-content/uploads/raschet-sobstvennyh-sredstv-na-30.04.2023g.pdf" class="heading underline">Расчет собственных средств на 30.04.2023</a><div class="info"><span class="upload-date">Опубликовано: 17.05.2023 16:30</span><span class="valid-until">Доступно до: 18.05.2026</span></div></div><div class="item"><a href="https://uk-voshozhdenie.ru/wp-content/uploads/raschet-sobstvennyh-sredstv-na-31.03.2023g.pdf" class="heading underline">Расчет собственных средств на 31.03.2023</a><div class="info"><span class="upload-date">Опубликовано: 17.04.2023 13:40</span><span class="valid-until">Доступно до: 18.04.2026</span></div></div><div class="item"><a href="https://uk-voshozhdenie.ru/wp-content/uploads/raschet-sobstvennyh-sredstv-na-28.02.2023g.pdf" class="heading underline">Расчет собственных средств на 28.02.2023</a><div class="info"><span class="upload-date">Опубликовано: 16.03.2023 13:30</span><span class="valid-until">Доступно до: 17.03.2026</span></div></div><div class="item"><a href="https://uk-voshozhdenie.ru/wp-content/uploads/raschet-sobstvennyh-sredstv-na-31.01.2023.pdf" class="heading underline">Расчет собственных средств на 31.01.2023</a><div class="info"><span class="upload-date">Опубликовано: 15.02.2023 12:05</span><span class="valid-until">Доступно до: 16.02.2026</span></div></div><div class="item"><a href="https://uk-voshozhdenie.ru/wp-content/uploads/raschet-sobstvennyh-sredstv-na-31.12.2022.pdf" class="heading underline">Расчет собственных средств на 31.12.2022</a><div class="info"><span class="upload-date">Опубликовано: 23.01.2023 11:30</span><span class="valid-until">Доступно до: 24.01.2026</span></div></div><div class="item"><a href="https://uk-voshozhdenie.ru/wp-content/uploads/raschet-sobstvennyh-sredstv-na-30.11.2022.pdf" class="heading underline">Расчет собственных средств на 30.11.2022</a><div class="info"><span class="upload-date">Опубликовано: 14.12.2022 17:30</span><span class="valid-until">Доступно до: 15.12.2025</span></div></div><div class="item"><a href="https://uk-voshozhdenie.ru/wp-content/uploads/raschet-sobstvennyh-sredstv-na-31.10.2022-1.pdf" class="heading underline">Расчет собственных средств на 31.10.2022</a><div class="info"><span class="upload-date">Опубликовано: 17.11.2022 10:20</span><span class="valid-until">Доступно до: 18.11.2025</span></div></div><div class="item"><a href="https://uk-voshozhdenie.ru/wp-content/uploads/soobschenie-o-korrektirovke-informatsii-rss-30.09.2022.pdf" class="heading underline">Сообщение об обнаружении (выявлении) неточных, неполных и (или) недостоверных сведений в раскрываемой информации</a><div class="info"><span class="upload-date">Опубликовано: 01.11.2022 16:50</span><span class="valid-until">Доступно до: 18.10.2025</span></div></div><div class="item"><a href="https://uk-voshozhdenie.ru/wp-content/uploads/raschet-sobstvennyh-sredstv-na-30.09.2022-skorrektirovannyy.pdf" class="heading underline">Расчет собственных средств на 30.09.2022 (скорректированный)</a><div class="info"><span class="upload-date">Опубликовано: 01.11.2022 16:50</span><span class="valid-until">Доступно до: 18.10.2025</span></div></div><div class="item"><a href="https://uk-voshozhdenie.ru/wp-content/uploads/raschet-sobstvennyh-sredstv-na-30.09.2022.pdf" class="heading underline">Расчет собственных средств на 30.09.2022</a><div class="info"><span class="upload-date">Опубликовано: 17.10.2022 13:25</span><span class="valid-until">Доступно до: 18.10.2025</span></div></div><div class="item"><a href="https://uk-voshozhdenie.ru/wp-content/uploads/raschet-sobstvennyh-sredstv-na-31.08.2022.pdf" class="heading underline">Расчет собственных средств на 31.08.2022</a><div class="info"><span class="upload-date">Опубликовано: 15.09.2022 11:00</span><span class="valid-until">Доступно до: 16.09.2025</span></div></div><div class="item"><a href="https://uk-voshozhdenie.ru/wp-content/uploads/raschet-sobstvennyh-sredstv-na-29.07.2022.pdf" class="heading underline">Расчет собственных средств на 31.07.2022</a><div class="info"><span class="upload-date">Опубликовано: 15.08.2022 17:55</span><span class="valid-until">Доступно до: 16.08.2025</span></div></div><div class="item"><a href="https://uk-voshozhdenie.ru/wp-content/uploads/raschet-sobstvennyh-sredstv-na-30.06.2022.pdf" class="heading underline">Расчет собственных средств на 30.06.2022</a><div class="info"><span class="upload-date">Опубликовано: 18.07.2022 17:00</span><span class="valid-until">Доступно до: 19.07.2025</span></div></div><div class="item"><a href="https://uk-voshozhdenie.ru/wp-content/uploads/raschet-sobstvennyh-sredstv-na-31.05.2022.pdf" class="heading underline">Расчет собственных средств на 31.05.2022</a><div class="info"><span class="upload-date">Опубликовано: 17.06.2022 11:40</span><span class="valid-until">Доступно до: 18.06.2025</span></div></div><div class="item"><a href="https://uk-voshozhdenie.ru/wp-content/uploads/raschet-sobstvennyh-sredstv-na-30.04.2022.pdf" class="heading underline">Расчет собственных средств на 30.04.2022</a><div class="info"><span class="upload-date">Опубликовано: 20.05.2022 12:30</span><span class="valid-until">Доступно до: 21.05.2025</span></div></div><div class="item"><a href="https://uk-voshozhdenie.ru/wp-content/uploads/raschet-sobstvennyh-sredstv-na-31.03.2022.pdf" class="heading underline">Расчет собственных средств на 31.03.2022</a><div class="info"><span class="upload-date">Опубликовано: 15.04.2022 13:20</span><span class="valid-until">Доступно до: 16.04.2025</span></div></div><div class="item"><a href="https://uk-voshozhdenie.ru/wp-content/uploads/raschet-sobstvennyh-sredstv-na-28.02.2022.pdf" class="heading underline">Расчет собственных средств на 28.02.2022</a><div class="info"><span class="upload-date">Опубликовано: 16.03.2022 12:45</span><span class="valid-until">Доступно до: 17.03.2025</span></div></div><div class="item"><a href="https://uk-voshozhdenie.ru/wp-content/uploads/soobschenie-o-korrektirovke-informatsii-rss-31.01.2022.pdf" class="heading underline">Сообщение об обнаружении (выявлении) неточных, неполных и (или) недостоверных сведений в раскрываемой информации</a><div class="info"><span class="upload-date">Опубликовано: 15.03.2022 18:55</span><span class="valid-until">Доступно до: 17.02.2025</span></div></div><div class="item"><a href="https://uk-voshozhdenie.ru/wp-content/uploads/raschet-sobstvennyh-sredstv-na-31.01.2022-skorrektirovannyy.pdf" class="heading underline">Расчет собственных средств на 31.01.2022 (скорректированный)</a><div class="info"><span class="upload-date">Опубликовано: 15.03.2022 18:55</span><span class="valid-until">Доступно до: 17.02.2025</span></div></div><div class="item"><a href="https://uk-voshozhdenie.ru/wp-content/uploads/raschet-sobstvennyh-sredstv-na-31.01.2022.pdf" class="heading underline">Расчет собственных средств на 31.01.2022</a><div class="info"><span class="upload-date">Опубликовано: 16.02.2022 15:50</span><span class="valid-until">Доступно до: 17.02.2025</span></div></div><div class="item"><a href="https://uk-voshozhdenie.ru/wp-content/uploads/raschet-sobstvennyh-sredstv-na-31.12.2021.pdf" class="heading underline">Расчет собственных средств на 31.12.2021</a><div class="info"><span class="upload-date">Опубликовано: 24.01.2022 18:15</span><span class="valid-until">Доступно до: 25.01.2025</span></div></div><div class="item"><a href="https://uk-voshozhdenie.ru/wp-content/uploads/raschet-sobstvennyh-sredstv-na-30.11.2021.pdf" class="heading underline">Расчет собственных средств на 30.11.2021</a><div class="info"><span class="upload-date">Опубликовано: 15.12.2021 12:35</span><span class="valid-until">Доступно до: 15.12.2024</span></div></div><div class="item"><a href="https://uk-voshozhdenie.ru/wp-content/uploads/raschet-sobstvennyh-sredstv-na-31.10.2021.pdf" class="heading underline">Расчет собственных средств на 31.10.2021</a><div class="info"><span class="upload-date">Опубликовано: 17.11.2021 14:25</span><span class="valid-until">Доступно до: 17.11.2024</span></div></div><div class="item"><a href="https://uk-voshozhdenie.ru/wp-content/uploads/raschet-sobstvennyh-sredstv-na-30.09.2021.pdf" class="heading underline">Расчет собственных средств на 30.09.2021</a><div class="info"><span class="upload-date">Опубликовано: 15.10.2021 12:15</span><span class="valid-until">Доступно до: 15.10.2024</span></div></div><div class="item"><a href="https://uk-voshozhdenie.ru/wp-content/uploads/raschet-sobstvennyh-sredstv-na-31.08.2021.pdf" class="heading underline">Расчет собственных средств на 31.08.2021</a><div class="info"><span class="upload-date">Опубликовано: 16.09.2021 12:20</span><span class="valid-until">Доступно до: 16.09.2023</span></div></div><div class="item"><a href="https://uk-voshozhdenie.ru/wp-content/uploads/raschet-razmera-sobstvennyh-sredstv-na-31.07.2021.pdf" class="heading underline">Расчет собственных средств на 31.07.2021</a><div class="info"><span class="upload-date">Опубликовано: 13.08.2021 17:45</span><span class="valid-until">Доступно до: 14.08.2023</span></div></div><div class="item"><a href="https://uk-voshozhdenie.ru/wp-content/uploads/raschet-razmera-sobstvennyh-sredstv-na-30.06.2021.pdf" class="heading underline">Расчет собственных средств на 30.06.2021</a><div class="info"><span class="upload-date">Опубликовано: 12.07.2021 17:47</span><span class="valid-until">Доступно до: 12.07.2023</span></div></div><div class="item"><a href="https://uk-voshozhdenie.ru/wp-content/uploads/raschet-razmera-sobstvennyh-sredstv-na-31.05.2021.pdf" class="heading underline">Расчет собственных средств на 31.05.2021</a><div class="info"><span class="upload-date">Опубликовано: 11.06.2021 16:40</span><span class="valid-until">Доступно до: 12.06.2023</span></div></div><div class="item"><a href="https://uk-voshozhdenie.ru/wp-content/uploads/raschet-razmera-sobstvennyh-sredstv-na-30.04.2021.pdf" class="heading underline">Расчет собственных средств на 30.04.2021</a><div class="info"><span class="upload-date">Опубликовано: 14.05.2021 14:10</span><span class="valid-until">Доступно до: 01.01.2024</span></div></div><div class="item"><a href="https://uk-voshozhdenie.ru/wp-content/uploads/raschet-razmera-sobstvennyh-sredstv-za-mart-2021.pdf" class="heading underline">Расчет собственных средств на 31.03.2021</a><div class="info"><span class="upload-date">Опубликовано: 14.04.2021 12:29</span><span class="valid-until">Доступно до: 01.01.2024</span></div></div><div class="item"><a href="https://uk-voshozhdenie.ru/wp-content/uploads/rss-za-fevral-2021.pdf" class="heading underline">Расчет собственных средств на 28.02.2021</a><div class="info"><span class="upload-date">Опубликовано: 15.03.2021 15:38</span><span class="valid-until">Доступно до: 01.01.2024</span></div></div><div class="item"><a href="https://uk-voshozhdenie.ru/wp-content/uploads/rashet-sobstvennyh-sredstv-na-31.01.2021.pdf" class="heading underline">Расчет собственных средств на 31.01.2021</a><div class="info"><span class="upload-date">Опубликовано: 12.02.2021 16:14</span><span class="valid-until">Доступно до: 01.01.2024</span></div></div><div class="item"><a href="https://uk-voshozhdenie.ru/wp-content/uploads/raschet-sobstvennyh-sredstv-na-31.12.2020.pdf" class="heading underline">Расчет собственных средств на 31.12.2020</a><div class="info"><span class="upload-date">Опубликовано: 22.01.2021 15:09</span><span class="valid-until">Доступно до: 01.02.2024</span></div></div><div class="item"><a href="https://uk-voshozhdenie.ru/wp-content/uploads/raschet-sobstvennyh-sredstv-na-30.11.2020-nm.pdf" class="heading underline">Расчет собственных средств на 30.11.2020</a><div class="info"><span class="upload-date">Опубликовано: 14.12.2020 17:55</span><span class="valid-until">Доступно до: 01.01.2024</span></div></div><div class="item"><a href="https://uk-voshozhdenie.ru/wp-content/uploads/raschet-sobstvennyh-sredstv-na-31.10.2020-g.pdf" class="heading underline">Расчет собственных средств на 31.10.2020</a><div class="info"><span class="upload-date">Опубликовано: 16.11.2020 20:35</span><span class="valid-until">Доступно до: 01.12.2023</span></div></div><div class="item"><a href="https://uk-voshozhdenie.ru/wp-content/uploads/raschet-sobstvennyh-sredstv-na-30.09.2020.pdf" class="heading underline">Расчет собственных средств на 30.09.2020</a><div class="info"><span class="upload-date">Опубликовано: 14.10.2020 16:55</span><span class="valid-until">Доступно до: 01.11.2023</span></div></div><div class="item"><a href="https://uk-voshozhdenie.ru/wp-content/uploads/raschet-sobstvennyh-sredstv-na-31.08.2020-g.pdf" class="heading underline">Расчет собственных средств на 31.08.2020</a><div class="info"><span class="upload-date">Опубликовано: 14.09.2020 17:49</span><span class="valid-until">Доступно до: 01.10.2023</span></div></div><div class="item"><a href="https://uk-voshozhdenie.ru/wp-content/uploads/raschet-sobstvennyh-sredstv-na-31.07.2020-g.pdf" class="heading underline">Расчет собственных средств на 31.07.2020</a><div class="info"><span class="upload-date">Опубликовано: 14.08.2020 16:30</span><span class="valid-until">Доступно до: 01.09.2023</span></div></div><div class="item"><a href="https://uk-voshozhdenie.ru/wp-content/uploads/raschet-sobstvennyh-sredstv-na-30.06.2020-g.pdf" class="heading underline">Расчет собственных средств на 30.06.2020</a><div class="info"><span class="upload-date">Опубликовано: 14.07.2020 16:10</span><span class="valid-until">Доступно до: 01.08.2023</span></div></div><div class="item"><a href="https://uk-voshozhdenie.ru/wp-content/uploads/raschet-sobstvennyh-sredstv-na-31.05.2020-g.pdf" class="heading underline">Расчет собственных средств на 31.05.2020</a><div class="info"><span class="upload-date">Опубликовано: 15.06.2020 21:48</span><span class="valid-until">Доступно до: 01.07.2023</span></div></div></div><div id="item-4" class="tab-text js-tab-content" data-tab="4"><h2>Прочая информация</h2><div class="item"><a href="https://uk-voshozhdenie.ru/wp-content/uploads/perechen-insayderskoy-informatsii_s-23.05.2023.pdf" class="heading underline">Перечень инсайдерской информации ООО УК «Восхождение» (действует с 23.05.2023 года).</a><div class="info"><span class="upload-date">Опубликовано: 23.05.2023 15:40</span><span class="valid-until">Доступно бессрочно</span></div></div><div class="item"><a href="https://uk-voshozhdenie.ru/wp-content/uploads/soobschenie-o-rezultatah-prekrascheniya-opif.pdf" class="heading underline">Сообщение о результатах прекращения ОПИФ рыночных финансовых инструментов "Восхождение"</a><div class="info"><span class="upload-date">Опубликовано: 23.01.2023 17:45</span><span class="valid-until">Доступно до: 24.07.2023</span></div></div><div class="item"><a href="https://uk-voshozhdenie.ru/wp-content/uploads/soobschenie-o-prekraschenii-opif-na-sayt.pdf" class="heading underline">Сообщение о прекращении ОПИФ рыночных финансовых инструментов "Восхождение"</a><div class="info"><span class="upload-date">Опубликовано: 26.09.2022 17:25</span><span class="valid-until">Доступно до: 24.01.2026</span></div></div><div class="item"><a href="https://uk-voshozhdenie.ru/wp-content/uploads/soobschenie-ob-annulirovanii-litsenzii-profuchastnika.pdf" class="heading underline">Сообщение об аннулировании Банком России лицензии на осуществление деятельности по управлению ценными бумагами на основании заявления профучастника рынка ценных бумаг</a><div class="info"><span class="upload-date">Опубликовано: 19.05.2022 14:55</span><span class="valid-until">Доступно до: 20.05.2025</span></div></div><div class="item"><a href="https://uk-voshozhdenie.ru/wp-content/uploads/informatsiya-dlya-fl-priznannyh-kvalifitsirovannymi-investorami.pdf" class="heading underline">Информация для физических лиц, признанных ООО УК "Восхождение" квалифицированными инвесторами</a><div class="info"><span class="upload-date">Опубликовано: 01.10.2021 15:15</span><span class="valid-until">Доступно бессрочно</span></div></div><div class="item"><a href="https://uk-voshozhdenie.ru/wp-content/uploads/uvedomlenie-o-dop-vydache-kolichestvo-paev-i-srok-priema-zayavok_sayt.pdf" class="heading underline">Информация о принятом решении о выдаче дополнительных инвестиционных паев и о начале срока приема заявок на приобретение инвестиционных паев комбинированного ЗПИФ «СЕФОЕР» 29.09.2021 года</a><div class="info"><span class="upload-date">Опубликовано: 29.09.2021 13:20</span><span class="valid-until">Доступно бессрочно</span></div></div><div class="item"><a href="https://uk-voshozhdenie.ru/wp-content/uploads/soobschenie-ob-izmenenii-adresa_22.09.2021.pdf" class="heading underline">Сообщение об изменении адреса ООО УК "Восхождение"</a><div class="info"><span class="upload-date">Опубликовано: 23.09.2021 15:00</span><span class="valid-until">Доступно бессрочно</span></div></div><div class="item"><a href="https://uk-voshozhdenie.ru/wp-content/uploads/informatsiya-o-prinyatom-reshenii-o-vydache-dop-paev-i-sroke-priema-zayavok-2.pdf" class="heading underline">Информация о принятом решении о выдаче дополнительных инвестиционных паев и о начале срока приема заявок на приобретение инвестиционных паев комбинированного ЗПИФ «СЕФОЕР»</a><div class="info"><span class="upload-date">Опубликовано: 30.08.2021 15:50</span><span class="valid-until">Доступно бессрочно</span></div></div><div class="item"><a href="https://uk-voshozhdenie.ru/wp-content/uploads/soobschenie-ob-edo-2.pdf" class="heading underline">Сообщение об ЭДО</a><div class="info"><span class="upload-date">Опубликовано: 22.07.2021 11:49</span><span class="valid-until">Доступно бессрочно</span></div></div><div class="item"><a href="https://uk-voshozhdenie.ru/wp-content/uploads/reglament-priznaniya-lits-kvalifitsirovannymi-investorami-new-version.pdf" class="heading underline">Регламент признания лиц квалифицированными инвесторами (новая редакция № 1)</a><div class="info"><span class="upload-date">Опубликовано: 17.06.2021 10:44</span><span class="valid-until">Доступно бессрочно</span></div></div><div class="item"><a href="https://uk-voshozhdenie.ru/wp-content/uploads/soobschenie-ob-izmenenii-adresa-mesta-nazhlzhdeniya-ooo-uk-voshozhdenie.pdf" class="heading underline">Сообщение об изменении адреса места нахождения управляющей компании.</a><div class="info"><span class="upload-date">Опубликовано: 05.03.2020 17:23</span><span class="valid-until">Доступно бессрочно</span></div></div><div class="item"><a href="https://uk-voshozhdenie.ru/wp-content/uploads/soobschenie-ob-izmenenii-nomera-telefona.pdf" class="heading underline">Сообщение об изменении номера телефона.</a><div class="info"><span class="upload-date">Опубликовано: 26.07.2019 15:40</span><span class="valid-until">Доступно бессрочно</span></div></div><div class="item"><a href="https://uk-voshozhdenie.ru/wp-content/uploads/soobschenie-o-smene-generalnogo-direktora.doc" class="heading underline">Сообщение о смене генерального директора.</a><div class="info"><span class="upload-date">Опубликовано: 16.05.2019 12:20</span><span class="valid-until">Доступно бессрочно</span></div></div><div class="item"><a href="https://uk-voshozhdenie.ru/wp-content/uploads/soobschenie-smena-mesta-nahozhdeniya-1.doc" class="heading underline">Сообщение об изменении адреса места нахождения управляющей компании.</a><div class="info"><span class="upload-date">Опубликовано: 21.02.2019 16:40</span><span class="valid-until">Доступно бессрочно</span></div></div><div class="item"><a href="https://uk-voshozhdenie.ru/wp-content/uploads/soobschenie-o-vstuplenii-v-naufor.pdf" class="heading underline">Сообщение о вступлении в НАУФОР.</a><div class="info"><span class="upload-date">Опубликовано: 31.10.2018 17:15</span><span class="valid-until">Доступно бессрочно</span></div></div><div class="item"><a href="https://uk-voshozhdenie.ru/wp-content/uploads/perechen-insayderskoy-informatsi.pdf" class="heading underline">Перечень инсайдерской информации (недействующая редакция).</a><div class="info"><span class="upload-date">Опубликовано: 11.07.2018 10:00</span><span class="valid-until">Доступно бессрочно</span></div></div><div class="item"><a href="https://uk-voshozhdenie.ru/wp-content/uploads/kriteriii-otneseniya-klientov-k-kategorii-klienta-inostrannogo-nalogoplatelschika.pdf" class="heading underline">Критерии отнесения клиентов к категории клиента -иностранного налогоплательщика.</a><div class="info"><span class="upload-date">Опубликовано: 11.07.2018 10:00</span><span class="valid-until">Доступно бессрочно</span></div></div><div class="item"><a href="https://uk-voshozhdenie.ru/wp-content/uploads/reglament-priznaniya-lits-kvalifitsirovannymi-investorami-1.pdf" class="heading underline">Регламент признания лиц квалифицированными инвесторами.</a><div class="info"><span class="upload-date">Опубликовано: 11.07.2018 00:00</span><span class="valid-until">Доступно бессрочно</span></div></div><div class="item"><a href="https://uk-voshozhdenie.ru/wp-content/uploads/politika-osuschestvleniya-prav-golosa-po-aktsiyam-sostavlyayuschim-pif.pdf" class="heading underline">Политика осуществления прав голоса по акциям составляющим ПИФ.</a><div class="info"><span class="upload-date">Опубликовано: 11.09.2018 10:00</span><span class="valid-until">Доступно бессрочно</span></div></div><div class="item"><a href="https://uk-voshozhdenie.ru/wp-content/uploads/soobschenie-ob-edo.pdf" class="heading underline">Сообщение об ЭДО.</a><div class="info"><span class="upload-date">Опубликовано: 04.07.2018 10:30</span><span class="valid-until">Доступно бессрочно</span></div></div><div class="item"><a href="https://uk-voshozhdenie.ru/wp-content/uploads/litsentsiya.pdf" class="heading underline">Лицензия №21-000-1-1017 от 15 мая 2018 г. на осуществление деятельности по управлению инвестиционными фондами, паевыми инвестиционными фондами и негосударственными пенсионными фондами.</a><div class="info"><span class="upload-date">Опубликовано: 17.05.2018 10:05</span><span class="valid-until">Доступно бессрочно</span></div></div></div>				</div>
+				
+				<script>
+					jQuery(function($) {
+					   $('.tab-text')
+					       .slice(0,1).addClass('active');
+					});
+				</script>
+			</div>
+			
+		</div>
+		
+		<script>
+			var jsTriggers = document.querySelectorAll('.js-tab-trigger');
+			//
+			jsTriggers.forEach(function(trigger) {
+			   trigger.addEventListener('click', function() {
+			      var id = this.getAttribute('data-tab'),
+			          content = document.querySelector('.js-tab-content[data-tab="'+id+'"]'),
+			          activeTrigger = document.querySelector('.js-tab-trigger.active'),
+			          activeContent = document.querySelector('.js-tab-content.active');
+			      //
+			      activeTrigger.classList.remove('active');
+			      trigger.classList.add('active');
+			      //
+			      activeContent.classList.remove('active');
+			      content.classList.add('active');
+			      //
+			   });
+			});
+		</script>
+		
+	</div><!-- .inside-article -->
+</article><!-- #post-## -->		</main><!-- #main -->
+	</div><!-- #primary -->
+
+	
+	</div><!-- #content -->
+</div><!-- #page -->
+
+<div class="footer-text">
+	<div class="inner">
+		<h4>Общество с ограниченной ответственностью Управляющая компания «Восхождение» (далее – Управляющая компания) осуществляет деятельность на основании Лицензии на осуществление деятельности по управлению инвестиционными фондами, паевыми инвестиционными фондами и негосударственными пенсионными фондами № 21-000-1-01017, предоставленной Банком России 15.05.2018.</h4>
+<h4>Информация раскрывается в соответствии с требованиями внутренних стандартов НАУФОР.</h4>
+<h4>Прием заявок на приобретение и погашение инвестиционных паев осуществляется в офисе ООО УК «Восхождение» по адресу: 115035, г. Москва, вн. тер. г. муниципальный округ Замоскворечье, ул. Пятницкая, д.14, стр. 1, этаж 3, пом. II, ком. 2.</h4>
+<h4>Получить подробную информацию о деятельности управляющей компании, о паевом инвестиционном фонде, о работе пункта приема заявок на приобретение и погашение инвестиционных паев, ознакомиться с правилами доверительного управления паевым инвестиционным фондом и иными документами, предусмотренными Федеральным законом от 29.11.2001 №156-ФЗ «Об инвестиционных фондах» и нормативными актами в сфере финансовых рынков, можно по адресу: 115035, г. Москва, вн. тер. г. муниципальный округ Замоскворечье, ул. Пятницкая, д.14, стр. 1, этаж 3, пом. II, ком. 2, или по телефону +7 (495) 131-83-29, в сети Интернет на сайте Управляющей компании по адресу: <a class="underline" href="https://www.uk-voshozhdenie.ru">https://www.uk-voshozhdenie.ru</a>. Информация, подлежащая опубликованию в печатном издании, публикуется в «Приложении к Вестнику Федеральной службы по финансовым рынкам».</h4>
+<h4>Стоимость инвестиционных паев может увеличиваться и уменьшаться. Результаты инвестирования в прошлом не определяют доходы в будущем. Государство не гарантирует доходность инвестиций в инвестиционные фонды. Прежде чем приобрести инвестиционный пай, следует внимательно ознакомиться с правилами доверительного управления паевым инвестиционным фондом. Правилами доверительного управления паевыми инвестиционными фондами предусмотрены скидки с расчетной стоимости инвестиционных паев при их погашении. Взимание скидок уменьшит доходность инвестиций в инвестиционные паи паевого инвестиционного фонда.</h4>
+	</div>
+</div>
+
+
+<div class="site-footer">
+	    
+    		<footer class="site-info" itemtype="https://schema.org/WPFooter" itemscope="">
+			<div class="inside-site-info grid-container grid-parent">
+								<div class="copyright-bar">
+					2023 © УК "Восхождение"<br><a href="http://lenarshaidullin.ru" style="font-size:14px;text-decoration:underline">разработка сайта</a>				</div>
+			</div>
+		</footer>
+			
+    	
+</div><!-- .site-footer -->
+
+
+<!--  -->
+<script src="/wp-content/themes/uk/assets/js/owl.carousel-2.min.js"></script>
+<script src="/wp-content/themes/uk/assets/js/jquery.fancybox.min.js"></script>
+<script src="/wp-content/themes/uk/assets/js/wow.min.js"></script>
+<script>new WOW().init();</script>
+
+--&gt;
+
+<a title="Прокрутка вверх" aria-label="Прокрутка вверх" rel="nofollow" href="#" class="generate-back-to-top" style="opacity:0;visibility:hidden;" data-scroll-speed="400" data-start-scroll="300">
+					
+				</a><script type="text/javascript">var pseudo_links = document.querySelectorAll(".pseudo-clearfy-link");for (var i=0;i<pseudo_links.length;i++ ) { pseudo_links[i].addEventListener("click", function(e){   window.open( e.target.getAttribute("data-uri") ); }); }</script>
+<!-- .wpdt-c -->
+<div class="wpdt-c">
+    <!-- .wdt-frontend-modal -->
+    <div id="wdt-frontend-modal" class="modal fade wdt-frontend-modal" style="display: none" data-backdrop="static" data-keyboard="false" tabindex="-1" role="dialog" aria-hidden="true">
+
+        <!-- .modal-dialog -->
+        <div class="modal-dialog">
+
+            <!-- Preloader -->
+            
+<div class="overlayed wdt-preload-layer animated fadeOut">
+    <div class="preloader pl-lg">
+        <svg class="pl-circular" viewBox="25 25 50 50">
+            <circle class="plc-path" cx="50" cy="50" r="20"></circle>
+        </svg>
+    </div>
+</div>            <!-- /Preloader -->
+
+            <!-- .modal-content -->
+            <div class="modal-content">
+
+                <!-- .modal-header -->
+                <div class="modal-header">
+                    <button type="button" class="close" data-dismiss="modal" aria-label="Close"><span aria-hidden="true">×</span></button>
+                    <h4 class="modal-title"></h4>
+                </div>
+                <!--/ .modal-header -->
+
+                <!-- .modal-body -->
+                <div class="modal-body">
+                </div>
+                <!--/ .modal-body -->
+
+                <!-- .modal-footer -->
+                <div class="modal-footer">
+                </div>
+                <!--/ .modal-footer -->
+            </div>
+            <!--/ .modal-content -->
+        </div>
+        <!--/ .modal-dialog -->
+    </div>
+    <!--/ .wdt-frontend-modal -->
+</div>
+<!--/ .wpdt-c -->
+<!-- .wpdt-c -->
+<div class="wpdt-c">
+    <!-- #wdt-delete-modal -->
+    <div class="modal fade in" id="wdt-delete-modal" style="display: none" data-backdrop="static" data-keyboard="false" tabindex="-1" role="dialog" aria-hidden="true">
+
+        <!-- .modal-dialog -->
+        <div class="modal-dialog">
+
+            <!-- .modal-content -->
+            <div class="modal-content">
+
+                <!-- .modal-header -->
+                <div class="modal-header">
+                    <button type="button" class="close" data-dismiss="modal" aria-label="Close"><span aria-hidden="true">×</span></button>
+                    <h4 class="modal-title">Вы уверены?</h4>
+                </div>
+                <!--/ .modal-header -->
+
+                <!-- .modal-body -->
+                <div class="modal-body">
+                    <!-- .row -->
+                    <div class="row">
+                        <div class="col-sm-12">
+                            <small>Подтвердите удаление. Отменить не возможно!</small>
+                        </div>
+                    </div>
+                    <!--/ .row -->
+                </div>
+                <!--/ .modal-body -->
+
+                <!-- .modal-footer -->
+                <div class="modal-footer">
+                    <button type="button" class="btn bgm-gray btn-icon-text waves-effect wdt-cancel-delete-button" data-dismiss="modal"><i class="zmdi zmdi-close"></i> Отмена</button>
+                    <button type="button" class="btn btn-danger btn-icon-text waves-effect" id="wdt-browse-delete-button"><i class="zmdi zmdi-delete"></i> Удалить</button>
+                </div>
+                <!--/ .modal-footer -->
+            </div>
+            <!--/ .modal-content -->
+        </div>
+        <!--/ .modal-dialog -->
+    </div>
+    <!--/ #wdt-delete-modal -->
+</div>
+<!--/ .wpdt-c --><link rel="stylesheet" id="wdt-bootstrap-css" href="https://uk-voshozhdenie.ru/wp-content/plugins/wpdatatables/assets/css/bootstrap/wpdatatables-bootstrap.css" type="text/css" media="all">
+<link rel="stylesheet" id="wdt-bootstrap-select-css" href="https://uk-voshozhdenie.ru/wp-content/plugins/wpdatatables/assets/css/bootstrap/bootstrap-select/bootstrap-select.min.css" type="text/css" media="all">
+<link rel="stylesheet" id="wdt-bootstrap-tagsinput-css" href="https://uk-voshozhdenie.ru/wp-content/plugins/wpdatatables/assets/css/bootstrap/bootstrap-tagsinput/bootstrap-tagsinput.css" type="text/css" media="all">
+<link rel="stylesheet" id="wdt-bootstrap-datetimepicker-css" href="https://uk-voshozhdenie.ru/wp-content/plugins/wpdatatables/assets/css/bootstrap/bootstrap-datetimepicker/bootstrap-datetimepicker.min.css" type="text/css" media="all">
+<link rel="stylesheet" id="wdt-bootstrap-nouislider-css" href="https://uk-voshozhdenie.ru/wp-content/plugins/wpdatatables/assets/css/bootstrap/bootstrap-nouislider/bootstrap-nouislider.min.css" type="text/css" media="all">
+<link rel="stylesheet" id="wdt-wp-bootstrap-datetimepicker-css" href="https://uk-voshozhdenie.ru/wp-content/plugins/wpdatatables/assets/css/bootstrap/bootstrap-datetimepicker/wdt-bootstrap-datetimepicker.min.css" type="text/css" media="all">
+<link rel="stylesheet" id="wdt-bootstrap-colorpicker-css" href="https://uk-voshozhdenie.ru/wp-content/plugins/wpdatatables/assets/css/bootstrap/bootstrap-colorpicker/bootstrap-colorpicker.min.css" type="text/css" media="all">
+<link rel="stylesheet" id="wdt-animate-css" href="https://uk-voshozhdenie.ru/wp-content/plugins/wpdatatables/assets/css/animate/animate.min.css" type="text/css" media="all">
+<link rel="stylesheet" id="wdt-uikit-css" href="https://uk-voshozhdenie.ru/wp-content/plugins/wpdatatables/assets/css/uikit/uikit.css" type="text/css" media="all">
+<link rel="stylesheet" id="wdt-waves-css" href="https://uk-voshozhdenie.ru/wp-content/plugins/wpdatatables/assets/css/waves/waves.min.css" type="text/css" media="all">
+<link rel="stylesheet" id="wdt-iconic-font-css" href="https://uk-voshozhdenie.ru/wp-content/plugins/wpdatatables/assets/css/material-design-iconic-font/css/material-design-iconic-font.min.css" type="text/css" media="all">
+<link rel="stylesheet" id="wdt-wpdatatables-css" href="https://uk-voshozhdenie.ru/wp-content/plugins/wpdatatables/assets/css/wdt.frontend.min.css" type="text/css" media="all">
+<link rel="stylesheet" id="wdt-skin-css" href="https://uk-voshozhdenie.ru/wp-content/plugins/wpdatatables/assets/css/wdt-skins/light.css" type="text/css" media="all">
+<link rel="stylesheet" id="dashicons-css" href="https://uk-voshozhdenie.ru/wp-includes/css/dashicons.min.css" type="text/css" media="all">
+<script type="text/javascript" src="https://uk-voshozhdenie.ru/wp-content/plugins/gp-premium/menu-plus/functions/js/sticky.min.js"></script>
+<script type="text/javascript">
+/* <![CDATA[ */
+var wpcf7 = {"apiSettings":{"root":"https:\/\/uk-voshozhdenie.ru\/wp-json\/contact-form-7\/v1","namespace":"contact-form-7\/v1"},"cached":"1"};
+/* ]]> */
+</script>
+<script type="text/javascript" src="https://uk-voshozhdenie.ru/wp-content/plugins/contact-form-7/includes/js/scripts.js"></script>
+<script type="text/javascript">
+/* <![CDATA[ */
+var smooth = {"elements":[".smooth-scroll","li.smooth-scroll a"],"duration":"800"};
+/* ]]> */
+</script>
+<script type="text/javascript" src="https://uk-voshozhdenie.ru/wp-content/plugins/gp-premium/general/js/smooth-scroll.min.js"></script>
+<!--[if lte IE 11]>
+<script type='text/javascript' src='https://uk-voshozhdenie.ru/wp-content/themes/generatepress/assets/js/classList.min.js'></script>
+<![endif]-->
+<script type="text/javascript">
+/* <![CDATA[ */
+var generatepressMenu = {"toggleOpenedSubMenus":"1","openSubMenuLabel":"\u041e\u0442\u043a\u0440\u044b\u0442\u044c \u043f\u043e\u0434\u043c\u0435\u043d\u044e","closeSubMenuLabel":"\u0417\u0430\u043a\u0440\u044b\u0442\u044c \u043f\u043e\u0434\u043c\u0435\u043d\u044e"};
+/* ]]> */
+</script>
+<script type="text/javascript" src="https://uk-voshozhdenie.ru/wp-content/themes/generatepress/assets/js/main.min.js"></script>
+<script type="text/javascript">
+/* <![CDATA[ */
+var generatepressNavSearch = {"open":"\u041e\u0442\u043a\u0440\u044b\u0442\u044c \u0441\u0442\u0440\u043e\u043a\u0443 \u043f\u043e\u0438\u0441\u043a\u0430","close":"\u0417\u0430\u043a\u0440\u044b\u0442\u044c \u043f\u0430\u043d\u0435\u043b\u044c \u043f\u043e\u0438\u0441\u043a\u0430"};
+/* ]]> */
+</script>
+<script type="text/javascript" src="https://uk-voshozhdenie.ru/wp-content/themes/generatepress/assets/js/navigation-search.min.js"></script>
+<script type="text/javascript" src="https://uk-voshozhdenie.ru/wp-content/themes/generatepress/assets/js/back-to-top.min.js"></script>
+<script type="text/javascript" src="https://uk-voshozhdenie.ru/wp-includes/js/wp-embed.min.js"></script>
+<script type="text/javascript" src="https://uk-voshozhdenie.ru/wp-content/plugins/wpdatatables/assets/js/bootstrap/bootstrap-select/bootstrap-select.min.js"></script>
+<script type="text/javascript" src="https://uk-voshozhdenie.ru/wp-content/plugins/wpdatatables/assets/js/bootstrap/bootstrap.min.js"></script>
+<script type="text/javascript" src="https://uk-voshozhdenie.ru/wp-content/plugins/wpdatatables/assets/js/bootstrap/bootstrap-select/ajax-bootstrap-select.min.js"></script>
+<script type="text/javascript" src="https://uk-voshozhdenie.ru/wp-content/plugins/wpdatatables/assets/js/bootstrap/bootstrap-tagsinput/bootstrap-tagsinput.js"></script>
+<script type="text/javascript" src="https://uk-voshozhdenie.ru/wp-content/plugins/wpdatatables/assets/js/moment/moment.js"></script>
+<script type="text/javascript" src="https://uk-voshozhdenie.ru/wp-content/plugins/wpdatatables/assets/js/bootstrap/bootstrap-datetimepicker/bootstrap-datetimepicker.min.js"></script>
+<script type="text/javascript" src="https://uk-voshozhdenie.ru/wp-content/plugins/wpdatatables/assets/js/bootstrap/bootstrap-nouislider/bootstrap-nouislider.min.js"></script>
+<script type="text/javascript" src="https://uk-voshozhdenie.ru/wp-content/plugins/wpdatatables/assets/js/bootstrap/bootstrap-nouislider/wNumb.min.js"></script>
+<script type="text/javascript" src="https://uk-voshozhdenie.ru/wp-content/plugins/wpdatatables/assets/js/bootstrap/bootstrap-colorpicker/bootstrap-colorpicker.min.js"></script>
+<script type="text/javascript" src="https://uk-voshozhdenie.ru/wp-content/plugins/wpdatatables/assets/js/bootstrap/bootstrap-growl/bootstrap-growl.min.js"></script>
+<script type="text/javascript" src="https://uk-voshozhdenie.ru/wp-content/plugins/wpdatatables/assets/js/waves/waves.min.js"></script>
+<script type="text/javascript">
+/* <![CDATA[ */
+var wpdatatables_edit_strings = {"add_new_entry":"Add new entry","back_to_date":"\u041d\u0430\u0437\u0430\u0434 \u043a \u0434\u0430\u0442\u0435","browse_file":"\u041f\u0440\u043e\u0441\u043c\u043e\u0442\u0440","cancel":"\u041e\u0442\u043c\u0435\u043d\u0430","cannot_be_empty":" \u043f\u043e\u043b\u0435 \u043d\u0435 \u043c\u043e\u0436\u0435\u0442 \u0431\u044b\u0442\u044c \u043f\u0443\u0441\u0442\u044b\u043c!","cannot_be_edit":"You can't edit this field","changeFileAttachment":"Change","choose_file":"\u0418\u0441\u043f\u043e\u043b\u044c\u0437\u043e\u0432\u0430\u0442\u044c \u0432\u044b\u0431\u0440\u0430\u043d\u043d\u044b\u0439 \u0444\u0430\u0439\u043b","chooseFile":"\u0412\u044b\u0431\u0440\u0430\u0442\u044c \u0444\u0430\u0439\u043b","close":"\u0417\u0430\u043a\u0440\u044b\u0442\u044c","columnAdded":"\u0421\u0442\u043e\u043b\u0431\u0435\u0446 \u0431\u044b\u043b \u0434\u043e\u0431\u0430\u0432\u043b\u0435\u043d!","columnHeaderEmpty":"\u0417\u0430\u0433\u043e\u043b\u043e\u0432\u043e\u043a \u0441\u0442\u043e\u043b\u0431\u0446\u0430 \u043d\u0435 \u043c\u043e\u0436\u0435\u0442 \u0431\u044b\u0442\u044c \u043f\u0443\u0441\u0442\u044b\u043c!","columnRemoveConfirm":"\u041f\u043e\u0434\u0442\u0432\u0435\u0440\u0434\u0438\u0442\u0435 \u0443\u0434\u0430\u043b\u0435\u043d\u0438\u0435 \u0441\u0442\u043e\u043b\u0431\u0446\u0430!","columnRemoved":"\u0421\u0442\u043e\u043b\u0431\u0435\u0446 \u0431\u044b\u043b \u0443\u0434\u0430\u043b\u0435\u043d!","columnsEmpty":"\u0412\u044b\u0431\u0435\u0440\u0438\u0442\u0435 \u0441\u0442\u043e\u043b\u0431\u0435\u0446 \u043a\u043e\u0442\u043e\u0440\u044b\u0439 \u0432\u044b \u0445\u043e\u0442\u0438\u0442\u0435 \u0438\u0441\u043f\u043e\u043b\u044c\u0437\u043e\u0432\u0430\u0442\u044c \u0432 \u0442\u0430\u0431\u043b\u0438\u0446\u0435","copy":"\u041a\u043e\u043f\u0438\u0440\u043e\u0432\u0430\u0442\u044c","currentlySelected":"Currently selected","databaseInsertError":"\u041f\u0440\u0438 \u043f\u043e\u043f\u044b\u0442\u043a\u0435 \u0432\u0441\u0442\u0430\u0432\u0438\u0442\u044c \u043d\u043e\u0432\u0443\u044e \u0441\u0442\u0440\u043e\u043a\u0443 \u043f\u0440\u043e\u0438\u0437\u043e\u0448\u043b\u0430 \u043e\u0448\u0438\u0431\u043a\u0430!","dataSaved":"\u0414\u0430\u043d\u043d\u044b\u0435 \u0441\u043e\u0445\u0440\u0430\u043d\u0435\u043d\u044b!","detach_file":"\u043e\u0442\u0432\u044f\u0437\u0430\u0442\u044c","edit_entry":"Edit entry","error":"\u041e\u0448\u0438\u0431\u043a\u0430!","errorText":"Unable to retrieve results","fileUploadEmptyFile":"\u0417\u0430\u0433\u0440\u0443\u0437\u0438\u0442\u0435 \u0444\u0430\u0439\u043b, \u0438\u043b\u0438 \u0432\u044b\u0431\u0435\u0440\u0438\u0442\u0435 \u0443\u0436\u0435 \u0437\u0430\u0433\u0440\u0443\u0436\u0435\u043d\u043d\u044b\u0439 \u0444\u0430\u0439\u043b \u0432 \u043c\u0435\u0434\u0438\u0430 \u0431\u0438\u0431\u043b\u0438\u043e\u0442\u0435\u043a\u0435!","from":"\u041e\u0442","invalid_email":"\u0412\u0432\u0435\u0434\u0438\u0442\u0435 \u043a\u043e\u0440\u0440\u0435\u043a\u0442\u043d\u044b\u0439 e-mail \u0430\u0434\u0440\u0435\u0441 \u0434\u043b\u044f \u043f\u043e\u043b\u044f","invalid_link":"\u0412\u0432\u0435\u0434\u0438\u0442\u0435 \u043a\u043e\u0440\u0440\u0435\u043a\u0442\u043d\u044b\u0439 URL-\u0430\u0434\u0440\u0435\u0441 \u0434\u043b\u044f \u043f\u043e\u043b\u044f","invalid_value":"\u0412\u044b \u0432\u0432\u0435\u043b\u0438 \u043d\u0435\u0434\u043e\u043f\u0443\u0441\u0442\u0438\u043c\u043e\u0435 \u0437\u043d\u0430\u0447\u0435\u043d\u0438\u0435. \u0414\u043b\u044f \u043e\u0442\u043c\u0435\u043d\u044b \u043d\u0430\u0436\u043c\u0438\u0442\u0435 ESC.","lengthMenu":"\u041f\u043e\u043a\u0430\u0437\u044b\u0432\u0430\u0442\u044c _MENU_ \u0441\u0442\u0440\u043e\u043a","merge":"\u041e\u0431\u044a\u0435\u0434\u0438\u043d\u0438\u0442\u044c","newColumnName":"\u041d\u043e\u0432\u044b\u0439 \u0441\u0442\u043e\u043b\u0431\u0435\u0446","nothingSelected":"Nothing selected","oAria":{"sSortAscending":": \u043d\u0430\u0436\u043c\u0438\u0442\u0435 \u0434\u043b\u044f \u0441\u043e\u0440\u0442\u0438\u0440\u043e\u0432\u043a\u0438 \u043f\u043e \u044d\u0442\u043e\u0439 \u043a\u043e\u043b\u043e\u043d\u043a\u0435 \u043f\u043e \u0432\u043e\u0437\u0440\u0430\u0441\u0442\u0430\u043d\u0438\u044e","sSortDescending":": \u043d\u0430\u0436\u043c\u0438\u0442\u0435 \u0434\u043b\u044f \u0441\u043e\u0440\u0442\u0438\u0440\u043e\u0432\u043a\u0438 \u043f\u043e \u044d\u0442\u043e\u0439 \u043a\u043e\u043b\u043e\u043d\u043a\u0435 \u043f\u043e \u0443\u0431\u044b\u0432\u0430\u043d\u0438\u044e"},"ok":"OK","oPaginate":{"sFirst":"\u041f\u0435\u0440\u0432\u0430\u044f","sLast":"\u041f\u043e\u0441\u043b\u0435\u0434\u043d\u044f\u044f","sNext":"\u0414\u0430\u043b\u0435\u0435","sPrevious":"\u041d\u0430\u0437\u0430\u0434"},"previousFilter":"Choose an option in previous filters","replace":"\u0417\u0430\u043c\u0435\u043d\u0438\u0442\u044c","removeFileAttachment":"\u0423\u0434\u0430\u043b\u0438\u0442\u044c","rowDeleted":"\u0421\u0442\u0440\u043e\u043a\u0430 \u0443\u0434\u0430\u043b\u0435\u043d\u0430!","saveFileAttachment":"\u0421\u043e\u0445\u0440\u0430\u043d\u0438\u0442\u044c","select_upload_file":"\u0412\u044b\u0431\u0440\u0430\u0442\u044c \u0444\u0430\u0439\u043b \u0434\u043b\u044f \u0438\u0441\u043f\u043e\u043b\u044c\u0437\u043e\u0432\u0430\u043d\u0438\u044f \u0432 \u0442\u0430\u0431\u043b\u0438\u0446\u0435","selectFileAttachment":"Select file","selectExcelCsv":"\u0412\u044b\u0431\u0435\u0440\u0438\u0442\u0435 Excel \u0438\u043b\u0438 CSV \u0444\u0430\u0439\u043b","sEmptyTable":"\u0414\u0430\u043d\u043d\u044b\u0435 \u0432 \u0442\u0430\u0431\u043b\u0438\u0446\u0435 \u043e\u0442\u0441\u0443\u0442\u0441\u0442\u0432\u0443\u044e\u0442","settings_saved_successful":"\u041d\u0430\u0441\u0442\u0440\u043e\u0439\u043a\u0438 \u043f\u043b\u0430\u0433\u0438\u043d\u0430 \u0443\u0441\u043f\u0435\u0448\u043d\u043e \u0441\u043e\u0445\u0440\u0430\u043d\u0435\u043d\u044b","shortcodeSaved":"\u0428\u043e\u0440\u0442\u043a\u043e\u0434 \u0441\u043a\u043e\u043f\u0438\u0440\u043e\u0432\u0430\u043d \u0432 \u0431\u0443\u0444\u0435\u0440 \u043e\u0431\u043c\u0435\u043d\u0430.","sInfo":"\u041e\u0442\u043e\u0431\u0440\u0430\u0436\u0430\u044e\u0442\u0441\u044f \u0441\u0442\u0440\u043e\u043a\u0438 _START_ - _END_ \u0438\u0437 _TOTAL_","sInfoEmpty":"\u041e\u0442\u043e\u0431\u0440\u0430\u0436\u0435\u043d\u0438\u0435 \u043e\u0442 0 \u0434\u043e 0 \u0437\u0430\u043f\u0438\u0441\u0435\u0439 \u0438\u0437 0","sInfoFiltered":"(\u043e\u0442\u0444\u0438\u043b\u044c\u0442\u0440\u043e\u0432\u0430\u043d\u043e \u0438\u0437 _MAX_ \u044d\u043b\u0435\u043c\u0435\u043d\u0442\u043e\u0432)","sInfoPostFix":"","sInfoThousands":",","sLengthMenu":"\u041f\u043e\u043a\u0430\u0437\u044b\u0432\u0430\u0442\u044c _MENU_ \u0441\u0442\u0440\u043e\u043a","sLoadingRecords":"\u0417\u0430\u0433\u0440\u0443\u0437\u043a\u0430\u2026","sProcessing":"\u041e\u0431\u0440\u0430\u0431\u043e\u0442\u043a\u0430\u2026","sqlError":"\u041e\u0448\u0438\u0431\u043a\u0430 SQL","sSearch":"\u041f\u043e\u0438\u0441\u043a: ","statusInitialized":"Start typing a search query","statusNoResults":"No Results","statusTooShort":"Please enter more characters","search":"Search...","success":"\u0412\u044b\u043f\u043e\u043b\u043d\u0435\u043d\u043e!","sZeroRecords":"\u041d\u0435 \u043d\u0430\u0439\u0434\u0435\u043d\u044b \u0441\u0442\u0440\u043e\u043a\u0438 \u043f\u043e \u0437\u0430\u0434\u0430\u043d\u043d\u044b\u043c \u043a\u0440\u0438\u0442\u0435\u0440\u0438\u044f\u043c","tableSaved":"\u0422\u0430\u0431\u043b\u0438\u0446\u0430 \u0443\u0441\u043f\u0435\u0448\u043d\u043e \u0441\u043e\u0445\u0440\u0430\u043d\u0435\u043d\u0430!","to":"\u0414\u043e","purchaseCodeInvalid":"The purchase code is invalid or it has expired","activation_domains_limit":"You have reached maximum number of registered domains","activation_envato_failed":"It seems you don't have a valid purchase of wpDataTables","envato_failed_powerful":"It seems you don't have a valid purchase of Powerful Filters for wpDataTables","envato_failed_report":"It seems you don't have a valid purchase of Report Builder for wpDataTables","envato_failed_gravity":"It seems you don't have a valid purchase of Gravity Forms integration for wpDataTables","envato_failed_formidable":"It seems you don't have a valid purchase of Formidable Forms integration for wpDataTables","pluginActivated":"Plugin has been activated","pluginDeactivated":"Plugin has been deactivated","envato_api_activated":"Activated with Envato","activateWithEnvato":"Activate with Envato","unable_to_deactivate_plugin":"Unable to deactivate plugin. Please try again later."};
+/* ]]> */
+</script>
+<script type="text/javascript" src="https://uk-voshozhdenie.ru/wp-content/plugins/wpdatatables/assets/js/wpdatatables/admin/common.js"></script>
+<script type="text/javascript">
+/* <![CDATA[ */
+var wdt_ajax_object = {"ajaxurl":"https:\/\/uk-voshozhdenie.ru\/wp-admin\/admin-ajax.php"};
+var wpdatatables_settings = {"wdtDateFormat":"d.m.Y","wdtTimeFormat":"H:i"};
+var wpdatatables_frontend_strings = {"add_new_entry":"Add new entry","back_to_date":"\u041d\u0430\u0437\u0430\u0434 \u043a \u0434\u0430\u0442\u0435","browse_file":"\u041f\u0440\u043e\u0441\u043c\u043e\u0442\u0440","cancel":"\u041e\u0442\u043c\u0435\u043d\u0430","cannot_be_empty":" \u043f\u043e\u043b\u0435 \u043d\u0435 \u043c\u043e\u0436\u0435\u0442 \u0431\u044b\u0442\u044c \u043f\u0443\u0441\u0442\u044b\u043c!","cannot_be_edit":"You can't edit this field","changeFileAttachment":"Change","choose_file":"\u0418\u0441\u043f\u043e\u043b\u044c\u0437\u043e\u0432\u0430\u0442\u044c \u0432\u044b\u0431\u0440\u0430\u043d\u043d\u044b\u0439 \u0444\u0430\u0439\u043b","chooseFile":"\u0412\u044b\u0431\u0440\u0430\u0442\u044c \u0444\u0430\u0439\u043b","close":"\u0417\u0430\u043a\u0440\u044b\u0442\u044c","columnAdded":"\u0421\u0442\u043e\u043b\u0431\u0435\u0446 \u0431\u044b\u043b \u0434\u043e\u0431\u0430\u0432\u043b\u0435\u043d!","columnHeaderEmpty":"\u0417\u0430\u0433\u043e\u043b\u043e\u0432\u043e\u043a \u0441\u0442\u043e\u043b\u0431\u0446\u0430 \u043d\u0435 \u043c\u043e\u0436\u0435\u0442 \u0431\u044b\u0442\u044c \u043f\u0443\u0441\u0442\u044b\u043c!","columnRemoveConfirm":"\u041f\u043e\u0434\u0442\u0432\u0435\u0440\u0434\u0438\u0442\u0435 \u0443\u0434\u0430\u043b\u0435\u043d\u0438\u0435 \u0441\u0442\u043e\u043b\u0431\u0446\u0430!","columnRemoved":"\u0421\u0442\u043e\u043b\u0431\u0435\u0446 \u0431\u044b\u043b \u0443\u0434\u0430\u043b\u0435\u043d!","columnsEmpty":"\u0412\u044b\u0431\u0435\u0440\u0438\u0442\u0435 \u0441\u0442\u043e\u043b\u0431\u0435\u0446 \u043a\u043e\u0442\u043e\u0440\u044b\u0439 \u0432\u044b \u0445\u043e\u0442\u0438\u0442\u0435 \u0438\u0441\u043f\u043e\u043b\u044c\u0437\u043e\u0432\u0430\u0442\u044c \u0432 \u0442\u0430\u0431\u043b\u0438\u0446\u0435","copy":"\u041a\u043e\u043f\u0438\u0440\u043e\u0432\u0430\u0442\u044c","currentlySelected":"Currently selected","databaseInsertError":"\u041f\u0440\u0438 \u043f\u043e\u043f\u044b\u0442\u043a\u0435 \u0432\u0441\u0442\u0430\u0432\u0438\u0442\u044c \u043d\u043e\u0432\u0443\u044e \u0441\u0442\u0440\u043e\u043a\u0443 \u043f\u0440\u043e\u0438\u0437\u043e\u0448\u043b\u0430 \u043e\u0448\u0438\u0431\u043a\u0430!","dataSaved":"\u0414\u0430\u043d\u043d\u044b\u0435 \u0441\u043e\u0445\u0440\u0430\u043d\u0435\u043d\u044b!","detach_file":"\u043e\u0442\u0432\u044f\u0437\u0430\u0442\u044c","edit_entry":"Edit entry","error":"\u041e\u0448\u0438\u0431\u043a\u0430!","errorText":"Unable to retrieve results","fileUploadEmptyFile":"\u0417\u0430\u0433\u0440\u0443\u0437\u0438\u0442\u0435 \u0444\u0430\u0439\u043b, \u0438\u043b\u0438 \u0432\u044b\u0431\u0435\u0440\u0438\u0442\u0435 \u0443\u0436\u0435 \u0437\u0430\u0433\u0440\u0443\u0436\u0435\u043d\u043d\u044b\u0439 \u0444\u0430\u0439\u043b \u0432 \u043c\u0435\u0434\u0438\u0430 \u0431\u0438\u0431\u043b\u0438\u043e\u0442\u0435\u043a\u0435!","from":"\u041e\u0442","invalid_email":"\u0412\u0432\u0435\u0434\u0438\u0442\u0435 \u043a\u043e\u0440\u0440\u0435\u043a\u0442\u043d\u044b\u0439 e-mail \u0430\u0434\u0440\u0435\u0441 \u0434\u043b\u044f \u043f\u043e\u043b\u044f","invalid_link":"\u0412\u0432\u0435\u0434\u0438\u0442\u0435 \u043a\u043e\u0440\u0440\u0435\u043a\u0442\u043d\u044b\u0439 URL-\u0430\u0434\u0440\u0435\u0441 \u0434\u043b\u044f \u043f\u043e\u043b\u044f","invalid_value":"\u0412\u044b \u0432\u0432\u0435\u043b\u0438 \u043d\u0435\u0434\u043e\u043f\u0443\u0441\u0442\u0438\u043c\u043e\u0435 \u0437\u043d\u0430\u0447\u0435\u043d\u0438\u0435. \u0414\u043b\u044f \u043e\u0442\u043c\u0435\u043d\u044b \u043d\u0430\u0436\u043c\u0438\u0442\u0435 ESC.","lengthMenu":"\u041f\u043e\u043a\u0430\u0437\u044b\u0432\u0430\u0442\u044c _MENU_ \u0441\u0442\u0440\u043e\u043a","merge":"\u041e\u0431\u044a\u0435\u0434\u0438\u043d\u0438\u0442\u044c","newColumnName":"\u041d\u043e\u0432\u044b\u0439 \u0441\u0442\u043e\u043b\u0431\u0435\u0446","nothingSelected":"Nothing selected","oAria":{"sSortAscending":": \u043d\u0430\u0436\u043c\u0438\u0442\u0435 \u0434\u043b\u044f \u0441\u043e\u0440\u0442\u0438\u0440\u043e\u0432\u043a\u0438 \u043f\u043e \u044d\u0442\u043e\u0439 \u043a\u043e\u043b\u043e\u043d\u043a\u0435 \u043f\u043e \u0432\u043e\u0437\u0440\u0430\u0441\u0442\u0430\u043d\u0438\u044e","sSortDescending":": \u043d\u0430\u0436\u043c\u0438\u0442\u0435 \u0434\u043b\u044f \u0441\u043e\u0440\u0442\u0438\u0440\u043e\u0432\u043a\u0438 \u043f\u043e \u044d\u0442\u043e\u0439 \u043a\u043e\u043b\u043e\u043d\u043a\u0435 \u043f\u043e \u0443\u0431\u044b\u0432\u0430\u043d\u0438\u044e"},"ok":"OK","oPaginate":{"sFirst":"\u041f\u0435\u0440\u0432\u0430\u044f","sLast":"\u041f\u043e\u0441\u043b\u0435\u0434\u043d\u044f\u044f","sNext":"\u0414\u0430\u043b\u0435\u0435","sPrevious":"\u041d\u0430\u0437\u0430\u0434"},"previousFilter":"Choose an option in previous filters","replace":"\u0417\u0430\u043c\u0435\u043d\u0438\u0442\u044c","removeFileAttachment":"\u0423\u0434\u0430\u043b\u0438\u0442\u044c","rowDeleted":"\u0421\u0442\u0440\u043e\u043a\u0430 \u0443\u0434\u0430\u043b\u0435\u043d\u0430!","saveFileAttachment":"\u0421\u043e\u0445\u0440\u0430\u043d\u0438\u0442\u044c","select_upload_file":"\u0412\u044b\u0431\u0440\u0430\u0442\u044c \u0444\u0430\u0439\u043b \u0434\u043b\u044f \u0438\u0441\u043f\u043e\u043b\u044c\u0437\u043e\u0432\u0430\u043d\u0438\u044f \u0432 \u0442\u0430\u0431\u043b\u0438\u0446\u0435","selectFileAttachment":"Select file","selectExcelCsv":"\u0412\u044b\u0431\u0435\u0440\u0438\u0442\u0435 Excel \u0438\u043b\u0438 CSV \u0444\u0430\u0439\u043b","sEmptyTable":"\u0414\u0430\u043d\u043d\u044b\u0435 \u0432 \u0442\u0430\u0431\u043b\u0438\u0446\u0435 \u043e\u0442\u0441\u0443\u0442\u0441\u0442\u0432\u0443\u044e\u0442","settings_saved_successful":"\u041d\u0430\u0441\u0442\u0440\u043e\u0439\u043a\u0438 \u043f\u043b\u0430\u0433\u0438\u043d\u0430 \u0443\u0441\u043f\u0435\u0448\u043d\u043e \u0441\u043e\u0445\u0440\u0430\u043d\u0435\u043d\u044b","shortcodeSaved":"\u0428\u043e\u0440\u0442\u043a\u043e\u0434 \u0441\u043a\u043e\u043f\u0438\u0440\u043e\u0432\u0430\u043d \u0432 \u0431\u0443\u0444\u0435\u0440 \u043e\u0431\u043c\u0435\u043d\u0430.","sInfo":"\u041e\u0442\u043e\u0431\u0440\u0430\u0436\u0430\u044e\u0442\u0441\u044f \u0441\u0442\u0440\u043e\u043a\u0438 _START_ - _END_ \u0438\u0437 _TOTAL_","sInfoEmpty":"\u041e\u0442\u043e\u0431\u0440\u0430\u0436\u0435\u043d\u0438\u0435 \u043e\u0442 0 \u0434\u043e 0 \u0437\u0430\u043f\u0438\u0441\u0435\u0439 \u0438\u0437 0","sInfoFiltered":"(\u043e\u0442\u0444\u0438\u043b\u044c\u0442\u0440\u043e\u0432\u0430\u043d\u043e \u0438\u0437 _MAX_ \u044d\u043b\u0435\u043c\u0435\u043d\u0442\u043e\u0432)","sInfoPostFix":"","sInfoThousands":",","sLengthMenu":"\u041f\u043e\u043a\u0430\u0437\u044b\u0432\u0430\u0442\u044c _MENU_ \u0441\u0442\u0440\u043e\u043a","sLoadingRecords":"\u0417\u0430\u0433\u0440\u0443\u0437\u043a\u0430\u2026","sProcessing":"\u041e\u0431\u0440\u0430\u0431\u043e\u0442\u043a\u0430\u2026","sqlError":"\u041e\u0448\u0438\u0431\u043a\u0430 SQL","sSearch":"\u041f\u043e\u0438\u0441\u043a: ","statusInitialized":"Start typing a search query","statusNoResults":"No Results","statusTooShort":"Please enter more characters","search":"Search...","success":"\u0412\u044b\u043f\u043e\u043b\u043d\u0435\u043d\u043e!","sZeroRecords":"\u041d\u0435 \u043d\u0430\u0439\u0434\u0435\u043d\u044b \u0441\u0442\u0440\u043e\u043a\u0438 \u043f\u043e \u0437\u0430\u0434\u0430\u043d\u043d\u044b\u043c \u043a\u0440\u0438\u0442\u0435\u0440\u0438\u044f\u043c","tableSaved":"\u0422\u0430\u0431\u043b\u0438\u0446\u0430 \u0443\u0441\u043f\u0435\u0448\u043d\u043e \u0441\u043e\u0445\u0440\u0430\u043d\u0435\u043d\u0430!","to":"\u0414\u043e","purchaseCodeInvalid":"The purchase code is invalid or it has expired","activation_domains_limit":"You have reached maximum number of registered domains","activation_envato_failed":"It seems you don't have a valid purchase of wpDataTables","envato_failed_powerful":"It seems you don't have a valid purchase of Powerful Filters for wpDataTables","envato_failed_report":"It seems you don't have a valid purchase of Report Builder for wpDataTables","envato_failed_gravity":"It seems you don't have a valid purchase of Gravity Forms integration for wpDataTables","envato_failed_formidable":"It seems you don't have a valid purchase of Formidable Forms integration for wpDataTables","pluginActivated":"Plugin has been activated","pluginDeactivated":"Plugin has been deactivated","envato_api_activated":"Activated with Envato","activateWithEnvato":"Activate with Envato","unable_to_deactivate_plugin":"Unable to deactivate plugin. Please try again later."};
+/* ]]> */
+</script>
+<script type="text/javascript" src="https://uk-voshozhdenie.ru/wp-content/plugins/wpdatatables/assets/js/wpdatatables/wdt.frontend.min.js"></script>
+<script type="text/javascript" src="https://uk-voshozhdenie.ru/wp-includes/js/underscore.min.js"></script>
+
+
+
+
+
+
+

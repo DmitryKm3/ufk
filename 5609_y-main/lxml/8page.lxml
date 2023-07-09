@@ -1,0 +1,256 @@
+
+
+<!-- CANVAS -->
+<div class="l-canvas sidebar_none type_boxed titlebar_default">
+
+	
+		
+		<!-- HEADER -->
+		<div class="l-header layout_standard pos_fixed bg_solid">
+
+						<div class="l-subheader at_middle">
+				<div class="l-subheader-h i-cf">
+
+					
+					<div class="w-logo  with_title"><a class="w-logo-link" href="https://24ki.ru/"><span class="w-logo-title"><b>ООО УК "КАПИТАЛ ИНВЕСТ"</b></span></a></div>
+					
+						
+													<div class="w-search layout_fullscreen">
+	<div class="w-search-open"></div>
+	<div class="w-search-background"></div>
+<div class="w-form for_search" id="us_form_1">
+	<form class="w-form-h" autocomplete="off" action="https://24ki.ru/" method="get">
+							<div class="w-form-row for_s">
+	<div class="w-form-row-label">
+		<label for="us_form_1_s">Наберите текст и нажмите Enter</label>
+	</div>
+	<div class="w-form-row-field">
+				<input type="text" name="s" id="us_form_1_s" value="" placeholder="поиск ...">
+		<span class="w-form-row-field-bar"></span>
+			</div>
+	<div class="w-form-row-state"></div>
+	</div>
+					<div class="w-form-row for_submit">
+	<div class="w-form-row-field">
+		<button class="w-btn" type="submit"><span class="g-preloader type_1"></span><span class="w-btn-label">Поиск</span></button>
+	</div>
+</div>
+				<div class="w-form-message"></div>
+		<div class="w-search-close"></div>	</form>
+	</div>
+</div>
+						
+						<!-- NAV -->
+<nav class="w-nav layout_hor type_desktop animation_height height_full">
+	<div class="w-nav-control"></div>
+	<ul class="w-nav-list level_1 hover_underline">
+		<li id="menu-item-84" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children w-nav-item level_1 menu-item-84 togglable"><a class="w-nav-anchor level_1" href="https://24ki.ru/"><span class="w-nav-title">О компании</span><span class="w-nav-arrow"></span></a>
+<ul class="w-nav-list level_2">
+	<li id="menu-item-83" class="menu-item menu-item-type-post_type menu-item-object-page w-nav-item level_2 menu-item-83"><a class="w-nav-anchor level_2" href="https://24ki.ru/about/info/"><span class="w-nav-title">Общая информация</span><span class="w-nav-arrow"></span></a>	</li>
+	<li id="menu-item-158" class="menu-item menu-item-type-post_type menu-item-object-page w-nav-item level_2 menu-item-158"><a class="w-nav-anchor level_2" href="https://24ki.ru/about/%d0%bb%d0%b8%d1%86%d0%b5%d0%bd%d0%b7%d0%b8%d0%b8/"><span class="w-nav-title">Лицензии</span><span class="w-nav-arrow"></span></a>	</li>
+	<li id="menu-item-161" class="menu-item menu-item-type-post_type menu-item-object-page w-nav-item level_2 menu-item-161"><a class="w-nav-anchor level_2" href="https://24ki.ru/about/%d1%81%d0%b2%d0%b5%d0%b4%d0%b5%d0%bd%d0%b8%d1%8f-%d0%be-%d1%87%d0%bb%d0%b5%d0%bd%d1%81%d1%82%d0%b2%d0%b5-%d0%b2-%d1%81%d1%80%d0%be/"><span class="w-nav-title">Сведения о членстве в СРО</span><span class="w-nav-arrow"></span></a>	</li>
+	<li id="menu-item-352" class="menu-item menu-item-type-post_type menu-item-object-page w-nav-item level_2 menu-item-352"><a class="w-nav-anchor level_2" href="https://24ki.ru/about/%d1%81%d0%bf%d0%b8%d1%81%d0%be%d0%ba-%d0%b0%d0%ba%d1%86%d0%b8%d0%be%d0%bd%d0%b5%d1%80%d0%be%d0%b2-%d1%83%d1%87%d0%b0%d1%81%d1%82%d0%bd%d0%b8%d0%ba%d0%be%d0%b2-%d0%bd%d1%84%d0%be-%d0%b8-%d0%bb%d0%b8/"><span class="w-nav-title">Список и схема взаимосвязей акционеров (участников) НФО и лиц, под контролем либо значительным влиянием которых находится НФО</span><span class="w-nav-arrow"></span></a>	</li>
+	<li id="menu-item-645" class="menu-item menu-item-type-post_type menu-item-object-page w-nav-item level_2 menu-item-645"><a class="w-nav-anchor level_2" href="https://24ki.ru/about/%d1%80%d0%b5%d0%b3%d0%bb%d0%b0%d0%bc%d0%b5%d0%bd%d1%82%d1%8b-%d0%b8-%d0%bf%d0%be%d0%bb%d0%be%d0%b6%d0%b5%d0%bd%d0%b8%d1%8f/"><span class="w-nav-title">Регламенты и положения</span><span class="w-nav-arrow"></span></a>	</li>
+	<li id="menu-item-216" class="menu-item menu-item-type-post_type menu-item-object-page w-nav-item level_2 menu-item-216"><a class="w-nav-anchor level_2" href="https://24ki.ru/%d1%80%d0%b0%d1%81%d0%ba%d1%80%d1%8b%d1%82%d0%b8%d0%b5-%d0%b8%d0%bd%d1%84%d1%80%d0%bc%d0%b0%d1%86%d0%b8%d0%b8/%d0%be%d1%84%d0%b8%d1%86%d0%b8%d0%b0%d0%bb%d1%8c%d0%bd%d1%8b%d0%b5-%d1%81%d0%be%d0%be%d0%b1%d1%89%d0%b5%d0%bd%d0%b8%d1%8f/"><span class="w-nav-title">Официальные сообщения</span><span class="w-nav-arrow"></span></a>	</li>
+	<li id="menu-item-162" class="menu-item menu-item-type-post_type menu-item-object-page w-nav-item level_2 menu-item-162"><a class="w-nav-anchor level_2" href="https://24ki.ru/about/%d1%80%d1%83%d0%ba%d0%be%d0%b2%d0%be%d0%b4%d1%81%d1%82%d0%b2%d0%be/"><span class="w-nav-title">Руководство</span><span class="w-nav-arrow"></span></a>	</li>
+</ul>
+</li>
+<li id="menu-item-82" class="menu-item menu-item-type-post_type menu-item-object-page w-nav-item level_1 menu-item-82"><a class="w-nav-anchor level_1" href="https://24ki.ru/funds/"><span class="w-nav-title">Фонды</span><span class="w-nav-arrow"></span></a></li>
+<li id="menu-item-174" class="menu-item menu-item-type-post_type menu-item-object-page current-page-ancestor current-menu-ancestor current-menu-parent current-page-parent current_page_parent current_page_ancestor menu-item-has-children w-nav-item level_1 menu-item-174 togglable"><a class="w-nav-anchor level_1" href="https://24ki.ru/%d1%80%d0%b0%d1%81%d0%ba%d1%80%d1%8b%d1%82%d0%b8%d0%b5-%d0%b8%d0%bd%d1%84%d1%80%d0%bc%d0%b0%d1%86%d0%b8%d0%b8/"><span class="w-nav-title">Раскрываемая информация в соответствии с № 5609-У*</span><span class="w-nav-arrow"></span></a>
+<ul class="w-nav-list level_2">
+	<li id="menu-item-80" class="menu-item menu-item-type-post_type menu-item-object-page w-nav-item level_2 menu-item-80"><a class="w-nav-anchor level_2" href="https://24ki.ru/requisites/"><span class="w-nav-title">Информация об организации. Реквизиты управляющей компании.</span><span class="w-nav-arrow"></span></a>	</li>
+	<li id="menu-item-178" class="menu-item menu-item-type-post_type menu-item-object-page current-menu-item page_item page-item-176 current_page_item w-nav-item level_2 menu-item-178"><a class="w-nav-anchor level_2" href="https://24ki.ru/%d1%80%d0%b0%d1%81%d0%ba%d1%80%d1%8b%d1%82%d0%b8%d0%b5-%d0%b8%d0%bd%d1%84%d1%80%d0%bc%d0%b0%d1%86%d0%b8%d0%b8/%d1%80%d0%b0%d0%b7%d0%bc%d0%b5%d1%80-%d1%81%d0%be%d0%b1%d1%81%d1%82%d0%b2%d0%b5%d0%bd%d0%bd%d1%8b%d1%85-%d1%81%d1%80%d0%b5%d0%b4%d1%81%d1%82%d0%b2/"><span class="w-nav-title">Расчет собственных средств управляющей компании</span><span class="w-nav-arrow"></span></a>	</li>
+	<li id="menu-item-627" class="menu-item menu-item-type-post_type menu-item-object-page w-nav-item level_2 menu-item-627"><a class="w-nav-anchor level_2" href="https://24ki.ru/%d1%80%d0%b0%d1%81%d0%ba%d1%80%d1%8b%d1%82%d0%b8%d0%b5-%d0%b8%d0%bd%d1%84%d1%80%d0%bc%d0%b0%d1%86%d0%b8%d0%b8/%d0%bf%d1%80%d0%be%d0%bc%d0%b5%d0%b6%d1%83%d1%82%d0%be%d1%87%d0%bd%d0%b0%d1%8f-%d0%b1%d1%83%d1%85%d0%b3%d0%b0%d0%bb%d1%82%d0%b5%d1%80%d1%81%d0%ba%d0%b0%d1%8f-%d1%84%d0%b8%d0%bd%d0%b0%d0%bd%d1%81/"><span class="w-nav-title">Промежуточная бухгалтерская (финансовая) отчетность</span><span class="w-nav-arrow"></span></a>	</li>
+	<li id="menu-item-628" class="menu-item menu-item-type-post_type menu-item-object-page w-nav-item level_2 menu-item-628"><a class="w-nav-anchor level_2" href="https://24ki.ru/%d1%80%d0%b0%d1%81%d0%ba%d1%80%d1%8b%d1%82%d0%b8%d0%b5-%d0%b8%d0%bd%d1%84%d1%80%d0%bc%d0%b0%d1%86%d0%b8%d0%b8/%d0%b3%d0%be%d0%b4%d0%be%d0%b2%d0%b0%d1%8f-%d0%b1%d1%83%d1%85%d0%b3%d0%b0%d0%bb%d1%82%d0%b5%d1%80%d1%81%d0%ba%d0%b0%d1%8f-%d1%84%d0%b8%d0%bd%d0%b0%d0%bd%d1%81%d0%be%d0%b2%d0%b0%d1%8f-%d0%be%d1%82/"><span class="w-nav-title">Годовая бухгалтерская (финансовая) отчетность</span><span class="w-nav-arrow"></span></a>	</li>
+	<li id="menu-item-629" class="menu-item menu-item-type-post_type menu-item-object-page w-nav-item level_2 menu-item-629"><a class="w-nav-anchor level_2" href="https://24ki.ru/%d1%80%d0%b0%d1%81%d0%ba%d1%80%d1%8b%d1%82%d0%b8%d0%b5-%d0%b8%d0%bd%d1%84%d1%80%d0%bc%d0%b0%d1%86%d0%b8%d0%b8/%d0%b3%d0%be%d0%b4%d0%be%d0%b2%d0%b0%d1%8f-%d0%ba%d0%be%d0%bd%d1%81%d0%be%d0%bb%d0%b8%d0%b4%d0%b8%d1%80%d0%be%d0%b2%d0%b0%d0%bd%d0%bd%d0%b0%d1%8f-%d1%84%d0%b8%d0%bd%d0%b0%d0%bd%d1%81%d0%be%d0%b2%d0%b0/"><span class="w-nav-title">Годовая консолидированная финансовая отчетность</span><span class="w-nav-arrow"></span></a>	</li>
+	<li id="menu-item-667" class="menu-item menu-item-type-post_type menu-item-object-page w-nav-item level_2 menu-item-667"><a class="w-nav-anchor level_2" href="https://24ki.ru/%d1%80%d0%b0%d1%81%d0%ba%d1%80%d1%8b%d1%82%d0%b8%d0%b5-%d0%b8%d0%bd%d1%84%d1%80%d0%bc%d0%b0%d1%86%d0%b8%d0%b8/%d1%81%d0%be%d0%be%d0%b1%d1%89%d0%b5%d0%bd%d0%b8%d0%b5-%d0%be%d0%b1-%d0%be%d0%b1%d0%bd%d0%b0%d1%80%d1%83%d0%b6%d0%b5%d0%bd%d0%b8%d0%b8-%d0%b2%d1%8b%d1%8f%d0%b2%d0%bb%d0%b5%d0%bd%d0%b8%d0%b8-%d0%bd/"><span class="w-nav-title">Сообщение об обнаружении (выявлении) неточных, неполных и (или) недостоверных сведений в раскрываемой информации</span><span class="w-nav-arrow"></span></a>	</li>
+	<li id="menu-item-666" class="menu-item menu-item-type-post_type menu-item-object-page w-nav-item level_2 menu-item-666"><a class="w-nav-anchor level_2" href="https://24ki.ru/%d1%80%d0%b0%d1%81%d0%ba%d1%80%d1%8b%d1%82%d0%b8%d0%b5-%d0%b8%d0%bd%d1%84%d1%80%d0%bc%d0%b0%d1%86%d0%b8%d0%b8/%d1%81%d0%be%d0%be%d0%b1%d1%89%d0%b5%d0%bd%d0%b8%d0%b5-%d0%be-%d0%bf%d1%80%d0%b5%d0%ba%d1%80%d0%b0%d1%89%d0%b5%d0%bd%d0%b8%d0%b8-%d0%b4%d0%be%d1%81%d1%82%d1%83%d0%bf%d0%b0-%d0%ba-%d1%80%d0%b0%d1%81/"><span class="w-nav-title">Сообщение о прекращении доступа к раскрываемой информации</span><span class="w-nav-arrow"></span></a>	</li>
+	<li id="menu-item-665" class="menu-item menu-item-type-post_type menu-item-object-page w-nav-item level_2 menu-item-665"><a class="w-nav-anchor level_2" href="https://24ki.ru/%d1%80%d0%b0%d1%81%d0%ba%d1%80%d1%8b%d1%82%d0%b8%d0%b5-%d0%b8%d0%bd%d1%84%d1%80%d0%bc%d0%b0%d1%86%d0%b8%d0%b8/%d1%81%d0%be%d0%be%d0%b1%d1%89%d0%b5%d0%bd%d0%b8%d0%b5-%d0%be-%d0%bf%d1%80%d0%be%d0%b2%d0%b5%d0%b4%d0%b5%d0%bd%d0%b8%d0%b8-%d0%bf%d1%80%d0%be%d1%84%d0%b8%d0%bb%d0%b0%d0%ba%d1%82%d0%b8%d1%87%d0%b5/"><span class="w-nav-title">Сообщение о проведении профилактических работ на сайте</span><span class="w-nav-arrow"></span></a>	</li>
+</ul>
+</li>
+	</ul>
+</nav><!-- /NAV -->
+
+					
+									</div>
+			</div>
+			
+		</div>
+		<!-- /HEADER -->
+
+		
+	<div class="l-titlebar imgsize_cover size_small color_alternate"><div class="l-titlebar-h i-cf"><h1>Расчет собственных средств управляющей компании</h1><div class="g-breadcrumbs" xmlns:v="http://rdf.data-vocabulary.org/#"><span typeof="v:Breadcrumb"><a class="g-breadcrumbs-item" rel="v:url" property="v:title" href="https://24ki.ru/">Главная</a></span> <span class="g-breadcrumbs-separator"></span> <span typeof="v:Breadcrumb"><a class="g-breadcrumbs-item" rel="v:url" property="v:title" href="https://24ki.ru/%d1%80%d0%b0%d1%81%d0%ba%d1%80%d1%8b%d1%82%d0%b8%d0%b5-%d0%b8%d0%bd%d1%84%d1%80%d0%bc%d0%b0%d1%86%d0%b8%d0%b8/">Раскрываемая информация в соответствии с № 5609-У*</a></span> <span class="g-breadcrumbs-separator"></span> <span class="g-breadcrumbs-item">Расчет собственных средств управляющей компании</span></div></div></div><!-- MAIN -->
+<div class="l-main">
+	<div class="l-main-h i-cf">
+
+		<div class="l-content g-html">
+
+			
+			<section class="l-section"><div class="l-section-h i-cf"><p><a href="https://24ki.ru/wp-content/uploads/2023/06/Расчет-собственных-средств-на-31.05.2023-к-публикации.xlsx">Расчет собственных средств на 31.05.2023. Дата размещения 14.06.2023</a></p>
+<p><a href="https://24ki.ru/wp-content/uploads/2023/05/Расчет-собственных-средств-на-30.04.2023-к-публикации.xlsx">Расчет собственных средств на 30.04.2023. Дата размещения 16.05.2023</a></p>
+<p><a href="https://24ki.ru/wp-content/uploads/2023/04/Расчет-собственных-средств-на-31.03.2023-к-публикации.xlsx">Расчет собственных средств на 31.03.2023. Дата размещения 12.04.2023</a></p>
+<p><a href="https://24ki.ru/wp-content/uploads/2023/03/Расчет-собственных-средств-на-28.02.2023-к-публикации.xlsx">Расчет собственных средств на 28.02.2023. Дата размещения 13.03.2023</a></p>
+<p><a href="https://24ki.ru/wp-content/uploads/2023/02/Расчет-собственных-средств-на-31.01.2023-к-публикации.xlsx">Расчет собственных средств на 31.01.2023. Дата размещения 10.02.2023</a></p>
+<p><a href="https://24ki.ru/wp-content/uploads/2023/01/Расчет-собственных-средств-на-31.12.2022-к-публикации.xlsx">Расчет собственных средств на 31.12.2022. Дата размещения 19.01.2023</a></p>
+<p><a href="https://24ki.ru/wp-content/uploads/2022/12/Расчет-собственных-средств-на-30.11.2022-к-публикации.xlsx">Расчет собственных средств на 30.11.2022. Дата размещения 08.12.2022</a></p>
+<p><a href="https://24ki.ru/wp-content/uploads/2022/11/Расчет-собственных-средств-на-31.10.2022-к-публикации.xlsx">Расчет собственных средств на 31.10.2022. Дата размещения 10.11.2022</a></p>
+<p><a href="https://24ki.ru/wp-content/uploads/2022/10/Расчет-собственных-средств-на-30.09.2022-к-публикации.xlsx">Расчет собственных средств на 30.09.2022. Дата размещения 11.10.2022</a></p>
+<p><a href="https://24ki.ru/wp-content/uploads/2022/09/Расчет-собственных-средств-на-31.08.2022-к-публикации.xlsx">Расчет собственных средств на 31.08.2022. Дата размещения 09.09.2022</a></p>
+<p><a href="https://24ki.ru/wp-content/uploads/2022/08/Расчет-собственных-средств-на-31.07.2022-к-публикации.xlsx">Расчет собственных средств на 31.07.2022. Дата размещения 09.08.2022</a></p>
+<p><a href="https://24ki.ru/wp-content/uploads/2022/07/Расчет-собственных-средств-на-30.06.2022-к-публикации.xlsx">Расчет собственных средств на 30.06.2022. Дата размещения 12.07.2022</a></p>
+<p><a href="https://24ki.ru/wp-content/uploads/2022/06/Расчет-собственных-средств-на-31.05.2022-к-публикации.xlsx">Расчет собственных средств на 31.05.2022. Дата размещения 14.06.2022</a></p>
+<p><a href="https://24ki.ru/wp-content/uploads/2022/05/Расчет-собственных-средств-на-30.04.2022-к-публикации.xlsx">Расчет собственных средств на 30.04.2022. Дата размещения 18.05.2022</a></p>
+<p><a href="https://24ki.ru/wp-content/uploads/2022/04/Расчет-собственных-средств-на-31.03.2022-к-публикации.xlsx">Расчет собственных средств на 31.03.2022. Дата размещения 08.04.2022</a></p>
+<p><a href="https://24ki.ru/wp-content/uploads/2022/03/Расчет-собственных-средств-на-28.02.2022-к-публикации.xlsx">Расчет собственных средств на 28.02.2022. Дата размещения 11.03.2022</a></p>
+<p><a href="https://24ki.ru/wp-content/uploads/2022/02/Расчет-собственных-средств-на-31.01.2022.xlsx">Расчет собственных средств на 31.01.2022. Дата размещения 08.02.2022</a></p>
+<p><a href="https://24ki.ru/wp-content/uploads/2022/01/Расчет-собственных-средств-на-31.12.2021.xlsx">Расчет собственных средств на 31.12.2021. Дата размещения 21.01.2022</a></p>
+<p><a href="https://24ki.ru/wp-content/uploads/2021/12/Расчет-собственных-средств-на-30.11.2021.pdf">Расчет собственных средств на 30.11.2021. Дата размещения 13.12.2021</a></p>
+<p><a href="https://24ki.ru/wp-content/uploads/2021/11/Расчет-собственных-средств-на-31.10.2021-г.pdf">Расчет собственных средств на 31.10.2021. Дата размещения 16.11.2021</a></p>
+<p><a href="https://24ki.ru/wp-content/uploads/2021/10/Расчет-собственных-средств-на-30.09.2021.pdf">Расчет&nbsp;собственных средств на 30.09.2021. Дата&nbsp;размещения 11.10.2021</a></p>
+<p><a href="https://24ki.ru/wp-content/uploads/2021/09/Расчет-собственных-средств-на-31.08.2021.pdf">Расчет собственных средств на 31.08.2021. Дата публикации 07.09.2021, время публикации 11:00, доступно до 07.09.2022</a></p>
+<p><a href="https://24ki.ru/wp-content/uploads/2021/08/Расчет-собственных-средств-на-31.07.2021.pdf">Расчет собственных средств на 31.07.2021. Дата публикации 12.08.2021, время публикации 15:47, доступно до 12.08.2022</a></p>
+<p><a href="https://24ki.ru/wp-content/uploads/2021/07/Расчет-собственных-средств-на-30.06.2021.pdf">Расчет собственных средств на 30.06.2021. Дата публикации 13.07.2021, время публикации 16:46, доступно: до 13.07.2022</a></p>
+<p><a href="https://24ki.ru/wp-content/uploads/2021/06/Расчет-собственных-средств-на-31.05.2021.pdf">Расчет собственных средств на 31.05.2021. Дата публикации 08.06.2021, время публикации 12:00, доступно: до 08.06.2022</a></p>
+<p><a href="https://24ki.ru/wp-content/uploads/2021/05/Расчет-собственных-средств-на-30.04.2021.pdf">Расчет собственных средств на 30.04.2021. Дата публикации 17.05.2021, время публикации 16:51, доступно: до 17.05.2022</a></p>
+<p><a href="https://24ki.ru/wp-content/uploads/2021/04/Расчет-собственных-средств-на-31.03.2021.pdf">Расчет собственных средств на 31.03.2021. Дата публикации 13.04.2021, время публикации 16:37, доступно: до 13.04.2022</a></p>
+<p><a href="https://24ki.ru/wp-content/uploads/2021/03/Расчет-собственных-средств-на-28.02.2021.pdf">Расчет собственных средств на 28.02.2021. Дата публикации 15.03.2021, время публикации 08:24, доступно: до 15.03.2022</a></p>
+<p><a href="https://24ki.ru/wp-content/uploads/2021/02/Расчет-собственных-средств-на-31.01.2021.pdf">Расчет собственных средств на 31.01.2021. Дата публикации 10.02.2021, время публикации 16:09, доступно: до 10.02.2022</a></p>
+<p><a href="https://24ki.ru/wp-content/uploads/2021/01/Расчет-собственных-средств-на-31.12.2020-уточненный.pdf">Расчет собственных средств, уточненный на 31.12.2020. Дата публикации 27.01.2021, время публикации 16:42, доступно: до 27.01.2022</a></p>
+<p><a href="https://24ki.ru/wp-content/uploads/2021/01/Расчет-собственных-средств-на-31.12.2020.pdf">Расчет собственных средств на 31.12.2020. Дата публикации 22.01.2021, время публикации 12:33, доступно: до 22.01.2022</a></p>
+<p><a href="https://24ki.ru/wp-content/uploads/2020/12/Расчет-собственных-средств-на-30.11.2020.pdf">Расчет собственных средств на 30.11.2020. Дата публикации 14.12.2020, время публикации 11:45, доступно: до 14.12.2021</a></p>
+<p><a href="https://24ki.ru/wp-content/uploads/2020/11/Расчет-собственных-средств-на-31.10.2020.pdf">Расчет собственных средств на 31.10.2020. Дата публикации 13.11.2020, время публикации 19:31, доступно: до 13.11.2021</a></p>
+<p><a href="https://24ki.ru/wp-content/uploads/2020/10/Расчет-собственных-средств.pdf">Расчет собственных средств на 30.09.2020. Дата публикации 14.10.2020, время публикации 10:55, доступно: до 14.10.2021</a></p>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+</div></section>
+			
+		</div>
+
+		
+	</div>
+</div>
+
+</div>
+<!-- /CANVAS -->
+
+
+
+<!-- FOOTER -->
+<div class="l-footer layout_compact">
+
+	<!-- subfooter: top -->
+	<div class="l-subfooter at_top">
+		<div class="l-subfooter-h i-cf">
+
+			
+			<div class="g-cols offset_medium">
+							<div class="one-quarter">
+					<div id="us_contacts-2" class="widget widget_us_contacts"><div class="w-contacts"><div class="w-contacts-list"><div class="w-contacts-item for_address"><span class="w-contacts-item-value">Российская Федерация, Красноярский край, Красноярск г., Тургенева ул., д. 31 А, кабинет 21
+</span></div></div></div></div>				</div>
+								<div class="one-quarter">
+					<div id="text-5" class="widget widget_text">			<div class="textwidget"><p>Режим работы:<br>
+Понедельник - пятница: 08:00 - 17:00<br>
+Обеденный перерыв: 13:00-14:00<br>
+Суббота, воскресенье: выходные дни</p>
+</div>
+		</div>				</div>
+								<div class="one-quarter">
+					<div id="us_contacts-4" class="widget widget_us_contacts"><div class="w-contacts"><div class="w-contacts-list"><div class="w-contacts-item for_phone"><span class="w-contacts-item-value">+7 (391) 269-51-09 <br></span></div><div class="w-contacts-item for_email"><span class="w-contacts-item-value"><a href="mailto:uk24ki@bk.ru">uk24ki@bk.ru</a></span></div></div></div></div>				</div>
+								<div class="one-quarter">
+					<div id="text-3" class="widget widget_text">			<div class="textwidget"><img src="http://24ki.ru/wp-content/uploads/2021/03/qr-code-e1615881914122.gif" alt="Image_1"></div>
+		</div>				</div>
+							</div>
+
+			
+		</div>
+	</div>
+
+	<!-- subfooter: bottom -->
+	<div class="l-subfooter at_bottom">
+		<div class="l-subfooter-h i-cf">
+
+			
+			<!-- NAV -->
+<nav class="w-nav layout_hor">
+	<ul class="w-nav-list level_1">
+		<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children w-nav-item level_1 menu-item-84"><a class="w-nav-anchor level_1" href="https://24ki.ru/"><span class="w-nav-title">О компании</span><span class="w-nav-arrow"></span></a>
+<ul class="w-nav-list level_2">
+	<li class="menu-item menu-item-type-post_type menu-item-object-page w-nav-item level_2 menu-item-83"><a class="w-nav-anchor level_2" href="https://24ki.ru/about/info/"><span class="w-nav-title">Общая информация</span><span class="w-nav-arrow"></span></a>	</li>
+	<li class="menu-item menu-item-type-post_type menu-item-object-page w-nav-item level_2 menu-item-158"><a class="w-nav-anchor level_2" href="https://24ki.ru/about/%d0%bb%d0%b8%d1%86%d0%b5%d0%bd%d0%b7%d0%b8%d0%b8/"><span class="w-nav-title">Лицензии</span><span class="w-nav-arrow"></span></a>	</li>
+	<li class="menu-item menu-item-type-post_type menu-item-object-page w-nav-item level_2 menu-item-161"><a class="w-nav-anchor level_2" href="https://24ki.ru/about/%d1%81%d0%b2%d0%b5%d0%b4%d0%b5%d0%bd%d0%b8%d1%8f-%d0%be-%d1%87%d0%bb%d0%b5%d0%bd%d1%81%d1%82%d0%b2%d0%b5-%d0%b2-%d1%81%d1%80%d0%be/"><span class="w-nav-title">Сведения о членстве в СРО</span><span class="w-nav-arrow"></span></a>	</li>
+	<li class="menu-item menu-item-type-post_type menu-item-object-page w-nav-item level_2 menu-item-352"><a class="w-nav-anchor level_2" href="https://24ki.ru/about/%d1%81%d0%bf%d0%b8%d1%81%d0%be%d0%ba-%d0%b0%d0%ba%d1%86%d0%b8%d0%be%d0%bd%d0%b5%d1%80%d0%be%d0%b2-%d1%83%d1%87%d0%b0%d1%81%d1%82%d0%bd%d0%b8%d0%ba%d0%be%d0%b2-%d0%bd%d1%84%d0%be-%d0%b8-%d0%bb%d0%b8/"><span class="w-nav-title">Список и схема взаимосвязей акционеров (участников) НФО и лиц, под контролем либо значительным влиянием которых находится НФО</span><span class="w-nav-arrow"></span></a>	</li>
+	<li class="menu-item menu-item-type-post_type menu-item-object-page w-nav-item level_2 menu-item-645"><a class="w-nav-anchor level_2" href="https://24ki.ru/about/%d1%80%d0%b5%d0%b3%d0%bb%d0%b0%d0%bc%d0%b5%d0%bd%d1%82%d1%8b-%d0%b8-%d0%bf%d0%be%d0%bb%d0%be%d0%b6%d0%b5%d0%bd%d0%b8%d1%8f/"><span class="w-nav-title">Регламенты и положения</span><span class="w-nav-arrow"></span></a>	</li>
+	<li class="menu-item menu-item-type-post_type menu-item-object-page w-nav-item level_2 menu-item-216"><a class="w-nav-anchor level_2" href="https://24ki.ru/%d1%80%d0%b0%d1%81%d0%ba%d1%80%d1%8b%d1%82%d0%b8%d0%b5-%d0%b8%d0%bd%d1%84%d1%80%d0%bc%d0%b0%d1%86%d0%b8%d0%b8/%d0%be%d1%84%d0%b8%d1%86%d0%b8%d0%b0%d0%bb%d1%8c%d0%bd%d1%8b%d0%b5-%d1%81%d0%be%d0%be%d0%b1%d1%89%d0%b5%d0%bd%d0%b8%d1%8f/"><span class="w-nav-title">Официальные сообщения</span><span class="w-nav-arrow"></span></a>	</li>
+	<li class="menu-item menu-item-type-post_type menu-item-object-page w-nav-item level_2 menu-item-162"><a class="w-nav-anchor level_2" href="https://24ki.ru/about/%d1%80%d1%83%d0%ba%d0%be%d0%b2%d0%be%d0%b4%d1%81%d1%82%d0%b2%d0%be/"><span class="w-nav-title">Руководство</span><span class="w-nav-arrow"></span></a>	</li>
+</ul>
+</li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page w-nav-item level_1 menu-item-82"><a class="w-nav-anchor level_1" href="https://24ki.ru/funds/"><span class="w-nav-title">Фонды</span><span class="w-nav-arrow"></span></a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page current-page-ancestor current-menu-ancestor current-menu-parent current-page-parent current_page_parent current_page_ancestor menu-item-has-children w-nav-item level_1 menu-item-174"><a class="w-nav-anchor level_1" href="https://24ki.ru/%d1%80%d0%b0%d1%81%d0%ba%d1%80%d1%8b%d1%82%d0%b8%d0%b5-%d0%b8%d0%bd%d1%84%d1%80%d0%bc%d0%b0%d1%86%d0%b8%d0%b8/"><span class="w-nav-title">Раскрываемая информация в соответствии с № 5609-У*</span><span class="w-nav-arrow"></span></a>
+<ul class="w-nav-list level_2">
+	<li class="menu-item menu-item-type-post_type menu-item-object-page w-nav-item level_2 menu-item-80"><a class="w-nav-anchor level_2" href="https://24ki.ru/requisites/"><span class="w-nav-title">Информация об организации. Реквизиты управляющей компании.</span><span class="w-nav-arrow"></span></a>	</li>
+	<li class="menu-item menu-item-type-post_type menu-item-object-page current-menu-item page_item page-item-176 current_page_item w-nav-item level_2 menu-item-178"><a class="w-nav-anchor level_2" href="https://24ki.ru/%d1%80%d0%b0%d1%81%d0%ba%d1%80%d1%8b%d1%82%d0%b8%d0%b5-%d0%b8%d0%bd%d1%84%d1%80%d0%bc%d0%b0%d1%86%d0%b8%d0%b8/%d1%80%d0%b0%d0%b7%d0%bc%d0%b5%d1%80-%d1%81%d0%be%d0%b1%d1%81%d1%82%d0%b2%d0%b5%d0%bd%d0%bd%d1%8b%d1%85-%d1%81%d1%80%d0%b5%d0%b4%d1%81%d1%82%d0%b2/"><span class="w-nav-title">Расчет собственных средств управляющей компании</span><span class="w-nav-arrow"></span></a>	</li>
+	<li class="menu-item menu-item-type-post_type menu-item-object-page w-nav-item level_2 menu-item-627"><a class="w-nav-anchor level_2" href="https://24ki.ru/%d1%80%d0%b0%d1%81%d0%ba%d1%80%d1%8b%d1%82%d0%b8%d0%b5-%d0%b8%d0%bd%d1%84%d1%80%d0%bc%d0%b0%d1%86%d0%b8%d0%b8/%d0%bf%d1%80%d0%be%d0%bc%d0%b5%d0%b6%d1%83%d1%82%d0%be%d1%87%d0%bd%d0%b0%d1%8f-%d0%b1%d1%83%d1%85%d0%b3%d0%b0%d0%bb%d1%82%d0%b5%d1%80%d1%81%d0%ba%d0%b0%d1%8f-%d1%84%d0%b8%d0%bd%d0%b0%d0%bd%d1%81/"><span class="w-nav-title">Промежуточная бухгалтерская (финансовая) отчетность</span><span class="w-nav-arrow"></span></a>	</li>
+	<li class="menu-item menu-item-type-post_type menu-item-object-page w-nav-item level_2 menu-item-628"><a class="w-nav-anchor level_2" href="https://24ki.ru/%d1%80%d0%b0%d1%81%d0%ba%d1%80%d1%8b%d1%82%d0%b8%d0%b5-%d0%b8%d0%bd%d1%84%d1%80%d0%bc%d0%b0%d1%86%d0%b8%d0%b8/%d0%b3%d0%be%d0%b4%d0%be%d0%b2%d0%b0%d1%8f-%d0%b1%d1%83%d1%85%d0%b3%d0%b0%d0%bb%d1%82%d0%b5%d1%80%d1%81%d0%ba%d0%b0%d1%8f-%d1%84%d0%b8%d0%bd%d0%b0%d0%bd%d1%81%d0%be%d0%b2%d0%b0%d1%8f-%d0%be%d1%82/"><span class="w-nav-title">Годовая бухгалтерская (финансовая) отчетность</span><span class="w-nav-arrow"></span></a>	</li>
+	<li class="menu-item menu-item-type-post_type menu-item-object-page w-nav-item level_2 menu-item-629"><a class="w-nav-anchor level_2" href="https://24ki.ru/%d1%80%d0%b0%d1%81%d0%ba%d1%80%d1%8b%d1%82%d0%b8%d0%b5-%d0%b8%d0%bd%d1%84%d1%80%d0%bc%d0%b0%d1%86%d0%b8%d0%b8/%d0%b3%d0%be%d0%b4%d0%be%d0%b2%d0%b0%d1%8f-%d0%ba%d0%be%d0%bd%d1%81%d0%be%d0%bb%d0%b8%d0%b4%d0%b8%d1%80%d0%be%d0%b2%d0%b0%d0%bd%d0%bd%d0%b0%d1%8f-%d1%84%d0%b8%d0%bd%d0%b0%d0%bd%d1%81%d0%be%d0%b2%d0%b0/"><span class="w-nav-title">Годовая консолидированная финансовая отчетность</span><span class="w-nav-arrow"></span></a>	</li>
+	<li class="menu-item menu-item-type-post_type menu-item-object-page w-nav-item level_2 menu-item-667"><a class="w-nav-anchor level_2" href="https://24ki.ru/%d1%80%d0%b0%d1%81%d0%ba%d1%80%d1%8b%d1%82%d0%b8%d0%b5-%d0%b8%d0%bd%d1%84%d1%80%d0%bc%d0%b0%d1%86%d0%b8%d0%b8/%d1%81%d0%be%d0%be%d0%b1%d1%89%d0%b5%d0%bd%d0%b8%d0%b5-%d0%be%d0%b1-%d0%be%d0%b1%d0%bd%d0%b0%d1%80%d1%83%d0%b6%d0%b5%d0%bd%d0%b8%d0%b8-%d0%b2%d1%8b%d1%8f%d0%b2%d0%bb%d0%b5%d0%bd%d0%b8%d0%b8-%d0%bd/"><span class="w-nav-title">Сообщение об обнаружении (выявлении) неточных, неполных и (или) недостоверных сведений в раскрываемой информации</span><span class="w-nav-arrow"></span></a>	</li>
+	<li class="menu-item menu-item-type-post_type menu-item-object-page w-nav-item level_2 menu-item-666"><a class="w-nav-anchor level_2" href="https://24ki.ru/%d1%80%d0%b0%d1%81%d0%ba%d1%80%d1%8b%d1%82%d0%b8%d0%b5-%d0%b8%d0%bd%d1%84%d1%80%d0%bc%d0%b0%d1%86%d0%b8%d0%b8/%d1%81%d0%be%d0%be%d0%b1%d1%89%d0%b5%d0%bd%d0%b8%d0%b5-%d0%be-%d0%bf%d1%80%d0%b5%d0%ba%d1%80%d0%b0%d1%89%d0%b5%d0%bd%d0%b8%d0%b8-%d0%b4%d0%be%d1%81%d1%82%d1%83%d0%bf%d0%b0-%d0%ba-%d1%80%d0%b0%d1%81/"><span class="w-nav-title">Сообщение о прекращении доступа к раскрываемой информации</span><span class="w-nav-arrow"></span></a>	</li>
+	<li class="menu-item menu-item-type-post_type menu-item-object-page w-nav-item level_2 menu-item-665"><a class="w-nav-anchor level_2" href="https://24ki.ru/%d1%80%d0%b0%d1%81%d0%ba%d1%80%d1%8b%d1%82%d0%b8%d0%b5-%d0%b8%d0%bd%d1%84%d1%80%d0%bc%d0%b0%d1%86%d0%b8%d0%b8/%d1%81%d0%be%d0%be%d0%b1%d1%89%d0%b5%d0%bd%d0%b8%d0%b5-%d0%be-%d0%bf%d1%80%d0%be%d0%b2%d0%b5%d0%b4%d0%b5%d0%bd%d0%b8%d0%b8-%d0%bf%d1%80%d0%be%d1%84%d0%b8%d0%bb%d0%b0%d0%ba%d1%82%d0%b8%d1%87%d0%b5/"><span class="w-nav-title">Сообщение о проведении профилактических работ на сайте</span><span class="w-nav-arrow"></span></a>	</li>
+</ul>
+</li>
+	</ul>
+</nav><!-- /NAV -->
+
+			<div class="w-copyright">© 2015 ООО УК «КАПИТАЛ ИНВЕСТ». Разработка сайта: <a href="http://design-ninja.ru" target="_blank">Дизайн Ниндзя</a></div>
+
+			
+		</div>
+	</div>
+
+</div>
+<!-- /FOOTER -->
+
+
+
+<a class="w-toplink" href="#" title="Наверх"></a>
+<script type="text/javascript">
+	if (window.$us === undefined) window.$us = {};
+	$us.canvasOptions = ($us.canvasOptions || {});
+	$us.canvasOptions.disableStickyHeaderWidth = 900;
+	$us.canvasOptions.disableEffectsWidth = 900;
+	$us.canvasOptions.headerScrollBreakpoint = 100;
+	$us.canvasOptions.responsive = true;
+
+	$us.langOptions = ($us.langOptions || {});
+	$us.langOptions.magnificPopup = ($us.langOptions.magnificPopup || {});
+	$us.langOptions.magnificPopup.tPrev = 'Предыдущее (клавиша влево)' // Alt text on left arrow
+	$us.langOptions.magnificPopup.tNext = 'Следующее (клавиша вправо)' // Alt text on right arrow
+	$us.langOptions.magnificPopup.tCounter = '%curr% из %total%' // Markup for "1 of 7" counter
+
+	$us.navOptions = ($us.navOptions || {});
+	$us.navOptions.mobileWidth = 900;
+	$us.navOptions.togglable = true;
+</script>
+
+<script type="text/javascript" src="https://24ki.ru/wp-includes/js/jquery/ui/core.min.js?ver=1.11.4"></script>
+<script type="text/javascript" src="https://24ki.ru/wp-includes/js/jquery/ui/widget.min.js?ver=1.11.4"></script>
+<script type="text/javascript" src="https://24ki.ru/wp-includes/js/jquery/ui/mouse.min.js?ver=1.11.4"></script>
+<script type="text/javascript" src="https://24ki.ru/wp-includes/js/jquery/ui/resizable.min.js?ver=1.11.4"></script>
+<script type="text/javascript" src="https://24ki.ru/wp-includes/js/jquery/ui/draggable.min.js?ver=1.11.4"></script>
+<script type="text/javascript" src="https://24ki.ru/wp-includes/js/jquery/ui/button.min.js?ver=1.11.4"></script>
+<script type="text/javascript" src="https://24ki.ru/wp-includes/js/jquery/ui/position.min.js?ver=1.11.4"></script>
+<script type="text/javascript" src="https://24ki.ru/wp-includes/js/jquery/ui/dialog.min.js?ver=1.11.4"></script>
+<script type="text/javascript" src="https://24ki.ru/wp-includes/js/wpdialog.min.js?ver=4.4.30"></script>
+<script type="text/javascript" src="//24ki.ru/wp-content/themes/Impreza/framework/js/jquery.easing.min.js?ver=4.4.30"></script>
+<script type="text/javascript" src="//24ki.ru/wp-content/themes/Impreza/framework/js/jquery.magnific-popup.js?ver=4.4.30"></script>
+<script type="text/javascript" src="//24ki.ru/wp-content/themes/Impreza/framework/js/jquery.simpleplaceholder.js?ver=4.4.30"></script>
+<script type="text/javascript" src="//24ki.ru/wp-content/themes/Impreza/framework/js/imagesloaded.js?ver=4.4.30"></script>
+<script type="text/javascript" src="//24ki.ru/wp-content/themes/Impreza/framework/js/us.core.js?ver=2.6"></script>
+<script type="text/javascript" src="//24ki.ru/wp-content/themes/Impreza/framework/js/us.widgets.js?ver=2.6"></script>
+<script type="text/javascript" src="//24ki.ru/wp-content/themes/Impreza/js/us.theme.js?ver=2.6"></script>
+<script type="text/javascript" src="https://24ki.ru/wp-includes/js/comment-reply.min.js?ver=4.4.30"></script>
+<script type="text/javascript" src="https://24ki.ru/wp-includes/js/wp-embed.min.js?ver=4.4.30"></script>
+
+
+

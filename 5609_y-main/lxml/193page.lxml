@@ -1,0 +1,1062 @@
+
+				<div id="panel"></div>
+						<script type="text/javascript">
+		var arAllcorpOptions = ({
+			"SITE_DIR" : "/",
+			"SITE_ID" : "s1",
+			"SITE_TEMPLATE_PATH" : "/bitrix/templates/aspro-allcorp",
+			"THEME" : ({
+				"THEME_SWITCHER" : "N",
+				"COLOR" : "color5",
+				"WIDTH" : "auto",
+				"MENU" : "first",
+				"SIDEMENU" : "left",
+				"PHONE_MASK" : "+7 (999) 999-99-99",
+				"VALIDATE_PHONE_MASK" : "^[+][0-9] [(][0-9]{3}[)] [0-9]{3}[-][0-9]{2}[-][0-9]{2}$",
+				"DATE_MASK" : "d.m.y",
+				"DATE_PLACEHOLDER" : "ДД.ММ.ГГГГ",
+				"VALIDATE_FILE_EXT" : "png|jpg|jpeg|gif|doc|docx|xls|xlsx|txt|pdf|odt|rtf",
+				"USE_CAPTCHA_FORM" : "Y",
+				"CATALOG_INDEX" : "N",
+				"SERVICES_INDEX" : "N"
+			})
+		});
+		</script>
+								<!--'start_frame_cache_options-block'--><script type="text/javascript">
+arAllcorpOptions['THEME']['THEME_SWITCHER'] = 'N';
+arAllcorpOptions['THEME']['COLOR'] = 'color5';
+arAllcorpOptions['THEME']['WIDTH'] = 'auto';
+arAllcorpOptions['THEME']['MENU'] = 'first';
+arAllcorpOptions['THEME']['SIDEMENU'] = 'left';
+arAllcorpOptions['THEME']['CATALOG_INDEX'] = 'N';
+arAllcorpOptions['THEME']['SERVICES_INDEX'] = 'N';
+if(typeof(BX.localStorage) != 'undefined'){
+	BX.localStorage.set('arAllcorpOptions', arAllcorpOptions, 86400);
+}
+</script>
+<!--'end_frame_cache_options-block'-->		<div class="body">
+			<div class="top-row">
+				<div class="container maxwidth-theme">
+					<div class="row">
+						<div class="col-md-12">
+							<div class="row">
+								<div class="col-md-8">
+									<div class="info-text">
+										<div class="email" style="margin-left: 0px;">
+											<i class="icon icon-envelope"></i>
+											111024, г. Москва, ул. Авиамоторная, д. 10, корп. 1, этаж 5, помещение XIII, кабинет 53										</div>
+										<div class="phone">
+											<i class="icon icon-phone"></i> 
+											+7 (495) 981-10-99										</div>
+									</div>
+								</div>
+								<div class="col-md-3">
+																	</div>
+								<div class="col-md-3">
+										<div class="search" id="title-search">
+		<form action="/search/">
+			<input class="search-input" id="title-search-input" type="text" name="q" value="" placeholder="Поиск" size="40" maxlength="50" autocomplete="off">
+			<button class="btn-search" type="submit" name="s" value="Поиск"><i class="icon icon-search"></i></button>
+		</form>
+	</div>
+<script type="text/javascript">
+	var jsControl = new JCTitleSearch({
+		//'WAIT_IMAGE': '/bitrix/themes/.default/images/wait.gif',
+		'AJAX_PAGE' : '/info/',
+		'CONTAINER_ID': 'title-search',
+		'INPUT_ID': 'title-search-input',
+		'MIN_QUERY_LEN': 2
+	});
+</script>
+								</div>
+							</div>
+						</div>
+					</div>
+				</div>
+			</div>
+			<header class="menu-type-1">
+				<div class="container maxwidth-theme">
+					<div class="row">
+						<div class="col-md-12">
+							<div class="row">
+																	<div class="col-md-3">
+										<div class="logo">
+											<a href="/"><img src="/bitrix/templates/aspro-allcorp/themes/color5/images/ten-1.png" alt="Cайт производства"></a>										</div>
+									</div>
+									<div class="col-md-9">
+										<button class="btn btn-responsive-nav" data-toggle="collapse" data-target=".nav-main-collapse">
+											<i class="icon icon-bars"></i>
+										</button>
+									</div>
+															</div>
+						</div>
+					</div>
+				</div>
+				<div class="nav-main-collapse collapse">
+					<div class="container maxwidth-theme">
+						<div class="row">
+							<div class="col-md-12">
+																	<div class="row">
+										<div class="col-md-3">
+										</div>
+										<div class="col-md-9">
+																			<nav class="mega-menu pull-right">
+													<div class="table-menu hidden-xs">
+		<table>
+			<tbody><tr>
+														<td class=" ">
+						<div class="wrap">
+							<a class="" href="/" title="Главная">
+								Главная															</a>
+													</div>
+					</td>
+														<td class="dropdown ">
+						<div class="wrap">
+							<a class="dropdown-toggle" href="/about/" title="Сведения о компании">
+								Сведения о компании																	&nbsp;<i class="icon icon-angle-down"></i>
+															</a>
+															<ul class="dropdown-menu">
+																													<li class=" ">
+											<a href="/about/" title="Сведения о компании">Сведения о компании</a>
+																					</li>
+																													<li class=" ">
+											<a href="/about/license/" title="Лицензии">Лицензии</a>
+																					</li>
+																													<li class=" ">
+											<a href="/about/partners/" title="Партнеры">Партнеры</a>
+																					</li>
+																	</ul>
+													</div>
+					</td>
+														<td class="dropdown active">
+						<div class="wrap">
+							<a class="dropdown-toggle" href="/info/" title="Раскрытие информации">
+								Раскрытие информации																	&nbsp;<i class="icon icon-angle-down"></i>
+															</a>
+															<ul class="dropdown-menu">
+																													<li class=" active">
+											<a href="/info/" title="Расчет собственных средств">Расчет собственных средств</a>
+																					</li>
+																													<li class=" ">
+											<a href="/info/buh/" title="Бухгалтерская отчетность">Бухгалтерская отчетность</a>
+																					</li>
+																													<li class=" ">
+											<a href="/info/edoc/" title="Электронный документооборот">Электронный документооборот</a>
+																					</li>
+																													<li class=" ">
+											<a href="/info/reglament-priznaniya-lits-kvalifitsirovannymi-investorami/" title="Регламенты Управляющей компании">Регламенты Управляющей компании</a>
+																					</li>
+																													<li class=" ">
+											<a href="/info/konsolidirovannaya-otchetnost/" title="Консолидированная отчетность">Консолидированная отчетность</a>
+																					</li>
+																													<li class=" ">
+											<a href="/info/perechen-insayderskoy-informatsii/" title="Перечень инсайдерской информации">Перечень инсайдерской информации</a>
+																					</li>
+																	</ul>
+													</div>
+					</td>
+														
+														
+								<td class="dropdown js-dropdown nosave" style="">
+					<div class="wrap">
+						<a class="dropdown-toggle more-items" href="#">
+							<span>...</span>
+						</a>
+						<ul class="dropdown-menu"><li class="" data-hidewidth="776">
+							<a class="" href="/pif/" title="Паевые инвестиционные фонды">
+								Паевые инвестиционные фонды															</a>
+													</li><li class="" data-hidewidth="794">
+							<a class="" href="/service/" title="Услуги">
+								Услуги															</a>
+													</li>
+						</ul>
+					</div>
+				</td>
+			</tr>
+		</tbody></table>
+	</div>
+	<ul class="nav nav-pills responsive-menu" id="mainMenu">
+								<li class=" ">
+				<a class="" href="/" title="Главная">
+					Главная									</a>
+							</li>
+								<li class="dropdown ">
+				<a class="dropdown-toggle" href="/about/" title="Сведения о компании">
+					Сведения о компании											<i class="icon icon-angle-down"></i>
+									</a>
+									<ul class="dropdown-menu">
+																				<li class=" ">
+								<a href="/about/" title="Сведения о компании">
+									Сведения о компании																	</a>
+															</li>
+																				<li class=" ">
+								<a href="/about/license/" title="Лицензии">
+									Лицензии																	</a>
+															</li>
+																				<li class=" ">
+								<a href="/about/partners/" title="Партнеры">
+									Партнеры																	</a>
+															</li>
+											</ul>
+							</li>
+								<li class="dropdown active">
+				<a class="dropdown-toggle" href="/info/" title="Раскрытие информации">
+					Раскрытие информации											<i class="icon icon-angle-down"></i>
+									</a>
+									<ul class="dropdown-menu">
+																				<li class=" active">
+								<a href="/info/" title="Расчет собственных средств">
+									Расчет собственных средств																	</a>
+															</li>
+																				<li class=" ">
+								<a href="/info/buh/" title="Бухгалтерская отчетность">
+									Бухгалтерская отчетность																	</a>
+															</li>
+																				<li class=" ">
+								<a href="/info/edoc/" title="Электронный документооборот">
+									Электронный документооборот																	</a>
+															</li>
+																				<li class=" ">
+								<a href="/info/reglament-priznaniya-lits-kvalifitsirovannymi-investorami/" title="Регламенты Управляющей компании">
+									Регламенты Управляющей компании																	</a>
+															</li>
+																				<li class=" ">
+								<a href="/info/konsolidirovannaya-otchetnost/" title="Консолидированная отчетность">
+									Консолидированная отчетность																	</a>
+															</li>
+																				<li class=" ">
+								<a href="/info/perechen-insayderskoy-informatsii/" title="Перечень инсайдерской информации">
+									Перечень инсайдерской информации																	</a>
+															</li>
+											</ul>
+							</li>
+								<li class=" ">
+				<a class="" href="/pif/" title="Паевые инвестиционные фонды">
+					Паевые инвестиционные фонды									</a>
+							</li>
+								<li class=" ">
+				<a class="" href="/service/" title="Услуги">
+					Услуги									</a>
+							</li>
+			</ul>
+											</nav>
+																		</div>
+									</div>
+															</div>
+						</div>
+					</div>
+				</div>
+			</header>
+			<div role="main" class="main">
+									<div class="container maxwidth-theme">
+						<div class="row">
+							<div class="col-md-12">
+																													
+
+
+
+
+
+
+
+
+
+
+<div class="row">
+	<div class="col-md-12">
+    <div class="row">
+		<div class="col-md-3 left-menu-md">
+			 	<ul class="nav nav-list side-menu">
+					<li class="active ">
+				<a href="/info/">Расчет собственных средств</a>
+											</li>
+					<li class=" ">
+				<a href="/info/buh/">Бухгалтерская отчетность</a>
+											</li>
+					<li class=" ">
+				<a href="/info/edoc/">Электронный документооборот</a>
+											</li>
+					<li class=" ">
+				<a href="/info/reglament-priznaniya-lits-kvalifitsirovannymi-investorami/">Регламенты Управляющей компании</a>
+											</li>
+					<li class=" ">
+				<a href="/info/konsolidirovannaya-otchetnost/">Консолидированная отчетность</a>
+											</li>
+					<li class=" ">
+				<a href="/info/perechen-insayderskoy-informatsii/">Перечень инсайдерской информации</a>
+											</li>
+			</ul>
+            <div class="custom" style="margin-top: 25px;">
+<h3>Курс доллара и курс евро ЦБ РФ</h3>
+				<!--  FOREXPF.RU - Курсы ЦБ РФ start -->
+				<div id="eurusd" style="width: 186px; height: 47px; color: rgb(132, 5, 122); text-decoration: none; text-align: left; overflow: hidden; font-style: normal; font-variant: normal; padding: 1px 0px 0px; background: url(&quot;https://informers.forexpf.ru/img/eurusd.d4b8.gif&quot;) right top no-repeat rgb(255, 255, 255);"><a href="http://www.forexpf.ru/" title="Курсы валют" target="_blank" style="display: block; height: 14px; line-height: 14px; color: rgb(0, 0, 0); text-decoration: none; padding-left: 5px; font-family: &quot;Open Sans&quot;, Helvetica, Arial, sans-serif;">Курсы валют</a><a href="http://www.forexpf.ru/currency_usd.asp" title="Курс доллара" target="_blank" style="display: block; height: 14px; line-height: 14px; color: rgb(0, 0, 0); text-decoration: none; padding-left: 5px; font-family: &quot;Open Sans&quot;, Helvetica, Arial, sans-serif;">Курс доллара</a><a href="http://www.forexpf.ru/currency_eur.asp" title="Курс евро" target="_blank" style="display: block; height: 14px; line-height: 14px; color: rgb(0, 0, 0); text-decoration: none; padding-left: 5px; font-family: &quot;Open Sans&quot;, Helvetica, Arial, sans-serif;">Курс евро</a></div><script src="http://www.forexpf.ru/_informer_/eurusd_.php"></script>
+				<!--  FOREXPF.RU - Курсы ЦБ РФ end -->
+				<br><br>
+				<table border="0" cellpadding="0" cellspacing="10" bgcolor="#FBFBFB" width="100%" style="border-collapse:collapse;border-color:#D7D7D7;"><tbody><tr><td><a href="http://www.forexpf.ru" id="forexpf_economic" style="font-size: 13px; margin-bottom: 5px; font-weight:bold">Новости экономики</a><br><script type="text/javascript" src="http://informers.forexpf.ru/export/economic.js"></script></td></tr></tbody></table>
+			
+<!--<h6>РИА РБК</h6>
+<script src="http://pics.rbc.ru/js/rbc_indices.js" charset="utf8"></script>
+<script>
+//print_ind('_USD_NAL_-_RTS_INDEX_-_MICEX_INDEX_-_FOREX_USD_JPY_-_FOREX_USD_DEM_-_FOREX_EUR_USD_-_WEATHER_27612_-_USD_CB_-_EUR_CB_');
+</script>--></div>
+		</div>
+        <div class="col-md-9">
+        <h3>Расчет собственных средств</h3>
+            <div class="item-views list with_tabs image_left ">
+										<div class="tabs">
+				<ul class="nav nav-tabs">
+																						<li id="bx_3218110189_68" class="active"><a data-toggle="tab" href="#tab_68">2023 год</a></li>
+																	<li id="bx_3218110189_66" class=""><a data-toggle="tab" href="#tab_66">2022 год</a></li>
+																	<li id="bx_3218110189_64" class=""><a data-toggle="tab" href="#tab_64">2021 год</a></li>
+																	<li id="bx_3218110189_61" class=""><a data-toggle="tab" href="#tab_61">2020 год</a></li>
+																	<li id="bx_3218110189_58" class=""><a data-toggle="tab" href="#tab_58">2019 год</a></li>
+																	<li id="bx_3218110189_51" class=""><a data-toggle="tab" href="#tab_51">2018 год</a></li>
+																	<li id="bx_3218110189_48" class=""><a data-toggle="tab" href="#tab_48">2017 год</a></li>
+									</ul>
+				
+				<div class="tab-content">
+																							<div id="tab_68" class="tab-pane active">
+						
+														
+							                            <div id="bx_3218110189_" class="item ">
+										<div class="row">
+										  <div class="col-md-12">
+                                            <table class="table table-bordered">
+                                                <thead>
+                                                    <tr>
+                                                        <th style="text-align: center; vertical-align: inherit; font-weight: normal;">Наименования</th>
+                                                        <th style="text-align: center; font-weight: normal;">Дата и время опубликования</th>
+                                                        <th style="text-align: center; font-weight: normal;">Дата до которой осуществляется доступ</th>
+                                                    </tr>
+                                                </thead> 								 
+                                                <tbody> 									 
+                                                    
+																														
+																
+																	
+                                                        <tr><td style="text-align: left;"><a href="/upload/iblock/635/rss_may-2023-na-sayt.pdf" target="_blank">Расчет размера собственных средств ООО УК ТЭН-Девелопмент по состоянию на 31.05.2023	</a></td>
+                                                        <td style="text-align: center;">07.06.2023</td>
+                                                        <td style="text-align: center;">07.06.2026</td></tr>
+                                                    
+                                																							
+																
+																	
+                                                        <tr><td style="text-align: left;"><a href="/upload/iblock/867/rss_aprel-2023-na-sayt.pdf" target="_blank">Расчет размера собственных средств ООО УК ТЭН-Девелопмент по состоянию на 30.04.2023	</a></td>
+                                                        <td style="text-align: center;">17.05.2023</td>
+                                                        <td style="text-align: center;">17.05.2026</td></tr>
+                                                    
+                                																							
+																
+																	
+                                                        <tr><td style="text-align: left;"><a href="/upload/iblock/07a/na-sayt-uk-rss_mart-2023.pdf" target="_blank">Расчет размера собственных средств ООО УК ТЭН-Девелопмент по состоянию на 31.03.2023	</a></td>
+                                                        <td style="text-align: center;">12.04.2023</td>
+                                                        <td style="text-align: center;">12.04.2026</td></tr>
+                                                    
+                                																							
+																
+																	
+                                                        <tr><td style="text-align: left;"><a href="/upload/iblock/483/rss-uk-fevral-2023-na-sayt.pdf" target="_blank">Расчет размера собственных средств ООО УК ТЭН-Девелопмент по состоянию на 28.02.2023	</a></td>
+                                                        <td style="text-align: center;">13.03.2023</td>
+                                                        <td style="text-align: center;">13.03.2026</td></tr>
+                                                    
+                                																							
+																
+																	
+                                                        <tr><td style="text-align: left;"><a href="/upload/iblock/0e5/rss-_yanvar-2023-na-sayt-uk.pdf" target="_blank">Расчет размера собственных средств ООО УК ТЭН-Девелопмент по состоянию на 31.01.2023	</a></td>
+                                                        <td style="text-align: center;">08.02.2023</td>
+                                                        <td style="text-align: center;">08.02.2026</td></tr>
+                                                    
+                                							                            
+                                                </tbody>
+                                            </table>
+										</div>
+                                        </div>
+									</div>
+									<hr>
+													</div>
+												
+																														<div id="tab_66" class="tab-pane ">
+						
+														
+							                            <div id="bx_3218110189_482" class="item ">
+										<div class="row">
+										  <div class="col-md-12">
+                                            <table class="table table-bordered">
+                                                <thead>
+                                                    <tr>
+                                                        <th style="text-align: center; vertical-align: inherit; font-weight: normal;">Наименования</th>
+                                                        <th style="text-align: center; font-weight: normal;">Дата и время опубликования</th>
+                                                        <th style="text-align: center; font-weight: normal;">Дата до которой осуществляется доступ</th>
+                                                    </tr>
+                                                </thead> 								 
+                                                <tbody> 									 
+                                                    
+																														
+																
+																	
+                                                        <tr><td style="text-align: left;"><a href="/upload/iblock/10a/rss_dekabr-2022-na-sayt.pdf" target="_blank">Расчет размера собственных средств ООО УК ТЭН-Девелопмент по состоянию на 31.12.2022	</a></td>
+                                                        <td style="text-align: center;">18.01.2023</td>
+                                                        <td style="text-align: center;">18.01.2025</td></tr>
+                                                    
+                                																							
+																
+																	
+                                                        <tr><td style="text-align: left;"><a href="/upload/iblock/08a/rss-noyabr-na-sayt-uk.pdf" target="_blank">Расчет размера собственных средств ООО УК ТЭН-Девелопмент по состоянию на 30.11.2022	</a></td>
+                                                        <td style="text-align: center;">13.12.2022</td>
+                                                        <td style="text-align: center;">13.12.2025</td></tr>
+                                                    
+                                																							
+																
+																	
+                                                        <tr><td style="text-align: left;"><a href="/upload/iblock/627/rss-oktyabr-2022-na-sayt-uk.pdf" target="_blank">Расчет размера собственных средств ООО УК ТЭН-Девелопмент по состоянию на 31.10.2022	</a></td>
+                                                        <td style="text-align: center;">11.11.2022</td>
+                                                        <td style="text-align: center;">11.11.2025</td></tr>
+                                                    
+                                																							
+																
+																	
+                                                        <tr><td style="text-align: left;"><a href="/upload/iblock/300/rss_sentyabr-2022-na-sayt.pdf" target="_blank">Расчет размера собственных средств ООО УК ТЭН-Девелопмент по состоянию на 30.09.2022	</a></td>
+                                                        <td style="text-align: center;">11.10.2022</td>
+                                                        <td style="text-align: center;">11.10.2025</td></tr>
+                                                    
+                                																							
+																
+																	
+                                                        <tr><td style="text-align: left;"><a href="/upload/iblock/06c/raschet-sobstvennykh-sredstv_avgust-2022.pdf" target="_blank">Расчет размера собственных средств ООО УК ТЭН-Девелопмент по состоянию на 31.08.2022</a></td>
+                                                        <td style="text-align: center;">08.09.2022</td>
+                                                        <td style="text-align: center;">08.09.2025</td></tr>
+                                                    
+                                																							
+																
+																	
+                                                        <tr><td style="text-align: left;"><a href="/upload/iblock/fda/na-sayt-rss-ispravit-na-31.07.2022.pdf" target="_blank">Расчет размера собственных средств ООО УК ТЭН-Девелопмент по состоянию на 31.07.2022	</a></td>
+                                                        <td style="text-align: center;">09.08.2022</td>
+                                                        <td style="text-align: center;">09.08.2025</td></tr>
+                                                    
+                                																							
+																
+																	
+                                                        <tr><td style="text-align: left;"><a href="/upload/iblock/c17/rss-na-sayt-iyun-2022.pdf" target="_blank">Расчет размера собственных средств ООО УК ТЭН-Девелопмент по состоянию на 30.06.2022	</a></td>
+                                                        <td style="text-align: center;">11.07.2022</td>
+                                                        <td style="text-align: center;">11.07.2025</td></tr>
+                                                    
+                                																							
+																
+																	
+                                                        <tr><td style="text-align: left;"><a href="/upload/iblock/d0c/rss_may-2022.pdf" target="_blank">Расчет размера собственных средств ООО УК ТЭН-Девелопмент по состоянию на 31.05.2022	</a></td>
+                                                        <td style="text-align: center;">10.06.2022</td>
+                                                        <td style="text-align: center;">10.06.2025</td></tr>
+                                                    
+                                																							
+																
+																	
+                                                        <tr><td style="text-align: left;"><a href="/upload/iblock/367/rss-may-2022.pdf" target="_blank">Расчет размера собственных средств ООО УК ТЭН-Девелопмент по состоянию на 30.04.2022	</a></td>
+                                                        <td style="text-align: center;">17.05.2022</td>
+                                                        <td style="text-align: center;">17.05.2025</td></tr>
+                                                    
+                                																							
+																
+																	
+                                                        <tr><td style="text-align: left;"><a href="/upload/iblock/9b4/rss-_mart-2022.pdf" target="_blank">Расчет размера собственных средств ООО УК ТЭН-Девелопмент по состоянию на 31.03.2022</a></td>
+                                                        <td style="text-align: center;">13.04.2022</td>
+                                                        <td style="text-align: center;">13.04.2025</td></tr>
+                                                    
+                                																							
+																
+																	
+                                                        <tr><td style="text-align: left;"><a href="/upload/iblock/c5f/rss-fevral-2022.pdf" target="_blank">Расчет размера собственных средств ООО УК ТЭН-Девелопмент по состоянию на 28.02.2022	</a></td>
+                                                        <td style="text-align: center;">15.03.2022</td>
+                                                        <td style="text-align: center;">15.03.2025</td></tr>
+                                                    
+                                																							
+																
+																	
+                                                        <tr><td style="text-align: left;"><a href="/upload/iblock/750/rss_yanvar-2022.pdf" target="_blank">Расчет размера собственных средств ООО УК ТЭН-Девелопмент по состоянию на 31.01.2022	</a></td>
+                                                        <td style="text-align: center;">10.02.2022</td>
+                                                        <td style="text-align: center;">10.02.2025</td></tr>
+                                                    
+                                							                            
+                                                </tbody>
+                                            </table>
+										</div>
+                                        </div>
+									</div>
+									<hr>
+													</div>
+												
+																														<div id="tab_64" class="tab-pane ">
+						
+														
+							                            <div id="bx_3218110189_462" class="item ">
+										<div class="row">
+										  <div class="col-md-12">
+                                            <table class="table table-bordered">
+                                                <thead>
+                                                    <tr>
+                                                        <th style="text-align: center; vertical-align: inherit; font-weight: normal;">Наименования</th>
+                                                        <th style="text-align: center; font-weight: normal;">Дата и время опубликования</th>
+                                                        <th style="text-align: center; font-weight: normal;">Дата до которой осуществляется доступ</th>
+                                                    </tr>
+                                                </thead> 								 
+                                                <tbody> 									 
+                                                    
+																														
+																
+																	
+                                                        <tr><td style="text-align: left;"><a href="/upload/iblock/3f0/rss_dekabr-2021.pdf" target="_blank">Расчет размера собственных средств ООО УК ТЭН-Девелопмент по состоянию на 31.12.2021	</a></td>
+                                                        <td style="text-align: center;">21.01.2022</td>
+                                                        <td style="text-align: center;">21.01.2025</td></tr>
+                                                    
+                                																							
+																
+																	
+                                                        <tr><td style="text-align: left;"><a href="/upload/iblock/0d8/rss_noyabr-2021.pdf" target="_blank">Расчет размера собственных средств ООО УК ТЭН-Девелопмент по состоянию на 30.11.2021	</a></td>
+                                                        <td style="text-align: center;">13.12.2021</td>
+                                                        <td style="text-align: center;">13.12.2024</td></tr>
+                                                    
+                                																							
+																
+																	
+                                                        <tr><td style="text-align: left;"><a href="/upload/iblock/4a5/rss_oktyabr.pdf" target="_blank">Расчет размера собственных средств ООО УК ТЭН-Девелопмент по состоянию на 31.10.2021	</a></td>
+                                                        <td style="text-align: center;">17.11.2021</td>
+                                                        <td style="text-align: center;">17.11.2024</td></tr>
+                                                    
+                                																							
+																
+																	
+                                                        <tr><td style="text-align: left;"><a href="/upload/iblock/121/rss_sentyabr-2021.pdf" target="_blank">Расчет размера собственных средств ООО УК ТЭН-Девелопмент по состоянию на 30.09.2021	</a></td>
+                                                        <td style="text-align: center;">13.10.2021</td>
+                                                        <td style="text-align: center;">13.10.2024</td></tr>
+                                                    
+                                																							
+																
+																	
+                                                        <tr><td style="text-align: left;"><a href="/upload/iblock/3e5/rss_avgust-2021.pdf" target="_blank">Расчет размера собственных средств ООО УК ТЭН-Девелопмент по состоянию на 31.08.2021	</a></td>
+                                                        <td style="text-align: center;">16.09.2021 09:41:00</td>
+                                                        <td style="text-align: center;">16.09.2022 09:41:00</td></tr>
+                                                    
+                                																							
+																
+																	
+                                                        <tr><td style="text-align: left;"><a href="/upload/iblock/bc6/rss_iyul-2021.pdf" target="_blank">Расчет размера собственных средств ООО УК ТЭН-Девелопмент по состоянию на 31.07.2021	</a></td>
+                                                        <td style="text-align: center;">12.08.2021 21:55:00</td>
+                                                        <td style="text-align: center;">12.08.2022 21:55:00</td></tr>
+                                                    
+                                																							
+																
+																	
+                                                        <tr><td style="text-align: left;"><a href="/upload/iblock/595/rss_iyun-2021.pdf" target="_blank">Расчет размера собственных средств ООО УК ТЭН-Девелопмент по состоянию на 30.06.2021	</a></td>
+                                                        <td style="text-align: center;">13.07.2021 11:47:00</td>
+                                                        <td style="text-align: center;">13.07.2022 11:47:00</td></tr>
+                                                    
+                                																							
+																
+																	
+                                                        <tr><td style="text-align: left;"><a href="/upload/iblock/365/rss_may-2021-na-sayt.pdf" target="_blank">Расчет размера собственных средств ООО УК ТЭН-Девелопмент по состоянию на 31.05.2021	</a></td>
+                                                        <td style="text-align: center;">10.06.2021 11:42:00</td>
+                                                        <td style="text-align: center;">10.06.2022 11:42:00</td></tr>
+                                                    
+                                																							
+																
+																	
+                                                        <tr><td style="text-align: left;"><a href="/upload/iblock/bf0/rss-na-sayt-_aprel-2021.pdf" target="_blank">Расчет размера собственных средств ООО УК ТЭН-Девелопмент по состоянию на 30.04.2021	</a></td>
+                                                        <td style="text-align: center;">24.05.2021 14:38:00</td>
+                                                        <td style="text-align: center;">24.05.2022 14:38:00</td></tr>
+                                                    
+                                																							
+																
+																	
+                                                        <tr><td style="text-align: left;"><a href="/upload/iblock/239/rss-mart.pdf" target="_blank">Расчет размера собственных средств ООО УК ТЭН-Девелопмент по состоянию на 31.03.2021	</a></td>
+                                                        <td style="text-align: center;">14.04.2021 17:02:00</td>
+                                                        <td style="text-align: center;">14.04.2022 17:02:00</td></tr>
+                                                    
+                                																							
+																
+																	
+                                                        <tr><td style="text-align: left;"><a href="/upload/iblock/a87/raschet-sobstvennykh-sredstv-na-sayt_fevral-2021.pdf" target="_blank">Расчет размера собственных средств ООО УК ТЭН-Девелопмент по состоянию на 28.02.2021	</a></td>
+                                                        <td style="text-align: center;">12.03.2021 16:17:00</td>
+                                                        <td style="text-align: center;">12.03.2022 16:17:00</td></tr>
+                                                    
+                                																							
+																
+																	
+                                                        <tr><td style="text-align: left;"><a href="/upload/iblock/a79/raschet-sobstvennykh-sredstv-na-sayt-uk_yanvar-2021.pdf" target="_blank">Расчет размера собственных средств ООО УК ТЭН-Девелопмент по состоянию на 31.01.2021	</a></td>
+                                                        <td style="text-align: center;">11.02.2021 18:38:00</td>
+                                                        <td style="text-align: center;">11.02.2022 18:38:00</td></tr>
+                                                    
+                                							                            
+                                                </tbody>
+                                            </table>
+										</div>
+                                        </div>
+									</div>
+									<hr>
+													</div>
+												
+																														<div id="tab_61" class="tab-pane ">
+						
+														
+							                            <div id="bx_3218110189_442" class="item ">
+										<div class="row">
+										  <div class="col-md-12">
+                                            <table class="table table-bordered">
+                                                <thead>
+                                                    <tr>
+                                                        <th style="text-align: center; vertical-align: inherit; font-weight: normal;">Наименования</th>
+                                                        <th style="text-align: center; font-weight: normal;">Дата и время опубликования</th>
+                                                        <th style="text-align: center; font-weight: normal;">Дата до которой осуществляется доступ</th>
+                                                    </tr>
+                                                </thead> 								 
+                                                <tbody> 									 
+                                                    
+																														
+																
+																	
+                                                        <tr><td style="text-align: left;"><a href="/upload/iblock/34c/raschet-sobstvennykh-sredstv_dekabr-2020.pdf" target="_blank">Расчет размера собственных средств ООО УК ТЭН-Девелопмент по состоянию на 31.12.2020	</a></td>
+                                                        <td style="text-align: center;">22.01.2021 14:12:00</td>
+                                                        <td style="text-align: center;">22.01.2022 14:12:00</td></tr>
+                                                    
+                                																							
+																
+																	
+                                                        <tr><td style="text-align: left;"><a href="/upload/iblock/e04/rss_noyabr-2020.pdf" target="_blank">Расчет размера собственных средств ООО УК ТЭН-Девелопмент по состоянию на 30.11.2020	</a></td>
+                                                        <td style="text-align: center;">14.12.2020 20:54:00</td>
+                                                        <td style="text-align: center;">14.12.2021 20:54:00</td></tr>
+                                                    
+                                																							
+																
+																	
+                                                        <tr><td style="text-align: left;"><a href="/upload/iblock/161/rss-_oktyabr-2020.pdf" target="_blank">Расчет размера собственных средств ООО УК ТЭН-Девелопмент по состоянию на 31.10.2020	</a></td>
+                                                        <td style="text-align: center;">12.11.2020 16:16:00</td>
+                                                        <td style="text-align: center;">12.11.2021 16:16:00</td></tr>
+                                                    
+                                																							
+																
+																	
+                                                        <tr><td style="text-align: left;"><a href="/upload/iblock/7b0/rss_09.2020.pdf" target="_blank">Расчет размера собственных средств ООО УК ТЭН-Девелопмент по состоянию на 30.09.2020	</a></td>
+                                                        <td style="text-align: center;">12.10.2020 10:56:00</td>
+                                                        <td style="text-align: center;">12.10.2021 10:56:00</td></tr>
+                                                    
+                                																							
+																
+																	
+                                                        <tr><td style="text-align: left;"><a href="/upload/iblock/595/rss_avgust-2020-na-sayt.pdf" target="_blank">Расчет размера собственных средств ООО УК ТЭН-Девелопмент по состоянию на 31.08.2020	</a></td>
+                                                        <td style="text-align: center;">11.09.2020 19:06:00</td>
+                                                        <td style="text-align: center;">11.09.2021 19:06:00</td></tr>
+                                                    
+                                																							
+																
+																	
+                                                        <tr><td style="text-align: left;"><a href="/upload/iblock/18a/raschet-sobstvennykh-sredstv-uk_iyul-2020.pdf" target="_blank">Расчет размера собственных средств ООО УК ТЭН-Девелопмент по состоянию на 31.07.2020</a></td>
+                                                        <td style="text-align: center;">13.08.2020 11:10:00</td>
+                                                        <td style="text-align: center;">13.08.2021 11:10:00</td></tr>
+                                                    
+                                																							
+																
+																	
+                                                        <tr><td style="text-align: left;"><a href="/upload/iblock/042/rss_06.2020-na-sayt.pdf" target="_blank">Расчет размера собственных средств ООО УК ТЭН-Девелопмент по состоянию на 30.06.2020</a></td>
+                                                        <td style="text-align: center;">09.07.2020 09:00:00</td>
+                                                        <td style="text-align: center;">09.07.2021 09:00:00</td></tr>
+                                                    
+                                																							
+																
+																	
+                                                        <tr><td style="text-align: left;"><a href="/upload/iblock/c74/rss_may-2020.pdf" target="_blank">Расчет размера собственных средств ООО УК ТЭН-Девелопмент по состоянию на 31.05.2020	</a></td>
+                                                        <td style="text-align: center;">09.06.2020 17:27:00</td>
+                                                        <td style="text-align: center;">09.06.2021 17:27:00</td></tr>
+                                                    
+                                																							
+																
+																	
+                                                        <tr><td style="text-align: left;"><a href="/upload/iblock/b9d/raschet-sobstvennykh-sredstv_aprel-2020.pdf" target="_blank">Расчет размера собственных средств ООО УК ТЭН-Девелопмент по состоянию на 30.04.2020</a></td>
+                                                        <td style="text-align: center;">15.05.2020 10:41:00</td>
+                                                        <td style="text-align: center;">15.05.2021 10:41:00</td></tr>
+                                                    
+                                																							
+																
+																	
+                                                        <tr><td style="text-align: left;"><a href="/upload/iblock/7a3/raschet-sobstvennykh-sredstv_mart-2020.pdf" target="_blank">Расчет размера собственных средств ООО УК ТЭН-Девелопмент по состоянию на 31.03.2020</a></td>
+                                                        <td style="text-align: center;">14.04.2020 17:59:00</td>
+                                                        <td style="text-align: center;">14.04.2021 17:59:00</td></tr>
+                                                    
+                                																							
+																
+																	
+                                                        <tr><td style="text-align: left;"><a href="/upload/iblock/5ce/raschet-sobstvennykh-sredstv_fevral-2020.pdf" target="_blank">Расчет размера собственных средств ООО УК ТЭН-Девелопмент по состоянию на 29.02.2020</a></td>
+                                                        <td style="text-align: center;">11.03.2020 16:38:00</td>
+                                                        <td style="text-align: center;">11.03.2021 16:38:00</td></tr>
+                                                    
+                                																							
+																
+																	
+                                                        <tr><td style="text-align: left;"><a href="/upload/iblock/c09/raschet-sobstvennykh-sredstv_yanvar-2020.pdf" target="_blank">Расчет размера собственных средств ООО УК ТЭН-Девелопмент по состоянию на 31.01.2020</a></td>
+                                                        <td style="text-align: center;">14.02.2020 17:33:00</td>
+                                                        <td style="text-align: center;">14.02.2021 17:34:00</td></tr>
+                                                    
+                                							                            
+                                                </tbody>
+                                            </table>
+										</div>
+                                        </div>
+									</div>
+									<hr>
+													</div>
+												
+																														<div id="tab_58" class="tab-pane ">
+						
+														
+							                            <div id="bx_3218110189_422" class="item ">
+										<div class="row">
+										  <div class="col-md-12">
+                                            <table class="table table-bordered">
+                                                <thead>
+                                                    <tr>
+                                                        <th style="text-align: center; vertical-align: inherit; font-weight: normal;">Наименования</th>
+                                                        <th style="text-align: center; font-weight: normal;">Дата и время опубликования</th>
+                                                        <th style="text-align: center; font-weight: normal;">Дата до которой осуществляется доступ</th>
+                                                    </tr>
+                                                </thead> 								 
+                                                <tbody> 									 
+                                                    
+																														
+																
+																	
+                                                        <tr><td style="text-align: left;"><a href="/upload/iblock/2f4/raschet-sobstvennykh-sredstv_dekabr-2019.pdf" target="_blank">Расчет размера собственных средств ООО УК ТЭН-Девелопмент по состоянию на 31.12.2019</a></td>
+                                                        <td style="text-align: center;">23.01.2020 10:14:00</td>
+                                                        <td style="text-align: center;">23.01.2021 10:14:00</td></tr>
+                                                    
+                                																							
+																
+																	
+                                                        <tr><td style="text-align: left;"><a href="/upload/iblock/48d/raschet-sobstvennykh-sredstv_noyabr-2019.pdf" target="_blank">Расчет размера собственных средств ООО УК ТЭН-Девелопмент по состоянию на 30.11.2019</a></td>
+                                                        <td style="text-align: center;">13.12.2019 15:02:00</td>
+                                                        <td style="text-align: center;">13.12.2020 15:02:00</td></tr>
+                                                    
+                                																							
+																
+																	
+                                                        <tr><td style="text-align: left;"><a href="/upload/iblock/8bf/rss_oktyabr-2019.pdf" target="_blank">Расчет размера собственных средств ООО УК ТЭН-Девелопмент по состоянию на 31.10.2019</a></td>
+                                                        <td style="text-align: center;">18.11.2019 10:08:00</td>
+                                                        <td style="text-align: center;">18.11.2020 10:08:00</td></tr>
+                                                    
+                                																							
+																
+																	
+                                                        <tr><td style="text-align: left;"><a href="/upload/iblock/6c8/raschet-razmera-sobstvennykh-sredstv-ooo-uk-ten_development-po-sostoyaniyu-na-30.09.2019.pdf" target="_blank">Расчет размера собственных средств ООО УК ТЭН-Девелопмент по состоянию на 30.09.2019</a></td>
+                                                        <td style="text-align: center;">14.10.2019 17:30:00</td>
+                                                        <td style="text-align: center;">14.10.2020 17:30:00</td></tr>
+                                                    
+                                																							
+																
+																	
+                                                        <tr><td style="text-align: left;"><a href="/upload/iblock/3e4/raschet-razmera-sobstvennykh-sredstv-ooo-uk-ten_development-po-sostoyaniyu-na-31.08.2019.pdf" target="_blank">Расчет размера собственных средств ООО УК ТЭН-Девелопмент по состоянию на 31.08.2019</a></td>
+                                                        <td style="text-align: center;">12.09.2019 16:20:00</td>
+                                                        <td style="text-align: center;">12.09.2020 16:20:00</td></tr>
+                                                    
+                                																							
+																
+																	
+                                                        <tr><td style="text-align: left;"><a href="/upload/iblock/bbb/raschet-razmera-sobstvennykh-sredstv-ooo-uk-ten_development-po-sostoyaniyu-na-31.07.2019.pdf" target="_blank">Расчет размера собственных средств ООО УК ТЭН-Девелопмент по состоянию на 31.07.2019</a></td>
+                                                        <td style="text-align: center;">14.08.2019 15:00:00</td>
+                                                        <td style="text-align: center;">14.08.2020 15:00:00</td></tr>
+                                                    
+                                																							
+																
+																	
+                                                        <tr><td style="text-align: left;"><a href="/upload/iblock/adf/raschet-razmera-sobstvennykh-sredstv-ooo-uk-ten_development-po-sostoyaniyu-na-30.06.2019.pdf" target="_blank">Расчет размера собственных средств ООО УК ТЭН-Девелопмент по состоянию на 30.06.2019</a></td>
+                                                        <td style="text-align: center;">16.07.2019 09:40:00</td>
+                                                        <td style="text-align: center;">16.07.2020 09:40:00</td></tr>
+                                                    
+                                																							
+																
+																	
+                                                        <tr><td style="text-align: left;"><a href="/upload/iblock/02e/raschet-razmera-sobstvennykh-sredstv-ooo-uk-ten_development-po-sostoyaniyu-na-31.05.2019.pdf" target="_blank">Расчет размера собственных средств ООО УК ТЭН-Девелопмент по состоянию на 31.05.2019</a></td>
+                                                        <td style="text-align: center;">18.06.2019 13:10:00</td>
+                                                        <td style="text-align: center;">18.06.2020 13:10:00</td></tr>
+                                                    
+                                																							
+																
+																	
+                                                        <tr><td style="text-align: left;"><a href="/upload/iblock/104/raschet-razmera-sobstvennykh-sredstv-ooo-uk-ten_development-po-sostoyaniyu-na-30.04.2019.pdf" target="_blank">Расчет размера собственных средств ООО УК ТЭН-Девелопмент по состоянию на 30.04.2019</a></td>
+                                                        <td style="text-align: center;">21.05.2019 18:00:00</td>
+                                                        <td style="text-align: center;">21.05.2020 18:00:00</td></tr>
+                                                    
+                                																							
+																
+																	
+                                                        <tr><td style="text-align: left;"><a href="/upload/iblock/564/raschet-razmera-sobstvennykh-sredstv-ooo-uk-ten_development-po-sostoyaniyu-na-31.03.2019.pdf" target="_blank">Расчет размера собственных средств ООО УК ТЭН-Девелопмент по состоянию на 31.03.2019</a></td>
+                                                        <td style="text-align: center;">15.04.2019 13:00:00</td>
+                                                        <td style="text-align: center;">15.04.2020 13:00:00</td></tr>
+                                                    
+                                																							
+																
+																	
+                                                        <tr><td style="text-align: left;"><a href="/upload/iblock/22a/raschet-razmera-sobstvennykh-sredstv-ooo-uk-ten_development-po-sostoyaniyu-na-28.02.2019.pdf" target="_blank">Расчет размера собственных средств ООО УК ТЭН-Девелопмент по состоянию на 28.02.2019</a></td>
+                                                        <td style="text-align: center;">15.03.2019 13:00:00</td>
+                                                        <td style="text-align: center;">15.03.2020 13:00:00</td></tr>
+                                                    
+                                																							
+																
+																	
+                                                        <tr><td style="text-align: left;"><a href="/upload/iblock/f76/raschet-razmera-sobstvennykh-sredstv-ooo-uk-ten_development-po-sostoyaniyu-na-31.01.2019.pdf" target="_blank">Расчет размера собственных средств ООО УК ТЭН-Девелопмент по состоянию на 31.01.2019</a></td>
+                                                        <td style="text-align: center;">14.02.2019 16:27:00</td>
+                                                        <td style="text-align: center;">14.02.2020 09:00:00</td></tr>
+                                                    
+                                							                            
+                                                </tbody>
+                                            </table>
+										</div>
+                                        </div>
+									</div>
+									<hr>
+													</div>
+												
+																														<div id="tab_51" class="tab-pane ">
+						
+														
+							                            <div id="bx_3218110189_388" class="item ">
+										<div class="row">
+										  <div class="col-md-12">
+                                            <table class="table table-bordered">
+                                                <thead>
+                                                    <tr>
+                                                        <th style="text-align: center; vertical-align: inherit; font-weight: normal;">Наименования</th>
+                                                        <th style="text-align: center; font-weight: normal;">Дата и время опубликования</th>
+                                                        <th style="text-align: center; font-weight: normal;">Дата до которой осуществляется доступ</th>
+                                                    </tr>
+                                                </thead> 								 
+                                                <tbody> 									 
+                                                    
+																														
+																
+																	
+                                                        <tr><td style="text-align: left;"><a href="/upload/iblock/cf3/raschet-razmera-sobstvennykh-sredstv-ooo-uk-ten_development-po-sostoyaniyu-na-31.12.2018.pdf" target="_blank">Расчет размера собственных средств ООО УК ТЭН-Девелопмент по состоянию на 31.12.2018</a></td>
+                                                        <td style="text-align: center;">22.01.2019 20:06:00</td>
+                                                        <td style="text-align: center;">22.01.2020</td></tr>
+                                                    
+                                																							
+																
+																	
+                                                        <tr><td style="text-align: left;"><a href="/upload/iblock/0cc/attachment.ashx.pdf" target="_blank">Расчёт размера собственных средств ООО УК ТЭН-Девелопмент по состоянию на 30.11.2018</a></td>
+                                                        <td style="text-align: center;">14.12.2018 18:45:00</td>
+                                                        <td style="text-align: center;">14.12.2019</td></tr>
+                                                    
+                                																							
+																
+																	
+                                                        <tr><td style="text-align: left;"><a href="/upload/iblock/0b1/raschyet-razmera-sobstvennykh-sredstv-ooo-uk-ten_development-po-sostoyaniyu-na-31.10.2018.pdf" target="_blank">Расчёт размера собственных средств ООО УК ТЭН-Девелопмент по состоянию на 31.10.2018</a></td>
+                                                        <td style="text-align: center;">15.11.2018 17:45:00</td>
+                                                        <td style="text-align: center;">15.11.2019</td></tr>
+                                                    
+                                																							
+																
+																	
+                                                        <tr><td style="text-align: left;"><a href="/upload/iblock/a7a/raschyet-razmera-sobstvennykh-sredstv-ooo-uk-ten_development-po-sostoyaniyu-na-30.09.2018.pdf" target="_blank">Расчёт размера собственных средств ООО УК ТЭН-Девелопмент по состоянию на 30.09.2018</a></td>
+                                                        <td style="text-align: center;">12.10.2018 17:19:00</td>
+                                                        <td style="text-align: center;">12.10.2019</td></tr>
+                                                    
+                                																							
+																
+																	
+                                                        <tr><td style="text-align: left;"><a href="/upload/iblock/ef3/raschyet-razmera-sobstvennykh-sredstv-ooo-uk-ten_development-po-sostoyaniyu-na-31.08.2018.pdf" target="_blank">Расчёт размера собственных средств ООО УК ТЭН-Девелопмент по состоянию на 31.08.2018</a></td>
+                                                        <td style="text-align: center;">14.09.2018 20:01:00</td>
+                                                        <td style="text-align: center;">14.09.2019</td></tr>
+                                                    
+                                																							
+																
+																	
+                                                        <tr><td style="text-align: left;"><a href="/upload/iblock/5b6/raschet-razmera-sobstvennykh-sredstv-ooo-uk-ten_development-po-sostoyaniyu-na-31.07.2018-g.pdf" target="_blank">Расчет размера собственных средств ООО УК «ТЭН-Девелопмент» по состоянию на 31.07.2018 г.</a></td>
+                                                        <td style="text-align: center;">14.08.2018 16:00:00</td>
+                                                        <td style="text-align: center;">14.08.2019</td></tr>
+                                                    
+                                																							
+																
+																	
+                                                        <tr><td style="text-align: left;"><a href="/upload/iblock/6c2/raschet-razmera-sobstvennykh-sredstv-ooo-uk-ten_development-po-sostoyaniyu-na-30.06.2018-g..pdf" target="_blank">Расчет размера собственных средств ООО УК «ТЭН-Девелопмент» по состоянию на 30.06.2018 г.</a></td>
+                                                        <td style="text-align: center;">13.07.2018 19:00:00</td>
+                                                        <td style="text-align: center;">13.07.2019</td></tr>
+                                                    
+                                																							
+																
+																	
+                                                        <tr><td style="text-align: left;"><a href="/upload/iblock/749/raschet-razmera-sobstvennykh-sredstv-ooo-uk-_ten_development_-po-sostoyaniyu-na-31.05.2018-g..pdf" target="_blank">Расчет размера собственных средств ООО УК «ТЭН-Девелопмент» по состоянию на 31.05.2018 г.</a></td>
+                                                        <td style="text-align: center;">18.06.2018 18:00:00</td>
+                                                        <td style="text-align: center;">18.06.2019</td></tr>
+                                                    
+                                																							
+																
+																	
+                                                        <tr><td style="text-align: left;"><a href="/upload/iblock/b79/raschet-razmera-sobstvennykh-sredstv-na-30.04.2018g..pdf" target="_blank">Расчет размера собственных средств ООО УК «ТЭН-Девелопмент» по состоянию на 30.04.2018 г.</a></td>
+                                                        <td style="text-align: center;">17.05.2018 16:00:00</td>
+                                                        <td style="text-align: center;">18.05.2019</td></tr>
+                                                    
+                                																							
+																
+																	
+                                                        <tr><td style="text-align: left;"><a href="/upload/iblock/cea/raschet-razmera-sobstvennykh-sredstv-na-31.03.2018g..pdf" target="_blank">Расчет размера собственных средств ООО УК «ТЭН-Девелопмент» по состоянию на 31.03.2018г.</a></td>
+                                                        <td style="text-align: center;">13.04.2018 18:00:00</td>
+                                                        <td style="text-align: center;">14.03.2019</td></tr>
+                                                    
+                                																							
+																
+																	
+                                                        <tr><td style="text-align: left;"><a href="/upload/iblock/767/rss28.02.2018.pdf" target="_blank">Расчет размера собственных средств ООО УК «ТЭН-Девелопмент» по состоянию на 28.02.2018г. </a></td>
+                                                        <td style="text-align: center;">16.03.2018 17:00:00</td>
+                                                        <td style="text-align: center;">15.03.2019</td></tr>
+                                                    
+                                																							
+																
+																	
+                                                        <tr><td style="text-align: left;"><a href="/upload/iblock/cac/raschet-razmera-sobstvennykh-sredstv-na-31.01.2018g..pdf" target="_blank">Расчет размера собственных средств ООО УК «ТЭН-Девелопмент» по состоянию на 31.01.2018г.</a></td>
+                                                        <td style="text-align: center;">31.01.2018 10:00:00</td>
+                                                        <td style="text-align: center;">01.02.2019</td></tr>
+                                                    
+                                							                            
+                                                </tbody>
+                                            </table>
+										</div>
+                                        </div>
+									</div>
+									<hr>
+													</div>
+												
+																														<div id="tab_48" class="tab-pane ">
+						
+														
+							                            <div id="bx_3218110189_352" class="item ">
+										<div class="row">
+										  <div class="col-md-12">
+                                            <table class="table table-bordered">
+                                                <thead>
+                                                    <tr>
+                                                        <th style="text-align: center; vertical-align: inherit; font-weight: normal;">Наименования</th>
+                                                        <th style="text-align: center; font-weight: normal;">Дата и время опубликования</th>
+                                                        <th style="text-align: center; font-weight: normal;">Дата до которой осуществляется доступ</th>
+                                                    </tr>
+                                                </thead> 								 
+                                                <tbody> 									 
+                                                    
+																														
+																
+																	
+                                                        <tr><td style="text-align: left;"><a href="/upload/iblock/83c/raschet-razmera-sobstvennykh-sredstv-na-31.12.2017g..pdf" target="_blank">Расчет размера собственных средств ООО УК «ТЭН-Девелопмент» по состоянию на 31.12.2017г.</a></td>
+                                                        <td style="text-align: center;">22.01.2018 15:00:00</td>
+                                                        <td style="text-align: center;">23.01.2019</td></tr>
+                                                    
+                                																							
+																
+																	
+                                                        <tr><td style="text-align: left;"><a href="/upload/iblock/709/raschet-razmera-sobstvennykh-sredstv-na-30.11.2017g..pdf" target="_blank">Расчет размера собственных средств ООО УК «ТЭН-Девелопмент» по состоянию на 30.11.2017г.</a></td>
+                                                        <td style="text-align: center;">14.12.2017 16:00:00</td>
+                                                        <td style="text-align: center;">15.12.2017</td></tr>
+                                                    
+                                																							
+																
+																	
+                                                        <tr><td style="text-align: left;"><a href="/upload/iblock/803/raschet-razmera-sobstvennykh-sredstv-na-31.10.2017g..pdf" target="_blank">Расчет размера собственных средств ООО УК «ТЭН-Девелопмент» по состоянию на 31.10.2017г. </a></td>
+                                                        <td style="text-align: center;">15.11.2017 13:00:00</td>
+                                                        <td style="text-align: center;">16.11.2018</td></tr>
+                                                    
+                                																							
+																
+																	
+                                                        <tr><td style="text-align: left;"><a href="/upload/iblock/058/raschet-razmera-sobstvennykh-sredstv-na-30.09.2017g..pdf" target="_blank">Расчет размера собственных средств ООО УК «ТЭН-Девелопмент» по состоянию на 30.09.2017г. </a></td>
+                                                        <td style="text-align: center;">13.10.2017 14:00:00</td>
+                                                        <td style="text-align: center;">14.10.2018</td></tr>
+                                                    
+                                																							
+																
+																	
+                                                        <tr><td style="text-align: left;"><a href="/upload/iblock/814/raschet-razmera-sobstvennykh-sredstv-na-31.08.2017g..pdf" target="_blank">Расчет размера собственных средств ООО УК «ТЭН-Девелопмент» по состоянию на 31.08.2017 г.</a></td>
+                                                        <td style="text-align: center;">14.09.2017 16:00:00</td>
+                                                        <td style="text-align: center;">15.09.2018</td></tr>
+                                                    
+                                																							
+																
+																	
+                                                        <tr><td style="text-align: left;"><a href="/upload/iblock/2a9/raschet-razmera-sobstvennykh-sredstv-na-31.07.2017g..pdf" target="_blank">Расчет размера собственных средств ООО УК «ТЭН-Девелопмент» по состоянию на 31.07.2017 г.</a></td>
+                                                        <td style="text-align: center;">11.08.2017 16:00:00</td>
+                                                        <td style="text-align: center;">12.08.2018</td></tr>
+                                                    
+                                																							
+																
+																	
+                                                        <tr><td style="text-align: left;"><a href="/upload/iblock/cec/raschet-razmera-sobstvennykh-sredstv-na-30.06.2017g..pdf" target="_blank">Расчет размера собственных средств ООО УК «ТЭН-Девелопмент» по состоянию на 30.06.2017г. </a></td>
+                                                        <td style="text-align: center;">14.07.2017 14:00:00</td>
+                                                        <td style="text-align: center;">15.07.2018</td></tr>
+                                                    
+                                																							
+																
+																	
+                                                        <tr><td style="text-align: left;"><a href="/upload/iblock/58a/raschet-razmera-sobstvennykh-sredstv-na-31.05.2017g..pdf" target="_blank">Расчет размера собственных средств ООО УК «ТЭН-Девелопмент» по состоянию на 31.05.2017г. </a></td>
+                                                        <td style="text-align: center;">14.06.2017 14:00:00</td>
+                                                        <td style="text-align: center;">15.06.2018</td></tr>
+                                                    
+                                																							
+																
+																	
+                                                        <tr><td style="text-align: left;"><a href="/upload/iblock/ecb/rssmay.pdf" target="_blank">Расчет размера собственных средств ООО УК «ТЭН-Девелопмент» по состоянию на 30.04.2017 г.</a></td>
+                                                        <td style="text-align: center;">17.05.2017 13:00:00</td>
+                                                        <td style="text-align: center;">18.05.2018</td></tr>
+                                                    
+                                							                            
+                                                </tbody>
+                                            </table>
+										</div>
+                                        </div>
+									</div>
+									<hr>
+													</div>
+												
+																					</div>
+					</div>
+			
+					</div>        </div>
+    </div>
+	</div>
+</div>
+					<hr>
+                    <div class="row" style="padding-bottom: 20px;">
+                        <div class="col-md-12" style="text-align: justify;">
+                            <p>ООО УК «ТЭН-Девелопмент» (Лицензия №21-000-1-00918 выдана ФСФР России 24.08.2012 г. на осуществление деятельности по управлению 
+инвестиционными фондами, паевыми инвестиционными фондами и негосударственными пенсионными фондами) напоминает инвесторам, что стоимость инвестиционных паев может 
+увеличиваться и уменьшаться, результаты инвестирования в прошлом не определяют доходы в будущем, государство не гарантирует доходность инвестиций в инвестиционные
+ фонды, прежде чем приобрести инвестиционный пай, следует внимательно ознакомиться с Правилами доверительного управления паевым инвестиционным фондом.</p>
+<p>Приобрести инвестиционные паи, получить подробную информацию о паевых инвестиционных фондах, ознакомиться с Правилами доверительного управления паевыми инвестиционными 
+фондами, а также с иными документами, предусмотренными Федеральным законом «Об инвестиционных фондах» и нормативными актами в сфере
+ финансовых рынков, можно по адресу: 111024, г. Москва, ул. Авиамоторная, д. 10, корп. 1, этаж 5, помещение XIII, кабинет 53, а также на странице в 
+сети Интернет: www.ten-development.ru.</p>
+                        </div>
+                    </div>
+										</div>
+											</div>
+						</div>
+					</div>
+				                
+			</div>
+
+		
+        
+		<footer id="footer">
+			
+		</footer>
+			
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<div class="title-search-result"></div>

@@ -1,0 +1,326 @@
+
+<table width="100%" border="0" cellspacing="0" cellpadding="0">
+  <tbody><tr>
+    <td width="10%">&nbsp;</td>
+    <td width="90%" background="/images/yel_line.gif" style="background-repeat:repeat-x; background-position:bottom;"><table width="100%" border="0" cellspacing="0" cellpadding="5">
+        <tbody><tr>
+          <td width="100%"><table width="100%">
+            <tbody><tr>
+              <td><a href="/info/main.php"><img src="/images/logo.gif" alt="«Маяк Эстейт - Менеджмент»" width="234" height="26" vspace="20"></a></td>
+              <td width="50%" align="center" valign="middle"> <span class="style5">+7 (495) 647-01-20</span></td>
+            </tr>
+          </tbody></table>
+          </td>
+          <td nowrap="nowrap"><a href="index.htm"><img src="/images/icon_home.gif" alt="на главную" width="42" height="13" border="0"></a><a href="about/feedback.htm"><img src="/images/icon_mail.gif" alt="напишите нам" width="42" height="13" border="0"></a></td>
+        <td width="30%"> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</td>
+        </tr>
+      </tbody></table></td>
+  </tr>
+  <tr>
+    <td>&nbsp;</td>
+    <td background="/images/bg.gif" style=" background-size:contain;"><table width="100%" height="150" border="0" cellpadding="5" cellspacing="0">
+      <tbody><tr>
+        <td background="/images/top_bg.jpg" style="background-repeat:no-repeat;  background-size:contain; background-position:right top; padding-left:20px;"><table width="100%" border="0" cellspacing="0" cellpadding="0">
+          <tbody><tr>
+            <td width="12%" valign="top"><table width="100%" border="0" cellspacing="0" cellpadding="5">
+              <tbody><tr>
+                <td><img src="/images/bullet_b.gif" width="7" height="7"></td>
+                <td width="100%"><a href="/about/o_info.php" class="style1">О компании</a></td>
+              </tr>
+
+              <tr>
+                <td>&nbsp;</td>
+                <td><table width="100%" border="0" cellspacing="0" cellpadding="3">
+                    <tbody><tr>
+                      <td><img src="/images/bullet_b2.gif" width="4" height="8"></td>
+                      <td width="100%"><a href="/about/o_info.php" class="style3">Общая информация</a></td>
+                    </tr>
+                     <tr>
+                      <td><img src="/images/bullet_b2.gif" width="4" height="8"></td>
+                      <td width="100%"><a href="/about/news.php" class="style3">Новости</a></td>
+                    </tr>
+					
+                    <tr>
+                      <td><img src="/images/bullet_b2.gif" width="4" height="8"></td>
+                      <td><a href="/about/contacts.php" class="style3">Контакты</a></td>
+                    </tr>
+                    <tr>
+                      <td><img src="/images/bullet_b2.gif" width="4" height="8"></td>
+                      <td><a href="/about/feedback.php" class="style3">Обратная связь</a></td>
+                    </tr>
+                      <tr>
+                      <td><img src="/images/bullet_b2.gif" width="4" height="8"></td>
+                      <td><a href="/about/req.php" class="style3">Реквизиты</a></td>
+                    </tr>
+                </tbody></table></td>
+              </tr>
+            </tbody></table></td>
+                  <td width="19%" valign="top">
+          <table width="100%" border="0" cellspacing="0" cellpadding="5">
+              <tbody><tr>
+                <td style="position:relative;"><img src="/images/bullet_b.gif" width="7" height="7" style="position: absolute; left:-10px; top:10px; "><a href="#" class="style1">Раскрытие информации     </a></td>
+              </tr>
+
+              <tr class="raschet">
+               <td>
+                 <div>     <img src="/images/bullet_b2.gif" width="4" height="8">
+                     <a href="/info/raschet.php" class="style3">Расчет размера собственных средств</a>
+         </div>
+                    
+      
+                <div>     <img src="/images/bullet_b2.gif" width="4" height="8">
+                     <a href="/info/info.php" class="style9">Финансовая отчетность</a>
+       	
+                 </div>                                         
+    
+                 <div>    <img src="/images/bullet_b2.gif" width="4" height="8">
+                      <a href="/info/inform.php" class="style9">Информация о порядке и условиях обмена электронными документами </a>
+       </div>
+     
+                 <div>    <img src="/images/bullet_b2.gif" width="4" height="8">
+                      <a href="/info/e_doc.php" class="style9">Критерии отнесения клиентов к категории клиента – иностранного налогоплательщика и способы получения от них необходимой информации</a>
+                 </div>   
+      
+                 <div>    <img src="/images/bullet_b2.gif" width="4" height="8">
+                     <a href="/info/reglament.php" class="style9">Регламент признания лиц квалифицированными инвесторами в Обществе с ограниченной ответственностью «Маяк Эстейт-Менеджмент» </a>
+                     </div>
+<!-- 
+                      <div>    <img src="/images/bullet_b2.gif" width="4" height="8" />
+                     <a href="/info/strukture.php" class="style9"> Информация о структуре и составе участников</a>
+                     </div>
+ -->
+                   
+             </td>
+             </tr>                     
+           
+                <tr><td>&nbsp;</td>
+                <td><table width="100%" border="0" cellspacing="0" cellpadding="3">
+     
+           				
+
+     
+
+               
+                </table></td>
+        
+            </tr></tbody></table></td>
+            
+            <td width="15%" valign="top"><table width="100%" border="0" cellspacing="0" cellpadding="5">
+
+              <tbody><tr>
+                <td><img src="/images/bullet_b.gif" width="7" height="7"></td>
+                <td width="100%"><a href="/projects/proect.php" class="style1">Проекты</a></td>
+              </tr>
+              <tr>
+                <td>&nbsp;</td>
+                <td><table width="100%" border="0" cellspacing="0" cellpadding="3">
+                    <tbody><tr>
+                      <td><img src="/images/bullet_b2.gif" width="4" height="8"></td>
+                      <td width="100%"><a href="/projects/beacon.php" class="style3">ЗПИФК «Маяк-Комбинированный»</a></td>
+                    </tr>
+                    <tr>
+                      <td>&nbsp;</td>
+                      <td><table width="100%" border="0" cellspacing="0" cellpadding="3">
+                        <tbody><tr>
+                          <td><img src="/images/bullet_b2.gif" width="4" height="8"></td>
+                          <td width="100%"><a href="/projects/info.php" class="style3">Общая характеристика фонда</a></td>
+                        </tr>
+                        <tr>
+                          <td><img src="/images/bullet_b2.gif" width="4" height="8"></td>
+                          <td><a href="/projects/02.php" class="style3">Инвестиционная декларация</a></td>
+                        </tr>
+                        <tr>
+                          <td><img src="/images/bullet_b2.gif" width="4" height="8"></td>
+                          <td><a href="/projects/information/official.php" class="style3">Официальная информация</a></td>
+                        </tr>
+                      </tbody></table>                        </td>
+                    </tr>
+
+                </tbody></table></td>
+              </tr>
+            </tbody></table></td>
+            <td width="19%" valign="top"><table width="100%" border="0" cellspacing="0" cellpadding="5">
+              <tbody><tr>
+                <td><img src="/images/bullet_b.gif" width="7" height="7"></td>
+                <td width="100%"><a href="#" class="style1">Полезная информация</a></td>
+              </tr>
+              <tr>
+                <td>&nbsp;</td>
+                <td><table width="100%" border="0" cellspacing="0" cellpadding="3">
+                  <tbody><tr>
+                    <td><img src="/images/bullet_b2.gif" width="4" height="8"></td>
+                    <td width="100%"><a href="/info/001.php" class="style3">Словарь пайщика</a></td>
+                  </tr>
+                  <tr>
+                    <td><img src="/images/bullet_b2.gif" width="4" height="8"></td>
+                    <td><a href="/info/002.php" class="style3">Полезные ссылки</a></td>
+                  </tr>
+                  
+                </tbody></table></td>
+              </tr>
+            </tbody></table></td>
+            <td width="25%" valign="top"><table width="100%" border="0" cellspacing="0" cellpadding="5">
+              <tbody><tr>
+                <td><!-- <img src="/images/bullet_b.gif" width="7" height="7" /> --></td>
+                <td width="100%"><!-- <a href="/info/messag.php" class="style1">Сообщения</a> --></td>
+              </tr>
+              <tr>
+                <td>&nbsp;</td>
+                <td>&nbsp;</td>
+              </tr>
+            </tbody></table></td>
+          </tr>
+        </tbody></table>
+        </td>
+      </tr>
+    </tbody></table></td>
+  </tr>
+  <tr>
+    <td>&nbsp;</td>
+    <td background="/images/shadow.jpg" style="background-repeat:no-repeat;"><br>
+    </td>
+  </tr>
+</tbody></table><br>
+<table width="100%" border="0" cellpadding="0" cellspacing="0">
+  <tbody><tr>
+    <td width="11%" bgcolor="#F7F7F7">&nbsp;</td>
+    <td width="80%" bgcolor="#F7F7F7"> <p><a href="main.php">«Маяк Эстейт - Менеджмент»</a> / Расчет собственных средств.</p></td>
+  </tr>
+  <tr>
+    <td>&nbsp;</td>
+    <td background="../images/l-h.gif" style="background-repeat:no-repeat; background-position:right top;"><table width="100%" border="0" cellspacing="0" cellpadding="0">
+      <tbody><tr>
+        <td width="70%" valign="top" style="padding-top: 20px;">
+      
+    
+
+
+  <p>  </p>
+
+<table bgcolor="#DDDDDD" width="790" cellpadding="7" cellspacing="7" border="0">
+               <tbody><tr>
+
+  <td bgcolor="#FFFFFF"><a href="../documents/raschet_may_2023.pdf"><img style="padding-right:10px;" src="/images/icon_pdf.gif" alt="" height="16">Расчет размера собственных средств на 31 мая  2023 года.</a> </td><td bgcolor="#FFFFFF"> Дата и время опубликования:   14.06.2023 г. 18:05</td><td bgcolor="#FFFFFF">  Настоящее сообщение доступно до 31.05.2024 г.</td><td style="width:40px; background:#FFF; color:#B03821;">54 Kb</td>
+</tr>
+           <tr>
+             </tr><tr>
+
+  <td bgcolor="#FFFFFF"><a href="../documents/raschet_april_2023.pdf"><img style="padding-right:10px;" src="/images/icon_pdf.gif" alt="" height="16">Расчет размера собственных средств на 30 апреля  2023 года.</a> </td><td bgcolor="#FFFFFF"> Дата и время опубликования:   18.05.2023 г. 15:11</td><td bgcolor="#FFFFFF">  Настоящее сообщение доступно до 30.04.2024 г.</td><td style="width:40px; background:#FFF; color:#B03821;">238 Kb</td>
+</tr>
+		       <tr>
+
+  <td bgcolor="#FFFFFF"><a href="../documents/raschet_march_2023.pdf"><img style="padding-right:10px;" src="/images/icon_pdf.gif" alt="" height="16">Расчет размера собственных средств на 31 марта  2023 года.</a> </td><td bgcolor="#FFFFFF"> Дата и время опубликования:   14.04.2023 г. 18:05</td><td bgcolor="#FFFFFF">  Настоящее сообщение доступно до 31.03.2024 г.</td><td style="width:40px; background:#FFF; color:#B03821;">56 Kb</td>
+</tr>
+	       <tr>
+
+  <td bgcolor="#FFFFFF"><a href="../documents/raschet_february_2023.pdf"><img style="padding-right:10px;" src="/images/icon_pdf.gif" alt="" height="16">Расчет размера собственных средств на 28 февраля  2023 года.</a> </td><td bgcolor="#FFFFFF"> Дата и время опубликования:   15.03.2023 г. 14:48</td><td bgcolor="#FFFFFF">  Настоящее сообщение доступно до 29.02.2024 г.</td><td style="width:40px; background:#FFF; color:#B03821;">51 Kb</td>
+</tr>
+		    <tr>
+
+  <td bgcolor="#FFFFFF"><a href="../documents/raschet_january_2023.pdf"><img style="padding-right:10px;" src="/images/icon_pdf.gif" alt="" height="16">Расчет размера собственных средств на 31 января  2023 года.</a> </td><td bgcolor="#FFFFFF"> Дата и время опубликования:   14.02.2023 г. 20:00</td><td bgcolor="#FFFFFF">  Настоящее сообщение доступно до 31.01.2024 г.</td><td style="width:40px; background:#FFF; color:#B03821;">55 Kb</td>
+</tr>
+	    <tr>
+
+  <td bgcolor="#FFFFFF"><a href="../documents/raschet_december_2022.pdf"><img style="padding-right:10px;" src="/images/icon_pdf.gif" alt="" height="16">Расчет размера собственных средств на 31 декабря  2022 года.</a> </td><td bgcolor="#FFFFFF"> Дата и время опубликования:   18.01.2023 г. 22:25</td><td bgcolor="#FFFFFF">  Настоящее сообщение доступно до 31.12.2023 г.</td><td style="width:40px; background:#FFF; color:#B03821;">55 Kb</td>
+</tr>
+     <tr>
+  <td bgcolor="#FFFFFF"><a href="../documents/raschet_november_2022.pdf"><img style="padding-right:10px;" src="/images/icon_pdf.gif" alt="" height="16">Расчет размера собственных средств на 30 ноября  2022 года.</a> </td><td bgcolor="#FFFFFF"> Дата и время опубликования:   13.12.2022 г. 14:05</td><td bgcolor="#FFFFFF">  Настоящее сообщение доступно до 30.11.2023 г.</td><td style="width:40px; background:#FFF; color:#B03821;">55 Kb</td>
+</tr>
+    <tr>
+  <td bgcolor="#FFFFFF"><a href="../documents/raschet_october_2022.pdf"><img style="padding-right:10px;" src="/images/icon_pdf.gif" alt="" height="16">Расчет размера собственных средств на 31 октября  2022 года.</a> </td><td bgcolor="#FFFFFF"> Дата и время опубликования:   11.11.2022 г. 18:25</td><td bgcolor="#FFFFFF">  Настоящее сообщение доступно до 31.10.2023 г.</td><td style="width:40px; background:#FFF; color:#B03821;">56 Kb</td>
+</tr> 
+  <tr>
+  <td bgcolor="#FFFFFF"><a href="../documents/raschet_september_2022.pdf"><img style="padding-right:10px;" src="/images/icon_pdf.gif" alt="" height="16">Расчет размера собственных средств на 30 сентября  2022 года.</a> </td><td bgcolor="#FFFFFF"> Дата и время опубликования:   14.10.2022 г. 14:10</td><td bgcolor="#FFFFFF">  Настоящее сообщение доступно до 30.09.2023 г.</td><td style="width:40px; background:#FFF; color:#B03821;">56 Kb</td>
+</tr> 
+<tr>
+  <td bgcolor="#FFFFFF"><a href="../documents/raschet_august_2022.pdf"><img style="padding-right:10px;" src="/images/icon_pdf.gif" alt="" height="16">Расчет размера собственных средств на 31 августа  2022 года.</a> </td><td bgcolor="#FFFFFF"> Дата и время опубликования:   12.09.2022 г. 19:38</td><td bgcolor="#FFFFFF">  Настоящее сообщение доступно до 31.08.2023 г.</td><td style="width:40px; background:#FFF; color:#B03821;">56 Kb</td>
+</tr>  
+<tr>
+  <td bgcolor="#FFFFFF"><a href="../documents/raschet_july_2022.pdf"><img style="padding-right:10px;" src="/images/icon_pdf.gif" alt="" height="16">Расчет размера собственных средств на 31 июля  2022 года.</a> </td><td bgcolor="#FFFFFF"> Дата и время опубликования:   11.08.2022 г. 13:27</td><td bgcolor="#FFFFFF">  Настоящее сообщение доступно до 31.07.2023 г.</td><td style="width:40px; background:#FFF; color:#B03821;">56 Kb</td>
+</tr>
+
+<tr>
+  <td bgcolor="#FFFFFF"><a href="../documents/raschet_june_2022.pdf"><img style="padding-right:10px;" src="/images/icon_pdf.gif" alt="" height="16">Расчет размера собственных средств на 30  июня  2022 года.</a> </td><td bgcolor="#FFFFFF"> Дата и время опубликования:   14.07.2022 г. 10:18</td><td bgcolor="#FFFFFF">  Настоящее сообщение доступно до 30.06.2023 г.</td><td style="width:40px; background:#FFF; color:#B03821;">56 Kb</td>
+ </tr>
+
+  
+
+ 
+
+  
+  
+
+     
+  </tbody></table>
+<!--		  <p><a href="../documents/raschet_jan2014.XLS">На 31 января 2014 года</a></p>
+		  <p><a href="../documents/raschet_feb2014.XLS">На 28 февраля 2014 года</a></p>
+		  <p><a href="../documents/raschet_mart_2014.xls">На 31 марта 2014 года</a></p>
+		  <p><a href="../documents/raschet_april_2014.XLS">На 30 апреля 2014 года</a></p>
+		  <p><a href="../documents/raschet_may_2014.XLS">На 31 мая 2014 года</a></p>
+          <p><a href="../documents/raschet_jun2014.XLS">На 30 июня 2014 года</a></p>
+          <p><a href="../documents/raschet_july_2014.XLS">На 31 июля 2014 года</a></p>
+          <p><a href="../documents/raschet_aug_2014.XLS">На 31 августа 2014 года</a></p>
+          <p><a href="../documents/raschet_sent_2014.XLS">На 30 сентября 2014г</a></p>
+          <p><a href="../documents/raschet_oct_2014.XLS">На 31 октября 2014г</a></p>
+          <p><a href="../documents/raschet_november2014.XLS">На 30 ноября 2014г</a></p>
+		  <p><a href="../documents/raschet_december_2014.XLS">На 30 декабря 2014г</a></p> -->
+    <!--           
+         <p><a href="../documents/raschet_july_2015.XLS">На 31 июля 2015 года</a></p>
+         <p><a href="../documents/raschet_june_2015.XLS">На 30 июня 2015 года</a></p>
+         <p><a href="../documents/raschet_may2015.XLS">На 31 мая 2015 года</a></p>
+         <p><a href="../documents/raschet_jan2015.XLS">На 31 января 2015 года </a></p> -->
+<!--         <p><a href="../documents/raschet_april_2015.XLS">На 30 апреля 2015 года </a></p>
+         <p><a href="../documents/raschet_mart_2015.XLS">На 31 марта  2015 года </a></p>
+         <p><a href="../documents/raschet_feb2015.XLS">На 28 февраля 2015 года </a></p> -->
+
+
+
+                
+             
+            
+        
+
+
+
+</td>
+        <td width="30%" valign="top" style="padding-top:20px;"><img src="../images/blank.gif" width="230" height="1">
+		
+		  
+		</td>
+      </tr>
+    </tbody></table></td>
+  </tr>
+    <tr>
+    <td width="11%" bgcolor="#F7F7F7">&nbsp;</td>
+    <td width="80%" bgcolor="#F7F7F7">
+<div id="sub"><p>
+  <strong>Общество с  ограниченной ответственностью "Маяк Эстейт-Менеджмент"  зарегистрировано</strong> Межрайонной инспекцией Федеральной налоговой службы №46 по г.Москве 16 ноября 2005  года. Бессрочная лицензия ФСФР России на осуществление деятельности по управлению инвестиционными фондами, паевыми инвестиционными фондами и негосударственными пенсионными фондами №21-000-1-00809 от 28 апреля 2011 года. <br>
+  Стоимость <strong>инвестиционных паев</strong> может увеличиваться и уменьшаться,  результаты инвестирования в прошлом не определяют доходы в будущем, государство  не гарантирует доходность инвестиций в паевые инвестиционные фонды. Прежде чем  приобрести инвестиционный пай, следует внимательно ознакомиться с правилами  доверительного управления паевым инвестиционным фондом. Получить подробную  информацию о паевых инвестиционных фондах и ознакомиться с правилами  доверительного управления паевыми инвестиционными фондами и иными документами  можно по адресу: 105066, г. Москва, вн. тер. г. муниципальный округ Басманный, ул. Нижняя Красносельская, д. 40/12, корпус 20, этаж/офис 6/622</p>
+</div></td>
+  </tr>
+
+
+  <tr>
+    <td width="10%">&nbsp;</td>
+    <td style="border-left: 1px solid #CCCCCC;"><table width="100%" cellpadding="5">
+      <tbody><tr>
+        <td width="100%"><small class="style2 style4">© 2006-2023 ООО «Маяк Эстейт - Менеджмент»</small></td>
+        <td>
+<!--LiveInternet counter--><script type="text/javascript"><!--
+document.write("<a href='http://www.liveinternet.ru/click' "+
+"target=_blank><img src='http://counter.yadro.ru/hit?t18.5;r"+
+escape(document.referrer)+((typeof(screen)=="undefined")?"":
+";s"+screen.width+"*"+screen.height+"*"+(screen.colorDepth?
+screen.colorDepth:screen.pixelDepth))+";u"+escape(document.URL)+
+";"+Math.random()+
+"' alt='' title='LiveInternet: показано число просмотров за 24"+
+" часа, посетителей за 24 часа и за сегодня' "+
+"border='0' width='88' height='31'><\/a>")
+//--></script><a href="http://www.liveinternet.ru/click" target="_blank"><img src="http://counter.yadro.ru/hit?t18.5;r;s1360*1020*24;uhttp%3A//www.beaconfunds.ru/info/raschet.php;0.49109265204238306" alt="" title="LiveInternet: показано число просмотров за 24 часа, посетителей за 24 часа и за сегодня" border="0" width="88" height="31"></a><!--/LiveInternet-->
+        
+        
+        </td>
+      </tr>
+    </tbody></table>     
+
+</td></tr></tbody></table>

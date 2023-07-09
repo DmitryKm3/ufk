@@ -1,0 +1,519 @@
+
+
+
+<table border="0" bgcolor="#ffffff" cellpadding="0" cellspacing="0" width="76%" height="100%" align="center">
+  <tbody><tr>
+    <td height="25" bgcolor="#ffffff" align="left" colspan="2">
+	<font class="genblack">
+<!--url's used in the movie-->
+<!--text used in the movie-->
+<!--
+нПУЛЧБ
+мПОДПО
+оША-кПТЛ
+фПЛЙП
+рБТЙЦ
+-->
+<!--
+<object classid="clsid:d27cdb6e-ae6d-11cf-96b8-444553540000" codebase="http://download.macromedia.com/pub/shockwave/cabs/flash/swflash.cab#version=7,0,0,0" width="708" height="195" id="16" align="middle">
+<param name="allowScriptAccess" value="sameDomain" />
+<param name="movie" value="16.swf" />
+<param name="menu" value="false" />
+<param name="quality" value="high" />
+<param name="bgcolor" value="#ffffff" />
+<embed src="16.swf" menu="false" quality="high" bgcolor="#ffffff" width="708" height="195" name="16" align="middle" allowScriptAccess="sameDomain" type="application/x-shockwave-flash" pluginspage="http://www.macromedia.com/go/getflashplayer" />
+</object>
+-->
+
+    </font></td>
+    <td valign="top" align="left" bgcolor="#F1F0EE">
+	<!--<img src=img/telefon2.jpg>-->
+<!--	<h3>  Телефон: +7(499) 517-93-79 </h3>     <BR>-->
+<!--url's used in the movie-->
+<!--text used in the movie-->
+<!--
+<object classid="clsid:d27cdb6e-ae6d-11cf-96b8-444553540000" codebase="http://download.macromedia.com/pub/shockwave/cabs/flash/swflash.cab#version=7,0,0,0" width="285" height="149" id="yourmoney_5" align="middle">
+<param name="allowScriptAccess" value="sameDomain" />
+<param name="movie" value="yourmoney_5.swf" />
+<param name="menu" value="false" />
+<param name="quality" value="high" />
+<param name="bgcolor" value="#f1f0ee" />
+<embed src="yourmoney_5.swf" menu="false" quality="high" bgcolor="#f1f0ee" width="285" height="149" name="yourmoney_5" align="middle" allowScriptAccess="sameDomain" type="application/x-shockwave-flash" pluginspage="http://www.macromedia.com/go/getflashplayer" />
+</object>
+-->
+    </td>
+  </tr>
+
+  <tr>
+    <td height="1" bgcolor="#485970" width="*" colspan="6">
+  </td></tr>
+
+  <tr>
+
+    <!-- Left Table Start -->
+    <td width="189" valign="top" bgcolor="#FFFFFF">
+      <table border="0" cellpadding="0" cellspacing="0" width="189" bgcolor="#ffffff">
+	<tbody><tr>
+	  <td>
+   	
+	    <a class="menuHead" href="index.php">ОБЯЗАТЕЛЬНАЯ ИНФОРМАЦИЯ</a>
+
+	    <a class="menuHeadSub" href="raschoconsolidfin.php">КОНСОЛИДИРОВАННАЯ ФИНАНСОВАЯ ОТЧЕТНОСТЬ</a>
+	    <a class="menuHeadSub" href="cont.php">КОНТАКТЫ</a>
+	    <!--<a class=menuHeadSub href="feedback.php">ОБРАТНАЯ СВЯЗЬ</a> -->
+	    <a class="menuHeadSub" href="feedback.php">ОБРАТНАЯ СВЯЗЬ</a> 
+	    <a class="menuHeadSub" href="newscorp.php">НОВОСТИ И СООБЩЕНИЯ</a>
+
+	    <a class="menuHead" href="pf.php">УСЛУГИ</a>
+	    <!--<a class=menuHeadSub href="du.php">ДОВЕРИТЕЛЬНОЕ УПРАВЛЕНИЕ</a>-->
+	    <a class="menuHeadSub" href="pf.php">ПАЕВЫЕ ФОНДЫ</a>
+	    <a class="menuHeadSub" href="pf_arhive.php">Архив</a>
+            <!--
+   	    <a class=menuHeadSub href="locations.php">АРЕНДА НЕДВИЖИМОСТИ</a>
+            -->
+	    <!--<a class=menuHeadSub href="locationsz.php">ПУНКТЫ ПРИЕМА ЗАЯВОК</a>
+
+	    <a class=menuHead href="http://www.nrc-capital.ru/users/">КЛИЕНТСКИЙ ДОСТУП</a>-->
+	    <!--
+	    <a class=menuHead href="press.php">ПРЕСС-ЦЕНТР</a>-->
+	    <!--<a class=menuHeadSub href="newsecon.php">ЭКОНОМИЧЕСКИЕ НОВОСТИ</a> <BR><BR>
+-->
+
+	    
+	    <table border="1" cellpadding="10" cellspacing="0" background="img/bg_with_line.jpg" width="100%">
+	      <tbody><tr>
+	        <td bgcolor="#485970">
+<font class="white">
+<a class="blood" href="raschot.php"><font color="white">Размер собственных средств<br>
+ООО УК «НРК-Капитал»<br>
+на 31.05.2023 составляет<br> 
+135 856 161,46 рублей.</font></a>
+
+</font></td></tr>
+	    </tbody></table>
+
+	    <br>
+
+	    <!-- SUBSCRIBE -->
+	    <script language="JavaScript">
+	    <!--
+	    function gosub() {
+	    WRSub=window.open('addemail.php','WRSub','width=350,height=150,left=200,top=200');
+	    WRSub.focus();
+	    }
+	    //-->
+	    </script>
+
+	    <br>
+
+	    <table border="0" cellpadding="0" cellspacing="0" background="img/bg_with_line.jpg" width="100%">
+            <tbody><tr><td>	 
+                 
+            </td></tr>
+	      <!--<TR>
+	        <TD><img src=img/razdelitel_horizontal.jpg></TD></TR>
+	      <TR>
+	      <TR>
+	        <TD>
+	          <IFRAME border=0 bgColor=#c2cdd7 marginWidth=0 marginHeight=0 
+	          src="nrcsearch/sinc/form.php" 
+	          frameBorder=0 width=189 scrolling=no height=100>
+	          </IFRAME></TD></TR>
+	      <TR>
+	        <TD><img src=img/razdelitel_horizontal.jpg></TD></TR>
+	      <TR>
+	        <TD height=35 bgColor=#ffffff><font color=#ffffff>.</font></TD></TR>  -->
+
+	      <!--<TR>
+	        <TD><img src=img/razdelitel_horizontal.jpg></TD></TR>
+	        </TD></TR>
+	      <TR>
+	        <TD><img src=img/razdelitel_horizontal.jpg></TD></TR>-->
+
+
+	    </tbody></table>
+	    <!-- SUBSCRIBE -->
+	    <br><br><br>
+
+	  </td></tr>
+      </tbody></table>
+    </td>
+
+    <!-- Left Table End -->
+
+
+
+
+    <!-- Center Table Start -->
+    <td height="50" bgcolor="#ffffff" valign="top" width="80%">
+      <table border="0" cellpadding="1" cellspacing="0" width="80%">
+	<tbody><tr>
+	  <td><font class="texthead"> &nbsp; Расчет собственных средств Общества с ограниченной ответственностью Управляющая Компания «НРК-Капитал (Эссет Менеджмент)» </font></td></tr>
+
+	<tr>
+	  <td width="*" align="left">
+<!-- Main Page Text Start -->
+<table border="0" cellpadding="0" cellspacing="0">
+  <tbody><tr>
+    <td style="PADDING-LEFT: 20px;PADDING-TOP: 10px;PADDING-RIGHT: 20px">
+
+<b>Cрок доступа к информации: в течение трех лет со дня ее раскрытия.</b><br><br>
+<b>Расчет собственных средств начиная с 01.09.2016 проводится в соответствии с Указанием Центрального Банка Российской Федерации от 19 июля 2016 года №4075-У</b>
+<br>
+<br>
+<a class="blood" href="uploads/Capital_2023m05.pdf">Расчет собственных средств ООО УК «НРК-Капитал» на 31.05.2023</a> (опубликовано 15.06.2023, доступно до 15.06.2026).
+<br>
+<a class="blood" href="uploads/Capital_2023m04.pdf">Расчет собственных средств ООО УК «НРК-Капитал» на 30.04.2023</a> (опубликовано 17.05.2023, доступно до 17.05.2026).
+<br>
+<a class="blood" href="uploads/Capital_2023m03.pdf">Расчет собственных средств ООО УК «НРК-Капитал» на 31.03.2023</a> (опубликовано 17.04.2023, доступно до 17.04.2026).
+<br>
+<a class="blood" href="uploads/Capital_2023m02.pdf">Расчет собственных средств ООО УК «НРК-Капитал» на 28.02.2023</a> (опубликовано 14.03.2023, доступно до 14.03.2026).
+<br>
+<a class="blood" href="uploads/Capital_2023m01.pdf">Расчет собственных средств ООО УК «НРК-Капитал» на 31.01.2023</a> (опубликовано 14.02.2023, доступно до 14.02.2026).
+<br>
+<a class="blood" href="uploads/Capital_2022m12.pdf">Расчет собственных средств ООО УК «НРК-Капитал» на 31.12.2022</a> (опубликовано 20.01.2023, доступно до 20.01.2026).
+<br>
+<a class="blood" href="uploads/Capital_2022m11.pdf">Расчет собственных средств ООО УК «НРК-Капитал» на 30.11.2022</a> (опубликовано 13.12.2022, доступно до 13.12.2025).
+<br>
+<a class="blood" href="uploads/Capital_2022m10.pdf">Расчет собственных средств ООО УК «НРК-Капитал» на 31.10.2022</a> (опубликовано 15.11.2022, доступно до 15.11.2025).
+<br>
+<a class="blood" href="uploads/Capital_2022m09.pdf">Расчет собственных средств ООО УК «НРК-Капитал» на 30.09.2022</a> (опубликовано 13.10.2022, доступно до 13.10.2025).
+<br>
+<a class="blood" href="uploads/Capital_2022m08.pdf">Расчет собственных средств ООО УК «НРК-Капитал» на 31.08.2022</a> (опубликовано 19.09.2022, доступно до 19.09.2025).
+<br>
+<a class="blood" href="uploads/Capital_2022m07.pdf">Расчет собственных средств ООО УК «НРК-Капитал» на 31.07.2022</a> (опубликовано 12.08.2022, доступно до 12.08.2025).
+<br>
+<a class="blood" href="uploads/Capital_2022m06.pdf">Расчет собственных средств ООО УК «НРК-Капитал» на 30.06.2022</a> (опубликовано 14.07.2022, доступно до 14.07.2025).
+<br>
+<a class="blood" href="uploads/Capital_2022m05.pdf">Расчет собственных средств ООО УК «НРК-Капитал» на 31.05.2022</a> (опубликовано 15.06.2022, доступно до 15.06.2025).
+<br>
+<a class="blood" href="uploads/Capital_2022m04.pdf">Расчет собственных средств ООО УК «НРК-Капитал» на 30.04.2022</a> (опубликовано 19.05.2022, доступно до 19.05.2025).
+<br>
+<a class="blood" href="uploads/Capital_2022m03.pdf">Расчет собственных средств ООО УК «НРК-Капитал» на 31.03.2022</a> (опубликовано 14.04.2022, доступно до 14.04.2025).
+<br>
+<a class="blood" href="uploads/Capital_2022m02.pdf">Расчет собственных средств ООО УК «НРК-Капитал» на 28.02.2022</a> (опубликовано 15.03.2022, доступно до 15.03.2025).
+<br>
+<a class="blood" href="uploads/Capital_2022m01.pdf">Расчет собственных средств ООО УК «НРК-Капитал» на 31.01.2022</a> (опубликовано 14.02.2022, доступно до 14.02.2025).
+<br>
+<a class="blood" href="uploads/Capital_2021m12.pdf">Расчет собственных средств ООО УК «НРК-Капитал» на 31.12.2021</a> (опубликовано 21.01.2022 20:01, доступно до 21.01.2025).
+<br>
+<a class="blood" href="uploads/Capital_2021m11.pdf">Расчет собственных средств ООО УК «НРК-Капитал» на 30.11.2021</a> (опубликовано 14.12.2021 17:44, доступно до 14.12.2024).
+<br>
+<a class="blood" href="uploads/Capital_2021m10.pdf">Расчет собственных средств ООО УК «НРК-Капитал» на 31.10.2021</a> (опубликовано 16.11.2021 18:30, доступно до 16.11.2024).
+<br>
+<a class="blood" href="uploads/Capital_2021m09.pdf">Расчет собственных средств ООО УК «НРК-Капитал» на 30.09.2021</a> (опубликовано 14.10.2021 23:40, доступно до 14.10.2024).
+<br>
+<a class="blood" href="uploads/Capital_2021m08.pdf">Расчет собственных средств ООО УК «НРК-Капитал» на 31.08.2021</a> (опубликовано 14.09.2021 14:20, доступно до 14.09.2024).
+<br>
+<a class="blood" href="uploads/Capital_2021m07.pdf">Расчет собственных средств ООО УК «НРК-Капитал» на 31.07.2021</a> (опубликовано 13.08.2021 18:10, доступно до 13.08.2024).
+<br>
+<a class="blood" href="uploads/Capital_2021m06.pdf">Расчет собственных средств ООО УК «НРК-Капитал» на 30.06.2021</a> (опубликовано 14.07.2021 18:40, доступно до 14.07.2024).
+<br>
+<a class="blood" href="uploads/Capital_2021m05.pdf">Расчет собственных средств ООО УК «НРК-Капитал» на 31.05.2021</a> (опубликовано 11.06.2021 19:45, доступно до 11.06.2024).
+<br>
+<a class="blood" href="uploads/Capital_2021m04.pdf">Расчет собственных средств ООО УК «НРК-Капитал» на 30.04.2021</a> (опубликовано 20.05.2021 17:15, доступно до 20.05.2024).
+<br>
+<a class="blood" href="uploads/Capital_2021m03.pdf">Расчет собственных средств ООО УК «НРК-Капитал» на 31.03.2021</a> (опубликовано 14.04.2021 12:56, доступно до 15.04.2024).
+<br>
+<a class="blood" href="uploads/Capital_2021m02.pdf">Расчет собственных средств ООО УК «НРК-Капитал» на 28.02.2021</a> (опубликовано 15.03.2021 12:54, доступно до 15.03.2024).
+<br>
+<a class="blood" href="uploads/Capital_2021m01.pdf">Расчет собственных средств ООО УК «НРК-Капитал» на 31.01.2021</a> (опубликовано 11.02.2021 13:53, доступно до 11.02.2024).
+<br>
+<a class="blood" href="uploads/Capital_2020m12.pdf">Расчет собственных средств ООО УК «НРК-Капитал» на 31.12.2020</a> (опубликовано 22.01.2020 11:40, доступно до 22.01.2024).
+<br>
+<a class="blood" href="uploads/Capital_2020m11.pdf">Расчет собственных средств ООО УК «НРК-Капитал» на 30.11.2020</a> (опубликовано 14.12.2020 16:40, доступно до 14.12.2023).
+<br>
+<a class="blood" href="uploads/Capital_2020m10.pdf">Расчет собственных средств ООО УК «НРК-Капитал» на 31.10.2020</a> (опубликовано 12.11.2020 16:25, доступно до 12.11.2023).
+<br>
+<a class="blood" href="uploads/Capital_2020m09.pdf">Расчет собственных средств ООО УК «НРК-Капитал» на 30.09.2020</a> (опубликовано 13.10.2020 17:50, доступно до 13.10.2023).
+<br>
+<a class="blood" href="uploads/Capital_2020m08.pdf">Расчет собственных средств ООО УК «НРК-Капитал» на 31.08.2020</a> (опубликовано 11.09.2020 18:05, доступно до 11.09.2023).
+<br>
+<a class="blood" href="uploads/Capital_2020m07.pdf">Расчет собственных средств ООО УК «НРК-Капитал» на 31.07.2020</a> (опубликовано 13.08.2020 16:55, доступно до 13.08.2023).
+<br>
+<a class="blood" href="uploads/Capital_2020m06.pdf">Расчет собственных средств ООО УК «НРК-Капитал» на 30.06.2020</a> (опубликовано 15.07.2020 16:53, доступно до 15.07.2023).
+<br>
+<a class="blood" href="uploads/Capital_2020m05.pdf">Расчет собственных средств ООО УК «НРК-Капитал» на 31.05.2020</a> (опубликовано 11.06.2020 17:51, доступно до 11.06.2023).
+<br>
+<a class="blood" href="uploads/Capital_2020m04.pdf">Расчет собственных средств ООО УК «НРК-Капитал» на 30.04.2020</a> (опубликовано 20.05.2020 11:16, доступно до 20.05.2023).
+<br>
+<a class="blood" href="uploads/Capital_2020m03.pdf">Расчет собственных средств ООО УК «НРК-Капитал» на 31.03.2020</a> (опубликовано 17.04.2020 13:17, доступно до 17.04.2023).
+<br>
+<a class="blood" href="uploads/Capital_2020m02.pdf">Расчет собственных средств ООО УК «НРК-Капитал» на 29.02.2020</a> (опубликовано 16.03.2020 18:48, доступно до 16.03.2023).
+<br>
+<a class="blood" href="uploads/Capital_2020m01.pdf">Расчет собственных средств ООО УК «НРК-Капитал» на 31.01.2020</a> (опубликовано 14.02.2020 16:50, доступно до 14.02.2023).
+<br>
+<a class="blood" href="uploads/Capital_2019m12_.pdf">Расчет собственных средств ООО УК «НРК-Капитал» на 31.12.2019</a> (опубликовано 04.02.2020 17:34, доступно до 21.01.2023).
+<br>
+<a class="blood" href="uploads/Capital_2019m11.pdf">Расчет собственных средств ООО УК «НРК-Капитал» на 30.11.2019</a> (опубликовано 13.12.2019 17:31, доступно до 13.12.2022).
+<br>
+<a class="blood" href="uploads/Capital_2019m10.pdf">Расчет собственных средств ООО УК «НРК-Капитал» на 31.10.2019</a> (опубликовано 15.11.2019 16:59, доступно до 15.11.2022).
+<br>
+<a class="blood" href="uploads/Capital_2019m09.pdf">Расчет собственных средств ООО УК «НРК-Капитал» на 30.09.2019</a> (опубликовано 14.10.2019 19:02, доступно до 14.10.2022).
+<br>
+<a class="blood" href="uploads/Capital_2019m08.pdf">Расчет собственных средств ООО УК «НРК-Капитал» на 31.08.2019</a> (опубликовано 11.09.2019 19:02, доступно до 11.09.2022).
+<br>
+<a class="blood" href="uploads/Capital_2019m07_.pdf">Расчет собственных средств ООО УК «НРК-Капитал» на 31.07.2019</a> (опубликовано 14.08.2019 16:00, доступно до 14.08.2022).
+<br>
+<a class="blood" href="uploads/Capital_2019m06_.pdf">Расчет собственных средств ООО УК «НРК-Капитал» на 30.06.2019</a> (опубликовано 12.07.2019 17:50, доступно до 12.07.2022).
+<br>
+<a class="blood" href="uploads/Capital_2019m05.pdf">Расчет собственных средств ООО УК «НРК-Капитал» на 31.05.2019</a> (опубликовано 17.06.2019 23:25, доступно до 17.06.2022).
+<br>
+<a class="blood" href="uploads/Capital_2019m04.pdf">Расчет собственных средств ООО УК «НРК-Капитал» на 30.04.2019</a> (опубликовано 21.05.2019 14:25, доступно до 21.05.2022).
+<br>
+<a class="blood" href="uploads/Capital_2019m03.pdf">Расчет собственных средств ООО УК «НРК-Капитал» на 31.03.2019</a> (опубликовано 12.04.2019 17:12, доступно до 15.04.2022).
+<br>
+<a class="blood" href="uploads/Capital_2019m02.pdf">Расчет собственных средств ООО УК «НРК-Капитал» на 28.02.2019</a> (опубликовано 15.03.2019 17:50, доступно до 15.03.2022).
+<br>
+<a class="blood" href="uploads/Capital_2019m01.pdf">Расчет собственных средств ООО УК «НРК-Капитал» на 31.01.2019</a> (опубликовано 14.02.2019 13:12, доступно до 14.02.2022).
+<br>
+<a class="blood" href="uploads/Capital_2018m12.pdf">Расчет собственных средств ООО УК «НРК-Капитал» на 31.12.2018</a> (опубликовано 22.01.2019 19:01, доступно до 22.01.2022).
+<br>
+<a class="blood" href="uploads/Capital_2018m11.pdf">Расчет собственных средств ООО УК «НРК-Капитал» на 30.11.2018</a> (опубликовано 14.12.2018 16:35, доступно до 14.12.2021).
+<br>
+<a class="blood" href="uploads/Capital_2018m10.pdf">Расчет собственных средств ООО УК «НРК-Капитал» на 31.10.2018</a> (опубликовано 15.11.2018 16:45, доступно до 15.11.2021).
+<br>
+<a class="blood" href="uploads/Capital_2018m09.pdf">Расчет собственных средств ООО УК «НРК-Капитал» на 30.09.2018</a> (опубликовано 12.10.2018 16:26, доступно до 12.10.2021).
+<br>
+<a class="blood" href="uploads/Capital_2018m08.pdf">Расчет собственных средств ООО УК «НРК-Капитал» на 31.08.2018</a> (опубликовано 14.09.2018 15:28, доступно до 14.09.2021).
+<br>
+<a class="blood" href="uploads/Capital_2018m07.pdf">Расчет собственных средств ООО УК «НРК-Капитал» на 31.07.2018</a> (опубликовано 14.08.2018 14:56, доступно до 14.08.2021).
+<br>
+<a class="blood" href="uploads/Capital_2018m06.pdf">Расчет собственных средств ООО УК «НРК-Капитал» на 30.06.2018</a> (опубликовано 13.07.2018 19:00, доступно до 13.07.2021).
+<br>
+<a class="blood" href="uploads/Capital_2018m05.pdf">Расчет собственных средств ООО УК «НРК-Капитал» на 31.05.2018</a> (опубликовано 15.06.2018 13:25, доступно до 15.06.2021).
+<br>
+<a class="blood" href="uploads/Capital_2018m04.pdf">Расчет собственных средств ООО УК «НРК-Капитал» на 30.04.2018</a> (опубликовано 16.05.2018 13:31, доступно до 16.05.2021).
+<br>
+<a class="blood" href="uploads/Capital_2018m03_1.pdf">Расчет собственных средств ООО УК «НРК-Капитал» на 31.03.2018</a> (опубликовано 13.04.2018 17:57, доступно до 13.04.2021).
+<br>
+<a class="blood" href="uploads/Capital_2018m02_1.pdf">Расчет собственных средств ООО УК «НРК-Капитал» на 28.02.2018</a> (опубликовано 16.03.2018 11:21, доступно до 16.03.2021).
+<br>
+<a class="blood" href="uploads/Capital_2018m01.pdf">Расчет собственных средств ООО УК «НРК-Капитал» на 31.01.2018</a> (опубликовано 09.02.2018 18:45, доступно до 09.02.2021).
+<br>
+<a class="blood" href="uploads/Capital_2017m12.pdf">Расчет собственных средств ООО УК «НРК-Капитал» на 31.12.2017</a> (опубликовано 22.01.2018 14:20, доступно до 22.01.2021).
+<br>
+<a class="blood" href="uploads/Capital_2017m11.pdf">Расчет собственных средств ООО УК «НРК-Капитал» на 30.11.2017</a> (опубликовано 14.12.2017 22:01, доступно до 14.01.2021).
+<br>
+<a class="blood" href="uploads/Capital_2017m10_rev171129.pdf">Расчет собственных средств ООО УК «НРК-Капитал» на 31.10.2017 (скорректировано 29.11.2017)</a> (опубликовано 30.11.2017 12:35, доступно до 30.11.2020).
+<br>
+<a class="blood" href="uploads/Capital_2017m10.pdf">Расчет собственных средств ООО УК «НРК-Капитал» на 31.10.2017</a> (опубликовано 15.11.2017 17:25, доступно до 15.11.2020).
+<br>
+<a class="blood" href="uploads/Capital_2017m09.pdf">Расчет собственных средств ООО УК «НРК-Капитал» на 30.09.2017</a> (опубликовано 13.10.2017 14:05, доступно до 13.10.2020).
+<br>
+<a class="blood" href="uploads/Capital_2017m08.pdf">Расчет собственных средств ООО УК «НРК-Капитал» на 31.08.2017</a> (опубликовано 14.09.2017 17:36, доступно до 14.09.2020).
+<br>
+<a class="blood" href="uploads/Capital_2017m07.pdf">Расчет собственных средств ООО УК «НРК-Капитал» на 31.07.2017</a> (опубликовано 14.08.2017 17:10, доступно до 14.08.2020).
+<br>
+<a class="blood" href="uploads/Capital_2017m06.pdf">Расчет собственных средств ООО УК «НРК-Капитал» на 30.06.2017</a> (опубликовано 14.07.2017 16:35, доступно до 14.07.2020).
+<br>
+<a class="blood" href="uploads/Capital_2017m05_.pdf">Расчет собственных средств ООО УК «НРК-Капитал» на 31.05.2017</a> (опубликовано 15.06.2017 17:00, доступно до 15.06.2020).
+<br>
+<a class="blood" href="uploads/Capital_2017m04.pdf">Расчет собственных средств ООО УК «НРК-Капитал» на 30.04.2017</a> (опубликовано 17.05.2017 18:40, доступно до 17.05.2020).
+<br>
+<a class="blood" href="uploads/Capital_2017m03.pdf">Расчет собственных средств ООО УК «НРК-Капитал» на 31.03.2017</a> (опубликовано 14.04.2017 15:02, доступно до 14.04.2020).
+<br>
+<a class="blood" href="uploads/Capital_2017m02.pdf">Расчет собственных средств ООО УК «НРК-Капитал» на 28.02.2017</a> (опубликовано 15.03.2017 12:30, доступно до 15.03.2020).
+<br>
+<a class="blood" href="uploads/Capital_2017m01.pdf">Расчет собственных средств ООО УК «НРК-Капитал» на 31.01.2017</a> (опубликовано 14.02.2017 13:55, доступно до 14.02.2020).
+<br>
+<a class="blood" href="uploads/Capital_2016m12.pdf">Расчет собственных средств ООО УК «НРК-Капитал» на 31.12.2016</a> (опубликовано 20.01.2017 14:35, доступно до 20.01.2020).
+<br>
+<a class="blood" href="uploads/Capital_2016m11.pdf">Расчет собственных средств ООО УК «НРК-Капитал» на 30.11.2016</a> (опубликовано 14.12.2016 21:00, доступно до 14.12.2019).
+<br>
+<a class="blood" href="uploads/Capital_2016m10.pdf">Расчет собственных средств ООО УК «НРК-Капитал» на 31.10.2016</a> (опубликовано 15.11.2016 21:00, доступно до 15.11.2019).
+<br>
+<a class="blood" href="uploads/Capital_2016m09.pdf">Расчет собственных средств ООО УК «НРК-Капитал» на 30.09.2016</a> (опубликовано 12.10.2016 19:39, доступно до 12.10.2019). 
+<br><b>Обращаем внимание! </b> В отчете для сопоставимости сделан расчет собственных средств управляющей копании на 31.08.2016 в соответствии со вступившим в силу с 01 сентября 2016 года указанием Банка России №4075-У
+<br><br>
+<b>Расчет собственных средств до 01.09.2016 проводится в соответствии с Положением, утвержденным Приказом ФСФР от 23.10.2009 №08-41/пз-н </b><br><br>
+
+<br>
+<a class="blood" href="uploads/Capital_2016m08.pdf">Расчет собственных средств ООО УК «НРК-Капитал» на 31.08.2016</a> (опубликовано 12.09.2016 20:10, доступно до 12.09.2019)
+<br>
+<a class="blood" href="uploads/Capital_2016m07.pdf">Расчет собственных средств ООО УК «НРК-Капитал» на 31.07.2016</a> (опубликовано 12.08.2016 14:10, доступно до 12.08.2019)
+<br>
+<a class="blood" href="uploads/Capital_2016m06_.xls">Расчет собственных средств ООО УК «НРК-Капитал» на 30.06.2016</a> (опубликовано 14.07.2016 18:26, доступно до 14.07.2019)
+<br>
+<a class="blood" href="uploads/Capital_2016m05.xls">Расчет собственных средств ООО УК «НРК-Капитал» на 31.05.2016</a> (опубликовано 15.06.2016 18:03, доступно до 30.06.2019)
+<br>
+<a class="blood" href="uploads/Capital_2016m04.xlsx">Расчет собственных средств ООО УК «НРК-Капитал» на 30/04/2016</a>(опубликовано 16.05.2016 15:12, доступно до 31.05.2019)
+<br>
+<a class="blood" href="uploads/Capital_2016m03.xls">Расчет собственных средств ООО УК «НРК-Капитал» на 31/03/2016</a>(опубликовано 14.04.2016 15:09, доступно до 30.04.2019)
+<br>
+<a class="blood" href="uploads/Capital_2016m02.xls">Расчет собственных средств ООО УК «НРК-Капитал» на 29/02/2016</a>(опубликовано 16.03.2016 20:35, доступно до 31.03.2019)
+<br>
+<a class="blood" href="uploads/Capital_2016m01.xlsx">Расчет собственных средств ООО УК «НРК-Капитал» на 31/01/2016</a>(опубликовано 29.02.2016 17:08, доступно до 28.02.2019)
+<br>
+<a class="blood" href="uploads/capital311215.xls">Расчет собственных средств ООО УК «НРК-Капитал» на 31/12/2015</a>(опубликовано 29.01.2016 17:08, доступно до 31.01.2019)
+<br>
+<a class="blood" href="uploads/capital301115.xls">Расчет собственных средств ООО УК «НРК-Капитал» на 30/11/2015</a>(опубликовано 28.12.2015 12:25, доступно до 31.12.2018)
+<br>
+<a class="blood" href="uploads/capital311015.xls">Расчет собственных средств ООО УК «НРК-Капитал» на 31/10/2015</a>(опубликовано 26.11.2015 10:55, доступно до 30.11.2018)
+<br>
+<a class="blood" href="uploads/capital300915.xls">Расчет собственных средств ООО УК «НРК-Капитал» на 30/09/2015</a>(опубликовано 27.10.2015 10:25, доступно до 30.10.2018)
+<br>
+<a class="blood" href="uploads/capital310815.xls">Расчет собственных средств ООО УК «НРК-Капитал» на 31/08/2015</a>(опубликовано 29.09.2015 15:56, доступно до 30.08.2018)
+<br>
+<a class="blood" href="uploads/capital310715.xls">Расчет собственных средств ООО УК «НРК-Капитал» на 31/07/2015</a>(опубликовано 21.08.2015 13:36, доступно до 30.07.2018)
+<br>
+<a class="blood" href="uploads/capital300615.xls">Расчет собственных средств ООО УК «НРК-Капитал» на 30/06/2015</a>(опубликовано 23.07.2015 15:04, доступно до 30.07.2018)
+<br>
+<a class="blood" href="uploads/capital310515.xls">Расчет собственных средств ООО УК «НРК-Капитал» на 31/05/2015</a>(опубликовано 26.06.2015 10:46, доступно до 30.06.2018)
+<br>
+<a class="blood" href="uploads/capital300415.xls">Расчет собственных средств ООО УК «НРК-Капитал» на 30/04/2015</a>(опубликовано 20.05.2015 12:08, доступно до 31.05.2018)
+<br>
+<a class="blood" href="uploads/capital310315.xls">Расчет собственных средств ООО УК «НРК-Капитал» на 31/03/2015</a>(опубликовано 24.04.2015 15:18, доступно до 30.04.2018)
+<br>
+<a class="blood" href="uploads/capital280215.xls">Расчет собственных средств ООО УК «НРК-Капитал» на 28/02/2015</a>(опубликовано 25.03.2015 12:28, доступно до 31.03.2018)
+<br>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<br>
+<table border="0" cellpadding="0" cellspacing="0">
+<tbody><tr><td><font style="font-family:Verdana;font-size:1px;color=#FFFFFF">
+
+ 
+
+</font></td></tr></tbody></table>
+
+
+<br><br>
+
+      </td></tr>
+    </tbody></table>
+<!-- Main Page Text End -->
+
+	  </td></tr>
+      </tbody></table>
+    </td>
+    <!-- Center Table End -->
+
+
+
+
+    <!-- Right Table Start -->
+    <td height="50" bgcolor="#ffffff" valign="top" background="img/bg_left.jpg">
+      <table border="0" cellpadding="1" cellspacing="0" background="img/bg_left.jpg">
+	<tbody><tr>
+	  <td width="400" align="left">
+	    <!-- Right Part Text Start -->
+	    <table border="0" cellpadding="0" cellspacing="0">
+	      <tbody><tr>
+	        <td align="center">
+	      </td></tr><tr>
+	        <td>
+	          &nbsp; <b></b><br>
+		  <table cellspacing="2" cellpadding="2" border="0" class="mvcexp_table" align="left"><tbody><tr><td>
+		  <script language="javascript" src="http://www.marketing.vc/nexport.php?chapter=2&amp;annot=yes&amp;news_onpage=3&amp;time_sh=yes"></script>
+	 	  </td></tr></tbody></table>
+	        </td></tr>
+	      <tr>
+	        <td align="center">
+		</td></tr><tr>
+	    </tr></tbody></table>
+	    <!-- Right Part Text End -->
+
+	  </td></tr>
+      </tbody></table>
+    </td>
+    <!-- Right Table End -->
+
+    <!-- Punktir Sprava2 -->
+    <td width="1" background="img/punktir_vertical.jpg" valign="top"></td>
+
+  </tr>
+
+
+
+
+  <tr>
+    <td width="189" valign="center" align="center" bgcolor="#ffffff">
+
+      <table border="0" cellpadding="0" cellspacing="0" align="center">
+        <tbody><tr>
+          <td><a class="textblack" href="http://www.agdesignstudio.ru/"> </a></td> 
+      	  <td>
+<!--url's used in the movie-->
+<a href=""></a>
+<!--text used in the movie-->
+<!--
+<object classid="clsid:d27cdb6e-ae6d-11cf-96b8-444553540000" codebase="http://download.macromedia.com/pub/shockwave/cabs/flash/swflash.cab#version=7,0,0,0" width="130" height="37" id="tirazellogo3_nrc" align="middle">
+<param name="allowScriptAccess" value="sameDomain" />
+<param name="movie" value="tirazellogo3_nrc.swf" />
+<param name="menu" value="false" />
+<param name="quality" value="high" />
+<param name="bgcolor" value="#ffffff" />
+<embed src="tirazellogo3_nrc.swf" menu="false" quality="high" bgcolor="#ffffff" width="130" height="37" name="tirazellogo3_nrc" align="middle" allowScriptAccess="sameDomain" type="application/x-shockwave-flash" pluginspage="http://www.macromedia.com/go/getflashplayer" />
+</object>        
+-->
+	  </td></tr>
+        <tr>
+       <!--   <TD colSpan=3 align=center><a class=textblack href="http://www.tirazel.ru/">www.tirazel.ru</a></TD> -->
+       </tr>
+      </tbody></table>
+
+    </td>
+
+    <td width="470" valign="top" bgcolor="#485970" style="PADDING-LEFT: 20px;PADDING-TOP: 10px;PADDING-RIGHT: 20px;PADDING-bottom: 10px">
+      <p align="justify"><font class="bottomsmall">
+      <font class="textnormal">  <font color="white"> 
+       
+      <br>
+      </font>
+
+      <font class="textnormal">  <font color="white"> 
+      Стоимость инвестиционных паев может увеличиваться и уменьшаться, результаты инвестирования 
+      в прошлом не определяют доходы в будущем, государство не гарантирует доходность инвестиций 
+      в паевые инвестиционные фонды. Прежде, чем приобрести инвестиционный пай, следует внимательно 
+      ознакомиться с правилами доверительного управления паевым инвестиционным фондом. 
+      Взимание надбавок (скидок) уменьшает доходность инвестиций в инвестиционные паи паевого инвестиционного фонда.
+      </font></font></font></font></p><font class="bottomsmall"><font class="textnormal"><font class="textnormal">
+
+      <br><br>
+            </font><p></p>
+    </font></font></td>
+
+
+    <td width="292" valign="top" bgcolor="#485970">
+<table border="0" cellpadding="10" cellspacing="0">
+<tbody><tr><td>
+<font class="bottomsmall">
+
+<!--
+<b>ООО УК «НРК-Капитал»</b>
+Лицензия на осуществление деятельности по управлению инвестиционными фондами, паевыми инвестиционными фондами и негосударственными пенсионными фондами 
+№21-000-1-00800 от 08 марта 2011 года выдана ФСФР РФ.
+
+<br><a class=blood href=uploads/licensiaPIF08032011.pdf>(смотреть лицензии)</a>
+-->
+</font>
+</td></tr>
+</tbody></table>
+    </td>
+
+    <!-- Punktir Sprava2 -->
+    <td width="1" background="img/punktir_vertical.jpg" valign="top"></td>
+  </tr>
+</tbody></table>
+
+

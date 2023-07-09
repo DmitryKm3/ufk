@@ -1,0 +1,1993 @@
+<div class="mfp-bg mfp-no-margins mfp-with-zoom my-mfp-slide-bottom mfp-banner-pdn mfp-ready"></div><div class="mfp-wrap mfp-close-btn-in mfp-auto-cursor mfp-no-margins mfp-with-zoom my-mfp-slide-bottom mfp-banner-pdn mfp-ready" tabindex="-1" style="overflow-x: hidden;"><div class="mfp-container mfp-s-ready mfp-inline-holder"><div class="mfp-content"><div id="banner-pdn" class="banner-pdn mfp-wrapper zoom-anim-dialog">
+        <p class="banner-pdn-capture">
+            Продолжая пользование данным сайтом, я выражаю свое согласие АО «БКС Управление благосостоянием» (129110, г. Москва, проспект Мира, д. 69, стр.1, этаж 3, пом. 3-07) на обработку моих персональных данных с использованием интернет-сервисов Яндекс Метрика и/или Google Analytics. С <a target="_blank" href="/about/disclosure/2014/">Политикой АО «БКС Управление благосостоянием» в отношении обработки персональных данных</a> ознакомлен(-а).
+        </p>
+    <button title="Закрыть" type="button" class="mfp-close">×</button></div></div><div class="mfp-preloader">Loading...</div></div></div>
+
+
+
+            <!-- Yandex.Metrika counter -->
+        <script type="text/javascript">
+            (function(d, w, c) {
+                (w[c] = w[c] || []).push(function() {
+                    try {
+                        w.yaCounter19555666 = new Ya.Metrika2({
+                            id: 19555666,
+                            clickmap: true,
+                            trackLinks: true,
+                            accurateTrackBounce: true,
+                            webvisor: true
+                        });
+                    } catch (e) {}
+                });
+
+                var n = d.getElementsByTagName("script")[0],
+                    s = d.createElement("script"),
+                    f = function() {
+                        n.parentNode.insertBefore(s, n);
+                    };
+                s.type = "text/javascript";
+                s.async = true;
+                s.src = "https://mc.yandex.ru/metrika/tag.js";
+
+                if (w.opera == "[object Opera]") {
+                    d.addEventListener("DOMContentLoaded", f, false);
+                } else {
+                    f();
+                }
+            })(document, window, "yandex_metrika_callbacks2");
+        </script>
+        <noscript>
+            <div></div>
+        </noscript>
+        <!-- /Yandex.Metrika counter -->
+
+        <!-- Global site tag (gtag.js) - Google Analytics -->
+        <script async="" src="https://www.googletagmanager.com/gtag/js?id=UA-37865931-1"></script>
+        <script>
+            window.dataLayer = window.dataLayer || [];
+
+            function gtag() {
+                dataLayer.push(arguments);
+            }
+            gtag('js', new Date());
+
+            gtag('config', 'UA-37865931-1');
+        </script>
+
+        <!-- Google Tag Manager (noscript) -->
+        <noscript><iframe src="https://www.googletagmanager.com/ns.html?id=GTM-TTK56SC" height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
+        <!-- End Google Tag Manager (noscript) -->
+
+        <!-- <script>
+        (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+            (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+            m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+        })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+
+        ga('create', 'UA-37865931-1', 'auto');
+        ga('send', 'pageview');
+
+    </script> -->
+                <div class="hide">
+            <!-- Yandex.Metrika informer -->
+            <a href="https://metrika.yandex.ru/stat/?id=19555666&amp;from=informer" target="_blank" rel="nofollow"><img src="https://informer.yandex.ru/informer/19555666/3_1_FFFFFFFF_EFEFEFFF_0_pageviews" style="width:88px; height:31px; border:0;" alt="Яндекс.Метрика" title="Яндекс.Метрика: данные за сегодня (просмотры, визиты и уникальные посетители)" onclick="try{Ya.Metrika.informer(
+{i:this,id:19555666,lang:'ru'}
+);return false}catch(e){}"></a>
+            <!-- /Yandex.Metrika informer -->
+            <!-- Yandex.Metrika counter -->
+            <script type="text/javascript">
+                (function(d, w, c) {
+                    (w[c] = w[c] || []).push(function() {
+                        try {
+                            w.yaCounter19555666 = new Ya.Metrika({
+                                id: 19555666,
+                                clickmap: true,
+                                trackLinks: true,
+                                accurateTrackBounce: true,
+                                webvisor: true
+                            });
+                        } catch (e) {}
+                    });
+                    var n = d.getElementsByTagName("script")[0],
+                        s = d.createElement("script"),
+                        f = function() {
+                            n.parentNode.insertBefore(s, n);
+                        };
+                    s.type = "text/javascript";
+                    s.async = true;
+                    s.src = "https://mc.yandex.ru/metrika/watch.js";
+                    if (w.opera == "[object Opera]") {
+                        d.addEventListener("DOMContentLoaded", f, false);
+                    } else {
+                        f();
+                    }
+                })(document, window, "yandex_metrika_callbacks");
+            </script>
+            <noscript>
+                <div><img src="https://mc.yandex.ru/watch/19555666" style="position:absolute; left:-9999px;" alt="" /></div>
+            </noscript>
+            <!-- /Yandex.Metrika counter -->
+        </div>
+    
+    
+
+    <div class="main-menu__block">
+        <div class="main-menu-wrap">
+            <form action="/search/" method="get">
+                <input class="search-field" type="text" placeholder="ПОИСК" name="q" autocomplete="off">
+                <a class="close-menu" href="">Закрыть</a>
+                <button type="submit" class="search-btn">Поиск</button>
+            </form>
+
+            
+            <ul class="main-menu">
+                                <li>
+                    <a href="/funds/"><span class="t">Паевые инвестиционные фонды</span></a>
+                    </li>
+                    
+                    <li class="active">
+                        <a href="/about/"><span class="t">БКС Управление благосостоянием</span><span class="arr"></span></a>
+                        
+
+    <ul class="main-submenu" style="display: block;">
+        
+        <li class="">
+    <a href="/about/"><span class="arr"></span>Общая информация</a>
+    <ul>
+
+    
+    
+    
+    
+                    <li class="">
+                <a href="/about/requisites/">Юридические реквизиты и лицензии</a>
+            </li>
+        
+    
+    
+    
+    
+                    <li class="">
+                <a href="/about/awards/">Рейтинги и награды</a>
+            </li>
+        
+    
+    
+            </ul></li>    
+        <li class="">
+    <a href="/about/presscenter/"><span class="arr"></span>Новости</a>
+    <ul>
+
+    
+    
+    
+    
+                    <li class="">
+                <a href="/about/presscenter/news/">Новости компании</a>
+            </li>
+        
+    
+    
+            </ul></li>    
+    
+                    <li class="">
+                <a href="/about/massmedia/">Мы в прессе</a>
+            </li>
+        
+    
+    
+    
+        <li class="active">
+    <a href="/about/disclosure/"><span class="arr"></span>Раскрытие информации</a>
+    <ul style="display: block;">
+
+    
+    
+    
+    
+                    <li class="">
+                <a href="/about/disclosure/funds/">Паевые инвестиционные фонды</a>
+            </li>
+        
+    
+    
+    
+    
+                    <li class="">
+                <a href="/about/disclosure/cb/">Обязательная информация, подлежащая раскрытию</a>
+            </li>
+        
+    
+    
+    
+    
+                    <li class="">
+                <a href="/about/disclosure/pension/">Пенсионные накопления</a>
+            </li>
+        
+    
+    
+    
+    
+                    <li class="">
+                <a href="/about/disclosure/cb-info/">Информация для клиентов</a>
+            </li>
+        
+    
+    
+    
+    
+                    <li class="">
+                <a href="/about/disclosure/personal-data/">Актуализация персональных данных</a>
+            </li>
+        
+    
+    
+    
+    
+                    <li class="">
+                <a href="/about/disclosure/conflict-interest/">Конфликт интересов</a>
+            </li>
+        
+    
+    
+    
+    
+                    <li class="">
+                <a href="/about/disclosure/fatca/">FATCA</a>
+            </li>
+        
+    
+    
+    
+    
+                    <li class="">
+                <a href="/about/disclosure/archive/">Архив</a>
+            </li>
+        
+    
+    
+    
+    
+                    <li class="">
+                <a href="/about/disclosure/list-insider/">Перечень информации, относящейся к инсайдерской информации</a>
+            </li>
+        
+    
+    
+            </ul></li>    
+        <li class="">
+    <a href="/about/contacts/"><span class="arr"></span>Контакты</a>
+    <ul>
+
+    
+    
+    
+    
+                    <li class="">
+                <a href="/about/contacts/offices/">Пункт приема заявок</a>
+            </li>
+        
+    
+    
+
+            </ul></li>    
+    </ul>
+
+                        </li>
+                        
+                        <li>
+                            <a href="/investors/private/"><span class="t">Частному инвестору</span><span class="arr"></span></a>
+                            
+
+    <ul class="main-submenu">
+        
+    
+                    <li class="">
+                <a href="/funds/">Паевые инвестиционные фонды</a>
+            </li>
+        
+    
+    
+    
+    
+                    <li class="">
+                <a href="/investors/private/pension/">Управление пенсией</a>
+            </li>
+        
+    
+    
+    
+    
+                    <li class="">
+                <a href="/investors/private/structured-products/">Структурные продукты</a>
+            </li>
+        
+    
+    
+    
+    
+                    <li class="">
+                <a href="/investors/private/du/">Индивидуальное  доверительное  управление</a>
+            </li>
+        
+    
+    
+    
+    
+                    <li class="">
+                <a href="/video-library/">Видеобиблиотека</a>
+            </li>
+        
+    
+    
+
+    
+    </ul>
+                            </li>
+                                                        <!--
+            <li>
+                <a href="/investors/rich/"><span class="t">Состоятельному инвестору</span><span class="arr"></span></a>
+                            </li>-->
+                                                        <li>
+                                <a href="/investors/corporate/"><span class="t">Институциональному инвестору</span><span class="arr"></span></a>
+                                
+
+    <ul class="main-submenu">
+        
+    
+                    <li class="">
+                <a href="/investors/corporate/du/">Доверительное  управление</a>
+            </li>
+        
+    
+    
+    
+    
+                    <li class="">
+                <a href="/investors/corporate/npf/">Негосударственные пенсионные фонды</a>
+            </li>
+        
+    
+    
+    
+    
+                    <li class="">
+                <a href="/investors/corporate/insurance/">Страховые компании</a>
+            </li>
+        
+    
+    
+    
+    
+                    <li class="">
+                <a href="/investors/corporate/sro/">Саморегулируемые организации</a>
+            </li>
+        
+    
+    
+    
+    
+                    <li class="">
+                <a href="/investors/corporate/funds/">Эндаумент-фонды</a>
+            </li>
+        
+    
+    
+
+    
+    </ul>
+                                </li>
+                                                                <li>
+                                    <a href="/how-to-buy/"><span class="t">Как купить?</span><span class="arr"></span></a>
+                                    
+
+    <ul class="main-submenu">
+        
+    
+                    <li class="">
+                <a href="/how-to-buy/online/">Регистрация в Личном кабинете</a>
+            </li>
+        
+    
+    
+    
+    
+                    <li class="">
+                <a href="/about/contacts/offices/">Пункт приема заявок</a>
+            </li>
+        
+    
+    
+    
+    
+                    <li class="">
+                <a href="/how-to-buy/tax/">Налогообложение</a>
+            </li>
+        
+    
+    
+    
+    
+                    <li class="">
+                <a href="/how-to-buy/order/">Оформление купли-продажи</a>
+            </li>
+        
+    
+    
+    
+    
+                    <li class="">
+                <a href="/how-to-buy/intervals/">Сроки принятия заявок на выдачу и погашение паев</a>
+            </li>
+        
+    
+    
+
+    
+    </ul>
+                                    </li>
+
+            </ul>
+
+            
+    <ul class="menu-service">
+
+                            <li>
+                    <a href="/services/bulletin-new/">
+                                                    <span class="i"><i class="icnm-bulletin"></i></span><span class="t">Аналитика</span>
+                                            </a>
+                </li>
+                            <li>
+                    <a href="/services/profit/">
+                                                    <span class="i"><i class="icnm-profit"></i></span><span class="t">Доходность</span>
+                                            </a>
+                </li>
+                            <li>
+                    <a href="/create-portfolio/">
+                                                    <span class="i"><i class="icnm-puzzle"></i></span><span class="t">Конструктор портфеля</span>
+                                            </a>
+                </li>
+                            <li>
+                    <a href="/services/consultation/">
+                                                    <span class="i"><i class="icnm-consult"></i></span><span class="t">Онлайн консультация</span>
+                                            </a>
+                </li>
+                            <li>
+                    <a href="/services/subscriptions/">
+                                                    <span class="i"><i class="icnm-subscribe"></i></span><span class="t">Подписка</span>
+                                            </a>
+                </li>
+                    </ul>
+        </div>
+    </div>
+    <div id="page_wr">
+        <div id="page">
+            <div class="mobile-app" id="mobile-app" data-appstore="https://itunes.apple.com/ru/app/%D1%83%D0%BA-%D1%83%D1%80%D0%B0%D0%BB%D1%81%D0%B8%D0%B1-%D0%B8%D0%BD%D0%B2%D0%B5%D1%81%D1%82%D0%B8%D1%86%D0%B8%D0%B8/id1422595494?mt=8" data-googleplay="https://play.google.com/store/apps/details?id=ru.am_uralsib.android">
+    <div class="mobile-app__col">
+
+        <div class="mobile-app__close js-mobile-app__close">×</div>
+        <a href="#">
+            <div class="mobile-app__icon">
+            <svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1" id="Слой_1" x="0px" y="0px" viewBox="0 0 56.7 56.7" style="enable-background:new 0 0 56.7 56.7;" xml:space="preserve">
+                <style type="text/css">
+                    .st0{fill:#3C4666;}
+                    .st1{fill:#FFFFFF;}
+                </style>
+                <path id="XMLID_3_" class="st0" d="M52.8,56.7H3.9c-2.2,0-3.9-1.8-3.9-3.9V3.9C0,1.8,1.8,0,3.9,0h48.8c2.2,0,3.9,1.8,3.9,3.9v48.8  C56.7,54.9,54.9,56.7,52.8,56.7z"></path>
+                <path id="Shape_1_" class="st1" d="M28.6,25.5c-7.5,0-13.7,5.1-13.7,11.7c0,2.1,0.6,4.2,2,6.2c3.5-3.3,6.5-9.3,7.8-16.5  c0.1-0.1,1.1-0.3,2-0.3c0,1-0.8,16.4-6.3,21.8c-4-2.7-6.7-7.3-6.7-12.5c0-7.2,5-13.1,11.6-14.6c0.4-4.8,0.4-6.8,0.4-9.2h1.1  c0,0,0,6.7-0.1,8.8c0.4,0,0.8-0.1,1.2-0.1v-15h1v15c0.4,0,0.8,0.1,1.2,0.1c0-2.2-0.1-8.8-0.1-8.8h1.1c0,2.4,0,4.4,0.4,9.2  c6.7,1.5,11.7,7.5,11.7,14.6c0,5.2-2.7,9.8-6.8,12.5C31,43,30.1,27.6,30.1,26.6c0.8,0.1,1.9,0.3,2,0.3c1.2,7.2,4.3,13.1,7.8,16.5  c1.4-2,2-4,2-6.2C42.2,30.6,35.9,25.5,28.6,25.5 M23.9,50.1c2.2-3.8,3.4-10.9,3.9-23.6h1.6c0.5,12.6,1.7,19.9,3.9,23.6  c-1.5,0.5-3,0.7-4.7,0.7C26.9,50.9,25.3,50.5,23.9,50.1"></path>
+            </svg>
+            <!-- <svg xmlns="http://www.w3.org/2000/svg" fill="#fff" width="254" height="378" viewBox="0 0 254 378" class="svg-logo">
+                    <path d="M128.03 165.088c-62.488 0-114.946 43.203-114.946 97.975 0 17.74 5.403 34.718 16.202 51.689 29.315-27.77 54.772-77.915 65.571-138.09.769-.769 9.254-2.314 16.202-2.314 0 8.485-6.941 137.314-53.227 182.832-33.174-23.143-56.316-61.713-56.316-104.916 0-60.175 41.659-110.319 97.975-122.657 3.858-40.115 3.858-57.086 3.858-77.146h9.254s0 56.316-.769 74.057l10.8-.769v-125.746h8.485v125.746l10.8.769c0-18.516-.769-74.057-.769-74.057h9.254c0 20.061 0 37.032 3.858 77.146 55.541 12.344 97.975 63.257 97.975 122.657 0 43.972-22.374 82.542-56.316 104.916-45.517-45.517-53.227-174.346-53.227-182.832 6.941.769 15.427 2.314 16.202 2.314 10.8 60.175 35.487 110.319 65.571 138.09 11.575-16.971 16.202-33.942 16.202-51.689 1.544-54.772-50.913-97.975-112.633-97.975zm-39.345 206.744c18.516-31.629 28.546-91.803 32.398-198.258h13.113c4.627 105.685 13.889 166.629 32.398 198.258-12.344 4.627-25.457 6.172-39.345 6.172-13.113 0-26.226-3.083-38.57-6.172z"></path>
+                </svg> -->
+            </div>
+            <div class="mobile-app__info">
+                <strong>«БКС Управление благосостоянием» </strong>Инвестиции
+            </div>
+        </a>
+
+    </div>
+    
+    <a href="#">Установить</a>
+</div>
+            <header>
+                <div class="header-top">
+                    <div class="main-col header-top__inner">
+                        <div class="logo-wrap">
+                            <a href="/">                            <b><img src="/bitrix/templates/uralsib/img/BCS-UB_Logo_RUS_RGB.svg" alt="БКС Управление благосостоянием" width="1307" height="305"></b>
+                            </a>                        </div>
+                        <div class="contacts-block">
+                            <span class="phone">
+                                <a href="tel:88002009058">8 800 200 90 58 (бесплатно)</a>
+                            </span>
+                            <div class="schedule-string">
+                                <p>Служба клиентского сервиса <span>Пн.-Пт. 8:00-18:00 Мск</span></p>
+                            </div>
+                        </div>
+                        <div class="contacts-and-office-wrap contacts-and-office-wrap--main">
+                            <div class="office-wrap">
+
+                                <a class="office-wrap__btn" onclick="dataLayer.push({'event': 'eventToGA', 'eventCategory' : 'КАБИНЕТ КЛИЕНТА', 'eventAction' : 'click', 'eventLabel' : 'КАБИНЕТ КЛИЕНТА'})" href="https://i.bcswm.ru/?&amp;_ga=2.84072220.427332413.1636448421-1358814262.1632927739#/">КАБИНЕТ КЛИЕНТА</a>
+
+                                <a class="mobile-menu-link" href="#">
+                                    <div class="mobile-menu-icon">
+                                        <span></span>
+                                        <span></span>
+                                        <span></span>
+                                    </div>
+                                    <span class="caption mobile-inline-block-visible">Меню</span>
+                                </a>
+                            </div>
+
+
+                        </div>
+                    </div>
+                </div>
+                <div class="mobile-menu-pad"></div>
+                                    <div class="header-bottom">
+                            <div class="main-col" style="display: flex;">
+
+                    <div style="flex-grow: 1">
+                <a class="clearfix" href="/funds/">
+                                            <i class="menu_icon_investor_private"></i>
+                        <span>Паевые фонды</span>
+                                    </a>
+            </div>
+                    <div style="flex-grow: 1">
+                <a class="clearfix" href="/iis/">
+                                            <i class="menu_icon_investor_rich"></i>
+                        <span>Инвестиционный счет</span>
+                                    </a>
+            </div>
+                    <div style="flex-grow: 1">
+                <a class="clearfix" href="/investors/private/du/">
+                                            <i class="menu_icon_investor_corporate"></i>
+                        <span>Доверительное управление</span>
+                                    </a>
+            </div>
+                    <div style="flex-grow: 1">
+                <a class="clearfix" href="/video-library/">
+                                            <i class="menu_icon_investor_video"></i>
+                        <span>Видеобиблиотека</span>
+                                    </a>
+            </div>
+            </div>
+                    </div>
+                            </header>
+                        
+            <main id="main">
+    <div class="main-col">
+        <div class="page-wrap">
+            <div class="col-sm-3 mobile-invisible">
+                                
+
+    <ul class="menu-pif-selection">
+        
+        <li class=" parent">
+    <a href="/about/">Общая информация</a>
+    <ul>
+
+    
+    
+    
+    
+                    <li class="">
+                <a href="/about/requisites/">Юридические реквизиты и лицензии</a>
+            </li>
+        
+    
+    
+    
+    
+                    <li class="">
+                <a href="/about/awards/">Рейтинги и награды</a>
+            </li>
+        
+    
+    
+            </ul></li>    
+        <li class=" parent">
+    <a href="/about/presscenter/">Новости</a>
+    <ul>
+
+    
+    
+    
+    
+                    <li class="">
+                <a href="/about/presscenter/news/">Новости компании</a>
+            </li>
+        
+    
+    
+            </ul></li>    
+    
+                    <li class="">
+                <a href="/about/massmedia/">Мы в прессе</a>
+            </li>
+        
+    
+    
+    
+        <li class="active parent">
+    <a href="/about/disclosure/">Раскрытие информации</a>
+    <ul>
+
+    
+    
+    
+    
+                    <li class="">
+                <a href="/about/disclosure/funds/">Паевые инвестиционные фонды</a>
+            </li>
+        
+    
+    
+    
+    
+                    <li class="">
+                <a href="/about/disclosure/cb/">Обязательная информация, подлежащая раскрытию</a>
+            </li>
+        
+    
+    
+    
+    
+                    <li class="">
+                <a href="/about/disclosure/pension/">Пенсионные накопления</a>
+            </li>
+        
+    
+    
+    
+    
+                    <li class="">
+                <a href="/about/disclosure/cb-info/">Информация для клиентов</a>
+            </li>
+        
+    
+    
+    
+    
+                    <li class="">
+                <a href="/about/disclosure/personal-data/">Актуализация персональных данных</a>
+            </li>
+        
+    
+    
+    
+    
+                    <li class="">
+                <a href="/about/disclosure/conflict-interest/">Конфликт интересов</a>
+            </li>
+        
+    
+    
+    
+    
+                    <li class="">
+                <a href="/about/disclosure/fatca/">FATCA</a>
+            </li>
+        
+    
+    
+    
+    
+                    <li class="">
+                <a href="/about/disclosure/archive/">Архив</a>
+            </li>
+        
+    
+    
+    
+    
+                    <li class="">
+                <a href="/about/disclosure/list-insider/">Перечень информации, относящейся к инсайдерской информации</a>
+            </li>
+        
+    
+    
+            </ul></li>    
+        <li class=" parent">
+    <a href="/about/contacts/">Контакты</a>
+    <ul>
+
+    
+    
+    
+        <li class=" parent">
+    <a href="/about/contacts/offices/">Пункт приема заявок</a>
+    <ul>
+
+    
+    
+    
+    
+                    <li class="">
+                <a href="/about/contacts/offices/main/">Главный офис</a>
+            </li>
+        
+    
+    
+
+            </ul></li></ul></li>    
+    </ul>
+
+                
+    <div class="user-widgets-wrap">
+        <ul class="user-widgets">
+
+                            <li>
+                    <a href="/services/profit/">
+                                                    <img src="/bitrix/templates/uralsib/images/profit-icon-small.png"><span>Доходность</span>
+                                            </a>
+                </li>
+                            <li>
+                    <a href="/services/fin-calc/">
+                                                    <img src="/bitrix/templates/uralsib/images/calculator-icon-small.png"><span>Калькулятор</span>
+                                            </a>
+                </li>
+                            <li>
+                    <a href="/services/consultation/">
+                                                    <img src="/bitrix/templates/uralsib/images/consult-icon-small.png"><span>Онлайн консультация</span>
+                                            </a>
+                </li>
+                            <li>
+                    <a href="/services/subscriptions/">
+                                                    <img src="/bitrix/templates/uralsib/images/subscribe-icon-small.png"><span>Подписка</span>
+                                            </a>
+                </li>
+                            <li>
+                    <a href="/create-portfolio/">
+                                                    <img src="/bitrix/templates/uralsib/images/case-icon-small.png"><span>Конструктор портфеля</span>
+                                            </a>
+                </li>
+                    </ul>
+    </div>
+            </div>
+            <div class="col-sm-9">
+                <div class="breadcrumbs"><a href="/" title="АО «БКС Управление благосостоянием»">АО «БКС Управление благосостоянием»</a><span class="breadcrumbs-arrow">→</span><a href="/about/" title="АО «БКС Управление благосостоянием»">АО «БКС Управление благосостоянием»</a><span class="breadcrumbs-arrow">→</span><span>Раскрытие информации</span></div>                <div class="page-title">
+                    <h1>Раскрытие информации</h1>
+                </div>
+                <div class="page-body">
+
+
+                    <script type="text/javascript">
+    $(document).ready(function () {
+        var hash = window.location.hash.replace("#", "");
+        if (hash) {
+            $('#' + hash).click();
+        }
+    });
+</script>
+<div class="fund-detail-years">
+    <div class="fund-years my-clearfix phone-hidden" id="yearList">
+        <span class="years-label">По годам:</span>
+        <ul>
+                            <li><a href="/about/disclosure/2009/">2009</a></li>
+                                <li><a href="/about/disclosure/2010/">2010</a></li>
+                                <li><a href="/about/disclosure/2011/">2011</a></li>
+                                <li><a href="/about/disclosure/2012/">2012</a></li>
+                                <li><a href="/about/disclosure/2013/">2013</a></li>
+                                <li><a href="/about/disclosure/2014/">2014</a></li>
+                                <li><a href="/about/disclosure/2015/">2015</a></li>
+                                <li><a href="/about/disclosure/2016/">2016</a></li>
+                                <li><a href="/about/disclosure/2017/">2017</a></li>
+                                <li><a href="/about/disclosure/2018/">2018</a></li>
+                                <li><a href="/about/disclosure/2019/">2019</a></li>
+                                <li><a href="/about/disclosure/2020/">2020</a></li>
+                                <li><a href="/about/disclosure/2021/">2021</a></li>
+                                <li><a href="/about/disclosure/2022/">2022</a></li>
+                                <li class="active"><a href="/about/disclosure/">2023</a></li>
+                        </ul>
+    </div>
+    <div class="phone-visible fund-form my-clearfix">
+        <div class="years_list">
+            <div class="lbl">По годам</div>
+            <div class="select_custom">
+                <div class="selectricWrapper"><div class="selectricHideSelect"><select name="years_select" id="years_select" tabindex="0">
+                    <option value="2009/">2009</option><option value="2010/">2010</option><option value="2011/">2011</option><option value="2012/">2012</option><option value="2013/">2013</option><option value="2014/">2014</option><option value="2015/">2015</option><option value="2016/">2016</option><option value="2017/">2017</option><option value="2018/">2018</option><option value="2019/">2019</option><option value="2020/">2020</option><option value="2021/">2021</option><option value="2022/">2022</option><option selected="" value="">2023</option>                </select></div><div class="selectric"><p class="label">2023</p><b class="button">▾</b></div><div class="selectricItems" tabindex="-1"><div class="selectricScroll"><ul><li class="">2009</li><li class="">2010</li><li class="">2011</li><li class="">2012</li><li class="">2013</li><li class="">2014</li><li class="">2015</li><li class="">2016</li><li class="">2017</li><li class="">2018</li><li class="">2019</li><li class="">2020</li><li class="">2021</li><li class="">2022</li><li class="selected last">2023</li></ul></div></div><input class="selectricInput" tabindex="0"></div>
+            </div>
+        </div>
+    </div>
+
+            <form id="formShowInfo" class="search-block fund-form">
+            <input type="text" class="small" id="keywordSearch" name="q" placeholder="Поиск по ключевому слову">
+            <span id="formShowInfo_search" class="button btn-yellow btn-small">НАЙТИ</span>
+            <span class="button btn-point btn-remove levo_prelevo" id="formShowInfo__clean">
+                <i class="icn-cancel" id="formShowInfo__clean_icon"></i>
+            </span>
+            <div class="form-notice levo_prelevo error"><i class="icn-error"></i>Не указано ключевое слово</div>
+            <input type="hidden" name="current_year" id="current_year" value="2023">
+        </form>
+        </div>
+<div id="ajaWrap">
+    <div class="show-info__list">
+                    <div class="show-info__list__item js_collapseItemWrap">
+                <h3 class="js_CollapserControl collapsed" id="s_soobshcheniya-o-tekhnicheskikh-nepoladkakh-2023"><a href="#s_soobshcheniya-o-tekhnicheskikh-nepoladkakh-2023" class="c">Сообщения о технических неполадках</a>
+                </h3>
+                <div class="e js_collapseArea" style="display: none;">
+                    <div class="fund-table__wrap">
+                        <table class="fund-table">
+                            <thead>
+                            <tr>
+                                <th class="document-name">
+                                    <span>Название документа</span>
+                                    <!--<div class="search-block">
+                                    <input type="text" class="small" placeholder="Поиск по ключевому слову"><a href="#" class="btn btn-yellow">НАЙТИ</a>
+                                </div>-->
+                                </th>
+                                <th class="report-date"><span class="report-date">Дата раскрытия</span></th>
+                                                                    <th class="best-before"><span>Действует до</span></th>
+                                                            </tr>
+                            </thead>
+                            <tbody>
+                                                            <tr class="">
+                                    <td>
+                                        <a href="/ajax/files/62636/f745739ccbc4863dc96958af40096db5/" class="inform-block-file ">
+                                            <span class="icon-file icon-file-pdf"></span>
+                                            <span class="inform-block-text">Сообщение о техническом сбое на сайте 09.01.2023</span>
+                                            <span class="inform-block-file-desc">(pdf&nbsp;286.20кБ)</span>
+                                        </a>
+                                    </td>
+                                    <td>09.01.2023 12:40:00</td>
+                                                                            <td>*</td>
+                                                                    </tr>
+                                                            </tbody>
+                        </table>
+                    </div>
+                </div>
+            </div>
+                        <div class="show-info__list__item js_collapseItemWrap">
+                <h3 class="js_CollapserControl collapsed" id="s_soobshchenie-ob-obnaruzhenii-vyyavlenii-netochnykh-nepolnykh-i-ili-nedostovernykh-svedeniy-v-raskryv-2023"><a href="#s_soobshchenie-ob-obnaruzhenii-vyyavlenii-netochnykh-nepolnykh-i-ili-nedostovernykh-svedeniy-v-raskryv-2023" class="c">Сообщение об обнаружении (выявлении) неточных, неполных и (или) недостоверных сведений в раскрываемой информации</a>
+                </h3>
+                <div class="e js_collapseArea" style="display: none;">
+                    <div class="fund-table__wrap">
+                        <table class="fund-table">
+                            <thead>
+                            <tr>
+                                <th class="document-name">
+                                    <span>Название документа</span>
+                                    <!--<div class="search-block">
+                                    <input type="text" class="small" placeholder="Поиск по ключевому слову"><a href="#" class="btn btn-yellow">НАЙТИ</a>
+                                </div>-->
+                                </th>
+                                <th class="report-date"><span class="report-date">Дата раскрытия</span></th>
+                                                                    <th class="best-before"><span>Действует до</span></th>
+                                                            </tr>
+                            </thead>
+                            <tbody>
+                                                            <tr class="">
+                                    <td>
+                                        <a href="/ajax/files/63244/5427cb51cd5466538591e1df822719ca/" class="inform-block-file ">
+                                            <span class="icon-file icon-file-pdf"></span>
+                                            <span class="inform-block-text">Сообщение об обнаружении (выявлении) неточных, неполных и (или) недостоверных сведений в раскрываемой информации</span>
+                                            <span class="inform-block-file-desc">(pdf&nbsp;336.13кБ)</span>
+                                        </a>
+                                    </td>
+                                    <td>27.03.2023 12:50:00</td>
+                                                                            <td>-</td>
+                                                                    </tr>
+                                                                <tr class="">
+                                    <td>
+                                        <a href="/ajax/files/62867/42b9c3268a8d99ba87d0867cdd16e131/" class="inform-block-file ">
+                                            <span class="icon-file icon-file-pdf"></span>
+                                            <span class="inform-block-text">Сообщение об обнаружении (выявлении) неточных, неполных и (или) недостоверных сведений в раскрываемой информации</span>
+                                            <span class="inform-block-file-desc">(pdf&nbsp;249.90кБ)</span>
+                                        </a>
+                                    </td>
+                                    <td>30.01.2023 15:23:00</td>
+                                                                            <td>-</td>
+                                                                    </tr>
+                                                                <tr class="">
+                                    <td>
+                                        <a href="/ajax/files/62851/fe947e00eb0c2d0aa8f482b388027b2a/" class="inform-block-file ">
+                                            <span class="icon-file icon-file-pdf"></span>
+                                            <span class="inform-block-text">Сообщение об обнаружении (выявлении) неточных, неполных и (или) недостоверных сведений в раскрываемой информации</span>
+                                            <span class="inform-block-file-desc">(pdf&nbsp;278.29кБ)</span>
+                                        </a>
+                                    </td>
+                                    <td>26.01.2023 13:58:00</td>
+                                                                            <td>-</td>
+                                                                    </tr>
+                                                                <tr class="">
+                                    <td>
+                                        <a href="/ajax/files/62732/4509ac1e1e5316eb42efc028176c5027/" class="inform-block-file ">
+                                            <span class="icon-file icon-file-pdf"></span>
+                                            <span class="inform-block-text">Сообщение об обнаружении (выявлении) неточных, неполных и (или) недостоверных сведений в раскрываемой информации</span>
+                                            <span class="inform-block-file-desc">(pdf&nbsp;245.41кБ)</span>
+                                        </a>
+                                    </td>
+                                    <td>16.01.2023 18:14:00</td>
+                                                                            <td></td>
+                                                                    </tr>
+                                                                <tr class="">
+                                    <td>
+                                        <a href="/ajax/files/62638/56292ff4bb9e209bcb60294944cc941e/" class="inform-block-file ">
+                                            <span class="icon-file icon-file-pdf"></span>
+                                            <span class="inform-block-text">Сообщение об обнаружении (выявлении) неточных, неполных и (или) недостоверных сведений в раскрываемой информации</span>
+                                            <span class="inform-block-file-desc">(pdf&nbsp;148.03кБ)</span>
+                                        </a>
+                                    </td>
+                                    <td>11.01.2023 14:37:00</td>
+                                                                            <td>*</td>
+                                                                    </tr>
+                                                            </tbody>
+                        </table>
+                    </div>
+                </div>
+            </div>
+                        <div class="show-info__list__item js_collapseItemWrap">
+                <h3 class="js_CollapserControl expanded" id="s_raschet-razmera-sobstvennykh-sredstv_2023"><a href="#s_raschet-razmera-sobstvennykh-sredstv_2023" class="c">Расчет размера собственных средств</a>
+                </h3>
+                <div class="e js_collapseArea" style="display: block;">
+                    <div class="fund-table__wrap">
+                        <table class="fund-table">
+                            <thead>
+                            <tr>
+                                <th class="document-name">
+                                    <span>Название документа</span>
+                                    <!--<div class="search-block">
+                                    <input type="text" class="small" placeholder="Поиск по ключевому слову"><a href="#" class="btn btn-yellow">НАЙТИ</a>
+                                </div>-->
+                                </th>
+                                <th class="report-date"><span class="report-date">Дата раскрытия</span></th>
+                                                                    <th class="best-before"><span>Действует до</span></th>
+                                                            </tr>
+                            </thead>
+                            <tbody>
+                                                            <tr class="">
+                                    <td>
+                                        <a href="/ajax/files/63796/3adb9daab6433ec547b4fed1acc00d0e/" class="inform-block-file ">
+                                            <span class="icon-file icon-file-pdf"></span>
+                                            <span class="inform-block-text">Расчет размера собственных средств АО «БКС Управление благосостоянием» от 31.05.2023 г.</span>
+                                            <span class="inform-block-file-desc">(pdf&nbsp;207.00кБ)</span>
+                                        </a>
+                                    </td>
+                                    <td>20.06.2023 15:01:00</td>
+                                                                            <td>*</td>
+                                                                    </tr>
+                                                                <tr class="">
+                                    <td>
+                                        <a href="/ajax/files/63650/b64f1ec18044d94d252860a4951d672f/" class="inform-block-file ">
+                                            <span class="icon-file icon-file-pdf"></span>
+                                            <span class="inform-block-text">Расчет размера собственных средств АО «БКС Управление благосостоянием» от 30.04.2023 г.</span>
+                                            <span class="inform-block-file-desc">(pdf&nbsp;206.77кБ)</span>
+                                        </a>
+                                    </td>
+                                    <td>18.05.2023 12:56:00</td>
+                                                                            <td>*</td>
+                                                                    </tr>
+                                                                <tr class="">
+                                    <td>
+                                        <a href="/ajax/files/63468/37fa68e874b2f87c2c944e07dc9a1096/" class="inform-block-file ">
+                                            <span class="icon-file icon-file-pdf"></span>
+                                            <span class="inform-block-text">Расчет размера собственных средств АО «БКС Управление благосостоянием» от 31.03.2023 г.</span>
+                                            <span class="inform-block-file-desc">(pdf&nbsp;204.13кБ)</span>
+                                        </a>
+                                    </td>
+                                    <td>18.04.2023 09:09:00</td>
+                                                                            <td>*</td>
+                                                                    </tr>
+                                                                <tr class="">
+                                    <td>
+                                        <a href="/ajax/files/63004/5d0df1a20f19d8d5fdfdf8db6b1eb0a0/" class="inform-block-file ">
+                                            <span class="icon-file icon-file-pdf"></span>
+                                            <span class="inform-block-text">Расчет размера собственных средств АО «БКС Управление благосостоянием» от 28.02.2023 г.</span>
+                                            <span class="inform-block-file-desc">(pdf&nbsp;204.12кБ)</span>
+                                        </a>
+                                    </td>
+                                    <td>20.03.2023 13:00:00</td>
+                                                                            <td>*</td>
+                                                                    </tr>
+                                                                <tr class="">
+                                    <td>
+                                        <a href="/ajax/files/62956/1a6d19f8792b4ef81bb0659836b8c125/" class="inform-block-file ">
+                                            <span class="icon-file icon-file-pdf"></span>
+                                            <span class="inform-block-text">Расчет размера собственных средств АО «БКС Управление благосостоянием» от 31.01.2023 г.</span>
+                                            <span class="inform-block-file-desc">(pdf&nbsp;204.80кБ)</span>
+                                        </a>
+                                    </td>
+                                    <td>16.02.2023 12:07:00</td>
+                                                                            <td>*</td>
+                                                                    </tr>
+                                                            </tbody>
+                        </table>
+                    </div>
+                </div>
+            </div>
+                        <div class="show-info__list__item js_collapseItemWrap">
+                <h3 class="js_CollapserControl collapsed" id="s_soobshcheniya-ob-agentakh-2023"><a href="#s_soobshcheniya-ob-agentakh-2023" class="c">Сообщения об агентах</a>
+                </h3>
+                <div class="e js_collapseArea" style="display: none;">
+                    <div class="fund-table__wrap">
+                        <table class="fund-table">
+                            <thead>
+                            <tr>
+                                <th class="document-name">
+                                    <span>Название документа</span>
+                                    <!--<div class="search-block">
+                                    <input type="text" class="small" placeholder="Поиск по ключевому слову"><a href="#" class="btn btn-yellow">НАЙТИ</a>
+                                </div>-->
+                                </th>
+                                <th class="report-date"><span class="report-date">Дата раскрытия</span></th>
+                                                                    <th class="best-before"><span>Действует до</span></th>
+                                                            </tr>
+                            </thead>
+                            <tbody>
+                                                            <tr class="">
+                                    <td>
+                                        <a href="/ajax/files/63734/646840a5b5913c0510f8fabb96b7ef7d/" class="inform-block-file ">
+                                            <span class="icon-file icon-file-pdf"></span>
+                                            <span class="inform-block-text">Сведения об агентах по выдаче, погашению и обмену инвестиционных паев ПИФов под управлением АО «БКС Управление благосостоянием»</span>
+                                            <span class="inform-block-file-desc">(pdf&nbsp;492.36кБ)</span>
+                                        </a>
+                                    </td>
+                                    <td>09.06.2023 16:02:00</td>
+                                                                            <td>*</td>
+                                                                    </tr>
+                                                                <tr class="">
+                                    <td>
+                                        <a href="/ajax/files/63654/b070289b34ebe5afb3bbf4824b1d8957/" class="inform-block-file ">
+                                            <span class="icon-file icon-file-pdf"></span>
+                                            <span class="inform-block-text">Сведения об агентах по выдаче, погашению и обмену инвестиционных паев ПИФов под управлением АО «БКС Управление благосостоянием»</span>
+                                            <span class="inform-block-file-desc">(pdf&nbsp;637.81кБ)</span>
+                                        </a>
+                                    </td>
+                                    <td>19.05.2023 10:02:00</td>
+                                                                            <td>*</td>
+                                                                    </tr>
+                                                                <tr class="">
+                                    <td>
+                                        <a href="/ajax/files/63536/f2a6ebedb4cfef137623d342baf89dc4/" class="inform-block-file ">
+                                            <span class="icon-file icon-file-pdf"></span>
+                                            <span class="inform-block-text">Сведения об агентах по выдаче, погашению и обмену инвестиционных паев ПИФов под управлением АО «БКС Управление благосостоянием»</span>
+                                            <span class="inform-block-file-desc">(pdf&nbsp;634.16кБ)</span>
+                                        </a>
+                                    </td>
+                                    <td>20.04.2023 10:08:00</td>
+                                                                            <td>*</td>
+                                                                    </tr>
+                                                                <tr class="">
+                                    <td>
+                                        <a href="/ajax/files/63450/f2a34588817f63f92cdb1ac9e398b094/" class="inform-block-file ">
+                                            <span class="icon-file icon-file-pdf"></span>
+                                            <span class="inform-block-text">Сведения об агентах по выдаче, погашению и обмену инвестиционных паев ПИФов под управлением АО «БКС Управление благосостоянием»</span>
+                                            <span class="inform-block-file-desc">(pdf&nbsp;649.92кБ)</span>
+                                        </a>
+                                    </td>
+                                    <td>12.04.2023 13:47:00</td>
+                                                                            <td>*</td>
+                                                                    </tr>
+                                                                <tr class="">
+                                    <td>
+                                        <a href="/ajax/files/63001/0e8e167dadd6dbf85df897754a705f3b/" class="inform-block-file ">
+                                            <span class="icon-file icon-file-pdf"></span>
+                                            <span class="inform-block-text">Сведения об агентах по выдаче, погашению и обмену инвестиционных паев ПИФов под управлением АО «БКС Управление благосостоянием»</span>
+                                            <span class="inform-block-file-desc">(pdf&nbsp;645.61кБ)</span>
+                                        </a>
+                                    </td>
+                                    <td>17.03.2023 18:19:00</td>
+                                                                            <td>*</td>
+                                                                    </tr>
+                                                            </tbody>
+                        </table>
+                    </div>
+                </div>
+            </div>
+                        <div class="show-info__list__item js_collapseItemWrap">
+                <h3 class="js_CollapserControl collapsed" id="s_poryadok-elektronnogo-dokumentooborota"><a href="#s_poryadok-elektronnogo-dokumentooborota" class="c">Порядок электронного документооборота</a>
+                </h3>
+                <div class="e js_collapseArea" style="display: none;">
+                    <div class="fund-table__wrap">
+                        <table class="fund-table">
+                            <thead>
+                            <tr>
+                                <th class="document-name">
+                                    <span>Название документа</span>
+                                    <!--<div class="search-block">
+                                    <input type="text" class="small" placeholder="Поиск по ключевому слову"><a href="#" class="btn btn-yellow">НАЙТИ</a>
+                                </div>-->
+                                </th>
+                                <th class="report-date"><span class="report-date">Дата раскрытия</span></th>
+                                                                    <th class="best-before"><span>Действует до</span></th>
+                                                            </tr>
+                            </thead>
+                            <tbody>
+                                                            <tr class="">
+                                    <td>
+                                        <a href="/ajax/files/63572/90f76c101a3c6edc52e00a5161897365/" class="inform-block-file ">
+                                            <span class="icon-file icon-file-pdf"></span>
+                                            <span class="inform-block-text"> Системы электронного документооборота (ЭДО), используемые в Акционерном обществе "БКС Управление благосостоянием"</span>
+                                            <span class="inform-block-file-desc">(pdf&nbsp;312.39кБ)</span>
+                                        </a>
+                                    </td>
+                                    <td>02.05.2023 14:43:00</td>
+                                                                            <td>*</td>
+                                                                    </tr>
+                                                                <tr class="">
+                                    <td>
+                                        <a href="/ajax/files/63563/ed4f95c2ea58f50bcd3c3ac74ba4b2ba/" class="inform-block-file ">
+                                            <span class="icon-file icon-file-pdf"></span>
+                                            <span class="inform-block-text"> Системы электронного документооборота (ЭДО), используемые в Акционерном обществе "БКС Управление благосостоянием"</span>
+                                            <span class="inform-block-file-desc">(pdf&nbsp;313.48кБ)</span>
+                                        </a>
+                                    </td>
+                                    <td>28.04.2023 17:20:00</td>
+                                                                            <td>до 02.05.2023</td>
+                                                                    </tr>
+                                                            </tbody>
+                        </table>
+                    </div>
+                </div>
+            </div>
+                        <div class="show-info__list__item js_collapseItemWrap">
+                <h3 class="js_CollapserControl collapsed" id="s_bukhgalterskaya-otchetnost23"><a href="#s_bukhgalterskaya-otchetnost23" class="c">Бухгалтерская отчетность</a>
+                </h3>
+                <div class="e js_collapseArea" style="display: none;">
+                    <div class="fund-table__wrap">
+                        <table class="fund-table">
+                            <thead>
+                            <tr>
+                                <th class="document-name">
+                                    <span>Название документа</span>
+                                    <!--<div class="search-block">
+                                    <input type="text" class="small" placeholder="Поиск по ключевому слову"><a href="#" class="btn btn-yellow">НАЙТИ</a>
+                                </div>-->
+                                </th>
+                                <th class="report-date"><span class="report-date">Дата раскрытия</span></th>
+                                                                    <th class="best-before"><span>Действует до</span></th>
+                                                            </tr>
+                            </thead>
+                            <tbody>
+                                                            <tr class="">
+                                    <td>
+                                        <a href="/ajax/files/63673/f4805dbbd195f288fc042fad82ad8f45/" class="inform-block-file ">
+                                            <span class="icon-file icon-file-pdf"></span>
+                                            <span class="inform-block-text">Промежуточная бухгалтерская финансовая отчетность за 1 кв 2023г .</span>
+                                            <span class="inform-block-file-desc">(pdf&nbsp;11.53МБ)</span>
+                                        </a>
+                                    </td>
+                                    <td>05.05.2023 13:30:00</td>
+                                                                            <td>*</td>
+                                                                    </tr>
+                                                            </tbody>
+                        </table>
+                    </div>
+                </div>
+            </div>
+            
+                            <div class="show-info__list__item js_collapseItemWrap">
+                <h3 class="js_CollapserControl collapsed" id="s_actios"><a href="#s_actios" class="c">Акции
+                        Компании</a></h3>
+                <div class="e js_collapseArea" style="display: none;">
+                    <div class="fund-table__wrap">
+                        <ul style="margin-bottom: 24px;" class="show-info__links">
+                                                            <li class="show-info__links__itemа">
+                                    <a href="/ajax/files/63577/40805f01ee59730daab08adf80042684/">Правила проведения Акции для повышения лояльности клиентов «08 мая - 09 мая 2023 - неделя благодарности владельцам инвестиционных паев ПИФ»</a>
+                                </li>
+                                                                <li class="show-info__links__itemа">
+                                    <a href="/ajax/files/63571/14d61c27e3e3c43870cc741f422be4ee/">Правила проведения Акции для повышения лояльности клиентов «01 мая - 07 мая 2023 - неделя благодарности владельцам инвестиционных паев ПИФ»</a>
+                                </li>
+                                                                <li class="show-info__links__itemа">
+                                    <a href="/ajax/files/63537/789aa47b04061568f4b29b139561ed20/">Правила проведения Акции для повышения лояльности клиентов «24 апреля - 30 апреля 2023 - неделя благодарности владельцам инвестиционных паев ПИФ»</a>
+                                </li>
+                                                                <li class="show-info__links__itemа">
+                                    <a href="/ajax/files/63467/3e38dd5a8de253394618ca39304043b7/">Правила проведения Акции для повышения лояльности клиентов «17 апреля - 23 апреля 2023 - неделя благодарности владельцам инвестиционных паев ПИФ»</a>
+                                </li>
+                                                                <li class="show-info__links__itemа">
+                                    <a href="/ajax/files/63422/233cd0017f9b616187b7694d61f8bd16/">Правила проведения Акции для повышения лояльности клиентов «10 апреля - 16 апреля 2023 - неделя благодарности владельцам инвестиционных паев ПИФ»</a>
+                                </li>
+                                                                <li class="show-info__links__itemа">
+                                    <a href="/ajax/files/63420/433959133f815b4230d3f0662491d94e/">Правила проведения Акции для повышения лояльности клиентов «03 апреля - 09 апреля 2023 - неделя благодарности владельцам инвестиционных паев ПИФ»</a>
+                                </li>
+                                                                <li class="show-info__links__itemа">
+                                    <a href="/ajax/files/63243/5174b9316aecce12fcbc25221f395e26/">Правила проведения Акции для повышения лояльности клиентов «27 марта - 02 апреля 2023 - неделя благодарности владельцам инвестиционных паев ПИФ»</a>
+                                </li>
+                                                                <li class="show-info__links__itemа">
+                                    <a href="/ajax/files/63055/596b84514bb206cba3cffa5c16990715/">Правила проведения Акции для повышения лояльности клиентов «20 марта - 26 марта 2023 - неделя благодарности владельцам инвестиционных паев ПИФ»</a>
+                                </li>
+                                                                <li class="show-info__links__itemа">
+                                    <a href="/ajax/files/62999/bedfcaeeb4921c4664ccdbc024851c65/">Правила проведения Акции для повышения лояльности клиентов «13 марта - 19 марта 2023 - неделя благодарности владельцам инвестиционных паев ПИФ»</a>
+                                </li>
+                                                                <li class="show-info__links__itemа">
+                                    <a href="/ajax/files/62965/9b750e8fd7ce94f36f2c0f723ae3f989/">Правила проведения Акции для повышения лояльности клиентов «06 марта - 12 марта 2023 - неделя благодарности владельцам инвестиционных паев ПИФ»</a>
+                                </li>
+                                                                <li class="show-info__links__itemа">
+                                    <a href="/ajax/files/62958/fbc1d2c0240dfe5cb5d3c18a436e6e07/">Правила проведения Акции для повышения лояльности клиентов «27 февраля - 05 марта 2023 - неделя благодарности владельцам инвестиционных паев ПИФ»</a>
+                                </li>
+                                                                <li class="show-info__links__itemа">
+                                    <a href="/ajax/files/62957/5f28ed068c3c6e502af6b8fa633a0b15/">Правила проведения Акции для повышения лояльности клиентов «20 февраля - 26 февраля 2023 - неделя благодарности владельцам инвестиционных паев ПИФ»</a>
+                                </li>
+                                                                <li class="show-info__links__itemа">
+                                    <a href="/ajax/files/62914/523d4df7b3dfe9c95e4a4ddea90a5c3d/">Правила проведения Акции для повышения лояльности клиентов «13 февраля - 19 февраля 2023 - неделя благодарности владельцам инвестиционных паев ПИФ»</a>
+                                </li>
+                                                                <li class="show-info__links__itemа">
+                                    <a href="/ajax/files/62870/fdb7a5e588f86f60268f04ced19ce026/">Правила проведения Акции для повышения лояльности клиентов «06 февраля - 12 февраля 2023 - неделя благодарности владельцам инвестиционных паев ПИФ»</a>
+                                </li>
+                                                                <li class="show-info__links__itemа">
+                                    <a href="/ajax/files/62864/f0a9cddff5cf336fa7a28c23a25f4c22/">Правила проведения Акции для повышения лояльности клиентов «30 января - 05 февраля 2023 - неделя благодарности владельцам инвестиционных паев ПИФ»</a>
+                                </li>
+                                                                <li class="show-info__links__itemа">
+                                    <a href="/ajax/files/62751/4f11956e6bc21d960966869777615fda/">Правила проведения Акции для повышения лояльности клиентов «23 января - 29 января 2023 - неделя благодарности владельцам инвестиционных паев ПИФ»</a>
+                                </li>
+                                                                <li class="show-info__links__itemа">
+                                    <a href="/ajax/files/62703/0fef017a1da53879849cd1be348df5cd/">Правила проведения Акции для повышения лояльности клиентов «16 января - 22 января 2023 - неделя благодарности владельцам инвестиционных паев ПИФ»</a>
+                                </li>
+                                                                <li class="show-info__links__itemа">
+                                    <a href="/ajax/files/62635/d60ade9ffd81d20c60471bc9af0a0401/">Правила проведения Акции для повышения лояльности клиентов «09 января - 15 января 2023 - неделя благодарности владельцам инвестиционных паев ПИФ»</a>
+                                </li>
+                                                        </ul>
+                    </div>
+                </div>
+            </div>
+            
+    </div>
+    <ul class="show-info__links">
+        <!--  -->
+    </ul>
+        </div>                </div>
+            </div>
+            <div class="my-clearfix"></div>
+        </div>
+    </div>
+
+</main>
+<div class="clearfix"></div>
+    <div class="analitic-and-expert-wrap">
+        <div class="awards-wrap main-col">
+            <form class="form-box" id="subscribeForm">
+    <div class="subscribe-wrap my-clearfix" id="checkboxWrap">
+        <span class="subscribe-to">Подписка на</span>
+        
+                            <div class="item">
+                    <input type="checkbox" name="rub[]" value="1" id="rub-1">
+                    <label class="checkbox-label checkbox-label-right" for="rub-1">Новости</label>
+                </div>
+                            <div class="item">
+                    <input type="checkbox" name="rub[]" value="2" id="rub-2">
+                    <label class="checkbox-label checkbox-label-right" for="rub-2">Аналитика</label>
+                </div>
+                            <div class="item">
+                    <input type="checkbox" name="rub[]" value="4" id="rub-4">
+                    <label class="checkbox-label checkbox-label-right" for="rub-4">Мнение эксперта</label>
+                </div>
+                            <div class="item">
+                    <input type="checkbox" name="rub[]" value="8" id="rub-8">
+                    <label class="checkbox-label checkbox-label-right" for="rub-8">Документы</label>
+                </div>
+            
+                <div class="subscribe">
+            <div class="form-group-horizontal">
+                <div class="form-group">
+                    <input type="text" name="sname" id="sname" class="noempty" placeholder="Ваше имя">
+                </div>
+                <div class="form-group">
+                    <input type="text" name="semail" id="semail" class="noempty email" placeholder="Ваш e-mail">
+                </div>
+                <div class="form-btnbox form-group">
+                    <span class="btn btn-yellow btn-sub" id="subscribeMeGoogleDisable">Подписаться</span>
+                </div>
+            </div>
+
+        </div>
+
+        <!-- МОДАЛКА -->
+        <div style="display: none">
+            <div id="subscription" class="subscription">
+                <h2 class="subscription__title">Подписка</h2>
+                <div class="subscription__choise">
+                    Выберите на обновления каких документов требуется подписка
+                </div>
+                <div class="subscription__form">
+                    <ul style="margin-bottom: 40px;" class="subscription__list js-iblock-list">
+                                                    <li class="subscription__item" data-id="19">
+                                <label class="subscription__label">
+                                    <input type="checkbox" class="subscription__checkbox">
+                                    <svg width="18" height="18" viewBox="0 0 18 18" xmlns="http://www.w3.org/2000/svg" class="subscription__checkbox-custom">
+                                        <path d="M2.57143 0C1.15329 0 0 1.15329 0 2.57143V15.4286C0 16.8467 1.15329 18 2.57143 18H15.4286C16.8467 18 18 16.8467 18 15.4286V2.57143C18 1.15329 16.8467 0 15.4286 0H2.57143ZM2.57143 15.4286V2.57143H15.4286L15.4311 15.4286H2.57143Z"></path>
+                                    </svg>
+                                    <span class="subscription__checkbox-text">Документы по управлению пенсионными накоплениями</span>
+                                </label>
+                            </li>
+                                                    <li class="subscription__item" data-id="42">
+                                <label class="subscription__label">
+                                    <input type="checkbox" class="subscription__checkbox">
+                                    <svg width="18" height="18" viewBox="0 0 18 18" xmlns="http://www.w3.org/2000/svg" class="subscription__checkbox-custom">
+                                        <path d="M2.57143 0C1.15329 0 0 1.15329 0 2.57143V15.4286C0 16.8467 1.15329 18 2.57143 18H15.4286C16.8467 18 18 16.8467 18 15.4286V2.57143C18 1.15329 16.8467 0 15.4286 0H2.57143ZM2.57143 15.4286V2.57143H15.4286L15.4311 15.4286H2.57143Z"></path>
+                                    </svg>
+                                    <span class="subscription__checkbox-text">Документы по профессиональной деятельности</span>
+                                </label>
+                            </li>
+                                                    <li class="subscription__item" data-id="52">
+                                <label class="subscription__label">
+                                    <input type="checkbox" class="subscription__checkbox">
+                                    <svg width="18" height="18" viewBox="0 0 18 18" xmlns="http://www.w3.org/2000/svg" class="subscription__checkbox-custom">
+                                        <path d="M2.57143 0C1.15329 0 0 1.15329 0 2.57143V15.4286C0 16.8467 1.15329 18 2.57143 18H15.4286C16.8467 18 18 16.8467 18 15.4286V2.57143C18 1.15329 16.8467 0 15.4286 0H2.57143ZM2.57143 15.4286V2.57143H15.4286L15.4311 15.4286H2.57143Z"></path>
+                                    </svg>
+                                    <span class="subscription__checkbox-text">Документы ДУ</span>
+                                </label>
+                            </li>
+                                            </ul>
+                    <h3 class="subscription__suptitle">Документы ПИФов</h3>
+                    <ul class="subscription__list js-funds-list">
+                        <li class="subscription__item">
+                            <label class="subscription__label">
+                                <input type="checkbox" class="subscription__checkbox subscription__checkbox subscription__checkbox_all">
+                                <svg width="18" height="18" viewBox="0 0 18 18" xmlns="http://www.w3.org/2000/svg" class="subscription__checkbox-custom">
+                                    <path d="M2.57143 0C1.15329 0 0 1.15329 0 2.57143V15.4286C0 16.8467 1.15329 18 2.57143 18H15.4286C16.8467 18 18 16.8467 18 15.4286V2.57143C18 1.15329 16.8467 0 15.4286 0H2.57143ZM2.57143 15.4286V2.57143H15.4286L15.4311 15.4286H2.57143Z"></path>
+                                </svg>
+                                <span class="subscription__checkbox-text">Выбрать все</span>
+                            </label>
+                        </li>
+                                                    <li class="subscription__item" data-id="44">
+                                <label class="subscription__label">
+                                    <input type="checkbox" class="subscription__checkbox subscription__checkbox">
+                                    <svg width="18" height="18" viewBox="0 0 18 18" xmlns="http://www.w3.org/2000/svg" class="subscription__checkbox-custom">
+                                        <path d="M2.57143 0C1.15329 0 0 1.15329 0 2.57143V15.4286C0 16.8467 1.15329 18 2.57143 18H15.4286C16.8467 18 18 16.8467 18 15.4286V2.57143C18 1.15329 16.8467 0 15.4286 0H2.57143ZM2.57143 15.4286V2.57143H15.4286L15.4311 15.4286H2.57143Z"></path>
+                                    </svg>
+                                    <span class="subscription__checkbox-text">Фонд Первый</span>
+                                </label>
+                            </li>
+                                                    <li class="subscription__item" data-id="45">
+                                <label class="subscription__label">
+                                    <input type="checkbox" class="subscription__checkbox subscription__checkbox">
+                                    <svg width="18" height="18" viewBox="0 0 18 18" xmlns="http://www.w3.org/2000/svg" class="subscription__checkbox-custom">
+                                        <path d="M2.57143 0C1.15329 0 0 1.15329 0 2.57143V15.4286C0 16.8467 1.15329 18 2.57143 18H15.4286C16.8467 18 18 16.8467 18 15.4286V2.57143C18 1.15329 16.8467 0 15.4286 0H2.57143ZM2.57143 15.4286V2.57143H15.4286L15.4311 15.4286H2.57143Z"></path>
+                                    </svg>
+                                    <span class="subscription__checkbox-text">Акции роста</span>
+                                </label>
+                            </li>
+                                                    <li class="subscription__item" data-id="47">
+                                <label class="subscription__label">
+                                    <input type="checkbox" class="subscription__checkbox subscription__checkbox">
+                                    <svg width="18" height="18" viewBox="0 0 18 18" xmlns="http://www.w3.org/2000/svg" class="subscription__checkbox-custom">
+                                        <path d="M2.57143 0C1.15329 0 0 1.15329 0 2.57143V15.4286C0 16.8467 1.15329 18 2.57143 18H15.4286C16.8467 18 18 16.8467 18 15.4286V2.57143C18 1.15329 16.8467 0 15.4286 0H2.57143ZM2.57143 15.4286V2.57143H15.4286L15.4311 15.4286H2.57143Z"></path>
+                                    </svg>
+                                    <span class="subscription__checkbox-text">Фонд Консервативный</span>
+                                </label>
+                            </li>
+                                                    <li class="subscription__item" data-id="48">
+                                <label class="subscription__label">
+                                    <input type="checkbox" class="subscription__checkbox subscription__checkbox">
+                                    <svg width="18" height="18" viewBox="0 0 18 18" xmlns="http://www.w3.org/2000/svg" class="subscription__checkbox-custom">
+                                        <path d="M2.57143 0C1.15329 0 0 1.15329 0 2.57143V15.4286C0 16.8467 1.15329 18 2.57143 18H15.4286C16.8467 18 18 16.8467 18 15.4286V2.57143C18 1.15329 16.8467 0 15.4286 0H2.57143ZM2.57143 15.4286V2.57143H15.4286L15.4311 15.4286H2.57143Z"></path>
+                                    </svg>
+                                    <span class="subscription__checkbox-text">Фонд Профессиональный</span>
+                                </label>
+                            </li>
+                                                    <li class="subscription__item" data-id="49">
+                                <label class="subscription__label">
+                                    <input type="checkbox" class="subscription__checkbox subscription__checkbox">
+                                    <svg width="18" height="18" viewBox="0 0 18 18" xmlns="http://www.w3.org/2000/svg" class="subscription__checkbox-custom">
+                                        <path d="M2.57143 0C1.15329 0 0 1.15329 0 2.57143V15.4286C0 16.8467 1.15329 18 2.57143 18H15.4286C16.8467 18 18 16.8467 18 15.4286V2.57143C18 1.15329 16.8467 0 15.4286 0H2.57143ZM2.57143 15.4286V2.57143H15.4286L15.4311 15.4286H2.57143Z"></path>
+                                    </svg>
+                                    <span class="subscription__checkbox-text">Энергетическая перспектива</span>
+                                </label>
+                            </li>
+                                                    <li class="subscription__item" data-id="52">
+                                <label class="subscription__label">
+                                    <input type="checkbox" class="subscription__checkbox subscription__checkbox">
+                                    <svg width="18" height="18" viewBox="0 0 18 18" xmlns="http://www.w3.org/2000/svg" class="subscription__checkbox-custom">
+                                        <path d="M2.57143 0C1.15329 0 0 1.15329 0 2.57143V15.4286C0 16.8467 1.15329 18 2.57143 18H15.4286C16.8467 18 18 16.8467 18 15.4286V2.57143C18 1.15329 16.8467 0 15.4286 0H2.57143ZM2.57143 15.4286V2.57143H15.4286L15.4311 15.4286H2.57143Z"></path>
+                                    </svg>
+                                    <span class="subscription__checkbox-text">Глобальные инновации</span>
+                                </label>
+                            </li>
+                                                    <li class="subscription__item" data-id="53">
+                                <label class="subscription__label">
+                                    <input type="checkbox" class="subscription__checkbox subscription__checkbox">
+                                    <svg width="18" height="18" viewBox="0 0 18 18" xmlns="http://www.w3.org/2000/svg" class="subscription__checkbox-custom">
+                                        <path d="M2.57143 0C1.15329 0 0 1.15329 0 2.57143V15.4286C0 16.8467 1.15329 18 2.57143 18H15.4286C16.8467 18 18 16.8467 18 15.4286V2.57143C18 1.15329 16.8467 0 15.4286 0H2.57143ZM2.57143 15.4286V2.57143H15.4286L15.4311 15.4286H2.57143Z"></path>
+                                    </svg>
+                                    <span class="subscription__checkbox-text">Природные ресурсы</span>
+                                </label>
+                            </li>
+                                                    <li class="subscription__item" data-id="55">
+                                <label class="subscription__label">
+                                    <input type="checkbox" class="subscription__checkbox subscription__checkbox">
+                                    <svg width="18" height="18" viewBox="0 0 18 18" xmlns="http://www.w3.org/2000/svg" class="subscription__checkbox-custom">
+                                        <path d="M2.57143 0C1.15329 0 0 1.15329 0 2.57143V15.4286C0 16.8467 1.15329 18 2.57143 18H15.4286C16.8467 18 18 16.8467 18 15.4286V2.57143C18 1.15329 16.8467 0 15.4286 0H2.57143ZM2.57143 15.4286V2.57143H15.4286L15.4311 15.4286H2.57143Z"></path>
+                                    </svg>
+                                    <span class="subscription__checkbox-text">Рынок драгоценных металлов</span>
+                                </label>
+                            </li>
+                                                    <li class="subscription__item" data-id="56">
+                                <label class="subscription__label">
+                                    <input type="checkbox" class="subscription__checkbox subscription__checkbox">
+                                    <svg width="18" height="18" viewBox="0 0 18 18" xmlns="http://www.w3.org/2000/svg" class="subscription__checkbox-custom">
+                                        <path d="M2.57143 0C1.15329 0 0 1.15329 0 2.57143V15.4286C0 16.8467 1.15329 18 2.57143 18H15.4286C16.8467 18 18 16.8467 18 15.4286V2.57143C18 1.15329 16.8467 0 15.4286 0H2.57143ZM2.57143 15.4286V2.57143H15.4286L15.4311 15.4286H2.57143Z"></path>
+                                    </svg>
+                                    <span class="subscription__checkbox-text">Глобальный рынок акций </span>
+                                </label>
+                            </li>
+                                                    <li class="subscription__item" data-id="58">
+                                <label class="subscription__label">
+                                    <input type="checkbox" class="subscription__checkbox subscription__checkbox">
+                                    <svg width="18" height="18" viewBox="0 0 18 18" xmlns="http://www.w3.org/2000/svg" class="subscription__checkbox-custom">
+                                        <path d="M2.57143 0C1.15329 0 0 1.15329 0 2.57143V15.4286C0 16.8467 1.15329 18 2.57143 18H15.4286C16.8467 18 18 16.8467 18 15.4286V2.57143C18 1.15329 16.8467 0 15.4286 0H2.57143ZM2.57143 15.4286V2.57143H15.4286L15.4311 15.4286H2.57143Z"></path>
+                                    </svg>
+                                    <span class="subscription__checkbox-text">Глобальный рынок облигаций </span>
+                                </label>
+                            </li>
+                                                    <li class="subscription__item" data-id="359430">
+                                <label class="subscription__label">
+                                    <input type="checkbox" class="subscription__checkbox subscription__checkbox">
+                                    <svg width="18" height="18" viewBox="0 0 18 18" xmlns="http://www.w3.org/2000/svg" class="subscription__checkbox-custom">
+                                        <path d="M2.57143 0C1.15329 0 0 1.15329 0 2.57143V15.4286C0 16.8467 1.15329 18 2.57143 18H15.4286C16.8467 18 18 16.8467 18 15.4286V2.57143C18 1.15329 16.8467 0 15.4286 0H2.57143ZM2.57143 15.4286V2.57143H15.4286L15.4311 15.4286H2.57143Z"></path>
+                                    </svg>
+                                    <span class="subscription__checkbox-text">ЗПИФ недвижимости «Недвижимость пенсионного фонда»</span>
+                                </label>
+                            </li>
+                                            </ul>
+                </div>
+                <button type="button" id="subscribe-modal-accept" class="subscription__submit btn btn-yellow">
+                    Подтвердить выбор
+                </button>
+
+                <div class="sub-under-text">
+                    Для получения рассылки по выбранным документам <br>
+                    заполните Имя и E-mail
+                </div>
+            </div>
+        </div>
+
+        <div style="display: none">
+            <div id="subscription-result" class="subscription">
+                <h2 class="subscription__title"></h2>
+                <div class="subscription__choise">
+                </div>
+            </div>
+        </div>
+
+
+        <div style="display: none">
+            <div id="subscription-result-no-doc" class="subscription">
+                <h2 class="subscription__title"></h2>
+                <div class="subscription__choise">
+                </div>
+            </div>
+        </div>
+    </div>
+</form>
+<div class="msg-wrap subscribe-wrap" id="msgWrap-line" style="display: none;"></div>
+
+<script>
+    var checkboxes = $('.item input');
+
+    checkboxes.each(function(_, element) {
+        if ($(element).attr('id') !== 'rub-8') {
+            $(element).prop('checked', 'true');
+        }
+    })
+</script>        </div>
+    </div>
+<footer>
+    <div class="footer-top">
+        <div class="main-col my-clearfix">
+
+            <div class="col-sm-20-percent col-xs-6">
+                <p class="footer-top-header">
+                    <a href="/about/">АО «БКС Управление благосостоянием»</a>
+                </p>
+                
+    <div class="footer-top-menu-wrap">
+        <ul>
+
+                            <li>
+                    <a href="/about/">
+                        Общая информация                    </a>
+                </li>
+                            <li>
+                    <a href="/about/presscenter/">
+                        Новости                    </a>
+                </li>
+                            <li>
+                    <a href="/about/massmedia/">
+                        Мы в прессе                    </a>
+                </li>
+                            <li>
+                    <a href="/about/disclosure/">
+                        Раскрытие информации                    </a>
+                </li>
+                            <li>
+                    <a href="/about/contacts/">
+                        Контакты                    </a>
+                </li>
+                    </ul>
+
+        
+
+    </div>
+
+            </div>
+            <div class="col-sm-20-percent col-xs-6">
+                <p class="footer-top-header">
+                    <a href="/investors/private/">Частному инвестору</a>
+                </p>
+                
+    <div class="footer-top-menu-wrap">
+        <ul>
+
+                            <li>
+                    <a href="/funds/">
+                        Паевые инвестиционные фонды                    </a>
+                </li>
+                            <li>
+                    <a href="/investors/private/pension/">
+                        Управление пенсией                    </a>
+                </li>
+                            <li>
+                    <a href="/investors/private/structured-products/">
+                        Структурные продукты                    </a>
+                </li>
+                            <li>
+                    <a href="/investors/private/du/">
+                        Индивидуальное  доверительное  управление                    </a>
+                </li>
+                            <li>
+                    <a href="/video-library/">
+                        Видеобиблиотека                    </a>
+                </li>
+                    </ul>
+
+        
+
+    </div>
+            </div>
+            <div class="clearfix mobile-visible"></div>
+            <div class="col-sm-20-percent col-xs-6">
+                <p class="footer-top-header">
+                    <a href="/investors/corporate/">Институциональному инвестору</a>
+                </p>
+                
+    <div class="footer-top-menu-wrap">
+        <ul>
+
+                            <li>
+                    <a href="/investors/corporate/du/">
+                        Доверительное  управление                    </a>
+                </li>
+                            <li>
+                    <a href="/investors/corporate/npf/">
+                        Негосударственные пенсионные фонды                    </a>
+                </li>
+                            <li>
+                    <a href="/investors/corporate/insurance/">
+                        Страховые компании                    </a>
+                </li>
+                            <li>
+                    <a href="/investors/corporate/sro/">
+                        Саморегулируемые организации                    </a>
+                </li>
+                            <li>
+                    <a href="/investors/corporate/funds/">
+                        Эндаумент-фонды                    </a>
+                </li>
+                    </ul>
+
+        
+
+    </div>
+            </div>
+            <!--<div class="col-sm-20-percent col-xs-6">
+                <p class="footer-top-header">
+                                    </p>
+                            </div>-->
+            <div class="clearfix mobile-visible"></div>
+            <div class="col-sm-20-percent col-xs-6">
+                <p class="footer-top-header">
+                    <a href="/how-to-buy/">Часто задаваемые вопросы</a>
+                </p>
+                
+    <div class="footer-top-menu-wrap">
+        <ul>
+
+                            <li>
+                    <a href="/how-to-buy/online/">
+                        Регистрация в Личном кабинете                    </a>
+                </li>
+                            <li>
+                    <a href="/about/contacts/offices/">
+                        Пункт приема заявок                    </a>
+                </li>
+                            <li>
+                    <a href="/how-to-buy/tax/">
+                        Налогообложение                    </a>
+                </li>
+                            <li>
+                    <a href="/how-to-buy/order/">
+                        Оформление купли-продажи                    </a>
+                </li>
+                            <li>
+                    <a href="/how-to-buy/intervals/">
+                        Сроки принятия заявок на выдачу и погашение паев                    </a>
+                </li>
+                    </ul>
+
+        
+
+    </div>
+            </div>
+            <div class="clearfix mobile-visible"></div>
+            <div class="col-sm-20-percent col-xs-6 footer-col__contacts">
+                
+<div class="footer-col__wrapper">
+    <p class="footer-top-header">
+        <a href="#modal-widget" class="mfp-popup">Онлайн консультация</a>
+    </p>
+
+    <div class="footer-col__phone">
+        <a href="tel:88002009058">8 800 200 90 58 (бесплатно)</a>
+        <a href="tel:84957237674">8 495 723 76 74</a>    </div>
+
+    <!-- <div class="footer-col__apps">
+        <a target="_blank" href="https://itunes.apple.com/ru/app/%D1%83%D0%BA-%D1%83%D1%80%D0%B0%D0%BB%D1%81%D0%B8%D0%B1-%D0%B8%D0%BD%D0%B2%D0%B5%D1%81%D1%82%D0%B8%D1%86%D0%B8%D0%B8/id1422595494?mt=8">
+            <img src="/investors/private/lk/images/appstore.svg" alt="" draggable="false">
+        </a>
+        <a target="_blank" href="https://play.google.com/store/apps/details?id=ru.am_uralsib.android">
+            <img src="/investors/private/lk/images/googleplay.svg" alt="" draggable="false">
+        </a>
+    </div> -->
+</div>            </div>
+        </div>
+    </div>
+
+    <div class="footer-bottom">
+        <div class="main-col my-clearfix">
+            <div class="address-wrap">
+                <a href="/about/contacts/" class="address">129110, город Москва, Проспект Мира, дом 69, строение 1, этаж 3, пом.3-07</a><br>
+                <p class="address">Управляющая компания входит в Группу компаний БКС с 2019г</p>
+                <span class="copyright">© 1996 — 2023, АО «БКС Управление благосостоянием»</span>
+            </div>
+
+            <div class="footer-feedback my-clearfix">
+                <div class="right-col">
+                    <a class="redsoft" target="_blank" href="http://redsoft.ru">
+                        <span class="img">
+                            <img alt="redsoft" class="blue" src="/bitrix/templates/uralsib/images/redsoft-logo.png">
+                            <img alt="redsoft" class="red" src="/bitrix/templates/uralsib/images/redsoft-logo-red.png">
+                        </span>
+                        <span class="ttl">
+                            Разработка сайта <br>Redsoft
+                        </span>
+                    </a>
+                </div>
+            </div>
+        </div>
+    </div>
+    <div class="main-col_full">
+        <div class="disclaimer">
+                            АО &lt;БКС Управление благосостоянием&gt; Лицензия на осуществление деятельности по управлению инвестиционными фондами, паевыми инвестиционными фондами и негосударственными пенсионными фондами No21-000-1-00037, выдана ФКЦБ России 14 июля 2000 г. Лицензия профессионального участника рынка ценных бумаг на осуществление деятельности по управлению ценными бумагами No 045-06475-001000, выдана ФКЦБ России 5 марта 2003 г.<br>
+<br>
+Стоимость акций и инвестиционных паев может увеличиваться и уменьшаться, результаты инвестирования в прошлом не определяют доходы в будущем, государство не гарантирует доходность инвестиций в паевые инвестиционные фонды. Перед приобретением акций или инвестиционных паев следует внимательно ознакомиться с проспектом эмиссии акций и правилами доверительного управления паевым инвестиционным фондом.<br>
+<br>
+Правилами фондов предусмотрены надбавки при приобретении и скидки при погашении паев. Взимание надбавок (скидок) уменьшает доходность инвестиций в инвестиционные паи паевых инвестиционных фондов. Вся необходимая информация раскрывается на сайте Управляющей компании и, в случае если это предусмотрено законодательством Российской Федерации и Правилами доверительного управления, публикуется в печатном издании &lt;Приложение к Вестнику ФСФР России&gt;. Получить информацию о фондах и ознакомиться с Правилами доверительного управления фондами, иными документами, предусмотренными Федеральным законом &lt;Об инвестиционных фондах&gt; и нормативными актами в сфере финансовых рынков, можно по адресам Агентов по выдаче, погашению и обмену инвестиционных паев, а также по адресу: 129110, город Москва, Проспект Мира, дом 69, строение 1, этаж 3, пом.3-07 Тел.: 8 (495) 723 76 74. Адрес АО &lt;БКС Управление благосостоянием&gt; в информационно-телекоммуникационной сети Интернет: www.bcswm.ru. Открытый паевой инвестиционный фонд рыночных финансовых инструментов &lt;Глобальный рынок акций&gt; (Правила зарегистрированы ФСФР России, No 2610 от 28.05. 2013 г.) Открытый паевой инвестиционный фонд рыночных финансовых инструментов &lt;Глобальный рынок облигаций&gt; (Правила зарегистрированы ФСФР России, No 2608 от 28.05.2013 г.) Открытый паевой инвестиционный фонд рыночных финансовых инструментов &lt;Рынок драгоценных металлов&gt; (Правила зарегистрированы ФСФР России, No 2342 от 19.04.2012) Открытый паевой инвестиционный фонд рыночных финансовых инструментов &lt;Фонд Первый&gt; (Правила зарегистрированы ФКЦБ России, No 0029-18610555 от 14.09.1998 г.) Открытый паевой инвестиционный фонд рыночных финансовых инструментов &lt;Фонд Профессиональный&gt; (Правила зарегистрированы ФКЦБ России, No 0053-56612554 от 27.04.2001 г.) Открытый паевой инвестиционный фонд рыночных финансовых инструментов &lt;Фонд Консервативный&gt; (Правила зарегистрированы ФКЦБ России, No 0056-56658088 от 06.06.2001 г.) Открытый паевой инвестиционный фонд рыночных финансовых инструментов &lt;Природные ресурсы&gt; (Правила зарегистрированы ФСФР России, No 1143-94140753 от 27.12.2007 г.) Открытый паевой инвестиционный фонд рыночных финансовых инструментов &lt;Энергетическая перспектива&gt; (Правила зарегистрированы ФСФР России, No 1145-94140670 от 27.12.2007 г.) Открытый паевой инвестиционный фонд рыночных финансовых инструментов &lt;Глобальные инновации&gt;. (Правила зарегистрированы ФСФР России, No 1142-94140995 от 27.12.2007 г.) Открытый паевой инвестиционный фонд рыночных финансовых инструментов &lt;Акции роста&gt; (Правила зарегистрированы ФКЦБ России, No 0030-18610638 от 14.09.1998 г.) Закрытый паевой инвестиционный фонд недвижимости &lt;Недвижимость пенсионного фонда&gt; (Правила зарегистрированы ФСФР России, No 1084-58229782 от 20.11.2007) АО &lt;БКС Управление благосостоянием&gt; информирует о совмещении различных видов деятельности, а также о существовании риска возникновения конфликта интересов.
+Комбинированный закрытый паевой инвестиционный фонд «Стратегия капитала» (Правила зарегистрированы Банком России, № 5433-СД от 16.06.2023. Предназначен для лиц, являющихся квалифицированными инвесторами), Закрытый паевой инвестиционный фонд финансовых инструментов «Резервный капитал» (Правила зарегистрированы Банком России, № 5434-СД от 16.06.2023. Предназначен для лиц, являющихся квалифицированными инвесторами)<br>
+<br>
+Результаты деятельности управляющего по управлению ценными бумагами в прошлом не определяют и не являются гарантией доходности учредителя управления в будущем. Управляющий не гарантирует достижения ожидаемой доходности, определенной в инвестиционном профиле и (или) в стандартном инвестиционном профиле учредителя управления. Указание примера ожиданий инвестора, его инвестиционных целей, целей фондов, инвестиционного профиля драйверов роста является предположительным и не является обещанием гарантий уровня риска, доходности, эффективности управления активами, размера и стабильности издержек, доходов, безопасности инвестиций. Предоставленные на сайте материалы и указанная в них информация не являются индивидуальными инвестиционными рекомендациями. Финансовые инструменты либо операции, упомянутые в них, могут не подходить Инвестору, не соответствовать его инвестиционному профилю, финансовому положению, опыту инвестиций, знаниям, инвестиционным целям, отношению к риску и доходности. Определение соответствия финансового инструмента либо операции инвестиционным целям, инвестиционному горизонту и толерантности к риску является задачей Инвестора. АО &lt;БКС Управление благосостоянием&gt; не несет ответственности за возможные убытки Инвестора в случае совершения упомянутых операций, либо инвестирования в упомянутые финансовые инструменты. Информация не может рассматриваться как публичная оферта, предложение или приглашение приобрести, или продать какие-либо ценные бумаги, иные финансовые инструменты, совершить с ними сделки. Информация не может рассматриваться в качестве гарантий или обещаний в будущем доходности вложений, уровня риска, размера издержек, безубыточности инвестиций. Результат инвестирования в прошлом не определяет дохода в будущем. Не является рекламой ценных бумаг. Перед принятием инвестиционного решения Инвестору необходимо самостоятельно оценить экономические риски и выгоды, налоговые, юридические, бухгалтерские последствия заключения сделки, свою готовность и возможность принять такие риски.                <!--                -->
+                    </div>
+    </div>
+
+    <!-- uSocial -->
+    <script async="" src="https://usocial.pro/usocial/usocial.pp.js?v=6.1.4" data-script="usocial" charset="utf-8"></script>
+    <div class="uSocial-PP" data-action="load" data-pid="4f16797536a38ca725a7ed59252f3a78" data-type="publicpopup" data-options="skin_dark,style1,showWithoutNames_1" data-social="fb,vk,ok,twi"></div>
+    <!-- /uSocial -->
+</footer>
+<div class="dropdown__overlay" style="display: none;"></div></div>
+</div>
+
+    <div class="widget-button__wrapper">
+        <a href="#modal-widget" class="widget-button js-widget mfp-popup">
+            <img src="/bitrix/templates/uralsib/images/svg-icons/question-mark.svg" alt="">
+        </a>
+    </div>
+
+    <div class="hide">
+
+        <div id="modal-widget" class="zoom-anim-dialog">
+            <div class="reg-form-appeal">
+                <form action="" data-form-type="callbackForm" class="form-vertical form-widget reg-form-appeal__list js-form mfp-wrapper" id="cosForm_widget">
+                    <input type="hidden" name="form_type" value="footer_question" autocomplete="off">
+                    <main class="callback-wrapper">
+                        <h2 class="widget-header">Свяжитесь с нами</h2>
+                        <button title="Close (Esc)" type="button" class="mfp-close">×</button>
+                        <div class="form-group control">
+                            <div class="form-label ">
+                                <label for="RS_name_widget">Как к вам обращаться</label>
+                                <span class="star"></span>
+                                <span class="js-error wrong_code">Минимальная длина 3 символа</span>
+                            </div>
+                            <div class="form-control form-control_req">
+                                <input type="text" data-valid="name" class="input js_name" name="name" id="RS_name_widget" value="" autocomplete="off" data-index="0">
+                            </div>
+                        </div>
+
+                        <div class="form-group__wrapper">
+
+                            <div class="form-group control">
+                                <div class="form-label ">
+                                    <label for="RS_phone_widget">Телефон</label>
+                                    <span class="star"></span>
+                                    <span class="js-error wrong_code">Введите полный номер телефона</span>
+                                </div>
+
+                                <div class="form-control form-control_req">
+                                    <input type="tel" data-valid="phone" autocomplete="off" class="input js_phone" name="phone" id="RS_phone_widget" data-index="1">
+                                </div>
+                            </div>
+
+                            <div class="form-group control">
+                                <div class="form-label ">
+                                    <label for="RS_email_widget">E-mail</label>
+                                    <span class="star"></span>
+                                    <span class="js-error wrong_code">Введите корректный e-mail</span>
+                                </div>
+                                <div class="form-control form-control_req">
+                                    <input type="text" data-valid="email" class="input js_email" name="email" id="RS_email_widget" autocomplete="off" data-index="2">
+                                </div>
+                            </div>
+
+                        </div>
+
+
+                        <div class="form-group form-textarea">
+                            <div class="form-label ">
+                                <label for="RS_name">Ваш вопрос</label>
+                            </div>
+                            <div class="form-control">
+                                <textarea name="msg" id="question_widget"></textarea>
+                            </div>
+                        </div>
+
+                        <div class="form-group__wrapper">
+                            <div class="form-group control">
+                                <div class="form-control  no-before">
+                                    <input type="checkbox" name="accept" id="RS_accept_widget" data-valid="checkbox" value="Y" autocomplete="off" data-index="3">
+                                    <label class="checkbox-label checkbox-label-right" for="RS_accept_widget">Я подтверждаю свое
+                                        согласие <a href="#agreemnt_popup" class="mfp-popup-delay js-return">на обработку
+                                            персональных данных</a> АО «БКС Управление благосостоянием»</label>
+                                </div>
+                            </div>
+                            <div class="form-group control form-nav">
+                                <span class="button btn-yellow size-xl js-form__finish reg-form-appeal__btn js-submit btn-disabled" id="submitFB_widget">Отправить</span>
+                            </div>
+                        </div>
+                        <div class="form-group__wrapper">
+                            <p><span class="star"></span>Вопросы, адресованные в данной форме, не рассматриваются в качестве обращений, заявлений и жалоб, подлежащих регистрации в управляющей компании (далее совместно - Обращения). <a class="form-group__appeal" target="_blank" href="/about/contacts/">Способы подачи обращений в АО «БКС Управление благосостоянием» </a></p>
+                        </div>
+                    </main>
+
+                    <main class="callback-result">
+                        <h2 class="widget-header">Благодарим Вас за обращение в АО «БКС Управление благосостоянием».</h2>
+
+                        <p>Наш консультант свяжется с Вами в ближайшее время.</p>
+
+                        <div class="form-group control form-nav">
+                            <span class="button btn-yellow size-xl reg-form-appeal__btn mfp-close">Далее</span>
+                        </div>
+                    </main>
+
+                </form>
+
+            </div>
+        </div>
+    </div>
+
+
+<div class="hide">
+    <div class="mfp-hide"></div>
+
+    <div id="modalLogin">
+        <div id="enterPopup">
+            <div class="form-vertical">
+    <form id="enterForm" class="form-vertical js_is_ajax" name="form_auth" method="post" target="_top" action="/about/disclosure/?login=yes">
+        <input type="hidden" name="AUTH_FORM" value="Y">
+        <input type="hidden" name="IS_AJAX" value="Y">
+        <input type="hidden" name="TYPE" value="AUTH">
+                    <input type="hidden" name="backurl" value="/about/disclosure/">
+                        <div class="form-group form-caption">
+                            <div class="ttl">
+                    Войти на сайт                </div>
+                        <div class="subttl subttl_small">
+                Пожалуйста, введите ваш e-mail и пароль
+                                    <!--noindex-->
+                    или <a href="/auth/?register=yes&amp;backurl=/about/disclosure/" class="js_show_frm_popupZ" rel="nofollow">зарегистрируйтесь</a>
+                    <!--/noindex-->
+                            </div>
+        </div>
+        <div class="form-group">
+            <div class="form-label">
+                <label for="USER_LOGIN">E-mail:</label>
+            </div>
+
+            <div class="form-control">
+                <input class="input" type="text" id="USER_LOGIN" name="USER_LOGIN" maxlength="255" value="">
+            </div>
+        </div>
+        <div class="form-group">
+            <div class="form-label">
+                <label for="USER_PASSWORD">Пароль:</label>
+            </div>
+            <div class="form-control">
+                <input class="input" type="password" id="USER_PASSWORD" name="USER_PASSWORD" maxlength="255">
+            <span class="js_tggle_password input__eye"></span></div>
+        </div>
+                
+        <div class="form-group hide" id="js_wrong_login">
+            <div class="form-notice error">
+                <i class="icn-error"></i>Неверный логин или пароль.
+            </div>
+        </div>
+
+                    <div class="form-group">
+                <div class="form-control">
+                    <a class="pull-right link js_show_frm_popup" href="#recoveryForm" rel="nofollow">Я не помню пароль</a>
+                    <input type="hidden" id="USER_REMEMBER" name="USER_REMEMBER" value="Y">
+                    <!--    <label class="checkbox-label checkbox-label-right" for="USER_REMEMBER">Запомнить меня</label>-->
+                </div>
+            </div>
+                <div class="form-group oftop-3">
+            <input class="button btn-yellow size-xl" type="submit" name="Login" value="Войти">
+        </div>
+    </form>
+    <div class="form-group oftop-3">
+        
+<div class="bx-auth">
+	<form method="post" name="bx_auth_services" target="_top" action="/about/disclosure/?login=yes">
+					<div class="form-label">Вы можете войти через свой аккаунт в соцсетях</div>
+							<div class="form-control form-control_social bx-auth-services">
+				                        <a href="javascript:void(0)" class="fld_social" onclick="BX.util.popup('https://accounts.google.com/o/oauth2/auth?client_id=836345625327-328bd7u24sliobsebrclm9t5df6u91v0.apps.googleusercontent.com&amp;redirect_uri=https%3A%2F%2Fwww.bcswm.ru%2Fbitrix%2Ftools%2Foauth%2Fgoogle.php&amp;scope=https%3A%2F%2Fwww.googleapis.com%2Fauth%2Fuserinfo.email+https%3A%2F%2Fwww.googleapis.com%2Fauth%2Fuserinfo.profile&amp;response_type=code&amp;access_type=offline&amp;state=provider%3DGoogleOAuth%26site_id%3Ds1%26backurl%3D%252Fabout%252Fdisclosure%252F%253Fcheck_key%253D2d50507df076231ffdba7b02d5c05e0c%26mode%3Dopener%26redirect_url%3D%252Fabout%252Fdisclosure%252F&amp;key=', 580, 400)" id="bx_auth_href_GoogleOAuth">
+                        <!--<a href="javascript:void(0)" class="fld_social" onclick="BxShowAuthService('', '');$.colorbox.resize();" id="bx_auth_href_">
+                        -->    <i class="icnxl-google"></i>
+                        </a>
+				                        <a href="javascript:void(0)" class="fld_social" onclick="BX.util.popup('https://www.odnoklassniki.ru/oauth/authorize?client_id=1241208832&amp;redirect_uri=https%3A%2F%2Fwww.bcswm.ru%2Fbitrix%2Ftools%2Foauth%2Fodnoklassniki.php&amp;response_type=code&amp;state=site_id%3Ds1%26backurl%3D%252Fabout%252Fdisclosure%252F%253Fcheck_key%253D2d50507df076231ffdba7b02d5c05e0c%26redirect_url%3D%252Fabout%252Fdisclosure%252F%26mode%3Dopener', 580, 400)" id="bx_auth_href_Odnoklassniki">
+                        <!--<a href="javascript:void(0)" class="fld_social" onclick="BxShowAuthService('', '');$.colorbox.resize();" id="bx_auth_href_">
+                        -->    <i class="icnxl-odnoklassniki"></i>
+                        </a>
+				                        <a href="javascript:void(0)" class="fld_social" onclick="BX.util.popup('https://oauth.vk.com/authorize?client_id=5196834&amp;redirect_uri=https%3A%2F%2Fwww.bcswm.ru%2Fbitrix%2Ftools%2Foauth%2Fvkontakte.php&amp;scope=friends,offline,email&amp;response_type=code&amp;state=c2l0ZV9pZD1zMSZiYWNrdXJsPSUyRmFib3V0JTJGZGlzY2xvc3VyZSUyRiUzRmNoZWNrX2tleSUzRDJkNTA1MDdkZjA3NjIzMWZmZGJhN2IwMmQ1YzA1ZTBjJnJlZGlyZWN0X3VybD0lMkZhYm91dCUyRmRpc2Nsb3N1cmUlMkY%3D', 660, 425)" id="bx_auth_href_VKontakte">
+                        <!--<a href="javascript:void(0)" class="fld_social" onclick="BxShowAuthService('', '');$.colorbox.resize();" id="bx_auth_href_">
+                        -->    <i class="icnxl-vkontakte"></i>
+                        </a>
+				                        <a href="javascript:void(0)" class="fld_social" onclick="BX.util.popup('/bitrix/tools/oauth/twitter.php?check_key=2d50507df076231ffdba7b02d5c05e0c&amp;backurl=%252Fabout%252Fdisclosure%252F', 800, 450)" id="bx_auth_href_Twitter">
+                        <!--<a href="javascript:void(0)" class="fld_social" onclick="BxShowAuthService('', '');$.colorbox.resize();" id="bx_auth_href_">
+                        -->    <i class="icnxl-twitter"></i>
+                        </a>
+				                        <a href="javascript:void(0)" class="fld_social" onclick="BX.util.popup('https://www.facebook.com/dialog/oauth?client_id=1692912474306692&amp;redirect_uri=https%3A%2F%2Fwww.bcswm.ru%2Fbitrix%2Ftools%2Foauth%2Ffacebook.php&amp;scope=email&amp;display=popup&amp;state=site_id%3Ds1%26backurl%3D%252Fabout%252Fdisclosure%252F%253Fcheck_key%253D2d50507df076231ffdba7b02d5c05e0c%26redirect_url%3D%252Fabout%252Fdisclosure%252F', 680, 600)" id="bx_auth_href_Facebook">
+                        <!--<a href="javascript:void(0)" class="fld_social" onclick="BxShowAuthService('', '');$.colorbox.resize();" id="bx_auth_href_">
+                        -->    <i class="icnxl-facebook"></i>
+                        </a>
+							</div>
+						<!--	<div class="bx-auth-line"></div>-->
+				<div class="bx-auth-service-form" id="bx_auth_serv" style="display:none">
+												<div id="bx_auth_serv_GoogleOAuth" style="display:none"><a href="javascript:void(0)" onclick="BX.util.popup('https://accounts.google.com/o/oauth2/auth?client_id=836345625327-328bd7u24sliobsebrclm9t5df6u91v0.apps.googleusercontent.com&amp;redirect_uri=https%3A%2F%2Fwww.bcswm.ru%2Fbitrix%2Ftools%2Foauth%2Fgoogle.php&amp;scope=https%3A%2F%2Fwww.googleapis.com%2Fauth%2Fuserinfo.email+https%3A%2F%2Fwww.googleapis.com%2Fauth%2Fuserinfo.profile&amp;response_type=code&amp;access_type=offline&amp;state=provider%3DGoogleOAuth%26site_id%3Ds1%26backurl%3D%252Fabout%252Fdisclosure%252F%253Fcheck_key%253D2d50507df076231ffdba7b02d5c05e0c%26mode%3Dopener%26redirect_url%3D%252Fabout%252Fdisclosure%252F&amp;key=', 580, 400)" class="bx-ss-button google-button"></a><span class="bx-spacer"></span><span>Используйте вашу учетную запись Google для входа на сайт.</span></div>
+																<div id="bx_auth_serv_Odnoklassniki" style="display:none"><a href="javascript:void(0)" onclick="BX.util.popup('https://www.odnoklassniki.ru/oauth/authorize?client_id=1241208832&amp;redirect_uri=https%3A%2F%2Fwww.bcswm.ru%2Fbitrix%2Ftools%2Foauth%2Fodnoklassniki.php&amp;response_type=code&amp;state=site_id%3Ds1%26backurl%3D%252Fabout%252Fdisclosure%252F%253Fcheck_key%253D2d50507df076231ffdba7b02d5c05e0c%26redirect_url%3D%252Fabout%252Fdisclosure%252F%26mode%3Dopener', 580, 400)" class="bx-ss-button odnoklassniki-button"></a><span class="bx-spacer"></span><span>Используйте вашу учетную запись Odnoklassniki.ru для входа на сайт.</span></div>
+																<div id="bx_auth_serv_VKontakte" style="display:none"><a href="javascript:void(0)" onclick="BX.util.popup('https://oauth.vk.com/authorize?client_id=5196834&amp;redirect_uri=https%3A%2F%2Fwww.bcswm.ru%2Fbitrix%2Ftools%2Foauth%2Fvkontakte.php&amp;scope=friends,offline,email&amp;response_type=code&amp;state=c2l0ZV9pZD1zMSZiYWNrdXJsPSUyRmFib3V0JTJGZGlzY2xvc3VyZSUyRiUzRmNoZWNrX2tleSUzRDJkNTA1MDdkZjA3NjIzMWZmZGJhN2IwMmQ1YzA1ZTBjJnJlZGlyZWN0X3VybD0lMkZhYm91dCUyRmRpc2Nsb3N1cmUlMkY%3D', 660, 425)" class="bx-ss-button vkontakte-button"></a><span class="bx-spacer"></span><span>Используйте вашу учетную запись VKontakte для входа на сайт.</span></div>
+																<div id="bx_auth_serv_Twitter" style="display:none"><a href="javascript:void(0)" onclick="BX.util.popup('/bitrix/tools/oauth/twitter.php?check_key=2d50507df076231ffdba7b02d5c05e0c&amp;backurl=%252Fabout%252Fdisclosure%252F', 800, 450)" class="bx-ss-button twitter-button"></a><span class="bx-spacer"></span><span>Используйте вашу учетную запись на Twitter.com для входа на сайт.</span></div>
+																<div id="bx_auth_serv_Facebook" style="display:none"><a href="javascript:void(0)" onclick="BX.util.popup('https://www.facebook.com/dialog/oauth?client_id=1692912474306692&amp;redirect_uri=https%3A%2F%2Fwww.bcswm.ru%2Fbitrix%2Ftools%2Foauth%2Ffacebook.php&amp;scope=email&amp;display=popup&amp;state=site_id%3Ds1%26backurl%3D%252Fabout%252Fdisclosure%252F%253Fcheck_key%253D2d50507df076231ffdba7b02d5c05e0c%26redirect_url%3D%252Fabout%252Fdisclosure%252F', 580, 400)" class="bx-ss-button facebook-button"></a><span class="bx-spacer"></span><span>Используйте вашу учетную запись на Facebook.com для входа на сайт.</span></div>
+									</div>
+				<input type="hidden" name="auth_service_id" value="">
+	</form>
+</div>
+
+    </div>
+</div>
+
+            <form id="recoveryForm" name="bform" class="form-vertical hide" method="post" target="_top" action="/about/disclosure/?forgot_password=yes">
+                                    <input type="hidden" name="backurl" value="/about/disclosure/">
+                                    <input type="hidden" name="AUTH_FORM" value="Y">
+                <input type="hidden" name="TYPE" value="SEND_PWD">
+                <div class="form-group form-notice form-notice_noicon error"></div>
+                <div class="form-group form-caption">
+                    <div class="ttl">
+                        Восстановление пароля
+                    </div>
+                </div>
+				<div class="form-group">
+                    <div class="form-label "><label for="FORGOT_USER_EMAIL">E-mail:</label></div>
+                    <div class="form-control">
+                        <input value="" type="text" id="FORGOT_USER_EMAIL" class="input" name="USER_EMAIL">
+                        <input type="hidden" class="input" id="FORGOT_USER_LOGIN" name="USER_LOGIN" value="">
+                    </div>
+                </div>
+                <div class="form-group hide" id="js_wrong_userdata">
+                    <div class="form-notice error">
+                        <i class="icn-error"></i>Логин или email не зарегистрированы.
+                    </div>
+                </div>
+                <div class="form-group">
+                    <span class="button btn-yellow size-xl" id="js_forgot_submit">Выслать</span>
+                </div>
+                <div class="form-group form-caption">
+                    <a class="link js_show_frm_popup" href="#enterForm">Авторизация</a>
+                </div>
+            </form>
+
+                    </div>
+    </div>
+    <div id="agreemnt_popup" class="mfp-wrapper zoom-anim-dialog">
+        <button title="Close (Esc)" type="button" class="mfp-close">×</button>
+        <div class="content-block">
+            <p>Я подтверждаю свое согласие на обработку персональных данных АО «БКС Управление благосостоянием» (далее -
+                Согласие) и подтверждаю, что, давая такое согласие, действую своей волей и в своем
+                интересе. Настоящее согласие распространяется, включая, но, не ограничиваясь, на
+                следующие данные: город, фамилия, имя, отчество, адрес электронной почты и номер
+                телефона.</p>
+            <p>Обработка моих персональных данных может осуществляться АО «БКС Управление благосостоянием» с
+                использованием или без использования средств автоматизации и заключается в сборе,
+                систематизации, накоплении, хранении, уточнении (обновлении, изменении),
+                использовании, комбинировании, распространении (в том числе передаче) в соответствии
+                с требованиями действующего законодательства РФ, обезличивании, исключении,
+                блокировании, уничтожении, любом другом их использовании с целью исполнения условий
+                договоров и иных документов, указанных в п.1 настоящего Согласия, и требований
+                действующего законодательства Российской Федерации.</p>
+            <p>Настоящее Согласие может быть отозвано посредством направления письменного заявления
+                в произвольной форме в АО «БКС Управление благосостоянием».</p>
+            <p>Подтверждаю факт ознакомления с требованиями Федерального закона Российской Федерации
+                «О персональных данных» от 27 июля 2006 года № 152-ФЗ, права и обязанности в области
+                персональных данных мне разъяснены. </p>
+        </div>
+    </div>
+    <!--<div id="agreemnt_popup">
+        <div class="content-block">
+            <p>Я подтверждаю свое согласие на обработку персональных данных АО «БКС Управление благосостоянием» (далее - Согласие) и подтверждаю, что, давая такое согласие, действую своей волей и в своем интересе. Настоящее согласие распространяется, включая, но, не ограничиваясь, на следующие данные: город, фамилия, имя, отчество, адрес электронной почты и номер телефона.</p>
+            <p>Обработка моих персональных данных может осуществляться АО «БКС Управление благосостоянием» с использованием или без использования средств автоматизации и заключается в сборе, систематизации, накоплении, хранении, уточнении (обновлении, изменении), использовании, комбинировании, распространении (в том числе передаче) в соответствии с требованиями действующего законодательства РФ, обезличивании, исключении, блокировании, уничтожении, любом другом их использовании с целью исполнения условий договоров и иных документов, указанных в п.1 настоящего Согласия, и требований действующего законодательства Российской Федерации.</p>
+            <p>Настоящее Согласие может быть отозвано посредством направления письменного заявления в произвольной форме в АО «БКС Управление благосостоянием».</p>
+            <p>Подтверждаю факт ознакомления с требованиями Федерального закона Российской Федерации «О персональных данных» от 27 июля 2006 года № 152-ФЗ, права и обязанности в области персональных данных мне разъяснены. </p>
+        </div>
+    </div>-->
+    <!--PAGE_SUCCESS-->
+</div>
+
+<!-- Google Tag Manager -->
+<script>
+    (function(w, d, s, l, i) {
+        w[l] = w[l] || [];
+        w[l].push({
+            'gtm.start': new Date().getTime(),
+            event: 'gtm.js'
+        });
+        var f = d.getElementsByTagName(s)[0],
+            j = d.createElement(s),
+            dl = l != 'dataLayer' ? '&l=' + l : '';
+        j.async = true;
+        j.src =
+            'https://www.googletagmanager.com/gtm.js?id=' + i + dl;
+        f.parentNode.insertBefore(j, f);
+    })(window, document, 'script', 'dataLayer', 'GTM-M6MHC9Z');
+</script>
+<!-- End Google Tag Manager -->
+<!-- Google Tag Manager (noscript) -->
+<noscript><iframe src="https://www.googletagmanager.com/ns.html?id=GTM-M6MHC9Z" height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
+<!-- End Google Tag Manager (noscript) -->
+<script type="text/javascript">
+    (function(d, w, t, u, o, s, v) {
+        w[o] = w[o] || function() {
+            (w[o].q = w[o].q || []).push(arguments)
+        };
+        s = d.createElement("script");
+        s.async = 1;
+        s.src = u;
+        v = d.getElementsByTagName(t)[0];
+        v.parentNode.insertBefore(s, v);
+    })(document, window, "script", "https://image.sendsay.ru/js/push/push.js", "sendsay_push");
+    sendsay_push("init", {
+        "v": "1.0",
+        "fid": "uralsibam",
+        "app_server_key": "BHD0sAHRUhzw-pN-91ZSuhP8JXKFYD1jxKUGsK11RkSOKC2W05KYFdm_5U2uNneVLTXzxh54BQpTkik0yIi0DmQ",
+        "backend": "https://sendsay.ru/backend/push",
+        "sw": "/sendsay_push_sw.js",
+        "delay": "300",
+        "list": "pl90344",
+    });
+    sendsay_push("subscribe");
+</script>
+
+
+<script type="text/javascript" id="">try{$(document).on("click","#subscribeMe",function(){var b=$(this);b=b.closest("form");var a=0,c=$("#sname");""==c.val()&&(a+=1);c=$("#semail");if(""==c.val())a+=1;else{var d=/^([a-zA-Z0-9_\.\-])+@(([a-zA-Z0-9\-])+\.)+([a-zA-Z0-9]{2,4})+$/;0==d.test(c.val())&&(a+=1)}0==b.find('input[type\x3d"checkbox"]:checked').length&&(a+=1);0==a&&(a="subscribeForm",b="/ajax/subscribeUSR.php",c=document.getElementById(a),"undefined"==typeof FormData?(a=$("#"+a).serialize(),b=b+"?"+a):a=new FormData(c),$.ajax({url:b,
+type:"POST",data:a,processData:!1,contentType:!1}).done(function(a){a=window["yaCounter"+Ya.Metrika.counters()[0].id];var b="Subscribe",c="send",d=google_tag_manager["GTM-NZ54QL"].macro(6);ga("send","event",b,c,d);void 0!=a&&(a.reachGoal(b+"_"+c),a.reachGoal("for_all_goal"))}))})}catch(b){};</script>  <script type="text/javascript" id="">try{$(document).on("click","#submitPortfel",function(){var b=0,a=$("#RP_name");""==a.val()&&(b+=1);a=$("#RP_phone");var c=a.val();""==c?b+=1:(c=/^((\+7)\s\(\d{3}\)\s(\d{3})-(\d{2})-(\d{2}))+(.*)?/,0==c.test(a.val())&&(b+=1));a=$("#RP_email");""!=a.val()&&(c=/^([a-zA-Z0-9_\.\-])+@(([a-zA-Z0-9\-])+\.)+([a-zA-Z0-9]{2,4})+$/,0==c.test(a.val())&&(b+=1));a=$("#RP_agreement:checked");0==a.length&&(b+=1);0==b&&(a=document.getElementById("orderPortfel"),b="/ajax/submitPO.php","undefined"==typeof FormData?
+(a=$("#"+form_id).serialize(),b=b+"?"+a):a=new FormData(a),$.ajax({url:b,type:"POST",data:a,processData:!1,contentType:!1}).done(function(a){if(1==a.state){a=window["yaCounter"+Ya.Metrika.counters()[0].id];var b="Portfel",c="send",d=google_tag_manager["GTM-NZ54QL"].macro(7);ga("send","event",b,c,d);void 0!=a&&(a.reachGoal(b+"_"+c),a.reachGoal("for_all_goal"))}}))})}catch(b){};</script>  <script type="text/javascript" id="">try{$(document).on("click","#submitFB",function(){$(this);var b=0,a=$("#RJ_email");if(""!=a.val()){var c=/^([a-zA-Z0-9_\.\-])+@(([a-zA-Z0-9\-])+\.)+([a-zA-Z0-9]{2,4})+$/;0==c.test(a.val())&&(b+=1)}a=$("#RJ_name");""==a.val()&&(b+=1);a=$("#RJ_phone");c=a.val();""==c?b+=1:(c=/^((\+7)\s\(\d{3}\)\s(\d{3})-(\d{2})-(\d{2}))+(.*)?/,0==c.test(a.val())&&(b+=1));a=$("#RJ_agreement:checked");0==a.length&&(b+=1);0==b&&(a="responseToFB",c=document.getElementById(a),b="/ajax/submitFB.php","undefined"==typeof FormData?
+(a=$("#"+a).serialize(),b=b+"?"+a):a=new FormData(c),$.ajax({url:b,type:"POST",data:a,processData:!1,contentType:!1}).done(function(a){if(1==a.state){a=window["yaCounter"+Ya.Metrika.counters()[0].id];var b="Manager_question",c="send",d=google_tag_manager["GTM-NZ54QL"].macro(8);ga("send","event",b,c,d);void 0!=a&&(a.reachGoal(b+"_"+c),a.reachGoal("for_all_goal"))}}))})}catch(b){};</script>  <script type="text/javascript" id="">try{$(document).on("click","#saveUserAndLinkFolio",function(){var a=0;0==$("#ADM_name")[0].value.length&&(a+=1);var b=/^([a-zA-Z0-9_\.\-])+@(([a-zA-Z0-9\-])+\.)+([a-zA-Z0-9]{2,4})+$/;0==b.test($("#ADM_email")[0].value)&&(a+=1);if(0<a)console.log("test");else{a=window["yaCounter"+Ya.Metrika.counters()[0].id];b="saveUserAndLinkFolio";var c="send",d=google_tag_manager["GTM-NZ54QL"].macro(9);ga("send","event",b,c,d);void 0!=a&&(a.reachGoal(b+"_"+c),a.reachGoal("for_all_goal"))}})}catch(a){};</script>  
+<script type="text/javascript" id="">(function(c,b,d){var a=document.createElement(b);a.src=d;a.type="text/javascript";a.async=!0;a.readyState?a.onreadystatechange=function(){if("loaded"===a.readyState||"complete"===a.readyState)a.onreadystatechange=null,c()}:a.onload=function(){c()};b=document.getElementsByTagName(b)[0];b.parentNode.insertBefore(a,b)})(function(){k50Tracker.init({siteId:18625354204530})},"script","https://k50-a.akamaihd.net/k50/k50tracker2.js");</script>
+<div id="cboxOverlay" style="display: none;"></div><div id="colorbox" class="" role="dialog" tabindex="-1" style="display: none;"><div id="cboxWrapper"><div><div id="cboxTopLeft" style="float: left;"></div><div id="cboxTopCenter" style="float: left;"></div><div id="cboxTopRight" style="float: left;"></div></div><div style="clear: left;"><div id="cboxMiddleLeft" style="float: left;"></div><div id="cboxContent" style="float: left;"><div id="cboxTitle" style="float: left;"></div><div id="cboxCurrent" style="float: left;"></div><button type="button" id="cboxPrevious"></button><button type="button" id="cboxNext"></button><button id="cboxSlideshow"></button><div id="cboxLoadingOverlay" style="float: left;"></div><div id="cboxLoadingGraphic" style="float: left;"></div></div><div id="cboxMiddleRight" style="float: left;"></div></div><div style="clear: left;"><div id="cboxBottomLeft" style="float: left;"></div><div id="cboxBottomCenter" style="float: left;"></div><div id="cboxBottomRight" style="float: left;"></div></div></div><div style="position: absolute; width: 9999px; visibility: hidden; display: none; max-width: none;"></div></div>

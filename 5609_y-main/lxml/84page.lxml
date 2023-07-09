@@ -1,0 +1,239 @@
+
+
+    <div id="outer" class="inner">
+        
+<header class="header">
+    <div class="container">
+        <div class="header__inner row">
+            <div class="logo col-6 col-lg-3 col-xl-4">
+                <span class="nav_menu" id="nav_dropdown"></span>
+                <a href="/" class="logo__item">
+                    <img src="/static/img/logo.png" alt="logo">
+                    <span class="logo__item__title"><span>Управляющая компания</span>Бизнес и<br>инвестиции</span>
+                </a>
+            </div>
+            <div class="info col-6 col-lg-9 col-xl-8">
+                <div class="menuTop">
+                    <ul>
+                        <li class="act">
+                            <a href="#" class="sub"><span>О компании</span></a>
+                            <ul>
+                                <li><a href="/about/">О нас</a></li>
+                                <li><a href="/membership/">Членство в организациях</a></li>
+                                <li><a href="/fundrules/">Фонды под управлением</a></li>
+                                <li><a href="/information/">Раскрытие информации</a></li>
+                                <li><a href="/yearly/">Бухгалтерская (финансовая) отчетность</a></li>
+                                <li><a href="/ifrs/">Финансовая отчетность по МСФО</a></li>
+                                <li><a href="/own-funds/">Расчет собственных средств</a></li>
+                                <li><a href="/audit/">Аудиторские заключения</a></li>
+                                <li><a href="/licenses/">Лицензии</a></li>
+                            </ul>
+                        </li>
+                        <li><a href="#" class="sub"><span>Клиентам</span></a>
+                            <ul>
+                                <li><a href="/infoforclients/">Информация для клиентов</a></li>
+                                <li><a href="/templates/">Образцы договоров</a></li>
+                                <li><a href="/documents/">О признании лица квалифицированным инвестором</a></li>
+                                <li><a href="/insider/">Перечень инсайдерской информации</a></li>
+                                <li><a href="/marketing/">Преимущества доверительного управления</a></li>
+                                <li><a href="/advices/">Советы инвесторам</a></li>
+                            </ul>
+                        </li>
+                        <li><a href="/news/"><span>Пресс-центр</span></a></li>
+                        <li><a href="/contact/"><span>Контакты</span></a></li>
+                    </ul>
+                </div>
+            </div>
+        </div>
+    </div>
+</header>
+<div class="menu menu-mob">
+    <div class="menu-main">
+        <div class="menu-main__links js-menu-main">
+            <a href="#" class="menu-main__link sub" data-submenu-id="1"><span>О компании</span></a>
+            <a href="#" class="menu-main__link sub" data-submenu-id="2"><span>Клиентам</span></a>
+            <a href="/news/" class="menu-main__link"><span>Пресс-центр</span></a>
+            <a href="/contact/" class="menu-main__link"><span>Контакты</span></a>
+        </div>
+    </div>
+    <div class="menu-sub js-menu-submenu">
+        <div class="menu-sub__header">
+            <div class="menu-sub__header__back"></div>
+            <div class="menu-sub__header__title"></div>
+        </div>
+        <div class="menu-sub__links" data-submenu-id="1">
+            <div class="menu-row">
+                <div class="menu-sub__link"><a href="/about/">О нас</a></div>
+                <div class="menu-sub__link"><a href="/membership/">Членство в организациях</a></div>
+                <div class="menu-sub__link"><a href="/fundrules/">Фонды под управлением</a></div>
+                <div class="menu-sub__link"><a href="/information/">Раскрытие информации</a></div>
+                <div class="menu-sub__link"><a href="/yearly/">Бухгалтерская (финансовая) отчетность</a></div>
+                <div class="menu-sub__link"><a href="/ifrs/">Финансовая отчетность по МСФО</a></div>
+                <div class="menu-sub__link"><a href="/own-funds/">Расчет собственных средств</a></div>
+                <div class="menu-sub__link"><a href="/audit/">Аудиторские заключения</a></div>
+                <div class="menu-sub__link"><a href="/licenses/">Лицензии</a></div>
+            </div>
+        </div>
+        <div class="menu-sub__links" data-submenu-id="2">
+            <div class="menu-row">
+                <div class="menu-sub__link"><a href="/infoforclients/">Информация для клиентов</a></div>
+                <div class="menu-sub__link"><a href="/templates/">Образцы договоров</a></div>
+                <div class="menu-sub__link"><a href="/documents/">О признании лица квалифицированным инвестором</a></div>
+                <div class="menu-sub__link"><a href="/insider/">Перечень инсайдерской информации</a></div>
+                <div class="menu-sub__link"><a href="/marketing/">Преимущества доверительного управления</a></div>
+                <div class="menu-sub__link"><a href="/advices/">Советы инвесторам</a></div>
+            </div>
+        </div>
+    </div>
+</div>
+
+        
+    <section id="body">
+        <div class="container">
+            <div class="page">
+                <div class="sidebar">
+                    <div class="leftMenu">
+    <ul>
+        
+            <li><a href="/about/">О нас</a></li>
+            <li><a href="/membership/">Членство в организациях</a></li>
+            <li><a href="/fundrules/">Фонды под управлением</a></li>
+            <li><a href="/information/">Раскрытие информации</a></li>
+            <li><a href="/yearly/">Бухгалтерская (финансовая) отчетность</a></li>
+            <li><a href="/ifrs/">Финансовая отчетность по МСФО</a></li>
+            <li class="act"><a href="/own-funds/">Расчет собственных средств</a></li>
+            <li><a href="/audit/">Аудиторские заключения</a></li>
+            <li><a href="/licenses/">Лицензии</a></li>
+        
+        
+    </ul>
+</div>
+                </div>
+                <div class="page__item">
+                    <div class="navigator">
+                        <a href="/">Главная</a><i></i><a href="/">О компании</a><i></i>Расчет собственных средств, осуществленный в соответствии с требованиями Банка России
+                    </div>
+                    <h1>Расчет собственных средств, осуществленный в соответствии с требованиями Банка России</h1>
+                    <div class="docs">
+                        
+                            <a href="/files/Расчет_собственных_средств__на_31.05.2023г.pdf" target="_blank" class="docs__item">
+                                <span class="title">Расчет размера собственных средств на 31.05.2023 г.</span>
+                                
+                                    (Опубликовано 15.06.2023:11.05, доступно в течение 36 месяцев с даты публикации)
+                                
+                            </a>
+                        
+                            <a href="/files/Расчет_собственных_средств__на_30.04.2023г.pdf" target="_blank" class="docs__item">
+                                <span class="title">Расчет размера собственных средств на 30.04.2023 г.</span>
+                                
+                                    (Опубликовано 17.05.2023:19.51, доступно в течение 36 месяцев с даты публикации)
+                                
+                            </a>
+                        
+                            <a href="/files/Расчет_собственных_средств__на_31.03.2023г.pdf" target="_blank" class="docs__item">
+                                <span class="title">Расчет размера собственных средств на 31.03.2023 г.</span>
+                                
+                                    (Опубликовано 13.04.2023:16.17, доступно в течение 36 месяцев с даты публикации)
+                                
+                            </a>
+                        
+                            <a href="/files/Расчет_собственных_средств__на_28.02.2023г.pdf" target="_blank" class="docs__item">
+                                <span class="title">Расчет размера собственных средств на 28.02.2023 г.</span>
+                                
+                                    (Опубликовано 13.03.2023:14.26, доступно в течение 36 месяцев с даты публикации)
+                                
+                            </a>
+                        
+                            <a href="/files/Расчет_собственных_средств__на_31.01.2023г.pdf" target="_blank" class="docs__item">
+                                <span class="title">Расчет размера собственных средств на 31.01.2023 г.</span>
+                                
+                                    (Опубликовано 13.02.2023:16.14, доступно в течение 36 месяцев с даты публикации)
+                                
+                            </a>
+                        
+                            <a href="/files/Расчет_собственных_средств__на_31.12.2022г.pdf" target="_blank" class="docs__item">
+                                <span class="title">Расчет размера собственных средств на 31.12.2022 г.</span>
+                                
+                                    (Опубликовано 20.01.2023:16.15, доступно в течение 36 месяцев с даты публикации)
+                                
+                            </a>
+                        
+                            <a href="/files/Расчет_собственных_средств__на_31.12.2021г_.pdf" target="_blank" class="docs__item">
+                                <span class="title">Расчет размера собственных средств на 31.12.2021 г.</span>
+                                
+                                    (Опубликовано 21.01.2022:15.29, доступно в течение 36 месяцев с даты публикации)
+                                
+                            </a>
+                        
+                            <a href="/files/Расчет_собственных_средств__на_30.11.2021г_.pdf" target="_blank" class="docs__item">
+                                <span class="title">Расчет размера собственных средств на 30.11.2021 г.</span>
+                                
+                                    (Опубликовано 13.12.2021:15.15, доступно в течение 36 месяцев с даты публикации)
+                                
+                            </a>
+                        
+                            <a href="/files/Расчет_собственных_средств__на_31.10.2021г_.pdf" target="_blank" class="docs__item">
+                                <span class="title">Расчет размера собственных средств на 31.10.2021 г.</span>
+                                
+                                    (Опубликовано 18.11.2021:17.33, доступно в течение 36 месяцев с даты публикации)
+                                
+                            </a>
+                        
+                            <a href="/files/Расчет_собственных_средств__на_30.09.2021г_.pdf" target="_blank" class="docs__item">
+                                <span class="title">Расчет размера собственных средств на 30.09.2021 г.</span>
+                                
+                                    (Опубликовано 19.10.2021:18.36, доступно в течение 36 месяцев с даты публикации)
+                                
+                            </a>
+                        
+                    </div>
+                    <nav aria-label="Page navigation">
+                        <ul class="pagination">
+                            
+                            <li class="page-item">
+                                <span class="page-link">Страница 1 из 3.</span>
+                            </li>
+                            
+                                <li class="page-item">
+                                    <a class="page-link" href="?page=2">Следующая</a>
+                                </li>
+                            
+                        </ul>
+                    </nav>
+                </div>
+            </div>
+        </div>
+    </section>
+
+        <footer class="footer">
+    <div class="container">
+        <div class="row">
+            <div class="col-6 col-lg-3">
+                <p>АО «Управляющая компания «Бизнес и инвестиции»</p>
+            </div>
+            <div class="col-6 col-lg-3">
+                <p>119019, Россия, город Москва, ул. Знаменка, д. 8/13, стр. 2, этаж 1, помещение 11</p>
+            </div>
+            <div class="col-6 col-lg-3">
+                <p>Телефон: <a href="tel:+74957809673">+7 495 780 96 73</a><br>
+                   Факс: +7 495 780 96 74</p>
+            </div>
+            <div class="col-6 col-lg-3">
+                <p>E-mail: <a href="mailto:info@ukbi.ru">info@ukbi.ru</a></p>
+            </div>
+        </div>
+        <div class="copyright">
+            <p>© 2003-2023 АО «Управляющая компания «Бизнес и инвестиции». Все права защищены</p>
+            <p>© <a href="https://infodesign.ru" target="_blank">Дизайн сайта ООО «Инфодизайн»</a> 2022
+            </p>
+        </div>
+    </div>
+</footer>
+<div id="toTop"><span class="fa-ico fi-up"></span></div>
+    </div>
+
+
+    <script src="/static/js/_vendor.js"></script>
+	<script src="/static/js/_app.js"></script>
+
+

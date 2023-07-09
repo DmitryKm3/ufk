@@ -1,0 +1,1853 @@
+
+
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'UA-114978385-1');
+</script>
+
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'UA-114978385-1');
+</script>
+
+<section class="inner-banner6 has-dot-pattern">
+	<div class="container">
+		<h2>Раскрытие информации</h2>
+	</div><!-- /.container -->
+</section><!-- /.inner-banner -->
+<section class="sec-pad faq-page sidebar-page">
+	<div class="container">
+		<div class="row">
+				<div class="sec-title text-center medium">
+					<h2>ОБЯЗАТЕЛЬНОЕ РАСКРЫТИЕ ИНФОРМАЦИИ</h2>
+					<span class="decor-line">
+						<span class="decor-line-inner"></span>
+					</span>
+				</div><!-- /.sec-title -->
+				<div class="panel-group accordion" id="accordion-one" role="tablist">
+					<div class="panel panel-default">						
+						<a role="button" data-toggle="collapse" data-parent="#accordion-one" href="#accordion-one-collapse-one" class="collapsed">Полное фирменное наименование</a>
+						<div id="accordion-one-collapse-one" class="panel-collapse collapse in" role="tabpanel">
+							<div class="inner-box">
+							    <p>Акционерное общество «Локо-Инвест Управление активами» (актуально с 14.05.2021 г.)</p>
+								<p>Акционерное общество Инвестиционная компания «ЛОКО-Инвест» (актуально до 13.05.2021 г.)</p>
+								<p>Информация актуализирована: 14.05.2021 г.</p>
+							</div>
+						</div>
+					</div>
+					<div class="panel panel-default">						
+						<a role="button" data-toggle="collapse" data-parent="#accordion-one" href="#accordion-one-collapse-two" class="collapsed">Сокращенное фирменное наименование</a>
+
+						<div id="accordion-one-collapse-two" class="panel-collapse collapse" role="tabpanel">
+							<div class="inner-box">
+							    <p>АО «Локо-Инвест УА» (актуально с 14.05.2021 г.)</p>
+								<p>АО ИК «ЛОКО-Инвест» (актуально до 13.05.2021 г.)</p>
+								<p>Информация актуализирована: 14.05.2021 г.</p>
+							</div>
+						</div>
+					</div>
+					<div class="panel panel-default">						
+						<a role="button" data-toggle="collapse" data-parent="#accordion-one" href="#accordion-one-collapse-three" class="collapsed">Полное фирменное наименование на английском языке</a>
+
+						<div id="accordion-one-collapse-three" class="panel-collapse collapse" role="tabpanel">
+							<div class="inner-box">
+							    <p>Locko-Invest Asset Management (актуально с 14.05.2021 г.)</p>
+								<p>IC «LOCKO-Invest» (актуально до 13.05.2021 г.)</p>
+								<p>Информация актуализирована: 14.05.2021 г.</p>
+							</div>
+						</div>
+					</div>
+					<div class="panel panel-default">						
+						<a role="button" data-toggle="collapse" data-parent="#accordion-one" href="#accordion-one-collapse-short-en-name" class="collapsed">Сокращенное фирменное наименование на английском языке</a>
+
+						<div id="accordion-one-collapse-short-en-name" class="panel-collapse collapse" role="tabpanel">
+							<div class="inner-box">
+							    <p>Locko-Invest AM (актуально с 14.05.2021 г.)</p>
+								<p>Дата раскрытия информации: 14.05.2021 г.</p>
+							</div>
+						</div>
+					</div>
+					<div class="panel panel-default">						
+						<a role="button" data-toggle="collapse" data-parent="#accordion-one" href="#accordion-one-collapse-threee" class="collapsed">ОГРН</a>
+
+						<div id="accordion-one-collapse-threee" class="panel-collapse collapse" role="tabpanel">
+							<div class="inner-box">
+								<p>ОГРН: 1097746445180, Дата присвоения ОГРН: 13.08.2009 г., Наименование регистрирующего органа: Межрайонная инспекция Федеральной налоговой службы № 46 по г. Москве</p>
+							</div>
+						</div>
+					</div>
+					<div class="panel panel-default">						
+						<a role="button" data-toggle="collapse" data-parent="#accordion-one" href="#accordion-one-collapse-four" class="collapsed">Идентификационный номер налогоплательщика (ИНН)</a>
+
+						<div id="accordion-one-collapse-four" class="panel-collapse collapse" role="tabpanel">
+							<div class="inner-box">
+								<p>7722691889</p>
+							</div>
+						</div>
+					</div>
+					<div class="panel panel-default">						
+						<a role="button" data-toggle="collapse" data-parent="#accordion-one" href="#accordion-one-collapse-four2" class="collapsed">Код причины постановки на учет (КПП)</a>
+
+						<div id="accordion-one-collapse-four2" class="panel-collapse collapse" role="tabpanel">
+							<div class="inner-box">
+								<p>КПП: 771401001</p>
+							</div>
+						</div>
+					</div>
+					<div class="panel panel-default">						
+						<a role="button" data-toggle="collapse" data-parent="#accordion-one" href="#accordion-one-collapse-five" class="collapsed">Адрес, указанный в ЕГРЮЛ</a>
+
+						<div id="accordion-one-collapse-five" class="panel-collapse collapse" role="tabpanel">
+							<div class="inner-box">
+								<p>125167, г. Москва, Ленинградский проспект, д. 39, строение 80, помещение 1.1, этаж 14</p>
+							</div>
+						</div>
+					</div>
+                    <div class="panel panel-default">						
+						<a role="button" data-toggle="collapse" data-parent="#accordion-one" href="#accordion-one-collapse-six" class="collapsed">Телефон</a>
+
+						<div id="accordion-one-collapse-six" class="panel-collapse collapse" role="tabpanel">
+							<div class="inner-box">
+								<p>+7 (495) 739-55-44</p>
+							</div>
+						</div>
+					</div>
+                    <div class="panel panel-default">						
+						<a role="button" data-toggle="collapse" data-parent="#accordion-one" href="#accordion-one-collapse-seven" class="collapsed">Факс</a>
+
+						<div id="accordion-one-collapse-seven" class="panel-collapse collapse" role="tabpanel">
+							<div class="inner-box">
+								<p>+7 (495) 773-95-55</p>
+							</div>
+						</div>
+					</div>
+					<div class="panel panel-default">						
+						<a role="button" data-toggle="collapse" data-parent="#accordion-one" href="#accordion-one-collapse-eight" class="collapsed">Адрес электронной почты</a>
+
+						<div id="accordion-one-collapse-eight" class="panel-collapse collapse" role="tabpanel">
+							<div class="inner-box">
+								<p>info@lockoinvest.ru</p>
+							</div>
+						</div>
+					</div>
+                    
+					<div class="panel panel-default">						
+						<a role="button" data-toggle="collapse" data-parent="#accordion-one" href="#accordion-one-collapse-eleven" class="collapsed">Персональные данные</a>
+
+						<div id="accordion-one-collapse-eleven" class="panel-collapse collapse" role="tabpanel">
+							<div class="inner-box">
+								<a href="/doc/Политика ПДн июнь 2023.pdf"><i class="fa fa-file-pdf-o"></i>Политика в отношении обработки персональных данных и реализации требований к защите персональных данных АО ИК «ЛОКО-Инвест» Дата раскрытия – 09.06.2023 г. актуально с 09.06.2023 г.<i class="fa fa-chevron-circle-right"></i></a>
+							</div>
+						</div>
+					</div>
+					<div class="panel panel-default">						
+						<a role="button" data-toggle="collapse" data-parent="#accordion-one" href="#accordion-one-collapse-thirteen" class="collapsed">Оценка условий труда</a>
+						
+						<div id="accordion-one-collapse-thirteen" class="panel-collapse collapse" role="tabpanel">
+							<div class="inner-box">
+								<a href="/doc/Оценка условий труда.pdf"><i class="fa fa-file-pdf-o"></i>Оценка условий труда для АО ИК «ЛОКО-Инвест» Дата раскрытия – 21.10.2020 г.<i class="fa fa-chevron-circle-right"></i></a>
+							</div>
+						</div>
+					</div>
+					<div class="panel panel-default">						
+						<a role="button" data-toggle="collapse" data-parent="#accordion-one" href="#accordion-one-collapse-twelve" class="collapsed">Защита информации</a>
+
+						<div id="accordion-one-collapse-twelve" class="panel-collapse collapse" role="tabpanel">
+							<div class="inner-box">
+								<p style="text-align: justify;">
+</p><div style="margin: 8px; text-align: center; font-style: bold">
+Рекомендации по соблюдению информационной безопасности клиентами 
+АО «Локо-Инвест УА» 
+</div>
+<div style="margin: 8px; text-align: justify;">
+В соответствии с требованиями Положения Банка России от 20.04.2021 № 757-П 
+"Об установлении обязательных для некредитных финансовых организаций требований к обеспечению защиты информации при осуществлении деятельности в сфере финансовых рынков в целях противодействия осуществлению незаконных финансовых операций" 
+АО «Локо-Инвест УА» доводит до вашего сведения основные риски и рекомендации по защите информации от воздействия программных кодов, приводящих к нарушению штатного функционирования средств вычислительной техники (вредоносный код), 
+в целях противодействия незаконным финансовым операциям, информацию о возможных рисках получения несанкционированного доступа к защищаемой информации с целью осуществления финансовых операций лицами, не обладающими правом их осуществления, 
+о мерах по предотвращению несанкционированного доступа к защищаемой информации, в том числе при утрате (потере, хищении) клиентом устройства, с использованием которого им совершались действия в целях осуществления финансовой операции, 
+контролю конфигурации устройства, с использованием которого клиентом совершаются действия в целях осуществления финансовой операции, и своевременному обнаружению воздействия вредоносного кода. 
+<br><b>Обращаем ваше внимание</b>, что при подозрении в компрометации ключей электронной подписи/шифрования или несанкционированном движении ценных бумаг, денежных средств или иных финансовых активов необходимо незамедлительно обращаться в <b>АО «Локо-Инвест УА</b>».
+</div>
+<div style="margin: 8px; text-align: justify;">
+В целях снижения риска реализации инцидентов информационной безопасности <b>АО «Локо-Инвест УА»</b> рекомендует соблюдать ряд профилактических мероприятий, направленных на повышение уровня информационной безопасности при использовании объектов информатизации:
+<br>Обеспечьте защиту устройства, с которого вы пользуетесь услугами <b>АО «Локо-Инвест УА»</b>, к таким мерам включая, но не ограничиваясь, могут быть отнесены: 
+<br>• Использование только лицензионного программного обеспечения, полученного из доверенных источников.
+<br>• Запрет на установку программ из непроверенных источников.
+<br>• Наличие средства защиты, таких как: антивирус (с регулярно и своевременно обновляемыми базами), персональный межсетевой экран.
+<br>• Настройка прав доступа к устройству с целью предотвращения несанкционированного доступа.
+<br>• Хранение, использование устройства с целью избежать рисков кражи и/или утери.
+<br>• Физический контроль с целью недопущения утери или кражи.
+<br>• Контроль конфигурации устройства.
+<br>• Контроль функционирования устройства с целью выявления несанкционированного доступа к устройству.
+<br>• Своевременные обновления операционной системы, особенно в части обновлений. безопасности. Имейте в виду, что обновления снижают риски заражения вредоносным кодом. Злоумышленники часто используют старые уязвимости.
+<br>• Активация парольной или иной защиты для доступа к устройству.
+</div>
+<div style="margin: 8px; text-align: justify;">
+При осуществлении финансовых операций следует принимать во внимание риск получения третьими лицами несанкционированного доступа к защищаемой информации с целью осуществления финансовых операций лицами, не обладающими правом их осуществления, например:
+<br> - кража пароля и идентификатора доступа или иных конфиденциальных данных;
+<br> - установка на устройство вредоносного кода, который позволит злоумышленникам осуществить операции от Вашего имени;
+<br> - использование злоумышленником утерянного или украденного телефона (SIM карты) для получения СМС кодов, которые могут применяться <b>АО «Локо-Инвест УА</b> в качестве дополнительной защиты для несанкционированных финансовых операций, что позволит им обойти защиту;
+<br> - перехват электронных сообщений и получения несанкционированного доступа к выпискам, отчетам и прочей финансовой информации, если Ваша электронная почта используется для информационного обмена с <b>АО «Локо-Инвест УА</b>. Или в случае получения доступа к вашей электронной почте, отправка сообщений от вашего имени в <b>АО «Локо-Инвест УА</b>.
+</div>
+<div style="margin: 8px; text-align: justify;">
+Обеспечьте конфиденциальность: 
+<br>• Храните в тайне аутентификационные/идентификационные данные и ключевую информацию, полученные от <b>АО «Локо-Инвест УА»</b>: 
+<br>&nbsp; - пароли, СМС коды, кодовые слова, ключи электронной подписи/шифрования, а в случае компрометации немедленно примите меры для смены и/или блокировки. 
+<br>• Соблюдайте принцип разумного раскрытия информации о номерах счетов, о ваших паспортных данных, о номерах кредитных и дебетовых карт, о CVC\CVV кодах, в случае если у вас запрашивают указанную информацию, в привязке к сервисам АО «Локо-Инвест УА» по возможности оцените ситуацию и уточните полномочия и процедуру через независимый канал, например, через телефон контакт центра.
+</div>
+<div style="margin: 8px; text-align: justify;">
+Проявляйте осторожность и предусмотрительность:
+<br>• Будьте осторожны при получении электронных писем со ссылками и вложениями, они могут привести к заражению вашего устройства вредоносным кодом. Вредоносный код, попав к вам через электронную почту или интернет ссылку на сайт, может получить доступ к любым данным и информационным системам на Вашем устройстве. 
+<br>• Внимательно проверяйте адресата, от которого пришло электронное письмо. Входящее электронное письмо может быть от злоумышленника, который маскируется под АО «Локо-Инвест УА» или иных доверенных лиц.
+<br>• Будьте осторожны при просмотре/работе с интернет сайтами, так как вредоносный код может быть загружен с сайта.
+<br>• Будьте осторожны с файлами из новых или не доверенных источников (в том числе, архивы с паролем, зашифрованные файлы/архивы, т.к. такого рода файлы не могут быть проверены антивирусным ПО в автоматическом режиме).
+<br>• Не заходите в системы удаленного доступа с не доверенных устройств, которые вы не контролируете. На таких устройствах может быть вредоносный код, собирающий пароли и идентификаторы доступа или способный подменить операцию.
+<br>• Следите за информацией в прессе о последних критичных уязвимостях и о вредоносном коде.
+<br>• Осуществляйте звонок в <b>АО «Локо-Инвест УА»</b> только по номеру телефона, указанному в договоре или на официальном сайте <b>АО «Локо-Инвест УА»</b> от лица <b>АО «Локо-Инвест УА»</b> вам поступил звонок с просьбой назвать ваше кодовое слово, и у Вас есть сомнения, что звонок от <b>АО «Локо-Инвест УА»</b>, вам необходимо самостоятельно перезвонить по номеру телефона, указанному в договоре или на официальном сайте <b>АО «Локо-Инвест УА»</b>.
+<br>• Если вы передаете ваш телефон и/или устройство другим пользователям, они могу установить на него вредоносный код, а в случае кражи или утери злоумышленники могут воспользоваться им для доступа к системам <b>АО «Локо-Инвест УА»</b>, которыми пользовались Вы. В связи с этим при утере, краже телефона (SIM карты), используемого для получения СМС кодов или доступа к системам <b>АО «Локо-Инвест УА»</b> с Мобильного приложения:
+<br>&nbsp;1) незамедлительно проинформировать <b>АО «Локо-Инвест УА»</b> по номеру телефона, указанному в договоре или на официальном сайте;
+<br>&nbsp;2) целесообразно по возможности оперативно с учетом прочих рисков и особенностей использования вашего телефона заблокировать и перевыпустить SIM карту, а также сменить пароль в Мобильном приложении.
+<br>• При подозрении на несанкционированный доступ и/или компрометацию устройства необходимо сменить пароль, воспользовавшись другим доверенным устройством и/или заблокировать доступ, обратившись в <b>АО «Локо-Инвест УА»</b>, в отношении ключевой информации, если это уместно для вашей услуги – отозвать скомпрометированный ключ электронной подписи/шифрования, в соответствии с правилами, отраженными в договоре, приложениях к договору и иных документах, связанных с исполнением договора.
+<br>• Помните, что наличие «эталонной» резервной копии может облегчить и ускорить восстановление вашего устройства. 
+<br>• Лучше всего использовать для финансовых операций отдельное, максимально защищенное устройство, доступ к которому есть только у Вас.
+<br>• Не сохранять пароли в памяти интернет-браузера, если к компьютеру есть доступ третьих лиц.
+<br>• Контролируйте свой телефон, используемый для получения СМС кодов. В случае выхода из строя SIM карты, незамедлительно обращайтесь к сотовому оператору для уточнения причин и восстановления связи.
+</div>
+<div style="margin: 8px; text-align: justify;">
+При работе с ключами электронной подписи необходимо: 
+<br>• Использовать для хранения ключей электронной подписи внешние носители, настоятельно рекомендуется использовать специальные защищенные носители ключевой информации (ключевые носители), например: e-token, смарт-карта и т.п.  
+<br>• Крайне внимательно относиться к ключевому носителю, не оставлять его без присмотра и не передавать третьим лицам, извлекать носители из компьютера, если они (ключевые носители) не используются для работы.
+<br>• Использовать сложные пароли для входа на устройство и для доступа к ключам электронной подписи/ключевым носителям, не хранить пароли открытом виде на компьютере/мобильном устройстве.
+</div>
+<div style="margin: 8px; text-align: justify;">
+При обмене информацией через сеть Интернет необходимо:  
+<br>• Не открывать письма и вложения к ним, полученные от неизвестных отправителей по электронной почте, не переходить по содержащимся в таких письмах ссылкам.
+<br>• Не вводить персональную информацию на подозрительных сайтах и других неизвестных вам ресурсах.
+<br>• Ограничить посещения сайтов сомнительного содержания.
+<br>• Не сохранять пароли в памяти интернет-браузера, если к компьютеру есть доступ третьих лиц.
+<br>• Не нажимать на баннеры и всплывающие окна, возникающие во время работы с сетью Интернет.
+<br>• Не открывать файлы полученные (скачанные) из неизвестных источников.
+</div>
+<p></p>
+							</div>
+						</div>
+					</div>
+				<div class="panel panel-default">						
+						<a role="button" data-toggle="collapse" data-parent="#accordion-one" href="#accordion-one-collapse-fourteen" class="collapsed">Информация о принятии решения об отказе от осуществления брокерской, дилерской и депозитарной деятельности и о направлении в Банк России заявления об аннулировании лицензии на осуществление указанных видов профессиональной деятельности на рынке ценных бумаг</a>
+
+						<div id="accordion-one-collapse-fourteen" class="panel-collapse collapse" role="tabpanel">
+							<div class="inner-box">
+								<p style="text-align: justify;">
+</p><div style="margin: 8px; text-align: justify;">
+Советом директоров АО ИК «ЛОКО-Инвест» 23.12.2020 г. принято решение: </div>
+<div style="margin: 8px; text-align: justify;">
+Отказаться от осуществления АО ИК «ЛОКО-Инвест» депозитарной деятельности. Направить в Банк России заявление об аннулировании лицензии профессионального участника рынка ценных бумаг № 045-14067-000100 от 24 октября 2018 года на осуществление депозитарной деятельности. 
+Отказаться от осуществления АО ИК «ЛОКО-Инвест» дилерской деятельности. Направить в Банк России заявление об аннулировании лицензии профессионального участника рынка ценных бумаг № 045-12743-010000 от 10 декабря 2009 года на осуществление дилерской деятельности. 
+Отказаться от осуществления АО ИК «ЛОКО-Инвест» брокерской деятельности. Направить в Банк России заявления об аннулировании лицензии профессионального участника рынка ценных бумаг № 045-12739-100000 от 10 декабря 2009 года на осуществление брокерской деятельности. 
+</div>
+<div style="margin: 8px; text-align: justify;">
+(Протокол № 68 заседания Совета директоров АО ИК «ЛОКО-Инвест» от 23.12.2020 г.).
+</div>
+<div style="margin: 8px; text-align: justify;">
+(Дата раскрытия информации 23.12.2020 г.).
+</div>
+<br>
+<br>
+<div style="margin: 8px; text-align: justify;">
+28.01.2021 г. АО ИК «ЛОКО-Инвест» направило в Банк России:
+<br> - заявление об аннулировании лицензии профессионального участника рынка ценных бумаг № 045-14067-000100 от 24 октября 2018 года на осуществление депозитарной деятельности;
+<br> - заявление об аннулировании лицензии профессионального участника рынка ценных бумаг № 045-12743-010000 от 10 декабря 2009 года на осуществление дилерской деятельности;
+<br> - заявление об аннулировании лицензии профессионального участника рынка ценных бумаг № 045-12739-100000 от 10 декабря 2009 года на осуществление брокерской деятельности.
+</div>
+<div style="margin: 8px; text-align: justify;">
+(Дата раскрытия информации 28.01.2021 г.).
+</div>
+<br>
+<br>
+<div style="margin: 8px; text-align: justify;">
+09.03.2021 г.
+<br> Банк России 09.03.2021 принял решение аннулировать лицензии профессионального участника рынка ценных бумаг на осуществление брокерской деятельности от 10.12.2009 № 045-12739-100000, 
+дилерской деятельности от 10.12.2009 № 045-12743-010000 и депозитарной деятельности от 24.10.2018 № 045-14067-000100, 
+предоставленные Акционерному обществу Инвестиционной компании «ЛОКО-Инвест» (ИНН 7722691889; ОГРН 1097746445180), на основании заявлений об отказе от лицензий.
+</div>
+<div style="margin: 8px; text-align: justify;">
+(Дата раскрытия информации 09.03.2021 г.).
+</div>
+<p></p>
+							</div>
+						</div>
+					</div>
+				</div>
+				
+
+
+				<div class="sec-title text-center medium">
+					<h2>ЛИЦЕНЗИИ</h2>
+					<span class="decor-line">
+						<span class="decor-line-inner"></span>
+					</span>
+				</div><!-- /.sec-title -->
+				
+				<div class="panel-group accordion" id="accordion-two" role="tablist">
+					<div class="panel panel-default">						
+						<a role="button" data-toggle="collapse" data-parent="#accordion-two" href="#accordion-two-collapse-three" class="collapsed">Лицензия профессионального участника рынка ценных бумаг на осуществление деятельности по управлению ценными бумагами</a>
+
+						<div id="accordion-two-collapse-three" class="panel-collapse collapse" role="tabpanel">
+							<div class="inner-box">
+								<p>  <a data-group="1" href="img/blog/12747.jpg" class="img-popup">№045-12747-001000 от 10 декабря 2009 г.</a>  Выдана Федеральной службой по финансовым рынкам</p>
+							</div>
+						</div>
+					</div>
+					<div class="panel panel-default">						
+						<a role="button" data-toggle="collapse" data-parent="#accordion-three" href="#accordion-three-collapse-four" class="collapsed">Лицензия управляющей компании на осуществление деятельности по управлению инвестиционными фондами, паевыми инвестиционными фондами и негосударственными пенсионными фондами</a>
+
+						<div id="accordion-three-collapse-four" class="panel-collapse collapse" role="tabpanel">
+							<div class="inner-box">
+								<p> <a data-group="1" href="img/blog/ЛицензияУК_2021.jpg" class="img-popup">№ 21-000-1-01050 от 27 сентября 2021 г.</a>  Выдана Банком России (решение № РБ-14/947 от 27.09.2021 г.)</p>
+							</div>
+						</div>
+					</div>
+				</div>
+
+				
+				<div class="sec-title  text-center medium">
+
+					<span class="decor-line">
+						<span class="decor-line-inner"></span>
+					</span>
+				</div><!-- /.sec-title -->
+
+				<div class="panel-group accordion" id="accordion-three" role="tablist">
+					<div class="panel panel-default">						
+						<a role="button" data-toggle="collapse" data-parent="#accordion-three" href="#accordion-three-collapse-one" class="collapsed">Информация о членстве в саморегулируемых организациях (СРО)</a>
+
+						<div id="accordion-three-collapse-one" class="panel-collapse collapse" role="tabpanel">
+							<div class="inner-box">
+								<p>Профессиональный участник рынка ценных бумаг - член НАУФОР (с 31.05.2023 г.)</p>
+								<p>Управляющая компания инвестиционных фондов, паевых инвестиционных фондов и негосударственных пенсионных фондов - член НАУФОР (с 24.03.2022 г.)</p>
+								<p>Профессиональный участник рынка ценных бумаг - член СРО НФА (до 18.05.2023 г.)</p>
+							</div>
+						</div>
+					</div>
+					<div class="panel panel-default">						
+						<a role="button" data-toggle="collapse" data-parent="#accordion-three" href="#accordion-three-collapse-two" class="collapsed">Информация о стандартах СРО, которыми руководствуется АО «Локо-Инвест УА» при осуществлении своей деятельности</a>
+
+						<div id="accordion-three-collapse-two" class="panel-collapse collapse" role="tabpanel">
+							<div class="inner-box">
+								<p><a href="https://naufor.ru/tree.asp?n=16043" target="_blank">НАУФОР стандарты для управляющих компаний</a></p>
+								<p><a href="https://naufor.ru/tree.asp?n=16042" target="_blank">НАУФОР стандарты для профучастников</a></p>
+							</div>
+						</div>
+					</div>
+					<div class="panel panel-default">						
+						<a role="button" data-toggle="collapse" data-parent="#accordion-three" href="#accordion-three-collapse-two2" class="collapsed">Информация, предоставляемая Управляющим в соответствии с "Базовым стандартом защиты прав и интересов физических и юридических лиц - получателей финансовых услуг, оказываемых членами саморегулируемых организаций в сфере финансового рынка, объединяющих управляющих" , утвержденным Банком России, Протоколом от 20.12.2018 г. N КФНП-39 </a>
+
+						<div id="accordion-three-collapse-two2" class="panel-collapse collapse" role="tabpanel">
+							<div class="inner-box">
+							    <a href="/doc/Финал_Информация предоставляемая Управляющим в соответствии с Базовым стандартом ДУ_01.06.2023.pdf"><i class="fa fa-file-pdf-o"></i> «Информация, предоставляемая Управляющим в соответствии с "Базовым стандартом защиты прав и интересов физических и юридических лиц - получателей финансовых услуг, оказываемых членами саморегулируемых организаций в сфере финансового рынка, объединяющих управляющих" , утвержденным Банком России, Протоколом от 20.12.2018 г., N КФНП-39» (Дата первичного раскрытия 28.11.2019 г., информация обновлена 01.06.2023 г., актуально с 01.06.2023 г.) <i class="fa fa-chevron-circle-right"></i></a>
+							</div>
+						</div>
+					</div>
+										
+					<div class="panel panel-default">						
+						<a role="button" data-toggle="collapse" data-parent="#accordion-three" href="#accordion-three-collapse-three" class="collapsed">Перечень филиалов, представительств и иных обособленных подразделений, осуществляющих профессиональную деятельность на рынке ценных бумаг, с указанием полного наименования, адреса, номера телефона, факса</a>
+
+						<div id="accordion-three-collapse-three" class="panel-collapse collapse" role="tabpanel">
+							<div class="inner-box">
+								<p>Отсутствуют</p>
+							</div>
+						</div>
+					</div>
+					<div class="panel panel-default">						
+						<a role="button" data-toggle="collapse" data-parent="#accordion-three" href="#accordion-three-collapse-four" class="collapsed">Информация о технических сбоях в автоматизированных системах, которые повлекли прекращение (ограничение) работоспособности таких систем, что привело к отсутствию возможности осуществления деятельности профессионального участника рынка ценных бумаг в отношении всех клиентов на протяжении одного часа подряд, с указанием даты, времени и причин прекращения с указанием даты, времени и причин прекращения осуществления деятельности</a>
+
+						<div id="accordion-three-collapse-four" class="panel-collapse collapse" role="tabpanel">
+							<div class="inner-box">
+								<p>Сбои отсутствуют</p>
+							</div>
+						</div>
+					</div>
+					<div class="panel panel-default">						
+						<a role="button" data-toggle="collapse" data-parent="#accordion-three" href="#accordion-three-collapse-five" class="collapsed">Информация о возобновлении работоспособности автоматизированных систем после сбоев, которые повлекли прекращение (ограничение) работоспособности таких систем, что привело к отсутствию возможности осуществления деятельности профессионального участника рынка ценных бумаг в отношении всех клиентов на протяжении одного часа подряд, с указанием даты, времени и причин прекращения осуществления деятельности</a>
+
+						<div id="accordion-three-collapse-five" class="panel-collapse collapse" role="tabpanel">
+							<div class="inner-box">
+								<p>Сбои отсутствуют</p>
+							</div>
+						</div>
+					</div>		
+                    					<div class="panel panel-default">						
+						<a role="button" data-toggle="collapse" data-parent="#accordion-three" href="#accordion-three-collapse-6" class="collapsed">Информация о существенных судебных спорах, решения по которым могут существенным образом повлиять на финансовое положение или хозяйственную деятельность</a>
+
+						<div id="accordion-three-collapse-6" class="panel-collapse collapse" role="tabpanel">
+							<div class="inner-box">
+								<p>Судебные споры отсутствуют</p>
+							</div>
+						</div>
+					</div>		
+                    							
+                    <div class="panel panel-default">						
+						<a role="button" data-toggle="collapse" data-parent="#accordion-three" href="#accordion-three-collapse-10" class="collapsed">Перечень участников торгов, которые в соответствии с договором, заключенным управляющим, совершают по поручению управляющего сделки, связанные с управлением ценными бумагами и денежными средствами клиента, с указанием полного фирменного наименования участника торгов</a>
+
+						<div id="accordion-three-collapse-10" class="panel-collapse collapse" role="tabpanel">
+							<div class="inner-box">
+								<p>Публичное акционерное общество «Сбербанк России» (счет закрыт 22.06.2022 г., информация обновлена 22.06.2022 г.)</p>
+								<p>Акционерное общество «Райффайзенбанк» (актуально с 20.06.2022 г., информация раскрыта 24.06.2022 г.)</p>
+								<p>Публичное акционерное общество «Совкомбанк» (актуально с 19.10.2022 г., информация раскрыта 20.10.2022 г.)</p>
+								<p>ЗАО “Ардшинбанк” (актуально с 17.08.2022 г., информация раскрыта 19.08.2022 г.)</p>
+							</div>
+						</div>
+					</div>		
+                    
+                    
+                                        					<div class="panel panel-default">						
+						<a role="button" data-toggle="collapse" data-parent="#accordion-three" href="#accordion-three-collapse-11" class="collapsed">Перечень организаций, в которых управляющему открыты лицевые счета (счета депо) доверительного управляющего</a>
+
+						<div id="accordion-three-collapse-11" class="panel-collapse collapse" role="tabpanel">
+							<div class="inner-box">
+								<p>Коммерческий Банк «ЛОКО-Банк» (акционерное общество)(счет закрыт 22.08.2018 г.)</p>
+								<p>Небанковская кредитная организация акционерное общество «Национальный расчетный депозитарий»</p>
+								<p>Публичное акционерное общество «Сбербанк России» (счет закрыт 22.06.2022 г., информация обновлена 22.06.2022 г.)</p>
+								<p>Акционерное общество «Райффайзенбанк» (актуально с 20.06.2022 г., информация раскрыта 24.06.2022 г.)</p>
+								<p>Публичное акционерное общество «Совкомбанк» (актуально с 19.10.2022 г., информация раскрыта 20.10.2022 г.)</p>
+								<p>ЗАО “Ардшинбанк” (актуально с 17.08.2022 г., информация раскрыта 19.08.2022 г.)</p>
+							</div>
+						</div>
+					</div>			             
+                                            
+                                            				<div class="panel panel-default">						
+						<a role="button" data-toggle="collapse" data-parent="#accordion-three" href="#accordion-three-collapse-12" class="collapsed">Перечень клиринговых организаций, с которыми управляющий заключил договоры об оказании клиринговых услуг</a>
+
+						<div id="accordion-three-collapse-12" class="panel-collapse collapse" role="tabpanel">
+							<div class="inner-box">
+								<p>Банк "Национальный Клиринговый Центр" (Акционерное общество)</p>
+								<p>Небанковская кредитная организация «Национальный расчетный депозитарий» (Акционерное общество)</p>
+							</div>
+						</div>
+					</div>			
+                        
+                                        					<div class="panel panel-default">						
+						<a role="button" data-toggle="collapse" data-parent="#accordion-three" href="#accordion-three-collapse-13" class="collapsed">Перечень организаторов торговли, в том числе иностранных, где управляющий является участником торгов, с указанием полного фирменного наименования организатора торговли</a>
+
+						<div id="accordion-three-collapse-13" class="panel-collapse collapse" role="tabpanel">
+							<div class="inner-box">
+								<p>ПАО Московская Биржа</p>
+
+							</div>
+						</div>
+					</div>
+					
+					<div class="panel panel-default">						
+						<a role="button" data-toggle="collapse" data-parent="#accordion-three" href="#accordion-three-collapse-88" class="collapsed">Используемые системы электронного документооборота</a>
+
+						<div id="accordion-three-collapse-88" class="panel-collapse collapse" role="tabpanel">
+							<div class="inner-box">
+								<p>1.	ЭДО ММВБ-РТС.<br>
+									Электронный документооборот в системе осуществляется в соответствии с Правилами электронного документооборота ПАО «Московская биржа». Ознакомиться с Правилами электронного документооборота можно на сайте Группы «Московская биржа» в сети Интернет <a target="_blank" href="https://www.moex.com/">www.moex.com</a></p>
+								<br>
+								<p>2.	ЭДО НКО АО НРД. <br>
+								Электронный документооборот в системе осуществляется в соответствии с Правилами электронного документооборота НКО АО НРД, являющимися приложением к Договору об обмене электронными документами. Ознакомиться с Правилами электронного документооборота можно на сайте НКО АО НРД в сети Интернет <a target="_blank" href="https://www.nsd.ru/">www.nsd.ru</a></p>
+								<br>
+								<p>3.	СЭД ИНФИНИТУМ "ФОТОН".<br>
+									Электронный документооборот в системе осуществляется в соответствии с Правилами  обмена электронными документами в системе электронного документооборота ООО «Технический центр «ИНФИНИТУМ». Ознакомиться с Правилами электронного документооборота можно на сайте группы компаний ИНФИНИТУМ в сети интернет <a target="_blank" href="https://specdep.ru/tehnologii/jelektronnyj-dokumentooborot/#documenti-ced">www.specdep.ru</a></p>
+								<br>
+							</div>
+						</div>
+					</div>
+					
+                  	</div>	           
+                                                        	
+                                                            
+                
+				<div class="sec-title text-center medium">
+					<h2>УПРАВЛЯЮЩАЯ КОМПАНИЯ</h2>
+					<span class="decor-line">
+						<span class="decor-line-inner"></span>
+					</span>
+				</div><!-- /.sec-title -->
+				
+				<div class="panel-group accordion" id="accordion-two" role="tablist">
+					<div class="panel panel-default">						
+						<a role="button" data-toggle="collapse" data-parent="#accordion-four" href="#accordion-four-collapse-five" class="collapsed">Информация в соответствии с Указанием № 5609-У.</a>
+
+						<div id="accordion-four-collapse-five" class="panel-collapse collapse" role="tabpanel">
+							<div class="inner-box">
+								<p></p><table class="MsoNormalTable" border="1" cellspacing="0" cellpadding="0" width="100%" style="width:100.0%;border-collapse:collapse;mso-yfti-tbllook:1184">
+ <thead>
+  <tr style="mso-yfti-irow:0;mso-yfti-firstrow:yes">
+   <td colspan="2" style="background:#EFF3F8;padding:9.75pt 20.25pt 9.75pt 20.25pt">
+   <p class="MsoNormal" style="margin-bottom:0cm;margin-bottom:.0001pt;
+   line-height:normal"><span style="font-size:12.0pt;mso-fareast-font-family:
+   &quot;Calibri&quot;;mso-bidi-font-family:&quot;Calibri&quot;;mso-fareast-language:
+   RU">Информация, подлежащая обязательному раскрытию<o:p></o:p></span></p>
+   </td>
+   <td width="136" style="width:95.55pt;background:#EFF3F8;padding:9.75pt 20.25pt 9.75pt 20.25pt">
+   <p class="MsoNormal" style="margin-bottom:0cm;margin-bottom:.0001pt;
+   line-height:normal"><span style="font-size:12.0pt;mso-fareast-font-family:
+   &quot;Calibri&quot;;mso-bidi-font-family:&quot;Calibri&quot;;mso-fareast-language:
+   RU">Дата публикации<o:p></o:p></span></p>
+   </td>
+   <td style="background:#EFF3F8;padding:9.75pt 20.25pt 9.75pt 20.25pt">
+   <p class="MsoNormal" align="center" style="margin-bottom:0cm;margin-bottom:.0001pt;
+   text-align:center;line-height:normal"><span style="font-size:12.0pt;
+   mso-fareast-font-family:&quot;Calibri&quot;;mso-bidi-font-family:&quot;Calibri&quot;;
+   mso-fareast-language:RU">Доступно до<o:p></o:p></span></p>
+   </td>
+  </tr>
+ </thead>
+ <tbody><tr style="mso-yfti-irow:1">
+  <td style="padding:9.75pt 20.25pt 9.75pt 20.25pt">
+  <p class="MsoNormal" style="margin-bottom:0cm;margin-bottom:.0001pt;line-height:
+  normal"><span style="font-size:12.0pt;mso-fareast-font-family:&quot;Calibri&quot;;
+  mso-bidi-font-family:&quot;Calibri&quot;;mso-fareast-language:RU">Полное
+  наименование (далее - наименование)<o:p></o:p></span></p>
+  </td>
+  <td style="padding:9.75pt 20.25pt 9.75pt 20.25pt">
+  <p class="MsoNormal" style="margin-bottom:0cm;margin-bottom:.0001pt;line-height:
+  normal"><span style="font-size:12.0pt;mso-fareast-font-family:&quot;Calibri&quot;;
+  mso-bidi-font-family:&quot;Calibri&quot;;mso-fareast-language:RU">Акционерное
+  общество «Локо-Инвест Управление активами»<o:p></o:p></span></p>
+  </td>
+  <td style="padding:9.75pt 20.25pt 9.75pt 20.25pt">
+  <p class="MsoNormal" align="center" style="margin-bottom:0cm;margin-bottom:.0001pt;
+  text-align:center;line-height:normal"><span style="font-size:12.0pt;
+  mso-fareast-font-family:&quot;Calibri&quot;;mso-bidi-font-family:&quot;Calibri&quot;;
+  mso-fareast-language:RU">01.10.2021<o:p></o:p></span></p>
+  </td>
+  <td style="padding:9.75pt 20.25pt 9.75pt 20.25pt">
+  <p class="MsoNormal" style="margin-bottom:0cm;margin-bottom:.0001pt;line-height:
+  normal"><span style="font-size:12.0pt;mso-fareast-font-family:&quot;Calibri&quot;;
+  mso-bidi-font-family:&quot;Calibri&quot;;mso-fareast-language:RU">раскрытия
+  измененной информации<o:p></o:p></span></p>
+  </td>
+ </tr>
+ <tr style="mso-yfti-irow:2">
+  <td style="padding:9.75pt 20.25pt 9.75pt 20.25pt">
+  <p class="MsoNormal" style="margin-bottom:0cm;margin-bottom:.0001pt;line-height:
+  normal"><span style="font-size:12.0pt;mso-fareast-font-family:&quot;Calibri&quot;;
+  mso-bidi-font-family:&quot;Calibri&quot;;mso-fareast-language:RU">Сокращенное
+  наименование<o:p></o:p></span></p>
+  </td>
+  <td style="padding:9.75pt 20.25pt 9.75pt 20.25pt">
+  <p class="MsoNormal" style="margin-bottom:0cm;margin-bottom:.0001pt;line-height:
+  normal"><span style="font-size:12.0pt;mso-fareast-font-family:&quot;Calibri&quot;;
+  mso-bidi-font-family:&quot;Calibri&quot;;mso-fareast-language:RU">АО
+  «Локо-Инвест УА»<o:p></o:p></span></p>
+  </td>
+  <td style="padding:9.75pt 20.25pt 9.75pt 20.25pt">
+  <p class="MsoNormal" align="center" style="margin-bottom:0cm;margin-bottom:.0001pt;
+  text-align:center;line-height:normal"><span style="font-size:12.0pt;
+  mso-fareast-font-family:&quot;Calibri&quot;;mso-bidi-font-family:&quot;Calibri&quot;;
+  mso-fareast-language:RU">01.10.2021<o:p></o:p></span></p>
+  </td>
+  <td style="padding:9.75pt 20.25pt 9.75pt 20.25pt">
+  <p class="MsoNormal" style="margin-bottom:0cm;margin-bottom:.0001pt;line-height:
+  normal"><span style="font-size:12.0pt;mso-fareast-font-family:&quot;Calibri&quot;;
+  mso-bidi-font-family:&quot;Calibri&quot;;mso-fareast-language:RU">раскрытия
+  измененной информации<o:p></o:p></span></p>
+  </td>
+ </tr>
+ <tr style="mso-yfti-irow:3">
+  <td style="padding:9.75pt 20.25pt 9.75pt 20.25pt">
+  <p class="MsoNormal" style="margin-bottom:0cm;margin-bottom:.0001pt;line-height:
+  normal"><span style="font-size:12.0pt;mso-fareast-font-family:&quot;Calibri&quot;;
+  mso-bidi-font-family:&quot;Calibri&quot;;mso-fareast-language:RU">Предшествующие&nbsp;наименования
+  с указанием даты изменения<o:p></o:p></span></p>
+  </td>
+  <td style="padding:9.75pt 20.25pt 9.75pt 20.25pt">
+  <p class="MsoNormal" style="margin-right:2.85pt;text-align:justify;text-autospace:
+  none"><span style="font-size:12.0pt;line-height:115%;mso-ascii-font-family:
+  Calibri;mso-fareast-font-family:&quot;Calibri&quot;;mso-hansi-font-family:Calibri;
+  mso-bidi-font-family:&quot;Calibri&quot;;mso-fareast-language:RU">С 20.07.2017
+  Закрытое акционерное общество Инвестиционная компания «ЛОКО-Инвест» изменило
+  наименование на Акционерное общество Инвестиционная компания «ЛОКО-Инвест».<o:p></o:p></span></p>
+  <p class="MsoNormal" style="margin-top:0cm;margin-right:2.85pt;margin-bottom:
+  10.0pt;margin-left:2.85pt;text-align:justify;text-autospace:none"><span style="font-size:12.0pt;line-height:115%;mso-ascii-font-family:Calibri;
+  mso-fareast-font-family:&quot;Calibri&quot;;mso-hansi-font-family:Calibri;
+  mso-bidi-font-family:&quot;Calibri&quot;;mso-fareast-language:RU"><o:p>&nbsp;</o:p></span></p>
+  <p class="MsoNormal" style="margin-top:0cm;margin-right:2.85pt;margin-bottom:
+  10.0pt;margin-left:2.85pt;text-align:justify;text-autospace:none"><span style="font-size:12.0pt;line-height:115%;mso-ascii-font-family:Calibri;
+  mso-fareast-font-family:&quot;Calibri&quot;;mso-hansi-font-family:Calibri;
+  mso-bidi-font-family:&quot;Calibri&quot;;mso-fareast-language:RU">С 14.05.2021
+  Акционерное общество Инвестиционная компания «ЛОКО-Инвест» изменило
+  наименование на Акционерное общество «Локо-Инвест Управление активами».<o:p></o:p></span></p>
+  </td>
+  <td style="padding:9.75pt 20.25pt 9.75pt 20.25pt">
+  <p class="MsoNormal" align="center" style="margin-bottom:0cm;margin-bottom:.0001pt;
+  text-align:center;line-height:normal"><span style="font-size:12.0pt;
+  mso-fareast-font-family:&quot;Calibri&quot;;mso-bidi-font-family:&quot;Calibri&quot;;
+  mso-fareast-language:RU">01.10.2021<o:p></o:p></span></p>
+  </td>
+  <td style="padding:9.75pt 20.25pt 9.75pt 20.25pt">
+  <p class="MsoNormal" style="margin-bottom:0cm;margin-bottom:.0001pt;line-height:
+  normal"><span style="font-size:12.0pt;mso-fareast-font-family:&quot;Calibri&quot;;
+  mso-bidi-font-family:&quot;Calibri&quot;;mso-fareast-language:RU">раскрытия
+  измененной информации<o:p></o:p></span></p>
+  </td>
+ </tr>
+ <tr style="mso-yfti-irow:4">
+  <td style="padding:9.75pt 20.25pt 9.75pt 20.25pt">
+  <p class="MsoNormal" style="margin-bottom:0cm;margin-bottom:.0001pt;line-height:
+  normal"><span style="font-size:12.0pt;mso-fareast-font-family:&quot;Calibri&quot;;
+  mso-bidi-font-family:&quot;Calibri&quot;;mso-fareast-language:RU">Номер и дата
+  выдачи лицензии управляющей компании на осуществление деятельности по
+  управлению инвестиционными фондами, паевыми инвестиционными фондами и
+  негосударственными пенсионными фондами<o:p></o:p></span></p>
+  </td>
+  <td style="padding:9.75pt 20.25pt 9.75pt 20.25pt">
+  <p class="MsoNormal" style="margin-bottom:0cm;margin-bottom:.0001pt;line-height:
+  normal"><span style="font-size:12.0pt;mso-fareast-font-family:&quot;Calibri&quot;;
+  mso-bidi-font-family:&quot;Calibri&quot;;color:#313131;mso-fareast-language:
+  RU">№ 21-000-1-01050 от 27 сентября 2021 г.</span><span style="font-size:
+  12.0pt;mso-fareast-font-family:&quot;Calibri&quot;;mso-bidi-font-family:&quot;Calibri&quot;;
+  mso-fareast-language:RU"><o:p></o:p></span></p>
+  </td>
+  <td style="padding:9.75pt 20.25pt 9.75pt 20.25pt">
+  <p class="MsoNormal" align="center" style="margin-bottom:0cm;margin-bottom:.0001pt;
+  text-align:center;line-height:normal"><span style="font-size:12.0pt;
+  mso-fareast-font-family:&quot;Calibri&quot;;mso-bidi-font-family:&quot;Calibri&quot;;
+  mso-fareast-language:RU">01.10.2021<o:p></o:p></span></p>
+  </td>
+  <td style="padding:9.75pt 20.25pt 9.75pt 20.25pt">
+  <p class="MsoNormal" style="margin-bottom:0cm;margin-bottom:.0001pt;line-height:
+  normal"><span style="font-size:12.0pt;mso-fareast-font-family:&quot;Calibri&quot;;
+  mso-bidi-font-family:&quot;Calibri&quot;;mso-fareast-language:RU">раскрытия
+  измененной информации<o:p></o:p></span></p>
+  </td>
+ </tr>
+ <tr style="mso-yfti-irow:5">
+  <td style="padding:9.75pt 20.25pt 9.75pt 20.25pt">
+  <p class="MsoNormal" style="margin-bottom:0cm;margin-bottom:.0001pt;line-height:
+  normal"><span style="font-size:12.0pt;mso-fareast-font-family:&quot;Calibri&quot;;
+  mso-bidi-font-family:&quot;Calibri&quot;;mso-fareast-language:RU">Основной
+  государственный регистрационный номер (ОГРН)<o:p></o:p></span></p>
+  </td>
+  <td style="padding:9.75pt 20.25pt 9.75pt 20.25pt">
+  <p class="MsoNormal" style="margin-bottom:0cm;margin-bottom:.0001pt;line-height:
+  normal"><span style="font-size:12.0pt;mso-fareast-font-family:&quot;Calibri&quot;;
+  mso-bidi-font-family:&quot;Calibri&quot;;mso-fareast-language:RU">1097746445180<o:p></o:p></span></p>
+  </td>
+  <td style="padding:9.75pt 20.25pt 9.75pt 20.25pt">
+  <p class="MsoNormal" align="center" style="margin-bottom:0cm;margin-bottom:.0001pt;
+  text-align:center;line-height:normal"><span style="font-size:12.0pt;
+  mso-fareast-font-family:&quot;Calibri&quot;;mso-bidi-font-family:&quot;Calibri&quot;;
+  mso-fareast-language:RU">01.10.2021<o:p></o:p></span></p>
+  </td>
+  <td style="padding:9.75pt 20.25pt 9.75pt 20.25pt">
+  <p class="MsoNormal" style="margin-bottom:0cm;margin-bottom:.0001pt;line-height:
+  normal"><span style="font-size:12.0pt;mso-fareast-font-family:&quot;Calibri&quot;;
+  mso-bidi-font-family:&quot;Calibri&quot;;mso-fareast-language:RU">раскрытия
+  измененной информации<o:p></o:p></span></p>
+  </td>
+ </tr>
+ <tr style="mso-yfti-irow:6">
+  <td style="padding:9.75pt 20.25pt 9.75pt 20.25pt">
+  <p class="MsoNormal" style="margin-bottom:0cm;margin-bottom:.0001pt;line-height:
+  normal"><span style="font-size:12.0pt;mso-fareast-font-family:&quot;Calibri&quot;;
+  mso-bidi-font-family:&quot;Calibri&quot;;mso-fareast-language:RU">Место
+  нахождения (адрес)<o:p></o:p></span></p>
+  </td>
+  <td style="padding:9.75pt 20.25pt 9.75pt 20.25pt">
+  <p class="MsoNormal" style="margin-bottom:0cm;margin-bottom:.0001pt;line-height:
+  normal"><span style="font-size:12.0pt;mso-fareast-font-family:&quot;Calibri&quot;;
+  mso-bidi-font-family:&quot;Calibri&quot;;mso-fareast-language:RU">125167, город
+  Москва, <span class="SpellE">пр-кт</span> Ленинградский, д. 39, стр.80, <span class="SpellE">помещ</span>. 1.1, этаж 14<o:p></o:p></span></p>
+  </td>
+  <td style="padding:9.75pt 20.25pt 9.75pt 20.25pt">
+  <p class="MsoNormal" align="center" style="margin-bottom:0cm;margin-bottom:.0001pt;
+  text-align:center;line-height:normal"><span style="font-size:12.0pt;
+  mso-fareast-font-family:&quot;Calibri&quot;;mso-bidi-font-family:&quot;Calibri&quot;;
+  mso-fareast-language:RU">01.10.2021<o:p></o:p></span></p>
+  </td>
+  <td style="padding:9.75pt 20.25pt 9.75pt 20.25pt">
+  <p class="MsoNormal" style="margin-bottom:0cm;margin-bottom:.0001pt;line-height:
+  normal"><span style="font-size:12.0pt;mso-fareast-font-family:&quot;Calibri&quot;;
+  mso-bidi-font-family:&quot;Calibri&quot;;mso-fareast-language:RU">раскрытия
+  измененной информации<o:p></o:p></span></p>
+  </td>
+ </tr>
+ <tr style="mso-yfti-irow:7">
+  <td style="padding:9.75pt 20.25pt 9.75pt 20.25pt">
+  <p class="MsoNormal" style="margin-bottom:0cm;margin-bottom:.0001pt;line-height:
+  normal"><span style="font-size:12.0pt;mso-fareast-font-family:&quot;Calibri&quot;;
+  mso-bidi-font-family:&quot;Calibri&quot;;mso-fareast-language:RU">Номер
+  телефона<o:p></o:p></span></p>
+  </td>
+  <td style="padding:9.75pt 20.25pt 9.75pt 20.25pt">
+  <p class="MsoNormal" style="margin-bottom:0cm;margin-bottom:.0001pt;line-height:
+  normal"><span style="font-size:12.0pt;mso-fareast-font-family:&quot;Calibri&quot;;
+  mso-bidi-font-family:&quot;Calibri&quot;;mso-fareast-language:RU">+7 (495)
+  739-55-44</span><span style="font-size:10.0pt;font-family:&quot;Palatino Linotype&quot;,serif;
+  mso-fareast-font-family:&quot;Calibri&quot;;mso-bidi-font-family:&quot;Calibri&quot;;
+  mso-fareast-language:RU;mso-bidi-font-weight:bold"><o:p></o:p></span></p>
+  </td>
+  <td style="padding:9.75pt 20.25pt 9.75pt 20.25pt">
+  <p class="MsoNormal" align="center" style="margin-bottom:0cm;margin-bottom:.0001pt;
+  text-align:center;line-height:normal"><span style="font-size:12.0pt;
+  mso-fareast-font-family:&quot;Calibri&quot;;mso-bidi-font-family:&quot;Calibri&quot;;
+  mso-fareast-language:RU">01.10.2021<o:p></o:p></span></p>
+  </td>
+  <td style="padding:9.75pt 20.25pt 9.75pt 20.25pt">
+  <p class="MsoNormal" style="margin-bottom:0cm;margin-bottom:.0001pt;line-height:
+  normal"><span style="font-size:12.0pt;mso-fareast-font-family:&quot;Calibri&quot;;
+  mso-bidi-font-family:&quot;Calibri&quot;;mso-fareast-language:RU">раскрытия
+  измененной информации<o:p></o:p></span></p>
+  </td>
+ </tr>
+ <tr style="mso-yfti-irow:8">
+  <td style="padding:9.75pt 20.25pt 9.75pt 20.25pt">
+  <p class="MsoNormal" style="margin-bottom:0cm;margin-bottom:.0001pt;line-height:
+  normal"><span style="font-size:12.0pt;mso-fareast-font-family:&quot;Calibri&quot;;
+  mso-bidi-font-family:&quot;Calibri&quot;;mso-fareast-language:RU">Адрес сайта<o:p></o:p></span></p>
+  </td>
+  <td style="padding:9.75pt 20.25pt 9.75pt 20.25pt">
+  <p class="MsoNormal" style="margin-bottom:0cm;margin-bottom:.0001pt;line-height:
+  normal"><a href="https://www.lockoinvest.ru">
+  <span style="font-size:12.0pt;mso-fareast-font-family:&quot;Calibri&quot;;
+  mso-bidi-font-family:&quot;Calibri&quot;;mso-fareast-language:RU">http://www.lockoinvest.ru/<o:p></o:p></span></a></p>
+  </td>
+  <td style="padding:9.75pt 20.25pt 9.75pt 20.25pt">
+  <p class="MsoNormal" align="center" style="margin-bottom:0cm;margin-bottom:.0001pt;
+  text-align:center;line-height:normal"><span style="font-size:12.0pt;
+  mso-fareast-font-family:&quot;Calibri&quot;;mso-bidi-font-family:&quot;Calibri&quot;;
+  mso-fareast-language:RU">01.10.2021<o:p></o:p></span></p>
+  </td>
+  <td style="padding:9.75pt 20.25pt 9.75pt 20.25pt">
+  <p class="MsoNormal" style="margin-bottom:0cm;margin-bottom:.0001pt;line-height:
+  normal"><span style="font-size:12.0pt;mso-fareast-font-family:&quot;Calibri&quot;;
+  mso-bidi-font-family:&quot;Calibri&quot;;mso-fareast-language:RU">раскрытия
+  измененной информации<o:p></o:p></span></p>
+  </td>
+ </tr>
+ 
+ 
+ 
+ <tr style="mso-yfti-irow:12;mso-yfti-lastrow:yes">
+  <td style="padding:9.75pt 20.25pt 9.75pt 20.25pt">
+  <p class="MsoNormal" style="margin-bottom:0cm;margin-bottom:.0001pt;line-height:
+  normal"><span style="font-size:12.0pt;mso-fareast-font-family:&quot;Calibri&quot;;
+  mso-bidi-font-family:&quot;Calibri&quot;;mso-fareast-language:RU">Термины и
+  определения<o:p></o:p></span></p>
+  </td>
+  <td style="padding:9.75pt 20.25pt 9.75pt 20.25pt">
+  <p class="MsoNormal" style="margin-bottom:0cm;margin-bottom:.0001pt;line-height:
+  normal"><a href="/doc/Термины и определения.pdf"><span style="font-size:12.0pt;mso-fareast-font-family:&quot;Calibri&quot;;mso-bidi-font-family:
+  &quot;Calibri&quot;;mso-fareast-language:RU">Термины и определения</span></a><span style="font-size:12.0pt;mso-fareast-font-family:&quot;Calibri&quot;;mso-bidi-font-family:
+  &quot;Calibri&quot;;mso-fareast-language:RU"><o:p></o:p></span></p>
+  </td>
+  <td style="padding:9.75pt 20.25pt 9.75pt 20.25pt">
+  <p class="MsoNormal" align="center" style="margin-bottom:0cm;margin-bottom:.0001pt;
+  text-align:center;line-height:normal"><span style="font-size:12.0pt;
+  mso-fareast-font-family:&quot;Calibri&quot;;mso-bidi-font-family:&quot;Calibri&quot;;
+  mso-fareast-language:RU">01.10.2021<o:p></o:p></span></p>
+  </td>
+  <td style="padding:9.75pt 20.25pt 9.75pt 20.25pt">
+  <p class="MsoNormal" style="margin-bottom:0cm;margin-bottom:.0001pt;line-height:
+  normal"><span style="font-size:12.0pt;mso-fareast-font-family:&quot;Calibri&quot;;
+  mso-bidi-font-family:&quot;Calibri&quot;;mso-fareast-language:RU">&nbsp;<o:p></o:p></span></p>
+  </td>
+ </tr>
+</tbody></table><p></p>
+							</div>
+						</div>
+					</div>
+				    <div class="panel panel-default">						
+						<a role="button" data-toggle="collapse" data-parent="#accordion-three" href="#accordion-three-collapse-333" class="collapsed">Информация, предоставляемая Управляющей компанией в соответствии с Базовым стандартом защиты прав и интересов физических и юридических лиц - получателей финансовых услуг, оказываемых членами саморегулируемых организаций в сфере финансового рынка, объединяющих акционерные инвестиционные фонды и управляющие компании инвестиционных фондов, паевых инвестиционных фондов и негосударственных пенсионных фондов", (утв. Банком России, протокол от 23.09.2021 N КФНП-33)</a>
+						<div id="accordion-three-collapse-333" class="panel-collapse collapse" role="tabpanel">
+							<div class="inner-box">
+								<a href="/doc/Финал_Информация предоставляемая УК в соответствии с Базовым стандартом_15.06.2023.pdf"><i class="fa fa-file-pdf-o"></i>Информация, предоставляемая Управляющей компанией в соответствии с Базовым стандартом <i class="fa fa-chevron-circle-right"></i></a>
+							</div>
+						</div>
+					</div>
+					
+				</div>
+
+				
+				<div class="sec-title  text-center medium">
+
+					
+				</div><!-- /.sec-title -->
+				<div class="sec-title text-center medium">
+					<h2>ИНВЕСТИЦИОННЫЙ СОВЕТНИК</h2>
+					<span class="decor-line">
+						<span class="decor-line-inner"></span>
+					</span>
+				 </div><!-- /.sec-title -->
+				
+			<div class="panel-group accordion" id="accordion-two" role="tablist">
+                    <div class="panel panel-default">						
+						<a role="button" data-toggle="collapse" data-parent="#accordion-three" href="#accordion-three-collapse-333" class="collapsed">Выписка из единого реестра Инвестиционных советников</a>
+						<div id="accordion-three-collapse-333" class="panel-collapse collapse" role="tabpanel">
+							<div class="inner-box">
+								<a href="/doc/ЭП_Выписка ЕРИС .pdf"><i class="fa fa-file-pdf-o"></i>Выписка из единого реестра Инвестиционных советников<i class="fa fa-chevron-circle-right"></i></a>
+							</div>
+						</div>
+					</div>
+				    <div class="panel panel-default">						
+						<a role="button" data-toggle="collapse" data-parent="#accordion-three" href="#accordion-three-collapse-444" class="collapsed">Информация, предоставляемая Инвестиционным советником соответствии с "Базовым стандартом защиты прав и интересов физических и юридических лиц - получателей финансовых услуг, оказываемых членами саморегулируемых организаций в сфере финансового рынка, объединяющих инвестиционных советников" (утв. Банком России, протокол от 08.12.2022 N КФНП-43)</a>
+						<div id="accordion-three-collapse-444" class="panel-collapse collapse" role="tabpanel">
+							<div class="inner-box">
+								<a href="/doc/Финал_Информация предоставляемая Инвестиционным советником с Базовым стандартом ИК_09.06.2023.pdf"><i class="fa fa-file-pdf-o"></i>Информация, предоставляемая Инвестиционным советником соответствии с "Базовым стандартом защиты прав и интересов физических и юридических лиц - получателей финансовых услуг, оказываемых членами саморегулируемых организаций в сфере финансового рынка, объединяющих инвестиционных советников" (утв. Банком России, протокол от 08.12.2022 N КФНП-43)(раскрыто 09.06.2023 г., актуально с 09.06.2023 г.)<i class="fa fa-chevron-circle-right"></i></a>
+							</div>
+						</div>
+					</div>
+					<div class="panel panel-default">						
+						<a role="button" data-toggle="collapse" data-parent="#accordion-three" href="#accordion-three-collapse-555" class="collapsed">Декларация о рисках при Инвестиционном консультировании</a>
+						<div id="accordion-three-collapse-555" class="panel-collapse collapse" role="tabpanel">
+							<div class="inner-box">
+								<a href="/doc/Декларация о рисках Инвестиционный советник.pdf"><i class="fa fa-file-pdf-o"></i>Декларация о рисках при Инвестиционном консультировании<i class="fa fa-chevron-circle-right"></i></a>
+							</div>
+						</div>
+					</div>
+            </div>
+			
+				<div class="sec-title text-center medium">
+					<h2>ФИНАНСОВАЯ ОТЧЕТНОСТЬ</h2>
+					<span class="decor-line">
+						<span class="decor-line-inner"></span>
+					</span>
+				</div><!-- /.sec-title --> 
+				<div class="panel-group accordion" id="accordion-5" role="tablist">	
+				<div class="panel panel-default">						
+				<a role="button" data-toggle="collapse" data-parent="#accordion-5" href="#accordion-three-collapse-18" class="collapsed">Годовая бухгалтерская (финансовая) отчётность, представленная в налоговый орган, и аудиторское заключение по ней</a>
+
+				<div class="single-sidebar">
+				
+					<div id="accordion-three-collapse-18" class="download-broucher collapse">
+					    <div class="text-box">
+					        <a href="/doc/АЗ+отчетность+сшив МСФО 2022 ЛОКО-Инвест УА.pdf"><i class="fa fa-file-pdf-o"></i>Ежегодная финансовая отчетность, подготовленная в соответствии с МСФО за 2022 год и аудиторское заключение (дата раскрытия 27.04.2023 г.)<i class="fa fa-chevron-circle-right"></i></a>
+						</div><!-- /.text-box -->
+					    <div class="text-box">
+					        <a href="/doc/Баланс 2022г.pdf"><i class="fa fa-file-pdf-o"></i>Бухгалтерский баланс на 31.12.2022 г. Дата раскрытия 16.03.2023 г.<i class="fa fa-chevron-circle-right"></i></a>
+						</div><!-- /.text-box -->
+						<div class="text-box">
+							<a href="/doc/ОФР 2022г.pdf"><i class="fa fa-file-pdf-o"></i>Отчет о финансовых результатах за 31.12.2022 г. Дата раскрытия 16.03.2023 г.<i class="fa fa-chevron-circle-right"></i></a>
+						</div><!-- /.text-box --><div class="text-box">
+							<a href="/doc/ДДС 2022г.pdf"><i class="fa fa-file-pdf-o"></i>Отчет о потоках денежных средств за 2022 г. Дата раскрытия 16.03.2023 г.<i class="fa fa-chevron-circle-right"></i></a>
+						</div><!-- /.text-box --><div class="text-box">
+							<a href="/doc/Капитал 2022г.pdf"><i class="fa fa-file-pdf-o"></i>Отчет об изменении собственного капитала за 2022 г. Дата раскрытия 16.03.2023 г.<i class="fa fa-chevron-circle-right"></i></a>
+						</div><!-- /.text-box --><div class="text-box">
+							<a href="/doc/Примечания 2022г.pdf"><i class="fa fa-file-pdf-o"></i>Примечания за 2022 г. Дата раскрытия 16.03.2023 г.<i class="fa fa-chevron-circle-right"></i></a>
+						</div><!-- /.text-box --><div class="text-box">
+							<a href="/doc/Заключение аудитора 2022г.pdf"><i class="fa fa-file-pdf-o"></i>Аудиторское заключение о бухгалтерской (финансовой) отчетности за 2022 г. Дата раскрытия 16.03.2023 г.<i class="fa fa-chevron-circle-right"></i></a>
+						</div><!-- /.text-box -->
+					    <div class="text-box">
+					        <a href="/doc/Бухгалтерский баланс на 31.12.2020.pdf"><i class="fa fa-file-pdf-o"></i>Бухгалтерский баланс на 31.12.2020 г. Дата раскрытия 17.03.2021 г.<i class="fa fa-chevron-circle-right"></i></a>
+						</div><!-- /.text-box --><div class="text-box">
+							<a href="/doc/Отчет о финансовых результатах за 2020 г.pdf"><i class="fa fa-file-pdf-o"></i>Отчет о финансовых результатах за 31.12.2020 г. Дата раскрытия 17.03.2021 г.<i class="fa fa-chevron-circle-right"></i></a>
+						</div><!-- /.text-box --><div class="text-box">
+							<a href="/doc/Отчет о потоках денежных средств за 2020 г.pdf"><i class="fa fa-file-pdf-o"></i>Отчет о потоках денежных средств за 2020 г. Дата раскрытия 17.03.2021 г.<i class="fa fa-chevron-circle-right"></i></a>
+						</div><!-- /.text-box --><div class="text-box">
+							<a href="/doc/Отчет об изменениях собственного капитала за 2020 г.pdf"><i class="fa fa-file-pdf-o"></i>Отчет об изменении собственного капитала за 2020 г. Дата раскрытия 17.03.2021 г.<i class="fa fa-chevron-circle-right"></i></a>
+						</div><!-- /.text-box --><div class="text-box">
+							<a href="/doc/Примечания.pdf"><i class="fa fa-file-pdf-o"></i>Примечания за 2020 г. Дата раскрытия 17.03.2021 г.<i class="fa fa-chevron-circle-right"></i></a>
+						</div><!-- /.text-box --><div class="text-box">
+							<a href="/doc/Аудиторское заключение по итогам 2020 года.pdf"><i class="fa fa-file-pdf-o"></i>Аудиторское заключение о бухгалтерской (финансовой) отчетности за 2020 г. Дата раскрытия 17.03.2021 г.<i class="fa fa-chevron-circle-right"></i></a>
+						</div><!-- /.text-box -->
+						<div class="text-box">
+							<a href="/doc/Бухгалтерский баланс на 31.12.2019 г..pdf"><i class="fa fa-file-pdf-o"></i>Бухгалтерский баланс на 31.12.2019 г.  Дата раскрытия	02.04.2020 г.<i class="fa fa-chevron-circle-right"></i></a>
+						</div><!-- /.text-box -->
+						<div class="text-box">
+							<a href="/doc/Отчет о финансовых результатах за 2019 г..pdf"><i class="fa fa-file-pdf-o"></i>Отчет о финансовых результатах за 31.12.2019 г.  Дата раскрытия  02.04.2020 г.<i class="fa fa-chevron-circle-right"></i></a>
+						</div><!-- /.text-box -->
+						<div class="text-box">
+							<a href="/doc/Отчет о потоках денежных средств за 2019 г..pdf"><i class="fa fa-file-pdf-o"></i>Отчет о потоках денежных средств за 2019 г.   Дата раскрытия	02.04.2020 г.<i class="fa fa-chevron-circle-right"></i></a>
+						</div><!-- /.text-box -->
+						<div class="text-box">
+							<a href="/doc/Отчет об изменениях собственного капитала за 2019 г..pdf"><i class="fa fa-file-pdf-o"></i>Отчет об изменении собственного капитала за 2019 г.  Дата раскрытия	02.04.2020 г.<i class="fa fa-chevron-circle-right"></i></a>
+						</div><!-- /.text-box -->
+						<div class="text-box">
+							<a href="/doc/Аудиторское заключение за 2019 год.pdf"><i class="fa fa-file-pdf-o"></i>Аудиторское заключение о бухгалтерской (финансовой) отчетности за 2019 г.  Дата раскрытия	02.04.2020 г.<i class="fa fa-chevron-circle-right"></i></a>
+						</div><!-- /.text-box -->
+						<div class="text-box">
+							<a href="/doc/Примечания.pdf"><i class="fa fa-file-pdf-o"></i>Примечания за 2019 г.   Дата раскрытия	02.04.2020 г.<i class="fa fa-chevron-circle-right"></i></a>
+						</div><!-- /.text-box -->
+						<div class="text-box">
+							<a href="/doc/2018otchet.pdf"><i class="fa fa-file-pdf-o"></i>Годовая бухгалтерская (финансовая) отчётность и аудиторское заключение по ней за 2018 год<i class="fa fa-chevron-circle-right"></i></a>
+						</div><!-- /.text-box -->
+						<div class="text-box">
+							<a href="/doc/2017otchet.pdf"><i class="fa fa-file-pdf-o"></i>Годовая бухгалтерская (финансовая) отчётность и аудиторское заключение по ней за 2017 год<i class="fa fa-chevron-circle-right"></i></a>
+						</div><!-- /.text-box -->
+						<div class="text-box">
+							<a href="/doc/2017protokol.pdf"><i class="fa fa-file-pdf-o"></i>Извещение о получении (2017 г.)<i class="fa fa-chevron-circle-right"></i></a>
+						</div><!-- /.text-box -->
+						<div class="text-box">
+							<a href="/doc/2016otchet.pdf"><i class="fa fa-file-pdf-o"></i>Годовая бухгалтерская (финансовая) отчётность и аудиторское заключение по ней за 2016 год<i class="fa fa-chevron-circle-right"></i></a>
+						</div><!-- /.text-box -->
+						<div class="text-box">
+							<a href="/doc/2016protokol.pdf"><i class="fa fa-file-pdf-o"></i>Протокол об отправке (2016 г.)<i class="fa fa-chevron-circle-right"></i></a>
+						</div><!-- /.text-box -->
+						<div class="text-box">
+							<a href="/doc/2015otchet.pdf"><i class="fa fa-file-pdf-o"></i>Годовая бухгалтерская (финансовая) отчётность и аудиторское заключение по ней за 2015 год<i class="fa fa-chevron-circle-right"></i></a>
+						</div><!-- /.text-box -->		
+						<div class="text-box">
+							<a href="/doc/2015protokol.pdf"><i class="fa fa-file-pdf-o"></i>Протокол об отправке (2015 г.)<i class="fa fa-chevron-circle-right"></i></a>
+						</div><!-- /.text-box -->							
+					</div>
+		
+				</div><!-- /.download-broucher -->
+				
+				</div><!-- /.single-sidebar -->
+				<div class="panel panel-default">						
+				<a role="button" data-toggle="collapse" data-parent="#accordion-5" href="#accordion-three-collapse-19" class="collapsed">Промежуточная бухгалтерская (финансовая) отчетность</a>
+
+				<div class="single-sidebar">
+				
+					<div id="accordion-three-collapse-19" class="download-broucher collapse">
+					    <div class="text-box">
+					        <a href="/doc/Бухгалтерский баланс на 31.03.2023.pdf"><i class="fa fa-file-pdf-o"></i>Бухгалтерский баланс на 31.03.2023 г. Дата раскрытия 27.04.2023 г.<i class="fa fa-chevron-circle-right"></i></a>
+						</div><!-- /.text-box -->
+						
+						<div class="text-box">
+					        <a href="/doc/Отчет о финансовых результатах на 31.03.2023.pdf"><i class="fa fa-file-pdf-o"></i>Отчет о финансовых результатах за 1 квартал 2023 г. Дата раскрытия 27.04.2023 г.<i class="fa fa-chevron-circle-right"></i></a>
+						</div><!-- /.text-box -->
+						
+						<div class="text-box">
+							<a href="/doc/Отчет о потоках денежных средств на 31.03.2023.pdf"><i class="fa fa-file-pdf-o"></i>Отчет о потоках денежных средств за 1 квартал 2023 г. Дата раскрытия 27.04.2023 г.<i class="fa fa-chevron-circle-right"></i></a>
+						</div><!-- /.text-box -->
+						
+						<div class="text-box">
+							<a href="/doc/Отчет об изменениях собственного капитала на 31.03.2023.pdf"><i class="fa fa-file-pdf-o"></i>Отчет об изменении собственного капитала за 1 квартал 2023 г. Дата раскрытия 27.04.2023 г.<i class="fa fa-chevron-circle-right"></i></a>
+						</div><!-- /.text-box -->
+					    <div class="text-box">
+					        <a href="/doc/Баланс 3 кв 2021.pdf"><i class="fa fa-file-pdf-o"></i>Бухгалтерский баланс на 30.09.2021 г. Дата раскрытия 28.10.2021 г.<i class="fa fa-chevron-circle-right"></i></a>
+						</div><!-- /.text-box -->
+						
+						<div class="text-box">
+					        <a href="/doc/ОФР 3 кв 2021.pdf"><i class="fa fa-file-pdf-o"></i>Отчет о финансовых результатах за 3 квартал 2021 г. Дата раскрытия 28.10.2021 г.<i class="fa fa-chevron-circle-right"></i></a>
+						</div><!-- /.text-box -->
+						
+						<div class="text-box">
+							<a href="/doc/ДДС 3 кв 2021.pdf"><i class="fa fa-file-pdf-o"></i>Отчет о потоках денежных средств за 3 квартал 2021 г. Дата раскрытия 28.10.2021 г.<i class="fa fa-chevron-circle-right"></i></a>
+						</div><!-- /.text-box -->
+						
+						<div class="text-box">
+							<a href="/doc/Капитал 3 кв 2021.pdf"><i class="fa fa-file-pdf-o"></i>Отчет об изменении собственного капитала за 3 квартал 2021 г. Дата раскрытия 28.10.2021 г.<i class="fa fa-chevron-circle-right"></i></a>
+						</div><!-- /.text-box -->
+						
+					    <div class="text-box">
+					        <a href="/doc/Баланс 2 кв 2021.pdf"><i class="fa fa-file-pdf-o"></i>Бухгалтерский баланс на 30.06.2021 г. Дата раскрытия 30.07.2021 г.<i class="fa fa-chevron-circle-right"></i></a>
+						</div><!-- /.text-box -->
+						
+						<div class="text-box">
+					        <a href="/doc/ОФР 2 кв 2021.pdf"><i class="fa fa-file-pdf-o"></i>Отчет о финансовых результатах за 2 квартал 2021 г. Дата раскрытия 30.07.2021 г.<i class="fa fa-chevron-circle-right"></i></a>
+						</div><!-- /.text-box -->
+						
+						<div class="text-box">
+							<a href="/doc/ДДс 2 кв.2021.pdf"><i class="fa fa-file-pdf-o"></i>Отчет о потоках денежных средств за 2 квартал 2021 г. Дата раскрытия 30.07.2021 г.<i class="fa fa-chevron-circle-right"></i></a>
+						</div><!-- /.text-box -->
+						
+						<div class="text-box">
+							<a href="/doc/Капитал 2кв 2021.pdf"><i class="fa fa-file-pdf-o"></i>Отчет об изменении собственного капитала за 2 квартал 2021 г. Дата раскрытия 30.07.2021 г.<i class="fa fa-chevron-circle-right"></i></a>
+						</div><!-- /.text-box -->
+					    
+					    <div class="text-box">
+					        <a href="/doc/Баланс 1 кв.2021.pdf"><i class="fa fa-file-pdf-o"></i>Бухгалтерский баланс на 31.03.2021 г. Дата раскрытия 30.04.2021 г.<i class="fa fa-chevron-circle-right"></i></a>
+						</div><!-- /.text-box -->
+						
+						<div class="text-box">
+					        <a href="/doc/ОФР 1 кв 2021.pdf"><i class="fa fa-file-pdf-o"></i>Отчет о финансовых результатах за 1 квартал 2021 г. Дата раскрытия 30.04.2021 г.<i class="fa fa-chevron-circle-right"></i></a>
+						</div><!-- /.text-box -->
+						
+						<div class="text-box">
+							<a href="/doc/ДДС 1 кв 2021.pdf"><i class="fa fa-file-pdf-o"></i>Отчет о потоках денежных средств за 1 квартал 2021 г. Дата раскрытия 30.04.2021 г.<i class="fa fa-chevron-circle-right"></i></a>
+						</div><!-- /.text-box -->
+						
+						<div class="text-box">
+							<a href="/doc/Отчет об изменениях собственного капитала 1 кв 2021.pdf"><i class="fa fa-file-pdf-o"></i>Отчет об изменении собственного капитала за 1 квартал 2021 г. Дата раскрытия 30.04.2021 г.<i class="fa fa-chevron-circle-right"></i></a>
+						</div><!-- /.text-box -->
+					    
+					    <div class="text-box">
+							<a href="/doc/Бухгалтерский баланс на 30.09.2020 г.pdf"><i class="fa fa-file-pdf-o"></i>Бухгалтерский баланс на 30.09.2020 г. Дата раскрытия 30.10.2020 г.<i class="fa fa-chevron-circle-right"></i></a>
+						</div><!-- /.text-box -->
+						
+						<div class="text-box">
+							<a href="/doc/Отчет о финансовых результатах за 3 квартал 2020 г.pdf"><i class="fa fa-file-pdf-o"></i>Отчет о финансовых результатах за 3 квартал 2020 г. Дата раскрытия 30.10.2020 г.<i class="fa fa-chevron-circle-right"></i></a>
+						</div><!-- /.text-box -->
+						
+						<div class="text-box">
+							<a href="/doc/Отчет об изменениях собственного капитала за 3 квартал 2020 г.pdf"><i class="fa fa-file-pdf-o"></i>Отчет об изменениях собственного капитала за 3 квартал 2020 г. Дата раскрытия 30.10.2020 г.<i class="fa fa-chevron-circle-right"></i></a>
+						</div><!-- /.text-box -->
+						
+						<div class="text-box">
+							<a href="/doc/Отчет о потоках денежных средств за 3 квартал 2020 г.pdf"><i class="fa fa-file-pdf-o"></i>Отчет о потоках денежных средств за 3 квартал 2020 г. Дата раскрытия 30.10.2020 г. <i class="fa fa-chevron-circle-right"></i></a>
+						</div><!-- /.text-box -->
+						
+						<div class="text-box">
+							<a href="/doc/Бухгалтерский баланс на 30.06.2020 г..pdf"><i class="fa fa-file-pdf-o"></i>Бухгалтерский баланс на 30.06.2020 г. Дата раскрытия 30.07.2020 г.<i class="fa fa-chevron-circle-right"></i></a>
+						</div><!-- /.text-box -->
+						
+						<div class="text-box">
+							<a href="/doc/Отчет о финансовых результатах за 2 квартал 2020 г..pdf"><i class="fa fa-file-pdf-o"></i>Отчет о финансовых результатах за 2 квартал 2020 г. Дата раскрытия 30.07.2020 г.<i class="fa fa-chevron-circle-right"></i></a>
+						</div><!-- /.text-box -->
+						
+						<div class="text-box">
+							<a href="/doc/Отчет об изменениях собственного капитала за 2 квартал 2020 г..pdf"><i class="fa fa-file-pdf-o"></i>Отчет об изменениях собственного капитала за 2 квартал 2020 г. Дата раскрытия 30.07.2020 г.<i class="fa fa-chevron-circle-right"></i></a>
+						</div><!-- /.text-box -->
+						
+						<div class="text-box">
+							<a href="/doc/Отчет о потоках денежных средств за 2 квартал 2020 г..pdf"><i class="fa fa-file-pdf-o"></i>Отчет о потоках денежных средств за 2 квартал 2020 г. Дата раскрытия 30.07.2020 г. <i class="fa fa-chevron-circle-right"></i></a>
+						</div><!-- /.text-box -->
+						
+						<div class="text-box">
+                            <a href="/doc/Бухгалтерский баланс на 31.03.2020 г..pdf"><i class="fa fa-file-pdf-o"></i>Бухгалтерский баланс на 31.03.2020 г. Дата раскрытия 30.04.2020 г.<i class="fa fa-chevron-circle-right"></i></a>
+                        </div><!-- /.text-box -->
+
+					    <div class="text-box">
+                            <a href="/doc/Отчет о финансовых результатах за 1 квартал 2020 г..pdf"><i class="fa fa-file-pdf-o"></i>Отчет о финансовых результатах за 1 квартал 2020 г. Дата раскрытия 30.04.2020 г.<i class="fa fa-chevron-circle-right"></i></a>
+                        </div><!-- /.text-box -->
+
+					    <div class="text-box">
+                            <a href="/doc/Отчет об изменениях собственного капитала за 1 квартал 2020 г..pdf"><i class="fa fa-file-pdf-o"></i>Отчет об изменениях собственного капитала за 1 квартал 2020 г. Дата раскрытия 30.04.2020 г.<i class="fa fa-chevron-circle-right"></i></a>
+                        </div><!-- /.text-box -->
+
+					    <div class="text-box">
+                            <a href="/doc/Отчет о потоках денежных средств за 1 квартал 2020 г..pdf"><i class="fa fa-file-pdf-o"></i>Отчет о потоках денежных средств за 1 квартал 2020 г. Дата раскрытия 30.04.2020 г.<i class="fa fa-chevron-circle-right"></i></a>
+                        </div><!-- /.text-box -->
+
+					    <div class="text-box">
+                            <a href="/doc/баланс на 30092019.pdf"><i class="fa fa-file-pdf-o"></i>Бухгалтерский баланс некредитной финансовой организации на 30.09.2019 г. (дата раскрытия информации 31.10.2019 г.)<i class="fa fa-chevron-circle-right"></i></a>
+                        </div><!-- /.text-box -->
+
+					    <div class="text-box">
+                            <a href="/doc/ОФР на 30092019.pdf"><i class="fa fa-file-pdf-o"></i>Отчет о финансовых результатах некредитной финансовой организации на 30.09.2019 г. (дата раскрытия информации 31.10.2019 г.)<i class="fa fa-chevron-circle-right"></i></a>
+                        </div><!-- /.text-box -->                        
+					    
+					    <div class="text-box">
+                            <a href="/doc/Бухгалтерский_баланс_некредитной_финансовой_организации_на_30.06.2019.pdf"><i class="fa fa-file-pdf-o"></i>Бухгалтерский баланс некредитной финансовой организации на 30.06.2019 г. (дата раскрытия информации 30.07.2019 г.)<i class="fa fa-chevron-circle-right"></i></a>
+                        </div><!-- /.text-box -->
+						
+						<div class="text-box">
+                            <a href="/doc/Отчет_о_финансовых_результатах_некредитной_финансовой_организации_на_30.06.2019.pdf"><i class="fa fa-file-pdf-o"></i>Отчет о финансовых результатах некредитной финансовой организации на 30.06.2019 г. (дата раскрытия информации 30.07.2019 г.)<i class="fa fa-chevron-circle-right"></i></a>
+                        </div><!-- /.text-box -->
+						
+                        <div class="text-box">
+                            <a href="/doc/Отчет_о_потоках_денежных_средств_некредитной_финансовой_организации_на_30.06.2019.pdf"><i class="fa fa-file-pdf-o"></i>Отчет о потоках денежных средств некредитной финансовой организации на 30.06.2019 г. (дата раскрытия информации 30.07.2019 г.)<i class="fa fa-chevron-circle-right"></i></a>
+                        </div><!-- /.text-box -->
+                        
+                        <div class="text-box">
+                            <a href="/doc/Отчет_об_изменениях_капитала_некредитной_финансовой_организации_на_30.06.2019.pdf"><i class="fa fa-file-pdf-o"></i>Отчет об изменениях капитала некредитной финансовой организации на 30.06.2019 г. (дата раскрытия информации 30.07.2019 г.)<i class="fa fa-chevron-circle-right"></i></a>
+                        </div><!-- /.text-box -->
+                        
+						<div class="text-box">
+							<a href="/doc/Бухгалтерский_баланс_некредитной_финансовой_организации_на_31.03.2019.pdf"><i class="fa fa-file-pdf-o"></i>Бухгалтерский баланс некредитной финансовой организации на 31.03.2019 г.<i class="fa fa-chevron-circle-right"></i></a>
+						</div><!-- /.text-box -->					
+						<div class="text-box">
+							<a href="/doc/Отчет_о_финансовых_результатах_некредитной_финансовой_организации_на_31.03.2019.pdf"><i class="fa fa-file-pdf-o"></i>Отчет о финансовых результатах некредитной финансовой организации на 31.03.2019 г.<i class="fa fa-chevron-circle-right"></i></a>
+						</div><!-- /.text-box -->					
+						<div class="text-box">
+							<a href="/doc/Отчет_о_потоках_денежных_средств_некредитной_финансовой_организации_на_31.03.2019.pdf"><i class="fa fa-file-pdf-o"></i>Отчет о потоках денежных средств некредитной финансовой организации на 31.03.2019 г.<i class="fa fa-chevron-circle-right"></i></a>
+						</div><!-- /.text-box -->					
+						<div class="text-box">
+							<a href="/doc/Отчет_об_изменениях_капитала_некредитной_финансовой_организации_на_31.03.2019.pdf"><i class="fa fa-file-pdf-o"></i>Отчет об изменениях капитала некредитной финансовой организации на 31.03.2019 г.<i class="fa fa-chevron-circle-right"></i></a>
+						</div><!-- /.text-box -->										
+						<div class="text-box">
+							<a href="/doc/BalanceIII2018.pdf"><i class="fa fa-file-pdf-o"></i>Бухгалтерский баланс за 3 кв. 2018 г.<i class="fa fa-chevron-circle-right"></i></a>
+						</div><!-- /.text-box -->			
+						<div class="text-box">
+							<a href="/doc/finres3kv2018.pdf"><i class="fa fa-file-pdf-o"></i>Отчет о финансовых результатах за 3 кв. 2018 г.<i class="fa fa-chevron-circle-right"></i></a>
+						</div><!-- /.text-box -->					
+						<div class="text-box">
+							<a href="/doc/BalanceII2018.pdf"><i class="fa fa-file-pdf-o"></i>Бухгалтерский баланс за 2 кв. 2018 г.<i class="fa fa-chevron-circle-right"></i></a>
+						</div><!-- /.text-box -->			
+						<div class="text-box">
+							<a href="/doc/finres2kv2018.pdf"><i class="fa fa-file-pdf-o"></i>Отчет о финансовых результатах за 2 кв. 2018 г.<i class="fa fa-chevron-circle-right"></i></a>
+						</div><!-- /.text-box -->						
+						<div class="text-box">
+							<a href="/doc/BalanceI2018.pdf"><i class="fa fa-file-pdf-o"></i>Бухгалтерский баланс за 1 кв. 2018 г., уточнено 01.08.2018 г.<i class="fa fa-chevron-circle-right"></i></a>
+						</div><!-- /.text-box -->
+						<div class="text-box">
+							<a href="/doc/finres1kv2018.pdf"><i class="fa fa-file-pdf-o"></i>Отчет о финансовых результатах за 1 кв. 2018 г., уточнено 01.08.2018 г.<i class="fa fa-chevron-circle-right"></i></a>
+						</div><!-- /.text-box -->
+						<div class="text-box">
+							<a href="/doc/BalanceIII2017.pdf"><i class="fa fa-file-pdf-o"></i>Бухгалтерский баланс за 3 кв. 2017 г.<i class="fa fa-chevron-circle-right"></i></a>
+						</div><!-- /.text-box -->
+						<div class="text-box">
+							<a href="/doc/finres3kv2017.pdf"><i class="fa fa-file-pdf-o"></i>Отчет о финансовых результатах за 3 кв. 2017 г.<i class="fa fa-chevron-circle-right"></i></a>
+						</div><!-- /.text-box -->				
+						<div class="text-box">
+							<a href="/doc/BalanceII2017.pdf"><i class="fa fa-file-pdf-o"></i>Бухгалтерский баланс за 2 кв. 2017 г.<i class="fa fa-chevron-circle-right"></i></a>
+						</div><!-- /.text-box -->
+						<div class="text-box">
+							<a href="/doc/finres2kv2017.pdf"><i class="fa fa-file-pdf-o"></i>Отчет о финансовых результатах за 2 кв. 2017 г.<i class="fa fa-chevron-circle-right"></i></a>
+						</div><!-- /.text-box -->
+						<div class="text-box">
+							<a href="/doc/BalanceI2017.pdf"><i class="fa fa-file-pdf-o"></i>Бухгалтерский баланс за 1 кв. 2017 г.<i class="fa fa-chevron-circle-right"></i></a>
+						</div><!-- /.text-box -->
+						<div class="text-box">
+							<a href="/doc/finres1kv2017.pdf"><i class="fa fa-file-pdf-o"></i>Отчет о финансовых результатах за 1 кв. 2017 г.<i class="fa fa-chevron-circle-right"></i></a>
+						</div><!-- /.text-box -->
+						<div class="text-box">
+							<a href="/doc/BalanceIII2016.pdf"><i class="fa fa-file-pdf-o"></i>Бухгалтерский баланс за 3 кв. 2016 г.<i class="fa fa-chevron-circle-right"></i></a>
+						</div><!-- /.text-box -->
+						<div class="text-box">
+							<a href="/doc/finres3kv.pdf"><i class="fa fa-file-pdf-o"></i>Отчет о финансовых результатах за 3 кв. 2016 г.<i class="fa fa-chevron-circle-right"></i></a>
+						</div><!-- /.text-box -->
+						<div class="text-box">
+							<a href="/doc/BalanceII2016.pdf"><i class="fa fa-file-pdf-o"></i>Бухгалтерский баланс за 2 кв. 2016 г.<i class="fa fa-chevron-circle-right"></i></a>
+						</div><!-- /.text-box -->
+						<div class="text-box">
+							<a href="/doc/finres2kv.pdf"><i class="fa fa-file-pdf-o"></i>Отчет о финансовых результатах за 2 кв. 2016 г.<i class="fa fa-chevron-circle-right"></i></a>
+						</div><!-- /.text-box -->
+						<div class="text-box">
+							<a href="/doc/BalanceI2016.pdf"><i class="fa fa-file-pdf-o"></i>Бухгалтерский баланс за 1 кв. 2016 г.<i class="fa fa-chevron-circle-right"></i></a>
+						</div><!-- /.text-box -->
+						<div class="text-box">
+							<a href="/doc/finres1kv.pdf"><i class="fa fa-file-pdf-o"></i>Отчет о финансовых результатах за 1 кв. 2016 г.<i class="fa fa-chevron-circle-right"></i></a>
+						</div><!-- /.text-box -->
+					</div>
+		
+				
+				</div><!-- /.download-broucher -->
+				
+				</div><!-- /.single-sidebar -->
+                </div>
+				
+				<div class="sec-title text-center medium">
+					<h2>ДОВЕРИТЕЛЬНОЕ УПРАВЛЕНИЕ</h2>
+					<span class="decor-line">
+						<span class="decor-line-inner"></span>
+					</span>
+				</div><!-- /.sec-title -->
+               <div class="panel-group accordion" id="accordion-80" role="tablist">
+				<div class="single-sidebar">
+					<div class="download-broucher ">
+					    <div class="text-box">
+							<a href="/doc/Регламент_ДУ_апрель_2023.pdf"><i class="fa fa-file-pdf-o"></i>Регламент доверительного управления ценными бумагами (Дата раскрытия – 04.04.2023 г., актуально с 07.04.2023 г.) <i class="fa fa-chevron-circle-right"></i></a>
+						</div><!-- /.text-box -->
+					    <div class="text-box">
+							<a href="/doc/Регламент_ДУ_декабрь_2022.pdf"><i class="fa fa-file-pdf-o"></i>Регламент доверительного управления ценными бумагами (Дата раскрытия – 02.12.2022 г., актуально с 07.12.2022 г. по 06.04.2023 г.) <i class="fa fa-chevron-circle-right"></i></a>
+						</div><!-- /.text-box -->
+						<div class="text-box">
+							<a href="/doc/reglament_du_dec_2019.pdf"><i class="fa fa-file-pdf-o"></i>Регламент доверительного управления ценными бумагами (Дата раскрытия – 28.11.2019 г., актуально с 01.12.2019 г. по 06.12.2022 г.) <i class="fa fa-chevron-circle-right"></i></a>
+						</div><!-- /.text-box -->					    
+						<div class="text-box">
+							<a href="/doc/reglament_du_aug_2019.pdf"><i class="fa fa-file-pdf-o"></i>Регламент доверительного управления ценными бумагами (Дата раскрытия - 07.08.2019 г., актуально с 12.08.2019 г. по 30.11.2019 г.) <i class="fa fa-chevron-circle-right"></i></a>
+						</div><!-- /.text-box -->
+						<div class="text-box">
+							<a href="/doc/reglament_DU_08072019.pdf"><i class="fa fa-file-pdf-o"></i>Регламент доверительного управления ценными бумагами (Дата раскрытия - 03.07.2019 г., актуально с 08.07.2019 г. по 11.08.2019 г.) <i class="fa fa-chevron-circle-right"></i></a>
+						</div><!-- /.text-box -->						
+						<div class="text-box">
+							<a href="/doc/reglament_DU_01052019.pdf"><i class="fa fa-file-pdf-o"></i>Регламент доверительного управления ценными бумагами (Дата раскрытия - 26.04.2019 г., актуально с 01.05.201 г.9 по 07.07.2019 г.) <i class="fa fa-chevron-circle-right"></i></a>
+						</div><!-- /.text-box -->					
+						<div class="text-box">
+							<a href="/doc/Порядок определения инвестиционного профиля_2020-02-28.pdf"><i class="fa fa-file-pdf-o"></i>Порядок определения инвестиционного профиля клиента (Дата раскрытия - 04.03.2020 г., актуально с 16.03.2020 г.) <i class="fa fa-chevron-circle-right"></i></a>
+						</div><!-- /.text-box -->
+						<div class="text-box">
+						    <a href="/doc/investprofil-15112018.pdf"><i class="fa fa-file-pdf-o"></i>Порядок определения инвестиционного профиля клиента (Дата раскрытия - 02.11.2018 г., актуально с 15.11.2018 г. по 15.03.2020 г.) <i class="fa fa-chevron-circle-right"></i></a>
+						</div><!-- /.text-box -->
+						<div class="text-box">
+							<a href="/doc/investprofil-01112017.pdf"><i class="fa fa-file-pdf-o"></i>Порядок определения инвестиционного профиля клиента (Дата раскрытия - 20.10.2017 г., актуально с 01.11.2017 г. по 14.11.2018 г.) <i class="fa fa-chevron-circle-right"></i></a>
+						</div><!-- /.text-box -->
+						<div class="text-box">
+							<a href="/doc/investprofil.pdf"><i class="fa fa-file-pdf-o"></i>Порядок определения инвестиционного профиля клиента (Дата раскрытия - 01.02.2017 г., актуально с 12.02.2017 г. по 31.10.2017 г.) <i class="fa fa-chevron-circle-right"></i></a>
+						</div><!-- /.text-box -->
+						<div class="text-box">
+							<a href="/doc/investprofil-26042016.pdf"><i class="fa fa-file-pdf-o"></i>Порядок определения инвестиционного профиля клиента (Дата раскрытия - 26.04.2016 г., актуально с 07.05.2016 г. по 11.02.2017 г.) <i class="fa fa-chevron-circle-right"></i></a>
+						</div><!-- /.text-box -->
+                        <div class="text-box">
+							<a href="/doc/pravapocb2.pdf"><i class="fa fa-file-pdf-o"></i>Политика осуществления прав по ценным бумагам при осуществлении деятельности по управлению ценными бумагами» (Дата раскрытия - 14.11.2019 г., актуально с 25.11.2019 г.)  <i class="fa fa-chevron-circle-right"></i></a>
+						</div><!-- /.text-box -->							
+						<div class="text-box">
+							<a href="/doc/pravapocb.pdf"><i class="fa fa-file-pdf-o"></i>Политика осуществления прав по ценным бумагам при осуществлении деятельности по управлению ценными бумагами (Дата раскрытия - 26.04.2017 г., актуально с 07.05.2016 г. по 24.11.2019 г.) <i class="fa fa-chevron-circle-right"></i></a>
+						</div><!-- /.text-box -->
+						<div class="text-box">
+							<a href="/doc/pravilaconflictov.pdf"><i class="fa fa-file-pdf-o"></i>Правила выявления и контроля конфликта интересов, а также предотвращения его последствий (Дата раскрытия - 26.04.2016 г., актуально с 07.05.2016 г.) <i class="fa fa-chevron-circle-right"></i></a>
+						</div><!-- /.text-box -->	
+						<div class="text-box">
+							<a href="/doc/perechennedopusheniu.pdf"><i class="fa fa-file-pdf-o"></i>Перечень мер по недопущению установления приоритета интересов одного или нескольких клиентов над другими клиентами (Дата раскрытия - 26.04.2016 г., актуально с 07.05.2016 г.)<i class="fa fa-chevron-circle-right"></i></a>
+						</div><!-- /.text-box -->
+						<div class="text-box">
+							<a href="/doc/Методика оценки стоимости объектов доверительного управления с 14.04.2023.pdf"><i class="fa fa-file-pdf-o"></i>Методика оценки стоимости объектов доверительного управления (Дата раскрытия - 03.04.2023 г., актуально с 14.04.2023 г.)<i class="fa fa-chevron-circle-right"></i></a>
+						</div><!-- /.text-box -->
+						<div class="text-box">
+							<a href="/doc/Методика оценки стоимости объектов ду_декабрь 2022.pdf"><i class="fa fa-file-pdf-o"></i>Методика оценки стоимости объектов доверительного управления (Дата раскрытия - 24.11.2022 г., актуально с 05.12.2022 г. по 13.04.2023 г.)<i class="fa fa-chevron-circle-right"></i></a>
+						</div><!-- /.text-box -->
+						<div class="text-box">
+							<a href="/doc/Методика оценки стоимости объектов ду_май_2022.pdf"><i class="fa fa-file-pdf-o"></i>Методика оценки стоимости объектов доверительного управления (Дата раскрытия - 29.04.2022 г., актуально с 11.05.2022 г. по 04.12.2022 г.)<i class="fa fa-chevron-circle-right"></i></a>
+						</div><!-- /.text-box -->
+                        <div class="text-box">
+							<a href="/doc/Методика оценки стоимости объектов ду_март_2022.pdf"><i class="fa fa-file-pdf-o"></i>Методика оценки стоимости объектов доверительного управления (Дата раскрытия - 28.03.2022 г., актуально с 08.04.2022 г. по 10.05.2022 г.)<i class="fa fa-chevron-circle-right"></i></a>
+						</div><!-- /.text-box -->						
+						<div class="text-box">
+							<a href="/doc/Методика оценки стоимости объектов ду_ноябрь_2020.pdf"><i class="fa fa-file-pdf-o"></i>Методика оценки стоимости объектов доверительного управления (Дата раскрытия - 10.11.2020 г., актуально с 23.11.2020 г. по 07.04.2022 г.)<i class="fa fa-chevron-circle-right"></i></a>
+						</div><!-- /.text-box -->
+						<div class="text-box">
+							<a href="/doc/metocenki2.pdf"><i class="fa fa-file-pdf-o"></i>Методика оценки стоимости объектов доверительного управления (Дата раскрытия - 15.05.2019 г., актуально с 01.06.2019 г. по 22.11.2020 г.)<i class="fa fa-chevron-circle-right"></i></a>
+						</div><!-- /.text-box -->
+						<div class="text-box">
+							<a href="/doc/metocenki.pdf"><i class="fa fa-file-pdf-o"></i>Методика оценки стоимости объектов доверительного управления (Дата раскрытия - 26.04.2016 г., актуально с 07.05.2016 г. по 31.05.2019 г.)<i class="fa fa-chevron-circle-right"></i></a>
+						</div><!-- /.text-box -->	
+					</div><!-- /.download-broucher -->
+				</div><!-- /.single-sidebar -->               
+                </div>                				               
+
+				<div class="sec-title text-center medium">
+					<h2>ИНДИВИДУАЛЬНОЕ ДОВЕРИТЕЛЬНОЕ УПРАВЛЕНИЕ</h2>
+					<span class="decor-line">
+						<span class="decor-line-inner"></span>
+					</span>
+				</div><!-- /.sec-title -->
+               <div class="panel-group accordion" id="accordion-81" role="tablist">
+				<div class="single-sidebar">
+					<div class="download-broucher ">
+					    <div class="text-box">
+							<a href="/doc/Декларация о рисках_ДУ_апрель_2023_final.pdf"><i class="fa fa-file-pdf-o"></i>Декларация о рисках (Дата раскрытия – 04.04.2023 г., актуально с 07.04.2023 г.)<i class="fa fa-chevron-circle-right"></i></a>
+						</div><!-- /.text-box -->
+					    <div class="text-box">
+							<a href="/doc/Декларация о рисках_ДУ_декабрь_2022.pdf"><i class="fa fa-file-pdf-o"></i>Декларация о рисках (Дата раскрытия – 02.12.2022 г., актуально с 07.12.2022 г. по 06.04.2023 г.)<i class="fa fa-chevron-circle-right"></i></a>
+						</div><!-- /.text-box -->
+						<div class="text-box">
+							<a href="/doc/dec_o_riskah_2019.pdf"><i class="fa fa-file-pdf-o"></i>Декларация о рисках (Дата раскрытия – 28.11.2019 г., актуально с 01.12.2019 г. по 06.12.2022 г.)<i class="fa fa-chevron-circle-right"></i></a>
+						</div><!-- /.text-box -->						    
+						<div class="text-box">
+							<a href="/doc/dec_o_riskah.pdf"><i class="fa fa-file-pdf-o"></i>Декларация о рисках (актуально с 01.03.2018 г. по 30.11.2019 г.)<i class="fa fa-chevron-circle-right"></i></a>
+						</div><!-- /.text-box -->
+						<div class="text-box">
+							<a href="/doc/Порядок расчета и выплаты вознаграждения Управляющему_26.01.2021.pdf"><i class="fa fa-file-pdf-o"></i>Порядок расчета и выплаты вознаграждения Управляющему (Дата раскрытия – 26.01.2021 г., актуально с 29.01.2021 г.)<i class="fa fa-chevron-circle-right"></i></a>
+						</div><!-- /.text-box -->
+						<div class="text-box">
+							<a href="/doc/Порядок расчета и выплаты вознаграждения Управляющему_27.10.2020.pdf"><i class="fa fa-file-pdf-o"></i>Порядок расчета и выплаты вознаграждения Управляющему (Дата раскрытия – 27.10.2020 г., актуально с 02.11.2020 г. по 28.01.2021 г.) («Новая редакция Порядка расчета и выплаты вознаграждения Управляющему от 02.11.2020 г. распространяется на применяемые параметры вознаграждения Управляющего для Клиентов, присоединившихся к Регламенту доверительного управления ценными бумагами «АО ИК «ЛОКО-Инвест» (далее – Регламент) со 02 ноября 2020 года. Для Клиентов, присоединившихся к Регламенту до 02 ноября 2020 года, новая редакция Порядка действует после подписания соответствующего дополнительного соглашения.»)<i class="fa fa-chevron-circle-right"></i></a>
+						</div><!-- /.text-box -->
+						
+						<div class="text-box">
+							<a href="/doc/porjadoc_rascheta_i_vyplaty.pdf"><i class="fa fa-file-pdf-o"></i>Порядок расчета и выплаты вознаграждения Управляющему (актуально с 01.06.2018 г. по 01.11.2020 г.))<i class="fa fa-chevron-circle-right"></i></a>
+						</div><!-- /.text-box -->	
+						<div class="text-box">
+							<a href="/doc/porjadoc_rascheta_i_vyplaty_3105.pdf"><i class="fa fa-file-pdf-o"></i>Порядок расчета и выплаты вознаграждения Управляющему (актуально с 01.03.2018 г. по 31.05.2018 г.)<i class="fa fa-chevron-circle-right"></i></a>
+						</div><!-- /.text-box -->	
+						<div class="text-box">
+							<a href="/doc/zayavlenie_o_vychetah.pdf"><i class="fa fa-file-pdf-o"></i>Заявление о предоставлении налоговых вычетов (актуально с 01.03.2018 г.)<i class="fa fa-chevron-circle-right"></i></a>
+						</div><!-- /.text-box -->							
+					</div><!-- /.download-broucher -->
+				</div><!-- /.single-sidebar -->               
+                </div> 
+				
+                 
+ 
+                 <div class="sec-title text-center medium">
+					<h2>ДОКУМЕНТЫ</h2>
+					<span class="decor-line">
+						<span class="decor-line-inner"></span>
+					</span>
+				</div><!-- /.sec-title -->
+               <div class="panel-group accordion" id="accordion-7" role="tablist">
+				<div class="single-sidebar">
+					<div class="download-broucher ">
+					    <div class="text-box">
+							<a href="/doc/Перечень инсайдерской информации АО Локо-Инвест УА_22.11.2021.pdf"><i class="fa fa-file-pdf-o"></i>«Перечень инсайдерской информации АО «Локо-Инвест УА» (дата раскрытия 22.11.2021 г., актуально с 22.11.2021 г.)<i class="fa fa-chevron-circle-right"></i></a>
+						</div><!-- /.text-box -->
+					    <div class="text-box">
+							<a href="/doc/Перечень инсайдерской информации АО Локо-Инвест УА_27.09.2021.pdf"><i class="fa fa-file-pdf-o"></i>«Перечень инсайдерской информации АО «Локо-Инвест УА» (дата раскрытия 27.09.2021 г., актуально с 27.09.2021 г. по 21.11.2021 г.)<i class="fa fa-chevron-circle-right"></i></a>
+						</div><!-- /.text-box -->
+					    <div class="text-box">
+							<a href="/doc/Перечень инсайдерской информации АО Локо-Инвест УА_01.04.2021.pdf"><i class="fa fa-file-pdf-o"></i>«Перечень инсайдерской информации АО ИК «ЛОКО-Инвест» (дата раскрытия 01.04.2021 г., актуально с 01.04.2021 г. по 26.09.2021 г.)<i class="fa fa-chevron-circle-right"></i></a>
+						</div><!-- /.text-box -->
+						<div class="text-box">
+							<a href="/doc/Перечень инсайдерской информации АО ИК ЛОКО-Инвест (новый перечень с депозитарием).pdf"><i class="fa fa-file-pdf-o"></i>«Перечень инсайдерской информации АО ИК «ЛОКО-Инвест» (дата раскрытия 20.11.2018 г., актуально с 20.11.2018 г. по 31.03.2021 г.)<i class="fa fa-chevron-circle-right"></i></a>
+						</div><!-- /.text-box -->
+						<div class="text-box">
+							<a href="/doc/PII-110729.pdf"><i class="fa fa-file-pdf-o"></i>Перечень инсайдерской информации АО ИК «ЛОКО-Инвест» (дата раскрытия 15.02.2018 г., актуально с 16.02.2018 г. по 19.11.2018 г.)<i class="fa fa-chevron-circle-right"></i></a>
+						</div><!-- /.text-box -->
+                        <div class="text-box">
+							<a href="/doc/%D0%9A%D0%A0%D0%98%D0%A2%D0%95%D0%A0%D0%98%D0%98_%D0%A4%D0%9B.rtf"><i class="fa fa-file-pdf-o"></i>Критерии отнесения физического лица к категории Иностранного налогоплательщика (дата раскрытия 30.06.2014 г., актуально с 30.06.2014 г.)<i class="fa fa-chevron-circle-right"></i></a>
+						</div><!-- /.text-box -->
+                        <div class="text-box">
+							<a href="/doc/%D0%9A%D0%A0%D0%98%D0%A2%D0%95%D0%A0%D0%98%D0%98_%D0%AE%D0%9B.rtf"><i class="fa fa-file-pdf-o"></i>Критерии отнесения юридического лица к категории Иностранного налогоплательщика (дата раскрытия 30.06.2014 г., актуально с 30.06.2014 г.)<i class="fa fa-chevron-circle-right"></i></a>
+						</div><!-- /.text-box -->
+						<div class="text-box">
+							<a href="/doc/Регламент признания квал инвесторами 2021.pdf"><i class="fa fa-file-pdf-o"></i>Порядок принятия решений о признании лиц квалифицированными инвесторами (дата раскрытия 19.11.2021 г., актуально с 19.11.2021 г.)<i class="fa fa-chevron-circle-right"></i></a>
+						</div><!-- /.text-box -->
+                        <div class="text-box">
+							<a href="/doc/reglament.docx"><i class="fa fa-file-pdf-o"></i>Порядок принятия решений о признании лиц квалифицированными инвесторами (дата раскрытия 26.06.2015 г., актуально с 26.06.2015 г. по 18.11.2021 г.)<i class="fa fa-chevron-circle-right"></i></a>
+						</div><!-- /.text-box -->
+						<div class="text-box">
+							<a href="/doc/por_pred_inf.pdf"><i class="fa fa-file-pdf-o"></i>Порядок предоставления информации и документов инвесторам в связи с обращением ценных бумаг АО ИК «ЛОКО - Инвест» (дата раскрытия 22.08.2017 г., актуально с 22.08.2017 г.)<i class="fa fa-chevron-circle-right"></i></a>
+						</div><!-- /.text-box -->
+						<div class="text-box">
+							<a href="/doc/perechen_iporjadoc_oformlenii_dpcumentov.pdf"><i class="fa fa-file-pdf-o"></i>Перечень и порядок оформления документов от клиента - физического лица (дата раскрытия 15.02.2018 г., актуально с 01.03.2018 г.)<i class="fa fa-chevron-circle-right"></i></a>
+						</div><!-- /.text-box -->		
+						<div class="text-box">
+							<a href="/doc/perechen_i_porjadoc_oformlenii_documentov_ur_lic.pdf"><i class="fa fa-file-pdf-o"></i>Перечень и порядок оформления документов от клиента - юридического лица (дата раскрытия 15.02.2018 г., актуально с 01.03.2018 г.)<i class="fa fa-chevron-circle-right"></i></a>
+						</div><!-- /.text-box -->								
+					</div><!-- /.download-broucher -->
+				</div><!-- /.single-sidebar -->               
+                </div>
+                
+                    <div class="sec-title text-center medium">
+					<h2>РАСЧЕТ СОБСТВЕННЫХ СРЕДСТВ</h2>
+					<span class="decor-line">
+						<span class="decor-line-inner"></span>
+					</span>
+				</div><!-- /.sec-title -->
+               <div class="panel-group accordion" id="accordion-6" role="tablist">
+				<div class="single-sidebar">
+					<div class="download-broucher">
+					    <div class="text-box">
+							<a href="/doc/Раскрытие ф514 май 2023.pdf"><i class="fa fa-file-pdf-o"></i>Расчет собственных средств по состоянию на 31 мая 2023 г. (дата раскрытия информации 15.06.2023 г.).<i class="fa fa-chevron-circle-right"></i></a>
+						</div><!-- /.text-box -->
+					    <div class="text-box">
+							<a href="/doc/Раскрытие апрель 2023.pdf"><i class="fa fa-file-pdf-o"></i>Расчет собственных средств по состоянию на 30 апреля 2023 г. (дата раскрытия информации 18.05.2023 г.).<i class="fa fa-chevron-circle-right"></i></a>
+						</div><!-- /.text-box -->
+					    <div class="text-box">
+							<a href="/doc/Раскрытие март 2023.pdf"><i class="fa fa-file-pdf-o"></i>Расчет собственных средств по состоянию на 31 марта 2023 г. (дата раскрытия информации 17.04.2023 г.).<i class="fa fa-chevron-circle-right"></i></a>
+						</div><!-- /.text-box -->
+					    <div class="text-box">
+							<a href="/doc/Раскрытие СС февраль 2023.pdf"><i class="fa fa-file-pdf-o"></i>Расчет собственных средств по состоянию на 28 февраля 2023 г. (дата раскрытия информации 16.03.2023 г.).<i class="fa fa-chevron-circle-right"></i></a>
+						</div><!-- /.text-box -->
+					    <div class="text-box">
+							<a href="/doc/раскрытие_январь_2023.pdf"><i class="fa fa-file-pdf-o"></i>Расчет собственных средств по состоянию на 31 января 2023 г. (дата раскрытия информации 15.02.2023 г.).<i class="fa fa-chevron-circle-right"></i></a>
+						</div><!-- /.text-box -->
+					    <div class="text-box">
+							<a href="/doc/январь_2023.pdf"><i class="fa fa-file-pdf-o"></i>Расчет собственных средств по состоянию на 20 января 2023 г. (дата раскрытия информации 08.02.2023 г.).<i class="fa fa-chevron-circle-right"></i></a>
+						</div><!-- /.text-box -->
+						<div class="text-box">
+							<a href="/doc/декабрь_2022.pdf"><i class="fa fa-file-pdf-o"></i>Расчет собственных средств по состоянию на 31 декабря 2022 г. (дата раскрытия информации 08.02.2023 г.).<i class="fa fa-chevron-circle-right"></i></a>
+						</div><!-- /.text-box -->
+					    <div class="text-box">
+							<a href="/doc/514 ф февраль 2022.pdf"><i class="fa fa-file-pdf-o"></i>Расчет собственных средств по состоянию на 28 февраля 2022 г. (дата раскрытия информации 17.03.2022 г.).<i class="fa fa-chevron-circle-right"></i></a>
+						</div><!-- /.text-box -->
+					    <div class="text-box">
+							<a href="/doc/514 ф январь 2022.pdf"><i class="fa fa-file-pdf-o"></i>Расчет собственных средств по состоянию на 31 января 2022 г. (дата раскрытия информации 15.02.2022 г.).<i class="fa fa-chevron-circle-right"></i></a>
+						</div><!-- /.text-box -->
+					    <div class="text-box">
+							<a href="/doc/514 ф декабрь 2021.pdf"><i class="fa fa-file-pdf-o"></i>Расчет собственных средств по состоянию на 31 декабря 2021 г. (дата раскрытия информации 21.01.2022 г.).<i class="fa fa-chevron-circle-right"></i></a>
+						</div><!-- /.text-box -->
+					    <div class="text-box">
+							<a href="/doc/514 ф ноябрь 2021.pdf"><i class="fa fa-file-pdf-o"></i>Расчет собственных средств по состоянию на 30 ноября 2021 г. (дата раскрытия информации 10.12.2021 г.).<i class="fa fa-chevron-circle-right"></i></a>
+						</div><!-- /.text-box -->
+					    <div class="text-box">
+							<a href="/doc/514 ф раздел октябрь 2021.pdf"><i class="fa fa-file-pdf-o"></i>Расчет собственных средств по состоянию на 31 октября 2021 г. (дата раскрытия информации 19.11.2021 г.).<i class="fa fa-chevron-circle-right"></i></a>
+						</div><!-- /.text-box -->
+					    <div class="text-box">
+							<a href="/doc/собственные средства 30092021.pdf"><i class="fa fa-file-pdf-o"></i>Расчет собственных средств по состоянию на 30 сентября 2021 г. (дата раскрытия информации 15.10.2021 г.).<i class="fa fa-chevron-circle-right"></i></a>
+						</div><!-- /.text-box -->
+					    <div class="text-box">
+							<a href="/doc/413 ф раскрытие август 2021.pdf"><i class="fa fa-file-pdf-o"></i>Расчет собственных средств по состоянию на 31 августа 2021 г. (дата раскрытия информации 30.09.2021 г.).<i class="fa fa-chevron-circle-right"></i></a>
+						</div><!-- /.text-box -->
+					    <div class="text-box">
+							<a href="/doc/413 июль 2021 раскрытие.pdf"><i class="fa fa-file-pdf-o"></i>Расчет собственных средств по состоянию на 31 июля 2021 г. (дата раскрытия информации 30.08.2021 г.).<i class="fa fa-chevron-circle-right"></i></a>
+						</div><!-- /.text-box -->
+					    <div class="text-box">
+							<a href="/doc/413 июнь 2021 для раскрытия.pdf"><i class="fa fa-file-pdf-o"></i>Расчет собственных средств по состоянию на 30 июня 2021 г. (дата раскрытия информации 29.07.2021 г.).<i class="fa fa-chevron-circle-right"></i></a>
+						</div><!-- /.text-box -->
+					    <div class="text-box">
+							<a href="/doc/413 май 2021 раскрытие.pdf"><i class="fa fa-file-pdf-o"></i>Расчет собственных средств по состоянию на 31 мая 2021 г. (дата раскрытия информации 30.06.2021 г.).<i class="fa fa-chevron-circle-right"></i></a>
+						</div><!-- /.text-box -->
+					    <div class="text-box">
+							<a href="/doc/413 ф апрель 2021раскрытие.pdf"><i class="fa fa-file-pdf-o"></i>Расчет собственных средств по состоянию на 30 апреля 2021 г. (дата раскрытия информации 31.05.2021 г.).<i class="fa fa-chevron-circle-right"></i></a>
+						</div><!-- /.text-box -->
+					    <div class="text-box">
+							<a href="/doc/413 ф март 2021 раскрытие.pdf"><i class="fa fa-file-pdf-o"></i>Расчет собственных средств по состоянию на 31 марта 2021 г. (дата раскрытия информации 30.04.2021 г.).<i class="fa fa-chevron-circle-right"></i></a>
+						</div><!-- /.text-box -->
+					    <div class="text-box">
+							<a href="/doc/раскрытие СС февраль 2021.pdf"><i class="fa fa-file-pdf-o"></i>Расчет собственных средств по состоянию на 28 февраля 2021 г. (дата раскрытия информации 30.03.2021 г.).<i class="fa fa-chevron-circle-right"></i></a>
+						</div><!-- /.text-box -->
+					    <div class="text-box">
+							<a href="/doc/СС январь 2021 для раскрытия.pdf"><i class="fa fa-file-pdf-o"></i>Расчет собственных средств по состоянию на 31 января 2021 г. (дата раскрытия информации 26.02.2021 г.).<i class="fa fa-chevron-circle-right"></i></a>
+						</div><!-- /.text-box -->
+					    <div class="text-box">
+							<a href="/doc/Раскрытие СС 413 декабрь 2020КОРР.pdf"><i class="fa fa-file-pdf-o"></i>Расчет собственных средств по состоянию на 31 декабря 2020 г. (дата раскрытия информации 29.01.2021 г.).<i class="fa fa-chevron-circle-right"></i></a>
+						</div><!-- /.text-box -->
+                        <div class="text-box">
+							<a href="/doc/Раскрытие СС ф 413 ноябрь 2020.pdf"><i class="fa fa-file-pdf-o"></i>Расчет собственных средств по состоянию на 30 ноября 2020 г. (дата раскрытия информации 30.11.2020 г.).<i class="fa fa-chevron-circle-right"></i></a>
+						</div><!-- /.text-box -->
+						<div class="text-box">
+							<a href="/doc/Раскрытие 413 октябрь 2020.pdf"><i class="fa fa-file-pdf-o"></i>Расчет собственных средств по состоянию на 31 октября 2020 г. (дата раскрытия информации 19.11.2020 г.).<i class="fa fa-chevron-circle-right"></i></a>
+						</div><!-- /.text-box -->
+						<div class="text-box">
+							<a href="/doc/Собственные средства сентябрь 2020.pdf"><i class="fa fa-file-pdf-o"></i>Расчет собственных средств по состоянию на 30 сентября 2020 г. (дата раскрытия информации 30.10.2020 г.).<i class="fa fa-chevron-circle-right"></i></a>
+						</div><!-- /.text-box -->
+						<div class="text-box">
+							<a href="/doc/413 август 2020 для раскрытия.pdf"><i class="fa fa-file-pdf-o"></i>Расчет собственных средств по состоянию на 31 августа 2020 г. (дата раскрытия информации 23.09.2020 г.).<i class="fa fa-chevron-circle-right"></i></a>
+						</div><!-- /.text-box -->
+						<div class="text-box">
+							<a href="/doc/413 июль 2020.pdf"><i class="fa fa-file-pdf-o"></i>Расчет собственных средств по состоянию на 31 июля 2020 г. (дата раскрытия информации 25.08.2020 г.).<i class="fa fa-chevron-circle-right"></i></a>
+						</div><!-- /.text-box -->
+						    <div class="text-box">
+							<a href="/doc/сс 413 июнь 2020 для раскрытия.pdf"><i class="fa fa-file-pdf-o"></i>Расчет собственных средств по состоянию на 30 июня 2020 г. (дата раскрытия информации 30.07.2020 г.).<i class="fa fa-chevron-circle-right"></i></a>
+						</div><!-- /.text-box -->
+						<div class="text-box">
+							<a href="/doc/сс 413 май 2020 для раскрытия.pdf"><i class="fa fa-file-pdf-o"></i>Расчет собственных средств по состоянию на 31 мая 2020 г. (дата раскрытия информации 30.06.2020 г.).<i class="fa fa-chevron-circle-right"></i></a>
+						</div><!-- /.text-box -->
+						<div class="text-box">
+							<a href="/doc/СС 413 апрель для раскрытия.pdf"><i class="fa fa-file-pdf-o"></i>Расчет собственных средств по состоянию на 30 апреля 2020 г. (дата раскрытия информации 29.05.2020 г.).<i class="fa fa-chevron-circle-right"></i></a>
+						</div><!-- /.text-box -->
+						<div class="text-box">
+							<a href="/doc/СС март 2020 (раскрытие).pdf"><i class="fa fa-file-pdf-o"></i>Расчет собственных средств по состоянию на 31 марта 2020 г. (дата раскрытия информации 30.04.2020 г.).<i class="fa fa-chevron-circle-right"></i></a>
+						</div><!-- /.text-box --><div class="text-box">
+							<a href="/doc/для раскрытия сс февраль 413.pdf"><i class="fa fa-file-pdf-o"></i>Расчет собственных средств по состоянию на 29 февраля 2020 г.  (дата раскрытия информации 31.03.2020 г.).<i class="fa fa-chevron-circle-right"></i></a>
+						</div><!-- /.text-box -->
+						<div class="text-box">
+							<a href="/doc/СС январь 2020 раскр корр.pdf"><i class="fa fa-file-pdf-o"></i>Расчет собственных средств по состоянию на 31 января 2020 г. (корректировка) (дата раскрытия информации 31.03.2020 г.).<i class="fa fa-chevron-circle-right"></i></a>
+						</div><!-- /.text-box -->
+						<div class="text-box">
+							<a href="/doc/Расчет СС 31.01.20 раскрытие  0420413.pdf"><i class="fa fa-file-pdf-o"></i>Расчет собственных средств по состоянию на 31 января 2020 г. (дата раскрытия информации 25.02.2020 г.) (актуально до 30.03.2020 г.).<i class="fa fa-chevron-circle-right"></i></a>
+						</div><!-- /.text-box -->
+						<div class="text-box">
+							<a href="/doc/CC декабрь 2019 раскрытие.pdf"><i class="fa fa-file-pdf-o"></i>Расчет собственных средств по состоянию на 31 декабря 2019 г. (дата раскрытия информации 31.01.2020 г.).<i class="fa fa-chevron-circle-right"></i></a>
+						</div><!-- /.text-box -->
+					    <div class="text-box">
+					        <a href="/doc/Расчет СС 30.11.19 раскрытие 413.pdf"><i class="fa fa-file-pdf-o"></i>Расчет собственных средств по состоянию на 30 ноября 2019 г. (дата раскрытия информации 26.12.2019 г.).<i class="fa fa-chevron-circle-right"></i></a>
+						</div><!-- /.text-box -->
+					    <div class="text-box">
+					        <a href="/doc/Расчет СС_31.10.2019_раскрытие413.pdf"><i class="fa fa-file-pdf-o"></i>Расчет собственных средств по состоянию на 31 октября 2019 г. (дата раскрытия информации 29.11.2019 г.).<i class="fa fa-chevron-circle-right"></i></a>
+						</div><!-- /.text-box -->
+					    <div class="text-box">
+							<a href="/doc/CC_30.09.19.pdf"><i class="fa fa-file-pdf-o"></i>Расчет собственных средств по состоянию на 30 сентября 2019 г. (дата раскрытия информации 31.10.2019 г.).<i class="fa fa-chevron-circle-right"></i></a>
+						</div><!-- /.text-box -->					    
+					    <div class="text-box">
+							<a href="/doc/НСО_0420413 (2).pdf"><i class="fa fa-file-pdf-o"></i>Расчет собственных средств по состоянию на 31 августа 2019 г. (дата раскрытия информации 19.09.2019 г.).<i class="fa fa-chevron-circle-right"></i></a>
+						</div><!-- /.text-box -->
+					    <div class="text-box">
+							<a href="/doc/НСО_0420413.pdf"><i class="fa fa-file-pdf-o"></i>Расчет собственных средств по состоянию на 31 июля 2019 г. (дата раскрытия информации 30.08.2019 г.).<i class="fa fa-chevron-circle-right"></i></a>
+						</div><!-- /.text-box -->
+					    <div class="text-box">
+							<a href="/doc/RRSS-30062019.pdf"><i class="fa fa-file-pdf-o"></i>Расчет собственных средств по состоянию на 30 июня 2019 г. (дата раскрытия информации 29.07.2019 г.)<i class="fa fa-chevron-circle-right"></i></a>
+						</div><!-- /.text-box -->
+						<div class="text-box">
+							<a href="/doc/RRSS-28062019.pdf"><i class="fa fa-file-pdf-o"></i>Расчет собственных средств по состоянию на 31 мая 2019 г. (дата раскрытия информации 28.06.2019 г.)<i class="fa fa-chevron-circle-right"></i></a>
+						</div><!-- /.text-box -->					
+						<div class="text-box">
+							<a href="/doc/RRSS-29052019.pdf"><i class="fa fa-file-pdf-o"></i>Расчет собственных средств по состоянию на 30 апреля 2019 г. (дата раскрытия информации 29.05.2019 г.)<i class="fa fa-chevron-circle-right"></i></a>
+						</div><!-- /.text-box -->						
+						<div class="text-box">
+							<a href="/doc/RRSS-30042019.pdf"><i class="fa fa-file-pdf-o"></i>Расчет собственных средств по состоянию на 31 марта 2019 г. (дата раскрытия информации 30.04.2019 г.)<i class="fa fa-chevron-circle-right"></i></a>
+						</div><!-- /.text-box -->					
+						<div class="text-box">
+							<a href="/doc/RRSS-29032019.pdf"><i class="fa fa-file-pdf-o"></i>Расчет собственных средств по состоянию на 28 февраль 2019 г. (дата раскрытия информации 29.03.2019 г.)<i class="fa fa-chevron-circle-right"></i></a>
+						</div><!-- /.text-box -->						
+						<div class="text-box">
+							<a href="/doc/RRSS-28022019.pdf"><i class="fa fa-file-pdf-o"></i>Расчет собственных средств по состоянию на 31 января 2019 г. (дата раскрытия информации 28.02.2019 г.)<i class="fa fa-chevron-circle-right"></i></a>
+						</div><!-- /.text-box -->	
+						<div class="text-box">
+							<a href="/doc/RRSS-30012019_2.pdf"><i class="fa fa-file-pdf-o"></i>Расчет собственных средств по состоянию на 31 декабря 2018 г. (уточненный) (дата раскрытия информации 25.03.2019 г.)<i class="fa fa-chevron-circle-right"></i></a>
+						</div><!-- /.text-box -->						
+						<div class="text-box">
+						    <a href="/doc/20191226160605123.pdf"><i class="fa fa-file-pdf-o"></i>Расчет собственных средств по состоянию на 31 декабря 2018 г. (дата раскрытия информации 30.01.2019 г., актуально до 24.03.2019 г.)<i class="fa fa-chevron-circle-right"></i></a>
+						</div><!-- /.text-box -->						
+						<div class="text-box">
+							<a href="/doc/RRSS-28122018.pdf"><i class="fa fa-file-pdf-o"></i>Расчет собственных средств по состоянию на 30 ноября 2018 г. (дата раскрытия информации 28.12.2018 г.)<i class="fa fa-chevron-circle-right"></i></a>
+						</div><!-- /.text-box -->							
+						<div class="text-box">
+							<a href="/doc/RRSS-30112018.pdf"><i class="fa fa-file-pdf-o"></i>Расчет собственных средств по состоянию на 31 октября 2018 г. (дата раскрытия информации 30.11.2018 г.)<i class="fa fa-chevron-circle-right"></i></a>
+						</div><!-- /.text-box -->						
+						<div class="text-box">
+							<a href="/doc/RRSS-30102018.pdf"><i class="fa fa-file-pdf-o"></i>Расчет собственных средств по состоянию на 30 сентября 2018 г. (дата раскрытия информации 30.10.2018 г., уточнено 20.11.2018 г.)<i class="fa fa-chevron-circle-right"></i></a>
+						</div><!-- /.text-box -->					
+						<div class="text-box">
+							<a href="/doc/RRSS-28092018.pdf"><i class="fa fa-file-pdf-o"></i>Расчет собственных средств по состоянию на 31 августа 2018 г. (дата раскрытия информации 28.09.2018 г.)<i class="fa fa-chevron-circle-right"></i></a>
+						</div><!-- /.text-box -->					
+						<div class="text-box">
+							<a href="/doc/RRSS-30082018.pdf"><i class="fa fa-file-pdf-o"></i>Расчет собственных средств по состоянию на 31 июля 2018 г. (дата раскрытия информации 30.08.2018 г., уточнено 20.11.2018 г.)<i class="fa fa-chevron-circle-right"></i></a>
+						</div><!-- /.text-box -->
+						<div class="text-box">
+							<a href="/doc/RRSS-30072018.pdf"><i class="fa fa-file-pdf-o"></i>Расчет собственных средств по состоянию на 30 июня 2018 г. (дата раскрытия информации 30.07.2018 г., уточнено 20.11.2018 г.)<i class="fa fa-chevron-circle-right"></i></a>
+						</div><!-- /.text-box -->
+						<div class="text-box">
+							<a href="/doc/RRSS-29062018.pdf"><i class="fa fa-file-pdf-o"></i>Расчет собственных средств по состоянию на 31 мая 2018 г. (дата раскрытия информации 29.06.2018 г., уточнено 11.09.2018 г.)<i class="fa fa-chevron-circle-right"></i></a>
+						</div><!-- /.text-box -->
+						<div class="text-box">
+							<a href="/doc/RRSS-29052018.pdf"><i class="fa fa-file-pdf-o"></i>Расчет собственных средств по состоянию на 30 апреля 2018 г. (дата раскрытия информации 29.05.2018 г., уточнено 11.09.2018 г.)<i class="fa fa-chevron-circle-right"></i></a>
+						</div><!-- /.text-box -->
+						<div class="text-box">
+							<a href="/doc/RRSS-28042018.pdf"><i class="fa fa-file-pdf-o"></i>Расчет собственных средств по состоянию на 31 марта 2018 г. (дата раскрытия информации 28.04.2018 г., уточнено 12.09.2018 г.)<i class="fa fa-chevron-circle-right"></i></a>
+						</div><!-- /.text-box -->
+						<div class="text-box">
+							<a href="/doc/RRSS-30032018.pdf"><i class="fa fa-file-pdf-o"></i>Расчет собственных средств по состоянию на 28 февраля 2018 г. (дата раскрытия информации 30.03.2018 г., уточнено 13.09.2018 г.)<i class="fa fa-chevron-circle-right"></i></a>
+						</div><!-- /.text-box -->	
+						<div class="text-box">
+							<a href="/doc/RRSS-02022018.pdf"><i class="fa fa-file-pdf-o"></i>Расчет собственных средств по состоянию на 31 января 2018 г. (дата раскрытия информации 02.02.2018 г., уточнено 17.09.2018 г.)<i class="fa fa-chevron-circle-right"></i></a>
+						</div><!-- /.text-box -->	
+						<div class="text-box">
+							<a href="/doc/RRSS-30012018.pdf"><i class="fa fa-file-pdf-o"></i>Расчет собственных средств по состоянию на 31 декабря 2017 г. (дата раскрытия информации 30.01.2018 г., уточнено 17.09.2018 г.)<i class="fa fa-chevron-circle-right"></i></a>
+						</div><!-- /.text-box -->					
+						<div class="text-box">
+							<a href="/doc/RRSS-12122017.pdf"><i class="fa fa-file-pdf-o"></i>Расчет собственных средств по состоянию на 30 ноября 2017 г. (дата раскрытия информации 12.12.2017 г.)<i class="fa fa-chevron-circle-right"></i></a>
+						</div><!-- /.text-box -->
+						<div class="text-box">
+							<a href="/doc/RRSS-28112017.pdf"><i class="fa fa-file-pdf-o"></i>Расчет собственных средств по состоянию на 31 октября 2017 г. (дата раскрытия информации 28.11.2017 г.)<i class="fa fa-chevron-circle-right"></i></a>
+						</div><!-- /.text-box -->
+						<div class="text-box">
+							<a href="/doc/RRSS-20102017.pdf"><i class="fa fa-file-pdf-o"></i>Расчет собственных средств по состоянию на 30 сентября 2017 г. (дата раскрытия информации 20.10.2017 г.)<i class="fa fa-chevron-circle-right"></i></a>
+						</div><!-- /.text-box -->
+						<div class="text-box">
+							<a href="/doc/RRSS-29092017.pdf"><i class="fa fa-file-pdf-o"></i>Расчет собственных средств по состоянию на 31 августа 2017 г. (дата раскрытия информации 29.09.2017 г.)<i class="fa fa-chevron-circle-right"></i></a>
+						</div><!-- /.text-box -->
+						<div class="text-box">
+							<a href="/doc/RRSS-30082017.pdf"><i class="fa fa-file-pdf-o"></i>Расчет собственных средств по состоянию на 31 июля 2017 г. (дата раскрытия информации 30.08.2017 г.)<i class="fa fa-chevron-circle-right"></i></a>
+						</div><!-- /.text-box -->
+						<div class="text-box">
+							<a href="/doc/RRSS-31072017.pdf"><i class="fa fa-file-pdf-o"></i>Расчет собственных средств по состоянию на 30 июня 2017 г. (дата раскрытия информации 31.07.2017 г., уточнено 28.09.2017 г.)<i class="fa fa-chevron-circle-right"></i></a>
+						</div><!-- /.text-box -->
+						<div class="text-box">
+							<a href="/doc/RRSS-27062017.pdf"><i class="fa fa-file-pdf-o"></i>Расчет собственных средств по состоянию на 31 мая 2017 г. (дата раскрытия информации 27.06.2017 г., уточнено 03.10.2017 г.)<i class="fa fa-chevron-circle-right"></i></a>
+						</div><!-- /.text-box -->
+						<div class="text-box">
+							<a href="/doc/RRSS-24052017.pdf"><i class="fa fa-file-pdf-o"></i>Расчет собственных средств по состоянию на 30 апреля 2017 г. (дата раскрытия информации 24.05.2017 г., уточнено 03.10.2017 г.)<i class="fa fa-chevron-circle-right"></i></a>
+						</div><!-- /.text-box -->
+						<div class="text-box">
+							<a href="/doc/RRSS-24042017.pdf"><i class="fa fa-file-pdf-o"></i>Расчет собственных средств по состоянию на 31 марта 2017 г. (дата раскрытия информации 24.04.2017 г., уточнено 03.10.2017 г.)<i class="fa fa-chevron-circle-right"></i></a>
+						</div><!-- /.text-box -->
+						<div class="text-box">
+							<a href="/doc/RRSS-29032017.pdf"><i class="fa fa-file-pdf-o"></i>Расчет собственных средств по состоянию на 28 февраля 2017 г. (дата раскрытия информации 29.03.2017 г., уточнено 03.10.2017 г.)<i class="fa fa-chevron-circle-right"></i></a>
+						</div><!-- /.text-box -->
+						<div class="text-box">
+							<a href="/doc/RRSS_17012017.pdf"><i class="fa fa-file-pdf-o"></i>Расчет собственных средств по состоянию на 31 января 2017 г. (дата раскрытия информации 17.02.2017 г., уточнено 03.10.2017 г.)<i class="fa fa-chevron-circle-right"></i></a>
+						</div><!-- /.text-box -->
+						<div class="text-box">
+							<a href="/doc/RRSS_29122016.pdf"><i class="fa fa-file-pdf-o"></i>Расчет собственных средств по состоянию на 31 декабря 2016 г. (дата раскрытия информации 27.01.2017 г., уточнено 28.09.2017 г.)<i class="fa fa-chevron-circle-right"></i></a>
+						</div><!-- /.text-box -->
+						<div class="text-box">
+							<a href="/doc/RRSS_15122016.pdf"><i class="fa fa-file-pdf-o"></i>Расчет собственных средств по состоянию на 30 ноября 2016 г. (дата раскрытия информации 15.12.2016 г., уточнено 10.08.2017 г.)<i class="fa fa-chevron-circle-right"></i></a>
+						</div><!-- /.text-box -->
+                        <div class="text-box">
+							<a href="/doc/RRSS_31102016.pdf"><i class="fa fa-file-pdf-o"></i>Расчет собственных средств по состоянию на 31 октября 2016 г. (дата раскрытия информации 15.11.2016 г., уточнено 10.08.2017 г.)<i class="fa fa-chevron-circle-right"></i></a>
+						</div><!-- /.text-box -->
+                             <div class="text-box">
+							<a href="/doc/RRSS-30102016.pdf"><i class="fa fa-file-pdf-o"></i>Расчет собственных средств по состоянию на 30 сентября 2016 г. (дата раскрытия информации 24.10.2016 г.)<i class="fa fa-chevron-circle-right"></i></a>
+						</div><!-- /.text-box -->
+                             <div class="text-box">
+							<a href="/doc/RRSS_29092016.pdf"><i class="fa fa-file-pdf-o"></i>Расчет собственных средств по состоянию на 31 августа 2016 г. (дата раскрытия информации 29.09.2016 г.)<i class="fa fa-chevron-circle-right"></i></a>
+						</div><!-- /.text-box -->
+						<div class="text-box">
+							<a href="/doc/RRSS_24082016.pdf"><i class="fa fa-file-pdf-o"></i>Расчет собственных средств по состоянию на 31 июля 2016 г. (дата раскрытия информации: 29.08.2016 г.)<i class="fa fa-chevron-circle-right"></i></a>
+						</div><!-- /.text-box -->
+                        <div class="text-box">
+							<a href="/doc/RRSS_24072016.pdf"><i class="fa fa-file-pdf-o"></i>Расчет собственных средств по состоянию на 30 июня 2016 г. (дата раскрытия информации: 29.07.2016 г.)<i class="fa fa-chevron-circle-right"></i></a>
+						</div><!-- /.text-box -->
+                             <div class="text-box">
+							<a href="/doc/RRSS_24062016.pdf"><i class="fa fa-file-pdf-o"></i>Расчет собственных средств по состоянию на 31 мая 2016 г. (дата раскрытия информации: 24.06.2016 г.)<i class="fa fa-chevron-circle-right"></i></a>
+						</div><!-- /.text-box -->
+                             <div class="text-box">
+							<a href="/doc/RRSS_27052016.pdf"><i class="fa fa-file-pdf-o"></i>Расчет собственных средств по состоянию на 30 апреля 2016 г. (дата раскрытия информации: 27.05.2016 г.)<i class="fa fa-chevron-circle-right"></i></a>
+						</div><!-- /.text-box -->	
+						<div class="text-box">
+							<a href="/doc/RRSS_29042016.pdf"><i class="fa fa-file-pdf-o"></i>Расчет собственных средств по состоянию на 31 марта 2016 г. (дата раскрытия информации: 29.04.2016 г.)<i class="fa fa-chevron-circle-right"></i></a>
+						</div><!-- /.text-box -->
+                        <div class="text-box">
+							<a href="/doc/RRSS_29022016.pdf"><i class="fa fa-file-pdf-o"></i>Расчет собственных средств по состоянию на 29 февраля 2016 г. (дата раскрытия информации: 25.03.2016 г.)<i class="fa fa-chevron-circle-right"></i></a>
+						</div><!-- /.text-box -->
+                             <div class="text-box">
+							<a href="/doc/RRSS_31012016.pdf"><i class="fa fa-file-pdf-o"></i>Расчет собственных средств по состоянию на 31 января 2016 г. (дата раскрытия информации: 29.02.2016 г.)<i class="fa fa-chevron-circle-right"></i></a>
+						</div><!-- /.text-box -->
+                             <div class="text-box">
+							<a href="/doc/RRSS_22122015.pdf"><i class="fa fa-file-pdf-o"></i>Расчет собственных средств по состоянию на 31 декабря 2015 г. (дата раскрытия информации: 27.01.2016 г.)<i class="fa fa-chevron-circle-right"></i></a>
+						</div><!-- /.text-box -->
+						<div class="text-box">
+							<a href="/doc/RRSS_09122015.pdf"><i class="fa fa-file-pdf-o"></i>Расчет собственных средств по состоянию на 30 ноября 2015 г. (дата раскрытия информации: 16.12.2015 г.)<i class="fa fa-chevron-circle-right"></i></a>
+						</div><!-- /.text-box -->
+                        <div class="text-box">
+							<a href="/doc/RRSS_20112015.pdf"><i class="fa fa-file-pdf-o"></i>Расчет собственных средств по состоянию на 31 октября 2015 г. (дата раскрытия информации: 20.11.2015 г.)<i class="fa fa-chevron-circle-right"></i></a>
+						</div><!-- /.text-box -->
+                             <div class="text-box">
+							<a href="/doc/RRSS_28102015.pdf"><i class="fa fa-file-pdf-o"></i>Расчет собственных средств по состоянию на 30 сентября 2015 г. (дата раскрытия информации: 14.10.2015 г.)<i class="fa fa-chevron-circle-right"></i></a>
+						</div><!-- /.text-box -->
+                             <div class="text-box">
+							<a href="/doc/RRSS_28092015.pdf"><i class="fa fa-file-pdf-o"></i>Расчет собственных средств по состоянию на 31 августа 2015 г. (дата раскрытия информации: 23.09.2015 г.)<i class="fa fa-chevron-circle-right"></i></a>
+						</div><!-- /.text-box -->	
+						<div class="text-box">
+							<a href="/doc/RRSS-28082015.pdf"><i class="fa fa-file-pdf-o"></i>Расчет собственных средств по состоянию на 31 июля 2015 г. (дата раскрытия информации: 28.08.2015 г.)<i class="fa fa-chevron-circle-right"></i></a>
+						</div><!-- /.text-box -->
+                        <div class="text-box">
+							<a href="/doc/RRSS-24072015.pdf"><i class="fa fa-file-pdf-o"></i>Расчет собственных средств по состоянию на 30 июня 2015 г. (дата раскрытия информации: 24.07.2015 г.)<i class="fa fa-chevron-circle-right"></i></a>
+						</div><!-- /.text-box -->
+                             <div class="text-box">
+							<a href="/doc/RRSS_24062015.pdf"><i class="fa fa-file-pdf-o"></i>Расчет собственных средств по состоянию на 31 мая 2015 г. (дата раскрытия информации: 24.06.2015 г.)<i class="fa fa-chevron-circle-right"></i></a>
+						</div><!-- /.text-box -->
+                             <div class="text-box">
+							<a href="/doc/RRSS_29052015.pdf"><i class="fa fa-file-pdf-o"></i>Расчет собственных средств по состоянию на 30 апреля 2015 г. (дата раскрытия информации: 29.05.2015 г.)<i class="fa fa-chevron-circle-right"></i></a>
+						</div><!-- /.text-box -->
+						<div class="text-box">
+							<a href="/doc/CC_21042015.pdf"><i class="fa fa-file-pdf-o"></i>Расчет собственных средств по состоянию на 31 марта 2015 г. (дата раскрытия информации: 21.04.2015 г.)<i class="fa fa-chevron-circle-right"></i></a>
+						</div><!-- /.text-box -->
+                        <div class="text-box">
+							<a href="/doc/RRSS-16022015.pdf"><i class="fa fa-file-pdf-o"></i>Расчет собственных средств по состоянию на 28 февраля 2015 г. (дата раскрытия информации: 12.03.2015 г.)<i class="fa fa-chevron-circle-right"></i></a>
+						</div><!-- /.text-box -->
+                             <div class="text-box">
+							<a href="/doc/%D0%A1%D0%A1_31012015.pdf"><i class="fa fa-file-pdf-o"></i>Расчет собственных средств по состоянию на 31 января 2015 г. (дата раскрытия информации: 20.02.2015 г.)<i class="fa fa-chevron-circle-right"></i></a>
+						</div><!-- /.text-box -->
+                             <div class="text-box">
+							<a href="/doc/RRSS-270115.pdf"><i class="fa fa-file-pdf-o"></i>Расчет собственных средств по состоянию на 31 декабря 2014 г. (дата раскрытия информации: 27.01.2015 г.)<i class="fa fa-chevron-circle-right"></i></a>
+						</div><!-- /.text-box -->						
+					</div><!-- /.download-broucher -->
+				</div><!-- /.single-sidebar -->
+                
+				 </div>
+				 
+				 <div class="sec-title text-center medium">
+					<h2>АРХИВНАЯ ИНФОРМАЦИЯ</h2>
+					<span class="decor-line">
+						<span class="decor-line-inner"></span>
+					</span>
+				 </div><!-- /.sec-title -->
+				
+				<div class="panel-group accordion" id="accordion-two" role="tablist">
+				   
+					<div class="panel panel-default">						
+						<a role="button" data-toggle="collapse" data-parent="#accordion-two" href="#accordion-two-collapse-one" class="collapsed">Лицензия профессионального участника рынка ценных бумаг на осуществление брокерской деятельности</a>
+
+						<div id="accordion-two-collapse-one" class="panel-collapse collapse" role="tabpanel">
+							<div class="inner-box">
+								<p> <a data-group="1" href="img/blog/12739.jpg" class="img-popup">№045-12739-100000 от 10 декабря 2009 г.</a> Выдана Федеральной службой по финансовым рынкам, актуальна до 09.03.2021 г.</p>
+							</div>
+						</div>
+					</div>
+					<div class="panel panel-default">						
+						<a role="button" data-toggle="collapse" data-parent="#accordion-two" href="#accordion-two-collapse-two" class="collapsed">Лицензия профессионального участника рынка ценных бумаг на осуществление дилерской деятельности</a>
+
+						<div id="accordion-two-collapse-two" class="panel-collapse collapse" role="tabpanel">
+							<div class="inner-box">
+								<p><a data-group="1" href="img/blog/12743.jpg" class="img-popup">№045-12743-010000 от 10 декабря 2009 г.</a>  Выдана Федеральной службой по финансовым рынкам, актуальна до 09.03.2021 г.</p>
+							</div>
+						</div>
+					</div>
+					<div class="panel panel-default">						
+						<a role="button" data-toggle="collapse" data-parent="#accordion-two" href="#accordion-two-collapse-four" class="collapsed">Лицензия профессионального участника рынка ценных бумаг на осуществление  депозитарной деятельности</a>
+
+						<div id="accordion-two-collapse-four" class="panel-collapse collapse" role="tabpanel">
+							<div class="inner-box">
+								<p><a data-group="1" href="img/blog/14067.jpg" class="img-popup">№045-14067-000100 от 24 октября 2018 г.</a>  Выдана Банком России, актуальна до 09.03.2021 г.</p>
+							</div>
+						</div>
+					</div>
+					<div class="panel panel-default">						
+						<a role="button" data-toggle="collapse" data-parent="#accordion-three" href="#accordion-three-collapse-two3" class="collapsed">Информация, предоставляемая Брокером в соответствии с "Базовым стандартом защиты прав и интересов физических и юридических лиц - получателей финансовых услуг, оказываемых членами саморегулируемых организаций в сфере финансового рынка, объединяющих брокеров", утвержденным Банком России, Протоколом от 20.12.2018 г., N КФНП-39</a>
+
+						<div id="accordion-three-collapse-two3" class="panel-collapse collapse" role="tabpanel">
+							<div class="inner-box">
+							    <a href="/doc/inf_broker_du_011219.pdf"><i class="fa fa-file-pdf-o"></i> «Информация, предоставляемая Брокером в соответствии с "Базовым стандартом защиты прав и интересов физических и юридических лиц - получателей финансовых услуг, оказываемых членами саморегулируемых организаций в сфере финансового рынка, объединяющих брокеров", утвержденным Банком России, Протоколом от 20.12.2018 г., N КФНП-39» (Дата раскрытия 28.11.2019 г., актуально с 01.12.2019 г. по 09.03.2021 г.) <i class="fa fa-chevron-circle-right"></i></a>
+							</div>
+						</div>
+					</div>
+					<div class="panel panel-default">						
+						<a role="button" data-toggle="collapse" data-parent="#accordion-three" href="#accordion-three-collapse-three1" class="collapsed">Перечень регистраторов и депозитариев, в том числе иностранных, в которых депозитарию открыты лицевые счета (счета депо) номинального держателя, с указанием полного фирменного наименования регистратора или депозитария</a>
+
+						<div id="accordion-three-collapse-three1" class="panel-collapse collapse" role="tabpanel">
+							<div class="inner-box">
+								<p>Небанковская кредитная организация акционерное общество «Национальный расчетный депозитарий» (счета закрыты 24.12.2020 г., 25.12.2020 г.).</p>
+							</div>
+						</div>
+					</div>
+					<div class="panel panel-default">						
+						<a role="button" data-toggle="collapse" data-parent="#accordion-three" href="#accordion-three-collapse-7" class="collapsed">Перечень клиринговых организаций, с которыми брокер заключил договоры об оказании ему клиринговых услуг</a>
+
+						<div id="accordion-three-collapse-7" class="panel-collapse collapse" role="tabpanel">
+							<div class="inner-box">
+								<p>Банк «Национальный Клиринговый Центр» (Акционерное общество) (счет закрыт 25.12.2020 г.)</p>
+								<p>Небанковская кредитная организация «Национальный расчетный депозитарий» (Акционерное общество) (счета закрыты 24.12.2020 г.)</p>
+							</div>
+						</div>
+					</div>		
+                    <div class="panel panel-default">						
+						<a role="button" data-toggle="collapse" data-parent="#accordion-three" href="#accordion-three-collapse-8" class="collapsed">Перечень организаторов торговли, в том числе иностранных, где брокер является участником торгов</a>
+
+						<div id="accordion-three-collapse-8" class="panel-collapse collapse" role="tabpanel">
+							<div class="inner-box">
+								<p>ПАО Московская Биржа</p>
+							</div>
+						</div>
+					</div>	
+                    	
+                    
+                    <div class="panel panel-default">						
+						<a role="button" data-toggle="collapse" data-parent="#accordion-three" href="#accordion-three-collapse-9" class="collapsed">Перечень кредитных организаций, в которых брокеру открыты специальные брокерские счета</a>
+
+						<div id="accordion-three-collapse-9" class="panel-collapse collapse" role="tabpanel">
+							<div class="inner-box">
+								<p>Коммерческий Банк «ЛОКО-Банк» (акционерное общество) (счета закрыты 29.12.2020 г.)</p>
+								<p>Небанковская кредитная организация акционерное общество «Национальный расчетный депозитарий» (счета закрыты 24.12.2020 г.)</p>
+							</div>
+						</div>
+					</div>
+					
+					<div class="panel panel-default">						
+						<a role="button" data-toggle="collapse" data-parent="#accordion-three" href="#accordion-three-collapse-111" class="collapsed">Защита информации</a>
+
+						<div id="accordion-three-collapse-111" class="panel-collapse collapse" role="tabpanel">
+							<div class="inner-box">
+							<p style="text-align: justify;">
+</p><div style="margin: 8px; text-align: justify;">
+В соответствие с требованиями Положения Банка России от 17.04.2019 г. № 684-П «Об установлении обязательных для некредитных финансовых организаций требований к обеспечению защиты информации при осуществлении деятельности в сфере финансовых рынков в целях противодействия осуществлению незаконных финансовых операций», Акционерное общество Инвестиционная компания «ЛОКО-Инвест» (далее по тексту - Организация) доводит до Вашего сведения:
+основные рекомендации по защите информации от воздействия программных кодов, приводящих к нарушению штатного функционирования средств вычислительной техники (вредоносный код), в целях противодействия незаконным финансовым операциям; 
+информацию о возможных рисках получения несанкционированного доступа к защищаемой информации с целью осуществления финансовых операций лицами, не обладающими правом их осуществления;
+о мерах по предотвращению несанкционированного доступа к защищаемой информации, в том числе при утрате (потере, хищении) клиентом устройства, с использованием которого им совершались действия в целях осуществления финансовой операции, контролю конфигурации устройства, с использованием которого клиентом совершаются действия в целях осуществления финансовой операции, и своевременному обнаружению воздействия вредоносного кода.
+</div>
+<div style="margin: 8px; text-align: justify;">
+1)	Обеспечьте защиту устройства, с которого вы осуществляете финансовые операции/ информационный обмен. К таким мерам могут относиться, включая, но не ограничиваясь:
+<br> - наличие лицензированного программного обеспечения, полученного из доверенных источников;
+<br> - наличие средств защиты, таких как: антивирус (с регулярно и своевременно обновляемыми базами), персональный межсетевой экран, защита накопителя;
+<br> - настройка прав доступа к устройству с целью невозможности несанкционированного доступа;
+<br> - хранение, использование устройства с целью избежать рисков кражи и/или утери;
+<br> - запрет на установку приложений из непроверенных источников;
+<br> - физический контроль с целью недопущения утери или кражи;
+<br> - контроль конфигурации устройства;
+<br> - контроль функционирования устройства с целью выявления несанкционированного доступа к устройству.
+</div>
+<div style="margin: 8px; text-align: justify;">
+2) При осуществлении финансовых операций следует принимать во внимание риск получения третьими лицами несанкционированного доступа к защищаемой информации с целью осуществления финансовых операций лицами, не обладающими правом их осуществления, например:
+<br> - кража пароля и идентификатора доступа или иных конфиденциальных данных;
+<br> - установка на устройство вредоносного кода, который позволит злоумышленникам осуществить операции от Вашего имени;
+<br> - использование злоумышленником утерянного или украденного телефона (SIM карты) для получения СМС кодов, которые могут применяться Организацией в качестве дополнительной защиты для несанкционированных финансовых операций, что позволит им обойти защиту;
+<br> - перехват электронных сообщений и получения несанкционированного доступа к выпискам,
+отчетам и прочей финансовой информации, если Ваша электронная почта используется для
+информационного обмена с Организацией. Или в случае получения доступа к вашей электронной почте, отправка сообщений от вашего имени в Организацию.
+</div>
+<div style="margin: 8px; text-align: justify;">
+3) Проявляйте осторожность и предусмотрительность:
+<br> - будьте осторожны при получении электронных писем со ссылками и вложениями, они могут привести к заражению Вашего устройства вредоносным кодом. Вредоносный код, попав к Вам через электронную почту или интернет ссылку на сайт, может получить доступ к любым данным и информационным системам на Вашем устройстве;
+<br> - внимательно проверяйте адресата, от которого пришло электронное письмо. Входящее электронное письмо может быть от злоумышленника, который маскируется под Организацию или иных доверенных лиц;
+<br> - будьте осторожны при просмотре/работе с интернет сайтами, так как вредоносный код может быть загружен с сайта;
+<br> - будьте осторожны с файлами из новых или непроверенных источников;
+<br> - Не заходите в системы удаленного доступа с непроверенных устройств, которые Вы не контролируете. На таких устройствах может быть вредоносный код, собирающий пароли и идентификаторы доступа или способный подменить операцию;
+<br> - следите за информацией в прессе о последних критичных уязвимостях и о вредоносном коде;
+<br> - осуществляйте звонок только по номеру телефона, указанному в договоре или на официальном сайте Организации. 
+<br> Имейте в виду, что, если Вы передаете Ваш телефон и/или устройство другим пользователям, они могу установить на него вредоносный код, а в случае кражи или утери злоумышленники могут воспользоваться им для доступа к системам Организации, которыми пользовались Вы. В связи с этим при утере, краже телефона (SIM карты), используемого для получения СМС кодов или доступа к системам Организации необходимо незамедлительно проинформировать Организацию по телефону, указанному в договоре или на сайте Организации в сети Интернет, 2) целесообразно по возможности оперативно с учетом прочих рисков и особенностей использования Вашего телефона заблокировать и перевыпустить SIM карту, а также сменить пароль в соответствующем мобильном приложении;
+<br> - помните, что наличие «эталонной» резервной копии может облегчить и ускорить восстановление вашего устройства;
+<br> - лучше всего использовать для финансовых операций отдельное, максимально защищенное устройство, доступ к которому есть только у Вас;
+<br> - контролируйте свой телефон, используемый для получения СМС кодов. 
+<br> Не вводите персональную информацию на подозрительных сайтах и других неизвестных вам ресурсах;
+<br> - не сохранять пароли в памяти интернет-браузера, если к компьютеру есть доступ третьих лиц.
+</div>
+<p></p>
+                            </div>
+						</div>
+					</div>
+					<div class="panel panel-default">						
+						<a role="button" data-toggle="collapse" data-parent="#accordion-three" href="#accordion-three-collapse-222" class="collapsed">Персональные данные</a>
+
+						<div id="accordion-three-collapse-222" class="panel-collapse collapse" role="tabpanel">
+							<div class="inner-box">
+								<a href="/doc/Политика обработки и обеспечения безопасности персональных данных АО ИК ЛОКО-Инвест.pdf"><i class="fa fa-file-pdf-o"></i>Политика в отношении обработки персональных данных и реализации требований к защите персональных данных АО ИК «ЛОКО-Инвест» Дата раскрытия – 05.06.2020 г.<i class="fa fa-chevron-circle-right"></i></a>
+							</div>
+						</div>
+					</div>
+					
+					</div>
+					
+					<div class="sec-title text-center medium">
+					<h2>АРХИВНАЯ ДОКУМЕНТАЦИЯ ПО БРОКЕРСКОЙ ДЕЯТЕЛЬНОСТИ</h2>
+					<span class="decor-line">
+						<span class="decor-line-inner"></span>
+					</span>
+				</div><!-- /.sec-title -->
+					<div class="panel-group accordion" id="accordion-8" role="tablist">
+				<div class="single-sidebar">
+					<div class="download-broucher ">
+						<div class="text-box">
+							<a href="/doc/politica_broker.pdf"><i class="fa fa-file-pdf-o"></i>Политика совершения торговых операций АО ИК «ЛОКО-Инвест» (Дата раскрытия 31.05.2018 г., актуально с 01.06.2018 г. по 09.03.2021 г.) <i class="fa fa-chevron-circle-right"></i></a>
+						</div><!-- /.text-box -->	
+						<div class="text-box">
+							<a href="/doc/РЕГЛАМЕНТ БРОКЕРСКОГО ОБСЛУЖ_25.12.2019.pdf"><i class="fa fa-file-pdf-o"></i>Регламент брокерского обслуживания (Дата раскрытия 25.12.2019 г., актуально с 01.01.2020 г.) <i class="fa fa-chevron-circle-right"></i></a>
+						</div><!-- /.text-box -->																		
+						<div class="text-box">
+							<a href="/doc/reg_broker28112019.pdf"><i class="fa fa-file-pdf-o"></i>Регламент брокерского обслуживания (Дата раскрытия 28.11.2019 г., актуально с 01.12.2019 г. по 31.12.2019 г.) <i class="fa fa-chevron-circle-right"></i></a>
+						</div><!-- /.text-box -->													
+						<div class="text-box">
+							<a href="/doc/broker27022019.pdf"><i class="fa fa-file-pdf-o"></i>Регламент брокерского обслуживания (Дата раскрытия: 27.02.2019 г., актуально с 04.03.2019 г. по 30.11.2019 г.) <i class="fa fa-chevron-circle-right"></i></a>
+						</div><!-- /.text-box -->							
+						<div class="text-box">
+							<a href="/doc/broker29122018.pdf"><i class="fa fa-file-pdf-o"></i>Регламент брокерского обслуживания (Дата раскрытия 25.12.2018 г., актуально с 29.12.2018 г. по 03.03.2019 г.) <i class="fa fa-chevron-circle-right"></i></a>
+						</div><!-- /.text-box -->						
+						<div class="text-box">
+							<a href="/doc/broker13122018.pdf"><i class="fa fa-file-pdf-o"></i>Регламент брокерского обслуживания (Дата раскрытия 29.11.2018 г., актуально с 13.12.2018 г. по 28.12.2018 г.) <i class="fa fa-chevron-circle-right"></i></a>
+						</div><!-- /.text-box -->					
+						<div class="text-box">
+							<a href="/doc/broker04052018.pdf"><i class="fa fa-file-pdf-o"></i>Регламент брокерского обслуживания (Дата раскрытия 19.04.2018 г., актуально с 04.05.2018 г. по 12.12.2018 г.) <i class="fa fa-chevron-circle-right"></i></a>
+						</div><!-- /.text-box -->
+						<div class="text-box">
+							<a href="/doc/broker09012018.pdf"><i class="fa fa-file-pdf-o"></i>Регламент брокерского обслуживания (Дата раскрытия 26.12.2017 г., актуально с 09.01.2018 г. по 03.05.2018 г.) <i class="fa fa-chevron-circle-right"></i></a>
+						</div><!-- /.text-box -->					
+						<div class="text-box">
+							<a href="/doc/broker06102017.pdf"><i class="fa fa-file-pdf-o"></i>Регламент брокерского обслуживания (Дата раскрытия 21.09.2017 г., актуально с 06.10.2017 г. по 08.01.2018 г.) <i class="fa fa-chevron-circle-right"></i></a>
+						</div><!-- /.text-box -->
+					<div class="text-box">
+							<a href="/doc/broker01082017.pdf"><i class="fa fa-file-pdf-o"></i>Регламент брокерского обслуживания (Дата раскрытия 18.07.2017 г., актуально с 01.08.2017 г. по 05.10.2017 г.) <i class="fa fa-chevron-circle-right"></i></a>
+						</div><!-- /.text-box -->
+						<div class="text-box">
+							<a href="/doc/broker01052017.pdf"><i class="fa fa-file-pdf-o"></i>Регламент брокерского обслуживания (Дата раскрытия 14.04.2017 г., актуально с 01.05.2017 г. по 31.07.2017 г.) <i class="fa fa-chevron-circle-right"></i></a>
+                     </div><!-- /.text-box -->
+                     </div><!-- /.download-broucher -->
+				</div><!-- /.single-sidebar -->               
+                </div>
+					
+				</div>
+				<div class="sec-title text-center medium">
+					<h2>АРХИВНАЯ ДОКУМЕНТАЦИЯ ПО ДЕПОЗИТАРНОЙ ДЕЯТЕЛЬНОСТИ</h2>
+					<span class="decor-line">
+						<span class="decor-line-inner"></span>
+					</span>
+				</div><!-- /.sec-title -->
+                     <div class="panel-group accordion" id="accordion-8" role="tablist">
+				<div class="single-sidebar">
+					<div class="download-broucher ">
+                     <div class="text-box">
+							<a href="/doc/deposit_dogovor2.pdf"><i class="fa fa-file-pdf-o"></i>Депозитарный договор (Дата раскрытия 29.11.2018 г., актуально с 04.12.2018 г. по 09.03.2021 г.) <i class="fa fa-chevron-circle-right"></i></a>
+						</div><!-- /.text-box -->					
+						<div class="text-box">
+							<a href="/doc/deposit_dogovor.pdf"><i class="fa fa-file-pdf-o"></i>Депозитарный договор (Дата раскрытия 24.10.2018 г., актуально с 24.10.2018 г. по 03.12.2018 г.) <i class="fa fa-chevron-circle-right"></i></a>
+						</div><!-- /.text-box -->
+						<div class="text-box">
+							<a href="/doc/dep_dog_s_DU.pdf"><i class="fa fa-file-pdf-o"></i>Депозитарный договор с Доверительным управляющим (Дата раскрытия 24.10.2018 г., актуально с 24.10.2018 г.) <i class="fa fa-chevron-circle-right"></i></a>
+						</div><!-- /.text-box -->					
+						<div class="text-box">
+							<a href="/doc/dog_o_mezhdep_otn.pdf"><i class="fa fa-file-pdf-o"></i>Договор о междепозитарных отношениях (Дата раскрытия 24.10.2018 г., актуально с 24.10.2018 г.) <i class="fa fa-chevron-circle-right"></i></a>
+						</div><!-- /.text-box --> 
+						<div class="text-box">
+							<a href="/doc/Условия_осуществления_депозитарной_деятельности_ФИНАЛ 01.01.2020.pdf"><i class="fa fa-file-pdf-o"></i>Условия осуществления депозитарной деятельности (дата раскрытия 25.12.2019 г., актуально с 01.01.2020 г.) <i class="fa fa-chevron-circle-right"></i></a>
+						</div><!-- /.text-box -->						
+						<div class="text-box">
+							<a href="/doc/usl_os_dep_dejat3.pdf"><i class="fa fa-file-pdf-o"></i>Условия осуществления депозитарной деятельности (Дата раскрытия 26.12.2018 г., актуально с 29.12.2018 г. по 31.12.2019 г.) <i class="fa fa-chevron-circle-right"></i></a>
+						</div><!-- /.text-box -->
+						<div class="text-box">
+							<a href="/doc/usl_os_dep_dejat2.pdf"><i class="fa fa-file-pdf-o"></i>Условия осуществления депозитарной деятельности (Дата раскрытия 29.11.2018 г., актуально с 04.12.2018 г. по 28.12.2018 г.) <i class="fa fa-chevron-circle-right"></i></a>
+						</div><!-- /.text-box -->
+						<div class="text-box">
+							<a href="/doc/usl_os_dep_dejat.pdf"><i class="fa fa-file-pdf-o"></i>Условия осуществления депозитарной деятельности (Дата раскрытия 24.10.2018 г., актуально с 24.10.2018 г. по 03.12.2018 г.) <i class="fa fa-chevron-circle-right"></i></a>
+						</div><!-- /.text-box -->
+						<div class="text-box">
+							<a href="/doc/forms_pred_dep.pdf"><i class="fa fa-file-pdf-o"></i>Формы документов, представляемые депозитарием депонентам (Дата раскрытия 24.10.2018 г., актуально с 24.10.2018 г.) <i class="fa fa-chevron-circle-right"></i></a>
+						</div><!-- /.text-box -->	
+						<div class="text-box">
+							<a href="/doc/forms_pred_dep_v_depos3.pdf"><i class="fa fa-file-pdf-o"></i>Формы документов, представляемые депонентами в депозитарий (Дата раскрытия 26.12.2018 г., актуально с 28.12.2018 г.) <i class="fa fa-chevron-circle-right"></i></a>
+						</div><!-- /.text-box -->							
+						<div class="text-box">
+							<a href="/doc/forms_pred_dep_v_depos2.pdf"><i class="fa fa-file-pdf-o"></i>Формы документов, представляемые депонентами в депозитарий (Дата раскрытия 29.11.2018 г.,актуально с 04.12.2018 г. по 28.12.2018 г.) <i class="fa fa-chevron-circle-right"></i></a>
+						</div><!-- /.text-box -->						
+						<div class="text-box">
+							<a href="/doc/forms_pred_dep_v_depos.pdf"><i class="fa fa-file-pdf-o"></i>Формы документов, представляемые депонентами в депозитарий (Дата раскрытия 24.10.2018 г., актуально с 24.10.2018 г. по 03.12.2018 г.) <i class="fa fa-chevron-circle-right"></i></a>
+						</div><!-- /.text-box -->
+						<div class="text-box">
+							<a href="/doc/tarify_dep2.pdf"><i class="fa fa-file-pdf-o"></i>Сведения о тарифах или тарифной политике на услуги депозитария (Дата раскрытия 29.11.2018 г., актуально с 04.12.2018 г.) <i class="fa fa-chevron-circle-right"></i></a>
+						</div><!-- /.text-box -->  						
+						<div class="text-box">
+							<a href="/doc/tarify_dep.pdf"><i class="fa fa-file-pdf-o"></i>Сведения о тарифах или тарифной политике на услуги депозитария (Дата раскрытия 24.10.2018 г., актуально с 24.10.2018 г. по 03.12.2018 г.) <i class="fa fa-chevron-circle-right"></i></a>
+						</div><!-- /.text-box -->
+					</div><!-- /.download-broucher -->
+				</div><!-- /.single-sidebar -->               
+                </div>
+					
+				</div>
+				<div style="margin: 8px;">
+                    <span style="margin: 32px;">Вся приведенная в данном разделе информация актуальна с даты ее опубликования по настоящее время, если прямо не указано иное, и доступна всем заинтересованным лицам для ознакомления круглосуточно. Раскрываемая на сайте информация находится в постоянном доступе бессрочно.
+                    </span>
+                    <br>
+                    <span style="margin: 32px;">Датой раскрытия информации является соответственно:</span>
+                    <br>
+                    <ul>
+                    <li>дата, указанная в качестве таковой / в отношении событий, по которым не указана дата раскрытия (актуализации), такой датой является дата соответствующего события/вступления в силу документа;</li>
+                    <li>в отношении событий/документов, имевших место до вступления в силу Указания Банка России от 28.12.2015 г. N 3921-У "О составе, объеме, порядке и сроках раскрытия информации профессиональными участниками рынка ценных бумаг" (далее – Указание 3921-У), в отношении которых не указана дата раскрытия, такой датой является дата соответствующего события/вступления в силу документа. Если дату соответствующего события установить невозможно, то этой датой считается дата возникновения обязанности раскрывать информацию в соответствии с Указанием 3921-У.</li>
+                    </ul>
+                    <br>                    
+				</div>				 
+		<!-- /.row -->
+	<!-- /.container -->
+</section><!-- /.sec-pad -->
+
+

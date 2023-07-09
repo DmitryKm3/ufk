@@ -1,0 +1,621 @@
+<header id="main-header" class="container-my">
+    <div class="row align-items-center">
+        <div class="col-lg-4 col-md-4 col-sm-4 col-xs-12 logo-block">
+            <a href="http://finansovmir.ru">
+                <img src="http://finansovmir.ru/wp-content/themes/uk-mf/assets/img/MF_Logo.svg" alt="УК Мир Финансов>" class="img-fluid">
+            </a>
+        </div>
+        <div class="offset-md-2 offset-lg-2 col-lg-6 col-md-6 col-sm-6 col-xs-12 top-call-to-action-block align-content-center">
+            <p class="contact-block-top">
+                <a href="tel:+7 499 653-84-53" class="top-phone-num">+7 499 653-84-53</a>
+                <button type="button" class="btn btn-lg btn-theme ml-4 top-popover-form" data-toggle="popover" data-placement="bottom" data-content="" data-original-title="" title="">Связаться с нами</button>
+
+            </p><div id="g-recaptcha"></div>
+            <p></p>
+            <form role="search" method="get" id="searchform" action="http://finansovmir.ru/">
+    <button id="s-submit" type="submit"><img src="http://finansovmir.ru/wp-content/themes/uk-mf/assets/img/search-icon.svg" alt="" class="search-icon"></button>
+    <input type="text" placeholder="Поиск" class="form-control" value="" name="s" id="s">
+</form>        </div>
+    </div>
+    <div class="row">
+        <div class="col-12">
+            <div class="top-menu">
+	            <div class="menu-menju-v-zagolovke-container"><ul id="menu-menju-v-zagolovke" class="list-inline"><li id="menu-item-22" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-home menu-item-22"><a href="http://finansovmir.ru/">Главная</a></li>
+<li id="menu-item-23" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-23"><a href="http://finansovmir.ru/dokumenty/">Документы</a></li>
+<li id="menu-item-26" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-26"><a href="http://finansovmir.ru/novosti/">Новости</a></li>
+<li id="menu-item-27" class="menu-item menu-item-type-post_type menu-item-object-page current-menu-item page_item page-item-16 current_page_item menu-item-27"><a href="http://finansovmir.ru/raskrytie-informacii/" aria-current="page">Раскрытие информации*</a></li>
+<li id="menu-item-156" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-156"><a target="_blank" rel="noopener" href="/wp-content/uploads/prez.pdf">Презентация</a></li>
+<li id="menu-item-25" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-25"><a href="http://finansovmir.ru/nasha-komanda/">Наша команда</a></li>
+<li id="menu-item-24" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-24"><a href="http://finansovmir.ru/kontakty/">Контакты</a></li>
+</ul></div>            </div>
+            <div class="mob-menu">
+                <button class="btn btn-outline-secondary" type="button" data-toggle="collapse" data-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
+                    <i class="bi bi-list"></i> Меню
+                </button>
+                <div class="collapse navbar-collapse" id="navbarSupportedContent">
+                    <div class="menu-menju-v-zagolovke-container"><ul id="menu-menju-v-zagolovke-1" class="list-unstyled"><li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-home menu-item-22"><a href="http://finansovmir.ru/">Главная</a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-23"><a href="http://finansovmir.ru/dokumenty/">Документы</a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-26"><a href="http://finansovmir.ru/novosti/">Новости</a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page current-menu-item page_item page-item-16 current_page_item menu-item-27"><a href="http://finansovmir.ru/raskrytie-informacii/" aria-current="page">Раскрытие информации*</a></li>
+<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-156"><a target="_blank" rel="noopener" href="/wp-content/uploads/prez.pdf">Презентация</a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-25"><a href="http://finansovmir.ru/nasha-komanda/">Наша команда</a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-24"><a href="http://finansovmir.ru/kontakty/">Контакты</a></li>
+</ul></div>                </div>
+            </div>
+        </div>
+    </div>
+</header>
+<div class="top-menu-border"></div>
+
+<div class="container-my mt-20">
+    <div class="breadcrumbs" itemscope="" itemtype="http://schema.org/BreadcrumbList"><span itemprop="itemListElement" itemscope="" itemtype="http://schema.org/ListItem"><a class="breadcrumbs__link" href="http://finansovmir.ru/" itemprop="item"><span itemprop="name">Главная</span></a><meta itemprop="position" content="1"></span><span class="breadcrumbs__separator"> • </span><span class="breadcrumbs__current">Раскрытие информации*</span></div><!-- .breadcrumbs --></div>
+<div class="container-my">
+    <div class="row">
+        <div class="col-12">
+			                <div class="collapse-head-wrapper">
+                    <div class="collapse-trigger-head-wrapper position-relative mb-35">
+                        <a class="text-theme fz30 a-Black doc-coll-trigger" data-toggle="collapse" href="#collapse-604-342-2800" role="button" aria-expanded="false" aria-controls="collapse-604-342-2800">
+							Информация об организации <span class="caret-sm-icon"></span>
+                        </a>
+                        <div class="doc-line-block"></div>
+                    </div>
+                    <div class="collapse collapse-body-wrapper" id="collapse-604-342-2800">
+						<table class="alignleft" style="width: 1000px;" border="1" cellspacing="1" cellpadding="1">
+<tbody>
+<tr>
+<td><span style="font-family: arial, helvetica, sans-serif; font-size: 14px;">Полное наименование финансовой организации</span></td>
+<td><span style="font-family: arial, helvetica, sans-serif; font-size: 14px;">Общество с ограниченной ответственностью «Управляющая компания «Мир Финансов»</span></td>
+</tr>
+<tr>
+<td><span style="font-family: arial, helvetica, sans-serif; font-size: 14px;">Краткое наименование финансовой организации</span></td>
+<td><span style="font-family: arial, helvetica, sans-serif; font-size: 14px;">ООО «УК «Мир Финансов»</span></td>
+</tr>
+<tr>
+<td><span style="font-family: arial, helvetica, sans-serif; font-size: 14px;">ИНН</span></td>
+<td><span style="font-family: arial, helvetica, sans-serif; font-size: 14px;">7704849523</span></td>
+</tr>
+<tr>
+<td><span style="font-family: arial, helvetica, sans-serif; font-size: 14px;">ОГРН</span></td>
+<td><span style="font-family: arial, helvetica, sans-serif; font-size: 14px;">5137746044959</span></td>
+</tr>
+<tr>
+<td><span style="font-family: arial, helvetica, sans-serif; font-size: 14px;">Адрес юридического лица</span></td>
+<td><span style="font-size: 14px; font-family: arial, helvetica, sans-serif;">119435, город Москва, Большой Саввинский переулок, дом 2, строение 9, эт. 2, пом. V, оф. 10</span></td>
+</tr>
+<tr>
+<td><span style="font-family: arial, helvetica, sans-serif; font-size: 14px;">Номер и дата выдача лицензии</span></td>
+<td><span style="font-size: 14px; font-family: arial, helvetica, sans-serif;">21-000-1-00976 от 22 мая 2014г.</span></td>
+</tr>
+<tr>
+<td><span style="font-family: arial, helvetica, sans-serif; font-size: 14px;">Номер телефона</span></td>
+<td><span style="font-size: 14px; font-family: arial, helvetica, sans-serif;">+7 499 653 84 53</span></td>
+</tr>
+<tr>
+<td><span style="font-family: arial, helvetica, sans-serif; font-size: 14px;">Адрес сайта</span></td>
+<td><span style="font-size: 14px; font-family: arial, helvetica, sans-serif;">finansovmir.ru</span></td>
+</tr>
+</tbody>
+</table>
+<p><span style="font-family: arial, helvetica, sans-serif; font-size: 14px;">Информация изменена 01.10.2021</span></p>
+                    </div>
+                </div>
+                <div class="clearfix"></div>
+			                <div class="collapse-head-wrapper">
+                    <div class="collapse-trigger-head-wrapper position-relative mb-35">
+                        <a class="text-theme fz30 a-Black doc-coll-trigger" data-toggle="collapse" href="#collapse-604-342-2801" role="button" aria-expanded="false" aria-controls="collapse-604-342-2801">
+							Документы и отчетность <span class="caret-sm-icon"></span>
+                        </a>
+                        <div class="doc-line-block"></div>
+                    </div>
+                    <div class="collapse collapse-body-wrapper" id="collapse-604-342-2801">
+						<h3><strong><a href="/wp-content/uploads/31-05-23.pdf" target="_blank" rel="noopener"><span style="color: #771f1b;">Расчет размера собственных средств на 31.05.2023г.</span></a></strong></h3>
+<p><span style="color: #666666;">Размещено 16.06.2023г. в 16-30, доступно к ознакомлению до 16.06.2026г.</span></p>
+<h3><strong><a href="/wp-content/uploads/31-03-23-new.pdf" target="_blank" rel="noopener"><span style="color: #771f1b;">Скорректированный расчет размера собственных средств на 31.03.2023г.</span></a></strong></h3>
+<p><span style="color: #666666;">Размещено 25.05.2023г. в 20-00, доступно к ознакомлению до 25.05.2026г.</span></p>
+<h3><strong><a href="/wp-content/uploads/28-02-23-new-2.pdf" target="_blank" rel="noopener"><span style="color: #771f1b;">Скорректированный расчет размера собственных средств на 28.02.2023г.</span></a></strong></h3>
+<p><span style="color: #666666;">Размещено 25.05.2023г. в 20-00, доступно к ознакомлению до 25.05.2026г.</span></p>
+<h3><strong><a href="/wp-content/uploads/31-01-23-new-2.pdf" target="_blank" rel="noopener"><span style="color: #771f1b;">Скорректированный расчет размера собственных средств на 31.01.2023г.</span></a></strong></h3>
+<p><span style="color: #666666;">Размещено 25.05.2023г. в 20-00, доступно к ознакомлению до 25.05.2026г.</span></p>
+<h3><strong><a href="/wp-content/uploads/31-12-22-new-2.pdf" target="_blank" rel="noopener"><span style="color: #771f1b;">Скорректированный расчет размера собственных средств на 31.12.2022г.</span></a></strong></h3>
+<p><span style="color: #666666;">Размещено 25.05.2023г. в 20-00, доступно к ознакомлению до 25.05.2026г.</span></p>
+<h3><strong><a href="/wp-content/uploads/30-11-22-new.pdf" target="_blank" rel="noopener"><span style="color: #771f1b;">Скорректированный расчет размера собственных средств на 30.11.2022г.</span></a></strong></h3>
+<p><span style="color: #666666;">Размещено 25.05.2023г. в 20-00, доступно к ознакомлению до 25.05.2026г.</span></p>
+<h3><strong><a href="/wp-content/uploads/31-10-22-new.pdf" target="_blank" rel="noopener"><span style="color: #771f1b;">Скорректированный расчет размера собственных средств на 31.10.2022г.</span></a></strong></h3>
+<p><span style="color: #666666;">Размещено 25.05.2023г. в 20-00, доступно к ознакомлению до 25.05.2026г.</span></p>
+<h3><strong><a href="/wp-content/uploads/30-09-22-new.pdf" target="_blank" rel="noopener"><span style="color: #771f1b;">Скорректированный расчет размера собственных средств на 30.09.2022г.</span></a></strong></h3>
+<p><span style="color: #666666;">Размещено 25.05.2023г. в 20-00, доступно к ознакомлению до 25.05.2026г.</span></p>
+<h3><strong><a href="/wp-content/uploads/31-08-22-new.pdf" target="_blank" rel="noopener"><span style="color: #771f1b;">Скорректированный расчет размера собственных средств на 31.08.2022г.</span></a></strong></h3>
+<p><span style="color: #666666;">Размещено 25.05.2023г. в 20-00, доступно к ознакомлению до 25.05.2026г.</span></p>
+<h3><strong><a href="/wp-content/uploads/31-07-22-new.pdf" target="_blank" rel="noopener"><span style="color: #771f1b;">Скорректированный расчет размера собственных средств на 31.07.2022г.</span></a></strong></h3>
+<p><span style="color: #666666;">Размещено 25.05.2023г. в 20-00, доступно к ознакомлению до 25.05.2026г.</span></p>
+<h3><strong><a href="/wp-content/uploads/30-06-22-new.pdf" target="_blank" rel="noopener"><span style="color: #771f1b;">Скорректированный расчет размера собственных средств на 30.06.2022г.</span></a></strong></h3>
+<p><span style="color: #666666;">Размещено 25.05.2023г. в 20-00, доступно к ознакомлению до 25.05.2026г.</span></p>
+<h3><strong><a href="/wp-content/uploads/31-05-22-new.pdf" target="_blank" rel="noopener"><span style="color: #771f1b;">Скорректированный расчет размера собственных средств на 31.05.2022г.</span></a></strong></h3>
+<p><span style="color: #666666;">Размещено 25.05.2023г. в 20-00, доступно к ознакомлению до 25.05.2026г.</span></p>
+<h3><strong><a href="/wp-content/uploads/28-02-23-new.pdf" target="_blank" rel="noopener"><span style="color: #771f1b;">Скорректированный расчет размера собственных средств на 28.02.2023г.</span></a></strong></h3>
+<p><span style="color: #666666;">Размещено 25.05.2023г. в 15-30, доступно к ознакомлению до 25.05.2026г.</span></p>
+<h3><strong><a href="/wp-content/uploads/31-01-23-new.pdf" target="_blank" rel="noopener"><span style="color: #771f1b;">Скорректированный расчет размера собственных средств на 31.01.2023г.</span></a></strong></h3>
+<p><span style="color: #666666;">Размещено 25.05.2023г. в 15-30, доступно к ознакомлению до 25.05.2026г.</span></p>
+<h3><strong><a href="/wp-content/uploads/31-12-22-new.pdf" target="_blank" rel="noopener"><span style="color: #771f1b;">Скорректированный расчет размера собственных средств на 31.12.2022г.</span></a></strong></h3>
+<p><span style="color: #666666;">Размещено 25.05.2023г. в 15-30, доступно к ознакомлению до 25.05.2026г.</span></p>
+<h3><strong><a href="/wp-content/uploads/30-04-23_new.pdf" target="_blank" rel="noopener"><span style="color: #771f1b;">Скорректированный расчет размера собственных средств на 30.04.2023г.</span></a></strong></h3>
+<p><span style="color: #666666;">Размещено 24.05.2023г. в 16-30, доступно к ознакомлению до 24.05.2026г.</span></p>
+<h3><strong><a href="/wp-content/uploads/30-04-23.pdf" target="_blank" rel="noopener"><span style="color: #771f1b;">Расчет размера собственных средств на 30.04.2023г.</span></a></strong></h3>
+<p><span style="color: #666666;">Размещено 22.05.2023г. в 18-20, доступно к ознакомлению до 22.05.2026г.</span></p>
+<h3><strong><a href="/wp-content/uploads/bfo_1_2023.pdf" target="_blank" rel="noopener"><span style="color: #771f1b;">Промежуточная бухгалтерская отчетность за 1 квартал 2023 года</span></a></strong></h3>
+<p><span style="color: #666666;">Размещено 05.05.2023г. в 17-15, доступно к ознакомлению до 05.05.2026г.</span></p>
+<h3><strong><a href="/wp-content/uploads/31-03-23.pdf" target="_blank" rel="noopener"><span style="color: #771f1b;">Расчет размера собственных средств на 31.03.2023г.</span></a></strong></h3>
+<p><span style="color: #666666;">Размещено 18.04.2023г. в 17-20, доступно к ознакомлению до 18.04.2026г.</span></p>
+<h3><strong><a href="/wp-content/uploads/msfo2022.pdf" target="_blank" rel="noopener"><span style="color: #771f1b;">Годовая финансовая отчетность в соответствии с МСФО за 2022 год и аудиторское заключение</span></a></strong></h3>
+<p><span style="color: #666666;">Размещено 18.04.2023 в 17-10, доступно к ознакомлению до 18.04.2026г.</span></p>
+<h3><strong><a href="/wp-content/uploads/mes-fin.pdf" target="_blank" rel="noopener"><span style="color: #771f1b;">Информация для получателей финансовых услуг</span></a></strong></h3>
+<p><span style="color: #666666;">Размещено 01.04.2023 в 15-15, доступно к ознакомлению до 01.04.2026г.</span></p>
+<h3><strong><a href="/wp-content/uploads/buh2022.pdf" target="_blank" rel="noopener"><span style="color: #771f1b;">Годовая бухгалтерская (финансовая) отчетность и аудиторское заключение за 2022 год</span></a></strong></h3>
+<p><span style="color: #666666;">Размещено 28.03.2023 в 17-15, доступно к ознакомлению до 28.03.2026г.</span></p>
+<h3><strong><a href="/wp-content/uploads/28-02-23.pdf" target="_blank" rel="noopener"><span style="color: #771f1b;">Расчет размера собственных средств на 28.02.2023г.</span></a></strong></h3>
+<p><span style="color: #666666;">Размещено 17.03.2023г. в 15-30, доступно к ознакомлению до 17.03.2026г.</span></p>
+<h3><strong><a href="/wp-content/uploads/31-01-23.pdf" target="_blank" rel="noopener"><span style="color: #771f1b;">Расчет размера собственных средств на 31.01.2023г.</span></a></strong></h3>
+<p><span style="color: #666666;">Размещено 14.02.2023г. в 14-00, доступно к ознакомлению до 14.02.2026г.</span></p>
+<h3><strong><a href="/wp-content/uploads/31-12-22.pdf" target="_blank" rel="noopener"><span style="color: #771f1b;">Расчет размера собственных средств на 31.12.2022г.</span></a></strong></h3>
+<p><span style="color: #666666;">Размещено 23.01.2023г. в 11-00, доступно к ознакомлению до 23.01.2026г.</span></p>
+<h3><strong><a href="/wp-content/uploads/30-11-22.pdf" target="_blank" rel="noopener"><span style="color: #771f1b;">Расчет размера собственных средств на 30.11.2022г.</span></a></strong></h3>
+<p><span style="color: #666666;">Размещено 13.12.2022г. в 17-00, доступно к ознакомлению до 13.12.2025г.</span></p>
+<h3><strong><a href="/wp-content/uploads/31-10-22.pdf" target="_blank" rel="noopener"><span style="color: #771f1b;">Расчет размера собственных средств на 31.10.2022г.</span></a></strong></h3>
+<p><span style="color: #666666;">Размещено 16.11.2022г. в 17-30, доступно к ознакомлению до 16.11.2025г.</span></p>
+<h3><strong><a href="/wp-content/uploads/BFO_9_2022.pdf" target="_blank" rel="noopener"><span style="color: #771f1b;">Промежуточная бухгалтерская отчетность за 9 месяцев 2022 года</span></a></strong></h3>
+<p><span style="color: #666666;">Размещено 28.10.2022г. в 17-15, доступно к ознакомлению до 28.10.2025г.</span></p>
+<h3><strong><a href="/wp-content/uploads/30-09-22.pdf" target="_blank" rel="noopener"><span style="color: #771f1b;">Расчет размера собственных средств на 30.09.2022г.</span></a></strong></h3>
+<p><span style="color: #666666;">Размещено 17.10.2022г. в 18-30, доступно к ознакомлению до 17.10.2025г.</span></p>
+<h3><strong><a href="/wp-content/uploads/31-08-22.pdf" target="_blank" rel="noopener"><span style="color: #771f1b;">Расчет размера собственных средств на 31.08.2022г.</span></a></strong></h3>
+<p><span style="color: #666666;">Размещено 14.09.2022г. в 16-30, доступно к ознакомлению до 14.09.2025г.</span></p>
+<h3><strong><a href="/wp-content/uploads/31-07-22.pdf" target="_blank" rel="noopener"><span style="color: #771f1b;">Расчет размера собственных средств на 31.07.2022г.</span></a></strong></h3>
+<p><span style="color: #666666;">Размещено 12.08.2022г. в 14-30, доступно к ознакомлению до 12.08.2025г.</span></p>
+<h3><strong><a href="/wp-content/uploads/30-06-22.pdf" target="_blank" rel="noopener"><span style="color: #771f1b;">Расчет размера собственных средств на 30.06.2022г.</span></a></strong></h3>
+<p><span style="color: #666666;">Размещено 18.07.2022г. в 18-30, доступно к ознакомлению до 18.07.2025г.</span></p>
+<h3><strong><a href="/wp-content/uploads/31-05-22.pdf" target="_blank" rel="noopener"><span style="color: #771f1b;">Расчет размера собственных средств на 31.05.2022г.</span></a></strong></h3>
+<p><span style="color: #666666;">Размещено 15.06.2022г. в 13-30, доступно к ознакомлению до 15.06.2025г.</span></p>
+<h3><strong><a href="/wp-content/uploads/30-04-22.pdf" target="_blank" rel="noopener"><span style="color: #771f1b;">Расчет размера собственных средств на 30.04.2022г.</span></a></strong></h3>
+<p><span style="color: #666666;">Размещено 18.05.2022г. в 13-00, доступно к ознакомлению до 18.05.2025г.</span></p>
+<h3><strong><a href="/wp-content/uploads/msfo2021.pdf" target="_blank" rel="noopener"><span style="color: #771f1b;">Годовая финансовая отчетность в соответствии с МСФО за 2021 год и аудиторское заключение</span></a></strong></h3>
+<p><span style="color: #666666;">Размещено 21.04.2022 в 18-10, доступно к ознакомлению до 21.04.2025</span></p>
+<h3><strong><a href="/wp-content/uploads/31-03-22.pdf" target="_blank" rel="noopener"><span style="color: #771f1b;">Расчет размера собственных средств на 31.03.2022г.</span></a></strong></h3>
+<p><span style="color: #666666;">Размещено 14.04.2022г. в 15-00, доступно к ознакомлению до 14.04.2025г.</span></p>
+<h3><strong><a href="/wp-content/uploads/buh2021.pdf" target="_blank" rel="noopener"><span style="color: #771f1b;">Годовая бухгалтерская (финансовая) отчетность и аудиторское заключение за 2021 год</span></a></strong></h3>
+<p><span style="color: #666666;">Размещено 31.03.2022 в 18-10, доступно к ознакомлению до 01.04.2025</span></p>
+<h3><strong><a href="/wp-content/uploads/28-02-22.pdf" target="_blank" rel="noopener"><span style="color: #771f1b;">Расчет размера собственных средств на 28.02.2022г.</span></a></strong></h3>
+<p><span style="color: #666666;">Размещено 21.03.2022г. в 13-30, доступно к ознакомлению до 21.03.2025г.</span></p>
+<h3><strong><a href="/wp-content/uploads/31-01-22.pdf" target="_blank" rel="noopener"><span style="color: #771f1b;">Расчет размера собственных средств на 31.01.2022г.</span></a></strong></h3>
+<p><span style="color: #666666;">Размещено 16.02.2022г. в 14-00, доступно к ознакомлению до 16.02.2025г.</span></p>
+<h3><strong><a href="/wp-content/uploads/31-12-21.pdf" target="_blank" rel="noopener"><span style="color: #771f1b;">Расчет размера собственных средств на 31.12.2021г.</span></a></strong></h3>
+<p><span style="color: #666666;">Размещено 24.01.2022г. в 14-00, доступно к ознакомлению до 24.01.2025г.</span></p>
+<h3><strong><a href="/wp-content/uploads/30-11-21.pdf" target="_blank" rel="noopener"><span style="color: #771f1b;">Расчет размера собственных средств на 30.11.2021г.</span></a></strong></h3>
+<p><span style="color: #666666;">Размещено 14.12.2021г. в 18-00, доступно к ознакомлению до 14.12.2024г.</span></p>
+<h3><strong><a href="/wp-content/uploads/2021/11/31-10-21-cor.pdf" target="_blank" rel="noopener"><span style="color: #771f1b;">Скорректированный расчет размера собственных средств на 31.10.2021г.</span></a></strong></h3>
+<p><span style="color: #666666;">Размещено 29.11.2021г. в 14-00, доступно к ознакомлению до 29.11.2022г.</span></p>
+<h3><strong><a href="/wp-content/uploads/2021/11/31-10-21.pdf" target="_blank" rel="noopener"><span style="color: #771f1b;">Расчет размера собственных средств на 31.10.2021г.</span></a></strong></h3>
+<p><span style="color: #666666;">Размещено 17.11.2021г. в 18-00, доступно к ознакомлению до 17.11.2022г.</span></p>
+<h3><strong><a href="/wp-content/uploads/2021/11/BFO_9_2021.pdf" target="_blank" rel="noopener"><span style="color: #771f1b;">Промежуточная бухгалтерская отчетность за 9 месяцев 2021 года</span></a></strong></h3>
+<p><span style="color: #666666;">Размещено 29.10.2021г. в 10-00, доступно к ознакомлению до 30.10.2024г.</span></p>
+<h3><strong><a href="/wp-content/uploads/2021/10/30-09-21.pdf" target="_blank" rel="noopener"><span style="color: #771f1b;">Расчет размера собственных средств на 30.09.2021г.</span></a></strong></h3>
+<p><span style="color: #666666;">Размещено 15.10.2021г. в 18-00, доступно к ознакомлению до 15.10.2022г.</span></p>
+<h3><strong><a href="/wp-content/uploads/2021/09/31-08-21.pdf" target="_blank" rel="noopener"><span style="color: #771f1b;">Расчет размера собственных средств на 31.08.2021г.</span></a></strong></h3>
+<p><span style="color: #666666;">Размещено 16.09.2021г. в 16-00, доступно к ознакомлению до 16.09.2022г.</span></p>
+<h3><strong><a href="/wp-content/uploads/2021/08/31-07-21.pdf" target="_blank" rel="noopener"><span style="color: #771f1b;">Расчет размера собственных средств на 31.07.2021г.</span></a></strong></h3>
+<p><span style="color: #666666;">Размещено 17.08.2021г. в 18-00, доступно к ознакомлению до 17.08.2022г.</span></p>
+<h3><strong><a href="/wp-content/uploads/30-06-21-corr.pdf" target="_blank" rel="noopener"><span style="color: #771f1b;">Скорректированный расчет размера собственных средств на 30.06.2021г.</span></a></strong></h3>
+<p><span style="color: #666666;">Размещено 24.10.2022г. в 18-10, доступно к ознакомлению до 24.10.2025г.</span></p>
+<h3><strong><a href="/wp-content/uploads/2021/07/30-06-21.pdf" target="_blank" rel="noopener"><span style="color: #771f1b;">Расчет размера собственных средств на 30.06.2021г.</span></a></strong></h3>
+<p><span style="color: #666666;">Размещено 20.07.2021г. в 17-10, доступно к ознакомлению до 20.07.2022г.</span></p>
+<h3><strong><a href="/wp-content/uploads/2021/06/31-05-21.pdf" target="_blank" rel="noopener"><span style="color: #771f1b;">Расчет размера собственных средств на 31.05.2021г.</span></a></strong></h3>
+<p><span style="color: #666666;">Размещено 17.06.2021г. в 14-30, доступно к ознакомлению до 17.06.2022г.</span></p>
+<h3><strong><a href="/wp-content/uploads/2021/05/RSS_UK_0420514_042021.pdf" target="_blank" rel="noopener"><span style="color: #771f1b;">Расчет размера собственных средств на 30.04.2021г.</span></a></strong></h3>
+<p><span style="color: #666666;">Размещено 24.05.2021г. в 14-00, доступно к ознакомлению до 24.05.2022г.</span></p>
+<h3><strong><a href="/wp-content/uploads/2021/05/msfo2020.pdf" target="_blank" rel="noopener"><span style="color: #771f1b;">Годовая финансовая отчетность в соответствии с МСФО за 2020 год и аудиторское заключение</span></a></strong></h3>
+<p><span style="color: #666666;">Размещено 20.04.2021 в 14-10, доступно к ознакомлению до 20.04.2024</span></p>
+<h3><strong><a href="/wp-content/uploads/2021/05/Raschet-razmera-sobstvennyh-sredstv-na-31.03.2021g..pdf" target="_blank" rel="noopener"><span style="color: #771f1b;">Расчет размера собственных средств на 31.03.2021г.</span></a></strong></h3>
+<p><span style="color: #666666;">Размещено 20.04.2021г. в 14-00, доступно к ознакомлению до 20.04.2022г.</span></p>
+<h3><a href="/wp-content/uploads/2021/05/Raschet-razmera-sobstvennyh-sredstv-na-28.02.2021g..pdf" target="_blank" rel="noopener"><span style="color: #771f1b;"><strong>Расчет размера собственных средств на 28.02.2021г.</strong></span></a></h3>
+<p><span style="color: #666666;">Размещено 16.03.2021г. в 17-10, доступно к ознакомлению до 16.03.2022г.&nbsp;</span></p>
+<h3><a href="http://wp-content/uploads/2021/05/Raschet-razmera-sobstvennyh-sredstv-na-31.01.2021g..pdf" target="_blank" rel="noopener"><span style="color: #771f1b;"><strong>Расчет размера собственных средств на 31.01.2021г.</strong></span></a></h3>
+<p><span style="color: #666666;">Размещено 15.02.2021г. в 15-10, доступно к ознакомлению до 25.02.2022г.&nbsp;</span></p>
+<h3><a href="/wp-content/uploads/2021/05/31-12-20.pdf" target="_blank" rel="noopener"><span style="color: #771f1b;"><strong>Расчет размера собственных средств на 31.12.2020г.</strong></span></a></h3>
+<p><span style="color: #666666;">Размещено 25.01.2021г. в 11-50, доступно к ознакомлению до 25.01.2022г.&nbsp;</span></p>
+<h3><a href="/wp-content/uploads/2021/05/30-11-20.pdf" target="_blank" rel="noopener"><span style="color: #771f1b;"><strong>Расчет размера собственных средств на 30.11.2020г.</strong></span></a></h3>
+<p><span style="color: #666666;">Размещено 14.12.2020г. в 18-30, доступно к ознакомлению до 14.12.2021г.&nbsp;</span></p>
+<h3><a href="/wp-content/uploads/2021/05/31-10-20.pdf" target="_blank" rel="noopener"><span style="color: #771f1b;"><strong>Расчет размера собственных средств на 31.10.2020г.</strong></span></a></h3>
+<p><span style="color: #666666;">Размещено 16.11.2020г. в 14-30, доступно к ознакомлению до 16.11.2021г.&nbsp;</span></p>
+<h3><a href="/wp-content/uploads/2021/05/30-09-20.pdf" target="_blank" rel="noopener"><span style="color: #771f1b;"><strong>Расчет размера собственных средств на 30.09.2020г.</strong></span></a></h3>
+<p><span style="color: #666666;">Размещено 13.10.2020г. в 13-00, доступно к ознакомлению до 13.10.2021г.&nbsp;</span></p>
+<h3><a href="/wp-content/uploads/2021/05/31-08-20.pdf" target="_blank" rel="noopener"><span style="color: #771f1b;"><strong>Расчет размера собственных средств на 31.08.2020г.</strong></span></a></h3>
+<p><span style="color: #666666;">Размещено 14.09.2020г. в 17-00, доступно к ознакомлению до 14.09.2021г.&nbsp;</span></p>
+<h3><a href="/wp-content/uploads/2021/05/31-07-20.pdf" target="_blank" rel="noopener"><span style="color: #771f1b;"><strong>Расчет размера собственных средств на 31.07.2020г.</strong></span></a></h3>
+<p><span style="color: #666666;">Размещено 13.08.2020г. в 18-00, доступно к ознакомлению до 13.08.2021г.&nbsp;</span></p>
+<h3><a href="/wp-content/uploads/2021/05/30-06-20.pdf" target="_blank" rel="noopener"><span style="color: #771f1b;"><strong>Расчет размера собственных средств на 30.06.2020г.</strong></span></a></h3>
+<p><span style="color: #666666;">Размещено 15.07.2020г. в 17-30, доступно к ознакомлению до 15.07.2021г.&nbsp;</span></p>
+<h3><a href="/wp-content/uploads/2021/05/31-05-20.pdf" target="_blank" rel="noopener"><span style="color: #771f1b;"><strong>Расчет размера собственных средств на 31.05.2020г.</strong></span></a></h3>
+<p><span style="color: #666666;">Размещено 15.06.2020г. в 15-00, доступно к ознакомлению до 15.06.2021г.&nbsp;</span></p>
+<h3><a href="/wp-content/uploads/2021/05/30-04-20.pdf" target="_blank" rel="noopener"><span style="color: #771f1b;"><strong>Расчет размера собственных средств на 30.04.2020г.</strong></span></a></h3>
+<p><span style="color: #666666;">Размещено 20.05.2020г. в 18-00, доступно к ознакомлению до 20.05.2021г.&nbsp;</span></p>
+<h3><strong><a href="/wp-content/uploads/2021/05/msfo2019.pdf" target="_blank" rel="noopener"><span style="color: #771f1b;">Годовая финансовая отчетность в соответствии с МСФО за 2019 год и аудиторское заключение</span></a></strong></h3>
+<p><span style="color: #666666;">Размещено 23.04.2020 в 18-40, доступно к ознакомлению до 23.04.2023</span></p>
+<h3><a href="/wp-content/uploads/2021/05/31-03-20.pdf" target="_blank" rel="noopener"><span style="color: #771f1b;"><strong>Расчет размера собственных средств на 31.03.2020г.</strong></span></a></h3>
+<p><span style="color: #666666;">Размещено 17.04.2020г. в 14-30, доступно к ознакомлению до 17.04.2021г.&nbsp;</span></p>
+<h3><a href="/wp-content/uploads/2021/05/29-02-20.pdf" target="_blank" rel="noopener"><span style="color: #771f1b;"><strong>Расчет размера собственных средств на 29.02.2020г.</strong></span></a></h3>
+<p><span style="color: #666666;">Размещено 17.03.2020г. в 16-30, доступно к ознакомлению до 17.03.2021г.&nbsp;</span></p>
+<h3><a href="/wp-content/uploads/2021/05/31-01-20.pdf" target="_blank" rel="noopener"><span style="color: #771f1b;"><strong>Расчет размера собственных средств на 31.01.2020г.</strong></span></a></h3>
+<p><span style="color: #666666;">Размещено 13.02.2020г. в 17-00, доступно к ознакомлению до 13.02.2021г.&nbsp;</span></p>
+<h3><a href="/wp-content/uploads/2021/05/31-12-19.pdf" target="_blank" rel="noopener"><span style="color: #771f1b;"><strong>Расчет размера собственных средств на 31.12.2019г.</strong></span></a></h3>
+<p><span style="color: #666666;">Размещено 22.01.2020г. в 15-00, доступно к ознакомлению до 22.01.2021г.&nbsp;</span></p>
+<h3><a href="/wp-content/uploads/2021/05/30-11-19.pdf" target="_blank" rel="noopener"><span style="color: #771f1b;"><strong>Расчет размера собственных средств на 30.11.2019г.</strong></span></a></h3>
+<p><span style="color: #666666;">Размещено 17.12.2019г. в 16-00, доступно к ознакомлению до 17.12.2020г.&nbsp;</span></p>
+<h3><a href="/wp-content/uploads/2021/05/31-10-19.pdf" target="_blank" rel="noopener"><span style="color: #771f1b;"><strong>Расчет размера собственных средств на 31.10.2019г.</strong></span></a></h3>
+<p><span style="color: #666666;">Размещено 31.10.2019г. в 11-00, доступно к ознакомлению до 31.10.2020г.&nbsp;</span></p>
+<h3><a href="/wp-content/uploads/2021/05/30-09-19.pdf" target="_blank" rel="noopener"><span style="color: #771f1b;"><strong>Расчет размера собственных средств на 30.09.2019г.</strong></span></a></h3>
+<p><span style="color: #666666;">Размещено 21.10.2019г. в 11-00, доступно к ознакомлению до 21.10.2020г.&nbsp;</span></p>
+<h3><a href="/wp-content/uploads/2021/05/31-08-19.pdf" target="_blank" rel="noopener"><span style="color: #771f1b;"><strong>Расчет размера собственных средств на 31.08.2019г.</strong></span></a></h3>
+<p><span style="color: #666666;">Размещено 13.09.2019г. в 13-00, доступно к ознакомлению до 13.09.2020г.&nbsp;</span></p>
+<h3><a href="/wp-content/uploads/2021/05/31-07-19.pdf" target="_blank" rel="noopener"><span style="color: #771f1b;"><strong>Расчет размера собственных средств на 31.07.2019г.</strong></span></a></h3>
+<p><span style="color: #666666;">Размещено 14.08.2019г. в 17-00, доступно к ознакомлению до 14.08.2020г.&nbsp;</span></p>
+<h3><a href="/wp-content/uploads/2021/05/30-06-19.pdf" target="_blank" rel="noopener"><span style="color: #771f1b;"><strong>Расчет размера собственных средств на 30.06.2019г.</strong></span></a></h3>
+<p><span style="color: #666666;">Размещено 15.07.2019г. в 14-00, доступно к ознакомлению до 15.07.2020г.&nbsp;</span></p>
+<h3><a href="/wp-content/uploads/2021/05/31-05-19-1.pdf" target="_blank" rel="noopener"><span style="color: #771f1b;"><strong>Расчет размера собственных средств на 31.05.2019г.</strong></span></a></h3>
+<p><span style="color: #666666;">Размещено 17.06.2019г. в 16-00, доступно к ознакомлению до 17.06.2020г.&nbsp;</span></p>
+<h3><a href="/wp-content/uploads/2021/05/30-04-19.pdf" target="_blank" rel="noopener"><span style="color: #771f1b;"><strong>Расчет размера собственных средств на 30.04.2019г.</strong></span></a></h3>
+<p><span style="color: #666666;">Размещено 21.05.2019г. в 18-30, доступно к ознакомлению до 21.05.2020г.&nbsp;</span></p>
+<h3><strong><a href="/wp-content/uploads/2021/05/msfo2018.pdf" target="_blank" rel="noopener"><span style="color: #771f1b;">Годовая финансовая отчетность в соответствии с МСФО за 2018 год и аудиторское заключение</span></a></strong></h3>
+<p><span style="color: #666666;">Размещено 23.04.2019 в 14-40, доступно к ознакомлению до 23.04.2022</span></p>
+<h3><a href="/wp-content/uploads/2021/05/31-03-19.pdf" target="_blank" rel="noopener"><span style="color: #771f1b;"><strong>Расчет размера собственных средств на 31.03.2019г.</strong></span></a></h3>
+<p><span style="color: #666666;">Размещено 12.04.2019г. в 13-00, доступно к ознакомлению до 12.04.2020г.&nbsp;</span></p>
+<h3><a href="/wp-content/uploads/2021/05/28-02-19.pdf" target="_blank" rel="noopener"><span style="color: #771f1b;"><strong>Расчет размера собственных средств на 28.02.2019г.</strong></span></a></h3>
+<p><span style="color: #666666;">Размещено 25.03.2019г. в 13-05, доступно к ознакомлению до 25.03.2020г.&nbsp;</span></p>
+<h3><a href="/wp-content/uploads/2021/05/31-01-19.pdf" target="_blank" rel="noopener"><span style="color: #771f1b;"><strong>Расчет размера собственных средств на 31.01.2019г.</strong></span></a></h3>
+<p><span style="color: #666666;">Размещено 14.02.2019г. в 14-20, доступно к ознакомлению до 14.02.2020г.&nbsp;</span></p>
+<h3><a href="/wp-content/uploads/2021/05/31-12-18.pdf" target="_blank" rel="noopener"><span style="color: #771f1b;"><strong>Расчет размера собственных средств на 31.12.2018г.</strong></span></a></h3>
+<p><span style="color: #666666;">Размещено 23.01.2019г. в 14-20, доступно к ознакомлению до 23.01.2020г.&nbsp;</span></p>
+<h3><a href="/wp-content/uploads/2021/05/30-11-18.pdf" target="_blank" rel="noopener"><span style="color: #771f1b;"><strong>Расчет размера собственных средств на 30.11.2018г.</strong></span></a></h3>
+<p><span style="color: #666666;">Размещено 14.12.2018г. в 10-30, доступно к ознакомлению до 14.12.2019г.&nbsp;</span></p>
+<h3><a href="/wp-content/uploads/2021/05/31-05-18-ut.pdf" target="_blank" rel="noopener"><span style="color: #771f1b;"><strong>Уточненный размера собственных средств на 31.05.2018г.</strong></span></a></h3>
+<p><span style="color: #666666;">Размещено 07.12.2018г. в 18-40, доступно к ознакомлению до 07.12.2019г.&nbsp;</span></p>
+<h3><a href="/wp-content/uploads/2021/05/31-10-18.pdf" target="_blank" rel="noopener"><span style="color: #771f1b;"><strong>Расчет размера собственных средств на 31.10.2018г.</strong></span></a></h3>
+<p><span style="color: #666666;">Размещено 16.11.2018г. в 10-30, доступно к ознакомлению до 16.11.2019г.&nbsp;</span></p>
+<h3><a href="/wp-content/uploads/2021/05/30-09-18.pdf" target="_blank" rel="noopener"><span style="color: #771f1b;"><strong>Расчет размера собственных средств на 30.09.2018г.</strong></span></a></h3>
+<p><span style="color: #666666;">Размещено 15.10.2018г. в 12-30, доступно к ознакомлению до 15.10.2019г.&nbsp;</span></p>
+<h3><a href="/wp-content/uploads/2021/05/31-08-18.pdf" target="_blank" rel="noopener"><span style="color: #771f1b;"><strong>Расчет размера собственных средств на 31.08.2018г.</strong></span></a></h3>
+<p><span style="color: #666666;">Размещено 27.09.2018г. в 12-30, доступно к ознакомлению до 27.09.2019г.&nbsp;</span></p>
+<h3><a href="/wp-content/uploads/2021/05/31-07-18.pdf" target="_blank" rel="noopener"><span style="color: #771f1b;"><strong>Расчет размера собственных средств на 31.07.2018г.</strong></span></a></h3>
+<p><span style="color: #666666;">Размещено 16.08.2018г. в 12-40, доступно к ознакомлению до 16.08.2019г.&nbsp;</span></p>
+<h3><a href="/wp-content/uploads/2021/05/30-06-18-1.pdf" target="_blank" rel="noopener"><span style="color: #771f1b;"><strong>Расчет размера собственных средств на 30.06.2018г.</strong></span></a></h3>
+<p><span style="color: #666666;">Размещено 23.07.2018г. в 12-20, доступно к ознакомлению до 23.07.2019г.&nbsp;</span></p>
+<h3><a href="/wp-content/uploads/2021/05/31-05-18.pdf" target="_blank" rel="noopener"><span style="color: #771f1b;"><strong>Расчет размера собственных средств на 31.05.2018г.</strong></span></a></h3>
+<p><span style="color: #666666;">Размещено 26.06.2018г. в 12-20, доступно к ознакомлению до 26.06.2019г.&nbsp;</span></p>
+<h3><a href="/wp-content/uploads/2021/05/31-03-18-cor-1.pdf" target="_blank" rel="noopener"><span style="color: #771f1b;"><strong>Уточненный Расчет размера собственных средств на 31.03.2018г.</strong></span></a></h3>
+<p><span style="color: #666666;">Размещено 28.05.2018г. в 17-30, доступно к ознакомлению до 28.05.2019г.&nbsp;</span></p>
+<h3><a href="/wp-content/uploads/2021/05/30-04-18-cor-1.pdf" target="_blank" rel="noopener"><span style="color: #771f1b;"><strong>Расчет размера собственных средств на 30.04.2018г.</strong></span></a></h3>
+<p><span style="color: #666666;">Размещено 28.05.2018г. в 15-50, доступно к ознакомлению до 28.05.2019г.&nbsp;</span></p>
+<h3><strong><a href="/wp-content/uploads/2021/05/msfo2017.pdf" target="_blank" rel="noopener"><span style="color: #771f1b;">Годовая финансовая отчетность в соответствии с МСФО за 2017 год и аудиторское заключение</span></a></strong></h3>
+<p><span style="color: #666666;">Размещено 25.04.2018 в 11-00, доступно к ознакомлению до 25.04.2021</span></p>
+<h3><a href="/wp-content/uploads/2021/05/31-03-18.pdf" target="_blank" rel="noopener"><span style="color: #771f1b;"><strong>Расчет размера собственных средств на 31.03.2018г.</strong></span></a></h3>
+<p><span style="color: #666666;">Размещено 13.04.2018г. в 10-30, доступно к ознакомлению до 13.04.2019г.&nbsp;</span></p>
+<h3><a href="/wp-content/uploads/2021/05/28-02-18.pdf" target="_blank" rel="noopener"><span style="color: #771f1b;"><strong>Расчет размера собственных средств на 28.02.2018г.</strong></span></a></h3>
+<p><span style="color: #666666;">Размещено 15.03.2018г. в 17-00, доступно к ознакомлению до 15.03.2019г.&nbsp;</span></p>
+<h3><a href="/wp-content/uploads/2021/05/31-01-18.pdf" target="_blank" rel="noopener"><span style="color: #771f1b;"><strong>Расчет размера собственных средств на 31.01.2018г.</strong></span></a></h3>
+<p><span style="color: #666666;">Размещено 09.02.2018г. в 17-30, доступно к ознакомлению до 09.02.2019г.&nbsp;</span></p>
+<h3><a href="/wp-content/uploads/2021/05/31-12-17.pdf" target="_blank" rel="noopener"><span style="color: #771f1b;"><strong>Расчет размера собственных средств на 31.12.2017г.</strong></span></a></h3>
+<p><span style="color: #666666;">Размещено 17.01.2018г. в 17-30, доступно к ознакомлению до 17.01.2019г.&nbsp;</span></p>
+<h3><a href="/wp-content/uploads/2021/05/30-11-17.pdf" target="_blank" rel="noopener"><span style="color: #771f1b;"><strong>Расчет размера собственных средств на 30.11.2017г.</strong></span></a></h3>
+<p><span style="color: #666666;">Размещено 11.12.2017г. в 14-45, доступно к ознакомлению до 11.12.2018г.&nbsp;</span></p>
+<h3><a href="/wp-content/uploads/2021/05/31-10-17.pdf" target="_blank" rel="noopener"><span style="color: #771f1b;"><strong>Расчет размера собственных средств на 31.10.2017г.</strong></span></a></h3>
+<p><span style="color: #666666;">Размещено 15.11.2017г. в 17-00, доступно к ознакомлению до 15.11.2018г.&nbsp;</span></p>
+<h3><a href="/wp-content/uploads/2021/05/30-09-17.pdf" target="_blank" rel="noopener"><span style="color: #771f1b;"><strong>Расчет размера собственных средств на 30.09.2017г.</strong></span></a></h3>
+<p><span style="color: #666666;">Размещено 13.10.2017г. в 17-00, доступно к ознакомлению до 13.10.2018г.&nbsp;</span></p>
+<h3><a href="/wp-content/uploads/2021/05/31-08-17.pdf" target="_blank" rel="noopener"><span style="color: #771f1b;"><strong>Расчет размера собственных средств на 31.08.2017г.</strong></span></a></h3>
+<p><span style="color: #666666;">Размещено 14.09.2017г. в 17-00, доступно к ознакомлению до 14.09.2018г.&nbsp;</span></p>
+<h3><a href="/wp-content/uploads/2021/05/31-07-17.pdf" target="_blank" rel="noopener"><span style="color: #771f1b;"><strong>Расчет размера собственных средств на 31.07.2017г.</strong></span></a></h3>
+<p><span style="color: #666666;">Размещено 09.08.2017г. в 18-00, доступно к ознакомлению до 09.08.2018г.&nbsp;</span></p>
+<h3><a href="/wp-content/uploads/2021/05/30-06-17.pdf" target="_blank" rel="noopener"><span style="color: #771f1b;"><strong>Расчет размера собственных средств на 30.06.2017г.</strong></span></a></h3>
+<p><span style="color: #666666;">Размещено 11.07.2017г. в 17-00, доступно к ознакомлению до 11.07.2018г.&nbsp;</span></p>
+<h3><a href="/wp-content/uploads/2021/05/31-05-17.pdf" target="_blank" rel="noopener"><span style="color: #771f1b;"><strong>Расчет размера собственных средств на 31.05.2017г.</strong></span></a></h3>
+<p><span style="color: #666666;">Размещено 13.06.2017г. в 18-00, доступно к ознакомлению до 13.06.2018г.&nbsp;</span></p>
+<h3><a href="/wp-content/uploads/2021/05/30-04-17.pdf" target="_blank" rel="noopener"><span style="color: #771f1b;"><strong>Расчет размера собственных средств на 30.04.2017г.</strong></span></a></h3>
+<p><span style="color: #666666;">Размещено 12.05.2017г. в 17-00, доступно к ознакомлению до 12.05.2018г.&nbsp;</span></p>
+<h3><strong><a href="/wp-content/uploads/2021/05/msfo2016.pdf" target="_blank" rel="noopener"><span style="color: #771f1b;">Годовая финансовая отчетность в соответствии с МСФО за 2016 год и аудиторское заключение</span></a></strong></h3>
+<p><span style="color: #666666;">Размещено 27.04.2017 в 16-00, доступно к ознакомлению до 27.04.2020</span></p>
+<h3><a href="/wp-content/uploads/2021/05/31-03-17.pdf" target="_blank" rel="noopener"><span style="color: #771f1b;"><strong>Расчет размера собственных средств на 31.03.2017г.</strong></span></a></h3>
+<p><span style="color: #666666;">Размещено 13.04.2017г. в 13-00, доступно к ознакомлению до 13.04.2018г.&nbsp;</span></p>
+<h3><a href="/wp-content/uploads/2021/05/28-02-17.pdf" target="_blank" rel="noopener"><span style="color: #771f1b;"><strong>Расчет размера собственных средств на 28.02.2017г.</strong></span></a></h3>
+<p><span style="color: #666666;">Размещено 15.03.2017г. в 16-00, доступно к ознакомлению до 15.03.2018г.&nbsp;</span></p>
+<h3><a href="/wp-content/uploads/2021/05/31-01-17.pdf" target="_blank" rel="noopener"><span style="color: #771f1b;"><strong>Расчет размера собственных средств на 31.01.2017г.</strong></span></a></h3>
+<p><span style="color: #666666;">Размещено 14.02.2017г. в 18-00, доступно к ознакомлению до 14.02.2018г.&nbsp;</span></p>
+<h3><a href="/wp-content/uploads/2021/05/31-12-16.pdf" target="_blank" rel="noopener"><span style="color: #771f1b;"><strong>Расчет размера собственных средств на 31.12.2016г.</strong></span></a></h3>
+<p><span style="color: #666666;">Размещено 20.01.2017г. в 15-00, доступно к ознакомлению до 20.01.2018г.&nbsp;</span></p>
+<h3><a href="/wp-content/uploads/2021/05/30-11-16.pdf" target="_blank" rel="noopener"><span style="color: #771f1b;"><strong>Расчет размера собственных средств на 30.11.2016г.</strong></span></a></h3>
+<p><span style="color: #666666;">Размещено 13.12.2016г. в 18-00, доступно к ознакомлению до 13.12.2017г.&nbsp;</span></p>
+<h3><a href="/wp-content/uploads/2021/05/31-10-16.pdf" target="_blank" rel="noopener"><span style="color: #771f1b;"><strong>Расчет размера собственных средств на 31.10.2016г.</strong></span></a></h3>
+<p><span style="color: #666666;">Размещено 15.11.2016г. в 10-30, доступно к ознакомлению до 15.11.2017г.&nbsp;</span></p>
+<h3><a href="/wp-content/uploads/2021/05/30-09-16.pdf" target="_blank" rel="noopener"><span style="color: #771f1b;"><strong>Расчет размера собственных средств на 30.09.2016г.</strong></span></a></h3>
+<p><span style="color: #666666;">Размещено 14.10.2016г. в 14-20, доступно к ознакомлению до 14.10.2017г.&nbsp;</span></p>
+<h3><a href="/wp-content/uploads/2021/05/31-08-16.pdf" target="_blank" rel="noopener"><span style="color: #771f1b;"><strong>Расчет размера собственных средств на 31.08.2016г.</strong></span></a></h3>
+<p><span style="color: #666666;">Размещено 12.09.2016г. в 11-00, доступно к ознакомлению до 12.09.2017г.&nbsp;</span></p>
+<h3><a href="/wp-content/uploads/2021/05/31-07-16.pdf" target="_blank" rel="noopener"><span style="color: #771f1b;"><strong>Расчет размера собственных средств на 31.07.2016г.</strong></span></a></h3>
+<p><span style="color: #666666;">Размещено 10.08.2016г. в 11-00, доступно к ознакомлению до 10.08.2017г.&nbsp;</span></p>
+<h3><a href="/wp-content/uploads/2021/05/30-06-16.pdf" target="_blank" rel="noopener"><span style="color: #771f1b;"><strong>Расчет размера собственных средств на 30.06.2016г.</strong></span></a></h3>
+<p><span style="color: #666666;">Размещено 11.07.2016г. в 18-00, доступно к ознакомлению до 11.07.2017г.&nbsp;</span></p>
+<h3><a href="/wp-content/uploads/2021/05/31-05-16.pdf" target="_blank" rel="noopener"><span style="color: #771f1b;"><strong>Расчет размера собственных средств на 31.05.2016г.</strong></span></a></h3>
+<p><span style="color: #666666;">Размещено 14.06.2016г. в 11-00, доступно к ознакомлению до 14.06.2017г.&nbsp;</span></p>
+<h3><a href="/wp-content/uploads/2021/05/30-04-16.pdf" target="_blank" rel="noopener"><span style="color: #771f1b;"><strong>Расчет размера собственных средств на 30.04.2016г.</strong></span></a></h3>
+<p><span style="color: #666666;">Размещено 17.05.2016г. в 13-00, доступно к ознакомлению до 17.05.2017г.&nbsp;</span></p>
+<h3><strong><a href="/wp-content/uploads/2021/05/msfo2015.pdf" target="_blank" rel="noopener"><span style="color: #771f1b;">Годовая финансовая отчетность в соответствии с МСФО за 2015 год и аудиторское заключение</span></a></strong></h3>
+<p><span style="color: #666666;">Размещено 25.04.2016 в 11-00, доступно к ознакомлению до 25.04.2019</span></p>
+<h3><a href="/wp-content/uploads/2021/05/31-03-16.pdf" target="_blank" rel="noopener"><span style="color: #771f1b;"><strong>Расчет размера собственных средств на 31.03.2016г.</strong></span></a></h3>
+<p><span style="color: #666666;">Размещено 14.04.2016г. в 13-00, доступно к ознакомлению до 14.04.2017г.&nbsp;</span></p>
+<h3><a href="/wp-content/uploads/2021/05/29-02-16.pdf" target="_blank" rel="noopener"><span style="color: #771f1b;"><strong>Расчет размера собственных средств на 29.02.2016г.</strong></span></a></h3>
+<p><span style="color: #666666;">Размещено 16.03.2016г. в 18-00, доступно к ознакомлению до 16.03.2017г.&nbsp;</span></p>
+<h3><a href="/wp-content/uploads/2021/05/31-01-16.pdf" target="_blank" rel="noopener"><span style="color: #771f1b;"><strong>Расчет размера собственных средств на 31.01.2016г.</strong></span></a></h3>
+<p><span style="color: #666666;">Размещено 18.02.2016г. в 17-30, доступно к ознакомлению до 18.02.2017г.&nbsp;</span></p>
+<h3><a href="/wp-content/uploads/2021/05/31-12-15.pdf" target="_blank" rel="noopener"><span style="color: #771f1b;"><strong>Расчет размера собственных средств на 31.12.2015г.</strong></span></a></h3>
+<p><span style="color: #666666;">Размещено 29.01.2016г. в 16-45, доступно к ознакомлению до 29.01.2017г.&nbsp;</span></p>
+<h3><a href="/wp-content/uploads/2021/05/30-11-15.pdf" target="_blank" rel="noopener"><span style="color: #771f1b;"><strong>Расчет размера собственных средств на 30.11.2015г.</strong></span></a></h3>
+<p><span style="color: #666666;">Размещено 29.12.2015г. в 13-10, доступно к ознакомлению до 29.12.2016г.&nbsp;</span></p>
+<h3><a href="/wp-content/uploads/2021/05/31-10-15.pdf" target="_blank" rel="noopener"><span style="color: #771f1b;"><strong>Расчет размера собственных средств на 31.10.2015г.</strong></span></a></h3>
+<p><span style="color: #666666;">Размещено 26.11.2015г. в 17-50, доступно к ознакомлению до 26.11.2016г.&nbsp;</span></p>
+<h3><a href="/wp-content/uploads/2021/05/30-09-15.pdf" target="_blank" rel="noopener"><span style="color: #771f1b;"><strong>Расчет размера собственных средств на 30.09.2015г.</strong></span></a></h3>
+<p><span style="color: #666666;">Размещено 27.10.2015г. в 16-40, доступно к ознакомлению до 27.10.2016г.&nbsp;</span></p>
+<h3><a href="/wp-content/uploads/2021/05/31-08-15.pdf" target="_blank" rel="noopener"><span style="color: #771f1b;"><strong>Расчет размера собственных средств на 31.08.2015г.</strong></span></a></h3>
+<p><span style="color: #666666;">Размещено 24.09.2015г. в 16-10, доступно к ознакомлению до 24.09.2016г.&nbsp;</span></p>
+<h3><a href="/wp-content/uploads/2021/05/31-07-15.pdf" target="_blank" rel="noopener"><span style="color: #771f1b;"><strong>Расчет размера собственных средств на 31.07.2015г.</strong></span></a></h3>
+<p><span style="color: #666666;">Размещено 27.08.2015г. в 11-20, доступно к ознакомлению до 27.08.2016г.&nbsp;</span></p>
+<h3><a href="/wp-content/uploads/2021/05/30-06-15.pdf" target="_blank" rel="noopener"><span style="color: #771f1b;"><strong>Расчет размера собственных средств на 30.06.2015г.</strong></span></a></h3>
+<p><span style="color: #666666;">Размещено 27.07.2015г. в 17-10, доступно к ознакомлению до 27.07.2016г.&nbsp;</span></p>
+<h3><a href="/wp-content/uploads/2021/05/31-05-15.pdf" target="_blank" rel="noopener"><span style="color: #771f1b;"><strong>Расчет размера собственных средств на 31.05.2015г.</strong></span></a></h3>
+<p><span style="color: #666666;">Размещено 25.06.2015г. в 17-10, доступно к ознакомлению до 25.06.2016г.&nbsp;</span></p>
+<h3><a href="/wp-content/uploads/2021/05/30-04-15.pdf" target="_blank" rel="noopener"><span style="color: #771f1b;"><strong>Расчет размера собственных средств на 30.04.2015г.</strong></span></a></h3>
+<p><span style="color: #666666;">Размещено 20.05.2015г. в 10-45, доступно к ознакомлению до 20.05.2016г.&nbsp;</span></p>
+<h3><a href="/wp-content/uploads/2021/05/31-03-15.pdf" target="_blank" rel="noopener"><span style="color: #771f1b;"><strong>Расчет размера собственных средств на 31.03.2015г.</strong></span></a></h3>
+<p><span style="color: #666666;">Размещено 23.04.2015г. в 15-00, доступно к ознакомлению до 23.04.2016г.&nbsp;</span></p>
+<h3><a href="/wp-content/uploads/2021/05/urss31.01.15.pdf" target="_blank" rel="noopener"><span style="color: #771f1b;"><strong>Расчет размера собственных средств на 31.01.2015г (уточненный).</strong></span></a></h3>
+<p><span style="color: #666666;">Размещено 31.03.2015г. в 16-00, доступно к ознакомлению до 31.03.2016г.&nbsp;</span></p>
+<h3><a href="/wp-content/uploads/2021/05/urss31.12.14.pdf" target="_blank" rel="noopener"><span style="color: #771f1b;"><strong>Расчет размера собственных средств на 31.12.2014г&nbsp;(уточненный).</strong></span></a></h3>
+<p><span style="color: #666666;">Размещено 31.03.2015г. в 16-00, доступно к ознакомлению до 31.03.2016г.&nbsp;</span></p>
+<h3><a href="/wp-content/uploads/2021/05/28.02.15.pdf" target="_blank" rel="noopener"><span style="color: #771f1b;"><strong>Расчет размера собственных средств на 28.02.2015г.</strong></span></a></h3>
+<p><span style="color: #666666;">Размещено 30.03.2015г. в 10-00, доступно к ознакомлению до 30.03.2016г.&nbsp;</span></p>
+<h3><a href="/wp-content/uploads/2021/05/31-01-15.pdf" target="_blank" rel="noopener"><span style="color: #771f1b;"><strong>Расчет размера собственных средств на 31.01.2015г.</strong></span></a></h3>
+<p><span style="color: #666666;">Размещено 24.02.2015г. в 10-00, доступно к ознакомлению до 24.02.2016г.&nbsp;</span></p>
+<h3><a href="/wp-content/uploads/2021/05/31-12-14.pdf" target="_blank" rel="noopener"><span style="color: #771f1b;"><strong>Расчет размера собственных средств на 31.12.2014г.</strong></span></a></h3>
+<p><span style="color: #666666;">Размещено 30.01.2015г. в 18-00, доступно к ознакомлению до 30.01.2016г.&nbsp;</span></p>
+<h3><a href="/wp-content/uploads/2021/05/30-11-14.pdf" target="_blank" rel="noopener"><span style="color: #771f1b;"><strong>Расчет размера собственных средств на 30.11.2014г.</strong></span></a></h3>
+<p><span style="color: #666666;">Размещено 25.12.2014г. в 16-00, доступно к ознакомлению до 25.12.2015г.&nbsp;</span></p>
+<h3><a href="/wp-content/uploads/2021/05/31-10-14.pdf" target="_blank" rel="noopener"><span style="color: #771f1b;"><strong>Расчет размера собственных средств на 31.10.2014г.</strong></span></a></h3>
+<p><span style="color: #666666;">Размещено 28.11.2014г. в 15-00, доступно к ознакомлению до 28.11.2015г.&nbsp;</span></p>
+<h3><a href="/wp-content/uploads/2021/05/30-09-14.pdf" target="_blank" rel="noopener"><span style="color: #771f1b;"><strong>Расчет размера собственных средств на 30.09.2014г.</strong></span></a></h3>
+<p><span style="color: #666666;">Размещено 30.10.2014г. в 15-20, доступно к ознакомлению до 30.10.2015г.&nbsp;</span></p>
+<h3><a href="/wp-content/uploads/2021/05/31-08-14.pdf" target="_blank" rel="noopener"><span style="color: #771f1b;"><strong>Расчет размера собственных средств на 31.08.2014г.</strong></span></a></h3>
+<p><span style="color: #666666;">Размещено 10.09.2014г. в 15-40, доступно к ознакомлению до 10.10.2015г.&nbsp;</span></p>
+<h3><a href="/wp-content/uploads/2021/05/31-07-14.pdf" target="_blank" rel="noopener"><span style="color: #771f1b;"><strong>Расчет размера собственных средств на 31.07.2014г.</strong></span></a></h3>
+<p><span style="color: #666666;">Размещено 28.08.2014г. в 18-00, доступно к ознакомлению до 28.09.2015г.&nbsp;</span></p>
+<h3><a href="/wp-content/uploads/2021/05/30_06_2014.pdf" target="_blank" rel="noopener"><span style="color: #771f1b;"><strong>Расчет размера собственных средств на 30.06.2014г.</strong></span></a></h3>
+<p><span style="color: #666666;">Размещено 07.07.2014г. в 16-50, доступно к ознакомлению до 07.07.2015г.&nbsp;</span></p>
+<h3><a href="/wp-content/uploads/2021/05/31_05_2014.pdf" target="_blank" rel="noopener"><span style="color: #771f1b;"><strong>Расчет размера собственных средств на 31.05.2014г.</strong></span></a></h3>
+<p><span style="color: #666666;">Размещено 30.06.2014г. в 13-00, доступно к ознакомлению до 30.06.2015г.&nbsp;</span></p>
+                    </div>
+                </div>
+                <div class="clearfix"></div>
+			                <div class="collapse-head-wrapper">
+                    <div class="collapse-trigger-head-wrapper position-relative mb-35">
+                        <a class="text-theme fz30 a-Black doc-coll-trigger" data-toggle="collapse" href="#collapse-604-342-2802" role="button" aria-expanded="false" aria-controls="collapse-604-342-2802">
+							Сообщения о деятельности <span class="caret-sm-icon"></span>
+                        </a>
+                        <div class="doc-line-block"></div>
+                    </div>
+                    <div class="collapse collapse-body-wrapper" id="collapse-604-342-2802">
+						<h3><strong><a href="/wp-content/uploads/mes-25-05-23-14.pdf" target="_blank" rel="noopener"><span style="color: #771f1b;">Сообщение об обнаружении (выявлении) неточных, неполных и (или) недостоверных сведений в раскрываемой информации</span></a></strong></h3>
+<p><span style="color: #666666;">Размещено 25.05.2023г. в 20-00</span></p>
+<h3><strong><a href="/wp-content/uploads/mes-25-05-23-13.pdf" target="_blank" rel="noopener"><span style="color: #771f1b;">Сообщение об обнаружении (выявлении) неточных, неполных и (или) недостоверных сведений в раскрываемой информации</span></a></strong></h3>
+<p><span style="color: #666666;">Размещено 25.05.2023г. в 20-00</span></p>
+<h3><strong><a href="/wp-content/uploads/mes-25-05-23-12.pdf" target="_blank" rel="noopener"><span style="color: #771f1b;">Сообщение об обнаружении (выявлении) неточных, неполных и (или) недостоверных сведений в раскрываемой информации</span></a></strong></h3>
+<p><span style="color: #666666;">Размещено 25.05.2023г. в 20-00</span></p>
+<h3><strong><a href="/wp-content/uploads/mes-25-05-23-11.pdf" target="_blank" rel="noopener"><span style="color: #771f1b;">Сообщение об обнаружении (выявлении) неточных, неполных и (или) недостоверных сведений в раскрываемой информации</span></a></strong></h3>
+<p><span style="color: #666666;">Размещено 25.05.2023г. в 20-00</span></p>
+<h3><strong><a href="/wp-content/uploads/mes-25-05-23-10.pdf" target="_blank" rel="noopener"><span style="color: #771f1b;">Сообщение об обнаружении (выявлении) неточных, неполных и (или) недостоверных сведений в раскрываемой информации</span></a></strong></h3>
+<p><span style="color: #666666;">Размещено 25.05.2023г. в 20-00</span></p>
+<h3><strong><a href="/wp-content/uploads/mes-25-05-23-9.pdf" target="_blank" rel="noopener"><span style="color: #771f1b;">Сообщение об обнаружении (выявлении) неточных, неполных и (или) недостоверных сведений в раскрываемой информации</span></a></strong></h3>
+<p><span style="color: #666666;">Размещено 25.05.2023г. в 20-00</span></p>
+<h3><strong><a href="/wp-content/uploads/mes-25-05-23-8.pdf" target="_blank" rel="noopener"><span style="color: #771f1b;">Сообщение об обнаружении (выявлении) неточных, неполных и (или) недостоверных сведений в раскрываемой информации</span></a></strong></h3>
+<p><span style="color: #666666;">Размещено 25.05.2023г. в 20-00</span></p>
+<h3><strong><a href="/wp-content/uploads/mes-25-05-23-7.pdf" target="_blank" rel="noopener"><span style="color: #771f1b;">Сообщение об обнаружении (выявлении) неточных, неполных и (или) недостоверных сведений в раскрываемой информации</span></a></strong></h3>
+<p><span style="color: #666666;">Размещено 25.05.2023г. в 20-00</span></p>
+<h3><strong><a href="/wp-content/uploads/mes-25-05-23-6.pdf" target="_blank" rel="noopener"><span style="color: #771f1b;">Сообщение об обнаружении (выявлении) неточных, неполных и (или) недостоверных сведений в раскрываемой информации</span></a></strong></h3>
+<p><span style="color: #666666;">Размещено 25.05.2023г. в 20-00</span></p>
+<h3><strong><a href="/wp-content/uploads/mes-25-05-23-5.pdf" target="_blank" rel="noopener"><span style="color: #771f1b;">Сообщение об обнаружении (выявлении) неточных, неполных и (или) недостоверных сведений в раскрываемой информации</span></a></strong></h3>
+<p><span style="color: #666666;">Размещено 25.05.2023г. в 20-00</span></p>
+<h3><strong><a href="/wp-content/uploads/mes-25-05-23-4.pdf" target="_blank" rel="noopener"><span style="color: #771f1b;">Сообщение об обнаружении (выявлении) неточных, неполных и (или) недостоверных сведений в раскрываемой информации</span></a></strong></h3>
+<p><span style="color: #666666;">Размещено 25.05.2023г. в 20-00</span></p>
+<h3><strong><a href="/wp-content/uploads/mes-25-05-23-3.pdf" target="_blank" rel="noopener"><span style="color: #771f1b;">Сообщение об обнаружении (выявлении) неточных, неполных и (или) недостоверных сведений в раскрываемой информации</span></a></strong></h3>
+<p><span style="color: #666666;">Размещено 25.05.2023г. в 15-30</span></p>
+<h3><strong><a href="/wp-content/uploads/mes-25-05-23-2.pdf" target="_blank" rel="noopener"><span style="color: #771f1b;">Сообщение об обнаружении (выявлении) неточных, неполных и (или) недостоверных сведений в раскрываемой информации</span></a></strong></h3>
+<p><span style="color: #666666;">Размещено 25.05.2023г. в 15-30</span></p>
+<h3><strong><a href="/wp-content/uploads/mes-25-05-23-1.pdf" target="_blank" rel="noopener"><span style="color: #771f1b;">Сообщение об обнаружении (выявлении) неточных, неполных и (или) недостоверных сведений в раскрываемой информации</span></a></strong></h3>
+<p><span style="color: #666666;">Размещено 25.05.2023г. в 15-30</span></p>
+<h3><strong><a href="/wp-content/uploads/mes-24-05-23.pdf" target="_blank" rel="noopener"><span style="color: #771f1b;">Сообщение об обнаружении (выявлении) неточных, неполных и (или) недостоверных сведений в раскрываемой информации</span></a></strong></h3>
+<p><span style="color: #666666;">Размещено 24.05.2023г. в 16-30</span></p>
+<h3><strong><a href="/wp-content/uploads/mes-30-06-21.pdf" target="_blank" rel="noopener"><span style="color: #771f1b;">Сообщение об обнаружении (выявлении) неточных, неполных и (или) недостоверных сведений в раскрываемой информации</span></a></strong></h3>
+<p><span style="color: #666666;">Размещено 24.10.2022г. в 18-10</span></p>
+<h3><strong><a href="/wp-content/uploads/stop-dostup.pdf" target="_blank" rel="noopener"><span style="color: #771f1b;">Сообщение о прекращении доступа к раскрываемой информации</span></a></strong></h3>
+<p><span style="color: #666666;">Размещено 03.12.2021г. в 19-00, доступно к ознакомлению до 03.12.2024г.</span></p>
+<h3><strong><a href="/wp-content/uploads/2021/11/mess-29-11-21.pdf" target="_blank" rel="noopener"><span style="color: #771f1b;">Сообщение об обнаружении (выявлении) неточных, неполных и (или) недостоверных сведений в раскрываемой информации</span></a></strong></h3>
+<p><span style="color: #666666;">Размещено 29.11.2021г. в 15-00, доступно к ознакомлению до 29.11.2024г.</span></p>
+                    </div>
+                </div>
+                <div class="clearfix"></div>
+			                <div class="collapse-head-wrapper">
+                    <div class="collapse-trigger-head-wrapper position-relative mb-35">
+                        <a class="text-theme fz30 a-Black doc-coll-trigger" data-toggle="collapse" href="#collapse-604-342-2803" role="button" aria-expanded="false" aria-controls="collapse-604-342-2803">
+							Иные документы и информация <span class="caret-sm-icon"></span>
+                        </a>
+                        <div class="doc-line-block"></div>
+                    </div>
+                    <div class="collapse collapse-body-wrapper" id="collapse-604-342-2803">
+						<h3><strong><a href="/wp-content/uploads/sed.pdf" target="_blank" rel="noopener"><span style="color: #771f1b;">Информация о порядке и условиях обмена электронными документами ООО «УК «Мир Финансов»</span></a></strong></h3>
+<p><span style="color: #666666;">Размещено 07.04.2022г. в 14-35, доступно к ознакомлению до момента прекращения обмена электронными документами с АО «ОСД – Р.О.С.Т.»</span></p>
+<h3><strong><a href="/wp-content/uploads/reglament.pdf" target="_blank" rel="noopener"><span style="color: #771f1b;">Регламент Общества с ограниченной ответственностью «Управляющая компания «Мир Финансов» признания лиц квалифицированными инвесторами»</span></a></strong></h3>
+<p><span style="color: #666666;">Размещено 08.11.2021г. в 10-30, доступно к ознакомлению до даты исключения паевых инвестиционных фондов под управлением ООО «УК «Мир Финансов» из реестра ПИФ</span></p>
+<h3><strong><a href="/wp-content/uploads/reg-kval.pdf" target="_blank" rel="noopener"><span style="color: #771f1b;">Регламент Общества с ограниченной ответственностью «Управляющая компания «Мир Финансов» признания лиц квалифицированными инвесторами» с 1 октября 2021 года</span></a></strong></h3>
+<p><span style="color: #666666;">Размещено 01.10.2021г. в 10-30, доступно к ознакомлению до даты исключения паевых инвестиционных фондов под управлением ООО «УК «Мир Финансов» из реестра ПИФ.</span></p>
+<h3><strong><a href="/wp-content/uploads/kval-info-2.pdf" target="_blank" rel="noopener"><span style="color: #771f1b;">Информация для квалифицированных инвесторов – физических лиц о способах направления уведомления о последствиях признания физического лица квалифицированным инвестором</span></a></strong></h3>
+<p><span style="color: #666666;">Размещено 01.10.2021г. в 10-30, доступно к ознакомлению до даты исключения паевых инвестиционных фондов под управлением ООО «УК «Мир Финансов» из реестра ПИФ.</span></p>
+<h3><strong><a href="/wp-content/uploads/kval-info.pdf" target="_blank" rel="noopener"><span style="color: #771f1b;">Информирование клиента – физического лица, признанного квалифицированным инвестором, о его праве подать заявление об исключении из реестра лиц, признанных квалифицированными инвесторами</span></a></strong></h3>
+<p><span style="color: #666666;">Размещено 01.10.2021г. в 10-30, доступно к ознакомлению до даты исключения паевых инвестиционных фондов под управлением ООО «УК «Мир Финансов» из реестра ПИФ.</span></p>
+<h3><strong><a href="/wp-content/uploads/2021/05/struct-1.pdf"><span style="color: #771f1b;">Список участников и лиц, под контролем либо значительным влиянием которых находится Общество с ограниченной ответственностью «Управляющая компания «Мир Финансов»</span></a></strong></h3>
+<p><span style="font-family: arial, helvetica, sans-serif;">Размещено 23.11.2020 в 12-20, доступно к ознакомлению бессрочно.</span><br>
+<span style="font-family: arial, helvetica, sans-serif; font-size: 16px;">Информация о структуре и составе акционеров (участников) НФО, в том числе о лицах, под контролем либо значительным влиянием которых находится НФО, соответствует информации, направленной 23.11.2020 в Банк России для размещения на официальном сайте Банка России (<span style="color: #771f1b;"><a style="color: #771f1b;" href="http://www.cbr.ru/finorg/ricontrol/">http://www.cbr.ru/finorg/ricontrol/</a></span>)</span></p>
+<h3><strong><a href="/wp-content/uploads/2021/05/innalog.pdf" target="_blank" rel="noopener"><span style="color: #771f1b;">Положение о критериях отнесения клиентов Общества с ограниченной ответственностью «Управляющая компания «Мир Финансов» к категории клиента – иностранного налогоплательщика и способы получения необходимой информации»</span></a></strong></h3>
+<p><span style="color: #666666;">Размещено 15.03.2016г. в 12-30, доступно к ознакомлению до утверждения и размещения Положения в новой редакции.</span></p>
+<h3><strong><a href="/wp-content/uploads/2021/05/obmen-el-doc.pdf" target="_blank" rel="noopener"><span style="color: #771f1b;">Информация о порядке и условиях обмена электронными документами ООО «УК «Мир Финансов»»</span></a></strong></h3>
+<p><span style="color: #666666;">Размещено 07.07.2015г. в 10-30, доступно к ознакомлению до момента прекращения обмена электронными документами с ОАО «Специализированный депозитарий «Инфинитум».</span></p>
+<h3><strong><a href="/wp-content/uploads/reglament-ki.pdf" target="_blank" rel="noopener"><span style="color: #771f1b;">Регламент Общества с ограниченной ответственностью «Управляющая компания «Мир Финансов» признания лиц квалифицированными инвесторами»</span></a></strong></h3>
+<p><span style="color: #666666;">Размещено 07.07.2015г. в 10-30, доступно к ознакомлению до даты исключения паевых инвестиционных фондов под управлением ООО «УК «Мир Финансов» из реестра ПИФ.</span></p>
+<h3><strong><a href="/wp-content/uploads/2021/05/inside-info-5.pdf" target="_blank" rel="noopener"><span style="color: #771f1b;">Перечень инсайдерской информации ООО «УК «Мир Финансов» c 01.04.2021</span></a></strong></h3>
+<p><span style="color: #666666;">Опубликовано 01.04.2021 16:00, доступно до даты изменения документа в соответствии с законодательством РФ, но не менее 12 месяцев с даты опубликования в сети Интернет.</span></p>
+<h3><strong><a href="/wp-content/uploads/2021/05/inside-info-4.pdf" target="_blank" rel="noopener"><span style="color: #771f1b;">Перечень инсайдерской информации ООО «УК «Мир Финансов» c 27.12.2019</span></a></strong></h3>
+<p><span style="color: #666666;">Опубликовано 27.12.2019 18:00, доступно до даты изменения документа в соответствии с законодательством РФ, но не менее 12 месяцев с даты опубликования в сети Интернет.</span></p>
+<h3><strong><a href="/wp-content/uploads/2021/05/inside-info-3.pdf" target="_blank" rel="noopener"><span style="color: #771f1b;">Перечень инсайдерской информации ООО «УК «Мир Финансов» c 16.02.2018</span></a></strong></h3>
+<p><span style="color: #666666;">Опубликовано 16.02.2018 14:00, доступно до даты изменения документа в соответствии с законодательством РФ, но не менее 12 месяцев с даты опубликования в сети Интернет.</span></p>
+<h3><strong><a href="/wp-content/uploads/2021/05/inside-info.pdf" target="_blank" rel="noopener"><span style="color: #771f1b;">Перечень инсайдерской информации ООО «УК «Мир Финансов»</span></a></strong></h3>
+<p><span style="color: #666666;">Опубликовано 07.02.2018 18:00, доступно до даты изменения документа в соответствии с законодательством РФ, но не менее 12 месяцев с даты опубликования в сети Интернет.</span></p>
+<h3><strong><a href="/wp-content/uploads/2021/05/adreschange_3.pdf" target="_blank" rel="noopener"><span style="color: #771f1b;">Сообщение об изменении адреса местонахождения</span></a></strong></h3>
+<p><span style="color: #666666;">Размещено 20.11.2019 в 17-10, доступно к ознакомлению бессрочно.</span></p>
+<h3><strong><a href="/wp-content/uploads/2021/05/adreschange_2.pdf" target="_blank" rel="noopener"><span style="color: #771f1b;">Сообщение об изменении адреса местонахождения</span></a></strong></h3>
+<p><span style="color: #666666;">Размещено 12.02.2019 в 18-10, доступно к ознакомлению бессрочно.</span></p>
+<h3><strong><a href="/wp-content/uploads/2021/05/adreschange.pdf" target="_blank" rel="noopener"><span style="color: #771f1b;">Сообщение об изменении адреса местонахождения</span></a></strong></h3>
+<p><span style="color: #666666;">Размещено 10.09.2014 в 15-10, доступно к ознакомлению бессрочно.</span></p>
+<h3><strong><a href="/wp-content/uploads/2021/05/adreschange.pdf" target="_blank" rel="noopener"><span style="color: #771f1b;">Сообщение об изменении номера телефона и факса, адреса электронной почты, адреса сайта в сети Интернет</span></a></strong></h3>
+<p><span style="color: #666666;">Размещено 29.08.2014 в 15-40, доступно к ознакомлению бессрочно.</span></p>
+<p><span style="font-family: arial, helvetica, sans-serif; color: #666666;"><strong><span style="font-size: 22px;">&nbsp;</span></strong></span></p>
+                    </div>
+                </div>
+                <div class="clearfix"></div>
+			        </div>
+    </div>
+</div>
+
+    <footer class="bg-grey pt-30 navbar-fixed-bottom row-fluid">
+	<div class="container-my">
+		<div class="row">
+			<div class="col-sm-6 col-md-4">
+				<div class="menu-levoe-menju-v-futere-container"><ul id="menu-levoe-menju-v-futere" class="list-unstyled"><li id="menu-item-208" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-208"><a href="http://finansovmir.ru/novosti/">Новости</a></li>
+<li id="menu-item-210" class="menu-item menu-item-type-post_type menu-item-object-page current-menu-item page_item page-item-16 current_page_item menu-item-210"><a href="http://finansovmir.ru/raskrytie-informacii/" aria-current="page">Раскрытие информации*</a></li>
+<li id="menu-item-209" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-209"><a href="http://finansovmir.ru/kontakty/">Контакты</a></li>
+<li id="menu-item-345" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-345"><a href="http://finansovmir.ru/kvalificirovannye-investory/">Квалифицированные инвесторы</a></li>
+</ul></div>			</div>
+			<div class="col-sm-6 col-md-4">
+				<div class="menu-centralnoe-menju-v-futere-container"><ul id="menu-centralnoe-menju-v-futere" class="list-unstyled"><li id="menu-item-211" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-home menu-item-211"><a href="http://finansovmir.ru/">Главная страница</a></li>
+<li id="menu-item-212" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-212"><a href="http://finansovmir.ru/dokumenty/">Документы</a></li>
+<li id="menu-item-213" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-213"><a href="http://finansovmir.ru/zpif/">ЗПИФ</a></li>
+<li id="menu-item-346" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-346"><a href="http://finansovmir.ru/zpif/zpify-v-upravlenii/">ЗПИФы в управлении</a></li>
+</ul></div>			</div>
+			<div class="col-sm-6 col-md-4">
+				<p>
+					<span class="fz14 text-grey-secondary">Телефоны:</span><br>
+					<a href="tel:+7 499 653-84-53" class="text-decoration-none text-black fz16">+7 499 653-84-53</a>
+				</p>
+				<p>
+					<span class="fz14 text-grey-secondary">Адрес:</span><br>
+					<span class="fz16">119435, город Москва, Большой Саввинский переулок, дом 2, строение 9, эт. 2, пом. V, оф. 10</span>
+				</p>
+			</div>
+			<div class="col-12">
+			    <p class="fz14 text-grey-secondary">
+					* В соответствии с Указанием Банка России от 02.11.2020 №5609-У "О раскрытии, распространении и предоставлении информации акционерными инвестиционными фондами и управляющими компаниями инвестиционных фондов, паевых инвестиционных фондов и негосударственных пенсионных фондов, а также о требованиях к расчету доходности инвестиционной деятельности акционерного инвестиционного фонда и управляющей компании паевого инвестиционного фонда" и иными Федеральными законами и нормативными актами.
+				</p>
+				<p class="fz14 text-grey-secondary">
+					Незаконное использование логотипа и знака обслуживания компании преследуется по закону. Документы, заявления и предложения, сделанные на настоящем сайте, действительны на момент их раскрытия.
+				</p>
+				<p class="fz14 text-grey-secondary"> Инвестиционные паи Фонда предназначены для квалифицированных инвесторов. Информация адресована квалифицированным инвесторам. В соответствии с п. 3 ст. 51 Федерального закона от 29.11.2001г. № 156-ФЗ «Об инвестиционных фондах» не допускается распространение информации о паевом инвестиционном фонде, инвестиционные паи которого ограничены в обороте, за исключением случаев ее раскрытия в соответствии с федеральными законами.
+				</p>
+				<p class="fz14 text-grey-secondary">Стоимость инвестиционных паев может увеличиваться и уменьшаться. Результаты инвестирования в прошлом не определяют доходы в будущем. Государство не гарантирует доходность инвестиций в инвестиционные фонды. Прежде чем приобрести инвестиционный пай, следует внимательно ознакомиться с правилами доверительного управления паевым инвестиционным фондом.
+				</p>
+				<p class="fz14 text-grey-secondary">Получить подробную информацию о Фонде, ознакомиться с правилами доверительного управления и иными документами, подлежащими предоставлению в соответствии с действующим законодательством, можно по адресу 119435, г. Москва, Большой Саввинский переулок, дом 2, стр. 9, эт. 2, пом. V, оф. 10 или по телефону +7(499)653-84-53, в сети Интернет на сайте Управляющей компании по адресу: www.finansovmir.ru.
+				</p>
+			</div>
+			<div class="col-md-3 col-xs-12">
+				<p class="fz14 text-grey-secondary text-sm-center">
+					© ООО "Мир финансов" 2021
+				</p>
+			</div>
+			<div class="offset-md-7 col-md-2 col-xs-2">
+				<p class="fz14 text-grey-secondary text-md-right text-sm-center">
+					Разработано: <br>
+					<a href="http://metrafor.ru/">
+						<img src="http://finansovmir.ru/wp-content/themes/uk-mf/assets/img/METRAFOR_logo_white 1.png" alt="METRAFOR">
+					</a>
+				</p>
+			</div>
+		</div>
+	</div>
+</footer>    <div id="top-popover-form" class="d-none">
+	    <form id="top-contact-form">
+	<div class="form-group">
+        <sup class="required">*</sup> <input name="fio" type="text" class="form-control" placeholder="ФИО">
+	</div>
+	<div class="form-group">
+        <sup class="required">*</sup> <input name="phone" type="text" class="form-control" placeholder="Телефон">
+	</div>
+	<div class="form-group">
+        <sup class="required">*</sup> <input name="email" type="email" class="form-control" placeholder="E-mail">
+	</div>
+	<div class="form-group">
+        <sup class="required">*</sup> <textarea name="message" id="" cols="30" class="form-control" rows="4" placeholder="Текст сообщения"></textarea>
+	</div>
+	<div class="form-group">
+                <label for="captchaField">Решите задачу:</label>
+        <div class="input-group input-group-sm captchaFieldWrapper">
+            <div class="input-group-prepend">
+                <span class="input-group-text">четыре</span>
+                <input type="hidden" name="f_num" value="четыре">
+            </div>
+            <div class="input-group-prepend">
+                <span class="input-group-text">+</span>
+            </div>
+            <div class="input-group-prepend">
+                <span class="input-group-text">два</span>
+                <input type="hidden" name="l_num" value="два">
+            </div>
+            <input id="captchaField" name="t_num" type="text" class="form-control">
+        </div>
+        <div class="text-right">
+            <small id="captchaHelp" class="form-text text-muted">
+                Ответ введите цифрой
+            </small>
+        </div>
+
+	</div>
+	<div class="form-group form-check">
+        <sup class="required">*</sup> <input name="agreement" type="checkbox" class="form-check-input" id="agreementCheck">
+		<label class="form-check-label fz10" for="agreementCheck">Я ознакомлен и согласен с <a href="#" class="text-theme">условиями обработки и использования</a> моих персональных данных</label>
+	</div>
+    <input type="hidden" id="recaptchaResponse">
+	<button type="submit" class="btn btn-theme">Отправить</button>
+</form>
+    </div>
+    <script>
+        jQuery(document).ready(function ($){
+            $('.top-popover-form').popover({
+                html : true,
+                sanitize: false,
+                customClass: 'top-popover-cl',
+                content : () => {
+                    return $('#top-popover-form').html().trim();
+                }
+            });
+
+            $('.top-popover-form').on('show.bs.popover', function (){
+                $('#g-recaptcha').appendTo('.g-recaptcha-mirror');
+            })
+        });
+    </script>
+<link rel="stylesheet" id="app-styles-css" href="http://finansovmir.ru/wp-content/themes/uk-mf/assets/css/app.css?ver=1687320370" type="text/css" media="all">
+<script type="text/javascript" src="http://finansovmir.ru/wp-content/themes/uk-mf/assets/js/popper.min.js?ver=1.16.1" id="popper-js"></script>
+<script type="text/javascript" src="http://finansovmir.ru/wp-content/themes/uk-mf/assets/js/bootstrap.min.js?ver=4.6.0" id="bootstrap-js"></script>
+<script type="text/javascript" src="http://finansovmir.ru/wp-content/themes/uk-mf/assets/js/libs/slick/slick.min.js?ver=1.8.0" id="slick-js-js"></script>
+<script type="text/javascript" src="http://finansovmir.ru/wp-content/themes/uk-mf/assets/js/init.js?ver=1.0.0" id="app-init-js"></script>
+
+
