@@ -1,0 +1,445 @@
+
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 0 0" width="0" height="0" focusable="false" role="none" style="visibility: hidden; position: absolute; left: -9999px; overflow: hidden;"><defs><filter id="wp-duotone-dark-grayscale"><feColorMatrix color-interpolation-filters="sRGB" type="matrix" values=" .299 .587 .114 0 0 .299 .587 .114 0 0 .299 .587 .114 0 0 .299 .587 .114 0 0 "></feColorMatrix><feComponentTransfer color-interpolation-filters="sRGB"><feFuncR type="table" tableValues="0 0.49803921568627"></feFuncR><feFuncG type="table" tableValues="0 0.49803921568627"></feFuncG><feFuncB type="table" tableValues="0 0.49803921568627"></feFuncB><feFuncA type="table" tableValues="1 1"></feFuncA></feComponentTransfer><feComposite in2="SourceGraphic" operator="in"></feComposite></filter></defs></svg><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 0 0" width="0" height="0" focusable="false" role="none" style="visibility: hidden; position: absolute; left: -9999px; overflow: hidden;"><defs><filter id="wp-duotone-grayscale"><feColorMatrix color-interpolation-filters="sRGB" type="matrix" values=" .299 .587 .114 0 0 .299 .587 .114 0 0 .299 .587 .114 0 0 .299 .587 .114 0 0 "></feColorMatrix><feComponentTransfer color-interpolation-filters="sRGB"><feFuncR type="table" tableValues="0 1"></feFuncR><feFuncG type="table" tableValues="0 1"></feFuncG><feFuncB type="table" tableValues="0 1"></feFuncB><feFuncA type="table" tableValues="1 1"></feFuncA></feComponentTransfer><feComposite in2="SourceGraphic" operator="in"></feComposite></filter></defs></svg><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 0 0" width="0" height="0" focusable="false" role="none" style="visibility: hidden; position: absolute; left: -9999px; overflow: hidden;"><defs><filter id="wp-duotone-purple-yellow"><feColorMatrix color-interpolation-filters="sRGB" type="matrix" values=" .299 .587 .114 0 0 .299 .587 .114 0 0 .299 .587 .114 0 0 .299 .587 .114 0 0 "></feColorMatrix><feComponentTransfer color-interpolation-filters="sRGB"><feFuncR type="table" tableValues="0.54901960784314 0.98823529411765"></feFuncR><feFuncG type="table" tableValues="0 1"></feFuncG><feFuncB type="table" tableValues="0.71764705882353 0.25490196078431"></feFuncB><feFuncA type="table" tableValues="1 1"></feFuncA></feComponentTransfer><feComposite in2="SourceGraphic" operator="in"></feComposite></filter></defs></svg><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 0 0" width="0" height="0" focusable="false" role="none" style="visibility: hidden; position: absolute; left: -9999px; overflow: hidden;"><defs><filter id="wp-duotone-blue-red"><feColorMatrix color-interpolation-filters="sRGB" type="matrix" values=" .299 .587 .114 0 0 .299 .587 .114 0 0 .299 .587 .114 0 0 .299 .587 .114 0 0 "></feColorMatrix><feComponentTransfer color-interpolation-filters="sRGB"><feFuncR type="table" tableValues="0 1"></feFuncR><feFuncG type="table" tableValues="0 0.27843137254902"></feFuncG><feFuncB type="table" tableValues="0.5921568627451 0.27843137254902"></feFuncB><feFuncA type="table" tableValues="1 1"></feFuncA></feComponentTransfer><feComposite in2="SourceGraphic" operator="in"></feComposite></filter></defs></svg><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 0 0" width="0" height="0" focusable="false" role="none" style="visibility: hidden; position: absolute; left: -9999px; overflow: hidden;"><defs><filter id="wp-duotone-midnight"><feColorMatrix color-interpolation-filters="sRGB" type="matrix" values=" .299 .587 .114 0 0 .299 .587 .114 0 0 .299 .587 .114 0 0 .299 .587 .114 0 0 "></feColorMatrix><feComponentTransfer color-interpolation-filters="sRGB"><feFuncR type="table" tableValues="0 0"></feFuncR><feFuncG type="table" tableValues="0 0.64705882352941"></feFuncG><feFuncB type="table" tableValues="0 1"></feFuncB><feFuncA type="table" tableValues="1 1"></feFuncA></feComponentTransfer><feComposite in2="SourceGraphic" operator="in"></feComposite></filter></defs></svg><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 0 0" width="0" height="0" focusable="false" role="none" style="visibility: hidden; position: absolute; left: -9999px; overflow: hidden;"><defs><filter id="wp-duotone-magenta-yellow"><feColorMatrix color-interpolation-filters="sRGB" type="matrix" values=" .299 .587 .114 0 0 .299 .587 .114 0 0 .299 .587 .114 0 0 .299 .587 .114 0 0 "></feColorMatrix><feComponentTransfer color-interpolation-filters="sRGB"><feFuncR type="table" tableValues="0.78039215686275 1"></feFuncR><feFuncG type="table" tableValues="0 0.94901960784314"></feFuncG><feFuncB type="table" tableValues="0.35294117647059 0.47058823529412"></feFuncB><feFuncA type="table" tableValues="1 1"></feFuncA></feComponentTransfer><feComposite in2="SourceGraphic" operator="in"></feComposite></filter></defs></svg><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 0 0" width="0" height="0" focusable="false" role="none" style="visibility: hidden; position: absolute; left: -9999px; overflow: hidden;"><defs><filter id="wp-duotone-purple-green"><feColorMatrix color-interpolation-filters="sRGB" type="matrix" values=" .299 .587 .114 0 0 .299 .587 .114 0 0 .299 .587 .114 0 0 .299 .587 .114 0 0 "></feColorMatrix><feComponentTransfer color-interpolation-filters="sRGB"><feFuncR type="table" tableValues="0.65098039215686 0.40392156862745"></feFuncR><feFuncG type="table" tableValues="0 1"></feFuncG><feFuncB type="table" tableValues="0.44705882352941 0.4"></feFuncB><feFuncA type="table" tableValues="1 1"></feFuncA></feComponentTransfer><feComposite in2="SourceGraphic" operator="in"></feComposite></filter></defs></svg><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 0 0" width="0" height="0" focusable="false" role="none" style="visibility: hidden; position: absolute; left: -9999px; overflow: hidden;"><defs><filter id="wp-duotone-blue-orange"><feColorMatrix color-interpolation-filters="sRGB" type="matrix" values=" .299 .587 .114 0 0 .299 .587 .114 0 0 .299 .587 .114 0 0 .299 .587 .114 0 0 "></feColorMatrix><feComponentTransfer color-interpolation-filters="sRGB"><feFuncR type="table" tableValues="0.098039215686275 1"></feFuncR><feFuncG type="table" tableValues="0 0.66274509803922"></feFuncG><feFuncB type="table" tableValues="0.84705882352941 0.41960784313725"></feFuncB><feFuncA type="table" tableValues="1 1"></feFuncA></feComponentTransfer><feComposite in2="SourceGraphic" operator="in"></feComposite></filter></defs></svg><div class="wrapper">
+	
+	<header class="header" role="banner" next-page-hide="">
+		<a class="neve-skip-link show-on-focus" href="#content">
+			Перейти к содержимому		</a>
+		<div class="sticky-element-placeholder sticky-element-active" style="display:block; float:none; flex:0 1 auto; box-sizing:border-box; clear:none; overflow:visible; transform:none; width:1027px; height:97.875px; margin:0px 0px 0px 0px;"></div><div id="header-grid" class="hfg_header site-header sticky-element-original element-is-sticky" style="margin-top: 0px !important; margin-left: 0px !important; position: fixed; left: 0px; top: 0px; width: 1027px; padding: 0px; z-index: 999;">
+	
+<nav class="header--row header-main hide-on-mobile hide-on-tablet layout-full-contained nv-navbar header--row" data-row-id="main" data-show-on="desktop">
+
+	<div class="header--row-inner header-main-inner">
+		<div class="container">
+			<div class="row row--wrapper" data-section="hfg_header_layout_main">
+				<div class="hfg-slot left"><div class="builder-item desktop-left"><div class="item--inner builder-item--logo" data-section="title_tagline" data-item-id="logo">
+	
+<div class="site-logo">
+	<a class="brand" href="https://signet.capital/" title="Сигнет Капитал" aria-label="Сигнет Капитал"><img width="3520" height="550" src="https://signet.capital/wp-content/uploads/2022/04/logo_cap_ru_w.png" class="neve-site-logo skip-lazy" alt="" loading="lazy" data-variant="logo" srcset="https://signet.capital/wp-content/uploads/2022/04/logo_cap_ru_w.png 3520w, https://signet.capital/wp-content/uploads/2022/04/logo_cap_ru_w-300x47.png 300w, https://signet.capital/wp-content/uploads/2022/04/logo_cap_ru_w-1024x160.png 1024w, https://signet.capital/wp-content/uploads/2022/04/logo_cap_ru_w-768x120.png 768w, https://signet.capital/wp-content/uploads/2022/04/logo_cap_ru_w-1536x240.png 1536w, https://signet.capital/wp-content/uploads/2022/04/logo_cap_ru_w-2048x320.png 2048w, https://signet.capital/wp-content/uploads/2022/04/logo_cap_ru_w-600x94.png 600w" sizes="(max-width: 3520px) 100vw, 3520px"></a></div>
+
+	</div>
+
+</div></div><div class="hfg-slot right"><div class="builder-item has-nav hfg-is-group has-primary-menu"><div class="item--inner builder-item--primary-menu has_menu" data-section="header_menu_primary" data-item-id="primary-menu">
+	<div class="nv-nav-wrap">
+	<div role="navigation" class="style-border-bottom nav-menu-primary" aria-label="Основное меню">
+
+		<ul id="nv-primary-navigation-main" class="primary-menu-ul nav-ul"><li id="menu-item-642" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-642"><a href="/#about">О КОМПАНИИ</a></li>
+<li id="menu-item-752" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-752"><a href="/#pifs">ПИФЫ</a></li>
+<li id="menu-item-815" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-815"><a href="/#du">ДОВЕРИТЕЛЬНОЕ УПРАВЛЕНИЕ</a></li>
+<li id="menu-item-645" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-645"><a href="/#fin_reports">РАСКРЫТИЕ ИНФОРМАЦИИ</a></li>
+</ul>	</div>
+</div>
+
+	</div>
+
+<div class="item--inner builder-item--header_search_responsive" data-section="header_search_responsive" data-item-id="header_search_responsive">
+	<div class="nv-search-icon-component">
+	<div class="menu-item-nav-search canvas">
+		<a aria-label="Поиск" href="#" role="button" class="nv-icon nv-search">
+				<svg width="15" height="15" viewBox="0 0 1792 1792" xmlns="http://www.w3.org/2000/svg"><path d="M1216 832q0-185-131.5-316.5t-316.5-131.5-316.5 131.5-131.5 316.5 131.5 316.5 316.5 131.5 316.5-131.5 131.5-316.5zm512 832q0 52-38 90t-90 38q-54 0-90-38l-343-342q-179 124-399 124-143 0-273.5-55.5t-225-150-150-225-55.5-273.5 55.5-273.5 150-225 225-150 273.5-55.5 273.5 55.5 225 150 150 225 55.5 273.5q0 220-124 399l343 343q37 37 37 90z"></path></svg>
+			</a>		<div class="nv-nav-search" aria-label="search">
+			<div class="form-wrap container responsive-search">
+				
+<form role="search" method="get" class="search-form" action="https://signet.capital/">
+	<label>
+		<span class="screen-reader-text">Искать...</span>
+	</label>
+	<input type="search" class="search-field" aria-label="Поиск" placeholder="Искать..." value="" name="s">
+	<button type="submit" class="search-submit" aria-label="Поиск">
+		<span class="nv-search-icon-wrap">
+			<div role="button" class="nv-icon nv-search">
+				<svg width="15" height="15" viewBox="0 0 1792 1792" xmlns="http://www.w3.org/2000/svg"><path d="M1216 832q0-185-131.5-316.5t-316.5-131.5-316.5 131.5-131.5 316.5 131.5 316.5 316.5 131.5 316.5-131.5 131.5-316.5zm512 832q0 52-38 90t-90 38q-54 0-90-38l-343-342q-179 124-399 124-143 0-273.5-55.5t-225-150-150-225-55.5-273.5 55.5-273.5 150-225 225-150 273.5-55.5 273.5 55.5 225 150 150 225 55.5 273.5q0 220-124 399l343 343q37 37 37 90z"></path></svg>
+			</div>		</span>
+	</button>
+	</form>
+			</div>
+							<div class="close-container container responsive-search">
+					<button class="close-responsive-search" aria-label="Закрыть">
+						<svg width="50" height="50" viewBox="0 0 20 20" fill="#555555"><path d="M14.95 6.46L11.41 10l3.54 3.54l-1.41 1.41L10 11.42l-3.53 3.53l-1.42-1.42L8.58 10L5.05 6.47l1.42-1.42L10 8.58l3.54-3.53z"></path><rect></rect></svg>
+					</button>
+				</div>
+					</div>
+	</div>
+</div>
+	</div>
+
+</div></div>							</div>
+		</div>
+	</div>
+</nav>
+
+
+<nav class="header--row header-main hide-on-desktop layout-full-contained nv-navbar header--row" data-row-id="main" data-show-on="mobile">
+
+	<div class="header--row-inner header-main-inner">
+		<div class="container">
+			<div class="row row--wrapper" data-section="hfg_header_layout_main">
+				<div class="hfg-slot left"><div class="builder-item tablet-left mobile-left"><div class="item--inner builder-item--logo" data-section="title_tagline" data-item-id="logo">
+	
+<div class="site-logo">
+	<a class="brand" href="https://signet.capital/" title="Сигнет Капитал" aria-label="Сигнет Капитал"><img width="3520" height="550" src="https://signet.capital/wp-content/uploads/2022/04/logo_cap_ru_w.png" class="neve-site-logo skip-lazy" alt="" loading="lazy" data-variant="logo" srcset="https://signet.capital/wp-content/uploads/2022/04/logo_cap_ru_w.png 3520w, https://signet.capital/wp-content/uploads/2022/04/logo_cap_ru_w-300x47.png 300w, https://signet.capital/wp-content/uploads/2022/04/logo_cap_ru_w-1024x160.png 1024w, https://signet.capital/wp-content/uploads/2022/04/logo_cap_ru_w-768x120.png 768w, https://signet.capital/wp-content/uploads/2022/04/logo_cap_ru_w-1536x240.png 1536w, https://signet.capital/wp-content/uploads/2022/04/logo_cap_ru_w-2048x320.png 2048w, https://signet.capital/wp-content/uploads/2022/04/logo_cap_ru_w-600x94.png 600w" sizes="(max-width: 3520px) 100vw, 3520px"></a></div>
+
+	</div>
+
+</div></div><div class="hfg-slot right"><div class="builder-item tablet-left mobile-left"><div class="item--inner builder-item--nav-icon" data-section="header_menu_icon" data-item-id="nav-icon">
+	<div class="menu-mobile-toggle item-button navbar-toggle-wrapper">
+	<button type="button" class=" navbar-toggle" value="Меню навигации" aria-label="Меню навигации ">
+					<span class="bars">
+				<span class="icon-bar"></span>
+				<span class="icon-bar"></span>
+				<span class="icon-bar"></span>
+			</span>
+					<span class="screen-reader-text">Меню навигации</span>
+	</button>
+</div> <!--.navbar-toggle-wrapper-->
+
+
+	</div>
+
+</div></div>							</div>
+		</div>
+	</div>
+</nav>
+
+<div id="header-menu-sidebar" class="header-menu-sidebar menu-sidebar-panel slide_left" data-row-id="sidebar">
+	<div id="header-menu-sidebar-bg" class="header-menu-sidebar-bg">
+		<div class="close-sidebar-panel navbar-toggle-wrapper">
+			<button type="button" class="hamburger is-active  navbar-toggle active" value="Меню навигации" aria-label="Меню навигации ">
+									<span class="bars">
+						<span class="icon-bar"></span>
+						<span class="icon-bar"></span>
+						<span class="icon-bar"></span>
+					</span>
+									<span class="screen-reader-text">
+				Меню навигации					</span>
+			</button>
+		</div>
+		<div id="header-menu-sidebar-inner" class="header-menu-sidebar-inner ">
+						<div class="builder-item has-nav"><div class="item--inner builder-item--primary-menu has_menu" data-section="header_menu_primary" data-item-id="primary-menu">
+	<div class="nv-nav-wrap">
+	<div role="navigation" class="style-border-bottom nav-menu-primary" aria-label="Основное меню">
+
+		<ul id="nv-primary-navigation-sidebar" class="primary-menu-ul nav-ul"><li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-642"><a href="/#about">О КОМПАНИИ</a></li>
+<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-752"><a href="/#pifs">ПИФЫ</a></li>
+<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-815"><a href="/#du">ДОВЕРИТЕЛЬНОЕ УПРАВЛЕНИЕ</a></li>
+<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-645"><a href="/#fin_reports">РАСКРЫТИЕ ИНФОРМАЦИИ</a></li>
+</ul>	</div>
+</div>
+
+	</div>
+
+</div>					</div>
+	</div>
+</div>
+<div class="header-menu-sidebar-overlay hfg-ov"></div>
+</div>
+	</header>
+
+	
+
+	
+	<main id="content" class="neve-main" role="main">
+
+	<div class="container archive-container">
+
+		
+		<div class="row">
+						<div class="nv-index-posts blog col testclass">
+				
+				<div class="nv-page-title-wrap nv-big-title">
+	<div class="nv-page-title ">
+				<h1>Информация о расчете собственных средств</h1>
+					</div><!--.nv-page-title-->
+</div> <!--.nv-page-title-wrap-->
+	
+				<div class="posts-wrapper"><article id="post-1031" class="post-1031 post type-post status-publish format-standard hentry category-16 layout-default col-12  nv-non-grid-article ">
+	<div class="article-content-col">
+		<div class="content">
+			<div class="non-grid-content default-layout-content"><h2 class="blog-entry-title entry-title"><a href="https://signet.capital/2023/06/09/%d1%80%d0%b0%d1%81%d1%87%d0%b5%d1%82-%d1%80%d0%b0%d0%b7%d0%bc%d0%b5%d1%80%d0%b0-%d1%81%d0%be%d0%b1%d1%81%d1%82%d0%b2%d0%b5%d0%bd%d0%bd%d1%8b%d1%85-%d1%81%d1%80%d0%b5%d0%b4%d1%81%d1%82%d0%b2-%d0%bd-35/" rel="bookmark">Расчет размера собственных средств на 31.05.2023</a></h2><ul class="nv-meta-list"><li class="meta date posted-on"><time class="entry-date published" datetime="2023-06-09T15:06:38+03:00" content="2023-06-09">Дата и время публикации: 09.06.2023 15:06</time><time class="updated" datetime="2023-06-09T15:06:38+03:00">09.06.2023 15:06</time></li><li class="meta category"><a href="https://signet.capital/category/%d0%b8%d0%bd%d1%84%d0%be%d1%80%d0%bc%d0%b0%d1%86%d0%b8%d1%8f-%d0%be-%d1%80%d0%b0%d1%81%d1%87%d0%b5%d1%82%d0%b5-%d1%81%d0%be%d0%b1%d1%81%d1%82%d0%b2%d0%b5%d0%bd%d0%bd%d1%8b%d1%85-%d1%81%d1%80%d0%b5/">Информация о расчете собственных средств</a> / <a href="https://signet.capital/category/%d0%b8%d0%bd%d1%84%d0%be%d1%80%d0%bc%d0%b0%d1%86%d0%b8%d1%8f-%d0%be-%d1%80%d0%b0%d1%81%d1%87%d0%b5%d1%82%d0%b5-%d1%81%d0%be%d0%b1%d1%81%d1%82%d0%b2%d0%b5%d0%bd%d0%bd%d1%8b%d1%85-%d1%81%d1%80%d0%b5/2022/" rel="category tag">2022</a></li></ul><div class="excerpt-wrap entry-summary">
+<div class="wp-block-file"><a id="wp-block-file--media-8e0d8cac-8c18-499f-9208-034b096d5dfe" href="https://signet.capital/wp-content/uploads/2023/06/РСС-на-31.05.2023.pdf">PDF</a><a href="https://signet.capital/wp-content/uploads/2023/06/РСС-на-31.05.2023.pdf" class="wp-block-file__button" download="" aria-describedby="wp-block-file--media-8e0d8cac-8c18-499f-9208-034b096d5dfe">Скачать</a></div>
+
+
+
+<p>Информация доступна до: 09.06.2026 г.</p>
+</div></div>		</div>
+	</div>
+</article>
+<article id="post-1015" class="post-1015 post type-post status-publish format-standard hentry category-16 layout-default col-12  nv-non-grid-article ">
+	<div class="article-content-col">
+		<div class="content">
+			<div class="non-grid-content default-layout-content"><h2 class="blog-entry-title entry-title"><a href="https://signet.capital/2023/05/16/%d1%80%d0%b0%d1%81%d1%87%d0%b5%d1%82-%d1%80%d0%b0%d0%b7%d0%bc%d0%b5%d1%80%d0%b0-%d1%81%d0%be%d0%b1%d1%81%d1%82%d0%b2%d0%b5%d0%bd%d0%bd%d1%8b%d1%85-%d1%81%d1%80%d0%b5%d0%b4%d1%81%d1%82%d0%b2-%d0%bd-34/" rel="bookmark">Расчет размера собственных средств на 30.04.2023</a></h2><ul class="nv-meta-list"><li class="meta date posted-on"><time class="entry-date published" datetime="2023-05-16T14:56:36+03:00" content="2023-05-16">Дата и время публикации: 16.05.2023 14:56</time><time class="updated" datetime="2023-05-16T14:56:36+03:00">16.05.2023 14:56</time></li><li class="meta category"><a href="https://signet.capital/category/%d0%b8%d0%bd%d1%84%d0%be%d1%80%d0%bc%d0%b0%d1%86%d0%b8%d1%8f-%d0%be-%d1%80%d0%b0%d1%81%d1%87%d0%b5%d1%82%d0%b5-%d1%81%d0%be%d0%b1%d1%81%d1%82%d0%b2%d0%b5%d0%bd%d0%bd%d1%8b%d1%85-%d1%81%d1%80%d0%b5/">Информация о расчете собственных средств</a> / <a href="https://signet.capital/category/%d0%b8%d0%bd%d1%84%d0%be%d1%80%d0%bc%d0%b0%d1%86%d0%b8%d1%8f-%d0%be-%d1%80%d0%b0%d1%81%d1%87%d0%b5%d1%82%d0%b5-%d1%81%d0%be%d0%b1%d1%81%d1%82%d0%b2%d0%b5%d0%bd%d0%bd%d1%8b%d1%85-%d1%81%d1%80%d0%b5/2022/" rel="category tag">2022</a></li></ul><div class="excerpt-wrap entry-summary">
+<div class="wp-block-file"><a id="wp-block-file--media-8e0d8cac-8c18-499f-9208-034b096d5dfe" href="https://signet.capital/wp-content/uploads/2023/05/РСС-на-30.04.2023.pdf">PDF</a><a href="https://signet.capital/wp-content/uploads/2023/05/РСС-на-30.04.2023.pdf" class="wp-block-file__button" download="" aria-describedby="wp-block-file--media-8e0d8cac-8c18-499f-9208-034b096d5dfe">Скачать</a></div>
+
+
+
+<p>Информация доступна до: 16.05.2026 г.</p>
+</div></div>		</div>
+	</div>
+</article>
+<article id="post-992" class="post-992 post type-post status-publish format-standard hentry category-16 layout-default col-12  nv-non-grid-article ">
+	<div class="article-content-col">
+		<div class="content">
+			<div class="non-grid-content default-layout-content"><h2 class="blog-entry-title entry-title"><a href="https://signet.capital/2023/04/14/%d1%80%d0%b0%d1%81%d1%87%d0%b5%d1%82-%d1%80%d0%b0%d0%b7%d0%bc%d0%b5%d1%80%d0%b0-%d1%81%d0%be%d0%b1%d1%81%d1%82%d0%b2%d0%b5%d0%bd%d0%bd%d1%8b%d1%85-%d1%81%d1%80%d0%b5%d0%b4%d1%81%d1%82%d0%b2-%d0%bd-33/" rel="bookmark">Расчет размера собственных средств на 31.03.2023</a></h2><ul class="nv-meta-list"><li class="meta date posted-on"><time class="entry-date published" datetime="2023-04-14T16:29:21+03:00" content="2023-04-14">Дата и время публикации: 14.04.2023 16:29</time><time class="updated" datetime="2023-04-14T16:29:21+03:00">14.04.2023 16:29</time></li><li class="meta category"><a href="https://signet.capital/category/%d0%b8%d0%bd%d1%84%d0%be%d1%80%d0%bc%d0%b0%d1%86%d0%b8%d1%8f-%d0%be-%d1%80%d0%b0%d1%81%d1%87%d0%b5%d1%82%d0%b5-%d1%81%d0%be%d0%b1%d1%81%d1%82%d0%b2%d0%b5%d0%bd%d0%bd%d1%8b%d1%85-%d1%81%d1%80%d0%b5/">Информация о расчете собственных средств</a> / <a href="https://signet.capital/category/%d0%b8%d0%bd%d1%84%d0%be%d1%80%d0%bc%d0%b0%d1%86%d0%b8%d1%8f-%d0%be-%d1%80%d0%b0%d1%81%d1%87%d0%b5%d1%82%d0%b5-%d1%81%d0%be%d0%b1%d1%81%d1%82%d0%b2%d0%b5%d0%bd%d0%bd%d1%8b%d1%85-%d1%81%d1%80%d0%b5/2022/" rel="category tag">2022</a></li></ul><div class="excerpt-wrap entry-summary">
+<div class="wp-block-file"><a id="wp-block-file--media-8e0d8cac-8c18-499f-9208-034b096d5dfe" href="https://signet.capital/wp-content/uploads/2023/04/РСС-на-31.03.2023.pdf">PDF</a><a href="https://signet.capital/wp-content/uploads/2023/04/РСС-на-31.03.2023.pdf" class="wp-block-file__button" download="" aria-describedby="wp-block-file--media-8e0d8cac-8c18-499f-9208-034b096d5dfe">Скачать</a></div>
+
+
+
+<p>Информация доступна до: 14.04.2026 г.</p>
+</div></div>		</div>
+	</div>
+</article>
+<article id="post-982" class="post-982 post type-post status-publish format-standard hentry category-16 layout-default col-12  nv-non-grid-article ">
+	<div class="article-content-col">
+		<div class="content">
+			<div class="non-grid-content default-layout-content"><h2 class="blog-entry-title entry-title"><a href="https://signet.capital/2023/03/15/%d1%80%d0%b0%d1%81%d1%87%d0%b5%d1%82-%d1%80%d0%b0%d0%b7%d0%bc%d0%b5%d1%80%d0%b0-%d1%81%d0%be%d0%b1%d1%81%d1%82%d0%b2%d0%b5%d0%bd%d0%bd%d1%8b%d1%85-%d1%81%d1%80%d0%b5%d0%b4%d1%81%d1%82%d0%b2-%d0%bd-32/" rel="bookmark">Расчет размера собственных средств на 28.02.2023</a></h2><ul class="nv-meta-list"><li class="meta date posted-on"><time class="entry-date published" datetime="2023-03-15T17:37:18+03:00" content="2023-03-15">Дата и время публикации: 15.03.2023 17:37</time><time class="updated" datetime="2023-03-15T17:37:18+03:00">15.03.2023 17:37</time></li><li class="meta category"><a href="https://signet.capital/category/%d0%b8%d0%bd%d1%84%d0%be%d1%80%d0%bc%d0%b0%d1%86%d0%b8%d1%8f-%d0%be-%d1%80%d0%b0%d1%81%d1%87%d0%b5%d1%82%d0%b5-%d1%81%d0%be%d0%b1%d1%81%d1%82%d0%b2%d0%b5%d0%bd%d0%bd%d1%8b%d1%85-%d1%81%d1%80%d0%b5/">Информация о расчете собственных средств</a> / <a href="https://signet.capital/category/%d0%b8%d0%bd%d1%84%d0%be%d1%80%d0%bc%d0%b0%d1%86%d0%b8%d1%8f-%d0%be-%d1%80%d0%b0%d1%81%d1%87%d0%b5%d1%82%d0%b5-%d1%81%d0%be%d0%b1%d1%81%d1%82%d0%b2%d0%b5%d0%bd%d0%bd%d1%8b%d1%85-%d1%81%d1%80%d0%b5/2022/" rel="category tag">2022</a></li></ul><div class="excerpt-wrap entry-summary">
+<div class="wp-block-file"><a id="wp-block-file--media-8e0d8cac-8c18-499f-9208-034b096d5dfe" href="https://signet.capital/wp-content/uploads/2023/03/РСС-на-28.02.2023.pdf">PDF</a><a href="https://signet.capital/wp-content/uploads/2023/03/РСС-на-28.02.2023.pdf" class="wp-block-file__button" download="" aria-describedby="wp-block-file--media-8e0d8cac-8c18-499f-9208-034b096d5dfe">Скачать</a></div>
+
+
+
+<p>Информация доступна до: 15.03.2026 г.</p>
+</div></div>		</div>
+	</div>
+</article>
+<article id="post-978" class="post-978 post type-post status-publish format-standard hentry category-16 layout-default col-12  nv-non-grid-article ">
+	<div class="article-content-col">
+		<div class="content">
+			<div class="non-grid-content default-layout-content"><h2 class="blog-entry-title entry-title"><a href="https://signet.capital/2023/02/10/%d1%80%d0%b0%d1%81%d1%87%d0%b5%d1%82-%d1%80%d0%b0%d0%b7%d0%bc%d0%b5%d1%80%d0%b0-%d1%81%d0%be%d0%b1%d1%81%d1%82%d0%b2%d0%b5%d0%bd%d0%bd%d1%8b%d1%85-%d1%81%d1%80%d0%b5%d0%b4%d1%81%d1%82%d0%b2-%d0%bd-31/" rel="bookmark">Расчет размера собственных средств на 31.01.2023</a></h2><ul class="nv-meta-list"><li class="meta date posted-on"><time class="entry-date published" datetime="2023-02-10T17:13:38+03:00" content="2023-02-10">Дата и время публикации: 10.02.2023 17:13</time><time class="updated" datetime="2023-02-10T17:13:38+03:00">10.02.2023 17:13</time></li><li class="meta category"><a href="https://signet.capital/category/%d0%b8%d0%bd%d1%84%d0%be%d1%80%d0%bc%d0%b0%d1%86%d0%b8%d1%8f-%d0%be-%d1%80%d0%b0%d1%81%d1%87%d0%b5%d1%82%d0%b5-%d1%81%d0%be%d0%b1%d1%81%d1%82%d0%b2%d0%b5%d0%bd%d0%bd%d1%8b%d1%85-%d1%81%d1%80%d0%b5/">Информация о расчете собственных средств</a> / <a href="https://signet.capital/category/%d0%b8%d0%bd%d1%84%d0%be%d1%80%d0%bc%d0%b0%d1%86%d0%b8%d1%8f-%d0%be-%d1%80%d0%b0%d1%81%d1%87%d0%b5%d1%82%d0%b5-%d1%81%d0%be%d0%b1%d1%81%d1%82%d0%b2%d0%b5%d0%bd%d0%bd%d1%8b%d1%85-%d1%81%d1%80%d0%b5/2022/" rel="category tag">2022</a></li></ul><div class="excerpt-wrap entry-summary">
+<div class="wp-block-file"><a id="wp-block-file--media-8e0d8cac-8c18-499f-9208-034b096d5dfe" href="https://signet.capital/wp-content/uploads/2023/02/РСС-на-31.01.2023.pdf">PDF</a><a href="https://signet.capital/wp-content/uploads/2023/02/РСС-на-31.01.2023.pdf" class="wp-block-file__button" download="" aria-describedby="wp-block-file--media-8e0d8cac-8c18-499f-9208-034b096d5dfe">Скачать</a></div>
+
+
+
+<p>Информация доступна до: 10.02.2026 г.</p>
+</div></div>		</div>
+	</div>
+</article>
+<article id="post-972" class="post-972 post type-post status-publish format-standard hentry category-16 layout-default col-12  nv-non-grid-article ">
+	<div class="article-content-col">
+		<div class="content">
+			<div class="non-grid-content default-layout-content"><h2 class="blog-entry-title entry-title"><a href="https://signet.capital/2023/01/27/%d1%80%d0%b0%d1%81%d1%87%d0%b5%d1%82-%d1%80%d0%b0%d0%b7%d0%bc%d0%b5%d1%80%d0%b0-%d1%81%d0%be%d0%b1%d1%81%d1%82%d0%b2%d0%b5%d0%bd%d0%bd%d1%8b%d1%85-%d1%81%d1%80%d0%b5%d0%b4%d1%81%d1%82%d0%b2-%d0%bd-30/" rel="bookmark">Расчет размера собственных средств на 31.12.2022 уточненная</a></h2><ul class="nv-meta-list"><li class="meta date posted-on"><time class="entry-date published" datetime="2023-01-27T15:45:00+03:00" content="2023-01-27">Дата и время публикации: 27.01.2023 15:45</time></li><li class="meta category"><a href="https://signet.capital/category/%d0%b8%d0%bd%d1%84%d0%be%d1%80%d0%bc%d0%b0%d1%86%d0%b8%d1%8f-%d0%be-%d1%80%d0%b0%d1%81%d1%87%d0%b5%d1%82%d0%b5-%d1%81%d0%be%d0%b1%d1%81%d1%82%d0%b2%d0%b5%d0%bd%d0%bd%d1%8b%d1%85-%d1%81%d1%80%d0%b5/">Информация о расчете собственных средств</a> / <a href="https://signet.capital/category/%d0%b8%d0%bd%d1%84%d0%be%d1%80%d0%bc%d0%b0%d1%86%d0%b8%d1%8f-%d0%be-%d1%80%d0%b0%d1%81%d1%87%d0%b5%d1%82%d0%b5-%d1%81%d0%be%d0%b1%d1%81%d1%82%d0%b2%d0%b5%d0%bd%d0%bd%d1%8b%d1%85-%d1%81%d1%80%d0%b5/2022/" rel="category tag">2022</a></li></ul><div class="excerpt-wrap entry-summary">
+<div class="wp-block-file"><a id="wp-block-file--media-8e0d8cac-8c18-499f-9208-034b096d5dfe" href="https://signet.capital/wp-content/uploads/2023/01/РСС-на-31.12.2022-уточн.pdf">PDF</a><a href="https://signet.capital/wp-content/uploads/2023/01/РСС-на-31.12.2022-уточн.pdf" class="wp-block-file__button" download="" aria-describedby="wp-block-file--media-8e0d8cac-8c18-499f-9208-034b096d5dfe">Скачать</a></div>
+
+
+
+<p>Информация доступна до: 27.01.2026 г.</p>
+</div></div>		</div>
+	</div>
+</article>
+<article id="post-968" class="post-968 post type-post status-publish format-standard hentry category-16 layout-default col-12  nv-non-grid-article ">
+	<div class="article-content-col">
+		<div class="content">
+			<div class="non-grid-content default-layout-content"><h2 class="blog-entry-title entry-title"><a href="https://signet.capital/2023/01/20/%d1%80%d0%b0%d1%81%d1%87%d0%b5%d1%82-%d1%80%d0%b0%d0%b7%d0%bc%d0%b5%d1%80%d0%b0-%d1%81%d0%be%d0%b1%d1%81%d1%82%d0%b2%d0%b5%d0%bd%d0%bd%d1%8b%d1%85-%d1%81%d1%80%d0%b5%d0%b4%d1%81%d1%82%d0%b2-%d0%bd-29/" rel="bookmark">Расчет размера собственных средств на 31.12.2022</a></h2><ul class="nv-meta-list"><li class="meta date posted-on"><time class="entry-date published" datetime="2023-01-20T18:00:00+03:00" content="2023-01-20">Дата и время публикации: 20.01.2023 18:00</time></li><li class="meta category"><a href="https://signet.capital/category/%d0%b8%d0%bd%d1%84%d0%be%d1%80%d0%bc%d0%b0%d1%86%d0%b8%d1%8f-%d0%be-%d1%80%d0%b0%d1%81%d1%87%d0%b5%d1%82%d0%b5-%d1%81%d0%be%d0%b1%d1%81%d1%82%d0%b2%d0%b5%d0%bd%d0%bd%d1%8b%d1%85-%d1%81%d1%80%d0%b5/">Информация о расчете собственных средств</a> / <a href="https://signet.capital/category/%d0%b8%d0%bd%d1%84%d0%be%d1%80%d0%bc%d0%b0%d1%86%d0%b8%d1%8f-%d0%be-%d1%80%d0%b0%d1%81%d1%87%d0%b5%d1%82%d0%b5-%d1%81%d0%be%d0%b1%d1%81%d1%82%d0%b2%d0%b5%d0%bd%d0%bd%d1%8b%d1%85-%d1%81%d1%80%d0%b5/2022/" rel="category tag">2022</a></li></ul><div class="excerpt-wrap entry-summary">
+<div class="wp-block-file"><a id="wp-block-file--media-8e0d8cac-8c18-499f-9208-034b096d5dfe" href="https://signet.capital/wp-content/uploads/2023/01/РСС-на-31.12.2022.pdf">PDF</a><a href="https://signet.capital/wp-content/uploads/2023/01/РСС-на-31.12.2022.pdf" class="wp-block-file__button" download="" aria-describedby="wp-block-file--media-8e0d8cac-8c18-499f-9208-034b096d5dfe">Скачать</a></div>
+
+
+
+<p>Информация доступна до: 20.01.2026 г.</p>
+</div></div>		</div>
+	</div>
+</article>
+<article id="post-965" class="post-965 post type-post status-publish format-standard hentry category-16 layout-default col-12  nv-non-grid-article ">
+	<div class="article-content-col">
+		<div class="content">
+			<div class="non-grid-content default-layout-content"><h2 class="blog-entry-title entry-title"><a href="https://signet.capital/2022/12/09/%d1%80%d0%b0%d1%81%d1%87%d0%b5%d1%82-%d1%80%d0%b0%d0%b7%d0%bc%d0%b5%d1%80%d0%b0-%d1%81%d0%be%d0%b1%d1%81%d1%82%d0%b2%d0%b5%d0%bd%d0%bd%d1%8b%d1%85-%d1%81%d1%80%d0%b5%d0%b4%d1%81%d1%82%d0%b2-%d0%bd-28/" rel="bookmark">Расчет размера собственных средств на 30.11.2022</a></h2><ul class="nv-meta-list"><li class="meta date posted-on"><time class="entry-date published" datetime="2022-12-09T18:55:00+03:00" content="2022-12-09">Дата и время публикации: 09.12.2022 18:55</time><time class="updated" datetime="2022-12-09T18:55:00+03:00">09.12.2022 18:55</time></li><li class="meta category"><a href="https://signet.capital/category/%d0%b8%d0%bd%d1%84%d0%be%d1%80%d0%bc%d0%b0%d1%86%d0%b8%d1%8f-%d0%be-%d1%80%d0%b0%d1%81%d1%87%d0%b5%d1%82%d0%b5-%d1%81%d0%be%d0%b1%d1%81%d1%82%d0%b2%d0%b5%d0%bd%d0%bd%d1%8b%d1%85-%d1%81%d1%80%d0%b5/">Информация о расчете собственных средств</a> / <a href="https://signet.capital/category/%d0%b8%d0%bd%d1%84%d0%be%d1%80%d0%bc%d0%b0%d1%86%d0%b8%d1%8f-%d0%be-%d1%80%d0%b0%d1%81%d1%87%d0%b5%d1%82%d0%b5-%d1%81%d0%be%d0%b1%d1%81%d1%82%d0%b2%d0%b5%d0%bd%d0%bd%d1%8b%d1%85-%d1%81%d1%80%d0%b5/2022/" rel="category tag">2022</a></li></ul><div class="excerpt-wrap entry-summary">
+<div class="wp-block-file"><a id="wp-block-file--media-8e0d8cac-8c18-499f-9208-034b096d5dfe" href="https://signet.capital/wp-content/uploads/2022/12/РСС-на-30.11.2022.pdf">PDF</a><a href="https://signet.capital/wp-content/uploads/2022/12/РСС-на-30.11.2022.pdf" class="wp-block-file__button" download="" aria-describedby="wp-block-file--media-8e0d8cac-8c18-499f-9208-034b096d5dfe">Скачать</a></div>
+
+
+
+<p>Информация доступна до: 09.12.2025 г.</p>
+</div></div>		</div>
+	</div>
+</article>
+<article id="post-961" class="post-961 post type-post status-publish format-standard hentry category-16 layout-default col-12  nv-non-grid-article ">
+	<div class="article-content-col">
+		<div class="content">
+			<div class="non-grid-content default-layout-content"><h2 class="blog-entry-title entry-title"><a href="https://signet.capital/2022/11/11/%d1%80%d0%b0%d1%81%d1%87%d0%b5%d1%82-%d1%80%d0%b0%d0%b7%d0%bc%d0%b5%d1%80%d0%b0-%d1%81%d0%be%d0%b1%d1%81%d1%82%d0%b2%d0%b5%d0%bd%d0%bd%d1%8b%d1%85-%d1%81%d1%80%d0%b5%d0%b4%d1%81%d1%82%d0%b2-%d0%bd-27/" rel="bookmark">Расчет размера собственных средств на 31.10.2022</a></h2><ul class="nv-meta-list"><li class="meta date posted-on"><time class="entry-date published" datetime="2022-11-11T17:59:05+03:00" content="2022-11-11">Дата и время публикации: 11.11.2022 17:59</time><time class="updated" datetime="2022-11-11T17:59:05+03:00">11.11.2022 17:59</time></li><li class="meta category"><a href="https://signet.capital/category/%d0%b8%d0%bd%d1%84%d0%be%d1%80%d0%bc%d0%b0%d1%86%d0%b8%d1%8f-%d0%be-%d1%80%d0%b0%d1%81%d1%87%d0%b5%d1%82%d0%b5-%d1%81%d0%be%d0%b1%d1%81%d1%82%d0%b2%d0%b5%d0%bd%d0%bd%d1%8b%d1%85-%d1%81%d1%80%d0%b5/">Информация о расчете собственных средств</a> / <a href="https://signet.capital/category/%d0%b8%d0%bd%d1%84%d0%be%d1%80%d0%bc%d0%b0%d1%86%d0%b8%d1%8f-%d0%be-%d1%80%d0%b0%d1%81%d1%87%d0%b5%d1%82%d0%b5-%d1%81%d0%be%d0%b1%d1%81%d1%82%d0%b2%d0%b5%d0%bd%d0%bd%d1%8b%d1%85-%d1%81%d1%80%d0%b5/2022/" rel="category tag">2022</a></li></ul><div class="excerpt-wrap entry-summary">
+<div class="wp-block-file"><a id="wp-block-file--media-8e0d8cac-8c18-499f-9208-034b096d5dfe" href="https://signet.capital/wp-content/uploads/2022/11/РСС-на-31.10.2022.pdf">PDF</a><a href="https://signet.capital/wp-content/uploads/2022/11/РСС-на-31.10.2022.pdf" class="wp-block-file__button" download="" aria-describedby="wp-block-file--media-8e0d8cac-8c18-499f-9208-034b096d5dfe">Скачать</a></div>
+
+
+
+<p>Информация доступна до: 11.11.2025 г.</p>
+</div></div>		</div>
+	</div>
+</article>
+<article id="post-949" class="post-949 post type-post status-publish format-standard hentry category-16 layout-default col-12  nv-non-grid-article ">
+	<div class="article-content-col">
+		<div class="content">
+			<div class="non-grid-content default-layout-content"><h2 class="blog-entry-title entry-title"><a href="https://signet.capital/2022/10/14/%d1%80%d0%b0%d1%81%d1%87%d0%b5%d1%82-%d1%80%d0%b0%d0%b7%d0%bc%d0%b5%d1%80%d0%b0-%d1%81%d0%be%d0%b1%d1%81%d1%82%d0%b2%d0%b5%d0%bd%d0%bd%d1%8b%d1%85-%d1%81%d1%80%d0%b5%d0%b4%d1%81%d1%82%d0%b2-%d0%bd-26/" rel="bookmark">Расчет размера собственных средств на 30.09.2022</a></h2><ul class="nv-meta-list"><li class="meta date posted-on"><time class="entry-date published" datetime="2022-10-14T18:16:47+03:00" content="2022-10-14">Дата и время публикации: 14.10.2022 18:16</time><time class="updated" datetime="2022-10-14T18:16:47+03:00">14.10.2022 18:16</time></li><li class="meta category"><a href="https://signet.capital/category/%d0%b8%d0%bd%d1%84%d0%be%d1%80%d0%bc%d0%b0%d1%86%d0%b8%d1%8f-%d0%be-%d1%80%d0%b0%d1%81%d1%87%d0%b5%d1%82%d0%b5-%d1%81%d0%be%d0%b1%d1%81%d1%82%d0%b2%d0%b5%d0%bd%d0%bd%d1%8b%d1%85-%d1%81%d1%80%d0%b5/">Информация о расчете собственных средств</a> / <a href="https://signet.capital/category/%d0%b8%d0%bd%d1%84%d0%be%d1%80%d0%bc%d0%b0%d1%86%d0%b8%d1%8f-%d0%be-%d1%80%d0%b0%d1%81%d1%87%d0%b5%d1%82%d0%b5-%d1%81%d0%be%d0%b1%d1%81%d1%82%d0%b2%d0%b5%d0%bd%d0%bd%d1%8b%d1%85-%d1%81%d1%80%d0%b5/2022/" rel="category tag">2022</a></li></ul><div class="excerpt-wrap entry-summary">
+<div class="wp-block-file"><a id="wp-block-file--media-8e0d8cac-8c18-499f-9208-034b096d5dfe" href="https://signet.capital/wp-content/uploads/2022/10/РСС-на-30.09.2022.pdf">PDF</a><a href="https://signet.capital/wp-content/uploads/2022/10/РСС-на-30.09.2022.pdf" class="wp-block-file__button" download="" aria-describedby="wp-block-file--media-8e0d8cac-8c18-499f-9208-034b096d5dfe">Скачать</a></div>
+
+
+
+<p>Информация доступна до: 14.10.2025 г.</p>
+</div></div>		</div>
+	</div>
+</article>
+</div><ul class="page-numbers">
+	<li><span class="page-numbers current">1</span></li>
+	<li><a class="page-numbers" href="https://signet.capital/category/%d0%b8%d0%bd%d1%84%d0%be%d1%80%d0%bc%d0%b0%d1%86%d0%b8%d1%8f-%d0%be-%d1%80%d0%b0%d1%81%d1%87%d0%b5%d1%82%d0%b5-%d1%81%d0%be%d0%b1%d1%81%d1%82%d0%b2%d0%b5%d0%bd%d0%bd%d1%8b%d1%85-%d1%81%d1%80%d0%b5/page/2/">2</a></li>
+	<li><a class="page-numbers" href="https://signet.capital/category/%d0%b8%d0%bd%d1%84%d0%be%d1%80%d0%bc%d0%b0%d1%86%d0%b8%d1%8f-%d0%be-%d1%80%d0%b0%d1%81%d1%87%d0%b5%d1%82%d0%b5-%d1%81%d0%be%d0%b1%d1%81%d1%82%d0%b2%d0%b5%d0%bd%d0%bd%d1%8b%d1%85-%d1%81%d1%80%d0%b5/page/3/">3</a></li>
+	<li><span class="page-numbers dots">…</span></li>
+	<li><a class="page-numbers" href="https://signet.capital/category/%d0%b8%d0%bd%d1%84%d0%be%d1%80%d0%bc%d0%b0%d1%86%d0%b8%d1%8f-%d0%be-%d1%80%d0%b0%d1%81%d1%87%d0%b5%d1%82%d0%b5-%d1%81%d0%be%d0%b1%d1%81%d1%82%d0%b2%d0%b5%d0%bd%d0%bd%d1%8b%d1%85-%d1%81%d1%80%d0%b5/page/8/">8</a></li>
+	<li><a rel="next" class="next page-numbers" href="https://signet.capital/category/%d0%b8%d0%bd%d1%84%d0%be%d1%80%d0%bc%d0%b0%d1%86%d0%b8%d1%8f-%d0%be-%d1%80%d0%b0%d1%81%d1%87%d0%b5%d1%82%d0%b5-%d1%81%d0%be%d0%b1%d1%81%d1%82%d0%b2%d0%b5%d0%bd%d0%bd%d1%8b%d1%85-%d1%81%d1%80%d0%b5/page/2/">Далее →</a></li>
+</ul>
+				<div class="w-100"></div>
+							</div>
+					</div>
+	</div>
+
+</main><!--/.neve-main-->
+
+<footer class="site-footer" id="site-footer" next-page-hide="">
+	<div class="hfg_footer">
+		<div class="footer--row footer-main layout-full-contained" id="cb-row--footer-main" data-row-id="main" data-show-on="desktop">
+	<div class="footer--row-inner footer-main-inner footer-content-wrap">
+		<div class="container">
+			<div class="hfg-grid nv-footer-content hfg-grid-main row--wrapper row " data-section="hfg_footer_layout_main">
+				<div class="hfg-slot left"><div class="builder-item desktop-left tablet-left mobile-left"><div class="item--inner builder-item--footer-one-widgets" data-section="neve_sidebar-widgets-footer-one-widgets" data-item-id="footer-one-widgets">
+		<div class="widget-area">
+		<div id="block-29" class="widget widget_block widget_text">
+<p><strong>АДРЕСА И ТЕЛЕФОНЫ</strong><br>Адрес: Российская федерация, 123610, г. Москва, Краснопресненская набережная, д.12,&nbsp; зд. 3, под. 9, помещение 2501.</p>
+</div><div id="block-30" class="widget widget_block widget_text">
+<p></p>
+</div>	</div>
+	</div>
+
+</div></div><div class="hfg-slot c-left"><div class="builder-item desktop-left tablet-left mobile-left"><div class="item--inner builder-item--footer-two-widgets" data-section="neve_sidebar-widgets-footer-two-widgets" data-item-id="footer-two-widgets">
+		<div class="widget-area">
+		<div id="block-31" class="widget widget_block widget_text">
+<p><br>Телефон: +7 495 797-80-65<br>Email:&nbsp;<strong>go@signet.capital</strong></p>
+</div>	</div>
+	</div>
+
+</div></div>							</div>
+		</div>
+	</div>
+</div>
+
+<div class="footer--row footer-bottom layout-full-contained" id="cb-row--footer-bottom" data-row-id="bottom" data-show-on="desktop">
+	<div class="footer--row-inner footer-bottom-inner footer-content-wrap">
+		<div class="container">
+			<div class="hfg-grid nv-footer-content hfg-grid-bottom row--wrapper row " data-section="hfg_footer_layout_bottom">
+				<div class="hfg-slot left"><div class="builder-item desktop-left tablet-left mobile-left"><div class="item--inner builder-item--footer-three-widgets" data-section="neve_sidebar-widgets-footer-three-widgets" data-item-id="footer-three-widgets">
+		<div class="widget-area">
+		<div id="block-32" class="widget widget_block widget_text">
+<p class="ticss-c35c15f7 has-small-font-size">Общество с ограниченной ответственностью «Сигнет Капитал». Лицензия ФСФР России на осуществление деятельности по управлению инвестиционными фондами, паевыми инвестиционными фондами и негосударственными пенсионными фондами № 21-000-1-00619 от 27 ноября 2008 года. Стоимость инвестиционных паев может увеличиваться и уменьшаться, результаты инвестирования в прошлом не определяют доходы в будущем, государство не гарантирует доходность инвестиций в паевые инвестиционные фонды. До приобретения инвестиционных паев получить подробную информацию о паевых инвестиционных фондах, ознакомиться с Правилами доверительного управления паевыми инвестиционными фондами, а также с иными документами, предусмотренными в Федеральном законе от 29.11.2001 №156-ФЗ «Об инвестиционных фондах» можно по адресу: Российская федерация, 123610, г. Москва, Краснопресненская набережная, д.12, зд. 3, под. 9, помещение 2501.</p>
+</div>	</div>
+	</div>
+
+</div></div>							</div>
+		</div>
+	</div>
+</div>
+
+	</div>
+</footer>
+
+</div><!--/.wrapper-->
+<!-- Введите ваши скрипты здесь -->        <div id="wpfront-scroll-top-container" style="opacity: 0; right: 20px; bottom: 20px;">
+            <img src="https://signet.capital/wp-content/plugins/wpfront-scroll-top/images/icons/101.png" alt="" style="width: auto; height: auto;">        </div>
+                <script type="text/javascript">
+            function wpfront_scroll_top_init() {
+                if (typeof wpfront_scroll_top === "function" && typeof jQuery !== "undefined") {
+                    wpfront_scroll_top({"scroll_offset":100,"button_width":0,"button_height":0,"button_opacity":0.9,"button_fade_duration":200,"scroll_duration":400,"location":1,"marginX":20,"marginY":20,"hide_iframe":false,"auto_hide":false,"auto_hide_after":2,"button_action":"top","button_action_element_selector":"","button_action_container_selector":"html, body","button_action_element_offset":0});
+                } else {
+                    setTimeout(wpfront_scroll_top_init, 100);
+                }
+            }
+            wpfront_scroll_top_init();
+        </script>
+        <link rel="stylesheet" id="otter-widgets-css" href="https://signet.capital/wp-content/uploads/themeisle-gutenberg/widgets-1665144228.css?ver=1.7.0" type="text/css" media="all">
+<script type="text/javascript" src="https://signet.capital/wp-includes/js/dist/vendor/lodash.min.js?ver=4.17.19" id="lodash-js"></script>
+<script type="text/javascript" id="lodash-js-after">
+window.lodash = _.noConflict();
+</script>
+<script type="text/javascript" src="https://signet.capital/wp-includes/js/dist/vendor/moment.min.js?ver=2.29.1" id="moment-js"></script>
+<script type="text/javascript" id="moment-js-after">
+moment.updateLocale( 'ru_RU', {"months":["\u042f\u043d\u0432\u0430\u0440\u044c","\u0424\u0435\u0432\u0440\u0430\u043b\u044c","\u041c\u0430\u0440\u0442","\u0410\u043f\u0440\u0435\u043b\u044c","\u041c\u0430\u0439","\u0418\u044e\u043d\u044c","\u0418\u044e\u043b\u044c","\u0410\u0432\u0433\u0443\u0441\u0442","\u0421\u0435\u043d\u0442\u044f\u0431\u0440\u044c","\u041e\u043a\u0442\u044f\u0431\u0440\u044c","\u041d\u043e\u044f\u0431\u0440\u044c","\u0414\u0435\u043a\u0430\u0431\u0440\u044c"],"monthsShort":["\u042f\u043d\u0432","\u0424\u0435\u0432","\u041c\u0430\u0440","\u0410\u043f\u0440","\u041c\u0430\u0439","\u0418\u044e\u043d","\u0418\u044e\u043b","\u0410\u0432\u0433","\u0421\u0435\u043d","\u041e\u043a\u0442","\u041d\u043e\u044f","\u0414\u0435\u043a"],"weekdays":["\u0412\u043e\u0441\u043a\u0440\u0435\u0441\u0435\u043d\u044c\u0435","\u041f\u043e\u043d\u0435\u0434\u0435\u043b\u044c\u043d\u0438\u043a","\u0412\u0442\u043e\u0440\u043d\u0438\u043a","\u0421\u0440\u0435\u0434\u0430","\u0427\u0435\u0442\u0432\u0435\u0440\u0433","\u041f\u044f\u0442\u043d\u0438\u0446\u0430","\u0421\u0443\u0431\u0431\u043e\u0442\u0430"],"weekdaysShort":["\u0412\u0441","\u041f\u043d","\u0412\u0442","\u0421\u0440","\u0427\u0442","\u041f\u0442","\u0421\u0431"],"week":{"dow":1},"longDateFormat":{"LT":"H:i","LTS":null,"L":null,"LL":"d.m.Y","LLL":"d.m.Y H:i","LLLL":null}} );
+</script>
+<script type="text/javascript" id="wp-date-js-translations">
+( function( domain, translations ) {
+	var localeData = translations.locale_data[ domain ] || translations.locale_data.messages;
+	localeData[""].domain = domain;
+	wp.i18n.setLocaleData( localeData, domain );
+} )( "default", { "locale_data": { "messages": { "": {} } } } );
+</script>
+<script type="text/javascript" src="https://signet.capital/wp-content/plugins/gutenberg/build/date/index.min.js?ver=dfe2d78fdbdfe586e7cfd705aa757242" id="wp-date-js"></script>
+<script type="text/javascript" id="wp-date-js-after">
+wp.date.setSettings( {"l10n":{"locale":"ru_RU","months":["\u042f\u043d\u0432\u0430\u0440\u044c","\u0424\u0435\u0432\u0440\u0430\u043b\u044c","\u041c\u0430\u0440\u0442","\u0410\u043f\u0440\u0435\u043b\u044c","\u041c\u0430\u0439","\u0418\u044e\u043d\u044c","\u0418\u044e\u043b\u044c","\u0410\u0432\u0433\u0443\u0441\u0442","\u0421\u0435\u043d\u0442\u044f\u0431\u0440\u044c","\u041e\u043a\u0442\u044f\u0431\u0440\u044c","\u041d\u043e\u044f\u0431\u0440\u044c","\u0414\u0435\u043a\u0430\u0431\u0440\u044c"],"monthsShort":["\u042f\u043d\u0432","\u0424\u0435\u0432","\u041c\u0430\u0440","\u0410\u043f\u0440","\u041c\u0430\u0439","\u0418\u044e\u043d","\u0418\u044e\u043b","\u0410\u0432\u0433","\u0421\u0435\u043d","\u041e\u043a\u0442","\u041d\u043e\u044f","\u0414\u0435\u043a"],"weekdays":["\u0412\u043e\u0441\u043a\u0440\u0435\u0441\u0435\u043d\u044c\u0435","\u041f\u043e\u043d\u0435\u0434\u0435\u043b\u044c\u043d\u0438\u043a","\u0412\u0442\u043e\u0440\u043d\u0438\u043a","\u0421\u0440\u0435\u0434\u0430","\u0427\u0435\u0442\u0432\u0435\u0440\u0433","\u041f\u044f\u0442\u043d\u0438\u0446\u0430","\u0421\u0443\u0431\u0431\u043e\u0442\u0430"],"weekdaysShort":["\u0412\u0441","\u041f\u043d","\u0412\u0442","\u0421\u0440","\u0427\u0442","\u041f\u0442","\u0421\u0431"],"meridiem":{"am":"\u0434\u043f","pm":"\u043f\u043f","AM":"\u0414\u041f","PM":"\u041f\u041f"},"relative":{"future":"%s \u0442\u043e\u043c\u0443 \u043d\u0430\u0437\u0430\u0434","past":"%s \u043d\u0430\u0437\u0430\u0434"}},"formats":{"time":"H:i","date":"d.m.Y","datetime":"d.m.Y H:i","datetimeAbbreviated":"d.m.Y H:i"},"timezone":{"offset":"3","string":"","abbr":""}} );
+</script>
+<script type="text/javascript" id="wp-dom-ready-js-translations">
+( function( domain, translations ) {
+	var localeData = translations.locale_data[ domain ] || translations.locale_data.messages;
+	localeData[""].domain = domain;
+	wp.i18n.setLocaleData( localeData, domain );
+} )( "default", { "locale_data": { "messages": { "": {} } } } );
+</script>
+<script type="text/javascript" src="https://signet.capital/wp-content/plugins/gutenberg/build/dom-ready/index.min.js?ver=ea6a91f02ba567427b25595ee72ecaff" id="wp-dom-ready-js"></script>
+<script type="text/javascript" id="wp-dom-ready-js-after">
+wp.galleryBlockV2Enabled = true;
+</script>
+<script type="text/javascript" src="https://signet.capital/wp-content/plugins/otter-blocks/build/blocks/sticky.js?ver=c0c9ae1dc6da4ac5b77d81c95dc13dc6" id="otter-sticky-js" defer=""></script>
+<script type="text/javascript" src="https://signet.capital/wp-content/plugins/otter-blocks/build/animation/frontend.js?ver=f32caf9220a8b240180e4be8da6b255a" id="otter-animation-frontend-js" async=""></script>
+<script type="text/javascript" src="https://signet.capital/wp-content/plugins/otter-blocks/build/animation/anim-count.js?ver=188e6e1bb7cd7d5ac27162b8d4581ac0" id="otter-count-js" defer=""></script>
+<script type="text/javascript" src="https://signet.capital/wp-content/plugins/otter-blocks/build/animation/anim-typing.js?ver=c9f1f36cdf8bb7f0a3142865884258a7" id="otter-typing-js" defer=""></script>
+<script type="text/javascript" id="stickThis-js-extra">
+/* <![CDATA[ */
+var sticky_anything_engage = {"element":"#header-grid","topspace":"0","minscreenwidth":"0","maxscreenwidth":"999999","zindex":"999","legacymode":"","dynamicmode":"","debugmode":"","pushup":"","adminbar":"1"};
+/* ]]> */
+</script>
+<script type="text/javascript" src="https://signet.capital/wp-content/plugins/sticky-menu-or-anything-on-scroll/assets/js/stickThis.js?ver=2.1.1" id="stickThis-js"></script>
+<script type="text/javascript" src="https://signet.capital/wp-content/plugins/wpfront-scroll-top/js/wpfront-scroll-top.min.js?ver=2.0.7.08086" id="wpfront-scroll-top-js" async="async" defer="defer"></script>
+<script type="text/javascript" id="neve-script-js-extra">
+/* <![CDATA[ */
+var NeveProperties = {"ajaxurl":"https:\/\/signet.capital\/wp-admin\/admin-ajax.php","nonce":"3cf60a44c3","isRTL":"","isCustomize":""};
+/* ]]> */
+</script>
+<script type="text/javascript" src="https://signet.capital/wp-content/themes/neve/assets/js/build/modern/frontend.js?ver=3.2.2" id="neve-script-js" async=""></script>
+<script type="text/javascript" id="neve-script-js-after">
+	var html = document.documentElement;
+	var theme = html.getAttribute('data-neve-theme') || 'light';
+	var variants = {"logo":{"light":{"src":"https:\/\/signet.capital\/wp-content\/uploads\/2022\/04\/logo_cap_ru_w.png","srcset":"https:\/\/signet.capital\/wp-content\/uploads\/2022\/04\/logo_cap_ru_w.png 3520w, https:\/\/signet.capital\/wp-content\/uploads\/2022\/04\/logo_cap_ru_w-300x47.png 300w, https:\/\/signet.capital\/wp-content\/uploads\/2022\/04\/logo_cap_ru_w-1024x160.png 1024w, https:\/\/signet.capital\/wp-content\/uploads\/2022\/04\/logo_cap_ru_w-768x120.png 768w, https:\/\/signet.capital\/wp-content\/uploads\/2022\/04\/logo_cap_ru_w-1536x240.png 1536w, https:\/\/signet.capital\/wp-content\/uploads\/2022\/04\/logo_cap_ru_w-2048x320.png 2048w, https:\/\/signet.capital\/wp-content\/uploads\/2022\/04\/logo_cap_ru_w-600x94.png 600w","sizes":"(max-width: 3520px) 100vw, 3520px"},"dark":{"src":"https:\/\/signet.capital\/wp-content\/uploads\/2022\/04\/logo_cap_ru_w.png","srcset":"https:\/\/signet.capital\/wp-content\/uploads\/2022\/04\/logo_cap_ru_w.png 3520w, https:\/\/signet.capital\/wp-content\/uploads\/2022\/04\/logo_cap_ru_w-300x47.png 300w, https:\/\/signet.capital\/wp-content\/uploads\/2022\/04\/logo_cap_ru_w-1024x160.png 1024w, https:\/\/signet.capital\/wp-content\/uploads\/2022\/04\/logo_cap_ru_w-768x120.png 768w, https:\/\/signet.capital\/wp-content\/uploads\/2022\/04\/logo_cap_ru_w-1536x240.png 1536w, https:\/\/signet.capital\/wp-content\/uploads\/2022\/04\/logo_cap_ru_w-2048x320.png 2048w, https:\/\/signet.capital\/wp-content\/uploads\/2022\/04\/logo_cap_ru_w-600x94.png 600w","sizes":"(max-width: 3520px) 100vw, 3520px"},"same":true}};
+
+	function setCurrentTheme( theme ) {
+		var pictures = document.getElementsByClassName( 'neve-site-logo' );
+		for(var i = 0; i<pictures.length; i++) {
+			var picture = pictures.item(i);
+			if( ! picture ) {
+				continue;
+			};
+			var fileExt = picture.src.slice((Math.max(0, picture.src.lastIndexOf(".")) || Infinity) + 1);
+			if ( fileExt === 'svg' ) {
+				picture.removeAttribute('width');
+				picture.removeAttribute('height');
+				picture.style = 'width: var(--maxWidth)';
+			}
+			var compId = picture.getAttribute('data-variant');
+			if ( compId && variants[compId] ) {
+				var isConditional = variants[compId]['same'];
+				if ( theme === 'light' || isConditional || variants[compId]['dark']['src'] === false ) {
+					picture.src = variants[compId]['light']['src'];
+					picture.srcset = variants[compId]['light']['srcset'] || '';
+					picture.sizes = variants[compId]['light']['sizes'];
+					continue;
+				};
+				picture.src = variants[compId]['dark']['src'];
+				picture.srcset = variants[compId]['dark']['srcset'] || '';
+				picture.sizes = variants[compId]['dark']['sizes'];
+			};
+		};
+	};
+
+	var observer = new MutationObserver(function(mutations) {
+		mutations.forEach(function(mutation) {
+			if (mutation.type == 'attributes') {
+				theme = html.getAttribute('data-neve-theme');
+				setCurrentTheme(theme);
+			};
+		});
+	});
+
+	observer.observe(html, {
+		attributes: true
+	});
+</script>
+
+
+

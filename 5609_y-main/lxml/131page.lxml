@@ -1,0 +1,113 @@
+
+	<header>
+		<div class="top wrap">
+			<div class="logos">
+				<img src="/upload/qr.jpg" class="qr">
+				<a href="/"><img src="/local/templates/gc/img/logo.png" class="logo"></a>
+			</div>
+			<div class="right">
+				<a href="#" target="_blank" class="cabinet">Личный кабинет</a>
+				<a href="tel:+74957828530">(495) 782 - 85 - 30</a>			</div>
+		</div>
+		<div class="menu">
+			<div class="wrap">
+				<a href="/about/">О компании</a>
+				<a href="/services/">Услуги</a>
+				<a href="/news/">Новости</a>
+				<a href="/info/">Раскрытие информации</a>
+				<a href="/contacts/">Контакты</a>
+			</div>
+		</div>
+	</header><div class="slogan_bg info_inside_img">
+	<span class="line4">Размер собственных средств</span>
+</div>
+<div class="wrap info_wrap">
+	<div class="left">
+		<a href="?year=2022">2022</a>
+<a href="?year=2021">2021</a>
+<a href="?year=2020">2020</a>
+<a href="?year=2019">2019</a>
+<a href="?year=2018">2018</a>
+<a href="?year=2017">2017</a>
+<a href="?year=2016">2016</a>
+<a href="?year=2015">2015</a>
+<a href="?year=2014">2014</a>
+<a href="?year=2013">2013</a>
+<a href="?year=2012">2012</a>
+<a href="?year=2011">2011</a>
+<a href="?year=2010">2010</a>
+<a href="?year=2009">2009</a>
+<a href="?year=2023" class="active">2023</a>
+	</div>
+	<div class="right">
+		<div class="item">
+	<div class="name">31 мая 2023 года.</div>
+		<div class="details">
+		<a href="/upload/iblock/906/РСС_май_2023.xlsx" class="download"><img src="/local/templates/gc/img/pdf.svg"></a>
+		<p>Опубликовано<br>14.06.2023<br>Дата, до которой осуществляется доступ к информации<br>14.06.2026</p>
+	</div>
+</div>
+<div class="item">
+	<div class="name">30 апреля 2023 года.</div>
+		<div class="details">
+		<a href="/upload/iblock/3ae/РСС_апрель_2023.xlsx" class="download"><img src="/local/templates/gc/img/pdf.svg"></a>
+		<p>Опубликовано<br>17.05.2023<br>Дата, до которой осуществляется доступ к информации<br>17.05.2026</p>
+	</div>
+</div>
+<div class="item">
+	<div class="name">31 марта 2023 года.</div>
+		<div class="details">
+		<a href="/upload/iblock/914/РСС_март_2023.xlsx" class="download"><img src="/local/templates/gc/img/pdf.svg"></a>
+		<p>Опубликовано<br>13.04.2023<br>Дата, до которой осуществляется доступ к информации<br>13.04.2026</p>
+	</div>
+</div>
+<div class="item">
+	<div class="name">28 февраля 2023 года</div>
+		<div class="details">
+		<a href="/upload/iblock/668/РСС_февраль_2023.xlsx" class="download"><img src="/local/templates/gc/img/pdf.svg"></a>
+		<p>Опубликовано<br>10.03.2023<br>Дата, до которой осуществляется доступ к информации<br>10.03.2026</p>
+	</div>
+</div>
+<div class="item">
+	<div class="name">31 января 2023 года</div>
+		<div class="details">
+		<a href="/upload/iblock/efc/РСС_январь_2023.xlsx" class="download"><img src="/local/templates/gc/img/pdf.svg"></a>
+		<p>Опубликовано<br>10.02.2023<br>Дата, до которой осуществляется доступ к информации<br>10.02.2026</p>
+	</div>
+</div>
+	</div>
+</div>
+<div class="gray_bg buttons_block">
+	<div class="wrap">
+		<a href="/info/razmer-sobstvennykh-sredstv/?year=2023" class="active">Размер собственных средств</a>
+<a href="/info/finansovaya-otchetnost/?year=2023">Финансовая отчетность</a>
+<a href="/info/dokumenty-pif/?year=2023">Документы ПИФ</a>
+<a href="/info/perechen-insayderskoy-informatsii/?year=2023">Перечень инсайдерской информации</a>
+<a href="/info/inaya-informatsiya/?year=2023">Иная информация</a>
+	</div>
+</div>
+	<footer>
+		<div class="wrap">
+			<div class="line1">
+				<a href="/"><img src="/local/templates/gc/img/logo_white.png" class="logo"></a>
+				<div class="social">
+					<!-- <a href="/"><img src="/local/templates/gc/img/fb.svg"></a>
+					<a href="/"><img src="/local/templates/gc/img/tw.svg"></a>
+					<a href="/"><img src="/local/templates/gc/img/in.svg"></a>
+					<a href="/"><img src="/local/templates/gc/img/rss.svg"></a> -->
+				</div>
+<span style="color: #ffffff;">Акционерное общество 
+Управляющая компания «Дженерал Кэпитал» 
+107031, г. Москва, Рождественский б-р, д. 22/23 стр. 1, этаж 3, ком. 7, 8.
++7-495-782 - 85 - 30</span>			</div>
+			<div class="line2"></div>
+		</div>
+	</footer>
+	<div class="disclaimer">
+		<div class="wrap"><p>
+	 Акционерное общество Управляющая компания «Дженерал Кэпитал» (лицензия на осуществление деятельности по управлению инвестиционными фондами, паевыми инвестиционными фондами и негосударственными пенсионными фондами № 21-000-1- 00652 от 16 июля 2009 г., предоставлена ФСФР России. Стоимость инвестиционных паев может увеличиваться и уменьшаться, результаты инвестирования в прошлом не определяют доходы в будущем, государство не гарантирует доходность инвестиций в паевые инвестиционные фонды. Прежде чем приобрести инвестиционный пай, следует внимательно ознакомиться с правилами доверительного управления паевым инвестиционным фондом. Получить подробную информацию о паевом инвестиционном фонде, а также ознакомиться с правилами доверительного управления и с иными документами, предусмотренными в Федеральном законе от 29.11.2001 № 156-ФЗ «Об инвестиционных фондах» можно по адресу: 107031, г. Москва, Рождественский б-р, д. 22/23 стр. 1, этаж 3, ком. 7, 8 .Не допускается распространение информации о паевом инвестиционном фонде, инвестиционные паи которого ограничены в обороте, за исключением случаев ее раскрытия в соответствии с федеральными законами. Информация о паевом инвестиционном фонде, акции или инвестиционные паи которого ограничены в обороте, может предоставляться лицам, которым в соответствии с Федеральным законом "О рынке ценных бумаг" может предоставляться информация о ценных бумагах, предназначенных для квалифицированных инвесторов.&nbsp;
+</p></div>
+	</div>
+	<script type="text/javascript" src="/local/templates/gc/js/glide.min.js"></script>
+	<script type="text/javascript" src="/local/templates/gc/js/app.js?1687320436"></script>
+

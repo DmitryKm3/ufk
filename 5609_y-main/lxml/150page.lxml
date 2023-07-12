@@ -1,0 +1,477 @@
+
+<div class="wrapper"> 
+
+	<header>
+			
+
+			<div class="header__middle">
+			<div class="container">
+			<div class="row justify-content-between align-items-center">
+				<div class="col-9 col-md-auto">
+					<a href="/" class="logo">
+						<img class="logo__img" src="https://amfbc.ru/wp-content/themes/amfbc2021Layout/images/logo.svg" alt="">
+						<span class="logo__name">Управляющая компания<b>Фонда консолидации банковского сектора</b></span>
+					</a>
+				</div>
+
+				<div class="col-3 d-lg-none text-end">
+			    <button type="button" class="menu-link-icon navbar-toggle js-open-menu collapsed d-lg-none">
+					<span class="bar"></span>
+					<span class="bar"></span>
+					<span class="bar"></span>
+			    </button>
+			  </div>
+
+
+				<div class="col-12 d-none d-lg-flex col-md-auto">
+					<div class="row gx-5">
+												<div class="col-auto">
+						<div class="contact">
+							<div class="contact__icon"><img src="https://amfbc.ru/wp-content/themes/amfbc2021Layout/images/envelope.svg" alt=""></div>
+							<a class="contact__value" href="mailto:info@amfbc.ru">info@amfbc.ru</a>
+						</div>
+						</div>
+																		<div class="col-auto">
+						<div class="contact">
+							<div class="contact__icon"><img src="https://amfbc.ru/wp-content/themes/amfbc2021Layout/images/phone-call.svg" alt=""></div>
+        			<a class="contact__value" href="tel:+7 (495) 676-84-97">+7 (495) 676-84-97</a>
+						</div>
+						</div>
+											</div>
+				</div>
+			</div>
+			</div>
+			</div>
+
+			<div class="header__bottom">
+			<div class="container">
+				<div class="menu-link-close js-open-menu d-lg-none">
+				</div>
+
+				<div class="row justify-content-between">
+					<div class="col-12" id="collapse_menu">
+
+						<div class="menu-main__wrapper"><ul class="menu-main"><li id="menu-item-5" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-5"><a>О компании</a>
+<ul class="sub-menu">
+	<li id="menu-item-311" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-311"><a href="https://amfbc.ru/rekvizity-organizatsii/">Реквизиты</a></li>
+	<li id="menu-item-63" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-63"><a href="https://amfbc.ru/company/">Общие сведения</a></li>
+	<li id="menu-item-114" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-114"><a href="https://amfbc.ru/karera/">Карьера</a></li>
+	<li id="menu-item-130" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-130"><a href="https://amfbc.ru/protivodejstvie-korruptsii/">Противодействие коррупции</a></li>
+	<li id="menu-item-141" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-141"><a href="https://amfbc.ru/protivodejstvie-nepravomernomu-ispolzovaniyu-insajderskoj-informatsii-i-manipulirovaniyu-rynkom/">Инсайдерам</a></li>
+	<li id="menu-item-160" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-160"><a href="https://amfbc.ru/kontakty/">Контакты</a></li>
+</ul>
+</li>
+<li id="menu-item-6" class="menu-item menu-item-type-custom menu-item-object-custom current-menu-ancestor current-menu-parent menu-item-has-children menu-item-6"><a>Раскрытие информации</a>
+<ul class="sub-menu">
+	<li id="menu-item-169" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-169"><a href="https://amfbc.ru/dokumenty/">Документы</a></li>
+	<li id="menu-item-177" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-177"><a href="https://amfbc.ru/finansovaya-otchetnost/">Финансовая отчетность</a></li>
+	<li id="menu-item-176" class="menu-item menu-item-type-post_type menu-item-object-page current-menu-item page_item page-item-174 current_page_item menu-item-176"><a href="https://amfbc.ru/informatsiya-o-raschete-sobstvennyh-sredstv/" aria-current="page">Информация о расчете собственных средств</a></li>
+	<li id="menu-item-571" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-571"><a href="https://amfbc.ru/activities/">Сообщения о деятельности организации</a></li>
+	<li id="menu-item-60" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-60"><a href="https://amfbc.ru/informatsiya-o-tehnicheskih-sboyah-i-vozobnovlenii-rabotosposobnosti-avtomatizirovannyh-sistem/">Информация о технических сбоях и возобновлении работоспособности автоматизированных систем</a></li>
+</ul>
+</li>
+<li id="menu-item-7" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-7"><a>Финансовое оздоровление</a>
+<ul class="sub-menu">
+	<li id="menu-item-211" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-211"><a href="https://amfbc.ru/vremennye-administratsii/">Временные администрации</a></li>
+	<li id="menu-item-49" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-49"><a href="https://amfbc.ru/banking/">Продажа кредитных организаций</a></li>
+	<li id="menu-item-188" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-188"><a href="https://amfbc.ru/uvedomleniya/">Уведомления о прекращении действия или отзыве доверенностей</a></li>
+</ul>
+</li>
+<li id="menu-item-295" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-295"><a href="https://amfbc.ru/news/">Новости</a></li>
+</ul></div>					</div>
+				</div>
+
+			</div>
+			</div>
+			
+			
+
+	</header> <!-- top-part -->
+
+	<div class="main-section" style="min-height: 577.328px;">
+
+
+
+
+	<div class="section section--page">
+	<div class="container">
+		<div class="breadcrumbs"><a class="breadcrumbs__item" href="https://amfbc.ru/" itemprop="url"><span itemprop="title">Главная</span></a> <span class="breadcrumbs__item"><i class="fa fa-angle-right"></i></span> <span class="breadcrumbs__item breadcrumbs__item--active">Информация о расчете собственных средств</span></div><!-- .breadcrumbs -->
+		<h1 class="h2 with-stripe page__title">Информация о расчете собственных средств</h1>
+
+					<p><!--
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<p><span data-mce-type="bookmark" style="display: inline-block; width: 0px; overflow: hidden; line-height: 0;" class="mce_SELRES_start"></span><span data-mce-type="bookmark" style="display: inline-block; width: 0px; overflow: hidden; line-height: 0;" class="mce_SELRES_start"></span><span data-mce-type="bookmark" style="display: inline-block; width: 0px; overflow: hidden; line-height: 0;" class="mce_SELRES_start"></span><span data-mce-type="bookmark" style="display: inline-block; width: 0px; overflow: hidden; line-height: 0;" class="mce_SELRES_start"></span><span data-mce-type="bookmark" style="display: inline-block; width: 0px; overflow: hidden; line-height: 0;" class="mce_SELRES_start"></span><span data-mce-type="bookmark" style="display: inline-block; width: 0px; overflow: hidden; line-height: 0;" class="mce_SELRES_start"></span><span data-mce-type="bookmark" style="display: inline-block; width: 0px; overflow: hidden; line-height: 0;" class="mce_SELRES_start"></span><span data-mce-type="bookmark" style="display: inline-block; width: 0px; overflow: hidden; line-height: 0;" class="mce_SELRES_start"></span><span data-mce-type="bookmark" style="display: inline-block; width: 0px; overflow: hidden; line-height: 0;" class="mce_SELRES_start"></span><a href="/wp-content/uploads/2022/02/raschet_31012022.pdf" target="_blank" rel="noopener">Расчет размера собственных средств на 31 января 2022 г.</a><br />
+<small><em>Опубликовано 15.02.2022</em></small></p>
+
+
+
+
+<p><a href="/wp-content/uploads/2022/01/raschet_122021.pdf" target="_blank" rel="noopener">Расчет размера собственных средств на 31 декабря 2021 г.</a><br />
+<small><em>Опубликовано 21.01.2022</em></small></p>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+--></p>
+<p><a href="/wp-content/uploads/2023/06/rss310523.pdf" target="_blank" rel="noopener">Расчет размера собственных средств на 31 мая 2023 г.</a><br>
+<small><em>Опубликовано 19.06.2023</em></small></p>
+<p><a href="/wp-content/uploads/2023/05/rss300423.pdf" target="_blank" rel="noopener">Расчет размера собственных средств на 30 апреля 2023 г.</a><br>
+<small><em>Опубликовано 22.05.2023</em></small></p>
+<p><a href="/wp-content/uploads/2023/04/rss310323.pdf" target="_blank" rel="noopener">Расчет размера собственных средств на 31 марта 2023 г.</a><br>
+<small><em>Опубликовано 14.04.2023</em></small></p>
+<p><a href="/wp-content/uploads/2023/03/feb_2023.pdf" target="_blank" rel="noopener">Расчет размера собственных средств на 28 февраля 2023 г.</a><br>
+<small><em>Опубликовано 17.03.2023</em></small></p>
+<p><a href="/wp-content/uploads/2023/03/jan_2023.pdf" target="_blank" rel="noopener">Расчет размера собственных средств на 31 января 2023 г. (уточненный)</a><br>
+<small><em>Опубликовано 15.03.2023</em></small></p>
+<p><a href="/wp-content/uploads/2023/03/dec_2022.pdf" target="_blank" rel="noopener">Расчет размера собственных средств на 31 декабря 2022 г. (уточненный)</a><br>
+<small><em>Опубликовано 15.03.2023</em></small></p>
+<p><a href="/wp-content/uploads/2023/02/rss310123.pdf" target="_blank" rel="noopener">Расчет размера собственных средств на 31 января 2023 г.</a><br>
+<small><em>Опубликовано 16.02.2023</em></small></p>
+<p><a href="/wp-content/uploads/2023/01/rss311222.pdf" target="_blank" rel="noopener">Расчет размера собственных средств на 31 декабря 2022 г.</a><br>
+<small><em>Опубликовано 17.01.2023</em></small></p>
+<p><a href="/wp-content/uploads/2021/12/raschet112021.pdf" target="_blank" rel="noopener">Расчет размера собственных средств на 30 ноября 2021 г.</a><br>
+<small><em>Опубликовано 15.12.2021</em></small></p>
+<p><a href="/wp-content/uploads/2021/11/raschet0420514.pdf" target="_blank" rel="noopener">Расчет размера собственных средств на 31 октября 2021 г.</a><br>
+<small><em>Опубликовано 22.11.2021</em></small></p>
+<p><a href="/wp-content/uploads/2021/10/rss_30092021.pdf" target="_blank" rel="noopener">Расчет размера собственных средств на 30 сентября 2021 г.</a><br>
+<small><em>Опубликовано 18.10.2021</em></small></p>
+<p><a href="/wp-content/uploads/2021/09/capital_20210831.pdf" target="_blank" rel="noopener">Расчет размера собственных средств на 31 августа 2021 г.</a><br>
+<small><em>Опубликовано 28.09.2021</em></small></p>
+<p><a href="/wp-content/uploads/2021/08/capital_20210731.pdf" target="_blank" rel="noopener">Расчет размера собственных средств на 31 июля 2021 г.</a><br>
+<small><em>Опубликовано 30.08.2021</em></small></p>
+<p><a href="/wp-content/uploads/2021/07/capital_20210630_corr.pdf" target="_blank" rel="noopener">Расчет размера собственных средств на 30 июня 2021 г. (уточненный)</a><br>
+<small><em>Опубликовано 30.07.2021</em></small></p>
+<p><a href="/wp-content/uploads/2021/07/capital_20210630.pdf" target="_blank" rel="noopener">Расчет размера собственных средств на 30 июня 2021 г.</a><br>
+<small><em>Опубликовано 23.07.2021</em></small></p>
+<p><a href="/wp-content/uploads/2021/07/capital_20210531.pdf" target="_blank" rel="noopener">Расчет размера собственных средств на 31 мая 2021 г.</a><br>
+<small><em>Опубликовано 24.06.2021</em></small></p>
+<p><a href="/wp-content/uploads/2021/07/capital_20210430.pdf" target="_blank" rel="noopener">Расчет размера собственных средств на 30 апреля 2021 г.</a><br>
+<small><em>Опубликовано 31.05.2021</em></small></p>
+<p><a href="/wp-content/uploads/2021/07/capital_20210331_corr.pdf" target="_blank" rel="noopener">Расчет размера собственных средств на 31 марта 2021 г. (уточненный)</a><br>
+<small><em>Опубликовано 30.04.2021</em></small></p>
+<p><a href="/wp-content/uploads/2021/07/capital_20210331.pdf" target="_blank" rel="noopener">Расчет размера собственных средств на 31 марта 2021 г.</a><br>
+<small><em>Опубликовано 26.04.2021</em></small></p>
+<p><a href="/wp-content/uploads/2021/07/capital_20210228.pdf" target="_blank" rel="noopener">Расчет размера собственных средств на 28 февраля 2021 г.</a><br>
+<small><em>Опубликовано 24.03.2021</em></small></p>
+<p><a href="/wp-content/uploads/2021/07/capital_20210131.pdf" target="_blank" rel="noopener">Расчет размера собственных средств на 31 января 2021 г.</a><br>
+<small><em>Опубликовано 24.02.2021</em></small></p>
+<p><a href="/wp-content/uploads/2021/07/capital_20201231_corr.pdf" target="_blank" rel="noopener">Расчет размера собственных средств на 31 декабря 2020 г. (уточненный)</a><br>
+<small><em>Опубликовано 04.02.2021</em></small></p>
+<p><a href="/wp-content/uploads/2021/07/capital_20201231.pdf" target="_blank" rel="noopener">Расчет размера собственных средств на 31 декабря 2020 г.</a><br>
+<small><em>Опубликовано 27.01.2021</em></small></p>
+<p><a href="/wp-content/uploads/2021/07/capital_20201130.pdf" target="_blank" rel="noopener">Расчет размера собственных средств на 30 ноября 2020 г.</a><br>
+<small><em>Опубликовано 25.12.2020</em></small></p>
+<p><a href="/wp-content/uploads/2021/07/capital_20201031.pdf" target="_blank" rel="noopener">Расчет размера собственных средств на 31 октября 2020 г.</a><br>
+<small><em>Опубликовано 24.11.2020</em></small></p>
+<p><a href="/wp-content/uploads/2021/07/capital_20200930.pdf" target="_blank" rel="noopener">Расчет размера собственных средств на 30 сентября 2020 г.</a><br>
+<small><em>Опубликовано 27.10.2020</em></small></p>
+<p><a href="/wp-content/uploads/2021/07/capital_20200831.pdf" target="_blank" rel="noopener">Расчет размера собственных средств на 31 августа 2020 г.</a><br>
+<small><em>Опубликовано 28.09.2020</em></small></p>
+<p><a href="/wp-content/uploads/2021/07/capital_20200731.pdf" target="_blank" rel="noopener">Расчет размера собственных средств на 31 июля 2020 г.</a><br>
+<small><em>Опубликовано 26.08.2020</em></small></p>
+<p><a href="/wp-content/uploads/2021/07/capital_20200630.pdf" target="_blank" rel="noopener">Расчет размера собственных средств на 30 июня 2020 г.</a><br>
+<small><em>Опубликовано 28.07.2020</em></small></p>
+<p><a href="/wp-content/uploads/2021/07/capital_20200531.pdf" target="_blank" rel="noopener">Расчет размера собственных средств на 31 мая 2020 г.</a><br>
+<small><em>Опубликовано 25.06.2020</em></small></p>
+<p><a href="/wp-content/uploads/2021/07/capital_20200430.pdf" target="_blank" rel="noopener">Расчет размера собственных средств на 30 апреля 2020 г.</a><br>
+<small><em>Опубликовано 26.05.2020</em></small></p>
+<p><a href="/wp-content/uploads/2021/07/capital_20200331.pdf" target="_blank" rel="noopener">Расчет размера собственных средств на 31 марта 2020 г.</a><br>
+<small><em>Опубликовано 28.04.2020</em></small></p>
+<p><a href="/wp-content/uploads/2021/07/capital_20200229.pdf" target="_blank" rel="noopener">Расчет размера собственных средств на 29 февраля 2020 г.</a><br>
+<small><em>Опубликовано 25.03.2020</em></small></p>
+<p><a href="/wp-content/uploads/2021/07/capital_20200131_2.pdf" target="_blank" rel="noopener">Расчет размера собственных средств на 31 января 2020 г. (уточненный)</a><br>
+<small><em>Опубликовано 25.03.2020</em></small></p>
+<p><a href="/wp-content/uploads/2021/07/capital_20200131.pdf" target="_blank" rel="noopener">Расчет размера собственных средств на 31 января 2020 г.</a><br>
+<small><em>Опубликовано 27.02.2020</em></small></p>
+<p><a href="/wp-content/uploads/2021/07/capital_20191231_2.pdf" target="_blank" rel="noopener">Расчет размера собственных средств на 31 декабря 2019 г. (уточненный)</a><br>
+<small><em>Опубликовано 25.03.2020</em></small></p>
+<p><a href="/wp-content/uploads/2021/07/capital_20191231.pdf" target="_blank" rel="noopener">Расчет размера собственных средств на 31 декабря 2019 г.</a><br>
+<small><em>Опубликовано 23.01.2020</em></small></p>
+<p><a href="/wp-content/uploads/2021/07/capital_20191130.pdf" target="_blank" rel="noopener">Расчет размера собственных средств на 30 ноября 2019 г.</a><br>
+<small><em>Опубликовано 19.12.2019</em></small></p>
+<p><a href="/wp-content/uploads/2021/07/capital_20191031_2.pdf" target="_blank" rel="noopener">Расчет размера собственных средств на 31 октября 2019 г. (уточненный)</a><br>
+<small><em>Опубликовано 06.12.2019</em></small></p>
+<p><a href="/wp-content/uploads/2021/07/capital_20191031.pdf" target="_blank" rel="noopener">Расчет размера собственных средств на 31 октября 2019 г.</a><br>
+<small><em>Опубликовано 20.11.2019</em></small></p>
+<p><a href="/wp-content/uploads/2021/07/capital_20190930_2.pdf" target="_blank" rel="noopener">Расчет размера собственных средств на 30 сентября 2019 г. (уточненный)</a><br>
+<small><em>Опубликовано 06.12.2019</em></small></p>
+<p><a href="/wp-content/uploads/2021/07/capital_20190930.pdf" target="_blank" rel="noopener">Расчет размера собственных средств на 30 сентября 2019 г.</a><br>
+<small><em>Опубликовано 17.10.2019</em></small></p>
+<p><a href="/wp-content/uploads/2021/07/capital_20190831.pdf" target="_blank" rel="noopener">Расчет размера собственных средств на 31 августа 2019 г.</a><br>
+<small><em>Опубликовано 20.09.2019</em></small></p>
+<p><a href="/wp-content/uploads/2021/07/capital_20190731.pdf" target="_blank" rel="noopener">Расчет размера собственных средств на 31 июля 2019 г.</a><br>
+<small><em>Опубликовано 16.08.2019</em></small></p>
+<p><a href="/wp-content/uploads/2021/07/capital_20190630.pdf" target="_blank" rel="noopener">Расчет размера собственных средств на 30 июня 2019 г.</a><br>
+<small><em>Опубликовано 26.07.2019</em></small></p>
+<p><a href="/wp-content/uploads/2021/07/capital_20190531.pdf" target="_blank" rel="noopener">Расчет размера собственных средств на 31 мая 2019 г.</a><br>
+<small><em>Опубликовано 19.06.2019</em></small></p>
+<p><a href="/wp-content/uploads/2021/07/capital_20190430.pdf" target="_blank" rel="noopener">Расчет размера собственных средств на 30 апреля 2019 г.</a><br>
+<small><em>Опубликовано 27.05.2019</em></small></p>
+<p><a href="/wp-content/uploads/2021/07/capital_20190331.pdf" target="_blank" rel="noopener">Расчет размера собственных средств на 31 марта 2019 г.</a><br>
+<small><em>Опубликовано 17.04.2019</em></small></p>
+<p><a href="/wp-content/uploads/2021/07/capital_20190228.pdf" target="_blank" rel="noopener">Расчет размера собственных средств на 28 февраля 2019 г.</a><br>
+<small><em>Опубликовано 02.04.2019</em></small></p>
+<p><a href="/wp-content/uploads/2021/07/capital_20190131_2.pdf" target="_blank" rel="noopener">Расчет размера собственных средств на 31 января 2019 г. (уточненный)</a><br>
+<small><em>Опубликовано 05.04.2019</em></small></p>
+<p><a href="/wp-content/uploads/2021/07/capital_20190131.pdf" target="_blank" rel="noopener">Расчет размера собственных средств на 31 января 2019 г.</a><br>
+<small><em>Опубликовано 27.02.2019</em></small></p>
+<p><a href="/wp-content/uploads/2021/07/capital_20181231_2.pdf" target="_blank" rel="noopener">Расчет размера собственных средств на 31 декабря 2018 г. (уточненный)</a><br>
+<small><em>Опубликовано 05.04.2019</em></small></p>
+<p><a href="/wp-content/uploads/2021/07/capital_20181231.pdf" target="_blank" rel="noopener">Расчет размера собственных средств на 31 декабря 2018 г.</a><br>
+<small><em>Опубликовано 24.01.2019</em></small></p>
+<p><a href="/wp-content/uploads/2021/07/capital_20181130.pdf" target="_blank" rel="noopener">Расчет размера собственных средств на 30 ноября 2018 г.</a><br>
+<small><em>Опубликовано 21.12.2018</em></small></p>
+<p><a href="/wp-content/uploads/2021/07/capital_20181031.pdf" target="_blank" rel="noopener">Расчет размера собственных средств на 31 октября 2018 г.</a><br>
+<small><em>Опубликовано 27.11.2018</em></small></p>
+<p><a href="/wp-content/uploads/2021/07/capital_20180930.pdf" target="_blank" rel="noopener">Расчет размера собственных средств на 30 сентября 2018 г.</a><br>
+<small><em>Опубликовано 29.10.2018</em></small></p>
+<p><a href="/wp-content/uploads/2021/07/capital_20180831.pdf" target="_blank" rel="noopener">Расчет размера собственных средств на 31 августа 2018 г.</a><br>
+<small><em>Опубликовано 20.09.2018</em></small></p>
+<p><a href="/wp-content/uploads/2021/07/capital_20180731.pdf" target="_blank" rel="noopener">Расчет размера собственных средств на 31 июля 2018 г.</a><br>
+<small><em>Опубликовано 15.08.2018</em></small></p>
+<p><a href="/wp-content/uploads/2021/07/capital_20180630.pdf" target="_blank" rel="noopener">Расчет размера собственных средств на 30 июня 2018 г.</a><br>
+<small><em>Опубликовано 27.07.2018</em></small></p>
+<p><a href="/wp-content/uploads/2021/07/capital_20180531.pdf" target="_blank" rel="noopener">Расчет размера собственных средств на 31 мая 2018 г.</a><br>
+<small><em>Опубликовано 20.06.2018</em></small></p>
+<p><a href="/wp-content/uploads/2021/07/capital_20180430.pdf" target="_blank" rel="noopener">Расчет размера собственных средств на 30 апреля 2018 г.</a><br>
+<small><em>Опубликовано 28.05.2018</em></small></p>
+<p><a href="/wp-content/uploads/2021/07/capital_20180331.pdf" target="_blank" rel="noopener">Расчет размера собственных средств на 31 марта 2018 г.</a><br>
+<small><em>Опубликовано 26.04.2018</em></small></p>
+<p><a href="/wp-content/uploads/2021/07/capital_20180228_3.pdf" target="_blank" rel="noopener">Расчет размера собственных средств на 28 февраля 2018 г. (уточненный)</a><br>
+<small><em>Опубликовано 26.04.2018</em></small></p>
+<p><a href="/wp-content/uploads/2021/07/capital_20180228.pdf" target="_blank" rel="noopener">Расчет размера собственных средств на 28 февраля 2018 г.</a><br>
+<small><em>Опубликовано 20.03.2018</em></small></p>
+<p><a href="/wp-content/uploads/2021/07/capital_20180131_2.pdf" target="_blank" rel="noopener">Расчет размера собственных средств на 31 января 2018 г. (уточненный)</a><br>
+<small><em>Опубликовано 11.04.2018</em></small></p>
+<p><a href="/wp-content/uploads/2021/07/capital_20180131.pdf" target="_blank" rel="noopener">Расчет размера собственных средств на 31 января 2018 г.</a><br>
+<small><em>Опубликовано 19.02.2018</em></small></p>
+<p><a href="/wp-content/uploads/2021/07/capital_20171231_2.pdf" target="_blank" rel="noopener">Расчет размера собственных средств на 31 декабря 2017 г. (уточненный)</a><br>
+<small><em>Опубликовано 29.03.2018</em></small></p>
+<p><a href="/wp-content/uploads/2021/07/capital_20171231.pdf" target="_blank" rel="noopener">Расчет размера собственных средств на 31 декабря 2017 г.</a><br>
+<small><em>Опубликовано 30.01.2018</em></small></p>
+		
+	</div>
+	</div>
+
+
+  </div> <!-- main-section -->
+
+    <footer class="footer page-block">
+    <div class="container">
+    <div class="row justify-content-between">
+
+      <div class="copyright col-12 col-md-6 "><i class="fa fa-copyright" aria-hidden="true"></i> 2023, ООО «УК ФКБС». Все права защищены.</div>
+      <div class="col-12 col-md-6 text-end"><p><!-- 
+
+
+
+<p><a href="http://www.cbr.ru/finorg/foinfo/?ogrn=1177746688130" target="_blank" rel="noopener">Информация о лицах, под контролем либо значительным влиянием которых находится ООО "УК ФКБС"</a></p>
+
+
+
+ --></p>
+</div>
+
+      <div class="col-12">
+        <div class="footer__bottom">
+        <p><!--
+
+
+
+
+<p><b>Информация о структуре и составе акционеров (участников)</b></p>
+
+
+
+
+<p>Сведения о структуре и составе акционеров (участников) управляющей компании, в том числе о лицах, под контролем либо значительным влиянием которых находится управляющая компания, публикуются на <a href="http://www.cbr.ru/finorg/foinfo/?ogrn=1177746688130" target="_blank" rel="noopener">сайте Банка России</a>.</p>
+
+
+
+ --></p>
+        </div>
+      </div>
+    </div>
+    </div></footer>
+
+  	<div id="upbutton" onclick="scroll_to_top()"><i class="fa fa-angle-up" aria-hidden="true"></i></div>
+
+</div> <!-- wrapper -->
+
+<!--googleoff: all--><div id="cookie-law-info-bar" data-nosnippet="true" data-cli-style="container  cli-style-v2" style="background-color: rgb(255, 255, 255); color: rgb(51, 51, 51); font-family: inherit; bottom: 0px; position: fixed; display: block;"><span><div class="cli-bar-container container  cli-style-v2"><div class="cli-bar-message">Мы используем файлы cookie на нашем веб-сайте. Нажимая «Принять», вы соглашаетесь на использование всех файлов cookie.</div><div class="cli-bar-btn_container"><a id="wt-cli-accept-all-btn" role="button" data-cli_action="accept_all" class="wt-cli-element medium cli-plugin-button wt-cli-accept-all-btn cookie_action_close_header cli_action_button" style="color: rgb(255, 255, 255); background-color: rgb(39, 77, 162);">Принять</a></div></div></span></div><div id="cookie-law-info-again" data-nosnippet="true" style="background-color: rgb(255, 255, 255); color: rgb(51, 51, 51); position: fixed; font-family: inherit; width: auto; bottom: 0px; right: 100px; display: none;"><span id="cookie_hdr_showagain">Manage consent</span></div><div class="cli-modal" data-nosnippet="true" id="cliSettingsPopup" tabindex="-1" role="dialog" aria-labelledby="cliSettingsPopup" aria-hidden="true">
+  <div class="cli-modal-dialog" role="document">
+	<div class="cli-modal-content cli-bar-popup">
+		  <button type="button" class="cli-modal-close" id="cliModalClose">
+			<svg class="" viewBox="0 0 24 24"><path d="M19 6.41l-1.41-1.41-5.59 5.59-5.59-5.59-1.41 1.41 5.59 5.59-5.59 5.59 1.41 1.41 5.59-5.59 5.59 5.59 1.41-1.41-5.59-5.59z"></path><path d="M0 0h24v24h-24z" fill="none"></path></svg>
+			<span class="wt-cli-sr-only">Close</span>
+		  </button>
+		  <div class="cli-modal-body">
+			<div class="cli-container-fluid cli-tab-container">
+	<div class="cli-row">
+		<div class="cli-col-12 cli-align-items-stretch cli-px-0">
+			<div class="cli-privacy-overview">
+				<h4>Privacy Overview</h4>				<div class="cli-privacy-content">
+					<div class="cli-privacy-content-text">This website uses cookies to improve your experience while you navigate through the website. Out of these, the cookies that are categorized as necessary are stored on your browser as they are essential for the working of basic functionalities of the ...</div>
+				</div>
+				<a class="cli-privacy-readmore" aria-label="Show more" role="button" data-readmore-text="Show more" data-readless-text="Show less"></a>			</div>
+		</div>
+		<div class="cli-col-12 cli-align-items-stretch cli-px-0 cli-tab-section-container">
+												<div class="cli-tab-section">
+						<div class="cli-tab-header">
+							<a role="button" tabindex="0" class="cli-nav-link cli-settings-mobile" data-target="necessary" data-toggle="cli-toggle-tab">
+								Necessary							</a>
+															<div class="wt-cli-necessary-checkbox">
+									<input type="checkbox" class="cli-user-preference-checkbox" id="wt-cli-checkbox-necessary" data-id="checkbox-necessary" checked="checked">
+									<label class="form-check-label" for="wt-cli-checkbox-necessary">Necessary</label>
+								</div>
+								<span class="cli-necessary-caption">Always Enabled</span>
+													</div>
+						<div class="cli-tab-content">
+							<div class="cli-tab-pane cli-fade" data-id="necessary">
+								<div class="wt-cli-cookie-description">
+									Necessary cookies are absolutely essential for the website to function properly. These cookies ensure basic functionalities and security features of the website, anonymously.
+<table class="cookielawinfo-row-cat-table cookielawinfo-winter"><thead><tr><th class="cookielawinfo-column-1">Cookie</th><th class="cookielawinfo-column-3">Duration</th><th class="cookielawinfo-column-4">Description</th></tr></thead><tbody><tr class="cookielawinfo-row"><td class="cookielawinfo-column-1">cookielawinfo-checkbox-analytics</td><td class="cookielawinfo-column-3">11 months</td><td class="cookielawinfo-column-4">This cookie is set by GDPR Cookie Consent plugin. The cookie is used to store the user consent for the cookies in the category "Analytics".</td></tr><tr class="cookielawinfo-row"><td class="cookielawinfo-column-1">cookielawinfo-checkbox-functional</td><td class="cookielawinfo-column-3">11 months</td><td class="cookielawinfo-column-4">The cookie is set by GDPR cookie consent to record the user consent for the cookies in the category "Functional".</td></tr><tr class="cookielawinfo-row"><td class="cookielawinfo-column-1">cookielawinfo-checkbox-necessary</td><td class="cookielawinfo-column-3">11 months</td><td class="cookielawinfo-column-4">This cookie is set by GDPR Cookie Consent plugin. The cookies is used to store the user consent for the cookies in the category "Necessary".</td></tr><tr class="cookielawinfo-row"><td class="cookielawinfo-column-1">cookielawinfo-checkbox-others</td><td class="cookielawinfo-column-3">11 months</td><td class="cookielawinfo-column-4">This cookie is set by GDPR Cookie Consent plugin. The cookie is used to store the user consent for the cookies in the category "Other.</td></tr><tr class="cookielawinfo-row"><td class="cookielawinfo-column-1">cookielawinfo-checkbox-performance</td><td class="cookielawinfo-column-3">11 months</td><td class="cookielawinfo-column-4">This cookie is set by GDPR Cookie Consent plugin. The cookie is used to store the user consent for the cookies in the category "Performance".</td></tr><tr class="cookielawinfo-row"><td class="cookielawinfo-column-1">viewed_cookie_policy</td><td class="cookielawinfo-column-3">11 months</td><td class="cookielawinfo-column-4">The cookie is set by the GDPR Cookie Consent plugin and is used to store whether or not user has consented to the use of cookies. It does not store any personal data.</td></tr></tbody></table>								</div>
+							</div>
+						</div>
+					</div>
+																	<div class="cli-tab-section">
+						<div class="cli-tab-header">
+							<a role="button" tabindex="0" class="cli-nav-link cli-settings-mobile" data-target="functional" data-toggle="cli-toggle-tab">
+								Functional							</a>
+															<div class="cli-switch">
+									<input type="checkbox" id="wt-cli-checkbox-functional" class="cli-user-preference-checkbox" data-id="checkbox-functional">
+									<label for="wt-cli-checkbox-functional" class="cli-slider" data-cli-enable="Enabled" data-cli-disable="Disabled"><span class="wt-cli-sr-only">Functional</span></label>
+								</div>
+													</div>
+						<div class="cli-tab-content">
+							<div class="cli-tab-pane cli-fade" data-id="functional">
+								<div class="wt-cli-cookie-description">
+									Functional cookies help to perform certain functionalities like sharing the content of the website on social media platforms, collect feedbacks, and other third-party features.
+								</div>
+							</div>
+						</div>
+					</div>
+																	<div class="cli-tab-section">
+						<div class="cli-tab-header">
+							<a role="button" tabindex="0" class="cli-nav-link cli-settings-mobile" data-target="performance" data-toggle="cli-toggle-tab">
+								Performance							</a>
+															<div class="cli-switch">
+									<input type="checkbox" id="wt-cli-checkbox-performance" class="cli-user-preference-checkbox" data-id="checkbox-performance">
+									<label for="wt-cli-checkbox-performance" class="cli-slider" data-cli-enable="Enabled" data-cli-disable="Disabled"><span class="wt-cli-sr-only">Performance</span></label>
+								</div>
+													</div>
+						<div class="cli-tab-content">
+							<div class="cli-tab-pane cli-fade" data-id="performance">
+								<div class="wt-cli-cookie-description">
+									Performance cookies are used to understand and analyze the key performance indexes of the website which helps in delivering a better user experience for the visitors.
+								</div>
+							</div>
+						</div>
+					</div>
+																	<div class="cli-tab-section">
+						<div class="cli-tab-header">
+							<a role="button" tabindex="0" class="cli-nav-link cli-settings-mobile" data-target="analytics" data-toggle="cli-toggle-tab">
+								Analytics							</a>
+															<div class="cli-switch">
+									<input type="checkbox" id="wt-cli-checkbox-analytics" class="cli-user-preference-checkbox" data-id="checkbox-analytics">
+									<label for="wt-cli-checkbox-analytics" class="cli-slider" data-cli-enable="Enabled" data-cli-disable="Disabled"><span class="wt-cli-sr-only">Analytics</span></label>
+								</div>
+													</div>
+						<div class="cli-tab-content">
+							<div class="cli-tab-pane cli-fade" data-id="analytics">
+								<div class="wt-cli-cookie-description">
+									Analytical cookies are used to understand how visitors interact with the website. These cookies help provide information on metrics the number of visitors, bounce rate, traffic source, etc.
+								</div>
+							</div>
+						</div>
+					</div>
+																	<div class="cli-tab-section">
+						<div class="cli-tab-header">
+							<a role="button" tabindex="0" class="cli-nav-link cli-settings-mobile" data-target="advertisement" data-toggle="cli-toggle-tab">
+								Advertisement							</a>
+															<div class="cli-switch">
+									<input type="checkbox" id="wt-cli-checkbox-advertisement" class="cli-user-preference-checkbox" data-id="checkbox-advertisement">
+									<label for="wt-cli-checkbox-advertisement" class="cli-slider" data-cli-enable="Enabled" data-cli-disable="Disabled"><span class="wt-cli-sr-only">Advertisement</span></label>
+								</div>
+													</div>
+						<div class="cli-tab-content">
+							<div class="cli-tab-pane cli-fade" data-id="advertisement">
+								<div class="wt-cli-cookie-description">
+									Advertisement cookies are used to provide visitors with relevant ads and marketing campaigns. These cookies track visitors across websites and collect information to provide customized ads.
+								</div>
+							</div>
+						</div>
+					</div>
+																	<div class="cli-tab-section">
+						<div class="cli-tab-header">
+							<a role="button" tabindex="0" class="cli-nav-link cli-settings-mobile" data-target="others" data-toggle="cli-toggle-tab">
+								Others							</a>
+															<div class="cli-switch">
+									<input type="checkbox" id="wt-cli-checkbox-others" class="cli-user-preference-checkbox" data-id="checkbox-others">
+									<label for="wt-cli-checkbox-others" class="cli-slider" data-cli-enable="Enabled" data-cli-disable="Disabled"><span class="wt-cli-sr-only">Others</span></label>
+								</div>
+													</div>
+						<div class="cli-tab-content">
+							<div class="cli-tab-pane cli-fade" data-id="others">
+								<div class="wt-cli-cookie-description">
+									Other uncategorized cookies are those that are being analyzed and have not been classified into a category as yet.
+								</div>
+							</div>
+						</div>
+					</div>
+										</div>
+	</div>
+</div>
+		  </div>
+		  <div class="cli-modal-footer">
+			<div class="wt-cli-element cli-container-fluid cli-tab-container">
+				<div class="cli-row">
+					<div class="cli-col-12 cli-align-items-stretch cli-px-0">
+						<div class="cli-tab-footer wt-cli-privacy-overview-actions">
+						
+															<a id="wt-cli-privacy-save-btn" role="button" tabindex="0" data-cli-action="accept" class="wt-cli-privacy-btn cli_setting_save_button wt-cli-privacy-accept-btn cli-btn">SAVE &amp; ACCEPT</a>
+													</div>
+						
+					</div>
+				</div>
+			</div>
+		</div>
+	</div>
+  </div>
+</div>
+<div class="cli-modal-backdrop cli-fade cli-settings-overlay"></div>
+<div class="cli-modal-backdrop cli-fade cli-popupbar-overlay"></div>
+<!--googleon: all--><link rel="stylesheet" id="cookie-law-info-table-css" href="https://amfbc.ru/wp-content/plugins/cookie-law-info/legacy/public/css/cookie-law-info-table.css?ver=3.0.3" type="text/css" media="all">
+<!-- Yandex.Metrika counter --> <script type="text/javascript"> (function(m,e,t,r,i,k,a){m[i]=m[i]||function(){(m[i].a=m[i].a||[]).push(arguments)}; m[i].l=1*new Date();k=e.createElement(t),a=e.getElementsByTagName(t)[0],k.async=1,k.src=r,a.parentNode.insertBefore(k,a)}) (window, document, "script", "https://mc.yandex.ru/metrika/tag.js", "ym"); ym(45570621, "init", { clickmap:true, trackLinks:true, accurateTrackBounce:true }); </script> <noscript><div><img src="https://mc.yandex.ru/watch/45570621" style="position:absolute; left:-9999px;" alt="" /></div></noscript> <!-- /Yandex.Metrika counter -->
+
+

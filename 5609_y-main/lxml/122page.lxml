@@ -1,0 +1,119 @@
+
+	<div id="panel"></div>
+	<div id="site-wrap">
+		<div id="main-header">
+			<div id="main-logo"><a href="/"><img alt="Цитадель Эссетс Менеджмент" title="Цитадель Эссетс Менеджмент" src="/bitrix/templates/citadel-am/images/header-logo.png"></a></div>
+		</div>
+		<div id="main-content">
+			<table id="main-layout">
+				<tbody><tr valign="top">
+					<td id="layout-menu">
+					  
+	<ul>
+					<li class=" item-1"><a href="/">О компании</a></li>
+						<li class=" item-6"><a href="/funds/">Паевые инвестиционные фонды</a></li>
+						<li class=" item-2"><a href="/stat/">Статистика по ПИФ</a></li>
+						<li class=" item-3"><a href="/docs/">Раскрытие информации</a></li>
+						<li class="current item-4"><a href="/official/">Официальная отчетность</a></li>
+						<li class=" item-5"><a href="/info/">Дополнительная информация</a></li>
+				</ul>
+						</td>
+					<td id="layout-content">
+						<h1>Официальная отчетность</h1>
+<div class="news-list">
+	<div class="modern-page-navigation">
+	<span class="modern-page-title">Страницы:</span>
+		<span class="modern-page-first modern-page-current">1</span>
+		<a href="/official/?PAGEN_1=2" class="">2</a>
+		<a href="/official/?PAGEN_1=3" class="">3</a>
+		<a href="/official/?PAGEN_1=4" class="">4</a>
+		<a href="/official/?PAGEN_1=5" class="">5</a>
+		<a class="modern-page-dots" href="/official/?PAGEN_1=10">...</a>
+		<a href="/official/?PAGEN_1=15">15</a>
+		<a class="modern-page-next" href="/official/?PAGEN_1=2">След.</a>
+</div><br>
+			
+			<div class="doc-item">
+				<div class="pdf-href"><a href="/upload/iblock/84f/z5rjddi9g0003arneqvcdnhfre9txrhq.pdf" target="_blank">Расчет собственных средств УК по состоянию на 31.05.2023г.</a></div>
+									<div class="doc-date">Дата публикации: 14.06.2023 13:24</div>
+					 					<div class="doc-descr">Информация о расчете собственных средств будет доступна в течение трех лет с даты публикации указанной информаци</div>
+								</div>
+					
+			<div class="doc-item">
+				<div class="pdf-href"><a href="/upload/iblock/f08/be8vofe6lunk8jdvaej2mhxaftyai6cn.pdf" target="_blank">Отчет о приросте (об уменьшении) стоимости имущества Закрытого паевого инвестиционного фонд недвижимости «Панорама» на 31.05.2023 года</a></div>
+									<div class="doc-date">Дата публикации: 14.06.2023 13:24</div>
+					 					<div class="doc-descr">Информация доступна на сайте в сети Интернет&nbsp;&nbsp;в течение трех лет с даты опубликования или до даты исключения паевого инвестиционного фонда из реестра паевых инвестиционных фондов</div>
+								</div>
+					
+			<div class="doc-item">
+				<div class="pdf-href"><a href="/upload/iblock/82a/v048zica18iuklve1gazkyftcx3m721a.pdf" target="_blank">Справка о стоимости активов Закрытого паевого инвестиционного фонда недвижимости «Панорама» по состоянию на 31.05.2023 года</a></div>
+									<div class="doc-date">Дата публикации: 14.06.2023 13:21</div>
+					 					<div class="doc-descr">Информация доступна на сайте в сети Интернет&nbsp;&nbsp;в течение трех лет с даты опубликования или до даты исключения паевого инвестиционного фонда из реестра паевых инвестиционных фондов</div>
+								</div>
+					
+			<div class="doc-item">
+				<div class="pdf-href"><a href="/upload/iblock/863/863ff31d5d071568086eb8dd09db095b.pdf" target="_blank">Расчет собственных средств УК по состоянию на 30.04.2023г.</a></div>
+									<div class="doc-date">Дата публикации: 19.05.2023 13:03</div>
+					 					<div class="doc-descr">Информация о расчете собственных средств будет доступна в течение трех лет с даты публикации указанной информации</div>
+								</div>
+					
+			<div class="doc-item">
+				<div class="pdf-href"><a href="/upload/iblock/18c/18c2fb8206d07207e6d5403c150e180f.pdf" target="_blank">Отчет о приросте (об уменьшении) стоимости имущества Закрытого паевого инвестиционного фонд недвижимости «Панорама» на 28.04.2023 года</a></div>
+									<div class="doc-date">Дата публикации: 19.05.2023 13:01</div>
+					 					<div class="doc-descr">Информация доступна на сайте в сети Интернет&nbsp;&nbsp;в течение трех лет с даты опубликования или до даты исключения паевого инвестиционного фонда из реестра паевых инвестиционных фондов</div>
+								</div>
+					
+			<div class="doc-item">
+				<div class="pdf-href"><a href="/upload/iblock/bc8/bc8c056b1eda9e88a4d09107d93732a3.pdf" target="_blank">Справка о стоимости активов Закрытого паевого инвестиционного фонда недвижимости «Панорама» по состоянию на 28.04.2023 года</a></div>
+									<div class="doc-date">Дата публикации: 19.05.2023 13:00</div>
+					 					<div class="doc-descr">Информация доступна на сайте в сети Интернет&nbsp;&nbsp;в течение трех лет с даты опубликования или до даты исключения паевого инвестиционного фонда из реестра паевых инвестиционных фондов</div>
+								</div>
+					
+			<div class="doc-item">
+				<div class="pdf-href"><a href="/upload/iblock/e65/e65cc66b6ade44ae33c6cf8e971188fa.pdf" target="_blank">Промежуточная бухгалтерская (финансовая) отчетность ООО «Цитадель Э.М.» (по 532-П) на 31.03.2023 г.</a></div>
+									<div class="doc-date">Дата публикации: 27.04.2023 17:00</div>
+					 					<div class="doc-descr">Информация доступна на сайте в сети Интернет&nbsp;&nbsp;в течение трех лет с даты раскрытия</div>
+								</div>
+					
+			<div class="doc-item">
+				<div class="pdf-href"><a href="/upload/iblock/89b/89b07d23a1a6a9fcd3e33071c3cc6b43.pdf" target="_blank">Отчет о приросте (об уменьшении) стоимости имущества Закрытого паевого инвестиционного фонд недвижимости «Панорама» на 31.03.2023 года</a></div>
+									<div class="doc-date">Дата публикации: 17.04.2023 12:20</div>
+					 					<div class="doc-descr">Информация доступна на сайте в сети Интернет&nbsp;&nbsp;в течение трех лет с даты опубликования или до даты исключения паевого инвестиционного фонда из реестра паевых инвестиционных фондов</div>
+								</div>
+					
+			<div class="doc-item">
+				<div class="pdf-href"><a href="/upload/iblock/766/7669187d9ee2fbcbdca3f62f6f7a6a6b.pdf" target="_blank">Справка о стоимости активов Закрытого паевого инвестиционного фонда недвижимости «Панорама» по состоянию на 31.03.2023 года</a></div>
+									<div class="doc-date">Дата публикации: 17.04.2023 12:20</div>
+					 					<div class="doc-descr">Информация доступна на сайте в сети Интернет&nbsp;&nbsp;в течение трех лет с даты опубликования или до даты исключения паевого инвестиционного фонда из реестра паевых инвестиционных фондов</div>
+								</div>
+					
+			<div class="doc-item">
+				<div class="pdf-href"><a href="/upload/iblock/f92/f9255ba8215a165c7bac0ee4ac39d4d8.pdf" target="_blank">Расчет собственных средств УК по состоянию на 31.03.2023г.</a></div>
+									<div class="doc-date">Дата публикации: 17.04.2023 12:19</div>
+					 					<div class="doc-descr">Информация о расчете собственных средств будет доступна в течение трех лет с даты публикации указанной информации</div>
+								</div>
+			<br><div class="modern-page-navigation">
+	<span class="modern-page-title">Страницы:</span>
+		<span class="modern-page-first modern-page-current">1</span>
+		<a href="/official/?PAGEN_1=2" class="">2</a>
+		<a href="/official/?PAGEN_1=3" class="">3</a>
+		<a href="/official/?PAGEN_1=4" class="">4</a>
+		<a href="/official/?PAGEN_1=5" class="">5</a>
+		<a class="modern-page-dots" href="/official/?PAGEN_1=10">...</a>
+		<a href="/official/?PAGEN_1=15">15</a>
+		<a class="modern-page-next" href="/official/?PAGEN_1=2">След.</a>
+</div></div>
+					</td>
+				</tr>
+			</tbody></table>
+		</div>
+		<div id="main-footer">
+			 <div id="made">
+			 				 </div>
+            <div class="main-footer__copyright">
+                <div id="copy"><span>© "Цитадель Эссетс Менеджмент", 2005-2023</span></div>
+                <div id="politc"><a href="/upload/politic-citadel-2022.pdf" target="_blank">Политика защиты и обработки персональных данных</a></div>
+            </div>
+        </div>
+	</div>
+

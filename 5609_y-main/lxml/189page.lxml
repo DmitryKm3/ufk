@@ -1,0 +1,218 @@
+ 
+<div id="panel" style="position: fixed;z-index: 10000;bottom: 0%;width: 100%;">
+  </div>
+
+<div class="mobile-menu-popup">
+  <div class="mobile-menu-popup__header">
+          <img class="hero-section__logo" src="/upload/uf/05e/sp3weehuob5dx6r70g8zimp5p0guql66.svg" alt="hmlogo">
+        <button class="mobile-menu-popup__close"></button>
+  </div>
+  
+  <nav class="mobile-menu">
+    <ul>
+                        <li><a href="/">Главная</a></li>
+                                <li class="active"><a href="/information/">Раскрытие информации</a></li>
+                                <li><a href="/contacts/">Контакты</a></li>
+                  </ul>
+  </nav>
+</div>
+
+<div class="container">
+      <section class="hero-section hero-section_inner">
+      <header class="header aos-init aos-animate" data-aos="fade-down" data-aos-delay="50" data-aos-duration="1500">
+                  <a href="/">
+            <img class="hero-section__logo" src="/upload/uf/7c8/1mwqgqni1asi373263ma1xhl3nolob74.svg" alt="hlogo">
+          </a>
+                
+  <nav class="main-menu">
+    <ul>
+                        <li class="active"><a href="/information/">Раскрытие информации</a></li>
+                                <li><a href="/contacts/">Контакты</a></li>
+                  </ul>
+  </nav>
+        <button class="menu-button"></button>
+      </header>
+
+      <div class="wrap">
+        <div class="hero-section__content">
+          <h1 class="page-title">Документы компании</h1>
+
+          
+  <div class="tabs-hor">
+                  <a href="/information/" class="tabs-hor__item ">Информационные сообщения</a>
+                        <a href="/information/pifs/" class="tabs-hor__item ">Паевые фонды</a>
+                        <a class="tabs-hor__item active" "="" href="/information/docs/">
+          <svg width="30" height="30" viewBox="0 0 30 30" fill="none" xmlns="http://www.w3.org/2000/svg">
+            <path d="M10.0781 12.8906L15 17.8125L19.9219 12.8906" stroke="#C85752" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"></path>
+            <path d="M15 4.6875V17.8125" stroke="#C85752" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"></path>
+            <path d="M25.3125 17.8125V24.375C25.3125 24.6236 25.2137 24.8621 25.0379 25.0379C24.8621 25.2137 24.6236 25.3125 24.375 25.3125H5.625C5.37636 25.3125 5.1379 25.2137 4.96209 25.0379C4.78627 24.8621 4.6875 24.6236 4.6875 24.375V17.8125" stroke="#C85752" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"></path>
+          </svg>
+          Документы компании        </a>
+            </div>
+        </div>
+      </div>
+    </section>
+  <section class="inner-content">
+  <div class="wrap">
+    <div class="docs js-change-docs">
+            <div class="docs__tabs">
+        <div class="tabs-ver">
+                      <a class="tabs-ver__item active js-change-docs-button" href="javascript:void(0);" data-id="6">
+              Общие сведения            </a>
+                      <a class="tabs-ver__item  js-change-docs-button" href="javascript:void(0);" data-id="26">
+              Раскрытие информации для получателей финансовых услуг            </a>
+                      <a class="tabs-ver__item  js-change-docs-button" href="javascript:void(0);" data-id="27">
+              Информация о сотрудниках и членах Совета директоров управляющей компании            </a>
+                      <a class="tabs-ver__item  js-change-docs-button" href="javascript:void(0);" data-id="28">
+              Раскрытие информации о расчете размера собственных средств (срок доступа к информации: в течение трех лет со дня ее раскрытия)            </a>
+                      <a class="tabs-ver__item  js-change-docs-button" href="javascript:void(0);" data-id="29">
+              Ежеквартальная бухгалтерская отчетность (срок доступа к информации: в течение трех лет со дня ее раскрытия)            </a>
+                      <a class="tabs-ver__item  js-change-docs-button" href="javascript:void(0);" data-id="30">
+              Годовая бухгалтерская отчетность (срок доступа к информации: в течение трех лет со дня ее раскрытия)            </a>
+                      <a class="tabs-ver__item  js-change-docs-button" href="javascript:void(0);" data-id="31">
+              Годовая финансовая отчетность по МСФО (срок доступа к информации: в течение трех лет со дня ее раскрытия)            </a>
+                      <a class="tabs-ver__item  js-change-docs-button" href="javascript:void(0);" data-id="32">
+              Сообщения об использовании электронных документов            </a>
+                      <a class="tabs-ver__item  js-change-docs-button" href="javascript:void(0);" data-id="33">
+              Критерии отнесения клиентов к категории клиента-иностранного налогоплательщика и способы получения от них необходимой информации            </a>
+                      <a class="tabs-ver__item  js-change-docs-button" href="javascript:void(0);" data-id="34">
+              Документы и сведения            </a>
+                      <a class="tabs-ver__item  js-change-docs-button" href="javascript:void(0);" data-id="37">
+              Признание лиц квалифицированными инвесторами            </a>
+                      <a class="tabs-ver__item  js-change-docs-button" href="javascript:void(0);" data-id="38">
+              Перечень инсайдерской информации            </a>
+                  </div>
+      </div>
+      <div class="docs__select select">
+        <button class="select__input">
+          Общие сведения        </button>
+        <ul class="select__dropdown">
+                      <li class="active js-change-docs-button" data-id="6">
+              Общие сведения            </li>
+                      <li class=" js-change-docs-button" data-id="26">
+              Раскрытие информации для получателей финансовых услуг            </li>
+                      <li class=" js-change-docs-button" data-id="27">
+              Информация о сотрудниках и членах Совета директоров управляющей компании            </li>
+                      <li class=" js-change-docs-button" data-id="28">
+              Раскрытие информации о расчете размера собственных средств (срок доступа к информации: в течение трех лет со дня ее раскрытия)            </li>
+                      <li class=" js-change-docs-button" data-id="29">
+              Ежеквартальная бухгалтерская отчетность (срок доступа к информации: в течение трех лет со дня ее раскрытия)            </li>
+                      <li class=" js-change-docs-button" data-id="30">
+              Годовая бухгалтерская отчетность (срок доступа к информации: в течение трех лет со дня ее раскрытия)            </li>
+                      <li class=" js-change-docs-button" data-id="31">
+              Годовая финансовая отчетность по МСФО (срок доступа к информации: в течение трех лет со дня ее раскрытия)            </li>
+                      <li class=" js-change-docs-button" data-id="32">
+              Сообщения об использовании электронных документов            </li>
+                      <li class=" js-change-docs-button" data-id="33">
+              Критерии отнесения клиентов к категории клиента-иностранного налогоплательщика и способы получения от них необходимой информации            </li>
+                      <li class=" js-change-docs-button" data-id="34">
+              Документы и сведения            </li>
+                      <li class=" js-change-docs-button" data-id="37">
+              Признание лиц квалифицированными инвесторами            </li>
+                      <li class=" js-change-docs-button" data-id="38">
+              Перечень инсайдерской информации            </li>
+                  </ul>
+      </div>
+      <div class="docs__content">
+        <h2 class="docs__title secondary-title">Общие сведения</h2>
+
+        
+                  <div class="docs__files-list">
+                          <div class="file">
+                <span class="file__icon">
+                  <img src="/local/templates/balance/images/svg/docx.svg" alt="icon">
+                </span>
+                <div class="file__title">
+                  <a class="file__name" href="/upload/iblock/7d3/7mheyj9m74xzhdnynwh8w4i57qmset03.docx" download="">Реквизиты управляющей компании</a>
+                  <span class="file__parameters">
+                    14.51 КБ • Дата раскрытия: 14.11.2022                  </span>
+                </div>
+              </div>
+                      </div>
+        
+        
+              </div>
+          </div>
+  </div>
+</section>  <footer class="footer">
+    <div class="footer__top">
+              <span class="footer__license">
+                          <img src="/upload/uf/233/55ulytw6gytxd9sh8b46vb4v4lhuadc9.svg" alt="llogo">
+            
+                      ООО «Баланс Эссет Менеджмент» имеет лицензию Банка России                    </span>
+      
+              <span class="footer__copyrights">
+            © ООО «Баланс Эссет Менеджмент», 2022          </span>
+          </div>
+
+    <div class="footer__bottom">
+              <p class="footer__disclaimer">
+                      <span>
+              Получить подробную информацию о паевых инвестиционных фондах и ознакомиться с правилами доверительного управления Фондов и с иными документами, предусмотренными Федеральным законом от 29.11.2001 № 156-ФЗ «Об инвестиционных фондах» и нормативными актами в сфере финансовых рынков, можно по адресу: 129090, г. Москва, проспект Мира, дом 6, помещ. XIV, ком. 57, на сайте <a href="https://www.balance-am.ru" target="_blank">https://www.balance-am.ru</a>, по телефону: +7 (495) 258-29-39. Информация, подлежащая опубликованию в печатном издании, публикуется в «Приложении к Вестнику Федеральной службы по финансовым рынкам».            </span>
+                      <span>
+              Стоимость инвестиционных паев может увеличиваться и уменьшаться, результаты инвестирования в прошлом не определяют доходы в будущем, государство не гарантирует доходность инвестиций в паевые инвестиционные фонды. Прежде чем приобрести инвестиционный пай, следует внимательно ознакомиться с правилами доверительного управления паевым инвестиционным фондом.            </span>
+                  </p>
+      
+      
+  <div class="footer__links">
+                  <a class="btn btn_outlined" href="/contacts/feedback/">
+          Обратная связь          <svg width="24" height="24" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg">
+            <path d="M20.5779 11.3439L4.74353 2.47511C4.61015 2.40143 4.45749 2.37012 4.30588 2.38535C4.15426 2.40058 4.01089 2.46164 3.89483 2.56039C3.77878 2.65913 3.69556 2.79089 3.65625 2.93811C3.61694 3.08533 3.6234 3.24103 3.67478 3.38449L6.65603 11.747C6.72171 11.9093 6.72171 12.0909 6.65603 12.2532L3.67478 20.6157C3.6234 20.7592 3.61694 20.9149 3.65625 21.0621C3.69556 21.2093 3.77878 21.3411 3.89483 21.4398C4.01089 21.5386 4.15426 21.5996 4.30588 21.6149C4.45749 21.6301 4.61015 21.5988 4.74353 21.5251L20.5779 12.6564C20.6951 12.5915 20.7928 12.4964 20.8609 12.381C20.9289 12.2656 20.9648 12.1341 20.9648 12.0001C20.9648 11.8661 20.9289 11.7346 20.8609 11.6192C20.7928 11.5038 20.6951 11.4087 20.5779 11.3439V11.3439Z" stroke="#E97772" stroke-linecap="round" stroke-linejoin="round"></path>
+            <path d="M6.75 12H12.75" stroke="#E97772" stroke-linecap="round" stroke-linejoin="round"></path>
+          </svg>
+        </a>
+                        <a class="red-link" href="/information/">Раскрытие информации</a>
+            </div>
+    </div>
+  </footer>
+</div>
+
+<div class="success-error-message" id="thank-feedback">
+  <div class="success-error-message__box">
+			<span>
+				<b>Спасибо за обращение!</b><br>
+				Свяжемся с Вами<br>в ближайшее время.
+			</span>
+  </div>
+</div>
+<div class="success-error-message" id="thank">
+  <div class="success-error-message__box">
+			<span>
+				<b>Спасибо за обращение!</b><br>
+				Свяжемся с Вами<br>в ближайшее время.
+			</span>
+  </div>
+</div>
+
+
+
+<!-- Yandex.Metrika counter -->
+<noscript><div><img src="https://mc.yandex.ru/watch/90640524" style="position:absolute; left:-9999px;" alt="" /></div></noscript>
+<!-- /Yandex.Metrika counter -->
+
+
+<script type="text/javascript" src="/local/templates/balance/js/jquery-1.9.1.min.js?165942427592639"></script>
+<script type="text/javascript" src="/local/templates/balance/js/dropzone.js?16594242752706"></script>
+<script type="text/javascript" src="/local/templates/balance/js/scripts.js?1659424275982"></script>
+<script type="text/javascript" src="/local/templates/balance/js/custom.js?16594242759246"></script>
+<script type="text/javascript">var _ba = _ba || []; _ba.push(["aid", "c3bb73338ba1e67008d1e637d4839e6a"]); _ba.push(["host", "balance-am.ru"]); (function() {var ba = document.createElement("script"); ba.type = "text/javascript"; ba.async = true;ba.src = (document.location.protocol == "https:" ? "https://" : "http://") + "bitrix.info/ba.js";var s = document.getElementsByTagName("script")[0];s.parentNode.insertBefore(ba, s);})();</script>
+
+
+<script src="https://www.google.com/recaptcha/api.js"></script>
+
+<script type="text/javascript">
+   (function(m,e,t,r,i,k,a){m[i]=m[i]||function(){(m[i].a=m[i].a||[]).push(arguments)};
+   m[i].l=1*new Date();
+   for (var j = 0; j < document.scripts.length; j++) {if (document.scripts[j].src === r) { return; }}
+   k=e.createElement(t),a=e.getElementsByTagName(t)[0],k.async=1,k.src=r,a.parentNode.insertBefore(k,a)})
+   (window, document, "script", "https://mc.yandex.ru/metrika/tag.js", "ym");
+ 
+   ym(90640524, "init", {
+        clickmap:true,
+        trackLinks:true,
+        accurateTrackBounce:true,
+        webvisor:true
+   });
+</script>
+
+

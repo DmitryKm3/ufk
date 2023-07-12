@@ -1,0 +1,568 @@
+
+    <svg style="display:none">
+        <symbol viewBox="0 0 40 40" id="human-icon">
+            <path d="M20 4.2c3.1 0 5.1.9 6.1 2.8.9 1.6.9 3.7.9 5.5 0 2.3-1.3 5.1-3.4 7.7l-2 2.3 2.3 2c.8.8 2.5 1.6 5.6 3.1 2.6 1.3 4.6 2.2 5.4 3 1.4 1.3 1.8 4 1.9 5.3H3.5c0-1.3.4-3.9 1.9-5.3.8-.8 2.8-1.7 5.4-3 3.1-1.5 4.8-2.3 5.6-3.1l2.2-2-2-2.3c-2.2-2.6-3.4-5.4-3.4-7.7 0-1.8 0-3.9.9-5.5.8-1.9 2.8-2.8 5.9-2.8M20 1c-5.5 0-7.9 2.5-9.1 4.6-1.2 2.3-1.2 4.9-1.2 7 0 3.1 1.5 6.6 4.2 9.7-.6.6-3.2 1.8-4.8 2.6C6 26.2 4 27.2 2.8 28.3.2 30.8 0 35 0 35.8c0 .8.3 1.7 1 2.3.6.6 1.4.9 2.3.9h33.3c.9 0 1.7-.3 2.4-.9.6-.6 1-1.4 1-2.3 0-.8-.2-5-2.8-7.5-1.2-1.1-3.2-2.1-6.3-3.6-1.6-.7-4.2-2-4.8-2.6 2.7-3.1 4.2-6.6 4.2-9.7 0-2.1 0-4.7-1.2-7C27.9 3.5 25.5 1 20 1z"></path>
+        </symbol>
+        <symbol viewBox="0 0 100 100" id="map-point-icon">
+            <path d="M50 21.9c-5.4 0-10.5 2.1-14.3 5.9-3.8 3.8-5.9 8.9-5.9 14.3s2.1 10.5 5.9 14.3c3.8 3.8 8.9 5.9 14.3 5.9s10.5-2.1 14.3-5.9c3.8-3.8 5.9-8.9 5.9-14.3s-2.1-10.5-5.9-14.3c-3.8-3.8-8.9-5.9-14.3-5.9zm12.4 32.7c-3.3 3.3-7.7 5.1-12.4 5.1s-9.1-1.8-12.4-5.1c-3.3-3.3-5.1-7.7-5.1-12.4s1.8-9.1 5.1-12.4c3.3-3.3 7.7-5.1 12.4-5.1s9.1 1.8 12.4 5.1c3.3 3.3 5.1 7.7 5.1 12.4s-1.8 9.1-5.1 12.4z"></path>
+            <path d="M50 1.6C27.6 1.6 9.4 19.9 9.4 42.2c0 10.3 3.9 19.8 10.3 26.9.1.2.3.4.4.5l27.9 28c.5.5 1.2.8 2 .8s1.5-.3 2-.8l27.9-27.9c.2-.2.3-.4.4-.6 6.4-7.2 10.2-16.6 10.2-26.9C90.6 19.9 72.4 1.6 50 1.6zm0 90.1L39.8 81.5c6.5 1.7 13.9 1.7 20.4 0L50 91.7zm0-14.5c-19.3 0-35-15.7-35-35s15.7-35 35-35 35 15.7 35 35-15.7 35-35 35z"></path>
+        </symbol>
+    </svg>
+    <div id="panel"></div>
+    <div id="top_bg" style="position: fixed; top: 0px;"></div>
+<div class="wrapper">
+    <div class="header fly_header" itemscope="" itemtype="https://schema.org/WPHeader" style="position: fixed; top: 1px;">
+        <meta itemprop="headline" content="Обновления раскрытия информации">
+        <meta itemprop="description" content="">
+        <div class="redhover">
+            
+        </div>
+        <div style="float: left;display:flex; flex-flow:column;">
+            <a class="service-menu-link" href="https://online.savingsim.ru/" title="Личный кабинет">
+                <svg class="header-human-icon">
+                    <use xlink:href="#human-icon"></use>
+                </svg>
+                <span>Кабинет клиента</span>
+            </a>
+            <a href="/ru/pif/spisok/" class="service-menu-link">
+                <svg class="header-human-icon">
+                    <use xlink:href="#map-point-icon"></use>
+                </svg>
+                <span>Пункты продаж</span>
+            </a>
+        </div>
+        <br>
+        <div style="float: right; margin-bottom: 20px;"><a href="/" class="logo"><img src="/bitrix/templates/index/images/vtb_capital_pr.svg" alt=""></a></div>
+        <div style="float: right; margin-bottom: 30px; width: 140px; margin-right: 30px; display: inline-block">
+
+        </div>
+        <div class="menu_wrapper">
+                <div class="menu_container" itemscope="" itemtype="https://schema.org/SiteNavigationElement">
+        <ul class="primaryNav" itemprop="name" content="Навигация">
+                                                                                        <li class="point-of-top-menu active" id="personalOn">
+                            <div class="navLH"></div>
+                            <a itemprop="url" href="/" class=""><i style="font-style: inherit" itemprop="name">О компании</i></a>
+                            <span class="navRH"></span>
+                            <ul class="personalSecondNav secondaryNav"><li></li>
+                                                                                                                                                                                                                                <li>
+                                                                                    <a itemprop="url" href="/ru/about/"><i style="font-style: inherit" itemprop="name">О компании</i></a>
+                                                                            </li>
+                                                                                                                                                                                                                                                                <li>
+                                                                                    <span><i style="font-style: inherit" itemprop="name">Раскрытие информации</i></span>
+                                                                            </li>
+                                                                                                                                                                                                                                                                <li>
+                                                                                    <a itemprop="url" href="/ru/about/rekvisits/"><i style="font-style: inherit" itemprop="name">Контакты и реквизиты</i></a>
+                                                                            </li>
+                                                                                                                                                                                                                                                                <li>
+                                                                                    <a itemprop="url" href="/ru/about/information/"><i style="font-style: inherit" itemprop="name">Официальная информация</i></a>
+                                                                            </li>
+                                                                                                                                                                                                                                                                <li>
+                                                                                    <a itemprop="url" href="/help/"><i style="font-style: inherit" itemprop="name">Поддержка</i></a>
+                                                                            </li>
+                                                                                                                                                                                                                                                                <li>
+                                                                                    <a itemprop="url" href="/ru/about/news/"><i style="font-style: inherit" itemprop="name">Новости</i></a>
+                                                                            </li>
+                                                                                                                                                                    <li class="last-child"><!-- --></li>
+                    </ul></li>                                                                            <li class="point-of-top-menu " id="privateOff">
+                            <div class="navLH"></div>
+                            <a itemprop="url" href="/ru/pension/" class=""><i style="font-style: inherit" itemprop="name">Пенсионные накопления</i></a>
+                            <span class="navRH"></span>
+                            <ul class="privateSecondNav secondaryNav" style="display:none"><li></li>
+                                                                                                                                                                                                                                <li>
+                                                                                    <a itemprop="url" href="/ru/pension/declaration/"><i style="font-style: inherit" itemprop="name">Инвестиционная декларация</i></a>
+                                                                            </li>
+                                                                                                                                                                                                                                                                <li>
+                                                                                    <a itemprop="url" href="/ru/pension/standarts/"><i style="font-style: inherit" itemprop="name">Стандарты раскрытия информации об инвестировании СПН</i></a>
+                                                                            </li>
+                                                                                                                                                                                                                                                                <li>
+                                                                                    <a itemprop="url" href="/ru/pension/information/"><i style="font-style: inherit" itemprop="name">Отчетность</i></a>
+                                                                            </li>
+                                                                                                                                                                                                                                                                <li>
+                                                                                    <a itemprop="url" href="/ru/pension/zayavlenie/"><i style="font-style: inherit" itemprop="name">Подать заявление</i></a>
+                                                                            </li>
+                                                                                                                                                                    <li class="last-child"><!-- --></li>
+                    </ul></li>                                                                                                                                <li class="point-of-top-menu " id="businessOff">
+                                        <div class="navLH"></div>
+                                        <a itemprop="url" href="/ru/pif/parametres" class=""><i style="font-style: inherit" itemprop="name">ПИФ Накопительный резерв</i></a>
+                                        <span class="navRH"></span>
+                                    </li>
+                                                                                                                                                                                                            <li class="point-of-top-menu " id="realtyOff">
+                            <div class="navLH"></div>
+                            <a itemprop="url" href="/ru/realty/" class=""><i style="font-style: inherit" itemprop="name">ПИФЫ недвижимости</i></a>
+                            <span class="navRH"></span>
+                            <ul class="realtySecondNav secondaryNav" style="display:none"><li></li>
+                                                                                                                                                                                                                                <li>
+                                                                                    <a itemprop="url" href="/ru/realty/Arudzhi/"><i style="font-style: inherit" itemprop="name">Аруджи – Фонд Недвижимости 1</i></a>
+                                                                            </li>
+                                                                                                                                                                                                                                                                <li>
+                                                                                    <a itemprop="url" href="/ru/realty/rentincome/"><i style="font-style: inherit" itemprop="name">РД</i></a>
+                                                                            </li>
+                                                                                                                                                                                                                                                                <li>
+                                                                                    <a itemprop="url" href="/ru/realty/rentincome2/"><i style="font-style: inherit" itemprop="name">РД 2</i></a>
+                                                                            </li>
+                                                                                                                                                                                                                                                                <li>
+                                                                                    <a itemprop="url" href="/ru/realty/rentincomepro/"><i style="font-style: inherit" itemprop="name">Рентный доход ПРО</i></a>
+                                                                            </li>
+                                                                                                                                                                    <li class="last-child"><!-- --></li>
+                    </ul></li>                                                                            <li class="point-of-top-menu " id="aboutOff">
+                            <div class="navLH"></div>
+                            <a itemprop="url" href="/ru/spravochnik/" class=""><i style="font-style: inherit" itemprop="name">Пенсионная реформа</i></a>
+                            <span class="navRH"></span>
+                            <ul class="aboutSecondNav secondaryNav" style="display:none"><li></li>
+                                                                                                                                                                                                                                <li>
+                                                                                    <a itemprop="url" href="/ru/spravochnik/what_for/"><i style="font-style: inherit" itemprop="name">Зачем нужна пенсионная реформа</i></a>
+                                                                            </li>
+                                                                                                                                                                                                                                                                <li>
+                                                                                    <a itemprop="url" href="/ru/spravochnik/funded/"><i style="font-style: inherit" itemprop="name">Накопительная часть пенсии</i></a>
+                                                                            </li>
+                                                                                                                                                                                                                                                                <li>
+                                                                                    <a itemprop="url" href="/ru/spravochnik/links/"><i style="font-style: inherit" itemprop="name">Полезные ссылки</i></a>
+                                                                            </li>
+                                                                                                                                                                            <li class="last-child"><!-- --></li>
+                            </ul></li>                                        </ul>
+                </div>
+                        </div>
+        <div id="searchBreadContainer">
+                        <div class="nav_chain">
+                <div class="breadcrumb-navigation" itemscope="" itemtype="https://schema.org/BreadcrumbList"><span style="font-style:inherit" itemprop="itemListElement" itemscope="" itemtype="https://schema.org/ListItem"><a itemprop="item" href="/ru/"><span itemprop="name">Главная</span></a></span><span>&nbsp;/&nbsp;</span><span style="font-style:inherit" itemprop="itemListElement" itemscope="" itemtype="https://schema.org/ListItem"><a itemprop="item" href="/ru/about/"><span itemprop="name">О компании</span></a></span><span>&nbsp;/&nbsp;</span><span itemprop="name">Раскрытие информации</span></div>            </div>
+        </div>
+    </div>
+    <div style="height: 0.1px;"></div>    <table style="width: 100%; margin-top: 238px;" class="main-content-blk">
+    <tbody>
+<tr>
+    <td class="left_column">
+        <div style="width: 235px;"></div>
+            <ul class="ul_left_menu" style="position: fixed;">
+                                <li class="level1"> 
+                                                <span class="left_menu item_selected"> 
+                        О компании	
+                        </span>
+                                        </li>
+                                    <li class="level1"> 
+                                                <a href="/ru/about/trust-management-information-disclosure/" class="left_menu "> 
+                        Раскрытие информации по доверительному управлению	
+                        </a>
+                                </li>
+                                    <li class="level1"> 
+                                                <a href="/ru/about/rekvisits/" class="left_menu "> 
+                        Контакты и реквизиты	
+                        </a>
+                                </li>
+                                    <li class="level1"> 
+                                                <a href="/ru/about/information/" class="left_menu "> 
+                        Официальная информация	
+                        </a>
+                                </li>
+                                    <li class="level1"> 
+                                                <a href="/help/" class="left_menu "> 
+                        Поддержка	
+                        </a>
+                                </li>
+                                    <li class="level1"> 
+                                                <a href="/ru/about/info/" class="left_menu "> 
+                        Информация	
+                        </a>
+                                </li>
+                 
+                <li class="level1">
+                    <div class="last_menu_item"></div> 
+                </li>
+                </ul>
+
+        </td>
+    <td class="right_column">
+
+<div class="news-list">
+                    <div class="row" id="bx_2592877452_139180">
+            <div class="pdf"></div>
+            <div class="file-lnk">
+                <a href="/upload/iblock/f4d/9ytl8des8g8wcajrfybgmru23z94i4m5/Soobshchenie-o-vydache-Doppaev-20-iyunya-2023-ZPIF-RD-2.pdf" title="">
+                    <span class="date">
+                        20.06.2023, 12:47                    </span>
+                    <span class="lnk">Сообщение о принятом решении о выдаче дополнительных инвестиционных паев и о начале срока приема заявок на приобретение дополнительных инвестиционных паев в ЗПИФ недвижимости «РД 2»</span>
+                </a>
+            </div>
+        </div>
+                    <div class="row" id="bx_2592877452_139176">
+            <div class="pdf"></div>
+            <div class="file-lnk">
+                <a href="/upload/iblock/346/mqkvunktoc1f2mgdoh0nf1kjkye2wrjm/23_05_31_SCHA_ZPIFN-RD-2.pdf" title="">
+                    <span class="date">
+                        16.06.2023, 12:10                    </span>
+                    <span class="lnk">Справка о стоимости чистых активов паевого инвестиционного фонда на 31.05.2023 г.</span>
+                </a>
+            </div>
+        </div>
+                    <div class="row" id="bx_2592877452_139175">
+            <div class="pdf"></div>
+            <div class="file-lnk">
+                <a href="/upload/iblock/64b/zf8kurhi44edklvyl6tpexstst7b866q/23_05_31_SCHA_Arudzhi1.pdf" title="">
+                    <span class="date">
+                        16.06.2023, 12:10                    </span>
+                    <span class="lnk">Справка о стоимости чистых активов паевого инвестиционного фонда на 31.05.2023 г.</span>
+                </a>
+            </div>
+        </div>
+                    <div class="row" id="bx_2592877452_139174">
+            <div class="pdf"></div>
+            <div class="file-lnk">
+                <a href="/upload/iblock/301/81j9b0t6q1uxugbucm21tn10br1xhse5/23_05_31_Prirost_ZPIFN-RD-2.pdf" title="">
+                    <span class="date">
+                        16.06.2023, 12:10                    </span>
+                    <span class="lnk">Отчет о приросте (об уменьшении) стоимости имущества, составляющего паевой инвестиционный фонд на 31.05.2023 г.</span>
+                </a>
+            </div>
+        </div>
+                    <div class="row" id="bx_2592877452_139173">
+            <div class="pdf"></div>
+            <div class="file-lnk">
+                <a href="/upload/iblock/376/1s5lqaoqy27euz3blpzkbogqk63lxg7y/23_05_31_Prirost_Arudzhi1.pdf" title="">
+                    <span class="date">
+                        16.06.2023, 12:10                    </span>
+                    <span class="lnk">Отчет о приросте (об уменьшении) стоимости имущества, составляющего паевой инвестиционный фонд на 31.05.2023 г.</span>
+                </a>
+            </div>
+        </div>
+                    <div class="row" id="bx_2592877452_139172">
+            <div class="pdf"></div>
+            <div class="file-lnk">
+                <a href="/upload/iblock/296/lgyds5syslem3dcsmxl3eha4bni3mrr6/Raschet-sobstvennykh-sredstv-OOO-Sberezheniya-plyus_31.05.2023-g.pdf" title="">
+                    <span class="date">
+                        16.06.2023, 11:56                    </span>
+                    <span class="lnk">Расчет собственных средств ООО Сбережения Плюс 31.05.2023</span>
+                </a>
+            </div>
+        </div>
+                    <div class="row" id="bx_2592877452_139171">
+            <div class="pdf"></div>
+            <div class="file-lnk">
+                <a href="/upload/iblock/d4f/yescesvmeh1ih0i7u8jahzbqmzs3222x/23_05_31_SCHA_ZPIFN-RD.pdf" title="">
+                    <span class="date">
+                        16.06.2023, 11:50                    </span>
+                    <span class="lnk">Справка о стоимости чистых активов паевого инвестиционного фонда на 31.05.2023 г.</span>
+                </a>
+            </div>
+        </div>
+                    <div class="row" id="bx_2592877452_139170">
+            <div class="pdf"></div>
+            <div class="file-lnk">
+                <a href="/upload/iblock/0c0/ar12e9itcqb8p66f2irp0fhh62mt6oeg/23_05_31_Prirost_ZPIFN-RD.pdf" title="">
+                    <span class="date">
+                        16.06.2023, 11:50                    </span>
+                    <span class="lnk">Отчет о приросте (об уменьшении) стоимости имущества, составляющего паевой инвестиционный фонд на 31.05.2023 г.</span>
+                </a>
+            </div>
+        </div>
+                    <div class="row" id="bx_2592877452_139169">
+            <div class="pdf"></div>
+            <div class="file-lnk">
+                <a href="/upload/iblock/4d6/j23q601e0m1xxhwy9vaxymqgp7sfuppg/23_05_31_SCHA_OPIF_Nakopitelnyy.pdf" title="">
+                    <span class="date">
+                        15.06.2023, 15:10                    </span>
+                    <span class="lnk">Справка о стоимости чистых активов паевого инвестиционного фонда на 31.05.2023 г.</span>
+                </a>
+            </div>
+        </div>
+                    <div class="row" id="bx_2592877452_139168">
+            <div class="pdf"></div>
+            <div class="file-lnk">
+                <a href="/upload/iblock/3b1/k5z0hf0yl7javbqli9g76pf2nkhfyi8n/23_05_31_Prirost_OPIF_Nakopitelnyy.pdf" title="">
+                    <span class="date">
+                        15.06.2023, 15:10                    </span>
+                    <span class="lnk">Отчет о приросте (об уменьшении) стоимости имущества, составляющего паевой инвестиционный фонд на 31.05.2023 г.</span>
+                </a>
+            </div>
+        </div>
+                    <div class="row" id="bx_2592877452_139166">
+            <div class="pdf"></div>
+            <div class="file-lnk">
+                <a href="/upload/iblock/660/cwubvu2p2c28obi1b93dpo0gavzw8na2/PDU-ZPIF-RD2-s-izm-17.pdf" title="">
+                    <span class="date">
+                        14.06.2023, 15:30                    </span>
+                    <span class="lnk">Правила доверительного управления c включенными изменениями и дополнениями №4508-17</span>
+                </a>
+            </div>
+        </div>
+                    <div class="row" id="bx_2592877452_139164">
+            <div class="pdf"></div>
+            <div class="file-lnk">
+                <a href="/upload/iblock/292/0ueqi829etsdjghxz8aymf45m3zpjb4h/Izmeneniya-17-v-PDU-ZPIF-RD2.pdf" title="">
+                    <span class="date">
+                        14.06.2023, 15:28                    </span>
+                    <span class="lnk">Изменения и дополнения в правила доверительного управления №4508-17</span>
+                </a>
+            </div>
+        </div>
+                    <div class="row" id="bx_2592877452_139163">
+            <div class="pdf"></div>
+            <div class="file-lnk">
+                <a href="/upload/iblock/e74/f3u4nwcxfldcledfl6t5jjv8lh8psrjo/Soobshchenie-o-registratsii-izmeneniy-v-PDU-ZPIFy-RD2-13-iyunya-2023.pdf" title="">
+                    <span class="date">
+                        14.06.2023, 15:25                    </span>
+                    <span class="lnk">Сообщение о регистрации изменений и дополнений в правила доверительного управления Закрытым паевым инвестиционным фондом недвижимости «РД 2»</span>
+                </a>
+            </div>
+        </div>
+                    <div class="row" id="bx_2592877452_139161">
+            <div class="pdf"></div>
+            <div class="file-lnk">
+                <a href="/upload/iblock/b2a/eunpjf2obvhn6l2uzaeddgvmsl7y48h2/Pravila-opredeleniya-stoimosti-chistykh-aktivov-_v-redaktsii-ot-23.05.2023g._-Rentnyy-dokhod-Pro.pdf" title="">
+                    <span class="date">
+                        13.06.2023, 17:19                    </span>
+                    <span class="lnk">Правила определения стоимости чистых активов (в редакции от 23.05.2023г.)</span>
+                </a>
+            </div>
+        </div>
+                    <div class="row" id="bx_2592877452_139157">
+            <div class="pdf"></div>
+            <div class="file-lnk">
+                <a href="/upload/iblock/17e/9p9p991uwz11b4puym1ovze0bkyz0tfl/Pravila-opredeleniya-SCHA-SFR-Sberezheniya-plyus-06.06.2023.pdf" title="">
+                    <span class="date">
+                        07.06.2023, 17:42                    </span>
+                    <span class="lnk">Правила определения стоимости чистых активов в отношении средств пенсионных накоплений Фонда пенсионного и социального страхования Российской Федерации от 06.06.2023</span>
+                </a>
+            </div>
+        </div>
+                    <div class="row" id="bx_2592877452_139154">
+            <div class="pdf"></div>
+            <div class="file-lnk">
+                <a href="/upload/iblock/3af/y0z347ftftv93kthxy57a2ysbcgej4zm/23_05_31_KID_OPIF_Nakopitelnyy.pdf" title="">
+                    <span class="date">
+                        07.06.2023, 11:06                    </span>
+                    <span class="lnk">Ключевой информационный документ на 31.05.2023 г.</span>
+                </a>
+            </div>
+        </div>
+                    <div class="row" id="bx_2592877452_139153">
+            <div class="pdf"></div>
+            <div class="file-lnk">
+                <a href="/upload/iblock/962/rehuzimi0ex7jg4aukbher3ocahhl3s5/23_05_31_KID_ZPIFN-RD.pdf" title="">
+                    <span class="date">
+                        07.06.2023, 11:06                    </span>
+                    <span class="lnk">Ключевой информационный документ на 31.05.2023 г.</span>
+                </a>
+            </div>
+        </div>
+                    <div class="row" id="bx_2592877452_139152">
+            <div class="pdf"></div>
+            <div class="file-lnk">
+                <a href="/upload/iblock/205/ikvfsgmky3j613248ycstdb7kevel7hd/23_05_31_KID_ZPIFN-RD-2.pdf" title="">
+                    <span class="date">
+                        07.06.2023, 11:06                    </span>
+                    <span class="lnk">Ключевой информационный документ на 31.05.2023 г.</span>
+                </a>
+            </div>
+        </div>
+                    <div class="row" id="bx_2592877452_139151">
+            <div class="pdf"></div>
+            <div class="file-lnk">
+                <a href="/upload/iblock/9f0/oeaxf4tv0fo2pcpx3yee7mr5va1zs775/23_05_31_KID_Arudzhi1.pdf" title="">
+                    <span class="date">
+                        07.06.2023, 11:06                    </span>
+                    <span class="lnk">Ключевой информационный документ на 31.05.2023 г.</span>
+                </a>
+            </div>
+        </div>
+                    <div class="row" id="bx_2592877452_139148">
+            <div class="pdf"></div>
+            <div class="file-lnk">
+                <a href="/upload/iblock/b3b/v0axszonxg7klzlgeearcpdvxq4hcp9p/Otchet-ob-otsenke-nedvizhimogo-imushchestva-v-sostave-ZPIF-BTS-SkyLight.pdf" title="">
+                    <span class="date">
+                        02.06.2023, 15:16                    </span>
+                    <span class="lnk">Отчет об оценке недвижимого имущества в составе ЗПИФ БЦ SkyLight</span>
+                </a>
+            </div>
+        </div>
+    
+    <p>* – документ бессрочного хранения</p>
+
+            
+<font class="text">
+
+
+	</font> 
+
+	<font class="text">
+
+			Начало&nbsp;|&nbsp;Пред.&nbsp;|
+	
+	
+					<b>1</b>
+					
+					<a href="/ru/about/reports/all/?PAGEN_1=2">2</a>
+					
+					<a href="/ru/about/reports/all/?PAGEN_1=3">3</a>
+					
+					<a href="/ru/about/reports/all/?PAGEN_1=4">4</a>
+					
+					<a href="/ru/about/reports/all/?PAGEN_1=5">5</a>
+						|
+
+			<a href="/ru/about/reports/all/?PAGEN_1=2">След.</a>&nbsp;|
+		<a href="/ru/about/reports/all/?PAGEN_1=76">Конец</a>
+	
+
+
+<noindex>
+			|&nbsp;<a href="/ru/about/reports/all/?SHOWALL_1=1" rel="nofollow">Все</a>
+	</noindex>
+
+</font><br>
+    </div><div class="clear"></div>
+
+    <br><br>
+    <div class="pageprint redhover">
+        <a target="_blank" href="/ru/about/reports/all/?print=Y" rel="noopener">
+            Версия для печати
+        </a>
+    </div>
+</td></tr></tbody></table>
+
+<div class="footer_protect">
+</div>
+
+
+</div> <!-- wrapper -->
+<!-- футер	 -->
+<div id="wrapper_footer">
+
+
+<div class="footer" itemscope="" itemtype="https://schema.org/WPFooter">
+
+	
+<ul class="bottom_nav" itemscope="" itemtype="https://schema.org/SiteNavigationElement">
+
+
+	
+	
+		
+			                <li><a itemprop="url" href="/ru/sitemap/"><i style="font-style: inherit" itemprop="name">Карта сайта</i></a></li>
+			
+		
+	
+	
+
+	
+	
+		
+			                <li><a itemprop="url" href="/ru/about/rekvisits/"><i style="font-style: inherit" itemprop="name">Контакты и реквизиты</i></a></li>
+			
+		
+	
+	
+
+	
+	
+		
+			                <li><a itemprop="url" href="/ru/about/reports/controlinfo/"><i style="font-style: inherit" itemprop="name">Информация о лицах, под контролем либо значительным <br><span style="margin-left: 12px; line-height: 16px;">влиянием которых находится управляющая компания</span></i></a></li>
+			
+		
+	
+	
+
+
+</ul>
+
+	<ul class="addr" itemscope="" itemtype="https://schema.org/PostalAddress">
+	<li class="headling">Телефон</li>
+	<li><span>в г. Москве:<b itemprop="telephone">+7 (495) 725-52-54</b></span></li>
+	<li></li>
+</ul>    <div class="ratingbox">
+        <div class="imgbox">
+            <img src="/bitrix/templates/inner/images/NRA_logo_RU.PNG" alt="Рейтинг ААА | ru.am |">
+        </div>
+        <div class="ratingboxcolumn">
+            <p class="rating">Рейтинг ААА | ru.am |</p>
+            <p class="rating">Максимальная степень надежности и качества услуг управляющих компаний.</p>
+        </div>
+
+    </div>
+
+    <div class="copy">© 2003—<i style="font-style: inherit" itemprop="copyrightYear">2023</i> ООО Сбережения плюс</div>
+</div>
+
+
+    <div class="certificate-text-block">
+        <div class="certificate-text-block-short">
+            <div style="font-variant: normal; font-weight: normal; font-size: 14px; line-height: normal; font-family: Arial, Helvetica, sans-serif; font-style: normal; color: #6f6f6f; display: block; border-top: 1px solid #dfdfdf; height: 95px; padding: 15px 0px 0px; position: relative; width: 973px; margin-left: auto; margin-right: auto; text-align: justify;">
+	<p>
+		 ООО Сбережения плюс (лицензия ФКЦБ России от 07.02.2003 г. № 21-000-1-00108 на осуществление деятельности по управлению инвестиционными фондами, паевыми инвестиционными фондами и негосударственными пенсионными фондами, без ограничения срока действия; Лицензия Банка России от 01.03.2022 г. № 045-14125-001000 на осуществление деятельности по управлению ценными бумагами, без ограничения срока действия).
+	</p>
+	<p>
+		 Содержание сайта <a href="http://www.savingsim.ru/">www.savingsim.ru</a> и любых страниц сайта («Сайт») предназначено исключительно для информационных целей. Сайт не рассматривается и не должен рассматриваться как предложение ООО Сбережения плюс о покупке или продаже каких- либо финансовых инструментов или оказание услуг какому-либо лицу. Информация на Сайте не может рассматриваться в качестве рекомендации к инвестированию средств, а также гарантий или обещаний в будущем доходности вложений.
+	</p>
+	<p>
+		 Никакие положения информации или материалов, представленных на Сайте, не являются и не должны рассматриваться как индивидуальные инвестиционные рекомендации и/или намерение ООО Сбережения плюс предоставить услуги инвестиционного советника. ООО Сбережения плюс не может гарантировать, что финансовые инструменты, продукты и услуги, описанные на Сайте, подходят лицам, которые ознакомились с такими материалами в соответствии с их инвестиционным профилем. Финансовые инструменты, упоминаемые в информационных материалах Сайта, также могут быть предназначены исключительно для квалифицированных инвесторов. ООО Сбережения плюс не несёт ответственности за финансовые или иные последствия, которые могут возникнуть в результате принятия Вами решений в отношении финансовых инструментов, продуктов и услуг, представленных в информационных материалах.
+	</p>
+	<p>
+		 Никакие финансовые инструменты, продукты или услуги, упомянутые на Сайте, не предлагаются к продаже и не продаются в какой-либо юрисдикции, где такая деятельность противоречила бы законодательству о ценных бумагах или другим местным законам и нормативно-правовым актам или обязывала бы ООО Сбережения плюс выполнить требование регистрации в такой юрисдикции. Прежде чем воспользоваться какой-либо услугой или приобретением финансового инструмента или инвестиционного продукта, Вы должны самостоятельно оценить экономические риски и выгоды от услуги и/или продукта, налоговые, юридические, бухгалтерские последствия заключения сделки при пользовании конкретной услугой, или перед приобретением конкретного финансового инструмента или инвестиционного продукта, свою готовность и возможность принять такие риски. При принятии инвестиционных решений, Вы не должны полагаться исключительно на мнения, изложенные на Сайте, но должны провести собственный анализ финансового положения эмитента и всех рисков, связанных с инвестированием в финансовые инструменты.
+	</p>
+	<p>
+		 Ни прошлый опыт, ни финансовый успех других лиц не гарантирует и не определяет получение таких же результатов в будущем. Стоимость или доход от любых инвестиций, упомянутых на Сайте, могут изменяться и/или испытывать воздействие изменений рыночной конъюнктуры, в том числе процентных ставок.
+	</p>
+	<p>
+		 Все цифровые и расчетные данные на Сайте приведены без каких-либо обязательств и исключительно в качестве примера финансовых параметров.
+	</p>
+	<p>
+		 ООО Сбережения плюс не несет ответственности за какие-либо убытки (прямые или косвенные), включая реальный ущерб и упущенную выгоду, возникшие в связи с использованием информации на Сайте.
+	</p>
+	<p>
+		 Настоящий Сайт не предоставляет и не предназначен для оказания консультационных услуг по правовым, бухгалтерским, инвестиционным или налоговым вопросам, в связи с чем не следует полагаться на содержимое Сайта в этом отношении.
+	</p>
+	<p>
+		 ООО Сбережения плюс прилагает разумные усилия для получения информации из надежных, по его мнению, источников. Вместе с тем, ООО Сбережения плюс не делает каких-либо заверений в отношении того, что информация или оценки, содержащиеся в информационном материале, размещенном на Сайте, являются достоверными, точными или полными. Любая информация, представленная в материалах Сайта, может быть изменена в любое время без предварительного уведомления. Любая приведенная на Сайте информация и оценки не являются условиями какой-либо сделки, в том числе потенциальной.
+	</p>
+	<p>
+		 ООО Сбережения плюс не гарантирует доходность инвестиций, инвестиционной деятельности или финансовых инструментов. До осуществления инвестиций необходимо внимательно ознакомиться с условиями и/или документами, которые регулируют порядок их осуществления. До приобретения финансовых инструментов необходимо внимательно ознакомиться с условиями их обращения.
+	</p>
+	<p>
+		 ООО Сбережения плюс настоящим информирует Вас о возможном наличии конфликта интересов при предложении рассматриваемых на Сайте финансовых инструментов. При урегулировании возникающих конфликтов интересов ООО Сбережения плюс руководствуется интересами своих клиентов.
+	</p>
+	<p>
+		 Паевые инвестиционные фонды под управлением ООО Сбережения плюс: ОПИФ рыночных финансовых инструментов «Накопительный резерв» (Правила Фонда зарегистрированы 13.04.2004 г., № 0202-72729965), ЗПИФ недвижимости «Аруджи – фонд недвижимости 1» (правила Фонда зарегистрированы 25 октября 2007 г., № 1034-94134876), ЗПИФ недвижимости «РД» (правила Фонда зарегистрированы 31.10.2019, № 3891), ЗПИФ недвижимости «РД 2» (правила Фонда зарегистрированы 19.07.2021, № 4508).
+	</p>
+	<p>
+		 Стоимость инвестиционных паев может увеличиваться и уменьшаться, результаты инвестирования в прошлом не определяют доходы в будущем, государство не гарантирует доходность инвестиций в паевые инвестиционные фонды. Правилами доверительного управления паевых инвестиционных фондов, находящихся под управлением ООО Сбережения плюс могут быть предусмотрены надбавки (скидки) к (с) расчетной стоимости инвестиционных паев при их выдаче (погашении). Взимание надбавок (скидок) уменьшит доходность инвестиций в инвестиционные паи фондов. Прежде, чем приобрести инвестиционный пай, следует внимательно ознакомиться с правилами доверительного управления фондом. Существует вероятность полной потери изначально инвестированной суммы. Данные о доходности или иных результатах, отраженные на сайте, не учитывают комиссии, налоговые сборы и иные расходы. Получить информацию о Фондах и ознакомиться с Правилами доверительного управления Фондов, с иными документами, предусмотренными Федеральным законом «Об инвестиционных фондах» и нормативными актами в сфере финансовых рынков, можно по адресу: 123112, г. Москва, вн.тер.г. муниципальный округ Пресненский, Пресненская набережная, дом 10, строение 1, этаж 38, помещение 38.46, по телефону +7(495)725-52-54, по адресам агентов или в сети Интернет по адресу <a href="http://www.savingsim.ru/">www.savingsim.ru</a>.
+	</p>
+	<p>
+		 ООО Сбережения плюс не гарантирует, что работа Сайта или любого контента будет бесперебойной и безошибочной, что дефекты будут исправлены или что серверы, с которых эта информация предоставляется, будут защищены от вирусов, троянских коней, червей, программных бомб или подобных предметов или процессов или других вредных компонентов. любые выражения мнений, оценок и прогнозов на сайте, являются мнениями авторов на дату написания. они не обязательно отражают точку зрения ООО Сбережения плюс и могут быть изменены в любое время без предварительного предупреждения. Ни при каких обстоятельствах ООО Сбережения плюс не будет нести ответственности за любые косвенные, случайные, специальные, штрафные или косвенные убытки (включая, без ограничения, убытки за потерю данных, бизнеса или прибыли), вытекающие из или в связи с этими условиями, за невозможность использования Сайта или любых продуктов, услуг или контента купленных, полученных или хранящихся на Сайте, будь то на основе контракта, деликта, объективной ответственности или иным образом, даже если ООО Сбережения плюс был предупрежден о возможности такого ущерба, и невзирая на то, что средство правовой защиты не достигает своей основной цели. Без ограничения вышеизложенного положения, равно как и эти ограничения распространяются также на любые претензии третьих лиц в отношении пользователей. Несмотря на любые другие заявления, ничто в настоящих условиях не призвано исключить или ограничить любые обязанности или обязательства, которые ООО Сбережения плюс имеет перед своими клиентами в соответствии с действующим законодательством, или которые не могут быть исключены или ограничены в порядке действующего законодательства.&nbsp;
+	</p>
+	<p>
+		 &nbsp;
+	</p>
+ <br>
+</div>
+<br>        </div>
+    </div>
+</div>
+
+
+<!-- футер	 -->
+
+<script>if(!window.BX)window.BX={};if(!window.BX.message)window.BX.message=function(mess){if(typeof mess==='object'){for(let i in mess) {BX.message[i]=mess[i];} return true;}};</script>
+<script>(window.BX||top.BX).message({'JS_CORE_LOADING':'Загрузка...','JS_CORE_NO_DATA':'- Нет данных -','JS_CORE_WINDOW_CLOSE':'Закрыть','JS_CORE_WINDOW_EXPAND':'Развернуть','JS_CORE_WINDOW_NARROW':'Свернуть в окно','JS_CORE_WINDOW_SAVE':'Сохранить','JS_CORE_WINDOW_CANCEL':'Отменить','JS_CORE_WINDOW_CONTINUE':'Продолжить','JS_CORE_H':'ч','JS_CORE_M':'м','JS_CORE_S':'с','JSADM_AI_HIDE_EXTRA':'Скрыть лишние','JSADM_AI_ALL_NOTIF':'Показать все','JSADM_AUTH_REQ':'Требуется авторизация!','JS_CORE_WINDOW_AUTH':'Войти','JS_CORE_IMAGE_FULL':'Полный размер'});</script><script src="/bitrix/js/main/core/core.min.js?1658231171216421"></script><script>BX.setJSList(['/bitrix/js/main/core/core_ajax.js','/bitrix/js/main/core/core_promise.js','/bitrix/js/main/polyfill/promise/js/promise.js','/bitrix/js/main/loadext/loadext.js','/bitrix/js/main/loadext/extension.js','/bitrix/js/main/polyfill/promise/js/promise.js','/bitrix/js/main/polyfill/find/js/find.js','/bitrix/js/main/polyfill/includes/js/includes.js','/bitrix/js/main/polyfill/matches/js/matches.js','/bitrix/js/ui/polyfill/closest/js/closest.js','/bitrix/js/main/polyfill/fill/main.polyfill.fill.js','/bitrix/js/main/polyfill/find/js/find.js','/bitrix/js/main/polyfill/matches/js/matches.js','/bitrix/js/main/polyfill/core/dist/polyfill.bundle.js','/bitrix/js/main/core/core.js','/bitrix/js/main/polyfill/intersectionobserver/js/intersectionobserver.js','/bitrix/js/main/lazyload/dist/lazyload.bundle.js','/bitrix/js/main/polyfill/core/dist/polyfill.bundle.js','/bitrix/js/main/parambag/dist/parambag.bundle.js']);
+BX.setCSSList(['/bitrix/js/main/lazyload/dist/lazyload.bundle.css','/bitrix/js/main/parambag/dist/parambag.bundle.css']);</script>
+<script>(window.BX||top.BX).message({'LANGUAGE_ID':'ru','FORMAT_DATE':'DD.MM.YYYY','FORMAT_DATETIME':'DD.MM.YYYY HH:MI:SS','COOKIE_PREFIX':'BITRIX_SM','SERVER_TZ_OFFSET':'10800','UTF_MODE':'Y','SITE_ID':'S2','SITE_DIR':'/','USER_ID':'','SERVER_TIME':'1687320477','USER_TZ_OFFSET':'0','USER_TZ_AUTO':'Y','bitrix_sessid':'68c5a6fb1cc3e7249b8e8c8a60d0363d'});</script><script src="/bitrix/js/fileman/sticker.min.js?165822923749131"></script>
+<script>BX.setJSList(['/js/jquery-3.6.0.min.js','/js/jquery.placeholder.1.3.js','/js/script.js','/js/jquery-ui.min.js','/bitrix/templates/inner/datepicker/jquery.ui.datepicker-ru.js','/bitrix/templates/inner/script.js','/bitrix/templates/inner/components/bitrix/menu/header_top/script.js','/bitrix/templates/inner/components/bitrix/menu/main_menu/script.js','/bitrix/templates/inner/components/bitrix/menu/sublevel_index/script.js']);</script>
+<script>BX.setCSSList(['/local/components/agima/disclosure.list/templates/all_reports/style.css','/bitrix/templates/inner/datepicker/css/redmond/jquery-ui-1.8.17.custom.css','/bitrix/templates/inner/components/bitrix/breadcrumb/title/style.css','/bitrix/templates/inner/components/bitrix/menu/header_top/style.css','/bitrix/templates/inner/components/bitrix/menu/main_menu/style.css','/bitrix/templates/inner/components/bitrix/breadcrumb/bm-am/style.css','/bitrix/templates/inner/components/bitrix/menu/sublevel_index/style.css','/bitrix/templates/inner/components/bitrix/menu/footer_bottom/style.css','/bitrix/templates/inner/styles.css','/bitrix/templates/inner/template_styles.css']);</script>
+
+
+<script src="/bitrix/cache/js/S2/inner/template_81d00f40cd1723ddbfdffd72eef3f535/template_81d00f40cd1723ddbfdffd72eef3f535_v1.js?1687268665357565"></script>
+<script>var _ba = _ba || []; _ba.push(["aid", "f31e22ba507934f134905c63fc57b973"]); _ba.push(["host", "www.savingsim.ru"]); (function() {var ba = document.createElement("script"); ba.type = "text/javascript"; ba.async = true;ba.src = (document.location.protocol == "https:" ? "https://" : "http://") + "bitrix.info/ba.js";var s = document.getElementsByTagName("script")[0];s.parentNode.insertBefore(ba, s);})();</script>
+
+
+<script>
+    (function(m,e,t,r,i,k,a){m[i]=m[i]||function(){(m[i].a=m[i].a||[]).push(arguments)};
+        m[i].l=1*new Date();
+        for (var j = 0; j < document.scripts.length; j++) {if (document.scripts[j].src === r) { return; }}
+        k=e.createElement(t),a=e.getElementsByTagName(t)[0],k.async=1,k.src=r,a.parentNode.insertBefore(k,a)})
+    (window, document, "script", "https://mc.yandex.ru/metrika/tag.js", "ym");
+
+    ym(89246913, "init", {
+        clickmap:true,
+        trackLinks:true,
+        accurateTrackBounce:true,
+        webvisor:true
+    });
+</script>
+

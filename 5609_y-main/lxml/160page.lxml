@@ -1,0 +1,906 @@
+
+<div class="element-invisible"><img src="https://www.peramo.ru/local/templates/peramo/images/1x1.png"></div>
+<div id="panel">
+     </div>
+
+<div phone="">
+	<div main="">
+		<div class="burger-icon"><img src="/local/templates/peramo/sites/all/themes/peramo/img/Menu.svg" alt=""></div>
+		<div><a href="/" rel="home" title="PERAMO.RU Главная" class="active"><img width="220" src="https://peramo.ru/local/templates/peramo/sites/default/files/logo-mobile.png" alt=""></a></div>
+		<div><img width="20" src="https://peramo.ru/local/templates/peramo/sites/all/themes/peramo/img/call.png" alt=""></div>
+		<div><a href="https://lk.peramo.ru/users/sign_in" rel="nofolow" target="_blank"><img width="20" src="https://peramo.ru/local/templates/peramo/sites/all/themes/peramo/img/003-social.png" alt=""></a></div>
+	</div>
+	<div phones="" class="phones-menu">
+		<div list="">
+			<div><a href="tel:+74959611773"> +7 (495) 961 17 73</a></div>
+			<div><a href="tel:+88007002840">&nbsp;&nbsp;8 (800) 700 28 40</a></div>
+		</div>
+	</div>
+</div>
+
+<style>
+	div[phone] {
+		width: 100%;
+		position: fixed;
+		z-index: 50;
+	}
+
+	div[main] {
+		display: flex;
+		grid-template-columns: 4fr 8fr 2fr 2fr;
+		gap: 3px;
+	}
+
+	div[main] > div {
+		display: grid;
+		text-align: center;
+		background: rgba(46, 83, 104, 0.75);
+	}
+
+	div[main] div:nth-child(1) {
+		flex-shrink: 0;
+		width: 120px;
+		padding-right: 36px;
+		padding-left: 36px;
+  }
+
+	div[main] div:nth-child(1) img {
+		width: 100%;
+  }
+
+	div[main] div:nth-child(2) {
+		width: 100%;
+    padding: 20px 30px !important;
+  }
+
+	div[main] div:nth-child(3),
+	div[main] div:nth-child(4) {
+		flex-shrink: 0;
+		width: 64px;
+  }
+
+	div[main] > div > img {
+		align-self: center;
+		justify-self: center;
+	}
+
+	div[phones] {
+		display: none;
+		text-align: end;
+		grid-template-columns: 1fr 1fr;
+	}
+
+	div[list] {
+		display: grid;
+		grid-gap: 25px;
+		padding: 25px;
+		background: #ccd5dc;
+		grid-column: 2;
+		text-align: center;
+		font-size: x-large;
+		z-index: 1;
+	}
+
+	@media (max-width: 1280px) {
+		img.scalable {
+			object-fit: scale-down;
+			transform: scale(1.5) translateY(10px);
+		}
+	}
+
+	@media (max-width: 767px) {
+
+	  div[list] {
+			width: 280px;
+			margin-left: auto;
+			background: #8c97a0;
+		}
+
+		div[list] a {
+			color: #305469;
+		}
+
+	}
+
+	@media (max-width: 540px) {
+
+	  div[main] {
+			min-height: 50px;
+			max-height: 50px;
+		}
+
+		div[main] div:nth-child(1) {
+			display: flex;
+			justify-content: center;
+			align-items: center;
+			width: 58px;
+			padding: 0;
+		}
+
+		div[main] div:nth-child(1) img {
+			width: 28px;
+		}
+
+		div[main] div:nth-child(2) {
+			display: flex;
+			justify-content: center;
+			align-items: center;
+			padding: 0 24px !important;
+		}
+
+
+		div[main] div:nth-child(3),
+		div[main] div:nth-child(4) {
+			width: 34px;
+		}
+
+		.mobile-menus {
+			height: 100vh;
+			min-height: auto;
+			overflow: auto;
+		}
+
+		.mobile-menus ul > li > a {
+			margin-right: 42px;
+			padding-right: 0;
+		}
+
+		.node-type-investment-decisions .l-main .node .nalog h2.block-title {
+			line-height: 32px
+		}
+
+		.node-type-investment-decisions .l-main .node .risks .risks-wrap {
+			grid-template-columns: auto
+		}
+
+	}
+
+
+</style>
+
+<script>
+	let phone = document.querySelector('div[main] > div:nth-child(3)');
+	let burgerIcon = document.querySelector('.burger-icon');
+	let phonesMenu = document.querySelector('.phones-menu');
+	phone.addEventListener('click', function() {
+		let list = document.querySelector('div[phone] div[phones]');
+		if (list.style.display == 'grid') {
+			list.style.display = 'none';
+		} else {
+			list.style.display = 'grid';
+		}
+	})
+
+	
+
+	let menu = document.querySelector('div[main] > div:nth-child(1)');
+	menu.addEventListener('click', function() {
+		let menus = document.querySelector('div.mobile-menus');
+		if (menus.style.display == 'block') {
+			menus.style.display = 'none';
+		} else {
+			menus.style.display = 'block';
+		}
+	})
+
+	burgerIcon.addEventListener('click', function() {
+		phonesMenu.style.display = 'none'
+	})
+</script>
+
+
+<div class="skip-link"> <a href="#main-content" class="element-invisible element-focusable">Перейти к основному содержанию</a> </div>
+<!--.page -->
+<div role="document" class="page">
+
+  <!-- mobile menus -->
+                     <div class="mobile-menus">
+                <ul class="menu">
+			               					                        <li class="first expanded"><a href="/trust-management/">Доверительное управление</a>
+                        <span class="menu__arrow"></span> 
+                          <ul class="menu">
+
+                                 				                              		<li class="leaf"><a href="/trust-management/peramo-bazis/">ПЕРАМО БАЗИС</a></li>
+                                   				                              		<li class="leaf"><a href="/trust-management/peramo-optima/">ПЕРАМО ОПТИМА +</a></li>
+                                   				                              		<li class="leaf"><a href="/trust-management/peramo-premium/">ПЕРАМО ПРЕМИУМ</a></li>
+                     </ul>              				               					                        </li><li class="first expanded"><a href="/pif/">Паевые инвестиционные фонды</a>
+                        <span class="menu__arrow"></span> 
+                          <ul class="menu">
+
+                                 				                              		<li class="leaf"><a href="/pif/conservatoriya/card">ИПИФ рыночных финансовых инструментов «КОНСЕРВАТОРия»</a></li>
+                                   				                              		<li class="leaf"><a href="/pif/industriya/">ЗПИФ КОМБИНИРОВАННЫЙ «ПЕРАМО-ИНДУСТРИЯ»</a></li>
+                                   				                              		<li class="leaf"><a href="/pif/arun/">ЗПИФ КОМБИНИРОВАННЫЙ «АРУН - КАПИТАЛ»</a></li>
+                     </ul>              				               					                        </li><li class="first expanded"><a href="/individualnye-investicionnye-scheta/">Индивидуальные инвестиционные счета</a>
+                        <span class="menu__arrow"></span> 
+                          <ul class="menu">
+
+                                 				                              		<li class="leaf"><a href="/individualnye-investicionnye-scheta/peramo-bazis-iis/">ПЕРАМО БАЗИС ИИС</a></li>
+                                   				                              		<li class="leaf"><a href="/individualnye-investicionnye-scheta/peramo-optima-iis/">ПЕРАМО ОПТИМА ИИС</a></li>
+                                   				                              		<li class="leaf"><a href="/individualnye-investicionnye-scheta/peramo-premium-iis/">ПЕРАМО ПРЕМИУМ ИИС</a></li>
+                     </ul>              				               					                   		</li><li class="first"><a href="/investicionnoe-konsultirovanie">Инвестиционное консультирование</a>
+                                 				               					                        </li><li class="first expanded"><a href="/about/team/">О компании</a>
+                        <span class="menu__arrow"></span> 
+                          <ul class="menu">
+
+                                 				                              		<li class="leaf"><a href="/about/team">Мы в лицах</a></li>
+                                   				                              		<li class="leaf"><a href="/about/intro">Обращение генерального директора</a></li>
+                                   				                              		<li class="leaf"><a href="/info/company/info">Раскрытие информации</a></li>
+                                   				                              		<li class="leaf"><a href="/info/contacts">Контакты</a></li>
+                     </ul>              				               					                        </li><li class="first expanded"><a href="/press-center/">Пресс-центр</a>
+                        <span class="menu__arrow"></span> 
+                          <ul class="menu">
+
+                                 				                              		<li class="leaf"><a href="/press-center/pr-contacts/">PR Контакты</a></li>
+                                   				                              		<li class="leaf"><a href="/press-center/peramo-in-media">Сми о нас</a></li>
+                                   				                              		<li class="leaf"><a href="/press-center/news">Новости</a></li>
+                                   				                              		<li class="leaf"><a href="/press-center/mediakit">Медиакит</a></li>
+                                   				                </ul>
+              </li></ul></div>
+
+
+
+
+
+
+
+  <div class="header-section">
+     <div class="page-wrap">
+      <header class="main-header">
+        <div class="topline">
+          <div class="row">
+            <div class="large-4 small-3 columns">
+            	<!--logo_padding-->
+              <div class="logo"> <a href="/" rel="home" title="PERAMO.RU Главная" class="active"><img class="logo" typeof="foaf:Image" src="/local/templates/peramo/sites/default/files/logo-sm.png" alt="PERAMO.RU логотип" title="PERAMO.RU Главная"></a> </div>
+            </div>
+            <div class="large-8 small-9 columns">
+              <div class="navigation-top">
+                <div id="top-desktop">
+                         <ul class="menu">
+			               					                                            <li class="first expanded  active-trail"><a class="active-trail" href="/about/team">О компании</a>
+                          
+                           <ul class="menu">
+                     
+                                 				                    
+               		<li class="leaf "><a class="" href="/about/team">Мы в лицах</a></li>
+                                   				                    
+               		<li class="leaf "><a class="" href="/about/intro">Обращение генерального директора</a></li>
+                                   				                    
+               		<li class="leaf active-trail"><a class="active-trail active" href="/info/company/info">Раскрытие информации</a></li>
+                                   				                    
+               		<li class="leaf "><a class="" href="/info/contacts">Контакты</a></li>
+                     </ul>              				               					                                            </li><li class="first expanded  "><a class="" href="/press-center/pr-contacts/">Пресс-центр</a>
+                          
+                           <ul class="menu">
+                     
+                                 				                    
+               		<li class="leaf "><a class="" href="/press-center/pr-contacts/">PR Контакты</a></li>
+                                   				                    
+               		<li class="leaf "><a class="" href="/press-center/peramo-in-media">Сми о нас</a></li>
+                                   				                    
+               		<li class="leaf "><a class="" href="/press-center/news">Новости</a></li>
+                                   				                    
+               		<li class="leaf "><a class="" href="/press-center/mediakit">Медиакит</a></li>
+                                   				                  </ul>
+         
+
+<!--
+                  <ul class="menu">
+                    <li class="first expanded"><a href="/about/team">О компании</a>
+                      <ul class="menu">
+                        <li class="first leaf"><a href="/about/team">Мы в лицах</a></li>
+                        <li class="leaf"><a href="/about/intro">Обращение генерального директора</a></li>
+                        <li class="collapsed"><a href="/info/company/info">Раскрытие информации</a></li>
+                        <li class="last leaf"><a href="/info/contacts">Контакты</a></li>
+                      </ul>
+                    </li>
+                    <li class="last expanded"><a href="/press-center/peramo-in-media">Пресс-центр</a>
+                      <ul class="menu">
+                        <li class="first leaf"><a href="/press-center/pr-contacts">PR Контакты</a></li>
+                        <li class="leaf"><a href="/press-center/peramo-in-media">СМИ о нас</a></li>
+                        <li class="leaf"><a href="/press-center/news">Новости</a></li>
+                        <li class="last leaf"><a href="/press-center/mediakit">Медиакит</a></li>
+                      </ul>
+                    </li>
+                  </ul>
+                  -->
+                </li></ul></div>
+                <div class="phone">
+                  <div class="burger"> <span></span> </div>
+                  <div class="phones-wrap">
+                    <section class="block block-block block-block-12">
+                      <ul class="ph">
+                        <li><a href="tel:+74959611773"> +7 (495) 961 17 73</a></li>
+                        <li><a href="tel:+88007002840">&nbsp;&nbsp;8 (800) 700 28 40</a></li>
+                      </ul>
+                    </section>
+                  </div>
+                  <div class="profile-link"> <a href="http://lk.peramo.ru/users/sign_in" rel="nofolow" target="_blank">Кабинет Клиента</a> </div>
+                </div>
+              </div>
+            </div>
+          </div>
+        </div>
+         <div class="bottomline">
+          <div class="row">
+            <div class="large-12 columns">
+              <div class="sec-nav">
+                <div id="main-desktop">
+                  <ul class="menu menu_main">
+			               					                        <li class="first expanded  "><a class="" href="/trust-management/">Доверительное управление</a>
+                        
+                        <ul class="menu">
+                     
+                                 				                    
+               		<li class="leaf 1 "><a class="" href="/trust-management/peramo-bazis/">ПЕРАМО БАЗИС</a></li>
+                                   				                    
+               		<li class="leaf 2 "><a class="" href="/trust-management/peramo-optima/">ПЕРАМО ОПТИМА +</a></li>
+                                   				                    
+               		<li class="leaf 3 "><a class="" href="/trust-management/peramo-premium/">ПЕРАМО ПРЕМИУМ</a></li>
+                     </ul>              				               					                        </li><li class="first expanded  "><a class="" href="/pif/">Паевые инвестиционные фонды</a>
+                        
+                        <ul class="menu">
+                     
+                                 				                    
+               		<li class="leaf 5 "><a class="" href="/pif/conservatoriya/card">ИПИФ рыночных финансовых инструментов «КОНСЕРВАТОРия»</a></li>
+                                   				                    
+               		<li class="leaf 6 "><a class="" href="/pif/industriya/">ЗПИФ КОМБИНИРОВАННЫЙ «ПЕРАМО-ИНДУСТРИЯ»</a></li>
+                                   				                    
+               		<li class="leaf 7 "><a class="" href="/pif/arun/">ЗПИФ КОМБИНИРОВАННЫЙ «АРУН - КАПИТАЛ»</a></li>
+                     </ul>              				               					                        </li><li class="first expanded  "><a class="" href="/individualnye-investicionnye-scheta/">Индивидуальные инвестиционные счета</a>
+                        
+                        <ul class="menu">
+                     
+                                 				                    
+               		<li class="leaf 9 "><a class="" href="/individualnye-investicionnye-scheta/peramo-bazis-iis/">ПЕРАМО БАЗИС ИИС</a></li>
+                                   				                    
+               		<li class="leaf 10 "><a class="" href="/individualnye-investicionnye-scheta/peramo-optima-iis/">ПЕРАМО ОПТИМА ИИС</a></li>
+                                   				                    
+               		<li class="leaf 11 "><a class="" href="/individualnye-investicionnye-scheta/peramo-premium-iis/">ПЕРАМО ПРЕМИУМ ИИС</a></li>
+                     </ul>              				               					                   		</li><li class="first "><a class="" "="" href="/investicionnoe-konsultirovanie">Инвестиционное консультирование</a>
+                                 				                  </li></ul>
+                </div>
+              </div>
+            </div>
+          </div>
+        </div>
+
+
+
+      </header>
+    </div>
+  </div>
+   <!--/.l-header -->
+    <div class="title-bread" style="background-image: url(' /local/templates/peramo/sites/default/files/header_backgrounds/bg_about.jpg');">
+    <div class="row">
+      <div class="large-12 columns ">
+
+        <h1 id="page-title" class="title">Расчет размера собственных средств</h1>
+
+        <div class="element-invisible">Вы здесь</div>
+        <ul class="breadcrumbs" itemscope="" itemtype="https://schema.org/BreadcrumbList">
+			<li itemprop="itemListElement" itemscope="" itemtype="https://schema.org/ListItem">
+				<a href="/" title="Главная" itemprop="item">
+					<span itemprop="name">Главная</span>
+				</a>
+
+			</li>
+			<li itemprop="itemListElement" itemscope="" itemtype="https://schema.org/ListItem">
+				<a href="/about/team" title="О компании" itemprop="item">
+					<span itemprop="name">О компании</span>
+				</a>
+
+			</li>
+			<li itemprop="itemListElement" itemscope="" itemtype="https://schema.org/ListItem">
+				<a href="/info/company/info" itemprop="item">
+					<span itemprop="name">Раскрытие информации</span>
+				</a>
+
+			</li>
+			<li itemprop="itemListElement" itemscope="" itemtype="https://schema.org/ListItem">
+				<a href="/info/company/info" title="Управляющая компания" itemprop="item">
+					<span itemprop="name">Управляющая компания</span>
+				</a>
+
+			</li>
+			<li class="current" itemprop="itemListElement" itemscope="" itemtype="https://schema.org/ListItem">
+				<a href="/info/company/raschet/" itemprop="item">Расчет размера собственных средств</a>
+
+			</li></ul>
+        <div id="quote"><div class="field field-name-field-subtitle field-type-text field-label-hidden field-wrapper"></div></div>
+
+      </div>
+    </div>
+  </div>
+  <div class="header-button-back js-button-back">
+    <a href="../">Назад</a>
+  </div>
+
+<div class="highlight ">
+  <div class="row">
+    <div class="large-12 columns">
+      <section class="block block-menu-block block-menu-block-5">
+        <div class="menu-block-wrapper menu-block-5 menu-name-main-menu parent-mlid-0 menu-level-2">
+          <ul class="menu">
+			               		<li class="first leaf "><a class="" "="" href="/about/team/"><span>Мы в лицах</span></a></li>
+				               		<li class="first leaf "><a class="" "="" href="/about/intro"><span>Обращение генерального директора</span></a></li>
+				               		<li class="first leaf "><a class="" "="" href="/info/company/info/"><span>Раскрытие информации</span></a></li>
+				               		<li class="first leaf "><a class="" "="" href="/info/contacts/"><span>Контакты</span></a></li>
+				          </ul>
+        </div>
+      </section>
+    </div>
+  </div>
+</div>
+
+
+
+
+
+
+
+<!-- <script type="text/javascript">
+	let news = document.querySelector('div.main_index');
+	let sliderWrap = document.createElement('div');
+	console.log(news);
+	// sliderWrap.innerHTML = '<div></div><div></div><div></div>';
+	// news.parentNode.insertBefore(sliderWrap, news);
+</script> -->
+
+<div></div>
+
+
+<main role="main" class="row l-main">
+  <!-- .l-main region -->
+  <div class="medium-8 medium-push-4  main columns"> <a id="main-content"></a>
+    <article id="node-38" class="node node-page view-mode-full" about="/info/company/raschet/" typeof="foaf:Document"> <span property="dc:title" content="" class="rdf-meta element-hidden"></span>
+      <div class="row">
+        <div class="large-12 columns"> </div>
+      </div>
+    </article>
+    <section class="block block-views block-views-fond-docs-38">
+      <div class="view view-fond-docs view-id-fond_docs view-display-id-38 view-dom-id-3507f3298de07e8cd1b85e271aa8cd0d">
+        <div class="attachment attachment-before">
+          <div class="view view-fond-docs view-id-fond_docs view-display-id-tabs">
+            <div class="view-content">
+                         <form class="sel">
+                 <select name="java-navigator" onchange="top.location.href =this.options[this.selectedIndex].value;">
+                  <option selected="" value="/info/company/raschet/">Показать все</option>
+                            <option value="/info/company/raschet/?year=2018">2018</option>
+
+                            <option value="/info/company/raschet/?year=2019">2019</option>
+
+                            <option value="/info/company/raschet/?year=2020">2020</option>
+
+                            <option value="/info/company/raschet/?year=2021">2021</option>
+
+                            <option value="/info/company/raschet/?year=2022">2022</option>
+
+                            <option value="/info/company/raschet/?year=2023">2023</option>
+
+                             </select>
+			</form>
+            
+            </div>
+          </div>
+        </div>
+       <br>
+
+        <div class="view-content">
+          <table class="views-table cols-4" id="table-1" data-simplebar="init"><div class="simplebar-wrapper" style="margin: 0px;"><div class="simplebar-height-auto-observer-wrapper"><div class="simplebar-height-auto-observer"></div></div><div class="simplebar-mask"><div class="simplebar-offset" style="right: 0px; bottom: 0px;"><div class="simplebar-content-wrapper" tabindex="0" role="region" aria-label="scrollable content" style="height: auto; overflow: hidden;"><div class="simplebar-content" style="padding: 0px;">
+            <thead>
+              <tr>
+                <th class="views-field" scope="col"> </th>
+                <th class="views-field views-field-uri" scope="col"> </th>
+                <th class="views-field views-field-nothing" scope="col"> Дата размещения </th>
+                <th class="views-field views-field-field-doc-till" scope="col"> Доступно до </th>
+                <th class="views-field views-field-edit-node" scope="col"> </th>
+              </tr>
+            </thead>
+            <tbody>
+		<tr class="odd" id="bx_3218110189_82926">
+				<td class="views-field pdf"></td>
+                <td class="views-field views-field-uri 81 big"><a href="/upload/iblock/829/diond9vp12ba0nko903uieb9jgv2yfdz/15-06-2023.pdf" target="_blank">Расчет размера собственных средств на 31.05.2023</a></td>
+                <td class="views-field views-field-nothing"><span class="date"><span class="date-display-single" property="dc:date" datatype="xsd:dateTime" content="15.06.2023 15:04:00">15.06.2023</span></span> <span class="time"><span class="date-display-single" property="dc:date" datatype="xsd:dateTime" content="2018-10-12T21:24:00+03:00">15:04</span></span></td>
+                <td class="views-field views-field-field-doc-till">15.06.2026</td>
+                <td class="views-field views-field-edit-node"></td>
+	</tr>
+		<tr class="odd" id="bx_3218110189_82916">
+				<td class="views-field pdf"></td>
+                <td class="views-field views-field-uri 139 big"><a href="/upload/iblock/095/5cbjmeh23zs2022pxkvtj4z8w5jxwjer/0420514-2023-05-30.pdf" target="_blank">Сообщение об обнаружении неточных сведений в раскрытой информации на 30.04.2023</a></td>
+                <td class="views-field views-field-nothing"><span class="date"><span class="date-display-single" property="dc:date" datatype="xsd:dateTime" content="30.05.2023 18:25:00">30.05.2023</span></span> <span class="time"><span class="date-display-single" property="dc:date" datatype="xsd:dateTime" content="2018-10-12T21:24:00+03:00">18:25</span></span></td>
+                <td class="views-field views-field-field-doc-till">30.05.2026</td>
+                <td class="views-field views-field-edit-node"></td>
+	</tr>
+		<tr class="odd" id="bx_3218110189_82915">
+				<td class="views-field pdf"></td>
+                <td class="views-field views-field-uri 104 big"><a href="/upload/iblock/db4/6zbj94ez23f1lsocdor99o9eisy9kfw1/23954.pdf" target="_blank">Расчет размера собственных средств на 30.04.2023 (уточненный)</a></td>
+                <td class="views-field views-field-nothing"><span class="date"><span class="date-display-single" property="dc:date" datatype="xsd:dateTime" content="30.05.2023 14:15:00">30.05.2023</span></span> <span class="time"><span class="date-display-single" property="dc:date" datatype="xsd:dateTime" content="2018-10-12T21:24:00+03:00">14:15</span></span></td>
+                <td class="views-field views-field-field-doc-till">30.05.2026</td>
+                <td class="views-field views-field-edit-node"></td>
+	</tr>
+		<tr class="odd" id="bx_3218110189_82663">
+				<td class="views-field pdf"></td>
+                <td class="views-field views-field-uri 81 big"><a href="/upload/iblock/fd0/dbpbbeypg3llqlkee15519nfix3d4b0f/0420514.pdf" target="_blank">Расчет размера собственных средств на 30.04.2023</a></td>
+                <td class="views-field views-field-nothing"><span class="date"><span class="date-display-single" property="dc:date" datatype="xsd:dateTime" content="18.05.2023 13:08:00">18.05.2023</span></span> <span class="time"><span class="date-display-single" property="dc:date" datatype="xsd:dateTime" content="2018-10-12T21:24:00+03:00">13:08</span></span></td>
+                <td class="views-field views-field-field-doc-till">18.05.2026</td>
+                <td class="views-field views-field-edit-node"></td>
+	</tr>
+		<tr class="odd" id="bx_3218110189_82401">
+				<td class="views-field pdf"></td>
+                <td class="views-field views-field-uri 81 big"><a href="/upload/iblock/7c6/dzff7icbbuvmcytsy0ii2au87bw7uvam/0420514.pdf" target="_blank">Расчет размера собственных средств на 31.03.2023</a></td>
+                <td class="views-field views-field-nothing"><span class="date"><span class="date-display-single" property="dc:date" datatype="xsd:dateTime" content="17.04.2023 10:01:00">17.04.2023</span></span> <span class="time"><span class="date-display-single" property="dc:date" datatype="xsd:dateTime" content="2018-10-12T21:24:00+03:00">10:01</span></span></td>
+                <td class="views-field views-field-field-doc-till">17.04.2026</td>
+                <td class="views-field views-field-edit-node"></td>
+	</tr>
+		<tr class="odd" id="bx_3218110189_82162">
+				<td class="views-field pdf"></td>
+                <td class="views-field views-field-uri 81 big"><a href="/upload/iblock/813/m22k11z2eazw39xvdxhjeaaiu8ekmuc4/0420514.pdf" target="_blank">Расчет размера собственных средств на 28.02.2023</a></td>
+                <td class="views-field views-field-nothing"><span class="date"><span class="date-display-single" property="dc:date" datatype="xsd:dateTime" content="15.03.2023 17:24:00">15.03.2023</span></span> <span class="time"><span class="date-display-single" property="dc:date" datatype="xsd:dateTime" content="2018-10-12T21:24:00+03:00">17:24</span></span></td>
+                <td class="views-field views-field-field-doc-till">15.03.2026</td>
+                <td class="views-field views-field-edit-node"></td>
+	</tr>
+		<tr class="odd" id="bx_3218110189_82147">
+				<td class="views-field pdf"></td>
+                <td class="views-field views-field-uri 81 big"><a href="/upload/iblock/829/vt0ppymokkvcdgibrmf6351rwdktjvy0/0420514.pdf" target="_blank">Расчет размера собственных средств на 31.01.2023</a></td>
+                <td class="views-field views-field-nothing"><span class="date"><span class="date-display-single" property="dc:date" datatype="xsd:dateTime" content="14.02.2023 19:40:00">14.02.2023</span></span> <span class="time"><span class="date-display-single" property="dc:date" datatype="xsd:dateTime" content="2018-10-12T21:24:00+03:00">19:40</span></span></td>
+                <td class="views-field views-field-field-doc-till">14.02.2026</td>
+                <td class="views-field views-field-edit-node"></td>
+	</tr>
+		<tr class="odd" id="bx_3218110189_81461">
+				<td class="views-field pdf"></td>
+                <td class="views-field views-field-uri 81 big"><a href="/upload/iblock/ae3/lylron5arsxelbqi5ni2lgexdxrttmvz/0420514.pdf" target="_blank">Расчет размера собственных средств на 31.12.2022</a></td>
+                <td class="views-field views-field-nothing"><span class="date"><span class="date-display-single" property="dc:date" datatype="xsd:dateTime" content="20.01.2023 18:48:00">20.01.2023</span></span> <span class="time"><span class="date-display-single" property="dc:date" datatype="xsd:dateTime" content="2018-10-12T21:24:00+03:00">18:48</span></span></td>
+                <td class="views-field views-field-field-doc-till">20.01.2026</td>
+                <td class="views-field views-field-edit-node"></td>
+	</tr>
+		<tr class="odd" id="bx_3218110189_81054">
+				<td class="views-field pdf"></td>
+                <td class="views-field views-field-uri 81 big"><a href="/upload/iblock/98a/0420514.pdf" target="_blank">Расчет размера собственных средств на 30.11.2022</a></td>
+                <td class="views-field views-field-nothing"><span class="date"><span class="date-display-single" property="dc:date" datatype="xsd:dateTime" content="15.12.2022 10:58:00">15.12.2022</span></span> <span class="time"><span class="date-display-single" property="dc:date" datatype="xsd:dateTime" content="2018-10-12T21:24:00+03:00">10:58</span></span></td>
+                <td class="views-field views-field-field-doc-till">15.12.2025</td>
+                <td class="views-field views-field-edit-node"></td>
+	</tr>
+		<tr class="odd" id="bx_3218110189_80625">
+				<td class="views-field pdf"></td>
+                <td class="views-field views-field-uri 81 big"><a href="/upload/iblock/899/0420514.pdf" target="_blank">Расчет размера собственных средств на 31.10.2022</a></td>
+                <td class="views-field views-field-nothing"><span class="date"><span class="date-display-single" property="dc:date" datatype="xsd:dateTime" content="15.11.2022 20:23:00">15.11.2022</span></span> <span class="time"><span class="date-display-single" property="dc:date" datatype="xsd:dateTime" content="2018-10-12T21:24:00+03:00">20:23</span></span></td>
+                <td class="views-field views-field-field-doc-till">15.11.2025</td>
+                <td class="views-field views-field-edit-node"></td>
+	</tr>
+		<tr class="odd" id="bx_3218110189_80588">
+				<td class="views-field pdf"></td>
+                <td class="views-field views-field-uri 81 big"><a href="/upload/iblock/f10/0420514.pdf" target="_blank">Расчет размера собственных средств на 30.09.2022</a></td>
+                <td class="views-field views-field-nothing"><span class="date"><span class="date-display-single" property="dc:date" datatype="xsd:dateTime" content="14.10.2022 18:33:00">14.10.2022</span></span> <span class="time"><span class="date-display-single" property="dc:date" datatype="xsd:dateTime" content="2018-10-12T21:24:00+03:00">18:33</span></span></td>
+                <td class="views-field views-field-field-doc-till">14.10.2025</td>
+                <td class="views-field views-field-edit-node"></td>
+	</tr>
+		<tr class="odd" id="bx_3218110189_79646">
+				<td class="views-field pdf"></td>
+                <td class="views-field views-field-uri 139 big"><a href="/upload/iblock/8b1/0420514-2022-09-14.pdf" target="_blank">Сообщение об обнаружении неточных сведений в раскрытой информации на 31.07.2022</a></td>
+                <td class="views-field views-field-nothing"><span class="date"><span class="date-display-single" property="dc:date" datatype="xsd:dateTime" content="14.09.2022 20:27:00">14.09.2022</span></span> <span class="time"><span class="date-display-single" property="dc:date" datatype="xsd:dateTime" content="2018-10-12T21:24:00+03:00">20:27</span></span></td>
+                <td class="views-field views-field-field-doc-till">14.09.2025</td>
+                <td class="views-field views-field-edit-node"></td>
+	</tr>
+		<tr class="odd" id="bx_3218110189_79643">
+				<td class="views-field pdf"></td>
+                <td class="views-field views-field-uri 104 big"><a href="/upload/iblock/676/0420514_1.pdf" target="_blank">Расчет размера собственных средств на 31.07.2022 (уточненный)</a></td>
+                <td class="views-field views-field-nothing"><span class="date"><span class="date-display-single" property="dc:date" datatype="xsd:dateTime" content="14.09.2022 17:26:00">14.09.2022</span></span> <span class="time"><span class="date-display-single" property="dc:date" datatype="xsd:dateTime" content="2018-10-12T21:24:00+03:00">17:26</span></span></td>
+                <td class="views-field views-field-field-doc-till">14.09.2025</td>
+                <td class="views-field views-field-edit-node"></td>
+	</tr>
+		<tr class="odd" id="bx_3218110189_79639">
+				<td class="views-field pdf"></td>
+                <td class="views-field views-field-uri 81 big"><a href="/upload/iblock/6b1/0420514.pdf" target="_blank">Расчет размера собственных средств на 31.08.2022</a></td>
+                <td class="views-field views-field-nothing"><span class="date"><span class="date-display-single" property="dc:date" datatype="xsd:dateTime" content="14.09.2022 17:16:00">14.09.2022</span></span> <span class="time"><span class="date-display-single" property="dc:date" datatype="xsd:dateTime" content="2018-10-12T21:24:00+03:00">17:16</span></span></td>
+                <td class="views-field views-field-field-doc-till">14.09.2025</td>
+                <td class="views-field views-field-edit-node"></td>
+	</tr>
+		<tr class="odd" id="bx_3218110189_79142">
+				<td class="views-field pdf"></td>
+                <td class="views-field views-field-uri 81 big"><a href="/upload/iblock/66f/0420514.pdf" target="_blank">Расчет размера собственных средств на 31.07.2022</a></td>
+                <td class="views-field views-field-nothing"><span class="date"><span class="date-display-single" property="dc:date" datatype="xsd:dateTime" content="15.08.2022 12:51:00">15.08.2022</span></span> <span class="time"><span class="date-display-single" property="dc:date" datatype="xsd:dateTime" content="2018-10-12T21:24:00+03:00">12:51</span></span></td>
+                <td class="views-field views-field-field-doc-till">15.08.2025</td>
+                <td class="views-field views-field-edit-node"></td>
+	</tr>
+
+            </tbody>
+          </div></div></div></div><div class="simplebar-placeholder" style="width: auto; height: 2174px;"></div></div><div class="simplebar-track simplebar-horizontal" style="visibility: hidden;"><div class="simplebar-scrollbar" style="width: 0px; display: none;"></div></div><div class="simplebar-track simplebar-vertical" style="visibility: hidden;"><div class="simplebar-scrollbar" style="height: 0px; display: none;"></div></div></table>
+        </div>
+         </div>
+        <div class="element-invisible">Страницы</div>
+        			
+        <div class="pagination-centered">
+          <div class="item-list">
+            <ul class="pagination pager">
+
+
+
+
+		
+	
+	
+					<li class="current first"><a href="">1</a></li>
+					
+					<li><a href="/info/company/raschet/?PAGEN_1=2">2</a></li>
+					
+					<li><a href="/info/company/raschet/?PAGEN_1=3">3</a></li>
+					
+					<li><a href="/info/company/raschet/?PAGEN_1=4">4</a></li>
+					
+					<li><a href="/info/company/raschet/?PAGEN_1=5">5</a></li>
+					
+			<li><a href="/info/company/raschet/?PAGEN_1=2">следующая ›</a></li>
+		<li><a href="/info/company/raschet/?PAGEN_1=5">последняя »</a></li>
+	
+
+
+
+            </ul>
+          </div>
+        </div>		
+        <div class="view-footer">
+          <p><span style="font-size:11px;">Период актуальности раскрываемой информации: с даты её раскрытия по настоящее время, если не указано иное.</span></p>
+                  </div>
+      </section></div>
+    
+
+
+
+
+
+
+
+ <!--/.l-main region -->
+ <aside role="complementary" class="medium-4 medium-pull-8 sidebar-first columns sidebar">
+    <section class="block block-menu-block block-menu-block-1 clearfix">
+      <div class="menu-block-wrapper menu-block-1 menu-name-main-menu parent-mlid-0 menu-level-3">
+        <ul class="menu">
+						                					                        <li class="first expanded  bigmenu active-trail active">
+                          <a class="">Управляющая компания</a>
+                          <ul class="menu" style="display:block">
+                                 							                               		<li class="leaf "><a class="" href="/info/company/info">Контакты и реквизиты</a></li>
+                                   							                               		<li class="leaf "><a class="" href="/info/company/lisence">Информация о лицензиях</a></li>
+                                   							                               		<li class="leaf active-trail active"><a class="active-trail active" href="/info/company/raschet/">Расчет размера собственных средств</a></li>
+                                   							                               		<li class="leaf "><a class="" href="/info/company/finance-report/">Финансовая отчетность</a></li>
+                                   							                               		<li class="leaf "><a class="" href="/info/company/edo/">ЭДО</a></li>
+                                   							                               		<li class="leaf "><a class="" href="/info/company/doсs/">Документы</a></li>
+                                   							                               		<li class="leaf "><a class="" href="/info/company/partners/">Филиальная сеть и партнеры</a></li>
+                                   							                               		<li class="leaf "><a class="" href="/info/company/moreinfo/">Дополнительная информация</a></li>
+                     </ul>              							                					                        </li><li class="first   bigmenu active-trail active">
+                          <a class="">ИПИФ рыночных финансовых инструментов «КОНСЕРВАТОРия»</a>
+                          <ul class="menu">
+                                 							                               		<li class="leaf "><a class="" href="/info/pif/docs/">Документы</a></li>
+                                   							                               		<li class="leaf "><a class="" href="/info/pif/reports/">Отчетность</a></li>
+                                   							                               		<li class="leaf "><a class="" href="/info/pif/news/">Информационные сообщения</a></li>
+                     </ul>              							                					                   		</li><li class="leaf"><a href="/info/peramo-industry/">ЗПИФ комбинированный «ПЕРАМО-Индустрия»</a>
+                                 							                					                   		</li><li class="leaf"><a href="/info/arun-capital/">ЗПИФ комбинированный «АРУН-КАПИТАЛ»</a>
+                                 							                					                   		</li><li class="leaf"><a href="/info/trust-management/">Доверительное управление</a>
+                                 				                  </li></ul>
+                </div>
+              </section></aside></main></div>
+            
+          
+        
+
+    
+  
+
+
+
+
+  <!--.l-footer -->
+
+  <footer class="footer" role="contentinfo">
+    <div class="row">
+      <div class="large-12 columns">
+        <div class="footer-nav">
+                            <ul class="menu">
+			               		<li class="leaf"><a href="/trust-management/">ДОВЕРИТЕЛЬНОЕ УПРАВЛЕНИЕ</a></li>
+				               		<li class="leaf"><a href="/pif/">ПАЕВЫЕ ИНВЕСТИЦИОННЫЕ ФОНДЫ</a></li>
+				               		<li class="leaf"><a href="/individualnye-investicionnye-scheta/">ИНДИВИДУАЛЬНЫЕ ИНВЕСТИЦИОННЫЕ СЧЕТА</a></li>
+				               		<li class="leaf"><a href="/investicionnoe-konsultirovanie">ИНВЕСТИЦИОННОЕ КОНСУЛЬТИРОВАНИЕ</a></li>
+				               		<li class="leaf"><a href="/about/team/">О КОМПАНИИ<i class="hello"></i></a></li>
+				               		<li class="leaf"><a href="/info/company/info/">РАСКРЫТИЕ ИНФОРМАЦИИ</a></li>
+				               		<li class="leaf"><a href="/sitemap/">КАРТА САЙТА</a></li>
+				                  </ul>
+
+
+          <!--
+          <ul class="menu"><li class="first expanded"><a href="/about/team">О компании</a><ul class="menu"><li class="first leaf"><a href="/about/team">Мы в лицах</a></li>
+<li class="leaf"><a href="/about/intro">Обращение генерального директора</a></li>
+<li class="collapsed"><a href="/info/company/info">Раскрытие информации</a></li>
+<li class="last leaf"><a href="/info/contacts">Контакты</a></li>
+</ul></li>
+<li class="last expanded"><a href="/press-center/peramo-in-media">Пресс-центр</a><ul class="menu"><li class="first leaf"><a href="/press-center/pr-contacts">PR Контакты</a></li>
+<li class="leaf"><a href="/press-center/peramo-in-media">СМИ о нас</a></li>
+<li class="leaf"><a href="/press-center/news">Новости</a></li>
+<li class="last leaf"><a href="/press-center/mediakit">Медиакит</a></li>
+</ul></li>
+</ul>-->
+</div>
+</div>
+<div class="footer-first large-2 small-4 columns">
+  <section class="block block-block block-block-4">
+    <div id="logo"> <a href="/"> <img class="footer-logo" src="/local/templates/peramo/sites/all/themes/peramo/img/logo_footer.png" alt="Home"> </a> </div>
+  </section>
+</div>
+<div class="footer-second medium-12 small-8 columns">
+  <section class="block block-block block-block-6">
+    <div class="row collapse">
+      <div class="large-3 small-7 medium-4 contacts columns">
+        <div class="block">
+          <ul class="ph">
+
+            <li><a href="tel:+74959611773">&nbsp;+7&nbsp;(495)&nbsp;961&nbsp;17&nbsp;73</a></li>
+<li><a href="tel:+74955098242">&nbsp;+7&nbsp;(495)&nbsp;509&nbsp;82&nbsp;42</a></li>
+<li><a href="tel:+74955098241">&nbsp;+7&nbsp;(495)&nbsp;509&nbsp;82&nbsp;41</a></li>
+<li><a href="tel:+74955098244">&nbsp;+7&nbsp;(495)&nbsp;509&nbsp;82&nbsp;44</a></li>
+<li><a href="tel:+78007002840">&nbsp;+7&nbsp;(800)&nbsp;700&nbsp;28&nbsp;40</a></li>
+
+            </ul>
+          </div>
+        </div>
+        <div class="footer-info large-6 small-5 medium-8 columns">
+          <div class="block">
+            <p class="loc">
+ <i class="fa fa-map-marker" aria-hidden="true"></i> 123100, г. Москва, Краснопресненская наб., д.8, <br>этаж 8, помещения 1-9
+</p>
+<p class="mail">
+ <i class="fa fa-envelope" aria-hidden="true"></i> <a href="mailto: info@peramo.ru">info@peramo.ru</a>
+</p>
+            </div>
+            <div class="block">
+              <p><span>Время работы: <br class="d-none"></span> пн. – пт. с 10:00 до 19:00 (без перерыва)</p>
+<p><span>Выходные:</span> суббота, воскресенье</p>
+              </div>
+            </div>
+            <div class="large-3 small-12 medium-12 columns">
+              <button type="button" class="subscribe-button js-subscribe-trigger desktop">Подписаться на рассылку</button>
+            </div>
+          </div></section>
+        </div>
+        <div class="clearfix"></div>
+        <div class="l-footer">
+          <section class="block block-block block-block-5">
+            <div class="small-12 columns show-for-small-only mobb">
+              <div class="block">
+                <p class="loc">
+ <i class="fa fa-map-marker" aria-hidden="true"></i> 123100, г. Москва, Краснопресненская наб., д.8, <br>этаж 8, помещения 1-9
+</p>
+<p class="mail">
+ <i class="fa fa-envelope" aria-hidden="true"></i> <a href="mailto: info@peramo.ru">info@peramo.ru</a>
+</p>
+                </div>
+              </div>
+              <button type="button" class="subscribe-button js-subscribe-trigger mobile">Подписаться на рассылку</button>
+              <div style="text-align: justify;">
+                <p>Общество с ограниченной ответственностью «ПЕРАМО ИНВЕСТ»</p>
+<p>Лицензия ФСФР России №21-000-1-00692 от 26.01.10г. на осуществление деятельности по управлению инвестиционными фондами, паевыми инвестиционными фондами и негосударственными пенсионными фондами (бессрочная).<br>
+            Лицензия ФСФР России №045-13677-001000 от 31.05.12г. профессионального участника рынка ценных бумаг на осуществление деятельности по управлению ценными бумагами (бессрочная).</p>
+<p>В связи с совмещением различных видов деятельности существует риск возникновения конфликта интересов.</p>
+<p>Интервальный паевой инвестиционный фонд рыночных финансовых инструментов «КОНСЕРВАТОРия» (Правила доверительного управления зарегистрированы ФСФР России 09 декабря 2010 г. за № 2006-94172747).</p>
+<p>Получить подробную информацию о паевых инвестиционных фондах и ознакомиться с правилами доверительного управления фондов, а также иными документами, предусмотренными Федеральным законом РФ от 29.11.2001 № 156-ФЗ «Об инвестиционных фондах», можно по адресу: 123100, г. Москва, Краснопресненская наб., д.8, этаж 8, помещения 1-9 или по телефону: (495) 961-17-73, либо на сайте <a href="http://www.peramo.ru/">http://www.peramo.ru/</a></p>
+<p>Информация, связанная с деятельностью управляющей компании ООО «ПЕРАМО ИНВЕСТ», предоставляется по адресам: 123100, г. Москва, Краснопресненская наб., д.8, этаж 8, помещения 1-9, по телефону: + 7 (495) 961-17-73, или в сети Интернет по адресу: <a href="http://www.peramo.ru/">http://www.peramo.ru/</a></p>
+<!--<p  >Информация, связанная с деятельностью управляющей компании ООО «ПЕРАМО ИНВЕСТ», публикуется в «Приложении к Вестнику ФСФР», а также предоставляется по адресам: 123100, г. Москва, Краснопресненская наб., д.8, этаж 8, помещения 1-9, по телефону: + 7 (495) 961-17-73, или в сети Интернет по адресу: <a href="http://www.peramo.ru/">http://www.peramo.ru/</a></p>-->
+<p>Стоимость инвестиционных паев может, как увеличиваться, так и уменьшаться. Результаты инвестирования в прошлом не определяют доходы в будущем. Государство не гарантирует доходность инвестиций в паевые инвестиционные фонды. Прежде чем приобрести инвестиционный пай, следует внимательно ознакомиться с Правилами доверительного управления Фондом.</p>                </div></section>
+                <section class="block block-block block-block-13">
+                </section>
+              </div>
+            </div>
+
+                          <div class="cookies-warning js-cookies-warning active">
+                <div class="inner">
+                  <div class="text">
+                    <p>Продолжая использовать этот сайт, вы даете согласие на обработку файлов cookie и пользовательских данных.</p>
+                    <p><a href="/upload/iblock/2ab/Polozenie_21-05-19.pdf" target="_blank">Положение о порядке обработки и защиты персональных данных клиентов</a></p>
+                  </div>
+                  <button type="button" data-type="agree" class="accept-button">Подтвердить</button>
+                </div>
+              </div>
+                      </footer>
+          <!--/.l-footer -->
+
+        
+        
+        <script>jQuery.extend(Drupal.settings, {"basePath":"\/","pathPrefix":"","ajaxPageState":{"theme":"peramo","theme_token":"S0658lXR1UfFvIT0aL3NSNog9QXXXse8QYcieOlTnDM","js":{"sites\/all\/modules\/jquery_update\/replace\/jquery\/1.7\/jquery.min.js":1,"misc\/jquery.once.js":1,"misc\/drupal.js":1,"sites\/all\/libraries\/slick\/slick\/slick.min.js":1,"public:\/\/languages\/ru_80P7VdY-kalhZoOH6OSf9im3J6beOSHdN5cOz07silI.js":1,"sites\/all\/libraries\/colorbox\/jquery.colorbox-min.js":1,"sites\/all\/modules\/colorbox\/js\/colorbox.js":1,"sites\/all\/modules\/colorbox\/styles\/default\/colorbox_style.js":1,"sites\/all\/modules\/slick\/js\/slick.load.min.js":1,"sites\/all\/themes\/zurb_foundation\/js\/vendor\/modernizr.js":1,"sites\/all\/themes\/peramo\/js\/foundation.min.js":1,"sites\/all\/themes\/peramo\/js\/libs.min.js":1,"sites\/all\/themes\/peramo\/js\/slick.min.js":1,"sites\/all\/themes\/peramo\/js\/script.js":1,"sites\/all\/themes\/peramo\/js\/app.min.js":1},"css":{"modules\/system\/system.base.css":1,"modules\/system\/system.messages.css":1,"modules\/system\/system.theme.css":1,"sites\/all\/libraries\/slick\/slick\/slick.css":1,"sites\/all\/modules\/date\/date_api\/date.css":1,"sites\/all\/modules\/date\/date_popup\/themes\/datepicker.1.7.css":1,"modules\/field\/theme\/field.css":1,"modules\/node\/node.css":1,"modules\/search\/search.css":1,"modules\/user\/user.css":1,"sites\/all\/modules\/views\/css\/views.css":1,"sites\/all\/libraries\/slick\/slick\/slick-theme.css":1,"sites\/all\/modules\/slick\/css\/theme\/slick.theme.css":1,"sites\/all\/modules\/slick\/css\/theme\/slick.theme--default.css":1,"sites\/all\/modules\/colorbox\/styles\/default\/colorbox_style.css":1,"sites\/all\/modules\/ctools\/css\/ctools.css":1,"sites\/all\/libraries\/fontawesome\/css\/font-awesome.css":1,"sites\/all\/themes\/peramo\/css\/normalize.css":1,"sites\/all\/themes\/peramo\/css\/foundation.min.css":1,"sites\/all\/themes\/peramo\/css\/STARTER.css":1,"sites\/all\/themes\/peramo\/css\/slick.css":1,"sites\/all\/themes\/peramo\/css\/slick-theme.css":1,"sites\/all\/themes\/peramo\/css\/style.css":1,"sites\/all\/themes\/peramo\/css\/custom.css":1}},"colorbox":{"opacity":"0.85","current":"{current} \u0438\u0437 {total}","previous":"\u00ab \u041f\u0440\u0435\u0434\u044b\u0434\u0443\u0449\u0438\u0439","next":"\u0421\u043b\u0435\u0434\u0443\u044e\u0449\u0438\u0439 \u00bb","close":"\u0417\u0430\u043a\u0440\u044b\u0442\u044c","maxWidth":"98%","maxHeight":"98%","fixed":true,"mobiledetect":true,"mobiledevicewidth":"480px"},"slick":{"accessibility":true,"adaptiveHeight":false,"autoplay":false,"autoplaySpeed":3000,"pauseOnHover":true,"pauseOnDotsHover":false,"arrows":true,"centerMode":false,"centerPadding":"50px","dots":false,"dotsClass":"slick-dots","draggable":true,"fade":false,"focusOnSelect":false,"infinite":true,"initialSlide":0,"lazyLoad":"ondemand","rtl":false,"rows":1,"slidesPerRow":1,"slide":"","slidesToShow":1,"slidesToScroll":1,"speed":500,"swipe":true,"swipeToSlide":false,"edgeFriction":0.35,"touchMove":true,"touchThreshold":5,"useCSS":true,"cssEase":"ease","useTransform":false,"easing":"linear","variableWidth":false,"vertical":false,"verticalSwiping":false,"waitForAnimate":true,"mousewheel":false}});</script>
+                <!-- Yandex.Metrika counter -->
+        <script type="text/javascript">
+          (function (d, w, c) {
+            (w[c] = w[c] || []).push(function() {
+              try {
+                w.yaCounter37488545 = new Ya.Metrika({
+                  id:37488545,
+                  clickmap:true,
+                  trackLinks:true,
+                  accurateTrackBounce:true,
+                  webvisor:true
+                });
+              } catch(e) { }
+            });
+
+            var n = d.getElementsByTagName("script")[0],
+            s = d.createElement("script"),
+            f = function () { n.parentNode.insertBefore(s, n); };
+            s.type = "text/javascript";
+            s.async = true;
+            s.src = "https://mc.yandex.ru/metrika/watch.js";
+
+            if (w.opera == "[object Opera]") {
+              d.addEventListener("DOMContentLoaded", f, false);
+            } else { f(); }
+          })(document, window, "yandex_metrika_callbacks");
+        </script>
+        <noscript>
+          <div><img src="https://mc.yandex.ru/watch/37488545" style="position:absolute; left:-9999px;" alt="" /></div>
+        </noscript>
+        <!-- /Yandex.Metrika counter -->
+        <script>
+          (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+            (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+            m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+          })(window,document,'script','https://www.google-analytics.com/analytics.js','ga');
+
+          ga('create', 'UA-78128922-1', 'auto');
+          ga('send', 'pageview');
+
+        </script>
+<script>
+  var user = navigator.userAgent;
+                    let edge = user.match(/Edge/) || 0;
+                    let ie = user.match(/Trident/) || 0;
+                    let fx = user.match(/rv/) || 0;
+							function get_cookie ( cookie_name )
+								{
+								  var results = document.cookie.match ( '(^|;) ?' + cookie_name + '=([^;]*)(;|$)' );
+
+								  if ( results )
+									return ( unescape ( results[2] ) );
+								  else
+									return null;
+								}
+							var x = get_cookie ( "ie" );
+					if (edge.length != 1 && ie.length == 1 &&  x!=1) {
+							 alert("ВНИМАНИЕ! Работа сайта не поддерживается в браузере Internet Explorer. Для корректной работы сайта рекомендуем воспользоваться другим браузером.");
+
+						document.cookie = "ie=1";
+
+
+
+					}
+
+</script>
+
+    <!--     <script type="text/javascript">
+          let news = document.querySelector('div.main_index');
+          let sliderWrap = document.createElement('div');
+          sliderWrap.setAttribute('sliderwrap', '');
+          sliderWrap.innerHTML = '<div></div><div></div><div></div>';
+          news.parentNode.insertBefore(sliderWrap, news);
+
+          // setTimeout(function(){
+          //   let bullets = document.querySelector('div.ms-bullets');
+          //   console.log(bullets);
+          //   document.querySelector('div[sliderwrap] > div:nth-child(2)').innerHTML = bullets.cloneNode(true);
+          // }, 1000)
+
+        </script>
+ -->
+<!-- Yandex.Metrika counter -->
+<script type="text/javascript">
+   (function(m,e,t,r,i,k,a){m[i]=m[i]||function(){(m[i].a=m[i].a||[]).push(arguments)};
+   m[i].l=1*new Date();k=e.createElement(t),a=e.getElementsByTagName(t)[0],k.async=1,k.src=r,a.parentNode.insertBefore(k,a)})
+   (window, document, "script", "https://mc.yandex.ru/metrika/tag.js", "ym");
+
+   ym(37488545, "init", {
+        clickmap:true,
+        trackLinks:true,
+        accurateTrackBounce:true
+   });
+</script>
+<noscript><div><img src="https://mc.yandex.ru/watch/37488545" style="position:absolute; left:-9999px;" alt="" /></div></noscript>
+<!-- /Yandex.Metrika counter -->
+
+
+      
+      
+<div class="first-page-popup"><div class="close-btn"><svg width="30" height="30" viewBox="0 0 30 30" fill="none" xmlns="http://www.w3.org/2000/svg"><path fill-rule="evenodd" clip-rule="evenodd" d="M15.0074 13.8907L11.1106 10L9.99951 11.1094L13.8962 15.0001L9.99978 18.8906L11.1109 20L15.0074 16.1095L18.8884 19.9846L19.9995 18.8752L16.1185 15.0001L19.9998 11.1248L18.8887 10.0154L15.0074 13.8907Z" fill="#FFFEFE"></path></svg></div><div class="popup-content"><a href="/press-center/news/81437/"><svg width="24" height="24" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg"><path d="M11.9991 0C5.37367 0 0 5.37524 0 11.9983C0 18.6233 5.37367 24 11.9991 24C18.6292 24 24 18.6233 24 11.9983C23.9998 5.37524 18.6292 0 11.9991 0ZM13.4431 18.1972C13.4431 18.994 12.7974 19.6397 11.9991 19.6397C11.2022 19.6397 10.5582 18.994 10.5582 18.1972V10.7877C10.5582 9.99091 11.2022 9.34378 11.9991 9.34378C12.7976 9.34378 13.4431 9.99091 13.4431 10.7877V18.1972ZM11.9991 7.92661C11.0151 7.92661 10.2173 7.12811 10.2173 6.14107C10.2173 5.16102 11.0141 4.3627 11.9991 4.3627C12.9847 4.3627 13.7847 5.16121 13.7847 6.14107C13.7847 7.12829 12.9847 7.92661 11.9991 7.92661Z" fill="#D1AE6C"></path></svg><p>Уважаемые клиенты и посетители сайта!</p><p>Доводим до вашего сведения, что выявлены случаи мошенничества по телефону от имени компании "PERAMO INVEST".</p><p>Просим вас быть бдительными и в случае возникновения подозрений (в том числе если определился наш официальный номер) убедиться в подлинности предложения.</p><p>Мы не присылаем реквизиты для перевода средств в почту, вотсап и иные мессенджеры. Все процессы в нашей компании автоматизированы и проходят исключительно онлайн через кабинет клиента.</p></a></div></div>

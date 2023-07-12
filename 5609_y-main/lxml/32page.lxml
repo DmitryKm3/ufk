@@ -1,0 +1,1041 @@
+<button type="button" class="mobile-nav-toggle d-lg-none"><i class="bx bx-menu"></i></button>
+
+  <!-- ======= Header ======= -->
+  <header id="header" class="fixed-top ">
+    <div class="container">
+
+      <div class="logo float-left">
+        <h1 class="text-light"><a href="index.html"><span>СМАРТС-ИНВЕСТ</span></a></h1>
+        <!-- Uncomment below if you prefer to use an image logo -->
+        <!-- <a href="index.html"><img src="assets/img/logo.png" alt="" class="img-fluid"></a>-->
+      </div>
+
+      <nav class="nav-menu float-right d-none d-lg-block">
+        <ul>
+          <li><a href="index.html">Главная</a></li>
+          <li><a href="about.html">О компании</a></li>
+          <li><a href="services.html">Паевые фонды</a></li>
+          <li><a href="portfolio.html">Аналитика</a></li>
+          <li class="active"><a href="team.html">Раскрытие информации</a></li>
+		  <!-- 
+          <li><a href="blog.html">Blog</a></li>
+          <li class="drop-down"><a href="">Drop Down</a>
+            <ul>
+              <li><a href="#">Drop Down 1</a></li>
+              <li class="drop-down"><a href="#">Drop Down 2</a>
+                <ul>
+                  <li><a href="#">Deep Drop Down 1</a></li>
+                  <li><a href="#">Deep Drop Down 2</a></li>
+                  <li><a href="#">Deep Drop Down 3</a></li>
+                  <li><a href="#">Deep Drop Down 4</a></li>
+                  <li><a href="#">Deep Drop Down 5</a></li>
+                </ul>
+              </li>
+              <li><a href="#">Drop Down 3</a></li>
+              <li><a href="#">Drop Down 4</a></li>
+              <li><a href="#">Drop Down 5</a></li>
+            </ul>
+          </li>-->
+          <li><a href="contact.html">Контакты</a></li>
+        </ul>
+      </nav><!-- .nav-menu -->
+
+    </div>
+  </header><!-- End Header -->
+
+  <main id="main">
+
+    <!-- ======= Our Team Section ======= -->
+    <section class="breadcrumbs">
+      <div class="container">
+
+        <div class="d-flex justify-content-between align-items-center">
+          <h2>Раскрытие информации</h2>
+          <ol>
+            <li><a href="index.html">Главная</a></li>
+            <li>Раскрытие информации</li>
+          </ol>
+        </div>
+
+      </div>
+    </section><!-- End Our Team Section -->
+
+    <!-- ======= Team Section ======= -->
+    <section class="team aos-init aos-animate" data-aos="fade-up" data-aos-easing="ease-in-out" data-aos-duration="500">
+      <div class="container">
+
+        <div class="row2">
+			<h5>Общая информация</h5>
+			<p>Полное и сокращенное фирменное наименование профессионального участника рынка ценных бумаг, в том числе на иностранном языке - ОБЩЕСТВО С ОГРАНИЧЕННОЙ ОТВЕТСТВЕННОСТЬЮ "УПРАВЛЯЮЩАЯ КОМПАНИЯ "СМАРТС-ИНВЕСТ"; </p>
+     		<p>ООО УК "СМАРТС-ИНВЕСТ"; "SMARTS-INVEST Asset Management Limited Liability Company";</p>
+			<p>“SMARTS-INVEST Asset Management LLC”</p>
+			<p>Идентификационный номер налогоплательщика – 6317149307</p>
+			<p>Юридический адрес – 443013, Самарская область, город Самара, улица Дачная, дом 2, корпус 2, офис 624</p>
+                        <p>Номер и дата выдачи лицензии управляющей компании: 21-000-1-01045 от 08.04.2021 г.</p>
+                        <p>Основной государственный регистрационный номер (ОГРН): 1206300052342</p>
+                        <p>адрес сайта <a href="http://smarts-invest.ru">http://smarts-invest.ru</a></p>
+			<p>Телефон – +7(846)231-17-80</p>
+			<p>Электронная почта – Shutsky@smarts.ru</p>
+			<p>Генеральный директор – Щуцкий Алексей Вадимович</p>
+		</div>
+		<div class="row">
+			<h5>Электронные копии лицензий</h5>
+			<table border="0">
+			<tbody><tr>
+				<th>
+					<b>
+					
+					</b>
+				</th>
+				
+				<th width="5%">
+					<b>
+					файл
+					</b>
+				</th>
+				<th>
+					<b>
+					 Дата публикации
+					</b>
+				</th>
+				<th>
+					<b>
+					Период актуальности
+					</b>
+				</th>
+			</tr>
+			<tr>
+			<td>
+			На осуществление деятельности по управлению инвестиционными фондами, паевыми инвестиционными фондами и негосударственными пенсионными фондами
+			</td>
+			<td><a href="files/licenziay.pdf">
+			<img align="middle" border="0" src="files/pdf.png"></a>
+				615&nbsp;Кб
+			</td>
+			<td>22.04.2021 13:40</td>
+			<td>по настоящее время</td>
+			</tr>
+			</tbody></table>
+		</div>
+		<div class="row">
+			<h5>Информация о приостановлении действия лицензий</h5>
+		</div>
+		<div class="row">
+			<h5>Участие в СРО</h5>
+			<table>
+			<tbody><tr>
+				<th>
+					<b>
+					
+					</b>
+				</th>
+				<th>
+					<b>
+					
+					</b>
+				</th>
+				<th width="5%">
+					<b>
+					файл
+					</b>
+				</th>
+				<th "="">
+					<b>
+					 Дата публикации
+					</b>
+				</th>
+				<th>
+					<b>
+					Период актуальности
+					</b>
+				</th>
+			</tr>
+			<tr>
+			<td>
+			Информация о членстве в саморегулируемых организациях (СРО) 
+			</td>
+			<td>ООО УК «СМАРТС-ИНВЕСТ» является членом Национальной ассоциации участников фондового рынка (НАУФОР)</td>
+			<td><a href="#">
+			<!--<img align="middle" border="0" src="#"></a>-->
+				
+			</a></td>
+			<td>19.05.2021 08:00</td>
+			<td>по настоящее время</td>
+			</tr>
+			<tr>
+			<td>
+			Информация о стандартах СРО, которыми руководствуется в своей деятельности ООО УК «СМАРТС-ИНВЕСТ»
+			</td>
+			<td><a href="http://naufor.ru/tree.asp?n=12233">http://naufor.ru/tree.asp?n=12233 </a></td>
+			<td><a href="#">
+			<!--<img align="middle" border="0" src="#"></a>-->
+				
+			</a></td>
+			<td>19.05.2021 08:00</td>
+			<td>по настоящее время</td>
+			</tr>
+			</tbody></table>
+		</div>
+                <div class="row">
+                        <h5>Квалифицированные инвесторы</h5>
+                        <table width="100%" border="0">
+                        <tbody><tr>
+                                <th>
+                                        <b>
+
+                                        </b>
+                                </th>
+
+                                <th width="5%">
+                                        <b>
+                                        файл
+                                        </b>
+                                </th>
+                                <th>
+                                        <b>
+                                         Дата публикации
+                                        </b>
+                                </th>
+                                <th>
+                                        <b>
+                                        Период актуальности
+                                        </b>
+                                </th>
+                        </tr>
+                        <tr>
+                        <td>
+                        Регламент признания лица квалифицированным инвестором
+                        </td>
+                        <td><a href="files/kval.pdf">
+                        <img align="middle" border="0" src="files/pdf.png"></a>
+                                615&nbsp;Кб
+                        </td>
+                        <td>25.07.2022</td>
+                        <td>по настоящее время</td>
+                        </tr>
+                        </tbody></table>
+                </div>
+
+		<div class="row">
+			<h5>Отчетность</h5>
+		</div>
+		<div class="row">
+			<h5>Расчет собственных средств</h5>
+			<table border="0">
+			<tbody><tr>
+				<th>
+					<b>
+					
+					</b>
+				</th>
+				<th width="5%">
+					<b>
+					файл
+					</b>
+				</th>
+				<th>
+					<b>
+					 Дата публикации
+					</b>
+				</th>
+				<th>
+					<b>
+					Период актуальности
+					</b>
+				</th>
+			</tr>
+			<!-- -->
+			<!-- 
+			<tr>
+			<td>
+			Расчет размера собственных средств на 31.10.2021 &nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp
+
+
+			</td>
+			<td><a href="files/rachet_sredstv7.pdf">
+			<img align="middle" border="0" src="files/pdf.png"></a>
+				199&nbsp;Кб
+			</td>
+			<td>30.11.2021 11:05</td>
+			<td>до 31.12.2021</td>
+			</tr>
+			-->
+                            
+
+			<tr>
+                        <td>
+                        Расчет размера собственных средств на 31.05.2023
+                        </td>
+                        <td><a href="files/rachet_sredstv05_23.pdf">
+                        <img align="middle" border="0" src="files/pdf.png"></a>
+                                54&nbsp;Кб
+                        </td>
+                        <td>19.06.2023 14:27</td>
+                        <td>по настоящее время</td>
+
+			</tr><tr>
+                        <td>
+                        Расчет размера собственных средств на 30.04.2023
+                        </td>
+                        <td><a href="files/rachet_sredstv04_23.pdf">
+                        <img align="middle" border="0" src="files/pdf.png"></a>
+                                53,9&nbsp;Кб
+                        </td>
+                        <td>19.05.2023 14:14</td>
+                        <td>пo 19.06.2023</td>
+
+                        
+			</tr><tr>
+                        <td>
+                        Расчет размера собственных средств на 31.03.2023
+                        </td>
+                        <td><a href="files/rachet_sredstv03_23.pdf">
+                        <img align="middle" border="0" src="files/pdf.png"></a>
+                                54&nbsp;Кб
+                        </td>
+                        <td>14.04.2023 16:20</td>
+                        <td>до 19.05.2023</td>
+
+
+			</tr><tr>
+                        <td>
+                        Расчет размера собственных средств на 28.02.2023
+                        </td>
+                        <td><a href="files/rachet_sredstv02_23.pdf">
+                        <img align="middle" border="0" src="files/pdf.png"></a>
+                                52&nbsp;Кб
+                        </td>
+                        <td>16.03.2023 15:30</td>
+                        <td>до 14.04.2023</td>
+			
+			</tr><tr>
+                        <td>
+                        Расчет размера собственных средств на 31.01.2023
+                        </td>
+                        <td><a href="files/rachet_sredstv23_01.pdf">
+                        <img align="middle" border="0" src="files/pdf.png"></a>
+                                52&nbsp;Кб
+                        </td>
+                        <td>17.02.2023 13:00</td>
+                        <td>до 16.03.2023</td>
+
+                        </tr><tr>
+                        <td>
+                        Расчет размера собственных средств на 31.12.2022
+                        </td>
+                        <td><a href="files/rachet_sredstv22_12.pdf">
+                        <img align="middle" border="0" src="files/pdf.png"></a>
+                                52&nbsp;Кб
+                        </td>
+                        <td>24.01.2023 14:00</td>
+                        <td>до 17.02.2023</td>
+
+                        </tr><tr>
+                        <td>
+                        Расчет размера собственных средств на 30.11.2022
+                        </td>
+                        <td><a href="files/rachet_sredstv22_11.pdf">
+                        <img align="middle" border="0" src="files/pdf.png"></a>
+                                872&nbsp;Кб
+                        </td>
+                        <td>15.12.2022 14:00</td>
+                        <td>до 24.01.2023</td>
+
+                        </tr><tr>
+                        <td>
+                        Расчет размера собственных средств на 31.10.2022
+                        </td>
+                        <td><a href="files/rachet_sredstv22_10.pdf">
+                        <img align="middle" border="0" src="files/pdf.png"></a>
+                                37&nbsp;Кб
+                        </td>
+                        <td>17.11.2022 14:00</td>
+                        <td>до 15.12.2022</td>
+
+                        </tr><tr>
+                        <td>
+                        Расчет размера собственных средств на 30.09.2022
+                        </td>
+                        <td><a href="files/rachet_sredstv22_09.pdf">
+                        <img align="middle" border="0" src="files/pdf.png"></a>
+                                808&nbsp;Кб
+                        </td>
+                        <td>18.10.2022 08:00</td>
+                        <td>до 17.11.2022</td>
+
+                        </tr><tr>
+                        <td>
+                        Расчет размера собственных средств на 31.08.2022
+                        </td>
+                        <td><a href="files/rachet_sredstv22_08.pdf">
+                        <img align="middle" border="0" src="files/pdf.png"></a>
+                                891&nbsp;Кб
+                        </td>
+                        <td>13.09.2022 08:00</td>
+                        <td>до 18.10.2022</td>
+
+                        </tr><tr>
+                        <td>
+                        Расчет размера собственных средств на 31.07.2022
+                        </td>
+                        <td><a href="files/rachet_sredstv22_07.pdf">
+                        <img align="middle" border="0" src="files/pdf.png"></a>
+                                618&nbsp;Кб
+                        </td>
+                        <td>16.08.2022 08:30</td>
+                        <td>до 13.09.2022</td>
+
+                        </tr><tr>
+                        <td>
+                        Расчет размера собственных средств на 30.06.2022
+                        </td>
+                        <td><a href="files/rachet_sredstv22_06.pdf">
+                        <img align="middle" border="0" src="files/pdf.png"></a>
+                                199&nbsp;Кб
+                        </td>
+                        <td>18.07.2022 13:30</td>
+                        <td>до 16.08.2022</td>
+
+                        </tr><tr>
+                        <td>
+                        Расчет размера собственных средств на 31.05.2022
+                        </td>
+                        <td><a href="files/rachet_sredstv22_05.pdf">
+                        <img align="middle" border="0" src="files/pdf.png"></a>
+                                199&nbsp;Кб
+                        </td>
+                        <td>17.06.2022 13:30</td>
+                        <td>до 18.07.2022</td>                        
+
+
+                        <!-- cor -->
+                        </tr><tr>
+                        <td>
+                        Расчет размера собственных средств на 30.04.2022
+                        </td>
+                        <td><a href="files/rachet_sredstv22_04.pdf">
+                        <img align="middle" border="0" src="files/pdf.png"></a>
+                                199&nbsp;Кб
+                        </td>
+                        <td>20.05.2022 11:20</td>
+                        <td>до 17.06.2022</td>
+                        <!--end cor -->
+
+       
+
+                        <!-- cor -->
+                        </tr><tr>
+                        <td>
+                        Расчет размера собственных средств на 31.03.2022
+                        </td>
+                        <td><a href="files/rachet_sredstv22_03.pdf">
+                        <img align="middle" border="0" src="files/pdf.png"></a>
+                                199&nbsp;Кб
+                        </td>
+                        <td>15.04.2022 16:44</td>
+                        <td>до 20.05.2022</td>
+                        <!--end cor -->
+
+
+                        <!-- cor -->
+                        </tr><tr>
+                        <td>
+                        Расчет размера собственных средств на 28.02.2022
+                        </td>
+                        <td><a href="files/rachet_sredstv22_02.pdf">
+                        <img align="middle" border="0" src="files/pdf.png"></a>
+                                199&nbsp;Кб
+                        </td>
+                        <td>16.03.2022 19:18</td>
+                        <td>до 15.04.2022</td>
+                        <!--end cor -->
+
+                        
+                        <!-- cor -->
+                        </tr><tr>
+                        <td>
+                        Расчет размера собственных средств на 31.01.2022
+                        </td>
+                        <td><a href="files/rachet_sredstv22_01.pdf">
+                        <img align="middle" border="0" src="files/pdf.png"></a>
+                                199&nbsp;Кб
+                        </td>
+                        <td>15.02.2022 15:55</td>
+                        <td>до 16.03.2022</td>
+                        </tr>
+                        <!--end cor -->
+
+
+			<!-- cor -->
+                        <tr>
+                        <td>
+                        Расчет размера собственных средств на 31.12.2021
+                        </td>
+                        <td><a href="files/rachet_sredstv21_12.pdf">
+                        <img align="middle" border="0" src="files/pdf.png"></a>
+                                199&nbsp;Кб
+                        </td>
+                        <td>25.01.2022 15:15</td>
+                        <td>до 15.02.2202</td>
+                        <!--end cor -->
+
+                        
+			
+                        <!-- cor -->
+                        </tr><tr>
+                        <td>
+                        Расчет размера собственных средств на 30.09.2021, скорректированный
+                        </td>
+                        <td><a href="files/rachet_sredstv21_09_cor.pdf">
+                        <img align="middle" border="0" src="files/pdf.png"></a>
+                                199&nbsp;Кб
+                        </td>
+                        <td>15.12.2021 16:30</td>
+                        <td>до 23.11.2021</td>
+                        <!--end cor -->
+
+        
+                        </tr><tr>
+                        <td>
+                        Расчет размера собственных средств на 30.11.2021
+                        </td>
+                        <td><a href="files/rachet_sredstv21_11.pdf">
+                        <img align="middle" border="0" src="files/pdf.png"></a>
+                                199&nbsp;Кб
+                        </td>
+                        <td>15.12.2021 15:25</td>
+                        <td>до 25.01.2022</td>
+
+	
+                        </tr><tr>
+                        <td>
+                        Расчет размера собственных средств на 31.10.2021 
+                        </td>
+                        <td><a href="files/rachet_sredstv21_10.pdf">
+                        <img align="middle" border="0" src="files/pdf.png"></a>
+                                199&nbsp;Кб
+                        </td>
+                        <td>23.11.2021 12:05</td>
+                        <td>до 15.12.2021</td>
+                        
+         
+		
+			</tr><tr>
+			<td>
+			Расчет размера собственных средств на 30.09.2021 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+			</td>
+			<td><a href="files/rachet_sredstv21_09.pdf">
+			<img align="middle" border="0" src="files/pdf.png"></a>
+				199&nbsp;Кб
+			</td>
+			<td>18.10.2021 14:50</td>
+			<td>до 23.11.2021</td>
+			</tr>
+			
+			<!-- -->
+			
+			<!-- -->
+			 
+			<tr>
+			<td>
+			Расчет размера собственных средств на 31.08.2021 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+			</td>
+			<td><a href="files/rachet_sredstv21_08.pdf">
+			<img align="middle" border="0" src="files/pdf.png"></a>
+				199&nbsp;Кб
+			</td>
+			<td>30.09.2021 11:05</td>
+			<td>до 31.10.2021</td>
+			</tr>
+			
+			<!-- -->
+			
+			<!-- -->
+			<tr>
+			<td>
+			Расчет размера собственных средств на 31.07.2021 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+			</td>
+			<td><a href="files/rachet_sredstv21_07.pdf">
+			<img align="middle" border="0" src="files/pdf.png"></a>
+				199&nbsp;Кб
+			</td>
+			<td>31.08.2021 11:05</td>
+			<td>до 30.09.2021</td>
+			</tr>
+			<!-- -->
+			
+			
+			<!-- -->
+			<tr>
+			<td>
+			Расчет размера собственных средств на 30.06.2021 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+			</td>
+			<td><a href="files/rachet_sredstv21_06.pdf">
+			<img align="middle" border="0" src="files/pdf.png"></a>
+				208&nbsp;Кб
+			</td>
+			<td>30.07.2021 10:05</td>
+			<td>до 31.08.2021</td>
+			</tr>
+			<!-- -->
+			
+			<tr>
+			<td>
+			Расчет размера собственных средств на 31.05.2021 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+			</td>
+			<td><a href="files/rachet_sredstv21_05.pdf">
+			<img align="middle" border="0" src="files/pdf.png"></a>
+				215&nbsp;Кб
+			</td>
+			<td>28.06.2021 15:40</td>
+			<td>до 31.07.2021</td>
+			</tr>
+			
+			<tr>
+			<td>
+			Расчет размера собственных средств на 30.04.2021 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+			</td>
+			<td><a href="files/rachet_sredstv21_04.pdf">
+			<img align="middle" border="0" src="files/pdf.png"></a>
+				1071&nbsp;Кб
+			</td>
+			<td>24.05.2021 15:40</td>
+			<td>до 30.06.2021</td>
+			</tr>
+			
+			</tbody></table>
+		</div>
+		<br>
+		 <div class="row">
+                        <h5>Бухгалтерская (финансовая) отчетность</h5>
+                        <table border="0">
+                        <tbody><tr>
+                                <th>
+                                        <b>
+
+                                        </b>
+                                </th>
+                                <th width="5%">
+                                        <b>
+                                        Файл
+                                        </b>
+                                </th>
+                                <th>
+                                        <b>
+                                         Дата публикации
+                                        </b>
+                                </th>
+                                <th>
+                                        <b>
+                                        Период актуальности
+                                        </b>
+                                </th>
+                        </tr>
+                       
+
+
+			<tr>
+                        <td>
+                        Промежуточная бухгалтерская (финансовая) отчетность за 1 квартал 2023 года
+                        </td>
+                        <td><a href="files/otchet/otchet_kvart1_2023.pdf">
+                        <img align="middle" border="0" src="files/pdf.png"></a>
+                                197&nbsp;Кб
+                        </td>
+                        <td>04.05.2023</td>
+                        <td>по настоящее время</td>
+
+
+
+
+
+
+
+
+
+ 			</tr><tr>
+                        <td>
+                        Консолидированная финансовая отчетность за 2022 год, с аудиторским заключением    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+                        </td>
+                        <td><a href="files/otchet/konsolid_otchet_2022.pdf">
+                        <img align="middle" border="0" src="files/pdf.png"></a>
+                                39,9&nbsp;Мб
+                        </td>
+                        <td>04.05.2023</td>
+                        <td>по настоящее время</td>
+                        
+
+                        </tr><tr>
+                        <td>
+                        Бухгалтерская (финансовая) отчетность  за 2022 год, с аудиторским заключением    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+                        </td>
+                        <td><a href="files/otchet/otchet_2022.pdf">
+                        <img align="middle" border="0" src="files/pdf.png"></a>
+                                415&nbsp;Кб
+                        </td>
+                        <td>03.04.2023</td>
+                        <td>по настоящее время</td>
+                        
+                        </tr><tr>
+                        <td>
+                        Промежуточная бухгалтерская (финансовая) отчетность за 9 месяцев 2022 года
+                        </td>
+                        <td><a href="files/otchet/prom_otchet_9mes_2022.pdf">
+                        <img align="middle" border="0" src="files/pdf.png"></a>
+                                415&nbsp;Кб
+                        </td>
+                        <td>01.11.2022</td>
+                        <td>03.04.2023</td>
+                         
+                        </tr><tr>
+                        <td>
+                        Промежуточная бухгалтерская (финансовая) отчетность за 1 полугодие 2022 года
+                        </td>
+                        <td><a href="files/otchet/prom_otchet_1pol_2022.pdf">
+                        <img align="middle" border="0" src="files/pdf.png"></a>
+                                640&nbsp;Кб
+                        </td>
+                        <td>02.08.2022</td>
+                        <td>01.11.2022</td>
+                         
+
+                        </tr><tr>
+                        <td>
+                        Промежуточная бухгалтерская (финансовая) отчетность за 1 квартал 2022 года
+                        </td>
+                        <td><a href="files/otchet/otchet_kvart1_2021.pdf">
+                        <img align="middle" border="0" src="files/pdf.png"></a>
+                                199&nbsp;Кб
+                        </td>
+                        <td>11.05.2022</td>
+                        <td>02.08.2022</td>
+                         
+
+                        </tr><tr>
+                        <td>
+                        Консолидированная финансовая отчетность  за 2021 год, с аудиторским заключением
+                        </td>
+                        <td><a href="files/otchet/otchet_con_2021.pdf">
+                        <img align="middle" border="0" src="files/pdf.png"></a>
+                                199&nbsp;Кб
+                        </td>
+                        <td>04.05.2022</td>
+                        <td>04.05.2023</td>
+
+
+				
+			</tr><tr>
+                        <td>
+                        Бухгалтерская (финансовая) отчетность за 2021 год, с аудиторским заключением
+                        </td>
+                        <td><a href="files/otchet/otchet_2021.pdf">
+                        <img align="middle" border="0" src="files/pdf.png"></a>
+                                199&nbsp;Кб
+                        </td>
+                        <td>29.03.2022</td>
+                        <td>03.04.2023</td>
+
+
+                        </tr><tr>
+                        <td>
+                        Промежуточная бухгалтерская (финансовая) отчетность за 9 месяцев 2021 года
+                        </td>
+                        <td><a href="files/otchet/otchet_9.pdf">
+                        <img align="middle" border="0" src="files/pdf.png"></a>
+                                199&nbsp;Кб
+                        </td>
+                        <td>09.11.2021</td>
+                        <td>29.03.2022</td>
+                  </tr></tbody></table>
+                </div>
+                <br>
+                <!-- BEGIN Информационные сообщения -->
+                <div class="row">
+                        <h5>Информационные сообщения</h5>
+			<button class="accordion">Сообщение об обнаружении (выявлении) неточных, неполных и (или) недостоверных сведений в раскрываемой информации 16.12.2021</button>
+
+			<div class="panel">
+ 
+               			<span><strong>Сообщение размещается в связи с изменением (корректировкой) ранее размещенной информации в отношении Расчета ООО УК «СМАРТС-ИНВЕСТ» размера собственных средств на 30.09.2021 года:</strong></span>
+                               <ul>
+                               		<li><span>Ссылка на ранее размещенную информацию, которая изменяется (корректируется): </span><a href="https://smarts-invest.ru/files/rachet_sredstv9.pdf" target="_blank">Расчет размера собственных средств на 30.09.2021</a></li>
+                                        <li><span>Ссылка на измененную (скорректированную) информацию: </span><a href="https://smarts-invest.ru/files/rachet_sredstv9_cor.pdf" target="_blank">Расчет размера собственных средств на 30.09.2021 скорректированный</a><a></a></li><a>   
+			       </a></ul><a>
+                               <span><strong>Описание внесенных изменений (корректировок) в ранее размещенную информацию:</strong></span>
+                               <ul>
+                                        <li>18.10.2021 был опубликован расчет размера собственных средств по состоянию на 30.09.2021, размер собственных средств составил 21 979 510,49 рублей</li>
+                                        <li>15.12.2021 был опубликован скорректированный расчет размера собственных средств на 30.09.2021, размер собственных средств составил 21 968 641,49 рублей</li>
+                               </ul>
+ 
+			</a></div><a>		
+                </a></div><a>
+                <br>
+                <!-- END Информационные сообщения -->
+		
+		
+		<h5>Иное</h5>
+		<div class="row">
+			<table border="0">
+			<tbody><tr>
+				<th>
+					<b>
+					
+					</b>
+				</th>
+				<th width="5%">
+					<b>
+					файл
+					</b>
+				</th>
+				<th>
+					<b>
+					 Дата публикации
+					</b>
+				</th>
+				<th>
+					<b>
+					Период актуальности
+					</b>
+				</th>
+			</tr>
+			
+			<tr>                    
+			<td>
+			Положение об иностранных налогоплательщиках &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;                                                                             
+			</td>
+			<td><a href="files/Положение об иностранных налогоплательщиках.pdf">
+			<img align="middle" border="0" src="files/pdf.png"></a>
+				464&nbsp;Кб
+			</td>
+			<td>05.05.2023</td>
+			<td>по настоящее время</td>
+			</tr>
+		
+	
+			<tr>
+			<td>
+			Рекомендации по защите информации &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;                                                                             
+			</td>
+			<td><a href="files/zi2023.pdf">
+			<img align="middle" border="0" src="files/pdf.png"></a>
+				577&nbsp;Кб
+			</td>
+			<td>03.04.2023</td>
+			<td>по настоящее время</td>
+			</tr>
+
+
+				</tbody></table>
+		</div>
+		<br>
+
+		<div class="row">
+                      	<h5>Информация о структуре и составе участников ООО УК «СМАРТС-ИНВЕСТ»</h5>
+			<table border="0">
+			<tbody><tr>
+				<th>
+					<b>
+					
+					</b>
+				</th>
+				<th width="5%">
+					<b>
+					файл
+					</b>
+				</th>
+				<th>
+					<b>
+					 Дата публикации
+					</b>
+				</th>
+				<th>
+					<b>
+					Период актуальности
+					</b>
+				</th>
+			</tr>
+			
+			<tr>
+			<td>
+			Список и схема взаимосвязей участников УК и лиц, под контролем либо значительным влиянием которых находится УК. Информация о структуре и составе участников УК, в том числе о лицах, под контролем либо значительным влиянием которых находится УК, соответствует информации, направленной 26.04.2021 в Банк России для размещения на официальном сайте Банка России
+			</td>
+			<td><a href="files/spisok2604.pdf">
+			<img align="middle" border="0" src="files/pdf.png"></a>
+				577&nbsp;Кб
+			</td>
+			<td>26.04.2021</td>
+			<td>по настоящее время</td>
+			</tr>
+			
+			<tr>
+			<td>
+			Список участников УК и лиц, под контролем либо значительным влиянием которых находится УК
+			</td>
+			<td><a href="files/spisok.pdf">
+			<img align="middle" border="0" src="files/pdf.png"></a>
+				204&nbsp;Кб
+			</td>
+			<td>22.04.2021</td>
+			<td>26.04.2021</td>
+			</tr>
+			<tr>
+			<td>
+			Схема взаимосвязей участников УК и лиц, под контролем либо значительным влиянием которых находится УК 
+			</td>
+			<td><a href="files/sxema.pdf">
+			<img align="middle" border="0" src="files/pdf.png"></a>
+				53,1&nbsp;Кб
+			</td>
+			<td>22.04.2021</td>
+			<td>26.04.2021</td>
+			</tr>
+			</tbody></table>
+			
+		</div>
+
+      </a></div><a>
+    </a></section><!-- End Team Section --><a>
+
+  </a></main><!-- End #main --><a>
+
+  <!-- ======= Footer ======= -->
+  </a><footer id="footer" data-aos="fade-up" data-aos-easing="ease-in-out" data-aos-duration="500" class="aos-init"><a>
+
+    <div class="footer-newsletter">
+      <div class="container">
+        <div class="row">
+          
+        </div>
+      </div>
+    </div>
+
+    </a><div class="footer-top"><a>
+      </a><div class="container"><a>
+        </a><div class="row"><a>
+
+          </a><div class="col-lg-3 col-md-6 footer-links"><a>
+            <h4>Полезные ссылки</h4>
+            </a><ul><a>
+              </a><li><a><i class="bx bx-chevron-right"></i> </a><a href="#">Главная</a></li>
+              <li><i class="bx bx-chevron-right"></i> <a href="#">О компании</a></li>
+              <li><i class="bx bx-chevron-right"></i> <a href="#">Паевые фонды</a></li>
+              <li><i class="bx bx-chevron-right"></i> <a href="#">Аналитика</a></li>
+              <li><i class="bx bx-chevron-right"></i> <a href="#">Раскрытие информации</a></li>
+            </ul>
+          </div>
+
+          
+
+          <div class="col-lg-3 col-md-6 footer-contact">
+            <h4>Контакты</h4>
+            <p>
+              443013, Самарская область <br>
+              город Самара<br>
+              улица Дачная, дом 2, корпус 2, офис 624 <br><br>
+              <strong>телефон:</strong> +7(846)231-17-80<br>
+              <strong>Email:</strong> Shutsky@smarts.ru<br>
+            </p>
+
+          </div>
+
+          <div class="col-lg-3 col-md-6 footer-info">
+            <h3>О компании</h3>
+            <p>Компания основана 07 сентября 2020 года
+08 апреля 2021 года получена лицензия на осуществление деятельности по управлению инвестиционными фондами, паевыми инвестиционными фондами и негосударственными инвестиционными фондами. В настоящее время ведутся работы над созданием первого паевого инвестиционного фонда.</p>
+            <div class="social-links mt-3">
+              <a href="#" class="twitter"><i class="bx bxl-twitter"></i></a>
+              <a href="#" class="facebook"><i class="bx bxl-facebook"></i></a>
+              <a href="#" class="instagram"><i class="bx bxl-instagram"></i></a>
+              <a href="#" class="linkedin"><i class="bx bxl-linkedin"></i></a>
+            </div>
+          </div>
+          <div class="col-lg-3 col-md-6 footer-contact">
+            <h4>Информация</h4>
+            <p>
+              Стоимость инвестиционных паев может, как увеличиваться, так и уменьшаться.
+              Результаты инвестирования в прошлом не определяют доходы в будущем.
+              Государство не гарантирует доходность инвестиций в паевые инвестиционные фонды.
+              Прежде чем приобрести инвестиционный пай, следует внимательно ознакомиться с Правилами доверительного управления Фондом.
+              Информация, связанная с деятельностью управляющей компании ООО УК «СМАРТС-ИНВЕСТ»,
+              предоставляется по адресу: город Самара, улица Дачная, дом 2, корпус 2, офис 624, по телефону: + 7 (846) 231-17-80,
+              или в сети Интернет по адресу: <a href="http://smarts-invest.ru">http://smarts-invest.ru</a>
+            </p>
+
+          </div>
+
+        </div>
+      </div>
+    </div>
+
+    <div class="container">
+      
+    </div>
+  </footer><!-- End Footer -->
+
+  <a href="#" class="back-to-top"><i class="icofont-simple-up"></i></a>
+
+  <!-- Vendor JS Files -->
+  <script src="assets/vendor/jquery/jquery.min.js"></script>
+  <script src="assets/vendor/bootstrap/js/bootstrap.bundle.min.js"></script>
+  <script src="assets/vendor/jquery.easing/jquery.easing.min.js"></script>
+  <script src="assets/vendor/php-email-form/validate.js"></script>
+  <script src="assets/vendor/venobox/venobox.min.js"></script>
+  <script src="assets/vendor/waypoints/jquery.waypoints.min.js"></script>
+  <script src="assets/vendor/counterup/counterup.min.js"></script>
+  <script src="assets/vendor/owl.carousel/owl.carousel.min.js"></script>
+  <script src="assets/vendor/isotope-layout/isotope.pkgd.min.js"></script>
+  <script src="assets/vendor/aos/aos.js"></script>
+
+  <!-- Template Main JS File -->
+  <script src="assets/js/main.js"></script><nav class="mobile-nav d-lg-none">
+        <ul>
+          <li><a href="index.html">Главная</a></li>
+          <li><a href="about.html">О компании</a></li>
+          <li><a href="services.html">Паевые фонды</a></li>
+          <li><a href="portfolio.html">Аналитика</a></li>
+          <li class="active"><a href="team.html">Раскрытие информации</a></li>
+		  <!-- 
+          <li><a href="blog.html">Blog</a></li>
+          <li class="drop-down"><a href="">Drop Down</a>
+            <ul>
+              <li><a href="#">Drop Down 1</a></li>
+              <li class="drop-down"><a href="#">Drop Down 2</a>
+                <ul>
+                  <li><a href="#">Deep Drop Down 1</a></li>
+                  <li><a href="#">Deep Drop Down 2</a></li>
+                  <li><a href="#">Deep Drop Down 3</a></li>
+                  <li><a href="#">Deep Drop Down 4</a></li>
+                  <li><a href="#">Deep Drop Down 5</a></li>
+                </ul>
+              </li>
+              <li><a href="#">Drop Down 3</a></li>
+              <li><a href="#">Drop Down 4</a></li>
+              <li><a href="#">Drop Down 5</a></li>
+            </ul>
+          </li>-->
+          <li><a href="contact.html">Контакты</a></li>
+        </ul>
+      </nav><div class="mobile-nav-overly"></div>
+<script>
+var acc = document.getElementsByClassName("accordion");
+var i;
+
+for (i = 0; i < acc.length; i++) {
+    acc[i].addEventListener("click", function() {
+        /* Toggle between adding and removing the "info_active" class,
+        to highlight the button that controls the panel */
+        this.classList.toggle("info_active");
+
+        /* Toggle between hiding and showing the active panel */
+        var panel = this.nextElementSibling;
+        if (panel.style.display === "block") {
+            panel.style.display = "none";
+        } else {
+            panel.style.display = "block";
+        }
+    });
+}
+</script>
+
+
+

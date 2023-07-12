@@ -1,0 +1,232 @@
+
+  <div class="interstitial-wrapper">
+    <div id="main-content">
+      <div class="icon" id="icon"></div>
+      <div id="main-message">
+        <h1>Your connection is not private</h1>
+        <p>Attackers might be trying to steal your information from <strong>www.assetmng.ru</strong> (for example, passwords, messages, or credit cards). <a href="#" id="learn-more-link">Learn more</a></p>
+        <div id="debugging">
+          <div id="error-code" class="error-code" role="button" aria-expanded="false">net::ERR_CERT_DATE_INVALID</div>
+          <div id="error-debugging-info" class="hidden"><p class="debugging-content"><span class="debugging-title">Subject: </span><span class="debugging-content">assetmng.ru</span></p><p class="debugging-content"><span class="debugging-title">Issuer: </span><span class="debugging-content">RU-CENTER High Assurance Services CA 2</span></p><p class="debugging-content"><span class="debugging-title">Expires on: </span><span class="debugging-content">Dec 28, 2022</span></p><p class="debugging-content"><span class="debugging-title">Current date: </span><span class="debugging-content">Jun 21, 2023</span></p><p class="debugging-content"><span class="debugging-title">PEM encoded chain: </span><span class="debugging-content debugging-content-fixed-width">-----BEGIN CERTIFICATE-----<br>MIIG/DCCBeSgAwIBAgIRAKzxDcYqIngv06Q4n6yBPY4wDQYJKoZIhvcNAQELBQAw<br>gc0xCzAJBgNVBAYTAlJVMQ8wDQYDVQQIEwZNb3Njb3cxDzANBgNVBAcTBk1vc2Nv<br>dzFrMGkGA1UECgxiUlUtQ2VudGVyICjQl9CQ0J4g0KDQtdCz0LjQvtC90LDQu9GM<br>0L3Ri9C5INCh0LXRgtC10LLQvtC5INCY0L3RhNC+0YDQvNCw0YbQuNC+0L3QvdGL<br>0Lkg0KbQtdC90YLRgCkxLzAtBgNVBAMTJlJVLUNFTlRFUiBIaWdoIEFzc3VyYW5j<br>ZSBTZXJ2aWNlcyBDQSAyMB4XDTIxMTIxNTAwMDAwMFoXDTIyMTIyODIzNTk1OVow<br>UzELMAkGA1UEBhMCUlUxDzANBgNVBAgTBk1vc2t2YTEdMBsGA1UEChMUTExDIEFz<br>c2V0IE1hbmFnZW1lbnQxFDASBgNVBAMTC2Fzc2V0bW5nLnJ1MIIBIjANBgkqhkiG<br>9w0BAQEFAAOCAQ8AMIIBCgKCAQEA7Fw6mbcSmX+sSDKq4RNhOkEMT5HxofMSAX71<br>idB94ElPVMwvuVmsznVkTmACcjv68eRJv7bJdYqso7po+52mbbltQ3aj7cbvBG/s<br>CxmYVaaEndRg6gRuNxsNCwryOWU/QXKA7ixqzdfFTud5WP+nbf4wzPjyNRF6mktm<br>N23zYlFn320+OPrqMvF0JMCF4UABups5PTAFWu9Ql0CqwHTmzSEnsVe2AdCUX29q<br>J+zD8zD4aoErrRIlZKMgeky0SWmPwq1vNxy7+hsauobAJ/c0hnqd+C0YWysuUfSW<br>TsWeoo8bW/++1+9WmFiCQ9MjF36eGV0wsaxy8WmJOkS1Xw7WdwIDAQABo4IDTjCC<br>A0owHwYDVR0jBBgwFoAUWqzC4Z+ORBScCaqn9ruU9+CH30UwHQYDVR0OBBYEFHvY<br>4MwdNXifCDa3LLJ8X8XhaHXWMA4GA1UdDwEB/wQEAwIFoDAMBgNVHRMBAf8EAjAA<br>MB0GA1UdJQQWMBQGCCsGAQUFBwMBBggrBgEFBQcDAjBLBgNVHSAERDBCMDYGCysG<br>AQQBsjEBAgIQMCcwJQYIKwYBBQUHAgEWGWh0dHBzOi8vY3BzLnVzZXJ0cnVzdC5j<br>b20wCAYGZ4EMAQICME8GA1UdHwRIMEYwRKBCoECGPmh0dHA6Ly9jcmwudXNlcnRy<br>dXN0LmNvbS9SVS1DRU5URVJIaWdoQXNzdXJhbmNlU2VydmljZXNDQTIuY3JsMIGB<br>BggrBgEFBQcBAQR1MHMwSgYIKwYBBQUHMAKGPmh0dHA6Ly9jcnQudXNlcnRydXN0<br>LmNvbS9SVS1DRU5URVJIaWdoQXNzdXJhbmNlU2VydmljZXNDQTIuY3J0MCUGCCsG<br>AQUFBzABhhlodHRwOi8vb2NzcC51c2VydHJ1c3QuY29tMCcGA1UdEQQgMB6CC2Fz<br>c2V0bW5nLnJ1gg93d3cuYXNzZXRtbmcucnUwggF+BgorBgEEAdZ5AgQCBIIBbgSC<br>AWoBaAB1AEalVet1+pEgMLWiiWn0830RLEF0vv1JuIWr8vxw/m1HAAABfb7wapsA<br>AAQDAEYwRAIgXDxftDrgiGN5ng3Ee7R0y5Tdo777RL/w68uf3nKW7n4CIFZVmkRL<br>G5tnxXh5X5h2C6b5wfC2Gj1ltOX0TKsd15a5AHcAQcjKsd8iRkoQxqE6CUKHXk4x<br>ixsD6+tLx2jwkGKWBvYAAAF9vvBqYAAABAMASDBGAiEAi2PA6s5INIlDsu+hpLpe<br>9LgcJP1dZzBMADgGZ3pHNW4CIQD5DvhDvAcq7C/1i7T4D7TGF30RQDUKhKr4xKbP<br>RbcZ7QB2ACl5vvCeOTkh8FZzn2Old+W+V32cYAr4+U1dJlwlXceEAAABfb7wajwA<br>AAQDAEcwRQIhAPLRaMF9SZCR/3S5qLUYUHyVv97RFkGMFCZEe5Kx3VolAiAyTZHC<br>9/T2gf2ER6exijhv7Feeh2kJfgpfsOJ4jpDmWTANBgkqhkiG9w0BAQsFAAOCAQEA<br>UvSaqa/lbPFcvvkUZJykfh9hv7lG58rlphW57DOkCUzrXqUHQOnjdJRYW+KwMf1U<br>wO6Ot9EZpXEp1Qs+sdDRa5PSXovMcs9Cm/Yr24VLSaYDf8qDob1xYkcZ9VRRbXh3<br>imOIlamTj/SylQdSr14wyQJtMsqTjKipSlhDEQLero6bkyI5Oz9TrT+3lCsR1Zng<br>+cDcEtYz5Idfru4NZqiTP/WtVXN9mVXQ2Z57tbl8Hg9ev2DC3LKUM62jh6CNBUQy<br>WnhSKYVcS3bpKUbl1jmMo1sCs6q6E/UgW4r84vzIjMTF1KvCSOkyaDvCxPYET5uR<br>unghnw6+Dr27rX6PqZduSg==<br>-----END CERTIFICATE-----<br>-----BEGIN CERTIFICATE-----<br>MIIGWDCCBECgAwIBAgIQC5cxE68zwsnRDfWE1f0TIzANBgkqhkiG9w0BAQwFADCB<br>iDELMAkGA1UEBhMCVVMxEzARBgNVBAgTCk5ldyBKZXJzZXkxFDASBgNVBAcTC0pl<br>cnNleSBDaXR5MR4wHAYDVQQKExVUaGUgVVNFUlRSVVNUIE5ldHdvcmsxLjAsBgNV<br>BAMTJVVTRVJUcnVzdCBSU0EgQ2VydGlmaWNhdGlvbiBBdXRob3JpdHkwHhcNMTUw<br>MTIxMDAwMDAwWhcNMjUwMTIwMjM1OTU5WjCBzTELMAkGA1UEBhMCUlUxDzANBgNV<br>BAgTBk1vc2NvdzEPMA0GA1UEBxMGTW9zY293MWswaQYDVQQKDGJSVS1DZW50ZXIg<br>KNCX0JDQniDQoNC10LPQuNC+0L3QsNC70YzQvdGL0Lkg0KHQtdGC0LXQstC+0Lkg<br>0JjQvdGE0L7RgNC80LDRhtC40L7QvdC90YvQuSDQptC10L3RgtGAKTEvMC0GA1UE<br>AxMmUlUtQ0VOVEVSIEhpZ2ggQXNzdXJhbmNlIFNlcnZpY2VzIENBIDIwggEiMA0G<br>CSqGSIb3DQEBAQUAA4IBDwAwggEKAoIBAQDDFqrrqMXLFg3JXv+96joUUqXsWiwB<br>H/T30BrHtpOvmiNS3OT5fdV65lCf3KvVLgJn/JXdlb2zsBZJ5pmMSIj6fCqKFZQi<br>L+XJm6gACK/WWm/Y0qhmzlCbms6/xMnaH7dWy08uDBpy4tdqd/YEyZftz3HBO+PD<br>eEMf4XwNKRuTXev9PqRV2WIL/+PzYwL5HPp2mzfDmFntCKj4AxJ0pU5qETiKyu/c<br>bI+s+3jpm9yKTi9AAVmHcDpzkmi5zcJv00oRtQHoFEL5fg92LvCMn32KjUNLBmPP<br>Zv46Ldop21KJx4QVIraeXAIAEBjScGnVboNN/3sJQ96NaGPfXOaDTbdfAgMBAAGj<br>ggF1MIIBcTAfBgNVHSMEGDAWgBRTeb9aqitKz1SA4dibwJ3ysgNmyzAdBgNVHQ4E<br>FgQUWqzC4Z+ORBScCaqn9ruU9+CH30UwDgYDVR0PAQH/BAQDAgGGMBIGA1UdEwEB<br>/wQIMAYBAf8CAQAwHQYDVR0lBBYwFAYIKwYBBQUHAwEGCCsGAQUFBwMCMCIGA1Ud<br>IAQbMBkwDQYLKwYBBAGyMQECAhAwCAYGZ4EMAQICMFAGA1UdHwRJMEcwRaBDoEGG<br>P2h0dHA6Ly9jcmwudXNlcnRydXN0LmNvbS9VU0VSVHJ1c3RSU0FDZXJ0aWZpY2F0<br>aW9uQXV0aG9yaXR5LmNybDB2BggrBgEFBQcBAQRqMGgwPwYIKwYBBQUHMAKGM2h0<br>dHA6Ly9jcnQudXNlcnRydXN0LmNvbS9VU0VSVHJ1c3RSU0FBZGRUcnVzdENBLmNy<br>dDAlBggrBgEFBQcwAYYZaHR0cDovL29jc3AudXNlcnRydXN0LmNvbTANBgkqhkiG<br>9w0BAQwFAAOCAgEAT4oyUpecGhb4F9lSyeCkhMEuiBcvjhT1rt+4ZW/mBL+Dzlix<br>oGKBBXFhggiPSgc99iR6D+91kuTgePkwy0RFkJR0JXDsQBbdea+GhlBEBngtQgDr<br>KsVd7Bk2FKO8Mx9oyqqdFCImajTkmtKdLr/5kopiO4Jc0ELNhIkBstKZspqEQhG2<br>XAdnI2yY6SudQyUX+CdbNwAWc8bBvaK7gyNTSTv/PXm0qvJTWU46vHemgIBmnn8l<br>8G6dnTsY2gdPUOu/R6a7QExch8dfJvjremFf+QcuKBiutrsIKc2T6r89nQ6+bXq2<br>FjauvCuRKj3MXCTHvMM28f35Xj927dbXZv3izLuKV3cimJkTbnOlKvBRT7X6FGzd<br>Iq58QI2SV/LLB3H/BoQWhGHgvQpXrTFDAV404cyFqYhEb+017hla/DjLGaqo3VsZ<br>FPzJCwoI80LmmDIrYh4yYREaKTMJrLNSqgmZ1N56df+mNZnXWt11rUTfQ1jpy9lG<br>9Z6LE6xIlD8nrMpY6tdmOw7TXhy/SJLBADCbdgNPjW4xVT+89lhXtIH1dRHfJyzW<br>M1sCcZrbFuoTxwy1tn1EpM9l7YjMCVQAP6NE79vC+nLURZbbIYSbosmdvAd/+PUz<br>p2wmoFf+gA5JQwKaRcbkEMlsxXaxqwLOyv7YhHbEAW0DscFfuFTsb02wGps=<br>-----END CERTIFICATE-----<br>-----BEGIN CERTIFICATE-----<br>MIIF3jCCA8agAwIBAgIQAf1tMPyjylGoG7xkDjUDLTANBgkqhkiG9w0BAQwFADCB<br>iDELMAkGA1UEBhMCVVMxEzARBgNVBAgTCk5ldyBKZXJzZXkxFDASBgNVBAcTC0pl<br>cnNleSBDaXR5MR4wHAYDVQQKExVUaGUgVVNFUlRSVVNUIE5ldHdvcmsxLjAsBgNV<br>BAMTJVVTRVJUcnVzdCBSU0EgQ2VydGlmaWNhdGlvbiBBdXRob3JpdHkwHhcNMTAw<br>MjAxMDAwMDAwWhcNMzgwMTE4MjM1OTU5WjCBiDELMAkGA1UEBhMCVVMxEzARBgNV<br>BAgTCk5ldyBKZXJzZXkxFDASBgNVBAcTC0plcnNleSBDaXR5MR4wHAYDVQQKExVU<br>aGUgVVNFUlRSVVNUIE5ldHdvcmsxLjAsBgNVBAMTJVVTRVJUcnVzdCBSU0EgQ2Vy<br>dGlmaWNhdGlvbiBBdXRob3JpdHkwggIiMA0GCSqGSIb3DQEBAQUAA4ICDwAwggIK<br>AoICAQCAEmUXNg7D2wiz0KxXDXbtzSfTTK1Qg2HiqiBNCS1kCdzOiZ/MPans9s/B<br>3PHTsdZ7NygRK0faOca8Ohm0X6a9fZ2jY0K2dvKpOyuR+OJv0OwWIJAJPuLodMkY<br>tJHUYmTbf6MG8YgYapAiPLz+E/CHFHv25B+O1ORRxhFnRghRy4YUVD+8M/5+bJz/<br>Fp0YvVGONaanZshyZ9shZrHUm3gDwFA66Mzw3LyeTP6vBZY1H1dat//O+T23LLb2<br>VN3I5xI6Ta5MirdcmrS3ID3KfyI0rn47aGYBROcBTkZTmzNg95S+UzeQc0PzMsNT<br>79uq/nROacdrjGCT3sTHDN/hMq7MkztReJVni+49Vv4M0GkPGw/zJSZrM233bkf6<br>c0Plfg6lZrEpfDKEY1WJxA3Bk1QwGROs0303p+tdOmw1XNtB1xLaqUkL39iAigmT<br>Yo61Zs8liM2EuLE/pDkP2QKe6xJMlXzzawWpXhaDzLhn4ugTncxbgtNMs+1b/97l<br>c6wjOy0AvzVVdAlJ2ElYGn+SNuZRkg7zJn0cTRe8yexDJtC/QV9AqURE9JnnV4ee<br>UB9XVKg+/XRjL7FQZQnmWEIuQxpMtPAlR1n6BB6T1CZGSlCBst6+eLf8ZxXhyVeE<br>Hg9j1uliutZfVS7qXMYoCAQlObgOK6nyTJccBz8NUvXt7y+CDwIDAQABo0IwQDAd<br>BgNVHQ4EFgQUU3m/WqorSs9UgOHYm8Cd8rIDZsswDgYDVR0PAQH/BAQDAgEGMA8G<br>A1UdEwEB/wQFMAMBAf8wDQYJKoZIhvcNAQEMBQADggIBAFzUfA3P9wF9QZllDHPF<br>Up/L+M+ZBn8b2kMVn54CVVeWFPFSPCeHlCjtHzoBN6J2/FNQwISbxmtOuowhT6KO<br>VWKR82kV2LyI48SqC/3vqOlLVSoGIG1VeCkZ7l8wXEskEVX/JJpuXior7gtNn3/3<br>ATiUFJVDBwn7YKnuHKsSjKCaXqeYalltiz8I+8jRRa8YFWSQEg9zKC7F4iRO/Fjs<br>8PRF/iKz6y+O0tlFYQXBl2+odnKPi4w2r78NBc5xjeambx9spnFixdjQg3IM8WcR<br>iQycE0xyNN+81XHfqnHd4blsjDwSXWXavVcStkNr/+XeTWYRUc+ZruwXtuhxkYze<br>Sf7dNXGiFSeUHM9h4ya7b6NnJSFd5t0dCy5oGzuCr+yDZ4XUmFF0sbmZgIn/f3gZ<br>XHlKYC6SQK5MNyosycdiyA5d9zZbyuAlJQG03RoHnHcAP9Dc1ew91Pq7P8yF1m9/<br>qS3fuQL39ZeatTXaw2ewh0qpKJ4jjv9cJ2vhsE/zB+4ALtRZh8tSQZXq9EfX7mRB<br>VXyNWQKV3WKdwrnuWih0hKWbt5DHDAff9Yk2dDLWKMGwsAvgnEzDHNb842m1R0aB<br>L6KCq9NjRHDEjf8tM7qtj3u1cIiuPhnPQCjY/MiQu12ZIvVS5ljFH4gxQ+6IHdfG<br>jjxDah2nGN59PRbxYvnKkKj9<br>-----END CERTIFICATE-----<br></span></p><p class="debugging-content"><span class="debugging-title">Certificate Transparency: </span><span class="debugging-content"><br><br>SCT  (Embedded in certificate, From unknown log)<br><br>SCT  (Embedded in certificate, From unknown log)<br><br>SCT  (Embedded in certificate, From unknown log)</span></p></div>
+        </div>
+      </div>
+      <div id="recurrent-error-message" class="hidden">
+        Warnings may be common while websites update their security. This should improve soon.
+      </div>
+      <div id="extended-reporting-opt-in" class="hidden">
+        <label>
+          <div class="checkboxes">
+            <input type="checkbox" id="opt-in-checkbox">
+            <span class="checkbox"></span>
+          </div>
+          <span id="opt-in-label">Help improve security on the web for everyone by sending <a href="#" id="whitepaper-link">URLs of some pages you visit, limited system information, and some page content</a> to Google. <a id="privacy-link" href="#">Privacy policy</a></span>
+        </label>
+      </div>
+      <div id="enhanced-protection-message" class="ssl-enhanced-protection-message">
+        <label>
+          <div class="icon"></div>
+          <div>To get Chrome’s highest level of security, <a href="#" id="enhanced-protection-link">turn on enhanced protection</a></div>
+        </label>
+      </div>
+    </div>
+    <div class="nav-wrapper">
+      <button id="primary-button">Back to safety</button>
+      <button id="proceed-button" class="secondary-button small-link hidden"></button>
+      <button id="details-button" class="secondary-button small-link" aria-expanded="false">
+        Advanced
+      </button>
+    </div>
+    <div id="details" class="hidden">
+      <p>This server could not prove that it is <strong>www.assetmng.ru</strong>; its security certificate expired 175 days ago. This may be caused by a misconfiguration or an attacker intercepting your connection. Your computer's clock is currently set to Wednesday, June 21, 2023. Does that look right? If not, you should correct your system's clock and then refresh this page.</p>
+      <p id="final-paragraph"><a href="#" id="proceed-link" class="small-link">Proceed to www.assetmng.ru (unsafe)</a></p>
+    </div>
+  </div>
+
+
+<style>/* Copyright 2014 The Chromium Authors
+ * Use of this source code is governed by a BSD-style license that can be
+ * found in the LICENSE file. */
+
+/* This file is dynamically processed by a C++ data source handler to fill in
+ * some per-platform/locale styles that dramatically alter the page. This is
+ * done to reduce flicker, as JS may not run before the page is rendered.
+ *
+ * There are two ways to include this stylesheet:
+ * 1. via its chrome://resources/ URL in HTML, i.e.:
+ *
+ *   <link rel="stylesheet" href="chrome://resources/css/text_defaults.css">
+ *
+ * 2. via the webui::AppendWebUICSSTextDefaults() method to directly append it
+ * to an HTML string.
+ * Otherwise its placeholders won't be expanded. */
+
+body {
+  font-family: "DejaVu Sans", Arial, sans-serif;
+  font-size: 75%;
+}
+
+button {
+  font-family: "DejaVu Sans", Arial, sans-serif;
+}
+</style><script>"use strict";
+// Copyright 2012 The Chromium Authors
+// Use of this source code is governed by a BSD-style license that can be
+// found in the LICENSE file.
+/**
+ * @fileoverview
+ * NOTE: This file is deprecated, and provides only the minimal LoadTimeData
+ * functions for places in the code still not using JS modules. Use
+ * load_time_data.ts in all new code.
+ *
+ * This file defines a singleton which provides access to all data
+ * that is available as soon as the page's resources are loaded (before DOM
+ * content has finished loading). This data includes both localized strings and
+ * any data that is important to have ready from a very early stage (e.g. things
+ * that must be displayed right away).
+ *
+ * Note that loadTimeData is not guaranteed to be consistent between page
+ * refreshes (https://crbug.com/740629) and should not contain values that might
+ * change if the page is re-opened later.
+ */
+/** @type {!LoadTimeData} */
+// eslint-disable-next-line no-var
+var loadTimeData;
+class LoadTimeData {
+    constructor() {
+        /** @type {?Object} */
+        this.data_ = null;
+    }
+    /**
+     * Sets the backing object.
+     *
+     * Note that there is no getter for |data_| to discourage abuse of the form:
+     *
+     *     var value = loadTimeData.data()['key'];
+     *
+     * @param {Object} value The de-serialized page data.
+     */
+    set data(value) {
+        expect(!this.data_, 'Re-setting data.');
+        this.data_ = value;
+    }
+    /**
+     * @param {string} id An ID of a value that might exist.
+     * @return {boolean} True if |id| is a key in the dictionary.
+     */
+    valueExists(id) {
+        return id in this.data_;
+    }
+    /**
+     * Fetches a value, expecting that it exists.
+     * @param {string} id The key that identifies the desired value.
+     * @return {*} The corresponding value.
+     */
+    getValue(id) {
+        expect(this.data_, 'No data. Did you remember to include strings.js?');
+        const value = this.data_[id];
+        expect(typeof value !== 'undefined', 'Could not find value for ' + id);
+        return value;
+    }
+    /**
+     * As above, but also makes sure that the value is a string.
+     * @param {string} id The key that identifies the desired string.
+     * @return {string} The corresponding string value.
+     */
+    getString(id) {
+        const value = this.getValue(id);
+        expectIsType(id, value, 'string');
+        return /** @type {string} */ (value);
+    }
+    /**
+     * Returns a formatted localized string where $1 to $9 are replaced by the
+     * second to the tenth argument.
+     * @param {string} id The ID of the string we want.
+     * @param {...(string|number)} var_args The extra values to include in the
+     *     formatted output.
+     * @return {string} The formatted string.
+     */
+    getStringF(id, var_args) {
+        const value = this.getString(id);
+        if (!value) {
+            return '';
+        }
+        const args = Array.prototype.slice.call(arguments);
+        args[0] = value;
+        return this.substituteString.apply(this, args);
+    }
+    /**
+     * Returns a formatted localized string where $1 to $9 are replaced by the
+     * second to the tenth argument. Any standalone $ signs must be escaped as
+     * $$.
+     * @param {string} label The label to substitute through.
+     *     This is not an resource ID.
+     * @param {...(string|number)} var_args The extra values to include in the
+     *     formatted output.
+     * @return {string} The formatted string.
+     */
+    substituteString(label, var_args) {
+        const varArgs = arguments;
+        return label.replace(/\$(.|$|\n)/g, function (m) {
+            expect(m.match(/\$[$1-9]/), 'Unescaped $ found in localized string.');
+            return m === '$$' ? '$' : varArgs[m[1]];
+        });
+    }
+    /**
+     * As above, but also makes sure that the value is a boolean.
+     * @param {string} id The key that identifies the desired boolean.
+     * @return {boolean} The corresponding boolean value.
+     */
+    getBoolean(id) {
+        const value = this.getValue(id);
+        expectIsType(id, value, 'boolean');
+        return /** @type {boolean} */ (value);
+    }
+    /**
+     * As above, but also makes sure that the value is an integer.
+     * @param {string} id The key that identifies the desired number.
+     * @return {number} The corresponding number value.
+     */
+    getInteger(id) {
+        const value = this.getValue(id);
+        expectIsType(id, value, 'number');
+        expect(value === Math.floor(value), 'Number isn\'t integer: ' + value);
+        return /** @type {number} */ (value);
+    }
+    /**
+     * Override values in loadTimeData with the values found in |replacements|.
+     * @param {Object} replacements The dictionary object of keys to replace.
+     */
+    overrideValues(replacements) {
+        expect(typeof replacements === 'object', 'Replacements must be a dictionary object.');
+        for (const key in replacements) {
+            this.data_[key] = replacements[key];
+        }
+    }
+}
+/**
+ * Checks condition, throws error message if expectation fails.
+ * @param {*} condition The condition to check for truthiness.
+ * @param {string} message The message to display if the check fails.
+ */
+function expect(condition, message) {
+    if (!condition) {
+        throw new Error('Unexpected condition on ' + document.location.href + ': ' + message);
+    }
+}
+/**
+ * Checks that the given value has the given type.
+ * @param {string} id The id of the value (only used for error message).
+ * @param {*} value The value to check the type on.
+ * @param {string} type The type we expect |value| to be.
+ */
+function expectIsType(id, value, type) {
+    expect(typeof value === type, '[' + value + '] (' + id + ') is not a ' + type);
+}
+expect(!loadTimeData, 'should only include this file once');
+loadTimeData = new LoadTimeData();
+// Expose |loadTimeData| directly on |window|, since within a JS module the
+// scope is local and not all files have been updated to import the exported
+// |loadTimeData| explicitly.
+window.loadTimeData = loadTimeData;
+console.warn('crbug/1173575, non-JS module files deprecated.');
+</script><script>loadTimeData.data = {"bad_clock":false,"closeDetails":"Hide advanced","ct":"\n\nSCT  (Embedded in certificate, From unknown log)\n\nSCT  (Embedded in certificate, From unknown log)\n\nSCT  (Embedded in certificate, From unknown log)","currentDate":"Jun 21, 2023","displayEnhancedProtectionMessage":true,"displaycheckbox":false,"enhancedProtectionMessage":"To get Chrome’s highest level of security, \u003Ca href=\"#\" id=\"enhanced-protection-link\">turn on enhanced protection\u003C/a>","errorCode":"net::ERR_CERT_DATE_INVALID","expirationDate":"Dec 28, 2022","explanationParagraph":"This server could not prove that it is \u003Cstrong>www.assetmng.ru\u003C/strong>; its security certificate expired 175 days ago. This may be caused by a misconfiguration or an attacker intercepting your connection. Your computer's clock is currently set to Wednesday, June 21, 2023. Does that look right? If not, you should correct your system's clock and then refresh this page.","finalParagraph":"\u003Ca href=\"#\" id=\"proceed-link\">Proceed to www.assetmng.ru (unsafe)\u003C/a>","fontfamily":"\"DejaVu Sans\", Arial, sans-serif","fontsize":"75%","heading":"Your connection is not private","hide_primary_button":false,"issuer":"RU-CENTER High Assurance Services CA 2","language":"en","openDetails":"Advanced","optInLink":"Help improve security on the web for everyone by sending \u003Ca href=\"#\" id=\"whitepaper-link\">URLs of some pages you visit, limited system information, and some page content\u003C/a> to Google. \u003Ca id=\"privacy-link\" href=\"#\">Privacy policy\u003C/a>","overridable":true,"pem":"-----BEGIN CERTIFICATE-----\nMIIG/DCCBeSgAwIBAgIRAKzxDcYqIngv06Q4n6yBPY4wDQYJKoZIhvcNAQELBQAw\ngc0xCzAJBgNVBAYTAlJVMQ8wDQYDVQQIEwZNb3Njb3cxDzANBgNVBAcTBk1vc2Nv\ndzFrMGkGA1UECgxiUlUtQ2VudGVyICjQl9CQ0J4g0KDQtdCz0LjQvtC90LDQu9GM\n0L3Ri9C5INCh0LXRgtC10LLQvtC5INCY0L3RhNC+0YDQvNCw0YbQuNC+0L3QvdGL\n0Lkg0KbQtdC90YLRgCkxLzAtBgNVBAMTJlJVLUNFTlRFUiBIaWdoIEFzc3VyYW5j\nZSBTZXJ2aWNlcyBDQSAyMB4XDTIxMTIxNTAwMDAwMFoXDTIyMTIyODIzNTk1OVow\nUzELMAkGA1UEBhMCUlUxDzANBgNVBAgTBk1vc2t2YTEdMBsGA1UEChMUTExDIEFz\nc2V0IE1hbmFnZW1lbnQxFDASBgNVBAMTC2Fzc2V0bW5nLnJ1MIIBIjANBgkqhkiG\n9w0BAQEFAAOCAQ8AMIIBCgKCAQEA7Fw6mbcSmX+sSDKq4RNhOkEMT5HxofMSAX71\nidB94ElPVMwvuVmsznVkTmACcjv68eRJv7bJdYqso7po+52mbbltQ3aj7cbvBG/s\nCxmYVaaEndRg6gRuNxsNCwryOWU/QXKA7ixqzdfFTud5WP+nbf4wzPjyNRF6mktm\nN23zYlFn320+OPrqMvF0JMCF4UABups5PTAFWu9Ql0CqwHTmzSEnsVe2AdCUX29q\nJ+zD8zD4aoErrRIlZKMgeky0SWmPwq1vNxy7+hsauobAJ/c0hnqd+C0YWysuUfSW\nTsWeoo8bW/++1+9WmFiCQ9MjF36eGV0wsaxy8WmJOkS1Xw7WdwIDAQABo4IDTjCC\nA0owHwYDVR0jBBgwFoAUWqzC4Z+ORBScCaqn9ruU9+CH30UwHQYDVR0OBBYEFHvY\n4MwdNXifCDa3LLJ8X8XhaHXWMA4GA1UdDwEB/wQEAwIFoDAMBgNVHRMBAf8EAjAA\nMB0GA1UdJQQWMBQGCCsGAQUFBwMBBggrBgEFBQcDAjBLBgNVHSAERDBCMDYGCysG\nAQQBsjEBAgIQMCcwJQYIKwYBBQUHAgEWGWh0dHBzOi8vY3BzLnVzZXJ0cnVzdC5j\nb20wCAYGZ4EMAQICME8GA1UdHwRIMEYwRKBCoECGPmh0dHA6Ly9jcmwudXNlcnRy\ndXN0LmNvbS9SVS1DRU5URVJIaWdoQXNzdXJhbmNlU2VydmljZXNDQTIuY3JsMIGB\nBggrBgEFBQcBAQR1MHMwSgYIKwYBBQUHMAKGPmh0dHA6Ly9jcnQudXNlcnRydXN0\nLmNvbS9SVS1DRU5URVJIaWdoQXNzdXJhbmNlU2VydmljZXNDQTIuY3J0MCUGCCsG\nAQUFBzABhhlodHRwOi8vb2NzcC51c2VydHJ1c3QuY29tMCcGA1UdEQQgMB6CC2Fz\nc2V0bW5nLnJ1gg93d3cuYXNzZXRtbmcucnUwggF+BgorBgEEAdZ5AgQCBIIBbgSC\nAWoBaAB1AEalVet1+pEgMLWiiWn0830RLEF0vv1JuIWr8vxw/m1HAAABfb7wapsA\nAAQDAEYwRAIgXDxftDrgiGN5ng3Ee7R0y5Tdo777RL/w68uf3nKW7n4CIFZVmkRL\nG5tnxXh5X5h2C6b5wfC2Gj1ltOX0TKsd15a5AHcAQcjKsd8iRkoQxqE6CUKHXk4x\nixsD6+tLx2jwkGKWBvYAAAF9vvBqYAAABAMASDBGAiEAi2PA6s5INIlDsu+hpLpe\n9LgcJP1dZzBMADgGZ3pHNW4CIQD5DvhDvAcq7C/1i7T4D7TGF30RQDUKhKr4xKbP\nRbcZ7QB2ACl5vvCeOTkh8FZzn2Old+W+V32cYAr4+U1dJlwlXceEAAABfb7wajwA\nAAQDAEcwRQIhAPLRaMF9SZCR/3S5qLUYUHyVv97RFkGMFCZEe5Kx3VolAiAyTZHC\n9/T2gf2ER6exijhv7Feeh2kJfgpfsOJ4jpDmWTANBgkqhkiG9w0BAQsFAAOCAQEA\nUvSaqa/lbPFcvvkUZJykfh9hv7lG58rlphW57DOkCUzrXqUHQOnjdJRYW+KwMf1U\nwO6Ot9EZpXEp1Qs+sdDRa5PSXovMcs9Cm/Yr24VLSaYDf8qDob1xYkcZ9VRRbXh3\nimOIlamTj/SylQdSr14wyQJtMsqTjKipSlhDEQLero6bkyI5Oz9TrT+3lCsR1Zng\n+cDcEtYz5Idfru4NZqiTP/WtVXN9mVXQ2Z57tbl8Hg9ev2DC3LKUM62jh6CNBUQy\nWnhSKYVcS3bpKUbl1jmMo1sCs6q6E/UgW4r84vzIjMTF1KvCSOkyaDvCxPYET5uR\nunghnw6+Dr27rX6PqZduSg==\n-----END CERTIFICATE-----\n-----BEGIN CERTIFICATE-----\nMIIGWDCCBECgAwIBAgIQC5cxE68zwsnRDfWE1f0TIzANBgkqhkiG9w0BAQwFADCB\niDELMAkGA1UEBhMCVVMxEzARBgNVBAgTCk5ldyBKZXJzZXkxFDASBgNVBAcTC0pl\ncnNleSBDaXR5MR4wHAYDVQQKExVUaGUgVVNFUlRSVVNUIE5ldHdvcmsxLjAsBgNV\nBAMTJVVTRVJUcnVzdCBSU0EgQ2VydGlmaWNhdGlvbiBBdXRob3JpdHkwHhcNMTUw\nMTIxMDAwMDAwWhcNMjUwMTIwMjM1OTU5WjCBzTELMAkGA1UEBhMCUlUxDzANBgNV\nBAgTBk1vc2NvdzEPMA0GA1UEBxMGTW9zY293MWswaQYDVQQKDGJSVS1DZW50ZXIg\nKNCX0JDQniDQoNC10LPQuNC+0L3QsNC70YzQvdGL0Lkg0KHQtdGC0LXQstC+0Lkg\n0JjQvdGE0L7RgNC80LDRhtC40L7QvdC90YvQuSDQptC10L3RgtGAKTEvMC0GA1UE\nAxMmUlUtQ0VOVEVSIEhpZ2ggQXNzdXJhbmNlIFNlcnZpY2VzIENBIDIwggEiMA0G\nCSqGSIb3DQEBAQUAA4IBDwAwggEKAoIBAQDDFqrrqMXLFg3JXv+96joUUqXsWiwB\nH/T30BrHtpOvmiNS3OT5fdV65lCf3KvVLgJn/JXdlb2zsBZJ5pmMSIj6fCqKFZQi\nL+XJm6gACK/WWm/Y0qhmzlCbms6/xMnaH7dWy08uDBpy4tdqd/YEyZftz3HBO+PD\neEMf4XwNKRuTXev9PqRV2WIL/+PzYwL5HPp2mzfDmFntCKj4AxJ0pU5qETiKyu/c\nbI+s+3jpm9yKTi9AAVmHcDpzkmi5zcJv00oRtQHoFEL5fg92LvCMn32KjUNLBmPP\nZv46Ldop21KJx4QVIraeXAIAEBjScGnVboNN/3sJQ96NaGPfXOaDTbdfAgMBAAGj\nggF1MIIBcTAfBgNVHSMEGDAWgBRTeb9aqitKz1SA4dibwJ3ysgNmyzAdBgNVHQ4E\nFgQUWqzC4Z+ORBScCaqn9ruU9+CH30UwDgYDVR0PAQH/BAQDAgGGMBIGA1UdEwEB\n/wQIMAYBAf8CAQAwHQYDVR0lBBYwFAYIKwYBBQUHAwEGCCsGAQUFBwMCMCIGA1Ud\nIAQbMBkwDQYLKwYBBAGyMQECAhAwCAYGZ4EMAQICMFAGA1UdHwRJMEcwRaBDoEGG\nP2h0dHA6Ly9jcmwudXNlcnRydXN0LmNvbS9VU0VSVHJ1c3RSU0FDZXJ0aWZpY2F0\naW9uQXV0aG9yaXR5LmNybDB2BggrBgEFBQcBAQRqMGgwPwYIKwYBBQUHMAKGM2h0\ndHA6Ly9jcnQudXNlcnRydXN0LmNvbS9VU0VSVHJ1c3RSU0FBZGRUcnVzdENBLmNy\ndDAlBggrBgEFBQcwAYYZaHR0cDovL29jc3AudXNlcnRydXN0LmNvbTANBgkqhkiG\n9w0BAQwFAAOCAgEAT4oyUpecGhb4F9lSyeCkhMEuiBcvjhT1rt+4ZW/mBL+Dzlix\noGKBBXFhggiPSgc99iR6D+91kuTgePkwy0RFkJR0JXDsQBbdea+GhlBEBngtQgDr\nKsVd7Bk2FKO8Mx9oyqqdFCImajTkmtKdLr/5kopiO4Jc0ELNhIkBstKZspqEQhG2\nXAdnI2yY6SudQyUX+CdbNwAWc8bBvaK7gyNTSTv/PXm0qvJTWU46vHemgIBmnn8l\n8G6dnTsY2gdPUOu/R6a7QExch8dfJvjremFf+QcuKBiutrsIKc2T6r89nQ6+bXq2\nFjauvCuRKj3MXCTHvMM28f35Xj927dbXZv3izLuKV3cimJkTbnOlKvBRT7X6FGzd\nIq58QI2SV/LLB3H/BoQWhGHgvQpXrTFDAV404cyFqYhEb+017hla/DjLGaqo3VsZ\nFPzJCwoI80LmmDIrYh4yYREaKTMJrLNSqgmZ1N56df+mNZnXWt11rUTfQ1jpy9lG\n9Z6LE6xIlD8nrMpY6tdmOw7TXhy/SJLBADCbdgNPjW4xVT+89lhXtIH1dRHfJyzW\nM1sCcZrbFuoTxwy1tn1EpM9l7YjMCVQAP6NE79vC+nLURZbbIYSbosmdvAd/+PUz\np2wmoFf+gA5JQwKaRcbkEMlsxXaxqwLOyv7YhHbEAW0DscFfuFTsb02wGps=\n-----END CERTIFICATE-----\n-----BEGIN CERTIFICATE-----\nMIIF3jCCA8agAwIBAgIQAf1tMPyjylGoG7xkDjUDLTANBgkqhkiG9w0BAQwFADCB\niDELMAkGA1UEBhMCVVMxEzARBgNVBAgTCk5ldyBKZXJzZXkxFDASBgNVBAcTC0pl\ncnNleSBDaXR5MR4wHAYDVQQKExVUaGUgVVNFUlRSVVNUIE5ldHdvcmsxLjAsBgNV\nBAMTJVVTRVJUcnVzdCBSU0EgQ2VydGlmaWNhdGlvbiBBdXRob3JpdHkwHhcNMTAw\nMjAxMDAwMDAwWhcNMzgwMTE4MjM1OTU5WjCBiDELMAkGA1UEBhMCVVMxEzARBgNV\nBAgTCk5ldyBKZXJzZXkxFDASBgNVBAcTC0plcnNleSBDaXR5MR4wHAYDVQQKExVU\naGUgVVNFUlRSVVNUIE5ldHdvcmsxLjAsBgNVBAMTJVVTRVJUcnVzdCBSU0EgQ2Vy\ndGlmaWNhdGlvbiBBdXRob3JpdHkwggIiMA0GCSqGSIb3DQEBAQUAA4ICDwAwggIK\nAoICAQCAEmUXNg7D2wiz0KxXDXbtzSfTTK1Qg2HiqiBNCS1kCdzOiZ/MPans9s/B\n3PHTsdZ7NygRK0faOca8Ohm0X6a9fZ2jY0K2dvKpOyuR+OJv0OwWIJAJPuLodMkY\ntJHUYmTbf6MG8YgYapAiPLz+E/CHFHv25B+O1ORRxhFnRghRy4YUVD+8M/5+bJz/\nFp0YvVGONaanZshyZ9shZrHUm3gDwFA66Mzw3LyeTP6vBZY1H1dat//O+T23LLb2\nVN3I5xI6Ta5MirdcmrS3ID3KfyI0rn47aGYBROcBTkZTmzNg95S+UzeQc0PzMsNT\n79uq/nROacdrjGCT3sTHDN/hMq7MkztReJVni+49Vv4M0GkPGw/zJSZrM233bkf6\nc0Plfg6lZrEpfDKEY1WJxA3Bk1QwGROs0303p+tdOmw1XNtB1xLaqUkL39iAigmT\nYo61Zs8liM2EuLE/pDkP2QKe6xJMlXzzawWpXhaDzLhn4ugTncxbgtNMs+1b/97l\nc6wjOy0AvzVVdAlJ2ElYGn+SNuZRkg7zJn0cTRe8yexDJtC/QV9AqURE9JnnV4ee\nUB9XVKg+/XRjL7FQZQnmWEIuQxpMtPAlR1n6BB6T1CZGSlCBst6+eLf8ZxXhyVeE\nHg9j1uliutZfVS7qXMYoCAQlObgOK6nyTJccBz8NUvXt7y+CDwIDAQABo0IwQDAd\nBgNVHQ4EFgQUU3m/WqorSs9UgOHYm8Cd8rIDZsswDgYDVR0PAQH/BAQDAgEGMA8G\nA1UdEwEB/wQFMAMBAf8wDQYJKoZIhvcNAQEMBQADggIBAFzUfA3P9wF9QZllDHPF\nUp/L+M+ZBn8b2kMVn54CVVeWFPFSPCeHlCjtHzoBN6J2/FNQwISbxmtOuowhT6KO\nVWKR82kV2LyI48SqC/3vqOlLVSoGIG1VeCkZ7l8wXEskEVX/JJpuXior7gtNn3/3\nATiUFJVDBwn7YKnuHKsSjKCaXqeYalltiz8I+8jRRa8YFWSQEg9zKC7F4iRO/Fjs\n8PRF/iKz6y+O0tlFYQXBl2+odnKPi4w2r78NBc5xjeambx9spnFixdjQg3IM8WcR\niQycE0xyNN+81XHfqnHd4blsjDwSXWXavVcStkNr/+XeTWYRUc+ZruwXtuhxkYze\nSf7dNXGiFSeUHM9h4ya7b6NnJSFd5t0dCy5oGzuCr+yDZ4XUmFF0sbmZgIn/f3gZ\nXHlKYC6SQK5MNyosycdiyA5d9zZbyuAlJQG03RoHnHcAP9Dc1ew91Pq7P8yF1m9/\nqS3fuQL39ZeatTXaw2ewh0qpKJ4jjv9cJ2vhsE/zB+4ALtRZh8tSQZXq9EfX7mRB\nVXyNWQKV3WKdwrnuWih0hKWbt5DHDAff9Yk2dDLWKMGwsAvgnEzDHNb842m1R0aB\nL6KCq9NjRHDEjf8tM7qtj3u1cIiuPhnPQCjY/MiQu12ZIvVS5ljFH4gxQ+6IHdfG\njjxDah2nGN59PRbxYvnKkKj9\n-----END CERTIFICATE-----\n","primaryButtonText":"Back to safety","primaryParagraph":"Attackers might be trying to steal your information from \u003Cstrong>www.assetmng.ru\u003C/strong> (for example, passwords, messages, or credit cards). \u003Ca href=\"#\" id=\"learn-more-link\">Learn more\u003C/a>","recurrentErrorParagraph":"Warnings may be common while websites update their security. This should improve soon.","show_recurrent_error_paragraph":false,"subject":"assetmng.ru","tabTitle":"Privacy error","textdirection":"ltr","type":"SSL"};</script>

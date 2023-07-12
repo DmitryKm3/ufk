@@ -1,0 +1,157 @@
+
+<!-------------------------- BEGIN COPYING THE HTML HERE ---------------------------->
+<div id="layer4" style="position: absolute; left: 37px; top: 153px; width: 168px; height: 27px; z-index: 3; visibility: visible;">
+	<img style="top: 153px; height: 600px; width: 168px;" name="layer_4" src="images/layer_4.gif" border="0"></div>
+
+<div id="layer5" style="position: absolute; left: 218px; top: 153px; width: 608px; height: 150px; z-index: 4; visibility: visible;"><img style="top: 153px; height: 1300px;" name="layer_5" src="images/layer_5.gif" border="0" width="628"></div>
+
+<br>
+
+<div id="layer11" class="style1" style="position: absolute; z-index: 10; visibility: visible; width: 119px; height: 125px; left: 60px; top: 164px;">
+<table style="text-align: left; width: 100%;" border="0" cellpadding="2" cellspacing="2">
+  <tbody>
+    <tr>
+      <td><small><a href="about.php">О компании</a></small></td>
+    </tr>
+      
+    <tr>
+      <td><a href="edo.php"><small>Электронный
+документооборот</small></a> </td>
+    </tr>
+    <tr>
+      <td><a href="fonds.php"><small>Фонды</small></a> </td>
+    </tr>
+    <tr>
+      <td><a href="dop_info.php"><small>Раскрытие информации  в соответствии Указанием ЦБ РФ N5609-У от 2 ноября 2020 г.</small></a> 
+<!---      <small><a href="raschet.php">Расчёт
+собственных средств УК</a><br>
+-->
+     </td> 
+
+
+    </tr><tr>
+      <td><a href="reglament_priznaniya_kval_inv.pdf"><small>Регламент признания лиц квалифицированными инвесторами</small></a> </td>
+    </tr>
+
+    <tr>
+      <td><a href="polozheniye_o_kriteriyah_otneseniya_k_inostr_nalogopl.pdf"><small>Положение о критериях отнесения клиентов ООО УК «Столица Нижний» 
+к категории клиента-иностранного налогоплательщика 
+и способах получения от них необходимой информации</small></a> </td>
+    </tr>
+
+
+  </tbody>
+</table>
+<br>
+</div>
+
+<div class="style1" id="layer20" style="position: absolute; z-index: 18; visibility: visible; left: 115px; width: 610px; top: 6px; height: 47px;"><big><big><big><big><big><span class="style3">Управляющая компания "Столица Нижний"</span></big></big></big></big></big></div>
+
+<div id="layer30" style="position: absolute; width: 275px; height: 70px; z-index: 28; visibility: visible; top: 58px; left: 35px;"><img style="left: 35px; width: 694px;" name="layer_30" src="images/layer_30.gif" border="0" height="70"></div>
+
+
+
+
+<div id="layer12" style="position: absolute; left: 271px; top: 165px; width: 203px; height: 10px; z-index: 11; visibility: visible;"><span class="style1">Расчет собственных средств<span class="style5"></span></span></div>
+
+<div class="style1" id="layer20" style="position: absolute; z-index: 18; visibility: visible; left: 115px; width: 610px; top: 6px; height: 47px;"><big><big><big><big><big><span class="style3">Управляющая компания "Столица Нижний"</span></big></big></big></big></big></div>
+
+<div id="layer23" style="position: absolute; left: 271px; width: 414px; z-index: 21; visibility: visible; top: 196px; height: 452px;"><a target="_blank" href="rasch_sobstv_sredst_1.htm"><span class="style3style5"></span></a>
+<table style="text-align: left; left: 271px; width: 559px;" border="1" cellpadding="2" cellspacing="2">
+  <tbody>
+    <tr>
+      <td><span style="font-size: large;"><strong><span style="color: rgb(0, 0, 255);">Отчетная дата</span></strong></span></td>
+      <td><span style="color: rgb(0, 0, 255);"><span style="background-color: rgb(255, 255, 255);"><span style="font-size: x-small;"><span style="font-size: large;"><strong>Дата
+публикации</strong></span></span></span></span></td>
+    </tr>
+
+
+    <tr>
+      <td><a href="raschet/raschet_20230531.xls"><span class="style3style5">Собственные средства на 31.05.2023 г.
+</span></a></td>
+      <td>15/06/2023</td>
+    </tr>
+    <tr>
+      <td><a href="raschet/raschet_20230430.xls"><span class="style3style5">Собственные средства на 30.04.2023 г.
+</span></a></td>
+      <td>17/05/2023</td>
+    </tr>
+    <tr>
+      <td><a href="raschet/raschet_20230331-correct.xls"><span class="style3style5">Собственные средства на 31.03.2023 г. (уточненный)
+</span></a></td>
+      <td>25/04/2023</td>
+    </tr>
+    <tr>
+      <td><a href="raschet/raschet_20230331.xls"><span class="style3style5">Собственные средства на 31.03.2023 г.
+</span></a></td>
+      <td>17/04/2023</td>
+    </tr>
+    <tr>
+      <td><a href="raschet/raschet_20230228.xls"><span class="style3style5">Собственные средства на 28.02.2023 г.
+</span></a></td>
+      <td>16/03/2023</td>
+    </tr>
+    <tr>
+      <td><a href="raschet/raschet_20230131.xls"><span class="style3style5">Собственные средства на 31.01.2023 г.
+</span></a></td>
+      <td>14/02/2023</td>
+    </tr>
+    <tr>
+      <td><a href="raschet/raschet_20221231.xls"><span class="style3style5">Собственные средства на 31.12.2022 г.
+</span></a></td>
+      <td>20/01/2023</td>
+    </tr>
+    <tr>
+      <td><a href="raschet/raschet_20221130.xls"><span class="style3style5">Собственные средства на 30.11.2022 г.
+</span></a></td>
+      <td>14/12/2022</td>
+    </tr>
+    <tr>
+      <td><a href="raschet/raschet_20221031.xls"><span class="style3style5">Собственные средства на 31.10.2022 г.
+</span></a></td>
+      <td>14/11/2022</td>
+    </tr>
+    <tr>
+      <td><a href="raschet/raschet_20220930.xls"><span class="style3style5">Собственные средства на 30.09.2022 г.
+</span></a></td>
+      <td>13/10/2022</td>
+    </tr>
+    <tr>
+      <td><a href="raschet/raschet_20220831.xls"><span class="style3style5">Собственные средства на 31.08.2022 г.
+</span></a></td>
+      <td>15/09/2022</td>
+    </tr>
+    <tr>
+      <td><a href="raschet/raschet_20220731.xls"><span class="style3style5">Собственные средства на 31.07.2022 г.
+</span></a></td>
+      <td>10/08/2022</td>
+    </tr>
+    <tr>
+      <td><a href="raschet/raschet_20220630.xls"><span class="style3style5">Собственные средства на 30.06.2022 г.
+</span></a></td>
+      <td>14/07/2022</td>
+    </tr>
+    <tr>
+      <td><a href="raschet/raschet_20220531.xls"><span class="style3style5">Собственные средства на 31.05.2022 г.
+</span></a></td>
+      <td>15/06/2022</td>
+    </tr>
+    <tr>
+      <td><a href="raschet/raschet_20220430.xls"><span class="style3style5">Собственные средства на 30.04.2022 г.
+</span></a></td>
+      <td>17/05/2022</td>
+    </tr>  </tbody>
+</table>
+<a target="_blank" href="rasch_sobstv_sredst_1.htm"><span class="style3style5"></span></a><a target="_blank" href="rasch_sobstv_sredst_2010_08_31.htm"><span class="style3style5"></span></a><a target="_blank" href="rasch_sobstv_sredst_2010_09_30.htm"><span class="style3style5"></span></a><a target="_blank" href="rasch_sobstv_sredst_2010_10_31.htm"><span class="style3style5"></span></a><a href="rasch_sobstv_sredst_2010_11_30.htm"><span class="style3style5"></span></a><a href="rasch_sobstv_sredst_2010_12_31.htm"><span class="style3style5"></span></a><a href="rasch_sobstv_sredst_2011_01_31.htm"><span class="style3style5"></span></a><a href="rasch_sobstv_sredstv_2011_02_28.htm"><span class="style3style5"></span></a><a href="rasch_sobstv_sredstv_2011_03_31.htm"><span class="style3style5"></span></a><a href="rasch_sobstv_sredstv_2011_04_30.htm"><span class="style3style5"></span></a><a href="rasch_sobstv_sredst_2011_05_31.htm"><span class="style3style5"></span></a><a href="raseh_sobst_sredst_2011_06_30.htm"><span class="style3style5"></span></a><a href="rasch_sobstv_sredstv_2011_07_31.htm"><span class="style3style5"></span></a><a href="rasch_sobstv_sredst_2011_08_31.htm"><span class="style3style5"></span></a><a href="rasch_sobstv_sredstv_2011_09_30.htm"><span class="style3style5"></span></a><br>
+<a href="rasch_sobstv_sredst_2011_10_31.htm"><span class="style3style5"></span></a><br>
+</div>
+
+<br>
+
+<div id="layer30" style="position: absolute; width: 275px; height: 70px; z-index: 28; visibility: visible; top: 58px; left: 35px;"><img style="left: 35px; width: 694px;" name="layer_30" src="images/layer_30.gif" border="0" height="70"></div>
+
+
+
+&nbsp;&nbsp; &nbsp;
+
+

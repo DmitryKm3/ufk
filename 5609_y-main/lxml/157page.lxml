@@ -1,0 +1,1124 @@
+
+  <div class="outer">
+    <div class="left">
+      <a href="/" class="logo"><img src="/images/logo.svg" alt="ООО «УК ЛэндПрофит»"></a>
+      <div class="menu">
+        <div class="mi  ">
+          <div class="aligner "><a href="/news/" onclick="if (/#$/.test(this.href)){this.parentNode.parentNode.classList.toggle('expanded'); return cancelEvent(arguments[0]);}">НОВОСТИ</a><a href="#" class="expander" onclick="this.parentNode.parentNode.classList.toggle('expanded');  return cancelEvent(arguments[0]);"></a></div>
+
+        </div>
+        <div class="mi  ">
+          <div class="aligner "><a href="/#" onclick="if (/#$/.test(this.href)){this.parentNode.parentNode.classList.toggle('expanded'); return cancelEvent(arguments[0]);}">О КОМПАНИИ</a><a href="#" class="expander" onclick="this.parentNode.parentNode.classList.toggle('expanded');  return cancelEvent(arguments[0]);"></a></div>
+        <div class="submenu">
+              <a href="/about/" class="">Описание компании</a>
+              <a href="/about/requisites/" class="">Реквизиты и основные сведения</a>
+              <a href="/about/contacts/" class="">Контактная информация</a>
+              <a href="/about/own-means/" class="">Собственные средства</a>
+              <a href="/about/finance-reports/" class="">Финансовая отчетность</a>
+              <a href="/about/docs/" class="">Документы компании</a>
+
+          </div>
+
+        </div>
+        <div class="mi  ">
+          <div class="aligner "><a href="/mutual-funds/" onclick="if (/#$/.test(this.href)){this.parentNode.parentNode.classList.toggle('expanded'); return cancelEvent(arguments[0]);}">ПАЕВЫЕ ФОНДЫ</a><a href="#" class="expander" onclick="this.parentNode.parentNode.classList.toggle('expanded');  return cancelEvent(arguments[0]);"></a></div>
+        <div class="submenu">
+              <a href="/mutual-funds/4/" class="">АКТИВПРОФИТ 1</a>
+              <a href="/mutual-funds/2/" class="">СИСТЕМА - РЕНТНАЯ НЕДВИЖИМОСТЬ 2</a>
+              <a href="/mutual-funds/3/" class="">СИСТЕМА - РЕНТНАЯ НЕДВИЖИМОСТЬ 3</a>
+
+          </div>
+
+        </div>
+        <div class="mi selected ">
+          <div class="aligner "><a href="/information/" onclick="if (/#$/.test(this.href)){this.parentNode.parentNode.classList.toggle('expanded'); return cancelEvent(arguments[0]);}">РАСКРЫТИЕ ИНФОРМАЦИИ</a><a href="#" class="expander" onclick="this.parentNode.parentNode.classList.toggle('expanded');  return cancelEvent(arguments[0]);"></a></div>
+
+        </div>
+        <div class="mi  ">
+          <div class="aligner "><a href="/links/" onclick="if (/#$/.test(this.href)){this.parentNode.parentNode.classList.toggle('expanded'); return cancelEvent(arguments[0]);}">ПОЛЕЗНЫЕ ССЫЛКИ</a><a href="#" class="expander" onclick="this.parentNode.parentNode.classList.toggle('expanded');  return cancelEvent(arguments[0]);"></a></div>
+
+        </div>
+
+  </div>
+
+      <div class="contacts">
+        
+      </div>
+      <div class="misc">
+        © www.sistema-re, Все права защищены<br>
+<br>
+<a href="/agreement/">Пользовательское соглашение</a><br>
+и <a href="/privacy/">политика конфиденциальности</a><br>
+<br>
+<a href="http://creart-design.ru" target="_blank"><img src="/images/made_by_creart.svg" alt="Made by CREART"></a><br>
+      </div>
+    </div>
+    <div class="main">
+      <div class="text_block">
+        <h1>РАСКРЫТИЕ ИНФОРМАЦИИ</h1>
+<p class="mi"><a href="/news/">СООБЩЕНИЯ УПРАВЛЯЮЩЕЙ КОМПАНИИ</a></p>
+<p class="mi"><a href="/mutual-funds/">ПАЕВЫЕ ИНВЕСТИЦИОННЫЕ ФОНДЫ</a></p>
+<div class="mi spoiler"><div class="button" onclick="this.parentNode.classList.toggle('expanded');">СОБСТВЕННЫЕ СРЕДСТВА УПРАВЛЯЮЩЕЙ КОМПАНИИ</div><div class="content"><div class="spoiler"><div class="button plus" onclick="this.parentNode.classList.toggle('expanded');">Расчёт размера собственных средств ООО «УК «ЛэндПрофит» за 2023 год</div><div class="content outstanding"><div class="file row" style="margin-bottom:20px;">
+  <a href="/content/docs/ss/ss_31052023.pdf"><img src="/images/format_pdf.png" alt="pdf" class="glyph"></a>
+  <div class="text">
+    <span class="title">Расчет размера собственных средств</span> <span class="title">на  31.05.2023 </span><br>
+    Дата и время публикации  13.06.2023 16:17   Срок публикации до 01.07.2026 включительно.
+  </div>
+</div>
+<div class="file row" style="margin-bottom:20px;">
+  <a href="/content/docs/ss/ss_30042023.pdf"><img src="/images/format_pdf.png" alt="pdf" class="glyph"></a>
+  <div class="text">
+    <span class="title">Расчет размера собственных средств</span> <span class="title">на  30.04.2023 </span><br>
+    Дата и время публикации  18.05.2023 17:15   Срок публикации до 01.06.2026 включительно.
+  </div>
+</div>
+<div class="file row" style="margin-bottom:20px;">
+  <a href="/content/docs/ss/ss_31032023.pdf"><img src="/images/format_pdf.png" alt="pdf" class="glyph"></a>
+  <div class="text">
+    <span class="title">Расчет размера собственных средств</span> <span class="title">на  31.03.2023 </span><br>
+    Дата и время публикации  13.04.2023 18:57   Срок публикации до 01.05.2026 включительно.
+  </div>
+</div>
+<div class="file row" style="margin-bottom:20px;">
+  <a href="/content/docs/ss/ss_28022023.pdf"><img src="/images/format_pdf.png" alt="pdf" class="glyph"></a>
+  <div class="text">
+    <span class="title">Расчет размера собственных средств</span> <span class="title">на  28.02.2023 </span><br>
+    Дата и время публикации  14.03.2023 19:05   Срок публикации до 01.04.2026 включительно.
+  </div>
+</div>
+<div class="file row" style="margin-bottom:20px;">
+  <a href="/content/docs/ss/ss_31012023.pdf"><img src="/images/format_pdf.png" alt="pdf" class="glyph"></a>
+  <div class="text">
+    <span class="title">Расчет размера собственных средств</span> <span class="title">на  31.01.2023 </span><br>
+    Дата и время публикации  13.02.2023 15:44   Срок публикации до 01.03.2026 включительно.
+  </div>
+</div>
+</div></div><div class="spoiler"><div class="button plus" onclick="this.parentNode.classList.toggle('expanded');">Расчёт размера собственных средств ООО «УК «ЛэндПрофит» за 2022 год</div><div class="content outstanding"><div class="file row" style="margin-bottom:20px;">
+  <a href="/content/docs/ss/ss_31122022.pdf"><img src="/images/format_pdf.png" alt="pdf" class="glyph"></a>
+  <div class="text">
+    <span class="title">Расчет размера собственных средств</span> <span class="title">на  31.12.2022 </span><br>
+    Дата и время публикации  20.01.2023 11:17   Срок публикации до 01.02.2026 включительно.
+  </div>
+</div>
+<div class="file row" style="margin-bottom:20px;">
+  <a href="/content/docs/ss/ss_30112022.pdf"><img src="/images/format_pdf.png" alt="pdf" class="glyph"></a>
+  <div class="text">
+    <span class="title">Расчет размера собственных средств</span> <span class="title">на  30.11.2022 </span><br>
+    Дата и время публикации  12.12.2022 17:01   Срок публикации до 01.01.2026 включительно.
+  </div>
+</div>
+<div class="file row" style="margin-bottom:20px;">
+  <a href="/content/docs/ss/ss_31102022.pdf"><img src="/images/format_pdf.png" alt="pdf" class="glyph"></a>
+  <div class="text">
+    <span class="title">Расчет размера собственных средств</span> <span class="title">на  31.10.2022 </span><br>
+    Дата и время публикации  15.11.2022 16:02   Срок публикации до 01.12.2025 включительно.
+  </div>
+</div>
+<div class="file row" style="margin-bottom:20px;">
+  <a href="/content/docs/ss/ss_30092022.pdf"><img src="/images/format_pdf.png" alt="pdf" class="glyph"></a>
+  <div class="text">
+    <span class="title">Расчет размера собственных средств</span> <span class="title">на  30.09.2022 </span><br>
+    Дата и время публикации  12.10.2022 19:41   Срок публикации до 01.11.2025 включительно.
+  </div>
+</div>
+<div class="file row" style="margin-bottom:20px;">
+  <a href="/content/docs/ss/ss_31082022.pdf"><img src="/images/format_pdf.png" alt="pdf" class="glyph"></a>
+  <div class="text">
+    <span class="title">Расчет размера собственных средств</span> <span class="title">на  31.08.2022 </span><br>
+    Дата и время публикации  14.09.2022 17:50   Срок публикации до 01.10.2025 включительно.
+  </div>
+</div>
+<div class="file row" style="margin-bottom:20px;">
+  <a href="/content/docs/ss/ss_31072022.pdf"><img src="/images/format_pdf.png" alt="pdf" class="glyph"></a>
+  <div class="text">
+    <span class="title">Расчет размера собственных средств</span> <span class="title">на  31.07.2022 </span><br>
+    Дата и время публикации  11.08.2022 17:58   Срок публикации до 01.09.2025 включительно.
+  </div>
+</div>
+<div class="file row" style="margin-bottom:20px;">
+  <a href="/content/docs/ss/ss_30062022.pdf"><img src="/images/format_pdf.png" alt="pdf" class="glyph"></a>
+  <div class="text">
+    <span class="title">Расчет размера собственных средств</span> <span class="title">на  30.06.2022 </span><br>
+    Дата и время публикации  13.07.2022 17:02   Срок публикации до 01.08.2025 включительно.
+  </div>
+</div>
+<div class="file row" style="margin-bottom:20px;">
+  <a href="/content/docs/ss/ss_31052022.pdf"><img src="/images/format_pdf.png" alt="pdf" class="glyph"></a>
+  <div class="text">
+    <span class="title">Расчет размера собственных средств</span> <span class="title">на  31.05.2022 </span><br>
+    Дата и время публикации  14.06.2022 18:20   Срок публикации до 01.07.2025 включительно.
+  </div>
+</div>
+<div class="file row" style="margin-bottom:20px;">
+  <a href="/content/docs/ss/ss_30042022_.pdf"><img src="/images/format_pdf.png" alt="pdf" class="glyph"></a>
+  <div class="text">
+    <span class="title">Расчет размера собственных средств</span> <span class="title">на  30.04.2022 </span><br>
+    Дата и время публикации  19.05.2022 16:58   Срок публикации до 01.06.2025 включительно.
+  </div>
+</div>
+<div class="file row" style="margin-bottom:20px;">
+  <a href="/content/docs/ss/ss_31032022.pdf"><img src="/images/format_pdf.png" alt="pdf" class="glyph"></a>
+  <div class="text">
+    <span class="title">Расчет размера собственных средств</span> <span class="title">на  31.03.2022 </span><br>
+    Дата и время публикации  14.04.2022 17:29   Срок публикации до 01.05.2025 включительно.
+  </div>
+</div>
+<div class="file row" style="margin-bottom:20px;">
+  <a href="/content/docs/ss/ss_28022022.pdf"><img src="/images/format_pdf.png" alt="pdf" class="glyph"></a>
+  <div class="text">
+    <span class="title">Расчет размера собственных средств</span> <span class="title">на  28.02.2022 </span><br>
+    Дата и время публикации  16.03.2022 13:01   Срок публикации до 01.04.2025 включительно.
+  </div>
+</div>
+<div class="file row" style="margin-bottom:20px;">
+  <a href="/content/docs/ss/ss_31012022.pdf"><img src="/images/format_pdf.png" alt="pdf" class="glyph"></a>
+  <div class="text">
+    <span class="title">Расчет размера собственных средств</span> <span class="title">на  31.01.2022 </span><br>
+    Дата и время публикации  11.02.2022 15:22   Срок публикации до 01.03.2025 включительно.
+  </div>
+</div>
+</div></div><div class="spoiler"><div class="button plus" onclick="this.parentNode.classList.toggle('expanded');">Расчёт размера собственных средств ООО «УК «ЛэндПрофит» за 2021 год</div><div class="content outstanding"><div class="file row" style="margin-bottom:20px;">
+  <a href="/content/docs/ss/ss_31122021.pdf"><img src="/images/format_pdf.png" alt="pdf" class="glyph"></a>
+  <div class="text">
+    <span class="title">Расчет размера собственных средств</span> <span class="title">на  31.12.2021 </span><br>
+    Дата и время публикации  21.01.2022 12:28   Срок публикации до 01.02.2025 включительно.
+  </div>
+</div>
+<div class="file row" style="margin-bottom:20px;">
+  <a href="/content/docs/ss/ss_30112021.pdf"><img src="/images/format_pdf.png" alt="pdf" class="glyph"></a>
+  <div class="text">
+    <span class="title">Расчет размера собственных средств</span> <span class="title">на  30.11.2021 </span><br>
+    Дата и время публикации  14.12.2021 16:42   Срок публикации до 01.01.2025 включительно.
+  </div>
+</div>
+<div class="file row" style="margin-bottom:20px;">
+  <a href="/content/docs/ss/ss_31102021.pdf"><img src="/images/format_pdf.png" alt="pdf" class="glyph"></a>
+  <div class="text">
+    <span class="title">Расчет размера собственных средств</span> <span class="title">на  31.10.2021 </span><br>
+    Дата и время публикации  22.11.2021 12:41   Срок публикации до 01.12.2024 включительно.
+  </div>
+</div>
+<div class="file row" style="margin-bottom:20px;">
+  <a href="/content/docs/ss/ss_30092021.pdf"><img src="/images/format_pdf.png" alt="pdf" class="glyph"></a>
+  <div class="text">
+    <span class="title">Расчет размера собственных средств</span> <span class="title">на  30.09.2021 </span><br>
+    Дата и время публикации  14.10.2021 17:35   Срок публикации до 01.11.2022 включительно.
+  </div>
+</div>
+<div class="file row" style="margin-bottom:20px;">
+  <a href="/content/docs/ss/ss_31082021.pdf"><img src="/images/format_pdf.png" alt="pdf" class="glyph"></a>
+  <div class="text">
+    <span class="title">Расчет размера собственных средств</span> <span class="title">на  31.08.2021 </span><br>
+    Дата и время публикации  14.09.2021 16:23   Срок публикации до 01.10.2022 включительно.
+  </div>
+</div>
+<div class="file row" style="margin-bottom:20px;">
+  <a href="/content/docs/ss/ss_31072021.pdf"><img src="/images/format_pdf.png" alt="pdf" class="glyph"></a>
+  <div class="text">
+    <span class="title">Расчет размера собственных средств</span> <span class="title">на  31.07.2021 </span><br>
+    Дата и время публикации  13.08.2021 18:20   Срок публикации до 01.09.2022 включительно.
+  </div>
+</div>
+<div class="file row" style="margin-bottom:20px;">
+  <a href="/content/docs/ss/ss_30062021.pdf"><img src="/images/format_pdf.png" alt="pdf" class="glyph"></a>
+  <div class="text">
+    <span class="title">Расчет размера собственных средств</span> <span class="title">на  30.06.2021 </span><br>
+    Дата и время публикации  14.07.2021 11:58   Срок публикации до 01.08.2022 включительно.
+  </div>
+</div>
+<div class="file row" style="margin-bottom:20px;">
+  <a href="/content/docs/ss/ss_31052021.pdf"><img src="/images/format_pdf.png" alt="pdf" class="glyph"></a>
+  <div class="text">
+    <span class="title">Расчет размера собственных средств</span> <span class="title">на  31.05.2021 </span><br>
+    Дата и время публикации  15.06.2021 11:21   Срок публикации до 01.07.2022 включительно.
+  </div>
+</div>
+<div class="file row" style="margin-bottom:20px;">
+  <a href="/content/docs/ss/ss_30042021.pdf"><img src="/images/format_pdf.png" alt="pdf" class="glyph"></a>
+  <div class="text">
+    <span class="title">Расчет размера собственных средств</span> <span class="title">на  30.04.2021 </span><br>
+    Дата и время публикации  25.05.2021 16:00   Срок публикации до 01.06.2022 включительно.
+  </div>
+</div>
+<div class="file row" style="margin-bottom:20px;">
+  <a href="/content/docs/ss/ss_31032021.pdf"><img src="/images/format_pdf.png" alt="pdf" class="glyph"></a>
+  <div class="text">
+    <span class="title">Расчет размера собственных средств</span> <span class="title">на  31.03.2021 </span><br>
+    Дата и время публикации  15.04.2021 15:41   Срок публикации до 01.05.2022 включительно.
+  </div>
+</div>
+<div class="file row" style="margin-bottom:20px;">
+  <a href="/content/docs/ss/ss_28022021.pdf"><img src="/images/format_pdf.png" alt="pdf" class="glyph"></a>
+  <div class="text">
+    <span class="title">Расчет размера собственных средств</span> <span class="title">на  28.02.2021 </span><br>
+    Дата и время публикации  12.03.2021 18:42   Срок публикации до 01.04.2022 включительно.
+  </div>
+</div>
+<div class="file row" style="margin-bottom:20px;">
+  <a href="/content/docs/ss/ss_31012021.pdf"><img src="/images/format_pdf.png" alt="pdf" class="glyph"></a>
+  <div class="text">
+    <span class="title">Расчет размера собственных средств</span> <span class="title">на  31.01.2021 </span><br>
+    Дата и время публикации  15.02.2021 15:53   Срок публикации до 01.03.2022 включительно.
+  </div>
+</div>
+</div></div><div class="spoiler"><div class="button plus" onclick="this.parentNode.classList.toggle('expanded');">Расчёт размера собственных средств ООО «УК «ЛэндПрофит» за 2020 год</div><div class="content outstanding"><div class="file row" style="margin-bottom:20px;">
+  <a href="/content/docs/ss/ss_31122020.pdf"><img src="/images/format_pdf.png" alt="pdf" class="glyph"></a>
+  <div class="text">
+    <span class="title">Расчет размера собственных средств</span> <span class="title">на  31.12.2020 </span><br>
+    Дата и время публикации  25.01.2021 16:37   Срок публикации до 01.02.2022 включительно.
+  </div>
+</div>
+<div class="file row" style="margin-bottom:20px;">
+  <a href="/content/docs/ss/ss_30112020.pdf"><img src="/images/format_pdf.png" alt="pdf" class="glyph"></a>
+  <div class="text">
+    <span class="title">Расчет размера собственных средств</span> <span class="title">на  30.11.2020 </span><br>
+    Дата и время публикации  11.12.2020 17:07   Срок публикации до 01.01.2022 включительно.
+  </div>
+</div>
+<div class="file row" style="margin-bottom:20px;">
+  <a href="/content/docs/ss/ss_31102020.pdf"><img src="/images/format_pdf.png" alt="pdf" class="glyph"></a>
+  <div class="text">
+    <span class="title">Расчет размера собственных средств</span> <span class="title">на  31.10.2020 </span><br>
+    Дата и время публикации  13.11.2020 17:39   Срок публикации до 01.12.2021 включительно.
+  </div>
+</div>
+<div class="file row" style="margin-bottom:20px;">
+  <a href="/content/docs/ss/ss_30092020.pdf"><img src="/images/format_pdf.png" alt="pdf" class="glyph"></a>
+  <div class="text">
+    <span class="title">Расчет размера собственных средств</span> <span class="title">на  30.09.2020 </span><br>
+    Дата и время публикации  15.10.2020 12:25   Срок публикации до 01.11.2021 включительно.
+  </div>
+</div>
+<div class="file row" style="margin-bottom:20px;">
+  <a href="/content/docs/ss/ss_31082020.pdf"><img src="/images/format_pdf.png" alt="pdf" class="glyph"></a>
+  <div class="text">
+    <span class="title">Расчет размера собственных средств</span> <span class="title">на  31.08.2020 </span><br>
+    Дата и время публикации  22.09.2020 16:25   Срок публикации до 01.10.2021 включительно.
+  </div>
+</div>
+<div class="file row" style="margin-bottom:20px;">
+  <a href="/content/docs/ss/ss_31072020.pdf"><img src="/images/format_pdf.png" alt="pdf" class="glyph"></a>
+  <div class="text">
+    <span class="title">Расчет размера собственных средств</span> <span class="title">на  31.07.2020 </span><br>
+    Дата и время публикации  13.08.2020 16:47   Срок публикации до 01.09.2021 включительно.
+  </div>
+</div>
+<div class="file row" style="margin-bottom:20px;">
+  <a href="/content/docs/ss/ss_30062020.pdf"><img src="/images/format_pdf.png" alt="pdf" class="glyph"></a>
+  <div class="text">
+    <span class="title">Расчет размера собственных средств</span> <span class="title">на  30.06.2020 </span><br>
+    Дата и время публикации  15.07.2020 16:10   Срок публикации до 01.08.2021 включительно.
+  </div>
+</div>
+<div class="file row" style="margin-bottom:20px;">
+  <a href="/content/docs/ss/ss_31052020.pdf"><img src="/images/format_pdf.png" alt="pdf" class="glyph"></a>
+  <div class="text">
+    <span class="title">Расчет размера собственных средств</span> <span class="title">на  31.05.2020 </span><br>
+    Дата и время публикации  11.06.2020 18:01   Срок публикации до 01.07.2021 включительно.
+  </div>
+</div>
+<div class="file row" style="margin-bottom:20px;">
+  <a href="/content/docs/ss/ss_30042020.pdf"><img src="/images/format_pdf.png" alt="pdf" class="glyph"></a>
+  <div class="text">
+    <span class="title">Расчет размера собственных средств</span> <span class="title">на  30.04.2020 </span><br>
+    Дата и время публикации  19.05.2020 14:26   Срок публикации до 01.06.2021 включительно.
+  </div>
+</div>
+<div class="file row" style="margin-bottom:20px;">
+  <a href="/content/docs/ss/ss_31032020.pdf"><img src="/images/format_pdf.png" alt="pdf" class="glyph"></a>
+  <div class="text">
+    <span class="title">Расчет размера собственных средств</span> <span class="title">на  31.03.2020 </span><br>
+    Дата и время публикации  16.04.2020 17:48   Срок публикации до 01.05.2021 включительно.
+  </div>
+</div>
+<div class="file row" style="margin-bottom:20px;">
+  <a href="/content/docs/ss/ss_29022020.pdf"><img src="/images/format_pdf.png" alt="pdf" class="glyph"></a>
+  <div class="text">
+    <span class="title">Расчет размера собственных средств</span> <span class="title">на  29.02.2020 </span><br>
+    Дата и время публикации  16.03.2020 17:27   Срок публикации до 01.04.2021 включительно.
+  </div>
+</div>
+<div class="file row" style="margin-bottom:20px;">
+  <a href="/content/docs/ss/ss_31012020.pdf"><img src="/images/format_pdf.png" alt="pdf" class="glyph"></a>
+  <div class="text">
+    <span class="title">Расчет размера собственных средств</span> <span class="title">на  31.01.2020 </span><br>
+    Дата и время публикации  13.02.2020 17:30   Срок публикации до 01.03.2021 включительно.
+  </div>
+</div>
+</div></div><div class="spoiler"><div class="button plus" onclick="this.parentNode.classList.toggle('expanded');">Расчёт размера собственных средств ООО «УК «ЛэндПрофит» за 2019 год</div><div class="content outstanding"><div class="file row" style="margin-bottom:20px;">
+  <a href="/content/docs/ss/ss_31122019.pdf"><img src="/images/format_pdf.png" alt="pdf" class="glyph"></a>
+  <div class="text">
+    <span class="title">Расчет размера собственных средств</span> <span class="title">на  31.12.2019 </span><br>
+    Дата и время публикации  22.01.2020 16:56   Срок публикации до 01.02.2021 включительно.
+  </div>
+</div>
+<div class="file row" style="margin-bottom:20px;">
+  <a href="/content/docs/ss/ss_30112019.pdf"><img src="/images/format_pdf.png" alt="pdf" class="glyph"></a>
+  <div class="text">
+    <span class="title">Расчет размера собственных средств</span> <span class="title">на  30.11.2019 </span><br>
+    Дата и время публикации  13.12.2019 20:15   Срок публикации до 01.01.2021 включительно.
+  </div>
+</div>
+<div class="file row" style="margin-bottom:20px;">
+  <a href="/content/docs/ss/ss_31102019.pdf"><img src="/images/format_pdf.png" alt="pdf" class="glyph"></a>
+  <div class="text">
+    <span class="title">Расчет размера собственных средств</span> <span class="title">на  31.10.2019 </span><br>
+    Дата и время публикации  20.11.2019 12:17   Срок публикации до 01.12.2020 включительно.
+  </div>
+</div>
+<div class="file row" style="margin-bottom:20px;">
+  <a href="/content/docs/ss/ss_30092019.pdf"><img src="/images/format_pdf.png" alt="pdf" class="glyph"></a>
+  <div class="text">
+    <span class="title">Расчет размера собственных средств</span> <span class="title">на  30.09.2019 </span><br>
+    Дата и время публикации  14.10.2019 16:08   Срок публикации до 01.11.2020 включительно.
+  </div>
+</div>
+<div class="file row" style="margin-bottom:20px;">
+  <a href="/content/docs/ss/ss_31082019.pdf"><img src="/images/format_pdf.png" alt="pdf" class="glyph"></a>
+  <div class="text">
+    <span class="title">Расчет размера собственных средств</span> <span class="title">на  31.08.2019 </span><br>
+    Дата и время публикации  23.09.2019 18:07   Срок публикации до 01.10.2020 включительно.
+  </div>
+</div>
+<div class="file row" style="margin-bottom:20px;">
+  <a href="/content/docs/ss/ss_31072019.pdf"><img src="/images/format_pdf.png" alt="pdf" class="glyph"></a>
+  <div class="text">
+    <span class="title">Расчет размера собственных средств</span> <span class="title">на  31.07.2019 </span><br>
+    Дата и время публикации  14.08.2019 18:24   Срок публикации до 01.09.2020 включительно.
+  </div>
+</div>
+<div class="file row" style="margin-bottom:20px;">
+  <a href="/content/docs/ss/ss_30062019.pdf"><img src="/images/format_pdf.png" alt="pdf" class="glyph"></a>
+  <div class="text">
+    <span class="title">Расчет размера собственных средств</span> <span class="title">на  30.06.2019 </span><br>
+    Дата и время публикации  12.07.2019 15:12   Срок публикации до 01.08.2020 включительно.
+  </div>
+</div>
+<div class="file row" style="margin-bottom:20px;">
+  <a href="/content/docs/ss/ss_31052019.pdf"><img src="/images/format_pdf.png" alt="pdf" class="glyph"></a>
+  <div class="text">
+    <span class="title">Расчет размера собственных средств</span> <span class="title">на  31.05.2019 </span><br>
+    Дата и время публикации  17.06.2019 12:05   Срок публикации до 01.07.2020 включительно.
+  </div>
+</div>
+<div class="file row" style="margin-bottom:20px;">
+  <a href="/content/docs/ss/ss_30042019.pdf"><img src="/images/format_pdf.png" alt="pdf" class="glyph"></a>
+  <div class="text">
+    <span class="title">Расчет размера собственных средств</span> <span class="title">на  30.04.2019 </span><br>
+    Дата и время публикации  21.05.2019 17:33   Срок публикации до 01.06.2020 включительно.
+  </div>
+</div>
+<div class="file row" style="margin-bottom:20px;">
+  <a href="/content/docs/ss/ss_31032019.pdf"><img src="/images/format_pdf.png" alt="pdf" class="glyph"></a>
+  <div class="text">
+    <span class="title">Расчет размера собственных средств</span> <span class="title">на  31.03.2019 </span><br>
+    Дата и время публикации  12.04.2019 16:50   Срок публикации до 01.05.2020 включительно.
+  </div>
+</div>
+<div class="file row" style="margin-bottom:20px;">
+  <a href="/content/docs/ss/ss_28022019.pdf"><img src="/images/format_pdf.png" alt="pdf" class="glyph"></a>
+  <div class="text">
+    <span class="title">Расчет размера собственных средств</span> <span class="title">на  28.02.2019 </span><br>
+    Дата и время публикации  15.03.2019 16:26   Срок публикации до 01.04.2020 включительно.
+  </div>
+</div>
+<div class="file row" style="margin-bottom:20px;">
+  <a href="/content/docs/ss/ss_31012019.pdf"><img src="/images/format_pdf.png" alt="pdf" class="glyph"></a>
+  <div class="text">
+    <span class="title">Расчет размера собственных средств</span> <span class="title">на  31.01.2019 </span><br>
+    Дата и время публикации  14.02.2019 19:14   Срок публикации до 01.03.2020 включительно.
+  </div>
+</div>
+</div></div><div class="spoiler"><div class="button plus" onclick="this.parentNode.classList.toggle('expanded');">Расчёт размера собственных средств ООО «УК «ЛэндПрофит» за 2018 год</div><div class="content outstanding"><div class="file row" style="margin-bottom:20px;">
+  <a href="/content/docs/ss/ss_31122018.pdf"><img src="/images/format_pdf.png" alt="pdf" class="glyph"></a>
+  <div class="text">
+    <span class="title">Расчет размера собственных средств</span> <span class="title">на  31.12.2018 </span><br>
+    Дата и время публикации  22.01.2019 17:40   Срок публикации до 01.02.2020 включительно.
+  </div>
+</div>
+<div class="file row" style="margin-bottom:20px;">
+  <a href="/content/docs/ss/ss_30112018.pdf"><img src="/images/format_pdf.png" alt="pdf" class="glyph"></a>
+  <div class="text">
+    <span class="title">Расчет размера собственных средств</span> <span class="title">на  30.11.2018 </span><br>
+    Дата и время публикации  14.12.2018 17:24   Срок публикации до 01.01.2020 включительно.
+  </div>
+</div>
+<div class="file row" style="margin-bottom:20px;">
+  <a href="/content/docs/ss/ss_31102018.pdf"><img src="/images/format_pdf.png" alt="pdf" class="glyph"></a>
+  <div class="text">
+    <span class="title">Расчет размера собственных средств</span> <span class="title">на  31.10.2018 </span><br>
+    Дата и время публикации  15.11.2018 19:02   Срок публикации до 01.12.2019 включительно.
+  </div>
+</div>
+<div class="file row" style="margin-bottom:20px;">
+  <a href="/content/docs/ss/ss_30092018_correct.pdf"><img src="/images/format_pdf.png" alt="pdf" class="glyph"></a>
+  <div class="text">
+    <span class="title">Расчет размера собственных средств (скорректированный)</span> <span class="title">на  30.09.2018 </span><br>
+    Дата и время публикации  12.11.2018 19:07   Срок публикации до 01.12.2019 включительно.
+  </div>
+</div>
+<div class="file row" style="margin-bottom:20px;">
+  <a href="/content/docs/ss/ss_30092018.pdf"><img src="/images/format_pdf.png" alt="pdf" class="glyph"></a>
+  <div class="text">
+    <span class="title">Расчет размера собственных средств</span> <span class="title">на  30.09.2018 </span><br>
+    Дата и время публикации  12.10.2018 17:29   Срок публикации до 01.11.2019 включительно.
+  </div>
+</div>
+<div class="file row" style="margin-bottom:20px;">
+  <a href="/content/docs/ss/ss_31082018.pdf"><img src="/images/format_pdf.png" alt="pdf" class="glyph"></a>
+  <div class="text">
+    <span class="title">Расчет размера собственных средств</span> <span class="title">на  31.08.2018 </span><br>
+    Дата и время публикации  14.09.2018 16:00   Срок публикации до 01.10.2019 включительно.
+  </div>
+</div>
+<div class="file row" style="margin-bottom:20px;">
+  <a href="/content/docs/ss/ss 31 07 2018.pdf"><img src="/images/format_pdf.png" alt="pdf" class="glyph"></a>
+  <div class="text">
+    <span class="title">Расчет размера собственных средств</span> <span class="title">на  31.07.2018 </span><br>
+    Дата и время публикации  17.08.2018 18:11   Срок публикации до 01.09.2019 включительно.
+  </div>
+</div>
+<div class="file row" style="margin-bottom:20px;">
+  <a href="/content/docs/ss/ss 30 06 2018.pdf"><img src="/images/format_pdf.png" alt="pdf" class="glyph"></a>
+  <div class="text">
+    <span class="title">Расчет размера собственных средств</span> <span class="title">на  30.06.2018 </span><br>
+    Дата и время публикации  13.07.2018 15:11   Срок публикации до 01.08.2019 включительно.
+  </div>
+</div>
+<div class="file row" style="margin-bottom:20px;">
+  <a href="/content/docs/ss/ss 31 05 2018.pdf"><img src="/images/format_pdf.png" alt="pdf" class="glyph"></a>
+  <div class="text">
+    <span class="title">Расчет размера собственных средств</span> <span class="title">на  31.05.2018 </span><br>
+    Дата и время публикации  19.06.2018 12:13   Срок публикации до 01.07.2019 включительно.
+  </div>
+</div>
+<div class="file row" style="margin-bottom:20px;">
+  <a href="/content/docs/ss/ss 30 04 2018.pdf"><img src="/images/format_pdf.png" alt="pdf" class="glyph"></a>
+  <div class="text">
+    <span class="title">Расчет размера собственных средств</span> <span class="title">на  30.04.2018 </span><br>
+    Дата и время публикации  17.05.2018 15:09   Срок публикации до 01.06.2019 включительно.
+  </div>
+</div>
+<div class="file row" style="margin-bottom:20px;">
+  <a href="/content/docs/ss/ss 31 03 2018.pdf"><img src="/images/format_pdf.png" alt="pdf" class="glyph"></a>
+  <div class="text">
+    <span class="title">Расчет размера собственных средств</span> <span class="title">на  31.03.2018 </span><br>
+    Дата и время публикации  13.04.2018 12:10   Срок публикации до 01.05.2019 включительно.
+  </div>
+</div>
+<div class="file row" style="margin-bottom:20px;">
+  <a href="/content/docs/ss/ss 28 02 2018.pdf"><img src="/images/format_pdf.png" alt="pdf" class="glyph"></a>
+  <div class="text">
+    <span class="title">Расчет размера собственных средств</span> <span class="title">на  28.02.2018 </span><br>
+    Дата и время публикации  16.03.2018 12:51   Срок публикации до 01.04.2019 включительно.
+  </div>
+</div>
+<div class="file row" style="margin-bottom:20px;">
+  <a href="/content/docs/ss/RSS_31012018.pdf"><img src="/images/format_pdf.png" alt="pdf" class="glyph"></a>
+  <div class="text">
+    <span class="title">Расчет размера собственных средств</span> <span class="title">на  31.01.2018 </span><br>
+    Дата и время публикации  16.02.2018 17:48   Срок публикации до 01.03.2019 включительно.
+  </div>
+</div>
+</div></div><div class="spoiler"><div class="button plus" onclick="this.parentNode.classList.toggle('expanded');">Расчёт размера собственных средств ООО «УК «ЛэндПрофит» за 2017 год</div><div class="content outstanding"><div class="file row" style="margin-bottom:20px;">
+  <a href="/content/docs/ss/RSS_31122017.pdf"><img src="/images/format_pdf.png" alt="pdf" class="glyph"></a>
+  <div class="text">
+    <span class="title">Расчет размера собственных средств</span> <span class="title">на  31.12.2017 </span><br>
+    Дата и время публикации  22.01.2018 18:30   Срок публикации до 01.02.2019 включительно.
+  </div>
+</div>
+<div class="file row" style="margin-bottom:20px;">
+  <a href="/content/docs/ss/SS 30 11 2017.pdf"><img src="/images/format_pdf.png" alt="pdf" class="glyph"></a>
+  <div class="text">
+    <span class="title">Расчет размера собственных средств</span> <span class="title">на  30.11.2017 </span><br>
+    Дата и время публикации  15.12.2017 18:30   Срок публикации до 01.01.2019 включительно.
+  </div>
+</div>
+<div class="file row" style="margin-bottom:20px;">
+  <a href="/content/docs/ss/RSS_31102017.pdf"><img src="/images/format_pdf.png" alt="pdf" class="glyph"></a>
+  <div class="text">
+    <span class="title">Расчет размера собственных средств</span> <span class="title">на  31.10.2017 </span><br>
+    Дата и время публикации  15.11.2017 14:29   Срок публикации до 01.12.2018 включительно.
+  </div>
+</div>
+<div class="file row" style="margin-bottom:20px;">
+  <a href="/content/docs/ss/RSS_30092017.pdf"><img src="/images/format_pdf.png" alt="pdf" class="glyph"></a>
+  <div class="text">
+    <span class="title">Расчет размера собственных средств</span> <span class="title">на  30.09.2017 </span><br>
+    Дата и время публикации  16.10.2017 17:12   Срок публикации до 01.11.2018 включительно.
+  </div>
+</div>
+<div class="file row" style="margin-bottom:20px;">
+  <a href="/content/docs/ss/RSS_31.08.2017.pdf"><img src="/images/format_pdf.png" alt="pdf" class="glyph"></a>
+  <div class="text">
+    <span class="title">Расчет размера собственных средств</span> <span class="title">на  31.08.2017 </span><br>
+    Дата и время публикации  15.09.2017 17:14   Срок публикации до 01.10.2018 включительно.
+  </div>
+</div>
+<div class="file row" style="margin-bottom:20px;">
+  <a href="/content/docs/ss/RSS_31.07.2017.pdf"><img src="/images/format_pdf.png" alt="pdf" class="glyph"></a>
+  <div class="text">
+    <span class="title">Расчет размера собственных средств</span> <span class="title">на  31.07.2017 </span><br>
+    Дата и время публикации  16.08.2017 12:58   Срок публикации до 01.09.2018 включительно.
+  </div>
+</div>
+<div class="file row" style="margin-bottom:20px;">
+  <a href="/content/docs/ss/RSS_30.06.2017.pdf"><img src="/images/format_pdf.png" alt="pdf" class="glyph"></a>
+  <div class="text">
+    <span class="title">Расчет размера собственных средств</span> <span class="title">на  30.06.2017 </span><br>
+    Дата и время публикации  17.07.2017 13:53   Срок публикации до 01.08.2018 включительно.
+  </div>
+</div>
+<div class="file row" style="margin-bottom:20px;">
+  <a href="/content/docs/ss/RSS_31.05.2017.pdf"><img src="/images/format_pdf.png" alt="pdf" class="glyph"></a>
+  <div class="text">
+    <span class="title">Расчет размера собственных средств</span> <span class="title">на  31.05.2017 </span><br>
+    Дата и время публикации  16.06.2017 16:31   Срок публикации до 01.07.2018 включительно.
+  </div>
+</div>
+<div class="file row" style="margin-bottom:20px;">
+  <a href="/content/docs/ss/RSS_30.04.2017.pdf"><img src="/images/format_pdf.png" alt="pdf" class="glyph"></a>
+  <div class="text">
+    <span class="title">Расчет размера собственных средств</span> <span class="title">на  30.04.2017 </span><br>
+    Дата и время публикации  18.05.2017 15:24   Срок публикации до 01.06.2018 включительно.
+  </div>
+</div>
+<div class="file row" style="margin-bottom:20px;">
+  <a href="/content/docs/ss/RSS_31.03.2017.pdf"><img src="/images/format_pdf.png" alt="pdf" class="glyph"></a>
+  <div class="text">
+    <span class="title">Расчет размера собственных средств</span> <span class="title">на  31.03.2017 </span><br>
+    Дата и время публикации  17.04.2017 15:48   Срок публикации до 01.05.2018 включительно.
+  </div>
+</div>
+<div class="file row" style="margin-bottom:20px;">
+  <a href="/content/docs/ss/RSS_28.02.2017.pdf"><img src="/images/format_pdf.png" alt="pdf" class="glyph"></a>
+  <div class="text">
+    <span class="title">Расчет размера собственных средств</span> <span class="title">на  28.02.2017 </span><br>
+    Дата и время публикации  16.03.2017 14:52   Срок публикации до 01.04.2018 включительно.
+  </div>
+</div>
+<div class="file row" style="margin-bottom:20px;">
+  <a href="/content/docs/ss/RSS_31.01.2017_REP.pdf"><img src="/images/format_pdf.png" alt="pdf" class="glyph"></a>
+  <div class="text">
+    <span class="title">Расчет размера собственных средств</span> <span class="title">на  31.01.2017 </span><br>
+    Дата и время публикации  15.02.2017 15:16   Срок публикации до 01.03.2018 включительно.
+  </div>
+</div>
+</div></div></div></div>
+<div class="mi spoiler"><div class="button" onclick="this.parentNode.classList.toggle('expanded');">ФИНАНСОВАЯ ОТЧЕТНОСТЬ УПРАВЛЯЮЩЕЙ КОМПАНИИ</div><div class="content">
+  <div class="spoiler">
+    <div class="button" onclick="this.parentNode.classList.toggle('expanded');">Бухгалтерская промежуточная отчетность</div>
+    <div class="content">
+      <div class="spoiler">
+        <div class="button plus" onclick="this.parentNode.classList.toggle('expanded');">Бухгалтерская промежуточная отчетность ООО «УК «ЛэндПрофит» за 2023 год</div>
+        <div class="content outstanding">
+        <div class="file row" style="margin-bottom:20px;">
+          <a href="/content/docs/financial/отчетность БФО за 1 квартал 2023 года.pdf"><img src="/images/format_pdf.png" alt="pdf" class="glyph"></a>
+          <div class="text">
+            <span class="title">Промежуточная бухгалтерская (финансовая) отчетность за 1 квартал 2023 года</span> <span class="title">на  31.03.2023 </span><br>
+            Дата и время публикации  02.05.2023 15:55 срок доступа к информации до 01.08.2023 включительно
+          </div>
+        </div>
+        </div>
+      </div>      <div class="spoiler">
+        <div class="button plus" onclick="this.parentNode.classList.toggle('expanded');">Бухгалтерская промежуточная отчетность ООО «УК «ЛэндПрофит» за 2022 год</div>
+        <div class="content outstanding">
+        <div class="file row" style="margin-bottom:20px;">
+          <a href="/content/docs/financial/отчетность БФО за 9 месяцев 2022 года.pdf"><img src="/images/format_pdf.png" alt="pdf" class="glyph"></a>
+          <div class="text">
+            <span class="title">Промежуточная бухгалтерская (финансовая) отчетность за 9 месяцев 2022 года</span> <span class="title">на  30.09.2022 </span><br>
+            Дата и время публикации  28.10.2022 16:25 срок доступа к информации до 01.02.2023 включительно
+          </div>
+        </div>        <div class="file row" style="margin-bottom:20px;">
+          <a href="/content/docs/financial/отчетность БФО за 1 полугодие 2022 года.pdf"><img src="/images/format_pdf.png" alt="pdf" class="glyph"></a>
+          <div class="text">
+            <span class="title">Промежуточная бухгалтерская (финансовая) отчетность за 1 полугодие 2022 года</span> <span class="title">на  30.06.2022 </span><br>
+            Дата и время публикации  28.07.2022 15:43 срок доступа к информации до 01.011.2022 включительно
+          </div>
+        </div>        <div class="file row" style="margin-bottom:20px;">
+          <a href="/content/docs/financial/отчетность БФО за 1 квартал 2022 года.pdf"><img src="/images/format_pdf.png" alt="pdf" class="glyph"></a>
+          <div class="text">
+            <span class="title">Промежуточная бухгалтерская (финансовая) отчетность за 1 квартал 2022 года</span> <span class="title">на  31.03.2022 </span><br>
+            Дата и время публикации  04.05.2022 16:01 срок доступа к информации до 01.08.2022 включительно
+          </div>
+        </div>
+        </div>
+      </div>      <div class="spoiler">
+        <div class="button plus" onclick="this.parentNode.classList.toggle('expanded');">Бухгалтерская промежуточная отчетность ООО «УК «ЛэндПрофит» за 2021 год</div>
+        <div class="content outstanding">
+        <div class="file row" style="margin-bottom:20px;">
+          <a href="/content/docs/financial/отчетность БФО за 9 месяцев 2021 года_р.pdf"><img src="/images/format_pdf.png" alt="pdf" class="glyph"></a>
+          <div class="text">
+            <span class="title">Промежуточная бухгалтерская (финансовая) отчетность за 9 месяцев 2021 года</span> <span class="title">на  30.09.2021 </span><br>
+            Дата и время публикации  27.10.2021 17:32 срок доступа к информации до 01.02.2022 включительно
+          </div>
+        </div>        <div class="file row" style="margin-bottom:20px;">
+          <a href="/content/docs/financial/отчетность БФО за 1 полугодие 2021 года.pdf"><img src="/images/format_pdf.png" alt="pdf" class="glyph"></a>
+          <div class="text">
+            <span class="title">Промежуточная бухгалтерская (финансовая) отчетность за 1 полугодие 2021 года</span> <span class="title">на  30.06.2021 </span><br>
+            Дата и время публикации  29.07.2021 17:42 срок доступа к информации до 01.11.2021 включительно
+          </div>
+        </div>        <div class="file row" style="margin-bottom:20px;">
+          <a href="/content/docs/financial/отчетность БФО за 1 квартал 2021 года.pdf"><img src="/images/format_pdf.png" alt="pdf" class="glyph"></a>
+          <div class="text">
+            <span class="title">Промежуточная бухгалтерская (финансовая) отчетность за 1 квартал 2021 года</span> <span class="title">на  31.03.2021 </span><br>
+            Дата и время публикации  30.04.2021 17:47 срок доступа к информации до 01.08.2021 включительно
+          </div>
+        </div>
+        </div>
+      </div>      <div class="spoiler">
+        <div class="button plus" onclick="this.parentNode.classList.toggle('expanded');">Бухгалтерская промежуточная отчетность ООО «УК «ЛэндПрофит» за 2020 год</div>
+        <div class="content outstanding">
+        <div class="file row" style="margin-bottom:20px;">
+          <a href="/content/docs/financial/отчетность БФО за 9 месяцев 2020_.pdf"><img src="/images/format_pdf.png" alt="pdf" class="glyph"></a>
+          <div class="text">
+            <span class="title">Промежуточная бухгалтерская (финансовая) отчетность за 9 месяцев 2020 года</span> <span class="title">на  30.09.2020 </span><br>
+            Дата и время публикации  29.10.2020 15:42 срок доступа к информации до 01.01.2021 включительно
+          </div>
+        </div>        <div class="file row" style="margin-bottom:20px;">
+          <a href="/content/docs/financial/отчетность БФО за 1 пг 2020.pdf"><img src="/images/format_pdf.png" alt="pdf" class="glyph"></a>
+          <div class="text">
+            <span class="title">Промежуточная бухгалтерская (финансовая) отчетность за 1 полугодие 2020 года</span> <span class="title">на  30.06.2020 </span><br>
+            Дата и время публикации  29.07.2020 17:33 срок доступа к информации до 01.10.2020 включительно
+          </div>
+        </div>        <div class="file row" style="margin-bottom:20px;">
+          <a href="/content/docs/financial/отчетность БФО за 1 квартал 2020.pdf"><img src="/images/format_pdf.png" alt="pdf" class="glyph"></a>
+          <div class="text">
+            <span class="title">Промежуточная бухгалтерская (финансовая) отчетность за 1 квартал 2020 года</span> <span class="title">на  31.03.2020 </span><br>
+            Дата и время публикации  29.04.2020 18:09 срок доступа к информации до 01.08.2020 включительно
+          </div>
+        </div>
+        </div>
+      </div>      <div class="spoiler">
+        <div class="button plus" onclick="this.parentNode.classList.toggle('expanded');">Бухгалтерская промежуточная отчетность ООО «УК «ЛэндПрофит» за 2019 год</div>
+        <div class="content outstanding">
+        <div class="file row" style="margin-bottom:20px;">
+          <a href="/content/docs/financial/Отчетность БФО за 9 мес 2019.pdf"><img src="/images/format_pdf.png" alt="pdf" class="glyph"></a>
+          <div class="text">
+            <span class="title">Промежуточная бухгалтерская (финансовая) отчетность за 9 месяцев 2019 года</span> <span class="title">на  30.09.2019 </span><br>
+            Дата и время публикации  29.10.2019 19:39 срок доступа к информации до 01.01.2020 включительно
+          </div>
+        </div>        <div class="file row" style="margin-bottom:20px;">
+          <a href="/content/docs/financial/отчетность БФО за 1 пг 2019.pdf"><img src="/images/format_pdf.png" alt="pdf" class="glyph"></a>
+          <div class="text">
+            <span class="title">Промежуточная бухгалтерская (финансовая) отчетность за 1 полугодие 2019 года</span> <span class="title">на  30.06.2019 </span><br>
+            Дата и время публикации  30.07.2019 15:41 срок доступа к информации до 01.10.2019 включительно
+          </div>
+        </div>        <div class="file row" style="margin-bottom:20px;">
+          <a href="/content/docs/financial/отчетность БФО за 1 кв 2019.pdf"><img src="/images/format_pdf.png" alt="pdf" class="glyph"></a>
+          <div class="text">
+            <span class="title">Промежуточная бухгалтерская (финансовая) отчетность за 1 квартал 2019 года</span> <span class="title">на  31.03.2019 </span><br>
+            Дата и время публикации  30.04.2019 19:06 срок доступа к информации до 01.08.2019 включительно
+          </div>
+        </div>
+        </div>
+      </div>      <div class="spoiler">
+        <div class="button plus" onclick="this.parentNode.classList.toggle('expanded');">Бухгалтерская промежуточная отчетность ООО «УК «ЛэндПрофит» за 2018 год</div>
+        <div class="content outstanding">
+        <div class="file row" style="margin-bottom:20px;">
+          <a href="/content/docs/financial/отчетность за 9 мес 2018_епс.pdf"><img src="/images/format_pdf.png" alt="pdf" class="glyph"></a>
+          <div class="text">
+            <span class="title">Промежуточная бухгалтерская (финансовая) отчетность за 9 месяцев 2018 года</span> <span class="title">на  30.09.2018 </span><br>
+            Дата и время публикации  01.11.2018 19:09 срок доступа к информации до 01.02.2018 включительно
+          </div>
+        </div>        <div class="file row" style="margin-bottom:20px;">
+          <a href="/content/docs/financial/prom msfo9 1 pg 2018.pdf"><img src="/images/format_pdf.png" alt="pdf" class="glyph"></a>
+          <div class="text">
+            <span class="title">Промежуточная бухгалтерская (финансовая) отчетность за 1 полугодие 2018 года</span> <span class="title">на  30.06.2018 </span><br>
+            Дата и время публикации  30.07.2018 20:58 срок доступа к информации до 01.10.2018 включительно
+          </div>
+        </div>        <div class="file row" style="margin-bottom:20px;">
+          <a href="/content/docs/financial/prom msfo9 1 qv 2018.pdf"><img src="/images/format_pdf.png" alt="pdf" class="glyph"></a>
+          <div class="text">
+            <span class="title">Промежуточная бухгалтерская (финансовая) отчетность за 1 квартал 2018 года</span> <span class="title">на  31.03.2018 </span><br>
+            Дата и время публикации  17.05.2018 19:33 срок доступа к информации до 01.08.2018 включительно
+          </div>
+        </div>
+        </div>
+      </div>      <div class="spoiler">
+        <div class="button plus" onclick="this.parentNode.classList.toggle('expanded');">Бухгалтерская промежуточная отчетность ООО «УК «ЛэндПрофит» за 2017 год</div>
+        <div class="content outstanding">
+        <div class="file row" style="margin-bottom:20px;">
+          <a href="/content/docs/financial/Promezut buh otchet 9 mes.pdf"><img src="/images/format_pdf.png" alt="pdf" class="glyph"></a>
+          <div class="text">
+            <span class="title">Промежуточная бухгалтерская (финансовая) отчетность за 9 месяцев 2017 года</span> <span class="title">на  30.09.2017 </span><br>
+            Дата и время публикации  15.11.2017 14:34 срок доступа к информации до 15.02.2018 включительно
+          </div>
+        </div>        <div class="file row" style="margin-bottom:20px;">
+          <a href="/content/docs/financial/2017-07-31_BALANS FINREZ.pdf"><img src="/images/format_pdf.png" alt="pdf" class="glyph"></a>
+          <div class="text">
+            <span class="title">Промежуточная бухгалтерская (финансовая) отчетность за 1-е полугодие 2017 года</span> <span class="title">на  30.06.2017 </span><br>
+            Дата и время публикации  01.08.2017 16:58 срок доступа к информации до 01.11.2017 включительно
+          </div>
+        </div>        <div class="file row" style="margin-bottom:20px;">
+          <a href="/content/docs/financial/2017-04-14_BALANS FINREZ.pdf"><img src="/images/format_pdf.png" alt="pdf" class="glyph"></a>
+          <div class="text">
+            <span class="title">Промежуточная бухгалтерская (финансовая) отчетность за 1-й квартал 2017 года</span> <span class="title">на  31.03.2017 </span><br>
+            Дата и время публикации  14.04.2017 19:20 срок доступа к информации до 14.07.2017 включительно
+          </div>
+        </div>
+        </div>
+      </div>
+    </div>
+  </div><div class="spoiler">
+    <div class="button" onclick="this.parentNode.classList.toggle('expanded');">Годовая бухгалтерская (финансовая) отчетность</div>
+    <div class="content">
+      <div class="spoiler">
+        <div class="button plus" onclick="this.parentNode.classList.toggle('expanded');">Годовая бухгалтерская (финансовая) отчетность ООО «УК «ЛэндПрофит» за 2022 год</div>
+        <div class="content outstanding">
+        <div class="file row" style="margin-bottom:20px;">
+          <a href="/content/docs/funds/BFO_UK_2022.pdf"><img src="/images/format_pdf.png" alt="pdf" class="glyph"></a>
+          <div class="text">
+            <span class="title">Годовая бухгалтерская (финансовая) отчетность за 2022 год</span> <span class="title">на  31.12.2022 </span><br>
+            Дата и время публикации  27.03.2023 19:02 срок доступа к информации до 01.04.2024 включительно
+          </div>
+        </div>        <div class="file row" style="margin-bottom:20px;">
+          <a href="/content/docs/financial/AZ_BFO_2022.pdf"><img src="/images/format_pdf.png" alt="pdf" class="glyph"></a>
+          <div class="text">
+            <span class="title">Аудиторское заключение к Годовой бухгалтерской (финансовой) отчетности за 2022 год</span> <span class="title">на  31.12.2022 </span><br>
+            Дата и время публикации  27.03.2023 19:02 срок доступа к информации до 01.04.2024 включительно
+          </div>
+        </div>
+        </div>
+      </div>      <div class="spoiler">
+        <div class="button plus" onclick="this.parentNode.classList.toggle('expanded');">Годовая бухгалтерская (финансовая) отчетность ООО «УК «ЛэндПрофит» за 2021 год</div>
+        <div class="content outstanding">
+        <div class="file row" style="margin-bottom:20px;">
+          <a href="/content/docs/financial/BFO_UK_2021.pdf"><img src="/images/format_pdf.png" alt="pdf" class="glyph"></a>
+          <div class="text">
+            <span class="title">Годовая бухгалтерская (финансовая) отчетность за 2021 год</span> <span class="title">на  31.12.2021 </span><br>
+            Дата и время публикации  25.03.2022 16:31 срок доступа к информации до 01.04.2023 включительно
+          </div>
+        </div>        <div class="file row" style="margin-bottom:20px;">
+          <a href="/content/docs/financial/AZ_BFO_2021.pdf"><img src="/images/format_pdf.png" alt="pdf" class="glyph"></a>
+          <div class="text">
+            <span class="title">Аудиторское заключение к Годовой бухгалтерской (финансовой) отчетности за 2021 год</span> <span class="title">на  31.12.2021 </span><br>
+            Дата и время публикации  25.03.2022 16:33 срок доступа к информации до 01.04.2023 включительно
+          </div>
+        </div>
+        </div>
+      </div>      <div class="spoiler">
+        <div class="button plus" onclick="this.parentNode.classList.toggle('expanded');">Годовая бухгалтерская (финансовая) отчетность ООО «УК «ЛэндПрофит» за 2020 год</div>
+        <div class="content outstanding">
+        <div class="file row" style="margin-bottom:20px;">
+          <a href="/content/docs/financial/BFO_UK_2020.pdf"><img src="/images/format_pdf.png" alt="pdf" class="glyph"></a>
+          <div class="text">
+            <span class="title">Годовая бухгалтерская (финансовая) отчетность за 2020 год</span> <span class="title">на  31.12.2020 </span><br>
+            Дата и время публикации  10.03.2021 19:02 срок доступа к информации до 01.04.2022 включительно
+          </div>
+        </div>        <div class="file row" style="margin-bottom:20px;">
+          <a href="/content/docs/financial/AZ_BFO_2020.pdf"><img src="/images/format_pdf.png" alt="pdf" class="glyph"></a>
+          <div class="text">
+            <span class="title">Аудиторское заключение к Годовой бухгалтерской (финансовой) отчетности за 2020 год</span> <span class="title">на  31.12.2020 </span><br>
+            Дата и время публикации  10.03.2021 19:05 срок доступа к информации до 01.04.2022 включительно
+          </div>
+        </div>
+        </div>
+      </div>      <div class="spoiler">
+        <div class="button plus" onclick="this.parentNode.classList.toggle('expanded');">Годовая бухгалтерская (финансовая) отчетность ООО «УК «ЛэндПрофит» за 2019 год</div>
+        <div class="content outstanding">
+        <div class="file row" style="margin-bottom:20px;">
+          <a href="/content/docs/financial/BFO_UK_2019.pdf"><img src="/images/format_pdf.png" alt="pdf" class="glyph"></a>
+          <div class="text">
+            <span class="title">Годовая бухгалтерская (финансовая) отчетность за 2019 год</span> <span class="title">на  31.12.2019 </span><br>
+            Дата и время публикации  25.03.2020 12:34 срок доступа к информации до 01.04.2021 включительно
+          </div>
+        </div>        <div class="file row" style="margin-bottom:20px;">
+          <a href="/content/docs/financial/AZ_BFO_2019.pdf"><img src="/images/format_pdf.png" alt="pdf" class="glyph"></a>
+          <div class="text">
+            <span class="title">Аудиторское заключение к Годовой бухгалтерской (финансовой) отчетности за 2019 год</span> <span class="title">на  31.12.2019 </span><br>
+            Дата и время публикации  25.03.2020 12:35 срок доступа к информации до 01.04.2021 включительно
+          </div>
+        </div>
+        </div>
+      </div>      <div class="spoiler">
+        <div class="button plus" onclick="this.parentNode.classList.toggle('expanded');">Годовая бухгалтерская (финансовая) отчетность ООО «УК «ЛэндПрофит» за 2018 год</div>
+        <div class="content outstanding">
+        <div class="file row" style="margin-bottom:20px;">
+          <a href="/content/docs/financial/BFO%20UK%202018.pdf"><img src="/images/format_pdf.png" alt="pdf" class="glyph"></a>
+          <div class="text">
+            <span class="title">Годовая бухгалтерская (финансовая) отчетность за 2018 год</span> <span class="title">на  31.12.2018 </span><br>
+            Дата и время публикации  01.04.2019 16:27 срок доступа к информации до 01.04.2020 включительно
+          </div>
+        </div>        <div class="file row" style="margin-bottom:20px;">
+          <a href="/content/docs/financial/AZ%202018%20UK.pdf"><img src="/images/format_pdf.png" alt="pdf" class="glyph"></a>
+          <div class="text">
+            <span class="title">Аудиторское заключение к Годовой бухгалтерской (финансовой) отчетности за 2018 год</span> <span class="title">на  31.12.2018 </span><br>
+            Дата и время публикации  01.04.2019 16:29 срок доступа к информации до 01.04.2020 включительно
+          </div>
+        </div>
+        </div>
+      </div>      <div class="spoiler">
+        <div class="button plus" onclick="this.parentNode.classList.toggle('expanded');">Годовая бухгалтерская (финансовая) отчетность ООО «УК «ЛэндПрофит» за 2017 год</div>
+        <div class="content outstanding">
+        <div class="file row" style="margin-bottom:20px;">
+          <a href="/content/docs/financial/годовая бухгалтерская отчетность ООО УК ЛэндПрофит за 2017 год_.pdf"><img src="/images/format_pdf.png" alt="pdf" class="glyph"></a>
+          <div class="text">
+            <span class="title">Годовая бухгалтерская (финансовая) отчетность за 2017 год</span> <span class="title">на  31.12.2017 </span><br>
+            Дата и время публикации  13.04.2018 17:22 срок доступа к информации до 13.04.2019 включительно
+          </div>
+        </div>        <div class="file row" style="margin-bottom:20px;">
+          <a href="/content/docs/financial/АЗ_УК ЛэндПрофит_2017.pdf"><img src="/images/format_pdf.png" alt="pdf" class="glyph"></a>
+          <div class="text">
+            <span class="title">Аудиторское заключение к Годовой бухгалтерской (финансовой) отчетности за 2017 год</span> <span class="title">на  31.12.2017 </span><br>
+            Дата и время публикации  13.04.2018 18:36 срок доступа к информации до 13.04.2019 включительно
+          </div>
+        </div>
+        </div>
+      </div>      <div class="spoiler">
+        <div class="button plus" onclick="this.parentNode.classList.toggle('expanded');">Годовая бухгалтерская (финансовая) отчетность ООО «УК «ЛэндПрофит» за 2016 год</div>
+        <div class="content outstanding">
+        <div class="file row" style="margin-bottom:20px;">
+          <a href="/content/docs/financial/Balans_UK.pdf.pdf"><img src="/images/format_pdf.png" alt="pdf" class="glyph"></a>
+          <div class="text">
+            <span class="title">Годовая бухгалтерская (финансовая) отчетность за 2016 год</span> <span class="title">на  31.12.2016 </span><br>
+            Дата и время публикации  03.04.2017 23:30 срок доступа к информации до 03.04.2018 включительно
+          </div>
+        </div>        <div class="file row" style="margin-bottom:20px;">
+          <a href="/content/docs/financial/Audit.zakl_UK.3.pdf"><img src="/images/format_pdf.png" alt="pdf" class="glyph"></a>
+          <div class="text">
+            <span class="title">Аудиторское заключение к Годовой бухгалтерской (финансовой) отчетности за 2016 год</span> <span class="title">на  31.12.2016 </span><br>
+            Дата и время публикации  03.04.2017 23:30 срок доступа к информации до 03.04.2018 включительно
+          </div>
+        </div>
+        </div>
+      </div>
+    </div>
+  </div><div class="spoiler">
+    <div class="button" onclick="this.parentNode.classList.toggle('expanded');">Годовая финансовая отчетность по МСФО</div>
+    <div class="content">
+      <div class="spoiler">
+        <div class="button plus" onclick="this.parentNode.classList.toggle('expanded');">Годовая финансовая отчетность по МСФО ООО «УК «ЛэндПрофит» за 2022 год</div>
+        <div class="content outstanding">
+        <div class="file row" style="margin-bottom:20px;">
+          <a href="/content/docs/financial/УК ЛЭНДПРОФИТ_АЗ_МСФО_2022.pdf"><img src="/images/format_pdf.png" alt="pdf" class="glyph"></a>
+          <div class="text">
+            <span class="title">Финансовая отчетность (по МСФО) за год, закончившийся 31 декабря 2022 г. и Аудиторское заключение независимого аудитора</span> <span class="title">на  31.12.2022 </span><br>
+            Дата и время публикации  06.04.2023 11:18 срок доступа к информации до 20.05.2026 включительно
+          </div>
+        </div>
+        </div>
+      </div>      <div class="spoiler">
+        <div class="button plus" onclick="this.parentNode.classList.toggle('expanded');">Годовая финансовая отчетность по МСФО ООО «УК «ЛэндПрофит» за 2021 год</div>
+        <div class="content outstanding">
+        <div class="file row" style="margin-bottom:20px;">
+          <a href="/content/docs/financial/АЗ УК ЛэндПрофит 2021г МСФО.pdf"><img src="/images/format_pdf.png" alt="pdf" class="glyph"></a>
+          <div class="text">
+            <span class="title">Финансовая отчетность (по МСФО) за год, закончившийся 31 декабря 2021 г. и Аудиторское заключение независимого аудитора</span> <span class="title">на  31.12.2021 </span><br>
+            Дата и время публикации  11.04.2022 11:51 срок доступа к информации до 20.05.2025 включительно
+          </div>
+        </div>
+        </div>
+      </div>      <div class="spoiler">
+        <div class="button plus" onclick="this.parentNode.classList.toggle('expanded');">Годовая финансовая отчетность по МСФО ООО «УК «ЛэндПрофит» за 2020 год</div>
+        <div class="content outstanding">
+        <div class="file row" style="margin-bottom:20px;">
+          <a href="/content/docs/financial/AZ_MSFO_2020.pdf"><img src="/images/format_pdf.png" alt="pdf" class="glyph"></a>
+          <div class="text">
+            <span class="title">Финансовая отчетность (по МСФО) за год, закончившийся 31 декабря 2020 г. и Аудиторское заключение независимого аудитора</span> <span class="title">на  31.12.2020 </span><br>
+            Дата и время публикации  11.03.2021 19:12 срок доступа к информации до 20.05.2024 включительно
+          </div>
+        </div>
+        </div>
+      </div>      <div class="spoiler">
+        <div class="button plus" onclick="this.parentNode.classList.toggle('expanded');">Годовая финансовая отчетность по МСФО ООО «УК «ЛэндПрофит» за 2019 год</div>
+        <div class="content outstanding">
+        <div class="file row" style="margin-bottom:20px;">
+          <a href="/content/docs/financial/AZ_MSFO_2019.pdf"><img src="/images/format_pdf.png" alt="pdf" class="glyph"></a>
+          <div class="text">
+            <span class="title">Финансовая отчетность (по МСФО) за год, закончившийся 31 декабря 2019 г. и Аудиторское заключение независимого аудитора</span> <span class="title">на  31.12.2019 </span><br>
+            Дата и время публикации  25.03.2020 12:27 срок доступа к информации до 20.05.2023 включительно
+          </div>
+        </div>
+        </div>
+      </div>      <div class="spoiler">
+        <div class="button plus" onclick="this.parentNode.classList.toggle('expanded');">Годовая финансовая отчетность по МСФО ООО «УК «ЛэндПрофит» за 2018 год</div>
+        <div class="content outstanding">
+        <div class="file row" style="margin-bottom:20px;">
+          <a href="/content/docs/financial/AZ_MSFO_2018.pdf"><img src="/images/format_pdf.png" alt="pdf" class="glyph"></a>
+          <div class="text">
+            <span class="title">Финансовая отчетность (по МСФО) за год, закончившийся 31 декабря 2018 г. и Аудиторское заключение независимого аудитора</span> <span class="title">на  31.12.2018 </span><br>
+            Дата и время публикации  18.04.2019 17:30 срок доступа к информации до 20.05.2022 включительно
+          </div>
+        </div>
+        </div>
+      </div>      <div class="spoiler">
+        <div class="button plus" onclick="this.parentNode.classList.toggle('expanded');">Годовая финансовая отчетность по МСФО ООО «УК «ЛэндПрофит» за 2017 год</div>
+        <div class="content outstanding">
+        <div class="file row" style="margin-bottom:20px;">
+          <a href="/content/docs/financial/msfo_2017.pdf"><img src="/images/format_pdf.png" alt="pdf" class="glyph"></a>
+          <div class="text">
+            <span class="title">Финансовая отчетность (по МСФО) за год, закончившийся 31 декабря 2017 г.</span> <span class="title">на  31.12.2017 </span><br>
+            Дата и время публикации  20.04.2018 15:07 срок доступа к информации до 20.05.2021 включительно
+          </div>
+        </div>        <div class="file row" style="margin-bottom:20px;">
+          <a href="/content/docs/financial/az_msfo_2017.pdf"><img src="/images/format_pdf.png" alt="pdf" class="glyph"></a>
+          <div class="text">
+            <span class="title">Аудиторское заключение к Финансовой отчетности (по МСФО) за год, закончившийся 31 декабря 2017 г.</span> <span class="title">на  31.12.2017 </span><br>
+            Дата и время публикации  20.04.2018 15:04 срок доступа к информации до 20.05.2021 включительно
+          </div>
+        </div>
+        </div>
+      </div>      <div class="spoiler">
+        <div class="button plus" onclick="this.parentNode.classList.toggle('expanded');">Годовая финансовая отчетность по МСФО ООО «УК «ЛэндПрофит» за 2016 год</div>
+        <div class="content outstanding">
+        <div class="file row" style="margin-bottom:20px;">
+          <a href="/content/docs/financial/MSFO 2016.pdf"><img src="/images/format_pdf.png" alt="pdf" class="glyph"></a>
+          <div class="text">
+            <span class="title">Финансовая отчетность (по МСФО) за год, закончившийся 31 декабря 2016 г.</span> <span class="title">на  31.12.2016 </span><br>
+            Дата и время публикации  02.05.2017 16:26 срок доступа к информации до 02.05.2020 включительно
+          </div>
+        </div>        <div class="file row" style="margin-bottom:20px;">
+          <a href="/content/docs/financial/Audit zakl.pdf"><img src="/images/format_pdf.png" alt="pdf" class="glyph"></a>
+          <div class="text">
+            <span class="title">Аудиторское заключение к Финансовой отчетности (по МСФО) за год, закончившийся 31 декабря 2016 г.</span> <span class="title">на  31.12.2016 </span><br>
+            Дата и время публикации  02.05.2017 16:26 срок доступа к информации до 02.05.2020 включительно
+          </div>
+        </div>
+        </div>
+      </div>      <div class="spoiler">
+        <div class="button plus" onclick="this.parentNode.classList.toggle('expanded');">Годовая финансовая отчетность по МСФО ООО «УК «ЛэндПрофит» за 2015 год</div>
+        <div class="content outstanding">
+        <div class="file row" style="margin-bottom:20px;">
+          <a href="/content/docs/financial/FinRes_MSFO_2015.pdf"><img src="/images/format_pdf.png" alt="pdf" class="glyph"></a>
+          <div class="text">
+            <span class="title">Финансовая отчетность (по МСФО) за год, закончившийся 31 декабря 2015 г.</span> <span class="title">на  31.12.2015 </span><br>
+            Дата и время публикации  04.05.2016 16:20 срок доступа к информации до 04.05.2019 включительно
+          </div>
+        </div>        <div class="file row" style="margin-bottom:20px;">
+          <a href="/content/docs/financial/Copy_AudZak.pdf"><img src="/images/format_pdf.png" alt="pdf" class="glyph"></a>
+          <div class="text">
+            <span class="title">Аудиторское заключение к Финансовой отчетности (по МСФО) за год, закончившийся 31 декабря 2015 г.</span> <span class="title">на  31.12.2015 </span><br>
+            Дата и время публикации  04.05.2016 16:20 срок доступа к информации до 04.05.2019 включительно
+          </div>
+        </div>
+        </div>
+      </div>
+    </div>
+  </div>
+</div></div>
+<div class="spoiler mi">
+    <div class="button" onclick="this.parentNode.classList.toggle('expanded');">Информационная безопасность и Персональные данные</div>
+    <div class="content">
+
+        <div class="file row" style="margin-bottom:20px;">
+          <a href="/content/docs/other_doc/Рекомендации по инф безопасности v2.pdf"><img src="/images/format_pdf.png" alt="pdf" class="glyph"></a>
+          <div class="text">
+            <span class="title">Рекомендации по защите информации</span> <span class="title"></span><br>
+            Дата и время публикации  08.07.2021 17:28 Доступен: До внесения изменений
+          </div>
+        </div>
+        <div class="file row" style="margin-bottom:20px;">
+          <a href="/content/docs/other_doc/Политика обработки персональных данных.pdf"><img src="/images/format_pdf.png" alt="pdf" class="glyph"></a>
+          <div class="text">
+            <span class="title">Политика обработки персональных данных</span> <span class="title"></span><br>
+            Дата и время публикации  25.10.2021 17:28 Доступен: До внесения изменений
+          </div>
+        </div>
+
+
+    </div>
+  </div><div class="spoiler mi">
+    <div class="button" onclick="this.parentNode.classList.toggle('expanded');">Признание лиц квалифицированными инвесторами</div>
+    <div class="content">
+
+        <div class="file row" style="margin-bottom:20px;">
+          <a href="/content/docs/own-means/DOC_2017-05-30_1.pdf"><img src="/images/format_pdf.png" alt="pdf" class="glyph"></a>
+          <div class="text">
+            <span class="title">Регламент признания лиц квалифицированными инвесторами</span> <span class="title">на  29.05.2017 </span><br>
+            Дата и время публикации  30.05.2017 17:41 Срок доступа к информации: не менее срока действия данной редакции
+          </div>
+        </div>
+
+
+    </div>
+  </div><div class="spoiler mi">
+    <div class="button" onclick="this.parentNode.classList.toggle('expanded');">Информация о порядке и условиях обмена электронными документами</div>
+    <div class="content">
+
+        <div class="file row" style="margin-bottom:20px;">
+          <a href="/content/docs/reports/ref_EDO_UK_31-08-2018.pdf"><img src="/images/format_pdf.png" alt="pdf" class="glyph"></a>
+          <div class="text">
+            <span class="title">Сообщение о порядке и условиях обмена электронными документами при взаимодействии компании</span> <span class="title"></span><br>
+            Дата и время публикации  31.08.2018 10:25 Срок доступа к информации: до даты окончания использования ЭДО
+          </div>
+        </div>
+
+
+    </div>
+  </div><div class="spoiler mi">
+    <div class="button" onclick="this.parentNode.classList.toggle('expanded');">Клиент — иностранный налогоплательщик и способы получения информации</div>
+    <div class="content">
+
+        <div class="file row" style="margin-bottom:20px;">
+          <a href="/content/docs/own-means/Регистрационные сведения FATCA.pdf"><img src="/images/format_pdf.png" alt="pdf" class="glyph"></a>
+          <div class="text">
+            <span class="title">Регистрационные сведения FATCA</span> <span class="title"></span><br>
+            Дата и время публикации  28.08.2020 13:27  Срок доступа к информации: не менее срока действия данной ред.
+          </div>
+        </div>
+        <div class="file row" style="margin-bottom:20px;">
+          <a href="/content/docs/own-means/АНКЕТА FATCA_CRS.DOC"><img src="/images/format_doc.png" alt="doc" class="glyph"></a>
+          <div class="text">
+            <span class="title">Анкета FATCA/CRS</span> <span class="title"></span><br>
+            Дата и время публикации  28.08.2020 13:31  Срок доступа к информации: не менее срока действия данной ред.
+          </div>
+        </div>
+        <div class="file row" style="margin-bottom:20px;">
+          <a href="/content/docs/own-means/DOC_2017-05-30_2.pdf"><img src="/images/format_pdf.png" alt="pdf" class="glyph"></a>
+          <div class="text">
+            <span class="title">Критерии отнесения клиентов к категории  клиента - иностранного налогоплательщика и способы получения от них необходимой информации</span> <span class="title"></span><br>
+            Дата и время публикации  30.05.2017 17:41  Срок доступа к информации: не менее срока действия данной ред.
+          </div>
+        </div>
+
+
+    </div>
+  </div><div class="spoiler mi">
+    <div class="button" onclick="this.parentNode.classList.toggle('expanded');">Сообщения о технических неполадках</div>
+    <div class="content">
+
+        <div class="file row" style="margin-bottom:20px;">
+          <a href="/content/docs/reports/Сообщение о тех сбое.pdf"><img src="/images/format_pdf.png" alt="pdf" class="glyph"></a>
+          <div class="text">
+            <span class="title">О временной неработоспособности веб-сайта компании</span> <span class="title">на  05.03.2020 </span><br>
+            Дата и время публикации  05.03.2020 11:17 Срок доступа к информации: до 05.04.2020
+          </div>
+        </div>
+        <div class="file row" style="margin-bottom:20px;">
+          <a href="/content/docs/reports/Сообщение о тех сбое 08 10 2018.pdf"><img src="/images/format_pdf.png" alt="pdf" class="glyph"></a>
+          <div class="text">
+            <span class="title">О временной неработоспособности веб-сайта компании</span> <span class="title">на  08.10.2018 </span><br>
+            Дата и время публикации  08.10.2018 14:25 Срок доступа к информации: до 08.11.2018
+          </div>
+        </div>
+
+
+    </div>
+  </div>
+      </div>
+      <div class="footer">
+        <!--
+<a href="http://sistema-re.ru/information/">Список и схема участников управляющей компании и лиц, под контролем либо значительным влиянием которых находится управляющая компания </a><br>
+<br>
+-->
+Управляющая компания паевого инвестиционного фонда: Общество с ограниченной ответственностью «Управляющая компания ЛэндПрофит» (лицензия на осуществление деятельности по управлению 
+инвестиционными фондами, паевыми инвестиционными фондами и негосударственными пенсионными фондами № 21-000-1-00973 от «17» апреля 2014 г., выданная Банком России без ограничения срока 
+действия). Обращаем внимание, что стоимость инвестиционных паев может увеличиваться и уменьшаться, результаты инвестирования в прошлом не определяют доходы в будущем, государство не гарантирует 
+доходность инвестиций в паевые инвестиционные фонды. Прежде чем приобрести инвестиционный пай, следует внимательно ознакомиться с правилами доверительного управления паевым инвестиционным 
+фондом. Правилами доверительного управления паевым инвестиционным фондом могут предусматриваться надбавки к расчетной стоимости инвестиционных паев при их выдаче и (или) скидки с расчетной 
+стоимости инвестиционных паев при их погашении. В случае если в правилах доверительного управления паевым инвестиционным фондом содержится информация о наличии надбавок (скидок), взимание 
+надбавок (скидок) уменьшит доходность инвестиций в инвестиционные паи данного паевого инвестиционного фонда. До приобретения инвестиционных паев паевого инвестиционного фонда получить 
+подробную информацию о паевом инвестиционном фонде и ознакомиться с правилами доверительного управления паевым инвестиционным фондом, а также с иными документами, предусмотренными в 
+Федеральном законе от «29» ноября 2001 г. № 156-ФЗ «Об инвестиционных фондах» и нормативных актах в сфере финансовых рынков, можно в офисе ООО «УК ЛэндПрофит» (по адресу: 127422, г. Москва,  вн. тер. г. муниципальный округ Тимирязевский, ул. Тимирязевская, д.1А,  помещ./этаж III/2, ком.2Г по телефону: <a href="tel:+74957277912" class="call">+7 (495) 727 7912</a>. Информация, подлежащая в соответствии с Федеральным законом от «29» ноября 2001 г. № 
+156-ФЗ «Об инвестиционных фондах» и нормативными актами в сфере финансовых рынков раскрытию путем опубликования в сети Интернет, публикуется на сайте www.sistema-re.ru. Информация, подлежащая в 
+соответствии с Федеральным законом от «29» ноября 2001 г. № 156-ФЗ «Об инвестиционных фондах», нормативными актами в сфере финансовых рынков и правилами доверительного управления паевым 
+инвестиционным фондом раскрытию путем опубликования в печатном издании, публикуется в «Приложении к Вестнику Федеральной службы по финансовым рынкам». В соответствии с пунктом 3 статьи 51 
+Федерального закона от 29.11.2001 № 156-ФЗ «Об инвестиционных фондах» не допускается распространение информации о паевом инвестиционном фонде, инвестиционные паи которого предназначены для 
+квалифицированных инвесторов, за исключением случаев ее раскрытия в соответствии с указанным федеральным законом и иными федеральными законами. Информация о паевом инвестиционном фонде, 
+инвестиционные паи которого предназначены для квалифицированных инвесторов, может предоставляться лицам, которым в соответствии с Федеральным законом от 22.04.1996 №39-ФЗ «О рынке ценных 
+бумаг» может предоставляться информация о ценных бумагах, предназначенных для квалифицированных инвесторов.
+      </div>
+    </div>
+  </div>
+

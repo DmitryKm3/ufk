@@ -1,0 +1,1576 @@
+
+
+    
+    <header class="header header_page-not-main">
+      <nav class="navbar navbar-fixed-top navbar_page-about">
+        <div class="container-fluid header-navbar-container">
+          <div class="row">
+            <div class="col-sm-4 logo-container navbar-header">
+              <button type="button" class="navbar-toggle collapsed navbar-header__hamburger" id="navbar-header__hamburger" data-toggle="collapse" data-target="#bs-example-navbar-collapse-1" aria-expanded="false">
+                <span class="sr-only">Toggle navigation</span>
+                <span class="icon-bar navbar-header__hamburger__span-small"></span>
+                <span class="icon-bar navbar-header__hamburger__span-large"></span>
+                <span class="icon-bar navbar-header__hamburger__span-middle"></span>
+              </button>
+              <a href="index.php" class="navbar-brand logo-container__link">
+                <img alt="logo" src="img/logo.png">
+              </a>
+            </div>
+            <div class="col-sm-8 collapse navbar-collapse nav-container">
+              <ul class="nav navbar-nav nav-container__list">
+                                                    <li class="nav-container__item">
+                    <a class="nav-container__link" href="/about.php">О нас</a>
+                  </li>
+                                                    <li class="nav-container__item active">
+                    <a class="nav-container__link" href="/info.php">Раскрытие информации<br><small>в том числе в соответствии с <br>Указанием Банка России №5609-У</small></a>
+                  </li>
+                                                    <li class="nav-container__item">
+                    <a class="nav-container__link" href="/obligation.php">Представитель владельцев облигаций</a>
+                  </li>
+                                                    <li class="nav-container__item">
+                    <a class="nav-container__link" href="/fonds.php">Паевые фонды</a>
+                  </li>
+                                                    <li class="nav-container__item">
+                    <a class="nav-container__link" href="/spec.php">Специальная оценка условий труда</a>
+                  </li>
+                              </ul>
+            </div>
+          </div>
+        </div>
+      </nav>
+    </header><section class="block_main_page-about block_main_page-info">
+  <div class="container">
+    <div class="row">
+      <div class="col-md-1"></div>
+      <div class="col-md-10">
+        <div class="row row_top">
+          <div class="col-md-10">
+            <h2 class="about__title">Раскрытие информации</h2>
+          </div>
+          <div class="col-md-10">
+            <p class="info__link_text">«Управляющая компания не совмещает деятельность по доверительному управлению паевыми инвестиционными фондами с деятельностью по управлению ценными бумагами. Риск возникновения конфликта интересов при совмещении деятельности по доверительному управлению паевыми инвестиционными фондами и деятельности по управлению ценными бумагами отсутствует»</p>
+          </div>
+          <div class="col-md-2"></div>
+        </div>
+        <div class="row row_bottom">
+          <ul class="nav info__list acco">
+<li class="info__item acco__item">
+              <a href="https://www.esteit-invest.ru/info.php#" class="clearfix info__link acco__trigger">
+                <p class="info__link_text">Информация об Управляющей компании</p>
+                <span class="glyphicon glyphicon-chevron-right"></span>
+              </a>
+
+              <div class="acco__content" style="height: 0px;">
+                <div class="acco__content-container">
+
+                  <div class="row acco__content-text">
+                    <div class="col-md-1">
+                      <img src="img/icon-info.png" alt="ico_info">
+                    </div>
+                    <div class="col-md-8">
+                      <p class="acco__content-text__p">
+                        Реквизиты Управляющей компании
+                        <span class="download">
+                          <a href="/requisites/Реквизиты Управляющей компании.pdf" target="_blank">
+                            Скачать
+                          </a>
+                        </span>
+                      </p>
+                      <p class="acco__content-text__date">
+                        Размещено 30.09.2021г. 18:00 </p>
+                    </div>
+                    <div class="col-md-3"></div>
+                  </div>
+
+                </div>
+              </div>
+            </li>
+            <li class="info__item acco__item">
+              <a href="https://www.esteit-invest.ru/info.php#" class="clearfix info__link acco__trigger">
+                <p class="info__link_text">Ежегодная отчетность Управляющей компании по МСФО и аудиторское заключение к ней</p>
+                <span class="glyphicon glyphicon-chevron-right"></span>
+              </a>
+              
+
+ <div class="acco__content" style="height: 0px;">
+                <div class="acco__content-container">
+                  
+                  
+                  
+                  <div class="row acco__content-text">
+                    <div class="col-md-1">
+                      <img src="img/icon-info.png" alt="ico_info">
+                    </div>
+                    <div class="col-md-8">
+                      <p class="acco__content-text__p">Годовая финансовая отчетность, составленная в соответствии с МСФО за 2022 год и Аудиторское заключение<span class="download"><a href="/documents/god_otch_po_MSFO_na_31.12.2022.pdf" target="_blank">Скачать</a></span>
+                      </p>
+                      <p class="acco__content-text__date">Размещено 28.04.2023г. 16:45, на срок не менее трех лет со дня ее размещения .</p>
+                    </div>
+                    <div class="col-md-3"></div>
+                  </div>
+
+
+
+
+
+              
+              
+              
+                  <div class="row acco__content-text">
+                    <div class="col-md-1">
+                      <img src="img/icon-info.png" alt="ico_info">
+                    </div>
+                    <div class="col-md-8">
+                      <p class="acco__content-text__p">Годовая финансовая отчетность, составленная в соответствии с МСФО
+                        за 2020 год и Аудиторское заключение к ней<span class="download"><a href="/documents/god_otch_po_msfo_za_god_zavershiv_31_12_2020g_i_audit_zaklyuch.pdf" target="_blank">Скачать</a></span>
+                      </p>
+                      <p class="acco__content-text__date">Размещено 27.04.2021г. 09:07, Доступен по 30.04.2024г.</p>
+                    </div>
+                    <div class="col-md-3"></div>
+                  </div>
+
+                  <div class="row acco__content-text">
+                    <div class="col-md-1">
+                      <img src="img/icon-info.png" alt="ico_info">
+                    </div>
+                    <div class="col-md-8">
+                      <p class="acco__content-text__p">Годовая финансовая отчетность, составленная в соответствии с МСФО
+                        за 2019 год и Аудиторское заключение к ней <span class="download"><a href="/documents/MSFO_YK_2019_AUDIT.pdf" target="_blank">Скачать</a></span>
+                      </p>
+                      <p class="acco__content-text__date">Размещено 26.06.2020г. 11:07, Доступен по 26.06.2023г. </p>
+                    </div>
+                    <div class="col-md-3"></div>
+                  </div>
+
+
+
+
+
+
+                  <div class="row acco__content-text">
+                    <div class="col-md-1">
+                      <img src="img/icon-info.png" alt="ico_info">
+                    </div>
+                    <div class="col-md-8">
+                      <p class="acco__content-text__p">Годовая финансовая отчетность, составленная в соответствии с МСФО
+                        за 2018 год и Аудиторское заключение к ней <span class="download"><a href="/documents/MSFO_YK_2018_AUDIT.pdf" target="_blank">Скачать</a></span>
+                      </p>
+                      <p class="acco__content-text__date">Размещено 15.05.2019г. 13:37, Доступен по 15.05.2022г.</p>
+                    </div>
+                    <div class="col-md-3"></div>
+                  </div>
+                  <div class="row acco__content-text">
+                    <div class="col-md-1">
+                      <img src="img/icon-info.png" alt="ico_info">
+                    </div>
+                    <div class="col-md-8">
+                      <p class="acco__content-text__p">Годовая финансовая отчетность, составленная в соответствии с МСФО
+                        за 2017 год и Аудиторское заключение к ней
+                        <span><b> — в архиве</b></span>
+                      </p>
+                      <p class="acco__content-text__date">Размещено 14.05.2018г. 17:45, Доступен по 30.04.2021г.</p>
+                    </div>
+                    <div class="col-md-3"></div>
+                  </div>
+                  <div class="row acco__content-text">
+                    <div class="col-md-1">
+                      <img src="img/icon-info.png" alt="ico_info">
+                    </div>
+                    <div class="col-md-8">
+                      <p class="acco__content-text__p">Годовая финансовая отчетность, составленная в соответствии с МСФО
+                        за 2016 год и Аудиторское заключение к ней
+                        <span><b> — в архиве</b></span>
+                      </p>
+                      <p class="acco__content-text__date">Размещено 15.05.2017г. 16:13, Доступен по 30.04.2020г.</p>
+                    </div>
+                    <div class="col-md-3"></div>
+                  </div>
+                  <div class="row acco__content-text">
+                    <div class="col-md-1">
+                      <img src="img/icon-info.png" alt="ico_info">
+                    </div>
+                    <div class="col-md-8">
+                      <p class="acco__content-text__p">Годовая финансовая отчетность, составленная в соответствии с МСФО
+                        за 2015 год и Аудиторское заключение к ней
+                        <span><b> — в архиве</b></span>
+                      </p>
+                      <p class="acco__content-text__date">Размещено 04.05.2016г. 10:05, Доступен по 30.04.2019г. </p>
+                    </div>
+                    <div class="col-md-3"></div>
+                  </div>
+                </div>
+              </div>
+            </li>
+
+            
+
+            <li class="info__item acco__item">
+              <a href="https://www.esteit-invest.ru/info.php#" class="clearfix info__link acco__trigger">
+                <p class="info__link_text">Расчет размера собственных средств Управляющей компании</p>
+                <span class="glyphicon glyphicon-chevron-right"></span>
+              </a>
+              <div class="acco__content" style="height: 0px;">
+                <div class="acco__content-container">
+
+
+
+
+<div class="row acco__content-text">
+                    <div class="col-md-1">
+                      <img src="img/icon-info.png" alt="ico_info">
+                    </div>
+                    <div class="col-md-8">
+                      <p class="acco__content-text__p">
+                      Расчет размера собственных средств АО Управляющая компания «Эстейт Инвест» в соответствии с Указанием Банка России от 19.07.2016 N 4075-У "О требованиях к собственным средствам управляющих компаний инвестиционных фондов, паевых инвестиционных фондов и негосударственных пенсионных фондов и соискателей лицензии управляющей компании" на «31» мая 2023 г.
+                        <span class="download"><a href="/RRSS/RSS_31.05.2023.xlsx" target="_blank">Скачать</a></span>
+                      </p>
+                      <p class="acco__content-text__date"> Размещено 15.06.2023г. 15:15 на срок не менее трех лет со дня ее размещения</p>
+                    </div>
+                    <div class="col-md-3"></div>
+                  </div>
+
+
+
+
+
+
+
+
+
+<div class="row acco__content-text">
+                    <div class="col-md-1">
+                      <img src="img/icon-info.png" alt="ico_info">
+                    </div>
+                    <div class="col-md-8">
+                      <p class="acco__content-text__p">
+                      Расчет размера собственных средств АО Управляющая компания «Эстейт Инвест» в соответствии с Указанием Банка России от 19.07.2016 N 4075-У "О требованиях к собственным средствам управляющих компаний инвестиционных фондов, паевых инвестиционных фондов и негосударственных пенсионных фондов и соискателей лицензии управляющей компании" на «30» апреля 2023 г.
+                        <span class="download"><a href="/RRSS/RSS_30.04.2023.xlsx" target="_blank">Скачать</a></span>
+                      </p>
+                      <p class="acco__content-text__date"> Размещено 18.05.2023г. 15:50 на срок не менее трех лет со дня ее размещения</p>
+                    </div>
+                    <div class="col-md-3"></div>
+                  </div>
+
+
+
+
+
+<div class="row acco__content-text">
+                    <div class="col-md-1">
+                      <img src="img/icon-info.png" alt="ico_info">
+                    </div>
+                    <div class="col-md-8">
+                      <p class="acco__content-text__p">
+                      Расчет размера собственных средств АО Управляющая компания «Эстейт Инвест» в соответствии с Указанием Банка России от 19.07.2016 N 4075-У "О требованиях к собственным средствам управляющих компаний инвестиционных фондов, паевых инвестиционных фондов и негосударственных пенсионных фондов и соискателей лицензии управляющей компании" на «31» марта 2023 г.
+                        <span class="download"><a href="/RRSS/RSS_31.03.2023.xlsx" target="_blank">Скачать</a></span>
+                      </p>
+                      <p class="acco__content-text__date"> Размещено 17.04.2023г. 16:39 на срок не менее трех лет со дня ее размещения</p>
+                    </div>
+                    <div class="col-md-3"></div>
+                  </div>
+
+
+
+                    
+                         <div class="row acco__content-text">
+                    <div class="col-md-1">
+                      <img src="img/icon-info.png" alt="ico_info">
+                    </div>
+                    <div class="col-md-8">
+                      <p class="acco__content-text__p">
+                      Расчет размера собственных средств АО Управляющая компания «Эстейт Инвест» в соответствии с Указанием Банка России от 19.07.2016 N 4075-У 
+                      "О требованиях к собственным средствам управляющих компаний инвестиционных фондов, паевых инвестиционных фондов и негосударственных пенсионных фондов и соискателей лицензии управляющей компании" на «28» февраля 2023 г.
+                        <span class="download"><a href="/RRSS/RSS_28.02.2023.xlsx" target="_blank">Скачать</a></span>
+                      </p>
+                      <p class="acco__content-text__date"> Размещено 16.03.2023г. 13:23 на срок не менее трех лет со дня ее размещения</p>
+                    </div>
+                    <div class="col-md-3"></div>
+                  </div>
+                    
+                    
+                    
+                    
+                    
+                        <div class="row acco__content-text">
+                    <div class="col-md-1">
+                      <img src="img/icon-info.png" alt="ico_info">
+                    </div>
+                    <div class="col-md-8">
+                      <p class="acco__content-text__p">
+                      Расчет размера собственных средств АО Управляющая компания «Эстейт Инвест» в соответствии с Указанием Банка России от 19.07.2016 N 4075-У "О требованиях к собственным средствам управляющих компаний инвестиционных фондов, паевых инвестиционных фондов и негосударственных пенсионных фондов и соискателей лицензии управляющей компании" на «31» января 2023 г.
+                        <span class="download"><a href="/RRSS/RSS_31.01.2023.xlsx" target="_blank">Скачать</a></span>
+                      </p>
+                      <p class="acco__content-text__date"> Размещено 14.02.2023г. 12:32 на срок не менее трех лет со дня ее размещения</p>
+                    </div>
+                    <div class="col-md-3"></div>
+                  </div>
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                     <div class="row acco__content-text">
+                    <div class="col-md-1">
+                      <img src="img/icon-info.png" alt="ico_info">
+                    </div>
+                    <div class="col-md-8">
+                      <p class="acco__content-text__p">
+                       Расчет размера собственных средств АО Управляющая компания «Эстейт Инвест» в соответствии с Указанием Банка России от 19.07.2016 N 4075-У "О требованиях к собственным средствам управляющих компаний инвестиционных фондов, паевых инвестиционных фондов и негосударственных пенсионных фондов и соискателей лицензии управляющей компании" на «31» декабря 2022 г.
+                        <span class="download"><a href="/RRSS/RSS_31.12.2022.xlsx" target="_blank">Скачать</a></span>
+                      </p>
+                      <p class="acco__content-text__date"> Размещено 24.01.2023г. 10:47 на срок не менее трех лет со дня ее размещения</p>
+                    </div>
+                    <div class="col-md-3"></div>
+                  </div>
+                    
+                    
+                    
+                    
+                    
+                    <div class="row acco__content-text">
+                    <div class="col-md-1">
+                      <img src="img/icon-info.png" alt="ico_info">
+                    </div>
+                    <div class="col-md-8">
+                      <p class="acco__content-text__p">
+                      Расчет размера собственных средств АО Управляющая компания «Эстейт Инвест» в соответствии с Указанием Банка России от 19.07.2016 N 4075-У "О требованиях к собственным средствам управляющих компаний инвестиционных фондов, паевых инвестиционных фондов и негосударственных пенсионных фондов и соискателей лицензии управляющей компании" на «31» января 2022 г.»
+                        <span class="download"><a href="/RRSS/RSS_31.01.2022.xlsx" target="_blank">Скачать</a></span>
+                      </p>
+                      <p class="acco__content-text__date"> Размещено 16.02.2022г. 15:27 на срок не менее трех лет со дня ее размещения</p>
+                    </div>
+                    <div class="col-md-3"></div>
+                  </div>
+                    
+                    
+                    
+                    
+                    
+                    
+                      <div class="row acco__content-text">
+                    <div class="col-md-1">
+                      <img src="img/icon-info.png" alt="ico_info">
+                    </div>
+                    <div class="col-md-8">
+                      <p class="acco__content-text__p">
+                      Расчет размера собственных средств АО Управляющая компания «Эстейт Инвест» в соответствии с Указанием Банка России от 19.07.2016 N 4075-У "О требованиях к собственным средствам управляющих компаний инвестиционных фондов, паевых инвестиционных фондов и негосударственных пенсионных фондов и соискателей лицензии управляющей компании" на «31» декабря 2021 г.»
+                        <span class="download"><a href="/RRSS/RSS_31.12.2021.xlsx" target="_blank">Скачать</a></span>
+                      </p>
+                      <p class="acco__content-text__date"> Размещено 25.01.2022г. 16:57 на срок не менее трех лет со дня ее размещения</p>
+                    </div>
+                    <div class="col-md-3"></div>
+                  </div>
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                   
+                   <div class="row acco__content-text">
+                    <div class="col-md-1">
+                      <img src="img/icon-info.png" alt="ico_info">
+                    </div>
+                    <div class="col-md-8">
+                      <p class="acco__content-text__p">
+                      Расчет размера собственных средств АО Управляющая компания «Эстейт Инвест» в соответствии с Указанием Банка России от 19.07.2016 N 4075-У "О требованиях к собственным средствам управляющих компаний инвестиционных фондов, паевых инвестиционных фондов и негосударственных пенсионных фондов и соискателей лицензии управляющей компании" на «30» ноября 2021 г.»
+                        <span class="download"><a href="/RRSS/RSS_30.11.2021.xlsx" target="_blank">Скачать</a></span>
+                      </p>
+                      <p class="acco__content-text__date"> Размещено 16.12.2021г. 15:21 на срок не менее трех лет со дня ее размещения</p>
+                    </div>
+                    <div class="col-md-3"></div>
+                  </div>
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+
+                  <div class="row acco__content-text">
+                    <div class="col-md-1">
+                      <img src="img/icon-info.png" alt="ico_info">
+                    </div>
+                    <div class="col-md-8">
+                      <p class="acco__content-text__p">
+                      Расчет размера собственных средств АО Управляющая компания «Эстейт Инвест» в соответствии с
+                      Указанием Банка России от 19.07.2016 N 4075-У "О требованиях к собственным средствам управляющих
+                      компаний инвестиционных фондов, паевых инвестиционных фондов и негосударственных пенсионных
+                      фондов и соискателей лицензии управляющей компании" на «31» октября 2021 г.
+                        <span class="download"><a href="/RRSS/RSS_31.10.2021.docx" target="_blank">Скачать</a></span>
+                      </p>
+                      <p class="acco__content-text__date">Размещено 17.11.2021г. 09:05 на срок не менее трех лет с момента размещения</p>
+                    </div>
+                    <div class="col-md-3"></div>
+                  </div>
+
+                  <div class="row acco__content-text">
+                    <div class="col-md-1">
+                      <img src="img/icon-info.png" alt="ico_info">
+                    </div>
+                    <div class="col-md-8">
+                      <p class="acco__content-text__p">
+                      Расчет размера собственных средств АО Управляющая компания «Эстейт Инвест» в соответствии с
+                      Указанием Банка России от 19.07.2016 N 4075-У "О требованиях к собственным средствам управляющих
+                      компаний инвестиционных фондов, паевых инвестиционных фондов и негосударственных пенсионных
+                      фондов и соискателей лицензии управляющей компании" на «30» сентября 2021 г.
+                        <span class="download"><a href="/RRSS/RRSS_30.09.2021.xls" target="_blank">Скачать</a></span>
+                      </p>
+                      <p class="acco__content-text__date">Размещено 14.10.2021г. 11:40 на срок не менее трех лет с момента размещения</p>
+                    </div>
+                    <div class="col-md-3"></div>
+                  </div>
+
+                  <div class="row acco__content-text">
+
+                    <div class="col-md-1">
+                      <img src="img/icon-info.png" alt="ico_info">
+                    </div>
+
+                    <div class="col-md-8">
+                      <p class="acco__content-text__p">
+                        Расчет размера собственных средств АО Управляющая компания «Эстейт Инвест» в соответствии с
+                        Указанием Банка России от 19.07.2016 N 4075-У "О требованиях к собственным средствам управляющих
+                        компаний инвестиционных фондов, паевых инвестиционных фондов и негосударственных пенсионных
+                        фондов и соискателей лицензии управляющей компании" на «31» августа 2021 г.
+                        <span class="download"><a href="/RRSS/RRSS_31.08.2021.xls" target="_blank">Скачать</a></span>
+                      </p>
+                      <p class="acco__content-text__date">Размещено 10.09.2021г. 16:45 на срок не менее 12 месяцев с
+                        момента размещения</p>
+                    </div>
+                    <div class="col-md-3"></div>
+                  </div>
+
+                  <div class="row acco__content-text">
+                    <div class="col-md-1">
+                      <img src="img/icon-info.png" alt="ico_info">
+                    </div>
+                    <div class="col-md-8">
+                      <p class="acco__content-text__p">
+                        Расчет размера собственных средств АО Управляющая компания «Эстейт Инвест» в соответствии с
+                        Указанием Банка России от 19.07.2016 N 4075-У "О требованиях к собственным средствам управляющих
+                        компаний инвестиционных фондов, паевых инвестиционных фондов и негосударственных пенсионных
+                        фондов и соискателей лицензии управляющей компании" на «31» июля 2021 г.
+                        <span class="download"><a href="/RRSS/RRSS_31.07.2021.xls" target="_blank">Скачать</a></span>
+                      </p>
+                      <p class="acco__content-text__date">Размещено 24.08.2021г. 12:00 на срок не менее 12 месяцев с
+                        момента размещения</p>
+                    </div>
+                    <div class="col-md-3"></div>
+                  </div>
+
+                  <div class="row acco__content-text">
+                    <div class="col-md-1">
+                      <img src="img/icon-info.png" alt="ico_info">
+                    </div>
+                    <div class="col-md-8">
+                      <p class="acco__content-text__p">
+                        Расчет размера собственных средств АО Управляющая компания «Эстейт Инвест» в соответствии с
+                        Указанием Банка России от 19.07.2016 N 4075-У "О требованиях к собственным средствам управляющих
+                        компаний инвестиционных фондов, паевых инвестиционных фондов и негосударственных пенсионных
+                        фондов и соискателей лицензии управляющей компании" на «30» июня 2021 г.
+                        <span class="download"><a href="/RRSS/RRSS%2030.06.2021.xls" target="_blank">Скачать</a></span>
+                      </p>
+                      <p class="acco__content-text__date">Размещено 14.07.2021г. 12:00 на срок не менее 12 месяцев с
+                        момента размещения</p>
+                    </div>
+                    <div class="col-md-3"></div>
+                  </div>
+
+                  <div class="row acco__content-text">
+                    <div class="col-md-1">
+                      <img src="img/icon-info.png" alt="ico_info">
+                    </div>
+                    <div class="col-md-8">
+                      <p class="acco__content-text__p">
+                        Расчет размера собственных средств АО Управляющая компания «Эстейт Инвест» в соответствии с
+                        Указанием Банка России от 19.07.2016 N 4075-У "О требованиях к собственным средствам управляющих
+                        компаний инвестиционных фондов, паевых инвестиционных фондов и негосударственных пенсионных
+                        фондов и соискателей лицензии управляющей компании" на «31» мая 2021 г.
+                        <span class="download"><a href="/RRSS/RRSS_31.05.2021.xls" target="_blank">Скачать</a></span>
+                      </p>
+                      <p class="acco__content-text__date">Размещено 11.06.2021г. 10:15 на срок не менее 12 месяцев с
+                        момента размещения</p>
+                    </div>
+                    <div class="col-md-3"></div>
+                  </div>
+
+                  <div class="row acco__content-text">
+                    <div class="col-md-1">
+                      <img src="img/icon-info.png" alt="ico_info">
+                    </div>
+                    <div class="col-md-8">
+                      <p class="acco__content-text__p">
+                        Расчет размера собственных средств АО Управляющая компания «Эстейт Инвест» в соответствии с
+                        Указанием Банка России от 19.07.2016 N 4075-У "О требованиях к собственным средствам управляющих
+                        компаний инвестиционных фондов, паевых инвестиционных фондов и негосударственных пенсионных
+                        фондов и соискателей лицензии управляющей компании" на «30» апреля 2021 г.
+                        <span class="download"><a href="/RRSS/RRSS_30.04.2021.xls" target="_blank">Скачать</a></span>
+                      </p>
+                      <p class="acco__content-text__date">Размещено 24.05.2021г. 10:45 на срок не менее 12 месяцев с
+                        момента размещения</p>
+                    </div>
+                    <div class="col-md-3"></div>
+                  </div>
+
+                  <div class="row acco__content-text">
+                    <div class="col-md-1">
+                      <img src="img/icon-info.png" alt="ico_info">
+                    </div>
+                    <div class="col-md-8">
+                      <p class="acco__content-text__p">
+                        Расчет размера собственных средств АО Управляющая компания «Эстейт Инвест» в соответствии с
+                        Указанием Банка России от 19.07.2016 N 4075-У "О требованиях к собственным средствам управляющих
+                        компаний инвестиционных фондов, паевых инвестиционных фондов и негосударственных пенсионных
+                        фондов и соискателей лицензии управляющей компании" на «31» марта 2021 г.
+                        <span class="download"><a href="/RRSS/RRSS_31.03.2021.xls" target="_blank">Скачать</a></span>
+                      </p>
+                      <p class="acco__content-text__date">Размещено 14.04.2021г. 09:20 на срок не менее 12 месяцев с
+                        момента размещения</p>
+                    </div>
+                    <div class="col-md-3"></div>
+                  </div>
+                  <div class="row acco__content-text">
+                    <div class="col-md-1">
+                      <img src="img/icon-info.png" alt="ico_info">
+                    </div>
+                    <div class="col-md-8">
+                      <p class="acco__content-text__p">
+                        Расчет размера собственных средств АО Управляющая компания «Эстейт Инвест» в соответствии с
+                        Указанием Банка России от 19.07.2016 N 4075-У "О требованиях к собственным средствам управляющих
+                        компаний инвестиционных фондов, паевых инвестиционных фондов и негосударственных пенсионных
+                        фондов и соискателей лицензии управляющей компании" на «28» февраля 2021 г.
+                        <span class="download"><a href="/RRSS/RRSS_28.02.2021.xls" target="_blank">Скачать</a></span>
+                      </p>
+                      <p class="acco__content-text__date">Размещено 15.03.2021г. 09:17 на срок не менее 12 месяцев с
+                        момента размещения</p>
+                    </div>
+                    <div class="col-md-3"></div>
+                  </div>
+                  <div class="row acco__content-text">
+                    <div class="col-md-1">
+                      <img src="img/icon-info.png" alt="ico_info">
+                    </div>
+                    <div class="col-md-8">
+                      <p class="acco__content-text__p">
+                        Расчет размера собственных средств АО Управляющая компания «Эстейт Инвест» в соответствии с
+                        Указанием Банка России от 19.07.2016 N 4075-У "О требованиях к собственным средствам управляющих
+                        компаний инвестиционных фондов, паевых инвестиционных фондов и негосударственных пенсионных
+                        фондов и соискателей лицензии управляющей компании" на «31» января 2021 г.
+                        <span class="download"><a href="/RRSS/RRSS_31.01.2021.xls" target="_blank">Скачать</a></span>
+                      </p>
+                      <p class="acco__content-text__date">Размещено 12.02.2021г. 11:40 на срок не менее 12 месяцев с
+                        момента размещения</p>
+                    </div>
+                    <div class="col-md-3"></div>
+                  </div>
+                  <div class="row acco__content-text">
+                    <div class="col-md-1">
+                      <img src="img/icon-info.png" alt="ico_info">
+                    </div>
+                    <div class="col-md-8">
+                      <p class="acco__content-text__p">
+                        Расчет размера собственных средств АО Управляющая компания «Эстейт Инвест» в соответствии с
+                        Указанием Банка России от 19.07.2016 N 4075-У "О требованиях к собственным средствам управляющих
+                        компаний инвестиционных фондов, паевых инвестиционных фондов и негосударственных пенсионных
+                        фондов и соискателей лицензии управляющей компании" на «31» декабря 2020 г
+                        <span class="download"><a href="/RRSS/RRSS 31.12.2020.xls" target="_blank">Скачать</a></span>
+                      </p>
+                      <p class="acco__content-text__date">Размещено 22.01.2021г. 13:40 на срок не менее 12 месяцев с
+                        момента размещения</p>
+                    </div>
+                    <div class="col-md-3"></div>
+                  </div>
+                  <div class="row acco__content-text">
+                    <div class="col-md-1">
+                      <img src="img/icon-info.png" alt="ico_info">
+                    </div>
+                    <div class="col-md-8">
+                      <p class="acco__content-text__p">
+                        Расчет размера собственных средств АО Управляющая компания «Эстейт Инвест» в соответствии с
+                        Указанием Банка России от 19.07.2016 N 4075-У "О требованиях к
+                        собственным средствам управляющих компаний инвестиционных фондов, паевых инвестиционных фондов и
+                        негосударственных пенсионных фондов и соискателей
+                        лицензии управляющей компании" на «30» ноября 2020 г.
+                        <span class="download"><a href="/RRSS/RRSS 30.11.2020.xls" target="_blank">Скачать</a></span>
+                      </p>
+                      <p class="acco__content-text__date">Размещено 14.12.2020г. 12:30 на срок не менее 12 месяцев с
+                        момента размещения</p>
+                    </div>
+                    <div class="col-md-3"></div>
+                  </div>
+
+
+                  <div class="row acco__content-text">
+                    <div class="col-md-1">
+                      <img src="img/icon-info.png" alt="ico_info">
+                    </div>
+                    <div class="col-md-8">
+                      <p class="acco__content-text__p">
+                        Расчет размера собственных средств АО Управляющая компания «Эстейт Инвест» в соответствии с
+                        Указанием Банка России от 19.07.2016 N 4075-У
+                        "О требованиях к собственным средствам управляющих компаний
+                        инвестиционных фондов, паевых инвестиционных фондов и негосударственных пенсионных фондов и
+                        соискателей лицензии управляющей компании" на «31» октября 2020 г.
+                        <span class="download"><a href="/RRSS/RRSS 31.10.2020.xls" target="_blank">Скачать</a></span>
+                      </p>
+                      <p class="acco__content-text__date">Размещено 16.11.2020г. 16:00 на срок не менее 12 месяцев с
+                        момента размещения</p>
+                    </div>
+                    <div class="col-md-3"></div>
+                  </div>
+
+
+                  <div class="row acco__content-text">
+                    <div class="col-md-1">
+                      <img src="img/icon-info.png" alt="ico_info">
+                    </div>
+                    <div class="col-md-8">
+                      <p class="acco__content-text__p">
+                        Расчет размера собственных средств АО Управляющая компания «Эстейт Инвест» в соответствии с
+                        Указанием Банка России
+                        от 19.07.2016 N 4075-У "О требованиях к собственным средствам управляющих компаний
+                        инвестиционных фондов, паевых инвестиционных фондов
+                        и негосударственных пенсионных фондов и соискателей лицензии управляющей компании" на «30»
+                        сентября 2020 г.
+                        <span class="download"><a href="/RRSS/RRSS 30.09.2020.xls" target="_blank">Скачать</a></span>
+                      </p>
+                      <p class="acco__content-text__date">Размещено 14.10.2020г. 12:20 на срок не менее 12 месяцев с
+                        момента размещения</p>
+                    </div>
+                    <div class="col-md-3"></div>
+                  </div>
+
+                  <div class="row acco__content-text">
+                    <div class="col-md-1">
+                      <img src="img/icon-info.png" alt="ico_info">
+                    </div>
+                    <div class="col-md-8">
+                      <p class="acco__content-text__p">
+                        Расчет размера собственных средств АО Управляющая компания «Эстейт Инвест» в соответствии с
+                        Указанием Банка России
+                        от 19.07.2016 N 4075-У "О требованиях к собственным средствам управляющих компаний
+                        инвестиционных фондов, паевых инвестиционных
+                        фондов и негосударственных пенсионных фондов и соискателей лицензии управляющей компании" на
+                        «31» августа 2020 г.
+                        <span class="download"><a href="/RRSS/RRSS 31.08.2020.xls" target="_blank">Скачать</a></span>
+                      </p>
+                      <p class="acco__content-text__date">Размещено 11.09.2020г. 12:10 на срок не менее 12 месяцев с
+                        момента размещения</p>
+                    </div>
+                    <div class="col-md-3"></div>
+                  </div>
+
+                  <div class="row acco__content-text">
+                    <div class="col-md-1">
+                      <img src="img/icon-info.png" alt="ico_info">
+                    </div>
+                    <div class="col-md-8">
+                      <p class="acco__content-text__p">
+                        Расчет размера собственных средств (корректировочный) АО Управляющая компания «Эстейт Инвест» в
+                        соответствии с
+                        Указанием Банка России от 19.07.2016 N 4075-У "О требованиях к собственным средствам управляющих
+                        компаний инвестиционных фондов, паевых инвестиционных фондов и негосударственных
+                        пенсионных фондов и соискателей лицензии управляющей компании" на «31» июля 2020 г.
+                        <span class="download"><a href="/RRSS/RRSS 31.07.2020_korr.xls" target="_blank">Скачать</a></span>
+                      </p>
+                      <p class="acco__content-text__date">Размещено 03.09.2020г. 16:37 на срок не менее 12 месяцев с
+                        момента размещения</p>
+                    </div>
+                    <div class="col-md-3"></div>
+                  </div>
+
+
+                  <div class="row acco__content-text">
+                    <div class="col-md-1">
+                      <img src="img/icon-info.png" alt="ico_info">
+                    </div>
+                    <div class="col-md-8">
+                      <p class="acco__content-text__p">
+                        Расчет размера собственных средств (корректировочный) АО Управляющая компания «Эстейт Инвест» в
+                        соответствии с Указанием Банка России от 19.07.2016
+                        N 4075-У "О требованиях к собственным средствам управляющих компаний инвестиционных фондов,
+                        паевых инвестиционных фондов
+                        и негосударственных пенсионных фондов и соискателей лицензии управляющей компании" на «30» июня
+                        2020 г.
+                        <span class="download"><a href="/RRSS/RRSS 30.06.2020_korr.xls" target="_blank">Скачать</a></span>
+                      </p>
+                      <p class="acco__content-text__date">Размещено 03.09.2020г. 16:35 на срок не менее 12 месяцев с
+                        момента размещения</p>
+                    </div>
+                    <div class="col-md-3"></div>
+                  </div>
+
+
+
+                  <div class="row acco__content-text">
+                    <div class="col-md-1">
+                      <img src="img/icon-info.png" alt="ico_info">
+                    </div>
+                    <div class="col-md-8">
+                      <p class="acco__content-text__p">
+                        Расчет размера собственных средств АО Управляющая компания «Эстейт Инвест» в соответствии с
+                        Указанием Банка
+                        России от 19.07.2016 N 4075-У "О требованиях к собственным средствам управляющих компаний
+                        инвестиционных фондов, паевых инвестиционных фондов и негосударственных пенсионных фондов
+                        и соискателей лицензии управляющей компании" на «31» июля 2020 г.
+                        <span class="download"><a href="/RRSS/RRSS_31.07.2020.xls" target="_blank">Скачать</a></span>
+                      </p>
+                      <p class="acco__content-text__date">Размещено 13.08.2020г. 16:05 на срок не менее 12 месяцев с
+                        момента размещения</p>
+                    </div>
+                    <div class="col-md-3"></div>
+                  </div>
+
+                  <div class="row acco__content-text">
+                    <div class="col-md-1">
+                      <img src="img/icon-info.png" alt="ico_info">
+                    </div>
+                    <div class="col-md-8">
+                      <p class="acco__content-text__p">
+                        Расчет размера собственных средств АО Управляющая компания «Эстейт Инвест» в соответствии с
+                        Указанием Банка России от 19.07.2016 N 4075-У
+                        "О требованиях к собственным средствам управляющих компаний инвестиционных фондов, паевых
+                        инвестиционных фондов и негосударственных пенсионных фондов
+                        и соискателей лицензии управляющей компании" на «30» июня 2020 г.
+                        <span class="download"><a href="/RRSS/RRSS 30.06.2020.xls" target="_blank">Скачать</a></span>
+                      </p>
+                      <p class="acco__content-text__date">Размещено 15.07.2020г. 15:05 на срок не менее 12 месяцев с
+                        момента размещения</p>
+                    </div>
+                    <div class="col-md-3"></div>
+                  </div>
+
+
+                  <div class="row acco__content-text">
+                    <div class="col-md-1">
+                      <img src="img/icon-info.png" alt="ico_info">
+                    </div>
+                    <div class="col-md-8">
+                      <p class="acco__content-text__p">
+                        Расчет размера собственных средств АО Управляющая компания «Эстейт Инвест» в соответствии с
+                        Указанием Банка России от 19.07.2016 N 4075-У
+                        "О требованиях к собственным средствам управляющих компаний инвестиционных фондов,
+                        паевых инвестиционных фондов и негосударственных пенсионных фондов и соискателей лицензии
+                        управляющей компании" на «31» мая 2020 г.»
+                        <span class="download"><a href="/RRSS/RRSS_31.05.2020.xls" target="_blank">Скачать</a></span>
+                      </p>
+                      <p class="acco__content-text__date">Размещено 15.06.2020г. 11:20 на срок не менее 12 месяцев с
+                        момента размещения</p>
+                    </div>
+                    <div class="col-md-3"></div>
+                  </div>
+
+                  <div class="row acco__content-text">
+                    <div class="col-md-1">
+                      <img src="img/icon-info.png" alt="ico_info">
+                    </div>
+                    <div class="col-md-8">
+                      <p class="acco__content-text__p">
+                        Расчет размера собственных средств АО Управляющая компания «Эстейт Инвест» в соответствии с
+                        Указанием
+                        Банка России от 19.07.2016 N 4075-У "О требованиях к собственным средствам управляющих компаний
+                        инвестиционных фондов, паевых инвестиционных фондов и негосударственных
+                        пенсионных фондов и соискателей лицензии управляющей компании" на «30» апреля 2020 г.»
+                        <span class="download"><a href="/RRSS/RRSS_30.04.2020.xls" target="_blank">Скачать</a></span>
+                      </p>
+                      <p class="acco__content-text__date">Размещено 20.05.2020г. 11:20 на срок не менее 12 месяцев с
+                        момента размещения</p>
+                    </div>
+                    <div class="col-md-3"></div>
+                  </div>
+
+                  <div class="row acco__content-text">
+                    <div class="col-md-1">
+                      <img src="img/icon-info.png" alt="ico_info">
+                    </div>
+                    <div class="col-md-8">
+                      <p class="acco__content-text__p">
+                        Расчет размера собственных средств АО Управляющая компания «Эстейт Инвест» в соответствии с
+                        Указанием Банка
+                        России от 19.07.2016 N 4075-У "О требованиях к собственным средствам управляющих компаний
+                        инвестиционных фондов, паевых
+                        инвестиционных фондов и негосударственных пенсионных фондов и соискателей лицензии управляющей
+                        компании" на «31» март 2020 г.»
+                        <span><b> — в архиве</b></span>
+                      </p>
+                      <p class="acco__content-text__date">Размещено 17.04.2020г. 16:20 на срок не менее 12 месяцев с
+                        момента размещения</p>
+                    </div>
+                    <div class="col-md-3"></div>
+                  </div>
+
+                  <div class="row acco__content-text">
+                    <div class="col-md-1">
+                      <img src="img/icon-info.png" alt="ico_info">
+                    </div>
+                    <div class="col-md-8">
+                      <p class="acco__content-text__p">
+                        Расчет размера собственных средств АО Управляющая компания «Эстейт Инвест» в соответствии с
+                        Указанием Банка России от 19.07.2016 N 4075-У "О требованиях к собственным средствам управляющих
+                        компаний инвестиционных фондов, паевых инвестиционных фондов и негосударственных пенсионных
+                        фондов и соискателей лицензии управляющей компании" на «29» февраля 2020 г.»
+                        <span><b> — в архиве</b></span>
+                      </p>
+                      <p class="acco__content-text__date">Размещено 13.03.2020г. 10:00 на срок не менее 12 месяцев с
+                        момента размещения</p>
+                    </div>
+                    <div class="col-md-3"></div>
+                  </div>
+
+                  <div class="row acco__content-text">
+                    <div class="col-md-1">
+                      <img src="img/icon-info.png" alt="ico_info">
+                    </div>
+                    <div class="col-md-8">
+                      <p class="acco__content-text__p">
+                        Расчет размера собственных средств АО Управляющая компания «Эстейт Инвест» в соответствии с
+                        Указанием Банка России от 19.07.2016 N 4075-У "О требованиях к собственным средствам управляющих
+                        компаний инвестиционных фондов, паевых инвестиционных фондов и негосударственных пенсионных
+                        фондов и соискателей лицензии управляющей компании" на «31» января 2020 г.»
+                        <span><b> — в архиве</b></span>
+                      </p>
+                      <p class="acco__content-text__date">Размещено 14.02.2020г. 10:22 на срок не менее 12 месяцев с
+                        момента размещения</p>
+                    </div>
+                    <div class="col-md-3"></div>
+                  </div>
+
+
+                  <div class="row acco__content-text">
+                    <div class="col-md-1">
+                      <img src="img/icon-info.png" alt="ico_info">
+                    </div>
+                    <div class="col-md-8">
+                      <p class="acco__content-text__p">
+                        Расчет размера собственных средств АО Управляющая компания «Эстейт Инвест» в соответствии с
+                        Указанием Банка России от 19.07.2016 N 4075-У "О требованиях к собственным средствам управляющих
+                        компаний инвестиционных фондов, паевых инвестиционных фондов и негосударственных пенсионных
+                        фондов и соискателей лицензии управляющей компании" на «31» декабря 2019 г.»
+                        <span><b> — в архиве</b></span>
+                      </p>
+                      <p class="acco__content-text__date">Размещено 22.01.2020г. 14:43 на срок не менее 12 месяцев с
+                        момента размещения</p>
+                    </div>
+                    <div class="col-md-3"></div>
+                  </div>
+
+                  <div class="row acco__content-text">
+                    <div class="col-md-1">
+                      <img src="img/icon-info.png" alt="ico_info">
+                    </div>
+                    <div class="col-md-8">
+                      <p class="acco__content-text__p">
+                        Расчет размера собственных средств АО Управляющая компания «Эстейт Инвест» в соответствии с
+                        Указанием Банка России от 19.07.2016 N 4075-У "
+                        О требованиях к собственным средствам управляющих компаний инвестиционных фондов, паевых
+                        инвестиционных фондов и негосударственных пенсионных фондов и соискателей лицензии управляющей
+                        компании" на «30» ноября 2019 г.»
+                        <span><b> — в архиве</b></span>
+                      </p>
+                      <p class="acco__content-text__date">Размещено 12.12.2019г. 10:36 на срок не менее 12 месяцев с
+                        момента размещения</p>
+                    </div>
+                    <div class="col-md-3"></div>
+                  </div>
+
+                  <div class="row acco__content-text">
+                    <div class="col-md-1">
+                      <img src="img/icon-info.png" alt="ico_info">
+                    </div>
+                    <div class="col-md-8">
+                      <p class="acco__content-text__p">
+                        Расчет размера собственных средств АО Управляющая компания «Эстейт Инвест» в соответствии с
+                        Указанием Банка России от 19.07.2016 N 4075-У "О требованиях к собственным средствам управляющих
+                        компаний инвестиционных фондов, паевых инвестиционных фондов и негосударственных пенсионных
+                        фондов и соискателей лицензии управляющей компании" на «31» октября 2019 г.»
+                        <span><b> — в архиве</b></span>
+                      </p>
+                      <p class="acco__content-text__date">Размещено 15.11.2019г. 10:08 на срок не менее 12 месяцев с
+                        момента размещения</p>
+                    </div>
+                    <div class="col-md-3"></div>
+                  </div>
+
+                  <div class="row acco__content-text">
+                    <div class="col-md-1">
+                      <img src="img/icon-info.png" alt="ico_info">
+                    </div>
+                    <div class="col-md-8">
+                      <p class="acco__content-text__p">
+                        Расчет размера собственных средств АО Управляющая компания «Эстейт Инвест» в соответствии с
+                        Указанием Банка России от 19.07.2016 N 4075-У "О требованиях к собственным средствам управляющих
+                        компаний инвестиционных фондов, паевых инвестиционных фондов и негосударственных пенсионных
+                        фондов и соискателей лицензии управляющей компании" на «30» сентября 2019 г.»
+                        <span><b> — в архиве</b></span>
+                      </p>
+                      <p class="acco__content-text__date">Размещено 14.10.2019г. 13:07 на срок не менее 12 месяцев с
+                        момента размещения</p>
+                    </div>
+                    <div class="col-md-3"></div>
+                  </div>
+
+                  <div class="row acco__content-text">
+                    <div class="col-md-1">
+                      <img src="img/icon-info.png" alt="ico_info">
+                    </div>
+                    <div class="col-md-8">
+                      <p class="acco__content-text__p">
+                        Расчет размера собственных средств (корректировочный) АО Управляющая компания «Эстейт Инвест» в
+                        соответствии с Указанием Банка России от 19.07.2016 N 4075-У "О требованиях к собственным
+                        средствам управляющих компаний инвестиционных фондов, паевых инвестиционных фондов и
+                        негосударственных пенсионных фондов и соискателей лицензии управляющей компании" на «31» августа
+                        2019 г.
+                        <span><b> — в архиве</b></span>
+                      </p>
+                      <p class="acco__content-text__date">Размещено 10.10.2019г. 12:04 на срок не менее 12 месяцев с
+                        момента размещения</p>
+                    </div>
+                    <div class="col-md-3"></div>
+                  </div>
+
+                  <div class="row acco__content-text">
+                    <div class="col-md-1">
+                      <img src="img/icon-info.png" alt="ico_info">
+                    </div>
+                    <div class="col-md-8">
+                      <p class="acco__content-text__p">
+                        Расчет размера собственных средств АО Управляющая компания «Эстейт Инвест» в соответствии с
+                        Указанием Банка России от 19.07.2016 N 4075-У "О требованиях к собственным средствам управляющих
+                        компаний инвестиционных фондов, паевых инвестиционных фондов и негосударственных пенсионных
+                        фондов и соискателей лицензии управляющей компании" на «31» августа 2019 г.
+                        <span><b> — в архиве</b></span>
+                      </p>
+                      <p class="acco__content-text__date">Размещено 13.09.2019г. 11:24 на срок не менее 12 месяцев с
+                        момента размещения</p>
+                    </div>
+                    <div class="col-md-3"></div>
+                  </div>
+
+                  <div class="row acco__content-text">
+                    <div class="col-md-1">
+                      <img src="img/icon-info.png" alt="ico_info">
+                    </div>
+                    <div class="col-md-8">
+                      <p class="acco__content-text__p">
+                        Расчет размера собственных средств (корректировочный) АО Управляющая компания «Эстейт Инвест» в
+                        соответствии с Указанием Банка России от 19.07.2016 N 4075-У "О требованиях к собственным
+                        средствам управляющих компаний инвестиционных фондов, паевых инвестиционных фондов и
+                        негосударственных пенсионных фондов и соискателей лицензии управляющей компании" на «31» июля
+                        2019 г.
+                        <span><b> — в архиве</b></span>
+                      </p>
+                      <p class="acco__content-text__date">Размещено 10.10.2019г. 12:00 на срок не менее 12 месяцев с
+                        момента размещения</p>
+                    </div>
+                    <div class="col-md-3"></div>
+                  </div>
+
+                  <div class="row acco__content-text">
+                    <div class="col-md-1">
+                      <img src="img/icon-info.png" alt="ico_info">
+                    </div>
+                    <div class="col-md-8">
+                      <p class="acco__content-text__p">Расчет размера собственных средств АО Управляющая компания
+                        «Эстейт Инвест» в соответствии с Указанием Банка России от 19.07.2016 N 4075-У "О требованиях к
+                        собственным средствам управляющих компаний инвестиционных фондов, паевых инвестиционных фондов и
+                        негосударственных пенсионных фондов и соискателей лицензии управляющей компании" на «31» июля
+                        2019 г.»
+                        <span><b> — в архиве</b></span>
+                      </p>
+                      <p class="acco__content-text__date">Размещено 14.08.2019г. 11:43 на срок не менее 12 месяцев с
+                        момента размещения</p>
+                    </div>
+                    <div class="col-md-3"></div>
+                  </div>
+
+                  <div class="row acco__content-text">
+                    <div class="col-md-1">
+                      <img src="img/icon-info.png" alt="ico_info">
+                    </div>
+                    <div class="col-md-8">
+                      <p class="acco__content-text__p">
+                        Расчет размера собственных средств (корректировочный - 2) АО Управляющая компания «Эстейт
+                        Инвест» в соответствии с Указанием Банка России от 19.07.2016 N 4075-У "О требованиях к
+                        собственным средствам управляющих компаний инвестиционных фондов, паевых инвестиционных фондов и
+                        негосударственных пенсионных фондов и соискателей лицензии управляющей компании" на «30» июня
+                        2019 г.
+                        <span><b> — в архиве</b></span>
+                      </p>
+                      <p class="acco__content-text__date">Размещено 10.10.2019г. 11:56 на срок не менее 12 месяцев с
+                        момента размещения</p>
+                    </div>
+                    <div class="col-md-3"></div>
+                  </div>
+
+                  <div class="row acco__content-text">
+                    <div class="col-md-1">
+                      <img src="img/icon-info.png" alt="ico_info">
+                    </div>
+                    <div class="col-md-8">
+                      <p class="acco__content-text__p">Расчет размера собственных средств (корректировочный) АО
+                        Управляющая компания «Эстейт Инвест» в соответствии с Указанием Банка России от 19.07.2016 N
+                        4075-У "О требованиях к собственным средствам управляющих компаний инвестиционных фондов, паевых
+                        инвестиционных фондов и негосударственных пенсионных фондов и соискателей лицензии управляющей
+                        компании" на «30» июня 2019 г.»
+                        <span><b> — в архиве</b></span>
+                      </p>
+                      <p class="acco__content-text__date">Размещено 01.08.2019г. 11:45 на срок не менее 12 месяцев с
+                        момента размещения</p>
+                    </div>
+                    <div class="col-md-3"></div>
+                  </div>
+
+                  <div class="row acco__content-text">
+                    <div class="col-md-1">
+                      <img src="img/icon-info.png" alt="ico_info">
+                    </div>
+                    <div class="col-md-8">
+                      <p class="acco__content-text__p">Расчет размера собственных средств АО Управляющая компания
+                        «Эстейт Инвест» в соответствии с Указанием Банка России от 19.07.2016 N 4075-У "О требованиях к
+                        собственным средствам управляющих компаний инвестиционных фондов, паевых инвестиционных фондов и
+                        негосударственных пенсионных фондов и соискателей лицензии управляющей компании" на «30» июня
+                        2019 г.»
+                        <span><b> — в архиве</b></span>
+                      </p>
+                      <p class="acco__content-text__date">Размещено 12.07.2019г. 11:30 на срок не менее 12 месяцев с
+                        момента размещения</p>
+                    </div>
+                    <div class="col-md-3"></div>
+                  </div>
+
+                  <div class="row acco__content-text">
+                    <div class="col-md-1">
+                      <img src="img/icon-info.png" alt="ico_info">
+                    </div>
+                    <div class="col-md-8">
+                      <p class="acco__content-text__p">
+                        Расчет размера собственных средств (корректировочный) АО Управляющая компания «Эстейт Инвест» в
+                        соответствии с Указанием Банка России от 19.07.2016 N 4075-У "О требованиях к собственным
+                        средствам управляющих компаний инвестиционных фондов, паевых инвестиционных фондов и
+                        негосударственных пенсионных фондов и соискателей лицензии управляющей компании" на «31» мая
+                        2019 г.
+                        <span><b> — в архиве</b></span>
+                      </p>
+                      <p class="acco__content-text__date">Размещено 10.10.2019г. 11:54 на срок не менее 12 месяцев с
+                        момента размещения</p>
+                    </div>
+                    <div class="col-md-3"></div>
+                  </div>
+
+                  <div class="row acco__content-text">
+                    <div class="col-md-1">
+                      <img src="img/icon-info.png" alt="ico_info">
+                    </div>
+                    <div class="col-md-8">
+                      <p class="acco__content-text__p">Расчет размера собственных средств АО Управляющая компания
+                        «Эстейт Инвест» в соответствии с Указанием Банка России от 19.07.2016 N 4075-У "О требованиях к
+                        собственным средствам управляющих компаний инвестиционных фондов, паевых инвестиционных фондов и
+                        негосударственных пенсионных фондов и соискателей лицензии управляющей компании" на «31» мая
+                        2019 г.»
+                        <span><b> — в архиве</b></span>
+                      </p>
+                      <p class="acco__content-text__date">Размещено 17.06.2019г. 9:33 на срок не менее 12 месяцев с
+                        момента размещения</p>
+                    </div>
+                    <div class="col-md-3"></div>
+                  </div>
+
+                  <div class="row acco__content-text">
+                    <div class="col-md-1">
+                      <img src="img/icon-info.png" alt="ico_info">
+                    </div>
+                    <div class="col-md-8">
+                      <p class="acco__content-text__p">
+                        Расчет размера собственных средств (корректировочный) АО Управляющая компания «Эстейт Инвест» в
+                        соответствии с Указанием Банка России от 19.07.2016 N 4075-У "О требованиях к собственным
+                        средствам управляющих компаний инвестиционных фондов, паевых инвестиционных фондов и
+                        негосударственных пенсионных фондов и соискателей лицензии управляющей компании" на «30» апреля
+                        2019 г.
+                        <span><b> — в архиве</b></span>
+                      </p>
+                      <p class="acco__content-text__date">Размещено 10.10.2019г. 11:52 на срок не менее 12 месяцев с
+                        момента размещения</p>
+                    </div>
+                    <div class="col-md-3"></div>
+                  </div>
+
+                  <div class="row acco__content-text">
+                    <div class="col-md-1">
+                      <img src="img/icon-info.png" alt="ico_info">
+                    </div>
+                    <div class="col-md-8">
+                      <p class="acco__content-text__p">Расчет размера собственных средств АО Управляющая компания
+                        «Эстейт Инвест» в соответствии с Указанием Банка России от 19.07.2016 N 4075-У "О требованиях к
+                        собственным средствам управляющих компаний инвестиционных фондов, паевых инвестиционных фондов и
+                        негосударственных пенсионных фондов и соискателей лицензии управляющей компании" на «30» апреля
+                        2019 г.»
+                        <span><b> — в архиве</b></span>
+                      </p>
+                      <p class="acco__content-text__date">Размещено 21.05.2019г. 13:20 на срок не менее 12 месяцев с
+                        момента размещения</p>
+                    </div>
+                    <div class="col-md-3"></div>
+                  </div>
+
+                  <div class="row acco__content-text">
+                    <div class="col-md-1">
+                      <img src="img/icon-info.png" alt="ico_info">
+                    </div>
+                    <div class="col-md-8">
+                      <p class="acco__content-text__p">
+                        Расчет размера собственных средств (корректировочный) АО Управляющая компания «Эстейт Инвест» в
+                        соответствии с Указанием Банка России от 19.07.2016 N 4075-У "О требованиях к собственным
+                        средствам управляющих компаний инвестиционных фондов, паевых инвестиционных фондов и
+                        негосударственных пенсионных фондов и соискателей лицензии управляющей компании" на «31» марта
+                        2019 г.
+                        <span><b> — в архиве</b></span>
+                      </p>
+                      <p class="acco__content-text__date">Размещено 10.10.2019г. 11:48 на срок не менее 12 месяцев с
+                        момента размещения</p>
+                    </div>
+                    <div class="col-md-3"></div>
+                  </div>
+
+                  <div class="row acco__content-text">
+                    <div class="col-md-1">
+                      <img src="img/icon-info.png" alt="ico_info">
+                    </div>
+                    <div class="col-md-8">
+                      <p class="acco__content-text__p">Расчет размера собственных средств АО Управляющая компания
+                        «Эстейт Инвест» в соответствии с Указанием Банка России от 19.07.2016 N 4075-У "О требованиях к
+                        собственным средствам управляющих компаний инвестиционных фондов, паевых инвестиционных фондов и
+                        негосударственных пенсионных фондов и соискателей лицензии управляющей компании" на «31» марта
+                        2019 г.»
+                        <span><b> — в архиве</b></span>
+                      </p>
+                      <p class="acco__content-text__date">Размещено 12.04.2019г. 12:47 на срок не менее 12 месяцев с
+                        момента размещения</p>
+                    </div>
+                    <div class="col-md-3"></div>
+                  </div>
+
+                  <div class="row acco__content-text">
+                    <div class="col-md-1">
+                      <img src="img/icon-info.png" alt="ico_info">
+                    </div>
+                    <div class="col-md-8">
+                      <p class="acco__content-text__p">
+                        Расчет размера собственных средств (корректировочный) АО Управляющая компания «Эстейт Инвест» в
+                        соответствии с Указанием Банка России от 19.07.2016 N 4075-У "О требованиях к собственным
+                        средствам управляющих компаний инвестиционных фондов, паевых инвестиционных фондов и
+                        негосударственных пенсионных фондов и соискателей лицензии управляющей компании" на «28» февраля
+                        2019 г.
+                        <span><b> — в архиве</b></span>
+                      </p>
+                      <p class="acco__content-text__date">Размещено 10.10.2019г. 11:46 на срок не менее 12 месяцев с
+                        момента размещения</p>
+                    </div>
+                    <div class="col-md-3"></div>
+                  </div>
+
+                  <div class="row acco__content-text">
+                    <div class="col-md-1">
+                      <img src="img/icon-info.png" alt="ico_info">
+                    </div>
+                    <div class="col-md-8">
+                      <p class="acco__content-text__p">Расчет размера собственных средств АО Управляющая компания
+                        «Эстейт Инвест» в соответствии с Указанием Банка России от 19.07.2016 N 4075-У "О требованиях к
+                        собственным средствам управляющих компаний инвестиционных фондов, паевых инвестиционных фондов и
+                        негосударственных пенсионных фондов и соискателей лицензии управляющей компании" на «28» февраля
+                        2019 г.»<span><b> — в архиве</b></span></p>
+                      <p class="acco__content-text__date">Размещено 14.03.2019г. 13:04 на срок не менее 12 месяцев с
+                        момента размещения</p>
+                    </div>
+                    <div class="col-md-3"></div>
+                  </div>
+
+                  <div class="row acco__content-text">
+                    <div class="col-md-1">
+                      <img src="img/icon-info.png" alt="ico_info">
+                    </div>
+                    <div class="col-md-8">
+                      <p class="acco__content-text__p">
+                        Расчет размера собственных средств (корректировочный) АО Управляющая компания «Эстейт Инвест» в
+                        соответствии с Указанием Банка России от 19.07.2016 N 4075-У "О требованиях к собственным
+                        средствам управляющих компаний инвестиционных фондов, паевых инвестиционных фондов и
+                        негосударственных пенсионных фондов и соискателей лицензии управляющей компании" на «31» января
+                        2019 г.<span><b> — в архиве</b></span></p>
+                      <p class="acco__content-text__date">Размещено 10.10.2019г. 11:42 на срок не менее 12 месяцев с
+                        момента размещения</p>
+                    </div>
+                    <div class="col-md-3"></div>
+                  </div>
+
+                  <div class="row acco__content-text">
+                    <div class="col-md-1">
+                      <img src="img/icon-info.png" alt="ico_info">
+                    </div>
+                    <div class="col-md-8">
+                      <p class="acco__content-text__p">Расчет размера собственных средств АО Управляющая компания
+                        «Эстейт Инвест» в соответствии с Указанием Банка России от 19.07.2016 N 4075-У "О требованиях к
+                        собственным средствам управляющих компаний инвестиционных фондов, паевых инвестиционных фондов и
+                        негосударственных пенсионных фондов и соискателей лицензии управляющей компании" на «31» января
+                        2019 г.»<span><b> — в архиве</b></span></p>
+                      <p class="acco__content-text__date">Размещено 13.02.2019г. 15:45 на срок не менее 12 месяцев с
+                        момента размещения</p>
+                    </div>
+                    <div class="col-md-3"></div>
+                  </div>
+
+
+                </div>
+              </div>
+            </li>
+
+            <li class="info__item acco__item">
+              <a href="https://www.esteit-invest.ru/info.php#" class="clearfix info__link acco__trigger">
+                <p class="info__link_text">Бухгалтерская (финансовая) отчетность Управляющей компании</p>
+                <span class="glyphicon glyphicon-chevron-right"></span>
+              </a>
+
+
+<div class="acco__content" style="height: 0px;">
+                <div class="acco__content-container">
+                  <div class="row acco__content-text">
+
+
+                  <div class="col-md-1">
+                      <img src="img/icon-info.png" alt="ico_info">
+                    </div>
+                   <div class="col-md-8">
+                      <p class="acco__content-text__p">
+                        Промежуточная бухгалтерская (финансовая) отчетность некредитной финансовой организации на 31.03.2023 года
+                        <span class="download"><a href="/documents/Promezhutochnaya_BFO_na_31.03.2023.pdf" target="_blank">Скачать</a></span>
+                      </p>
+                      <p class="acco__content-text__date">Размещено 28.04.2023г. 16:41 на срок не менее трех лет со дня ее размещения</p>
+                    </div>
+                    <div class="col-md-3"></div>
+                  </div>
+                </div>
+              </div>
+
+
+
+
+
+
+
+
+
+<div class="acco__content" style="height: 0px;">
+                <div class="acco__content-container">
+                  <div class="row acco__content-text">
+
+
+                  <div class="col-md-1">
+                      <img src="img/icon-info.png" alt="ico_info">
+                    </div>
+                   <div class="col-md-8">
+                      <p class="acco__content-text__p">
+                        Годовая бухгалтерская (финансовая) отчетность некредитной финансовой организации за 2022 г. и аудиторское заключение к ней
+                        <span class="download"><a href="/documents/Godovaya_BFO_2022_s_audit_zakl.pdf" target="_blank">Скачать</a></span>
+                      </p>
+                      <p class="acco__content-text__date">Размещено 03.04.2023г. 15:50 на срок не менее трех лет со дня ее размещения</p>
+                    </div>
+                    <div class="col-md-3"></div>
+                  </div>
+                </div>
+              </div>
+
+
+
+
+              
+              <div class="acco__content" style="height: 0px;">
+                <div class="acco__content-container">
+                  <div class="row acco__content-text">
+                  <div class="col-md-1">
+                      <img src="img/icon-info.png" alt="ico_info">
+                    </div>
+                    
+                    <div class="col-md-8">
+                      <p class="acco__content-text__p">
+                        Промежуточная бухгалтерская (финансовая) отчетность на 30.09.2021 года
+                        <span class="download"><a href="/documents/Promezhutochnaya_BFO_na_30.09.2021.pdf" target="_blank">Скачать</a></span>
+                      </p>
+                      <p class="acco__content-text__date">Размещено 02.11.2021г. 09:03 на срок не менее трех лет со дня ее размещения</p>
+                    </div>
+<div class="col-md-3"></div>
+                  </div>
+                </div>
+              </div>
+
+
+
+
+            </li>
+
+            <li class="info__item acco__item">
+              <a href="https://www.esteit-invest.ru/info.php#" class="clearfix info__link acco__trigger">
+                <p class="info__link_text">Признание лиц квалифицированными инвесторами</p>
+                <span class="glyphicon glyphicon-chevron-right"></span>
+              </a>
+              <div class="acco__content" style="height: 0px;">
+                <div class="acco__content-container">
+                  <div class="row acco__content-text">
+                    <div class="col-md-1">
+                        <img src="img/icon-info.png" alt="ico_info">
+                    </div>
+                    <div class="col-md-8">
+                        <p class="acco__content-text__p">
+                          Регламент АО Управляющая компания «Эстейт Инвест» о признании лиц квалифицированными инвесторами от 30.11.2021г.
+                          <span class="download">
+                            <a href="/documents/reglament_о_priznanii_lic_kvalificirovannimi_investorami.pdf" target="_blank">Скачать</a>
+                          </span>
+                        </p>
+                        <p class="acco__content-text__date">Размещено 01.12.2021г. 16:50</p>
+                    </div>
+                    <div class="col-md-3"></div>
+                  </div>
+                  <div class="row acco__content-text">
+                    <div class="col-md-1">
+                        <img src="img/icon-info.png" alt="ico_info">
+                    </div>
+                    <div class="col-md-8">
+                        <p class="acco__content-text__p">
+                          Информация для клиентов - физических лиц, признанных АО Управляющая компания «Эстейт Инвест» квалифицированными инвесторами
+                          <span class="download"><a href="/documents/inform_dlya_fiz_lic.docx" target="_blank">Скачать</a></span>
+                        </p>
+                        <p class="acco__content-text__date">Размещено 01.12.2021г. 16:50</p>
+                    </div>
+                    <div class="col-md-3"></div>
+                  </div>
+                </div>
+              </div>
+            </li>
+
+            <!-- li class="info__item acco__item">
+              <a href="http://www.esteit-invest.ru/info.php#" class="clearfix info__link acco__trigger">
+                <p class="info__link_text">Сведения о структуре и составе акционеров АО Управляющая компания «Эстейт Инвест», в том числе о лицах, под контролем либо значительным влиянием которых находится АО Управляющая компания «Эстейт Инвест»</p>
+                <span class="glyphicon glyphicon-chevron-right"></span>
+              </a>
+              <div class="acco__content" style="height: 0px;">
+                <div class="acco__content-container">
+                  <div class="row acco__content-text">
+                    <div class="col-md-1">
+                      <img src="img/icon-info.png" alt="ico_info">
+                    </div>
+                    <div class="col-md-8">
+                      <p class="acco__content-text__p">Список и схема взаимосвязей участников АО Управляющая компания
+                        «Эстейт Инвест» и лиц, под контролем которых находится АО Управляющая компания «Эстейт Инвест»
+                        по состоянию на «25» февраля 2021 года.
+                        <span class="download"><a href="/documents/RI21-000-1-00634_20210225.docx"
+                            target="_blank">Скачать</a></span></p>
+                      <p class="acco__content-text__date">Размещено 25.02.2021г. 16:45</p>
+                    </div>
+                    <div class="col-md-3"></div>
+                  </div>
+                  <div class="row acco__content-text">
+                    <div class="col-md-1">
+                      <img src="img/icon-info.png" alt="ico_info">
+                    </div>
+                    <div class="col-md-8">
+                      <p class="acco__content-text__p">Список и схема взаимосвязей участников АО Управляющая компания
+                        «Эстейт Инвест» и лиц,
+                        под контролем которых находится АО Управляющая компания «Эстейт Инвест» по состоянию на «23»
+                        октября 2020 года -
+                        <span class="download"><a href="/documents/RI21-000-1-00634_20201023.docx"
+                            target="_blank">Скачать</a></span></p>
+                      <p class="acco__content-text__date">Размещено 02.11.2020г. 14:03</p>
+                    </div>
+                    <div class="col-md-3"></div>
+                  </div>
+
+                  <div class="row acco__content-text">
+                    <div class="col-md-1">
+                      <img src="img/icon-info.png" alt="ico_info">
+                    </div>
+                    <div class="col-md-8">
+                      <p class="acco__content-text__p">Список акционеров Управляющей компании и лиц, под контролем либо
+                        значительным влиянием которых находится управляющая компания по состоянию на 07 августа 2018
+                        года – <span class="download"><a
+                            href="/documents/spisok_akcionerov_uk_esteit_invest_07_08_18.doc"
+                            target="_blank">Скачать</a></span></p>
+                      <p class="acco__content-text__date">Размещено 07.08.2018г. 17:40</p>
+                    </div>
+                    <div class="col-md-3"></div>
+                  </div>
+                  <div class="row acco__content-text">
+                    <div class="col-md-1">
+                      <img src="img/icon-info.png" alt="ico_info">
+                    </div>
+                    <div class="col-md-8">
+                      <p class="acco__content-text__p">Схема взаимосвязей акционеров Управляющей компании и лиц, под
+                        контролем либо значительным влиянием которых находится управляющая компания по состоянию на 07
+                        августа 2018 года – <span class="download"><a
+                            href="/documents/schema_vzaimosvyazei_akcionerov_uk_esteit_invest_07_08_18.docx"
+                            target="_blank">Скачать</a></span></p>
+                      <p class="acco__content-text__date">Размещено 07.08.2018г. 17:40</p>
+                    </div>
+                    <div class="col-md-3"></div>
+                  </div>
+                </div>
+              </div>
+            </li -->
+
+            <li class="info__item acco__item">
+              <a href="/documents/rekomendacii_po_sobludeniu_ib.pdf" class="clearfix info__link" target="_blank">
+                <p class="info__link_text">Рекомендации по соблюдению информационной безопасности клиентами АО
+                  Управляющая компания «Эстейт Инвест» в целях противодействия незаконным финансовым операциям</p>
+              </a><p class="acco__content-text__date">Размещено 08.11.2019г.</p>
+            </li>
+
+            <li class="info__item acco__item">
+                
+              <a href="/documents/Публичные правила (отказ в целях 115-ФЗ).pdf" class="clearfix info__link" target="_blank">
+                <p class="info__link_text">
+                  Публичные правила информирования клиента в случае принятия АО Управляющая компания «Эстейт Инвест», решения об отказе от проведения операции 
+                </p>
+              </a>
+                            <p class="acco__content-text__date">Размещено 25.05.2022г.</p>
+                            
+                            
+            </li>
+
+            <li class="info__item acco__item">
+              <a href="https://www.esteit-invest.ru/info.php#" class="clearfix info__link acco__trigger">
+                <p class="info__link_text">Архив</p>
+                <span class="glyphicon glyphicon-chevron-right"></span>
+              </a>
+              
+              <div class="acco__content" style="height: 0px;">
+                <div class="acco__content-container">
+                  <div class="row acco__content-text">
+                      
+                    <div class="col-md-1">
+                      <img src="img/icon-info.png" alt="ico_info">
+                    </div>
+                    <div class="col-md-8">
+                      <p class="acco__content-text__p">Публичные правила информирования клиента в случае принятия АО Управляющая компания «Эстейт Инвест»
+                  решения об отказе в выполнении распоряжения клиента о совершении операции<span class="download"><a href="/documents/public_rules.pdf" target="_blank">Скачать</a></span>
+                      </p>
+                      <p class="acco__content-text__date">Размещено 29.01.2021г. (перемещено в архив 25.05.2022)</p>
+                    </div>
+                    
+                    <div class="col-md-3"></div>
+                  </div>
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+                  <div class="row acco__content-text">
+                      
+                    <div class="col-md-1">
+                      <img src="img/icon-info.png" alt="ico_info">
+                    </div>
+                    <div class="col-md-8">
+                      <p class="acco__content-text__p">Регламент АО Управляющая компания «Эстейт Инвест» о признании лиц
+                        квалифицированными инвесторами<span class="download"><a href="/documents/Reglament_KI_2015.pdf" target="_blank">Скачать</a></span>
+                      </p>
+                      <p class="acco__content-text__date">Размещено 24.07.2015г. 10:52</p>
+                    </div>
+                    
+                    <div class="col-md-3"></div>
+                  </div>
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+                </div>
+              </div>
+            </li>
+
+          </ul>
+          
+          <div class="cont_link_files">
+            <p><a href="https://esteit-invest.ru/documents/edober.rtf" target="_blank">Информация о начале 24.12.2009г. осуществления электронного документооборота.</a></p>
+            <p><a href="https://esteit-invest.ru/documents/edo.rtf" target="_blank">Информация о начале 08.07.2009г. осуществления электронного документооборота.</a></p>
+          </div> 
+          
+        </div>
+      </div>
+      <div class="col-md-2">
+          
+          </div>
+    </div>
+
+  </div>
+</section>
+    <footer class="footer">
+      <div class="container">
+        <div class="row footer__row__top">
+          <div class="col-md-1"></div>
+          <div class="col-md-10">
+          <p class="footer-text">
+            Стоимость инвестиционных паев может увеличиваться и уменьшаться, результаты инвестирования в прошлом не определяют доходы в будущем, государство не гарантирует доходность инвестиций в паевые инвестиционные фонды. Прежде чем приобрести инвестиционный пай, следует внимательно ознакомиться с правилами доверительного управления паевым инвестиционным фондом.
+          </p>
+          <p>Акционерное общество Управляющая компания «Эстейт Инвест», Лицензия на осуществление деятельности по управлению инвестиционными фондами, паевыми инвестиционными фондами и негосударственными пенсионными фондами, выданная Федеральной службой по финансовым рынкам №21-000-1-00634 от 10 февраля 2009 г.</p>
+          <!-- p>Информация о структуре и составе акционеров (участников) управляющей компании, в том числе о лицах, под контролем либо значительным влиянием которых находится управляющая компания, раскрывается <a href="https://www.cbr.ru/finorg/foinfo/?ogrn=1067760938167">на официальном сайте Банка России</a></p -->
+                        <p>Получить информацию, подлежащую раскрытию и предоставлению в соответствии с законодательством Российской Федерации, можно по адресу: 107078, г. Москва, Орликов пер., д. 5, стр. 3. этаж 4, пом. I, ком. 38, каб. 443, по телефону: +7 (495) 504-09-11 и на сайте в сети Интернет: www.esteit-invest.ru. Информация о паевом инвестиционном фонде, инвестиционные паи которого ограничены в обороте, может распространяться путем размещения на официальном сайте управляющей компании и специализированного депозитария такого паевого инвестиционного фонда и на официальном сайте Банка России в сети Интернет для неограниченного круга лиц.</p>
+           
+            <ul class="nav nav-tabs footer__nav__list">
+                                              <li class="footer__nav__item">
+                  <a class="footer__nav__link" href="/about.php">О нас</a>
+                </li>
+                                              <li class="footer__nav__item active">
+                  <a class="footer__nav__link" href="/info.php">Раскрытие информации<br><small>в том числе в соответствии с <br>Указанием Банка России №5609-У</small></a>
+                </li>
+                                              <li class="footer__nav__item">
+                  <a class="footer__nav__link" href="/obligation.php">Представитель владельцев облигаций</a>
+                </li>
+                                              <li class="footer__nav__item">
+                  <a class="footer__nav__link" href="/fonds.php">Паевые фонды</a>
+                </li>
+                                              <li class="footer__nav__item">
+                  <a class="footer__nav__link" href="/spec.php">Специальная оценка условий труда</a>
+                </li>
+                          </ul>
+          </div>
+          <div class="col-md-1"></div>
+        </div>
+
+        <div class="row footer__row__bottom">
+          <div class="col-md-1"></div>
+          <div class="col-md-3">
+           
+            <a href="index.php" class="navbar-brand logo-container__link">
+              <img alt="logo" src="img/logo_footer.png">
+            </a>
+            
+          </div>
+          <div class="col-md-7 f_title">
+              <div class="row">
+                <div class="col-md-6 footer__contacts">
+                  Адрес
+                  <div class="small_text">107078, г. Москва, Орликов пер., д. 5, стр. 3. этаж 4, пом. I, ком. 38, каб. 443</div>
+                </div>
+                <div class="col-md-6 footer__contacts">
+                  Контактный телефон
+                  <div class="small_text">+7 (495) 504-09-11</div>
+                </div>
+              </div>  
+          </div>
+          <div class="col-md-1"></div>
+        </div>
+      </div>
+    </footer>
+    <!-- jQuery (necessary for Bootstrap's JavaScript plugins) -->
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.12.4/jquery.min.js"></script>
+    <!-- Include all compiled plugins (below), or include individual files as needed -->
+    <script src="js/bootstrap/bootstrap.min.js"></script>
+
+
+    <script src="js/main.js"></script>
+  

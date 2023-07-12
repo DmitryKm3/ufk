@@ -1,0 +1,801 @@
+
+
+<!-- Yandex.Metrika counter -->
+<noscript>
+    <div><img src="//mc.yandex.ru/watch/1145743" style="position:absolute; left:-9999px;" alt=""/></div>
+</noscript>
+<!-- Yandex.Metrika counter -->
+
+<div id="panel"></div>
+<header class="header">
+  <div class="grid-container">
+    <div class="grid-x grid-padding-x">
+      <div class="cell shrink small-order-1">
+          <a class="header__logo" href="/">
+              <img src="/local/templates/agana/images/logo.svg" alt="AGANA logo">
+          </a>
+      </div>
+      <div class="cell large-auto show-for-large js-mobile-hide small-order-3 large-order-2">
+         <ul class="header__ul">
+                                                <li class="header__item header__item_main">
+                <a class="header__link" href="/about/">О компании</a>
+                <div class="header__icon">
+                    <svg xmlns="http://www.w3.org/2000/svg" width="12" height="12" viewBox="0 0 12 12" fill="none">
+<path d="M10.3516 2L6 6.35159L1.64841 2L0 3.64841L6 9.64841L12 3.64841L10.3516 2Z" fill="white"></path>
+</svg>
+                </div>
+                <div class="header__drop">
+                                                                                                <a class="header__point" href="/about/sertificates/">Лицензии</a>
+                                                                                                                <a class="header__point" href="/about/requisites/">Банковские реквизиты</a>
+                                                                                                                <a class="header__point" href="/about/history/">История Компании</a>
+                                                                                                                <a class="header__point" href="/about/career/">Карьера в компании</a>
+                                                                    </div></li>                                            <li class="header__item header__item_main">
+                <a class="header__link" href="/uslugi/">Услуги</a>
+                <div class="header__icon">
+                    <svg xmlns="http://www.w3.org/2000/svg" width="12" height="12" viewBox="0 0 12 12" fill="none">
+<path d="M10.3516 2L6 6.35159L1.64841 2L0 3.64841L6 9.64841L12 3.64841L10.3516 2Z" fill="white"></path>
+</svg>
+                </div>
+                <div class="header__drop">
+                                                                                                <a class="header__point" href="/uslugi/fondy/">Управление активами паевых инвестиционных фондов (ПИФов)</a>
+                                                                                                                <a class="header__point" href="/uslugi/upravlenie/">Управление средствами пенсионных резервов негосударственных пенсионных фондов (НПФ)</a>
+                                                                                                                <a class="header__point" href="/uslugi/pensia/"> Управление средствами пенсионных накоплений негосударственных пенсионных фондов (НПФ)</a>
+                                                                                                                <a class="header__point" href="/uslugi/nvest/">Управление средствами пенсионных накоплений Социального фонда России (СФР, ранее ПФР)</a>
+                                                                                                                <a class="header__point" href="/uslugi/IIS/">Управление средствами фондов целевых капиталов (эндаумент-фондов)</a>
+                                                                                                                <a class="header__point" href="/uslugi/IDU/">Индивидуальное доверительное управление (ИДУ)</a>
+                                                                    </div></li>                                                                <li class="header__item">
+                        <a href="/disclosure/" class="header__link">Раскрытие информации</a>
+                    </li>
+                                                                                                                <li class="header__item">
+                        <a href="/contact_information/" class="header__link">Контакты</a>
+                    </li>
+                                                    <li class="header__item show-for-large">
+            <a class="button button_visual" href="/?special_version=Y">
+                <img src="/local/templates/agana/images/glasses.svg" alt="Версия для слабовидящих">
+                <span class="button__text">Версия для слабовидящих</span>
+            </a>
+        
+      </li></ul></div>
+      <div class="cell large-shrink auto small-order-2 large-order-3">
+        <div class="header__info">
+
+                <div class="header__src-block">
+    <button class="header__src">
+        <svg xmlns="http://www.w3.org/2000/svg" width="38" height="38" viewBox="0 0 38 38" fill="none">
+<path d="M27.5737 25.3957L23.4354 21.2571C24.1385 20.1377 24.5466 18.8146 24.5466 17.3947C24.5466 13.3777 21.2901 10.1216 17.2732 10.1216C13.2562 10.1216 10 13.3777 10 17.3947C10 21.412 13.2561 24.6677 17.2732 24.6677C18.8184 24.6677 20.2497 24.1847 21.4274 23.3638L25.5165 27.4531C25.8006 27.737 26.1731 27.8784 26.5451 27.8784C26.9176 27.8784 27.2896 27.737 27.5742 27.4531C28.142 26.8847 28.142 25.964 27.5737 25.3957ZM17.2732 22.3114C14.5581 22.3114 12.3569 20.1103 12.3569 17.395C12.3569 14.6798 14.5581 12.4786 17.2732 12.4786C19.9884 12.4786 22.1895 14.6798 22.1895 17.395C22.1895 20.1103 19.9884 22.3114 17.2732 22.3114Z" fill="white"></path>
+<rect opacity="0.5" x="0.5" y="0.5" width="37" height="37" stroke="white"></rect>
+</svg>
+    </button>
+    <button class="header__close">
+        <span class="header__span"></span>
+        <span class="header__span header__span_second"></span>
+    </button>
+    <form class="header__src-form" action="/search/index.php">
+        
+<script>
+	BX.ready(function(){
+		var input = BX("qplSKIW");
+		if (input)
+			new JsSuggest(input, 'pe:10,md5:,site:s1');
+	});
+</script>
+
+<script src="javascript:''" name="qplSKIW_div_frame" id="qplSKIW_div_frame"></script>
+
+<input name="q" id="qplSKIW" value="" class="header__src-input" type="text" autocomplete="off">
+<button class="header__src-submit" type="submit">
+    <img class="show-for-medium" src="/local/templates/agana/images/src-yellow.svg" alt="Поиск">
+    <img class="hide-for-medium" src="/local/templates/agana/images/src2.svg" alt="Поиск">
+</button>
+    
+</form>
+</div>
+            <div class="show-for-large">
+                    
+                                <a class="header__tel" href="tel:+74959801331">+7 495 980 13 31</a>
+                                            <a class="header__tel" href="tel:+74959874444">+7 495 987 44 44</a>
+                
+            </div>
+                <div class="header__burger hide-for-large">
+                    <div class="header__span"></div>
+                    <div class="header__span header__span_second"></div>
+                    <div class="header__span header__span_third"></div>
+                </div>
+        </div>
+      </div>
+    </div>
+  </div>
+</header>
+<main class="main" style="background-image: url('/local/templates/agana/i/client-back.jpg');">
+		    <div class="main__header"><h1 class="h2 h2_white">Расчет собственных средств</h1></div>
+   <!-- <div class="grid-container show-for-medium"><h2 class="h2 h2_white"></h2></div> -->
+	
+
+    <div class="grid-container grid-container_wide main__top-margin">
+        <div class="grid-x grid-padding-x">
+            <div class="cell shrink show-for-large">
+
+
+
+        <ul class="side-menu side-menu_big js-scroll mCustomScrollbar _mCS_1"><div id="mCSB_1" class="mCustomScrollBox mCS-light mCSB_vertical mCSB_inside" style="max-height: 740px;" tabindex="0"><div id="mCSB_1_container" class="mCSB_container" style="position:relative; top:0; left:0;" dir="ltr">
+
+
+	
+	
+		
+							<li class="side-menu__item">
+                    <a href="/disclosure/prospect_manager/" class="side-menu__link  ">Индивидуальное доверительное управление</a>
+                    
+			
+		
+	
+	
+
+	
+	
+		
+							</li><li class="side-menu__item">
+                    <a href="/disclosure/insider_information/" class="side-menu__link  ">Инсайдерская информация</a>
+                    
+			
+		
+	
+	
+
+	
+	
+		
+							</li><li class="side-menu__item">
+                    <a href="/disclosure/clients/" class="side-menu__link  ">Информация для клиентов</a>
+                    
+			
+		
+	
+	
+
+	
+	
+		
+							</li><li class="side-menu__item">
+                    <a href="/disclosure/conflict_of_interest/" class="side-menu__link  ">Информация о конфликте интересов</a>
+                    
+			
+		
+	
+	
+
+	
+	
+		
+							</li><li class="side-menu__item">
+                    <a href="/disclosure/combining_activities/" class="side-menu__link  ">Информация о совмещении видов деятельности</a>
+                    
+			
+		
+	
+	
+
+	
+	
+		
+							</li><li class="side-menu__item">
+                    <a href="/disclosure/ownership/" class="side-menu__link  ">Информация о структуре и составе участников</a>
+                    
+			
+		
+	
+	
+
+	
+	
+		
+							</li><li class="side-menu__item">
+                    <a href="/disclosure/information_on_the_procedures/" class="side-menu__link  ">Информация об ЭДО</a>
+                    
+			
+		
+	
+	
+
+	
+	
+		
+							</li><li class="side-menu__item">
+                    <a href="/disclosure/openinfo/" class="side-menu__link  ">Информация профессионального участника рынка ценных бумаг</a>
+                                                <div class="side-menu__drop">Раскрытие информации профессионального участника рынка ценных бумаг в соответствии с Указанием Банка России от 28.12.2015 № 3921-У</div>
+                                            </li>
+                
+			
+		
+	
+	
+
+	
+	
+		
+							<li class="side-menu__item">
+                    <a href="/disclosure/ukinfo/" class="side-menu__link  ">Информация управляющей компании</a>
+                                                <div class="side-menu__drop">Раскрытие информации управляющей компании в соответствии с Указанием Банка России от 02.11.2020 № 5609-У</div>
+                                            </li>
+                
+			
+		
+	
+	
+
+	
+	
+		
+							<li class="side-menu__item">
+                    <a href="/disclosure/personal/" class="side-menu__link  ">Обработка персональных данных</a>
+                    
+			
+		
+	
+	
+
+	
+	
+					</li><li class="side-menu__item side-menu__item_add ">
+                <a href="/disclosure/statements_pif/" class="side-menu__link ">Паевые инвестиционные фонды</a>
+            <div class="side-menu__arrow">
+                <svg xmlns="http://www.w3.org/2000/svg" width="12" height="12" viewBox="0 0 12 12" fill="none">
+<path d="M10.3516 2L6 6.35159L1.64841 2L0 3.64841L6 9.64841L12 3.64841L10.3516 2Z" fill="white"></path>
+</svg>
+            </div>
+            </li>
+            <li>
+                <ul class="side-menu__hide-items">
+		
+	
+	
+
+	
+	
+		
+			                <li class="side-menu__item ">
+                    <a href="/uslugi/mutual_funds/close/raushskiy/" class="side-menu__link side-menu__link_small ">ЗПИФ комбинированный «Раушский»</a>
+			
+		
+	
+	
+
+	
+	
+		
+			                </li><li class="side-menu__item ">
+                    <a href="/uslugi/mutual_funds/close/str_actives/" class="side-menu__link side-menu__link_small ">ЗПИФ смешанных инвестиций «Стратегические активы»</a>
+			
+		
+	
+	
+
+			</li></ul></li>	
+	
+					<li class="side-menu__item side-menu__item_add ">
+                <a href="/disclosure/retirement_savings/" class="side-menu__link ">Пенсионные накопления СФР (ранее ПФР)</a>
+            <div class="side-menu__arrow">
+                <svg xmlns="http://www.w3.org/2000/svg" width="12" height="12" viewBox="0 0 12 12" fill="none">
+<path d="M10.3516 2L6 6.35159L1.64841 2L0 3.64841L6 9.64841L12 3.64841L10.3516 2Z" fill="white"></path>
+</svg>
+            </div>
+            </li>
+            <li>
+                <ul class="side-menu__hide-items">
+		
+	
+	
+
+	
+	
+		
+			                <li class="side-menu__item ">
+                    <a href="/disclosure/retirement_savings/owned_assets/" class="side-menu__link side-menu__link_small ">Cведения о собственных средствах управляющей компании и активах в управлении</a>
+			
+		
+	
+	
+
+	
+	
+		
+			                </li><li class="side-menu__item ">
+                    <a href="/disclosure/retirement_savings/cons/" class="side-menu__link side-menu__link_small ">Портфель «Консервативный»</a>
+			
+		
+	
+	
+
+	
+	
+		
+			                </li><li class="side-menu__item ">
+                    <a href="/disclosure/retirement_savings/sbalans/" class="side-menu__link side-menu__link_small ">Портфель «Сбалансированный»</a>
+			
+		
+	
+	
+
+	
+	
+		
+			                </li><li class="side-menu__item ">
+                    <a href="/disclosure/retirement_savings/regulation_sca/" class="side-menu__link side-menu__link_small ">Правила определения СЧА</a>
+			
+		
+	
+	
+
+	
+	
+		
+			                </li><li class="side-menu__item ">
+                    <a href="/disclosure/retirement_savings/company/" class="side-menu__link side-menu__link_small ">Сведения об управляющей компании</a>
+			
+		
+	
+	
+
+			</li></ul></li>	
+	
+		
+							<li class="side-menu__item">
+                    <a href="/disclosure/qualified_investor/" class="side-menu__link  ">Признание лиц квалифицированными инвесторами</a>
+                    
+			
+		
+	
+	
+
+	
+	
+		
+							</li><li class="side-menu__item">
+                    <a href="/disclosure/anticorruption_policy/" class="side-menu__link  ">Противодействие коррупции</a>
+                    
+			
+		
+	
+	
+
+	
+	
+		
+							</li><li class="side-menu__item">
+                    <a href="/disclosure/calculation_of_own_funds/" class="side-menu__link  side-menu__link_active">Расчет собственных средств</a>
+                    
+			
+		
+	
+	
+
+	
+	
+		
+							</li><li class="side-menu__item">
+                    <a href="/disclosure/analytics/" class="side-menu__link  ">Сообщения</a>
+                    
+			
+		
+	
+	
+
+	
+	
+		
+							</li><li class="side-menu__item">
+                    <a href="/disclosure/reports_of_failures/" class="side-menu__link  ">Сообщения о технических работах, сбоях и прекращении доступа к информации</a>
+                    
+			
+		
+	
+	
+
+	
+	
+		
+							</li><li class="side-menu__item">
+                    <a href="/disclosure/working_conditions/" class="side-menu__link  ">Специальная оценка условий труда</a>
+                    
+			
+		
+	
+	
+
+	
+	
+		
+							</li><li class="side-menu__item">
+                    <a href="/disclosure/financial_statements/" class="side-menu__link  ">Финансовая отчетность</a>
+                    
+			
+		
+	
+	
+
+
+</li></div><div id="mCSB_1_scrollbar_vertical" class="mCSB_scrollTools mCSB_1_scrollbar mCS-light mCSB_scrollTools_vertical" style="display: block;"><div class="mCSB_draggerContainer"><div id="mCSB_1_dragger_vertical" class="mCSB_dragger" style="position: absolute; min-height: 30px; display: block; height: 389px; max-height: 730px; top: 0px;"><div class="mCSB_dragger_bar" style="line-height: 30px;"></div><div class="mCSB_draggerRail"></div></div></div></div></div></ul>
+		</div>
+
+<div class="cell xxlarge-17 large-offset-1 light__content large-16">
+<div class="show-for-medium"><h2 class="h2 h2_white">Расчет собственных средств</h2></div>
+	
+<div class="callout callout_text">
+
+
+    <div class="years">
+                    <a href="/disclosure/calculation_of_own_funds/?year=2022" title="2022 год">
+                <img class="years__left" src="/local/templates/agana/images/arrow-left.svg" alt="Влево">2022 год            </a>
+                <div class="years__current">2023 </div>
+            </div>
+
+            <a class="case case_light-big" href="/upload/iblock/c57/9zbe3z7uf5rfvij5kf8ff2c81oicutqf/РСС_20230531_РСС_на сайт.pdf">
+
+                <div class="grid-x grid-padding-x align-middle">
+                    <div class="cell auto">
+                        <div class="case__name case__name_margin">Расчет собственных средств на 31.05.23 </div>
+                    </div>
+                    <div class="cell shrink xlarge-offset-3 large-offset-2 show-for-medium">
+                    <div class="case__file">pdf</div>
+                    </div>
+                </div>
+                <div class="grid-x grid-padding-x">
+                    <div class="cell medium-shrink">
+                        <div class="case__gray-text">Опубликовано 19.06.2023 15:48</div>
+                    </div>
+                    <div class="cell auto show-for-medium">
+                        <div class="case__gray-text">Доступно до 19.06.2026</div>
+                    </div>
+                    <div class="cell shrink show-for-medium">
+                        <div class="case__name">скачать</div>
+                    </div>
+                </div>
+            </a>
+            <a class="case case_light-big" href="/upload/iblock/e9a/0zofifonvx7gh2rsvs462gwnkx0kd3c4/2023-06-16_Сообщение об обнаружении неточных сведений_РСС_30.04.2023.pdf">
+
+                <div class="grid-x grid-padding-x align-middle">
+                    <div class="cell auto">
+                        <div class="case__name case__name_margin">СООБЩЕНИЕ ОБ ОБНАРУЖЕНИИ (ВЫЯВЛЕНИИ) НЕТОЧНЫХ, НЕПОЛНЫХ И (ИЛИ) НЕДОСТОВЕРНЫХ СВЕДЕНИЙ В РАСЧЕТЕ СОБСТВЕННЫХ СРЕДСТВ НА 30.04.23</div>
+                    </div>
+                    <div class="cell shrink xlarge-offset-3 large-offset-2 show-for-medium">
+                    <div class="case__file">pdf</div>
+                    </div>
+                </div>
+                <div class="grid-x grid-padding-x">
+                    <div class="cell medium-shrink">
+                        <div class="case__gray-text">Опубликовано 16.06.2023 16:15</div>
+                    </div>
+                    <div class="cell auto show-for-medium">
+                        <div class="case__gray-text">Доступно до 16.06.2026</div>
+                    </div>
+                    <div class="cell shrink show-for-medium">
+                        <div class="case__name">скачать</div>
+                    </div>
+                </div>
+            </a>
+            <a class="case case_light-big" href="/upload/iblock/fc4/zmd61awv7cgzk345ff0su9pk3phcfitd/РСС_20230430_РСС_на сайт_уточненный.pdf">
+
+                <div class="grid-x grid-padding-x align-middle">
+                    <div class="cell auto">
+                        <div class="case__name case__name_margin">Расчет собственных средств на 30.04.23 (УТОЧНЕННЫЙ)</div>
+                    </div>
+                    <div class="cell shrink xlarge-offset-3 large-offset-2 show-for-medium">
+                    <div class="case__file">pdf</div>
+                    </div>
+                </div>
+                <div class="grid-x grid-padding-x">
+                    <div class="cell medium-shrink">
+                        <div class="case__gray-text">Опубликовано 16.06.2023 13:52</div>
+                    </div>
+                    <div class="cell auto show-for-medium">
+                        <div class="case__gray-text">Доступно до 16.06.2026</div>
+                    </div>
+                    <div class="cell shrink show-for-medium">
+                        <div class="case__name">скачать</div>
+                    </div>
+                </div>
+            </a>
+            <a class="case case_light-big" href="/upload/iblock/60f/7xlk77vwu34e7hq2qd6tmnylc0tm75r9/РСС_20230430_РСС_на сайт.pdf">
+
+                <div class="grid-x grid-padding-x align-middle">
+                    <div class="cell auto">
+                        <div class="case__name case__name_margin">Расчет собственных средств на 30.04.23 </div>
+                    </div>
+                    <div class="cell shrink xlarge-offset-3 large-offset-2 show-for-medium">
+                    <div class="case__file">pdf</div>
+                    </div>
+                </div>
+                <div class="grid-x grid-padding-x">
+                    <div class="cell medium-shrink">
+                        <div class="case__gray-text">Опубликовано 17.05.2023 11:36</div>
+                    </div>
+                    <div class="cell auto show-for-medium">
+                        <div class="case__gray-text">Доступно до 17.05.2026</div>
+                    </div>
+                    <div class="cell shrink show-for-medium">
+                        <div class="case__name">скачать</div>
+                    </div>
+                </div>
+            </a>
+            <a class="case case_light-big" href="/upload/iblock/b84/r9zz3ijcw816ok1xl7igv0tyvrpw1zv1/2022 12 21_2023 01 01_Изм в ПРАВИЛА СЧА СА_3758-У_бп.pdf">
+
+                <div class="grid-x grid-padding-x align-middle">
+                    <div class="cell auto">
+                        <div class="case__name case__name_margin">Расчет собственных средств на 31.03.23 </div>
+                    </div>
+                    <div class="cell shrink xlarge-offset-3 large-offset-2 show-for-medium">
+                    <div class="case__file">pdf</div>
+                    </div>
+                </div>
+                <div class="grid-x grid-padding-x">
+                    <div class="cell medium-shrink">
+                        <div class="case__gray-text">Опубликовано 17.04.2023 08:06</div>
+                    </div>
+                    <div class="cell auto show-for-medium">
+                        <div class="case__gray-text">Доступно до 17.04.2026</div>
+                    </div>
+                    <div class="cell shrink show-for-medium">
+                        <div class="case__name">скачать</div>
+                    </div>
+                </div>
+            </a>
+            <a class="case case_light-big" href="/upload/iblock/ea6/ceq0cethr06z329e7mb5waaebbgb4muk/РСС_УК АГАНА_28.02.2023_.pdf">
+
+                <div class="grid-x grid-padding-x align-middle">
+                    <div class="cell auto">
+                        <div class="case__name case__name_margin">Расчет собственных средств на 28.02.23 </div>
+                    </div>
+                    <div class="cell shrink xlarge-offset-3 large-offset-2 show-for-medium">
+                    <div class="case__file">pdf</div>
+                    </div>
+                </div>
+                <div class="grid-x grid-padding-x">
+                    <div class="cell medium-shrink">
+                        <div class="case__gray-text">Опубликовано 16.03.2023 11:19</div>
+                    </div>
+                    <div class="cell auto show-for-medium">
+                        <div class="case__gray-text">Доступно до 16.03.2026</div>
+                    </div>
+                    <div class="cell shrink show-for-medium">
+                        <div class="case__name">скачать</div>
+                    </div>
+                </div>
+            </a>
+            <a class="case case_light-big" href="/upload/iblock/a46/yw2z2chq5xirjxdfha1mpu0t1cp4kgue/РСС_УК АГАНА_31.01.2023_.pdf">
+
+                <div class="grid-x grid-padding-x align-middle">
+                    <div class="cell auto">
+                        <div class="case__name case__name_margin">Расчет собственных средств на 31.01.23 </div>
+                    </div>
+                    <div class="cell shrink xlarge-offset-3 large-offset-2 show-for-medium">
+                    <div class="case__file">pdf</div>
+                    </div>
+                </div>
+                <div class="grid-x grid-padding-x">
+                    <div class="cell medium-shrink">
+                        <div class="case__gray-text">Опубликовано 15.02.2023 13:56</div>
+                    </div>
+                    <div class="cell auto show-for-medium">
+                        <div class="case__gray-text">Доступно до 15.02.2026</div>
+                    </div>
+                    <div class="cell shrink show-for-medium">
+                        <div class="case__name">скачать</div>
+                    </div>
+                </div>
+            </a>
+            <a class="case case_light-big" href="/upload/iblock/c9b/aiuotj1f5sgzzlcy854ilyukahxfg6o3/2023-02-03_Сообщение об обнаружении неточных сведений_РСС 4 кв 2022_на сайт.pdf">
+
+                <div class="grid-x grid-padding-x align-middle">
+                    <div class="cell auto">
+                        <div class="case__name case__name_margin">Сообщение об обнаружении (выявлении) неточных, неполных и (или) недостоверных сведений в Расчете собственных средств на 31.12.22</div>
+                    </div>
+                    <div class="cell shrink xlarge-offset-3 large-offset-2 show-for-medium">
+                    <div class="case__file">pdf</div>
+                    </div>
+                </div>
+                <div class="grid-x grid-padding-x">
+                    <div class="cell medium-shrink">
+                        <div class="case__gray-text">Опубликовано 03.02.2023 16:42</div>
+                    </div>
+                    <div class="cell auto show-for-medium">
+                        <div class="case__gray-text">Доступно до 03.02.2026</div>
+                    </div>
+                    <div class="cell shrink show-for-medium">
+                        <div class="case__name">скачать</div>
+                    </div>
+                </div>
+            </a>
+
+</div>
+</div>
+</div>
+</div>
+</main>
+<footer class="footer" style="">
+    <div class="cookie" style="display: block;">ООО «УК «АГАНА» <a target="_blank" href="/disclosure/personal/">использует cookie</a> (файлы с данными о прошлых
+        посещениях сайта) для удобства пользователей. ООО «УК «АГАНА» серьезно относится к защите персональных данных —
+        ознакомьтесь c <a target="_blank" href="/disclosure/personal/">условиями и принципами их обработки</a>. В cookie содержатся данные о
+        прошлых посещениях сайта. Если вы не хотите, чтобы эти данные обрабатывались, отключите cookie в настройках
+        браузера.
+        <div><button class="cookie__button">Принять</button></div>
+    </div>
+    <div class="footer__top">
+        <div class="grid-container">
+            <div class="grid-x grid-padding-x">
+                <div class="large-6 cell medium-12">
+                    <a class="footer__logo" href="/">
+                        <img src="/local/templates/agana/images/logo.svg" alt="AGANA logo">
+                    </a>
+                    <div class="footer__copy">
+                        © ООО «УК «АГАНА», 2001 — 2023                    </div>
+                    <p><a class="footer__copy" href="/search/map/">Карта сайта</a></p>
+                </div>
+                <div class="large-shrink cell medium-12 large-offset-1">
+                    <a class="button button_low" data-open="reveal-answer" aria-controls="reveal-answer" aria-haspopup="dialog" tabindex="0">Обратиться в ук</a>
+                </div>
+                <div class="large-auto xlarge-offset-1 cell medium-12">
+                    <a class="button button_low" data-open="reveal-open" aria-controls="reveal-open" aria-haspopup="dialog" tabindex="0">Подписаться</a>
+                </div>
+                <div class="large-shrink cell medium-12">
+                        
+                                <a class="footer__phone" href="tel:+74959801331">+7 495 980 13 31</a>
+                                            <a class="footer__phone" href="tel:+74959874444">+7 495 987 44 44</a>
+                            <a class="footer__mail" href="info@agana.ru">
+                <span class="footer__icon">
+                    <img src="/local/templates/agana/images/mail.svg" alt="agana mail">
+                </span>
+                <span>info@agana.ru</span>
+            </a>
+        
+                </div>
+            </div>
+                <a class="button button_visual hide-for-medium" href="/?special_version=Y"><img src="/local/templates/agana/images/glasses.svg" alt="Версия для слабовидящих">Версия для слабовидящих</a>
+        </div>
+    </div>
+    
+
+    
+
+        <div class="footer__main">
+    <div class="grid-container">
+
+                    <div class="footer__text-block footer__item">
+	<p class="footer__text">
+		 Общество с ограниченной ответственностью «Управляющая компания «АГАНА» (ООО «УК «АГАНА») основано в 2000 году.
+	</p>
+	<p class="footer__text">
+		 Лицензия на осуществление деятельности по управлению инвестиционными фондами, паевыми инвестиционными фондами и негосударственными пенсионными фондами № 21-000-1-00043 от 17 января 2001 года выдана ФКЦБ России, без ограничения срока действия. Лицензия профессионального участника рынка ценных бумаг на осуществление деятельности по управлению ценными бумагами № 045-09778-001000 от 21 декабря 2006 года выдана ФСФР России, без ограничения срока действия.
+	</p>
+	<p class="footer__text">
+		 Получить подробную информацию об ООО «УК «АГАНА», о доверительном управлении, в том числе об услугах индивидуального доверительного управления, о паевых инвестиционных фондах, ознакомиться с правилами доверительного управления паевыми инвестиционными фондами и иными документами в соответствии с действующим законодательством Российской Федерации, а также с условиями доверительного управления ценными бумагами и иными активами можно по адресу: 117556, Российская Федерация, г. Москва, Варшавское шоссе, д. 95, корп. 1, эт. 4, пом. XXXII, ком. 67, или по телефону: <a href="tel:+74959801331">+7&nbsp;(495)&nbsp;980-13-31</a>, <a href="tel:+74959874444">+7&nbsp;(495)&nbsp;987-44-44</a>, а также в сети Интернет по адресу сайта ООО «УК «АГАНА»: <a href="/">www.agana.ru</a>.
+	</p>
+	<div>
+		 Паевые инвестиционные фонды под управлением ООО&nbsp;«УК&nbsp;«АГАНА»:
+	</div>
+	<ol class="footer__number-list">
+		<li class="footer__text">Закрытый паевой инвестиционный фонд смешанных инвестиций «Стратегические активы» – Правила доверительного управления фондом зарегистрированы ФСФР России 08.05.2007 за № 0806-94125972; </li>
+		<li class="footer__text">Закрытый комбинированный паевой инвестиционный фонд «Раушский» (инвестиционные паи фонда предназначены для квалифицированных инвесторов) – Правила доверительного управления фондом зарегистрированы Банком России 27.04.2017 за № 3304; </li>
+		<li class="footer__text">Закрытый комбинированный паевой инвестиционный фонд «Новые горизонты» (инвестиционные паи фонда предназначены для квалифицированных инвесторов) – Правила доверительного управления фондом зарегистрированы Банком России 28.06.2007 за № 0885-94124820. </li>
+	</ol>
+	<p class="footer__text">
+ <a href="/disclosure/ownership/">Информация о структуре и составе акционеров (участников) УК, в том числе о лицах, под контролем либо значительным влиянием которых находится УК.</a>
+	</p>
+	<p class="footer__text">
+		 При использовании любых материалов, опубликованных на сайте, ссылка на <a href="/">www.agana.ru</a> обязательна.
+	</p>
+</div>
+<div>
+	<p class="footer__text h6 h6_normal">
+		 Стоимость инвестиционных паев может увеличиваться и уменьшаться, результаты инвестирования в прошлом не определяют доходы в будущем, государство не гарантирует доходности инвестиций в паевые инвестиционные фонды. Прежде чем приобрести инвестиционный пай, следует внимательно ознакомиться с правилами доверительного управления паевым инвестиционным фондом. Взимание надбавок (скидок) уменьшит доходность инвестиций в инвестиционные паи паевого инвестиционного фонда.
+	</p>
+	<p class="footer__text h6 h6_normal">
+		 Результаты деятельности ООО «УК «АГАНА» по доверительному управлению средствами пенсионных накоплений, пенсионных резервов, ценными бумагами в прошлом не определяют доходы учредителя управления в будущем.
+	</p>
+</div>
+ <br>        
+    </div>
+</div>
+
+</footer>
+
+
+<div class="reveal-overlay"><div class="reveal" id="reveal-open" data-reveal="lzmitq-reveal" data-deep-link="true" role="dialog" aria-hidden="true" data-yeti-box="reveal-open" data-resize="reveal-open">
+        <div class="grid-x grid-padding-x">
+            <div class="cell"><h2>Подписаться на раскрываемую информацию</h2>
+                <div class="reveal__main">Уважаемые посетители сайта!</div>
+                <div class="reveal__par">Управляющая компания обязана предоставить заинтересованным лицам, по их письменному
+                    требованию раскрываемую информацию.
+                </div>
+                <div class="reveal__par">Раскрываемая информация должна быть предоставлена заинтересованному лицу одним или
+                    несколькими из следующих способов по его выбору:
+                </div>
+                <ul class="con">
+                    <li class="con__item">в виде электронного документа (без взимания платы) на адрес электронной почты, указанный
+                        заинтересованным лицом в письменном требовании;
+                    </li>
+                    <li class="con__item">в виде документа на бумажном носителе (без взимания платы) заказным почтовым отправлением
+                        с уведомлением о вручении по адресу, указанному заинтересованным лицом в письменном требовании, либо при
+                        личном обращении заинтересованного лица;
+                    </li>
+                    <li class="con__item">в виде электронных сообщений посредством рассылки на адреса электронной почты (без
+                        взимания платы), указанные заинтересованными лицами при подписке на указанную рассылку.
+                    </li>
+                </ul>
+                <div class="reveal__par">Просим направить письменное обращение на наш электронный (<a href="mailto:info@agana.ru">info@agana.ru</a>)
+                    или почтовый адрес, в котором указать предпочитаемый формат и способ получения раскрываемой информации и все
+                    необходимые данные для получения.
+                </div>
+            </div>
+        </div>
+        <button class="close-button" data-close="" aria-label="Закрыть"><span aria-hidden="true"><svg xmlns="http://www.w3.org/2000/svg" width="32" height="32" viewBox="0 0 32 32" fill="none">
+<path d="M31.7869 30.5172C31.7572 30.4825 31.7249 30.4502 31.6902 30.4205L17.2539 15.9754L31.699 1.53921C32.0465 1.1917 32.0465 0.628283 31.699 0.280773C31.3515 -0.0667357 30.7881 -0.0667357 30.4406 0.280773L16.0043 14.7259L1.56817 0.280773C1.22066 -0.0667357 0.657245 -0.0667357 0.309736 0.280773C-0.0377733 0.628283 -0.0377733 1.1917 0.309736 1.53921L14.7548 15.9754L0.309798 30.4117C-0.06195 30.73 -0.105256 31.2895 0.213091 31.6612C0.531439 32.033 1.09087 32.0763 1.46262 31.7579C1.49726 31.7283 1.5296 31.6959 1.55932 31.6612L16.0044 17.225L30.4406 31.6701C30.759 32.0418 31.3184 32.0851 31.6902 31.7668C32.0619 31.4484 32.1052 30.8889 31.7869 30.5172Z" fill="#E5E5E5" fill-opacity="0.75"></path>
+</svg></span></button>
+    </div></div><div class="reveal-overlay"><div class="reveal" id="reveal-answer" data-reveal="1bsfz0-reveal" data-deep-link="true" role="dialog" aria-hidden="true" data-yeti-box="reveal-answer" data-resize="reveal-answer">
+    <div class="grid-x grid-padding-x">
+
+        
+
+        <form name="SIMPLE_FORM_2" action="/disclosure/calculation_of_own_funds/" method="POST" enctype="multipart/form-data"><input type="hidden" name="sessid" id="sessid" value="628fee4170d2a38e9a8a35bc7b6f017c"><input type="hidden" name="WEB_FORM_ID" value="9">
+    
+    
+        <div class="cell"><h2>Обратиться в УК</h2>
+
+            <div class="reveal__par">Если у Вас возник вопрос к специалистам Компании, заполните, пожалуйста, предлагаемую
+                форму. Ответ на Ваш вопрос в ближайшее время придет на указанный Вами ниже адрес электронной почты.
+            </div>
+                        
+                                        <label class="level">
+                    
+                                        <span class="level__text">
+                    Ваш город*
+                    </span>
+                    
+                    <input type="text" class="" name="form_text_101" value="">
+                </label>
+                                <label class="level">
+                    
+                                        <span class="level__text">
+                    Электронная почта для ответа*
+                    </span>
+                    
+                    <input type="text" class="" name="form_email_102" value="" size="0">
+                </label>
+                                <label class="level">
+                    
+                                        <span class="level__text">
+                    Ваш вопрос*
+                    </span>
+                    
+                    <input type="text" class="" name="form_text_103" value="">
+                </label>
+                                    </div>
+    </form></div>
+    <div class="grid-x grid-padding-x">
+        <div class="shrink cell">
+            <input class="button" type="submit" name="web_form_submit" value="Отправить">
+                    </div>
+        <div class="shrink cell">
+            <input class="button" type="reset" value="Сбросить">
+        </div>
+    </div>
+    <button class="close-button" data-close="" aria-label="Закрыть">
+        <span aria-hidden="true">
+            <svg xmlns="http://www.w3.org/2000/svg" width="32" height="32" viewBox="0 0 32 32" fill="none">
+<path d="M31.7869 30.5172C31.7572 30.4825 31.7249 30.4502 31.6902 30.4205L17.2539 15.9754L31.699 1.53921C32.0465 1.1917 32.0465 0.628283 31.699 0.280773C31.3515 -0.0667357 30.7881 -0.0667357 30.4406 0.280773L16.0043 14.7259L1.56817 0.280773C1.22066 -0.0667357 0.657245 -0.0667357 0.309736 0.280773C-0.0377733 0.628283 -0.0377733 1.1917 0.309736 1.53921L14.7548 15.9754L0.309798 30.4117C-0.06195 30.73 -0.105256 31.2895 0.213091 31.6612C0.531439 32.033 1.09087 32.0763 1.46262 31.7579C1.49726 31.7283 1.5296 31.6959 1.55932 31.6612L16.0044 17.225L30.4406 31.6701C30.759 32.0418 31.3184 32.0851 31.6902 31.7668C32.0619 31.4484 32.1052 30.8889 31.7869 30.5172Z" fill="#E5E5E5" fill-opacity="0.75"></path>
+</svg>
+        </span>
+    </button>
+
+                </div></div><div class="reveal-overlay"><div class="reveal" id="success-modal" data-reveal="37x7ur-reveal" data-deep-link="true" role="dialog" aria-hidden="true" data-yeti-box="success-modal" data-resize="success-modal">
+    <div class="reveal__order">Спасибо за обращение!</div>
+    <p>Ваша заявка принята.</p>
+    <button class="button button_expanded" type="submit" data-close="">Вернуться на страницу
+    </button>
+    <button class="close-button" data-close="" aria-label="Закрыть">
+        <span aria-hidden="true">
+            <svg xmlns="http://www.w3.org/2000/svg" width="32" height="32" viewBox="0 0 32 32" fill="none">
+<path d="M31.7869 30.5172C31.7572 30.4825 31.7249 30.4502 31.6902 30.4205L17.2539 15.9754L31.699 1.53921C32.0465 1.1917 32.0465 0.628283 31.699 0.280773C31.3515 -0.0667357 30.7881 -0.0667357 30.4406 0.280773L16.0043 14.7259L1.56817 0.280773C1.22066 -0.0667357 0.657245 -0.0667357 0.309736 0.280773C-0.0377733 0.628283 -0.0377733 1.1917 0.309736 1.53921L14.7548 15.9754L0.309798 30.4117C-0.06195 30.73 -0.105256 31.2895 0.213091 31.6612C0.531439 32.033 1.09087 32.0763 1.46262 31.7579C1.49726 31.7283 1.5296 31.6959 1.55932 31.6612L16.0044 17.225L30.4406 31.6701C30.759 32.0418 31.3184 32.0851 31.6902 31.7668C32.0619 31.4484 32.1052 30.8889 31.7869 30.5172Z" fill="#E5E5E5" fill-opacity="0.75"></path>
+</svg>
+        </span>
+    </button>
+</div></div>

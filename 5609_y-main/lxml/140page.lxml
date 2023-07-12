@@ -1,0 +1,1617 @@
+
+    <div id="panel"></div>
+        <header>
+            <div id="mobile-menu" class="mobile-menu animated slideInRight">
+                <div class="mobile-menu-top clearfix">
+                    <button type="button" data-toggle="collapse" data-target="#mobile-menu" aria-expanded="false" class="navbar-toggle collapsed set-closed"><span class="icon-bar"></span><span class="icon-bar"></span><span class="icon-bar"></span></button>
+                </div>
+                
+<ul class="nav mob-menu">
+
+	<li><a href="/about/" title="О компании">О компании</a></li>
+	<li><a href="/services/" title="Услуги">Услуги</a></li>
+	<li><a href="/zpif/o-zpif/" title="ЗПИФ">ЗПИФ</a></li>
+	<li><a href="/contacts/" title="Контакты">Контакты</a></li>
+	<li><a href="/information/" title="Раскрытие информации">Раскрытие информации</a></li>
+
+</ul>
+                <ul class="nav bar">
+                    <li>
+                        
+    <a href="#loginFormMobile" role="button" data-toggle="collapse" aria-expanded="false" aria-controls="loginFormMobile" class="login-link underline-garniture">Авторизация</a>
+    <div id="loginFormMobile" class="mobile-menu-form-wrapper collapse animated slideDownIn">
+        <!-- .login-form-->
+        <div class="from-login-wrapper clearfix">
+            <form name="system_auth_form6zOYVN" method="post" target="_top" action="/about/companyfunds/?login=yes">
+                                    <input type="hidden" name="backurl" value="/about/companyfunds/">
+                                                <input type="hidden" name="AUTH_FORM" value="Y">
+                <input type="hidden" name="TYPE" value="AUTH">
+
+                <div class="form-group">
+                    <input type="text" name="USER_LOGIN" placeholder="Логин" class="form-control">
+                </div>
+                <div class="form-group">
+                    <input type="password" name="USER_PASSWORD" placeholder="Пароль" class="form-control">
+                </div>
+                <div class="form-group padding-less">
+                    <div class="col-lg-6 col-md-6 col-sm-6 col-xs-6">
+                        <!--<a href="/forget_password.php?forgot_password=yes&amp;backurl=%2Fabout%2Fcompanyfunds%2F" class="forgot-pass">Забыли пароль?</a>
+                                                    <a href="register.php?register=yes&amp;backurl=%2Fabout%2Fcompanyfunds%2F" class="sign-up">Зарегистрироваться</a>
+                        -->
+                    </div>
+                    <div class="col-lg-6 col-md-6 col-sm-6 col-xs-6 align-right">
+                        <button type="submit" id="login" class="login-btn btn btn-default">Вход</button>
+                    </div>
+                </div>
+            </form>
+        </div>
+        <!-- /.login-form-->
+    </div>
+                    </li>
+                    <li>
+                        
+<a href="#feedbackFormMobile" role="button" data-toggle="collapse" aria-expanded="false" aria-controls="feedbackFormMobile" class="feedback-link underline-garniture">Написать нам</a>
+<div id="feedbackFormMobile" class="mobile-menu-form-wrapper collapse animated slideDownIn">
+    <!-- .feedback-form-->
+    <div class="from-feedback-wrapper clearfix">
+        
+        <form action="/about/companyfunds/" method="POST">
+            <input type="hidden" name="sessid" id="sessid_5" value="8f605bfcd99107fe96b7715cc9ea0355">            <div class="form-group">
+                <input type="text" name="user_name" placeholder="Ваше имя" value="" required="" class="form-control">
+            </div>
+            <div class="form-group">
+                <input type="email" name="user_email" placeholder="Адрес e-mail" value="" required="" class="form-control">
+            </div>
+            <div class="form-group">
+                <textarea name="MESSAGE" placeholder="Текст сообщения" rows="4" required="" class="form-control feedback-message"></textarea>
+            </div>
+            <div class="form-group padding-less">
+                <div class="col-lg-12 col-md-12 col-sm-12 col-xs-12 align-center">
+                    <input type="submit" name="submit" id="send" value="Отправить" class="send-btn btn btn-default">
+                </div>
+            </div>
+            <input type="hidden" name="PARAMS_HASH" value="da28b8053786546539e6e66f164938ac">
+        </form>
+    </div>
+    <!-- /.feedback-form-->
+</div>                    </li>
+                    <li>
+<a href="/about/companyfunds/" class="own-funds-link underline-garniture">Собственные средства</a>
+</li>
+                </ul>
+            </div>
+            <!-- .top-navbar-->
+            <div class="container hidden-xs">
+                            <a href="/" class="logo-wrapper">
+                    <img src="/bitrix/templates/kalita/images/logo.png" alt="" class="logo">
+                </a>
+                        </div>
+            <div class="top-navbar-wrapper hidden-xs">
+                <!-- .top-bar-->
+                <div class="navbar top-bar">
+                    <ul class="nav navbar-nav navbar-left">
+                        <li>
+                            <a href="tel:+74957907579" class="phone-link">+7 (495) 790-75-79</a>                        </li>
+                        <li>
+                             <span style="font-size: 9pt; color: #b28a48;">Структура и состав участников УК</span>                        </li>
+                    </ul>
+                    <ul class="nav navbar-nav navbar-right">
+<li>
+<div class="dropdown">
+<a href="/rassylka/" class="underline-garniture">Рассылка</a>
+</div>
+</li>
+                        <li>
+                            
+<div class="dropdown"><a href="#" data-toggle="dropdown" role="button" aria-haspopup="true" aria-expanded="false" class="dropdown-toggle feedback-link underline-garniture">Написать нам</a>
+	<div class="dropdown-menu dropdown-form animated fadeIn">
+		<!-- .feedback-form-->
+		<div class="from-feedback-wrapper clearfix">
+			
+			<form action="/about/companyfunds/" method="POST">
+				<input type="hidden" name="sessid" id="sessid_6" value="8f605bfcd99107fe96b7715cc9ea0355">				<div class="form-group">
+					<input type="text" name="user_name" placeholder="Ваше имя" value="" required="" class="form-control">
+				</div>
+				<div class="form-group">
+					<input type="email" name="user_email" placeholder="Адрес e-mail" value="" required="" class="form-control">
+				</div>
+				<div class="form-group">
+					<textarea name="MESSAGE" placeholder="Текст сообщения" rows="4" required="" class="form-control feedback-message"></textarea>
+				</div>
+				<div class="form-group padding-less">
+					<div class="col-lg-12 col-md-12 col-sm-12 col-xs-12 align-center">
+						<input type="submit" name="submit" id="send" value="Отправить" class="send-btn btn btn-default">
+					</div>
+				</div>
+				<input type="hidden" name="PARAMS_HASH" value="4d56836800ae8c050e956bc5bd1dc5be">
+			</form>
+		</div>
+		<!-- /.feedback-form-->
+	</div>
+</div>                        </li>
+                        <li>
+                            <div class="dropdown">
+		<a href="#" data-toggle="dropdown" role="button" aria-haspopup="true" aria-expanded="false" class="dropdown-toggle login-link underline-garniture">Авторизация</a>
+	<div class="dropdown-menu dropdown-form animated fadeIn">
+		<!-- .login-form-->
+		<div class="from-login-wrapper clearfix">
+			<form name="system_auth_formPqgS8z" method="post" target="_top" action="/about/companyfunds/?login=yes">
+									<input type="hidden" name="backurl" value="/about/companyfunds/">
+												<input type="hidden" name="AUTH_FORM" value="Y">
+				<input type="hidden" name="TYPE" value="AUTH">
+
+				<div class="form-group">
+					<input type="text" name="USER_LOGIN" placeholder="Логин" class="form-control">
+				</div>
+				<div class="form-group">
+					<input type="password" name="USER_PASSWORD" placeholder="Пароль" class="form-control">
+				</div>
+				<div class="form-group padding-less">
+					<div class="col-lg-6 col-md-6 col-sm-6 col-xs-6">
+						<!--<a href="/forget_password.php?forgot_password=yes&amp;backurl=%2Fabout%2Fcompanyfunds%2F" class="forgot-pass">Забыли пароль?</a>
+													<a href="register.php?register=yes&amp;backurl=%2Fabout%2Fcompanyfunds%2F" class="sign-up">Зарегистрироваться</a>
+						-->
+					</div>
+					<div class="col-lg-6 col-md-6 col-sm-6 col-xs-6 align-right">
+						<button type="submit" id="login" class="login-btn btn btn-default">Вход</button>
+					</div>
+				</div>
+			</form>
+		</div>
+		<!-- /.login-form-->
+	</div>
+	</div>                        </li>
+                    </ul>
+                </div>
+                <!-- /.top-bar-->
+            </div>
+            <nav class="main-menu-wrapper navbar">
+                <!-- .main-menu-->
+                <div class="main-menu">
+                    <div class="own-funds-link-wrapper visible-xs">
+<a href="/about/companyfunds/" class="own-funds-link underline-garniture">Собственные средства</a>
+</div>
+                    <div class="logo-wrapper visible-xs">
+                                                    <a href="/">
+                                <img src="/bitrix/templates/kalita/images/logo_mobile.png" alt="" class="logo">
+                            </a>
+                                            </div>
+                    <button type="button" data-toggle="collapse" data-target="#mobile-menu" aria-expanded="false" class="navbar-toggle collapsed"><span class="icon-bar"></span><span class="icon-bar"></span><span class="icon-bar"></span></button>
+                    
+<ul class="nav hidden-xs">
+
+			<li><a href="/about/" class="is-active" title="О компании">О компании</a></li>
+		
+			<li><a href="/services/" title="Услуги">Услуги</a></li>
+		
+			<li><a href="/zpif/o-zpif/" title="ЗПИФ">ЗПИФ</a></li>
+		
+			<li class="snap-to-right"><a href="/contacts/" title="Контакты">Контакты</a></li>
+		
+			<li class="snap-to-right"><a href="/information/" title="Раскрытие информации">Раскрытие информации</a></li>
+		
+
+</ul>
+                </div>
+                <!-- /.main-menu-->
+            </nav>
+        </header>
+        <!--  /*HEADER* -->
+            <div class="submenu-wrapper">
+            <div class="container">
+                 <ol class="breadcrumb"><li><a href="/" title="Главная" itemprop="url">Главная</a>&nbsp;&nbsp;&nbsp;</li><li><a href="/about/" title="О компании" itemprop="url">О компании</a>&nbsp;&nbsp;&nbsp;</li><li>Собственные средства УК&nbsp;&nbsp;&nbsp;</li></ol>                
+<style>
+.submenu-wrapper .submenu li {
+    padding: 10px 20px 0 0;
+}
+</style>
+<div class="submenu-conatiner hidden-xs">
+    <ul class="submenu">
+
+                        <li><a href="/about/" title="О КОМПАНИИ">О КОМПАНИИ</a></li>
+        
+                        <li><a href="/about/funds/" title="ФОНДЫ">ФОНДЫ</a></li>
+        
+                        <li><a href="/about/reports/" title="ОТЧЁТНОСТЬ УК">ОТЧЁТНОСТЬ УК</a></li>
+        
+                        <li><a href="/about/companyfunds/" class="selected" title="СОБСТВЕННЫЕ СРЕДСТВА УК">СОБСТВЕННЫЕ СРЕДСТВА УК</a></li>
+        
+                        <li><a href="/about/news/" title="НОВОСТИ">НОВОСТИ</a></li>
+        
+                        <li><a href="/about/partners/" title="ПАРТНЁРЫ">ПАРТНЁРЫ</a></li>
+        
+                        <li><a href="/about/edo/" title="ЭДО">ЭДО</a></li>
+        
+                        <li><a href="/about/careers/" title="ВАКАНСИИ">ВАКАНСИИ</a></li>
+        
+    
+    </ul>
+</div>
+
+            </div>
+        </div>
+        <div class="container submenu-dropdown">
+            
+
+<div class="dropdown visible-xs">
+        <button type="button" data-toggle="dropdown" id="dropdownMenu1" class="btn dropdown-toggle">СОБСТВЕННЫЕ СРЕДСТВА УК<span class="caret"></span></button>
+    <ul role="menu" aria-labelledby="dropdownMenu1" class="dropdown-menu">
+            <li role="presentation"><a href="/about/" role="menuitem" tabindex="-1" title="О КОМПАНИИ">О КОМПАНИИ</a></li>
+            <li role="presentation"><a href="/about/funds/" role="menuitem" tabindex="-1" title="ФОНДЫ">ФОНДЫ</a></li>
+            <li role="presentation"><a href="/about/reports/" role="menuitem" tabindex="-1" title="ОТЧЁТНОСТЬ УК">ОТЧЁТНОСТЬ УК</a></li>
+            <li role="presentation"><a href="/about/companyfunds/" role="menuitem" tabindex="-1" title="СОБСТВЕННЫЕ СРЕДСТВА УК">СОБСТВЕННЫЕ СРЕДСТВА УК</a></li>
+            <li role="presentation"><a href="/about/news/" role="menuitem" tabindex="-1" title="НОВОСТИ">НОВОСТИ</a></li>
+            <li role="presentation"><a href="/about/partners/" role="menuitem" tabindex="-1" title="ПАРТНЁРЫ">ПАРТНЁРЫ</a></li>
+            <li role="presentation"><a href="/about/edo/" role="menuitem" tabindex="-1" title="ЭДО">ЭДО</a></li>
+            <li role="presentation"><a href="/about/careers/" role="menuitem" tabindex="-1" title="ВАКАНСИИ">ВАКАНСИИ</a></li>
+        </ul>
+</div>
+
+        </div>
+    
+    
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<section class="reports-block">
+    <div class="container">
+        <div class="row">
+            <h1>Собственные средства УК</h1>
+        </div>
+    </div>
+    <div class="container-fluid chronological-tape-container">
+        <div class="container">
+            <ul class="chronological-tape-navigation slick-initialized slick-slider">
+                                    <div aria-live="polite" class="slick-list draggable"><div class="slick-track" role="listbox" style="opacity: 1; width: 1590px; transform: translate3d(0px, 0px, 0px);"><li class="gallery-cell slick-slide slick-current slick-active" data-slick-index="0" aria-hidden="false" tabindex="0" role="option" aria-describedby="slick-slide10" style="width: 106px;">
+                        <div class="chronological-item-data">
+                            <div class="year">2023</div>
+                        </div>
+                    </li><li class="gallery-cell slick-slide" data-slick-index="1" aria-hidden="true" tabindex="-1" role="option" aria-describedby="slick-slide11" style="width: 106px;">
+                        <div class="chronological-item-data">
+                            <div class="year">2022</div>
+                        </div>
+                    </li><li class="gallery-cell slick-slide" data-slick-index="2" aria-hidden="true" tabindex="-1" role="option" aria-describedby="slick-slide12" style="width: 106px;">
+                        <div class="chronological-item-data">
+                            <div class="year">2021</div>
+                        </div>
+                    </li><li class="gallery-cell slick-slide" data-slick-index="3" aria-hidden="true" tabindex="-1" role="option" aria-describedby="slick-slide13" style="width: 106px;">
+                        <div class="chronological-item-data">
+                            <div class="year">2020</div>
+                        </div>
+                    </li><li class="gallery-cell slick-slide" data-slick-index="4" aria-hidden="true" tabindex="-1" role="option" aria-describedby="slick-slide14" style="width: 106px;">
+                        <div class="chronological-item-data">
+                            <div class="year">2019</div>
+                        </div>
+                    </li><li class="gallery-cell slick-slide" data-slick-index="5" aria-hidden="true" tabindex="-1" role="option" aria-describedby="slick-slide15" style="width: 106px;">
+                        <div class="chronological-item-data">
+                            <div class="year">2018</div>
+                        </div>
+                    </li><li class="gallery-cell slick-slide" data-slick-index="6" aria-hidden="true" tabindex="-1" role="option" aria-describedby="slick-slide16" style="width: 106px;">
+                        <div class="chronological-item-data">
+                            <div class="year">2017</div>
+                        </div>
+                    </li><li class="gallery-cell slick-slide" data-slick-index="7" aria-hidden="true" tabindex="-1" role="option" aria-describedby="slick-slide17" style="width: 106px;">
+                        <div class="chronological-item-data">
+                            <div class="year">2016</div>
+                        </div>
+                    </li><li class="gallery-cell slick-slide" data-slick-index="8" aria-hidden="true" tabindex="-1" role="option" aria-describedby="slick-slide18" style="width: 106px;">
+                        <div class="chronological-item-data">
+                            <div class="year">2015</div>
+                        </div>
+                    </li><li class="gallery-cell slick-slide" data-slick-index="9" aria-hidden="true" tabindex="-1" role="option" aria-describedby="slick-slide19" style="width: 106px;">
+                        <div class="chronological-item-data">
+                            <div class="year">2014</div>
+                        </div>
+                    </li><li class="gallery-cell slick-slide" data-slick-index="10" aria-hidden="true" tabindex="-1" role="option" aria-describedby="slick-slide110" style="width: 106px;">
+                        <div class="chronological-item-data">
+                            <div class="year">2013</div>
+                        </div>
+                    </li><li class="gallery-cell slick-slide" data-slick-index="11" aria-hidden="true" tabindex="-1" role="option" aria-describedby="slick-slide111" style="width: 106px;">
+                        <div class="chronological-item-data">
+                            <div class="year">2012</div>
+                        </div>
+                    </li><li class="gallery-cell slick-slide" data-slick-index="12" aria-hidden="true" tabindex="-1" role="option" aria-describedby="slick-slide112" style="width: 106px;">
+                        <div class="chronological-item-data">
+                            <div class="year">2011</div>
+                        </div>
+                    </li><li class="gallery-cell slick-slide" data-slick-index="13" aria-hidden="true" tabindex="-1" role="option" aria-describedby="slick-slide113" style="width: 106px;">
+                        <div class="chronological-item-data">
+                            <div class="year">2010</div>
+                        </div>
+                    </li><li class="gallery-cell slick-slide" data-slick-index="14" aria-hidden="true" tabindex="-1" role="option" aria-describedby="slick-slide114" style="width: 106px;">
+                        <div class="chronological-item-data">
+                            <div class="year">2009</div>
+                        </div>
+                    </li></div></div>
+                                    
+                                    
+                                    
+                                    
+                                    
+                                    
+                                    
+                                    
+                                    
+                                    
+                                    
+                                    
+                                    
+                                    
+                            </ul>
+        </div>
+    </div>
+    <div class="container chronological-gallery-wrapper">
+        <div class="row" role="toolbar">
+            <ul class="chronological-gallery slick-initialized slick-slider">
+                                    <div aria-live="polite" class="slick-list draggable"><div class="slick-track" style="opacity: 1; width: 11700px;" role="listbox"><li class="gallery-item slick-slide slick-current slick-active" style="min-height: 1800px; height: 1800px; width: 780px; position: relative; left: 0px; top: 0px; z-index: 999; opacity: 1;" data-slick-index="0" aria-hidden="false" tabindex="0" role="option" aria-describedby="slick-slide00">
+                        <div class="report-item">
+                            <dl class="related-materials">
+                                                                    <dt><span class="icon-pdf"></span><a href="/upload/iblock/497/497b63bba7f5ebced816e8b6823c1ed8.pdf" target="_blank" tabindex="0">Расчет размера собственных средств на 31.05.2023</a></dt>
+                                    <dd>
+                                        PDF,
+                                        0.1 Mb
+                                        , Опубликовано: 20.06.2023 14:40                                                                            </dd>
+                                                                        <dt><span class="icon-pdf"></span><a href="/upload/iblock/03b/03b8719f30faaad5241140856cb098ab.pdf" target="_blank" tabindex="0">Расчет размера собственных средств на 30.04.2023</a></dt>
+                                    <dd>
+                                        PDF,
+                                        0.1 Mb
+                                        , Опубликовано: 22.05.2023 14:55                                                                            </dd>
+                                                                        <dt><span class="icon-pdf"></span><a href="/upload/iblock/2c5/2c5d17528d90d713bbc08d8098f9d4e8.pdf" target="_blank" tabindex="0">Расчет размера собственных средств на 31.03.2023</a></dt>
+                                    <dd>
+                                        PDF,
+                                        0.3 Mb
+                                        , Опубликовано: 18.04.2023 16:55                                                                            </dd>
+                                                                        <dt><span class="icon-pdf"></span><a href="/upload/iblock/050/050b8176ce84a6bc5f39af95674eae30.pdf" target="_blank" tabindex="0">Расчет размера собственных средств на 28.02.2023</a></dt>
+                                    <dd>
+                                        PDF,
+                                        0.3 Mb
+                                        , Опубликовано: 15.03.2023 12:05                                                                            </dd>
+                                                                        <dt><span class="icon-pdf"></span><a href="/upload/iblock/34d/34d9a3fa159f88e9112fd3cacdc06f10.pdf" target="_blank" tabindex="0">Расчет размера собственных средств на 31.01.2023</a></dt>
+                                    <dd>
+                                        PDF,
+                                        0.3 Mb
+                                        , Опубликовано: 17.02.2023 14:40                                                                            </dd>
+                                                                </dl>
+
+                            <!--FIRST WAY-->
+                            
+                        </div>
+                    </li><li class="gallery-item slick-slide" style="min-height: 1800px; height: 1800px; width: 780px; position: relative; left: -780px; top: 0px; z-index: 998; opacity: 0;" data-slick-index="1" aria-hidden="true" tabindex="-1" role="option" aria-describedby="slick-slide01">
+                        <div class="report-item">
+                            <dl class="related-materials">
+                                                                    <dt><span class="icon-pdf"></span><a href="/upload/iblock/2f8/2f87b7efd987c37a6fb815a6a7964c44.pdf" target="_blank" tabindex="-1">Расчет размера собственных средств на 31.12.2022 (корректировка))</a></dt>
+                                    <dd>
+                                        PDF,
+                                        0.3 Mb
+                                        , Опубликовано: 17.02.2023 14:40                                                                            </dd>
+                                                                        <dt><span class="icon-pdf"></span><a href="/upload/iblock/e8e/e8efe9828e846f2c70fe135241dd56c1.pdf" target="_blank" tabindex="-1">Расчет размера собственных средств на 31.12.2022</a></dt>
+                                    <dd>
+                                        PDF,
+                                        0.3 Mb
+                                        , Опубликовано: 23.01.2023 14:05                                                                            </dd>
+                                                                        <dt><span class="icon-pdf"></span><a href="/upload/iblock/951/951a86ea920db200b06fb0fa05cb850e.pdf" target="_blank" tabindex="-1">Расчет размера собственных средств на 30.11.2022</a></dt>
+                                    <dd>
+                                        PDF,
+                                        0.3 Mb
+                                        , Опубликовано: 15.12.2022 15:30                                                                            </dd>
+                                                                        <dt><span class="icon-pdf"></span><a href="/upload/iblock/839/839a1c2c229da3d6528b4b268a9966c1.pdf" target="_blank" tabindex="-1">Расчет размера собственных средств на 31.10.2022</a></dt>
+                                    <dd>
+                                        PDF,
+                                        0.3 Mb
+                                        , Опубликовано: 17.11.2022 14:30                                                                            </dd>
+                                                                        <dt><span class="icon-pdf"></span><a href="/upload/iblock/a9f/a9f2b7a0e3e273b54dacdd88292436a5.pdf" target="_blank" tabindex="-1">Расчет размера собственных средств на 30.09.2022</a></dt>
+                                    <dd>
+                                        PDF,
+                                        0.3 Mb
+                                        , Опубликовано: 19.10.2022 11:25                                                                            </dd>
+                                                                        <dt><span class="icon-pdf"></span><a href="/upload/iblock/fca/fcad250e1f79e305da22538fc16a630c.pdf" target="_blank" tabindex="-1">Расчет размера собственных средств на 31.08.2022 (корректировка)</a></dt>
+                                    <dd>
+                                        PDF,
+                                        0.3 Mb
+                                        , Опубликовано: 14.10.2022 11:45                                                                            </dd>
+                                                                        <dt><span class="icon-pdf"></span><a href="/upload/iblock/cbb/cbb4062e79c86ae801e3cbfd6246344c.pdf" target="_blank" tabindex="-1">Расчет размера собственных средств на 31.07.2022 (корректировка)</a></dt>
+                                    <dd>
+                                        PDF,
+                                        0.3 Mb
+                                        , Опубликовано: 14.10.2022 11:45                                                                            </dd>
+                                                                        <dt><span class="icon-pdf"></span><a href="/upload/iblock/c60/c60e497b612261145042d24d925946c7.pdf" target="_blank" tabindex="-1">Расчет размера собственных средств на 31.08.2022</a></dt>
+                                    <dd>
+                                        PDF,
+                                        0.3 Mb
+                                        , Опубликовано: 15.09.2022 17:51                                                                            </dd>
+                                                                        <dt><span class="icon-pdf"></span><a href="/upload/iblock/092/09264e16010be5be05b260d89dcf7c6d.pdf" target="_blank" tabindex="-1">Расчет размера собственных средств на 31.07.2022</a></dt>
+                                    <dd>
+                                        PDF,
+                                        0.3 Mb
+                                        , Опубликовано: 17.08.2022 10:26                                                                            </dd>
+                                                                        <dt><span class="icon-pdf"></span><a href="/upload/iblock/9e4/9e4019bfd73adc3c929085a6b42dc812.pdf" target="_blank" tabindex="-1">Расчет размера собственных средств на 30.06.2022</a></dt>
+                                    <dd>
+                                        PDF,
+                                        0.3 Mb
+                                        , Опубликовано: 15.07.2022 14:14                                                                            </dd>
+                                                                        <dt><span class="icon-pdf"></span><a href="/upload/iblock/491/49188d85dd34c4f4aacac1b2980596ef.pdf" target="_blank" tabindex="-1">Расчет размера собственных средств на 31.05.2022</a></dt>
+                                    <dd>
+                                        PDF,
+                                        0.3 Mb
+                                        , Опубликовано: 16.06.2022 10:15                                                                            </dd>
+                                                                        <dt><span class="icon-pdf"></span><a href="/upload/iblock/e65/e65af327d35b795fcd127c400752add6.pdf" target="_blank" tabindex="-1">Расчет размера собственных средств на 30.04.2022</a></dt>
+                                    <dd>
+                                        PDF,
+                                        0.3 Mb
+                                        , Опубликовано: 19.05.2022 14:55                                                                            </dd>
+                                                                        <dt><span class="icon-pdf"></span><a href="/upload/iblock/ffa/ffa2f883317faa3ec900733c09431d11.pdf" target="_blank" tabindex="-1">Расчет размера собственных средств на 31.03.2022</a></dt>
+                                    <dd>
+                                        PDF,
+                                        0.3 Mb
+                                        , Опубликовано: 19.04.2022 17:25                                                                            </dd>
+                                                                        <dt><span class="icon-pdf"></span><a href="/upload/iblock/393/3933c4204653ebc2aba4af9c33ae4732.pdf" target="_blank" tabindex="-1">Расчет размера собственных средств на 28.02.2022</a></dt>
+                                    <dd>
+                                        PDF,
+                                        0.3 Mb
+                                        , Опубликовано: 17.03.2022 12:30                                                                            </dd>
+                                                                        <dt><span class="icon-pdf"></span><a href="/upload/iblock/2c5/2c5c99e31caa2739c68cab471d65d831.pdf" target="_blank" tabindex="-1">Расчет размера собственных средств на 31.01.2022</a></dt>
+                                    <dd>
+                                        PDF,
+                                        0.3 Mb
+                                        , Опубликовано: 17.02.2022 16:00                                                                            </dd>
+                                                                </dl>
+
+                            <!--FIRST WAY-->
+                            
+                        </div>
+                    </li><li class="gallery-item slick-slide" style="min-height: 1800px; height: 1800px; width: 780px; position: relative; left: -1560px; top: 0px; z-index: 998; opacity: 0;" data-slick-index="2" aria-hidden="true" tabindex="-1" role="option" aria-describedby="slick-slide02">
+                        <div class="report-item">
+                            <dl class="related-materials">
+                                                                    <dt><span class="icon-pdf"></span><a href="/upload/iblock/5e1/5e1e90b3d1a4290450b01b7a23a29dfb.pdf" target="_blank" tabindex="-1">Расчет размера собственных средств на 31.12.2021</a></dt>
+                                    <dd>
+                                        PDF,
+                                        0.3 Mb
+                                        , Опубликовано: 25.01.2022 12:40                                                                            </dd>
+                                                                        <dt><span class="icon-pdf"></span><a href="/upload/iblock/c3d/c3dd039298b36a667674f35a1d9fb9e4.pdf" target="_blank" tabindex="-1">Расчет размера собственных средств на 30.11.2021</a></dt>
+                                    <dd>
+                                        PDF,
+                                        0.0 Mb
+                                        , Опубликовано: 16.12.2021 11:35                                                                            </dd>
+                                                                        <dt><span class="icon-pdf"></span><a href="/upload/iblock/bab/babde84f70e49b73722e7756041b0ec1.pdf" target="_blank" tabindex="-1">Расчет размера собственных средств на 31.10.2021 (корректировка)</a></dt>
+                                    <dd>
+                                        PDF,
+                                        0.0 Mb
+                                        , Опубликовано: 07.12.2021 16:40                                                                            </dd>
+                                                                        <dt><span class="icon-pdf"></span><a href="/upload/iblock/29e/29ef03aeb7a91fb7a90186188ff63814.pdf" target="_blank" tabindex="-1">Расчет размера собственных средств на 30.09.2021 (корректировка)</a></dt>
+                                    <dd>
+                                        PDF,
+                                        0.1 Mb
+                                        , Опубликовано: 07.12.2021 16:40                                                                            </dd>
+                                                                        <dt><span class="icon-pdf"></span><a href="/upload/iblock/282/282c851a22f6ab2b056583b2e2d32598.pdf" target="_blank" tabindex="-1">Расчет размера собственных средств на 31.08.2021 (корректировка)</a></dt>
+                                    <dd>
+                                        PDF,
+                                        0.1 Mb
+                                        , Опубликовано: 07.12.2021 16:40                                                                            </dd>
+                                                                        <dt><span class="icon-pdf"></span><a href="/upload/iblock/f08/f08e416ad0d6a0a8fb31759f88f7a4b4.pdf" target="_blank" tabindex="-1">Расчет размера собственных средств на 31.07.2021 (корректировка)</a></dt>
+                                    <dd>
+                                        PDF,
+                                        0.1 Mb
+                                        , Опубликовано: 07.12.2021 16:40                                                                            </dd>
+                                                                        <dt><span class="icon-pdf"></span><a href="/upload/iblock/ef8/ef8ef1ee43bada9b44f3818b681e6884.pdf" target="_blank" tabindex="-1">Расчет размера собственных средств на 30.06.2021 (корректировка)</a></dt>
+                                    <dd>
+                                        PDF,
+                                        0.1 Mb
+                                        , Опубликовано: 07.12.2021 16:40                                                                            </dd>
+                                                                        <dt><span class="icon-pdf"></span><a href="/upload/iblock/43a/43aaf0f0da0273533c8fa4501e80359c.pdf" target="_blank" tabindex="-1">Расчет размера собственных средств на 31.05.2021 (корректировка)</a></dt>
+                                    <dd>
+                                        PDF,
+                                        0.1 Mb
+                                        , Опубликовано: 07.12.2021 16:40                                                                            </dd>
+                                                                        <dt><span class="icon-pdf"></span><a href="/upload/iblock/2b5/2b5b36bd3ab844eb9598239c732e7284.pdf" target="_blank" tabindex="-1">Расчет размера собственных средств на 30.04.2021 (корректировка)</a></dt>
+                                    <dd>
+                                        PDF,
+                                        0.1 Mb
+                                        , Опубликовано: 07.12.2021 16:40                                                                            </dd>
+                                                                        <dt><span class="icon-pdf"></span><a href="/upload/iblock/d89/d89212db4561c9a142b2ce3d06091ced.pdf" target="_blank" tabindex="-1">Расчет размера собственных средств на 31.10.2021</a></dt>
+                                    <dd>
+                                        PDF,
+                                        0.3 Mb
+                                        , Опубликовано: 19.11.2021 11:55                                                                            </dd>
+                                                                        <dt><span class="icon-pdf"></span><a href="/upload/iblock/d42/d42003cb7ce4b80bcfb5b22e8be18802.pdf" target="_blank" tabindex="-1">Расчет размера собственных средств на 30.09.2021</a></dt>
+                                    <dd>
+                                        PDF,
+                                        0.4 Mb
+                                        , Опубликовано: 14.10.2021 17:10                                                                            </dd>
+                                                                        <dt><span class="icon-pdf"></span><a href="/upload/iblock/209/209db1049f08637fcb6e3f101f6ff5ee.pdf" target="_blank" tabindex="-1">Расчет размера собственных средств на 31.08.2021</a></dt>
+                                    <dd>
+                                        PDF,
+                                        1.6 Mb
+                                        , Опубликовано: 28.09.2021 14:00                                        ,<br>Доступно до: 30.09.2024                                    </dd>
+                                                                        <dt><span class="icon-pdf"></span><a href="/upload/iblock/c0d/c0d2ed3cb0bb50fb63d153cf8b2ab2eb.pdf" target="_blank" tabindex="-1">Расчет размера собственных средств на 31.07.2021</a></dt>
+                                    <dd>
+                                        PDF,
+                                        0.3 Mb
+                                        , Опубликовано: 30.08.2021 11:05                                        ,<br>Доступно до: 31.08.2024                                    </dd>
+                                                                        <dt><span class="icon-pdf"></span><a href="/upload/iblock/e4a/e4aa95340cb2f35e5e854c2aa0cea7e8.pdf" target="_blank" tabindex="-1">Расчет размера собственных средств на 30.06.2021 (корректировка)</a></dt>
+                                    <dd>
+                                        PDF,
+                                        0.2 Mb
+                                        , Опубликовано: 30.08.2021 11:05                                        ,<br>Доступно до: 31.08.2024                                    </dd>
+                                                                        <dt><span class="icon-pdf"></span><a href="/upload/iblock/23d/23dd8b9c902ad8f9b47d9d17acef764e.pdf" target="_blank" tabindex="-1">Расчет размера собственных средств на 31.05.2021 (корректировка)</a></dt>
+                                    <dd>
+                                        PDF,
+                                        0.3 Mb
+                                        , Опубликовано: 30.08.2021 11:05                                        ,<br>Доступно до: 31.08.2024                                    </dd>
+                                                                        <dt><span class="icon-pdf"></span><a href="/upload/iblock/d1d/d1d59ffe6195f8dd5a325141d8596fa7.pdf" target="_blank" tabindex="-1">Расчет размера собственных средств на 30.06.2021</a></dt>
+                                    <dd>
+                                        PDF,
+                                        0.2 Mb
+                                        , Опубликовано: 27.07.2021 11:40                                        ,<br>Доступно до: 31.07.2024                                    </dd>
+                                                                        <dt><span class="icon-pdf"></span><a href="/upload/iblock/9c8/9c85be5173c0dd4410825866232f8280.pdf" target="_blank" tabindex="-1">Расчет размера собственных средств на 31.05.2021</a></dt>
+                                    <dd>
+                                        PDF,
+                                        1.7 Mb
+                                        , Опубликовано: 23.06.2021 14:10                                        ,<br>Доступно до: 30.06.2024                                    </dd>
+                                                                        <dt><span class="icon-pdf"></span><a href="/upload/iblock/59a/59a370f8288f76bcf2049e1b6dababcf.pdf" target="_blank" tabindex="-1">Расчет размера собственных средств на 30.04.2021</a></dt>
+                                    <dd>
+                                        PDF,
+                                        1.6 Mb
+                                        , Опубликовано: 24.05.2021 13:10                                        ,<br>Доступно до: 31.05.2024                                    </dd>
+                                                                        <dt><span class="icon-pdf"></span><a href="/upload/iblock/a49/a4985e1a7eee6cbefc86f0c7533129eb.pdf" target="_blank" tabindex="-1">Расчет размера собственных средств на 31.03.2021 (корректировка на 19.05.2021)</a></dt>
+                                    <dd>
+                                        PDF,
+                                        0.3 Mb
+                                        , Опубликовано: 19.05.2021 16:20                                        ,<br>Доступно до: 31.05.2024                                    </dd>
+                                                                        <dt><span class="icon-pdf"></span><a href="/upload/iblock/54a/54ad6c3d9a475232aa062a2891110ff9.pdf" target="_blank" tabindex="-1">Расчет размера собственных средств на 28.02.2021 (корректировка на 19.05.2021)</a></dt>
+                                    <dd>
+                                        PDF,
+                                        0.2 Mb
+                                        , Опубликовано: 19.05.2021 16:20                                        ,<br>Доступно до: 31.05.2024                                    </dd>
+                                                                        <dt><span class="icon-pdf"></span><a href="/upload/iblock/1d3/1d397a273d61423b52422ea9a180e837.pdf" target="_blank" tabindex="-1">Расчет размера собственных средств на 31.01.2021 (корректировка на 19.05.2021)</a></dt>
+                                    <dd>
+                                        PDF,
+                                        0.3 Mb
+                                        , Опубликовано: 19.05.2021 16:20                                        ,<br>Доступно до: 31.05.2024                                    </dd>
+                                                                        <dt><span class="icon-pdf"></span><a href="/upload/iblock/cc8/cc846cc55770a766463c544cbeaae02f.pdf" target="_blank" tabindex="-1">Расчет размера собственных средств на 31.03.2021</a></dt>
+                                    <dd>
+                                        PDF,
+                                        0.3 Mb
+                                        , Опубликовано: 29.04.2021 17:05                                        ,<br>Доступно до: 30.04.2024                                    </dd>
+                                                                        <dt><span class="icon-pdf"></span><a href="/upload/iblock/762/762f3fea0318be0284ecc8faa0365a17.pdf" target="_blank" tabindex="-1">Расчет размера собственных средств на 28.02.2021 (корректировка на 12.04.2021)</a></dt>
+                                    <dd>
+                                        PDF,
+                                        0.2 Mb
+                                        , Опубликовано: 12.04.2021 10:55                                        ,<br>Доступно до: 30.04.2024                                    </dd>
+                                                                        <dt><span class="icon-pdf"></span><a href="/upload/iblock/f7b/f7b80fa4a6c562701cf50228b30aac10.pdf" target="_blank" tabindex="-1">Расчет размера собственных средств на 28.02.2021</a></dt>
+                                    <dd>
+                                        PDF,
+                                        0.2 Mb
+                                        , Опубликовано: 22.03.2021 13:55                                        ,<br>Доступно до: 31.03.2024                                    </dd>
+                                                                        <dt><span class="icon-pdf"></span><a href="/upload/iblock/212/21212ff081bf03ebc709ea7a1fce584c.pdf" target="_blank" tabindex="-1">Расчет размера собственных средств на 31.01.2021</a></dt>
+                                    <dd>
+                                        PDF,
+                                        1.8 Mb
+                                        , Опубликовано: 19.02.2021 15:00                                        ,<br>Доступно до: 28.02.2024                                    </dd>
+                                                                </dl>
+
+                            <!--FIRST WAY-->
+                            
+                        </div>
+                    </li><li class="gallery-item slick-slide" style="min-height: 1800px; height: 1800px; width: 780px; position: relative; left: -2340px; top: 0px; z-index: 998; opacity: 0;" data-slick-index="3" aria-hidden="true" tabindex="-1" role="option" aria-describedby="slick-slide03">
+                        <div class="report-item">
+                            <dl class="related-materials">
+                                                                    <dt><span class="icon-pdf"></span><a href="/upload/iblock/9a7/9a7e767c624e1005a1bfa1e703c4b68d.pdf" target="_blank" tabindex="-1">Расчет размера собственных средств на 31.12.2020 (корректировка на 19.05.2021)</a></dt>
+                                    <dd>
+                                        PDF,
+                                        1.5 Mb
+                                        , Опубликовано: 19.05.2021 16:20                                        ,<br>Доступно до: 31.05.2024                                    </dd>
+                                                                        <dt><span class="icon-pdf"></span><a href="/upload/iblock/4f8/4f8b409d6c070e77ee3c843c0d518cc7.pdf" target="_blank" tabindex="-1">Расчет размера собственных средств на 30.11.2020 (корректировка на 19.05.2021)</a></dt>
+                                    <dd>
+                                        PDF,
+                                        0.2 Mb
+                                        , Опубликовано: 19.05.2021 16:20                                        ,<br>Доступно до: 31.05.2024                                    </dd>
+                                                                        <dt><span class="icon-pdf"></span><a href="/upload/iblock/ad2/ad2da40b7c7d33ac0eb5ceb0b7e3cb39.pdf" target="_blank" tabindex="-1">Расчет размера собственных средств на 31.10.2020 (корректировка на 19.05.2021)</a></dt>
+                                    <dd>
+                                        PDF,
+                                        0.1 Mb
+                                        , Опубликовано: 19.05.2021 16:20                                        ,<br>Доступно до: 31.05.2024                                    </dd>
+                                                                        <dt><span class="icon-pdf"></span><a href="/upload/iblock/7ce/7ce849d304544f1080f65835db9aa531.pdf" target="_blank" tabindex="-1">Расчет размера собственных средств на 30.09.2020 (корректировка на 19.05.2021)</a></dt>
+                                    <dd>
+                                        PDF,
+                                        0.1 Mb
+                                        , Опубликовано: 19.05.2021 16:20                                        ,<br>Доступно до: 31.05.2024                                    </dd>
+                                                                        <dt><span class="icon-pdf"></span><a href="/upload/iblock/4ea/4ea5a5205550e6a0a53570f3d51a76c9.pdf" target="_blank" tabindex="-1">Расчет размера собственных средств на 31.12.2020 (корректировка на 09.03.2021)</a></dt>
+                                    <dd>
+                                        PDF,
+                                        0.2 Mb
+                                        , Опубликовано: 09.03.2021 17:40                                        ,<br>Доступно до: 31.03.2024                                    </dd>
+                                                                        <dt><span class="icon-pdf"></span><a href="/upload/iblock/a65/a653d03e6ad5917b9c4ad65b654c90ee.pdf" target="_blank" tabindex="-1">Расчет размера собственных средств на 31.12.2020 (корректировка на 17.02.2021)</a></dt>
+                                    <dd>
+                                        PDF,
+                                        1.5 Mb
+                                        , Опубликовано: 17.02.2021 18:15                                        ,<br>Доступно до: 28.02.2024                                    </dd>
+                                                                        <dt><span class="icon-pdf"></span><a href="/upload/iblock/5b7/5b7bb340aa43e9363a2746eff131b3e4.pdf" target="_blank" tabindex="-1">Расчет размера собственных средств на 31.12.2020</a></dt>
+                                    <dd>
+                                        PDF,
+                                        1.6 Mb
+                                        , Опубликовано: 25.01.2021 16:50                                        ,<br>Доступно до: 31.01.2024                                    </dd>
+                                                                        <dt><span class="icon-pdf"></span><a href="/upload/iblock/57a/57a49b3ebe5c009ef71a0e99e8346084.pdf" target="_blank" tabindex="-1">Расчет размера собственных средств на 30.11.2020</a></dt>
+                                    <dd>
+                                        PDF,
+                                        1.3 Mb
+                                        , Опубликовано: 25.12.2020 13:35                                        ,<br>Доступно до: 31.12.2023                                    </dd>
+                                                                        <dt><span class="icon-pdf"></span><a href="/upload/iblock/aa9/aa93a9654b8f5a3346210c7a5921aec4.pdf" target="_blank" tabindex="-1">Расчет размера собственных средств на 31.10.2020</a></dt>
+                                    <dd>
+                                        PDF,
+                                        1.3 Mb
+                                        , Опубликовано: 26.11.2020 14:05                                        ,<br>Доступно до: 30.11.2023                                    </dd>
+                                                                        <dt><span class="icon-pdf"></span><a href="/upload/iblock/272/27206dbec0205d3b8027992947715040.pdf" target="_blank" tabindex="-1">Расчет размера собственных средств на 30.09.2020</a></dt>
+                                    <dd>
+                                        PDF,
+                                        1.0 Mb
+                                        , Опубликовано: 16.10.2020 11:55                                        ,<br>Доступно до: 31.10.2023                                    </dd>
+                                                                        <dt><span class="icon-pdf"></span><a href="/upload/iblock/30d/30d57ceea8c774363b91d1e5984a5898.pdf" target="_blank" tabindex="-1">Расчет размера собственных средств на 31.08.2020</a></dt>
+                                    <dd>
+                                        PDF,
+                                        0.8 Mb
+                                        , Опубликовано: 25.09.2020 13:35                                        ,<br>Доступно до: 30.09.2023                                    </dd>
+                                                                        <dt><span class="icon-pdf"></span><a href="/upload/iblock/9a6/9a6e9ff66c4d3c2dc8627a63b40cd22b.pdf" target="_blank" tabindex="-1">Расчет размера собственных средств на 31.07.2020</a></dt>
+                                    <dd>
+                                        PDF,
+                                        1.1 Mb
+                                        , Опубликовано: 24.08.2020 16:10                                        ,<br>Доступно до: 31.08.2023                                    </dd>
+                                                                        <dt><span class="icon-pdf"></span><a href="/upload/iblock/0b2/0b2ed49ee50df47e31419664d5774ce4.pdf" target="_blank" tabindex="-1">Расчет размера собственных средств на 30.06.2020</a></dt>
+                                    <dd>
+                                        PDF,
+                                        0.3 Mb
+                                        , Опубликовано: 15.07.2020 17:20                                        ,<br>Доступно до: 31.07.2023                                    </dd>
+                                                                        <dt><span class="icon-pdf"></span><a href="/upload/iblock/a5a/a5ae712428a46491b8af2f0ca64fb6a6.pdf" target="_blank" tabindex="-1">Расчет размера собственных средств на 31.05.2020 (корректировка на 29.06.2020)</a></dt>
+                                    <dd>
+                                        PDF,
+                                        0.2 Mb
+                                        , Опубликовано: 30.06.2020 14:00                                        ,<br>Доступно до: 30.06.2023                                    </dd>
+                                                                        <dt><span class="icon-pdf"></span><a href="/upload/iblock/247/2476d40e8f7c573b01689c6e814de6d6.pdf" target="_blank" tabindex="-1">Расчет размера собственных средств на 30.04.2020 (корректировка на 29.06.2020)</a></dt>
+                                    <dd>
+                                        PDF,
+                                        0.2 Mb
+                                        , Опубликовано: 30.06.2020 14:00                                        ,<br>Доступно до: 30.06.2023                                    </dd>
+                                                                        <dt><span class="icon-pdf"></span><a href="/upload/iblock/934/934745c80cc8da83ad91bfb5848fb189.pdf" target="_blank" tabindex="-1">Расчет размера собственных средств на 31.03.2020 (корректировка на 29.06.2020)</a></dt>
+                                    <dd>
+                                        PDF,
+                                        0.2 Mb
+                                        , Опубликовано: 30.06.2020 14:00                                        ,<br>Доступно до: 30.06.2023                                    </dd>
+                                                                        <dt><span class="icon-pdf"></span><a href="/upload/iblock/e3d/e3d78621a95a5fe48fa6b2c5cc836fa2.pdf" target="_blank" tabindex="-1">Расчет размера собственных средств на 31.05.2020</a></dt>
+                                    <dd>
+                                        PDF,
+                                        0.2 Mb
+                                        , Опубликовано: 15.06.2020 18:40                                        ,<br>Доступно до: 30.06.2023                                    </dd>
+                                                                        <dt><span class="icon-pdf"></span><a href="/upload/iblock/1bb/1bbbbf5e04d5592199827974392ecee5.pdf" target="_blank" tabindex="-1">Расчет размера собственных средств на 30.04.2020</a></dt>
+                                    <dd>
+                                        PDF,
+                                        0.4 Mb
+                                        , Опубликовано: 28.05.2020 12:50                                        ,<br>Доступно до: 31.05.2023                                    </dd>
+                                                                        <dt><span class="icon-pdf"></span><a href="/upload/iblock/ff9/ff9df6fc59b4036e6583d0cb6c69221f.pdf" target="_blank" tabindex="-1">Расчет размера собственных средств на 31.03.2020</a></dt>
+                                    <dd>
+                                        PDF,
+                                        1.8 Mb
+                                        , Опубликовано: 28.04.2020 13:45                                        ,<br>Доступно до: 30.04.2023                                    </dd>
+                                                                        <dt><span class="icon-pdf"></span><a href="/upload/iblock/ab3/ab3c7be79c043c7a349e2ff1295f5c3d.pdf" target="_blank" tabindex="-1">Расчет размера собственных средств на 29.02.2020</a></dt>
+                                    <dd>
+                                        PDF,
+                                        1.7 Mb
+                                        , Опубликовано: 25.03.2020 15:13                                        ,<br>Доступно до: 31.03.2023                                    </dd>
+                                                                        <dt><span class="icon-pdf"></span><a href="/upload/iblock/bed/bed58a2e3fdcae2de816a28c5f875bb9.pdf" target="_blank" tabindex="-1">Расчет размера собственных средств на 31.01.2020</a></dt>
+                                    <dd>
+                                        PDF,
+                                        1.7 Mb
+                                        , Опубликовано: 27.02.2020 18:30                                        ,<br>Доступно до: 28.02.2023                                    </dd>
+                                                                </dl>
+
+                            <!--FIRST WAY-->
+                            
+                        </div>
+                    </li><li class="gallery-item slick-slide" style="min-height: 1800px; height: 1800px; width: 780px; position: relative; left: -3120px; top: 0px; z-index: 998; opacity: 0;" data-slick-index="4" aria-hidden="true" tabindex="-1" role="option" aria-describedby="slick-slide04">
+                        <div class="report-item">
+                            <dl class="related-materials">
+                                                                    <dt><span class="icon-pdf"></span><a href="/upload/iblock/9a1/9a190d68d8b21676cf9eb815108a12c2.pdf" target="_blank" tabindex="-1">Расчет размера собственных средств на 31.12.2019 корректировка 1</a></dt>
+                                    <dd>
+                                        PDF,
+                                        1.7 Mb
+                                        , Опубликовано: 27.02.2020 18:27                                        ,<br>Доступно до: 28.02.2023                                    </dd>
+                                                                        <dt><span class="icon-pdf"></span><a href="/upload/iblock/529/52973e500dfde70aaa7f8086aecd3bc6.pdf" target="_blank" tabindex="-1">Расчет размера собственных средств на 31.12.2019</a></dt>
+                                    <dd>
+                                        PDF,
+                                        1.5 Mb
+                                        , Опубликовано: 29.01.2020 11:15                                        ,<br>Доступно до: 31.01.2023                                    </dd>
+                                                                        <dt><span class="icon-pdf"></span><a href="/upload/iblock/f3a/f3ae1cf514d085d421579280a2c64392.pdf" target="_blank" tabindex="-1">Расчет размера собственных средств на 30.11.2019</a></dt>
+                                    <dd>
+                                        PDF,
+                                        1.8 Mb
+                                        , Опубликовано: 24.12.2019 19:20                                        ,<br>Доступно до: 31.12.2022                                    </dd>
+                                                                        <dt><span class="icon-pdf"></span><a href="/upload/iblock/203/203074f0c045c93df05741c4ac288957.pdf" target="_blank" tabindex="-1">Расчет размера собственных средств на 31.10.2019 (корректировка на 05.12.2019)</a></dt>
+                                    <dd>
+                                        PDF,
+                                        0.6 Mb
+                                        , Опубликовано: 06.12.2019 12:15                                        ,<br>Доступно до: 31.12.2022                                    </dd>
+                                                                        <dt><span class="icon-pdf"></span><a href="/upload/iblock/f6d/f6d65d47b3144bcfa80be17f33b43872.pdf" target="_blank" tabindex="-1">Расчет размера собственных средств на 31.10.2019</a></dt>
+                                    <dd>
+                                        PDF,
+                                        2.0 Mb
+                                        , Опубликовано: 26.11.2019 11:30                                        ,<br>Доступно до: 30.11.2022                                    </dd>
+                                                                        <dt><span class="icon-pdf"></span><a href="/upload/iblock/5a5/5a5bd52f638e4f68e2e40ef74d71c9f4.pdf" target="_blank" tabindex="-1">Расчет размера собственных средств на 30.09.2019</a></dt>
+                                    <dd>
+                                        PDF,
+                                        1.8 Mb
+                                        , Опубликовано: 28.10.2019 14:05                                        ,<br>Доступно до: 31.10.2022                                    </dd>
+                                                                        <dt><span class="icon-pdf"></span><a href="/upload/iblock/200/200aae16c524b831afcb4bcaf80a4f48.pdf" target="_blank" tabindex="-1">Расчет размера собственных средств на 31.08.2019</a></dt>
+                                    <dd>
+                                        PDF,
+                                        0.6 Mb
+                                        , Опубликовано: 24.09.2019 10:50                                        ,<br>Доступно до: 30.09.2022                                    </dd>
+                                                                        <dt><span class="icon-pdf"></span><a href="/upload/iblock/156/156ecd8131da16cdb3d624864c444ddd.pdf" target="_blank" tabindex="-1">Расчет размера собственных средств на 31.07.2019</a></dt>
+                                    <dd>
+                                        PDF,
+                                        2.0 Mb
+                                        , Опубликовано: 29.08.2019 12:10                                        ,<br>Доступно до: 31.08.2022                                    </dd>
+                                                                        <dt><span class="icon-pdf"></span><a href="/upload/iblock/617/617f16a806d0af9f02207686f2f7a3e2.pdf" target="_blank" tabindex="-1">Расчет размера собственных средств на 30.06.2019</a></dt>
+                                    <dd>
+                                        PDF,
+                                        2.0 Mb
+                                        , Опубликовано: 19.07.2019 11:35                                        ,<br>Доступно до: 31.07.2022                                    </dd>
+                                                                        <dt><span class="icon-pdf"></span><a href="/upload/iblock/c66/c66d92fe1eebf96dab22f43587760d0a.pdf" target="_blank" tabindex="-1">Расчет размера собственных средств на 31.05.2019</a></dt>
+                                    <dd>
+                                        PDF,
+                                        1.8 Mb
+                                        , Опубликовано: 26.06.2019 15:20                                        ,<br>Доступно до: 30.06.2022                                    </dd>
+                                                                        <dt><span class="icon-pdf"></span><a href="/upload/iblock/9be/9be07f904da8c8d2841ddf36138f7be7.pdf" target="_blank" tabindex="-1">Расчет размера собственных средств на 30.04.2019</a></dt>
+                                    <dd>
+                                        PDF,
+                                        1.8 Mb
+                                        , Опубликовано: 29.05.2019 15:25                                        ,<br>Доступно до: 31.05.2022                                    </dd>
+                                                                        <dt><span class="icon-pdf"></span><a href="/upload/iblock/649/649742134ddaa860a0affe32e83da45d.pdf" target="_blank" tabindex="-1">Расчет размера собственных средств на 31.03.2019 (корректировка на 20.05.2019)</a></dt>
+                                    <dd>
+                                        PDF,
+                                        0.6 Mb
+                                        , Опубликовано: 20.05.2019 13:25                                        ,<br>Доступно до: 31.05.2022                                    </dd>
+                                                                        <dt><span class="icon-pdf"></span><a href="/upload/iblock/c6a/c6ae091c9e096d20dfc9e3f8c405221f.pdf" target="_blank" tabindex="-1">Расчет размера собственных средств на 31.03.2019</a></dt>
+                                    <dd>
+                                        PDF,
+                                        1.9 Mb
+                                        , Опубликовано: 29.04.2019 15:20                                        ,<br>Доступно до: 30.04.2022                                    </dd>
+                                                                        <dt><span class="icon-pdf"></span><a href="/upload/iblock/926/92603e5dc479c45591d9b50bfd575c9f.pdf" target="_blank" tabindex="-1">Расчет размера собственных средств на 28.02.2019</a></dt>
+                                    <dd>
+                                        PDF,
+                                        1.9 Mb
+                                        , Опубликовано: 25.03.2019 17:05                                        ,<br>Доступно до: 31.03.2022                                    </dd>
+                                                                        <dt><span class="icon-pdf"></span><a href="/upload/iblock/4f7/4f7dbdeef3c3b1a22d0e95c085856db1.pdf" target="_blank" tabindex="-1">Расчет размера собственных средств на 31.01.2019</a></dt>
+                                    <dd>
+                                        PDF,
+                                        1.9 Mb
+                                        , Опубликовано: 22.02.2019 11:50                                        ,<br>Доступно до: 28.02.2022                                    </dd>
+                                                                </dl>
+
+                            <!--FIRST WAY-->
+                            
+                        </div>
+                    </li><li class="gallery-item slick-slide" style="min-height: 1800px; height: 1800px; width: 780px; position: relative; left: -3900px; top: 0px; z-index: 998; opacity: 0;" data-slick-index="5" aria-hidden="true" tabindex="-1" role="option" aria-describedby="slick-slide05">
+                        <div class="report-item">
+                            <dl class="related-materials">
+                                                                    <dt><span class="icon-pdf"></span><a href="/upload/iblock/4c2/4c270294e26336ce8e52427ebf7ee848.pdf" target="_blank" tabindex="-1">Расчет размера собственных средств на 31.10.2018 (корректировка на 19.02.2019)</a></dt>
+                                    <dd>
+                                        PDF,
+                                        2.4 Mb
+                                        , Опубликовано: 19.02.2019 16:20                                        ,<br>Доступно до: 28.02.2022                                    </dd>
+                                                                        <dt><span class="icon-pdf"></span><a href="/upload/iblock/c71/c71e05d68476153a26ffa3ee7f5761c4.pdf" target="_blank" tabindex="-1">Расчет размера собственных средств на 31.12.2018</a></dt>
+                                    <dd>
+                                        PDF,
+                                        1.6 Mb
+                                        , Опубликовано: 29.01.2019 11:30                                        ,<br>Доступно до: 31.01.2022                                    </dd>
+                                                                        <dt><span class="icon-pdf"></span><a href="/upload/iblock/d20/d20ae5bdc4e55b269d34205cd8a12dd5.pdf" target="_blank" tabindex="-1">Расчет размера собственных средств на 30.11.2018</a></dt>
+                                    <dd>
+                                        PDF,
+                                        1.9 Mb
+                                        , Опубликовано: 19.12.2018 11:20                                        ,<br>Доступно до: 31.12.2021                                    </dd>
+                                                                        <dt><span class="icon-pdf"></span><a href="/upload/iblock/01c/01ce393694edfd12dbe1c22417b6e513.pdf" target="_blank" tabindex="-1">Расчет размера собственных средств на 31.10.2018 (корректировка на 11.12.2018)</a></dt>
+                                    <dd>
+                                        PDF,
+                                        2.3 Mb
+                                        , Опубликовано: 12.12.2018 12:57                                        ,<br>Доступно до: 31.12.2021                                    </dd>
+                                                                        <dt><span class="icon-pdf"></span><a href="/upload/iblock/394/3947c1699c0d92d2010293333674e48d.pdf" target="_blank" tabindex="-1">Расчет размера собственных средств на 31.10.2018</a></dt>
+                                    <dd>
+                                        PDF,
+                                        2.6 Mb
+                                        , Опубликовано: 21.11.2018 10:54                                        ,<br>Доступно до: 30.11.2021                                    </dd>
+                                                                        <dt><span class="icon-pdf"></span><a href="/upload/iblock/bb3/bb32f845c7d1883dc9918e6de0ce1c38.pdf" target="_blank" tabindex="-1">Расчет размера собственных средств на 31.07.2018 (корректировка на 08.11.2018)</a></dt>
+                                    <dd>
+                                        PDF,
+                                        2.5 Mb
+                                        , Опубликовано: 08.11.2018 17:33                                        ,<br>Доступно до: 30.11.2021                                    </dd>
+                                                                        <dt><span class="icon-pdf"></span><a href="/upload/iblock/16f/16f0393f6f8662e9a6985c6ea36bd3f0.pdf" target="_blank" tabindex="-1">Расчет размера собственных средств на 30.06.2018 (корректировка от 29.10.2018)</a></dt>
+                                    <dd>
+                                        PDF,
+                                        2.4 Mb
+                                        , Опубликовано: 31.10.2018 11:33                                        ,<br>Доступно до: 31.10.2021                                    </dd>
+                                                                        <dt><span class="icon-pdf"></span><a href="/upload/iblock/f3b/f3b295fd8f0b74918a4fb351fd4ecf3a.pdf" target="_blank" tabindex="-1">Расчет размера собственных средств на 30.09.2018</a></dt>
+                                    <dd>
+                                        PDF,
+                                        2.4 Mb
+                                        , Опубликовано: 24.10.2018 18:25                                        ,<br>Доступно до: 31.10.2021                                    </dd>
+                                                                        <dt><span class="icon-pdf"></span><a href="/upload/iblock/78a/78a5d0992f5fa6c010346618e3755d6d.pdf" target="_blank" tabindex="-1">Расчет размера собственных средств на 31.08.2018</a></dt>
+                                    <dd>
+                                        PDF,
+                                        2.4 Mb
+                                        , Опубликовано: 26.09.2018 16:21                                        ,<br>Доступно до: 30.09.2021                                    </dd>
+                                                                        <dt><span class="icon-pdf"></span><a href="/upload/iblock/5d8/5d8e3ea99447a4d8b40aed7c4d29a412.pdf" target="_blank" tabindex="-1">Расчет размера собственных средств на 31.07.2018</a></dt>
+                                    <dd>
+                                        PDF,
+                                        2.5 Mb
+                                        , Опубликовано: 20.08.2018 13:22                                        ,<br>Доступно до: 31.08.2021                                    </dd>
+                                                                        <dt><span class="icon-pdf"></span><a href="/upload/iblock/f95/f954cb1b7b98d927b48bd74e803ca04b.pdf" target="_blank" tabindex="-1">Расчет размера собственных средств на 30.06.2018</a></dt>
+                                    <dd>
+                                        PDF,
+                                        2.4 Mb
+                                        , Опубликовано: 19.07.2018 17:09                                        ,<br>Доступно до: 31.07.2021                                    </dd>
+                                                                        <dt><span class="icon-pdf"></span><a href="/upload/iblock/dc5/dc5a3e9fe79d96715c0985cedd99bd9d.pdf" target="_blank" tabindex="-1">Расчет размера собственных средств на 31.05.2018</a></dt>
+                                    <dd>
+                                        PDF,
+                                        2.6 Mb
+                                        , Опубликовано: 28.06.2018 12:32                                        ,<br>Доступно до: 30.06.2021                                    </dd>
+                                                                        <dt><span class="icon-pdf"></span><a href="/upload/iblock/d90/d90cdb19ea049aeefb9e5cb158f0e262.pdf" target="_blank" tabindex="-1">Расчет размера собственных средств на 30.04.2018</a></dt>
+                                    <dd>
+                                        PDF,
+                                        2.1 Mb
+                                        , Опубликовано: 28.05.2018 11:22                                        ,<br>Доступно до: 31.05.2021                                    </dd>
+                                                                        <dt><span class="icon-pdf"></span><a href="/upload/iblock/80c/80c4a8d57cea5660bafebd8bbf78a2fd.pdf" target="_blank" tabindex="-1">Расчет размера собственных средств на 31.03.2018</a></dt>
+                                    <dd>
+                                        PDF,
+                                        3.9 Mb
+                                        , Опубликовано: 18.04.2018 18:12                                        ,<br>Доступно до: 30.04.2021                                    </dd>
+                                                                        <dt><span class="icon-pdf"></span><a href="/upload/iblock/10e/10e24cc0ea95cbc90d77edfa37f65c85.pdf" target="_blank" tabindex="-1">Расчет размера собственных средств на 28.02.2018</a></dt>
+                                    <dd>
+                                        PDF,
+                                        3.5 Mb
+                                        , Опубликовано: 15.03.2018 09:38                                        ,<br>Доступно до: 31.03.2021                                    </dd>
+                                                                        <dt><span class="icon-pdf"></span><a href="/upload/iblock/bf7/bf713523429608fef861c040f0f28482.pdf" target="_blank" tabindex="-1">Расчет размера собственных средств на 31.01.2018</a></dt>
+                                    <dd>
+                                        PDF,
+                                        4.0 Mb
+                                        , Опубликовано: 13.02.2018 11:50                                        ,<br>Доступно до: 28.02.2021                                    </dd>
+                                                                </dl>
+
+                            <!--FIRST WAY-->
+                            
+                        </div>
+                    </li><li class="gallery-item slick-slide" style="min-height: 1800px; height: 1800px; width: 780px; position: relative; left: -4680px; top: 0px; z-index: 998; opacity: 0;" data-slick-index="6" aria-hidden="true" tabindex="-1" role="option" aria-describedby="slick-slide06">
+                        <div class="report-item">
+                            <dl class="related-materials">
+                                                                    <dt><span class="icon-pdf"></span><a href="/upload/iblock/fe5/fe5b3fb81520b886c99786a4d3678dd9.pdf" target="_blank" tabindex="-1">Расчет размера собственных средств на 31.12.2017</a></dt>
+                                    <dd>
+                                        PDF,
+                                        3.9 Mb
+                                        , Опубликовано: 22.01.2018 16:49                                        ,<br>Доступно до: 31.01.2019                                    </dd>
+                                                                        <dt><span class="icon-pdf"></span><a href="/upload/iblock/da3/da3b48ff2292f597a4a10279024a69a0.pdf" target="_blank" tabindex="-1">Расчет размера собственных средств на 30.11.2017</a></dt>
+                                    <dd>
+                                        PDF,
+                                        4.3 Mb
+                                        , Опубликовано: 25.12.2017 13:11                                        ,<br>Доступно до: 31.12.2018                                    </dd>
+                                                                        <dt><span class="icon-pdf"></span><a href="/upload/iblock/f95/f957a1a791f1bc3e7110f30f27e7674b.pdf" target="_blank" tabindex="-1">Расчет размера собственных средств на 31.10.2017 (корректировка на 23.11.2017)</a></dt>
+                                    <dd>
+                                        PDF,
+                                        4.2 Mb
+                                        , Опубликовано: 29.11.2017 18:42                                        ,<br>Доступно до: 30.11.2018                                    </dd>
+                                                                        <dt><span class="icon-pdf"></span><a href="/upload/iblock/cd8/cd8f1b920359736dd2f784d64fe76198.pdf" target="_blank" tabindex="-1">Расчет размера собственных средств на 30.09.2017 (корректировка на 23.11.2017)</a></dt>
+                                    <dd>
+                                        PDF,
+                                        3.9 Mb
+                                        , Опубликовано: 29.11.2017 18:42                                        ,<br>Доступно до: 30.11.2018                                    </dd>
+                                                                        <dt><span class="icon-pdf"></span><a href="/upload/iblock/e1e/e1ea91c9dffc2c5e4a13ce2105abac96.pdf" target="_blank" tabindex="-1">Расчет размера собственных средств на 31.10.2017</a></dt>
+                                    <dd>
+                                        PDF,
+                                        2.7 Mb
+                                        , Опубликовано: 16.11.2017 11:16                                        ,<br>Доступно до: 30.11.2018                                    </dd>
+                                                                        <dt><span class="icon-pdf"></span><a href="/upload/iblock/a11/a112713f8f61f01896f0be8c8f43da2b.pdf" target="_blank" tabindex="-1">Расчет размера собственных средств на 30.09.2017</a></dt>
+                                    <dd>
+                                        PDF,
+                                        4.1 Mb
+                                        , Опубликовано: 16.10.2017 15:26                                        ,<br>Доступно до: 31.10.2018                                    </dd>
+                                                                        <dt><span class="icon-pdf"></span><a href="/upload/iblock/73a/73a1814660b170046d17f72317a5473f.pdf" target="_blank" tabindex="-1">Расчет размера собственных средств на 31.08.2017</a></dt>
+                                    <dd>
+                                        PDF,
+                                        4.6 Mb
+                                        , Опубликовано: 22.09.2017 10:20                                        ,<br>Доступно до: 30.09.2018                                    </dd>
+                                                                        <dt><span class="icon-pdf"></span><a href="/upload/iblock/ae4/ae4df0eaffc3420b9c0f7f9ea84a2a15.pdf" target="_blank" tabindex="-1">Расчет размера собственных средств на 31.07.2017 (корректировка на 25.08.2017)</a></dt>
+                                    <dd>
+                                        PDF,
+                                        3.5 Mb
+                                        , Опубликовано: 25.08.2017 15:55                                        ,<br>Доступно до: 31.08.2018                                    </dd>
+                                                                        <dt><span class="icon-pdf"></span><a href="/upload/iblock/991/9910dec029e66f27e72814683578d985.pdf" target="_blank" tabindex="-1">Расчет размера собственных средств на 30.06.2017 (корректировка на 25.08.2017)</a></dt>
+                                    <dd>
+                                        PDF,
+                                        3.3 Mb
+                                        , Опубликовано: 25.08.2017 15:53                                        ,<br>Доступно до: 31.08.2018                                    </dd>
+                                                                        <dt><span class="icon-pdf"></span><a href="/upload/iblock/776/776bf67c3958afc24a9cd4aa719c9a94.pdf" target="_blank" tabindex="-1">Расчет размера собственных средств на 31.05.2017 (корректировка на 25.08.2017)</a></dt>
+                                    <dd>
+                                        PDF,
+                                        1.6 Mb
+                                        , Опубликовано: 25.08.2017 15:52                                        ,<br>Доступно до: 31.08.2018                                    </dd>
+                                                                        <dt><span class="icon-pdf"></span><a href="/upload/iblock/3a9/3a988be53c211d8651499a2d4b238af0.pdf" target="_blank" tabindex="-1">Расчет размера собственных средств на 30.04.2017 (корректировка на 25.08.2017)</a></dt>
+                                    <dd>
+                                        PDF,
+                                        3.6 Mb
+                                        , Опубликовано: 25.08.2017 15:48                                        ,<br>Доступно до: 31.08.2018                                    </dd>
+                                                                        <dt><span class="icon-pdf"></span><a href="/upload/iblock/f47/f474f2d069c986e0de1a4b83bb0cd857.pdf" target="_blank" tabindex="-1">Расчет размера собственных средств на 31.07.2017</a></dt>
+                                    <dd>
+                                        PDF,
+                                        8.3 Mb
+                                        , Опубликовано: 14.08.2017 15:31                                        ,<br>Доступно до: 31.08.2018                                    </dd>
+                                                                        <dt><span class="icon-pdf"></span><a href="/upload/iblock/3a5/3a5b9ebb0186a0d7dc069d07390c6657.pdf" target="_blank" tabindex="-1">Расчет размера собственных средств на 30.06.2017 (корректировка на 14.07.2017)</a></dt>
+                                    <dd>
+                                        PDF,
+                                        6.1 Mb
+                                        , Опубликовано: 17.07.2017 17:52                                        ,<br>Доступно до: 31.07.2018                                    </dd>
+                                                                        <dt><span class="icon-pdf"></span><a href="/upload/iblock/fcf/fcf13bc8cf825b498d82e46d908e2404.pdf" target="_blank" tabindex="-1">Расчет размера собственных средств на 30.06.2017</a></dt>
+                                    <dd>
+                                        PDF,
+                                        6.1 Mb
+                                        , Опубликовано: 14.07.2017 14:07                                        ,<br>Доступно до: 31.07.2018                                    </dd>
+                                                                        <dt><span class="icon-pdf"></span><a href="/upload/iblock/6c9/6c9dd6734ddb2507a38e99a0199c2c9f.pdf" target="_blank" tabindex="-1">Расчет размера собственных средств на 31.05.2017</a></dt>
+                                    <dd>
+                                        PDF,
+                                        3.8 Mb
+                                        , Опубликовано: 13.06.2017 14:20                                        ,<br>Доступно до: 30.06.2018                                    </dd>
+                                                                        <dt><span class="icon-pdf"></span><a href="/upload/iblock/137/1374e7437f341ab250c35bfc97134ce1.pdf" target="_blank" tabindex="-1">Расчет размера собственных средств на 30.04.2017</a></dt>
+                                    <dd>
+                                        PDF,
+                                        8.7 Mb
+                                        , Опубликовано: 17.05.2017 18:26                                        ,<br>Доступно до: 31.05.2018                                    </dd>
+                                                                        <dt><span class="icon-pdf"></span><a href="/upload/iblock/839/839f2eb1db1c2ad367e72ba4ca32e48e.pdf" target="_blank" tabindex="-1">Расчет размера собственных средств на 31.03.2017 (корректировка на 04.05.2017)</a></dt>
+                                    <dd>
+                                        PDF,
+                                        9.3 Mb
+                                        , Опубликовано: 05.05.2017 16:53                                        ,<br>Доступно до: 31.05.2018                                    </dd>
+                                                                        <dt><span class="icon-pdf"></span><a href="/upload/iblock/417/417a53b1bbddac5e02fb0b8d7e2c582c.pdf" target="_blank" tabindex="-1">Расчет размера собственных средств на 31.03.2017</a></dt>
+                                    <dd>
+                                        PDF,
+                                        10.7 Mb
+                                        , Опубликовано: 14.04.2017 15:50                                        ,<br>Доступно до: 30.04.2018                                    </dd>
+                                                                        <dt><span class="icon-pdf"></span><a href="/upload/iblock/934/934deb5e77e4dfb241d13936ca197a20.pdf" target="_blank" tabindex="-1">Расчет размера собственных средств на 28.02.2017</a></dt>
+                                    <dd>
+                                        PDF,
+                                        5.3 Mb
+                                        , Опубликовано: 16.03.2017 11:46                                        ,<br>Доступно до: 31.03.2018                                    </dd>
+                                                                        <dt><span class="icon-pdf"></span><a href="/upload/iblock/803/8035275dec9634bee55e6d4daceadf37.pdf" target="_blank" tabindex="-1">Расчет размера собственных средств на 31.01.2017 (корректировка на 13.03.2017)</a></dt>
+                                    <dd>
+                                        PDF,
+                                        5.3 Mb
+                                        , Опубликовано: 13.03.2017 17:46                                        ,<br>Доступно до: 31.03.2018                                    </dd>
+                                                                        <dt><span class="icon-pdf"></span><a href="/upload/iblock/e89/e89791b2285207a5ed770ed251e4cb08.pdf" target="_blank" tabindex="-1">Расчет размера собственных средств на 31.01.2017</a></dt>
+                                    <dd>
+                                        PDF,
+                                        4.8 Mb
+                                        , Опубликовано: 17.02.2017 16:15                                        ,<br>Доступно до: 28.02.2018                                    </dd>
+                                                                </dl>
+
+                            <!--FIRST WAY-->
+                            
+                        </div>
+                    </li><li class="gallery-item slick-slide" style="min-height: 1800px; height: 1800px; width: 780px; position: relative; left: -5460px; top: 0px; z-index: 998; opacity: 0;" data-slick-index="7" aria-hidden="true" tabindex="-1" role="option" aria-describedby="slick-slide07">
+                        <div class="report-item">
+                            <dl class="related-materials">
+                                                                    <dt><span class="icon-pdf"></span><a href="/upload/iblock/3b1/3b13dd31bf6b29b1ef9cc112700f2e57.pdf" target="_blank" tabindex="-1">Расчет размера собственных средств на 31.12.2016 (корректировка на 13.03.2017)</a></dt>
+                                    <dd>
+                                        PDF,
+                                        5.3 Mb
+                                        , Опубликовано: 13.03.2017 17:41                                        ,<br>Доступно до: 31.03.2018                                    </dd>
+                                                                        <dt><span class="icon-pdf"></span><a href="/upload/iblock/7ff/7ff47511265cbbf41aa8948e2f11fcb1.pdf" target="_blank" tabindex="-1">Расчет размера собственных средств на 31.12.2016</a></dt>
+                                    <dd>
+                                        PDF,
+                                        7.1 Mb
+                                        , Опубликовано: 24.01.2017 10:35                                        ,<br>Доступно до: 31.01.2018                                    </dd>
+                                                                        <dt><span class="icon-pdf"></span><a href="/upload/iblock/cba/cba84d21b3761bfb86bf790de3d6b4ea.pdf" target="_blank" tabindex="-1">Расчет размера собственных средств на 30.11.2016</a></dt>
+                                    <dd>
+                                        PDF,
+                                        5.8 Mb
+                                        , Опубликовано: 11.01.2017 16:05                                        ,<br>Доступно до: 30.12.2017                                    </dd>
+                                                                        <dt><span class="icon-pdf"></span><a href="/upload/iblock/354/35408eebcfb2f710f547bbf20e735997.pdf" target="_blank" tabindex="-1">Расчет размера собственных средств на 31.10.2016</a></dt>
+                                    <dd>
+                                        PDF,
+                                        10.7 Mb
+                                        , Опубликовано: 21.11.2016 16:05                                        ,<br>Доступно до: 30.11.2017                                    </dd>
+                                                                        <dt><span class="icon-pdf"></span><a href="/upload/iblock/6b4/6b49ce1d3bbf2350cbbf771dfedfcf98.pdf" target="_blank" tabindex="-1">Расчет размера собственных средств на 30.09.2016</a></dt>
+                                    <dd>
+                                        PDF,
+                                        9.8 Mb
+                                        , Опубликовано: 14.10.2016 18:30                                        ,<br>Доступно до: 31.10.2017                                    </dd>
+                                                                        <dt><span class="icon-pdf"></span><a href="/upload/iblock/0de/0de6af7a4daba1207c6d546f4b359e31.pdf" target="_blank" tabindex="-1">Расчет размера собственных средств на 31.08.2016</a></dt>
+                                    <dd>
+                                        PDF,
+                                        2.2 Mb
+                                        , Опубликовано: 14.09.2016 12:00                                        ,<br>Доступно до: 30.09.2017                                    </dd>
+                                                                        <dt><span class="icon-pdf"></span><a href="/upload/iblock/797/797d8730885e757e6c2a6c5d18b663bf.pdf" target="_blank" tabindex="-1">Расчет размера собственных средств на 31.07.2016</a></dt>
+                                    <dd>
+                                        PDF,
+                                        2.2 Mb
+                                        , Опубликовано: 12.08.2016 13:45                                        ,<br>Доступно до: 31.08.2017                                    </dd>
+                                                                        <dt><span class="icon-pdf"></span><a href="/upload/iblock/a2c/a2c6c524ae6a3648567bc1e43eb8f669.pdf" target="_blank" tabindex="-1">Расчет размера собственных средств на 30.06.2016</a></dt>
+                                    <dd>
+                                        PDF,
+                                        2.2 Mb
+                                        , Опубликовано: 15.07.2016 10:30                                        ,<br>Доступно до: 31.07.2017                                    </dd>
+                                                                        <dt><span class="icon-pdf"></span><a href="/upload/iblock/5c4/5c4cf0530a1124e0258e611753add7fe.pdf" target="_blank" tabindex="-1">Расчет размера собственных средств на 31.05.2016</a></dt>
+                                    <dd>
+                                        PDF,
+                                        2.2 Mb
+                                        , Опубликовано: 10.06.2016 12:40                                        ,<br>Доступно до: 30.06.2017                                    </dd>
+                                                                        <dt><span class="icon-pdf"></span><a href="/upload/iblock/fa3/fa3b65f4d1f5e6bd6f588d5804d10a85.pdf" target="_blank" tabindex="-1">Расчет размера собственных средств на 30.04.2016</a></dt>
+                                    <dd>
+                                        PDF,
+                                        2.1 Mb
+                                        , Опубликовано: 18.05.2016 13:30                                        ,<br>Доступно до: 31.05.2017                                    </dd>
+                                                                        <dt><span class="icon-pdf"></span><a href="/upload/iblock/e19/e19899fb02c98d21214c9fa531561b5c.pdf" target="_blank" tabindex="-1">Расчет размера собственных средств на 31.03.2016</a></dt>
+                                    <dd>
+                                        PDF,
+                                        2.2 Mb
+                                        , Опубликовано: 15.04.2016 12:00                                        ,<br>Доступно до: 30.04.2017                                    </dd>
+                                                                        <dt><span class="icon-pdf"></span><a href="/upload/iblock/e11/e1127b2e7066f2f5b0fe95886821c1f5.pdf" target="_blank" tabindex="-1">Расчет размера собственных средств на 29.02.2016</a></dt>
+                                    <dd>
+                                        PDF,
+                                        2.3 Mb
+                                        , Опубликовано: 17.03.2016 11:40                                        ,<br>Доступно до: 31.03.2017                                    </dd>
+                                                                        <dt><span class="icon-pdf"></span><a href="/upload/iblock/f5c/f5c5960e578fb42df52c6ce826d1cc09.pdf" target="_blank" tabindex="-1">Расчет размера собственных средств на 31.01.2016</a></dt>
+                                    <dd>
+                                        PDF,
+                                        2.1 Mb
+                                        , Опубликовано: 26.02.2016 15:40                                        ,<br>Доступно до: 28.02.2017                                    </dd>
+                                                                </dl>
+
+                            <!--FIRST WAY-->
+                            
+                        </div>
+                    </li><li class="gallery-item slick-slide" style="min-height: 1800px; height: 1800px; width: 780px; position: relative; left: -6240px; top: 0px; z-index: 998; opacity: 0;" data-slick-index="8" aria-hidden="true" tabindex="-1" role="option" aria-describedby="slick-slide08">
+                        <div class="report-item">
+                            <dl class="related-materials">
+                                                                    <dt><span class="icon-pdf"></span><a href="/upload/iblock/2fd/2fd20ab086ce2bce8c904f07511b1e5d.pdf" target="_blank" tabindex="-1">Расчет размера собственных средств на 31.12.2015</a></dt>
+                                    <dd>
+                                        PDF,
+                                        0.1 Mb
+                                        , Опубликовано: 29.01.2016 15:10                                        ,<br>Доступно до: 31.01.2017                                    </dd>
+                                                                        <dt><span class="icon-pdf"></span><a href="/upload/iblock/fe5/fe54dd6a62c4abbd5812225b005ff2d1.pdf" target="_blank" tabindex="-1">Расчет размера собственных средств на 30.11.2015</a></dt>
+                                    <dd>
+                                        PDF,
+                                        0.1 Mb
+                                        , Опубликовано: 30.12.2015 17:30                                        ,<br>Доступно до: 31.12.2016                                    </dd>
+                                                                        <dt><span class="icon-pdf"></span><a href="/upload/iblock/87a/87a826375439b0bd6bf986089656e05f.pdf" target="_blank" tabindex="-1">Расчет размера собственных средств на 31.10.2015</a></dt>
+                                    <dd>
+                                        PDF,
+                                        0.1 Mb
+                                        , Опубликовано: 30.11.2015 16:45                                        ,<br>Доступно до: 30.11.2016                                    </dd>
+                                                                        <dt><span class="icon-pdf"></span><a href="/upload/iblock/03a/03a5cc06ec3c61bd558ca7277e6750d8.pdf" target="_blank" tabindex="-1">Расчет размера собственных средств на 30.09.2015</a></dt>
+                                    <dd>
+                                        PDF,
+                                        0.1 Mb
+                                        , Опубликовано: 29.10.2015 17:10                                        ,<br>Доступно до: 31.10.2016                                    </dd>
+                                                                        <dt><span class="icon-pdf"></span><a href="/upload/iblock/e7a/e7a43b88922afdbfe38785bba13a70fe.pdf" target="_blank" tabindex="-1">Расчет размера собственных средств на 31.08.2015</a></dt>
+                                    <dd>
+                                        PDF,
+                                        0.1 Mb
+                                        , Опубликовано: 30.09.2015 11:50                                        ,<br>Доступно до: 30.09.2016                                    </dd>
+                                                                        <dt><span class="icon-pdf"></span><a href="/upload/iblock/11c/11c66d09313454b40756d5d62dd19cc9.pdf" target="_blank" tabindex="-1">Расчет размера собственных средств на 31.07.2015</a></dt>
+                                    <dd>
+                                        PDF,
+                                        0.1 Mb
+                                        , Опубликовано: 31.08.2015 17:20                                        ,<br>Доступно до: 31.08.2016                                    </dd>
+                                                                        <dt><span class="icon-pdf"></span><a href="/upload/iblock/a05/a0532a54cd26ef988366af0be576ab5e.pdf" target="_blank" tabindex="-1">Расчет размера собственных средств на 30.06.2015</a></dt>
+                                    <dd>
+                                        PDF,
+                                        0.1 Mb
+                                        , Опубликовано: 31.07.2015 16:40                                        ,<br>Доступно до: 31.07.2016                                    </dd>
+                                                                        <dt><span class="icon-pdf"></span><a href="/upload/iblock/d0a/d0a9623726c345a5805e40a94ae056f4.pdf" target="_blank" tabindex="-1">Расчет размера собственных средств на 31.05.2015</a></dt>
+                                    <dd>
+                                        PDF,
+                                        0.1 Mb
+                                        , Опубликовано: 30.06.2015 18:25                                        ,<br>Доступно до: 30.06.2016                                    </dd>
+                                                                        <dt><span class="icon-pdf"></span><a href="/upload/iblock/882/882a9e3b61a5cc4fc4f46011823bde99.pdf" target="_blank" tabindex="-1">Расчет размера собственных средств на 30.04.2015</a></dt>
+                                    <dd>
+                                        PDF,
+                                        0.1 Mb
+                                        , Опубликовано: 28.05.2015 17:00                                        ,<br>Доступно до: 31.05.2016                                    </dd>
+                                                                        <dt><span class="icon-pdf"></span><a href="/upload/iblock/01e/01e01e769dde42d59c6daeb3fd8bcb6f.pdf" target="_blank" tabindex="-1">Расчет размера собственных средств на 31.03.2015</a></dt>
+                                    <dd>
+                                        PDF,
+                                        0.1 Mb
+                                        , Опубликовано: 29.04.2015 19:55                                        ,<br>Доступно до: 30.04.2016                                    </dd>
+                                                                        <dt><span class="icon-pdf"></span><a href="/upload/iblock/d5a/d5ab6f2e18df7fcf5aa8a4329dfba398.pdf" target="_blank" tabindex="-1">Расчет размера собственных средств на 28.02.2015</a></dt>
+                                    <dd>
+                                        PDF,
+                                        0.1 Mb
+                                        , Опубликовано: 31.03.2015 15:40                                        ,<br>Доступно до: 31.03.2016                                    </dd>
+                                                                        <dt><span class="icon-pdf"></span><a href="/upload/iblock/bc3/bc3c8e129266a34f277623dd04c491fb.pdf" target="_blank" tabindex="-1">Расчет размера собственных средств на 31.01.2015</a></dt>
+                                    <dd>
+                                        PDF,
+                                        0.1 Mb
+                                        , Опубликовано: 26.02.2015 12:00                                        ,<br>Доступно до: 29.02.2016                                    </dd>
+                                                                </dl>
+
+                            <!--FIRST WAY-->
+                            
+                        </div>
+                    </li><li class="gallery-item slick-slide" style="min-height: 1800px; height: 1800px; width: 780px; position: relative; left: -7020px; top: 0px; z-index: 998; opacity: 0;" data-slick-index="9" aria-hidden="true" tabindex="-1" role="option" aria-describedby="slick-slide09">
+                        <div class="report-item">
+                            <dl class="related-materials">
+                                                                    <dt><span class="icon-pdf"></span><a href="/upload/iblock/17a/17a1eaa416d5bbf5439cd62493f4dd61.pdf" target="_blank" tabindex="-1">Расчет размера собственных средств на 31.12.2014 г.</a></dt>
+                                    <dd>
+                                        PDF,
+                                        0.1 Mb
+                                        , Опубликовано: 30.01.2015 09:45                                        ,<br>Доступно до: 31.01.2016                                    </dd>
+                                                                        <dt><span class="icon-pdf"></span><a href="/upload/iblock/1c7/1c7c3193e0cfc26e6c8d72d140a9e05d.pdf" target="_blank" tabindex="-1">Расчет размера собственных средств на 30.11.2014 г.</a></dt>
+                                    <dd>
+                                        PDF,
+                                        0.1 Mb
+                                        , Опубликовано: 31.12.2014 10:15                                        ,<br>Доступно до: 31.12.2015                                    </dd>
+                                                                        <dt><span class="icon-pdf"></span><a href="/upload/iblock/819/81929f4b30854b6ffc39dd778ab05506.pdf" target="_blank" tabindex="-1">Расчет размера собственных средств на 31.10.2014 г.</a></dt>
+                                    <dd>
+                                        PDF,
+                                        0.1 Mb
+                                        , Опубликовано: 28.11.2014 17:35                                        ,<br>Доступно до: 30.11.2015                                    </dd>
+                                                                        <dt><span class="icon-pdf"></span><a href="/upload/iblock/664/664107d88a7a1899b2405d655d2de04b.pdf" target="_blank" tabindex="-1">Расчет размера собственных средств на 30.09.2014 г.</a></dt>
+                                    <dd>
+                                        PDF,
+                                        0.1 Mb
+                                        , Опубликовано: 27.10.2014 11:15                                        ,<br>Доступно до: 31.10.2015                                    </dd>
+                                                                        <dt><span class="icon-pdf"></span><a href="/upload/iblock/20c/20cd8bd428349d2d866b62c5b235ce92.pdf" target="_blank" tabindex="-1">Расчет размера собственных средств на 31.08.2014 г.</a></dt>
+                                    <dd>
+                                        PDF,
+                                        0.1 Mb
+                                        , Опубликовано: 30.09.2014 13:10                                        ,<br>Доступно до: 30.09.2015                                    </dd>
+                                                                        <dt><span class="icon-pdf"></span><a href="/upload/iblock/eb8/eb8b0332f42dd2f1de9d7c1d5e154bdd.pdf" target="_blank" tabindex="-1">Расчет размера собственных средств на 31.07.2014 г.</a></dt>
+                                    <dd>
+                                        PDF,
+                                        0.1 Mb
+                                        , Опубликовано: 29.08.2014 18:50                                        ,<br>Доступно до: 31.08.2015                                    </dd>
+                                                                        <dt><span class="icon-pdf"></span><a href="/upload/iblock/ad6/ad6b61bd53c0d55c2684572a74eecb12.pdf" target="_blank" tabindex="-1">Расчет размера собственных средств на 30.06.2014 г.</a></dt>
+                                    <dd>
+                                        PDF,
+                                        0.1 Mb
+                                        , Опубликовано: 30.07.2014 16:35                                        ,<br>Доступно до: 31.07.2015                                    </dd>
+                                                                        <dt><span class="icon-pdf"></span><a href="/upload/iblock/b76/b76d9d82689a9b94712b6c02907ecbe8.pdf" target="_blank" tabindex="-1">Расчет размера собственных средств на 31.05.2014 г. </a></dt>
+                                    <dd>
+                                        PDF,
+                                        0.1 Mb
+                                        , Опубликовано: 27.06.2014 14:00                                        ,<br>Доступно до: 30.06.2015                                    </dd>
+                                                                        <dt><span class="icon-pdf"></span><a href="/upload/iblock/8dd/8dda4d4ab87133a2ac50f5de6687bf07.pdf" target="_blank" tabindex="-1">Расчет размера собственных средств на 30.04.2014 г.</a></dt>
+                                    <dd>
+                                        PDF,
+                                        0.1 Mb
+                                        , Опубликовано: 29.05.2014 18:00                                        ,<br>Доступно до: 31.05.2015                                    </dd>
+                                                                        <dt><span class="icon-pdf"></span><a href="/upload/iblock/852/852535277168a5e8dfe724e12229d4b9.pdf" target="_blank" tabindex="-1">Расчет размера собственных средств на 31.03.2014 г.</a></dt>
+                                    <dd>
+                                        PDF,
+                                        0.1 Mb
+                                        , Опубликовано: 25.04.2014 17:10                                        ,<br>Доступно до: 30.04.2015                                    </dd>
+                                                                        <dt><span class="icon-pdf"></span><a href="/upload/iblock/747/7473b64650e9dfc98bc737401ac0b23a.pdf" target="_blank" tabindex="-1">Расчет размера собственных средств на 28.02.2014 г.</a></dt>
+                                    <dd>
+                                        PDF,
+                                        0.1 Mb
+                                        , Опубликовано: 31.03.2014 18:30                                        ,<br>Доступно до: 31.03.2015                                    </dd>
+                                                                        <dt><span class="icon-pdf"></span><a href="/upload/iblock/bf4/bf47dc70147e6306214837c47494b358.pdf" target="_blank" tabindex="-1">Расчет размера собственных средств на 31.01.2014 г.</a></dt>
+                                    <dd>
+                                        PDF,
+                                        0.1 Mb
+                                        , Опубликовано: 28.02.2014 17:45                                        ,<br>Доступно до: 28.02.2015                                    </dd>
+                                                                </dl>
+
+                            <!--FIRST WAY-->
+                            
+                        </div>
+                    </li><li class="gallery-item slick-slide" style="min-height: 1800px; height: 1800px; width: 780px; position: relative; left: -7800px; top: 0px; z-index: 998; opacity: 0;" data-slick-index="10" aria-hidden="true" tabindex="-1" role="option" aria-describedby="slick-slide010">
+                        <div class="report-item">
+                            <dl class="related-materials">
+                                                                    <dt><span class="icon-pdf"></span><a href="/upload/iblock/e41/e41720cf1ae5fd380bf491eaac55e314.pdf" target="_blank" tabindex="-1">Расчет размера собственных средств на 31.12.2013 г.</a></dt>
+                                    <dd>
+                                        PDF,
+                                        0.1 Mb
+                                        , Опубликовано: 30.01.2014 19:13                                        ,<br>Доступно до: 31.01.2015                                    </dd>
+                                                                        <dt><span class="icon-pdf"></span><a href="/upload/iblock/691/6913097d5e566b1ef976b578a226cdfc.pdf" target="_blank" tabindex="-1">Расчет размера собственных средств на 30.11.2013 г.</a></dt>
+                                    <dd>
+                                        PDF,
+                                        0.1 Mb
+                                        , Опубликовано: 26.12.2013 12:15                                        ,<br>Доступно до: 31.12.2014                                    </dd>
+                                                                        <dt><span class="icon-pdf"></span><a href="/upload/iblock/aee/aee279951e1140f4fbc818e33730ad4f.pdf" target="_blank" tabindex="-1">Расчет размера собственных средств на 31.10.2013 г.</a></dt>
+                                    <dd>
+                                        PDF,
+                                        0.1 Mb
+                                        , Опубликовано: 29.11.2013 14:35                                        ,<br>Доступно до: 30.11.2014                                    </dd>
+                                                                        <dt><span class="icon-pdf"></span><a href="/upload/iblock/d42/d424b53fec100117f30c8a810d9260e3.pdf" target="_blank" tabindex="-1">Расчет размера собственных средств на 30.09.2013 г. </a></dt>
+                                    <dd>
+                                        PDF,
+                                        0.1 Mb
+                                        , Опубликовано: 30.10.2013 18:30                                        ,<br>Доступно до: 31.10.2014                                    </dd>
+                                                                        <dt><span class="icon-pdf"></span><a href="/upload/iblock/e8d/e8d97abd6f73022fdab524c93b8020f5.pdf" target="_blank" tabindex="-1">Расчет размера собственных средств на 31.08.2013 г.</a></dt>
+                                    <dd>
+                                        PDF,
+                                        0.1 Mb
+                                        , Опубликовано: 30.09.2013 12:20                                        ,<br>Доступно до: 30.09.2014                                    </dd>
+                                                                        <dt><span class="icon-pdf"></span><a href="/upload/iblock/032/0326d1d777f7564e3712ae9423f90607.pdf" target="_blank" tabindex="-1">Расчет размера собственных средств на 31.07.2013 г.</a></dt>
+                                    <dd>
+                                        PDF,
+                                        0.1 Mb
+                                        , Опубликовано: 29.08.2013 16:30                                        ,<br>Доступно до: 31.08.2014                                    </dd>
+                                                                        <dt><span class="icon-pdf"></span><a href="/upload/iblock/c6d/c6da02d309bbf6432e7bf91f6766b2fb.pdf" target="_blank" tabindex="-1">Расчет размера собственных средств на 30.06.2013 г.</a></dt>
+                                    <dd>
+                                        PDF,
+                                        0.1 Mb
+                                        , Опубликовано: 30.07.2013 18:00                                        ,<br>Доступно до: 31.07.2014                                    </dd>
+                                                                        <dt><span class="icon-pdf"></span><a href="/upload/iblock/03b/03bcf98c18fcdd941809bcf814579655.pdf" target="_blank" tabindex="-1">Расчет размера собственных средств на 31.05.2013 г.</a></dt>
+                                    <dd>
+                                        PDF,
+                                        0.1 Mb
+                                        , Опубликовано: 27.06.2013 17:30                                        ,<br>Доступно до: 30.06.2014                                    </dd>
+                                                                        <dt><span class="icon-pdf"></span><a href="/upload/iblock/f95/f952366f579a6f2ef71fc30c18402def.pdf" target="_blank" tabindex="-1">Расчет размера собственных средств на 30.04.2013 г.</a></dt>
+                                    <dd>
+                                        PDF,
+                                        0.1 Mb
+                                        , Опубликовано: 30.05.2013 15:15                                        ,<br>Доступно до: 31.05.2014                                    </dd>
+                                                                        <dt><span class="icon-pdf"></span><a href="/upload/iblock/d7e/d7e9417966ecffcb2f689333c6f2ba0a.pdf" target="_blank" tabindex="-1">Расчет размера собственных средств на 31.03.2013 г. </a></dt>
+                                    <dd>
+                                        PDF,
+                                        0.1 Mb
+                                        , Опубликовано: 26.04.2013 17:00                                        ,<br>Доступно до: 30.04.2014                                    </dd>
+                                                                        <dt><span class="icon-pdf"></span><a href="/upload/iblock/828/828e72d10751ee257488d21329cdfd2e.pdf" target="_blank" tabindex="-1">Расчет размера собственных средств на 28.02.2013 г.</a></dt>
+                                    <dd>
+                                        PDF,
+                                        0.1 Mb
+                                        , Опубликовано: 29.03.2013 13:30                                        ,<br>Доступно до: 31.03.2014                                    </dd>
+                                                                        <dt><span class="icon-pdf"></span><a href="/upload/iblock/b6b/b6b2c7b9decc34932c44248b45639c57.pdf" target="_blank" tabindex="-1">Расчет размера собственных средств на 31.01.2013 г.</a></dt>
+                                    <dd>
+                                        PDF,
+                                        0.1 Mb
+                                        , Опубликовано: 28.02.2013 13:00                                        ,<br>Доступно до: 28.02.2014                                    </dd>
+                                                                </dl>
+
+                            <!--FIRST WAY-->
+                            
+                        </div>
+                    </li><li class="gallery-item slick-slide" style="min-height: 1800px; height: 1800px; width: 780px; position: relative; left: -8580px; top: 0px; z-index: 998; opacity: 0;" data-slick-index="11" aria-hidden="true" tabindex="-1" role="option" aria-describedby="slick-slide011">
+                        <div class="report-item">
+                            <dl class="related-materials">
+                                                                    <dt><span class="icon-pdf"></span><a href="/upload/iblock/90d/90d8aba3314994b1aa01d2286ba2663f.pdf" target="_blank" tabindex="-1">Расчет размера собственных средств на 31.12.2012 г.</a></dt>
+                                    <dd>
+                                        PDF,
+                                        0.1 Mb
+                                        , Опубликовано: 30.01.2013 13:00                                        ,<br>Доступно до: 31.01.2014                                    </dd>
+                                                                        <dt><span class="icon-pdf"></span><a href="/upload/iblock/9cd/9cdf01b3e5156c39ab1c2ea614a78325.pdf" target="_blank" tabindex="-1">Расчет размера собственных средств на 30.11.2012 г. </a></dt>
+                                    <dd>
+                                        PDF,
+                                        0.1 Mb
+                                        , Опубликовано: 27.12.2012 11:00                                        ,<br>Доступно до: 31.12.2013                                    </dd>
+                                                                        <dt><span class="icon-pdf"></span><a href="/upload/iblock/051/051637753faf1948f071843822e5c9d3.pdf" target="_blank" tabindex="-1">Расчет размера собственных средств на 31.10.2012 г.</a></dt>
+                                    <dd>
+                                        PDF,
+                                        0.1 Mb
+                                        , Опубликовано: 30.11.2012 12:00                                        ,<br>Доступно до: 30.11.2013                                    </dd>
+                                                                        <dt><span class="icon-pdf"></span><a href="/upload/iblock/beb/beb21e2bcaa3c0ad646e6287a81715e0.pdf" target="_blank" tabindex="-1">Расчет размера собственных средств на 30.09.2012 г.</a></dt>
+                                    <dd>
+                                        PDF,
+                                        0.1 Mb
+                                        , Опубликовано: 30.10.2012 12:00                                        ,<br>Доступно до: 31.10.2013                                    </dd>
+                                                                        <dt><span class="icon-pdf"></span><a href="/upload/iblock/65d/65d2615ab813d7d49dac5cf2622d8b9c.pdf" target="_blank" tabindex="-1">Расчет размера собственных средств на 31.08.2012 г.</a></dt>
+                                    <dd>
+                                        PDF,
+                                        0.1 Mb
+                                        , Опубликовано: 26.09.2012 18:00                                        ,<br>Доступно до: 30.09.2013                                    </dd>
+                                                                        <dt><span class="icon-pdf"></span><a href="/upload/iblock/05a/05a57473c7bfffdb01d074a9ab9b6173.pdf" target="_blank" tabindex="-1">Расчет размера собственных средств на 31.07.2012 г.</a></dt>
+                                    <dd>
+                                        PDF,
+                                        0.1 Mb
+                                        , Опубликовано: 30.08.2012 12:00                                        ,<br>Доступно до: 31.08.2013                                    </dd>
+                                                                        <dt><span class="icon-pdf"></span><a href="/upload/iblock/dc2/dc241c4ca673843cfdf046ce95c1417c.pdf" target="_blank" tabindex="-1">Расчет размера собственных средств на 30.06.2012 г. </a></dt>
+                                    <dd>
+                                        PDF,
+                                        0.1 Mb
+                                        , Опубликовано: 27.07.2012 17:00                                        ,<br>Доступно до: 31.07.2013                                    </dd>
+                                                                        <dt><span class="icon-pdf"></span><a href="/upload/iblock/540/54075025a318ed95b81e0cf3640d3d83.pdf" target="_blank" tabindex="-1">Расчет размера собственных средств на 31.05.2012 г. </a></dt>
+                                    <dd>
+                                        PDF,
+                                        0.1 Mb
+                                        , Опубликовано: 29.06.2012 19:00                                        ,<br>Доступно до: 30.06.2013                                    </dd>
+                                                                        <dt><span class="icon-pdf"></span><a href="/upload/iblock/962/9620fd376bd1df4f68f7ce670f5ebe0e.pdf" target="_blank" tabindex="-1">Расчет размера собственных средств на 30.04.2012 г.</a></dt>
+                                    <dd>
+                                        PDF,
+                                        0.1 Mb
+                                        , Опубликовано: 30.05.2012 15:00                                        ,<br>Доступно до: 31.05.2013                                    </dd>
+                                                                        <dt><span class="icon-pdf"></span><a href="/upload/iblock/fd9/fd9cc772910d6f4feac55ffa8666f811.pdf" target="_blank" tabindex="-1">Расчет размера собственных средств на 31.03.2012 г.</a></dt>
+                                    <dd>
+                                        PDF,
+                                        0.1 Mb
+                                        , Опубликовано: 28.04.2012 15:00                                        ,<br>Доступно до: 30.04.2013                                    </dd>
+                                                                        <dt><span class="icon-pdf"></span><a href="/upload/iblock/271/271eb178db1156f24e7f65ff8e640ade.pdf" target="_blank" tabindex="-1">Расчет размера собственных средств на 29.02.2012 г.</a></dt>
+                                    <dd>
+                                        PDF,
+                                        0.1 Mb
+                                        , Опубликовано: 30.03.2012 16:00                                        ,<br>Доступно до: 31.03.2013                                    </dd>
+                                                                        <dt><span class="icon-pdf"></span><a href="/upload/iblock/43c/43c1d9ef6f23241371d263020eb6835e.pdf" target="_blank" tabindex="-1">Расчет размера собственных средств на 31.01.2012 г. </a></dt>
+                                    <dd>
+                                        PDF,
+                                        0.1 Mb
+                                        , Опубликовано: 29.02.2012 12:00                                        ,<br>Доступно до: 28.02.2013                                    </dd>
+                                                                </dl>
+
+                            <!--FIRST WAY-->
+                            
+                        </div>
+                    </li><li class="gallery-item slick-slide" style="min-height: 1800px; height: 1800px; width: 780px; position: relative; left: -9360px; top: 0px; z-index: 998; opacity: 0;" data-slick-index="12" aria-hidden="true" tabindex="-1" role="option" aria-describedby="slick-slide012">
+                        <div class="report-item">
+                            <dl class="related-materials">
+                                                                    <dt><span class="icon-pdf"></span><a href="/upload/iblock/7c9/7c9af778413e2c36b88cea89e8d6cad6.pdf" target="_blank" tabindex="-1">Расчет размера собственных средств на 31.01.2011 г.</a></dt>
+                                    <dd>
+                                        PDF,
+                                        0.1 Mb
+                                        , Опубликовано: 28.02.2011 19:00                                        ,<br>Доступно до: 28.02.2012                                    </dd>
+                                                                        <dt><span class="icon-pdf"></span><a href="/upload/iblock/5be/5bedb2b5142aec7d5681fb828d821f3d.pdf" target="_blank" tabindex="-1">Расчет размера собственных средств на 28.02.2011 г.</a></dt>
+                                    <dd>
+                                        PDF,
+                                        0.1 Mb
+                                        , Опубликовано: 31.03.2011 19:00                                        ,<br>Доступно до: 31.03.2012                                    </dd>
+                                                                        <dt><span class="icon-pdf"></span><a href="/upload/iblock/f29/f29b07e6afffddc0d9db07e3a0feff2b.pdf" target="_blank" tabindex="-1">Расчет размера собственных средств на 31.03.2011 г.</a></dt>
+                                    <dd>
+                                        PDF,
+                                        0.1 Mb
+                                        , Опубликовано: 29.04.2011 19:00                                        ,<br>Доступно до: 30.04.2012                                    </dd>
+                                                                        <dt><span class="icon-pdf"></span><a href="/upload/iblock/ef7/ef7671881f974d4691f1b01173fd9c4a.pdf" target="_blank" tabindex="-1">Расчет размера собственных средств на 30.04.2011 г. </a></dt>
+                                    <dd>
+                                        PDF,
+                                        0.1 Mb
+                                        , Опубликовано: 31.05.2011 19:00                                        ,<br>Доступно до: 31.05.2012                                    </dd>
+                                                                        <dt><span class="icon-pdf"></span><a href="/upload/iblock/379/3796533a7831a1f1691585af8111d1c8.pdf" target="_blank" tabindex="-1">Расчет размера собственных средств на 31.05.2011 г.</a></dt>
+                                    <dd>
+                                        PDF,
+                                        0.1 Mb
+                                        , Опубликовано: 30.06.2011 19:00                                        ,<br>Доступно до: 30.06.2012                                    </dd>
+                                                                        <dt><span class="icon-pdf"></span><a href="/upload/iblock/dbe/dbec92c5aa36fbff320a3531b8b8dc90.pdf" target="_blank" tabindex="-1">Расчет размера собственных средств на 30.06.2011 г. </a></dt>
+                                    <dd>
+                                        PDF,
+                                        0.1 Mb
+                                        , Опубликовано: 29.07.2011 19:00                                        ,<br>Доступно до: 31.07.2012                                    </dd>
+                                                                        <dt><span class="icon-pdf"></span><a href="/upload/iblock/54e/54e583af0e9434bf85c77fa6e61f0e3a.pdf" target="_blank" tabindex="-1">Расчет размера собственных средств на 31.07.2011 г. </a></dt>
+                                    <dd>
+                                        PDF,
+                                        0.1 Mb
+                                        , Опубликовано: 30.08.2011 19:00                                        ,<br>Доступно до: 31.08.2012                                    </dd>
+                                                                        <dt><span class="icon-pdf"></span><a href="/upload/iblock/304/3047298d568baa01762464c4eb17f08c.pdf" target="_blank" tabindex="-1">Расчет размера собственных средств на 31.08.2011 г. </a></dt>
+                                    <dd>
+                                        PDF,
+                                        0.1 Mb
+                                        , Опубликовано: 30.09.2011 19:00                                        ,<br>Доступно до: 30.09.2012                                    </dd>
+                                                                        <dt><span class="icon-pdf"></span><a href="/upload/iblock/26a/26a6082aee164dc2a3676451643929fe.pdf" target="_blank" tabindex="-1">Расчет размера собственных средств на 30.09.2011 г.</a></dt>
+                                    <dd>
+                                        PDF,
+                                        0.1 Mb
+                                        , Опубликовано: 31.10.2011 15:00                                        ,<br>Доступно до: 31.10.2012                                    </dd>
+                                                                        <dt><span class="icon-pdf"></span><a href="/upload/iblock/818/81829c3ddd0889725f91ff20ae63a64c.pdf" target="_blank" tabindex="-1">Расчет размера собственных средств на 31.10.2011 г.</a></dt>
+                                    <dd>
+                                        PDF,
+                                        0.1 Mb
+                                        , Опубликовано: 30.11.2011 17:00                                        ,<br>Доступно до: 30.11.2012                                    </dd>
+                                                                        <dt><span class="icon-pdf"></span><a href="/upload/iblock/bad/badfdd414206a7e8b39712ba4f26d472.pdf" target="_blank" tabindex="-1">Расчет размера собственных средств на 30.11.2011 г.</a></dt>
+                                    <dd>
+                                        PDF,
+                                        0.1 Mb
+                                        , Опубликовано: 30.12.2011 12:00                                        ,<br>Доступно до: 31.12.2012                                    </dd>
+                                                                        <dt><span class="icon-pdf"></span><a href="/upload/iblock/d73/d73d94f8d10335d5c5f18f2b3fc9400f.pdf" target="_blank" tabindex="-1">Расчет размера собственных средств на 31.12.2011 г.</a></dt>
+                                    <dd>
+                                        PDF,
+                                        0.1 Mb
+                                        , Опубликовано: 31.01.2012 12:00                                        ,<br>Доступно до: 31.01.2013                                    </dd>
+                                                                </dl>
+
+                            <!--FIRST WAY-->
+                            
+                        </div>
+                    </li><li class="gallery-item slick-slide" style="min-height: 1800px; height: 1800px; width: 780px; position: relative; left: -10140px; top: 0px; z-index: 998; opacity: 0;" data-slick-index="13" aria-hidden="true" tabindex="-1" role="option" aria-describedby="slick-slide013">
+                        <div class="report-item">
+                            <dl class="related-materials">
+                                                                    <dt><span class="icon-pdf"></span><a href="/upload/iblock/9c9/9c9706f92b78d390f8cd4fa1b23df73b.pdf" target="_blank" tabindex="-1">Расчет размера собственных средств на 30.12.2010 г. </a></dt>
+                                    <dd>
+                                        PDF,
+                                        0.1 Mb
+                                        , Опубликовано: 31.01.2011 10:32                                        ,<br>Доступно до: 31.01.2012                                    </dd>
+                                                                        <dt><span class="icon-pdf"></span><a href="/upload/iblock/a41/a41bfb93693647b650af4903e31cc8c4.pdf" target="_blank" tabindex="-1">Расчет размера собственных средств на 30.11.2010 г.</a></dt>
+                                    <dd>
+                                        PDF,
+                                        0.1 Mb
+                                        , Опубликовано: 30.12.2010 12:32                                        ,<br>Доступно до: 31.12.2011                                    </dd>
+                                                                        <dt><span class="icon-pdf"></span><a href="/upload/iblock/f24/f24437f611930fde20fef9374c1c466a.pdf" target="_blank" tabindex="-1">Расчет размера собственных средств на 31.10.2010 г.</a></dt>
+                                    <dd>
+                                        PDF,
+                                        0.1 Mb
+                                        , Опубликовано: 30.11.2010 16:45                                        ,<br>Доступно до: 30.11.2011                                    </dd>
+                                                                        <dt><span class="icon-pdf"></span><a href="/upload/iblock/507/5076d062b3846cc5fc267663ea31fc86.pdf" target="_blank" tabindex="-1">Расчет размера собственных средств на 30.09.2010 г.</a></dt>
+                                    <dd>
+                                        PDF,
+                                        0.1 Mb
+                                        , Опубликовано: 27.10.2010 16:25                                        ,<br>Доступно до: 31.10.2011                                    </dd>
+                                                                        <dt><span class="icon-pdf"></span><a href="/upload/iblock/20d/20dab74ceade791473d22031011c8610.pdf" target="_blank" tabindex="-1">Расчет размера собственных средств на 31.08.2010 г.</a></dt>
+                                    <dd>
+                                        PDF,
+                                        0.1 Mb
+                                        , Опубликовано: 30.09.2010 11:45                                        ,<br>Доступно до: 30.09.2011                                    </dd>
+                                                                        <dt><span class="icon-pdf"></span><a href="/upload/iblock/5ff/5fff8732d0a0f0b410733a0cced75d12.pdf" target="_blank" tabindex="-1">Расчет размера собственных средств на 31.07.2010 г. </a></dt>
+                                    <dd>
+                                        PDF,
+                                        0.1 Mb
+                                        , Опубликовано: 31.08.2010 11:55                                        ,<br>Доступно до: 31.08.2011                                    </dd>
+                                                                        <dt><span class="icon-pdf"></span><a href="/upload/iblock/ae5/ae58980ffaba06c34e3c33a4a00c4494.pdf" target="_blank" tabindex="-1">Расчет размера собственных средств на 30.06.2010 г. </a></dt>
+                                    <dd>
+                                        PDF,
+                                        0.1 Mb
+                                        , Опубликовано: 29.07.2010 12:10                                        ,<br>Доступно до: 31.07.2011                                    </dd>
+                                                                        <dt><span class="icon-pdf"></span><a href="/upload/iblock/763/763ff79ca73bba2518effe9d00142cdd.pdf" target="_blank" tabindex="-1">Расчет размера собственных средств на 31.05.2010 г.</a></dt>
+                                    <dd>
+                                        PDF,
+                                        0.1 Mb
+                                        , Опубликовано: 28.06.2010 10:00                                        ,<br>Доступно до: 30.06.2011                                    </dd>
+                                                                        <dt><span class="icon-pdf"></span><a href="/upload/iblock/6d4/6d428f533a334aea1bfd6cbf0192a9e5.pdf" target="_blank" tabindex="-1">Расчет размера собственных средств на 30.04.2010 г.</a></dt>
+                                    <dd>
+                                        PDF,
+                                        0.1 Mb
+                                        , Опубликовано: 19.05.2010 14:40                                        ,<br>Доступно до: 31.05.2011                                    </dd>
+                                                                        <dt><span class="icon-pdf"></span><a href="/upload/iblock/4fe/4fe98eb7fa6e74a08cff863f4cef3ebc.pdf" target="_blank" tabindex="-1">Расчет размера собственных средств на 31.03.2010 г. </a></dt>
+                                    <dd>
+                                        PDF,
+                                        0.1 Mb
+                                        , Опубликовано: 30.04.2010 11:29                                        ,<br>Доступно до: 30.04.2011                                    </dd>
+                                                                        <dt><span class="icon-pdf"></span><a href="/upload/iblock/ef2/ef2d17c508cb350692846eb46200a3a0.pdf" target="_blank" tabindex="-1">Расчет размера собственных средств на 28.02.2010 г.</a></dt>
+                                    <dd>
+                                        PDF,
+                                        0.1 Mb
+                                        , Опубликовано: 30.03.2010 15:50                                        ,<br>Доступно до: 31.03.2011                                    </dd>
+                                                                        <dt><span class="icon-pdf"></span><a href="/upload/iblock/d05/d059b08c7dbedb2df0188b498385185a.pdf" target="_blank" tabindex="-1">Расчет размера собственных средств на 31.01.2010 г.</a></dt>
+                                    <dd>
+                                        PDF,
+                                        0.1 Mb
+                                        , Опубликовано: 01.03.2010 17:00                                        ,<br>Доступно до: 01.03.2011                                    </dd>
+                                                                </dl>
+
+                            <!--FIRST WAY-->
+                            
+                        </div>
+                    </li><li class="gallery-item slick-slide" style="min-height: 1800px; height: 1800px; width: 780px; position: relative; left: -10920px; top: 0px; z-index: 998; opacity: 0;" data-slick-index="14" aria-hidden="true" tabindex="-1" role="option" aria-describedby="slick-slide014">
+                        <div class="report-item">
+                            <dl class="related-materials">
+                                                                    <dt><span class="icon-pdf"></span><a href="/upload/iblock/27e/27ef6529d3ebc4e50369ecd3434537a0.pdf" target="_blank" tabindex="-1">Расчет размера собственных средств на 31.12.2009 г. </a></dt>
+                                    <dd>
+                                        PDF,
+                                        0.1 Mb
+                                        , Опубликовано: 28.01.2010 11:03                                        ,<br>Доступно до: 31.01.2011                                    </dd>
+                                                                        <dt><span class="icon-pdf"></span><a href="/upload/iblock/98c/98c26240c3504727bd3d574a365baa87.pdf" target="_blank" tabindex="-1">Расчет размера собственных средств на 30.11.2009 г.</a></dt>
+                                    <dd>
+                                        PDF,
+                                        0.1 Mb
+                                        , Опубликовано: 29.12.2009 17:10                                        ,<br>Доступно до: 31.12.2010                                    </dd>
+                                                                        <dt><span class="icon-pdf"></span><a href="/upload/iblock/b36/b36f1f7dfea96a745e666dc640623242.pdf" target="_blank" tabindex="-1">Расчет размера собственных средств на 31.10.2009 г.</a></dt>
+                                    <dd>
+                                        PDF,
+                                        0.1 Mb
+                                        , Опубликовано: 25.11.2009 11:43                                        ,<br>Доступно до: 30.11.2010                                    </dd>
+                                                                        <dt><span class="icon-pdf"></span><a href="/upload/iblock/ba9/ba915a236798bb5aebbc1a8c797ffb4a.pdf" target="_blank" tabindex="-1">Расчет размера собственных средств на 30.09.2009 г. </a></dt>
+                                    <dd>
+                                        PDF,
+                                        0.1 Mb
+                                        , Опубликовано: 28.10.2009 10:52                                        ,<br>Доступно до: 31.10.2010                                    </dd>
+                                                                        <dt><span class="icon-pdf"></span><a href="/upload/iblock/571/571a103ae7eb97999782ab61d2d92e68.pdf" target="_blank" tabindex="-1">Расчет размера собственных средств на 31.08.2009 г.</a></dt>
+                                    <dd>
+                                        PDF,
+                                        0.1 Mb
+                                        , Опубликовано: 28.09.2009 17:17                                        ,<br>Доступно до: 30.09.2010                                    </dd>
+                                                                        <dt><span class="icon-pdf"></span><a href="/upload/iblock/f2d/f2ddae4300e1d2724dc1fffb36590dc9.pdf" target="_blank" tabindex="-1">Расчет размера собственных средств на 31.07.2009 г.</a></dt>
+                                    <dd>
+                                        PDF,
+                                        0.1 Mb
+                                        , Опубликовано: 28.08.2009 13:33                                        ,<br>Доступно до: 31.08.2010                                    </dd>
+                                                                </dl>
+
+                            <!--FIRST WAY-->
+                            
+                        </div>
+                    </li></div></div>
+                                    
+                                    
+                                    
+                                    
+                                    
+                                    
+                                    
+                                    
+                                    
+                                    
+                                    
+                                    
+                                    
+                                    
+                            <ul class="slick-dots" style="display: flex;" role="tablist"><li class="slick-active" aria-hidden="false" role="presentation" aria-selected="true" aria-controls="navigation00" id="slick-slide00"><button type="button" data-role="none" role="button" aria-required="false" tabindex="0">1</button></li><li aria-hidden="true" role="presentation" aria-selected="false" aria-controls="navigation01" id="slick-slide01"><button type="button" data-role="none" role="button" aria-required="false" tabindex="0">2</button></li><li aria-hidden="true" role="presentation" aria-selected="false" aria-controls="navigation02" id="slick-slide02"><button type="button" data-role="none" role="button" aria-required="false" tabindex="0">3</button></li><li aria-hidden="true" role="presentation" aria-selected="false" aria-controls="navigation03" id="slick-slide03"><button type="button" data-role="none" role="button" aria-required="false" tabindex="0">4</button></li><li aria-hidden="true" role="presentation" aria-selected="false" aria-controls="navigation04" id="slick-slide04"><button type="button" data-role="none" role="button" aria-required="false" tabindex="0">5</button></li><li aria-hidden="true" role="presentation" aria-selected="false" aria-controls="navigation05" id="slick-slide05"><button type="button" data-role="none" role="button" aria-required="false" tabindex="0">6</button></li><li aria-hidden="true" role="presentation" aria-selected="false" aria-controls="navigation06" id="slick-slide06"><button type="button" data-role="none" role="button" aria-required="false" tabindex="0">7</button></li><li aria-hidden="true" role="presentation" aria-selected="false" aria-controls="navigation07" id="slick-slide07"><button type="button" data-role="none" role="button" aria-required="false" tabindex="0">8</button></li><li aria-hidden="true" role="presentation" aria-selected="false" aria-controls="navigation08" id="slick-slide08"><button type="button" data-role="none" role="button" aria-required="false" tabindex="0">9</button></li><li aria-hidden="true" role="presentation" aria-selected="false" aria-controls="navigation09" id="slick-slide09"><button type="button" data-role="none" role="button" aria-required="false" tabindex="0">10</button></li><li aria-hidden="true" role="presentation" aria-selected="false" aria-controls="navigation010" id="slick-slide010"><button type="button" data-role="none" role="button" aria-required="false" tabindex="0">11</button></li><li aria-hidden="true" role="presentation" aria-selected="false" aria-controls="navigation011" id="slick-slide011"><button type="button" data-role="none" role="button" aria-required="false" tabindex="0">12</button></li><li aria-hidden="true" role="presentation" aria-selected="false" aria-controls="navigation012" id="slick-slide012"><button type="button" data-role="none" role="button" aria-required="false" tabindex="0">13</button></li><li aria-hidden="true" role="presentation" aria-selected="false" aria-controls="navigation013" id="slick-slide013"><button type="button" data-role="none" role="button" aria-required="false" tabindex="0">14</button></li><li aria-hidden="true" role="presentation" aria-selected="false" aria-controls="navigation014" id="slick-slide014"><button type="button" data-role="none" role="button" aria-required="false" tabindex="0">15</button></li></ul></ul>
+        </div>
+    </div>
+</section>
+<script type="text/javascript">
+    var links = ['http://www.ukkalita.com/upload/iblock/27e/27ef6529d3ebc4e50369ecd3434537a0.pdf','http://www.ukkalita.com/upload/iblock/98c/98c26240c3504727bd3d574a365baa87.pdf','http://www.ukkalita.com/upload/iblock/b36/b36f1f7dfea96a745e666dc640623242.pdf','http://www.ukkalita.com/upload/iblock/ba9/ba915a236798bb5aebbc1a8c797ffb4a.pdf','http://www.ukkalita.com/upload/iblock/571/571a103ae7eb97999782ab61d2d92e68.pdf','http://www.ukkalita.com/upload/iblock/f2d/f2ddae4300e1d2724dc1fffb36590dc9.pdf'];
+
+    function downloadAll(urls) {
+        for (var i = 0; i < urls.length; i++) {
+            window.open(urls[i]);
+        }
+    }
+</script>
+
+        
+
+<div style="font-size:0.9em;background:#f6f6f6;">
+<div class="container">
+<br>
+<p>ООО УК «ДД Калита», (лицензия на осуществление деятельности по управлению инвестиционными фондами, паевыми инвестиционными фондами и негосударственными пенсионными фондами — № 21-000-1-00938 от 02 ноября 2012 года предоставлена Федеральной службой по финансовым рынка$
+
+</p><p>Закрытый паевой инвестиционный фонд недвижимости «Фонд «Реконструкция и Развитие» (Правила доверительного управления фондом зарегистрированы 26 января 2006 г. ФСФР России за № 0465-93297027)</p>
+
+<p>Закрытый паевой инвестиционный фонд недвижимости «Ай Пи Ти – Недвижимость» (Правила доверительного управления фондом зарегистрированы 16 июня 2009 г. ФСФР России за № 1451-94157995)</p>
+
+<p>Стоимость инвестиционных паев может увеличиваться и уменьшаться, результаты инвестирования в прошлом не определяют доходы в будущем, государство не гарантирует доходность инвестиций в паевые инвестиционные фонды. Прежде, чем приобрести инвестиционный пай, следует вни$
+
+</p><p>Получить подробную информацию о Фондах и ознакомиться с Правилами доверительного управления Фондами, с иными документами, предусмотренными Федеральным законом «Об инвестиционных фондах» и нормативными актами в сфере финансовых рынков можно по адресу: 123112, город Мо$
+</p></div>
+</div>
+
+        <!-- *FOOTER*-->
+        <footer class="footer">
+            <div class="container">
+                <div class="row">
+                    <div class="col-lg-8 col-md-8 col-sm-8 col-xs-12">
+                        <p class="copy">
+                             
+                            2015 © Управляющая компания "Деловой дом Калита", все права защищены
+                        </p>
+                    </div>
+                    <div class="col-lg-4 col-md-4 col-sm-4 col-xs-12">
+                                                    <span href="http://binn.ru" title="binn" class="dev-link" target="_blank">Разработка сайта - <span class="icon-dev-logo"></span></span>
+                                            </div>
+                </div>
+            </div>
+        </footer>
+        <!-- /*FOOTER*-->
+        <!-- FOOTER JS INC -->
+        <script src="/bitrix/templates/kalita/js/bundle.js"></script>
+        <script src="/bitrix/templates/kalita/js/vendor/slick.min.js"></script>
+        <script src="/bitrix/templates/kalita/js/vendor/bootstrap.file-input.js"></script>
+        <script src="/bitrix/templates/kalita/js/init.js"></script>
+        <script src="/bitrix/templates/kalita/js/grayscale.js"></script>
+        <script src="/bitrix/templates/kalita/js/functions.js"></script>
+        <script src="/bitrix/templates/kalita/js/morris.min.js"></script>
+        <script src="/bitrix/templates/kalita/js/raphael.min.js"></script>
+
+
+    	<script src="/bitrix/templates/kalita/calculator/jquery.magnific-popup.min.js"></script>
+		<script type="text/javascript">
+		$(document).ready(function() {
+            $('#economic-calculator').magnificPopup({ type: 'ajax', closeBtnInside: true, closeOnContentClick: false, closeOnBgClick: false, });
+        });      
+	   </script>
+        <!-- FOOTER JS INC -->
+        <!--  /*FOOTER* -->
+        <script type="text/javascript">
+            $('#city_list').on('change', function () {
+                var url = '/services/rental/?town=';
+                url += $(this).val();
+                if (url) {
+                    window.location = url;
+                }
+                return false;
+            });
+        </script>
+    
+

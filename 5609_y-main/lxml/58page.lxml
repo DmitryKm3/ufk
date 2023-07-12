@@ -1,0 +1,1929 @@
+
+
+  <div class="page">
+  <div id="panel"></div>
+    <header class="header">
+  <div class="container">
+    <div class="header__top">
+      <div class="header__logo-col">
+        <a href="/" class="header__logo"><img src="/images/logo.svg" alt="логотип Электро стекло" class="header__logo-img"></a>
+      </div>
+
+      <div class="header__content-col">
+        <a href="#modal-call-back" class="button button_outline_primary" data-element="modal-trigger">Обратный звонок</a>
+		<a href="tel:+74957830953" class="header__phone phone link-hidden">+7 (495) 783-09-53</a>      </div>
+
+      <button class="header__nav-toggle hamburger hamburger--spin hidden-lg-up" type="button" data-element="menu-toggle">
+        <span class="hamburger-box">
+          <span class="hamburger-inner"></span>
+        </span>
+      </button>
+    </div>
+
+<nav class="header__nav nav" data-component="menu">
+<ul class="nav__list">
+			<li class="nav__item">
+		<a href="#" class="nav__link   has-menu " data-element="menu-link">О компании</a>
+			<ul class="nav__subnav subnav" data-element="menu-content">
+						  <li class="subnav__item">
+                <a href="/company/about/" class="subnav__link">Об управляющей компании</a>
+              </li>
+						  <li class="subnav__item">
+                <a href="/company/news/" class="subnav__link">Новости</a>
+              </li>
+						  <li class="subnav__item">
+                <a href="/company/info/" class="subnav__link">Раскрытие информации</a>
+              </li>
+						  <li class="subnav__item">
+                <a href="/company/elektronnyiy_dokumentooborot/" class="subnav__link">Электронный документооборот</a>
+              </li>
+					</ul>
+	</li>
+			<li class="nav__item">
+		<a href="/pension_funds/" class="nav__link">Пенсионные фонды</a>
+	</li>
+				<li class="nav__item">
+		<a href="/corporate_clients/" class="nav__link">Паевые инвестиционные фонды</a>
+	</li>
+				<li class="nav__item">
+		<a href="/contacts/" class="nav__link">Контактная информация</a>
+	</li>
+	</ul>
+</nav></div>
+</header>
+
+    <main class="content">
+      <div class="container">
+		<div class="breadcrumb" itemprop="http://schema.org/breadcrumb" itemscope="" itemtype="http://schema.org/BreadcrumbList"><ul class="breadcrumb__list">
+			<li class="breadcrumb__item" id="bx_breadcrumb_0" itemprop="itemListElement" itemscope="" itemtype="http://schema.org/ListItem"><a href="/" title="Главная" itemprop="item" class="breadcrumb__link"><span itemprop="name">Главная</span></a><meta itemprop="position" content="1"></li>
+			<li class="breadcrumb__item" id="bx_breadcrumb_1" itemprop="itemListElement" itemscope="" itemtype="http://schema.org/ListItem"><a href="/company/" title="О компании" itemprop="item" class="breadcrumb__link"><span itemprop="name">О компании</span></a><meta itemprop="position" content="2"></li>
+			<li class="breadcrumb__item" id="bx_breadcrumb_2" itemprop="itemListElement" itemscope="" itemtype="http://schema.org/ListItem"><a href="/company/info/" title="Раскрытие информации" itemprop="item" class="breadcrumb__link"><span itemprop="name">Раскрытие информации</span></a><meta itemprop="position" content="3"></li>
+			<li class="breadcrumb__item"><span>Отчетность управляющей компании</span></li></ul></div>
+		  <h1>Раскрытие информации</h1>
+
+		  				<div class="info tabs row" data-component="tabs">
+<div class="col-xs-12 col-lg-4">
+      <div class="info__select hidden-lg-up">
+		  <div class="custom-select-container customSelect"><span class="custom-select-opener" role="combobox" aria-autocomplete="list" aria-expanded="false" aria-owns="customSelect-kYdk6-panel" aria-activedescendant="customSelect-kYdk6-selectedOption" tabindex="0"><span>Отчетность управляющей компании</span></span><select id="sections" tabindex="-1">
+						<option value="/company/info/otchetnost-upravlyayushchey-kompanii/" selected="">Отчетность управляющей компании</option>
+						<option value="/company/info/raschyet-sobstvennykh-sredstv/">— Расчёт собственных средств</option>
+			<option value="/company/info/bukhgalterskaya-finansovaya-otchyetnost/">— Бухгалтерская (финансовая) отчётность</option>
+									<option value="/company/info/informatsiya-po-paevym-investitsionnym-fondam/">Информация по паевым инвестиционным фондам</option>
+						<option value="/company/info/zpif-kombinirovannyy-klever-sbalansirovannyy/">— ЗПИФ комбинированный "Клевер Сбалансированный"</option>
+			<option value="/company/info/zpif-kombinirovannyy-klever-kollektivnye-investitsii/">— ЗПИФ комбинированный "Клевер Коллективные инвестиции"</option>
+			<option value="/company/info/zpif-kombinirovannyy-klever-invest/">— ЗПИФ комбинированный «Клевер-Инвест»</option>
+			<option value="/company/info/opif-rfi-kollektivnye-investitsii/">— ОПИФ РФИ «Коллективные инвестиции»</option>
+									<option value="/company/info/otchetnost-po-pensionnym-nakopleniyam/">Отчетность по пенсионным накоплениям</option>
+									<option value="/company/info/otchetnost-po-pensionnym-rezervam/">Отчетность по пенсионным резервам</option>
+									<option value="/company/info/informatsionnye-soobshcheniya/">Информационные сообщения</option>
+									<option value="/company/info/perechen-insayderskoy-informatsii/">Перечень инсайдерской информации</option>
+									<option value="/company/info/priznanie-kvalifitsirovannym-investorom/">Признание квалифицированным инвестором</option>
+									<option value="/company/info/rekomendatsii-po-meram-snizheniya-riska-polucheniya-nesanktsionirovannogo-dostupa-k-zashchishchaemoy/">Рекомендации по мерам снижения риска получения несанкционированного доступа к защищаемой информации и защите информации от воздействий вредоносного кода</option>
+									<option value="/company/info/kriterii-otneseniya-klientov-k-kategorii-klienta-insotrannogo-nalogoplatelshchika/">Критерии отнесения клиентов к категории клиента – иноcтранного налогоплательщика</option>
+									<option value="/company/info/uchreditelnye-dokumenty/">Учредительные документы</option>
+						        </select><div id="customSelect-kYdk6-panel" class="custom-select-panel" role="listbox"><div class="custom-select-option is-selected has-focus" data-value="/company/info/otchetnost-upravlyayushchey-kompanii/" role="option" id="customSelect-kYdk6-selectedOption">Отчетность управляющей компании</div><div class="custom-select-option" data-value="/company/info/raschyet-sobstvennykh-sredstv/" role="option">— Расчёт собственных средств</div><div class="custom-select-option" data-value="/company/info/bukhgalterskaya-finansovaya-otchyetnost/" role="option">— Бухгалтерская (финансовая) отчётность</div><div class="custom-select-option" data-value="/company/info/informatsiya-po-paevym-investitsionnym-fondam/" role="option">Информация по паевым инвестиционным фондам</div><div class="custom-select-option" data-value="/company/info/zpif-kombinirovannyy-klever-sbalansirovannyy/" role="option">— ЗПИФ комбинированный "Клевер Сбалансированный"</div><div class="custom-select-option" data-value="/company/info/zpif-kombinirovannyy-klever-kollektivnye-investitsii/" role="option">— ЗПИФ комбинированный "Клевер Коллективные инвестиции"</div><div class="custom-select-option" data-value="/company/info/zpif-kombinirovannyy-klever-invest/" role="option">— ЗПИФ комбинированный «Клевер-Инвест»</div><div class="custom-select-option" data-value="/company/info/opif-rfi-kollektivnye-investitsii/" role="option">— ОПИФ РФИ «Коллективные инвестиции»</div><div class="custom-select-option" data-value="/company/info/otchetnost-po-pensionnym-nakopleniyam/" role="option">Отчетность по пенсионным накоплениям</div><div class="custom-select-option" data-value="/company/info/otchetnost-po-pensionnym-rezervam/" role="option">Отчетность по пенсионным резервам</div><div class="custom-select-option" data-value="/company/info/informatsionnye-soobshcheniya/" role="option">Информационные сообщения</div><div class="custom-select-option" data-value="/company/info/perechen-insayderskoy-informatsii/" role="option">Перечень инсайдерской информации</div><div class="custom-select-option" data-value="/company/info/priznanie-kvalifitsirovannym-investorom/" role="option">Признание квалифицированным инвестором</div><div class="custom-select-option" data-value="/company/info/rekomendatsii-po-meram-snizheniya-riska-polucheniya-nesanktsionirovannogo-dostupa-k-zashchishchaemoy/" role="option">Рекомендации по мерам снижения риска получения несанкционированного доступа к защищаемой информации и защите информации от воздействий вредоносного кода</div><div class="custom-select-option" data-value="/company/info/kriterii-otneseniya-klientov-k-kategorii-klienta-insotrannogo-nalogoplatelshchika/" role="option">Критерии отнесения клиентов к категории клиента – иноcтранного налогоплательщика</div><div class="custom-select-option" data-value="/company/info/uchreditelnye-dokumenty/" role="option">Учредительные документы</div></div></div>
+      </div>
+      <ul class="tabs__list hidden-md-down">
+			          <li class="tabs__item h4">
+				<a href="#" onclick="document.location='/company/info/otchetnost-upravlyayushchey-kompanii/';" class="tabs__link is-active">Отчетность управляющей компании</a>
+								<div class="subsection">
+					<a href="/company/info/raschyet-sobstvennykh-sredstv/">Расчёт собственных средств</a>
+					<a href="/company/info/bukhgalterskaya-finansovaya-otchyetnost/">Бухгалтерская (финансовая) отчётность</a>
+				</div>
+				          </li>
+			          <li class="tabs__item h4">
+				<a href="#" onclick="document.location='/company/info/informatsiya-po-paevym-investitsionnym-fondam/';" class="tabs__link">Информация по паевым инвестиционным фондам</a>
+								<div class="subsection">
+					<a href="/company/info/zpif-kombinirovannyy-klever-sbalansirovannyy/">ЗПИФ комбинированный "Клевер Сбалансированный"</a>
+					<a href="/company/info/zpif-kombinirovannyy-klever-kollektivnye-investitsii/">ЗПИФ комбинированный "Клевер Коллективные инвестиции"</a>
+					<a href="/company/info/zpif-kombinirovannyy-klever-invest/">ЗПИФ комбинированный «Клевер-Инвест»</a>
+					<a href="/company/info/opif-rfi-kollektivnye-investitsii/">ОПИФ РФИ «Коллективные инвестиции»</a>
+				</div>
+				          </li>
+			          <li class="tabs__item h4">
+				<a href="#" onclick="document.location='/company/info/otchetnost-po-pensionnym-nakopleniyam/';" class="tabs__link">Отчетность по пенсионным накоплениям</a>
+				          </li>
+			          <li class="tabs__item h4">
+				<a href="#" onclick="document.location='/company/info/otchetnost-po-pensionnym-rezervam/';" class="tabs__link">Отчетность по пенсионным резервам</a>
+				          </li>
+			          <li class="tabs__item h4">
+				<a href="#" onclick="document.location='/company/info/informatsionnye-soobshcheniya/';" class="tabs__link">Информационные сообщения</a>
+				          </li>
+			          <li class="tabs__item h4">
+				<a href="#" onclick="document.location='/company/info/perechen-insayderskoy-informatsii/';" class="tabs__link">Перечень инсайдерской информации</a>
+				          </li>
+			          <li class="tabs__item h4">
+				<a href="#" onclick="document.location='/company/info/priznanie-kvalifitsirovannym-investorom/';" class="tabs__link">Признание квалифицированным инвестором</a>
+				          </li>
+			          <li class="tabs__item h4">
+				<a href="#" onclick="document.location='/company/info/rekomendatsii-po-meram-snizheniya-riska-polucheniya-nesanktsionirovannogo-dostupa-k-zashchishchaemoy/';" class="tabs__link">Рекомендации по мерам снижения риска получения несанкционированного доступа к защищаемой информации и защите информации от воздействий вредоносного кода</a>
+				          </li>
+			          <li class="tabs__item h4">
+				<a href="#" onclick="document.location='/company/info/kriterii-otneseniya-klientov-k-kategorii-klienta-insotrannogo-nalogoplatelshchika/';" class="tabs__link">Критерии отнесения клиентов к категории клиента – иноcтранного налогоплательщика</a>
+				          </li>
+			          <li class="tabs__item h4">
+				<a href="#" onclick="document.location='/company/info/uchreditelnye-dokumenty/';" class="tabs__link">Учредительные документы</a>
+				          </li>
+				  </ul>
+</div>
+<script>
+	$(document).ready(function(){
+		$('#sections').change(function(){
+			document.location=$(this).val();
+		});
+	});
+</script><script>
+	$(document).ready(function(){
+		$('.yearlink').click(function(e){
+			e.preventDefault();
+			$('.yearlink, .tabs__tab').removeClass('is-active');
+			$(this).addClass('is-active');
+			var id = $(this).attr('href');
+			console.log(id);
+			$(id).addClass('is-active');
+		});
+	})
+</script>
+<div class="tabs__content col-xs-12 col-lg-8">
+		<a href="#info-0" class="yearlink is-active">2023</a>		<a href="#info-1" class="yearlink">2022</a>		<a href="#info-2" class="yearlink">2021</a>		<a href="#info-3" class="yearlink">2020</a>		<a href="#info-4" class="yearlink">2019</a>		<a href="#info-5" class="yearlink">2018</a>		<a href="#info-6" class="yearlink">2017</a>		<a href="#info-7" class="yearlink">2016</a>		<a href="#info-8" class="yearlink">2015</a>		<a href="#info-9" class="yearlink">2014</a>		<a href="#info-10" class="yearlink">2013</a>					<div class="tabs__tab is-active" role="tabpanel" data-id="info-0" id="info-0">
+		         <ul class="files">
+			              <li class="files__item file">
+                <i class="file__icon icon-pdf"></i>
+                <div class="file__content">
+					<a href="/upload/iblock/16a/o4i4m1u9lx9kqlhnnhnfwolixw8ju45g.pdf" class="file__name">Размер собственных средств ООО УК ЭСЭ Управление активами по состоянию на 31.05.2023</a>
+					<span class="file__info">.pdf, 152 KB, 16.06.2023 16:26:00. Доступен: не менее 3 лет с даты раскрытия</span>
+                </div>
+              </li>
+			              <li class="files__item file">
+                <i class="file__icon icon-pdf"></i>
+                <div class="file__content">
+					<a href="/upload/iblock/9af/61cfe0hup35kg2df01o90dj89qfsr8cf.pdf" class="file__name">Размер собственных средств ООО УК ЭСЭ Управление активами по состоянию на 30.04.2023_корректировка</a>
+					<span class="file__info">.pdf, 152 KB, 14.06.2023 14:06:00. Доступен: не менее 3 лет с даты раскрытия</span>
+                </div>
+              </li>
+			              <li class="files__item file">
+                <i class="file__icon icon-pdf"></i>
+                <div class="file__content">
+					<a href="/upload/iblock/8df/bk3a62g82yk1jf9k3difafgwmjlpu12s.pdf" class="file__name">Размер собственных средств ООО УК ЭСЭ Управление активами по состоянию на 30.04.2023</a>
+					<span class="file__info">.pdf, 152 KB, 17.05.2023 17:40:00. Доступен: не менее 3 лет с даты раскрытия</span>
+                </div>
+              </li>
+			              <li class="files__item file">
+                <i class="file__icon icon-pdf"></i>
+                <div class="file__content">
+					<a href="/upload/iblock/9c2/cae11j7f8bthjjeba1e2kkavkv17jf42.pdf" class="file__name">Промежуточная бухгалтерская (финансовая) отчётность управляющей компании за 1 квартал 2023 года</a>
+					<span class="file__info">.pdf, 395 KB, 28.04.2023 16:47:00. Доступен: не менее 3 лет с даты раскрытия</span>
+                </div>
+              </li>
+			              <li class="files__item file">
+                <i class="file__icon icon-pdf"></i>
+                <div class="file__content">
+					<a href="/upload/iblock/175/x1v19czrla1kj3m190ilb5rruo1nalvx.pdf" class="file__name">Размер собственных средств ООО УК ЭСЭ Управление активами по состоянию на 31.03.2023</a>
+					<span class="file__info">.pdf, 151 KB, 17.04.2023 11:10:00. Доступен: не менее 3 лет с даты раскрытия</span>
+                </div>
+              </li>
+			              <li class="files__item file">
+                <i class="file__icon icon-pdf"></i>
+                <div class="file__content">
+					<a href="/upload/iblock/9ee/mlj2hecy44c9783s0jl16k20tnftn2go.pdf" class="file__name">Размер собственных средств ООО УК ЭСЭ Управление активами по состоянию на 28.02.2023</a>
+					<span class="file__info">.pdf, 150 KB, 17.03.2023 11:07:00. Доступен: не менее 3 лет с даты раскрытия</span>
+                </div>
+              </li>
+			              <li class="files__item file">
+                <i class="file__icon icon-pdf"></i>
+                <div class="file__content">
+					<a href="/upload/iblock/d12/0fp0zzbzj7ej8otmo2n74wo439e7mi8m.pdf" class="file__name">Размер собственных средств ООО УК ЭСЭ Управление активами по состоянию на 31.01.2023</a>
+					<span class="file__info">.pdf, 151 KB, 14.02.2023 15:45:00. Доступен: не менее 3 лет с даты раскрытия</span>
+                </div>
+              </li>
+					</ul>
+			</div>
+		<div class="tabs__tab" role="tabpanel" data-id="info-1" id="info-1">
+		         <ul class="files">
+			              <li class="files__item file">
+                <i class="file__icon icon-pdf"></i>
+                <div class="file__content">
+					<a href="/upload/iblock/492/yzkdshl8wo1t2j6qmlplg6gjpkewn80d.pdf" class="file__name">Аудиторское заключение о финансовой отчетности МСФО за 2022 год</a>
+					<span class="file__info">.pdf, 2947 KB, 28.04.2023 12:39:00. Доступен: не менее 3 лет с даты раскрытия</span>
+                </div>
+              </li>
+			              <li class="files__item file">
+                <i class="file__icon icon-pdf"></i>
+                <div class="file__content">
+					<a href="/upload/iblock/c3e/wfy52tr2x2sexky30xyhd1xc2nqgvctf.pdf" class="file__name">Финансовая отчетность МСФО за 2022 год</a>
+					<span class="file__info">.pdf, 1605 KB, 28.04.2023 12:39:00. Доступен: не менее 3 лет с даты раскрытия</span>
+                </div>
+              </li>
+			              <li class="files__item file">
+                <i class="file__icon icon-pdf"></i>
+                <div class="file__content">
+					<a href="/upload/iblock/0b4/92i0i1itgb1opx5w0w3tpux5datoqkez.pdf" class="file__name">Аудиторское заключение 2022 год</a>
+					<span class="file__info">.pdf, 9853 KB, 29.03.2023 20:14:00. Доступен: не менее 3 лет с даты раскрытия</span>
+                </div>
+              </li>
+			              <li class="files__item file">
+                <i class="file__icon icon-pdf"></i>
+                <div class="file__content">
+					<a href="/upload/iblock/106/r735zxmd3jhay3njyr46wb8vekzmm2gg.pdf" class="file__name">Бухгалтерская (финансовая) отчётность управляющей компании за 2022 год (с возможностью копирования)</a>
+					<span class="file__info">.pdf, 810 KB, 29.03.2023 20:11:00. Доступен: не менее 3 лет с даты раскрытия</span>
+                </div>
+              </li>
+			              <li class="files__item file">
+                <i class="file__icon icon-pdf"></i>
+                <div class="file__content">
+					<a href="/upload/iblock/490/bq2kjm2aji5l1yuxec1tacnoxghevmmg.pdf" class="file__name">Размер собственных средств ООО УК ЭСЭ Управление активами по состоянию на 31.12.2022</a>
+					<span class="file__info">.pdf, 151 KB, 24.01.2023 14:54:00. Доступен: не менее 3 лет с даты раскрытия</span>
+                </div>
+              </li>
+			              <li class="files__item file">
+                <i class="file__icon icon-pdf"></i>
+                <div class="file__content">
+					<a href="/upload/iblock/ea6/jorfmv60ojn07pmky8c90oix4ldrldcs.pdf" class="file__name">Размер собственных средств ООО УК ЭСЭ Управление активами по состоянию на 30.11.2022</a>
+					<span class="file__info">.pdf, 151 KB, 14.12.2022 13:43:00. Доступен: не менее 3 лет с даты раскрытия</span>
+                </div>
+              </li>
+			              <li class="files__item file">
+                <i class="file__icon icon-pdf"></i>
+                <div class="file__content">
+					<a href="/upload/iblock/6a6/1hbabq4amy8evdvapzo4q7x0kcdybnht.pdf" class="file__name">Размер собственных средств ООО УК ЭСЭ Управление активами по состоянию на 31.10.2022</a>
+					<span class="file__info">.pdf, 151 KB, 17.11.2022 13:21:00. Доступен: не менее 3 лет с даты раскрытия</span>
+                </div>
+              </li>
+			              <li class="files__item file">
+                <i class="file__icon icon-pdf"></i>
+                <div class="file__content">
+					<a href="/upload/iblock/7c9/ydeq13gqtvsmp6yc3u2o11ewdcjepwg1.pdf" class="file__name">Промежуточная бухгалтерская (финансовая) отчётность управляющей компании за 9 месяцев 2022 года</a>
+					<span class="file__info">.pdf, 417 KB, 26.10.2022 11:55:00. Доступен: не менее 3 лет с даты раскрытия</span>
+                </div>
+              </li>
+			              <li class="files__item file">
+                <i class="file__icon icon-pdf"></i>
+                <div class="file__content">
+					<a href="/upload/iblock/c04/fry7ex4vf5ybb4352ydfeyo6t866yqms.pdf" class="file__name">Размер собственных средств ООО УК ЭСЭ Управление активами по состоянию на 30.09.2022</a>
+					<span class="file__info">.pdf, 151 KB, 14.10.2022 18:14:00. Доступен: не менее 3 лет с даты раскрытия</span>
+                </div>
+              </li>
+			              <li class="files__item file">
+                <i class="file__icon icon-pdf"></i>
+                <div class="file__content">
+					<a href="/upload/iblock/edb/mbak3viu4rzxeks799ngfuizo8oomdns.pdf" class="file__name">Размер собственных средств ООО УК ЭСЭ Управление активами по состоянию на 31.08.2022</a>
+					<span class="file__info">.pdf, 151 KB, 14.09.2022 17:37:00. Доступен: не менее 3 лет с даты раскрытия</span>
+                </div>
+              </li>
+			              <li class="files__item file">
+                <i class="file__icon icon-pdf"></i>
+                <div class="file__content">
+					<a href="/upload/iblock/bcf/n6xu5oxdcyclt7v3t1olaoqa6857nurv.pdf" class="file__name">Размер собственных средств ООО УК ЭСЭ Управление активами по состоянию на 31.07.2022</a>
+					<span class="file__info">.pdf, 151 KB, 17.08.2022 10:56:00. Доступен: не менее 3 лет с даты раскрытия</span>
+                </div>
+              </li>
+			              <li class="files__item file">
+                <i class="file__icon icon-pdf"></i>
+                <div class="file__content">
+					<a href="/upload/iblock/d90/zz900lmhz3789pgnj48truuplluqx0cr.pdf" class="file__name">Промежуточная бухгалтерская (финансовая) отчётность управляющей компании за 1 полугодие 2022 года</a>
+					<span class="file__info">.pdf, 610 KB, 26.07.2022 19:15:00. Доступен: не менее 3 лет с даты раскрытия</span>
+                </div>
+              </li>
+			              <li class="files__item file">
+                <i class="file__icon icon-pdf"></i>
+                <div class="file__content">
+					<a href="/upload/iblock/3c1/c3qvue8opxvnneltr7h5wi8w4dyj11d1.pdf" class="file__name">Размер собственных средств ООО УК ЭСЭ Управление активами по состоянию на 30.06.2022</a>
+					<span class="file__info">.pdf, 151 KB, 14.07.2022 11:35:00. Доступен: не менее 3 лет с даты раскрытия</span>
+                </div>
+              </li>
+			              <li class="files__item file">
+                <i class="file__icon icon-pdf"></i>
+                <div class="file__content">
+					<a href="/upload/iblock/cad/cad437829cef3158062e9ff9e0021054.pdf" class="file__name">Размер собственных средств ООО УК ЭСЭ Управление активами по состоянию на 31.05.2022</a>
+					<span class="file__info">.pdf, 151 KB, 10.06.2022 09:50:42. Доступен: не менее 3 лет с даты раскрытия</span>
+                </div>
+              </li>
+			              <li class="files__item file">
+                <i class="file__icon icon-pdf"></i>
+                <div class="file__content">
+					<a href="/upload/iblock/1ba/1ba8ee77c3fa107f08851c342c0fd650.pdf" class="file__name">Размер собственных средств ООО УК ЭСЭ Управление активами по состоянию на 30.04.2022</a>
+					<span class="file__info">.pdf, 151 KB, 20.05.2022 14:21:00. Доступен: не менее 3 лет с даты раскрытия</span>
+                </div>
+              </li>
+			              <li class="files__item file">
+                <i class="file__icon icon-pdf"></i>
+                <div class="file__content">
+					<a href="/upload/iblock/0f3/0f3382ee53c70095a9d36834e58cee4f.pdf" class="file__name">Промежуточная бухгалтерская (финансовая) отчётность управляющей компании за 1 квартал 2022 года</a>
+					<span class="file__info">.pdf, 454 KB, 28.04.2022 12:05:00. Доступен: не менее 3 лет с даты раскрытия</span>
+                </div>
+              </li>
+			              <li class="files__item file">
+                <i class="file__icon icon-pdf"></i>
+                <div class="file__content">
+					<a href="/upload/iblock/fdb/fdb1a30d0fd5faaeda97872652d13077.pdf" class="file__name">Размер собственных средств ООО УК ЭСЭ Управление активами по состоянию на 31.03.2022</a>
+					<span class="file__info">.pdf, 151 KB, 15.04.2022 11:51:00. Доступен: не менее 3 лет с даты раскрытия</span>
+                </div>
+              </li>
+			              <li class="files__item file">
+                <i class="file__icon icon-pdf"></i>
+                <div class="file__content">
+					<a href="/upload/iblock/1e6/1e648fa225e1399e86705492cb9df7d5.pdf" class="file__name">Размер собственных средств ООО УК ЭСЭ Управление активами по состоянию на 28.02.2022 (корректировка)</a>
+					<span class="file__info">.pdf, 151 KB, 28.03.2022 20:03:00. Доступен: не менее 3 лет с даты раскрытия</span>
+                </div>
+              </li>
+			              <li class="files__item file">
+                <i class="file__icon icon-pdf"></i>
+                <div class="file__content">
+					<a href="/upload/iblock/4cc/4cc076223ef162ccc4598f3913966900.pdf" class="file__name">Размер собственных средств ООО УК ЭСЭ Управление активами по состоянию на 28.02.2022</a>
+					<span class="file__info">.pdf, 151 KB, 15.03.2022 15:04:00. Доступен: не менее 3 лет с даты раскрытия</span>
+                </div>
+              </li>
+			              <li class="files__item file">
+                <i class="file__icon icon-pdf"></i>
+                <div class="file__content">
+					<a href="/upload/iblock/9f3/9f384c54a1a5a3b96e984deec60082b0.pdf" class="file__name">Размер собственных средств ООО УК ЭСЭ Управление активами по состоянию на 31.01.2022</a>
+					<span class="file__info">.pdf, 151 KB, 11.02.2022 18:49:00. Доступен: не менее 3 лет с даты раскрытия</span>
+                </div>
+              </li>
+					</ul>
+			</div>
+		<div class="tabs__tab" role="tabpanel" data-id="info-2" id="info-2">
+		         <ul class="files">
+			              <li class="files__item file">
+                <i class="file__icon icon-pdf"></i>
+                <div class="file__content">
+					<a href="/upload/iblock/8cb/8cb268b8c2515179d854fcb46796e1f7.pdf" class="file__name">Аудиторское заключение о финансовой отчетности МСФО за 2021 год</a>
+					<span class="file__info">.pdf, 3237 KB, 29.04.2022 19:23:00. Доступен: не менее 3 лет с даты раскрытия</span>
+                </div>
+              </li>
+			              <li class="files__item file">
+                <i class="file__icon icon-pdf"></i>
+                <div class="file__content">
+					<a href="/upload/iblock/fd3/fd3a5fc89fcb591024130bc243d6f3f9.pdf" class="file__name">Финансовая отчетность МСФО за 2021 год (с возможностью копирования)</a>
+					<span class="file__info">.pdf, 568 KB, 29.04.2022 19:22:00. Доступен: не менее 3 лет с даты раскрытия</span>
+                </div>
+              </li>
+			              <li class="files__item file">
+                <i class="file__icon icon-pdf"></i>
+                <div class="file__content">
+					<a href="/upload/iblock/72b/72b34b567939b3cf77c3939fae66a82c.pdf" class="file__name">Финансовая отчетность МСФО за 2021 год</a>
+					<span class="file__info">.pdf, 2476 KB, 29.04.2022 19:21:00. Доступен: не менее 3 лет с даты раскрытия</span>
+                </div>
+              </li>
+			              <li class="files__item file">
+                <i class="file__icon icon-pdf"></i>
+                <div class="file__content">
+					<a href="/upload/iblock/ccb/ccb473614f7aab81fdc8243865faba96.pdf" class="file__name">Бухгалтерская (финансовая) отчётность управляющей компании за 2021 год (с возможностью копирования)</a>
+					<span class="file__info">.pdf, 866 KB, 29.03.2022 19:19:00. Доступен: не менее 3 лет с даты раскрытия</span>
+                </div>
+              </li>
+			              <li class="files__item file">
+                <i class="file__icon icon-pdf"></i>
+                <div class="file__content">
+					<a href="/upload/iblock/bb5/bb50d85e263f888583497efcdd523e38.pdf" class="file__name">Аудиторское заключение 2021 год</a>
+					<span class="file__info">.pdf, 9251 KB, 29.03.2022 13:21:00. Доступен: не менее 3 лет с даты раскрытия</span>
+                </div>
+              </li>
+			              <li class="files__item file">
+                <i class="file__icon icon-pdf"></i>
+                <div class="file__content">
+					<a href="/upload/iblock/822/8220ee9ab395d638332208ac72b79801.pdf" class="file__name">Бухгалтерская (финансовая) отчётность управляющей компании за 2021 год</a>
+					<span class="file__info">.pdf, 7990 KB, 29.03.2022 13:19:00. Доступен: не менее 3 лет с даты раскрытия</span>
+                </div>
+              </li>
+			              <li class="files__item file">
+                <i class="file__icon icon-pdf"></i>
+                <div class="file__content">
+					<a href="/upload/iblock/fb1/fb12ad154b533169f927f4acea0762df.pdf" class="file__name">Размер собственных средств ООО УК ЭСЭ Управление активами по состоянию на 30.11.2021</a>
+					<span class="file__info">.pdf, 151 KB, 14.12.2021 12:42:00. Доступен: в течение трех лет со дня раскрытия</span>
+                </div>
+              </li>
+			              <li class="files__item file">
+                <i class="file__icon icon-pdf"></i>
+                <div class="file__content">
+					<a href="/upload/iblock/6e8/6e832d7461b8502a008f1b2d36104e30.pdf" class="file__name">Размер собственных средств ООО УК ЭСЭ Управление активами по состоянию на 31.10.2021</a>
+					<span class="file__info">.pdf, 150 KB, 22.11.2021 14:31:00. Доступен: в течение трех лет со дня раскрытия</span>
+                </div>
+              </li>
+			              <li class="files__item file">
+                <i class="file__icon icon-pdf"></i>
+                <div class="file__content">
+					<a href="/upload/iblock/a83/a83957e1fb922b9b7a2ab9c6c37e62ae.pdf" class="file__name">Промежуточная бухгалтерская (финансовая) отчётность управляющей компании за 9 месяцев 2021 года</a>
+					<span class="file__info">.pdf, 529 KB, 26.10.2021 12:33:00. Доступен: в течение трех лет со дня раскрытия</span>
+                </div>
+              </li>
+			              <li class="files__item file">
+                <i class="file__icon icon-pdf"></i>
+                <div class="file__content">
+					<a href="/upload/iblock/1fd/1fd98a53c9cc55b775f8b252f03a9cd3.pdf" class="file__name">Размер собственных средств ООО УК ЭСЭ Управление активами по состоянию на 30.09.2021</a>
+					<span class="file__info">.pdf, 155 KB, 14.10.2021 18:52:00. Доступен: в течение трех лет со дня раскрытия</span>
+                </div>
+              </li>
+			              <li class="files__item file">
+                <i class="file__icon icon-pdf"></i>
+                <div class="file__content">
+					<a href="/upload/iblock/0bb/0bb0da5c1cee34d71d8e8a781b6956a6.pdf" class="file__name">Размер собственных средств ООО УК ЭСЭ Управление активами по состоянию на 31.08.2021</a>
+					<span class="file__info">.pdf, 154 KB, 14.09.2021 17:16:00. Доступен: не менее 12 месяцев с даты опубликования</span>
+                </div>
+              </li>
+			              <li class="files__item file">
+                <i class="file__icon icon-pdf"></i>
+                <div class="file__content">
+					<a href="/upload/iblock/476/47669bcc301ee1ca76aae2d6fecb5ce7.pdf" class="file__name">Размер собственных средств ООО УК ЭСЭ Управление активами по состоянию на 31.07.2021</a>
+					<span class="file__info">.pdf, 155 KB, 13.08.2021 12:33:00. Доступен: не менее 12 месяцев с даты опубликования</span>
+                </div>
+              </li>
+			              <li class="files__item file">
+                <i class="file__icon icon-pdf"></i>
+                <div class="file__content">
+					<a href="/upload/iblock/9b8/9b8c559a8eb6f21badabb1cd719a4443.pdf" class="file__name">Промежуточная бухгалтерская (финансовая) отчётность управляющей компании за 1 полугодие 2021 года</a>
+					<span class="file__info">.pdf, 3544 KB, 28.07.2021 13:03:00. Доступен: не менее 3 месяцев с даты опубликования</span>
+                </div>
+              </li>
+			              <li class="files__item file">
+                <i class="file__icon icon-pdf"></i>
+                <div class="file__content">
+					<a href="/upload/iblock/c6f/c6f49eebf3f7fb29b3b575259b59d5ae.pdf" class="file__name">Размер собственных средств ООО УК ЭСЭ Управление активами по состоянию на 30.06.2021</a>
+					<span class="file__info">.pdf, 155 KB, 14.07.2021 15:11:00. Доступен: не менее 12 месяцев с даты опубликования</span>
+                </div>
+              </li>
+			              <li class="files__item file">
+                <i class="file__icon icon-pdf"></i>
+                <div class="file__content">
+					<a href="/upload/iblock/e05/e05729410c9ca0a9bce8e346618cde53.pdf" class="file__name">Размер собственных средств ООО УК ЭСЭ Управление активами по состоянию на 31.05.2021</a>
+					<span class="file__info">.pdf, 155 KB, 15.06.2021 17:01:00. Доступен: не менее 12 месяцев с даты опубликования</span>
+                </div>
+              </li>
+			              <li class="files__item file">
+                <i class="file__icon icon-pdf"></i>
+                <div class="file__content">
+					<a href="/upload/iblock/a96/a960ebd29a0d531fb7a860ac4c597c70.pdf" class="file__name">Размер собственных средств ООО УК ЭСЭ Управление активами по состоянию на 30.04.2021</a>
+					<span class="file__info">.pdf, 155 KB, 21.05.2021 13:36:00. Доступен: не менее 12 месяцев с даты опубликования</span>
+                </div>
+              </li>
+			              <li class="files__item file">
+                <i class="file__icon icon-pdf"></i>
+                <div class="file__content">
+					<a href="/upload/iblock/3fc/3fc06a1772d0d2120732b5d8b473c59e.pdf" class="file__name">Промежуточная бухгалтерская (финансовая) отчётность управляющей компании за 1 квартал 2021 года</a>
+					<span class="file__info">.pdf, 3089 KB, 27.04.2021 13:50:00. Доступен: не менее 3 месяцев с даты опубликования</span>
+                </div>
+              </li>
+			              <li class="files__item file">
+                <i class="file__icon icon-pdf"></i>
+                <div class="file__content">
+					<a href="/upload/iblock/478/4782f615695887d90625de69fa04cac4.pdf" class="file__name">Размер собственных средств ООО УК ЭСЭ Управление активами по состоянию на 31.03.2021</a>
+					<span class="file__info">.pdf, 155 KB, 16.04.2021 12:58:00. Доступен: не менее 12 месяцев с даты опубликования</span>
+                </div>
+              </li>
+			              <li class="files__item file">
+                <i class="file__icon icon-pdf"></i>
+                <div class="file__content">
+					<a href="/upload/iblock/dd7/dd75ca2e87e0487ec5038e9dbd6da8cf.pdf" class="file__name">Размер собственных средств ООО УК ЭСЭ Управление активами по состоянию на 28.02.2021</a>
+					<span class="file__info">.pdf, 155 KB, 15.03.2021 17:27:00. Доступен: не менее 12 месяцев с даты опубликования</span>
+                </div>
+              </li>
+			              <li class="files__item file">
+                <i class="file__icon icon-pdf"></i>
+                <div class="file__content">
+					<a href="/upload/iblock/791/791bb282067be6a9f61b02956a7417e9.pdf" class="file__name">Размер собственных средств ООО УК ЭСЭ Управление активами по состоянию на 31.01.2021</a>
+					<span class="file__info">.pdf, 176 KB, 12.02.2021 13:36:00. Доступен: не менее 12 месяцев с даты опубликования</span>
+                </div>
+              </li>
+					</ul>
+			</div>
+		<div class="tabs__tab" role="tabpanel" data-id="info-3" id="info-3">
+		         <ul class="files">
+			              <li class="files__item file">
+                <i class="file__icon icon-pdf"></i>
+                <div class="file__content">
+					<a href="/upload/iblock/5e5/5e5128420bbeb83fe401bb1c1c8f68bc.pdf" class="file__name">Аудиторское заключение о финансовой отчетности МСФО за 2020 год</a>
+					<span class="file__info">.pdf, 1835 KB, 28.04.2021 13:42:00. Доступен: не менее 1 года с даты опубликования</span>
+                </div>
+              </li>
+			              <li class="files__item file">
+                <i class="file__icon icon-pdf"></i>
+                <div class="file__content">
+					<a href="/upload/iblock/eb1/eb1558cd2c8f5ebc107708952a800cf1.pdf" class="file__name">Финансовая отчетность МСФО за 2020 год</a>
+					<span class="file__info">.pdf, 1602 KB, 28.04.2021 13:41:00. Доступен: не менее 1 года с даты опубликования</span>
+                </div>
+              </li>
+			              <li class="files__item file">
+                <i class="file__icon icon-pdf"></i>
+                <div class="file__content">
+					<a href="/upload/iblock/59f/59f2d6b20be1d3c83471aab1e6c68fc2.pdf" class="file__name">Аудиторское заключение 2020 год</a>
+					<span class="file__info">.pdf, 8474 KB, 30.03.2021 14:02:00. Доступен: не менее 1 года с даты опубликования</span>
+                </div>
+              </li>
+			              <li class="files__item file">
+                <i class="file__icon icon-pdf"></i>
+                <div class="file__content">
+					<a href="/upload/iblock/aa3/aa3fc9d1c5349c88886dafed61d7ad67.pdf" class="file__name">Бухгалтерская (финансовая) отчётность управляющей компании за 2020 год</a>
+					<span class="file__info">.pdf, 8128 KB, 30.03.2021 10:34:00. Доступен: не менее 1 года с даты опубликования</span>
+                </div>
+              </li>
+			              <li class="files__item file">
+                <i class="file__icon icon-pdf"></i>
+                <div class="file__content">
+					<a href="/upload/iblock/911/911a3b44bf5c52dea2f639eccc6eb4e0.pdf" class="file__name">Размер собственных средств ООО УК ЭСЭ Управление активами по состоянию на 31.12.2020</a>
+					<span class="file__info">.pdf, 176 KB, 27.01.2021 11:40:00. Доступен: не менее 12 месяцев с даты опубликования</span>
+                </div>
+              </li>
+			              <li class="files__item file">
+                <i class="file__icon icon-pdf"></i>
+                <div class="file__content">
+					<a href="/upload/iblock/bcb/bcba2e574d6af80bdac18d9650353168.pdf" class="file__name">Размер собственных средств ООО УК ЭСЭ Управление активами по состоянию на 30.11.2020</a>
+					<span class="file__info">.pdf, 176 KB, 16.12.2020 22:52:00.</span>
+                </div>
+              </li>
+			              <li class="files__item file">
+                <i class="file__icon icon-pdf"></i>
+                <div class="file__content">
+					<a href="/upload/iblock/ebe/ebede2a2e7bc8d2a4b1714a2ee4a8ef6.pdf" class="file__name">Размер собственных средств ООО УК ЭСЭ Управление активами по состоянию на 31.10.2020</a>
+					<span class="file__info">.pdf, 176 KB, 25.11.2020 22:46:00. Доступен: не менее 12 месяцев с даты опубликования</span>
+                </div>
+              </li>
+			              <li class="files__item file">
+                <i class="file__icon icon-pdf"></i>
+                <div class="file__content">
+					<a href="/upload/iblock/d10/d109a2a5632df761fd783774a3daba1c.pdf" class="file__name">Промежуточная бухгалтерская (финансовая) отчётность управляющей компании за 9 месяцев 2020 года</a>
+					<span class="file__info">.pdf, 819 KB, 29.10.2020 15:29:00. Доступен: не менее 3 месяцев с даты опубликования</span>
+                </div>
+              </li>
+			              <li class="files__item file">
+                <i class="file__icon icon-pdf"></i>
+                <div class="file__content">
+					<a href="/upload/iblock/ca6/ca6aa2a1b3b3d98a75a0c27b5549cded.pdf" class="file__name">Размер собственных средств ООО УК ЭСЭ Управление активами по состоянию на 30.09.2020</a>
+					<span class="file__info">.pdf, 176 KB, 15.10.2020 17:50:00. Доступен: не менее 12 месяцев с даты опубликования</span>
+                </div>
+              </li>
+			              <li class="files__item file">
+                <i class="file__icon icon-pdf"></i>
+                <div class="file__content">
+					<a href="/upload/iblock/234/234493d940275a9d88a526c0df0a3e43.pdf" class="file__name">Размер собственных средств ООО УК ЭСЭ Управление активами по состоянию на 31.08.2020</a>
+					<span class="file__info">.pdf, 176 KB, 15.09.2020 15:07:00. Доступен: не менее 12 месяцев с даты опубликования</span>
+                </div>
+              </li>
+			              <li class="files__item file">
+                <i class="file__icon icon-pdf"></i>
+                <div class="file__content">
+					<a href="/upload/iblock/462/462411010a6c27a7ccf97379d877dc8a.pdf" class="file__name">Размер собственных средств ООО УК ЭСЭ Управление активами по состоянию на 31.07.2020</a>
+					<span class="file__info">.pdf, 176 KB, 14.08.2020 13:37:21. Доступен: не менее 12 месяцев с даты опубликования</span>
+                </div>
+              </li>
+			              <li class="files__item file">
+                <i class="file__icon icon-pdf"></i>
+                <div class="file__content">
+					<a href="/upload/iblock/c8a/c8afe9ab610a16d005f2b1524379436c.pdf" class="file__name">Промежуточная бухгалтерская (финансовая) отчётность управляющей компании за 1 полугодие 2020 года</a>
+					<span class="file__info">.pdf, 812 KB, 30.07.2020 21:16:00. Доступен: не менее 3 месяцев с даты опубликования</span>
+                </div>
+              </li>
+			              <li class="files__item file">
+                <i class="file__icon icon-pdf"></i>
+                <div class="file__content">
+					<a href="/upload/iblock/573/57326a1d6a7610e2a27d3908333d0354.pdf" class="file__name">Размер собственных средств ООО УК ЭСЭ Управление активами по состоянию на 30.06.2020</a>
+					<span class="file__info">.pdf, 176 KB, 14.07.2020 18:11:00. Доступен: не менее 12 месяцев с даты опубликования</span>
+                </div>
+              </li>
+			              <li class="files__item file">
+                <i class="file__icon icon-pdf"></i>
+                <div class="file__content">
+					<a href="/upload/iblock/4ca/4ca7a56ea4730b0bfcefbf4095b4e709.pdf" class="file__name">Размер собственных средств ООО УК ЭСЭ Управление активами по состоянию на 31.05.2020</a>
+					<span class="file__info">.pdf, 176 KB, 17.06.2020 14:41:00. Доступен: не менее 12 месяцев с даты опубликования</span>
+                </div>
+              </li>
+			              <li class="files__item file">
+                <i class="file__icon icon-pdf"></i>
+                <div class="file__content">
+					<a href="/upload/iblock/cae/caee2ff39bec54aa5b2083cbd44ee601.pdf" class="file__name">Размер собственных средств ООО УК ЭСЭ Управление активами по состоянию на 30.04.2020</a>
+					<span class="file__info">.pdf, 176 KB, 15.05.2020 13:07:00. Доступен: не менее 12 месяцев с даты опубликования</span>
+                </div>
+              </li>
+			              <li class="files__item file">
+                <i class="file__icon icon-pdf"></i>
+                <div class="file__content">
+					<a href="/upload/iblock/ad0/ad0d2752cb142ae86031cf760f264d8c.pdf" class="file__name">Промежуточная бухгалтерская (финансовая) отчётность управляющей компании за 1 квартал 2020 года</a>
+					<span class="file__info">.pdf, 675 KB, 29.04.2020 18:01:00. Доступен: не менее 3 месяцев с даты опубликования</span>
+                </div>
+              </li>
+			              <li class="files__item file">
+                <i class="file__icon icon-pdf"></i>
+                <div class="file__content">
+					<a href="/upload/iblock/590/590ee906013b0b4f890d8812003bc41f.pdf" class="file__name">Размер собственных средств ООО УК ЭСЭ Управление активами по состоянию на 31.03.2020</a>
+					<span class="file__info">.pdf, 176 KB, 20.04.2020 17:16:00. Доступен: не менее 12 месяцев с даты опубликования</span>
+                </div>
+              </li>
+			              <li class="files__item file">
+                <i class="file__icon icon-pdf"></i>
+                <div class="file__content">
+					<a href="/upload/iblock/06e/06ece42b66a28af0ce5230370966ac4f.pdf" class="file__name">Размер собственных средств ООО УК ЭСЭ Управление активами по состоянию на 29.02.2020</a>
+					<span class="file__info">.pdf, 116 KB, 16.03.2020 18:23:00. Доступен: не менее 12 месяцев с даты опубликования</span>
+                </div>
+              </li>
+			              <li class="files__item file">
+                <i class="file__icon icon-pdf"></i>
+                <div class="file__content">
+					<a href="/upload/iblock/361/361731cc2c1f9478df2af09b10403343.pdf" class="file__name">Размер собственных средств ООО УК ЭСЭ Управление активами по состоянию на 31.01.2020</a>
+					<span class="file__info">.pdf, 113 KB, 18.02.2020 17:12:00. Доступен: не менее 12 месяцев с даты опубликования</span>
+                </div>
+              </li>
+			              <li class="files__item file">
+                <i class="file__icon icon-pdf"></i>
+                <div class="file__content">
+					<a href="/upload/iblock/b5b/b5b0f7cfa5b47ca1f1ec74ddd6e16783.pdf" class="file__name">Лицензия_УК_ИФ_ПИФ_НПФ_переоформленная</a>
+					<span class="file__info">.pdf, 369 KB, 21.01.2020 16:48:00. Доступен: до исключения из реестра лицензий сведений об УК</span>
+                </div>
+              </li>
+					</ul>
+			</div>
+		<div class="tabs__tab" role="tabpanel" data-id="info-4" id="info-4">
+		         <ul class="files">
+			              <li class="files__item file">
+                <i class="file__icon icon-pdf"></i>
+                <div class="file__content">
+					<a href="/upload/iblock/162/1628dff3389892385bbde8d1d44fb765.pdf" class="file__name">Аудиторское заключение о финансовой отчетности МСФО за 2019 год</a>
+					<span class="file__info">.pdf, 2761 KB, 29.04.2020 17:57:00. Доступен: не менее 1 года с даты опубликования</span>
+                </div>
+              </li>
+			              <li class="files__item file">
+                <i class="file__icon icon-pdf"></i>
+                <div class="file__content">
+					<a href="/upload/iblock/f4e/f4e5d2613a568b83252011a0cdde6d94.pdf" class="file__name">Финансовая отчетность МСФО за 2019 год</a>
+					<span class="file__info">.pdf, 635 KB, 29.04.2020 17:51:00. Доступен: не менее 1 года с даты опубликования</span>
+                </div>
+              </li>
+			              <li class="files__item file">
+                <i class="file__icon icon-pdf"></i>
+                <div class="file__content">
+					<a href="/upload/iblock/e22/e22a3eb993ea82963bd8413ccb89a643.pdf" class="file__name">Размер собственных средств ООО УК ЭСЭ Управление активами по состоянию на 31.12.2019</a>
+					<span class="file__info">.pdf, 114 KB, 30.01.2020 12:24:00. Доступен: не менее 12 месяцев с даты опубликования</span>
+                </div>
+              </li>
+			              <li class="files__item file">
+                <i class="file__icon icon-pdf"></i>
+                <div class="file__content">
+					<a href="/upload/iblock/d25/d25515860ef4bb333e2f61920d1deb9a.pdf" class="file__name">Размер собственных средств ООО УК ЭСЭ Управление активами по состоянию на 30.11.2019</a>
+					<span class="file__info">.pdf, 113 KB, 16.12.2019 14:01:00. Доступен: не менее 12 месяцев с даты опубликования</span>
+                </div>
+              </li>
+			              <li class="files__item file">
+                <i class="file__icon icon-pdf"></i>
+                <div class="file__content">
+					<a href="/upload/iblock/001/001a18d0df4c9d15f4c4aa88273de7c6.pdf" class="file__name">Аудиторское заключение за 2019 год</a>
+					<span class="file__info">.pdf, 4853 KB, 27.03.2020 21:32:00. Доступен: не менее 1 года с даты опубликования</span>
+                </div>
+              </li>
+			              <li class="files__item file">
+                <i class="file__icon icon-pdf"></i>
+                <div class="file__content">
+					<a href="/upload/iblock/45b/45b98d574dfc4381787145222d588fad.pdf" class="file__name">Размер собственных средств ООО УК ЭСЭ Управление активами по состоянию на 31.10.2019</a>
+					<span class="file__info">.pdf, 112 KB, 15.11.2019 15:35:00. Доступен: не менее 12 месяцев с даты опубликования</span>
+                </div>
+              </li>
+			              <li class="files__item file">
+                <i class="file__icon icon-pdf"></i>
+                <div class="file__content">
+					<a href="/upload/iblock/9e0/9e0c97288a7756b456a1ba97a1240a76.pdf" class="file__name">Годовая бухгалтерская (финансовая) отчетность управляющей компании за 2019 год</a>
+					<span class="file__info">.pdf, 1755 KB, 27.03.2020 21:30:00. Доступен: не менее 1 года с даты опубликования</span>
+                </div>
+              </li>
+			              <li class="files__item file">
+                <i class="file__icon icon-pdf"></i>
+                <div class="file__content">
+					<a href="/upload/iblock/5b0/5b00d2dc30481712dceb64c63b58599e.pdf" class="file__name">Размер собственных средств ООО УК ЭСЭ Управление активами по состоянию на 30.09.2019</a>
+					<span class="file__info">.pdf, 110 KB, 15.10.2019 12:31:00. Доступен: не менее 12 месяцев с даты опубликования</span>
+                </div>
+              </li>
+			              <li class="files__item file">
+                <i class="file__icon icon-pdf"></i>
+                <div class="file__content">
+					<a href="/upload/iblock/a85/a857b37387637bd3648bffcedc578fc7.pdf" class="file__name">Размер собственных средств ООО УК ЭСЭ Управление активами по состоянию на 31.08.2019</a>
+					<span class="file__info">.pdf, 143 KB, 17.09.2019 11:19:00. Доступен: не менее 12 месяцев с даты опубликования</span>
+                </div>
+              </li>
+			              <li class="files__item file">
+                <i class="file__icon icon-pdf"></i>
+                <div class="file__content">
+					<a href="/upload/iblock/5a9/5a914fc38438535214c3453ebffa518f.pdf" class="file__name">Размер собственных средств ООО УК ЭСЭ Управление активами по состоянию на 31.07.2019</a>
+					<span class="file__info">.pdf, 120 KB, 19.08.2019 12:18:00. Доступен: не менее 12 месяцев с даты опубликования</span>
+                </div>
+              </li>
+			              <li class="files__item file">
+                <i class="file__icon icon-pdf"></i>
+                <div class="file__content">
+					<a href="/upload/iblock/a3e/a3ef20c0239c0169ad819356f76c9b8f.pdf" class="file__name">Промежуточная бухгалтерская (финансовая) отчётность управляющей компании за 9 месяцев 2019 года</a>
+					<span class="file__info">.pdf, 4081 KB, 29.10.2019 17:36:00. Доступен: не менее 3 месяцев с даты опубликования</span>
+                </div>
+              </li>
+			              <li class="files__item file">
+                <i class="file__icon icon-pdf"></i>
+                <div class="file__content">
+					<a href="/upload/iblock/238/2385bf4cf84a2eb3d45851bd50cc377b.pdf" class="file__name">Размер собственных средств ООО УК ЭСЭ Управление активами по состоянию на 30.06.2019</a>
+					<span class="file__info">.pdf, 116 KB, 15.07.2019 14:40:00. Доступен: не менее 12 месяцев с даты опубликования</span>
+                </div>
+              </li>
+			              <li class="files__item file">
+                <i class="file__icon icon-pdf"></i>
+                <div class="file__content">
+					<a href="/upload/iblock/3d0/3d0cee1b741bae4b3ccdbda987b6a96c.pdf" class="file__name">Промежуточная бухгалтерская (финансовая) отчётность управляющей компании за 1 полугодие 2019 года</a>
+					<span class="file__info">.pdf, 4166 KB, 30.07.2019 16:18:00. Доступен: не менее 3 месяцев с даты опубликования</span>
+                </div>
+              </li>
+			              <li class="files__item file">
+                <i class="file__icon icon-pdf"></i>
+                <div class="file__content">
+					<a href="/upload/iblock/af1/af14aa1fc5dc7cea5e3d1201c1d9ea84.pdf" class="file__name">Размер собственных средств ООО УК ЭСЭ Управление активами по состоянию на 31.05.2019</a>
+					<span class="file__info">.pdf, 108 KB, 24.06.2019 10:18:00. Доступен: не менее 12 месяцев с даты опубликования</span>
+                </div>
+              </li>
+			              <li class="files__item file">
+                <i class="file__icon icon-pdf"></i>
+                <div class="file__content">
+					<a href="/upload/iblock/dbd/dbd95824908f4547ccac96959cd8af6f.pdf" class="file__name">Размер собственных средств ООО УК ЭСЭ Управление активами по состоянию на 30.04.2019</a>
+					<span class="file__info">.pdf, 111 KB, 23.05.2019 11:07:00. Доступен: не менее 12 месяцев с даты опубликования</span>
+                </div>
+              </li>
+			              <li class="files__item file">
+                <i class="file__icon icon-pdf"></i>
+                <div class="file__content">
+					<a href="/upload/iblock/131/1319e193e256ac0c256385612818ff23.pdf" class="file__name">Размер собственных средств ООО УК ЭСЭ Управление активами по состоянию на 31.03.2019</a>
+					<span class="file__info">.pdf, 115 KB, 18.04.2019 12:07:00. Доступен: не менее 12 месяцев с даты опубликования</span>
+                </div>
+              </li>
+			              <li class="files__item file">
+                <i class="file__icon icon-pdf"></i>
+                <div class="file__content">
+					<a href="/upload/iblock/615/615c1fa79f1105f0bc2e268b7c64a9fb.pdf" class="file__name">Промежуточная бухгалтерская (финансовая) отчётность управляющей компании за 1 квартал 2019 года</a>
+					<span class="file__info">.pdf, 3523 KB, 25.04.2019 14:57:00. Доступен: не менее 3 месяцев с даты опубликования</span>
+                </div>
+              </li>
+			              <li class="files__item file">
+                <i class="file__icon icon-pdf"></i>
+                <div class="file__content">
+					<a href="/upload/iblock/d26/d26018773d380189e5ab1623eed95114.pdf" class="file__name">Размер собственных средств ООО УК ЭСЭ Управление активами по состоянию на 28.02.2019</a>
+					<span class="file__info">.pdf, 117 KB, 21.03.2019 18:03:00. Доступен: не менее 12 месяцев с даты опубликования</span>
+                </div>
+              </li>
+			              <li class="files__item file">
+                <i class="file__icon icon-pdf"></i>
+                <div class="file__content">
+					<a href="/upload/iblock/283/283ce019e774aaf6ca2b56cfaa04e9aa.pdf" class="file__name">Размер собственных средств ООО УК ЭСЭ Управление активами по состоянию на 31.01.2019</a>
+					<span class="file__info">.pdf, 114 KB, 25.02.2019 13:53:00. Доступен: не менее 12 месяцев с даты опубликования</span>
+                </div>
+              </li>
+					</ul>
+			</div>
+		<div class="tabs__tab" role="tabpanel" data-id="info-5" id="info-5">
+		         <ul class="files">
+			              <li class="files__item file">
+                <i class="file__icon icon-pdf"></i>
+                <div class="file__content">
+					<a href="/upload/iblock/624/6241fe1fe4603e766fc2da99a41b5400.pdf" class="file__name">Размер собственных средств ООО УК ЭСЭ Управление активами по состоянию на 31.12.2018 (корректировка)</a>
+					<span class="file__info">.pdf, 577 KB, 25.02.2019 13:52:00. Доступен: не менее 12 месяцев с даты опубликования</span>
+                </div>
+              </li>
+			              <li class="files__item file">
+                <i class="file__icon icon-pdf"></i>
+                <div class="file__content">
+					<a href="/upload/iblock/eff/eff156678b0c3291be151a756174e4f3.pdf" class="file__name">Размер собственных средств ООО УК ЭСЭ Управление активами по состоянию на 31.12.2018</a>
+					<span class="file__info">.pdf, 591 KB, 23.01.2019 10:51:00. Доступен: не менее 12 месяцев с даты опубликования</span>
+                </div>
+              </li>
+			              <li class="files__item file">
+                <i class="file__icon icon-pdf"></i>
+                <div class="file__content">
+					<a href="/upload/iblock/45d/45dabcb71c927449b58442b5dff66712.pdf" class="file__name">Размер собственных средств ООО УК ЭСЭ Управление активами по состоянию на 30.11.2018</a>
+					<span class="file__info">.pdf, 6632 KB, 17.12.2018 15:29:00. Доступен: не менее 12 месяцев с даты опубликования</span>
+                </div>
+              </li>
+			              <li class="files__item file">
+                <i class="file__icon icon-pdf"></i>
+                <div class="file__content">
+					<a href="/upload/iblock/24c/24c7615d130bb9a7dee6e385b9e67459.pdf" class="file__name">Размер собственных средств ООО УК ЭСЭ Управление активами по состоянию на 31.10.2018</a>
+					<span class="file__info">.pdf, 6477 KB, 23.11.2018 12:51:00. Доступен: не менее 12 месяцев с даты опубликования</span>
+                </div>
+              </li>
+			              <li class="files__item file">
+                <i class="file__icon icon-pdf"></i>
+                <div class="file__content">
+					<a href="/upload/iblock/294/294307afc36b420c37885da567d7e9f2.pdf" class="file__name">Размер собственных средств ООО УК ЭСЭ Управление активами по состоянию на 30.09.2018</a>
+					<span class="file__info">.pdf, 1264 KB, 24.10.2018 12:31:00. Доступен: не менее 12 месяцев с даты опубликования</span>
+                </div>
+              </li>
+			              <li class="files__item file">
+                <i class="file__icon icon-pdf"></i>
+                <div class="file__content">
+					<a href="/upload/iblock/08b/08b0c8d1dc38e479af7f5368d0a9486a.pdf" class="file__name">Размер собственных средств ООО УК ЭСЭ Управление активами по состоянию на 31.08.2018</a>
+					<span class="file__info">.pdf, 6607 KB, 26.09.2018 16:45:00. Доступен: не менее 12 месяцев с даты опубликования</span>
+                </div>
+              </li>
+			              <li class="files__item file">
+                <i class="file__icon icon-pdf"></i>
+                <div class="file__content">
+					<a href="/upload/iblock/f56/f563268af3650e191a8a213366d12b19.pdf" class="file__name">Размер собственных средств ООО УК ЭСЭ Управление активами по состоянию на 31.07.2018</a>
+					<span class="file__info">.pdf, 605 KB, 13.08.2018 12:28:00. Доступен: не менее 12 месяцев с даты опубликования</span>
+                </div>
+              </li>
+			              <li class="files__item file">
+                <i class="file__icon icon-pdf"></i>
+                <div class="file__content">
+					<a href="/upload/iblock/c8f/c8fe30eba2aa95e33e4626317d715381.pdf" class="file__name">Размер собственных средств ООО УК ЭСЭ Управление активами по состоянию на 31.05.2018</a>
+					<span class="file__info">.pdf, 587 KB, 20.06.2018 17:43:00. Доступен: не менее 12 месяцев с даты опубликования</span>
+                </div>
+              </li>
+			              <li class="files__item file">
+                <i class="file__icon icon-pdf"></i>
+                <div class="file__content">
+					<a href="/upload/iblock/714/714de54f6213b060fc9ba83082f4f1ca.pdf" class="file__name">Размер собственных средств ООО УК ЭСЭ Управление активами по состоянию на 30.06.2018</a>
+					<span class="file__info">.pdf, 621 KB, 24.07.2018 17:28:00. Доступен: не менее 12 месяцев с даты опубликования</span>
+                </div>
+              </li>
+			              <li class="files__item file">
+                <i class="file__icon icon-pdf"></i>
+                <div class="file__content">
+					<a href="/upload/iblock/08f/08f5a27e2bd672d2264871608c7b6828.rar" class="file__name">Промежуточная бухгалтерская (финансовая) отчётность управляющей компании за 1 квартал 2018 года (скорректировано)</a>
+					<span class="file__info">.rar, 8171 KB, 13.11.2018 23:38:00. Доступен: не менее 3 месяцев с даты опубликования</span>
+                </div>
+              </li>
+			              <li class="files__item file">
+                <i class="file__icon icon-pdf"></i>
+                <div class="file__content">
+					<a href="/upload/iblock/152/15247c82499af5f1fd9503d7e0290d80.pdf" class="file__name">Размер собственных средств ООО УК ЭСЭ Управление активами по состоянию на 30.04.2018</a>
+					<span class="file__info">.pdf, 587 KB, 15.05.2018 18:06:00. Доступен: не менее 12 месяцев с даты опубликования</span>
+                </div>
+              </li>
+			              <li class="files__item file">
+                <i class="file__icon icon-pdf"></i>
+                <div class="file__content">
+					<a href="/upload/iblock/303/3035d4a0e96f306e21974a3d18913af1.rar" class="file__name">Промежуточная бухгалтерская (финансовая) отчётность управляющей компании за II квартал 2018 года (скорректировано)</a>
+					<span class="file__info">.rar, 12594 KB, 14.11.2018 23:36:00. Доступен: не менее 3 месяцев с даты опубликования</span>
+                </div>
+              </li>
+			              <li class="files__item file">
+                <i class="file__icon icon-pdf"></i>
+                <div class="file__content">
+					<a href="/upload/iblock/738/73855446f82139e943cee8d2d6834556.pdf" class="file__name">Размер собственных средств ООО УК ЭСЭ Управление активами по состоянию на 31.03.2018</a>
+					<span class="file__info">.pdf, 128 KB, 12.04.2018 14:04:00. Доступен: не менее 12 месяцев с даты опубликования</span>
+                </div>
+              </li>
+			              <li class="files__item file">
+                <i class="file__icon icon-pdf"></i>
+                <div class="file__content">
+					<a href="/upload/iblock/7f8/7f8ba39a520a60f0bcb4278d68660401.rar" class="file__name">Промежуточная бухгалтерская (финансовая) отчётность управляющей компании за III квартал 2018 года</a>
+					<span class="file__info">.rar, 13378 KB, 14.11.2018 23:35:00. Доступен: не менее 3 месяцев с даты опубликования</span>
+                </div>
+              </li>
+			              <li class="files__item file">
+                <i class="file__icon icon-pdf"></i>
+                <div class="file__content">
+					<a href="/upload/iblock/030/030b1378ecc9f3ce941d55b7b7631594.pdf" class="file__name">Размер собственных средств ООО УК ЭСЭ Управление активами по состоянию на 28.02.2018 (скорректировано)</a>
+					<span class="file__info">.pdf, 128 KB, 12.04.2018 14:04:00. Доступен: не менее 12 месяцев с даты опубликования</span>
+                </div>
+              </li>
+			              <li class="files__item file">
+                <i class="file__icon icon-pdf"></i>
+                <div class="file__content">
+					<a href="/upload/iblock/96b/96b7cebc271295f8a3ba5229474f9da4.pdf" class="file__name">Промежуточная бухгалтерская (финансовая) отчётность управляющей компании за II квартал 2018 года</a>
+					<span class="file__info">.pdf, 3611 KB, 30.07.2018 16:56:00. Доступен: не менее 3 месяцев с даты опубликования</span>
+                </div>
+              </li>
+			              <li class="files__item file">
+                <i class="file__icon icon-pdf"></i>
+                <div class="file__content">
+					<a href="/upload/iblock/94e/94e1db59b768ac8dfb71a90bcb9dcbac.pdf" class="file__name">Размер собственных средств ООО УК ЭСЭ Управление активами по состоянию на 31.01.2018 (скорректировано)</a>
+					<span class="file__info">.pdf, 129 KB, 12.04.2018 14:03:00. Доступен: не менее 12 месяцев с даты опубликования</span>
+                </div>
+              </li>
+			              <li class="files__item file">
+                <i class="file__icon icon-pdf"></i>
+                <div class="file__content">
+					<a href="/upload/iblock/3b1/3b196a87b2333b62641a0812e5ae248b.rar" class="file__name">Промежуточная бухгалтерская (финансовая) отчётность управляющей компании за 1 квартал 2018 года</a>
+					<span class="file__info">.rar, 1800 KB, 15.05.2018 18:24:00. Доступен: не менее 3 месяцев с даты опубликования</span>
+                </div>
+              </li>
+			              <li class="files__item file">
+                <i class="file__icon icon-pdf"></i>
+                <div class="file__content">
+					<a href="/upload/iblock/51c/51c7aa26eabf6095d840a352ec52c985.pdf" class="file__name">Размер собственных средств ООО УК ЭСЭ Управление активами по состоянию на 28.02.2018</a>
+					<span class="file__info">.pdf, 129 KB, 19.03.2018 19:14:00. Доступен: не менее 12 месяцев с даты опубликования</span>
+                </div>
+              </li>
+			              <li class="files__item file">
+                <i class="file__icon icon-pdf"></i>
+                <div class="file__content">
+					<a href="/upload/iblock/18b/18bceb589c1c4c3ad8a510c39c7182d9.pdf" class="file__name">Отчет о финансовых результатах (РСБУ) на 31.03.2018</a>
+					<span class="file__info">.pdf, 228 KB, 07.05.2018 16:10:00. Доступен: не менее 3 месяцев с даты опубликования</span>
+                </div>
+              </li>
+			              <li class="files__item file">
+                <i class="file__icon icon-pdf"></i>
+                <div class="file__content">
+					<a href="/upload/iblock/924/9245bbd2bee55bddc81631a27df30c61.pdf" class="file__name">ЦБ пояснительная записка (РСС декабрь 2017 корректировка)</a>
+					<span class="file__info">.pdf, 184 KB, 05.02.2018 11:36:00. Доступен: не менее 12 месяцев с даты опубликования</span>
+                </div>
+              </li>
+			              <li class="files__item file">
+                <i class="file__icon icon-pdf"></i>
+                <div class="file__content">
+					<a href="/upload/iblock/fa5/fa579d5209e4ae6c0ed34e2f57179d92.pdf" class="file__name">Размер собственных средств ООО УК ЭСЭ Управление активами по состоянию на 31.01.2018</a>
+					<span class="file__info">.pdf, 138 KB, 09.02.2018 21:09:00. Доступен: не менее 12 месяцев с даты опубликования</span>
+                </div>
+              </li>
+			              <li class="files__item file">
+                <i class="file__icon icon-pdf"></i>
+                <div class="file__content">
+					<a href="/upload/iblock/8bd/8bd2c8dae65e71e5897cbd7efbed7b56.pdf" class="file__name">ЦБ_пояснительная_записка_(РСС_январь_2018_корректировка)</a>
+					<span class="file__info">.pdf, 185 KB, 12.04.2018 14:03:00. Доступен: не менее 12 месяцев с даты опубликования</span>
+                </div>
+              </li>
+			              <li class="files__item file">
+                <i class="file__icon icon-pdf"></i>
+                <div class="file__content">
+					<a href="/upload/iblock/ea5/ea584b6a6f217b187fd7e1018bf37ce3.pdf" class="file__name">ЦБ пояснительная записка (РСС февраль 2018 корректировка)</a>
+					<span class="file__info">.pdf, 185 KB, 12.04.2018 14:04:00. Доступен: не менее 12 месяцев с даты опубликования</span>
+                </div>
+              </li>
+			              <li class="files__item file">
+                <i class="file__icon icon-pdf"></i>
+                <div class="file__content">
+					<a href="/upload/iblock/980/9805df47c6108e0c0e7491015600f583.pdf" class="file__name">Бухгалтерский баланс (РСБУ) на 31.03.2018</a>
+					<span class="file__info">.pdf, 239 KB, 07.05.2018 16:09:00. Доступен: не менее 3 месяцев с даты опубликования</span>
+                </div>
+              </li>
+			              <li class="files__item file">
+                <i class="file__icon icon-pdf"></i>
+                <div class="file__content">
+					<a href="/upload/iblock/8a5/8a5e0d6ebab1e35d56811fe08e42d529.pdf" class="file__name">Пояснительная записка (БФО II квартал корректировка)</a>
+					<span class="file__info">.pdf, 227 KB, 06.11.2018 16:46:00. Доступен: не менее 3 месяцев с даты опубликования</span>
+                </div>
+              </li>
+					</ul>
+			</div>
+		<div class="tabs__tab" role="tabpanel" data-id="info-6" id="info-6">
+		         <ul class="files">
+			              <li class="files__item file">
+                <i class="file__icon icon-pdf"></i>
+                <div class="file__content">
+					<a href="/upload/iblock/176/176168f256bb2062e65c61d15eb9a030.pdf" class="file__name">Размер собственных средств ООО УК ЭСЭ Управление активами по состоянию на 31.12.2017 (скорректировано)</a>
+					<span class="file__info">.pdf, 127 KB, 05.02.2018 11:35:00. Доступен: не менее 12 месяцев с даты опубликования</span>
+                </div>
+              </li>
+			              <li class="files__item file">
+                <i class="file__icon icon-pdf"></i>
+                <div class="file__content">
+					<a href="/upload/iblock/cae/caefbf6421ef8d0c0f4af0e0e4999cfa.pdf" class="file__name">Размер собственных средств ООО УК ЭСЭ Управление активами по состоянию на 31.12.2017</a>
+					<span class="file__info">.pdf, 244 KB, 19.01.2018 15:11:00. Доступен: не менее 12 месяцев с даты опубликования</span>
+                </div>
+              </li>
+			              <li class="files__item file">
+                <i class="file__icon icon-pdf"></i>
+                <div class="file__content">
+					<a href="/upload/iblock/b24/b24f041c06e69b1cfc92522a3d4e094c.pdf" class="file__name">Размер собственных средств ООО "УК "ЭСЭ Управление активами" по состоянию на 30.11.2017</a>
+					<span class="file__info">.pdf, 253 KB, 08.12.2017 21:41:00. Доступен: не менее 12 месяцев с даты опубликования</span>
+                </div>
+              </li>
+			              <li class="files__item file">
+                <i class="file__icon icon-pdf"></i>
+                <div class="file__content">
+					<a href="/upload/iblock/d6c/d6cca4af2d965838864c4de68cbfcb5b.pdf" class="file__name">Размер собственных средств ООО УК ЭСЭ Управление активами по состоянию на 31.10.2017 (скорректировано)</a>
+					<span class="file__info">.pdf, 128 KB, 08.12.2017 21:34:00. Доступен: не менее 12 месяцев с даты опубликования</span>
+                </div>
+              </li>
+			              <li class="files__item file">
+                <i class="file__icon icon-pdf"></i>
+                <div class="file__content">
+					<a href="/upload/iblock/8b8/8b809d70aa14fb94d991601d0f6eb93d.pdf" class="file__name">Размер собственных средств ООО УК ЭСЭ Управление активами по состоянию на 30.09.2017 (скорректировано)</a>
+					<span class="file__info">.pdf, 126 KB, 08.12.2017 21:29:00. Доступен: не менее 12 месяцев с даты опубликования</span>
+                </div>
+              </li>
+			              <li class="files__item file">
+                <i class="file__icon icon-pdf"></i>
+                <div class="file__content">
+					<a href="/upload/iblock/e65/e650830b35a6254aed53791ee7d29363.pdf" class="file__name">Размер собственных средств ООО "УК "ЭСЭ Управление активами" по состоянию на 31.10.2017</a>
+					<span class="file__info">.pdf, 96 KB, 09.11.2017 15:25:00. Доступен: не менее 12 месяцев с даты опубликования</span>
+                </div>
+              </li>
+			              <li class="files__item file">
+                <i class="file__icon icon-pdf"></i>
+                <div class="file__content">
+					<a href="/upload/iblock/0d5/0d57ab8a5e332e5f2af26d0eb6f190d9.pdf" class="file__name">Аудиторское заключение МСФО 2017</a>
+					<span class="file__info">.pdf, 1528 KB, 28.04.2018 19:30:00. Доступен: не менее 1 года с даты опубликования</span>
+                </div>
+              </li>
+			              <li class="files__item file">
+                <i class="file__icon icon-pdf"></i>
+                <div class="file__content">
+					<a href="/upload/iblock/c91/c9126245ddcb6007f9af94374df38a0b.pdf" class="file__name">Размер собственных средств ООО "УК "ЭСЭ Управление активами" по состоянию на 30.09.2017</a>
+					<span class="file__info">.pdf, 94 KB, 09.10.2017 19:35:00. Доступен: не менее 12 месяцев с даты опубликования</span>
+                </div>
+              </li>
+			              <li class="files__item file">
+                <i class="file__icon icon-pdf"></i>
+                <div class="file__content">
+					<a href="/upload/iblock/612/6125ac88600d9dd89086d45e72059f72.pdf" class="file__name">Отчетность по МСФО 2017</a>
+					<span class="file__info">.pdf, 1247 KB, 28.04.2018 19:29:00. Доступен: не менее 1 года с даты опубликования</span>
+                </div>
+              </li>
+			              <li class="files__item file">
+                <i class="file__icon icon-pdf"></i>
+                <div class="file__content">
+					<a href="/upload/iblock/ead/eadd8b46e2a29cf76ffc9cbe7e713d8d.pdf" class="file__name">Размер собственных средств ООО УК ЭСЭ Управление активами по состоянию на 31.08.2017</a>
+					<span class="file__info">.pdf, 213 KB, 12.09.2017 15:12:00. Доступен: не менее 12 месяцев с даты опубликования</span>
+                </div>
+              </li>
+			              <li class="files__item file">
+                <i class="file__icon icon-pdf"></i>
+                <div class="file__content">
+					<a href="/upload/iblock/7a9/7a98af5cf2db7f1176630880f3b6b313.pdf" class="file__name">Аудиторское заключение за 2017 год</a>
+					<span class="file__info">.pdf, 2894 KB, 28.03.2018 11:21:00. Доступен: не менее 1 года с даты опубликования</span>
+                </div>
+              </li>
+			              <li class="files__item file">
+                <i class="file__icon icon-pdf"></i>
+                <div class="file__content">
+					<a href="/upload/iblock/eed/eed93612630de9ef494c73e4770add05.pdf" class="file__name">Размер собственных средств ООО УК ЭСЭ Управление активами по состоянию на 31.07.2017</a>
+					<span class="file__info">.pdf, 294 KB, 11.08.2017 18:48:00. Доступен: не менее 12 месяцев с даты опубликования</span>
+                </div>
+              </li>
+			              <li class="files__item file">
+                <i class="file__icon icon-pdf"></i>
+                <div class="file__content">
+					<a href="/upload/iblock/844/84499b03e95b008d2178d3179e422815.rar" class="file__name">Годовая бухгалтерская (финансовая) отчетность управляющей компании за 2017 год</a>
+					<span class="file__info">.rar, 2665 KB, 28.03.2018 11:16:00. Доступен: не менее 1 года с даты опубликования</span>
+                </div>
+              </li>
+			              <li class="files__item file">
+                <i class="file__icon icon-pdf"></i>
+                <div class="file__content">
+					<a href="/upload/iblock/5d0/5d0a76e2efaef622a9e6c9169aa90748.pdf" class="file__name">Размер собственных средств ООО УК ЭСЭ Управление активами по состоянию на 30.06.2017</a>
+					<span class="file__info">.pdf, 320 KB, 11.07.2017 20:42:00. Доступен: не менее 12 месяцев с даты опубликования</span>
+                </div>
+              </li>
+			              <li class="files__item file">
+                <i class="file__icon icon-pdf"></i>
+                <div class="file__content">
+					<a href="/upload/iblock/0ea/0ea11e12259297322a504dad3734f398.pdf" class="file__name">Отчёт о финансовых результатах на 31.12.2017 (п. 21 Прил. № 13 4323-У, 05-23-пз-н)</a>
+					<span class="file__info">.pdf, 88 KB, 14.02.2018 14:15:00. Доступен: не менее 1 года с даты опубликования</span>
+                </div>
+              </li>
+			              <li class="files__item file">
+                <i class="file__icon icon-pdf"></i>
+                <div class="file__content">
+					<a href="/upload/iblock/edd/edd40e6bc58ef304412d95bbb3cf4eaa.pdf" class="file__name">Размер собственных средств ООО УК ЭСЭ Управление активами по состоянию на 31.05.2017</a>
+					<span class="file__info">.pdf, 324 KB, 09.06.2017 14:58:00. Доступен: не менее 12 месяцев с даты опубликования</span>
+                </div>
+              </li>
+			              <li class="files__item file">
+                <i class="file__icon icon-pdf"></i>
+                <div class="file__content">
+					<a href="/upload/iblock/40a/40a9d948a8a99c7ad233227606f28f67.pdf" class="file__name">Бухгалтерский баланс на 31.12.2017 (п. 21 Прил. № 13 4323-У, 05-23-пз-н)</a>
+					<span class="file__info">.pdf, 89 KB, 14.02.2018 14:15:00. Доступен: не менее 1 года с даты опубликования</span>
+                </div>
+              </li>
+			              <li class="files__item file">
+                <i class="file__icon icon-pdf"></i>
+                <div class="file__content">
+					<a href="/upload/iblock/586/586a575dfb16804fb6772d4bf7cc06a0.pdf" class="file__name">Размер собственных средств ООО УК ЭСЭ Управление активами по состоянию на 30.04.2017</a>
+					<span class="file__info">.pdf, 229 KB, 15.05.2017 18:07:00. Доступен: не менее 12 месяцев с даты опубликования</span>
+                </div>
+              </li>
+			              <li class="files__item file">
+                <i class="file__icon icon-pdf"></i>
+                <div class="file__content">
+					<a href="/upload/iblock/de8/de8b36d8b7d1935c57d5c3511887442b.pdf" class="file__name">Отчет о финансовых результатах ООО УК ЭСЭ Управление активами по состоянию на 30.09.2017</a>
+					<span class="file__info">.pdf, 203 KB, 07.11.2017 20:34:00. Доступен: не менее 3 месяцев с даты опубликования</span>
+                </div>
+              </li>
+			              <li class="files__item file">
+                <i class="file__icon icon-pdf"></i>
+                <div class="file__content">
+					<a href="/upload/iblock/7f3/7f350faeb75c83d12ccd4f1652651365.pdf" class="file__name">Размер собственных средств ООО УК ЭСЭ Управление активами по состоянию на 31.03.2017</a>
+					<span class="file__info">.pdf, 309 KB, 07.04.2017 18:57:00. Доступен: не менее 12 месяцев с даты опубликования</span>
+                </div>
+              </li>
+			              <li class="files__item file">
+                <i class="file__icon icon-pdf"></i>
+                <div class="file__content">
+					<a href="/upload/iblock/f52/f5274d1c0ad691dcb31209b2ef36d721.pdf" class="file__name">Бухгалтерский баланс ООО УК ЭСЭ Управление активами по состоянию на 30.09.2017</a>
+					<span class="file__info">.pdf, 209 KB, 07.11.2017 20:34:00. Доступен: не менее 3 месяцев с даты опубликования</span>
+                </div>
+              </li>
+			              <li class="files__item file">
+                <i class="file__icon icon-pdf"></i>
+                <div class="file__content">
+					<a href="/upload/iblock/d5b/d5bcdffb125f535c8c1ec2ec7e33933b.pdf" class="file__name">Размер собственных средств ООО УК ЭСЭ Управление активами по состоянию на 28.02.2017 (скорректировано)</a>
+					<span class="file__info">.pdf, 306 KB, 29.03.2017 19:50:00. Доступен: не менее 12 месяцев с даты опубликования</span>
+                </div>
+              </li>
+			              <li class="files__item file">
+                <i class="file__icon icon-pdf"></i>
+                <div class="file__content">
+					<a href="/upload/iblock/46a/46aba50c7580f37535655fea2ce5fa69.pdf" class="file__name">Отчет о финансовых результатах ООО УК ЭСЭ Управление активами по состоянию на 30.06.2017</a>
+					<span class="file__info">.pdf, 768 KB, 24.07.2017 18:14:00. Доступен: не менее 3 месяцев с даты опубликования</span>
+                </div>
+              </li>
+			              <li class="files__item file">
+                <i class="file__icon icon-pdf"></i>
+                <div class="file__content">
+					<a href="/upload/iblock/6b2/6b21054c3561e0e5f63b00b38b6120b5.pdf" class="file__name">Размер собственных средств ООО УК ЭСЭ Управление активами по состоянию на 31.01.2017 (скорректировано)</a>
+					<span class="file__info">.pdf, 307 KB, 29.03.2017 19:44:00. Доступен: не менее 12 месяцев с даты опубликования</span>
+                </div>
+              </li>
+			              <li class="files__item file">
+                <i class="file__icon icon-pdf"></i>
+                <div class="file__content">
+					<a href="/upload/iblock/43b/43b20ab26c6ca297bc8e39823d70993a.pdf" class="file__name">Бухгалтерский баланс ООО УК ЭСЭ Управление активами на 30.06.2017</a>
+					<span class="file__info">.pdf, 1114 KB, 24.07.2017 18:11:00. Доступен: не менее 3 месяцев с даты опубликования</span>
+                </div>
+              </li>
+			              <li class="files__item file">
+                <i class="file__icon icon-pdf"></i>
+                <div class="file__content">
+					<a href="/upload/iblock/c2a/c2aa5d357736f7d71639033655b51eed.pdf" class="file__name">Размер собственных средств ООО УК ЭСЭ Управление активами по состоянию на 28.02.2017</a>
+					<span class="file__info">.pdf, 310 KB, 02.03.2017 19:12:00. Доступен: не менее 12 месяцев с даты опубликования</span>
+                </div>
+              </li>
+			              <li class="files__item file">
+                <i class="file__icon icon-pdf"></i>
+                <div class="file__content">
+					<a href="/upload/iblock/934/934de7ea0c764cc4b030779babae0802.pdf" class="file__name">Отчет о финансовых результатах ООО УК ЭСЭ Управление активами по состоянию на 31.03.2017</a>
+					<span class="file__info">.pdf, 85 KB, 12.04.2017 17:35:00. Доступен: не менее 3 месяцев с даты опубликования</span>
+                </div>
+              </li>
+			              <li class="files__item file">
+                <i class="file__icon icon-pdf"></i>
+                <div class="file__content">
+					<a href="/upload/iblock/53b/53b18a0fc542a8576702237179bdc48b.pdf" class="file__name">Размер собственных средств ООО УК ЭСЭ Управление активами по состоянию на 31.01.2017</a>
+					<span class="file__info">.pdf, 309 KB, 08.02.2017 18:30:00. Доступен: не менее 12 месяцев с даты опубликования</span>
+                </div>
+              </li>
+			              <li class="files__item file">
+                <i class="file__icon icon-pdf"></i>
+                <div class="file__content">
+					<a href="/upload/iblock/c1a/c1adebf435b10a4f123b0e991ef21435.pdf" class="file__name">Бухгалтерский баланс ООО УК ЭСЭ Управление активами на 31.03.2017</a>
+					<span class="file__info">.pdf, 92 KB, 12.04.2017 17:26:00. Доступен: не менее 3 месяцев с даты опубликования</span>
+                </div>
+              </li>
+			              <li class="files__item file">
+                <i class="file__icon icon-pdf"></i>
+                <div class="file__content">
+					<a href="/upload/iblock/5e3/5e374b312ff9e007e9c82ddae71a9f61.pdf" class="file__name">Сведения об ООО УК ЭСЭ Управление активами</a>
+					<span class="file__info">.pdf, 293 KB, 30.10.2017 16:10:00.</span>
+                </div>
+              </li>
+			              <li class="files__item file">
+                <i class="file__icon icon-pdf"></i>
+                <div class="file__content">
+					<a href="/upload/iblock/adf/adf5f45839505e2689808c185a1e7f6b.pdf" class="file__name">ЦБ пояснительная записка (РСС сентябрь 2017 корректировка)</a>
+					<span class="file__info">.pdf, 246 KB, 08.12.2017 21:32:00. Доступен: не менее 12 месяцев с даты опубликования</span>
+                </div>
+              </li>
+			              <li class="files__item file">
+                <i class="file__icon icon-pdf"></i>
+                <div class="file__content">
+					<a href="/upload/iblock/89a/89af6432493bd7c4f2d314594068b12c.pdf" class="file__name">ЦБ пояснительная записка (РСС октябрь 2017 корректировка)</a>
+					<span class="file__info">.pdf, 248 KB, 08.12.2017 21:37:00. Доступен: не менее 12 месяцев с даты опубликования</span>
+                </div>
+              </li>
+					</ul>
+			</div>
+		<div class="tabs__tab" role="tabpanel" data-id="info-7" id="info-7">
+		         <ul class="files">
+			              <li class="files__item file">
+                <i class="file__icon icon-pdf"></i>
+                <div class="file__content">
+					<a href="/upload/iblock/085/085b76fbc485ecb0fbc91d0d8bea868e.pdf" class="file__name">Размер собственных средств ООО УК ЭСЭ Управление активами по состоянию на 31.12.2016 (скорректировано)</a>
+					<span class="file__info">.pdf, 303 KB, 29.03.2017 19:40:00. Доступен: не менее 12 месяцев с даты опубликования</span>
+                </div>
+              </li>
+			              <li class="files__item file">
+                <i class="file__icon icon-pdf"></i>
+                <div class="file__content">
+					<a href="/upload/iblock/6dc/6dcba72d412bb853ef0b92c0f08084a6.pdf" class="file__name">Размер собственных средств ООО УК ЭСЭ Управление активами по состоянию на 31.12.2016</a>
+					<span class="file__info">.pdf, 306 KB, 20.01.2017 19:40:00. Доступен: не менее 12 месяцев с даты опубликования</span>
+                </div>
+              </li>
+			              <li class="files__item file">
+                <i class="file__icon icon-pdf"></i>
+                <div class="file__content">
+					<a href="/upload/iblock/5db/5dbce7bd89c8e4b8f8cedea046eef45b.pdf" class="file__name">Размер собственных средств ООО "УК "ЭСЭ Управление активами" по состоянию на 30.11.2016</a>
+					<span class="file__info">.pdf, 321 KB, 08.12.2016 17:18:00. Доступен: не менее 12 месяцев с даты опубликования</span>
+                </div>
+              </li>
+			              <li class="files__item file">
+                <i class="file__icon icon-pdf"></i>
+                <div class="file__content">
+					<a href="/upload/iblock/565/565ca7f35c2d683821c0617f2e36ee1f.pdf" class="file__name">Годовая финансовая отчетность по МСФО ООО УК ЭСЭ Управление активами за 2016 год</a>
+					<span class="file__info">.pdf, 828 KB, 27.04.2017 19:17:00. Доступен: не менее 1 года с даты опубликования</span>
+                </div>
+              </li>
+			              <li class="files__item file">
+                <i class="file__icon icon-pdf"></i>
+                <div class="file__content">
+					<a href="/upload/iblock/837/8371d285b386318734321e357e87a8f5.pdf" class="file__name">Размер собственных средств ООО УК ЭСЭ Управление активами по состоянию на 31.10.2016</a>
+					<span class="file__info">.pdf, 235 KB, 09.11.2016 19:23:00. Доступен: не менее 12 месяцев с даты опубликования</span>
+                </div>
+              </li>
+			              <li class="files__item file">
+                <i class="file__icon icon-pdf"></i>
+                <div class="file__content">
+					<a href="/upload/iblock/1d3/1d31c2bedd75f880ca4e7490b7fe30a3.pdf" class="file__name">Аудиторское заключение по МСФО за 2016 год</a>
+					<span class="file__info">.pdf, 1047 KB, 27.04.2017 15:26:00. Доступен: не менее 1 года с даты опубликования</span>
+                </div>
+              </li>
+			              <li class="files__item file">
+                <i class="file__icon icon-pdf"></i>
+                <div class="file__content">
+					<a href="/upload/iblock/988/988e7942033a6b0e8b782fc315069706.pdf" class="file__name">Размер собственных средств ООО "УК "ЭСЭ Управление активами" на 30.09.2016</a>
+					<span class="file__info">.pdf, 222 KB, 11.10.2016 17:18:00. Доступен: не менее 12 месяцев с даты опубликования</span>
+                </div>
+              </li>
+			              <li class="files__item file">
+                <i class="file__icon icon-pdf"></i>
+                <div class="file__content">
+					<a href="/upload/iblock/4ec/4ec97f9fb085b72643731167a482ff5a.pdf" class="file__name">Аудиторское заключение за 2016 г.</a>
+					<span class="file__info">.pdf, 1140 KB, 03.04.2017 15:57:00. Доступен: не менее 1 года с даты опубликования</span>
+                </div>
+              </li>
+			              <li class="files__item file">
+                <i class="file__icon icon-pdf"></i>
+                <div class="file__content">
+					<a href="/upload/iblock/b9e/b9e9b3cee373839b4dc56e1685bbf12a.pdf" class="file__name">Размер собственных средств ООО "УК "ЭСЭ Управление активами" на 31.08.2016</a>
+					<span class="file__info">.pdf, 184 KB, 09.09.2016 10:49:00. Доступен: не менее 12 месяцев с даты опубликования</span>
+                </div>
+              </li>
+			              <li class="files__item file">
+                <i class="file__icon icon-pdf"></i>
+                <div class="file__content">
+					<a href="/upload/iblock/4ee/4ee73792ef3f714ea52a8dbe82a0fed0.pdf" class="file__name">Отчет о финансовых результатах ООО УК ЭСЭ Управление активами по состоянию на 31.12.2016</a>
+					<span class="file__info">.pdf, 51 KB, 23.03.2017 16:35:00. Доступен: не менее 1 года с даты опубликования</span>
+                </div>
+              </li>
+			              <li class="files__item file">
+                <i class="file__icon icon-pdf"></i>
+                <div class="file__content">
+					<a href="/upload/iblock/b37/b37b6144083a4bc032ed090f0b5c947b.pdf" class="file__name">Размер собственных средств ООО УК ЭСЭ Управление активами по состоянию на 31.07.2016</a>
+					<span class="file__info">.pdf, 184 KB, 11.08.2016 11:17:00. Доступен: не менее 12 месяцев с даты опубликования</span>
+                </div>
+              </li>
+			              <li class="files__item file">
+                <i class="file__icon icon-pdf"></i>
+                <div class="file__content">
+					<a href="/upload/iblock/014/0143d6a8abf03e576842b76986d2e158.pdf" class="file__name">Бухгалтерский баланс ООО УК ЭСЭ Управление активами на 31.12.2016</a>
+					<span class="file__info">.pdf, 65 KB, 23.03.2017 16:01:00. Доступен: не менее 1 года с даты опубликования</span>
+                </div>
+              </li>
+			              <li class="files__item file">
+                <i class="file__icon icon-pdf"></i>
+                <div class="file__content">
+					<a href="/upload/iblock/23b/23b73b796d723f7ed15140e9f903ecd0.pdf" class="file__name">Размер собственных средств ООО УК ЭСЭ Управление активами по состоянию на 30.06.2016</a>
+					<span class="file__info">.pdf, 184 KB, 11.07.2016. Доступен: не менее 12 месяцев с даты опубликования</span>
+                </div>
+              </li>
+			              <li class="files__item file">
+                <i class="file__icon icon-pdf"></i>
+                <div class="file__content">
+					<a href="/upload/iblock/3bb/3bb6751e23ea85d7a3414184187a166c.pdf" class="file__name">Отчет о финансовых результатах ООО "УК "ЭСЭ Управление активами" по состоянию на 30.09.2016</a>
+					<span class="file__info">.pdf, 216 KB, 20.10.2016 14:30:00. Доступен: не менее 3 месяцев с даты опубликования</span>
+                </div>
+              </li>
+			              <li class="files__item file">
+                <i class="file__icon icon-pdf"></i>
+                <div class="file__content">
+					<a href="/upload/iblock/1f1/1f1b95397e87bc32f9ac8fac83296753.pdf" class="file__name">Размер собственных средств ООО УК ЭСЭ Управление активами по состоянию на 31.05.2016</a>
+					<span class="file__info">.pdf, 184 KB, 14.06.2016. Доступен: не менее 12 месяцев с даты опубликования</span>
+                </div>
+              </li>
+			              <li class="files__item file">
+                <i class="file__icon icon-pdf"></i>
+                <div class="file__content">
+					<a href="/upload/iblock/816/81693263995abe3a29c8bfbe94a49c1a.pdf" class="file__name">Бухгалтерский баланс ООО "УК "ЭСЭ Управление активами" по состоянию на 30.09.2016</a>
+					<span class="file__info">.pdf, 228 KB, 20.10.2016 14:29:00. Доступен: не менее 3 месяцев с даты опубликования</span>
+                </div>
+              </li>
+			              <li class="files__item file">
+                <i class="file__icon icon-pdf"></i>
+                <div class="file__content">
+					<a href="/upload/iblock/05a/05abcc872ef6a0feb2d302c15be6e02e.pdf" class="file__name">Размер собственных средств ООО УК ЭСЭ Управление активами по состоянию на 30.04.2016</a>
+					<span class="file__info">.pdf, 184 KB, 13.05.2016. Доступен: не менее 12 месяцев с даты опубликования</span>
+                </div>
+              </li>
+			              <li class="files__item file">
+                <i class="file__icon icon-pdf"></i>
+                <div class="file__content">
+					<a href="/upload/iblock/417/4179dd0cc1f49a02e27c0f1ad0473d7f.pdf" class="file__name">Отчет о финансовых результатах ООО УК ЭСЭ Управление активами по состоянию на 30.06.2016</a>
+					<span class="file__info">.pdf, 142 KB, 22.07.2016 16:28:00. Доступен: не менее 3 месяцев с даты опубликования</span>
+                </div>
+              </li>
+			              <li class="files__item file">
+                <i class="file__icon icon-pdf"></i>
+                <div class="file__content">
+					<a href="/upload/iblock/a75/a75cb8458693618575c7e511d7f82582.pdf" class="file__name">Размер собственных средств ООО УК ЭСЭ Управление активами по состоянию на 31.03.2016</a>
+					<span class="file__info">.pdf, 184 KB, 13.04.2016. Доступен: не менее 12 месяцев с даты опубликования</span>
+                </div>
+              </li>
+			              <li class="files__item file">
+                <i class="file__icon icon-pdf"></i>
+                <div class="file__content">
+					<a href="/upload/iblock/e46/e46a9da49af6cfb0b9bfeb1138311ac0.pdf" class="file__name">Бухгалтерский баланс ООО УК ЭСЭ Управление активами по состоянию на 30.06.2016</a>
+					<span class="file__info">.pdf, 153 KB, 22.07.2016. Доступен: не менее 3 месяцев с даты опубликования</span>
+                </div>
+              </li>
+			              <li class="files__item file">
+                <i class="file__icon icon-pdf"></i>
+                <div class="file__content">
+					<a href="/upload/iblock/108/108fd181c6515031d5767318baf8d60e.pdf" class="file__name">Размер собственных средств ООО УК ЭСЭ Управление активами по состоянию на 29.02.2016</a>
+					<span class="file__info">.pdf, 184 KB, 10.03.2016. Доступен: не менее 12 месяцев с даты опубликования</span>
+                </div>
+              </li>
+			              <li class="files__item file">
+                <i class="file__icon icon-pdf"></i>
+                <div class="file__content">
+					<a href="/upload/iblock/445/4452bc223b32e7f3dd6715571c80bc44.pdf" class="file__name">Отчет о финансовых результатах ООО УК ЭСЭ Управление активами по состоянию на 31.03.2016</a>
+					<span class="file__info">.pdf, 142 KB, 25.04.2016. Доступен: не менее 3 месяцев с даты опубликования</span>
+                </div>
+              </li>
+			              <li class="files__item file">
+                <i class="file__icon icon-pdf"></i>
+                <div class="file__content">
+					<a href="/upload/iblock/84e/84e7db0c3234b5442ccd68d81bde7b2f.pdf" class="file__name">Размер собственных средств ООО УК ЭСЭ Управление активами по состоянию на 31.01.2016</a>
+					<span class="file__info">.pdf, 183 KB, 16.02.2016. Доступен: не менее 12 месяцев с даты опубликования</span>
+                </div>
+              </li>
+			              <li class="files__item file">
+                <i class="file__icon icon-pdf"></i>
+                <div class="file__content">
+					<a href="/upload/iblock/ddb/ddb52e7a967a975865c64c4d2a5cbeb2.pdf" class="file__name">Бухгалтерский баланс ООО УК ЭСЭ Управление активами по состоянию на 31.03.2016</a>
+					<span class="file__info">.pdf, 153 KB, 25.04.2016. Доступен: не менее 3 месяцев с даты опубликования</span>
+                </div>
+              </li>
+			              <li class="files__item file">
+                <i class="file__icon icon-pdf"></i>
+                <div class="file__content">
+					<a href="/upload/iblock/1d3/1d366864a58d1382e79172f112edd453.pdf" class="file__name">Список аффилированных лиц ООО "УК "ЭСЭ Управление активами"</a>
+					<span class="file__info">.pdf, 241 KB, 18.07.2016.</span>
+                </div>
+              </li>
+			              <li class="files__item file">
+                <i class="file__icon icon-pdf"></i>
+                <div class="file__content">
+					<a href="/upload/iblock/195/19573b580a7c81622901effb50caadbb.pdf" class="file__name">Список аффилированных лиц ООО "УК "ЭСЭ Управление активами"</a>
+					<span class="file__info">.pdf, 246 KB, 30.12.2016 19:35:00.</span>
+                </div>
+              </li>
+					</ul>
+			</div>
+		<div class="tabs__tab" role="tabpanel" data-id="info-8" id="info-8">
+		         <ul class="files">
+			              <li class="files__item file">
+                <i class="file__icon icon-pdf"></i>
+                <div class="file__content">
+					<a href="/upload/iblock/fb3/fb38c73144b2e980c95f6bbd3fee003b.pdf" class="file__name">Размер собственных средств ООО УК ЭСЭ Управление активами по состоянию на 31.12.2015</a>
+					<span class="file__info">.pdf, 181 KB, 27.01.2016. Доступен: не менее 12 месяцев с даты опубликования</span>
+                </div>
+              </li>
+			              <li class="files__item file">
+                <i class="file__icon icon-pdf"></i>
+                <div class="file__content">
+					<a href="/upload/iblock/65b/65be6c0b2313f346b9a663fe7e40cc5d.pdf" class="file__name">Размер собственных средств ООО УК ЭСЭ Управление активами по состоянию на 30.11.2015</a>
+					<span class="file__info">.pdf, 183 KB, 11.12.2015. Доступен: не менее 12 месяцев с даты опубликования</span>
+                </div>
+              </li>
+			              <li class="files__item file">
+                <i class="file__icon icon-pdf"></i>
+                <div class="file__content">
+					<a href="/upload/iblock/607/6074501a58f5d259710cb48e6c2d9235.pdf" class="file__name">Финансовая отчетность ООО "УК "ЭСЭ Управление активами" в соответствии с МСФО за 2015 г.</a>
+					<span class="file__info">.pdf, 1318 KB, 29.04.2016. Доступен: не менее 1 года с даты опубликования</span>
+                </div>
+              </li>
+			              <li class="files__item file">
+                <i class="file__icon icon-pdf"></i>
+                <div class="file__content">
+					<a href="/upload/iblock/024/0241d34850d930fac65fe063d8f06de7.pdf" class="file__name">Размер собственных средств ООО УК ЭСЭ Управление активами по состоянию на 31.10.2015</a>
+					<span class="file__info">.pdf, 181 KB, 13.11.2015. Доступен: не менее 12 месяцев с даты опубликования</span>
+                </div>
+              </li>
+			              <li class="files__item file">
+                <i class="file__icon icon-pdf"></i>
+                <div class="file__content">
+					<a href="/upload/iblock/246/2460a1c7764e0875b3feb84fa0cb0022.pdf" class="file__name">Аудиторское заключение по МСФО ООО УК ЭСЭ Управление активами за 2015 год</a>
+					<span class="file__info">.pdf, 1642 KB, 28.04.2016. Доступен: не менее 1 года с даты опубликования</span>
+                </div>
+              </li>
+			              <li class="files__item file">
+                <i class="file__icon icon-pdf"></i>
+                <div class="file__content">
+					<a href="/upload/iblock/31a/31a7f0d43facc1f9d03785ab9dfcbe95.pdf" class="file__name">Размер собственных средств ООО УК ЭСЭ Управление активами по состоянию на 30.09.2015</a>
+					<span class="file__info">.pdf, 181 KB, 26.10.2015. Доступен: не менее 12 месяцев с даты опубликования</span>
+                </div>
+              </li>
+			              <li class="files__item file">
+                <i class="file__icon icon-pdf"></i>
+                <div class="file__content">
+					<a href="/upload/iblock/57a/57a278768b49dde82470cdf2411589eb.pdf" class="file__name">Аудиторское заключение ООО УК ЭСЭ Управление активами за 2015 год</a>
+					<span class="file__info">.pdf, 810 KB, 16.03.2016. Доступен: не менее 1 года с даты опубликования</span>
+                </div>
+              </li>
+			              <li class="files__item file">
+                <i class="file__icon icon-pdf"></i>
+                <div class="file__content">
+					<a href="/upload/iblock/5ef/5efec0773bdccddff08a070959a38133.pdf" class="file__name">Размер собственных средств ООО УК ЭСЭ Управление активами по состоянию на 31.08.2015</a>
+					<span class="file__info">.pdf, 181 KB, 23.09.2015. Доступен: не менее 12 месяцев с даты опубликования</span>
+                </div>
+              </li>
+			              <li class="files__item file">
+                <i class="file__icon icon-pdf"></i>
+                <div class="file__content">
+					<a href="/upload/iblock/fa0/fa0355ccf0ea3f9c8375b9f039b4d8b2.pdf" class="file__name">Отчет о финансовых результатах ООО УК ЭСЭ Управление активами по состоянию на 31.12.2015</a>
+					<span class="file__info">.pdf, 141 KB, 03.03.2016. Доступен: не менее 1 года с даты опубликования</span>
+                </div>
+              </li>
+			              <li class="files__item file">
+                <i class="file__icon icon-pdf"></i>
+                <div class="file__content">
+					<a href="/upload/iblock/40a/40a9234486cc790b4edd3a5f83d1a54a.pdf" class="file__name">Размер собственных средств ООО УК ЭСЭ Управление активами по состоянию на 31.07.2015</a>
+					<span class="file__info">.pdf, 181 KB, 20.08.2015. Доступен: не менее 12 месяцев с даты опубликования</span>
+                </div>
+              </li>
+			              <li class="files__item file">
+                <i class="file__icon icon-pdf"></i>
+                <div class="file__content">
+					<a href="/upload/iblock/91f/91f49f713310d5deb32a86ecc20651d5.pdf" class="file__name">Бухгалтерский баланс ООО УК ЭСЭ Управление активами по состоянию на 31.12.2015</a>
+					<span class="file__info">.pdf, 153 KB, 03.03.2016. Доступен: не менее 1 года с даты опубликования</span>
+                </div>
+              </li>
+			              <li class="files__item file">
+                <i class="file__icon icon-pdf"></i>
+                <div class="file__content">
+					<a href="/upload/iblock/e43/e435b408bdb2718e3ac3d1134105d764.pdf" class="file__name">Размер собственных средств ООО УК ЭСЭ Управление активами по состоянию на 30.06.2015</a>
+					<span class="file__info">.pdf, 181 KB, 24.07.2015. Доступен: не менее 12 месяцев с даты опубликования</span>
+                </div>
+              </li>
+			              <li class="files__item file">
+                <i class="file__icon icon-pdf"></i>
+                <div class="file__content">
+					<a href="/upload/iblock/4f1/4f1b3a16f8123f48aa2ab181f9b2e988.pdf" class="file__name">Отчет о финансовых результатах ООО УК ЭСЭ Управление активами по состоянию на 30.09.2015</a>
+					<span class="file__info">.pdf, 142 KB, 26.10.2015. Доступен: не менее 3 месяцев с даты опубликования</span>
+                </div>
+              </li>
+			              <li class="files__item file">
+                <i class="file__icon icon-pdf"></i>
+                <div class="file__content">
+					<a href="/upload/iblock/a53/a53cfa6379f71e184492a5fba1499b49.pdf" class="file__name">Размер собственных средств ООО УК ЭСЭ Управление активами по состоянию на 31.05.2015</a>
+					<span class="file__info">.pdf, 181 KB, 24.06.2015. Доступен: не менее 12 месяцев с даты опубликования</span>
+                </div>
+              </li>
+			              <li class="files__item file">
+                <i class="file__icon icon-pdf"></i>
+                <div class="file__content">
+					<a href="/upload/iblock/ade/aded699ed9db3be841eaeab0b2193e4c.pdf" class="file__name">Бухгалтерский баланс ООО УК ЭСЭ Управление активами по состоянию на 30.09.2015</a>
+					<span class="file__info">.pdf, 153 KB, 26.10.2015. Доступен: не менее 3 месяцев с даты опубликования</span>
+                </div>
+              </li>
+			              <li class="files__item file">
+                <i class="file__icon icon-pdf"></i>
+                <div class="file__content">
+					<a href="/upload/iblock/27e/27e164f0d33a2fbfe0a975876e4c3c3d.pdf" class="file__name">Размер собственных средств ООО УК ЭСЭ Управление активами по состоянию на 30.04.2015</a>
+					<span class="file__info">.pdf, 181 KB, 14.05.2015. Доступен: не менее 12 месяцев с даты опубликования</span>
+                </div>
+              </li>
+			              <li class="files__item file">
+                <i class="file__icon icon-pdf"></i>
+                <div class="file__content">
+					<a href="/upload/iblock/9fa/9fade90e17c8aa1147616f0effcf836d.pdf" class="file__name">Отчет о финансовых результатах ООО УК ЭСЭ Управление активами по состоянию на 30.06.2015</a>
+					<span class="file__info">.pdf, 142 KB, 24.07.2015. Доступен: не менее 3 месяцев с даты опубликования</span>
+                </div>
+              </li>
+			              <li class="files__item file">
+                <i class="file__icon icon-pdf"></i>
+                <div class="file__content">
+					<a href="/upload/iblock/b5d/b5df880e274d6dc9fe653d5dadcbd549.pdf" class="file__name">Размер собственных средств ООО УК ЭСЭ Управление активами по состоянию на 31.03.2015</a>
+					<span class="file__info">.pdf, 180 KB, 24.04.2015. Доступен: не менее 12 месяцев с даты опубликования</span>
+                </div>
+              </li>
+			              <li class="files__item file">
+                <i class="file__icon icon-pdf"></i>
+                <div class="file__content">
+					<a href="/upload/iblock/9d6/9d677f0a1280f721128f1edc2bbeeab6.pdf" class="file__name">Бухгалтерский баланс ООО УК ЭСЭ Управление активами по состоянию на 30.06.2015</a>
+					<span class="file__info">.pdf, 154 KB, 24.07.2015. Доступен: не менее 3 месяцев с даты опубликования</span>
+                </div>
+              </li>
+			              <li class="files__item file">
+                <i class="file__icon icon-pdf"></i>
+                <div class="file__content">
+					<a href="/upload/iblock/f2b/f2b4add2e2006b8df5e855d473df48fd.pdf" class="file__name">Размер собственных средств ООО УК ЭСЭ Управление активами по состоянию на 28.02.2015</a>
+					<span class="file__info">.pdf, 181 KB, 20.03.2015. Доступен: не менее 12 месяцев с даты опубликования</span>
+                </div>
+              </li>
+			              <li class="files__item file">
+                <i class="file__icon icon-pdf"></i>
+                <div class="file__content">
+					<a href="/upload/iblock/900/9001ebea5b942b6f08b679e9f6367ea4.pdf" class="file__name">Отчет о финансовых результатах ООО УК ЭСЭ Управление активами по состоянию на 31.03.2015</a>
+					<span class="file__info">.pdf, 140 KB, 24.04.2015. Доступен: не менее 3 месяцев с даты опубликования</span>
+                </div>
+              </li>
+			              <li class="files__item file">
+                <i class="file__icon icon-pdf"></i>
+                <div class="file__content">
+					<a href="/upload/iblock/e58/e58ee4d1c32237d677983c9cf3de0fc4.pdf" class="file__name">Размер собственных средств ООО УК ЭСЭ Управление активами по состоянию на 31.01.2015</a>
+					<span class="file__info">.pdf, 180 KB, 26.02.2015. Доступен: не менее 12 месяцев с даты опубликования</span>
+                </div>
+              </li>
+			              <li class="files__item file">
+                <i class="file__icon icon-pdf"></i>
+                <div class="file__content">
+					<a href="/upload/iblock/e41/e41ab7a995cddceb7ab272cef30d727e.pdf" class="file__name">Бухгалтерский баланс ООО УК ЭСЭ Управление активами по состоянию на 31.03.2015</a>
+					<span class="file__info">.pdf, 151 KB, 24.04.2015. Доступен: не менее 3 месяцев с даты опубликования</span>
+                </div>
+              </li>
+			              <li class="files__item file">
+                <i class="file__icon icon-pdf"></i>
+                <div class="file__content">
+					<a href="/upload/iblock/754/754decbcac828927780cb3f5628bdbdf.pdf" class="file__name">Список аффилированных лиц ООО УК ЭСЭ Управление активами</a>
+					<span class="file__info">.pdf, 28 KB, 13.07.2015.</span>
+                </div>
+              </li>
+					</ul>
+			</div>
+		<div class="tabs__tab" role="tabpanel" data-id="info-9" id="info-9">
+		         <ul class="files">
+			              <li class="files__item file">
+                <i class="file__icon icon-pdf"></i>
+                <div class="file__content">
+					<a href="/upload/iblock/b7b/b7bb0d131d1b67f5a88adbb4221f1049.pdf" class="file__name">Размер собственных средств ООО УК ЭСЭ Управление активами по состоянию на 31.12.2014</a>
+					<span class="file__info">.pdf, 180 KB, 28.01.2015. Доступен: не менее 12 месяцев с даты опубликования</span>
+                </div>
+              </li>
+			              <li class="files__item file">
+                <i class="file__icon icon-pdf"></i>
+                <div class="file__content">
+					<a href="/upload/iblock/364/364c4756fa82a8ec21174a8910a3fff3.pdf" class="file__name">Размер собственных средств ООО УК ЭСЭ Управление активами по состоянию на 30.11.2014</a>
+					<span class="file__info">.pdf, 180 KB, 23.12.2014. Доступен: не менее 12 месяцев с даты опубликования</span>
+                </div>
+              </li>
+			              <li class="files__item file">
+                <i class="file__icon icon-pdf"></i>
+                <div class="file__content">
+					<a href="/upload/iblock/81a/81a2365a6aeed6e00f89200038e89e04.pdf" class="file__name">Размер собственных средств ООО УК ЭСЭ по состоянию на 31.10.2014</a>
+					<span class="file__info">.pdf, 180 KB, 19.11.2014. Доступен: не менее 12 месяцев с даты опубликования</span>
+                </div>
+              </li>
+			              <li class="files__item file">
+                <i class="file__icon icon-pdf"></i>
+                <div class="file__content">
+					<a href="/upload/iblock/8e6/8e6775917ad8502fb3075847dac2a199.pdf" class="file__name">Размер собственных средств ООО УК ЭСЭ Управление активами по состоянию на 30.09.2014</a>
+					<span class="file__info">.pdf, 181 KB, 14.10.2014. Доступен: не менее 12 месяцев с даты опубликования</span>
+                </div>
+              </li>
+			              <li class="files__item file">
+                <i class="file__icon icon-pdf"></i>
+                <div class="file__content">
+					<a href="/upload/iblock/cb9/cb903f99807275de913d15dbcfc9e4cb.pdf" class="file__name">Отчет о финансовых результатах ООО "УК "ЭСЭ Управление активами" по состоянию на 31.12.2014</a>
+					<span class="file__info">.pdf, 142 KB, 31.03.2015. Доступен: не менее 1 года с даты опубликования</span>
+                </div>
+              </li>
+			              <li class="files__item file">
+                <i class="file__icon icon-pdf"></i>
+                <div class="file__content">
+					<a href="/upload/iblock/4c9/4c95e975e94b2cacf731ff4969603f26.pdf" class="file__name">Размер собственных средств ООО УК ЭСЭ по состоянию на 31 08 2014</a>
+					<span class="file__info">.pdf, 181 KB, 24.09.2014. Доступен: не менее 12 месяцев с даты опубликования</span>
+                </div>
+              </li>
+			              <li class="files__item file">
+                <i class="file__icon icon-pdf"></i>
+                <div class="file__content">
+					<a href="/upload/iblock/7b8/7b84d2ef6c7e72fff200f747d149bd53.pdf" class="file__name">Бухгалтерский баланс ООО "УК "ЭСЭ Управление активами" по состоянию на 31.12.2014</a>
+					<span class="file__info">.pdf, 152 KB, 31.03.2015. Доступен: не менее 1 года с даты опубликования</span>
+                </div>
+              </li>
+			              <li class="files__item file">
+                <i class="file__icon icon-pdf"></i>
+                <div class="file__content">
+					<a href="/upload/iblock/398/398f35afa0cad426d0efee70a1e5b02c.pdf" class="file__name">Размер собственных средств ООО УК ЭСЭ УА по состоянию на 31 07 2014</a>
+					<span class="file__info">.pdf, 179 KB, 12.08.2014. Доступен: не менее 12 месяцев с даты опубликования</span>
+                </div>
+              </li>
+			              <li class="files__item file">
+                <i class="file__icon icon-pdf"></i>
+                <div class="file__content">
+					<a href="/upload/iblock/df4/df4d5c54bcb9c052f96b6324d4a4cb39.pdf" class="file__name">Аудиторское заключение ООО УК ЭСЭ Управление активами за 2014 год</a>
+					<span class="file__info">.pdf, 2545 KB, 29.06.2015. Доступен: не менее 1 года с даты опубликования</span>
+                </div>
+              </li>
+			              <li class="files__item file">
+                <i class="file__icon icon-pdf"></i>
+                <div class="file__content">
+					<a href="/upload/iblock/4e6/4e69ff395471d4bdcb8a92412152d1d2.pdf" class="file__name">Размер собственных средств ООО УК ЭСЭ УА по состоянию на 30.06.2014</a>
+					<span class="file__info">.pdf, 179 KB, 17.07.2014. Доступен: не менее 12 месяцев с даты опубликования</span>
+                </div>
+              </li>
+			              <li class="files__item file">
+                <i class="file__icon icon-pdf"></i>
+                <div class="file__content">
+					<a href="/upload/iblock/98f/98ff6b3f8424fa9205f02f30dc52b471.pdf" class="file__name">Бухгалтерский баланс ООО УК ЭСЭ Управление активами по состоянию на 30.09.2014</a>
+					<span class="file__info">.pdf, 198 KB, 31.03.2015. Доступен: не менее 3 месяцев с даты опубликования</span>
+                </div>
+              </li>
+			              <li class="files__item file">
+                <i class="file__icon icon-pdf"></i>
+                <div class="file__content">
+					<a href="/upload/iblock/cbe/cbeff1c5c8f51f55a61d35d402eb54ba.pdf" class="file__name">Размер собственных средств ООО УК ЭСЭ Управление активами по состоянию на 31 05 2014</a>
+					<span class="file__info">.pdf, 179 KB, 19.06.2014. Доступен: не менее 12 месяцев с даты опубликования</span>
+                </div>
+              </li>
+			              <li class="files__item file">
+                <i class="file__icon icon-pdf"></i>
+                <div class="file__content">
+					<a href="/upload/iblock/6f6/6f6cd8bdc8f149959fc76ef669b6df92.pdf" class="file__name">Отчет о финансовых результатах ООО УК ЭСЭ Управление активами по состоянию на 30.09.2014</a>
+					<span class="file__info">.pdf, 142 KB, 31.03.2015. Доступен: не менее 3 месяцев с даты опубликования</span>
+                </div>
+              </li>
+			              <li class="files__item file">
+                <i class="file__icon icon-pdf"></i>
+                <div class="file__content">
+					<a href="/upload/iblock/e0f/e0f1c45606f53637cfc3782d799d747c.pdf" class="file__name">Размер собственных средств ООО УК ЭСЭ Управление активами по состоянию на 30 04 2014</a>
+					<span class="file__info">.pdf, 179 KB, 28.05.2014. Доступен: не менее 12 месяцев с даты опубликования</span>
+                </div>
+              </li>
+			              <li class="files__item file">
+                <i class="file__icon icon-pdf"></i>
+                <div class="file__content">
+					<a href="/upload/iblock/960/960d52ad0b4b5946822cdd6d98bd7838.pdf" class="file__name">Отчет о финансовых результатах ООО УК ЭСЭ УА по состоянию на 30.06.2014</a>
+					<span class="file__info">.pdf, 142 KB, 17.07.2014. Доступен: не менее 3 месяцев с даты опубликования</span>
+                </div>
+              </li>
+			              <li class="files__item file">
+                <i class="file__icon icon-pdf"></i>
+                <div class="file__content">
+					<a href="/upload/iblock/269/2694534749f373247f4e5d80fe49e017.pdf" class="file__name">Размер собственных средств ООО УК ЭСЭ Управление активами по состоянию на 31.03.2014</a>
+					<span class="file__info">.pdf, 179 KB, 16.04.2014. Доступен: не менее 12 месяцев с даты опубликования</span>
+                </div>
+              </li>
+			              <li class="files__item file">
+                <i class="file__icon icon-pdf"></i>
+                <div class="file__content">
+					<a href="/upload/iblock/23e/23e5862b2fd588e60e8087f7e582395f.pdf" class="file__name">Бухгалтерский баланс ООО УК ЭСЭ Управление активами по состоянию на 30.06.2014</a>
+					<span class="file__info">.pdf, 153 KB, 17.07.2014. Доступен: не менее 3 месяцев с даты опубликования</span>
+                </div>
+              </li>
+			              <li class="files__item file">
+                <i class="file__icon icon-pdf"></i>
+                <div class="file__content">
+					<a href="/upload/iblock/e00/e00937ef3cc095c1e42bb09cf1391f8a.pdf" class="file__name">Размер собственных средств ООО УК ЭСЭ Управление активами по состоянию на 28.02.2014</a>
+					<span class="file__info">.pdf, 179 KB, 18.03.2014. Доступен: не менее 12 месяцев с даты опубликования</span>
+                </div>
+              </li>
+			              <li class="files__item file">
+                <i class="file__icon icon-pdf"></i>
+                <div class="file__content">
+					<a href="/upload/iblock/637/63759a3da2713cfbf4a8a48cdd8b5265.pdf" class="file__name">Отчет о финансовых результатах ООО УК ЭСЭ Управление активами по состоянию на 31.03.2014</a>
+					<span class="file__info">.pdf, 142 KB, 31.03.2015. Доступен: не менее 3 месяцев с даты опубликования</span>
+                </div>
+              </li>
+			              <li class="files__item file">
+                <i class="file__icon icon-pdf"></i>
+                <div class="file__content">
+					<a href="/upload/iblock/4a9/4a930e9bbf65f62e8ae1ac58efe13177.pdf" class="file__name">Список аффилированных лиц УК</a>
+					<span class="file__info">.pdf, 141 KB, 15.04.2014.</span>
+                </div>
+              </li>
+			              <li class="files__item file">
+                <i class="file__icon icon-pdf"></i>
+                <div class="file__content">
+					<a href="/upload/iblock/a10/a103f14018bcd2070c4841f0480f0c1a.pdf" class="file__name">Размер собственных средств ООО УК ЭСЭ Управление активами по состоянию на 31.01.2014</a>
+					<span class="file__info">.pdf, 179 KB, 25.02.2014. Доступен: не менее 12 месяцев с даты опубликования</span>
+                </div>
+              </li>
+			              <li class="files__item file">
+                <i class="file__icon icon-pdf"></i>
+                <div class="file__content">
+					<a href="/upload/iblock/7d3/7d3164489ce966ef03d078a1dc8a0048.pdf" class="file__name">20140225 Список аффилированных лиц УК</a>
+					<span class="file__info">.pdf, 141 KB, 25.02.2014.</span>
+                </div>
+              </li>
+			              <li class="files__item file">
+                <i class="file__icon icon-pdf"></i>
+                <div class="file__content">
+					<a href="/upload/iblock/8d2/8d2043f319c79452a70999d2e9ecdbf1.pdf" class="file__name">Бухгалтерский баланс ООО УК ЭСЭ Управление активами по состоянию на 31.03.2014</a>
+					<span class="file__info">.pdf, 153 KB, 16.04.2014. Доступен: не менее 3 месяцев с даты опубликования</span>
+                </div>
+              </li>
+			              <li class="files__item file">
+                <i class="file__icon icon-pdf"></i>
+                <div class="file__content">
+					<a href="/upload/iblock/08f/08fc200e752f9d7e64e7b8c683e2e655.pdf" class="file__name">Информация о структуре и составе участников управляющей компании</a>
+					<span class="file__info">.pdf, 186 KB, 22.12.2014. Доступен: до исключения из реестра лицензий сведений об УК</span>
+                </div>
+              </li>
+					</ul>
+			</div>
+		<div class="tabs__tab" role="tabpanel" data-id="info-10" id="info-10">
+		         <ul class="files">
+			              <li class="files__item file">
+                <i class="file__icon icon-pdf"></i>
+                <div class="file__content">
+					<a href="/upload/iblock/043/043a2087a231454cbcfc6e7ea4516db8.pdf" class="file__name">Аудиторское заключение 2013</a>
+					<span class="file__info">.pdf, 3690 KB, 21.04.2014. Доступен: не менее 1 года с даты опубликования</span>
+                </div>
+              </li>
+			              <li class="files__item file">
+                <i class="file__icon icon-pdf"></i>
+                <div class="file__content">
+					<a href="/upload/iblock/430/430219c38123673cd490122a068d272c.pdf" class="file__name">Бухгалтерский баланс ООО УК ЭСЭ Управление активами по состоянию на 31.12.2013</a>
+					<span class="file__info">.pdf, 152 KB, 25.02.2014. Доступен: не менее 1 года с даты опубликования</span>
+                </div>
+              </li>
+			              <li class="files__item file">
+                <i class="file__icon icon-pdf"></i>
+                <div class="file__content">
+					<a href="/upload/iblock/746/746345333df4c181c5da716094177be2.pdf" class="file__name">Отчет о финансовых результатах ООО УК ЭСЭ Управление активами по состоянию на 31.12.2013</a>
+					<span class="file__info">.pdf, 142 KB, 25.02.2014. Доступен: не менее 1 года с даты опубликования</span>
+                </div>
+              </li>
+			              <li class="files__item file">
+                <i class="file__icon icon-pdf"></i>
+                <div class="file__content">
+					<a href="/upload/iblock/10c/10c88b75e14cef87fd60c1fcb1f170d3.zip" class="file__name">Финансовая отчетность УК 3К2013</a>
+					<span class="file__info">.zip, 29 KB, 21.10.2013. Доступен: не менее 3 месяцев с даты опубликования</span>
+                </div>
+              </li>
+			              <li class="files__item file">
+                <i class="file__icon icon-pdf"></i>
+                <div class="file__content">
+					<a href="/upload/iblock/95c/95c6f86dae567f5706f76744fdcf7d50.pdf" class="file__name">Устав ООО "УК "ЭСЭ Управление активами"</a>
+					<span class="file__info">.pdf, 406 KB, 23.03.2013 11:22:00. Доступен: до исключения из реестра лицензий сведений об УК</span>
+                </div>
+              </li>
+			              <li class="files__item file">
+                <i class="file__icon icon-pdf"></i>
+                <div class="file__content">
+					<a href="/upload/iblock/221/2213a208e2eae25c0d3ec91855151a53.pdf" class="file__name">Свидетельство о государственной регистрации ООО "УК "ЭСЭ Управление активами"</a>
+					<span class="file__info">.pdf, 835 KB, 23.03.2013 11:27:00. Доступен: до исключения из реестра лицензий сведений об УК</span>
+                </div>
+              </li>
+			              <li class="files__item file">
+                <i class="file__icon icon-pdf"></i>
+                <div class="file__content">
+					<a href="/upload/iblock/45e/45e2ced82cbdeac1e750d433a1675022.pdf" class="file__name">Свидетельство о постановке на налоговый учет ООО "УК "ЭСЭ Управление активами"</a>
+					<span class="file__info">.pdf, 856 KB, 23.03.2013 11:28:00. Доступен: до исключения из реестра лицензий сведений об УК</span>
+                </div>
+              </li>
+			              <li class="files__item file">
+                <i class="file__icon icon-pdf"></i>
+                <div class="file__content">
+					<a href="/upload/iblock/ad8/ad87a7a72677dd07fdb11f755d2f4492.pdf" class="file__name">Лицензия ПИФ НПФ</a>
+					<span class="file__info">.pdf, 344 KB, 04.04.2013. Доступен: до исключения из реестра лицензий сведений об УК</span>
+                </div>
+              </li>
+			              <li class="files__item file">
+                <i class="file__icon icon-pdf"></i>
+                <div class="file__content">
+					<a href="/upload/iblock/df8/df8f6ea5103f3cc5c5cb813dfe6a104f.zip" class="file__name">Список аффилированных лиц УК</a>
+					<span class="file__info">.zip, 54 KB, 06.05.2013.</span>
+                </div>
+              </li>
+			              <li class="files__item file">
+                <i class="file__icon icon-pdf"></i>
+                <div class="file__content">
+					<a href="/upload/iblock/a07/a071dd7816a460b282b95fbc251454b6.zip" class="file__name">Финансовая отчетность УК</a>
+					<span class="file__info">.zip, 57 KB, 25.07.2013. Доступен: не менее 1 года с даты опубликования</span>
+                </div>
+              </li>
+			              <li class="files__item file">
+                <i class="file__icon icon-pdf"></i>
+                <div class="file__content">
+					<a href="/upload/iblock/0d4/0d4be2b0df79bd6eec9a0df84cafdc8c.rtf" class="file__name">Список аффилированных лиц на 26.08.2013</a>
+					<span class="file__info">.rtf, 189 KB, 17.12.2013.</span>
+                </div>
+              </li>
+					</ul>
+			</div>
+			</div>
+</div>			  
+          
+  <div class="about">
+    <article class="article">
+  <div class="highlight">
+    <div class="text-cols" data-columns="2">
+		<p>
+	 Сообщаем о возможности увеличения и уменьшения дохода от размещения пенсионных резервов и инвестирования пенсионных накоплений, а также о том, что стоимость инвестиционных паёв может увеличиваться и уменьшаться.
+</p>
+<p>
+	 Результаты инвестирования в прошлом не определяют доходов в будущем.
+</p>
+<p>
+	 Государство не гарантирует доходность инвестиций в паевые инвестиционные фонды, доходность от размещения пенсионных резервов и инвестирования пенсионных накоплений.
+</p>
+<p>
+	 Перед приобретением инвестиционных паёв следует внимательно ознакомиться с правилами доверительного управления паевым фондом.
+</p>
+<p>
+	 До заключения соответствующего договора заинтересованные лица могут ознакомиться с условиями управления активами, получить сведения об ООО «УК «ЭСЭ Управление активами» и иную информацию, которая должна быть предоставлена в соответствии с действующим законодательством и иными нормативными актами в сфере финансовых рынков по адресу: 101000, г. Москва, ул. Чаплыгина, д. 11, пом. 2.5, по телефону: +7 (495) 783-09-53, а также на сайте ООО «УК «ЭСЭ Управление активами» в сети Интернет по адресу: <a href="http://www.am-ese.ru">www.am-ese.ru</a>
+</p>    </div>
+    </div>
+	
+	<p>
+	 Для ознакомления с материалами вам могут понадобиться программы, позволяющие открывать файлы с расширениями&nbsp;*.doc, *.docx, *.rtf, *.xls, *.xlsx, *.pdf.
+</p>
+<p>
+	 Раскрываемая на сайте информация находится в постоянном доступе. Информация о расчёте <a href="/company/info/otchetnost-upravlyayushchey-kompanii/">размера собственных средств</a> доступна&nbsp; в течение трёх лет со дня её&nbsp;раскрытия.
+</p>
+    
+</article>  </div>
+    </div></main>
+
+    <footer class="footer">
+  <div class="container">
+    <div class="footer__top">
+      <div class="row row-md-bottom">
+        <div class="footer__logo-col col-xs-12 col-md-3">
+          <a href="/"><img src="/images/logo.svg" alt="логотип Электро стекло" class="footer__logo"></a>
+          <p class="footer__copyright">2023 г. © УК «ЭСЭ Управление активами»</p>
+        </div>
+
+        <div class="footer__links-col col-xs-12 col-md-4">
+          <p class="footer__links">
+            <a href="/company/info/" class="footer__links-item">Раскрытие информации</a>
+            <a href="/policy/" class="footer__links-item">Политика защиты персональных данных</a>
+            <a href="/search/map.php" class="footer__links-item">Карта сайта</a>
+          </p>
+        </div>
+
+        <div class="footer__contacts-col col-xs-12 col-md-5">
+         <a href="tel:+74957830953" class="footer__phone phone link-hidden">+7 (495) 783-09-53</a>
+<p class="footer__address">101000, г. Москва, ул. Чаплыгина, д. 11, пом. 2.5</p>
+          <p class="footer__created-by">Создание сайта — <a href="http://www.hcube.ru" target="_blank">HCube</a></p>
+        </div>
+      </div>
+    </div>
+  </div>
+</footer>
+
+
+		<script>
+		$(document).ready(function(){
+			$('#cookies_warning').slideDown();
+			$('#ok').click(function(e){
+				e.preventDefault();
+
+				$.get('/ajax/soc.php?cookies_ok=yes', function(data) {
+					$('#cookies_warning').slideUp();
+				});
+
+			});	
+		});
+	</script>
+	  <div class="cookiewarning" id="cookies_warning" style="display: block; overflow: hidden; height: 160.004px; padding-top: 19.6456px; margin-top: 0px; padding-bottom: 0px; margin-bottom: 0px;">
+        <div class="container">
+            <div class="row">
+				<p><strong>Мы используем cookie</strong><br>
+Мы используем cookie – фрагмент данных о прошлых посещениях сайта, который хранится на Вашем компьютере или ином устройстве. Это позволяет нам анализировать взаимодействие посетителей с сайтом и делать его лучше. Продолжая пользоваться сайтом, вы соглашаетесь с использованием файлов cookie. Вы можете запретить сохранение cookie в настройках своего браузера. 
+
+</p>
+				<div style="text-align: center; padding-bottom: 10px;"><a href="#" id="ok" class="button button_outline_primary">OK</a></div>
+
+			</div>
+		</div>
+	</div>
+	
+
+  </div>
+
+  <form id="modal-call-back" action="#" class="modal mfp-hide" data-component="form" novalidate="">
+  <div class="modal__content">
+    <div class="modal__header">
+      <h3 class="modal__title">Есть вопросы?</h3>
+      <p>Оставьте телефон, мы вам перезвоним</p>
+    </div>
+    
+      <div class="form__group">
+        <div class="form__label form__message"></div>
+        <input type="text" class="form__control" placeholder="Телефон" data-element="phone-mask" required="" name="phone" inputmode="text">
+      </div>
+      <div class="form__group">
+        <input type="text" class="form__control" placeholder="Ваше имя" name="name">
+      </div>
+      <div class="form__group mail">
+        <input type="text" class="form__control" placeholder="Email" name="mail">
+      </div>
+      <div class="form__submit">
+        <input type="submit" class="button button_outline_primary button_block" value="Перезвоните мне">
+      </div>
+    
+  </div></form>
+
+
+  <div id="modal-success" class="modal text-center mfp-with-anim mfp-hide">
+  <h2 class="modal__title">Спасибо!</h2>
+  <p>Наш менеджер свяжется с&nbsp;вами в&nbsp;ближайшее время!</p>
+</div>
+  
+  
+
+  <script src="/js/app.js?123471"></script>
+
+
+<script>
+	$(document).ready(function(){
+		$('.nav__link.has-menu').click(function(){
+			if($(window).width()<1024) $(this).next().slideToggle();
+		});
+	});
+</script>
+
+
+

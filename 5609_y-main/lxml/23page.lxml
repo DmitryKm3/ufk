@@ -1,0 +1,706 @@
+
+<!-- ВНЕШНЯЯ СЛУЖЕБНАЯ ТАБЛИЦА -->
+<table width="0,9" cellspacing="0" cellpadding="0" border="0" align="center">
+<tbody><tr>
+  <td></td>
+  <td class="mainarea">
+	<a name="up"></a>
+<!-- ШАПКА САЙТА -->
+	<table width="100%" cellspacing="0" cellpadding="0" border="0">
+		<tbody><tr valign="bottom">
+			<td valign="top">
+				<table width="1" cellspacing="0" cellpadding="0" border="0">
+					<tbody><tr><td class="areablue"><img src="/images/spacer.gif" width="12" height="140"></td></tr>
+				</tbody></table>
+			</td>
+			<td>
+<!-- ЛОГОТИП И ССЫЛКИ ПОД ЛОГОТИПОМ -->
+				<table width="100%" cellspacing="0" cellpadding="0" border="0">
+					<tbody><tr><td align="right"><a href="/"><img src="/images/logo.gif" width="215" height="84" alt="Управляющая компания Мономах"></a></td></tr>
+					<tr height="43"><td align="center">
+						<table width="65%" cellspacing="0" cellpadding="0" border="0">
+							<tbody><tr valign="top">
+								<td><img src="/images/spacer.gif" width="18" height="43"></td>
+								<td width="33%" align="center"><p class="logomenu"><a class="logomenu" href="/index.php?id=about"><nobr>О компании</nobr></a></p></td>
+								<td><img src="/images/spacer.gif" width="18" height="1"></td>
+								<td width="34%" align="center"><p class="logomenu"><a class="logomenu" href="/index.php?id=news_main"><nobr>Новости</nobr></a></p></td>
+								<td><img src="/images/spacer.gif" width="18" height="1"></td>
+								<td width="33%" align="center"><p class="logomenu"><a class="logomenu" href="/index.php?id=contact"><nobr>Контакты</nobr></a></p></td>
+							</tr>
+						</tbody></table>
+					</td></tr>
+					<tr height="1"><td><img src="/images/spacer.gif" width="300" height="1"></td></tr>
+				</tbody></table>
+<!-- КОНЕЦ логотипа и ссылок под логотипом -->
+			</td>
+			<td width="100%">
+<!-- ТЕЛЕФОН ДЛЯ КОНСУЛЬТАЦИЙ И ССЫЛКИ ГЛАВНОГО МЕНЮ -->
+				<table width="100%" cellspacing="0" cellpadding="0" border="0">
+					<tbody><tr><td>
+<!-- КУСОЧЕК ЛОГОТИПА И ТЕЛЕФОН ДЛЯ КОНСУЛЬТАЦИЙ -->
+						<table width="100%" cellspacing="0" cellpadding="0" border="0">
+							<tbody><tr valign="top">
+								<td align="left">
+									<table width="100%" cellspacing="0" cellpadding="0" border="0">
+										<tbody><tr><td align="left">
+											<table width="1" cellspacing="0" cellpadding="0" border="0">
+												<tbody><tr><td class="linegrey"><img src="/images/spacer.gif" width="1" height="41"></td></tr>
+											</tbody></table>
+										</td></tr>
+										<tr><td><a href="/"><img src="/images/logo2.gif" width="56" height="80" alt="Управляющая компания Мономах"></a></td></tr>
+									</tbody></table>
+								</td>
+								<td width="100%" align="center" valign="bottom"><img src="/images/consult.gif" width="186" height="84" alt="Консультации по инвестициям в паевые фонды 8 (800) 1008-108"></td>
+							</tr>
+						</tbody></table>
+<!-- КОНЕЦ части логотипа и телефона для консультаций -->
+					</td></tr>
+					<tr><td>
+<!-- ТРИ ПЕРВЫХ ССЫЛКИ ГЛАВНОГО МЕНЮ -->
+						<table width="100%" cellspacing="0" cellpadding="0" border="0">
+							<tbody><tr height="43" valign="top">
+								<td class="linegrey"><img src="/images/spacer.gif" width="1" height="43"></td>
+								<td><img src="/images/spacer.gif" width="34" height="1"></td>
+								<td><p class="menu"><a class="menu" href="/index.php?id=buy"><nobr>Операции с паями</nobr></a></p></td>
+								<td><img src="/images/spacer.gif" width="8" height="1"></td>
+								<td><p class="menu"><a class="menucurr" href="/index.php?id=inform"><nobr>Раскрытие информации</nobr></a></p></td>
+								<td><p class="menu"><a class="menu" href="/index.php?id=analytics"><nobr>Информация для клиентов</nobr></a></p></td>
+								<td><p class="menu"><a class="menu" href="/index.php?id=rezult"><nobr>Результаты</nobr></a></p></td>
+								<td><img src="/images/spacer.gif" width="12" height="1"></td>
+								<td><p class="menu"><a class="menu" href="/index.php?id=calculator"><nobr>Калькулятор</nobr></a></p></td>
+								<td><img src="/images/spacer.gif" width="12" height="1"></td>
+								<td><p class="menu"><a class="menu" href="/index.php?id=obr"><nobr>Обращения</nobr></a></p></td>
+								<td><img src="/images/spacer.gif" width="18" height="1"></td>
+
+								<td><img src="/images/spacer.gif" width="20" height="1"></td>
+							</tr>
+						</tbody></table>
+<!-- КОНЕЦ трех первых ссылок главного меню -->
+					</td></tr>
+					<tr height="1"><td class="linegrey"></td></tr>
+				</tbody></table>
+<!-- КОНЕЦ телефона для консультаций и ссылок главного меню -->
+			</td>
+			<td>
+<!-- ГДЕ КУПИТЬ -->
+				<table width="100%" cellspacing="0" cellpadding="0" border="0">
+					<tbody><tr valign="bottom">
+						<td valign="bottom">
+
+							<table width="100%" cellspacing="0" cellpadding="0" border="0">
+							<tbody><tr valign="bottom">
+							<td>
+
+<!-- ГОРОДА В ШАПКЕ САЙТА -->
+								<table width="100%" cellspacing="0" cellpadding="0" border="0">
+								<tbody><tr height="12"><td></td></tr>
+								
+								<tr><td>
+									<marquee behavior="Scroll" direction="Up" height="96px" width="120px" scrollamount="1" scrolldelay="1" onmouseover="this.stop()" onmouseout="this.start()">
+																			</marquee>
+								</td></tr>
+								<tr height="4"><td></td></tr>
+								</tbody></table>
+<!-- КОНЕЦ списка городов в шапке -->
+
+							</td>
+<!--							<td width=100% align=right><a href="/index.php?id=internet"><img src="/images/globus3.gif" width=87 height=108 alt="Интернет-ПИФинг"></a></td>
+-->
+							<td><img src="/images/spacer.gif" width="8" height="1"></td>
+							</tr>
+							</tbody></table>
+
+						</td>
+						<td></td>
+					</tr>
+					<tr height="43" valign="top">
+						<td width="100%">
+
+							<table width="100%" cellspacing="0" cellpadding="0" border="0">
+							<tbody><tr>
+								<td width="100%" align="right">
+
+									<table width="1" cellspacing="0" cellpadding="0" border="0">
+									<tbody><tr>
+							<!--			<td><p class=menu><a class=menu href="/index.php?id=internet"><nobr>Интернет-ПИФинг</nobr></a></p></td>
+-->
+<!--										<td><img src="/images/tm.gif" width=13 height=5></td>
+-->
+									</tr>
+									</tbody></table>
+
+								</td>
+							</tr>
+							</tbody></table>
+
+						</td>
+						<td><img src="/images/spacer.gif" width="1" height="43"></td>
+					</tr>
+					<tr height="1">
+						<td colspan="3" class="linegrey"></td>
+						<td>
+<!-- ДЕКОРАТИВНЫЕ ПОЛОСКИ -->
+							<table width="100%" cellspacing="0" cellpadding="0" border="0">
+								<tbody><tr height="1">
+									<td width="100%" class="linegrey"></td>
+									<td><img src="/images/spacer.gif" width="16" height="1"></td>
+									<td><img src="/images/spacer.gif" width="12" height="1"></td>
+								</tr>
+							</tbody></table>
+<!-- КОНЕЦ декоративных полосок -->
+						</td>
+					</tr>
+				</tbody></table>
+<!-- КОНЕЦ блока "где купить" -->
+			</td>
+		</tr>
+	</tbody></table>
+<!-- КОНЕЦ шапки сайта -->
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<script language="JavaScript">
+function GoToPrintPage(th) {
+	th.href=window.location+"&mode=print";
+}
+</script>
+<table width="100%" cellspacing="0" cellpadding="0" border="0">
+	<tbody><tr height="34"><td></td></tr>
+</tbody></table>
+<!-- СЛУЖЕБНАЯ ТАБЛИЦА В ОСНОВНОЙ ЧАСТИ СТРАНИЦЫ -->
+<table width="100%" cellspacing="0" cellpadding="0" border="0">
+	<tbody><tr valign="top">
+		<td width="66%">
+<!-- СЛУЖЕБНАЯ ТАБЛИЦА ПОД РУБРИКАТОР И КОНТЕНТ СТРАНИЦЫ -->
+			<table width="100%" cellspacing="0" cellpadding="0" border="0">
+				<tbody><tr height="12">
+					<td><img src="/images/spacer.gif" width="24" height="1"></td>
+					<td class="areablue" width="100%"></td>
+					<td class="areablue"><img src="/images/spacer.gif" width="24" height="1"></td>
+					<td class="areablue"><img src="/images/spacer.gif" width="1" height="1"></td>
+				</tr>
+				<tr valign="top">
+					<td></td>
+					<td class="subheadarea">
+<!-- ЗАГОЛОВОК РАЗДЕЛА -->
+						<table width="100%" cellspacing="0" cellpadding="0" border="0">
+							<tbody><tr height="8"><td></td></tr>
+						</tbody></table>
+						<table width="100%" cellspacing="0" cellpadding="0" border="0">
+							<tbody><tr>
+								<td width="100%"><p class="razdel"><a class="razdel" href="/index.php?id=inform">Раскрытие информации 5609-У</a></p></td>
+								<td><img src="/images/spacer.gif" width="24" height="1"></td>
+								<td><a style="cursor: pointer;" onclick="GoToPrintPage(this);" target="_blank"><img src="/images/ico_print.gif" width="19" height="18" alt="Версия для печати"></a></td>
+							</tr>
+						</tbody></table>
+<!-- РУБРИКАТОР РАЗДЕЛА -->
+						<table width="100%" cellspacing="0" cellpadding="0" border="0">
+							<tbody><tr height="1">
+								<td><img src="/images/spacer.gif" width="24" height="1"></td>
+								<td width="33%"></td>
+								<td><img src="/images/spacer.gif" width="36" height="1"></td>
+								<td width="33%"></td>
+								<td><img src="/images/spacer.gif" width="36" height="1"></td>
+								<td width="34%"></td>
+							</tr>
+							<tr valign="top">
+								<td></td>
+								<td colspan="5"><p class="submenu">
+									<a class="submenucurr" href="/index.php?id=razmersosr">Расчет размера собственных средств</a> &nbsp;&nbsp;<span class="secmenudiv">|</span>&nbsp;&nbsp;
+							
+									<a class="submenu" href="/index.php?id=buhfinot">Бухгалтерская (финансовая) отчетность управляющей компании</a> &nbsp;&nbsp;<span class="secmenudiv">|</span>&nbsp;&nbsp;
+							
+									<a class="submenu" href="/index.php?id=pravdovupr">Правила доверительного управления фондами</a> &nbsp;&nbsp;<span class="secmenudiv">|</span>&nbsp;&nbsp;
+							
+									<a class="submenu" href="/index.php?id=pravscha">Правила определения стоимости чистых активов</a> &nbsp;&nbsp;<span class="secmenudiv">|</span>&nbsp;&nbsp;
+							
+									<a class="submenu" href="/index.php?id=k-inf">Ключевой информационный документ</a> &nbsp;&nbsp;<span class="secmenudiv">|</span>&nbsp;&nbsp;
+							
+									<a class="submenu" href="/index.php?id=otch-pif">Отчетность по паевым инвестиционным фондам</a> &nbsp;&nbsp;<span class="secmenudiv">|</span>&nbsp;&nbsp;
+							
+							
+									<a class="submenu" href="/index.php?id=mes">Сообщения о деятельности управляющей компании</a>
+								</p></td>
+							</tr>
+							<tr height="8"><td colspan="6"></td></tr>
+						</tbody></table>
+<!-- КОНЕЦ рубрикатора раздела -->
+					</td>
+					<td class="subheadarea"></td>
+					<td class="linegrey"></td>
+				</tr>
+				<tr height="1">
+					<td></td>
+					<td colspan="3" class="linegrey"></td>
+				</tr>
+				<tr height="300" valign="top">
+					<td></td>
+					<td align="left">				
+<!-- СЛУЖЕБНАЯ ТАБЛИЦА ПОД КОНТЕНТ -->
+						<table width="90%" cellspacing="0" cellpadding="0" border="0">
+							<tbody><tr height="24">
+								<td><img src="/images/spacer.gif" width="24" height="1"></td>
+								<td width="100%"><img src="/images/spacer.gif" width="530" height="1"></td>
+							</tr>
+							<tr>
+								<td></td>
+								<td>
+<!-- К О Н Т Е Н Т -->
+									<p class="text"> </p><h1>Расчет размера собственных средств</h1><p class="text"> 					<table width="100%" cellspacing="0" cellpadding="0" border="0">						<tbody><tr height="1">							<td><img src="/images/spacer.gif" width="12" height="1"></td>							<td></td>							<td><img src="/images/spacer.gif" width="12" height="1"></td>							<td width="100%"></td>						</tr>						<tr valign="top">							<td></td>							<td align="center"><a href="/uploads/1917491500.xlsx" target="new"><img src="/images/ico_txt.gif" width="30" height="30" vspace="3"></a></td>							<td></td>							<td>								<p class="filename"><a href="/uploads/1917491500.xlsx" title="Опубликовано: 15.06.2023 14:23  МСК" target="new">Расчет размера собственных средств на 31.05.2023г.</a></p>																	<p class="filesize">Размер файла 129 Kb<br></p><p class="datapubf">Опубликовано: 15.06.2023 14:23  МСК</p>							</td>						</tr>
+					</tbody></table>							</p><p class="text">					<table width="100%" cellspacing="0" cellpadding="0" border="0">						<tbody><tr height="1">							<td><img src="/images/spacer.gif" width="12" height="1"></td>							<td></td>							<td><img src="/images/spacer.gif" width="12" height="1"></td>							<td width="100%"></td>						</tr>						<tr valign="top">							<td></td>							<td align="center"><a href="/uploads/736216041.pdf" target="new"><img src="/images/ico_pdf.gif" width="30" height="30" vspace="3"></a></td>							<td></td>							<td>								<p class="filename"><a href="/uploads/736216041.pdf" title="Опубликовано: 17.05.2023 10:17  МСК" target="new">Расчет размера собственных средства на 30.04.2023</a></p>																	<p class="filesize">Размер файла 459 Kb<br></p><p class="datapubf">Опубликовано: 17.05.2023 10:17  МСК</p>							</td>						</tr>
+					</tbody></table>							</p><p class="text">					<table width="100%" cellspacing="0" cellpadding="0" border="0">						<tbody><tr height="1">							<td><img src="/images/spacer.gif" width="12" height="1"></td>							<td></td>							<td><img src="/images/spacer.gif" width="12" height="1"></td>							<td width="100%"></td>						</tr>						<tr valign="top">							<td></td>							<td align="center"><a href="/uploads/1133046907.pdf" target="new"><img src="/images/ico_pdf.gif" width="30" height="30" vspace="3"></a></td>							<td></td>							<td>								<p class="filename"><a href="/uploads/1133046907.pdf" title="Опубликовано: 14.04.2023 14:12  МСК" target="new">Расчет размера собственных средства на 31.03.2023</a></p>																	<p class="filesize">Размер файла 455 Kb<br></p><p class="datapubf">Опубликовано: 14.04.2023 14:12  МСК</p>							</td>						</tr>
+					</tbody></table>							</p><p class="text">					<table width="100%" cellspacing="0" cellpadding="0" border="0">						<tbody><tr height="1">							<td><img src="/images/spacer.gif" width="12" height="1"></td>							<td></td>							<td><img src="/images/spacer.gif" width="12" height="1"></td>							<td width="100%"></td>						</tr>						<tr valign="top">							<td></td>							<td align="center"><a href="/uploads/2016495059.pdf" target="new"><img src="/images/ico_pdf.gif" width="30" height="30" vspace="3"></a></td>							<td></td>							<td>								<p class="filename"><a href="/uploads/2016495059.pdf" title="Опубликовано: 03.04.2023 13:20  МСК" target="new">Расчет размера собственных средства на 28.02.2023 (корректировка)</a></p>																	<p class="filesize">Размер файла 458 Kb<br></p><p class="datapubf">Опубликовано: 03.04.2023 13:20  МСК</p>							</td>						</tr>
+					</tbody></table>							</p><p class="text">					<table width="100%" cellspacing="0" cellpadding="0" border="0">						<tbody><tr height="1">							<td><img src="/images/spacer.gif" width="12" height="1"></td>							<td></td>							<td><img src="/images/spacer.gif" width="12" height="1"></td>							<td width="100%"></td>						</tr>						<tr valign="top">							<td></td>							<td align="center"><a href="/uploads/547355726.pdf" target="new"><img src="/images/ico_pdf.gif" width="30" height="30" vspace="3"></a></td>							<td></td>							<td>								<p class="filename"><a href="/uploads/547355726.pdf" title="Опубликовано: 03.04.2023 13:20  МСК" target="new">Расчет размера собственных средства на 31.01.2023 (корректировка)</a></p>																	<p class="filesize">Размер файла 456 Kb<br></p><p class="datapubf">Опубликовано: 03.04.2023 13:20  МСК</p>							</td>						</tr>
+					</tbody></table>							</p><p class="text">					<table width="100%" cellspacing="0" cellpadding="0" border="0">						<tbody><tr height="1">							<td><img src="/images/spacer.gif" width="12" height="1"></td>							<td></td>							<td><img src="/images/spacer.gif" width="12" height="1"></td>							<td width="100%"></td>						</tr>						<tr valign="top">							<td></td>							<td align="center"><a href="/uploads/971863214.pdf" target="new"><img src="/images/ico_pdf.gif" width="30" height="30" vspace="3"></a></td>							<td></td>							<td>								<p class="filename"><a href="/uploads/971863214.pdf" title="Опубликовано: 03.04.2023 13:19  МСК" target="new">Расчет размера собственных средства на 31.12.2022 (корректировка)</a></p>																	<p class="filesize">Размер файла 484 Kb<br></p><p class="datapubf">Опубликовано: 03.04.2023 13:19  МСК</p>							</td>						</tr>
+					</tbody></table>							</p><p class="text">					<table width="100%" cellspacing="0" cellpadding="0" border="0">						<tbody><tr height="1">							<td><img src="/images/spacer.gif" width="12" height="1"></td>							<td></td>							<td><img src="/images/spacer.gif" width="12" height="1"></td>							<td width="100%"></td>						</tr>						<tr valign="top">							<td></td>							<td align="center"><a href="/uploads/872032741.pdf" target="new"><img src="/images/ico_pdf.gif" width="30" height="30" vspace="3"></a></td>							<td></td>							<td>								<p class="filename"><a href="/uploads/872032741.pdf" title="Опубликовано: 03.04.2023 13:18  МСК" target="new">Расчет размера собственных средства на 30.11.2022 (корректировка)</a></p>																	<p class="filesize">Размер файла 482 Kb<br></p><p class="datapubf">Опубликовано: 03.04.2023 13:18  МСК</p>							</td>						</tr>
+					</tbody></table>							</p><p class="text">					<table width="100%" cellspacing="0" cellpadding="0" border="0">						<tbody><tr height="1">							<td><img src="/images/spacer.gif" width="12" height="1"></td>							<td></td>							<td><img src="/images/spacer.gif" width="12" height="1"></td>							<td width="100%"></td>						</tr>						<tr valign="top">							<td></td>							<td align="center"><a href="/uploads/604308444.pdf" target="new"><img src="/images/ico_pdf.gif" width="30" height="30" vspace="3"></a></td>							<td></td>							<td>								<p class="filename"><a href="/uploads/604308444.pdf" title="Опубликовано: 03.04.2023 13:17  МСК" target="new">Расчет размера собственных средства на 31.10.2022 (корректировка)</a></p>																	<p class="filesize">Размер файла 483 Kb<br></p><p class="datapubf">Опубликовано: 03.04.2023 13:17  МСК</p>							</td>						</tr>
+					</tbody></table>							</p><p class="text">					<table width="100%" cellspacing="0" cellpadding="0" border="0">						<tbody><tr height="1">							<td><img src="/images/spacer.gif" width="12" height="1"></td>							<td></td>							<td><img src="/images/spacer.gif" width="12" height="1"></td>							<td width="100%"></td>						</tr>						<tr valign="top">							<td></td>							<td align="center"><a href="/uploads/1486807478.pdf" target="new"><img src="/images/ico_pdf.gif" width="30" height="30" vspace="3"></a></td>							<td></td>							<td>								<p class="filename"><a href="/uploads/1486807478.pdf" title="Опубликовано: 03.04.2023 13:16  МСК" target="new">Расчет размера собственных средства на 30.09.2022 (корректировка)</a></p>																	<p class="filesize">Размер файла 483 Kb<br></p><p class="datapubf">Опубликовано: 03.04.2023 13:16  МСК</p>							</td>						</tr>
+					</tbody></table>							</p><p class="text">					<table width="100%" cellspacing="0" cellpadding="0" border="0">						<tbody><tr height="1">							<td><img src="/images/spacer.gif" width="12" height="1"></td>							<td></td>							<td><img src="/images/spacer.gif" width="12" height="1"></td>							<td width="100%"></td>						</tr>						<tr valign="top">							<td></td>							<td align="center"><a href="/uploads/1680849790.pdf" target="new"><img src="/images/ico_pdf.gif" width="30" height="30" vspace="3"></a></td>							<td></td>							<td>								<p class="filename"><a href="/uploads/1680849790.pdf" title="Опубликовано: 03.04.2023 13:16  МСК" target="new">Расчет размера собственных средства на 31.08.2022 (корректировка)</a></p>																	<p class="filesize">Размер файла 483 Kb<br></p><p class="datapubf">Опубликовано: 03.04.2023 13:16  МСК</p>							</td>						</tr>
+					</tbody></table>							</p><p class="text">					<table width="100%" cellspacing="0" cellpadding="0" border="0">						<tbody><tr height="1">							<td><img src="/images/spacer.gif" width="12" height="1"></td>							<td></td>							<td><img src="/images/spacer.gif" width="12" height="1"></td>							<td width="100%"></td>						</tr>						<tr valign="top">							<td></td>							<td align="center"><a href="/uploads/1555837756.pdf" target="new"><img src="/images/ico_pdf.gif" width="30" height="30" vspace="3"></a></td>							<td></td>							<td>								<p class="filename"><a href="/uploads/1555837756.pdf" title="Опубликовано: 15.03.2023 13:56  МСК" target="new">Расчет размера собственных средства на 28.02.2023</a></p>																	<p class="filesize">Размер файла 458 Kb<br></p><p class="datapubf">Опубликовано: 15.03.2023 13:56  МСК</p>							</td>						</tr>
+					</tbody></table>							</p><p class="text">					<table width="100%" cellspacing="0" cellpadding="0" border="0">						<tbody><tr height="1">							<td><img src="/images/spacer.gif" width="12" height="1"></td>							<td></td>							<td><img src="/images/spacer.gif" width="12" height="1"></td>							<td width="100%"></td>						</tr>						<tr valign="top">							<td></td>							<td align="center"><a href="/uploads/1532069808.pdf" target="new"><img src="/images/ico_pdf.gif" width="30" height="30" vspace="3"></a></td>							<td></td>							<td>								<p class="filename"><a href="/uploads/1532069808.pdf" title="Опубликовано: 14.02.2023 13:55  МСК" target="new">Расчет размера собственных средства на 31.01.2023</a></p>																	<p class="filesize">Размер файла 296 Kb<br></p><p class="datapubf">Опубликовано: 14.02.2023 13:55  МСК</p>							</td>						</tr>
+					</tbody></table>							</p><p class="text">					<table width="100%" cellspacing="0" cellpadding="0" border="0">						<tbody><tr height="1">							<td><img src="/images/spacer.gif" width="12" height="1"></td>							<td></td>							<td><img src="/images/spacer.gif" width="12" height="1"></td>							<td width="100%"></td>						</tr>						<tr valign="top">							<td></td>							<td align="center"><a href="/uploads/896107483.pdf" target="new"><img src="/images/ico_pdf.gif" width="30" height="30" vspace="3"></a></td>							<td></td>							<td>								<p class="filename"><a href="/uploads/896107483.pdf" title="Опубликовано: 19.01.2023 15:42  МСК" target="new">Расчет размера собственных средства на 31.12.2022</a></p>																	<p class="filesize">Размер файла 314 Kb<br></p><p class="datapubf">Опубликовано: 19.01.2023 15:42  МСК</p>							</td>						</tr>
+					</tbody></table>							</p><p class="text">					<table width="100%" cellspacing="0" cellpadding="0" border="0">						<tbody><tr height="1">							<td><img src="/images/spacer.gif" width="12" height="1"></td>							<td></td>							<td><img src="/images/spacer.gif" width="12" height="1"></td>							<td width="100%"></td>						</tr>						<tr valign="top">							<td></td>							<td align="center"><a href="/uploads/1459051964.pdf" target="new"><img src="/images/ico_pdf.gif" width="30" height="30" vspace="3"></a></td>							<td></td>							<td>								<p class="filename"><a href="/uploads/1459051964.pdf" title="Опубликовано: 30.12.2022 12:09  МСК" target="new">Расчет размера собственных средства на 30.11.2022</a></p>																	<p class="filesize">Размер файла 313 Kb<br></p><p class="datapubf">Опубликовано: 30.12.2022 12:09  МСК</p>							</td>						</tr>
+					</tbody></table>							</p><p class="text">					<table width="100%" cellspacing="0" cellpadding="0" border="0">						<tbody><tr height="1">							<td><img src="/images/spacer.gif" width="12" height="1"></td>							<td></td>							<td><img src="/images/spacer.gif" width="12" height="1"></td>							<td width="100%"></td>						</tr>						<tr valign="top">							<td></td>							<td align="center"><a href="/uploads/884927143.pdf" target="new"><img src="/images/ico_pdf.gif" width="30" height="30" vspace="3"></a></td>							<td></td>							<td>								<p class="filename"><a href="/uploads/884927143.pdf" title="Опубликовано: 30.12.2022 12:08  МСК" target="new">Расчет размера собственных средства на 31.10.2022</a></p>																	<p class="filesize">Размер файла 313 Kb<br></p><p class="datapubf">Опубликовано: 30.12.2022 12:08  МСК</p>							</td>						</tr>
+					</tbody></table>							</p><p class="text">					<table width="100%" cellspacing="0" cellpadding="0" border="0">						<tbody><tr height="1">							<td><img src="/images/spacer.gif" width="12" height="1"></td>							<td></td>							<td><img src="/images/spacer.gif" width="12" height="1"></td>							<td width="100%"></td>						</tr>						<tr valign="top">							<td></td>							<td align="center"><a href="/uploads/1089679570.pdf" target="new"><img src="/images/ico_pdf.gif" width="30" height="30" vspace="3"></a></td>							<td></td>							<td>								<p class="filename"><a href="/uploads/1089679570.pdf" title="Опубликовано: 30.12.2022 12:07  МСК" target="new">Расчет размера собственных средства на 30.09.2022</a></p>																	<p class="filesize">Размер файла 313 Kb<br></p><p class="datapubf">Опубликовано: 30.12.2022 12:07  МСК</p>							</td>						</tr>
+					</tbody></table>							</p><p class="text">					<table width="100%" cellspacing="0" cellpadding="0" border="0">						<tbody><tr height="1">							<td><img src="/images/spacer.gif" width="12" height="1"></td>							<td></td>							<td><img src="/images/spacer.gif" width="12" height="1"></td>							<td width="100%"></td>						</tr>						<tr valign="top">							<td></td>							<td align="center"><a href="/uploads/490906780.pdf" target="new"><img src="/images/ico_pdf.gif" width="30" height="30" vspace="3"></a></td>							<td></td>							<td>								<p class="filename"><a href="/uploads/490906780.pdf" title="Опубликовано: 30.12.2022 12:06  МСК" target="new">Расчет размера собственных средства на 31.08.2022</a></p>																	<p class="filesize">Размер файла 313 Kb<br></p><p class="datapubf">Опубликовано: 30.12.2022 12:06  МСК</p>							</td>						</tr>
+					</tbody></table>							</p><p class="text">					<table width="100%" cellspacing="0" cellpadding="0" border="0">						<tbody><tr height="1">							<td><img src="/images/spacer.gif" width="12" height="1"></td>							<td></td>							<td><img src="/images/spacer.gif" width="12" height="1"></td>							<td width="100%"></td>						</tr>						<tr valign="top">							<td></td>							<td align="center"><a href="/uploads/1175175252.pdf" target="new"><img src="/images/ico_pdf.gif" width="30" height="30" vspace="3"></a></td>							<td></td>							<td>								<p class="filename"><a href="/uploads/1175175252.pdf" title="Опубликовано: 30.12.2022 12:05  МСК" target="new">Расчет размера собственных средства на 31.07.2022</a></p>																	<p class="filesize">Размер файла 312 Kb<br></p><p class="datapubf">Опубликовано: 30.12.2022 12:05  МСК</p>							</td>						</tr>
+					</tbody></table>							</p><p class="text">					<table width="100%" cellspacing="0" cellpadding="0" border="0">						<tbody><tr height="1">							<td><img src="/images/spacer.gif" width="12" height="1"></td>							<td></td>							<td><img src="/images/spacer.gif" width="12" height="1"></td>							<td width="100%"></td>						</tr>						<tr valign="top">							<td></td>							<td align="center"><a href="/uploads/1210249527.pdf" target="new"><img src="/images/ico_pdf.gif" width="30" height="30" vspace="3"></a></td>							<td></td>							<td>								<p class="filename"><a href="/uploads/1210249527.pdf" title="Опубликовано: 30.12.2022 12:04  МСК" target="new">Расчет размера собственных средства на 30.06.2022</a></p>																	<p class="filesize">Размер файла 313 Kb<br></p><p class="datapubf">Опубликовано: 30.12.2022 12:04  МСК</p>							</td>						</tr>
+					</tbody></table>							</p><p class="text">					<table width="100%" cellspacing="0" cellpadding="0" border="0">						<tbody><tr height="1">							<td><img src="/images/spacer.gif" width="12" height="1"></td>							<td></td>							<td><img src="/images/spacer.gif" width="12" height="1"></td>							<td width="100%"></td>						</tr>						<tr valign="top">							<td></td>							<td align="center"><a href="/uploads/1917943715.pdf" target="new"><img src="/images/ico_pdf.gif" width="30" height="30" vspace="3"></a></td>							<td></td>							<td>								<p class="filename"><a href="/uploads/1917943715.pdf" title="Опубликовано: 30.12.2022 12:03  МСК" target="new">Расчет размера собственных средства на 31.05.2022</a></p>																	<p class="filesize">Размер файла 312 Kb<br></p><p class="datapubf">Опубликовано: 30.12.2022 12:03  МСК</p>							</td>						</tr>
+					</tbody></table>							</p><p class="text">					<table width="100%" cellspacing="0" cellpadding="0" border="0">						<tbody><tr height="1">							<td><img src="/images/spacer.gif" width="12" height="1"></td>							<td></td>							<td><img src="/images/spacer.gif" width="12" height="1"></td>							<td width="100%"></td>						</tr>						<tr valign="top">							<td></td>							<td align="center"><a href="/uploads/246588724.pdf" target="new"><img src="/images/ico_pdf.gif" width="30" height="30" vspace="3"></a></td>							<td></td>							<td>								<p class="filename"><a href="/uploads/246588724.pdf" title="Опубликовано: 30.12.2022 12:03  МСК" target="new">Расчет размера собственных средства на 30.04.2022</a></p>																	<p class="filesize">Размер файла 313 Kb<br></p><p class="datapubf">Опубликовано: 30.12.2022 12:03  МСК</p>							</td>						</tr>
+					</tbody></table>							</p><p class="text">					<table width="100%" cellspacing="0" cellpadding="0" border="0">						<tbody><tr height="1">							<td><img src="/images/spacer.gif" width="12" height="1"></td>							<td></td>							<td><img src="/images/spacer.gif" width="12" height="1"></td>							<td width="100%"></td>						</tr>						<tr valign="top">							<td></td>							<td align="center"><a href="/uploads/1886272095.pdf" target="new"><img src="/images/ico_pdf.gif" width="30" height="30" vspace="3"></a></td>							<td></td>							<td>								<p class="filename"><a href="/uploads/1886272095.pdf" title="Опубликовано: 30.12.2022 12:02  МСК" target="new">Расчет размера собственных средства на 31.03.2022</a></p>																	<p class="filesize">Размер файла 312 Kb<br></p><p class="datapubf">Опубликовано: 30.12.2022 12:02  МСК</p>							</td>						</tr>
+					</tbody></table>							</p><p class="text">					<table width="100%" cellspacing="0" cellpadding="0" border="0">						<tbody><tr height="1">							<td><img src="/images/spacer.gif" width="12" height="1"></td>							<td></td>							<td><img src="/images/spacer.gif" width="12" height="1"></td>							<td width="100%"></td>						</tr>						<tr valign="top">							<td></td>							<td align="center"><a href="/uploads/962744630.pdf" target="new"><img src="/images/ico_pdf.gif" width="30" height="30" vspace="3"></a></td>							<td></td>							<td>								<p class="filename"><a href="/uploads/962744630.pdf" title="Опубликовано: 16.03.2022 12:49  МСК" target="new">Расчет размера собственных средства на 28.02.2022</a></p>																	<p class="filesize">Размер файла 160 Kb<br></p><p class="datapubf">Опубликовано: 16.03.2022 12:49  МСК</p>							</td>						</tr>
+					</tbody></table>							</p><p class="text">					<table width="100%" cellspacing="0" cellpadding="0" border="0">						<tbody><tr height="1">							<td><img src="/images/spacer.gif" width="12" height="1"></td>							<td></td>							<td><img src="/images/spacer.gif" width="12" height="1"></td>							<td width="100%"></td>						</tr>						<tr valign="top">							<td></td>							<td align="center"><a href="/uploads/1163890476.pdf" target="new"><img src="/images/ico_pdf.gif" width="30" height="30" vspace="3"></a></td>							<td></td>							<td>								<p class="filename"><a href="/uploads/1163890476.pdf" title="Опубликовано: 14.02.2022 15:14  МСК" target="new">Расчет размера собственных средств на 31.01.2022</a></p>																	<p class="filesize">Размер файла 296 Kb<br></p><p class="datapubf">Опубликовано: 14.02.2022 15:14  МСК</p>							</td>						</tr>
+					</tbody></table>							</p><p class="text">					<table width="100%" cellspacing="0" cellpadding="0" border="0">						<tbody><tr height="1">							<td><img src="/images/spacer.gif" width="12" height="1"></td>							<td></td>							<td><img src="/images/spacer.gif" width="12" height="1"></td>							<td width="100%"></td>						</tr>						<tr valign="top">							<td></td>							<td align="center"><a href="/uploads/730033031.pdf" target="new"><img src="/images/ico_pdf.gif" width="30" height="30" vspace="3"></a></td>							<td></td>							<td>								<p class="filename"><a href="/uploads/730033031.pdf" title="Опубликовано: 19.01.2022 15:17  МСК" target="new">Расчет собственных средств на 31.12.2021</a></p>																	<p class="filesize">Размер файла 297 Kb<br></p><p class="datapubf">Опубликовано: 19.01.2022 15:17  МСК</p>							</td>						</tr>
+					</tbody></table>							</p><p class="text">					<table width="100%" cellspacing="0" cellpadding="0" border="0">						<tbody><tr height="1">							<td><img src="/images/spacer.gif" width="12" height="1"></td>							<td></td>							<td><img src="/images/spacer.gif" width="12" height="1"></td>							<td width="100%"></td>						</tr>						<tr valign="top">							<td></td>							<td align="center"><a href="/uploads/765836772.pdf" target="new"><img src="/images/ico_pdf.gif" width="30" height="30" vspace="3"></a></td>							<td></td>							<td>								<p class="filename"><a href="/uploads/765836772.pdf" title="Опубликовано: 14.12.2021 15:40  МСК" target="new">Расчет размера собственных средств на 30.11.21</a></p>																	<p class="filesize">Размер файла 296 Kb<br></p><p class="datapubf">Опубликовано: 14.12.2021 15:40  МСК</p>							</td>						</tr>
+					</tbody></table>							</p><p class="text">					<table width="100%" cellspacing="0" cellpadding="0" border="0">						<tbody><tr height="1">							<td><img src="/images/spacer.gif" width="12" height="1"></td>							<td></td>							<td><img src="/images/spacer.gif" width="12" height="1"></td>							<td width="100%"></td>						</tr>						<tr valign="top">							<td></td>							<td align="center"><a href="/uploads/1047343579.pdf" target="new"><img src="/images/ico_pdf.gif" width="30" height="30" vspace="3"></a></td>							<td></td>							<td>								<p class="filename"><a href="/uploads/1047343579.pdf" title="Опубликовано: 19.11.2021 17:38  МСК" target="new">Расчет размера собственных средств на 31.10.2021 (корректировка)</a></p>																	<p class="filesize">Размер файла 397 Kb<br></p><p class="datapubf">Опубликовано: 19.11.2021 17:38  МСК</p>							</td>						</tr>
+					</tbody></table>							</p><p class="text">					<table width="100%" cellspacing="0" cellpadding="0" border="0">						<tbody><tr height="1">							<td><img src="/images/spacer.gif" width="12" height="1"></td>							<td></td>							<td><img src="/images/spacer.gif" width="12" height="1"></td>							<td width="100%"></td>						</tr>						<tr valign="top">							<td></td>							<td align="center"><a href="/uploads/1252447190.pdf" target="new"><img src="/images/ico_pdf.gif" width="30" height="30" vspace="3"></a></td>							<td></td>							<td>								<p class="filename"><a href="/uploads/1252447190.pdf" title="Опубликовано: 19.11.2021 17:37  МСК" target="new">Расчет размера собственных средств на 30.09.2021(Корректировка)</a></p>																	<p class="filesize">Размер файла 301 Kb<br></p><p class="datapubf">Опубликовано: 19.11.2021 17:37  МСК</p>							</td>						</tr>
+					</tbody></table>							</p><p class="text">					<table width="100%" cellspacing="0" cellpadding="0" border="0">						<tbody><tr height="1">							<td><img src="/images/spacer.gif" width="12" height="1"></td>							<td></td>							<td><img src="/images/spacer.gif" width="12" height="1"></td>							<td width="100%"></td>						</tr>						<tr valign="top">							<td></td>							<td align="center"><a href="/uploads/1601102622.pdf" target="new"><img src="/images/ico_pdf.gif" width="30" height="30" vspace="3"></a></td>							<td></td>							<td>								<p class="filename"><a href="/uploads/1601102622.pdf" title="Опубликовано: 19.11.2021 17:36  МСК" target="new">Расчет размера собственных средств на 31.08.2021(корректировка)</a></p>																	<p class="filesize">Размер файла 302 Kb<br></p><p class="datapubf">Опубликовано: 19.11.2021 17:36  МСК</p>							</td>						</tr>
+					</tbody></table>							</p><p class="text">					<table width="100%" cellspacing="0" cellpadding="0" border="0">						<tbody><tr height="1">							<td><img src="/images/spacer.gif" width="12" height="1"></td>							<td></td>							<td><img src="/images/spacer.gif" width="12" height="1"></td>							<td width="100%"></td>						</tr>						<tr valign="top">							<td></td>							<td align="center"><a href="/uploads/931145500.pdf" target="new"><img src="/images/ico_pdf.gif" width="30" height="30" vspace="3"></a></td>							<td></td>							<td>								<p class="filename"><a href="/uploads/931145500.pdf" title="Опубликовано: 16.11.2021 09:30  МСК" target="new">Расчет размера собственных средств на 31.10.2021</a></p>																	<p class="filesize">Размер файла 228 Kb<br></p><p class="datapubf">Опубликовано: 16.11.2021 09:30  МСК</p>							</td>						</tr>
+					</tbody></table>							</p><p class="text">					<table width="100%" cellspacing="0" cellpadding="0" border="0">						<tbody><tr height="1">							<td><img src="/images/spacer.gif" width="12" height="1"></td>							<td></td>							<td><img src="/images/spacer.gif" width="12" height="1"></td>							<td width="100%"></td>						</tr>						<tr valign="top">							<td></td>							<td align="center"><a href="/uploads/153903797.pdf" target="new"><img src="/images/ico_pdf.gif" width="30" height="30" vspace="3"></a></td>							<td></td>							<td>								<p class="filename"><a href="/uploads/153903797.pdf" title="Опубликовано: 14.10.2021 12:52  МСК" target="new">Расчет размера собственных средств на 30.09.2021</a></p>																	<p class="filesize">Размер файла 146 Kb<br></p><p class="datapubf">Опубликовано: 14.10.2021 12:52  МСК</p>							</td>						</tr>
+					</tbody></table>							</p><p class="text">					<table width="100%" cellspacing="0" cellpadding="0" border="0">						<tbody><tr height="1">							<td><img src="/images/spacer.gif" width="12" height="1"></td>							<td></td>							<td><img src="/images/spacer.gif" width="12" height="1"></td>							<td width="100%"></td>						</tr>						<tr valign="top">							<td></td>							<td align="center"><a href="/uploads/1038135263.pdf" target="new"><img src="/images/ico_pdf.gif" width="30" height="30" vspace="3"></a></td>							<td></td>							<td>								<p class="filename"><a href="/uploads/1038135263.pdf" title="Опубликовано: 14.09.2021 16:26  МСК" target="new">Расчет размера собственных средств на 31.08.2021</a></p>																	<p class="filesize">Размер файла 146 Kb<br></p><p class="datapubf">Опубликовано: 14.09.2021 16:26  МСК</p>							</td>						</tr>
+					</tbody></table>							</p><p class="text">					<table width="100%" cellspacing="0" cellpadding="0" border="0">						<tbody><tr height="1">							<td><img src="/images/spacer.gif" width="12" height="1"></td>							<td></td>							<td><img src="/images/spacer.gif" width="12" height="1"></td>							<td width="100%"></td>						</tr>						<tr valign="top">							<td></td>							<td align="center"><a href="/uploads/1221061311.pdf" target="new"><img src="/images/ico_pdf.gif" width="30" height="30" vspace="3"></a></td>							<td></td>							<td>								<p class="filename"><a href="/uploads/1221061311.pdf" title="Опубликовано: 11.08.2021 14:20  МСК" target="new">Расчет размера собственных средств на 31.07.2021</a></p>																	<p class="filesize">Размер файла 146 Kb<br></p><p class="datapubf">Опубликовано: 11.08.2021 14:20  МСК</p>							</td>						</tr>
+					</tbody></table>							</p><p class="text">					<table width="100%" cellspacing="0" cellpadding="0" border="0">						<tbody><tr height="1">							<td><img src="/images/spacer.gif" width="12" height="1"></td>							<td></td>							<td><img src="/images/spacer.gif" width="12" height="1"></td>							<td width="100%"></td>						</tr>						<tr valign="top">							<td></td>							<td align="center"><a href="/uploads/1177847893.pdf" target="new"><img src="/images/ico_pdf.gif" width="30" height="30" vspace="3"></a></td>							<td></td>							<td>								<p class="filename"><a href="/uploads/1177847893.pdf" title="Опубликовано: 08.07.2021 18:48  МСК" target="new">Расчет размера собственных средств на 30.06.2021</a></p>																	<p class="filesize">Размер файла 146 Kb<br></p><p class="datapubf">Опубликовано: 08.07.2021 18:48  МСК</p>							</td>						</tr>
+					</tbody></table>							</p><p class="text">					<table width="100%" cellspacing="0" cellpadding="0" border="0">						<tbody><tr height="1">							<td><img src="/images/spacer.gif" width="12" height="1"></td>							<td></td>							<td><img src="/images/spacer.gif" width="12" height="1"></td>							<td width="100%"></td>						</tr>						<tr valign="top">							<td></td>							<td align="center"><a href="/uploads/830302042.pdf" target="new"><img src="/images/ico_pdf.gif" width="30" height="30" vspace="3"></a></td>							<td></td>							<td>								<p class="filename"><a href="/uploads/830302042.pdf" title="Опубликовано: 11.06.2021 13:21  МСК" target="new">Расчет размера собственных средств на 31.05.2021</a></p>																	<p class="filesize">Размер файла 146 Kb<br></p><p class="datapubf">Опубликовано: 11.06.2021 13:21  МСК</p>							</td>						</tr>
+					</tbody></table>							</p><p class="text">					<table width="100%" cellspacing="0" cellpadding="0" border="0">						<tbody><tr height="1">							<td><img src="/images/spacer.gif" width="12" height="1"></td>							<td></td>							<td><img src="/images/spacer.gif" width="12" height="1"></td>							<td width="100%"></td>						</tr>						<tr valign="top">							<td></td>							<td align="center"><a href="/uploads/62646014.pdf" target="new"><img src="/images/ico_pdf.gif" width="30" height="30" vspace="3"></a></td>							<td></td>							<td>								<p class="filename"><a href="/uploads/62646014.pdf" title="Опубликовано: 14.05.2021 08:45  МСК" target="new">Расчет размера собственных средств на 30.04.2021</a></p>																	<p class="filesize">Размер файла 111 Kb<br></p><p class="datapubf">Опубликовано: 14.05.2021 08:45  МСК</p>							</td>						</tr>
+					</tbody></table>							</p><p class="text">					<table width="100%" cellspacing="0" cellpadding="0" border="0">						<tbody><tr height="1">							<td><img src="/images/spacer.gif" width="12" height="1"></td>							<td></td>							<td><img src="/images/spacer.gif" width="12" height="1"></td>							<td width="100%"></td>						</tr>						<tr valign="top">							<td></td>							<td align="center"><a href="/uploads/1348925702.pdf" target="new"><img src="/images/ico_pdf.gif" width="30" height="30" vspace="3"></a></td>							<td></td>							<td>								<p class="filename"><a href="/uploads/1348925702.pdf" title="Опубликовано: 14.04.2021 10:12  МСК" target="new">Расчет размера собственных средств 31.03.2021</a></p>																	<p class="filesize">Размер файла 152 Kb<br></p><p class="datapubf">Опубликовано: 14.04.2021 10:12  МСК</p>							</td>						</tr>
+					</tbody></table>							</p><p class="text">					<table width="100%" cellspacing="0" cellpadding="0" border="0">						<tbody><tr height="1">							<td><img src="/images/spacer.gif" width="12" height="1"></td>							<td></td>							<td><img src="/images/spacer.gif" width="12" height="1"></td>							<td width="100%"></td>						</tr>						<tr valign="top">							<td></td>							<td align="center"><a href="/uploads/2106324350.pdf" target="new"><img src="/images/ico_pdf.gif" width="30" height="30" vspace="3"></a></td>							<td></td>							<td>								<p class="filename"><a href="/uploads/2106324350.pdf" title="Опубликовано: 12.03.2021 14:15  МСК" target="new">Расчет размера собственных средств 28.02.2021</a></p>																	<p class="filesize">Размер файла 146 Kb<br></p><p class="datapubf">Опубликовано: 12.03.2021 14:15  МСК</p>							</td>						</tr>
+					</tbody></table>							</p><p class="text">					<table width="100%" cellspacing="0" cellpadding="0" border="0">						<tbody><tr height="1">							<td><img src="/images/spacer.gif" width="12" height="1"></td>							<td></td>							<td><img src="/images/spacer.gif" width="12" height="1"></td>							<td width="100%"></td>						</tr>						<tr valign="top">							<td></td>							<td align="center"><a href="/uploads/508880039.pdf" target="new"><img src="/images/ico_pdf.gif" width="30" height="30" vspace="3"></a></td>							<td></td>							<td>								<p class="filename"><a href="/uploads/508880039.pdf" title="Опубликовано: 12.02.2021 15:18  МСК" target="new">Расчет размера собственных средств 31.01.2021</a></p>																	<p class="filesize">Размер файла 145 Kb<br></p><p class="datapubf">Опубликовано: 12.02.2021 15:18  МСК</p>							</td>						</tr>
+					</tbody></table>							</p><p class="text">					<table width="100%" cellspacing="0" cellpadding="0" border="0">						<tbody><tr height="1">							<td><img src="/images/spacer.gif" width="12" height="1"></td>							<td></td>							<td><img src="/images/spacer.gif" width="12" height="1"></td>							<td width="100%"></td>						</tr>						<tr valign="top">							<td></td>							<td align="center"><a href="/uploads/1102070527.pdf" target="new"><img src="/images/ico_pdf.gif" width="30" height="30" vspace="3"></a></td>							<td></td>							<td>								<p class="filename"><a href="/uploads/1102070527.pdf" title="Опубликовано: 12.02.2021 15:17  МСК" target="new">Расчет размера собственных средств на 31.12.2020 г. (корректировка от 11.02.2021)</a></p>																	<p class="filesize">Размер файла 146 Kb<br></p><p class="datapubf">Опубликовано: 12.02.2021 15:17  МСК</p>							</td>						</tr>
+					</tbody></table>							</p><p class="text">					<table width="100%" cellspacing="0" cellpadding="0" border="0">						<tbody><tr height="1">							<td><img src="/images/spacer.gif" width="12" height="1"></td>							<td></td>							<td><img src="/images/spacer.gif" width="12" height="1"></td>							<td width="100%"></td>						</tr>						<tr valign="top">							<td></td>							<td align="center"><a href="/uploads/1078215790.pdf" target="new"><img src="/images/ico_pdf.gif" width="30" height="30" vspace="3"></a></td>							<td></td>							<td>								<p class="filename"><a href="/uploads/1078215790.pdf" title="Опубликовано: 22.01.2021 13:19  МСК" target="new">Расчет размера собственных средств на 31.12.2020 г.</a></p>																	<p class="filesize">Размер файла 301 Kb<br></p><p class="datapubf">Опубликовано: 22.01.2021 13:19  МСК</p>							</td>						</tr>
+					</tbody></table>							</p><p class="text">					<table width="100%" cellspacing="0" cellpadding="0" border="0">						<tbody><tr height="1">							<td><img src="/images/spacer.gif" width="12" height="1"></td>							<td></td>							<td><img src="/images/spacer.gif" width="12" height="1"></td>							<td width="100%"></td>						</tr>						<tr valign="top">							<td></td>							<td align="center"><a href="/uploads/1069652043.pdf" target="new"><img src="/images/ico_pdf.gif" width="30" height="30" vspace="3"></a></td>							<td></td>							<td>								<p class="filename"><a href="/uploads/1069652043.pdf" title="Опубликовано: 11.12.2020 14:30  МСК" target="new">Расчет размера собственных средств на 30.11.2020 г.</a></p>																	<p class="filesize">Размер файла 299 Kb<br></p><p class="datapubf">Опубликовано: 11.12.2020 14:30  МСК</p>							</td>						</tr>
+					</tbody></table>							</p><p class="text">					<table width="100%" cellspacing="0" cellpadding="0" border="0">						<tbody><tr height="1">							<td><img src="/images/spacer.gif" width="12" height="1"></td>							<td></td>							<td><img src="/images/spacer.gif" width="12" height="1"></td>							<td width="100%"></td>						</tr>						<tr valign="top">							<td></td>							<td align="center"><a href="/uploads/1482637565.pdf" target="new"><img src="/images/ico_pdf.gif" width="30" height="30" vspace="3"></a></td>							<td></td>							<td>								<p class="filename"><a href="/uploads/1482637565.pdf" title="Опубликовано: 13.11.2020 12:38  МСК" target="new">Расчет размера собственных средств на 31.10.2020 г.</a></p>																	<p class="filesize">Размер файла 146 Kb<br></p><p class="datapubf">Опубликовано: 13.11.2020 12:38  МСК</p>							</td>						</tr>
+					</tbody></table>							</p><p class="text">					<table width="100%" cellspacing="0" cellpadding="0" border="0">						<tbody><tr height="1">							<td><img src="/images/spacer.gif" width="12" height="1"></td>							<td></td>							<td><img src="/images/spacer.gif" width="12" height="1"></td>							<td width="100%"></td>						</tr>						<tr valign="top">							<td></td>							<td align="center"><a href="/uploads/229040603.pdf" target="new"><img src="/images/ico_pdf.gif" width="30" height="30" vspace="3"></a></td>							<td></td>							<td>								<p class="filename"><a href="/uploads/229040603.pdf" title="Опубликовано: 12.10.2020 15:02  МСК" target="new">Расчет размера собственных средств на 30.09.2020г.</a></p>																	<p class="filesize">Размер файла 146 Kb<br></p><p class="datapubf">Опубликовано: 12.10.2020 15:02  МСК</p>							</td>						</tr>
+					</tbody></table>							</p><p class="text">					<table width="100%" cellspacing="0" cellpadding="0" border="0">						<tbody><tr height="1">							<td><img src="/images/spacer.gif" width="12" height="1"></td>							<td></td>							<td><img src="/images/spacer.gif" width="12" height="1"></td>							<td width="100%"></td>						</tr>						<tr valign="top">							<td></td>							<td align="center"><a href="/uploads/208344928.pdf" target="new"><img src="/images/ico_pdf.gif" width="30" height="30" vspace="3"></a></td>							<td></td>							<td>								<p class="filename"><a href="/uploads/208344928.pdf" title="Опубликовано: 11.09.2020 14:59  МСК" target="new">Расчет размера собственных средств на 31.08.2020г.</a></p>																	<p class="filesize">Размер файла 145 Kb<br></p><p class="datapubf">Опубликовано: 11.09.2020 14:59  МСК</p>							</td>						</tr>
+					</tbody></table>							</p><p class="text">					<table width="100%" cellspacing="0" cellpadding="0" border="0">						<tbody><tr height="1">							<td><img src="/images/spacer.gif" width="12" height="1"></td>							<td></td>							<td><img src="/images/spacer.gif" width="12" height="1"></td>							<td width="100%"></td>						</tr>						<tr valign="top">							<td></td>							<td align="center"><a href="/uploads/476146053.pdf" target="new"><img src="/images/ico_pdf.gif" width="30" height="30" vspace="3"></a></td>							<td></td>							<td>								<p class="filename"><a href="/uploads/476146053.pdf" title="Опубликовано: 13.08.2020 14:29  МСК" target="new">Расчет размера собственных средств на 31.07.2020 г.</a></p>																	<p class="filesize">Размер файла 110 Kb<br></p><p class="datapubf">Опубликовано: 13.08.2020 14:29  МСК</p>							</td>						</tr>
+					</tbody></table>							</p><p class="text">					<table width="100%" cellspacing="0" cellpadding="0" border="0">						<tbody><tr height="1">							<td><img src="/images/spacer.gif" width="12" height="1"></td>							<td></td>							<td><img src="/images/spacer.gif" width="12" height="1"></td>							<td width="100%"></td>						</tr>						<tr valign="top">							<td></td>							<td align="center"><a href="/uploads/751146819.pdf" target="new"><img src="/images/ico_pdf.gif" width="30" height="30" vspace="3"></a></td>							<td></td>							<td>								<p class="filename"><a href="/uploads/751146819.pdf" title="Опубликовано: 14.07.2020 09:26  МСК" target="new">Расчет размера собственных средств на 30.06.2020 г.</a></p>																	<p class="filesize">Размер файла 113 Kb<br></p><p class="datapubf">Опубликовано: 14.07.2020 09:26  МСК</p>							</td>						</tr>
+					</tbody></table>							</p><p class="text">					<table width="100%" cellspacing="0" cellpadding="0" border="0">						<tbody><tr height="1">							<td><img src="/images/spacer.gif" width="12" height="1"></td>							<td></td>							<td><img src="/images/spacer.gif" width="12" height="1"></td>							<td width="100%"></td>						</tr>						<tr valign="top">							<td></td>							<td align="center"><a href="/uploads/1769110912.pdf" target="new"><img src="/images/ico_pdf.gif" width="30" height="30" vspace="3"></a></td>							<td></td>							<td>								<p class="filename"><a href="/uploads/1769110912.pdf" title="Опубликовано: 15.06.2020 17:09  МСК" target="new">Расчет размера собственных средств на 31.05.2020 г.</a></p>																	<p class="filesize">Размер файла 110 Kb<br></p><p class="datapubf">Опубликовано: 15.06.2020 17:09  МСК</p>							</td>						</tr>
+					</tbody></table>							</p><p class="text">					<table width="100%" cellspacing="0" cellpadding="0" border="0">						<tbody><tr height="1">							<td><img src="/images/spacer.gif" width="12" height="1"></td>							<td></td>							<td><img src="/images/spacer.gif" width="12" height="1"></td>							<td width="100%"></td>						</tr>						<tr valign="top">							<td></td>							<td align="center"><a href="/uploads/470702450.pdf" target="new"><img src="/images/ico_pdf.gif" width="30" height="30" vspace="3"></a></td>							<td></td>							<td>								<p class="filename"><a href="/uploads/470702450.pdf" title="Опубликовано: 19.05.2020 15:49  МСК" target="new">Расчет размера собственных средств на 30.04.2020 г.</a></p>																	<p class="filesize">Размер файла 111 Kb<br></p><p class="datapubf">Опубликовано: 19.05.2020 15:49  МСК</p>							</td>						</tr>
+					</tbody></table>							</p><p class="text">					<table width="100%" cellspacing="0" cellpadding="0" border="0">						<tbody><tr height="1">							<td><img src="/images/spacer.gif" width="12" height="1"></td>							<td></td>							<td><img src="/images/spacer.gif" width="12" height="1"></td>							<td width="100%"></td>						</tr>						<tr valign="top">							<td></td>							<td align="center"><a href="/uploads/1330170211.pdf" target="new"><img src="/images/ico_pdf.gif" width="30" height="30" vspace="3"></a></td>							<td></td>							<td>								<p class="filename"><a href="/uploads/1330170211.pdf" title="Опубликовано: 14.04.2020 11:31  МСК" target="new">Расчет размера собственных средств на 31.03.2020</a></p>																	<p class="filesize">Размер файла 111 Kb<br></p><p class="datapubf">Опубликовано: 14.04.2020 11:31  МСК</p>							</td>						</tr>
+					</tbody></table>							</p><p class="text">					<table width="100%" cellspacing="0" cellpadding="0" border="0">						<tbody><tr height="1">							<td><img src="/images/spacer.gif" width="12" height="1"></td>							<td></td>							<td><img src="/images/spacer.gif" width="12" height="1"></td>							<td width="100%"></td>						</tr>						<tr valign="top">							<td></td>							<td align="center"><a href="/uploads/1858829195.pdf" target="new"><img src="/images/ico_pdf.gif" width="30" height="30" vspace="3"></a></td>							<td></td>							<td>								<p class="filename"><a href="/uploads/1858829195.pdf" title="Опубликовано: 16.03.2020 11:35  МСК" target="new">Расчет размера собственных средств на 29.02.2020 г.</a></p>																	<p class="filesize">Размер файла 112 Kb<br></p><p class="datapubf">Опубликовано: 16.03.2020 11:35  МСК</p>							</td>						</tr>
+					</tbody></table>							</p><p class="text">					<table width="100%" cellspacing="0" cellpadding="0" border="0">						<tbody><tr height="1">							<td><img src="/images/spacer.gif" width="12" height="1"></td>							<td></td>							<td><img src="/images/spacer.gif" width="12" height="1"></td>							<td width="100%"></td>						</tr>						<tr valign="top">							<td></td>							<td align="center"><a href="/uploads/1584288964.pdf" target="new"><img src="/images/ico_pdf.gif" width="30" height="30" vspace="3"></a></td>							<td></td>							<td>								<p class="filename"><a href="/uploads/1584288964.pdf" title="Опубликовано: 16.03.2020 15:44  МСК" target="new">Расчет размера собственных средств на 31.01.2020 г. (корректировка от 16.03.2020)</a></p>																	<p class="filesize">Размер файла 111 Kb<br></p><p class="datapubf">Опубликовано: 16.03.2020 15:44  МСК</p>							</td>						</tr>
+					</tbody></table>							</p><p class="text">					<table width="100%" cellspacing="0" cellpadding="0" border="0">						<tbody><tr height="1">							<td><img src="/images/spacer.gif" width="12" height="1"></td>							<td></td>							<td><img src="/images/spacer.gif" width="12" height="1"></td>							<td width="100%"></td>						</tr>						<tr valign="top">							<td></td>							<td align="center"><a href="/uploads/829610606.pdf" target="new"><img src="/images/ico_pdf.gif" width="30" height="30" vspace="3"></a></td>							<td></td>							<td>								<p class="filename"><a href="/uploads/829610606.pdf" title="Опубликовано: 14.02.2020 13:09  МСК" target="new">Расчет размера собственных средств на 31.01.2020 г. </a></p>																	<p class="filesize">Размер файла 67 Kb<br></p><p class="datapubf">Опубликовано: 14.02.2020 13:09  МСК</p>							</td>						</tr>
+					</tbody></table>							<br></p><p class="text"><br></p><p class="text"><br></p><p class="text"><br></p><p class="text"></p><h2>Архив отчетности</h2><a href="/index.php?id=co_rss2019">2019 </a>.<a href="/index.php?id=co_rss2018">2018 </a>.<a href="/index.php?id=co_rss2017">2017 </a>.<a href="/index.php?id=co_rss2016">2016 </a>. <a href="/index.php?id=co_rss2015">2015 </a>. <a href="/index.php?id=co_rss2014">2014 </a>. <a href="/index.php?id=co_rss2013">2013 </a>. <a href="/index.php?id=co_rss2012">2012 </a>. <a href="/index.php?id=co_rss2011">2011 </a>. <a href="/index.php?id=co_rss2010">2010 </a><br><p class="text"><br></p><p class="text"><br></p><p class="text">								</p></td>
+							</tr>
+							<tr height="48"><td colspan="2"></td></tr>
+						</tbody></table>
+<!-- КОНЕЦ служебной таблицы под контент -->
+					</td>
+					<td></td>
+					<td class="linegrey"></td>
+				</tr>
+				<tr height="1">
+					<td></td>
+					<td colspan="3" class="linegrey"></td>
+				</tr>
+				<tr height="28"><td colspan="4" background="/images/contentshadow2.gif" style="background-repeat:no-repeat; background-position:top right;"></td></tr>
+			</tbody></table>		
+<!-- КОНЕЦ служебной таблицы под рубрикатор и контент страницы -->
+		</td>
+		<td><img src="/images/spacer.gif" width="24" height="1"></td>
+		<td width="34%">
+<!-- ПРАВАЯ КОЛОНКА -->	
+			<table width="100%" cellspacing="0" cellpadding="0" border="0">
+				<tbody><tr valign="top">
+					<td width="100%">
+<!-- МЕНЮ ПРОДУКТОВ -->
+						<table width="100%" cellspacing="0" cellpadding="0" border="0">
+							<tbody><tr height="12" class="areagreen">
+								<td><img src="/images/spacer.gif" width="1" height="1"></td>
+								<td><img src="/images/spacer.gif" width="5" height="1"></td>
+								<td><img src="/images/spacer.gif" width="7" height="1"></td>
+								<td><img src="/images/spacer.gif" width="46" height="1"></td>
+								<td width="100%"></td>
+								<td><img src="/images/spacer.gif" width="1" height="1"></td>
+							</tr>
+							<tr height="5">
+								<td class="linegrey"></td>
+								<td colspan="5"></td>
+							</tr>
+							
+							<tr height="41">
+								<td class="linegrey"></td>
+								<td></td>
+								<td></td>
+								<td align="center"><img src="/images/arrow_green.gif" width="18" height="18"></td>
+								<td><p class="prodmenu"><a class="prodmenugreen" href="/index.php?id=pif_chastn_inv">ПИФы для частных инвесторов</a></p></td>
+								<td></td>
+							</tr>
+							<tr height="1">
+								<td class="linegrey"></td>								
+								<td></td>
+								<td></td>
+								<td></td>
+								<td class="linegrey2"></td>
+								<td></td>
+							</tr>
+							
+							<tr height="41">
+								<td class="linegrey"></td>
+								<td></td>
+								<td></td>
+								<td align="center"><img src="/images/arrow_blue.gif" width="18" height="18"></td>
+								<td><p class="prodmenu"><a class="prodmenublue" href="/index.php?id=proect_uprav">Закрытые фонды и инвест. проекты</a></p></td>
+								<td></td>
+							</tr>
+												
+							<tr height="8">
+								<td class="linegrey"></td>
+								<td colspan="5"></td>
+							</tr>
+							<tr height="1"><td colspan="6" class="linegrey"></td></tr>
+						</tbody></table>
+<!-- КОНЕЦ меню продуктов -->
+<!-- beral start-->
+        <table width="100%" cellspacing="0" cellpadding="0" border="0">
+	<tbody><tr height="5"><td></td></tr>
+	</tbody></table>
+<!-- beral end -->
+<!-- БАННЕР -->
+
+<!-- spriaton banner beral
+        <table width=100% cellspacing=0 cellpadding=0 border=0>
+	<tr height=12><td></td></tr>
+        <tr><td><a href="/index.php?id=bonus"><img src="/images/newinformer.gif" width=300 height=130></a></td></tr>
+-->
+<!--
+        <tr><td><a href="/index.php?id=pensiya"><img src="/images/pens6.gif" width=300 height=100></a></td></tr>
+	<tr>
+								
+		<td><object classid="clsid:D27CDB6E-AE6D-11cf-96B8-444553540000" codebase="http://fpdownload.macromedia.com/pub/shockwave/cabs/flash/swflash.cab#version=6,0,0,0" width="300" height="125" id="right" align="middle">
+			<param name="allowScriptAccess" value="sameDomain" />
+			<param name="movie" value="\flash\right4.swf" />
+			<param name="quality" value="high" />
+			<param name="bgcolor" value="#FFFFFF" />								
+			<embed src="\flash\right4.swf" quality="high" bgcolor="#FFFFFF" width="300" height="125" name="right" align="middle" allowScriptAccess="sameDomain" type="application/x-shockwave-flash" pluginspage="http://www.macromedia.com/go/getflashplayer" />
+		</object></td>
+	</tr>
+-->
+<!--spriaton banner beral
+	<tr height=12><td></td></tr>
+	</table>
+-->
+
+<!-- КОНЕЦ баннера -->
+<!-- БЛОК НОВОСТЕЙ -->
+						<table width="100%" cellspacing="0" cellpadding="0" border="0">
+							<tbody><tr height="1"><td class="linegrey" colspan="3"></td></tr>
+							<tr valign="top">
+								<td class="linegrey"><img src="/images/spacer.gif" width="1" height="1"></td>
+								<td><img src="/images/spacer.gif" width="18" height="1"></td>
+								<td width="100%">
+									<table width="100%" cellspacing="0" cellpadding="0" border="0">
+										<tbody><tr height="8"><td></td></tr>
+									</tbody></table>									<p class="blocktitle"><a class="blocktitle" href="/index.php?id=news">Новости компании</a></p>
+									<p class="block"><nobr>09 июн 2023</nobr> - <a class="mainblock" href="/index.php?id=news&amp;show=675&amp;year=2023">Пункт приема заявок на проведение операций с паями ПИФов под управлением АО "УК Мономах", расположенный в собственном офисе АО "УК Мономах" в Новосибирске, будет работать в следующем режиме (время местное):</a> &nbsp;<a class="greyarrow" href="/index.php?id=news&amp;show=675&amp;year=2023">&nbsp;»&nbsp;</a></p>			
+									<p class="block"><nobr>27 апр 2023</nobr> - <a class="mainblock" href="/index.php?id=news&amp;show=674&amp;year=2023">Пункт приема заявок на проведение операций с паями ПИФов под управлением АО "УК Мономах", расположенный в собственном офисе АО "УК Мономах" в Новосибирске, будет работать в следующем режиме (время местное):</a> &nbsp;<a class="greyarrow" href="/index.php?id=news&amp;show=674&amp;year=2023">&nbsp;»&nbsp;</a></p>			
+									<table width="100%" cellspacing="0" cellpadding="0" border="0">
+										<tbody><tr valign="top">
+											<td width="50%"><p class="blockmore"><a class="blockmore" href="/index.php?id=news"><nobr>Все новости</nobr></a></p></td>
+											<td><img src="/images/spacer.gif" width="24" height="1"></td>
+											<td width="50%" align="right"><p class="blockmore"><a class="blockmore" href="/index.php?id=podpiska&amp;new=yes&amp;mes=no"><nobr>Подписаться на новости</nobr></a></p></td>
+										</tr>
+										<tr height="18"><td colspan="3"></td></tr>
+									</tbody></table>
+								</td>
+							</tr>
+							<tr height="1"><td class="linegrey" colspan="3"></td></tr>
+						</tbody></table>
+<!-- КОНЕЦ блока новостей -->
+						<table width="100%" cellspacing="0" cellpadding="0" border="0">
+							<tbody><tr height="5"><td></td></tr>
+						</tbody></table>
+<!-- БЛОК СООБЩЕНИЙ -->
+						<table width="100%" cellspacing="0" cellpadding="0" border="0">
+							<tbody><tr height="1"><td class="linegrey" colspan="3"></td></tr>
+							<tr valign="top">
+								<td class="linegrey"><img src="/images/spacer.gif" width="1" height="1"></td>
+								<td><img src="/images/spacer.gif" width="18" height="1"></td>
+								<td width="100%">
+									<table width="100%" cellspacing="0" cellpadding="0" border="0">
+										<tbody><tr height="8"><td></td></tr>
+									</tbody></table>
+									<p class="blocktitle"><a class="blocktitle" href="/index.php?id=mes">Сообщения</a></p>
+									<p class="block"><nobr>03 апр 2023</nobr> - <a class="mainblock" href="/index.php?id=mes&amp;show=667&amp;year=2023">Акционерное общество "Управляющая компания Мономах" (Лицензия на осуществление деятельности по управлению инвестиционными фондами, паевыми инвестиционными фондами и негосударственными пенсионными фондами №21-000-1-00072 от 28.06.02 выдана ФСФР России) сообщает о выявлении неточных, неполных и (или) недостоверных сведений в раскрытой ранее информации</a> &nbsp;<a class="greyarrow" href="/index.php?id=mes&amp;show=667&amp;year=2023">&nbsp;»&nbsp;</a></p>
+									<p class="block"><nobr>03 апр 2023</nobr> - <a class="mainblock" href="/index.php?id=mes&amp;show=668&amp;year=2023">Акционерное общество "Управляющая компания Мономах" (Лицензия на осуществление деятельности по управлению инвестиционными фондами, паевыми инвестиционными фондами и негосударственными пенсионными фондами №21-000-1-00072 от 28.06.02 выдана ФСФР России) </a> &nbsp;<a class="greyarrow" href="/index.php?id=mes&amp;show=668&amp;year=2023">&nbsp;»&nbsp;</a></p>
+	
+									<table width="100%" cellspacing="0" cellpadding="0" border="0">
+										<tbody><tr valign="top">
+											<td width="50%"><p class="blockmore"><a class="blockmore" href="/index.php?id=mes"><nobr>Все сообщения</nobr></a></p></td>
+											<td><img src="/images/spacer.gif" width="24" height="1"></td>
+											<td width="50%" align="right"><p class="blockmore"><a class="blockmore" href="/index.php?id=podpiska&amp;new=no&amp;mes=yes"><nobr>Подписаться на сообщения</nobr></a></p></td>
+										</tr>
+										<tr height="20"><td colspan="3"></td></tr>
+									</tbody></table>
+								</td>
+							</tr>
+							<tr height="1"><td class="linegrey" colspan="3"></td></tr>
+							<tr height="28"><td colspan="3" background="/images/blockshadow.gif" style="background-repeat:no-repeat; background-position:12px;"></td></tr>
+						</tbody></table>
+<!-- КОНЕЦ блока сообщений -->
+					</td>
+					<td><img src="/images/spacer.gif" width="16" height="1"></td>
+					<td></td><td><img src="/images/spacer.gif" width="12" height="1"></td>
+				</tr>
+			</tbody></table>
+<!-- КОНЕЦ правой колонки -->
+		</td>
+	</tr>
+	<tr height="8"><td colspan="4"></td></tr>
+</tbody></table>
+<!-- КОНЕЦ служебной таблицы в основной части страницы -->
+  </td>
+  <td></td>
+</tr>
+<tr>
+  <td><img src="/images/spacer.gif" width="12" height="1"></td>
+  <td class="mainarea"><img src="/images/spacer.gif" width="966" height="1"></td>
+  <td><img src="/images/spacer.gif" width="12" height="1"></td>
+</tr>
+<tr>
+  <td></td>
+  <td class="mainarea">
+  
+<script language="JavaScript">
+<!--
+var Click=0;
+function FindFunc(findId) {
+	var d=document.getElementById(findId);
+	if((Click%2)==0) {
+		d.style.display="block";
+	} else {
+		d.style.display="none";
+	}	
+	Click++;
+}
+-->
+</script>
+<!-- НИЖНЯЯ ЧАСТЬ САЙТА -->
+	<table width="100%" cellspacing="0" cellpadding="0" border="0">
+		<tbody><tr height="1">
+			<td><img src="/images/spacer.gif" width="12" height="1"></td>
+			<td width="33%"></td>
+			<td width="67%"></td>
+		</tr>
+		<tr valign="top">
+			<td background="/images/bottombg.gif" style="background-repeat:repeat-x; background-position:bottom left;"></td>
+			<td background="/images/bottombg.gif" style="background-repeat:repeat-x; background-position:bottom left;">
+<!-- ПРАВОВАЯ ИНФОРМАЦИЯ СЛЕВА -->
+				<table width="100%" cellspacing="0" cellpadding="0" border="0">
+					<tbody><tr height="106" valign="top">
+						<td><img src="/images/spacer.gif" width="30" height="1"></td>
+						<td width="100%">
+							<table width="100%" cellspacing="0" cellpadding="0" border="0">
+								<tbody><tr height="6"><td></td></tr>
+								<tr height="25" valign="top"><td><p class="bottom"></p><p class="bottom"> АО "УК Мономах"  © 2010 </p><p></p></td></tr>
+								<tr><td><p class="bottom"><a class="bottom" href="/index.php?id=important">Обязательная  информация!</a></p></td></tr>
+<!--								<tr><td><p class=bottom><a class=bottom href="/index.php?id=ob_inf">Обязательная  информация профучастника РЦБ!</a></p></td></tr>-->
+							</tbody></table>
+						</td>
+						<td><img src="/images/spacer.gif" width="8" height="1"></td>
+						<td class="linegrey"><img src="/images/spacer.gif" width="1" height="1"></td>
+						<td><img src="/images/spacer.gif" width="18" height="1"></td>
+					</tr>
+				</tbody></table>
+<!-- КОНЕЦ правовой информации слева -->
+			</td>
+			<td background="/images/bottombg.gif" style="background-repeat:repeat-x; background-position:bottom left;">
+<!-- ТАБЛИЦА С КОНТАКТАМИ, ЗНАЧКАМИ И ССЫЛКОЙ НА РАЗРАБОТЧИКОВ -->
+				<table width="100%" cellspacing="0" cellpadding="0" border="0">
+					<tbody><tr height="6" valign="top">
+						<td><img src="/images/spacer.gif" width="24" height="1"></td>
+						<td width="40%"><img src="/images/spacer.gif" width="200" height="1"></td>
+						<td><img src="/images/spacer.gif" width="24" height="1"></td>
+						<td width="60%"></td>
+						<td><img src="/images/spacer.gif" width="37" height="1"></td>
+						<td><img src="/images/spacer.gif" width="170" height="1"></td>
+						<td><img src="/images/spacer.gif" width="20" height="1"></td>
+					</tr>
+					<tr valign="top">
+						<td></td>
+						<td>
+<!-- АДРЕС НОВОСИБИРСКОГО ОФИСА -->
+							<table width="100%" cellspacing="0" cellpadding="0" border="0">
+								<tbody><tr><td>
+<p class="bottomtitle"><a class="bottomtitle" href="/index.php?id=contact">Новосибирск</a></p>										
+								</td></tr>
+								<tr height="6"><td></td></tr>
+								<tr><td>
+<p class="bottom">Проспект Академика Лаврентьева, дом 2/2,офис 355<br>Тел.: +7 (383) 363-01-71<br>E-mail: <script language="JavaScript"> 
+<!-- Begin 
+user = "mono"; 
+site = "monomah.ru"; 
+document.write('<a href=\"mailto:' + user + '@' + site + '\">'); 
+document.write(user + '@' + site + '</a>'); 
+// End --> 
+</script><a href="mailto:mono@monomah.ru">mono@monomah.ru</a>									
+								</p></td></tr>
+
+							</tbody></table>
+<!-- КОНЕЦ адреса новосибирского офиса -->
+						</td>
+						<td></td>
+						<td>
+<!-- АДРЕС МОСКОВСКОГО ОФИСА -->
+							<table width="100%" cellspacing="0" cellpadding="0" border="0">
+								<tbody><tr><td>
+										
+								</td></tr>
+								<tr height="6"><td></td></tr>	
+								<tr><td>
+<p class="bottom">Единый телефон:<br>8 (800) 1008-108<br>(звонок внутри России - бесплатный)</p>									
+								</td></tr>
+							</tbody></table>
+<!-- КОНЕЦ адреса московского офиса -->
+						</td>
+						<td></td>
+						<td>
+<!-- ЗНАЧКИ И ССЫЛКА НА РАЗРАБОТЧИКОВ СПРАВА -->
+					        <table width="100%" cellspacing="0" cellpadding="0" border="0">
+								<tbody><tr height="1"><td>
+<!-- УМЕНЬШЕННАЯ ФОРМА ПОИСКА ДЛЯ ПОЯВЛЕНИЯ -->
+									<div id="searchform" style="position:absolute; z-index:1; margin-left:-300; margin-top:-120; margin-bottom:0; display: none;">
+										<table width="100%" cellspacing="0" cellpadding="0" border="0">
+											<tbody><tr height="12"><td class="areawhite" colspan="7"></td></tr>
+											<tr height="1">
+									            <td class="areawhite"></td>
+									            <td class="formborder" colspan="5">
+									            </td><td class="areawhite"></td>
+											</tr>
+											<tr height="6" valign="top" class="formarea">
+												<td class="areawhite"><img src="/images/spacer.gif" width="12" height="1"></td>
+									            <td class="formborder"><img src="/images/spacer.gif" width="1" height="1"></td>
+									            <td><img src="/images/spacer.gif" width="8" height="1"></td>
+									            <td width="100%"></td>
+									            <td><img src="/images/spacer.gif" width="8" height="1"></td>
+									            <td class="formborder"><img src="/images/spacer.gif" width="1" height="1"></td>
+									            <td class="areawhite"><img src="/images/spacer.gif" width="12" height="1"></td>
+											</tr>
+											<tr class="formarea">
+									            <td class="areawhite"></td>
+									            <td class="formborder"></td>
+									            <td></td>
+									            <td>
+													<table width="100%" cellspacing="0" cellpadding="0" border="0">
+													<form action="/index.php?id=find" method="POST"></form>
+														<tbody><tr height="6"><td colspan="3"></td></tr>
+														<tr height="32" class="formoddroute">
+															<td><p class="ffield"><nobr>Поиск информации на сайте</nobr></p></td>
+															<td width="100%"><input class="finput" name="find" type="text"></td>
+															<td></td>
+														</tr>
+														<tr height="6"><td colspan="3"></td></tr>
+														<tr>
+															<td></td>
+															<td><input type="submit" value="Найти" class="fbtn" style="width:80px;"></td>
+															<td></td>
+														</tr>
+														<tr height="6"><td colspan="3"></td></tr>
+														
+													</tbody></table>
+												</td>
+												<td></td>
+												<td class="formborder"></td>
+												<td class="areawhite"></td>
+											</tr>
+											<tr height="1">
+									            <td class="areawhite"></td>
+									            <td class="formborder" colspan="5">
+									            </td><td class="areawhite"></td>
+											</tr>
+											<tr height="12"><td class="areawhite" colspan="7"></td></tr>
+										</tbody></table>
+									</div>
+<!-- КОНЕЦ уменьшенной формы поиска для появления -->
+								</td></tr>
+								<tr><td align="center">
+									<table width="1" cellspacing="0" cellpadding="0" border="0">
+										<tbody><tr height="24" valign="top">
+								            <td><a onclick="FindFunc('searchform');" style="cursor: pointer;"><img src="/images/ico_search.gif" width="17" height="17" hspace="6" alt="поиск"></a></td>
+											<td><a href="/index.php?id=tree"><img src="/images/ico_map.gif" width="17" height="17" hspace="6" alt="карта сайта"></a></td>
+											<td><a href="/"><img src="/images/ico_home.gif" width="17" height="17" hspace="6" alt="на главную"></a></td>
+											<td><a href="#up"><img src="/images/ico_goup.gif" width="17" height="17" hspace="6" alt="наверх"></a></td>
+										</tr>
+									</tbody></table>
+								</td></tr>
+								<tr height="30"><td>
+								
+								</td></tr>
+								<tr><td align="center"><p class="designby">разработка <a class="designby" href="http://www.noolab.ru" target="_new">NooLab</a></p></td></tr>
+							</tbody></table>
+<!-- КОНЕЦ значков и ссылки на разработчиков справа -->
+						</td>
+						<td></td>
+					</tr>
+				</tbody></table>
+<!-- КОНЕЦ таблицы с контактами, значками и ссылкой на разработчиков -->
+			</td>
+		</tr>
+		<tr>
+			<td class="bottomgreen"></td>
+			<td class="bottomgreen" align="right">
+				<table width="1" cellspacing="0" cellpadding="0" border="0">
+					<tbody><tr><td class="bottomblue"><img src="/images/spacer.gif" width="19" height="10"></td></tr>
+				</tbody></table>
+			</td>
+			<td class="bottomblue"></td>
+		</tr>
+	</tbody></table>
+<table width="100%" cellspacing="10" cellpadding="0" border="0" bgcolor="#f0f0f0">
+<tbody><tr>
+<td>
+<p class="mtext"> Акционерное общество "Управляющая компания Мономах".  Лицензия на осуществление деятельности по управлению инвестиционными фондами, паевыми инвестиционными фондами и негосударственными пенсионными фондами № 21-000-1-00072, выдана ФКЦБ России  28 июня 2002 года.<br></p><p class="mtext"><br></p><p class="mtext"><br></p><p class="mtext"></p><p class="mtext">Открытый паевой инвестиционный фонд рыночных финансовых инструментов "Мономах-Перспектива", Правила доверительного управления № 0035-18983813 зарегистрированы ФКЦБ России 15 сентября 1999 года;<br></p><p class="mtext"><br></p><p class="mtext"></p><p class="mtext">Закрытый паевой инвестиционный комбинированный фонд  "Инверсия", Правила доверительного управления № 0215-72793816 зарегистрированы ФСФР России 16 июня 2004 года;<br></p><p class="mtext"></p><p class="mtext">Получить подробную информацию до приобретения инвестиционных паев о паевых инвестиционных фондах, ознакомиться с Правилами доверительного управления паевыми инвестиционными фондами, а также иными документами, предусмотренными в Федеральном законе от 29.11.2001 года № 156-ФЗ "Об инвестиционных фондах" и иных нормативных актах, регулирующих деятельность в сфере финансовых рынков, можно в  офисе АО "УК Мономах" по адресу:  630090, Новосибирская область город Новосибирск, проспект Академика Лаврентьева, дом 2/2,офис 355 по телефонам 8 (800) 1008-108, 8 (383) 363-01-71, <a href="/index.php?id=agents"></a> или в сети Интернет по адресу <a href="/index.php"><b>www.monomah.ru</b></a> .<br></p><p class="mtext"><br></p><p class="mtext"></p><p class="mtext">Вся информация, подлежащая раскрытию в соответствии с правилами доверительного управления, публикуется на сайте АО "УК Мономах" в сети Интернет <a href="/index.php"><b>www.monomah.ru</b></a> и печатном издании "Приложение к Вестнику Федеральной службы по финансовым рынкам".<br></p><p class="mtext"></p><p class="mtext">Стоимость инвестиционных паев может уменьшаться и увеличиваться. Результаты инвестирования в прошлом не определяют доходы в будущем. Государство не гарантирует доходность инвестиций в паевые инвестиционные фонды. Прежде чем приобрести инвестиционный пай, следует внимательно ознакомиться с правилами доверительного управления фондами. Скидки и надбавки, взимаемые агентами, уменьшают доходность инвестиций в инвестиционные паи паевого инвестиционного фонда.<br></p><p class="mtext"></p></td>
+</tr>
+<!--Poloska-->
+<tr>
+<td class="bottomgreen"></td>
+<td class="bottomgreen" align="right">
+	<table width="1" cellspacing="0" cellpadding="0" border="0">
+	    <tbody><tr><td class="bottomblue"><img src="/images/spacer.gif" width="19" height="10"></td></tr></tbody></table>
+<!-- КОНЕЦ нижней части сайта -->
+
+  </td>
+  <td></td>
+</tr>
+</tbody></table>
+<table>
+<!--<tr><td>66666666666</td></tr>-->
+</table>
+<!-- КОНЕЦ внешней служебной таблицы -->
+
+
+
+</td></tr></tbody></table>

@@ -1,0 +1,522 @@
+
+		<script type="text/javascript">
+		$(document).ready(function(){
+			$.ajax({
+				url: '/local/templates/aspro-allcorp/asprobanner.php',
+				type: 'post',
+				success: function(html){
+					if(!$('.form_demo-switcher').length){
+						$('body').append(html);
+					}
+				}
+			});
+		});
+		</script>
+						<div id="panel"></div>
+						<script type="text/javascript">
+		var arAllcorpOptions = ({
+			"SITE_DIR" : "/",
+			"SITE_ID" : "s1",
+			"SITE_TEMPLATE_PATH" : "/local/templates/aspro-allcorp",
+			"THEME" : ({
+				"THEME_SWITCHER" : "N",
+				"COLOR" : "color7",
+				"WIDTH" : "auto",
+				"MENU" : "first",
+				"SIDEMENU" : "left",
+				"PHONE_MASK" : "+7 (999) 999-99-99",
+				"VALIDATE_PHONE_MASK" : "^[+][0-9] [(][0-9]{3}[)] [0-9]{3}[-][0-9]{2}[-][0-9]{2}$",
+				"DATE_MASK" : "d:m:y",
+				"DATE_PLACEHOLDER" : "дд:мм:гггг",
+				"VALIDATE_DATE_MASK" : "^[0-9]{1,2}\:[0-9]{1,2}\:[0-9]{4}$",
+				'DATETIME_MASK' : 'd:m:y h:s',
+				'DATETIME_PLACEHOLDER' : 'дд:мм:гггг чч:мм',
+				'VALIDATE_DATETIME_MASK' : '^[0-9]{1,2}\:[0-9]{1,2}\:[0-9]{4} [0-9]{1,2}\:[0-9]{1,2}$',
+				"VALIDATE_FILE_EXT" : "png|jpg|jpeg|gif|doc|docx|xls|xlsx|txt|pdf|odt|rtf",
+				"USE_CAPTCHA_FORM" : "NONE",
+				"DISPLAY_PROCESSING_NOTE" : "N",
+				"CATALOG_INDEX" : "N",
+				"SERVICES_INDEX" : "Y",
+				'USE_YA_COUNTER' : "N",
+				'YA_COUNTER_ID' : "",
+				'USE_FORMS_GOALS' : "COMMON",
+				'USE_DEBUG_GOALS' : ""
+			})
+		});
+		</script>
+								<!--'start_frame_cache_options-block'--><script type="text/javascript">
+arAllcorpOptions['THEME']['THEME_SWITCHER'] = 'N';
+arAllcorpOptions['THEME']['COLOR'] = 'color7';
+arAllcorpOptions['THEME']['WIDTH'] = 'auto';
+arAllcorpOptions['THEME']['MENU'] = 'first';
+arAllcorpOptions['THEME']['SIDEMENU'] = 'left';
+arAllcorpOptions['THEME']['CATALOG_INDEX'] = 'N';
+arAllcorpOptions['THEME']['SERVICES_INDEX'] = 'Y';
+arAllcorpOptions['THEME']['FILTER_VIEW'] = 'VERTICAL';
+arAllcorpOptions['THEME']['USE_CAPTCHA_FORM'] = 'NONE';
+arAllcorpOptions['THEME']['DISPLAY_PROCESSING_NOTE'] = 'N';
+arAllcorpOptions['THEME']['PARTNERSBANNER_SLIDESSHOWSPEED'] = '5000';
+arAllcorpOptions['THEME']['PARTNERSBANNER_ANIMATIONSPEED'] = '600';
+arAllcorpOptions['THEME']['BIGBANNER_HIDEONNARROW'] = 'N';
+arAllcorpOptions['THEME']['BIGBANNER_SLIDESSHOWSPEED'] = '5000';
+arAllcorpOptions['THEME']['BIGBANNER_ANIMATIONSPEED'] = '600';
+arAllcorpOptions['THEME']['BIGBANNER_ANIMATIONTYPE'] = 'SLIDE_HORIZONTAL';
+if(typeof(BX.localStorage) != 'undefined'){
+	BX.localStorage.set('arAllcorpOptions', arAllcorpOptions, 86400);
+}
+</script>
+<!--'end_frame_cache_options-block'-->		<div class="body">
+			<div class="body_media"></div>
+			<div class="top-row">
+				<div class="container maxwidth-theme">
+					<div class="row">
+						<div class="col-md-12">
+							<div class="row">
+								<div class="col-lg-6 col-md-5">
+									<div class="info-text">
+										<div class="email">
+											<i class="icon icon-envelope"></i>
+											<a href="mailto:info@vector-capital.ru">info@vector-capital.ru</a>										</div>
+										<div class="phone">
+											<i class="icon icon-phone"></i>
+											+7 499 643 8250										</div>
+										
+									</div>
+								</div>
+								<div class="col-lg-3 col-md-4">
+									
+								</div>
+								<div class="col-md-3">
+										<div class="search" id="title-search">
+		<form action="/search/">
+			<input class="search-input" id="title-search-input" type="text" name="q" value="" placeholder="Поиск" size="40" maxlength="50" autocomplete="off">
+			<button class="btn-search" type="submit" name="s" value="Поиск"><i class="icon icon-search"></i></button>
+		</form>
+	</div>
+<script type="text/javascript">
+	var jsControl = new JCTitleSearch({
+		//'WAIT_IMAGE': '/bitrix/themes/.default/images/wait.gif',
+		'AJAX_PAGE' : '/information/?SECTION_ID=34',
+		'CONTAINER_ID': 'title-search',
+		'INPUT_ID': 'title-search-input',
+		'MIN_QUERY_LEN': 2
+	});
+</script>
+								</div>
+							</div>
+						</div>
+					</div>
+				</div>
+			</div>
+			<header class="menu-type-1">
+				<div class="container maxwidth-theme">
+					<div class="row">
+						<div class="col-md-12">
+							<div class="row">
+																	<div class="col-md-3">
+										<div class="logo"><a href="/"><img src="/local/templates/aspro-allcorp/themes/color7/images/logo.png" alt=""></a></div>
+									</div>
+									<div class="col-md-9">
+										<button class="btn btn-responsive-nav" data-toggle="collapse" data-target=".nav-main-collapse">
+											<i class="icon icon-bars"></i>
+										</button>
+									</div>
+															</div>
+						</div>
+					</div>
+				</div>
+				<div class="nav-main-collapse collapse">
+					<div class="container maxwidth-theme">
+						<div class="row">
+							<div class="col-md-12">
+																	<div class="row">
+										<div class="col-md-3">
+										</div>
+										<div class="col-md-9">
+																			<nav class="mega-menu pull-right">
+													<div class="table-menu hidden-xs">
+		<table>
+			<tbody><tr>
+														<td class=" ">
+						<div class="wrap">
+							<a class="" href="/" title="Главная">
+								Главная															</a>
+													</div>
+					</td>
+														<td class="dropdown ">
+						<div class="wrap">
+							<a class="dropdown-toggle" href="/company/" title="О компании">
+								О компании																	&nbsp;<i class="icon icon-angle-down"></i>
+															</a>
+															<ul class="dropdown-menu">
+																													<li class=" ">
+											<a href="/company/" title="О компании">О компании</a>
+																					</li>
+																	</ul>
+													</div>
+					</td>
+														<td class=" active">
+						<div class="wrap">
+							<a class="" href="/information/" title="Раскрытие информации">
+								Раскрытие информации															</a>
+													</div>
+					</td>
+														<td class=" ">
+						<div class="wrap">
+							<a class="" href="/fund.php" title="Паевые инвестиционные фонды">
+								Паевые инвестиционные фонды															</a>
+													</div>
+					</td>
+														<td class=" ">
+						<div class="wrap">
+							<a class="" href="/contacts/" title="Контакты">
+								Контакты															</a>
+													</div>
+					</td>
+								<td class="dropdown js-dropdown nosave" style="display:none;">
+					<div class="wrap">
+						<a class="dropdown-toggle more-items" href="#">
+							<span>...</span>
+						</a>
+						<ul class="dropdown-menu">
+						</ul>
+					</div>
+				</td>
+			</tr>
+		</tbody></table>
+	</div>
+	<ul class="nav nav-pills responsive-menu" id="mainMenu">
+								<li class=" ">
+				<a class="" href="/" title="Главная">
+					Главная									</a>
+							</li>
+								<li class="dropdown ">
+				<a class="dropdown-toggle" href="/company/" title="О компании">
+					О компании											<i class="icon icon-angle-down"></i>
+									</a>
+									<ul class="dropdown-menu">
+																				<li class=" ">
+								<a href="/company/" title="О компании">
+									О компании																	</a>
+															</li>
+											</ul>
+							</li>
+								<li class=" active">
+				<a class="" href="/information/" title="Раскрытие информации">
+					Раскрытие информации									</a>
+							</li>
+								<li class=" ">
+				<a class="" href="/fund.php" title="Паевые инвестиционные фонды">
+					Паевые инвестиционные фонды									</a>
+							</li>
+								<li class=" ">
+				<a class="" href="/contacts/" title="Контакты">
+					Контакты									</a>
+							</li>
+				<li class="search visible-sm visible-xs">
+			<div class="container maxwidth-theme">
+				<div class="wrap">
+					<div class="search-input-div">
+						<input class="search-input" type="text" autocomplete="off" maxlength="50" size="40" placeholder="Поиск" value="" name="q">
+					</div>
+					<div class="search-button-div">
+						<button class="btn btn-search btn-primary" value="Поиск" name="s" type="submit">Поиск</button>
+					</div>
+				</div>
+			</div>
+		</li>	
+	</ul>
+											</nav>
+																		</div>
+									</div>
+															</div>
+						</div>
+					</div>
+				</div>
+			</header>
+			<div role="main" class="main">
+									<section class="page-top">
+													<div class="container">
+								<div class="row">
+									<div class="col-md-12">
+										<h1 id="pagetitle">Раскрытие информации в соответствии с требованиями законодательства</h1>
+									</div>
+								</div>
+								<div class="row">
+									<div class="col-md-12">
+										<link href="/bitrix/css/main/font-awesome.css?162851095428777" type="text/css" rel="stylesheet">
+<div class="bx-breadcrumb" itemscope="" itemtype="http://schema.org/BreadcrumbList">
+			<div class="bx-breadcrumb-item" id="bx_breadcrumb_0" itemprop="itemListElement" itemscope="" itemtype="http://schema.org/ListItem">
+				
+				<a href="/" title="Главная" itemprop="item">
+					<span itemprop="name">Главная</span>
+				</a>
+				<meta itemprop="position" content="1">
+			</div>
+			<div class="bx-breadcrumb-item" id="bx_breadcrumb_1" itemprop="itemListElement" itemscope="" itemtype="http://schema.org/ListItem">
+				<i class="fa fa-angle-right"></i>
+				<a href="/information/" title="Раскрытие информации" itemprop="item">
+					<span itemprop="name">Раскрытие информации</span>
+				</a>
+				<meta itemprop="position" content="2">
+			</div>
+			<div class="bx-breadcrumb-item">
+				<i class="fa fa-angle-right"></i>
+				<span>Расчет собственных средств</span>
+			</div><div style="clear:both"></div></div>									</div>
+								</div>
+							</div>
+											</section>
+					<div class="container maxwidth-theme">
+						<div class="row">
+							<div class="col-md-12">
+																													<!--<h1>Раскрытие информации о компании</h1>
+<table class="gold">
+  <tbody>
+  <tr><td></td><td></td><td>дата раскрытия</td></tr>
+<tr><td>Полное фирменное наименование</td>
+<td>Общество с ограниченной ответственностью "Управляющая компания "Вектор Капитал"</td><td>27.09.2019</td></tr>
+<tr><td>Полное фирменное наименование на иностранном языке</td>
+<td>Vector Capital Asset Management OOO</td><td>27.09.2019</td></tr>
+<tr><td>Сокращенное фирменное наименование</td>
+<td>ООО "УК "Вектор Капитал"</td><td>27.09.2019</td></tr>
+<tr><td>Сокращенное фирменное наименование на иностранном языке</td>
+<td>Vector Capital</td><td>27.09.2019</td></tr>
+  <tr>
+    <td>Электронная скан-копия лицензии на осуществление деятельности по управлению инвестиционными фондами, паевыми инвестиционными фондами и негосударственными пенсионными фондами</td>
+    <td><a href="/docs/lic.pdf">Лицензия № 21-000-1-01029 на осуществление деятельности по управлению инвестиционными фондами, паевыми инвестиционными фондами и негосударственными пенсионными фондами, предоставлена Банком России 26.09.2019 без ограничения срока действия</a></td>
+    <td>02.10.2019</td></tr>
+  <tr>
+    <td>Информация о членстве в саморегулируемых организациях в сфере финансовых рынков (далее - СРО)</td>
+    <td>Национальная ассоциация участников фондового рынка (НАУФОР) <a href="http://www.naufor.ru/">http://www.naufor.ru/</a></td>
+    <td>11.11.2019</td></tr>
+  <tr>
+    <td>Идентификационный номер налогоплательщика</td>
+    <td>7714442381</td>
+    <td>27.09.2019</td></tr>
+  <tr>
+    <td>Адрес, указанный в ЕГРЮЛ</td>
+    <td>125284, город Москва, Хорошевское шоссе, дом 32 А, этаж 5, помещение 52</td>
+    <td>01.03.2021</td></tr>
+  <tr>
+    <td>Номер телефона</td>
+    <td><a href="tel:+74996438250">+7 499 643 8250</a></td>
+    <td>07.06.2021</td></tr>
+   <tr>
+    <td>Номер факса</td>
+    <td><a href="tel:+74997019916">+7 (499) 701-99-16</a></td>
+    <td>27.09.2019</td></tr>
+  <tr>
+    <td>Адрес электронной почты</td>
+    <td><a href="mailto:info@vector-capital.ru">info@vector-capital.ru</a></td>
+    <td>27.09.2019</td></tr>
+  <tr>
+    <td>Фамилия, имя, отчество лица, осуществляющего функции единоличного исполнительного органа</td>
+    <td>Иванова Наталия Рюриковна</td>
+    <td>22.04.2021</td></tr>
+    </tbody></table>
+    <br>
+    <p align="center">
+	Период актуальности вышеуказанной информации: До внесения изменений</p> -->
+<br>
+<br>
+
+
+<div class="news-list">
+	<table class="table table-striped">
+		<thead> 									 
+	        <tr>
+				<th>Информация подлежащая раскрытию</th>
+				<th>Ссылка на файл</th>
+				<th>Дата раскрытия</th>
+				<th>Период активности</th>
+			</tr>
+		</thead> 
+		<tbody>
+					<tr>
+				<td>РАСЧЕТ РАЗМЕРА СОБСТВЕННЫХ СРЕДСТВ ПО СОСТОЯНИЮ НА: 31 мая 2023</td>
+				<td><a href="/upload/iblock/268/o4qj1csvp1cv9jhji3nyvg0r1v1h5sbc.pdf" download="">Скачать</a></td>
+				<td>15.06.2023 11:27:00</td>
+				<td>15.06.2023 11:27:00 - доступно по 15.06.2026</td>
+			</tr>
+					<tr>
+				<td>РАСЧЕТ РАЗМЕРА СОБСТВЕННЫХ СРЕДСТВ ПО СОСТОЯНИЮ НА: 30 апреля 2023</td>
+				<td><a href="/upload/iblock/6be/qg0f9e7jj2fhtbx8ix5pd8xo6h1xqyz5.pdf" download="">Скачать</a></td>
+				<td>17.05.2023 17:06:00</td>
+				<td>17.05.2023 17:06:00 - доступно по 17.05.2026</td>
+			</tr>
+					<tr>
+				<td>РАСЧЕТ РАЗМЕРА СОБСТВЕННЫХ СРЕДСТВ ПО СОСТОЯНИЮ НА: 31 марта 2023</td>
+				<td><a href="/upload/iblock/73f/tf08sz7ocmj8yasx323ekoadz0w4rhcg.pdf" download="">Скачать</a></td>
+				<td>13.04.2023 17:36:00</td>
+				<td>13.04.2023 17:36:00 - доступно по 13.04.2026</td>
+			</tr>
+					<tr>
+				<td>РАСЧЕТ РАЗМЕРА СОБСТВЕННЫХ СРЕДСТВ ПО СОСТОЯНИЮ НА: 28 февраля 2023</td>
+				<td><a href="/upload/iblock/560/tu90cvhu6g0vbzc41hijpfu5q310hmff.pdf" download="">Скачать</a></td>
+				<td>15.03.2023 14:29:00</td>
+				<td>15.03.2023 14:29:00 - доступно по 15.03.2026</td>
+			</tr>
+					<tr>
+				<td>РАСЧЕТ РАЗМЕРА СОБСТВЕННЫХ СРЕДСТВ ПО СОСТОЯНИЮ НА: 31 января 2023 г (скорректированный)</td>
+				<td><a href="/upload/iblock/81d/9tzl11lixxulggawhzsq2xi8asmxuk54.pdf" download="">Скачать</a></td>
+				<td>14.03.2023 17:22:00</td>
+				<td>14.03.2023 17:22:00 - доступно по 14.03.2026</td>
+			</tr>
+					<tr>
+				<td>РАСЧЕТ РАЗМЕРА СОБСТВЕННЫХ СРЕДСТВ ПО СОСТОЯНИЮ НА: 31 декабря 2022 г (скорректированный)</td>
+				<td><a href="/upload/iblock/596/sk0e0cstt6x8yi2ihpkp31qnt8vogbe9.pdf" download="">Скачать</a></td>
+				<td>14.03.2023 17:16:00</td>
+				<td>14.03.2023 17:16:00 - доступно по 14.03.2026</td>
+			</tr>
+					<tr>
+				<td>РАСЧЕТ РАЗМЕРА СОБСТВЕННЫХ СРЕДСТВ ПО СОСТОЯНИЮ НА: 31 января 2023</td>
+				<td><a href="/upload/iblock/d31/x2kkc59lf1sdajjrtnz2s8fx1cc3ja62.pdf" download="">Скачать</a></td>
+				<td>13.02.2023 17:14:00</td>
+				<td>13.02.2023 17:14:00 - доступно по 13.02.2026</td>
+			</tr>
+					<tr>
+				<td>РАСЧЕТ РАЗМЕРА СОБСТВЕННЫХ СРЕДСТВ ПО СОСТОЯНИЮ НА: 31 декабря 2022</td>
+				<td><a href="/upload/iblock/b32/s0adl5sbn5n0c195m9xejxwe9jbva22h.pdf" download="">Скачать</a></td>
+				<td>19.01.2023 13:32:00</td>
+				<td>19.01.2023 13:32:00 - доступно по 19.01.2026</td>
+			</tr>
+					<tr>
+				<td>РАСЧЕТ РАЗМЕРА СОБСТВЕННЫХ СРЕДСТВ ПО СОСТОЯНИЮ НА: 30 ноября 2022</td>
+				<td><a href="/upload/iblock/087/16n0ulrl8jkz26qbbydjl2rski4h6lkk.pdf" download="">Скачать</a></td>
+				<td>13.12.2022 12:58:00</td>
+				<td>13.12.2022 12:58:00 - доступно по 13.12.2025</td>
+			</tr>
+					<tr>
+				<td>РАСЧЕТ РАЗМЕРА СОБСТВЕННЫХ СРЕДСТВ ПО СОСТОЯНИЮ НА: 31 октября 2022</td>
+				<td><a href="/upload/iblock/22f/kq9cfe84knoz4lfzb84jsg92wihpofhe.pdf" download="">Скачать</a></td>
+				<td>10.11.2022 14:17:00</td>
+				<td>10.11.2022 14:17:00 - доступно по 10.11.2025</td>
+			</tr>
+					<tr>
+				<td>РАСЧЕТ РАЗМЕРА СОБСТВЕННЫХ СРЕДСТВ ПО СОСТОЯНИЮ НА: 30 сентября 2022</td>
+				<td><a href="/upload/iblock/57c/1995rjbd41ptfouws6l8zowxvw1kfrpu.pdf" download="">Скачать</a></td>
+				<td>14.10.2022 12:50:00</td>
+				<td>14.10.2022 12:50:00 - доступно по 14.10.2025</td>
+			</tr>
+					<tr>
+				<td>РАСЧЕТ РАЗМЕРА СОБСТВЕННЫХ СРЕДСТВ ПО СОСТОЯНИЮ НА: 31 августа 2022</td>
+				<td><a href="/upload/iblock/6e5/ix385k7w7fo6x1izgr0p4wk951k1pqc8.pdf" download="">Скачать</a></td>
+				<td>12.09.2022 14:36:00</td>
+				<td>12.09.2022 14:36:00 - доступно по 12.09.2025</td>
+			</tr>
+					<tr>
+				<td>РАСЧЕТ РАЗМЕРА СОБСТВЕННЫХ СРЕДСТВ ПО СОСТОЯНИЮ НА: 31 июля 2022</td>
+				<td><a href="/upload/iblock/3f5/pu4uj3elg5djlu18zc7q3k6vi3fglbed.pdf" download="">Скачать</a></td>
+				<td>10.08.2022 15:18:00</td>
+				<td>10.08.2022 15:18:00 - доступно по 10.08.2025</td>
+			</tr>
+					<tr>
+				<td>РАСЧЕТ РАЗМЕРА СОБСТВЕННЫХ СРЕДСТВ ПО СОСТОЯНИЮ НА: 30 июня 2022</td>
+				<td><a href="/upload/iblock/d2d/t9nlys7chtgziydlzoxhn7basmcjenqd.pdf" download="">Скачать</a></td>
+				<td>14.07.2022 14:05:00</td>
+				<td>14.07.2022 14:05:00 - доступно по 14.07.2025</td>
+			</tr>
+					<tr>
+				<td>РАСЧЕТ РАЗМЕРА СОБСТВЕННЫХ СРЕДСТВ ПО СОСТОЯНИЮ НА: 31 мая 2022</td>
+				<td><a href="/upload/iblock/1e6/zjqdo6iu0o13l245a1y5efmmsj23ecxq.pdf" download="">Скачать</a></td>
+				<td>14.06.2022 11:21:00</td>
+				<td>14.06.2022 11:21:00 - доступно по 14.06.2025</td>
+			</tr>
+					<tr>
+				<td>РАСЧЕТ РАЗМЕРА СОБСТВЕННЫХ СРЕДСТВ ПО СОСТОЯНИЮ НА: 30 апреля 2022</td>
+				<td><a href="/upload/iblock/9f4/2d7jzanwsjpe1mk4ude36vfr7lqkhpux.pdf" download="">Скачать</a></td>
+				<td>18.05.2022 11:04:00</td>
+				<td>18.05.2022 11:04:00 - доступно по 18.05.2025</td>
+			</tr>
+					<tr>
+				<td>РАСЧЕТ РАЗМЕРА СОБСТВЕННЫХ СРЕДСТВ ПО СОСТОЯНИЮ НА: 31 марта 2022</td>
+				<td><a href="/upload/iblock/a58/cmlnqwqcmge2ujv8xja316pbhirw2htm.pdf" download="">Скачать</a></td>
+				<td>12.04.2022 13:23:00</td>
+				<td>12.04.2022 13:23:00 - доступно по 12.04.2025</td>
+			</tr>
+					<tr>
+				<td>РАСЧЕТ РАЗМЕРА СОБСТВЕННЫХ СРЕДСТВ ПО СОСТОЯНИЮ НА: 28 февраля 2022</td>
+				<td><a href="/upload/iblock/f27/q8ss91esbna0ok4kbn2up29ajxra036o.pdf" download="">Скачать</a></td>
+				<td>15.03.2022 15:07:00</td>
+				<td>15.03.2022 15:07:00 - доступно по 15.03.2025</td>
+			</tr>
+					<tr>
+				<td>РАСЧЕТ РАЗМЕРА СОБСТВЕННЫХ СРЕДСТВ ПО СОСТОЯНИЮ НА: 31 января 2022</td>
+				<td><a href="/upload/iblock/b16/f8k3f66lvr1e3e2zs94rwcyi5tqbrqrr.pdf" download="">Скачать</a></td>
+				<td>11.02.2022 15:32:00</td>
+				<td>11.02.2022 15:32:00 - доступно по 11.02.2025</td>
+			</tr>
+					<tr>
+				<td>РАСЧЕТ РАЗМЕРА СОБСТВЕННЫХ СРЕДСТВ ПО СОСТОЯНИЮ НА: 31 декабря 2021</td>
+				<td><a href="/upload/iblock/6cb/angpsj78ak67fehwaa2kweqeqap5yw02.pdf" download="">Скачать</a></td>
+				<td>20.01.2022 16:45:00</td>
+				<td>20.01.2022 16:45:00 - доступно по 20.01.2025</td>
+			</tr>
+				</tbody>
+	</table>
+	
+		<div class="wrap_pagination">
+	<ul class="pagination">
+																																			<li class="active"><span>1</span></li>
+																																		<li><a href="/information/?SECTION_ID=34&amp;PAGEN_1=2">2</a></li>
+																																							<li><a href="/information/?SECTION_ID=34&amp;PAGEN_1=3">3</a></li>
+																																	<li class="next"><a href="/information/?SECTION_ID=34&amp;PAGEN_1=2"><i class="icon icon-chevron-right"></i></a></li>
+												</ul>
+</div>
+	</div>
+																											</div>
+						</div>
+					</div>
+							</div>
+		</div>
+		<footer id="footer">
+			<p class="bottom_text"><sub>
+	 Стоимость инвестиционных паев может увеличиваться и уменьшаться. Результаты инвестирования в прошлом не определяют доходы в будущем. Государство не гарантирует доходность инвестиций в инвестиционные фонды. Прежде чем приобрести инвестиционный пай, следует внимательно ознакомиться с инвестиционной декларацией и правилами доверительного управления паевым инвестиционным фондом. Лицензия Общества с ограниченной ответственностью «Управляющая компания «Вектор Капитал»» № 21-000-1-01029 на осуществление деятельности по управлению инвестиционными фондами, паевыми инвестиционными фондами и негосударственными пенсионными фондами, предоставлена Банком России 26.09.2019, без ограничения срока действия. До приобретения инвестиционных паев получить подробную информацию о паевых инвестиционных фондах под управлением ООО «УК «Вектор Капитал», ознакомиться с правилами доверительного управления паевых инвестиционных фондов под управлением ООО «УК «Вектор Капитал», а также получить сведения об ООО «УК «Вектор Капитал» и иную информацию, предусмотренную законодательством РФ и нормативными правовыми актами Российской Федерации можно по адресу: Российская Федерация 125284, г. Москва, Хорошевское ш., д.32А, 5 этаж, пом. XVI, комн. 52,по телефону: +7(499)643-82-50, а также на сайте ООО «УК «Вектор Капитал» в сети интернет по адресу: <a href="http://www.vector-capital.ru" target="_blank">www.vector-capital.ru</a>. Информация, подлежащая опубликованию в печатном издании, публикуется в информационном бюллетене «Приложение к Вестнику Федеральной службы по финансовым рынкам». ООО «УК «Вектор Капитал» информирует об отсутствии совмещения деятельности по доверительному управлению паевыми инвестиционными фондами с иными видами деятельности.<br></sub>
+</p>
+			<div class="container maxwidth-theme">
+				<div class="row">
+					<div class="col-md-3">
+						<div class="copy">
+							© 2021 ООО «УК «Вектор Капитал»<br>
+Все права защищены.							<br><br>
+							125284, Российская Федерация, <br>г. Москва, Хорошёвское шоссе, дом 32А, 5 этаж, помещение XVI, комн. 52						</div>
+					</div>
+					<div class="col-md-6">
+						<div class="menu">
+							<div class="row">
+									<div class="col-md-3">
+		<ul>
+										<li><a href="/">Главная</a></li>
+															<li><a href="/company/">О компании</a></li>
+															<li><a href="/information/">Раскрытие информации в соответствии с требованиями законодательства</a></li>
+										</ul>
+					</div>
+					<div class="col-md-3">
+						<ul>
+															<li><a href="/fund.php">Паевые инвестиционные фонды</a></li>
+															<li><a href="/contacts/">Контакты</a></li>
+													</ul>
+	</div>
+							</div>
+						</div>
+					</div>
+					<div class="col-md-3">
+						<div class="info">
+							<div class="email">
+								<i class="icon icon-envelope"></i>
+								<a href="mailto:info@vector-capital.ru">info@vector-capital.ru</a>							</div>
+							<div class="phone">
+								<i class="icon icon-phone"></i>
+								+7 499 643 8250							</div>
+							
+						</div>
+					</div>
+				</div>
+				<div id="bx-composite-banner"></div>
+			</div>
+		</footer>
+		<div class="bx_areas">
+					</div>
+			
+<div class="title-search-result"></div>

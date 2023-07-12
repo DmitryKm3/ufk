@@ -1,0 +1,953 @@
+
+    <div id="top-menu" class="bundle">
+        <div class="content no-display-phone mt-1 mb-1" style="height: 60px;">
+            <a href="/"><img src="/template/assets/logo.svg" style="float: left;" alt="Управляющая компания «Прагма Капитал»" title="Управляющая компания «Прагма Капитал»"></a>
+            <span style="float: right;">
+                <p class="lead-alt right" style="font-size: 42px; margin: 8px 0 5px;">8 (495) 902-63-71</p>
+                <p class="right" style="font-size: 15px;">Москва, 1-й Волконский переулок, д. 13, стр. 2</p>
+            </span>
+        </div>
+        <div class="content top-menu">
+            <a href="/"><span class="top-menu-item"><img style="height: 18px;" src="/template/assets/home.svg"></span></a>
+            <a href="/fund"><span class="top-menu-item">Паевые фонды</span></a>
+            <a href="/company"><span class="top-menu-item">Управляющая компания</span></a>
+            <a href="/documents"><span class="top-menu-item">Финэксперт</span></a>
+            <a href="/contacts"><span class="top-menu-item">Контакты</span></a>
+        </div>
+    </div>
+    <div class="bundle no-display-desktop">
+        <a href="/"><img src="/template/assets/logo.svg" style="height: 39px;"></a>
+    </div>
+    <div class="menu-mobile">
+        <a href="#cd-nav" class="cd-nav-trigger">Меню
+            <span class="cd-nav-icon"></span>
+            <svg x="0px" y="0px" width="54px" height="54px" viewBox="0 0 54 54">
+                <circle fill="transparent" stroke="#F9AB00" stroke-width="1" cx="27" cy="27" r="25" stroke-dasharray="157 157" stroke-dashoffset="157"></circle>
+            </svg>
+        </a>
+        <div id="cd-nav" class="cd-nav">
+            <div class="cd-navigation-wrapper">
+                <a href="/"><img src="template/assets/logo-mobile.svg" style="width: 90%; margin-bottom: 1em;"></a>
+                <p class="mobile-menu"><a href="/fund">Паевые фонды</a></p>
+                <p class="mobile-menu"><a href="/company">Управляющая компания</a></p>
+                <p class="mobile-menu"><a href="/documents">Финэксперт</a></p>
+                <p class="mobile-menu"><a href="/contacts">Контакты</a></p>
+            </div>
+        </div> 
+    </div>
+    
+    <div class="bundle">
+        <div class="content">
+            <h1>Управляющая компания</h1>
+            <p class="lead mt-15">Управляющая компания «Прагма Капитал» создана в&nbsp;2006 году сплоченной командой профессиональных девелоперов и&nbsp;финансистов. Квалификация коллектива компании гарантирует сохранность и&nbsp;неуклонный рост стоимости активов наших клиентов.</p>
+            <p class="lead">Большое количество фондов и&nbsp;средств под управлением, опыт успешной реализации и&nbsp;отладки бизнес-процессов позволяет добиваться существенного снижения издержек, инвестиционных и&nbsp;иных рисков при реализации инвестиционных проектов, улучшать качество оказываемых услуг, экономить средства пайщиков и&nbsp;увеличивать доходность инвестиций.</p>
+            <hr>
+            <p>Основным преимуществом при работе с&nbsp;нами является большой опыт, структурный подход к&nbsp;финансовому, налоговому планированию и&nbsp;четкое планированию этапов реализации инвестиционных проектов. А&nbsp;слаженная работа управляющей компании со&nbsp;специализированным депозитарием, специализированным регистратором и&nbsp;оценщиком фонда позволяет существенно сократить сроки реализации инвестиционных проектов на&nbsp;балансе паевых инвестиционных фондов, ипотечных ценных бумаг и&nbsp;активов негосударственных пенсионных фондов.</p>
+            <p>Мы&nbsp;оказываем полный перечень услуг по&nbsp;управлению инвестиционными фондами, паевыми инвестиционными фондами и&nbsp;негосударственными пенсионными фондами, управлению ипотечными сертификатами участия.</p>
+            <p><b>Мы&nbsp;открыты для сотрудничества и&nbsp;предлагаем эффективные решения для любого бизнеса с&nbsp;использованием негосударственного пенсионного обеспечения, паевых инвестиционных фондов и&nbsp;ипотечных сертификатов участия.</b></p>
+            <div class="callout callout-framed mt-2">
+                <p class="small">Информация о&nbsp;паевых инвестиционных фондах, паи которых предназначены для квалифицированных инвесторов (ограничены в&nbsp;обороте), не&nbsp;подлежит публикации и&nbsp;предоставляется владельцам инвестиционных паев фонда, а&nbsp;также лицам, являющимся квалифицированными инвесторами в&nbsp;силу федерального закона (согласно&nbsp;п.&nbsp;2&nbsp;ст.&nbsp;51.2 Федерального закона от&nbsp;22.04.1996 №&nbsp;39-ФЗ «О&nbsp;рынке ценных бумаг») или признанным таковыми в&nbsp;установленном порядке (внесенным на&nbsp;дату представления информации в&nbsp;Реестр лиц, признанных ООО УК&nbsp;«Прагма Капитал» квалифицированными инвесторами.</p>
+            </div>
+            <div class="callout callout-framed">
+                <p class="small">Стоимость инвестиционных паев может увеличиваться и&nbsp;уменьшаться, результаты инвестирования в&nbsp;прошлом не&nbsp;определяют доходы в&nbsp;будущем, государство не&nbsp;гарантирует доходность инвестиций в&nbsp;паевые инвестиционные фонды, а&nbsp;также сведения о&nbsp;том, что, прежде чем приобрести инвестиционный пай, следует внимательно ознакомиться с&nbsp;правилами доверительного управления.</p>
+            </div>
+            <h2 class="mt-15">Раскрытие информации</h2>
+            <div class="callout mt-1">
+                <p class="small reduction mb-0 mt-1">Полное фирменное наименование управляющей компании</p>
+                <p>Общество с ограниченной ответственностью «Управляющая компания «Прагма Капитал»</p>
+                <p class="small reduction mb-0 mt-1">Сокращенное фирменное наименование управляющей компании</p>
+                <p>ООО «УК «Прагма Капитал»</p>
+                <p class="small reduction mb-0 mt-1">Номер лицензии Федеральной службы по финансовым рынкам</p>
+                <p>21-000-1-00823 от 6.09.2011</p>
+                <div class="doc-item doc-item-small mt-1">
+                    <a href="/data/company/license.pdf" target="_blank">
+                        <img src="/template/assets/icon/doc.svg">
+                        <p class="doc-item-title doc-item-title-colored">Лицензия №21-000-1-00823 от&nbsp;6.09.2011 на&nbsp;осуществление деятельности по&nbsp;управлению инвестиционными фондами, паевыми инвестиционными фондами и&nbsp;негосударственными пенсионными фондами</p>
+                    </a>
+                </div>
+                <p class="small reduction mb-0 mt-1">Наименование деятельности, осуществляемой на основании лицензии</p>
+                <p>Управление негосударственными пенсионными фондами, управление закрытыми паевыми инвестиционными фондами, управление открытыми паевыми инвестиционными фондами, управление ипотечными сертификатами участия.</p>
+                <p class="small mb-0 mt-0">Общество с&nbsp;ограниченной ответственностью «Управляющая компания «Прагма Капитал» не&nbsp;совмещает деятельность по&nbsp;доверительному упралению паевыми инвестиционными фондами с&nbsp;деятельностью по&nbsp;управлению ценными бумагами.</p>
+                <p class="small reduction mb-0 mt-1">
+                Места, где до&nbsp;приобретения инвестиционных паёв можно получить подробную информацию о&nbsp;паевых инвестиционных фондах и&nbsp;ознакомиться с&nbsp;правилами доверительного управления, а&nbsp;также с&nbsp;иными документами, предусмотренными законодательством Российской Федерации в&nbsp;сфере коллективных инвестиций и&nbsp;нормативными актами Банка России
+                </p>
+                <p>
+                    Москва, 1-й Волконский переулок, д. 13, стр. 2., телефон: (495) 902-63-71
+                    <br>
+                    Тверская обл., Селижаровский р-н, пгт. Селижарово, ул. Ленина, д. 3А, телефон: (48269) 22-614
+                </p>
+                <p class="small reduction mb-0 mt-1">Иные источники информации, в которых в соответствии с правилами доверительного управления раскрыта либо должна быть раскрыта соответствующая информация</p>
+                <p><a href="http://www.pragmacapital.ru">http://www.pragmacapital.ru</a></p>
+                <p class="small reduction mb-0 mt-1">Должностное лицо, осуществляющее функции единоличного исполнительного органа</p>
+                <p>Мамаев Андрей Александрович, Генеральный директор ООО «УК&nbsp;«Прагма Капитал» (дата назначения 01.03.2022)</p>
+                <p class="small mb-0 mt-0">
+                	Сведения об опыте работы в кредитных организациях и некредитных финансовых организациях за последние 5 лет:<br>
+                    Генеральный директор ООО «Империал Траст» (14.01.2011 — 28.02.2018)<br>
+                    Инвестиционный аналитик паевого инвестиционного фонда ООО «УК «Прагма Капитал» (20.02.2020 — 12.05.2020)                    
+                </p>
+                <p class="small reduction mb-0 mt-1">Контролёр</p>
+                <p>Чукреев Денис Анатольевич, контролер ООО «УК «Прагма Капитал» (дата назначения: 06.06.2017)</p>
+                <p class="small mb-0 mt-0">
+                	Сведения об опыте работы в кредитных организациях и некредитных финансовых организациях за последние 5 лет:<br>
+                    Контролёр ООО «УК «Прагма Капитал» (25.06.2019 — по настоящее время)<br>
+                    Заместитель генерального директора – контролёр ООО «УК «Прагма Капитал» (06.06.2017 — 24.06.2019)<br>
+                    Заместитель генерального директора – внутренний контролёр ООО УК «АЛЬПИНЕКС ЭССЕТ МЕНЕДЖМЕНТ» (23.03.2012 — 05.06.2017)
+                </p>
+                <p class="small reduction mb-0 mt-1">Должностное лицо, ответственное за управление рисками</p>
+                <p>Чукреев Денис Анатольевич, контролер ООО «УК «Прагма Капитал» (дата назначения: 06.06.2017)</p>
+                <p class="small mb-0 mt-0">
+                    Сведения об опыте работы в кредитных организациях и некредитных финансовых организациях за последние 5 лет:<br>
+                    Контролёр ООО «УК «Прагма Капитал» (25.06.2019 — по настоящее время)<br>
+                    Заместитель генерального директора – контролёр ООО «УК «Прагма Капитал» (06.06.2017 — 24.06.2019)<br>
+                    Заместитель генерального директора – внутренний контролёр ООО УК «АЛЬПИНЕКС ЭССЕТ МЕНЕДЖМЕНТ» (23.03.2012 — 05.06.2017)
+                </p>
+            </div>
+            <h3 class="mt-15">Реквизиты компании</h3>
+                <p class="small reduction mb-0 mt-1">Юридический адрес, адрес местонахождения, почтовый адрес</p>
+                <p>172200, Тверская область, Селижаровский район, пгт. Селижарово, ул. Ленина, д. 3а</p>
+                <p>
+                    <b>ОГРН</b> 1067746469658<br>
+                    <b>ОКПО</b> 95147042<br>
+                    <b>ИНН</b> 7718581523<br>
+                    <b>КПП</b> 693901001<br>
+                    <b>ОКВЭД</b> 64.30 (Деятельность инвестиционных фондов и аналогичных финансовых организаций)<br>
+                </p>
+                <p class="small reduction mb-0 mt-1">Банковские реквизиты</p>
+                <p>
+                  	<b>Р/С</b> 40701810393000008779 в Банк ГПБ (АО), г.&nbsp;Москва<br>
+                    <b>К/С</b> № 30101810200000000823 в ГУ Банка России<br>
+                    <b>БИК</b> 044525823
+                </p>
+                <p class="small reduction mb-0 mt-1">Генеральный директор</p>
+                <p>Мамаев Андрей Александрович
+                </p>
+                <h3 class="mt-15">Способы и&nbsp;адреса предоставления документов получателям финансовых услуг ООО «УК&nbsp;«Прагма «Капитал»</h3>
+                <div class="doc-item doc-item-small mt-1">
+                    <a href="data/doc/sposoby-obmena-dokumentamy.pdf" target="_blank">
+                        <img src="/template/assets/icon/doc.svg">
+                        <p class="doc-item-title"><b>Способы обмена документами между ООО «УК&nbsp;«Прагма Капитал» и&nbsp;физическими лицами, получателями финансовых услуг</b></p>
+                    </a>
+                    <p class="doc-item-date">Опубликовано 22.10.2021</p>
+                </div>
+                <h3 class="mt-15 mb-1">Документы управляющей компании</h3>
+                
+            <div class="doc-item doc-item-small">
+                <a href="data/doc/2532.pdf" target="_blank">
+                    <img src="/template/assets/icon/doc.svg">
+                    <p class="doc-item-title"><b>Информация о&nbsp;порядке и&nbsp;условиях обмена электронными документами</b></p>
+                </a>
+                <p class="doc-item-date">Опубликовано 02.09.2008 (12:00)</p>
+            </div>
+
+            <div class="doc-item doc-item-small">
+                <a href="data/doc/5806.pdf" target="_blank">
+                    <img src="/template/assets/icon/doc.svg">
+                    <p class="doc-item-title"><b>Информация о&nbsp;структуре и&nbsp;составе участников ООО «УК&nbsp;«Прагма Капитал»</b></p>
+                </a>
+                <p class="doc-item-date">Опубликовано 18.01.2023 (13:20)</p>
+            </div>
+
+            <div class="doc-item doc-item-small">
+                <a href="data/doc/2533.pdf" target="_blank">
+                    <img src="/template/assets/icon/doc.svg">
+                    <p class="doc-item-title"><b>Критерии отнесения клиентов к&nbsp;категории клиента&nbsp;— иностранного налогоплательщика и&nbsp;способы получения от&nbsp;них необходимой информации</b></p>
+                </a>
+                <p class="doc-item-date">Опубликовано 01.09.2014 (12:00)</p>
+            </div>
+
+            <div class="doc-item doc-item-small">
+                <a href="data/doc/4957.pdf" target="_blank">
+                    <img src="/template/assets/icon/doc.svg">
+                    <p class="doc-item-title"><b>Перечень инсайдерской информации ООО «УК&nbsp;«Прагма Капитал»</b></p>
+                </a>
+                <p class="doc-item-date">Опубликовано 22.11.2021 (19:20)</p>
+            </div>
+
+            <div class="doc-item doc-item-small">
+                <a href="data/doc/5255.pdf" target="_blank">
+                    <img src="/template/assets/icon/doc.svg">
+                    <p class="doc-item-title"><b>Положение о&nbsp;приеме обращений и&nbsp;информировании получателей финансовых услуг о&nbsp;получении обращений</b></p>
+                </a>
+                <p class="doc-item-date">Опубликовано 01.04.2022 (18:00)</p>
+            </div>
+
+            <div class="doc-item doc-item-small">
+                <a href="data/doc/2530.pdf" target="_blank">
+                    <img src="/template/assets/icon/doc.svg">
+                    <p class="doc-item-title"><b>Регламент принятия решения Обществом с&nbsp;ограниченной ответственостью «Управляющая компания «Прагма Капитал» о&nbsp;признании лица квалифицированным инвестором</b></p>
+                </a>
+                <p class="doc-item-date">Опубликовано 01.10.2021 (11:30)</p>
+            </div>
+
+                <h3 class="mt-15 mb-1">Сообщения управляющей компании</h3>
+                
+            <div class="mt-15">
+                <p class="small reduction"><b>03.05.2023 (19:05)</b> ➜ <a href="/company">Управляющая компания</a></p>
+                <p class="doc-item-title small" style="margin-left: 0; margin-bottom: .5em"><b>Сообщение о&nbsp;выявлении неполных сведений в&nbsp;раскрываемой информации на&nbsp;сайте ООО «УК&nbsp;«Прагма Капитал»</b></p>
+                <p class="doc-item-title small" style="margin-left: 0;">В&nbsp;связи с&nbsp;выявленным техническим сбоем при выполнении задачи по&nbsp;отображению на&nbsp;сайте ООО «УК&nbsp;«Прагма Капитал» отчётов по&nbsp;форме 0420502 «Справка о&nbsp;стоимости чистых активов, в&nbsp;том числе стоимости активов (имущества), акционерного инвестиционного фонда (паевого инвестиционного фонда)» (далее&nbsp;— отчёт по&nbsp;форме 0420502) и&nbsp;отчётов по&nbsp;форме 040503 «Отчёт о&nbsp;приросте (об&nbsp;уменьшении) стоимости имущества, принадлежащего акционерному инвестиционному фонду (составляющего паевой инвестиционный фонд)» (далее&nbsp;— отчёт по&nbsp;форме 0420503) по&nbsp;состоянию на&nbsp;31.03.2023&nbsp;в отношении Закрытого паевого инвестиционного фонда рентного «Артфонд» под управлением Общества с&nbsp;ограниченной ответственностью «Управляющая компания «Прагма Капитал», Закрытого паевого инвестиционного фонда недвижимости «КОВЧЕГ», Закрытого паевого инвестиционного фонда рентного «Красногорье» под управлением Общества с&nbsp;ограниченной ответственностью «Управляющая компания «Прагма Капитал», Закрытого паевого инвестиционного фонда рентного «Перспектива» под управлением Общества с&nbsp;ограниченной ответственностью «Управляющая компания «Прагма Капитал», Закрытого паевого инвестиционного фонда недвижимости «Прагматик» под управлением Общества с&nbsp;ограниченной ответственностью «Управляющая компания «Прагма Капитал», Закрытого паевого инвестиционного фонда недвижимости «Рождественский» под управлением Общества с&nbsp;ограниченной ответственностью «Управляющая компания «Прагма Капитал», находящихся в&nbsp;доверительном управлении Управляющей компании, ООО «УК&nbsp;«Прагма Капитал» сообщает о&nbsp;размещении на&nbsp;сайте 03.05.2023&nbsp;в 19:01 отчётов по&nbsp;форме 0420502 и&nbsp;отчётов по&nbsp;форме 0420503 по&nbsp;состоянию на&nbsp;31.03.2023&nbsp;в отношении:<br>
+— Закрытого паевого инвестиционного фонда рентного «Артфонд» под управлением Общества с ограниченной ответственностью «Управляющая компания «Прагма Капитал» — <a href="https://www.pragmacapital.ru/fund/artfond">https://www.pragmacapital.ru/fund/artfond</a>;<br>
+— Закрытого паевого инвестиционного фонда недвижимости «КОВЧЕГ» — <a href="https://www.pragmacapital.ru/fund/kovcheg">https://www.pragmacapital.ru/fund/kovcheg</a>;<br>
+— Закрытого паевого инвестиционного фонда рентного «Красногорье» под управлением Общества с ограниченной ответственностью «Управляющая компания «Прагма Капитал» — <a href="https://www.pragmacapital.ru/fund/krasnogorye">https://www.pragmacapital.ru/fund/krasnogorye</a>;<br>
+— Закрытого паевого инвестиционного фонда рентного «Перспектива» под управлением Общества с ограниченной ответственностью «Управляющая компания «Прагма Капитал» — <a href="https://www.pragmacapital.ru/fund/perspektiva">https://www.pragmacapital.ru/fund/perspektiva</a>;<br>
+— Закрытого паевого инвестиционного фонда недвижимости «Прагматик» под управлением Общества с ограниченной ответственностью «Управляющая компания «Прагма Капитал» — <a href="https://www.pragmacapital.ru/fund/pragmatik">https://www.pragmacapital.ru/fund/pragmatik</a>;<br>
+— Закрытого паевого инвестиционного фонда недвижимости «Рождественский» под управлением Общества с ограниченной ответственностью «Управляющая компания «Прагма Капитал» — <a href="https://www.pragmacapital.ru/fund/rozhdestvensky">https://www.pragmacapital.ru/fund/rozhdestvensky</a>.</p>
+                <p class="doc-item-date mt-05" style="margin-left: 0;">Опубликовано 03.05.2023 (19:05)</p>
+           </div>
+
+            <div class="mt-15">
+                <p class="small reduction"><b>20.04.2023 (14:00)</b> ➜ <a href="/company">Управляющая компания</a></p>
+                <p class="doc-item-title small" style="margin-left: 0; margin-bottom: .5em"><b>Сообщение об&nbsp;изменении ранее размещённой информации на&nbsp;сайте ООО «УК&nbsp;«Прагма Капитал»</b></p>
+                <p class="doc-item-title small" style="margin-left: 0;">ООО «УК «Прагма Капитал» сообщает о внесении изменений в ранее размещённый на сайте <a href="data/doc/5960.pdf">расчёт собственных средств ООО «УК «Прагма Капитал» по состоянию на 31.03.2023</a>. <a href="data/doc/5961.pdf">Расчёт собственных средств ООО «УК «Прагма Капитал» по состоянию на 31.03.2023 с учётом внесённых изменений</a> размещён на странице сайта <a href="/company">«Управляющая компания»</a>. Изменения внесены в Раздел II. «Расчёт собственных средств» в отношении недвижимого имущества, принимаемого Управляющей компанией к расчёту собственных средств (код строки 03) и Пояснительные примечания к расчёту собственных средств. Раздел II. «О событиях, в результате которых в течение месяца размер собственных средств изменился более чем на 10 процентов» (строка 1).</p>
+                <p class="doc-item-date mt-05" style="margin-left: 0;">Опубликовано 20.04.2023 (14:00)</p>
+           </div>
+
+            <div class="mt-15">
+                <p class="small reduction"><b>16.09.2022 (17:45)</b> ➜ <a href="/company">Управляющая компания</a></p>
+                <p class="doc-item-title small" style="margin-left: 0; margin-bottom: .5em"><b>Сообщение об&nbsp;изменении ранее размещённой информации на&nbsp;сайте ООО «УК&nbsp;«Прагма Капитал»</b></p>
+                <p class="doc-item-title small" style="margin-left: 0;">ООО «УК&nbsp;«Прагма Капитал» сообщает о&nbsp;внесении изменений в&nbsp;ранее размещённый расчёт собственных средств ООО «УК&nbsp;«Прагма Капитал» по&nbsp;состоянию на&nbsp;31.07.2022&nbsp;на <a href="https://www.pragmacapital.ru/data/doc/5528.pdf">данной странице сайта</a>. Расчёт собственных средств ООО «УК&nbsp;«Прагма Капитал» по&nbsp;состоянию на&nbsp;31.07.2022&nbsp;с учётом внесённых изменений размещён <a href="https://www.pragmacapital.ru/data/doc/5588.pdf">по следующему адресу</a>. Изменения внесены в&nbsp;связи с&nbsp;исправлением ошибки расчёта индексированной стоимости ОФЗ 52001.</p>
+                <p class="doc-item-date mt-05" style="margin-left: 0;">Опубликовано 16.09.2022 (17:45)</p>
+           </div>
+
+            <div class="mt-15">
+                <p class="small reduction"><b>07.09.2022 (10:45)</b> ➜ <a href="/company">Управляющая компания</a></p>
+                <p class="doc-item-title small" style="margin-left: 0; margin-bottom: .5em"><b>Сообщение об&nbsp;изменении ранее размещённой информации на&nbsp;сайте ООО «УК&nbsp;«Прагма Капитал»</b></p>
+                <p class="doc-item-title small" style="margin-left: 0;">ООО «УК&nbsp;«Прагма Капитал» сообщает о&nbsp;внесении изменений в&nbsp;ранее размещённый расчёт стоимости чистых активов и&nbsp;стоимости инвестиционного пая ЗПИФ рентного «АРТФОНД» под управлением ООО «УК&nbsp;«Прагма Капитал» по&nbsp;состоянию на&nbsp;31.08.2022&nbsp;на странице сайта <a href="https://www.pragmacapital.ru/fund/artfond">https://www.pragmacapital.ru/fund/artfond</a>. Расчёт стоимости чистых активов и&nbsp;стоимости инвестиционного пая ЗПИФ рентного «АРТФОНД» под управлением ООО «УК&nbsp;«Прагма Капитал» по&nbsp;состоянию на&nbsp;31.08.2022&nbsp;с учётом внесённых изменений размещён на&nbsp;странице сайта <a href="https://www.pragmacapital.ru/fund/artfond">https://www.pragmacapital.ru/fund/artfond</a>. Изменения внесены в&nbsp;связи с&nbsp;поступлением документов с&nbsp;регистрации по&nbsp;межеванию земельных участков, входящих в&nbsp;состав имущества ЗПИФ рентного «АРТФОНД» под управлением ООО «УК&nbsp;«Прагма Капитал» и&nbsp;отчёта оценщика по&nbsp;состоянию 31.08.2022.<br>
+</p>
+                <p class="doc-item-date mt-05" style="margin-left: 0;">Опубликовано 07.09.2022 (10:45)</p>
+           </div>
+
+            <div class="mt-15">
+                <p class="small reduction"><b>05.05.2022 (20:37)</b> ➜ <a href="/company">Управляющая компания</a></p>
+                <p class="doc-item-title small" style="margin-left: 0; margin-bottom: .5em"><b>Сообщение об&nbsp;изменении ранее размещённой информации на&nbsp;сайте ООО «УК&nbsp;«Прагма Капитал»</b></p>
+                <p class="doc-item-title small" style="margin-left: 0;">ООО «УК&nbsp;«Прагма Капитал» сообщает о&nbsp;внесении изменений в&nbsp;ранее размещённые ключевые информационные документы паевых инвестиционных фондов (далее&nbsp;— КИД ПИФ) под управлением ООО «УК&nbsp;«Прагма Капитал» за&nbsp;период с&nbsp;31.10.2021 по&nbsp;31.03.2022&nbsp;на страницах сайта:<br>
+—&nbsp;в&nbsp;отношении ЗПИФ рентного «АРТФОНД» под управлением ООО «УК&nbsp;«Прагма Капитал» <a href="https://www.pragmacapital.ru/fund/artfond">https://www.pragmacapital.ru/fund/artfond</a>;<br>
+—&nbsp;в&nbsp;отношении ЗПИФ рентного «Красногорье» под управлением ООО «УК&nbsp;«Прагма Капитал» <a href="https://www.pragmacapital.ru/fund/krasnogorye">https://www.pragmacapital.ru/fund/krasnogorye</a>;<br>
+—&nbsp;в&nbsp;отношении ЗПИФ рентного «Перспектива» под управлением ООО «УК&nbsp;«Прагма Капитал» <a href="https://www.pragmacapital.ru/fund/perspektiva">https://www.pragmacapital.ru/fund/perspektiva</a>;<br>
+—&nbsp;в&nbsp;отношении ЗПИФ недвижимости «КОВЧЕГ» <a href="https://www.pragmacapital.ru/fund/kovcheg">https://www.pragmacapital.ru/fund/kovcheg</a>;<br>
+—&nbsp;в&nbsp;отношении ЗПИФ недвижимости «Прагматик» под управлением ООО «УК&nbsp;«Прагма Капитал» <a href="https://www.pragmacapital.ru/fund/pragmatik">https://www.pragmacapital.ru/fund/pragmatik</a>;<br>
+—&nbsp;в&nbsp;отношении ЗПИФ недвижимости «Рождественский» под управлением ООО «УК&nbsp;«Прагма Капитал» <a href="https://www.pragmacapital.ru/fund/rozhdestvensky">https://www.pragmacapital.ru/fund/rozhdestvensky</a>;<br>
+—&nbsp;в&nbsp;отношении ЗПИФ недвижимости «ФОРУМ» <a href="https://www.pragmacapital.ru/fund/forum">https://www.pragmacapital.ru/fund/forum</a>.<br>
+<br>
+КИД ПИФ под управлением ООО «УК&nbsp;«Прагма Капитал» за&nbsp;период с&nbsp;31.10.2021 по&nbsp;31.03.2022, с&nbsp;учётом внесённых изменений, размещены на&nbsp;соответствующих страницах сайта:<br>
+—&nbsp;в&nbsp;отношении ЗПИФ рентного «АРТФОНД» под управлением ООО «УК&nbsp;«Прагма Капитал»: <a href="https://www.pragmacapital.ru/fund/artfond">https://www.pragmacapital.ru/fund/artfond</a>;<br>
+—&nbsp;в&nbsp;отношении ЗПИФ рентного «Красногорье» под управлением ООО «УК&nbsp;«Прагма Капитал» <a href="https://www.pragmacapital.ru/fund/krasnogorye">https://www.pragmacapital.ru/fund/krasnogorye</a>;<br>
+—&nbsp;в&nbsp;отношении ЗПИФ рентного «Перспектива» под управлением ООО «УК&nbsp;«Прагма Капитал» <a href="https://www.pragmacapital.ru/fund/perspektiva">https://www.pragmacapital.ru/fund/perspektiva</a>;<br>
+—&nbsp;в&nbsp;отношении ЗПИФ недвижимости «КОВЧЕГ» <a href="https://www.pragmacapital.ru/fund/kovcheg">https://www.pragmacapital.ru/fund/kovcheg</a>;<br>
+—&nbsp;в&nbsp;отношении ЗПИФ недвижимости «Прагматик» под управлением ООО «УК&nbsp;«Прагма Капитал» <a href="https://www.pragmacapital.ru/fund/pragmatik">https://www.pragmacapital.ru/fund/pragmatik</a>;<br>
+—&nbsp;в&nbsp;отношении ЗПИФ недвижимости «Рождественский» под управлением ООО «УК&nbsp;«Прагма Капитал» <a href="https://www.pragmacapital.ru/fund/rozhdestvensky">https://www.pragmacapital.ru/fund/rozhdestvensky</a>;<br>
+—&nbsp;в&nbsp;отношении ЗПИФ недвижимости «ФОРУМ» <a href="https://www.pragmacapital.ru/fund/forum">https://www.pragmacapital.ru/fund/forum</a>.<br>
+<br>
+Изменения внесены с&nbsp;учётом разъяснений Банка России по&nbsp;вопросам применения положений Указания Банка России от&nbsp;2&nbsp;ноября 2020&nbsp;г. №&nbsp;5609-У «О&nbsp;раскрытии, распространении и&nbsp;предоставлении информации акционерными инвестиционными фондами и&nbsp;управляющими компаниями инвестиционных фондов, паевых инвестиционных фондов и&nbsp;негосударственных пенсионных фондов, а&nbsp;также о&nbsp;требованиях к&nbsp;расчету доходности инвестиционной деятельности акционерного инвестиционного фонда и&nbsp;управляющей компании паевого инвестиционного фонда».<br>
+</p>
+                <p class="doc-item-date mt-05" style="margin-left: 0;">Опубликовано 05.05.2022 (20:37)</p>
+           </div>
+
+            <div class="mt-15">
+                <p class="small reduction"><b>26.04.2022 (21:50)</b> ➜ <a href="/company">Управляющая компания</a></p>
+                <p class="doc-item-title small" style="margin-left: 0; margin-bottom: .5em"><b>Сообщение об&nbsp;изменении ранее размещённой информации на&nbsp;сайте ООО «УК&nbsp;«Прагма Капитал»</b></p>
+                <p class="doc-item-title small" style="margin-left: 0;">ООО «УК&nbsp;«Прагма Капитал» сообщает о&nbsp;внесении изменений в&nbsp;ранее размещённый <a href="https://www.pragmacapital.ru/data/doc/5177.pdf">расчёт собственных средств</a> ООО «УК&nbsp;«Прагма Капитал» по&nbsp;состоянию на&nbsp;28.02.2022. Расчёт собственных средств ООО «УК&nbsp;«Прагма Капитал» по&nbsp;состоянию на&nbsp;28.02.2022&nbsp;с учётом внесённых изменений размещён на&nbsp;странице сайта <a href="https://www.pragmacapital.ru/company">«Управляющая компания»</a>. Изменения внесены в&nbsp;связи с&nbsp;уточнением справедливой стоимости ценных бумаг.<br>
+</p>
+                <p class="doc-item-date mt-05" style="margin-left: 0;">Опубликовано 26.04.2022 (21:50)</p>
+           </div>
+
+            <div class="mt-15">
+                <p class="small reduction"><b>09.03.2022 (17:50)</b> ➜ <a href="/company">Управляющая компания</a></p>
+                <p class="doc-item-title small" style="margin-left: 0; margin-bottom: .5em"><b>Сообщение об&nbsp;изменении ранее размещённой информации на&nbsp;сайте ООО «УК&nbsp;«Прагма Капитал»</b></p>
+                <p class="doc-item-title small" style="margin-left: 0;">ООО «УК&nbsp;«Прагма Капитал» сообщает о&nbsp;внесении изменений в&nbsp;ранее размещённый расчёт собственных средств ООО «УК&nbsp;«Прагма Капитал» по&nbsp;состоянию на&nbsp;31.12.2021&nbsp;на странице сайта <a href="https://www.pragmacapital.ru/company">«Управляющая компания»</a>. <a href="https://www.pragmacapital.ru/data/doc/5152.pdf">Расчёт собственных средств ООО «УК&nbsp;«Прагма Капитал» по&nbsp;состоянию на&nbsp;31.12.2021&nbsp;с учётом внесённых изменений</a> размещён на&nbsp;странице сайта <a href="https://www.pragmacapital.ru/company">«Управляющая компания»</a>. Изменения внесены в&nbsp;графу 3&nbsp;строки 01&nbsp;Подраздела «Активы, принятые к&nbsp;расчёту собственных средств» Раздела II&nbsp;«Расчёт собственных средств», а&nbsp;именно учтена излишне списанная комиссия банка.</p>
+                <p class="doc-item-date mt-05" style="margin-left: 0;">Опубликовано 09.03.2022 (17:50)</p>
+           </div>
+
+            <div class="mt-15">
+                <p class="small reduction"><b>11.01.2022 (13:19)</b> ➜ <a href="/company">Управляющая компания</a></p>
+                <div class="doc-item doc-item-small">
+                    <a href="data/doc/5096.pdf" target="_blank">
+                        <img src="/template/assets/icon/doc.svg">
+                        <p class="doc-item-title small"><b>Сообщение о&nbsp;регистрации Банком России изменений и&nbsp;дополнений, вносимых в&nbsp;правила доверительного управления ПИФ</b></p>
+                    </a>
+                    <p class="doc-item-date">Опубликовано 11.01.2022 (13:19)</p>
+                </div>                
+            </div>
+
+            <div class="mt-15">
+                <p class="small reduction"><b>22.11.2021 (19:21)</b> ➜ <a href="/company">Управляющая компания</a></p>
+                <p class="doc-item-title small" style="margin-left: 0; margin-bottom: .5em"><b>Сообщение об&nbsp;изменении ранее размещённой информации на&nbsp;сайте ООО «УК&nbsp;«Прагма Капитал»</b></p>
+                <p class="doc-item-title small" style="margin-left: 0;">ООО «УК&nbsp;«Прагма Капитал» сообщает о&nbsp;внесении изменений в&nbsp;ранее размещённый <a href="data/doc/4956.pdf">Перечень инсайдерской информации Общества с&nbsp;ограниченной ответственностью «Управляющая компания «Прагма Капитал»</a> на&nbsp;странице сайта <a href="https://www.pragmacapital.ru/company">«Управляющая компания»</a>.<br>
+<br>
+Перечень инсайдерской информации Общества с&nbsp;ограниченной ответственностью «Управляющая компания «Прагма Капитал» <a href="data/doc/4957.pdf">с&nbsp;учётом внесённых изменений</a> размещён  на&nbsp;странице сайта <a href="https://www.pragmacapital.ru/company">«Управляющая компания»</a>.<br>
+<br>
+Изменения внесены в&nbsp;связи со&nbsp;вступлением в&nbsp;силу 21.11.2021 Указания Банка России от&nbsp;27&nbsp;сентября 2021&nbsp;г. №&nbsp;5946-У «О&nbsp;перечне инсайдерской информации юридических лиц, указанных в&nbsp;пунктах 1, 3, 4, 11&nbsp;и&nbsp;12&nbsp;статьи 4&nbsp;Федерального закона от&nbsp;27&nbsp;июля 2010 года №&nbsp;224-ФЗ „О&nbsp;противодействии неправомерному использованию инсайдерской информации и&nbsp;манипулированию рынком и&nbsp;о&nbsp;внесении изменений в&nbsp;отдельные законодательные акты Российской Федерации“, а&nbsp;также о&nbsp;порядке и&nbsp;сроках её&nbsp;раскрытия».</p>
+                <p class="doc-item-date mt-05" style="margin-left: 0;">Опубликовано 22.11.2021 (19:21)</p>
+           </div>
+
+            <div class="mt-15">
+                <p class="small reduction"><b>22.10.2021 (17:22)</b> ➜ <a href="/company">Управляющая компания</a></p>
+                <p class="doc-item-title small" style="margin-left: 0; margin-bottom: .5em"><b>Сообщение об&nbsp;изменении ранее размещённой информации на&nbsp;сайте ООО «УК&nbsp;«Прагма Капитал»</b></p>
+                <p class="doc-item-title small" style="margin-left: 0;">ООО «УК&nbsp;«Прагма Капитал» сообщает о&nbsp;внесении изменений в&nbsp;<a href="data/doc/predostavlenye-dokumentov.pdf">ранее размещённую информацию</a> о&nbsp;способах и&nbsp;адресах предоставления документов получателям финансовых услуг ООО «УК&nbsp;«Прагма Капитал».<br>
+<br>
+С&nbsp;информацией о&nbsp;способах и&nbsp;адресах предоставления документов получателям финансовых услуг ООО «УК&nbsp;«Прагма Капитал» с&nbsp;учётом внесённых изменений можно <a href="data/doc/sposoby-obmena-dokumentamy.pdf">ознакомиться здесь</a>. Изменения внесены в&nbsp;части наименования сообщения о&nbsp;способах и&nbsp;адресах предоставления документов получателям финансовых услуг ООО «УК&nbsp;«Прагма Капитал», в&nbsp;отношении направления (предоставления) результатов проведения тестирования, добавлены документы, направляемые получателями финансовых услуг в&nbsp;адрес ООО «УК&nbsp;«Прагма Капитал».</p>
+                <p class="doc-item-date mt-05" style="margin-left: 0;">Опубликовано 22.10.2021 (17:22)</p>
+           </div>
+
+                <h3 class="mt-15">Расчет собственных средств Управляющей компании</h3>
+                
+                <div class="doc-container">
+                    <img class="doc-container-button" id="CloseRSSBlock2023" onclick="ToggleBlock('RSSBlock2023')" src="/template/assets/buttons/reduse.svg" style="display: none;">
+                    <img class="doc-container-button" id="OpenRSSBlock2023" onclick="ToggleBlock('RSSBlock2023')" src="/template/assets/buttons/expand.svg">
+                    <h4 class="doc-container-header" onclick="ToggleBlock('RSSBlock2023')">2023</h4>
+                    <div class="doc-container-content" id="RSSBlock2023" style="display: none;">
+                        
+            <div class="doc-item doc-item-small">
+                <a href="data/doc/6110.pdf" target="_blank">
+                    <img src="/template/assets/icon/doc.svg">
+                    <p class="doc-item-title"><b>Расчет собственных средств управляющей компании инвестиционных фондов, паевых инвестиционных фондов и&nbsp;негосударственных пенсионных фондов</b></p>
+                </a>
+                <p class="doc-item-date"><b>По состоянию на 31.05.2023</b>. Опубликован 14.06.2023 (17:06)</p>
+            </div>
+
+            <div class="doc-item doc-item-small">
+                <a href="data/doc/6034.pdf" target="_blank">
+                    <img src="/template/assets/icon/doc.svg">
+                    <p class="doc-item-title"><b>Расчет собственных средств управляющей компании инвестиционных фондов, паевых инвестиционных фондов и&nbsp;негосударственных пенсионных фондов</b></p>
+                </a>
+                <p class="doc-item-date"><b>По состоянию на 30.04.2023</b>. Опубликован 18.05.2023 (12:51)</p>
+            </div>
+
+            <div class="doc-item doc-item-small">
+                <a href="data/doc/5961.pdf" target="_blank">
+                    <img src="/template/assets/icon/doc.svg">
+                    <p class="doc-item-title"><b>Расчет собственных средств управляющей компании инвестиционных фондов, паевых инвестиционных фондов и&nbsp;негосударственных пенсионных фондов</b></p>
+                </a>
+                <p class="doc-item-date"><b>По состоянию на 31.03.2023, исправленный</b>. Опубликован 20.04.2023 (13:02)</p>
+            </div>
+
+            <div class="doc-item doc-item-small">
+                <a href="data/doc/5960.pdf" target="_blank">
+                    <img src="/template/assets/icon/doc.svg">
+                    <p class="doc-item-title"><b>Расчет собственных средств управляющей компании инвестиционных фондов, паевых инвестиционных фондов и&nbsp;негосударственных пенсионных фондов</b></p>
+                </a>
+                <p class="doc-item-date"><b>По состоянию на 31.03.2023</b>. Опубликован 17.04.2023 (10:00)</p>
+            </div>
+
+            <div class="doc-item doc-item-small">
+                <a href="data/doc/5905.pdf" target="_blank">
+                    <img src="/template/assets/icon/doc.svg">
+                    <p class="doc-item-title"><b>Расчет собственных средств управляющей компании инвестиционных фондов, паевых инвестиционных фондов и&nbsp;негосударственных пенсионных фондов</b></p>
+                </a>
+                <p class="doc-item-date"><b>По состоянию на 28.02.2023</b>. Опубликован 14.03.2023 (19:12)</p>
+            </div>
+
+            <div class="doc-item doc-item-small">
+                <a href="data/doc/5862.pdf" target="_blank">
+                    <img src="/template/assets/icon/doc.svg">
+                    <p class="doc-item-title"><b>Расчет собственных средств управляющей компании инвестиционных фондов, паевых инвестиционных фондов и&nbsp;негосударственных пенсионных фондов</b></p>
+                </a>
+                <p class="doc-item-date"><b>По состоянию на 31.01.2023</b>. Опубликован 14.02.2023 (14:19)</p>
+            </div>
+
+                    </div>    
+                </div>
+
+                <div class="doc-container">
+                    <img class="doc-container-button" id="CloseRSSBlock2022" onclick="ToggleBlock('RSSBlock2022')" src="/template/assets/buttons/reduse.svg" style="display: none;">
+                    <img class="doc-container-button" id="OpenRSSBlock2022" onclick="ToggleBlock('RSSBlock2022')" src="/template/assets/buttons/expand.svg">
+                    <h4 class="doc-container-header" onclick="ToggleBlock('RSSBlock2022')">2022</h4>
+                    <div class="doc-container-content" id="RSSBlock2022" style="display: none;">
+                        
+            <div class="doc-item doc-item-small">
+                <a href="data/doc/5825.pdf" target="_blank">
+                    <img src="/template/assets/icon/doc.svg">
+                    <p class="doc-item-title"><b>Расчет собственных средств управляющей компании инвестиционных фондов, паевых инвестиционных фондов и&nbsp;негосударственных пенсионных фондов</b></p>
+                </a>
+                <p class="doc-item-date"><b>По состоянию на 31.12.2022</b>. Опубликован 23.01.2023 (10:08)</p>
+            </div>
+
+            <div class="doc-item doc-item-small">
+                <a href="data/doc/5777.pdf" target="_blank">
+                    <img src="/template/assets/icon/doc.svg">
+                    <p class="doc-item-title"><b>Расчет собственных средств управляющей компании инвестиционных фондов, паевых инвестиционных фондов и&nbsp;негосударственных пенсионных фондов</b></p>
+                </a>
+                <p class="doc-item-date"><b>По состоянию на 30.11.2022</b>. Опубликован 13.12.2022 (17:35)</p>
+            </div>
+
+            <div class="doc-item doc-item-small">
+                <a href="data/doc/5698.pdf" target="_blank">
+                    <img src="/template/assets/icon/doc.svg">
+                    <p class="doc-item-title"><b>Расчет собственных средств управляющей компании инвестиционных фондов, паевых инвестиционных фондов и&nbsp;негосударственных пенсионных фондов</b></p>
+                </a>
+                <p class="doc-item-date"><b>По состоянию на 31.10.2022</b>. Опубликован 14.11.2022 (21:00)</p>
+            </div>
+
+            <div class="doc-item doc-item-small">
+                <a href="data/doc/5619.pdf" target="_blank">
+                    <img src="/template/assets/icon/doc.svg">
+                    <p class="doc-item-title"><b>Расчет собственных средств управляющей компании инвестиционных фондов, паевых инвестиционных фондов и&nbsp;негосударственных пенсионных фондов</b></p>
+                </a>
+                <p class="doc-item-date"><b>По состоянию на 30.09.2022</b>. Опубликован 14.10.2022 (18:35)</p>
+            </div>
+
+            <div class="doc-item doc-item-small">
+                <a href="data/doc/5581.pdf" target="_blank">
+                    <img src="/template/assets/icon/doc.svg">
+                    <p class="doc-item-title"><b>Расчет собственных средств управляющей компании инвестиционных фондов, паевых инвестиционных фондов и&nbsp;негосударственных пенсионных фондов</b></p>
+                </a>
+                <p class="doc-item-date"><b>По состоянию на 31.08.2022</b>. Опубликован 14.09.2022 (10:23)</p>
+            </div>
+
+            <div class="doc-item doc-item-small">
+                <a href="data/doc/5588.pdf" target="_blank">
+                    <img src="/template/assets/icon/doc.svg">
+                    <p class="doc-item-title"><b>Расчет собственных средств управляющей компании инвестиционных фондов, паевых инвестиционных фондов и&nbsp;негосударственных пенсионных фондов</b></p>
+                </a>
+                <p class="doc-item-date"><b>По состоянию на 31.07.2022, исправленный</b>. Опубликован 16.09.2022 (17:45)</p>
+            </div>
+
+            <div class="doc-item doc-item-small">
+                <a href="data/doc/5528.pdf" target="_blank">
+                    <img src="/template/assets/icon/doc.svg">
+                    <p class="doc-item-title"><b>Расчет собственных средств управляющей компании инвестиционных фондов, паевых инвестиционных фондов и&nbsp;негосударственных пенсионных фондов</b></p>
+                </a>
+                <p class="doc-item-date"><b>По состоянию на 31.07.2022</b>. Опубликован 15.08.2022 (10:57)</p>
+            </div>
+
+            <div class="doc-item doc-item-small">
+                <a href="data/doc/5490.pdf" target="_blank">
+                    <img src="/template/assets/icon/doc.svg">
+                    <p class="doc-item-title"><b>Расчет собственных средств управляющей компании инвестиционных фондов, паевых инвестиционных фондов и&nbsp;негосударственных пенсионных фондов</b></p>
+                </a>
+                <p class="doc-item-date"><b>По состоянию на 30.06.2022</b>. Опубликован 14.07.2022 (19:22)</p>
+            </div>
+
+            <div class="doc-item doc-item-small">
+                <a href="data/doc/5446.pdf" target="_blank">
+                    <img src="/template/assets/icon/doc.svg">
+                    <p class="doc-item-title"><b>Расчет собственных средств управляющей компании инвестиционных фондов, паевых инвестиционных фондов и&nbsp;негосударственных пенсионных фондов</b></p>
+                </a>
+                <p class="doc-item-date"><b>По состоянию на 31.05.2022</b>. Опубликован 15.06.2022 (15:11)</p>
+            </div>
+
+            <div class="doc-item doc-item-small">
+                <a href="data/doc/5370.pdf" target="_blank">
+                    <img src="/template/assets/icon/doc.svg">
+                    <p class="doc-item-title"><b>Расчет собственных средств управляющей компании инвестиционных фондов, паевых инвестиционных фондов и&nbsp;негосударственных пенсионных фондов</b></p>
+                </a>
+                <p class="doc-item-date"><b>По состоянию на 30.04.2022</b>. Опубликован 19.05.2022 (15:37)</p>
+            </div>
+
+            <div class="doc-item doc-item-small">
+                <a href="data/doc/5250.pdf" target="_blank">
+                    <img src="/template/assets/icon/doc.svg">
+                    <p class="doc-item-title"><b>Расчет собственных средств управляющей компании инвестиционных фондов, паевых инвестиционных фондов и&nbsp;негосударственных пенсионных фондов</b></p>
+                </a>
+                <p class="doc-item-date"><b>По состоянию на 31.03.2022</b>. Опубликован 18.04.2022 (15:18)</p>
+            </div>
+
+            <div class="doc-item doc-item-small">
+                <a href="data/doc/5278.pdf" target="_blank">
+                    <img src="/template/assets/icon/doc.svg">
+                    <p class="doc-item-title"><b>Расчет собственных средств управляющей компании инвестиционных фондов, паевых инвестиционных фондов и&nbsp;негосударственных пенсионных фондов</b></p>
+                </a>
+                <p class="doc-item-date"><b>По состоянию на 28.02.2022, исправленный</b>. Опубликован 26.04.2022 (18:00)</p>
+            </div>
+
+            <div class="doc-item doc-item-small">
+                <a href="data/doc/5177.pdf" target="_blank">
+                    <img src="/template/assets/icon/doc.svg">
+                    <p class="doc-item-title"><b>Расчет собственных средств управляющей компании инвестиционных фондов, паевых инвестиционных фондов и&nbsp;негосударственных пенсионных фондов</b></p>
+                </a>
+                <p class="doc-item-date"><b>По состоянию на 28.02.2022</b>. Опубликован 16.03.2022 (11:53)</p>
+            </div>
+
+            <div class="doc-item doc-item-small">
+                <a href="data/doc/5134.pdf" target="_blank">
+                    <img src="/template/assets/icon/doc.svg">
+                    <p class="doc-item-title"><b>Расчет собственных средств управляющей компании инвестиционных фондов, паевых инвестиционных фондов и&nbsp;негосударственных пенсионных фондов</b></p>
+                </a>
+                <p class="doc-item-date"><b>По состоянию на 31.01.2022</b>. Опубликован 15.02.2022 (09:55)</p>
+            </div>
+
+                    </div>    
+                </div>
+
+                <div class="doc-container">
+                    <img class="doc-container-button" id="CloseRSSBlock2021" onclick="ToggleBlock('RSSBlock2021')" src="/template/assets/buttons/reduse.svg" style="display: none;">
+                    <img class="doc-container-button" id="OpenRSSBlock2021" onclick="ToggleBlock('RSSBlock2021')" src="/template/assets/buttons/expand.svg">
+                    <h4 class="doc-container-header" onclick="ToggleBlock('RSSBlock2021')">2021</h4>
+                    <div class="doc-container-content" id="RSSBlock2021" style="display: none;">
+                        
+            <div class="doc-item doc-item-small">
+                <a href="data/doc/5152.pdf" target="_blank">
+                    <img src="/template/assets/icon/doc.svg">
+                    <p class="doc-item-title"><b>Расчет собственных средств управляющей компании инвестиционных фондов, паевых инвестиционных фондов и&nbsp;негосударственных пенсионных фондов</b></p>
+                </a>
+                <p class="doc-item-date"><b>По состоянию на 31.12.2021, исправленный</b>. Опубликован 09.03.2022 (17:55)</p>
+            </div>
+
+            <div class="doc-item doc-item-small">
+                <a href="data/doc/5095.pdf" target="_blank">
+                    <img src="/template/assets/icon/doc.svg">
+                    <p class="doc-item-title"><b>Расчет собственных средств управляющей компании инвестиционных фондов, паевых инвестиционных фондов и&nbsp;негосударственных пенсионных фондов</b></p>
+                </a>
+                <p class="doc-item-date"><b>По состоянию на 31.12.2021</b>. Опубликован 21.01.2022 (22:25)</p>
+            </div>
+
+            <div class="doc-item doc-item-small">
+                <a href="data/doc/5031.pdf" target="_blank">
+                    <img src="/template/assets/icon/doc.svg">
+                    <p class="doc-item-title"><b>Расчет собственных средств управляющей компании инвестиционных фондов, паевых инвестиционных фондов и&nbsp;негосударственных пенсионных фондов</b></p>
+                </a>
+                <p class="doc-item-date"><b>По состоянию на 30.11.2021</b>. Опубликован 14.12.2021 (17:21)</p>
+            </div>
+
+            <div class="doc-item doc-item-small">
+                <a href="data/doc/4948.pdf" target="_blank">
+                    <img src="/template/assets/icon/doc.svg">
+                    <p class="doc-item-title"><b>Расчет собственных средств управляющей компании инвестиционных фондов, паевых инвестиционных фондов и&nbsp;негосударственных пенсионных фондов</b></p>
+                </a>
+                <p class="doc-item-date"><b>По состоянию на 31.10.2021</b>. Опубликован 19.11.2021 (10:48)</p>
+            </div>
+
+            <div class="doc-item doc-item-small">
+                <a href="data/doc/4852.pdf" target="_blank">
+                    <img src="/template/assets/icon/doc.svg">
+                    <p class="doc-item-title"><b>Расчет собственных средств управляющей компании инвестиционных фондов, паевых инвестиционных фондов и&nbsp;негосударственных пенсионных фондов</b></p>
+                </a>
+                <p class="doc-item-date"><b>По состоянию на 30.09.2021</b>. Опубликован 19.10.2021 (11:29)</p>
+            </div>
+
+            <div class="doc-item doc-item-small">
+                <a href="data/doc/4784.pdf" target="_blank">
+                    <img src="/template/assets/icon/doc.svg">
+                    <p class="doc-item-title"><b>Расчет собственных средств управляющей компании инвестиционных фондов, паевых инвестиционных фондов и&nbsp;негосударственных пенсионных фондов</b></p>
+                </a>
+                <p class="doc-item-date"><b>По состоянию на 31.08.2021</b>. Опубликован 14.09.2021 (13:41)</p>
+            </div>
+
+            <div class="doc-item doc-item-small">
+                <a href="data/doc/5587.pdf" target="_blank">
+                    <img src="/template/assets/icon/doc.svg">
+                    <p class="doc-item-title"><b>Расчет собственных средств управляющей компании инвестиционных фондов, паевых инвестиционных фондов и&nbsp;негосударственных пенсионных фондов</b></p>
+                </a>
+                <p class="doc-item-date"><b>По состоянию на 31.07.2021, исправленный</b>. Опубликован 16.09.2022 (18:41)</p>
+            </div>
+
+            <div class="doc-item doc-item-small">
+                <a href="data/doc/4750.pdf" target="_blank">
+                    <img src="/template/assets/icon/doc.svg">
+                    <p class="doc-item-title"><b>Расчет собственных средств управляющей компании инвестиционных фондов, паевых инвестиционных фондов и&nbsp;негосударственных пенсионных фондов</b></p>
+                </a>
+                <p class="doc-item-date"><b>По состоянию на 31.07.2021</b>. Опубликован 12.08.2021 (15:36)</p>
+            </div>
+
+            <div class="doc-item doc-item-small">
+                <a href="data/doc/4704.pdf" target="_blank">
+                    <img src="/template/assets/icon/doc.svg">
+                    <p class="doc-item-title"><b>Расчет собственных средств управляющей компании инвестиционных фондов, паевых инвестиционных фондов и&nbsp;негосударственных пенсионных фондов</b></p>
+                </a>
+                <p class="doc-item-date"><b>По состоянию на 30.06.2021</b>. Опубликован 14.07.2021 (13:23)</p>
+            </div>
+
+            <div class="doc-item doc-item-small">
+                <a href="data/doc/4662.pdf" target="_blank">
+                    <img src="/template/assets/icon/doc.svg">
+                    <p class="doc-item-title"><b>Расчет собственных средств управляющей компании инвестиционных фондов, паевых инвестиционных фондов и&nbsp;негосударственных пенсионных фондов</b></p>
+                </a>
+                <p class="doc-item-date"><b>По состоянию на 31.05.2021</b>. Опубликован 11.06.2021 (17:43)</p>
+            </div>
+
+            <div class="doc-item doc-item-small">
+                <a href="data/doc/4610.pdf" target="_blank">
+                    <img src="/template/assets/icon/doc.svg">
+                    <p class="doc-item-title"><b>Расчет собственных средств управляющей компании инвестиционных фондов, паевых инвестиционных фондов и&nbsp;негосударственных пенсионных фондов</b></p>
+                </a>
+                <p class="doc-item-date"><b>По состоянию на 30.04.2021</b>. Опубликован 26.05.2021 (15:53)</p>
+            </div>
+
+            <div class="doc-item doc-item-small">
+                <a href="data/doc/4540.pdf" target="_blank">
+                    <img src="/template/assets/icon/doc.svg">
+                    <p class="doc-item-title"><b>Расчет собственных средств управляющей компании инвестиционных фондов, паевых инвестиционных фондов и&nbsp;негосударственных пенсионных фондов</b></p>
+                </a>
+                <p class="doc-item-date"><b>По состоянию на 31.03.2021</b>. Опубликован 15.04.2021 (15:00)</p>
+            </div>
+
+            <div class="doc-item doc-item-small">
+                <a href="data/doc/4437.pdf" target="_blank">
+                    <img src="/template/assets/icon/doc.svg">
+                    <p class="doc-item-title"><b>Расчет собственных средств управляющей компании инвестиционных фондов, паевых инвестиционных фондов и&nbsp;негосударственных пенсионных фондов</b></p>
+                </a>
+                <p class="doc-item-date"><b>По состоянию на 28.02.2021</b>. Опубликован 15.03.2021 (14:21)</p>
+            </div>
+
+            <div class="doc-item doc-item-small">
+                <a href="data/doc/4390.pdf" target="_blank">
+                    <img src="/template/assets/icon/doc.svg">
+                    <p class="doc-item-title"><b>Расчет собственных средств управляющей компании инвестиционных фондов, паевых инвестиционных фондов и&nbsp;негосударственных пенсионных фондов</b></p>
+                </a>
+                <p class="doc-item-date"><b>По состоянию на 31.01.2021</b>. Опубликован 12.02.2021 (14:00)</p>
+            </div>
+
+                    </div>    
+                </div>
+
+                <div class="doc-container">
+                    <img class="doc-container-button" id="CloseRSSBlock2020" onclick="ToggleBlock('RSSBlock2020')" src="/template/assets/buttons/reduse.svg" style="display: none;">
+                    <img class="doc-container-button" id="OpenRSSBlock2020" onclick="ToggleBlock('RSSBlock2020')" src="/template/assets/buttons/expand.svg">
+                    <h4 class="doc-container-header" onclick="ToggleBlock('RSSBlock2020')">2020</h4>
+                    <div class="doc-container-content" id="RSSBlock2020" style="display: none;">
+                        
+            <div class="doc-item doc-item-small">
+                <a href="data/doc/4350.pdf" target="_blank">
+                    <img src="/template/assets/icon/doc.svg">
+                    <p class="doc-item-title"><b>Расчет собственных средств управляющей компании инвестиционных фондов, паевых инвестиционных фондов и&nbsp;негосударственных пенсионных фондов</b></p>
+                </a>
+                <p class="doc-item-date"><b>По состоянию на 31.12.2020</b>. Опубликован 22.01.2021 (16:38)</p>
+            </div>
+
+            <div class="doc-item doc-item-small">
+                <a href="data/doc/4296.pdf" target="_blank">
+                    <img src="/template/assets/icon/doc.svg">
+                    <p class="doc-item-title"><b>Расчет собственных средств управляющей компании инвестиционных фондов, паевых инвестиционных фондов и&nbsp;негосударственных пенсионных фондов</b></p>
+                </a>
+                <p class="doc-item-date"><b>По состоянию на 30.11.2020</b>. Опубликован 14.12.2020 (18:00)</p>
+            </div>
+
+            <div class="doc-item doc-item-small">
+                <a href="data/doc/4208.pdf" target="_blank">
+                    <img src="/template/assets/icon/doc.svg">
+                    <p class="doc-item-title"><b>Расчет собственных средств управляющей компании инвестиционных фондов, паевых инвестиционных фондов и&nbsp;негосударственных пенсионных фондов</b></p>
+                </a>
+                <p class="doc-item-date"><b>По состоянию на 31.10.2020</b>. Опубликован 16.11.2020 (13:57)</p>
+            </div>
+
+            <div class="doc-item doc-item-small">
+                <a href="data/doc/4140.pdf" target="_blank">
+                    <img src="/template/assets/icon/doc.svg">
+                    <p class="doc-item-title"><b>Расчет собственных средств управляющей компании инвестиционных фондов, паевых инвестиционных фондов и&nbsp;негосударственных пенсионных фондов</b></p>
+                </a>
+                <p class="doc-item-date"><b>По состоянию на 30.09.2020</b>. Опубликован 14.10.2020 (19:33)</p>
+            </div>
+
+            <div class="doc-item doc-item-small">
+                <a href="data/doc/4066.pdf" target="_blank">
+                    <img src="/template/assets/icon/doc.svg">
+                    <p class="doc-item-title"><b>Расчет собственных средств управляющей компании инвестиционных фондов, паевых инвестиционных фондов и&nbsp;негосударственных пенсионных фондов</b></p>
+                </a>
+                <p class="doc-item-date"><b>По состоянию на 31.08.2020</b>. Опубликован 14.09.2020 (09:26)</p>
+            </div>
+
+            <div class="doc-item doc-item-small">
+                <a href="data/doc/4025.pdf" target="_blank">
+                    <img src="/template/assets/icon/doc.svg">
+                    <p class="doc-item-title"><b>Расчет собственных средств управляющей компании инвестиционных фондов, паевых инвестиционных фондов и&nbsp;негосударственных пенсионных фондов</b></p>
+                </a>
+                <p class="doc-item-date"><b>По состоянию на 31.07.2020</b>. Опубликован 14.08.2020 (08:01)</p>
+            </div>
+
+            <div class="doc-item doc-item-small">
+                <a href="data/doc/3927.pdf" target="_blank">
+                    <img src="/template/assets/icon/doc.svg">
+                    <p class="doc-item-title"><b>Расчет собственных средств управляющей компании инвестиционных фондов, паевых инвестиционных фондов и&nbsp;негосударственных пенсионных фондов</b></p>
+                </a>
+                <p class="doc-item-date"><b>По состоянию на 30.06.2020</b>. Опубликован 15.07.2020 (18:31)</p>
+            </div>
+
+            <div class="doc-item doc-item-small">
+                <a href="data/doc/3995.pdf" target="_blank">
+                    <img src="/template/assets/icon/doc.svg">
+                    <p class="doc-item-title"><b>Расчет собственных средств управляющей компании инвестиционных фондов, паевых инвестиционных фондов и&nbsp;негосударственных пенсионных фондов</b></p>
+                </a>
+                <p class="doc-item-date"><b>По состоянию на 31.05.2020, исправленный</b>. Опубликован 12.08.2020 (18:00)</p>
+            </div>
+
+                    </div>    
+                </div>
+
+                <h3 class="mt-15 mb-1">Бухгалтерская и финансовая отчётность Управляющей компании</h3>
+                
+            <div class="doc-item doc-item-small">
+                <a href="data/doc/5973.pdf" target="_blank">
+                    <img src="/template/assets/icon/doc.svg">
+                    <p class="doc-item-title"><b>Бухгалтерский баланс</b></p>
+                </a>
+                <p class="doc-item-date"><b>По состоянию на 31.03.2023</b>, опубликовано 27.04.2023 (13:24)</p>
+            </div>
+
+            <div class="doc-item doc-item-small">
+                <a href="data/doc/5974.pdf" target="_blank">
+                    <img src="/template/assets/icon/doc.svg">
+                    <p class="doc-item-title"><b>Отчет о&nbsp;финансовых результатах</b></p>
+                </a>
+                <p class="doc-item-date"><b>По состоянию на 31.03.2023</b>, опубликовано 27.04.2023 (13:24)</p>
+            </div>
+
+            <div class="doc-item doc-item-small">
+                <a href="data/doc/5928.PDF" target="_blank">
+                    <img src="/template/assets/icon/doc.svg">
+                    <p class="doc-item-title"><b>Аудиторское заключение о&nbsp;бухгалтерской отчётности за&nbsp;2022 год</b></p>
+                </a>
+                <p class="doc-item-date"><b>По состоянию на 31.12.2022</b>, опубликовано 03.04.2023 (11:49)</p>
+            </div>
+
+            <div class="doc-item doc-item-small">
+                <a href="data/doc/5936.pdf" target="_blank">
+                    <img src="/template/assets/icon/doc.svg">
+                    <p class="doc-item-title"><b>Бухгалтерский баланс</b></p>
+                </a>
+                <p class="doc-item-date"><b>По состоянию на 31.12.2022</b>, опубликовано 03.04.2023 (13:22)</p>
+            </div>
+
+            <div class="doc-item doc-item-small">
+                <a href="data/doc/5937.pdf" target="_blank">
+                    <img src="/template/assets/icon/doc.svg">
+                    <p class="doc-item-title"><b>Отчет о&nbsp;финансовых результатах</b></p>
+                </a>
+                <p class="doc-item-date"><b>По состоянию на 31.12.2022</b>, опубликовано 03.04.2023 (13:23)</p>
+            </div>
+
+            <div class="doc-item doc-item-small">
+                <a href="data/doc/5986.pdf" target="_blank">
+                    <img src="/template/assets/icon/doc.svg">
+                    <p class="doc-item-title"><b>Годовая финансовая отчетность компании в&nbsp;соответствии с&nbsp;МСФО</b></p>
+                </a>
+                <p class="doc-item-date"><b>По состоянию на 31.12.2022</b>, опубликовано 28.04.2023 (23:00)</p>
+            </div>
+
+            <div class="doc-item doc-item-small">
+                <a href="data/doc/5653.pdf" target="_blank">
+                    <img src="/template/assets/icon/doc.svg">
+                    <p class="doc-item-title"><b>Бухгалтерский баланс</b></p>
+                </a>
+                <p class="doc-item-date"><b>По состоянию на 30.09.2022</b>, опубликовано 27.10.2022 (11:26)</p>
+            </div>
+
+            <div class="doc-item doc-item-small">
+                <a href="data/doc/5654.pdf" target="_blank">
+                    <img src="/template/assets/icon/doc.svg">
+                    <p class="doc-item-title"><b>Отчет о&nbsp;финансовых результатах</b></p>
+                </a>
+                <p class="doc-item-date"><b>По состоянию на 30.09.2022</b>, опубликовано 27.10.2022 (11:27)</p>
+            </div>
+
+            <div class="doc-item doc-item-small">
+                <a href="data/doc/5495.pdf" target="_blank">
+                    <img src="/template/assets/icon/doc.svg">
+                    <p class="doc-item-title"><b>Бухгалтерский баланс</b></p>
+                </a>
+                <p class="doc-item-date"><b>По состоянию на 30.06.2022</b>, опубликовано 22.07.2022 (14:10)</p>
+            </div>
+
+            <div class="doc-item doc-item-small">
+                <a href="data/doc/5496.pdf" target="_blank">
+                    <img src="/template/assets/icon/doc.svg">
+                    <p class="doc-item-title"><b>Отчет о&nbsp;финансовых результатах</b></p>
+                </a>
+                <p class="doc-item-date"><b>По состоянию на 30.06.2022</b>, опубликовано 22.07.2022 (14:10)</p>
+            </div>
+
+            <div class="doc-item doc-item-small">
+                <a href="data/doc/5290.pdf" target="_blank">
+                    <img src="/template/assets/icon/doc.svg">
+                    <p class="doc-item-title"><b>Бухгалтерский баланс</b></p>
+                </a>
+                <p class="doc-item-date"><b>По состоянию на 31.03.2022</b>, опубликовано 29.04.2022 (16:29)</p>
+            </div>
+
+            <div class="doc-item doc-item-small">
+                <a href="data/doc/5291.pdf" target="_blank">
+                    <img src="/template/assets/icon/doc.svg">
+                    <p class="doc-item-title"><b>Отчет о&nbsp;финансовых результатах</b></p>
+                </a>
+                <p class="doc-item-date"><b>По состоянию на 31.03.2022</b>, опубликовано 29.04.2022 (16:29)</p>
+            </div>
+
+            <div class="doc-item doc-item-small">
+                <a href="data/doc/5196.pdf" target="_blank">
+                    <img src="/template/assets/icon/doc.svg">
+                    <p class="doc-item-title"><b>Аудиторское заключение о&nbsp;бухгалтерской отчётности за&nbsp;2021 год</b></p>
+                </a>
+                <p class="doc-item-date"><b>По состоянию на 31.12.2021</b>, опубликовано 31.03.2022 (17:16)</p>
+            </div>
+
+            <div class="doc-item doc-item-small">
+                <a href="data/doc/5200.pdf" target="_blank">
+                    <img src="/template/assets/icon/doc.svg">
+                    <p class="doc-item-title"><b>Бухгалтерский баланс</b></p>
+                </a>
+                <p class="doc-item-date"><b>По состоянию на 31.12.2021</b>, опубликовано 31.03.2022 (17:16)</p>
+            </div>
+
+            <div class="doc-item doc-item-small">
+                <a href="data/doc/5201.pdf" target="_blank">
+                    <img src="/template/assets/icon/doc.svg">
+                    <p class="doc-item-title"><b>Отчет о&nbsp;финансовых результатах</b></p>
+                </a>
+                <p class="doc-item-date"><b>По состоянию на 31.12.2021</b>, опубликовано 31.03.2022 (17:16)</p>
+            </div>
+
+            <div class="doc-item doc-item-small">
+                <a href="data/doc/5277.pdf" target="_blank">
+                    <img src="/template/assets/icon/doc.svg">
+                    <p class="doc-item-title"><b>Годовая финансовая отчетность компании в&nbsp;соответствии с&nbsp;МСФО</b></p>
+                </a>
+                <p class="doc-item-date"><b>По состоянию на 31.12.2021</b>, опубликовано 26.04.2022 (20:13)</p>
+            </div>
+
+            <div class="doc-item doc-item-small">
+                <a href="data/doc/4896.pdf" target="_blank">
+                    <img src="/template/assets/icon/doc.svg">
+                    <p class="doc-item-title"><b>Бухгалтерский баланс</b></p>
+                </a>
+                <p class="doc-item-date"><b>По состоянию на 30.09.2021</b>, опубликовано 28.10.2021 (14:46)</p>
+            </div>
+
+            <div class="doc-item doc-item-small">
+                <a href="data/doc/4897.pdf" target="_blank">
+                    <img src="/template/assets/icon/doc.svg">
+                    <p class="doc-item-title"><b>Отчет о&nbsp;финансовых результатах</b></p>
+                </a>
+                <p class="doc-item-date"><b>По состоянию на 30.09.2021</b>, опубликовано 28.10.2021 (14:46)</p>
+            </div>
+
+            <div class="doc-item doc-item-small">
+                <a href="data/doc/4732.pdf" target="_blank">
+                    <img src="/template/assets/icon/doc.svg">
+                    <p class="doc-item-title"><b>Бухгалтерский баланс</b></p>
+                </a>
+                <p class="doc-item-date"><b>По состоянию на 30.06.2021</b>, опубликовано 27.07.2021 (11:19)</p>
+            </div>
+
+            <div class="doc-item doc-item-small">
+                <a href="data/doc/4733.pdf" target="_blank">
+                    <img src="/template/assets/icon/doc.svg">
+                    <p class="doc-item-title"><b>Отчет о&nbsp;финансовых результатах</b></p>
+                </a>
+                <p class="doc-item-date"><b>По состоянию на 30.06.2021</b>, опубликовано 27.07.2021 (11:20)</p>
+            </div>
+
+            <div class="doc-item doc-item-small">
+                <a href="data/doc/4570.pdf" target="_blank">
+                    <img src="/template/assets/icon/doc.svg">
+                    <p class="doc-item-title"><b>Бухгалтерский баланс</b></p>
+                </a>
+                <p class="doc-item-date"><b>По состоянию на 31.03.2021</b>, опубликовано 29.04.2021 (18:00)</p>
+            </div>
+
+            <div class="doc-item doc-item-small">
+                <a href="data/doc/4571.pdf" target="_blank">
+                    <img src="/template/assets/icon/doc.svg">
+                    <p class="doc-item-title"><b>Отчет о&nbsp;финансовых результатах</b></p>
+                </a>
+                <p class="doc-item-date"><b>По состоянию на 31.03.2021</b>, опубликовано 29.04.2021 (18:01)</p>
+            </div>
+
+            <div class="doc-item doc-item-small">
+                <a href="data/doc/4503.pdf" target="_blank">
+                    <img src="/template/assets/icon/doc.svg">
+                    <p class="doc-item-title"><b>Аудиторское заключение о&nbsp;бухгалтерской отчётности за&nbsp;2020 год</b></p>
+                </a>
+                <p class="doc-item-date"><b>По состоянию на 31.12.2020</b>, опубликовано 31.03.2021 (18:34)</p>
+            </div>
+
+            <div class="doc-item doc-item-small">
+                <a href="data/doc/4511.pdf" target="_blank">
+                    <img src="/template/assets/icon/doc.svg">
+                    <p class="doc-item-title"><b>Годовая финансовая отчетность компании в&nbsp;соответствии с&nbsp;МСФО</b></p>
+                </a>
+                <p class="doc-item-date"><b>По состоянию на 31.12.2020</b>, опубликовано 05.04.2021 (16:58)</p>
+            </div>
+
+            <div class="doc-item doc-item-small">
+                <a href="data/doc/4569.pdf" target="_blank">
+                    <img src="/template/assets/icon/doc.svg">
+                    <p class="doc-item-title"><b>Бухгалтерский баланс</b></p>
+                </a>
+                <p class="doc-item-date"><b>По состоянию на 31.12.2020</b>, опубликовано 30.01.2021 (23:00)</p>
+            </div>
+
+            <div class="doc-item doc-item-small">
+                <a href="data/doc/4579.pdf" target="_blank">
+                    <img src="/template/assets/icon/doc.svg">
+                    <p class="doc-item-title"><b>Отчет о&nbsp;финансовых результатах</b></p>
+                </a>
+                <p class="doc-item-date"><b>По состоянию на 31.12.2020</b>, опубликовано 30.01.2021 (23:00)</p>
+            </div>
+
+            <div class="doc-item doc-item-small">
+                <a href="data/doc/4198.pdf" target="_blank">
+                    <img src="/template/assets/icon/doc.svg">
+                    <p class="doc-item-title"><b>Бухгалтерский баланс</b></p>
+                </a>
+                <p class="doc-item-date"><b>По состоянию на 30.09.2020</b>, опубликовано 30.10.2020 (14:00)</p>
+            </div>
+
+            <div class="doc-item doc-item-small">
+                <a href="data/doc/4199.pdf" target="_blank">
+                    <img src="/template/assets/icon/doc.svg">
+                    <p class="doc-item-title"><b>Отчет о&nbsp;финансовых результатах</b></p>
+                </a>
+                <p class="doc-item-date"><b>По состоянию на 30.09.2020</b>, опубликовано 30.10.2020 (14:00)</p>
+            </div>
+
+            <div class="doc-item doc-item-small">
+                <a href="data/doc/4031.pdf" target="_blank">
+                    <img src="/template/assets/icon/doc.svg">
+                    <p class="doc-item-title"><b>Бухгалтерский баланс</b></p>
+                </a>
+                <p class="doc-item-date"><b>По состоянию на 30.06.2020</b>, опубликовано 30.07.2020 (12:00)</p>
+            </div>
+
+            <div class="doc-item doc-item-small">
+                <a href="data/doc/4032.pdf" target="_blank">
+                    <img src="/template/assets/icon/doc.svg">
+                    <p class="doc-item-title"><b>Отчет о&nbsp;финансовых результатах</b></p>
+                </a>
+                <p class="doc-item-date"><b>По состоянию на 30.06.2020</b>, опубликовано 30.07.2020 (12:00)</p>
+            </div>
+
+        </div>
+    </div>
+
+    <div id="bottom-menu" class="bundle bottom-menu no-display-phone mt-2">
+        <div class="content mt-15 mb-15">
+            <table>
+                <tbody><tr>
+                    <td style="min-width: 130px;">
+                        <a href="/"><img src="/template/assets/logo-bottom.svg" alt="Управляющая компания «Прагма Капитал»" title="Управляющая компания «Прагма Капитал»"></a>
+                    </td>
+                    <td style="min-width: 240px;">
+                        <a href="/fund">Паевые инвестиционные фонды</a><br>
+                        <a href="/company">Управляющая компания</a><br>
+                        <a href="/news">Новости</a><br>
+                        <a href="/contacts">Контакты</a>
+                    </td>
+                    <td style="min-width: 400px;">
+                        <a href="/promo/trust-management-of-investment-funds">Доверительное управление инвестиционными фондами</a><br>
+                        <a href="/promo/trust-management-of-pension-reserves">Доверительное управление пенсионными резервами</a><br>
+                        <a href="/promo/project-financing">Проектное финансирование</a><br>
+                        <a href="/promo/qualified-investor">Квалифицированным инвесторам</a>
+                    </td>
+                    <td style="font-size: 18px; line-height: 21px;">
+                        Москва, 1-й Волконский переулок, д. 13, стр. 2<br>
+                        Тверская область, ПГТ Селижарово, ул. Ленина, д. 3а<br>
+                        <div style="font-size: 32px; margin: 10px 0;">8 (495) 902-63-71</div>
+                        <a href="mailto:info@pragmacapital.ru"><u>info@pragmacapital.ru</u></a>
+                    </td>
+                </tr>
+            </tbody></table>
+        </div>
+    </div>
+    <div class="bundle bottom-menu bottom-submenu">
+        <div class="content mt-1 mb-1">
+            <p>Общество с&nbsp;ограниченной ответственностью «Управляющая компания «Прагма Капитал». Лицензия №&nbsp;21-000-1-00823 от&nbsp;06.09.2011&nbsp;на осуществление деятельности по&nbsp;управлению инвестиционными фондами, паевыми инвестиционными фондами и&nbsp;негосударственными пенсионными фондами, выдана Федеральной службой по&nbsp;финансовым рынкам (ФСФР России).</p>
+            <p>Стоимость инвестиционных паев может увеличиваться и&nbsp;уменьшаться, результаты инвестирования в&nbsp;прошлом не&nbsp;определяют доходы в&nbsp;будущем. Ни&nbsp;государство, ни&nbsp;Управляющая компания не&nbsp;гарантируют доходность инвестиций в&nbsp;паевые инвестиционные фонды. Узнать более подробную информацию о&nbsp;Фондах, ознакомиться с&nbsp;правилами доверительного управления паевыми инвестиционными фондами, а&nbsp;также с&nbsp;иными документами можно в&nbsp;офисе управляющей компании по&nbsp;адресу: 172200, Тверская область, Селижаровский район, пгт.&nbsp;Селижарово, ул. Ленина, д. 3А&nbsp;с&nbsp;понедельника по&nbsp;пятницу с&nbsp;10°°&nbsp;до&nbsp;19°°&nbsp;и&nbsp;по&nbsp;телефону: +7 (495) 902-63-71, а&nbsp;также на&nbsp;официальном сайте Управляющей компании по&nbsp;адресу <nobr><a href="http://www.pragmacapital.ru"><u>http://www.pragmacapital.ru</u></a>.</nobr></p>
+            <p>Обращения (жалобы) могут быть направлены в&nbsp;бумажном или электронном виде по&nbsp;адресам, указанным на&nbsp;сайте в&nbsp;разделе «<a href="/contacts"><u>Контакты</u></a>».</p>
+            <p>Обращения (жалобы) на&nbsp;Управляющую компанию могут быть направлены в&nbsp;саморегулируемую организацию НАУФОР в&nbsp;электронном виде через раздел «<a target="_blank" href="http://naufor.ru/tree.asp?n=15043&amp;hk=20180726"><u>Пожаловаться на&nbsp;члена НАУФОР</u></a>» на&nbsp;сайте саморегулируемой организации или на&nbsp;бумажном носителе по&nbsp;адресу 109004, Москва, ул. Земляной Вал, д.&nbsp;65, стр.&nbsp;2.</p>
+            <p>Обращения (жалобы) на&nbsp;Управляющую компанию могут быть направлены в&nbsp;орган, осуществляющий полномочия по&nbsp;контролю и&nbsp;надзору за&nbsp;деятельностью компании, 
+            в&nbsp;электронном виде через раздел «<a target="_blank" href="https://www.cbr.ru/Reception/"><u>Интернет-приемная</u></a>» сайта Банка России или на&nbsp;бумажном носителе по&nbsp;адресу 107016, Москва, ул. Неглинная, 12, Банк России.</p>
+            <p>Способами защиты прав получателя финансовых услуг является досудебное урегулирование спора в&nbsp;претензионном порядке, обращение в&nbsp;Арбитражный суд&nbsp;г. Москвы (для юридических лиц) или суд общей юрисдикции (для физических лиц).</p>
+            <p class="mt-2" style="text-align: center;"><b>©&nbsp;ООО «Управляющая компания «Прагма Капитал», <nobr>2011–2023.</nobr> <a href="/legal"><u>Правовой режим сайта</u></a></b></p>
+            <p class="mt-05" style="text-align: center;">Информация об ООО&nbsp;«УК&nbsp;«Прагма Капитал» на <a target="_blank" href="https://www.cbr.ru/finorg/foinfo/?ogrn=1067746469658"><u>официальном сайте Банка России</u></a>.</p>
+        </div>
+    </div>
+
+

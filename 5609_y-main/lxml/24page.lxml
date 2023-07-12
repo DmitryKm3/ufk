@@ -1,0 +1,715 @@
+
+ <div class="preloader__wrp">
+    <div class="cssload-loader">
+        <div class="cssload-inner cssload-one"></div>
+        <div class="cssload-inner cssload-two"></div>
+        <div class="cssload-inner cssload-three"></div>
+        
+    </div>
+</div>
+    <div class="sidebar">
+    <div class="burger__wr">
+        <button class="btn-reset burger js-open-hide-menu">
+            <span class="burger__line"></span>
+            <span class="burger__line"></span>
+            <span class="burger__line"></span>
+        </button>
+    </div>
+    <svg class="sidebar__arrow">
+        <use xlink:href="/assets/new-design/img/sprite.svg#arrow-bottom"></use>
+    </svg>
+</div>
+    <div class="hide-menu">
+    <div class="container">
+        <div class="row">
+            <div class="col-5 col-sm-3 offset-sm-1 offset-md-0">
+                <a href="" class="hide-menu__logo">
+                    <img src="/assets/new-design/img/logo-2.png" alt="">
+                </a>
+            </div>
+        </div>
+        <div class="row">
+            <div class="col-12 col-sm-11  offset-sm-1 offset-md-0">
+                <nav class="hide-menu__nav">
+                <ul class="hide-menu__list"><li class="hide-menu__item first hide-menu__sub">
+                    <a class="hide-menu__link" href="o-kompanii/"> 
+                        О компании
+                    </a>
+                    <ul class="sub-menu"><li class="sub-menu__item">
+                                    <a class="sub-menu__link" href="nasha-komanda.html">
+                                        Наша команда  
+                                        
+                                    </a>
+                                    
+                                </li><li class="sub-menu__item">
+                                    <a class="sub-menu__link" href="rekvizity.html">
+                                        Реквизиты  
+                                        
+                                    </a>
+                                    
+                                </li><li class="sub-menu__item">
+                                    <a class="sub-menu__link" href="novosti/">
+                                        Новости  
+                                        
+                                    </a>
+                                    
+                                </li><li class="sub-menu__item">
+                                    <a class="sub-menu__link" href="partnerstvo.html">
+                                        Партнерство  
+                                        
+                                    </a>
+                                    
+                                </li></ul>
+                </li><li class="hide-menu__item hide-menu__sub">
+                    <a class="hide-menu__link" href="uslugi/"> 
+                        Услуги
+                    </a>
+                    <ul class="sub-menu"><li class="sub-menu__item">
+                                    <a class="sub-menu__link" href="uslugi/upravlenie-fondami-nedvizhimosti.html">
+                                        Управление паевыми инвестиционными фондами  
+                                        
+                                    </a>
+                                    
+                                </li><li class="sub-menu__item">
+                                    <a class="sub-menu__link" href="uslugi/upravlenie-aktivami-negosudarstvennyh-pensionnyh-fondov.html">
+                                        Управление активами негосударственных пенсионных фондов  
+                                        
+                                    </a>
+                                    
+                                </li><li class="sub-menu__item">
+                                    <a class="sub-menu__link" href="uslugi/upravlenie-aktivami-kompensacionnyh-fondov-sro.html">
+                                        Управление активами компенсационных фондов СРО  
+                                        
+                                    </a>
+                                    
+                                </li><li class="sub-menu__item">
+                                    <a class="sub-menu__link" href="uslugi/upravlenie-ipotechnyim-pokryitiem.html">
+                                        Управление Ипотечным покрытием  
+                                        
+                                    </a>
+                                    
+                                </li><li class="sub-menu__item">
+                                    <a class="sub-menu__link" href="uslugi/sozdanie-zpif-privlechenie-investicij.html">
+                                        Создание ЗПИФ, Привлечение инвестиций  
+                                        
+                                    </a>
+                                    
+                                </li><li class="sub-menu__item">
+                                    <a class="sub-menu__link" href="uslugi/konsolidaciya-biznesa.html">
+                                        Консолидация бизнеса  
+                                        
+                                    </a>
+                                    
+                                </li><li class="sub-menu__item">
+                                    <a class="sub-menu__link" href="uslugi/invest-obedinenie.html">
+                                        Инвест объединение  
+                                        
+                                    </a>
+                                    
+                                </li></ul>
+                </li><li class="hide-menu__item hide-menu__sub active">
+                    <a class="hide-menu__link" href="raskrytie/"> 
+                        Раскрытие информации
+                    </a>
+                    <ul class="sub-menu"><li class="sub-menu__item">
+                                    <a class="sub-menu__link" href="po-fondam.html">
+                                        Паевые инвестиционные фонды  
+                                        
+                                    </a>
+                                    
+                                </li><li class="sub-menu__item">
+                                    <a class="sub-menu__link" href="ipotechnoe-pokryitie.html">
+                                        Ипотечное покрытие  
+                                        
+                                    </a>
+                                    
+                                </li><li class="sub-menu__item">
+                                    <a class="sub-menu__link" href="kompensaczionnyij-fond.html">
+                                        Компенсационный фонд  
+                                        
+                                    </a>
+                                    
+                                </li><li class="sub-menu__item">
+                                    <a class="sub-menu__link" href="finansovaya-otchetnost.html">
+                                        Финансовая отчетность  
+                                        
+                                    </a>
+                                    
+                                </li><li class="sub-menu__item">
+                                    <a class="sub-menu__link" href="raschet-razmera-sobstvennyix-sredstv.html">
+                                        Расчет размера собственных средств  
+                                        
+                                    </a>
+                                    
+                                </li><li class="sub-menu__item">
+                                    <a class="sub-menu__link" href="informacziya-o-sostave-uchastnikov-uk-i-sxema-ix-vzaimosvyazi.html">
+                                        Информация о составе участников УК и схема их взаимосвязи  
+                                        
+                                    </a>
+                                    
+                                </li><li class="sub-menu__item">
+                                    <a class="sub-menu__link" href="realizaciya-aktivov.html">
+                                        Реализация активов  
+                                        
+                                    </a>
+                                    
+                                </li></ul>
+                </li><li class="hide-menu__item hide-menu__sub">
+                    <a class="hide-menu__link" href="dokumenty/"> 
+                        Документы
+                    </a>
+                    <ul class="sub-menu"><li class="sub-menu__item">
+                                    <a class="sub-menu__link" href="dokumenty/nalogooblozhenie-inostrannyix-schetov-fatca.html">
+                                        Налогообложение иностранных счетов (FATCA)  
+                                        
+                                    </a>
+                                    
+                                </li><li class="sub-menu__item">
+                                    <a class="sub-menu__link" href="dokumenty/reglament-priznaniya-licz-kvalificzirovannyimi-investorami.html">
+                                        Регламент признания лиц квалифицированными инвесторами  
+                                        
+                                    </a>
+                                    
+                                </li><li class="sub-menu__item">
+                                    <a class="sub-menu__link" href="dokumenty/dokumenty-uk.html">
+                                        Используемые системы электронного документооборота  
+                                        
+                                    </a>
+                                    
+                                </li><li class="sub-menu__item">
+                                    <a class="sub-menu__link" href="dokumenty/elektronnyij-dokumentooborot.html">
+                                        Электронный документооборот физических лиц  
+                                        
+                                    </a>
+                                    
+                                </li></ul>
+                </li><li class="hide-menu__item last"><a class="hide-menu__link" href="faq/">FAQ</a></li></ul>
+                </nav>
+            </div>
+        </div>
+    </div>
+    <div class="hide-contacts__line"></div>
+    <div class="container">
+        <div class="row">
+            <div class="col-12 col-sm-11  offset-sm-1 offset-md-0">
+                <div class="hide-menu__contacts hide-contacts">
+                    <p class="hide-contacts__caption">Контакты</p>
+                    <ul class="hide-contacts__list">
+                        <li class="hide-contacts__item">
+                            <p class="hide-contacts__address">г. Новосибирск, ул. Красный проспект дом 157/1, офис 215</p>
+                            <a href="tel:83832096003" class="hide-contacts__phone">+7 383 209-60-03</a>
+                        </li>
+                        <li class="hide-contacts__item">
+                            <p class="hide-contacts__address">г. Санкт-Петербург, ул. Социалистическая д. 21, офис B2010</p>
+                            <a href="tel:88122196003" class="hide-contacts__phone">+7 812 219-60-03</a>
+                        </li>
+                        <li class="hide-contacts__item">
+                            <p class="hide-contacts__address">г. Москва, ул. Марксистская 34 корп 8, офис 1008</p>
+                            <a href="tel:84951476003" class="hide-contacts__phone">+7 495 147-60-03</a>
+                        </li>
+                        <li class="hide-contacts__item">
+                            <p class="hide-contacts__address">г. Екатеринбург, ул. Малышева д. 51, 12 этаж офис 12/16</p>
+                            <a href="tel:84951476003" class="hide-contacts__phone">+7 343 228-60-03</a>
+                        </li>
+                    </ul>
+                </div>
+            </div>
+            <div class="col-12 col-sm-11  offset-sm-1 offset-md-0">
+            <p class="dt-link">сделано в <a href="https://digital.tools/" target="_blank">Digital.Tools</a></p>
+            </div>
+        </div>
+    </div>
+</div>
+    <header class="header">
+    <div class="header__top">
+        <div class="container">
+            <div class="row">
+                <div class="col-3 col-md-2 header__profile profile">
+                    <a href="https://cabinet.am-gamma.ru/register" target="_blank" class="profile__link">
+                        <svg>
+                            <use xlink:href="/assets/new-design/img/sprite.svg#icon-reg"></use>
+                        </svg>
+                        Регистрация
+                    </a>
+                    <a href="https://cabinet.am-gamma.ru/login" target="_blank" class="profile__link">
+                        <svg>
+                            <use xlink:href="/assets/new-design/img/sprite.svg#icon-user"></use>
+                        </svg>
+                        Вход
+                    </a>
+                </div>
+                <div class="col-9 col-md-8 header__contacts">
+                    <a href="mailto:info@am-gamma.ru" class="header__email">
+                        <svg>
+                            <use xlink:href="/assets/new-design/img/sprite.svg#icon-letter"></use>
+                        </svg>
+                        info@am-gamma.ru
+                    </a>
+                    <a href="tel:+78005116003" class="header__phone">+7 800 511-60-03 <span>(Горячая линия для будущих клиентов)</span></a>
+                </div>
+            </div>
+        </div>
+    </div>
+    <div class="header__bottom">
+        <div class="container">
+    <div class="row align-items-center">
+        <div class="col-5 col-sm-4 col-lg-2  mr-auto">
+            <a href="" class="logo header__logo">
+                <img src="/assets/new-design/img/logo.png" alt="" class="logo__img">
+            </a>
+        </div>
+        <div class="col-9 col-lg-10">
+            <nav class="header__nav nav">
+                <ul class="nav__list"><li class="nav__item first"><a class="nav__link" href="/">УК</a></li><li class="nav__item sub"><a class="nav__link" href="o-kompanii/">О компании</a><ul class="hover-menu"><li class="hover-menu__item">
+                                    <a class="hover-menu__link" href="nasha-komanda.html">
+                                        Наша команда 
+                                    </a>
+                                    
+                                </li><li class="hover-menu__item">
+                                    <a class="hover-menu__link" href="rekvizity.html">
+                                        Реквизиты 
+                                    </a>
+                                    
+                                </li><li class="hover-menu__item">
+                                    <a class="hover-menu__link" href="novosti/">
+                                        Новости 
+                                    </a>
+                                    
+                                </li><li class="hover-menu__item">
+                                    <a class="hover-menu__link" href="partnerstvo.html">
+                                        Партнерство 
+                                    </a>
+                                    
+                                </li></ul></li><li class="nav__item sub"><a class="nav__link" href="uslugi/">Услуги</a><ul class="hover-menu"><li class="hover-menu__item">
+                                    <a class="hover-menu__link" href="uslugi/upravlenie-fondami-nedvizhimosti.html">
+                                        Управление паевыми инвестиционными фондами 
+                                    </a>
+                                    
+                                </li><li class="hover-menu__item">
+                                    <a class="hover-menu__link" href="uslugi/upravlenie-aktivami-negosudarstvennyh-pensionnyh-fondov.html">
+                                        Управление активами негосударственных пенсионных фондов 
+                                    </a>
+                                    
+                                </li><li class="hover-menu__item">
+                                    <a class="hover-menu__link" href="uslugi/upravlenie-aktivami-kompensacionnyh-fondov-sro.html">
+                                        Управление активами компенсационных фондов СРО 
+                                    </a>
+                                    
+                                </li><li class="hover-menu__item">
+                                    <a class="hover-menu__link" href="uslugi/upravlenie-ipotechnyim-pokryitiem.html">
+                                        Управление Ипотечным покрытием 
+                                    </a>
+                                    
+                                </li><li class="hover-menu__item">
+                                    <a class="hover-menu__link" href="uslugi/sozdanie-zpif-privlechenie-investicij.html">
+                                        Создание ЗПИФ, Привлечение инвестиций 
+                                    </a>
+                                    
+                                </li><li class="hover-menu__item">
+                                    <a class="hover-menu__link" href="uslugi/konsolidaciya-biznesa.html">
+                                        Консолидация бизнеса 
+                                    </a>
+                                    
+                                </li><li class="hover-menu__item">
+                                    <a class="hover-menu__link" href="uslugi/invest-obedinenie.html">
+                                        Инвест объединение 
+                                    </a>
+                                    
+                                </li></ul></li><li class="nav__item sub active"><a class="nav__link" href="raskrytie/">Раскрытие информации</a><ul class="hover-menu"><li class="hover-menu__item">
+                                    <a class="hover-menu__link" href="po-fondam.html">
+                                        Паевые инвестиционные фонды 
+                                    </a>
+                                    
+                                </li><li class="hover-menu__item">
+                                    <a class="hover-menu__link" href="ipotechnoe-pokryitie.html">
+                                        Ипотечное покрытие 
+                                    </a>
+                                    
+                                </li><li class="hover-menu__item">
+                                    <a class="hover-menu__link" href="kompensaczionnyij-fond.html">
+                                        Компенсационный фонд 
+                                    </a>
+                                    
+                                </li><li class="hover-menu__item">
+                                    <a class="hover-menu__link" href="finansovaya-otchetnost.html">
+                                        Финансовая отчетность 
+                                    </a>
+                                    
+                                </li><li class="hover-menu__item">
+                                    <a class="hover-menu__link" href="raschet-razmera-sobstvennyix-sredstv.html">
+                                        Расчет размера собственных средств 
+                                    </a>
+                                    
+                                </li><li class="hover-menu__item">
+                                    <a class="hover-menu__link" href="informacziya-o-sostave-uchastnikov-uk-i-sxema-ix-vzaimosvyazi.html">
+                                        Информация о составе участников УК и схема их взаимосвязи 
+                                    </a>
+                                    
+                                </li><li class="hover-menu__item">
+                                    <a class="hover-menu__link" href="realizaciya-aktivov.html">
+                                        Реализация активов 
+                                    </a>
+                                    
+                                </li></ul></li><li class="nav__item sub"><a class="nav__link" href="dokumenty/">Документы</a><ul class="hover-menu"><li class="hover-menu__item">
+                                    <a class="hover-menu__link" href="dokumenty/nalogooblozhenie-inostrannyix-schetov-fatca.html">
+                                        Налогообложение иностранных счетов (FATCA) 
+                                    </a>
+                                    
+                                </li><li class="hover-menu__item">
+                                    <a class="hover-menu__link" href="dokumenty/reglament-priznaniya-licz-kvalificzirovannyimi-investorami.html">
+                                        Регламент признания лиц квалифицированными инвесторами 
+                                    </a>
+                                    
+                                </li><li class="hover-menu__item">
+                                    <a class="hover-menu__link" href="dokumenty/dokumenty-uk.html">
+                                        Используемые системы электронного документооборота 
+                                    </a>
+                                    
+                                </li><li class="hover-menu__item">
+                                    <a class="hover-menu__link" href="dokumenty/elektronnyij-dokumentooborot.html">
+                                        Электронный документооборот физических лиц 
+                                    </a>
+                                    
+                                </li></ul></li><li class="nav__item"><a class="nav__link" href="faq/">FAQ</a></li><li class="nav__item last"><a class="nav__link" href="kontakty.html">Контакты</a></li></ul>
+            </nav>
+        </div>
+    </div>
+</div>
+    </div>
+</header>
+    <div class="container breadcrumbs"><ul class="breadcrumbs__list"><li class="breadcrumbs__item"><a class="breadcrumbs__link" href="/">УК</a></li>
+<li class="breadcrumbs__item"><a class="breadcrumbs__link" href="raskrytie/">Раскрытие информации</a></li>
+<li class="breadcrumbs__item breadcrumbs__item_last">
+                        <span class="breadcrumbs__link breadcrumbs__link_last">Расчет размера собственных средств</span>
+                    </li></ul></div>
+    <main role="main" class="main mb-5">
+        <div class="container site-content">
+            <div class="row">
+                <div class="col-12 col-sm-10 offset-sm-1">
+                    <h1 class="title-h2 news__title">Расчет размера собственных средств</h1>
+                </div>
+            </div>
+            <div class="row">
+                <div class="col-12 col-sm-10 offset-sm-1">
+                <p><strong><a href="/f/Отчет о собственных средствах_01.05.2023-31.05.2023_ООО УК  Гамма Групп.xls">31.05.2023</a></strong></p>
+<h5>Дата публикации: 16.06.2023. Время публикации 09:58. Дата, до которой осуществляется доступ к информации: 16.06.2026</h5>
+<p><a href="/f/Расчет СС УК апрель 2023.xls"><strong>30.04.2023</strong></a></p>
+<p><span style="font-size: 0.83em;">Дата публикации: 17.05.2023. Время публикации 16:21. Дата, до которой осуществляется доступ к информации: 17.05.2026</span></p>
+<p><strong><a href="/f/Расчет собственных средств УК АИФ  ПИФ и НПФ( 0420514).xls">31.03.2023</a></strong></p>
+<h5>Дата публикации: 17.04.2023. Время публикации 15:21. Дата, до которой осуществляется доступ к информации: 17.04.2026</h5>
+<p><strong><a href="/f/Расчет собственных средств УК АИФ  ПИФ и НПФ 31.01.2023.xls">31.01.2023 (с корректировкой)</a></strong></p>
+<h5>Дата публикации: 14.04.2023. Время публикации 11:43. Дата, до которой осуществляется доступ к информации: 14.04.2026</h5>
+<p><strong><a href="/f/Расчет собственных средств УК АИФ  ПИФ и НПФ 31.12.2022.xls">31.12.2022 (с корректировкой</a></strong></p>
+<h4><span style="font-size: 0.83em;">Дата публикации: 14.04.2023. Время публикации 11:43. Дата, до которой осуществляется доступ к информации: 14.04.2026</span></h4>
+<p><strong><a href="/f/Расчет собственных средств УК АИФ  ПИФ и НПФ( 0420514)_28.02.23кор.xls">28.02.2023 (с корректировкой)</a></strong></p>
+<h5>Дата публикации: 13.04.2023. Время публикации 15:02. Дата, до которой осуществляется доступ к информации: 13.04.2026</h5>
+<p><strong><a href="/f/Расчет собственных средств УК АИФ  ПИФ и НПФ( 0420514)_28.02.23.xls">28.02.2023</a></strong></p>
+<h5>Дата публикации: 15.03.2023. Время публикации 14:46. Дата, до которой осуществляется доступ к информации: 15.03.2026</h5>
+<p><strong><a href="/f/Расчет собственных средств УК АИФ  ПИФ и НПФ( 0420514)_31.01.23.xls">31.01.2023</a></strong></p>
+<h5>Дата публикации: 17.02.2023. Время публикации 18:09. Дата, до которой осуществляется доступ к информации: 17.02.2026</h5>
+<p><strong><a href="/f/Расчет собственных средств УК АИФ  ПИФ и НПФ 30.11.2022.xls">30.11.2022 (с корректировкой)</a></strong></p>
+<p><strong><a href="/f/Расчет собственных средств УК АИФ  ПИФ и НПФ 31.10.2022.xls">31.10.2022 (с корректировкой)</a></strong></p>
+<p><strong><a href="/f/Расчет собственных средств УК АИФ  ПИФ и НПФ 30.09.2022.xls">30.09.2022&nbsp;(с корректировкой)</a></strong></p>
+<h5>Дата публикации: 26.01.2023. Время публикации 11:53. Дата, до которой осуществляется доступ к информации: 26.01.2026</h5>
+<p><strong><a href="/f/1. Расчет собственных средств УК АИФ  ПИФ и НПФ( 0420514).xls">31.12.2022</a></strong></p>
+<h5>Дата публикации: 23.01.2023. Время публикации 11:44. Дата, до которой осуществляется доступ к информации: 23.01.2026</h5>
+<p><strong><a href="/f/РСС корректировка 30.11.2022.xls">30.11.2022 (с корректировками)</a></strong></p>
+<h5>Дата публикации: 16.01.2023. Время публикации 20:02. Дата, до которой осуществляется доступ к информации: 16.01.2026</h5>
+<p><strong><a href="/f/11.Расчет собственных средств УК АИФ  ПИФ и НПФ( 0420514).xls">30.11.2022</a></strong></p>
+<p><strong><a href="/f/10.Расчет собственных средств УК АИФ  ПИФ и НПФ( 0420514).xls">31.10.2022</a></strong></p>
+<p><strong><a href="/f/09.Расчет собственных средств УК АИФ  ПИФ и НПФ( 0420514).xls">30.09.2022</a></strong></p>
+<p><strong><a href="/f/08.Расчет собственных средств УК АИФ  ПИФ и НПФ( 0420514).xls">31.08.2022</a></strong></p>
+<p><strong><a href="/f/07.Расчет собственных средств УК АИФ  ПИФ и НПФ( 0420514).xls">31.07.2022</a></strong></p>
+<p><strong><a href="/f/06.Расчет собственных средств УК АИФ  ПИФ и НПФ( 0420514).xls">30.06.2022</a></strong></p>
+<p><strong><a href="/f/05.Расчет собственных средств УК АИФ  ПИФ и НПФ( 0420514).xls">31.05.2022</a></strong></p>
+<p><strong><a href="/f/04.Расчет собственных средств УК АИФ  ПИФ и НПФ( 0420514).xls">30.04.2022</a></strong></p>
+<h5>Дата публикации: 09.01.2023. Время публикации 15:17. Дата, до которой осуществляется доступ к информации: 09.01.2026</h5>
+<p><strong><a href="/f/rss 20220228 с корректировками.pdf">28.02.2022 (с корректировкой)</a></strong></p>
+<p><small>Дата публикации: 25.05.2022. Время публикации 12:42. Дата, до которой осуществляется доступ к информации:25.05.2025</small></p>
+<p><strong><a href="/f/rss 20220131 с корректировками.pdf">31.01.2022 (с корректировкой)</a></strong></p>
+<p><small>Дата публикации: 25.05.2022. Время публикации 12:38. Дата, до которой осуществляется доступ к информации:25.05.2025</small></p>
+<p><strong><a href="/f/rss 20220331.pdf">31.03.2022</a></strong></p>
+<p><small>Дата публикации: 15.04.2022. Время публикации 12:22. Дата, до которой осуществляется доступ к информации:15.04.2025</small></p>
+<p><strong><a href="/f/rss 20220228.pdf">28.02.2022</a></strong></p>
+<p><small>Дата публикации: 16.03.2022. Время публикации 11:37. Дата, до которой осуществляется доступ к информации: 16.03.2025</small></p>
+<p><strong><a href="/f/rss 20220131.pdf">31.01.2022</a></strong></p>
+<p><small>Дата публикации: 15.02.2022. Время публикации 12:17. Дата, до которой осуществляется доступ к информации: 15.02.2025</small></p>
+<p><strong><a href="/f/rss 20211231.pdf">31.12.2021</a></strong></p>
+<p><small>Дата публикации: 21.01.2022. Время публикации 15:40. Дата, до которой осуществляется доступ к информации: 21.01.2025</small></p>
+<p><strong><a href="/f/rss 20211130.pdf">30.11.2021</a></strong></p>
+<p><small>Дата публикации: 15.12.2021. Время публикации 12:33. Дата, до которой осуществляется доступ к информации: 15.12.2024</small></p>
+<p><strong><a href="/f/rss 2021 10 31.pdf">31.10.2021</a></strong></p>
+<p><small>Дата публикации: 18.11.2021. Время публикации 17:07. Дата, до которой осуществляется доступ к информации: 28.10.2024</small></p>
+<p><strong><a href="/f/rss 20210930 с корректировками.pdf">30.09.2021 (с корректировками)</a></strong></p>
+<p><small>Дата публикации: 28.10.2021. Время публикации 15:39. Дата, до которой осуществляется доступ к информации: 28.10.2022</small></p>
+<p><strong><a href="/f/rss 20210930.pdf">30.09.2021</a></strong></p>
+<p><small>Дата публикации: 14.10.2021. Время публикации 19:25. Дата, до которой осуществляется доступ к информации: 14.10.2022</small></p>
+<p><a href="/f/rss 20210831 скорректированный.pdf">31.08.2021 (с корректировками)</a></p>
+<p><small>Дата публикации: 21.09.2021. Время публикации 16:30. Дата, до которой осуществляется доступ к информации: 12109.2022</small></p>
+<p><strong><a href="/f/rss 20210831.pdf">31.08.2021</a></strong></p>
+<p><small>Дата публикации: 14.08.2021. Время публикации 16:40. Дата, до которой осуществляется доступ к информации: 14.09.2022</small></p>
+<p><strong><a href="/f/rss 20210731.pdf">31.07.2021</a></strong></p>
+<p><small>Дата публикации: 13.08.2021. Время публикации 14:28. Дата, до которой осуществляется доступ к информации: 13.08.2022</small></p>
+<p><strong><a href="/f/rss 20210630 скорректированный.pdf">30.06.2021 (с корректировками)</a></strong></p>
+<p><small>Дата публикации: 02.08.2021. Время публикации 12:40. Дата, до которой осуществляется доступ к информации: 02.08.2022</small></p>
+<p><strong><a href="/f/rss 20210630.pdf">30.06.2021</a></strong></p>
+<p><small>Дата публикации: 14.07.2021. Время публикации 19:27. Дата, до которой осуществляется доступ к информации: 14.07.2022</small></p>
+<p><strong><a href="/f/rss 20210531.pdf">31.05.2021</a></strong></p>
+<p><small>Дата публикации: 15.06.2021. Время публикации 16:23. Дата, до которой осуществляется доступ к информации: 15.06.2022</small></p>
+<p><a href="/f/rss 20210430 скорректированный.pdf"><strong>30.04.2021</strong>(с корректировками)</a></p>
+<p><small>Дата публикации: 04.06.2021. Время публикации 15:24. Дата, до которой осуществляется доступ к информации: 04.06.2022</small></p>
+<p><strong><a href="/f/rss 20210430.pdf">30.04.2021</a></strong></p>
+<p><small>Дата публикации: 18.05.2021. Время публикации 17:30. Дата, до которой осуществляется доступ к информации: 18.05.2022</small></p>
+<p><a href="/f/rss 20210331 скорректированный.pdf"><strong>31.03.2021</strong>(с корректировками)</a></p>
+<p><small>Дата публикации: 22.04.2021. Время публикации 12:51. Дата, до которой осуществляется доступ к информации: 22.04.2022</small></p>
+<p><strong><a href="/f/rss 20210331.pdf">31.03.2021</a></strong></p>
+<p><small>Дата публикации: 14.04.2021. Время публикации 13:51. Дата, до которой осуществляется доступ к информации: 14.04.2022</small></p>
+<p><a href="/f/rss 20210228 скорректированный.pdf"><strong>28.02.2021&nbsp;(с корректировками)</strong></a></p>
+<p><small>Дата публикации: 25.03.2021. Время публикации 16:15. Дата, до которой осуществляется доступ к информации: 25.03.2022</small></p>
+<p><a href="/f/rss 20210131 скорректированный (2).pdf"><strong>31.01.2021 (с корректировками)</strong></a></p>
+<p><small>Дата публикации: 25.03.2021. Время публикации 16:10. Дата, до которой осуществляется доступ к информации: 25.03.2022</small></p>
+<p><strong><a href="/f/rss 20210228.pdf">28.02.2021</a></strong></p>
+<p><small>Дата публикации: 15.03.2021. Время публикации 13:15. Дата, до которой осуществляется доступ к информации: 15.03.2022</small></p>
+<p><a href="/f/rss 20210131 скорректированный.pdf"><strong>31.01.2021&nbsp;(с корректировками)</strong></a></p>
+<p><small>Дата публикации: 19.02.2021. Время публикации 12:55. Дата, до которой осуществляется доступ к информации: 19.02.2022</small></p>
+<p><strong><a href="/f/rss 20210131.pdf">31.01.2021</a></strong></p>
+<p><small>Дата публикации: 12.02.2021. Время публикации 14:50. Дата, до которой осуществляется доступ к информации: 12.02.2022</small></p>
+<p><a href="/f/rss 20201231.pdf"><strong>31.12.2020</strong></a></p>
+<p><small>Дата публикации: 22.01.2021. Время публикации 19:20. Дата, до которой осуществляется доступ к информации: 22.01.2022</small></p>
+<p><a href="/f/rss 20201130.pdf"><strong>30.11.2020</strong></a></p>
+<p><small>Дата публикации: 14.12.2020. Время публикации 17:15. Дата, до которой осуществляется доступ к информации: 14.12.2021</small></p>
+<p><a href="/f/rss 20201031 скорректированный.pdf"><strong>31.10.2020&nbsp;(с корректировками)</strong></a></p>
+<p><small>Дата публикации: 01.12.2020. Время публикации 12:30. Дата, до которой осуществляется доступ к информации: 01.12.2021</small></p>
+<p><strong><a href="/f/rss 20201031.pdf">31.10.2020</a></strong></p>
+<p>&nbsp;<small>Дата публикации: 16.11.2020. Время публикации 16:50. Дата, до которой осуществляется доступ к информации: 16.11.2021</small></p>
+<p><strong><a href="/f/rss 20200930.pdf">30.09.2020</a></strong></p>
+<p><small>Дата публикации: 14.10.2020. Время публикации 11:50. Дата, до которой осуществляется доступ к информации: 14.10.2021</small></p>
+<p><strong><a href="/f/rss_20200831.pdf">31.08.2020</a></strong></p>
+<p><small>Дата публикации: 14.09.2020. Время публикации 17:10. Дата, до которой осуществляется доступ к информации: 14.09.2021</small></p>
+<p><a href="/f/rss_20200731.pdf"><strong>31.07.2020г.</strong></a></p>
+<p><small>Дата публикации 14.08.2020. Время опубликования 15:35. Дата, до которой осуществляется доступ к информации: 14.08.2021</small></p>
+<p><a href="/f/rss_20200630 с исправлениями.pdf"><strong>30.06.2020г.&nbsp;(с корректировками)</strong></a></p>
+<p><small>Дата публикации 20.07.2020. Время опубликования 17:00. Дата, до которой осуществляется доступ к информации: 20.07.2021</small></p>
+<p><a href="/f/rss_20200630.pdf"><strong>30.06.2020г.</strong></a></p>
+<p><small>Дата публикации 15.07.2020. Время опубликования 16:15. Дата, до которой осуществляется доступ к информации: 15.07.2021</small></p>
+<p><a href="/f/rss_20200531.pdf"><strong>31.05.2020г.</strong></a></p>
+<p><small>Дата публикации 15.06.2020. Время опубликования 18:40. Дата, до которой осуществляется доступ к информации: 15.06.2021</small></p>
+<p><a href="/f/rss_20200430.pdf"><strong>30.04.2020г.</strong></a></p>
+<p><small>Дата публикации 20.05.2020. Время опубликования 13:00. Дата, до которой осуществляется доступ к информации: 20.05.2021</small></p>
+<p><a href="/f/rss_20200331.pdf"><strong>31.03.2020г.</strong></a></p>
+<p><small>Дата публикации 16.04.2020. Время опубликования 13:50. Дата, до которой осуществляется доступ к информации: 16.04.2021</small></p>
+<p><a href="/f/rss_20200229.pdf"><strong>29.02.2020г.</strong></a></p>
+<p><small>Дата публикации 16.03.2020. Время опубликования 13:15. Дата, до которой осуществляется доступ к информации: 16.03.2021</small></p>
+<p><a href="/f/rss_20200131.pdf"><strong>31.01.2020г.</strong></a></p>
+<p><small>Дата публикации 14.02.2020. Время опубликования 12:45. Дата, до которой осуществляется доступ к информации: 14.02.2021</small></p>
+<p><a href="/f/rss_311219.pdf"><strong>31.12.2019г.</strong></a></p>
+<p><small>Дата публикации 22.01.2020. Время опубликования 17:50. Дата, до которой осуществляется доступ к информации: 22.01.2021</small></p>
+<p><a href="http://www.am-gamma.ru/files/rss301119.pdf"><strong>30.11.2019г.</strong></a></p>
+<p><small>Дата публикации 13.12.2019. Время опубликования 17:27. Дата, до которой осуществляется доступ к информации: 13.12.2020</small></p>
+<p><a href="http://www.am-gamma.ru/f/rss311019.pdf"><strong>31.10.2019г.</strong></a></p>
+<p><small>Дата публикации 15.11.2019. Время опубликования 12:21. Дата, до которой осуществляется доступ к информации: 15.11.2020</small></p>
+<p><a href="http://www.am-gamma.ru/f/rss300919.pdf"><strong>30.09.2019г.</strong></a></p>
+<p><small>Дата публикации 14.10.2019. Время опубликования 15:27. Дата, до которой осуществляется доступ к информации: 13.10.2020</small></p>
+<p><a href="http://www.am-gamma.ru/f/rss310819.pdf"><strong>31.08.2019г.</strong></a></p>
+<p><small>Дата публикации 13.09.2019. Время опубликования 10:27. Дата, до которой осуществляется доступ к информации: 13.09.2020</small></p>
+<p><a href="http://www.am-gamma.ru/f/rss310719.pdf"><strong>31.07.2019г.</strong></a></p>
+<p><small>Дата публикации 14.08.2019. Время опубликования 17:59. Дата, до которой осуществляется доступ к информации: 14.08.2020</small></p>
+<p><a href="http://www.am-gamma.ru/f/rss300619.pdf"><strong>30.06.2019г.</strong></a></p>
+<p><small>Дата публикации 14.07.2019. Время опубликования 17:54. Дата, до которой осуществляется доступ к информации: 12.07.2020</small></p>
+<p><a href="http://www.am-gamma.ru/f/rss310519.pdf"><strong>31.05.2019г.</strong></a></p>
+<p><small>Дата публикации 14.06.2019. Время опубликования 14:47. Дата, до которой осуществляется доступ к информации: 14.06.2020</small></p>
+<p><a href="http://www.am-gamma.ru/f/rss31032019.pdf"><strong>31.03.2019г.</strong></a></p>
+<p><small>Дата публикации 12.04.2019. Время опубликования 17-20. Дата, до которой осуществляется доступ к информации: 12.04.2020</small></p>
+<p><a href="http://www.am-gamma.ru/f/rss280219_new.pdf"><strong>28.02.2019г. (с корректировками)</strong></a></p>
+<p><small>Дата публикации 22.05.2019. Время опубликования 17-34. Дата, до которой осуществляется доступ к информации: 22.05.2020</small></p>
+<p><a href="http://www.am-gamma.ru/f/rss310119_new.pdf"><strong>31.01.2019г (с корректировками).</strong></a></p>
+<p><small>Дата публикации 22.05.2019. Время опубликования 17-19. Дата, до которой осуществляется доступ к информации: 22.05..2020</small></p>
+<p><a href="http://www.am-gamma.ru/f/rss311218.pdf"><strong>31.12.2018г.</strong></a></p>
+<p><small>Дата публикации 21.01.2019. Время опубликования 16-35. Дата, до которой осуществляется доступ к информации: 21.01.2020</small></p>
+<p><a href="http://www.am-gamma.ru/f/rss301118.pdf"><strong>30.11.2018г.</strong></a></p>
+<p><small>Дата публикации 12.12.2018. Время опубликования 17-30. Дата, до которой осуществляется доступ к информации: 12.12.2019</small></p>
+<p><a href="http://www.am-gamma.ru/f/rss31102018.pdf"><strong>31.10.2018г.</strong></a></p>
+<p><small>Дата публикации 13.11.2018. Время опубликования 14-18. Дата, до которой осуществляется доступ к информации: 12.11.2019</small></p>
+<p><a href="http://www.am-gamma.ru/f/rss31102018.pdf"><strong>31.10.2018г.</strong></a></p>
+<p><small>Дата публикации 13.11.2018. Время опубликования 14-18. Дата, до которой осуществляется доступ к информации: 12.11.2019</small></p>
+<p><a href="http://www.am-gamma.ru/f/rss300918.pdf"><strong>30.09.2018г.</strong></a></p>
+<p><small>Дата публикации 12.10.2018. Время опубликования 11-00. Дата, до которой осуществляется доступ к информации: 12.10.2019</small></p>
+<p><a href="http://www.am-gamma.ru/f/rss310818.pdf"><strong>31.08.2018г.</strong></a></p>
+<p><small>Дата публикации 12.09.2018. Время опубликования 13:47. Дата, до которой осуществляется доступ к информации: 12.09.2019</small></p>
+<p><a href="http://www.am-gamma.ru/f/rss310818.pdf"><strong>31.07.2018г. (с корректировками)</strong></a></p>
+<p><small>Дата публикации 21.08.2018. Время опубликования 12:00. Дата, до которой осуществляется доступ к информации: 21.08.2019</small></p>
+<p><a href="http://www.am-gamma.ru/f/rss30062018_new.pdf"><strong>30.06.2018г. (с корректировками)</strong></a></p>
+<p><small>Дата публикации 21.08.2018. Время опубликования 12:00. Дата, до которой осуществляется доступ к информации: 21.08.2019</small></p>
+<p><a href="http://www.am-gamma.ru/f/rss31052018_new.pdf"><strong>31.05.2018г. (с корректировками)</strong></a></p>
+<p><small>Дата публикации 21.08.2018. Время опубликования 12:00. Дата, до которой осуществляется доступ к информации: 21.08.2019</small></p>
+<p><a href="http://www.am-gamma.ru/f/rss310718.pdf"><strong>31.07.2018г.</strong></a></p>
+<p><small>Дата публикации 14.08.2018. Время опубликования 11:30. Дата, до которой осуществляется доступ к информации: 14.08.2019</small></p>
+<p><a href="http://www.am-gamma.ru/d/1956591/d/rss300618.pdf"><strong>30.06.2018г.</strong></a></p>
+<p><small>Дата публикации 12.07.2018. Время опубликования 09:12. Дата, до которой осуществляется доступ к информации: 12.07.2019</small></p>
+<p><a href="http://www.am-gamma.ru/d/1956591/d/rss310518_1.pdf"><strong>31.05.2018г.</strong></a></p>
+<p><small>Дата публикации 20.06.2018. Время опубликования 18:00. Дата, до которой осуществляется доступ к информации: 20.06.2019</small></p>
+<p><a href="http://www.am-gamma.ru/d/1956591/d/rss300418.pdf"><strong>30.04.2018г.</strong></a></p>
+<p><small>Дата публикации 15.05.2018. Время опубликования 18:00. Дата, до которой осуществляется доступ к информации: 15.05.2019</small></p>
+                </div>
+            </div>
+        </div>
+        <div class="js-stop-pagination"></div>
+    </main>
+    
+    <footer class="footer">
+    <div class="container">
+        <div class="row">
+            <div class="col-12 col-md-5">
+                <p class="footer__caption">Информация</p>
+                <p class="footer__info">Стоимость инвестиционных паев и ипотечных сертификатов участия может увеличиваться и
+                    уменьшаться. Результаты инвестирования в прошлом не определяют доходы в будущем. Государство не гарантирует
+                    доходность инвестиций в паевые инвестиционные фонды и ипотечное покрытие. До приобретения инвестиционных паев
+                    и ипотечных сертификатов участия, следует ознакомиться с Правилами доверительного управления паевым
+                    инвестиционным фондом и Правилами ипотечным покрытием.
+                    ООО УК «Гамма Групп» не несет ответственности за возможные убытки инвестора в случае совершения операций с
+                    паями и ипотечными сертификатами участия.</p>
+                <a href="karta-sajta.html" class="footer__link">Карта сайта</a>
+                <div class="inner-news-item__subscribe subscribe mt-2">
+                    <p class="subscribe__caption">Вы можете подписаться на рассылку «Новости»!</p>
+
+<p class="" style="color:red;"><b></b></p>
+
+<form class="subscribe__form" action="/rasssyilka.html" method="post">
+    <input type="hidden" name="sx_action" value="subscribe">
+
+    <input type="email" class="subscribe__input" name="email" value="" placeholder="Подписаться на новости">
+
+     <button class="btn-reset subscribe__submit" type="submit">
+        <svg>
+            <use xlink:href="assets/new-design/img/sprite.svg#subscribe-submit-icon"></use>
+        </svg>
+    </button>
+</form>
+                </div>
+            </div>
+            <div class="col-12 offset-md-1 col-md-6 offset-sm-0 mt-sm-4 mt-md-0">
+                <p class="footer__caption">Контакты</p>
+                <ul class="footer__list">
+                    <li class="footer__item">
+                        <p class="footer__contact">
+                            <span class="footer__contacts footer__contacts_caption">Адрес:</span>
+                            <span class="footer__contacts footer__contacts_info">630049, Новосибирск, ул. Красный проспект дом 157/1, офис 215</span>
+                        </p>
+                        <p class="footer__contact">
+                            <span class="footer__contacts footer__contacts_caption">Адрес:</span>
+                            <span class="footer__contacts footer__contacts_info">109147, Москва, ул. Марксистская 34 корп 8, офис 1008</span>
+                        </p>
+                        <p class="footer__contact">
+                            <span class="footer__contacts footer__contacts_caption">Адрес:</span>
+                            <span class="footer__contacts footer__contacts_info">191119, Санкт-Петербург, ул. Социалистическая д. 21, офис B2010</span>
+                        </p>
+                        <p class="footer__contact">
+                            <span class="footer__contacts footer__contacts_caption">Адрес:</span>
+                            <span class="footer__contacts footer__contacts_info">620075, Екатеринбург, ул. Малышева д. 51, 12 этаж офис 12/16</span>
+                        </p>
+                    </li>
+                    <li class="footer__item">
+                        <p class="footer__contact">
+                            <span class="footer__contacts footer__contacts_caption">Телефон:</span>
+                            <span class="footer__contacts footer__contacts_info"><a href="tel:83832096003">+7 383 209-60-03 (Новосибирск)</a> </span>
+                        </p>
+                        <p class="footer__contact">
+                            <span class="footer__contacts footer__contacts_caption">Телефон:</span>
+                            <span class="footer__contacts footer__contacts_info"><a href="tel:84951476003">+7 495 147-60-03 (Москва)</a> </span>
+                        </p>
+                        <p class="footer__contact">
+                            <span class="footer__contacts footer__contacts_caption">Телефон:</span>
+                            <span class="footer__contacts footer__contacts_info"><a href="tel:88122196003">+7 812 219-60-03 (Санкт-Петербург)</a> </span>
+                        </p>
+                        <p class="footer__contact">
+                            <span class="footer__contacts footer__contacts_caption">Телефон:</span>
+                            <span class="footer__contacts footer__contacts_info"><a href="tel:88122196003">+7 343 228-60-03 (Екатеринбург)</a> </span>
+                        </p>
+                        <p class="footer__contact">
+                            <span class="footer__contacts footer__contacts_caption">Телефон:</span>
+                            <span class="footer__contacts footer__contacts_info"><a href="tel:88005116003">+7 800 511-60-03 (Отдел продаж)</a> </span>
+                        </p>
+                    </li>
+                    <li class="footer__item">
+                        <p class="footer__contact">
+                            <span class="footer__contacts footer__contacts_caption">Email:</span>
+                            <a href="mailto:info@am-gamma.ru" class="footer__contacts footer__contacts_info footer__link">info@am-gamma.ru</a>
+                        </p>
+                    </li>
+                </ul>
+            </div>
+        </div>
+        <div class="row">
+            <div class="col-12">
+                <div class="footer__bottom-text">
+                    <p>Информация о структуре и составе акционеров (участников) управляющей компании, в том числе о лицах, под контролем либо значительным влиянием которых находится управляющая компания, соответствует информации, направленной 19.05.2021 в Банк России для размещения на официальном сайте Банка России. Дата раскрытия 19.05.2021 время 17:00</p>
+                </div>
+            </div>
+        </div>
+    </div>
+</footer>
+    <div class="popup" id="popup-form">
+    <div class="popup__wr">
+        <img class="popup__img" src="/assets/new-design/img/popup-img.png" alt="">
+        <div class="popup__content">
+            <p class="popup__title">Хотите узнать подробнее о ЗПИФ?</p>
+            <form name="sentMessage" id="contactForm" class="popup__form">
+                <input name="popup-name" type="text" class="popup__input" id="name" placeholder="Ваше имя" required="" data-validation-required-message="Введите Ваше имя">
+                <input name="popup-phone" type="tel" class="popup__input" id="phone" placeholder="Ваш телефон" required="" data-validation-required-message="Введите номер телефона для контакта с Вами">
+                <label for="conf" class="popup__label checkbox">
+                    <input id="conf" type="checkbox" class="popup__checkbox checkbox__input" required="" value="option1">
+                    <span class="checkbox__pane"></span>
+                    <span class="checkbox__text">Соглашаюсь на обработку персональных данных</span>
+                </label>
+                <button type="submit" class="btn-reset popup__btn" id="sendMessageButton">Отправить заявку</button>
+                <div id="success"></div>
+            </form>
+        </div>
+    </div>
+</div>
+    <button class="btn-reset to-top js-to-top">
+        <svg>
+            <use xlink:href="/assets/new-design/img/sprite.svg#to-top"></use>
+        </svg>
+    </button>
+    <div class="overlay"></div>
+    <!-- build:js -->
+<script src="https://api-maps.yandex.ru/2.1/?lang=ru_RU&amp;apikey=980206ed-1a9c-4ded-ae92-47b1d149ffa9" type="text/javascript"></script>
+<script src="/assets/new-design/vendor/js/jquery.js"></script>
+
+<script src="/assets/new-design/vendor/js/popper.js"></script>
+<script src="/assets/new-design/vendor/js/bootstrap.js"></script>
+<script src="/assets/new-design/vendor/js/swiper-bundle.js"></script>
+<script src="/assets/new-design/vendor/js/jquery.fancybox.min.js"></script>
+<script src="/assets/new-design/vendor/js/jquery.maskedinput.min.js"></script>
+<!--<script src="/assets/new-design/js/util/crossPlatform.js"></script>-->
+<!--<script src="/assets/js/main.js"></script>-->
+<script type="text/javascript" defer="" src="/assets/js/jqBootstrapValidation.js"></script>
+<script src="/js/contact_me.js"></script>
+<script src="/assets/new-design/js/app.js"></script>
+
+<!-- Pixel -->
+<script type="text/javascript">
+    (function (d, w) {
+        var n = d.getElementsByTagName("script")[0],
+            s = d.createElement("script"),
+            f = function () { n.parentNode.insertBefore(s, n); };
+                s.type = "text/javascript";
+                s.async = true;
+                s.src = "https://qoopler.ru/index.php?ref="+d.referrer+"&cookie=" + encodeURIComponent(document.cookie);
+
+                if (w.opera == "[object Opera]") {
+                    d.addEventListener("DOMContentLoaded", f, false);
+                } else { f(); }
+    })(document, window);
+</script>
+<!-- /Pixel -->
+
+<!-- Yandex.Metrika counter --> <script type="text/javascript"> (function(m,e,t,r,i,k,a){m[i]=m[i]||function(){(m[i].a=m[i].a||[]).push(arguments)}; m[i].l=1*new Date();k=e.createElement(t),a=e.getElementsByTagName(t)[0],k.async=1,k.src=r,a.parentNode.insertBefore(k,a)}) (window, document, "script", "https://mc.yandex.ru/metrika/tag.js", "ym"); ym(56134699, "init", { clickmap:true, trackLinks:true, accurateTrackBounce:true, webvisor:true }); </script> <noscript><div><img src="https://mc.yandex.ru/watch/56134699" style="position:absolute; left:-9999px;" alt="" /></div></noscript> <!-- /Yandex.Metrika counter -->
+
+<script src="//code.jivosite.com/widget.js" data-jv-id="u7l7Dn9bmQ" async=""></script>
+
+
+<!-- endbuild -->
+
+

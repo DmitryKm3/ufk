@@ -1,0 +1,365 @@
+
+ 
+<!--google -> analytics-->
+        <script type="text/javascript">
+var gaJsHost = (("https:" == document.location.protocol) ? "https://ssl." : "http://www.");
+document.write(unescape("%3Cscript src='" + gaJsHost + "google-analytics.com/ga.js' type='text/javascript'%3E%3C/script%3E"));
+</script><script src="http://www.google-analytics.com/ga.js" type="text/javascript"></script>
+<script type="text/javascript">
+try {
+var pageTracker = _gat._getTracker("UA-5360537-1");
+pageTracker._trackPageview();
+} catch(err) {}</script>
+<!--\google -> analytics-->
+
+  
+  <!-- header -->
+  
+<div id="header">
+
+<div id="headerright">
+
+<div id="headerleft">
+
+<table>
+<tbody><tr>
+<td id="logo">
+
+<a href="/"><img src="/bitrix/templates/avers/img/logo.png" width="218" height="154" alt=""></a><br>
+<div style="width: 424px; height: 1px;"><!-- --></div>
+
+</td>
+<td id="fx">
+
+<table>
+<tbody><tr>
+<td><img src="/bitrix/templates/avers/img/fl1.png" width="152" height="225" alt=""></td>
+<td><img src="/bitrix/templates/avers/img/fl2.png" width="152" height="225" alt=""></td>
+<td><img src="/bitrix/templates/avers/img/fl3.png" width="236" height="225" alt=""></td>
+</tr>
+</tbody></table>
+
+</td>
+</tr>
+</tbody></table>
+
+</div>
+
+</div>
+
+</div><!-- /header -->
+
+
+<!-- main -->
+<div id="main">
+ <table>
+  <tbody><tr>
+   <td id="left">
+
+   <!-- menu -->
+      
+<div id="menu">
+<table>
+
+	 <tbody><tr><td><img src="/bitrix/templates/avers/img/icon-menu1.png" width="54" height="31" alt=""></td><td><div id="menu_title_1" class="boxmenuitem boxmenuitemactive"><span class="menu_title">Аверс-Капитал</span></div><div style="margin: 0px; overflow: hidden; height: 68px;"><div id="menu_1" style="margin: 0px;"><div class="boxsubmenu">     
+	 <div class="boxsubmenuitem"><a href="/content/index.php?IBLOCK_ID=1&amp;SECTION_ID=4">О компании</a></div>     
+	 <div class="boxsubmenuitem"><a href="/content/index.php?IBLOCK_ID=1&amp;SECTION_ID=12">Принципы и задачи</a></div>     
+	 <div class="boxsubmenuitem"><a href="/content/index.php?IBLOCK_ID=1&amp;SECTION_ID=13">Раскрытие информации</a></div>     
+	 <div class="boxsubmenuitem"><a href="/content/index.php?IBLOCK_ID=1&amp;SECTION_ID=14">Контакты</a></div>     
+	 </div></div></div></td></tr><tr><td><img src="/bitrix/templates/avers/img/icon-menu2.png" width="54" height="36" alt=""></td><td><div id="menu_title_2" class="boxmenuitem"><span class="menu_title">Услуги компании</span></div><div style="margin: 0px; overflow: hidden; height: 0px;"><div id="menu_2" style="margin: -82px 0px 0px;"><div class="boxsubmenu">     
+	 <div class="boxsubmenuitem"><a href="/content/index.php?IBLOCK_ID=1&amp;SECTION_ID=5">Общая информация</a></div>     
+	 <div class="boxsubmenuitem"><a href="/content/index.php?IBLOCK_ID=1&amp;SECTION_ID=6">ЗПИФН «Амонд-строй»</a></div>     
+	 <div class="boxsubmenuitem"><a href="/content/index.php?IBLOCK_ID=1&amp;SECTION_ID=15">ЗПИФН «Амонд-перспектива»</a></div>     
+	 <div class="boxsubmenuitem"><a href="/content/index.php?IBLOCK_ID=1&amp;SECTION_ID=16">ЗПИФН «Лакус-финанс»</a></div>     
+	 </div></div></div></td></tr><tr><td><img src="/bitrix/templates/avers/img/icon-menu3.png" width="54" height="35" alt=""></td><td><div id="menu_title_3" class="boxmenuitem"><span class="menu_title">Для инвесторов</span></div><div style="margin: 0px; overflow: hidden; height: 0px;"><div id="menu_3" style="margin: -54px 0px 0px;"><div class="boxsubmenu">     
+	 <div class="boxsubmenuitem"><a href="/content/index.php?IBLOCK_ID=1&amp;SECTION_ID=19">Партнеры</a></div>     
+	 <div class="boxsubmenuitem"><a href="/content/index.php?IBLOCK_ID=1&amp;SECTION_ID=21">Налогооблажение</a></div>     
+	 <div class="boxsubmenuitem"><a href="/content/index.php?IBLOCK_ID=1&amp;SECTION_ID=22">Законодательство</a></div>     
+
+</div></div></div></td></tr></tbody></table>
+</div>
+   <!-- phone -->
+   <div id="phone">
+
+<table>
+<tbody><tr>
+<td><div>Телефон: (846)&nbsp;</div></td>
+<td>310-67-12</td>
+</tr>
+<tr>
+<td><div>Факс: (846)&nbsp;</div></td>
+<td>310-67-12</td>
+</tr>
+</tbody></table>
+
+</div><!-- /phone -->
+
+   <!-- search -->
+   
+
+<!--div class="search-form"-->
+<div id="search">
+
+<form action="/search/index.php">
+	<!--table border="0" cellspacing="0" cellpadding="2" align="center"-->
+	<table>
+		<tbody><tr>
+			<!--td align="center"><input type="text" name="q" value="" size="15" maxlength="50" /></td-->			
+			<td><input type="text" name="q" value="Поиск" style="width: 150px; height: 16px;"></td>
+			<td><input name="s" type="image" src="/bitrix/templates/avers/img/btn-go.gif" style="width: 17px; height: 19px; margin-left: 10px;" alt="Найти" value="Поиск"></td>
+
+		</tr>
+
+		<!--tr-->
+			<!--td align="right"><input name="s" type="submit" value="Поиск" /></td-->
+		<!--/tr-->
+
+	</tbody></table>
+</form>
+</div> <!-- /search -->
+
+   <!-- courses -->
+      <!-- /courses -->
+   </td>  
+
+
+   <td><!-- content -->
+   
+   <div id="content">
+
+   <!-- цепочка навигации -->   
+   <!-- /цепочка навигации -->
+
+ 
+
+
+   <!-- info -->
+    
+		<div class="boxtabs">
+			<table>
+				<tbody>
+					<tr>
+						<td class="act" id="tab_0">
+								<div class="lft"><div class="rgt"><div><a href="/?button=1">РАСЧЕТ РАЗМЕРА СОБСТВЕННЫХ СРЕДСТВ</a></div></div></div> <!-- onclick="return change_tabs(0);" -->
+						</td>
+						<td class="act" id="tab_3"><div class="lst"><div style="width: 9px; height: 1px;"><!-- --></div></div></td>
+						<td class="pas" id="tab_0">
+							<div class="lft"><div class="rgt"><div><a href="/?button=2">РАСКРЫТИЕ ИНФОРМАЦИИ</a></div></div></div>
+						</td>
+						<td class="pas" id="tab_3"><div class="lst"><div style="width: 9px; height: 1px;"><!-- --></div></div></td>
+					</tr>
+				</tbody>
+			</table>
+		</div>
+
+		<div class="boxmain">
+			<table>
+				<tbody>
+					<tr>
+						<td class="boxmaintopleft"><div style="width: 7px; height: 1px;"><!-- --></div></td>
+
+						<td class="boxmaintop"><!-- <br _moz_editor_bogus_node="on"> --></td>
+						
+						<td class="boxmaintopright"><div style="width: 7px; height: 1px;"><!-- --></div></td>	
+					</tr>
+					<tr>
+						<td class="boxmainleft"><br _moz_editor_bogus_node="on"></td>
+						
+						<td class="boxmaincontent">
+							<div id="tm_0">
+								<div class="accordion" id="accordion_0">
+
+		
+															
+														</div>
+													<h4 class="atStart_0">&nbsp;14.06.2023</h4>
+														<div class="atStart_0">
+															<div class="iconka_pdf">
+																<a href="/upload/iblock/4fa/RSS_2023.05.31.pdf" title="Размер собственных средств ООО &quot;УК Аверс-Капитал&quot; на 31.05.2023, дата раскрытия 14.06.2023">Размер собственных средств ООО "УК Аверс-Капитал" на 31.05.2023(pdf, 951.43 Кб)</a>
+															</div>
+															<br>
+														</div>
+													<h4 class="atStart_0">&nbsp;19.05.2023</h4>
+														<div class="atStart_0">
+															<div class="iconka_pdf">
+																<a href="/upload/iblock/73c/RSS_2023.04.30.pdf" title="Размер собственных средств ООО &quot;УК Аверс-Капитал&quot; на 30.04.2023, дата раскрытия 19.05.2023">Размер собственных средств ООО "УК Аверс-Капитал" на 30.04.2023(pdf, 945.37 Кб)</a>
+															</div>
+															<br>
+														</div>
+													<h4 class="atStart_0">&nbsp;17.04.2023</h4>
+														<div class="atStart_0">
+															<div class="iconka_pdf">
+																<a href="/upload/iblock/614/RSS_2023.03.31.pdf" title="Размер собственных средств ООО &quot;УК Аверс-Капитал&quot; на 31.03.2023, дата раскрытия 17.04.2023">Размер собственных средств ООО "УК Аверс-Капитал" на 31.03.2023(pdf, 843.58 Кб)</a>
+															</div>
+															<br>
+														</div>
+													<h4 class="atStart_0">&nbsp;16.03.2023</h4>
+														<div class="atStart_0">
+															<div class="iconka_pdf">
+																<a href="/upload/iblock/04c/RSS_2023.02.28.pdf" title="Размер собственных средств ООО &quot;УК Аверс-Капитал&quot; на 28.02.2023, дата раскрытия 16.03.2023">Размер собственных средств ООО "УК Аверс-Капитал" на 28.02.2023(pdf, 834.29 Кб)</a>
+															</div>
+											<div class="atStart_0">
+												<div style="padding-left: 30px;">
+													<br>
+													<a href="/content/?IBLOCK_ID=1&amp;SECTION_ID=13&amp;button=1" title="Архив раскрытия информации">Архив раскрытия информации</a>
+												</div>
+									<div>								
+								</div>
+							</div>
+																									
+							<div style="display: none;" id="tm_1">
+								<div class="accordion" id="accordion_1">
+								</div>
+							</div>
+							<div style="display: none;" id="tm_2">
+								<div class="accordion" id="accordion_2">
+								</div>
+							</div>
+						</div></div></td>
+
+						<td class="boxmainright"><br _moz_editor_bogus_node="on"></td></tr>
+					<tr>
+						<td class="boxmainbottomleft"><br _moz_editor_bogus_node="on"></td>
+						
+						<td class="boxmainbottom"><br _moz_editor_bogus_node="on"></td>
+						
+						<td class="boxmainbottomright"><br _moz_editor_bogus_node="on"></td>
+					</tr>
+				</tbody>
+			</table>
+		</div><!-- /footer -->
+
+
+
+<div class="boxheader"><h1>Новости</h1></div><!-- -->
+<dl><!-- -->
+
+
+<div class="news-list">
+	<p class="news-item">
+							<!--span class="news-date-time">17.06.2022</span-->
+
+</p><dt>17.06.2022</dt> <!-- -->
+
+									<!--?echo $arItem["PREVIEW_TEXT"];?-->
+<dd><!-- -->
+<p><b>Сообщение о прекращении ЗПИФ недвижимости "Амонд-Перспектива"</b></p>
+<p>Общество с ограниченной ответственностью "Управляющая компания "Аверс-Капитал" сообщает о прекращении ЗПИФ недвижимости "Амонд-Перспектива".</p><!-- -->
+<div class="boxmore"><a href="/news/index.php?ID=721">подробнее</a></div><!-- -->
+</dd><!-- -->
+									<p></p>
+	<p class="news-item">
+							<!--span class="news-date-time">22.10.2021</span-->
+
+</p><dt>22.10.2021</dt> <!-- -->
+
+									<!--?echo $arItem["PREVIEW_TEXT"];?-->
+<dd><!-- -->
+<p>На основании Указа Президента Российской Федерации № 595 от 20.10.2021 «Об установлении на территории Российской Федерации нерабочих дней в октябре – ноябре 2021 г.» и Постановления Губернатора Самарской области № 256 от 21.10.2021 «О режиме нерабочих дней на территории Самарской области в период с 25 октября по 7 ноября 2021 года», с учетом специфики деятельности общества руководство приняло решение о рабочих днях в период с 25.10.2021 по 29.10.2021 и с 01.11.2021 по 03.11.2021.</p><!-- -->
+<div class="boxmore"><a href="/news/index.php?ID=708">подробнее</a></div><!-- -->
+</dd><!-- -->
+									<p></p>
+	<p class="news-item">
+							<!--span class="news-date-time">01.10.2021</span-->
+
+</p><dt>01.10.2021</dt> <!-- -->
+
+									<!--?echo $arItem["PREVIEW_TEXT"];?-->
+<dd><!-- -->
+<p><b>Сообщение о прекращении ЗПИФ недвижимости "АМОНД-СТРОЙ"</b></p>
+<p>Общество с ограниченной ответственностью "Управляющая компания "Аверс-Капитал" сообщает о прекращении ЗПИФ недвижимости "АМОНД-СТРОЙ".</p><!-- -->
+<div class="boxmore"><a href="/news/index.php?ID=706">подробнее</a></div><!-- -->
+</dd><!-- -->
+									<p></p>
+	<p class="news-item">
+							<!--span class="news-date-time">29.04.2021</span-->
+
+</p><dt>29.04.2021</dt> <!-- -->
+
+									<!--?echo $arItem["PREVIEW_TEXT"];?-->
+<dd><!-- -->
+<p>
+	На основании Указа Президента РФ от 23.04.2021 N 242 "Об установлении на территории Российской Федерации нерабочих дней в мае 2021 г.", а также пресс-релиза Банка России от 27.04.2021 «О работе финансового сектора в период с 4 по 7 мая 2021 года», с учетом специфики деятельности компании, руководство приняло решение о рабочих днях в период с 04.05.2021 по 07.05.2021.
+</p><!-- -->
+<div class="boxmore"><a href="/news/index.php?ID=698">подробнее</a></div><!-- -->
+</dd><!-- -->
+									<p></p>
+	<p class="news-item">
+							<!--span class="news-date-time">21.04.2020</span-->
+
+</p><dt>21.04.2020</dt> <!-- -->
+
+									<!--?echo $arItem["PREVIEW_TEXT"];?-->
+<dd><!-- -->
+<p><b>О раскрытии информации</b></p>
+<p>
+	Общество с ограниченной ответственностью «Управляющая компания «Аверс-Капитал» раскрывает информацию о режиме работы в условиях распространения коронавирусной инфекции (COVID-19).
+</p><!-- -->
+<div class="boxmore"><a href="/news/index.php?ID=663">подробнее</a></div><!-- -->
+</dd><!-- -->
+									<p></p>
+</div>
+
+<br><!-- -->
+<a href="/news/list.php">Aрхив новостей</a><!-- -->
+</dl><!-- -->
+</div><!-- -->
+
+  
+
+   <!-- /content --></td>
+
+   <td id="right">
+
+	   <!--informers-->
+		   
+<div id="informers">
+
+<img src="http://pics.rbc.ru/img/grinf/indices/trsi_compind_spx_blue.gif?43594" width="230" height="112" alt=""><br>
+
+<div style="width: 1px; height: 24px;"><!-- --></div>
+
+<img src="http://pics.rbc.ru/img/grinf/market_map.gif?'+ Math.floor( 100000*Math.random() ) + '" width="238" height="166" alt=""><br>
+
+</div><!-- /informers-->
+
+   </td>
+
+   </tr></tbody></table></div><!-- /main -->
+
+   <!-- footer -->
+   
+<div id="footerfx"><!--  --></div>
+
+<div id="footer">
+
+<table>
+<tbody><tr>
+<td id="copyright">
+
+<div id="address">443099, Россия, г. Самара, ул. Степана Разина, 94 А</div>
+Стоимость инвестиционных паев может увеличиваться и уменьшаться, результаты инвестирования в прошлом не определяют доходы в будущем, государство не гарантирует доходность инвестиций в паевые инвестиционные фонды. Прежде чем приобрести инвестиционный пай, следует внимательно ознакомиться с правилами доверительного управления паевым инвестиционным  фондом.
+
+</td>
+<td>&nbsp;</td>
+<td id="webrover">
+
+<table>
+<tbody><tr>
+<td><a href="http://webrover.ru"><img src="/bitrix/templates/avers/img/webrover.png" width="39" height="34" alt="Разработка сайта — WebRover IBS" style="margin-right: 8px;"></a></td>
+<td style="padding-top: 2px;">
+
+<div class="webrover" style="width: 70px;"><a href="http://webrover.ru">WebRover IBS</a></div>
+<div class="webrover">Разработка сайта, 2007</div>
+
+</td>
+</tr>
+</tbody></table>
+
+</td>
+</tr>
+</tbody></table>
+
+</div><!-- /footer -->
+
+

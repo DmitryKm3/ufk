@@ -3,7 +3,7 @@ from django.contrib.auth.decorators import login_required
 from django.http import HttpResponse
 from .models import UK, MonitoringLog, PUCB, PIF
 from django.db.models import Q
-from django.views.decorators.csrf import csrf_protect
+
 from datetime import datetime, timezone
 import pytz
 localtime = pytz.timezone("Asia/Krasnoyarsk")
@@ -34,17 +34,3 @@ def monitoring_view(request):
                                 'monerrors' : monerrors, 'pifs' : pifs })
     else:
         return render(request, 'front_page.html', {'pifs': pifs})
-
-
-@csrf_protect
-def report_generation(request):
-    if request.method == 'POST':
-        # Получение данных из формы
-        date = request.POST.get('date')
-        parameters = request.POST.get('parameters')
-
-        # Выполнение требуемых действий с данными
-        # Например, вы можете вызвать ваш скрипт или выполнить какую-то другую логику здесь
-
-        # Возвращение ответа
-        return HttpResponse('Действие выполнено успешно!')

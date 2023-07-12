@@ -1,0 +1,1088 @@
+
+		<div id="page">
+	
+			
+			<!--  block 20, chunk 73 -->
+	<style>
+	:root { 
+		--menu-line: 4px;
+		--menu-height: 40px;
+	}
+	.menu { 
+		position: fixed;
+		z-index: 1;
+		top: 0; left: -301px;
+		padding: var(--menu-height) 0 70px;
+		width: 300px; height: 100vh;
+		transition: left .2s;
+		overflow-y: auto;
+		background-color: var(--color-bgr);
+		color: var(--color-txt);
+	}
+	.menu.active { 
+		left: 0;
+	}
+	
+	.menu__outer { 
+		display: block;
+		border-top: 1px solid rgba(var(--rgb-txt),.1);
+	}
+	.menu__inner { 
+		display: none;
+		width: 100%;
+	}
+	
+	
+	.menu__outer a { 
+		position: relative;
+		display: block;
+		line-height: 1.2;
+	}
+	.b20__menuLvl1>a svg { 
+		display: none;
+	}
+	.b20__menuLvl1>a { 
+		padding: 10px 17px;
+		border-bottom: 1px solid rgba(var(--rgb-txt),.1);
+	}
+	.b20__menuLvl2>a { 
+		padding: 10px 10px 10px 30px;
+		border-bottom: 1px solid rgba(var(--rgb-txt),.1);
+	}
+	
+
+	.menu__outer a:hover { 
+		background-color: rgba(var(--rgb-txt),.05);
+	}
+
+	.menu .active>a:before { 
+		content: '';
+		position: absolute;
+		top: 0; left: 0;
+		height: 100%;
+		width: var(--menu-line);
+		background-color: var(--color-2);
+	}
+	
+
+	.menu__parent { 
+		display: flex; flex-wrap: wrap;
+	}
+	.menu__parent>a { 
+		flex-grow: 2;
+	}
+	.menu__expander { 
+		display: flex;
+		align-items: center; justify-content: center;
+		min-width: 50px;
+		border-bottom: 1px solid rgba(var(--rgb-txt),.1);
+		border-left: 1px solid rgba(var(--rgb-txt),.1);
+		cursor: pointer;
+	}
+	.menu__expander svg { 
+		width: 16px; height: 16px;
+		transition: transform .2s;
+	}
+	.menu__expander.--active svg { 
+		transform: rotate(180deg);
+	}
+	
+	
+	.menu__contacts { 
+		display: block;
+		padding: 0 17px 17px;
+	}
+	.menu__contacts_soc { 
+		margin-top: 12px;
+		margin-left: -6px;
+		display: flex;
+	}
+	
+	.menu__contacts_mails,
+	.menu__contacts_addrs { 
+		margin-top: 15px;
+	}
+	
+	
+	
+	@media screen and (min-width: 992px) { 
+		.hamburger,
+		.menu__expander { 
+			display: none !important;
+		}
+		
+		.menu__contacts { 
+			display: none;
+		}
+		
+		.menu { 
+			position: static;
+			width: 100%; height: auto;
+			padding: 0;
+			background-color: rgba(var(--color-bgr),0);
+			border: none;
+			overflow: visible;
+		}
+		
+		.header__row .menu { 
+		    height: calc(100% - var(--header-padding) * -2);
+		    margin-top: calc(var(--header-padding) * -1);
+		    margin-bottom: calc(var(--header-padding) * -1);
+		}
+		
+		.menu__outer { 
+			display: flex;
+			justify-content: space-between;
+			border: none;
+		}
+		.menu__inner { 
+			display: block !important;
+			position: absolute;
+			padding: 10px 0;
+			width: 300px;
+			margin-right: -150px;
+			top: 100%; right: 50%;
+			border-radius: var(--radius);
+			background-color: var(--color-bgr);
+			box-shadow: 0 5px 20px rgba(0,0,0,.2);
+			transform: scaleY(0);
+			transition: all .2s;
+			transform-origin: top;
+			opacity: 0;
+			text-align: left;
+		}
+		.b20__menuLvl1:hover .menu__inner { 
+			transform: scaleY(1);
+			opacity: 1;
+		}
+		
+		
+		.b20__menuLvl1 { 
+			position: relative;
+			text-align: center;
+		}
+		.b20__menuLvl1>a { 
+			position: relative;
+			z-index: 100;
+			display: inline-flex;
+			height: var(--menu-height);
+			padding: 0 17px;
+			align-items: center; justify-content: center;
+			border: none;
+		}
+
+		.b20__menuLvl1.active>a:before, .b20__menuLvl1>a:before { 
+			content: '';
+			position: absolute;
+			top: auto; bottom: 0;
+			right: 15px; left: 15px;
+			height: var(--menu-line);
+			width: calc(100% - 30px);
+			transition: all .2s;
+			transform: scaleX(0);
+		}
+
+		.b20__menuLvl1.active>a::before { 
+			transform: scaleX(1);
+		}
+		.b20__menuLvl1>a::before { 
+			background-color: var(--color-1);
+		}
+		
+		.b20__menuLvl1>a:hover { 
+			color: var(--color-1);
+			background-color: rgba(var(--color-bgr),0);;
+		}
+		.b20__menuLvl1:hover>a::before { 
+			transform: scaleX(1);
+		}
+
+
+
+		
+		.b20__menuLvl2>a { 
+			padding: 10px 20px;
+		}
+	
+		.menu__parent>a svg { 
+			display: block;
+			margin: 0 -4px 0 9px;
+			width: 10px; height: 10px;
+		}
+		.b20__menuLvl1.menu__parent>a::before { 
+			right: 33px;
+		}
+
+		
+
+	}
+	
+
+</style>
+<style>
+	
+
+	@media screen and (min-width: 992px) { 
+		
+		
+						:root { 
+					--menu-height: 60px;
+				}
+				.topnav { 
+					box-shadow: 0 10px 20px rgba(0,0,0, 0.1);
+				}
+				.topnav .b20__menuLvl1 { 
+					margin: 0 10px;
+				}
+				.topnav .b20__menuLvl1 > a { 
+					font-size: 1.125rem;
+				}
+				.topnav .menu__outer { 
+					justify-content: center;
+				}
+
+			
+					
+		
+		
+	}
+	
+	
+	@media screen and (max-width: 991px) { 
+		.topnav { 
+			width: auto;
+			position: fixed;
+			border-bottom-right-radius: var(--radius);
+		}
+		.topnav__burger { 
+			height: var(--menu-height);
+			padding: 0 15px;
+			display: flex; align-items: center;
+			
+		}
+		.topnav .menu { 
+			z-index: -1;
+		}
+		
+	}
+</style>
+
+
+
+
+<div data-onscroll="1" id="b54" class="topnav block  bgr-texture">
+
+	<div class="topnav__burger hamburger drp-btn drp-body-block" data-drp=".topnav .menu">
+		<div class="hamburger__inner">
+			<i></i><i></i><i></i>
+		</div>
+	</div>
+	
+	<div class="container">
+		<nav class="menu b20__menuWrapper drp-content">
+	
+		
+	<ul class="b20__menu menu__outer"><li class="first b20__menuLvl1 active"><a href="otchetnost-uk">Отчетность УК</a></li><li class="b20__menuLvl1"><a href="raskrytie-informacii">Раскрытие информации</a></li><li class="b20__menuLvl1 b20__menuParent menu__parent expander">
+				<a href="paevye-investicionnye-fondy">
+					Паевые инвестиционные фонды					<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 448 512"><path d="M207.029 381.476L12.686 187.132c-9.373-9.373-9.373-24.569 0-33.941l22.667-22.667c9.357-9.357 24.522-9.375 33.901-.04L224 284.505l154.745-154.021c9.379-9.335 24.544-9.317 33.901.04l22.667 22.667c9.373 9.373 9.373 24.569 0 33.941L240.971 381.476c-9.373 9.372-24.569 9.372-33.942 0z"></path></svg>				</a>
+				<span class="b20__menuExpander menu__expander expander__button"><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 448 512"><path d="M207.029 381.476L12.686 187.132c-9.373-9.373-9.373-24.569 0-33.941l22.667-22.667c9.357-9.357 24.522-9.375 33.901-.04L224 284.505l154.745-154.021c9.379-9.335 24.544-9.317 33.901.04l22.667 22.667c9.373 9.373 9.373 24.569 0 33.941L240.971 381.476c-9.373 9.372-24.569 9.372-33.942 0z"></path></svg></span>
+				<ul class="b20__menuInner menu__inner expander__hidden"><li class="first b20__menuLvl2"><a href="zpif-kombinirovannyj-dvizhenie">ЗПИФ комбинированный "Движение"</a></li><li class="b20__menuLvl2"><a href="zpif-kombinirovannyj-zhilishhnyj-kapital">ЗПИФ комбинированный "Жилищный капитал"</a></li><li class="b20__menuLvl2"><a href="zpif-kombinirovannyj-investstroj">ЗПИФ комбинированный "ИнвестСтрой"</a></li><li class="b20__menuLvl2"><a href="zpif-kombinirovannyj-omega">ЗПИФ комбинированный "Омега"</a></li><li class="last b20__menuLvl2"><a href="zpif-kombinirovannyj-rielti">ЗПИФ комбинированный "РИЭЛТИ"</a></li></ul>			</li><li class="b20__menuLvl1"><a href="kontakti">Контакты</a></li><li class="last b20__menuLvl1"><a href="novosti">Новости</a></li></ul></nav>	</div>
+
+</div>
+
+<style>
+    #b20 .b20__telsCol>svg { 
+        transform: rotate(90deg);
+    }#b20 .b20__row { 
+		line-height: 1;
+	}
+	#b20 .b20__telsCol, #b20 .b20__writeCol { 
+		padding-left: 65px;
+		font-weight: var(--bold);
+	}#b20 .b20__tel, #b20 .b20__mail { 
+		margin-bottom: 9px;
+
+	}#b20 .b20__tel:last-child, #b20 .b20__mail:last-child { 
+		margin-bottom: 0;
+
+	}
+	#b20 .b20__telsCol>svg, #b20 .b20__writeCol>svg { 
+		position: absolute;
+		top: 0; left: 38px;
+		min-width: 16px; height: 16px;
+		fill: var(--color-1);
+	}#b20 .b20__row .link { 
+		
+	}#b20 .b20__row .link:hover { 
+		color: var(--color-2);
+	}
+	#b20 .b20__soc { 
+		display: flex;
+		margin-left: -6px;
+		margin-top: 12px;
+		margin-bottom: -6px;
+	}#b20 .b20__socLink { 
+		color: rgba(var(--rgb-txt),.6);;
+	}#b20 .b20__socLink svg { 
+		font-size: 20px;
+	}#b20 .b20__socLink:hover { 
+		color: var(--color-2);
+	}
+	#b20 .b20__right { 
+		text-align: right;
+	}
+	
+	
+	@media screen and (max-width: 1199px) { 
+#b20 .b20__row { 
+			align-items: flex-start;
+		}
+#b20 .b20__logoCol { 
+			margin-bottom: 20px;
+			text-align: center;
+		}
+#b20 .b20__telsCol>svg, #b20 .b20__writeCol>svg { 
+			display: none;
+		}
+#b20 .b20__telsCol, #b20 .b20__writeCol { 
+			padding-left: 15px;
+			font-size: .875em;
+		}
+#b20 .b20__writeCol { 
+			margin-top: -0.2em;
+			text-align: center;
+		}
+#b20 .b20__soc { 
+			
+			margin-left: 0;
+			justify-content: center;
+		}
+	}
+	@media screen and (max-width: 767px) { 
+#b20 .b20__right { 
+			text-align: center;
+			padding-top: 20px;
+		}
+#b20 .b20__writeCol { 
+			padding-left: 0;
+			text-align: right;
+		}
+#b20 .b20__soc { 
+			margin-right: -5px;
+			justify-content: flex-end;
+		}
+	}
+	@media screen and (max-width: 350px) { 
+#b20 .b20__mail { 
+			
+		}
+	}
+
+</style>
+
+
+<header id="b20" class="block header over over-hero overmenu over-nav bgr-texture">
+	<div class="container">
+	<div class="row b20__row header__row">
+		
+		<div class="b20__logoCol col-xl-4">
+			
+<a title="Главная страница" href="/" class="logo">
+	<img src="/assets/web/_cache/thumbs/assets/mgr/images/img/42ef9caf939c6bff53e09b420a3e509a_500x0_86c.png" alt="">
+</a>		</div>
+		
+		<div class="b20__telsCol col-6 col-md-4 col-xl-3">
+			<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512"><path d="M493.4 24.6l-104-24c-11.3-2.6-22.9 3.3-27.5 13.9l-48 112c-4.2 9.8-1.4 21.3 6.9 28l60.6 49.6c-36 76.7-98.9 140.5-177.2 177.2l-49.6-60.6c-6.8-8.3-18.2-11.1-28-6.9l-112 48C3.9 366.5-2 378.1.6 389.4l24 104C27.1 504.2 36.7 512 48 512c256.1 0 464-207.5 464-464 0-11.2-7.7-20.9-18.6-23.4z"></path></svg>														<div class="b20__tel tel">
+					<a href="tel:+78435265039">+ 7 (843) 526-50-39</a>
+				</div>
+									
+						
+		</div>
+
+		<div class="b20__writeCol col-6 col-md-4 col-xl-3">
+			<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512"><path d="M464 64H48C21.49 64 0 85.49 0 112v288c0 26.51 21.49 48 48 48h416c26.51 0 48-21.49 48-48V112c0-26.51-21.49-48-48-48zm0 48v40.805c-22.422 18.259-58.168 46.651-134.587 106.49-16.841 13.247-50.201 45.072-73.413 44.701-23.208.375-56.579-31.459-73.413-44.701C106.18 199.465 70.425 171.067 48 152.805V112h416zM48 400V214.398c22.914 18.251 55.409 43.862 104.938 82.646 21.857 17.205 60.134 55.186 103.062 54.955 42.717.231 80.509-37.199 103.053-54.947 49.528-38.783 82.032-64.401 104.947-82.653V400H48z"></path></svg>			
+			<div class="b20__mails">
+															<div class="b20__mail mail">
+					<a class="link-nocolor b20__mailLink" target="_blank" href="mailto:info@ukmcapital.ru">info@ukmcapital.ru</a>
+				</div>
+									</div>
+			<div class="b20__soc">
+												</div>
+		</div>
+
+
+		<div class="b20__right col-md-4 col-xl-3">
+			
+				</div>
+
+		
+				
+	</div>
+	</div>
+	
+
+</header>
+
+
+
+
+			
+			<script>
+				window.onscroll = function() { 
+					var cl = document.body.classList;
+					window.scrollY > 10
+						? !cl.contains('is-scrolled') && cl.add('is-scrolled')
+						: cl.contains('is-scrolled') && cl.remove('is-scrolled')
+				}
+			
+				/*определяем высоту шапки*/
+				function getHeaderHeight() { 
+					var header = document.querySelector('.header'),
+						nav = document.querySelector('.topnav'),
+						hdrH = header ? header.scrollHeight : 0,
+						navH = nav ? nav.scrollHeight : 0
+					document.documentElement.style.setProperty('--hw-height', hdrH + navH  + 'px');
+				}
+				
+				var headerLogoImg = document.querySelector('.header .logo img')
+				if (headerLogoImg) headerLogoImg.onload = getHeaderHeight;
+				window.onresize = getHeaderHeight;
+				getHeaderHeight();
+			</script>
+					
+		
+			
+						    <!--  block 62, chunk 30 -->
+	<style>
+	.pagetop { 
+		padding-top: 25px;
+		padding-bottom: 30px;
+		background-color: transparent;
+	}
+	.pagetop__crumbs { 
+		margin-bottom: 30px;
+		line-height: 1.3;
+	}
+	.pagetop__crumbs li { 
+		display: inline-block;
+		font-size: 0.875em;
+	}
+	.pagetop__crumbs a { 
+		color: var(--color-1);
+		border-bottom: 1px solid rgba(var(--rgb-1),.4);
+	}
+	.pagetop__crumbs a:hover { 
+		border-color: currentColor;
+	}
+	.pagetop__crumbs .sep { 
+		opacity: .4;
+		margin-right: 5px;
+		margin-left: 5px;
+	}
+	.pagetop__title { 
+		margin: 0;
+	}
+	@media screen and (min-width: 992px) { 
+		.pagetop__title { 
+			hyphens: none;
+		}
+	}
+</style>
+
+
+<div id="b62" class="block pagetop">
+	<div class="container">
+		
+		<div class="pagetop__crumbs">
+			<ol class="breadcrumb"><li class="breadcrumb-item"><a href="/">Главная</a></li><li class="sep">/</li><li class="breadcrumb-item active">Отчетность УК</li></ol>		</div>
+		
+		<h1 class="font2">
+			<div class="pagetop__title title title--5">
+				<span>Отчетность УК</span>
+			</div>
+		</h1>
+		
+	</div>
+</div>						
+			
+			
+				<div class="content">
+					
+					<div class="tinymce">
+																								</div>
+
+					
+										
+					
+										    <style>
+    .document-item { 
+        padding-bottom: 10px;
+    }
+    .document-link { 
+        color: #7ca4cc;
+        text-decoration: underline;
+    }
+    .document-link:hover { 
+        color: #f26d00;
+        text-decoration: none;
+    }
+    .publish { 
+        font-size: 10px;
+    }
+</style>
+
+
+
+<div class="container">
+        <div class="document-item">
+                                                    <a data-fancybox="" class="document-link" href="/assets/mgr/images/raschet-sobstvennyh-sredstv-ooo-uk-megapolis-kapital-na-30092020/rss_2023/rss310523.pdf">Расчет собственных средств ООО "УК "Мегаполис Капитал" на 31.05.2023</a><span class="publish"> (размещено 09 июн 2023                , доступно до 09 июн 2026)</span>
+                <div class="bottom-text"></div>
+                        
+        </div>
+<div class="document-item">
+                                                    <a data-fancybox="" class="document-link" href="/assets/mgr/images/raschet-sobstvennyh-sredstv-ooo-uk-megapolis-kapital-na-30092020/rss_2023/rss300423.pdf">Расчет собственных средств ООО "УК "Мегаполис Капитал" на 30.04.2023</a><span class="publish"> (размещено 16 мая 2023                , доступно до 16 мая 2026)</span>
+                <div class="bottom-text"></div>
+                        
+        </div>
+<div class="document-item">
+                                                    <a data-fancybox="" class="document-link" href="/assets/mgr/images/raschet-sobstvennyh-sredstv-ooo-uk-megapolis-kapital-na-30092020/rss_2023/rss310323.pdf">Расчет собственных средств ООО "УК "Мегаполис Капитал" на 31.03.2023</a><span class="publish"> (размещено 11 апр 2023                , доступно до 11 апр 2026)</span>
+                <div class="bottom-text"></div>
+                        
+        </div>
+<div class="document-item">
+                                                    <a data-fancybox="" class="document-link" href="/assets/mgr/images/532-p/azuk2022.pdf">Аудиторское заключение за 2022 г.</a><span class="publish"> (размещено 24 мар 2023                , доступно до 24 мар 2026)</span>
+                <div class="bottom-text"></div>
+                        
+        </div>
+<div class="document-item">
+                                                    <a download="" class="document-link" href="/assets/mgr/images/532-p/532-p2022.xlsx">Годовая бухгалтерская (финансовая) отчетность за 2022 г.</a><span class="publish"> (размещено 24 мар 2023                , доступно до 24 мар 2026)</span>
+                <div class="bottom-text"></div>
+                        
+        </div>
+<div class="document-item">
+                                                    <a data-fancybox="" class="document-link" href="/assets/mgr/images/raschet-sobstvennyh-sredstv-ooo-uk-megapolis-kapital-na-30092020/rss_2023/rss280223.pdf">Расчет собственных средств ООО "УК "Мегаполис Капитал" на 28.02.2023</a><span class="publish"> (размещено 10 мар 2023                , доступно до 10 мар 2026)</span>
+                <div class="bottom-text"></div>
+                        
+        </div>
+<div class="document-item">
+                                                    <a data-fancybox="" class="document-link" href="/assets/mgr/images/raschet-sobstvennyh-sredstv-ooo-uk-megapolis-kapital-na-30092020/rss_2023/rss310123.pdf">Расчет собственных средств ООО "УК "Мегаполис Капитал" на 31.01.2023</a><span class="publish"> (размещено 06 фев 2023                , доступно до 06 фев 2026)</span>
+                <div class="bottom-text"></div>
+                        
+        </div>
+<div class="document-item">
+                                                    <a data-fancybox="" class="document-link" href="/assets/mgr/images/raschet-sobstvennyh-sredstv-ooo-uk-megapolis-kapital-na-30092020/rss311222.pdf">Расчет собственных средств ООО "УК "Мегаполис Капитал" на 31.12.2022</a><span class="publish"> (размещено 19 янв 2023                , доступно до 19 янв 2026)</span>
+                <div class="bottom-text"></div>
+                        
+        </div>
+<div class="document-item">
+                                                    <a data-fancybox="" class="document-link" href="/assets/mgr/images/raschet-sobstvennyh-sredstv-ooo-uk-megapolis-kapital-na-30092020/rss301121.pdf">Расчет собственных средств ООО "УК "Мегаполис Капитал" на 30.11.2021</a><span class="publish"> (размещено 14 дек 2021                , доступно до 14 дек 2024)</span>
+                <div class="bottom-text"></div>
+                        
+        </div>
+<div class="document-item">
+                                                    <a download="" class="document-link" href="/assets/mgr/images/532-p/532-p3kv2021.xlsx">Промежуточная бухгалтерская (финансовая) отчетность за 9 мес. 2021 г.</a><span class="publish"> (размещено 22 ноя 2021                , доступно до 22 ноя 2024)</span>
+                <div class="bottom-text"></div>
+                        
+        </div>
+<div class="document-item">
+                                                    <a data-fancybox="" class="document-link" href="/assets/mgr/images/raschet-sobstvennyh-sredstv-ooo-uk-megapolis-kapital-na-30092020/rss311021.pdf">Расчет собственных средств ООО "УК "Мегаполис Капитал" на 31.10.2021</a><span class="publish"> (размещено 15 ноя 2021                , доступно до 16 ноя 2024)</span>
+                <div class="bottom-text"></div>
+                        
+        </div>
+<div class="document-item">
+                                                    <a data-fancybox="" class="document-link" href="/assets/mgr/images/raschet-sobstvennyh-sredstv-ooo-uk-megapolis-kapital-na-30092020/rss300921.pdf">Расчет собственных средств ООО "УК "Мегаполис Капитал" на 30.09.2021</a><span class="publish"> (размещено 14 окт 2021                , доступно до 15 окт 2024)</span>
+                <div class="bottom-text"></div>
+                        
+        </div>
+<div class="document-item">
+                                                    <a data-fancybox="" class="document-link" href="/assets/mgr/images/raschet-sobstvennyh-sredstv-ooo-uk-megapolis-kapital-na-30092020/rss310821.pdf">Расчет собственных средств ООО "УК "Мегаполис Капитал" на 31.08.2021</a><span class="publish"> (размещено 10 сен 2021                , доступно до 11 сен 2024)</span>
+                <div class="bottom-text"></div>
+                        
+        </div>
+<div class="document-item">
+                                                    <a data-fancybox="" class="document-link" href="/assets/mgr/images/raschet-sobstvennyh-sredstv-ooo-uk-megapolis-kapital-na-30092020/rss310721.pdf">Расчет собственных средств ООО "УК "Мегаполис Капитал" на 31.07.2021</a><span class="publish"> (размещено 11 авг 2021                , доступно до 12 авг 2024)</span>
+                <div class="bottom-text"></div>
+                        
+        </div>
+<div class="document-item">
+                                                    <a data-fancybox="" class="document-link" href="/assets/mgr/images/raschet-sobstvennyh-sredstv-ooo-uk-megapolis-kapital-na-30092020/rss300621.pdf">Расчет собственных средств ООО "УК "Мегаполис Капитал" на 30.06.2021</a><span class="publish"> (размещено 14 июл 2021                , доступно до 15 июл 2024)</span>
+                <div class="bottom-text"></div>
+                        
+        </div>
+<div class="document-item">
+                                                    <a data-fancybox="" class="document-link" href="/assets/mgr/images/raschet-sobstvennyh-sredstv-ooo-uk-megapolis-kapital-na-30092020/rss310521.pdf">Расчет собственных средств ООО "УК "Мегаполис Капитал" на 31.05.2021</a><span class="publish"> (размещено 11 июн 2021                , доступно до 12 июн 2024)</span>
+                <div class="bottom-text"></div>
+                        
+        </div>
+<div class="document-item">
+                                                    <a data-fancybox="" class="document-link" href="/assets/mgr/images/raschet-sobstvennyh-sredstv-ooo-uk-megapolis-kapital-na-30092020/rss300421.pdf">Расчет собственных средств ООО "УК "Мегаполис Капитал" на 30.04.2021</a><span class="publish"> (размещено 18 мая 2021                , доступно до 19 мая 2024)</span>
+                <div class="bottom-text"></div>
+                        
+        </div>
+<div class="document-item">
+                                                    <a data-fancybox="" class="document-link" href="/assets/mgr/images/raschet-sobstvennyh-sredstv-ooo-uk-megapolis-kapital-na-30092020/rss310321.pdf">Расчет собственных средств ООО "УК "Мегаполис Капитал" на 31.03.2021</a><span class="publish"> (размещено 12 апр 2021                , доступно до 13 апр 2024)</span>
+                <div class="bottom-text"></div>
+                        
+        </div>
+<div class="document-item">
+                                                    <a data-fancybox="" class="document-link" href="/assets/mgr/images/raschet-sobstvennyh-sredstv-ooo-uk-megapolis-kapital-na-30092020/rss280221.pdf">Расчет собственных средств ООО "УК "Мегаполис Капитал" на 28.02.2021</a><span class="publish"> (размещено 11 мар 2021                , доступно до 12 мар 2024)</span>
+                <div class="bottom-text"></div>
+                        
+        </div>
+<div class="document-item">
+                                                    <a data-fancybox="" class="document-link" href="/assets/mgr/images/raschet-sobstvennyh-sredstv-ooo-uk-megapolis-kapital-na-30092020/rss310121.pdf">Расчет собственных средств ООО "УК "Мегаполис Капитал" на 31.01.2021</a><span class="publish"> (размещено 12 фев 2021                , доступно до 13 фев 2024)</span>
+                <div class="bottom-text"></div>
+                        
+        </div>
+<div class="document-item">
+                                                    <a data-fancybox="" class="document-link" href="/assets/mgr/images/raschet-sobstvennyh-sredstv-ooo-uk-megapolis-kapital-na-30092020/rss311220.pdf">Расчет собственных средств ООО "УК "Мегаполис Капитал" на 31.12.2020</a><span class="publish"> (размещено 20 янв 2021                , доступно до 20 янв 2024)</span>
+                <div class="bottom-text"></div>
+                        
+        </div>
+<div class="document-item">
+                                                    <a data-fancybox="" class="document-link" href="/assets/mgr/images/raschet-sobstvennyh-sredstv-ooo-uk-megapolis-kapital-na-30092020/rss301120.jpg">Расчет собственных средств ООО "УК "Мегаполис Капитал" на 30.11.2020</a><span class="publish"> (размещено 14 дек 2020                , доступно до 14 дек 2023)</span>
+                <div class="bottom-text"></div>
+                        
+        </div>
+<div class="document-item">
+                                                    <a data-fancybox="" class="document-link" href="/assets/mgr/images/demo/2020-11-30-rss311020.jpg">Расчет собственных средств ООО "УК "Мегаполис Капитал" на 31.10.2020</a><span class="publish"> (размещено 10 ноя 2020                , доступно до 10 ноя 2023)</span>
+                <div class="bottom-text"></div>
+                        
+        </div>
+<div class="document-item">
+                                                    <a data-fancybox="" class="document-link" href="/assets/mgr/images/raschet-sobstvennyh-sredstv-ooo-uk-megapolis-kapital-na-30092020/2020-11-30-rss300920.jpg">Расчет собственных средств ООО "УК "Мегаполис Капитал" на 30.09.2020</a><span class="publish"> (размещено 12 окт 2020                , доступно до 12 окт 2023)</span>
+                <div class="bottom-text"></div>
+                        
+        </div></div>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+										
+					
+					
+				</div><!-- content -->
+				
+				
+					
+				
+				
+
+
+
+<div class=" bgr-auto" id="cont" style="">
+	</div>				
+			
+			
+			
+			<!--  block 31, chunk 46 -->
+	<style>
+	.footer { 
+		padding-top: 50px;
+		padding-bottom: 50px;
+		border-top: 1px solid rgba(var(--rgb-txt),.2);
+		line-height: 1.4;
+		font-size: var(--font-size, .875em);
+	}
+
+	.footer__logoCol img { 
+		margin-bottom: 15px;
+	}
+	
+	.footer__contact:not(:last-child) { 
+		margin-bottom: 15px;
+	}
+	.footer__tels { 
+		font-size: 1rem;
+		font-weight: var(--bold);
+	}
+	
+	.footer .b31__developer { 
+		display: block;
+	}
+	.footer .b31__developer svg { 
+		margin-top: 5px;
+		display: block;
+		width: 120px; height: auto;
+		opacity: .75;
+	}
+	.footer .b31__developer:hover { 
+		opacity: .85;
+	}
+	
+	
+	@media screen and (max-width: 767px) { 
+		.footer__logoCol { 
+			margin-bottom: 30px;
+		}
+	}
+</style>
+
+
+<footer id="b31" class="block footer">
+	<div class="container">
+	<div class="row">
+		
+		
+		<div class="footer__logoCol col-md-6 col-xl-8">
+			
+<a title="Главная страница" href="/" class="logo">
+	<img src="/assets/web/_cache/thumbs/assets/mgr/images/img/logo_255x0_358.png" alt="">
+</a>					<div class="b31__copyright">ООО «УК «Мегаполис Капитал», 2020</div>
+
+
+
+
+		</div>
+		
+		<div class="footer__contactsCol col-md-6 col-xl-4">
+			<div class="footer__contact footer__tels">
+															<div class="b31__tel tel">
+					<a href="tel:+78435265039">+ 7 (843) 526-50-39</a>
+				</div>
+									</div>
+			<div class="footer__contact footer__addrs">
+											<div class="b31__addr">Республика Татарстан, город Казань, улица Петербургская, дом 64, помещение 1042 кабинет 39</div>
+					</div>
+			<div class="footer__contact footer__mails">
+															<div class="b31__mail mail">
+					<a class="link-nocolor b31__mailLink" target="_blank" href="mailto:info@ukmcapital.ru">info@ukmcapital.ru</a>
+				</div>
+									</div>
+			
+			<div class="footer__contact">
+									<a class="b31__developer" target="_blank" title="" href="https://effect-16.ru/">
+				<span>Создание сайта:</span>
+				<svg fill-rule="evenodd" height="58" preserveAspectRatio="xMidYMid" stroke-linejoin="round" stroke-width="28.222" viewBox="0 0 6006.0416 1534.5834" width="227" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink"><clipPath id="svg_41480__effect"><path d="m5083.75 14886.12h6005.8882v1604.4443h-6005.8882z"></path></clipPath><g clip-path="url(#svg_41480__effect)" transform="translate(-5099 -14955.981)"><path d="m10627 16464h307v937h-307z" fill="none"></path><path d="m9955 16521h751v472h-751z" fill="none"></path><path d="m10154 14981h814v599h-814z" fill="none"></path><path d="m10154 15579c218-143 424-544 811-397 3 1 10-100-56-149-324-241-613 430-755 546z"></path><path d="m10627 15529h307v937h-307z" fill="none"></path><path d="m10681 15529c16 260 265 636-54 901-2 2 82 58 158 24 372-162-72-745-104-925z"></path><path d="m9629 15499h853v510h-853z" fill="none"></path><path d="m10480 16007c-233-119-683-99-748-508 0-2-91 40-101 122-49 402 678 320 849 386z"></path><path d="m10335 15582h218v218h-218z" fill="none"></path><path d="m10442 15582h2c19 0 36 5 54 15 17 10 29 22 39 39 10 18 15 35 15 54 0 20-5 37-15 55-10 17-22 29-39 39-18 10-35 15-54 15-20 0-37-5-55-15-17-10-29-22-39-39-10-18-15-35-15-55 0-19 5-36 15-54 10-17 22-29 39-39s34-15 53-15z"></path><path d="m9761 15128h744v581h-744z" fill="none"></path><path d="m10503 15128c-77 65-125 127-159 155-136 112-381 336-583 205-1-2 0 109 62 164 279 247 559-401 680-524z" fill="#fff"></path><path d="m9761 15148h722v546h-722z" fill="none"></path><path d="m10481 15148c-206 143-332 385-624 361-32-3-67-2-96-21-1-2 0 91 62 146 273 241 511-329 658-486z"></path><path d="m10645 15172h320v861h-320z" fill="none"></path><path d="m10892 16031c-17-99-46-172-52-217-27-174-94-499 123-605 2-1-94-55-175-31-355 114 60 686 104 853z" fill="#fff"></path><path d="m10657 15180h307v823h-307z" fill="none"></path><path d="m10886 16001c-18-251-162-482 10-721 19-25 36-56 67-71 3-1-79-46-158-22-347 111 22 607 81 814z"></path><path d="m9927 15927h793v484h-793z" fill="none"></path><path d="m9927 15928c93 36 171 49 212 65 163 67 477 175 458 416-1 3 96-52 115-134 84-364-619-300-785-347z" fill="#fff"></path><path d="m9955 15938h751v472h-751z" fill="none"></path><path d="m9955 15938c225 112 497 107 615 375 13 29 30 60 27 95 0 2 81-44 100-125 81-354-533-291-742-345z"></path><path d="m5121 15692h4253v693h-4253z" fill="none"></path><path d="m5744 16384v-168h-343c-15 0-33 1-44-9-5-4-10-12-10-26v-75h384v-151h-384v-52c0-9 0-25 11-34 8-7 22-10 36-10h347v-167h-505c-25 0-59 3-85 27s-30 52-30 79v475c0 33 0 60 32 87 27 22 56 24 85 24zm317 0v-273h307v-157h-307v-48c0-15 3-29 11-37 9-9 22-10 32-10h377v-167h-523c-26 0-63 1-92 29-27 26-32 58-32 87v576zm720 0v-273h306v-157h-306v-48c0-15 3-29 11-37 9-9 22-10 32-10h376v-167h-523c-25 0-62 1-91 29-27 26-32 58-32 87v576zm1115 0v-168h-344c-14 0-32 1-43-9-5-4-10-12-10-26v-75h384v-151h-384v-52c0-9 0-25 11-34 8-7 22-10 35-10h348v-167h-505c-25 0-59 3-85 27-27 24-31 52-31 79v475c0 33 0 60 33 87 27 22 56 24 85 24zm686 0v-172h-195c-75 0-141 0-171-54-6-12-17-38-17-115 0-34 3-91 23-125 31-56 86-55 161-55h188v-171h-298c-79 0-182 8-246 89-50 63-61 150-61 266 0 132 22 201 64 252 57 70 131 85 240 85zm540 0v-521h251v-171h-729v171h251v521z"></path><path d="m5120 15115h3488v357h-3488z" fill="none"></path><path d="m5307 15330c-1 3-4 9-6 9-1 0-4-2-7-11l-58-210h-115l86 280c18 59 41 72 86 72 53 0 70-23 81-60l45-152c1-2 3-8 5-8 3 0 4 6 5 8l45 152c11 37 28 60 81 60 46 0 69-13 87-72l86-280h-116l-58 210c-3 9-5 11-7 11s-5-6-5-9l-53-178c-11-36-45-37-65-37-19 0-54 1-65 37zm744 136v-84h-173c-7 0-16 0-22-5-2-2-5-6-5-13v-37h193v-76h-193v-27c0-4 0-12 6-17 4-3 11-4 17-4h175v-85h-253c-13 0-30 2-43 14s-15 27-15 40v238c0 17 0 30 16 44 13 11 28 12 43 12zm35-55c0 13 5 28 13 38 16 18 37 17 52 17h184c31 0 57 0 79-25 22-22 21-50 21-72s0-44-19-62c-9-8-23-17-41-18v-2c14-1 25-7 35-18 16-17 17-35 17-54 0-22-2-54-22-74-20-21-51-23-76-23h-191c-15 0-31 8-40 18-7 8-12 22-12 38zm114-160v-28c0-5-1-10 4-15 5-3 9-3 15-3h65c7 0 18 0 25 6 3 4 6 9 6 15 0 5-1 12-4 16-6 9-17 9-27 9zm0 77h88c10 0 22 0 29 10 3 4 5 9 5 14 0 7-3 17-7 21-2 2-8 7-30 7h-60c-6 0-17 0-21-5-3-3-4-9-4-21zm266 44h214v-78h-214zm657 94v-86h-47v-262h-113v262h-101c-4 0-18 0-24-6-5-6-4-19-4-27v-229h-114v284c0 16 2 36 18 51 16 14 33 13 51 13zm333 0v-84h-172c-7 0-16 0-22-5-2-2-5-6-5-13v-37h192v-76h-192v-27c0-4 0-12 6-17 4-3 11-4 17-4h174v-85h-253c-12 0-29 2-42 14s-15 27-15 40v238c0 17 0 30 16 44 13 11 28 12 42 12zm391-348h-115v123h-128v-123h-113v348h113v-138h128v138h115zm259 348v-261h126v-87h-365v87h125v261zm259 0v-100h149c19 0 45-5 61-19 30-25 32-86 32-110 0-50-9-77-26-94-20-21-46-25-74-25h-194c-25 0-40 10-47 18-12 14-14 33-14 48v282zm0-187v-54c0-8 2-20 20-20h63c13 0 26 0 35 7 10 8 11 19 11 28 0 14-4 24-10 30-9 10-23 9-37 9z"></path><g fill="none"><path d="m5121 16382h4253v694h-4253z"></path><path d="m5099 16817h6002v262h-6002z"></path><path d="m5099 16564h6002v262h-6002z"></path><path d="m5102 16566h5997v257h-5997z"></path><path d="m5104 16569h5992v252h-5992z"></path></g></g></svg>			</a>
+			
+
+
+
+			</div>
+		</div>
+		
+		
+	</div>
+	</div>
+</footer>			
+		</div><!-- #page -->
+			
+		<div title="Наверх" class="scrollTop" data-onscroll="300"><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 448 512"><path d="M240.971 130.524l194.343 194.343c9.373 9.373 9.373 24.569 0 33.941l-22.667 22.667c-9.357 9.357-24.522 9.375-33.901.04L224 227.495 69.255 381.516c-9.379 9.335-24.544 9.317-33.901-.04l-22.667-22.667c-9.373-9.373-9.373-24.569 0-33.941L207.03 130.525c9.372-9.373 24.568-9.373 33.941-.001z"></path></svg></div>
+
+
+
+	<div class="popup" id="popup-127" style="display: none">
+	    <!-- form 127 -->
+		<div class="ajaxchunk " id="ajaxchunk_form127"><div class="font2">
+    	<div class="title title--md">
+    		<span>Заказать звонок</span>
+    	</div>
+	</div>
+
+
+
+
+
+
+
+<form action="" class="form js__form
+		has-fields-2	" data-grecaptcha-action="actionform127">
+	
+	<input type="hidden" name="ya_target" value="zvonok">
+	<input type="hidden" name="send_form127" value="1">
+	<input type="text" name="country" value="">
+	
+		
+	<div class="form__fields">
+			<div class="form__field">
+		<div class="form__fieldset">
+											<input required="" name="fullname" type="text" class="input" placeholder="Ваше имя *" value="">
+						</div>
+		</div><!-- col -->
+			<div class="form__field">
+		<div class="form__fieldset">
+											<input required="" name="tel" type="tel" class="input" placeholder="Ваш телефон *" value="">
+						</div>
+		</div><!-- col -->
+		</div><!-- row -->
+	
+	<div class="form__bottom">
+		
+												
+		<button class="button form__button    ">
+			<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512"><path d="M476 3.2L12.5 270.6c-18.1 10.4-15.8 35.6 2.2 43.2L121 358.4l287.3-253.2c5.5-4.9 13.3 2.6 8.6 8.3L176 407v80.5c0 23.6 28.5 32.9 42.5 15.8L282 426l124.6 52.2c14.2 6 30.4-2.9 33-18.2l72-432C515 7.8 493.3-6.8 476 3.2z"></path></svg>			<span>Заказать звонок</span>
+		</button>
+			<div class="form__privacy">
+			Отправляя данные через форму, вы соглашаетесь с			<a class="link-nocolor" data-src="#popup-privacy" data-fancybox="" href="politika-po-zashhite-personalnyh-dannyh-polzovatelej" target="_blank">Политикой обработки персональных данных</a>
+		</div>
+	</div>
+	
+	
+			
+</form></div>	</div>
+	<div class="popup" id="popup-134" style="display: none">
+	    <!-- form 134 -->
+		<div class="ajaxchunk " id="ajaxchunk_form134"><div class="font2">
+    	<div class="title title--md">
+    		<span>Написать нам</span>
+    	</div>
+	</div>
+
+
+
+
+
+
+
+<form action="" class="form js__form
+		has-fields-4	has-textarea" data-grecaptcha-action="actionform134">
+	
+	<input type="hidden" name="ya_target" value="napisat">
+	<input type="hidden" name="send_form134" value="1">
+	<input type="text" name="country" value="">
+	
+		
+	<div class="form__fields">
+			<div class="form__field">
+		<div class="form__fieldset">
+											<input required="" name="fullname" type="text" class="input" placeholder="Ваше имя *" value="">
+						</div>
+		</div><!-- col -->
+			<div class="form__field">
+		<div class="form__fieldset">
+											<input name="tel" type="tel" class="input" placeholder="Ваш телефон" value="">
+						</div>
+		</div><!-- col -->
+			<div class="form__field">
+		<div class="form__fieldset">
+											<input required="" name="email" type="email" class="input" placeholder="Ваш email *" value="">
+						</div>
+		</div><!-- col -->
+			<div class="form__field">
+		<div class="form__fieldset">
+											<textarea name="txt" class="input input--textarea" placeholder="Сообщение"></textarea>
+						</div>
+		</div><!-- col -->
+		</div><!-- row -->
+	
+	<div class="form__bottom">
+		
+												
+		<button class="button form__button    ">
+			<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512"><path d="M476 3.2L12.5 270.6c-18.1 10.4-15.8 35.6 2.2 43.2L121 358.4l287.3-253.2c5.5-4.9 13.3 2.6 8.6 8.3L176 407v80.5c0 23.6 28.5 32.9 42.5 15.8L282 426l124.6 52.2c14.2 6 30.4-2.9 33-18.2l72-432C515 7.8 493.3-6.8 476 3.2z"></path></svg>			<span>Отправить</span>
+		</button>
+			<div class="form__privacy">
+			Отправляя данные через форму, вы соглашаетесь с			<a class="link-nocolor" data-src="#popup-privacy" data-fancybox="" href="politika-po-zashhite-personalnyh-dannyh-polzovatelej" target="_blank">Политикой обработки персональных данных</a>
+		</div>
+	</div>
+	
+	
+			
+</form></div>	</div>
+	<div class="popup" id="popup-135" style="display: none">
+	    <!-- form 135 -->
+		<div class="ajaxchunk " id="ajaxchunk_form135"><div class="font2">
+    	<div class="title title--md">
+    		<span>Заказать товар</span>
+    	</div>
+	</div>
+
+
+
+
+
+
+
+<form action="" class="form js__form
+		has-fields-4	has-textarea" data-grecaptcha-action="actionform135">
+	
+	<input type="hidden" name="ya_target" value="zakaz">
+	<input type="hidden" name="send_form135" value="1">
+	<input type="text" name="country" value="">
+	
+		
+	<div class="form__fields">
+			<div class="form__field">
+		<div class="form__fieldset">
+											<input required="" name="fullname" type="text" class="input" placeholder="Ваше имя *" value="">
+						</div>
+		</div><!-- col -->
+			<div class="form__field">
+		<div class="form__fieldset">
+											<input required="" name="tel" type="tel" class="input" placeholder="Ваш телефон *" value="">
+						</div>
+		</div><!-- col -->
+			<div class="form__field">
+		<div class="form__fieldset">
+											<input required="" name="email" type="email" class="input" placeholder="Ваш email *" value="">
+						</div>
+		</div><!-- col -->
+			<div class="form__field">
+		<div class="form__fieldset">
+											<textarea name="txt" class="input input--textarea" placeholder="Комментарий"></textarea>
+						</div>
+		</div><!-- col -->
+		</div><!-- row -->
+	
+	<div class="form__bottom">
+		
+												
+		<button class="button form__button    ">
+			<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512"><path d="M476 3.2L12.5 270.6c-18.1 10.4-15.8 35.6 2.2 43.2L121 358.4l287.3-253.2c5.5-4.9 13.3 2.6 8.6 8.3L176 407v80.5c0 23.6 28.5 32.9 42.5 15.8L282 426l124.6 52.2c14.2 6 30.4-2.9 33-18.2l72-432C515 7.8 493.3-6.8 476 3.2z"></path></svg>			<span>Отправить</span>
+		</button>
+			<div class="form__privacy">
+			Отправляя данные через форму, вы соглашаетесь с			<a class="link-nocolor" data-src="#popup-privacy" data-fancybox="" href="politika-po-zashhite-personalnyh-dannyh-polzovatelej" target="_blank">Политикой обработки персональных данных</a>
+		</div>
+	</div>
+	
+	
+			
+</form></div>	</div>
+	<div class="popup" id="popup-137" style="display: none">
+	    <!-- form 137 -->
+		<div class="ajaxchunk " id="ajaxchunk_form137"><div class="font2">
+    	<div class="title title--md">
+    		<span>Заявка на консультацию</span>
+    	</div>
+	</div>
+
+
+
+
+
+
+
+<form action="" class="form js__form
+		has-fields-4	has-textarea" data-grecaptcha-action="actionform137">
+	
+	<input type="hidden" name="ya_target" value="zayavka">
+	<input type="hidden" name="send_form137" value="1">
+	<input type="text" name="country" value="">
+	
+		
+	<div class="form__fields">
+			<div class="form__field">
+		<div class="form__fieldset">
+											<input required="" name="fullname" type="text" class="input" placeholder="Ваше имя *" value="">
+						</div>
+		</div><!-- col -->
+			<div class="form__field">
+		<div class="form__fieldset">
+											<input name="tel" type="tel" class="input" placeholder="Ваш телефон" value="">
+						</div>
+		</div><!-- col -->
+			<div class="form__field">
+		<div class="form__fieldset">
+											<input required="" name="email" type="email" class="input" placeholder="Ваш email *" value="">
+						</div>
+		</div><!-- col -->
+			<div class="form__field">
+		<div class="form__fieldset">
+											<textarea name="txt" class="input input--textarea" placeholder="Сообщение"></textarea>
+						</div>
+		</div><!-- col -->
+		</div><!-- row -->
+	
+	<div class="form__bottom">
+		
+												
+		<button class="button form__button    ">
+			<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512"><path d="M476 3.2L12.5 270.6c-18.1 10.4-15.8 35.6 2.2 43.2L121 358.4l287.3-253.2c5.5-4.9 13.3 2.6 8.6 8.3L176 407v80.5c0 23.6 28.5 32.9 42.5 15.8L282 426l124.6 52.2c14.2 6 30.4-2.9 33-18.2l72-432C515 7.8 493.3-6.8 476 3.2z"></path></svg>			<span>Отправить</span>
+		</button>
+			<div class="form__privacy">
+			Отправляя данные через форму, вы соглашаетесь с			<a class="link-nocolor" data-src="#popup-privacy" data-fancybox="" href="politika-po-zashhite-personalnyh-dannyh-polzovatelej" target="_blank">Политикой обработки персональных данных</a>
+		</div>
+	</div>
+	
+	
+			
+</form></div>	</div>
+
+<div class="popup popup--big popup--loadable" id="popup-landing" style="display: none">
+	<div class="ajaxchunk " id="ajaxchunk_landing"></div></div>
+
+<div class="popup popup--big" id="popup-privacy" style="display: none">
+	<div class="font2">
+		<div class="title title--md">Политика по защите персональных данных пользователей</div>
+	</div>
+	<div class="tinymce"><p>1. Предоставляя свои персональные данные при регистрации на сайте, Пользователь даёт Оператору своё согласие на обработку и использование своих персональных данных согласно ФЗ № 152-ФЗ «О персональных данных» от 27.07.2006 г. различными способами в целях, указанных в настоящих Правилах.</p>
+<p>2. Под персональными данными понимается любая информация, относящаяся к&nbsp;прямо или косвенно определенному или определяемому физическому лицу (субъекту персональных данных) и&nbsp;которая может быть использована для идентификации определенного лица либо связи с&nbsp;ним.</p>
+<p>3. Персональные данные Пользователей хранятся исключительно на&nbsp;электронных носителях и&nbsp;обрабатываются с&nbsp;использованием автоматизированных систем</p>
+<p>4. Оператор использует персональные данные Пользователя в целях:<br>- регистрации Пользователя на Сайте;<br>- получения Пользователем запрашиваемой информации об услугах Оператора;<br>- получения Пользователем персонализированной рекламы;<br>- для выполнения своих обязательств перед Пользователем.</p>
+<p>5. Оператор обязуется не разглашать полученную от Пользователя информацию. При этом не считается нарушением обязательств разглашение информации в случае, когда обязанность такого раскрытия установлена требованиями действующего законодательства РФ.</p>
+<p>6. Обработка персональных данных Пользователя осуществляется без ограничения срока, любым законным способом, в&nbsp;том числе в&nbsp;информационных системах персональных данных с&nbsp;использованием средств автоматизации или без использования таких средств</p>
+<p>7. Оператор осуществляет блокирование персональных данных, относящихся к&nbsp;соответствующему Пользователю, с&nbsp;момента обращения или запроса Пользователя или его законного представителя либо уполномоченного органа по&nbsp;защите прав субъектов персональных данных на&nbsp;период проверки, в&nbsp;случае выявления недостоверных персональных данных или неправомерных действий.</p>
+<p>8. Персональные данные пользователя уничтожаются при:</p>
+<p>- самостоятельном удалении Пользователем данных со&nbsp;своей персональной страницы с&nbsp;использованием функциональной возможности «удалить аккаунт», доступной Пользователю при помощи настроек профиля;<br>- удалении Оператором информации, размещаемой Пользователем, а&nbsp;также персональной страницы Пользователя в&nbsp;случаях, установленных договором купли продажи (оферта);<br>- при отзыве субъектом персональных данных согласия на&nbsp;обработку персональных данных.</p></div>
+</div>
+
+
+
+
+
+
+
+		
+		
+		            				
+	<script type="text/javascript" src="/assets/web/_cache/min/web/scripts_76117da348.min.js"></script>
+<script type="text/javascript">
+    ajaxchunk.storage["form127"] = {};
+    ajaxchunk.storage["form127"]["config"] = {"mode":"static","resource":"233"};
+    ajaxchunk.storage["form127"]["data"] = {"resource":233};
+    ajaxchunk.storage["form127"]["_data"] = {"resource":233};
+</script>
+<script type="text/javascript">
+    ajaxchunk.storage["form134"] = {};
+    ajaxchunk.storage["form134"]["config"] = {"mode":"static","resource":"233"};
+    ajaxchunk.storage["form134"]["data"] = {"resource":233};
+    ajaxchunk.storage["form134"]["_data"] = {"resource":233};
+</script>
+<script type="text/javascript">
+    ajaxchunk.storage["form135"] = {};
+    ajaxchunk.storage["form135"]["config"] = {"mode":"static","resource":"233"};
+    ajaxchunk.storage["form135"]["data"] = {"resource":233};
+    ajaxchunk.storage["form135"]["_data"] = {"resource":233};
+</script>
+<script type="text/javascript">
+    ajaxchunk.storage["form137"] = {};
+    ajaxchunk.storage["form137"]["config"] = {"mode":"static","resource":"233"};
+    ajaxchunk.storage["form137"]["data"] = {"resource":233};
+    ajaxchunk.storage["form137"]["_data"] = {"resource":233};
+</script>
+<script type="text/javascript">
+    ajaxchunk.storage["landing"] = {};
+    ajaxchunk.storage["landing"]["config"] = {"mode":"oncall","resource":"233"};
+    ajaxchunk.storage["landing"]["data"] = {"resource":233};
+    ajaxchunk.storage["landing"]["_data"] = {"resource":233};
+</script>
+

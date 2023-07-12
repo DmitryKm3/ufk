@@ -16,11 +16,9 @@ Including another URLconf
 from django.contrib import admin
 from django.urls import path
 from django.conf.urls import include
+
 from monitoring import views
 from selfcare import views as selfcare
-from django.conf.urls.static import static
-from django.conf import settings
-from monitoring.views import report_generation
 
 urlpatterns = [
     path('', views.monitoring_view, name='index'),
@@ -30,9 +28,4 @@ urlpatterns = [
     path('greetings/', selfcare.mart),
     path('ui/', selfcare.ui),
     path(r'selfcare/<int:pk>', selfcare.device_view, name='device'),
-    path('report_generation', views.report_generation, name='report_generation'),
-
 ]
-
-if settings.DEBUG:
-    urlpatterns += static(settings.STATIC_URL, document_root=settings.STATIC_ROOT)

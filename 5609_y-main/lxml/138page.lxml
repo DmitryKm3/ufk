@@ -1,0 +1,621 @@
+
+
+<!--  preloader start -->
+
+<!-- preloader end -->
+
+<div id="app" class="wrapper">
+
+    <!--top bar-->
+    <div class="top-bar gray-bg- visible-md visible-lg">
+        <div class="container">
+            <div class="row">
+                <div class="col-md-5">
+                    <div class="top-social-link">
+                        <!--logo start-->
+                        <a href="/" class="logo-brand">
+                            <img src="http://ukprofinvest.ru/storage/settings/January2022/fMXCvSQPoh1Yt0ACBcyQ.jpg" alt="Massive">
+                        </a>
+                        <!--logo end-->
+                    </div>
+                </div>
+                <div class="col-md-7">
+                    <ul class="top-link">
+                        <li><i class="fa fa-clock-o"></i> Пн - Пт 10:00 - 18:00</li>
+                        <li><i class="fa fa-phone"></i> 8(495) 786-88-31</li>
+                        <li><i class="fa fa-envelope-o"></i> ukprofinvest@ukprofinvest.ru</li>
+                    </ul>
+                </div>
+            </div>
+        </div>
+    </div>
+    <!--top bar-->
+
+    <!--header start-->
+    <header class="l-header">
+
+        <div id="sticky-wrapper" class="l-navbar-wrapper" style="height: 61px;"><div class="l-navbar l-navbar_compact l-navbar_t-dark js-navbar-sticky">
+            <div class="container">
+                <nav class="menuzord js-primary-navigation menuzord-responsive" role="navigation" aria-label="Primary Navigation"><a href="javascript:void(0)" class="showhide"><em></em><em></em><em></em></a>
+
+                    <!--mega menu start-->
+<ul class="menuzord-menu c-nav_s-underline c-nav_s-standard menuzord-indented scrollable" style="max-height: 400px;">
+
+                    <li class=""><a href="/">Главная</a></li>
+
+                    <li class=""><a href="/disclosure">Раскрытие информации по Управляющей компании</a></li>
+
+                    <li class=""><a href="/funds">Раскрытие информации по фондам</a></li>
+
+                    <li class=""><a href="/contacts">Контакты</a></li>
+
+    
+<li class="scrollable-fix"></li></ul>
+<!--mega menu end-->
+
+
+                </nav>
+            </div>
+        </div></div>
+
+    </header>
+    <!--header end-->
+
+    <section class="body-content ">
+        
+    <div class="page-content" style="padding: 50px 0;">
+        <div class="container">
+            <div class="row">
+
+                <div class="col-md-4">
+
+                    <!--category widget-->
+                    <div class="widget">
+                        <div class="heading-title-alt text-left heading-border-bottom">
+                            <h4 class="text-capitalize">Категории</h4>
+                        </div>
+                        <ul class="widget-category">
+
+                    <li style="margin-bottom: 35px;"><a href="/disclosure/information_for_clients" class="">Информация для получателей финансовых услуг</a></li>
+
+                    <li style="margin-bottom: 35px;"><a href="/disclosure/calculation_funds" class="active">Расчет размера собственных средств</a></li>
+
+                    <li style="margin-bottom: 35px;"><a href="/disclosure/accounts" class="">Бухгалтерская (финансовая) отчетность</a></li>
+
+                    <li style="margin-bottom: 35px;"><a href="/disclosure/qualified_investors" class="">Для квалифицированных инвесторов</a></li>
+
+                    <li style="margin-bottom: 35px;"><a href="/disclosure/technical_e" class="">Информация о технических сбоях в информационных системах компании и о восстановлении их работоспособности</a></li>
+
+                    <li style="margin-bottom: 35px;"><a href="/disclosure/shareholders" class="">Информация о структуре и составе участников&nbsp;некредитной финансовой организации (НФО)</a></li>
+
+                    <li style="margin-bottom: 35px;"><a href="/disclosure/working_conditions" class="">Результаты проведения специальной оценки условий труда</a></li>
+
+                    <li style="margin-bottom: 35px;"><a href="/disclosure/insider_information" class="">Инсайдерская информация</a></li>
+
+                    <li style="margin-bottom: 35px;"><a href="/disclosure/officials" class="">Руководство</a></li>
+
+                    <li style="margin-bottom: 35px;"><a href="/disclosure/help" class="">Помощь</a></li>
+
+                    <li style="margin-bottom: 35px;"><a href="/disclosure/personal" class="">Политика в отношении обработки персональных данных</a></li>
+
+                    <li style="margin-bottom: 35px;"><a href="http://ukprofinvest.ru/funds" class="">Раскрытие информации по фондам можно найти здесь</a></li>
+
+    
+</ul>
+
+
+                    </div>
+                    <!--category widget-->
+
+                </div>
+                <div class="col-md-8">
+
+                    <div class="heading-title-alt text-left ">
+                        <h4 class="text-uppercase ">Расчет размера собственных средств</h4>
+                                                    <p class="half-txt p-top-30" style="width: 100%;">Информация, подлежащая раскрытию управляющей компанией, в соответствии с законодательством Российской Федерации:</p>
+                                            </div>
+                    <table class="table table-striped" style="width:100%">
+                        <thead>
+                                                <tr>
+                            <th style="width: 45%;">Файл</th>
+                            <th style="width: 10%;"></th>
+                            <th style="width: 20%;">Дата публикации</th>
+                            <th style="width: 20%;">Доступно до</th>
+                        </tr>
+                                                </thead>
+                        <tbody>
+
+                        <tr>
+    <td><a href="http://ukprofinvest.ru/storage/table-files/June2023/Расчет размера собственных средств на 31.05.2023г.xlsx">Расчет размера собственных средств на 31.05.2023г.xlsx</a></td>
+    <td><a href="http://ukprofinvest.ru/storage/table-files/June2023/Расчет размера собственных средств на 31.05.2023г.xlsx">XLSX<br>
+            <span style="font-size: 12px;">18.52 KB</span>
+        </a>
+    </td>
+    <td>15.06.2023 в 14:18 </td>
+    <td>до 15.06.2026</td>
+</tr>
+<tr>
+    <td><a href="http://ukprofinvest.ru/storage/table-files/May2023/Расчет размера собственных средств на 30.04.2023г.xlsx">Расчет размера собственных средств на 30.04.2023г.xlsx</a></td>
+    <td><a href="http://ukprofinvest.ru/storage/table-files/May2023/Расчет размера собственных средств на 30.04.2023г.xlsx">XLSX<br>
+            <span style="font-size: 12px;">18.60 KB</span>
+        </a>
+    </td>
+    <td>15.05.2023 в 16:30 </td>
+    <td>до 15.05.2026</td>
+</tr>
+<tr>
+    <td><a href="http://ukprofinvest.ru/storage/table-files/April2023/Расчет размера собственных средств на 31.03.2023г.xlsx">Расчет размера собственных средств на 31.03.2023г.xlsx</a></td>
+    <td><a href="http://ukprofinvest.ru/storage/table-files/April2023/Расчет размера собственных средств на 31.03.2023г.xlsx">XLSX<br>
+            <span style="font-size: 12px;">22.49 KB</span>
+        </a>
+    </td>
+    <td>11.04.2023 в 13:26 </td>
+    <td>до 11.04.2026</td>
+</tr>
+<tr>
+    <td><a href="http://ukprofinvest.ru/storage/table-files/March2023/Расчет размера собственных средств на 28.02.2023г.xlsx">Расчет размера собственных средств на 28.02.2023г.xlsx</a></td>
+    <td><a href="http://ukprofinvest.ru/storage/table-files/March2023/Расчет размера собственных средств на 28.02.2023г.xlsx">XLSX<br>
+            <span style="font-size: 12px;">22.92 KB</span>
+        </a>
+    </td>
+    <td>10.03.2023 в 13:11 </td>
+    <td>до 10.03.2026</td>
+</tr>
+<tr>
+    <td><a href="http://ukprofinvest.ru/storage/table-files/February2023/Расчет размера собственных средств на 31.01.2023г.xlsx">Расчет размера собственных средств на 31.01.2023г.xlsx</a></td>
+    <td><a href="http://ukprofinvest.ru/storage/table-files/February2023/Расчет размера собственных средств на 31.01.2023г.xlsx">XLSX<br>
+            <span style="font-size: 12px;">22.49 KB</span>
+        </a>
+    </td>
+    <td>13.02.2023 в 13:25 </td>
+    <td>до 13.02.2026</td>
+</tr>
+<tr>
+    <td><a href="http://ukprofinvest.ru/storage/table-files/January2023/Расчет размера собственных средств на 31.12.2022г.xlsx">Расчет размера собственных средств на 31.12.2022г.xlsx</a></td>
+    <td><a href="http://ukprofinvest.ru/storage/table-files/January2023/Расчет размера собственных средств на 31.12.2022г.xlsx">XLSX<br>
+            <span style="font-size: 12px;">22.92 KB</span>
+        </a>
+    </td>
+    <td>19.01.2023 в 13:52 </td>
+    <td>до 19.01.2026</td>
+</tr>
+<tr>
+    <td><a href="http://ukprofinvest.ru/storage/table-files/December2022/Расчет размера собственных средств на 30.11.2022г.xlsx">Расчет размера собственных средств на 30.11.2022г.xlsx</a></td>
+    <td><a href="http://ukprofinvest.ru/storage/table-files/December2022/Расчет размера собственных средств на 30.11.2022г.xlsx">XLSX<br>
+            <span style="font-size: 12px;">22.49 KB</span>
+        </a>
+    </td>
+    <td>12.12.2022 в 14:07 </td>
+    <td>до 12.12.2025</td>
+</tr>
+<tr>
+    <td><a href="http://ukprofinvest.ru/storage/table-files/November2022/Расчет размера собственных средств на 31.10.2022г.xlsx">Расчет размера собственных средств на 31.10.2022г.xlsx</a></td>
+    <td><a href="http://ukprofinvest.ru/storage/table-files/November2022/Расчет размера собственных средств на 31.10.2022г.xlsx">XLSX<br>
+            <span style="font-size: 12px;">22.49 KB</span>
+        </a>
+    </td>
+    <td>09.11.2022 в 12:43 </td>
+    <td>до 09.11.2025</td>
+</tr>
+<tr>
+    <td><a href="http://ukprofinvest.ru/storage/table-files/October2022/Расчет размера собственных средств на 30.09.2022г.xlsx">Расчет размера собственных средств на 30.09.2022г.xlsx</a></td>
+    <td><a href="http://ukprofinvest.ru/storage/table-files/October2022/Расчет размера собственных средств на 30.09.2022г.xlsx">XLSX<br>
+            <span style="font-size: 12px;">23.05 KB</span>
+        </a>
+    </td>
+    <td>11.10.2022 в 17:40 </td>
+    <td>до 11.10.2025</td>
+</tr>
+<tr>
+    <td><a href="http://ukprofinvest.ru/storage/table-files/September2022/Сообщение от 12.09.2022 о корректировке ранее размещенной информации.docx">Сообщение от 12.09.2022 о корректировке ранее размещенной информации.docx</a></td>
+    <td><a href="http://ukprofinvest.ru/storage/table-files/September2022/Сообщение от 12.09.2022 о корректировке ранее размещенной информации.docx">DOCX<br>
+            <span style="font-size: 12px;">23.27 KB</span>
+        </a>
+    </td>
+    <td>12.09.2022 в 17:52 </td>
+    <td>до 10.08.2025</td>
+</tr>
+<tr>
+    <td><a href="http://ukprofinvest.ru/storage/table-files/September2022/Расчет размера собственных средств на 31.07.2022г (корр).xlsx">Расчет размера собственных средств на 31.07.2022г (корр).xlsx</a></td>
+    <td><a href="http://ukprofinvest.ru/storage/table-files/September2022/Расчет размера собственных средств на 31.07.2022г (корр).xlsx">XLSX<br>
+            <span style="font-size: 12px;">22.87 KB</span>
+        </a>
+    </td>
+    <td>12.09.2022 в 17:48 </td>
+    <td><span style="font-size: 12px;">10.08.2025 (дата первой публикации 10.08.2022 в 14:16, обновлено 12.09.2022 в 17:48)<span></span></span></td>
+</tr>
+<tr>
+    <td><a href="http://ukprofinvest.ru/storage/table-files/September2022/Расчет размера собственных средств на 30.06.2022г (корр).xlsx">Расчет размера собственных средств на 30.06.2022г (корр).xlsx</a></td>
+    <td><a href="http://ukprofinvest.ru/storage/table-files/September2022/Расчет размера собственных средств на 30.06.2022г (корр).xlsx">XLSX<br>
+            <span style="font-size: 12px;">22.88 KB</span>
+        </a>
+    </td>
+    <td>12.09.2022 в 17:47 </td>
+    <td><span style="font-size: 12px;">12.07.2025 (дата первой публикации 12.07.2022 в 15:23, обновлено 12.09.2022 в 17:47)<span></span></span></td>
+</tr>
+<tr>
+    <td><a href="http://ukprofinvest.ru/storage/table-files/September2022/Расчет размера собственных средств на 31.05.2022г (корр).xlsx">Расчет размера собственных средств на 31.05.2022г (корр).xlsx</a></td>
+    <td><a href="http://ukprofinvest.ru/storage/table-files/September2022/Расчет размера собственных средств на 31.05.2022г (корр).xlsx">XLSX<br>
+            <span style="font-size: 12px;">22.87 KB</span>
+        </a>
+    </td>
+    <td>12.09.2022 в 17:46 </td>
+    <td><span style="font-size: 12px;">10.06.2025 (дата первой публикации 10.06.2022 в 12:21, обновлено 12.09.2022 в 17:46)<span></span></span></td>
+</tr>
+<tr>
+    <td><a href="http://ukprofinvest.ru/storage/table-files/September2022/Расчет размера собственных средств на 30.04.2022г (корр).xlsx">Расчет размера собственных средств на 30.04.2022г (корр).xlsx</a></td>
+    <td><a href="http://ukprofinvest.ru/storage/table-files/September2022/Расчет размера собственных средств на 30.04.2022г (корр).xlsx">XLSX<br>
+            <span style="font-size: 12px;">22.87 KB</span>
+        </a>
+    </td>
+    <td>12.09.2022 в 17:45 </td>
+    <td><span style="font-size: 12px;">17.05.2025 (дата первой публикации 17.05.2022 в 13:42, обновлено 12.09.2022 в 17:45)<span></span></span></td>
+</tr>
+<tr>
+    <td><a href="http://ukprofinvest.ru/storage/table-files/September2022/Расчет размера собственных средств на 31.08.2022г.xlsx">Расчет размера собственных средств на 31.08.2022г.xlsx</a></td>
+    <td><a href="http://ukprofinvest.ru/storage/table-files/September2022/Расчет размера собственных средств на 31.08.2022г.xlsx">XLSX<br>
+            <span style="font-size: 12px;">22.49 KB</span>
+        </a>
+    </td>
+    <td>08.09.2022 в 15:11 </td>
+    <td>до 08.09.2025</td>
+</tr>
+<tr>
+    <td><a href="http://ukprofinvest.ru/storage/table-files/August2022/Расчет размера собственных средств на 31.07.2022г.xlsx">Расчет размера собственных средств на 31.07.2022г.xlsx</a></td>
+    <td><a href="http://ukprofinvest.ru/storage/table-files/August2022/Расчет размера собственных средств на 31.07.2022г.xlsx">XLSX<br>
+            <span style="font-size: 12px;">64.69 KB</span>
+        </a>
+    </td>
+    <td>10.08.2022 в 14:16 </td>
+    <td>до 10.08.2025</td>
+</tr>
+<tr>
+    <td><a href="http://ukprofinvest.ru/storage/table-files/July2022/Расчет размера собственных средств на 30.06.2022г.xlsx">Расчет размера собственных средств на 30.06.2022г.xlsx</a></td>
+    <td><a href="http://ukprofinvest.ru/storage/table-files/July2022/Расчет размера собственных средств на 30.06.2022г.xlsx">XLSX<br>
+            <span style="font-size: 12px;">62.65 KB</span>
+        </a>
+    </td>
+    <td>12.07.2022 в 15:23 </td>
+    <td>до 12.07.2025</td>
+</tr>
+<tr>
+    <td><a href="http://ukprofinvest.ru/storage/table-files/June2022/Расчет размера собственных средств на 31.05.2022г.xlsx">Расчет размера собственных средств на 31.05.2022г.xlsx</a></td>
+    <td><a href="http://ukprofinvest.ru/storage/table-files/June2022/Расчет размера собственных средств на 31.05.2022г.xlsx">XLSX<br>
+            <span style="font-size: 12px;">22.49 KB</span>
+        </a>
+    </td>
+    <td>10.06.2022 в 12:21 </td>
+    <td>до 10.06.2025</td>
+</tr>
+<tr>
+    <td><a href="http://ukprofinvest.ru/storage/table-files/May2022/Расчет размера собственных средств на 30.04.2022г.xlsx">Расчет размера собственных средств на 30.04.2022г.xlsx</a></td>
+    <td><a href="http://ukprofinvest.ru/storage/table-files/May2022/Расчет размера собственных средств на 30.04.2022г.xlsx">XLSX<br>
+            <span style="font-size: 12px;">22.49 KB</span>
+        </a>
+    </td>
+    <td>17.05.2022 в 13:42 </td>
+    <td>до 17.05.2025</td>
+</tr>
+<tr>
+    <td><a href="http://ukprofinvest.ru/storage/table-files/April2022/Расчет размера собственных средств на 31.03.2022г.xlsx">Расчет размера собственных средств на 31.03.2022г.xlsx</a></td>
+    <td><a href="http://ukprofinvest.ru/storage/table-files/April2022/Расчет размера собственных средств на 31.03.2022г.xlsx">XLSX<br>
+            <span style="font-size: 12px;">22.50 KB</span>
+        </a>
+    </td>
+    <td>12.04.2022 в 13:19 </td>
+    <td>до 12.04.2025</td>
+</tr>
+<tr>
+    <td><a href="http://ukprofinvest.ru/storage/table-files/March2022/Расчет размера собственных средств на 28.02.2022г.xlsx">Расчет размера собственных средств на 28.02.2022г.xlsx</a></td>
+    <td><a href="http://ukprofinvest.ru/storage/table-files/March2022/Расчет размера собственных средств на 28.02.2022г.xlsx">XLSX<br>
+            <span style="font-size: 12px;">60.88 KB</span>
+        </a>
+    </td>
+    <td>14.03.2022 в 11:59 </td>
+    <td>до 14.03.2025</td>
+</tr>
+<tr>
+    <td><a href="http://ukprofinvest.ru/storage/table-files/February2022/Расчет размера собственных средств на 31.01.2022г.xlsx">Расчет размера собственных средств на 31.01.2022г.xlsx</a></td>
+    <td><a href="http://ukprofinvest.ru/storage/table-files/February2022/Расчет размера собственных средств на 31.01.2022г.xlsx">XLSX<br>
+            <span style="font-size: 12px;">62.33 KB</span>
+        </a>
+    </td>
+    <td>10.02.2022 в 14:14 </td>
+    <td>до 10.02.2025</td>
+</tr>
+<tr>
+    <td><a href="http://ukprofinvest.ru/storage/table-files/January2022/Расчет размера собственных средств на 31.12.2021г.xlsx">Расчет размера собственных средств на 31.12.2021г.xlsx</a></td>
+    <td><a href="http://ukprofinvest.ru/storage/table-files/January2022/Расчет размера собственных средств на 31.12.2021г.xlsx">XLSX<br>
+            <span style="font-size: 12px;">60.70 KB</span>
+        </a>
+    </td>
+    <td>21.01.2022 в 14:33 </td>
+    <td>до 21.01.2025</td>
+</tr>
+<tr>
+    <td><a href="http://ukprofinvest.ru/storage/table-files/December2021/Расчет размера собственных средств на 30.11.2021г.xlsx">Расчет размера собственных средств на 30.11.2021г.xlsx</a></td>
+    <td><a href="http://ukprofinvest.ru/storage/table-files/December2021/Расчет размера собственных средств на 30.11.2021г.xlsx">XLSX<br>
+            <span style="font-size: 12px;">28.36 KB</span>
+        </a>
+    </td>
+    <td>10.12.2021 в 15:39 </td>
+    <td>до 10.12.2024</td>
+</tr>
+<tr>
+    <td><a href="http://ukprofinvest.ru/storage/table-files/November2021/Расчет размера собственных средств на 31.10.2021г.xlsx">Расчет размера собственных средств на 31.10.2021г.xlsx</a></td>
+    <td><a href="http://ukprofinvest.ru/storage/table-files/November2021/Расчет размера собственных средств на 31.10.2021г.xlsx">XLSX<br>
+            <span style="font-size: 12px;">28.38 KB</span>
+        </a>
+    </td>
+    <td>15.11.2021 в 15:29 </td>
+    <td>до 15.11.2024</td>
+</tr>
+<tr>
+    <td><a href="http://ukprofinvest.ru/storage/table-files/October2021/Расчет размера собственных средств на 30.09.2021г.xlsx">Расчет размера собственных средств на 30.09.2021г.xlsx</a></td>
+    <td><a href="http://ukprofinvest.ru/storage/table-files/October2021/Расчет размера собственных средств на 30.09.2021г.xlsx">XLSX<br>
+            <span style="font-size: 12px;">70.50 KB</span>
+        </a>
+    </td>
+    <td>14.10.2021 в 13:44 </td>
+    <td>до 14.10.2024</td>
+</tr>
+<tr>
+    <td><a href="http://ukprofinvest.ru/storage/table-files/September2021/Расчет размера собственных средств на 31.08.2021г.xlsx">Расчет размера собственных средств на 31.08.2021г.xlsx</a></td>
+    <td><a href="http://ukprofinvest.ru/storage/table-files/September2021/Расчет размера собственных средств на 31.08.2021г.xlsx">XLSX<br>
+            <span style="font-size: 12px;">71.36 KB</span>
+        </a>
+    </td>
+    <td>13.09.2021 в 16:39 </td>
+    <td>до 13.09.2024</td>
+</tr>
+<tr>
+    <td><a href="http://ukprofinvest.ru/storage/table-files/August2021/Расчет размера собственных средств на 31.07.2021г.xlsx">Расчет размера собственных средств на 31.07.2021г.xlsx</a></td>
+    <td><a href="http://ukprofinvest.ru/storage/table-files/August2021/Расчет размера собственных средств на 31.07.2021г.xlsx">XLSX<br>
+            <span style="font-size: 12px;">71.38 KB</span>
+        </a>
+    </td>
+    <td>11.08.2021 в 17:27 </td>
+    <td>до 11.08.2024</td>
+</tr>
+<tr>
+    <td><a href="http://ukprofinvest.ru/storage/table-files/July2021/Расчет размера собственных средств на 30.06.2021г.xlsx">Расчет размера собственных средств на 30.06.2021г.xlsx</a></td>
+    <td><a href="http://ukprofinvest.ru/storage/table-files/July2021/Расчет размера собственных средств на 30.06.2021г.xlsx">XLSX<br>
+            <span style="font-size: 12px;">71.41 KB</span>
+        </a>
+    </td>
+    <td>15.07.2021 в 15:04 </td>
+    <td>до 15.07.2024</td>
+</tr>
+<tr>
+    <td><a href="http://ukprofinvest.ru/storage/table-files/June2021/Расчет размера собственных средств на 31.05.2021г.xlsx">Расчет размера собственных средств на 31.05.2021г.xlsx</a></td>
+    <td><a href="http://ukprofinvest.ru/storage/table-files/June2021/Расчет размера собственных средств на 31.05.2021г.xlsx">XLSX<br>
+            <span style="font-size: 12px;">71.85 KB</span>
+        </a>
+    </td>
+    <td>15.06.2021 в 11:06 </td>
+    <td>до 15.06.2024</td>
+</tr>
+<tr>
+    <td><a href="http://ukprofinvest.ru/storage/table-files/May2021/Расчет размера собственных средств на 30.04.2021г.xlsx">Расчет размера собственных средств на 30.04.2021г.xlsx</a></td>
+    <td><a href="http://ukprofinvest.ru/storage/table-files/May2021/Расчет размера собственных средств на 30.04.2021г.xlsx">XLSX<br>
+            <span style="font-size: 12px;">69.95 KB</span>
+        </a>
+    </td>
+    <td>14.05.2021 в 15:47 </td>
+    <td>до 14.05.2024</td>
+</tr>
+<tr>
+    <td><a href="http://ukprofinvest.ru/storage/table-files/April2021/Расчет размера собственных средств на 31.03.2021г.xlsx">Расчет размера собственных средств на 31.03.2021г.xlsx</a></td>
+    <td><a href="http://ukprofinvest.ru/storage/table-files/April2021/Расчет размера собственных средств на 31.03.2021г.xlsx">XLSX<br>
+            <span style="font-size: 12px;">70.47 KB</span>
+        </a>
+    </td>
+    <td>19.04.2021 в 13:28 </td>
+    <td>до 19.04.2024</td>
+</tr>
+<tr>
+    <td><a href="http://ukprofinvest.ru/storage/table-files/March2021/Расчет размера собственных средств на 28.02.2021г.xlsx">Расчет размера собственных средств на 28.02.2021г.xlsx</a></td>
+    <td><a href="http://ukprofinvest.ru/storage/table-files/March2021/Расчет размера собственных средств на 28.02.2021г.xlsx">XLSX<br>
+            <span style="font-size: 12px;">71.76 KB</span>
+        </a>
+    </td>
+    <td>16.03.2021 в 13:54 </td>
+    <td>до 16.03.2024</td>
+</tr>
+<tr>
+    <td><a href="http://ukprofinvest.ru/storage/table-files/February2021/Расчет размера собственных средств на 31.01.2021г.xlsx">Расчет размера собственных средств на 31.01.2021г.xlsx</a></td>
+    <td><a href="http://ukprofinvest.ru/storage/table-files/February2021/Расчет размера собственных средств на 31.01.2021г.xlsx">XLSX<br>
+            <span style="font-size: 12px;">72.53 KB</span>
+        </a>
+    </td>
+    <td>17.02.2021 в 15:28 </td>
+    <td>до 17.02.2024</td>
+</tr>
+<tr>
+    <td><a href="http://ukprofinvest.ru/storage/table-files/January2021/Расчет размера собственных средств на 31.12.2020г.xlsx">Расчет размера собственных средств на 31.12.2020г.xlsx</a></td>
+    <td><a href="http://ukprofinvest.ru/storage/table-files/January2021/Расчет размера собственных средств на 31.12.2020г.xlsx">XLSX<br>
+            <span style="font-size: 12px;">71.43 KB</span>
+        </a>
+    </td>
+    <td>25.01.2021 в 14:55 </td>
+    <td>до 25.01.2024</td>
+</tr>
+<tr>
+    <td><a href="http://ukprofinvest.ru/storage/table-files/December2020/Расчет размера собственных средств на 30.11.2020г.xlsx">Расчет размера собственных средств на 30.11.2020г.xlsx</a></td>
+    <td><a href="http://ukprofinvest.ru/storage/table-files/December2020/Расчет размера собственных средств на 30.11.2020г.xlsx">XLSX<br>
+            <span style="font-size: 12px;">71.74 KB</span>
+        </a>
+    </td>
+    <td>11.12.2020 в 18:17 </td>
+    <td>до 11.12.2023</td>
+</tr>
+<tr>
+    <td><a href="http://ukprofinvest.ru/storage/table-files/November2020/Расчет размера собственных средств на 31.10.2020г.xlsx">Расчет размера собственных средств на 31.10.2020г.xlsx</a></td>
+    <td><a href="http://ukprofinvest.ru/storage/table-files/November2020/Расчет размера собственных средств на 31.10.2020г.xlsx">XLSX<br>
+            <span style="font-size: 12px;">70.80 KB</span>
+        </a>
+    </td>
+    <td>12.11.2020 в 14:48 </td>
+    <td>до 12.11.2023</td>
+</tr>
+<tr>
+    <td><a href="http://ukprofinvest.ru/storage/table-files/October2020/Расчет размера собственных средств на 30.09.2020г.xlsx">Расчет размера собственных средств на 30.09.2020г.xlsx</a></td>
+    <td><a href="http://ukprofinvest.ru/storage/table-files/October2020/Расчет размера собственных средств на 30.09.2020г.xlsx">XLSX<br>
+            <span style="font-size: 12px;">69.98 KB</span>
+        </a>
+    </td>
+    <td>21.10.2020 в 15:11 </td>
+    <td>до 21.10.2023</td>
+</tr>
+<tr>
+    <td><a href="http://ukprofinvest.ru/storage/table-files/September2020/Расчет размера собственных средств на 31.08.2020г.xlsx">Расчет размера собственных средств на 31.08.2020г.xlsx</a></td>
+    <td><a href="http://ukprofinvest.ru/storage/table-files/September2020/Расчет размера собственных средств на 31.08.2020г.xlsx">XLSX<br>
+            <span style="font-size: 12px;">70.83 KB</span>
+        </a>
+    </td>
+    <td>11.09.2020 в 15:52 </td>
+    <td>до 11.09.2023</td>
+</tr>
+<tr>
+    <td><a href="http://ukprofinvest.ru/storage/table-files/August2020/Расчет размера собственных средств на 31.07.2020г.xlsx">Расчет размера собственных средств на 31.07.2020г.xlsx</a></td>
+    <td><a href="http://ukprofinvest.ru/storage/table-files/August2020/Расчет размера собственных средств на 31.07.2020г.xlsx">XLSX<br>
+            <span style="font-size: 12px;">70.84 KB</span>
+        </a>
+    </td>
+    <td>13.08.2020 в 12:56 </td>
+    <td>до 13.08.2023</td>
+</tr>
+<tr>
+    <td><a href="http://ukprofinvest.ru/storage/table-files/July2020/Расчет размера собственных средств на 30.06.2020г.xlsx">Расчет размера собственных средств на 30.06.2020г.xlsx</a></td>
+    <td><a href="http://ukprofinvest.ru/storage/table-files/July2020/Расчет размера собственных средств на 30.06.2020г.xlsx">XLSX<br>
+            <span style="font-size: 12px;">69.57 KB</span>
+        </a>
+    </td>
+    <td>20.07.2020 в 15:39 </td>
+    <td>до 20.07.2023</td>
+</tr>
+<tr>
+    <td><a href="http://ukprofinvest.ru/storage/table-files/June2020/Расчет размера собственных средств на 31.05.2020г.xlsx">Расчет размера собственных средств на 31.05.2020г.xlsx</a></td>
+    <td><a href="http://ukprofinvest.ru/storage/table-files/June2020/Расчет размера собственных средств на 31.05.2020г.xlsx">XLSX<br>
+            <span style="font-size: 12px;">70.83 KB</span>
+        </a>
+    </td>
+    <td>15.06.2020 в 14:18 </td>
+    <td>до 15.06.2023</td>
+</tr>
+<tr>
+    <td><a href="http://ukprofinvest.ru/storage/table-files/May2020/Расчет размера собственных средств на 30.04.2020г.xlsx">Расчет размера собственных средств на 30.04.2020г.xlsx</a></td>
+    <td><a href="http://ukprofinvest.ru/storage/table-files/May2020/Расчет размера собственных средств на 30.04.2020г.xlsx">XLSX<br>
+            <span style="font-size: 12px;">71.12 KB</span>
+        </a>
+    </td>
+    <td>19.05.2020 в 11:06 </td>
+    <td>до 19.05.2023</td>
+</tr>
+<tr>
+    <td><a href="http://ukprofinvest.ru/storage/table-files/April2020/Расчет размера собственных средств на 31.03.2020г.xlsx">Расчет размера собственных средств на 31.03.2020г.xlsx</a></td>
+    <td><a href="http://ukprofinvest.ru/storage/table-files/April2020/Расчет размера собственных средств на 31.03.2020г.xlsx">XLSX<br>
+            <span style="font-size: 12px;">69.93 KB</span>
+        </a>
+    </td>
+    <td>22.04.2020 в 11:46 </td>
+    <td>до 22.04.2023</td>
+</tr>
+
+                        </tbody>
+
+                    </table>
+                    <p><span style="text-decoration: underline;"><a href="/funds">Раскрытие информации по фондам можно найти здесь</a></span></p>
+                </div>
+
+            </div>
+        </div>
+    </div>
+
+    </section>
+
+    <!--footer start 1-->
+    <footer id="footer" class="dark">
+        <div class="primary-footer">
+            <div class="container">
+                <div class="row">
+                    <div class="col-md-9">
+                        <h4><span style="color: #999999;">Лицензия на осуществление деятельности по управлению инвестиционными фондами, паевыми инвестиционными фондами и негосударственными пенсионными фондами, предоставленная Федеральной службой по финансовым рынкам № 21-000-1-00840 от 22 декабря 2011 г. Срок действия: бессрочно. </span></h4>
+<h4><span style="color: #999999;">Стоимость инвестиционных паев может увеличиваться и уменьшаться, результаты инвестирования в прошлом не определяют доходы в будущем, государство не гарантирует доходность инвестиций в паевые инвестиционные фонды, прежде чем приобрести инвестиционный пай, следует внимательно ознакомиться с правилами доверительного управления.</span></h4>
+                    </div>
+                    <div class="col-md-3">
+                        <h5 class="text-uppercase">Контакты</h5>
+                        <ul class="f-list">
+                            <li>OOO «УК «ПрофИнвестиции»
+                            </li>
+                            <li> 123001, г. Москва, Ермолаевский пер., д. 27, стр. 1, эт. 6, оф. 601
+                            </li>
+                            <li> Пн - Пт 10:00 - 18:00
+                            </li>
+                        </ul>
+                    </div>
+                </div>
+            </div>
+        </div>
+
+        <div class="secondary-footer">
+            <div class="container">
+                <div class="row">
+                    <div class="col-md-6">
+                        <span class="m-top-10">Copyright 2006 - 2023 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; OOO «УК «ПрофИнвестиции» | All Rights Reserved</span>
+                    </div>
+                    <div class="col-md-6">
+                        <ul class="contacts">
+
+                    <li class=""><a href="/disclosure">Раскрытие информации</a></li>
+
+                    <li class=""><a href="/funds">Фонды под управлением</a></li>
+
+                    <li class=""><a href="/contacts">Контакты</a></li>
+
+    
+</ul>
+
+
+                    </div>
+                </div>
+            </div>
+        </div>
+    </footer>
+    <!--footer 1 end-->
+
+</div>
+
+
+<!-- inject:js -->
+<script src="http://ukprofinvest.ru/js/modernizr/modernizr.js"></script>
+
+<script src="https://code.jquery.com/jquery-3.3.1.min.js" integrity="sha256-FgpCb/KJQlLNfOu91ta32o/NMZxltwRo8QtmkMRdAu8=" crossorigin="anonymous"></script>
+<script src="http://ukprofinvest.ru/js/bootstrap.min.js"></script>
+<script src="https://cdn.datatables.net/1.10.18/js/jquery.dataTables.min.js"></script>
+<script src="https://cdn.datatables.net/1.10.18/js/dataTables.bootstrap.min.js"></script>
+<script src="http://ukprofinvest.ru/js/breakpoint/breakpoint.js"></script>
+<script src="http://ukprofinvest.ru/js/count-to/jquery.countTo.js"></script>
+<script src="http://ukprofinvest.ru/js/countdown/jquery.countdown.js"></script>
+<script src="http://ukprofinvest.ru/js/easing/jquery.easing.1.3.js"></script>
+<script src="http://ukprofinvest.ru/js/easy-pie-chart/jquery.easypiechart.min.js"></script>
+<script src="http://ukprofinvest.ru/js/elasic-slider/jquery.eislideshow.js"></script>
+<script src="http://ukprofinvest.ru/js/flex-slider/jquery.flexslider-min.js"></script>
+
+<script src="http://ukprofinvest.ru/js/images-loaded/imagesloaded.js"></script>
+<script src="http://ukprofinvest.ru/js/isotope/jquery.isotope.js"></script>
+<script src="http://ukprofinvest.ru/js/magnific-popup/jquery.magnific-popup.min.js"></script>
+<script src="http://ukprofinvest.ru/js/mailchimp/jquery.ajaxchimp.min.js"></script>
+<script src="http://ukprofinvest.ru/js/menuzord/menuzord.js"></script>
+<script src="http://ukprofinvest.ru/js/nav/jquery.nav.js"></script>
+<script src="http://ukprofinvest.ru/js/owl-carousel/owl.carousel.min.js"></script>
+<script src="http://ukprofinvest.ru/js/smooth/smooth.js"></script>
+<script src="http://ukprofinvest.ru/js/touchspin/touchspin.js"></script>
+<script src="http://ukprofinvest.ru/js/typist/typist.js"></script>
+<script src="http://ukprofinvest.ru/js/sticky/jquery.sticky.min.js"></script>
+<script src="http://ukprofinvest.ru/js/visible/visible.js"></script>
+<script src="http://ukprofinvest.ru/js/wow/wow.min.js"></script>
+<script src="http://ukprofinvest.ru/js/scripts.js"></script>
+
+
+<a data-scroll="" class="lift-off js-lift-off lift-off_hide" href="#"><i class="fa fa-angle-up"></i></a>

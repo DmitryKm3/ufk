@@ -1,0 +1,428 @@
+
+		<!-- Google Tag Manager (noscript) -->
+<!--noscript><iframe src="https://www.googletagmanager.com/ns.html?id=GTM-M7M8QDG" height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript-->
+<!-- End Google Tag Manager (noscript) -->		<header>
+			<div class="top">
+				<div class="row align-items-center">
+					<div class="col-xl-2 col-lg-2 col-md-10 col-sm-10 col-10"><a href="/" data-logo-black="/common/img/uploaded/open-am-redesign/logos/logo-2020-240.svg" data-logo-white="/common/img/uploaded/open-am-redesign/logos/logo-2020-240white.svg" title="Открытие управляющая компания" class="logo"><img src="/common/img/uploaded/open-am-redesign/logos/logo-2020-240.svg" alt="Открытие управляющая компания"></a>
+
+<!--a href="/" data-logo-black="/common/img/uploaded/open-am-redesign/logos/logo-20year.svg" data-logo-white="/common/img/uploaded/open-am-redesign/logos/logo-20year_white.svg" title="Открытие управляющая компания" class="logo"><img src="/common/img/uploaded/open-am-redesign/logos/logo-20year.svg" alt="Открытие управляющая компания"></a-->
+</div>
+
+					<div class="col-xl-7 col-lg-7 col-md-7 col-sm-7 col-7 d-none d-xl-flex d-lg-flex" style="position: static;">
+						<!-- header-navigation -->
+						<ul class="header-navigation">
+															<li>			
+					<a class="drop-down" data-class="drop-down" href="/ru/private/funds/">Паевые фонды</a>
+											<!-- Внутреннее меню -->
+													<div class="children">
+								<ul>
+																			<li><a class="" href="/ru/private/funds/shares/">Акции</a></li>
+																			<li><a class="" href="/ru/private/funds/bonds/">Облигации</a></li>
+																			<li><a class="" href="/ru/private/funds/balanced/">Сбалансированные</a></li>
+																			<li><a class="" href="/ru/private/funds/calculate/">Калькулятор паев</a></li>
+																	</ul>
+							</div>
+																											
+					</li>
+																<li>			
+					<a class="drop-down" data-class="drop-down" href="/ru/private/bpifs/">Биржевые фонды</a>
+																							<!-- Внутреннее меню -->
+															<div class="children">
+									<ul>
+																					<li><a class="" href="/ru/private/bpifs/shares/">Акции</a></li>
+																					<li><a class="" href="/ru/private/bpifs/bonds/">Облигации</a></li>
+																			</ul>
+								</div>
+																		
+					</li>
+																<li>			
+					<a class="" data-class="" href="/ru/private/trust/">Доверительное управление</a>
+																					
+					</li>
+																<li>			
+					<a class="" data-class="" href="/ru/private/accounts/">Инвестиционные счета</a>
+																					
+					</li>
+																<li>			
+					<a class="" data-class="" href="/ru/private/analytics/">Аналитика</a>
+																					
+					</li>
+																																							</ul>
+						<!-- header-navigation -->
+					</div>
+
+					<div class="col-xl-3 col-lg-3 col-md-2 col-sm-2 col-2 text-align-right">
+						<a title="Офисы" href="https://www.open-am.ru/ru/feedback/office/" class="url-offices"><img src="/common/asset-openam/images/location.svg" alt="Офисы"></a>
+						<a title="Контакты" href="https://www.open-am.ru/ru/feedback/contacts/" class="url-contacts"><img src="/common/asset-openam/images/telephone.svg" alt="Контакты"></a>						<a target="_blank" title="Личный кабинет" href="https://clients.open-am.ru/" class="url-personal my-button bold">Личный кабинет</a>						<button class="hamburger hamburger--spin url-alt-menu" type="button">
+	<span class="hamburger-box">
+		<span class="hamburger-inner"></span>
+	</span>
+</button>					</div>
+
+					<div class="col-xl-12 col-lg-12 col-md-12 col-sm-12 col-12">
+						<!-- alt-menu -->
+						<div class="alt-menu">
+							<div class="optiscroll-y optiscroll">
+								<div>
+									<div class="dashed-line opacity-white"></div>
+										<div class="siteMap d-flex flex-wrap">
+						<div><a href="/ru/private/">Частным клиентам</a>
+				<div class="container px-0">
+															<div class="children1"><a data-dir-name="funds" href="/ru/private/funds/">Паевые фонды</a>
+													</div>
+											<div class="children1"><a data-dir-name="bpifs" href="/ru/private/bpifs/">Биржевые фонды</a>
+													</div>
+											<div class="children1"><a data-dir-name="trust" href="/ru/private/trust/">Доверительное управление</a>
+													</div>
+											<div class="children1"><a data-dir-name="accounts" href="/ru/private/accounts/">Инвестиционные счета</a>
+													</div>
+											<div class="children1"><a data-dir-name="analytics" href="/ru/private/analytics/">Аналитика</a>
+													</div>
+											<div class="children1"><a data-dir-name="promotions" href="/ru/private/promotions/">Спецпредложения</a>
+													</div>
+											<div class="children1"><a data-dir-name="accruals" href="/ru/private/accruals/">Пенсионные накопления</a>
+													</div>
+													</div>
+			</div>
+								<div><a href="/ru/corporate/">Корпоративным клиентам</a>
+				<div class="container px-0">
+															<div class="children1"><a data-dir-name="funds" href="/ru/corporate/funds/">Управление средствами НПФ</a>
+													</div>
+											<div class="children1"><a data-dir-name="endowment" href="/ru/corporate/endowment/">Фонды целевого капитала</a>
+													</div>
+											<div class="children1"><a data-dir-name="compensation" href="/ru/corporate/compensation/">Компенсационные фонды СРО</a>
+													</div>
+											<div class="children1"><a data-dir-name="insurance" href="/ru/corporate/insurance/">Страховые компании</a>
+													</div>
+											<div class="children1"><a data-dir-name="project" href="/ru/corporate/project/">Проектные фонды</a>
+													</div>
+													</div>
+			</div>
+								<div><a href="/ru/disclosure/">Раскрытие информации</a>
+				<div class="container px-0">
+															<div class="children1"><a data-dir-name="general" href="/ru/disclosure/general/">Общие сведения о компании</a>
+													</div>
+											<div class="children1"><a data-dir-name="forms" href="/ru/disclosure/forms/">Анкеты</a>
+													</div>
+											<div class="children1"><a data-dir-name="funds" href="/ru/disclosure/funds/">Паевые фонды</a>
+													</div>
+											<div class="children1"><a data-dir-name="trust" href="/ru/disclosure/trust/">Доверительное управление</a>
+													</div>
+											<div class="children1"><a data-dir-name="invest-advice" href="/ru/disclosure/invest-advice/">Инвестиционное консультирование</a>
+													</div>
+											<div class="children1"><a data-dir-name="investors" href="/ru/disclosure/investors/">Квалифицированным инвесторам</a>
+													</div>
+											<div class="children1"><a data-dir-name="edocs" href="/ru/disclosure/edocs/">Электронный документооборот</a>
+													</div>
+											<div class="children1"><a data-dir-name="own-funds" href="/ru/disclosure/own-funds/">Расчет собственных средств</a>
+													</div>
+											<div class="children1"><a data-dir-name="purchases" href="/ru/disclosure/purchases/">Закупки</a>
+													</div>
+											<div class="children1"><a data-dir-name="finstatements" href="/ru/disclosure/finstatements/">Финансовая отчетность</a>
+													</div>
+											<div class="children1"><a data-dir-name="other" href="/ru/disclosure/other/">Иное</a>
+													</div>
+											<div class="children1"><a data-dir-name="info-messages" href="/ru/disclosure/info-messages/">Информационные сообщения</a>
+													</div>
+											<div class="children1"><a data-dir-name="archive" href="/ru/disclosure/archive/">Архив</a>
+													</div>
+													</div>
+			</div>
+								<div><a href="/ru/about/">О компании</a>
+				<div class="container px-0">
+															<div class="children1"><a data-dir-name="history" href="/ru/about/history/">История</a>
+													</div>
+											<div class="children1"><a data-dir-name="license" href="/ru/about/license/">Лицензии</a>
+													</div>
+											<div class="children1"><a data-dir-name="press-center" href="/ru/about/press-center/">Пресс-центр</a>
+													</div>
+											<div class="children1"><a data-dir-name="info-list" href="/ru/about/info-list/">Информация для клиентов</a>
+													</div>
+											<div class="children1"><a data-dir-name="awards" href="/ru/about/awards/">Награды</a>
+													</div>
+											<div class="children1"><a data-dir-name="faq" href="/ru/about/faq/">Вопросы и ответы</a>
+													</div>
+													</div>
+			</div>
+								<div><a href="/ru/feedback/">Обратная связь</a>
+				<div class="container px-0">
+															<div class="children1"><a data-dir-name="contacts" href="/ru/feedback/contacts/">Контакты</a>
+													</div>
+											<div class="children1"><a data-dir-name="office" href="/ru/feedback/office/">Офисы</a>
+													</div>
+											<div class="children1"><a data-dir-name="agents" href="/ru/feedback/agents/">Агенты</a>
+													</div>
+													</div>
+			</div>
+								<div><a href="https://clients.open-am.ru/">Личный кабинет</a>
+				<div class="container px-0">
+								</div>
+			</div>
+				</div>
+								</div>
+							</div>
+						</div>
+						<!-- alt-menu -->
+					</div>
+				</div>
+			</div>
+            <div class="header-carousel"></div>
+		</header>
+              
+		<div class="body">
+			<div class="row">
+				<div class="col-xl-12 col-lg-12 col-sm-12 col-12">
+				
+									
+											<!-- content block -->
+						<div class="content-block"><div class="mainpagebox marginbottomzero">	
+			<div class="disclosemenu">
+																										<div class="selected">
+						<h2 class="page-title">Раскрытие информации</h2>
+						<div class="pageseparator print-none"></div>
+													<div class="box d-flex flex-wrap justify-content-between print-none">
+															<div>
+									<a class=" " href="/ru/disclosure/general/">Общие сведения о компании</a>
+								</div>
+															<div>
+									<a class=" " href="/ru/disclosure/forms/">Анкеты</a>
+								</div>
+															<div>
+									<a class=" " href="/ru/disclosure/funds/">Паевые фонды</a>
+								</div>
+															<div>
+									<a class=" " href="/ru/disclosure/trust/">Доверительное управление</a>
+								</div>
+															<div>
+									<a class=" " href="/ru/disclosure/invest-advice/">Инвестиционное консультирование</a>
+								</div>
+															<div>
+									<a class=" " href="/ru/disclosure/investors/">Квалифицированным инвесторам</a>
+								</div>
+															<div>
+									<a class=" " href="/ru/disclosure/edocs/">Электронный документооборот</a>
+								</div>
+															<div>
+									<a class=" selected" href="/ru/disclosure/own-funds/">Расчет собственных средств</a>
+								</div>
+															<div>
+									<a class=" " href="/ru/disclosure/purchases/">Закупки</a>
+								</div>
+															<div>
+									<a class=" " href="/ru/disclosure/finstatements/">Финансовая отчетность</a>
+								</div>
+															<div>
+									<a class=" " href="/ru/disclosure/other/">Иное</a>
+								</div>
+															<div>
+									<a class=" " href="/ru/disclosure/info-messages/">Информационные сообщения</a>
+								</div>
+															<div>
+									<a class=" " href="/ru/disclosure/archive/">Архив</a>
+								</div>
+														</div>
+							<div class="pageseparator"></div>
+											</div>
+																														</div>
+	</div></div>
+						<!-- content block -->
+										
+					
+											<!-- content block -->
+						<div class="content-block"><div class="topcontent margintopzero ">
+	<div class="listofdocs">
+		<h2 class="block-title">Раскрытие информации</h2>
+						<div>
+			<div class="yearbox d-flex flex-wrap my-3">
+															<div class=" RepYearSelected QuarterLink p-3 mr-3" data-link="year2023 "><a href="javascript:void(0);">2023</a></div>
+											<div class="  QuarterLink p-3 mr-3" data-link="year2022 "><a href="javascript:void(0);">2022</a></div>
+									 
+			</div>
+											<div class=" DocsData Datayear2023 mt-5 mb-3">
+					<h4 class="block-title">Документы за 2023 год</h4>
+						<table class="fourcolumn responsive">
+							<tbody><tr>
+								<th>Название документа</th>
+								<th>Дата и время<br> публикации</th>
+								<th>Доступен</th>
+								<th>Файл</th>
+							</tr>
+																							<tr>
+									<td>Расчет собственных средств на 31 мая 2023 г. </td>
+									<td>19.06.2023<span class="sep"></span>14:46</td>
+									<td>бессрочно</td>
+									<td><a href="/common/img/uploaded/PDF-files1/am/disclosure_new/own_products_310523.pdf" target="_blank"><img src="/common/img/uploaded/open-am-redesign/icons/pdf.svg"></a></td>
+								</tr>
+																<tr>
+									<td>Расчет собственных средств за апрель 2023 г.</td>
+									<td>19.05.2023<span class="sep"></span>14:07</td>
+									<td>бессрочно</td>
+									<td><a href="/common/img/uploaded/PDF-files1/am/disclosure_new/own_products_300423.pdf" target="_blank"><img src="/common/img/uploaded/open-am-redesign/icons/pdf.svg"></a></td>
+								</tr>
+																<tr>
+									<td>Расчет собственных средств за февраль 2023 г. (уточненный2)</td>
+									<td>02.05.2023<span class="sep"></span>11:30</td>
+									<td>бессрочно</td>
+									<td><a href="/common/img/uploaded/PDF-files1/am/disclosure_new/own_products_280223(upd2).pdf" target="_blank"><img src="/common/img/uploaded/open-am-redesign/icons/pdf.svg"></a></td>
+								</tr>
+																<tr>
+									<td>Расчет собственных средств за январь 2023 г. (уточненный)</td>
+									<td>02.05.2023<span class="sep"></span>11:27</td>
+									<td>бессрочно</td>
+									<td><a href="/common/img/uploaded/PDF-files1/am/disclosure_new/own_products_310123(upd).pdf" target="_blank"><img src="/common/img/uploaded/open-am-redesign/icons/pdf.svg"></a></td>
+								</tr>
+																<tr>
+									<td>Расчет собственных средств за март 2023 г.</td>
+									<td>17.04.2023<span class="sep"></span>12:50</td>
+									<td>бессрочно</td>
+									<td><a href="/common/img/uploaded/PDF-files1/am/disclosure_new/own_products_310323.pdf" target="_blank"><img src="/common/img/uploaded/open-am-redesign/icons/pdf.svg"></a></td>
+								</tr>
+																<tr>
+									<td>Расчет собственных средств за февраль 2023 г. (уточнённый)</td>
+									<td>12.04.2023<span class="sep"></span>12:30</td>
+									<td>бессрочно</td>
+									<td><a href="/common/img/uploaded/PDF-files1/am/disclosure_new/own_products_280223upd.pdf" target="_blank"><img src="/common/img/uploaded/open-am-redesign/icons/pdf.svg"></a></td>
+								</tr>
+																<tr>
+									<td>Расчет собственных средств за февраль 2023 г.</td>
+									<td>16.03.2023<span class="sep"></span>12:09</td>
+									<td>бессрочно</td>
+									<td><a href="/common/img/uploaded/PDF-files1/am/disclosure_new/own_products_280223.pdf" target="_blank"><img src="/common/img/uploaded/open-am-redesign/icons/pdf.svg"></a></td>
+								</tr>
+																<tr>
+									<td>Расчет собственных средств за январь 2023 г.</td>
+									<td>16.02.2023<span class="sep"></span>11:45</td>
+									<td>бессрочно</td>
+									<td><a href="/common/img/uploaded/PDF-files1/am/disclosure_new/own_products_310123.pdf" target="_blank"><img src="/common/img/uploaded/open-am-redesign/icons/pdf.svg"></a></td>
+								</tr>
+								 
+													</tbody></table>
+					</div>
+								<div class="RepYear DocsData Datayear2022 mt-5 mb-3">
+					<h4 class="block-title">Документы за 2022 год</h4>
+						<table class="fourcolumn responsive">
+							<tbody><tr>
+								<th>Название документа</th>
+								<th>Дата и время<br> публикации</th>
+								<th>Доступен</th>
+								<th>Файл</th>
+							</tr>
+																							<tr>
+									<td>Расчет собственных средств за декабрь 2022 г. (уточненный2)</td>
+									<td>02.05.2023<span class="sep"></span>10:48</td>
+									<td>бессрочно</td>
+									<td><a href="/common/img/uploaded/PDF-files1/am/disclosure_new/own_products_122022(upd2).pdf" target="_blank"><img src="/common/img/uploaded/open-am-redesign/icons/pdf.svg"></a></td>
+								</tr>
+																<tr>
+									<td>Расчет собственных средств за декабрь 2022 г. (уточненный)</td>
+									<td>30.03.2023<span class="sep"></span>13:05</td>
+									<td>бессрочно</td>
+									<td><a href="/common/img/uploaded/PDF-files1/am/disclosure_new/own_products_122022(upd).pdf" target="_blank"><img src="/common/img/uploaded/open-am-redesign/icons/pdf.svg"></a></td>
+								</tr>
+																<tr>
+									<td>Расчет собственных средств за декабрь 2022 г.</td>
+									<td>25.01.2023<span class="sep"></span>08:45</td>
+									<td>бессрочно</td>
+									<td><a href="/common/img/uploaded/PDF-files1/am/disclosure_new/own_products_122022.pdf" target="_blank"><img src="/common/img/uploaded/open-am-redesign/icons/pdf.svg"></a></td>
+								</tr>
+								 
+													</tbody></table>
+					</div>
+							 
+		</div>
+		 
+		<!--p><a class="archive" href="#">Архив</a></p-->
+	</div>
+</div></div>
+						<!-- content block -->
+					
+										
+					
+					
+									</div>
+			</div>
+		</div>
+
+		<footer>
+		<div class="row align-items-center">
+			<div class="col-xl-6 col-lg-6 col-md-6 col-sm-6 col-6"><a href="/" title="Открытие управляющая компания" class="f-logo"><img src="/common/img/uploaded/open-am-redesign/logos/logo-2020-240white.svg" alt="Открытие управляющая компания"></a></div>
+			<div class="col-xl-6 col-lg-6 col-md-6 col-sm-6 col-6 text-align-right"><!--a target="_blank" class="facebook" title="facebook" href="https://www.facebook.com/OpenAM/" alt="facebook"><img src="/common/asset-openam/images/fb.svg" ></a>
+<a target="_blank" class="facebook"  href="https://www.instagram.com/otkritie.am/" alt="Instagram"><img src="/common/img/uploaded/open-am-redesign/icons/Instagram.svg"></a--></div>
+		</div>
+
+		<div class="row">
+			<div class="col-xl-12 col-lg-12 col-md-12 col-sm-12 col-12"><style>div.disclosure > p {font-size:16px}</style>
+<div class="disclosure">
+<p style="margin :20px 0; font-size:18px;"><a href="/ru/disclosure/" target="_blank">Раскрытие информации</a>
+</p><p>Общество с ограниченной ответственностью «Управляющая компания «ОТКРЫТИЕ». Лицензия № 21-000-1-00048 от 11 апреля 2001 г. на осуществление деятельности по управлению инвестиционными фондами, паевыми инвестиционными фондами и негосударственными пенсионными фондами, выданная ФКЦБ России, без ограничения срока действия. 
+Лицензия профессионального участника рынка ценных бумаг №045-07524-001000 от 23 марта 2004 г. на осуществление деятельности по управлению ценными бумагами, выданная ФКЦБ России, без ограничения срока действия. Результаты инвестирования в прошлом не определяют и не являются гарантией доходности инвестирования в будущем. 
+ООО УК "ОТКРЫТИЕ" не гарантирует достижения ожидаемой доходности.</p>
+<p>Ознакомиться с информацией в отношении ООО УК «ОТКРЫТИЕ» можно на официальном сайте компании в сети Интернет по адресу: <a href="/ru/about/info-list/" target="_blank">https://www.open-am.ru/ru/about/info-list/</a>.</p>
+<p>Получить подробную информацию о доверительном управлении, в том числе об услугах по индивидуальному доверительному управлению можно по адресу: Российская Федерация, 115114, город Москва, улица Кожевническая, дом 14, строение 5, в сети Интернет по адресу: <a href="http://www.open-am.ru">www.open-am.ru</a>,&nbsp;&nbsp;по телефону: <a href="tel:88005007825">8 800 500-78-25</a> (бесплатный звонок по России), 
+на странице в сети Интернет <a href="http://www.open-am.ru">www.open-am.ru</a>. Информация об агентах, оказывающих услуги по приему заявок на приобретение, обмен и погашение инвестиционных паев фондов, размещена на сайте в сети Интернет <a href="http://www.open-am.ru">www.open-am.ru</a>.</p>
+<p>Получить подробную информацию о паевых инвестиционных фондах и ознакомиться с правилами доверительного управления паевыми инвестиционными фондами, а также иными документами можно по адресу: Российская Федерация, 115114, город Москва, улица Кожевническая, дом 14, строение 5, в сети Интернет по адресу: <a href="http://www.open-am.ru">www.open-am.ru</a>,&nbsp;&nbsp;по телефону: <a href="tel:88005007825">8 800 500-78-25</a> (бесплатный звонок по России),
+ а также у агентов, осуществляющих прием заявок на приобретение, обмен и погашение инвестиционных паев фондов в местах приема заявок на приобретение, обмен и погашение инвестиционных паев, со списком которых можно ознакомиться в сети Интернет по адресу: <a href="https://www.open-am.ru/ru/feedback/agents/">https://www.open-am.ru/ru/feedback/agents/</a>.</p>
+<p>Прежде чем приобрести инвестиционный пай, следует внимательно ознакомиться с правилами доверительного управления паевым инвестиционным фондом. Стоимость инвестиционных паев может увеличиваться и уменьшаться, результаты инвестирования в прошлом не определяют доходы в будущем, государство не гарантирует доходность инвестиций в паевые инвестиционные фонды. Взимание надбавок (скидок) уменьшит доходность инвестиций в инвестиционные паи паевого инвестиционного фонда.
+ Сведения о приросте расчетной стоимости инвестиционного пая в долларах США указаны исходя из расчетной стоимости инвестиционного пая в долларах США, рассчитанной исходя из официального курса Банка России по состоянию на соответствующие даты.</p>
+ <p>
+	Правила доверительного управления ОПИФ рыночных финансовых инструментов «Открытие — Акции» зарегистрированы ФКЦБ России 17.12.2003 №0164-70287842;
+	Правила доверительного управления ОПИФ рыночных финансовых инструментов «Открытие — Облигации» зарегистрированы ФКЦБ России 17.12.2003 №0165-70287767;
+	Правила доверительного управления ОПИФ рыночных финансовых инструментов «Открытие — Сбалансированный» зарегистрированы Банком России 24.12.2020 №4243;	
+	Правила доверительного управления БПИФ рыночных финансовых инструментов «Открытие — Акции РФ» зарегистрированы Банком России 29.07.2021 №4523;
+	Правила доверительного управления БПИФ рыночных финансовых инструментов «Открытие — Облигации РФ» зарегистрированы Банком России 29.07.2021 №4525;
+	Правила доверительного управления ОПИФ рыночных финансовых инструментов "Открытие — Сбалансированный рантье" зарегистрированы Банком России 23.05.2022 №4962;
+	Правила доверительного управления ОПИФ рыночных финансовых инструментов "Открытие — Еврооблигации РФ" зарегистрированы Банком России 14.12.2022 №5219.
+</p>
+
+<p>При заключении договора доверительного управления ценными бумагами следует внимательно ознакомиться с его содержанием, а также с декларацией о рисках, приложенной к этому договору. Информация о всех расходах и комиссиях приведена в договоре доверительного управления. Результаты инвестирования в прошлом не определяют и не являются гарантией доходности инвестирования в будущем.
+ Стоимость активов может как уменьшаться, так и увеличиваться в зависимости от ситуации на финансовых рынках. До заключения договора доверительного управления ознакомиться с условиями управления активами, получить сведения об ООО УК "ОТКРЫТИЕ" и иную информацию,
+ которая должна быть предоставлена в соответствии с федеральным законом и иными нормативными правовыми актами Российской Федерации, можно по адресу: Российская Федерация, 115114, г. Москва, ул. Кожевническая, д. 14, стр. 5, по телефону: <a href="tel:88005007825">8 800 500-78-25</a> (бесплатный звонок по России), на странице в сети Интернет <a href="http://www.open-am.ru">www.open-am.ru</a>,
+ а также в агентских пунктах (со списком агентов можно ознакомиться в сети Интернет по адресу <a href="https://www.open-am.ru/ru/feedback/agents/">https://www.open-am.ru/ru/feedback/agents/</a>.</p>
+ <p>Защита капитала обеспечивается по истечении срока стратегии управления при условии исполнения обязательств контрагента по сделкам/эмитента.
+ Сумма инвестированного клиентом капитала, а также полученный финансовый результат по окончании срока стратегии управления будут уменьшены на расходы и вознаграждения, предусмотренные договором доверительного управления, издержки, связанные с конвертацией валюты и разницей валютных курсов,
+ а также на налог на доходы физических лиц. В случае подачи Уведомления о распределении активов, содержащего информацию о выводе всех Активов (далее - Уведомление на вывод) по Стратегии управления/Договору по Стратегиям управления "Структурированная", "СтруктурированнаяПлюс", "СтруктурированнаяUSD" (далее - Структурированные стратегии) и "Купонная",
+ если на дату направления Учредителем управления Доверительному управляющему этого уведомления Активы Учредителя управления включают срочные договоры (контракты), базовым активом которых являются фондовые индексы, ценные бумаги, валютные пары или другие срочные договоры (контракты), реализация (исполнение) указанного срочного контракта осуществляется в соответствии со спецификацией,
+ размещенной на сайте брокера АО "Открытие Брокер" <a target="_blank" href="https://open-broker.ru">https://open-broker.ru</a>  в разделе "Документы для оформления сделок со структурным продуктом "С защитой капитала" (для Структурированных стратегий) и Документы для оформления сделок со структурным продуктом "Автоколл" (для стратегии управления "Купонная").
+ Вывод Активов до истечения срока действия стратегии управления может привести к существенным финансовым потерям. При этом, реализация находящихся в портфеле активов до окончания срока действия Стратегии управления "Облигационная" может быть осуществлена по цене существенно ниже цены приобретения этих Активов.
+ Расчет цены реализации облигаций при таком досрочном выводе активов зависит от срока, оставшегося до даты погашения облигаций и ключевой ставки, установленной Банком России, и размер суммы выплаты тем ниже, чем больше оставшийся срок до даты погашения облигаций. 
+ Для Структурированных стратегий управления, а также стратегий управления "Купонная", "Облигационная", "Ипотечная" действует "период охлаждения", в течение которого доверительным управляющим не удерживается вознаграждение доверительного управляющего, а также не совершаются сделки по приобретению финансовых инструментов в интересах клиента. 
+ Оформление Уведомления на вывод в "период охлаждения" предоставляет возможность обеспечить Учредителю управления возврат Активов в сумме первоначального ввода.</p>
+ <p>Для стратегий управления ИИС "Сбалансированный", ИИС "Акции", ИИС "Облигации", ИИС "Валютные акции", ИИС "Валютный сбалансированный", ИИС "Валютные облигации", ИИС "Золото" 
+ при первоначальном вводе в договор ИИС действует "период охлаждения" (14 календарных дней), в течение которого доверительным управляющим не удерживается вознаграждение доверительного управляющего, а также не совершаются сделки по приобретению финансовых инструментов в интересах клиента. 
+ Оформление Уведомления на вывод в "период охлаждения" предоставляет возможность обеспечить Учредителю управления возврат Активов в сумме первоначального ввода. При дополнительном вводе в договор ИИС "период охлаждения" отсутствует.</p>
+ <p>Одновременно можно иметь только один индивидуальный инвестиционный счет. 
+ Открытие нескольких индивидуальных инвестиционных счетов у одного или у разных профессиональных участников рынка ценных бумаг приведет к невозможности получения инвестиционного налогового вычета ни по одному из них. ИИС открывается на неограниченный период времени, минимальный срок владения счетом составляет 3 года с момента заключения договора. 
+ Частичный вывод денежных средств невозможен. </p>
+ <p>В случае прекращения договора на ведение индивидуального инвестиционного счета до истечения 3-х лет необходимо уплатить в бюджет сумму ранее полученного вычета "на взнос", а также пени за каждый день просрочки, определяется в процентах от неуплаченной суммы налога. 
+ Налоговый вычет "на взнос" предоставляется в сумме денежных средств, внесенных в налоговом периоде на индивидуальный инвестиционный счет, но не более 400 000 рублей (сумма возвращаемого налога максимум 52 000 руб. в год), при условии наличия налоговой базы, облагаемой по налоговой ставке, установленной пунктом 1 статьи 224 НК РФ и уплаченного НДФЛ,
+ при этом сумма возвращенного налога не может превышать сумму уплаченного в год применения вычета НДФЛ. </p>
+ <p>До заключения договора на ведение индивидуального инвестиционного счета ознакомиться с условиями управления активами, декларациями о рисках, получить сведения о лице, осуществляющем управление активами, подробную информацию о паевых инвестиционных фондах,
+ ознакомиться с правилами доверительного управления паевыми инвестиционными фондами и иную информацию, которая должна быть предоставлена в соответствии с федеральным законом и иными нормативными правовыми актами Российской Федерации можно по адресу: Российская Федерация, 115114, г. Москва, ул. Кожевническая, д. 14, стр. 5, по телефону: <a href="tel:88005007825">8 800 500-78-25</a> (звонок по России бесплатный),
+ на странице в сети Интернет <a href="http://www.open-am.ru">www.open-am.ru</a>, а также в агентских пунктах (со списком агентов можно ознакомиться в сети Интернет по адресу  <a href="https://www.open-am.ru/ru/feedback/agents/">https://www.open-am.ru/ru/feedback/agents/</a>)</p>
+ 
+ <p>Ознакомиться с обучающим материалами по финансовым продуктам можно в сети Интернет по адресу: <a target="_blank" href="https://open-broker.ru/education/">https://open-broker.ru/education/</a>.</p>
+ <p>Риски, связанные с финансовыми инструментами, упомянутыми на настоящем сайте, не подлежат страхованию в соответствии с Федеральным законом от 23 декабря 2003 года № 177-ФЗ «О страховании вкладов в банках Российской Федерации». </p>
+ <p>Вы можете направить обращение в УК «ОТКРЫТИЕ» в офисах агентов, а также через Личный кабинет УК «ОТКРЫТИЕ» в сети Интернет по адресу  <a href="https://clients.open-am.ru/" target="_blank">https://clients.open-am.ru/</a>.</p>
+ <p>Размещенная информация носит исключительно информативный характер, не является индивидуальной инвестиционной рекомендацией, гарантией и/или обещанием эффективности деятельности (доходности вложений) в будущем,
+ и финансовые инструменты либо операции, упомянутые в ней, могут не соответствовать Вашему инвестиционному профилю и инвестиционным целям (ожиданиям). Определение соответствия финансового инструмента либо операции Вашим интересам, инвестиционным целям, инвестиционному горизонту и уровню допустимого риска является Вашей задачей. 
+ ООО УК "ОТКРЫТИЕ" не несет ответственности за возможные убытки в случае совершения операций либо инвестирования в финансовые инструменты, упомянутые в данной информации, и не рекомендует использовать указанную информацию в качестве единственного источника информации при принятии инвестиционного решения.</p>
+ </div></div>
+                        <div class="col-xl-12 col-lg-12 col-md-12 col-sm-12 col-12"></div>
+		</div>
+	</footer>
+			
+ <script type="text/javascript" id="">(function(a,e,f,g,b,c,d){a[b]=a[b]||function(){(a[b].a=a[b].a||[]).push(arguments)};a[b].l=1*new Date;c=e.createElement(f);d=e.getElementsByTagName(f)[0];c.async=1;c.src=g;d.parentNode.insertBefore(c,d)})(window,document,"script","https://mc.yandex.ru/metrika/tag.js","ym");ym(41623829,"init",{clickmap:!0,trackLinks:!0,accurateTrackBounce:!0,webvisor:!0});</script> <noscript><div><img src="https://mc.yandex.ru/watch/41623829" style="position:absolute; left:-9999px;" alt=""></div></noscript> 
+<script type="text/javascript" id="">!function(b,e,f,g,a,c,d){b.fbq||(a=b.fbq=function(){a.callMethod?a.callMethod.apply(a,arguments):a.queue.push(arguments)},b._fbq||(b._fbq=a),a.push=a,a.loaded=!0,a.version="2.0",a.queue=[],c=e.createElement(f),c.async=!0,c.src=g,d=e.getElementsByTagName(f)[0],d.parentNode.insertBefore(c,d))}(window,document,"script","https://connect.facebook.net/en_US/fbevents.js");fbq("init","271165943535910");fbq("track","PageView");</script>
+<noscript><img height="1" width="1" style="display:none" src="https://www.facebook.com/tr?id=271165943535910&amp;ev=PageView&amp;noscript=1"></noscript>
+<script type="text/javascript" id="">!function(){var a=document.createElement("script");a.type="text/javascript";a.async=!0;a.src="https://vk.com/js/api/openapi.js?167";a.onload=function(){(new VK.Pixel("VK-RTRG-294416-9mA5j")).Hit()};document.head.appendChild(a)}();</script><noscript><img src="https://vk.com/rtrg?p=VK-RTRG-294416-9mA5j" style="position:fixed; left:-999px;" alt=""></noscript>
+<script type="text/javascript" id="">var _tmr=window._tmr||(window._tmr=[]);_tmr.push({id:"2591093",type:"pageView",start:(new Date).getTime()});(function(c,d,a){if(!c.getElementById(a)){var b=c.createElement("script");b.type="text/javascript";b.async=!0;b.id=a;b.src="https://top-fwz1.mail.ru/js/code.js";a=function(){var a=c.getElementsByTagName("script")[0];a.parentNode.insertBefore(b,a)};"[object Opera]"==d.opera?c.addEventListener("DOMContentLoaded",a,!1):a()}})(document,window,"topmailru-code");</script><noscript><div>
+    <img src="https://top-fwz1.mail.ru/counter?id=2591093;js=na" style="border:0;position:absolute;left:-9999px;" alt="Top.Mail.Ru">
+</div></noscript>
+<script type="text/javascript" id="gtm-__utmzz-cookie-replicator">(function(g){function w(c){var e=["source","medium","campaign","term","content"];e=new RegExp("(utm_("+e.join("|")+")|(d|g)clid)\x3d.*?([^\x26#]*|$)","gi");c=c.match(e);var l;if(c){var a={};var b=c.length;for(l=0;l<b;l++)(e=c[l].split("\x3d"))&&(a[e[0]]=e[1])}return a}function x(c){if(c){var e={"daum.net":{p:"q",n:"daum"},"eniro.se":{p:"search_word",n:"eniro "},"naver.com":{p:"query",n:"naver "},"yahoo.com":{p:"p",n:"yahoo"},"msn.com":{p:"q",n:"msn"},"bing.com":{p:"q",n:"live"},"aol.com":{p:"q",n:"aol"},
+"lycos.com":{p:"q",n:"lycos"},"ask.com":{p:"q",n:"ask"},"altavista.com":{p:"q",n:"altavista"},"search.netscape.com":{p:"query",n:"netscape"},"cnn.com":{p:"query",n:"cnn"},"about.com":{p:"terms",n:"about"},"mamma.com":{p:"query",n:"mama"},"alltheweb.com":{p:"q",n:"alltheweb"},"voila.fr":{p:"rdata",n:"voila"},"search.virgilio.it":{p:"qs",n:"virgilio"},"baidu.com":{p:"wd",n:"baidu"},"alice.com":{p:"qs",n:"alice"},"yandex.com":{p:"text",n:"yandex"},"najdi.org.mk":{p:"q",n:"najdi"},"seznam.cz":{p:"q",
+n:"seznam"},"search.com":{p:"q",n:"search"},"wp.pl":{p:"szukaj ",n:"wirtulana polska"},"online.onetcenter.org":{p:"qt",n:"o*net"},"szukacz.pl":{p:"q",n:"szukacz"},"yam.com":{p:"k",n:"yam"},"pchome.com":{p:"q",n:"pchome"},"kvasir.no":{p:"q",n:"kvasir"},"sesam.no":{p:"q",n:"sesam"},"ozu.es":{p:"q",n:"ozu "},"terra.com":{p:"query",n:"terra"},"mynet.com":{p:"q",n:"mynet"},"ekolay.net":{p:"q",n:"ekolay"},"rambler.ru":{p:"words",n:"rambler"},google:{p:"q",n:"google"}},a=g.createElement("a"),b={};a.href=
+c;-1<a.hostname.indexOf("google")&&(m="google");e[m]?(c=e[m],e=new RegExp(c.p+"\x3d.*?([^\x26#]*|$)","gi"),a=a.search.match(e),b.source=c.n,b.medium="organic",b.term=(a?a[0].split("\x3d")[1]:"")||"(not provided)"):m!==n&&(b.source=a.hostname,b.medium="referral");return b}}function u(c,a,b,d,f){c=c+"\x3d"+a+";";b&&(c+="Expires\x3d"+b.toGMTString()+";");d&&(c+="Path\x3d"+d+";");f&&(c+="Domain\x3d"+f+";");g.cookie=c}function q(a){var b="; "+g.cookie;a=b.split("; "+a+"\x3d");if(1<a.length)return a.pop().split(";")[0]}
+function v(a){if(a){var b=g.createElement("a");b.href=a;try{return b.hostname.match(/[^.]*\.[^.]{2,3}(?:\.[^.]{2,3})?$/)[0]}catch(l){}}}var p=g.referrer,b={utmcsr:"(direct)",utmcmd:"(none)",utmccn:"(not set)"},r=g.location.hostname,n=v(r),m=v(g.referrer),k=q("__utmzzses");r=new Date(+new Date+15552E6);var a=g.location.search.replace("?",""),h=g.location.hash.replace("#","");a=w(a+"#"+h);var d=x(p);h=q("__utmz")||q("__utmzz");p=[];var t={utm_source:"utmcsr",utm_medium:"utmcmd",utm_campaign:"utmccn",
+utm_content:"utmcct",utm_term:"utmctr",gclid:"utmgclid",dclid:"utmdclid"},f;k&&m===n&&(d=a=null);if(a&&(a.utm_source||a.gclid||a.dclid)){for(f in a)"undefined"!==typeof a[f]&&(k=t[f],b[k]=a[f]);if(a.gclid||a.dclid)b.utmcsr="google",b.utmcmd=b.utmgclid?"cpc":"cpm"}else if(d)b.utmcsr=d.source,b.utmcmd=d.medium,d.term&&(b.utmctr=d.term);else if(h)for(b={},h=h.split("|"),t=h.length,d=0;d<t;d++)k=h[d].split("\x3d"),a=k[0].split(".").pop(),b[a]=k[1];for(f in b)"undefined"!==typeof b[f]&&p.push(f+"\x3d"+
+b[f]);u("__utmzz",p.join("|"),r,"/",n);u("__utmzzses",1,null,"/",n)})(document);</script><script type="text/javascript" id="">var cookieName="source",cookieValue="(direct)",expirationTime=2592E3;expirationTime*=1E3;var date=new Date,dateTimeNow=date.getTime();date.setTime(dateTimeNow+expirationTime);date=date.toUTCString();document.cookie=cookieName+"\x3d"+cookieValue+"; expires\x3d"+date+"; path\x3d/; domain\x3d."+location.hostname.replace(/^www\./i,"");</script><script type="text/javascript" id="">var cookieName="medium",cookieValue="(none)",expirationTime=2592E3;expirationTime*=1E3;var date=new Date,dateTimeNow=date.getTime();date.setTime(dateTimeNow+expirationTime);date=date.toUTCString();document.cookie=cookieName+"\x3d"+cookieValue+"; expires\x3d"+date+"; path\x3d/; domain\x3d."+location.hostname.replace(/^www\./i,"");</script><script type="text/javascript" id="">var cookieName="campaign",cookieValue="(not set)",expirationTime=2592E3;expirationTime*=1E3;var date=new Date,dateTimeNow=date.getTime();date.setTime(dateTimeNow+expirationTime);date=date.toUTCString();document.cookie=cookieName+"\x3d"+cookieValue+"; expires\x3d"+date+"; path\x3d/; domain\x3d."+location.hostname.replace(/^www\./i,"");</script><div class="advblock p-target banner_240 advertblock advertBlock tgb-banner textads" style="position: absolute !important; top: -9999px !important; left: -9999px !important; width: 1px !important; height: 1px !important;" id="trg-b-banners-1" data-view="SlotView.mimic"></div>

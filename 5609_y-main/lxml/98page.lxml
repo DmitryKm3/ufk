@@ -1,0 +1,1836 @@
+
+<div class="bg_cont mh100">
+	<div class="w980 mrg0a site">
+		<div class="bg_head posRel">
+<a class="posAbs a_vhod"><img alt="" title="Вход в систему" src="/images/key.png"></a>
+<div class="posAbs log dispnon">
+<img src="/bitrix/js/main/core/images/close.gif" title="Click to close" align="right" id="closelog" style="cursor:pointer;">
+
+<div id="bx-system-auth-form">
+
+
+<form name="system_auth_form40426" method="post" target="_top" action="/raskrytie-informatsii/region-portfelnye-investitsii/sobstvennye-sredstva/?login=yes">
+	<input type="hidden" name="backurl" value="/raskrytie-informatsii/region-portfelnye-investitsii/sobstvennye-sredstva/">
+	<input type="hidden" name="AUTH_FORM" value="Y">
+	<input type="hidden" name="TYPE" value="AUTH">
+	<table width="95%">
+		<tbody><tr>
+			<td colspan="2">
+			Логин:<br>
+			<input type="text" name="USER_LOGIN" maxlength="50" value="" size="17"></td>
+		</tr>
+		<tr>
+			<td colspan="2">
+			Пароль:<br>
+			<input type="password" name="USER_PASSWORD" maxlength="50" size="17">
+			</td>
+		</tr>
+		<tr>
+			<td valign="top"><input type="checkbox" id="USER_REMEMBER_frm" name="USER_REMEMBER" value="Y"></td>
+			<td width="100%"><label for="USER_REMEMBER_frm" title="Запомнить меня на этом компьютере">Запомнить меня</label></td>
+		</tr>
+		<tr>
+			<td colspan="2"><input type="submit" name="Login" value="Войти"></td>
+		</tr>
+
+
+	</tbody></table>
+</form>
+
+
+</div></div>
+<script type="text/javascript">
+$(".a_vhod").click(function () { $('.log').removeClass("dispnon");} );
+$(".log").mouseover(function () { $(this).removeClass("dispnon"); $("#closelog").click(function () {$(".log").addClass("dispnon");}); });
+</script>
+<!--ukpi.ru-->
+
+<a style="display:block;width:250px;text-decoration: none !important;" href="https://www.region.ru" class="posAbs logo">
+<img style="position:absolute;top: 0;left:0" alt="logo" src="/images/logo_gk.png" height="63px">
+</a>
+			<img alt="bg_vn" src="/images/nebo.jpg">		</div>
+<div class="bg0 brdt1_ff brdb1_ff fs14 tm"> 
+	<h1 style="color:#fff;padding:3px 0px 0px 43px;">УК Портфельные инвестиции - раскрытие информации</h1>
+
+			</div> 
+		<div class="fl_l lm"> 
+<script src="/bitrix/templates/.default/components/profline/leftmenu/domain_left_menu/script.js?1507801631" type="text/javascript"></script><!--pre>array(20) {
+  [0]=>
+  array(11) {
+    ["TEXT"]=>
+    string(48) "УК Портфельные инвестиции"
+    ["LINK"]=>
+    string(53) "/raskrytie-informatsii/region-portfelnye-investitsii/"
+    ["SELECTED"]=>
+    bool(true)
+    ["PERMISSION"]=>
+    string(1) "R"
+    ["ADDITIONAL_LINKS"]=>
+    array(0) {
+    }
+    ["ITEM_TYPE"]=>
+    string(1) "D"
+    ["ITEM_INDEX"]=>
+    int(0)
+    ["PARAMS"]=>
+    array(1) {
+      ["domain"]=>
+      string(7) "ukpi.ru"
+    }
+    ["DEPTH_LEVEL"]=>
+    int(1)
+    ["IS_PARENT"]=>
+    bool(true)
+    ["CHILD_SELECTED"]=>
+    bool(true)
+  }
+  [1]=>
+  array(10) {
+    ["TEXT"]=>
+    string(39) "Управляющая компания"
+    ["LINK"]=>
+    string(81) "/raskrytie-informatsii/region-portfelnye-investitsii/upravlyayushchaya-kompaniya/"
+    ["SELECTED"]=>
+    bool(false)
+    ["PERMISSION"]=>
+    string(1) "R"
+    ["ADDITIONAL_LINKS"]=>
+    array(0) {
+    }
+    ["ITEM_TYPE"]=>
+    string(1) "D"
+    ["ITEM_INDEX"]=>
+    int(0)
+    ["PARAMS"]=>
+    array(0) {
+    }
+    ["DEPTH_LEVEL"]=>
+    int(2)
+    ["IS_PARENT"]=>
+    bool(false)
+  }
+  [2]=>
+  array(10) {
+    ["TEXT"]=>
+    string(39) "Раскрытие информации"
+    ["LINK"]=>
+    string(64) "/raskrytie-informatsii/region-portfelnye-investitsii/info-purcb/"
+    ["SELECTED"]=>
+    bool(false)
+    ["PERMISSION"]=>
+    string(1) "R"
+    ["ADDITIONAL_LINKS"]=>
+    array(0) {
+    }
+    ["ITEM_TYPE"]=>
+    string(1) "D"
+    ["ITEM_INDEX"]=>
+    int(1)
+    ["PARAMS"]=>
+    array(0) {
+    }
+    ["DEPTH_LEVEL"]=>
+    int(2)
+    ["IS_PARENT"]=>
+    bool(false)
+  }
+  [3]=>
+  array(10) {
+    ["TEXT"]=>
+    string(69) "Информация о структуре собственности"
+    ["LINK"]=>
+    string(92) "/raskrytie-informatsii/region-portfelnye-investitsii/informatsiya-o-strukture-sobstvennosti/"
+    ["SELECTED"]=>
+    bool(false)
+    ["PERMISSION"]=>
+    string(1) "R"
+    ["ADDITIONAL_LINKS"]=>
+    array(0) {
+    }
+    ["ITEM_TYPE"]=>
+    string(1) "D"
+    ["ITEM_INDEX"]=>
+    int(2)
+    ["PARAMS"]=>
+    array(0) {
+    }
+    ["DEPTH_LEVEL"]=>
+    int(2)
+    ["IS_PARENT"]=>
+    bool(false)
+  }
+  [4]=>
+  array(10) {
+    ["TEXT"]=>
+    string(52) "Паевые инвестиционные фонды"
+    ["LINK"]=>
+    string(82) "/raskrytie-informatsii/region-portfelnye-investitsii/paevye-investitsionnye-fondy/"
+    ["SELECTED"]=>
+    bool(false)
+    ["PERMISSION"]=>
+    string(1) "R"
+    ["ADDITIONAL_LINKS"]=>
+    array(0) {
+    }
+    ["ITEM_TYPE"]=>
+    string(1) "D"
+    ["ITEM_INDEX"]=>
+    int(3)
+    ["PARAMS"]=>
+    array(0) {
+    }
+    ["DEPTH_LEVEL"]=>
+    int(2)
+    ["IS_PARENT"]=>
+    bool(true)
+  }
+  [5]=>
+  array(10) {
+    ["TEXT"]=>
+    string(96) "Информация о членах Совета директоров и сотрудниках"
+    ["LINK"]=>
+    string(100) "/raskrytie-informatsii/region-portfelnye-investitsii/paevye-investitsionnye-fondy/informatsiya-o-sd/"
+    ["SELECTED"]=>
+    bool(false)
+    ["PERMISSION"]=>
+    string(1) "R"
+    ["ADDITIONAL_LINKS"]=>
+    array(0) {
+    }
+    ["ITEM_TYPE"]=>
+    string(1) "D"
+    ["ITEM_INDEX"]=>
+    int(0)
+    ["PARAMS"]=>
+    array(0) {
+    }
+    ["DEPTH_LEVEL"]=>
+    int(3)
+    ["IS_PARENT"]=>
+    bool(false)
+  }
+  [6]=>
+  array(10) {
+    ["TEXT"]=>
+    string(123) "Информация для получателей финансовых услуг о получении обращения"
+    ["LINK"]=>
+    string(123) "/raskrytie-informatsii/region-portfelnye-investitsii/paevye-investitsionnye-fondy/informatsiya-dlya-polychateley-fin-uslug/"
+    ["SELECTED"]=>
+    bool(false)
+    ["PERMISSION"]=>
+    string(1) "R"
+    ["ADDITIONAL_LINKS"]=>
+    array(0) {
+    }
+    ["ITEM_TYPE"]=>
+    string(1) "D"
+    ["ITEM_INDEX"]=>
+    int(1)
+    ["PARAMS"]=>
+    array(0) {
+    }
+    ["DEPTH_LEVEL"]=>
+    int(3)
+    ["IS_PARENT"]=>
+    bool(false)
+  }
+  [7]=>
+  array(10) {
+    ["TEXT"]=>
+    string(96) "ЗПИФ смешанных инвестиций "Коммерческие Инвестиции""
+    ["LINK"]=>
+    string(129) "/raskrytie-informatsii/region-portfelnye-investitsii/paevye-investitsionnye-fondy/zpif-nedvizhimosti-kommercheskaya-nedvizhimost/"
+    ["SELECTED"]=>
+    bool(false)
+    ["PERMISSION"]=>
+    string(1) "R"
+    ["ADDITIONAL_LINKS"]=>
+    array(0) {
+    }
+    ["ITEM_TYPE"]=>
+    string(1) "D"
+    ["ITEM_INDEX"]=>
+    int(2)
+    ["PARAMS"]=>
+    array(0) {
+    }
+    ["DEPTH_LEVEL"]=>
+    int(3)
+    ["IS_PARENT"]=>
+    bool(false)
+  }
+  [8]=>
+  array(10) {
+    ["TEXT"]=>
+    string(62) "Перечень инсайдерской информации"
+    ["LINK"]=>
+    string(87) "/raskrytie-informatsii/region-portfelnye-investitsii/perechen-insayderskoy-informatsii/"
+    ["SELECTED"]=>
+    bool(false)
+    ["PERMISSION"]=>
+    string(1) "R"
+    ["ADDITIONAL_LINKS"]=>
+    array(0) {
+    }
+    ["ITEM_TYPE"]=>
+    string(1) "D"
+    ["ITEM_INDEX"]=>
+    int(4)
+    ["PARAMS"]=>
+    array(0) {
+    }
+    ["DEPTH_LEVEL"]=>
+    int(2)
+    ["IS_PARENT"]=>
+    bool(false)
+  }
+  [9]=>
+  array(10) {
+    ["TEXT"]=>
+    string(104) "Регламент признания лиц квалифицированными инвесторами"
+    ["LINK"]=>
+    string(66) "/raskrytie-informatsii/region-portfelnye-investitsii/reglament-qi/"
+    ["SELECTED"]=>
+    bool(false)
+    ["PERMISSION"]=>
+    string(1) "R"
+    ["ADDITIONAL_LINKS"]=>
+    array(0) {
+    }
+    ["ITEM_TYPE"]=>
+    string(1) "D"
+    ["ITEM_INDEX"]=>
+    int(5)
+    ["PARAMS"]=>
+    array(0) {
+    }
+    ["DEPTH_LEVEL"]=>
+    int(2)
+    ["IS_PARENT"]=>
+    bool(false)
+  }
+  [10]=>
+  array(10) {
+    ["TEXT"]=>
+    string(151) "Критерии отнесения клиентов к категории клиента - иностранного налогоплательщика"
+    ["LINK"]=>
+    string(73) "/raskrytie-informatsii/region-portfelnye-investitsii/kriterii-otneseniya/"
+    ["SELECTED"]=>
+    bool(false)
+    ["PERMISSION"]=>
+    string(1) "R"
+    ["ADDITIONAL_LINKS"]=>
+    array(0) {
+    }
+    ["ITEM_TYPE"]=>
+    string(1) "D"
+    ["ITEM_INDEX"]=>
+    int(6)
+    ["PARAMS"]=>
+    array(0) {
+    }
+    ["DEPTH_LEVEL"]=>
+    int(2)
+    ["IS_PARENT"]=>
+    bool(false)
+  }
+  [11]=>
+  array(10) {
+    ["TEXT"]=>
+    string(41) "Официальные сообщения"
+    ["LINK"]=>
+    string(79) "/raskrytie-informatsii/region-portfelnye-investitsii/ofitsialnye-soobshcheniya/"
+    ["SELECTED"]=>
+    bool(false)
+    ["PERMISSION"]=>
+    string(1) "R"
+    ["ADDITIONAL_LINKS"]=>
+    array(0) {
+    }
+    ["ITEM_TYPE"]=>
+    string(1) "D"
+    ["ITEM_INDEX"]=>
+    int(7)
+    ["PARAMS"]=>
+    array(0) {
+    }
+    ["DEPTH_LEVEL"]=>
+    int(2)
+    ["IS_PARENT"]=>
+    bool(false)
+  }
+  [12]=>
+  array(10) {
+    ["TEXT"]=>
+    string(53) "Электронный документооборот"
+    ["LINK"]=>
+    string(81) "/raskrytie-informatsii/region-portfelnye-investitsii/elektronnyy-dokumentooborot/"
+    ["SELECTED"]=>
+    bool(false)
+    ["PERMISSION"]=>
+    string(1) "R"
+    ["ADDITIONAL_LINKS"]=>
+    array(0) {
+    }
+    ["ITEM_TYPE"]=>
+    string(1) "D"
+    ["ITEM_INDEX"]=>
+    int(8)
+    ["PARAMS"]=>
+    array(0) {
+    }
+    ["DEPTH_LEVEL"]=>
+    int(2)
+    ["IS_PARENT"]=>
+    bool(false)
+  }
+  [13]=>
+  array(10) {
+    ["TEXT"]=>
+    string(105) "Документы по доверительному управлению ценными бумагами"
+    ["LINK"]=>
+    string(66) "/raskrytie-informatsii/region-portfelnye-investitsii/dokumenty-du/"
+    ["SELECTED"]=>
+    bool(false)
+    ["PERMISSION"]=>
+    string(1) "R"
+    ["ADDITIONAL_LINKS"]=>
+    array(0) {
+    }
+    ["ITEM_TYPE"]=>
+    string(1) "D"
+    ["ITEM_INDEX"]=>
+    int(9)
+    ["PARAMS"]=>
+    array(0) {
+    }
+    ["DEPTH_LEVEL"]=>
+    int(2)
+    ["IS_PARENT"]=>
+    bool(false)
+  }
+  [14]=>
+  array(10) {
+    ["TEXT"]=>
+    string(16) "Лицензии"
+    ["LINK"]=>
+    string(63) "/raskrytie-informatsii/region-portfelnye-investitsii/litsenzii/"
+    ["SELECTED"]=>
+    bool(false)
+    ["PERMISSION"]=>
+    string(1) "R"
+    ["ADDITIONAL_LINKS"]=>
+    array(0) {
+    }
+    ["ITEM_TYPE"]=>
+    string(1) "D"
+    ["ITEM_INDEX"]=>
+    int(10)
+    ["PARAMS"]=>
+    array(0) {
+    }
+    ["DEPTH_LEVEL"]=>
+    int(2)
+    ["IS_PARENT"]=>
+    bool(false)
+  }
+  [15]=>
+  array(10) {
+    ["TEXT"]=>
+    string(18) "Реквизиты"
+    ["LINK"]=>
+    string(72) "/raskrytie-informatsii/region-portfelnye-investitsii/requisite-elements/"
+    ["SELECTED"]=>
+    bool(false)
+    ["PERMISSION"]=>
+    string(1) "R"
+    ["ADDITIONAL_LINKS"]=>
+    array(0) {
+    }
+    ["ITEM_TYPE"]=>
+    string(1) "D"
+    ["ITEM_INDEX"]=>
+    int(11)
+    ["PARAMS"]=>
+    array(0) {
+    }
+    ["DEPTH_LEVEL"]=>
+    int(2)
+    ["IS_PARENT"]=>
+    bool(false)
+  }
+  [16]=>
+  array(10) {
+    ["TEXT"]=>
+    string(65) "Расчет размера собственных средств"
+    ["LINK"]=>
+    string(74) "/raskrytie-informatsii/region-portfelnye-investitsii/sobstvennye-sredstva/"
+    ["SELECTED"]=>
+    bool(true)
+    ["PERMISSION"]=>
+    string(1) "R"
+    ["ADDITIONAL_LINKS"]=>
+    array(0) {
+    }
+    ["ITEM_TYPE"]=>
+    string(1) "D"
+    ["ITEM_INDEX"]=>
+    int(12)
+    ["PARAMS"]=>
+    array(0) {
+    }
+    ["DEPTH_LEVEL"]=>
+    int(2)
+    ["IS_PARENT"]=>
+    bool(false)
+  }
+  [17]=>
+  array(10) {
+    ["TEXT"]=>
+    string(56) "Обработка персональных данных"
+    ["LINK"]=>
+    string(82) "/raskrytie-informatsii/region-portfelnye-investitsii/obrabotka-personalnyh-dannyh/"
+    ["SELECTED"]=>
+    bool(false)
+    ["PERMISSION"]=>
+    string(1) "R"
+    ["ADDITIONAL_LINKS"]=>
+    array(0) {
+    }
+    ["ITEM_TYPE"]=>
+    string(1) "D"
+    ["ITEM_INDEX"]=>
+    int(13)
+    ["PARAMS"]=>
+    array(0) {
+    }
+    ["DEPTH_LEVEL"]=>
+    int(2)
+    ["IS_PARENT"]=>
+    bool(false)
+  }
+  [18]=>
+  array(10) {
+    ["TEXT"]=>
+    string(53) "Информационная безопасность"
+    ["LINK"]=>
+    string(82) "/raskrytie-informatsii/region-portfelnye-investitsii/informatsionnaya-bezopasnost/"
+    ["SELECTED"]=>
+    bool(false)
+    ["PERMISSION"]=>
+    string(1) "R"
+    ["ADDITIONAL_LINKS"]=>
+    array(0) {
+    }
+    ["ITEM_TYPE"]=>
+    string(1) "D"
+    ["ITEM_INDEX"]=>
+    int(14)
+    ["PARAMS"]=>
+    array(0) {
+    }
+    ["DEPTH_LEVEL"]=>
+    int(2)
+    ["IS_PARENT"]=>
+    bool(false)
+  }
+  [19]=>
+  array(10) {
+    ["TEXT"]=>
+    string(206) "Публичные правила представления клиентам информации об отказе в выполнении распоряжения о совершении операции"
+    ["LINK"]=>
+    string(87) "/raskrytie-informatsii/region-portfelnye-investitsii/pub-pravila-informatsii-ob-otkaze/"
+    ["SELECTED"]=>
+    bool(false)
+    ["PERMISSION"]=>
+    string(1) "R"
+    ["ADDITIONAL_LINKS"]=>
+    array(0) {
+    }
+    ["ITEM_TYPE"]=>
+    string(1) "D"
+    ["ITEM_INDEX"]=>
+    int(15)
+    ["PARAMS"]=>
+    array(0) {
+    }
+    ["DEPTH_LEVEL"]=>
+    int(2)
+    ["IS_PARENT"]=>
+    bool(false)
+  }
+}
+</pre-->
+<div class="menu-sitemap-tree leftmen">
+<ul>							<li style="list-style: none!important;">
+						<!--<li >-->
+			<div class="folder" onclick="OpenMenuNode(this)"></div>
+		<div class="item-text a_pm"><a href="/raskrytie-informatsii/region-portfelnye-investitsii/">УК Портфельные инвестиции</a></div>
+			<ul>
+											<li style="list-style: none!important;">
+				<div class="page"></div>
+				<div class="item-text"><a href="/raskrytie-informatsii/region-portfelnye-investitsii/upravlyayushchaya-kompaniya/">Управляющая компания</a></div>
+				</li>
+													<li style="list-style: none!important;">
+				<div class="page"></div>
+				<div class="item-text"><a href="/raskrytie-informatsii/region-portfelnye-investitsii/info-purcb/">Раскрытие информации</a></div>
+				</li>
+													<li style="list-style: none!important;">
+				<div class="page"></div>
+				<div class="item-text"><a href="/raskrytie-informatsii/region-portfelnye-investitsii/informatsiya-o-strukture-sobstvennosti/">Информация о структуре собственности</a></div>
+				</li>
+											<li class="close" style="list-style: none!important;">
+						<!--<li >-->
+			<div class="folder" onclick="OpenMenuNode(this)"></div>
+		<div class="item-text a_pm"><a href="/raskrytie-informatsii/region-portfelnye-investitsii/paevye-investitsionnye-fondy/">Паевые инвестиционные фонды</a></div>
+			<ul>
+											<li style="list-style: none!important;">
+				<div class="page"></div>
+				<div class="item-text"><a href="/raskrytie-informatsii/region-portfelnye-investitsii/paevye-investitsionnye-fondy/informatsiya-o-sd/">Информация о членах Совета директоров и сотрудниках</a></div>
+				</li>
+													<li style="list-style: none!important;">
+				<div class="page"></div>
+				<div class="item-text"><a href="/raskrytie-informatsii/region-portfelnye-investitsii/paevye-investitsionnye-fondy/informatsiya-dlya-polychateley-fin-uslug/">Информация для получателей финансовых услуг о получении обращения</a></div>
+				</li>
+													<li style="list-style: none!important;">
+				<div class="page"></div>
+				<div class="item-text"><a href="/raskrytie-informatsii/region-portfelnye-investitsii/paevye-investitsionnye-fondy/zpif-nedvizhimosti-kommercheskaya-nedvizhimost/">ЗПИФ смешанных инвестиций "Коммерческие Инвестиции"</a></div>
+				</li>
+							</ul></li>									<li style="list-style: none!important;">
+				<div class="page"></div>
+				<div class="item-text"><a href="/raskrytie-informatsii/region-portfelnye-investitsii/perechen-insayderskoy-informatsii/">Перечень инсайдерской информации</a></div>
+				</li>
+													<li style="list-style: none!important;">
+				<div class="page"></div>
+				<div class="item-text"><a href="/raskrytie-informatsii/region-portfelnye-investitsii/reglament-qi/">Регламент признания лиц квалифицированными инвесторами</a></div>
+				</li>
+													<li style="list-style: none!important;">
+				<div class="page"></div>
+				<div class="item-text"><a href="/raskrytie-informatsii/region-portfelnye-investitsii/kriterii-otneseniya/">Критерии отнесения клиентов к категории клиента - иностранного налогоплательщика</a></div>
+				</li>
+													<li style="list-style: none!important;">
+				<div class="page"></div>
+				<div class="item-text"><a href="/raskrytie-informatsii/region-portfelnye-investitsii/ofitsialnye-soobshcheniya/">Официальные сообщения</a></div>
+				</li>
+													<li style="list-style: none!important;">
+				<div class="page"></div>
+				<div class="item-text"><a href="/raskrytie-informatsii/region-portfelnye-investitsii/elektronnyy-dokumentooborot/">Электронный документооборот</a></div>
+				</li>
+													<li style="list-style: none!important;">
+				<div class="page"></div>
+				<div class="item-text"><a href="/raskrytie-informatsii/region-portfelnye-investitsii/dokumenty-du/">Документы по доверительному управлению ценными бумагами</a></div>
+				</li>
+													<li style="list-style: none!important;">
+				<div class="page"></div>
+				<div class="item-text"><a href="/raskrytie-informatsii/region-portfelnye-investitsii/litsenzii/">Лицензии</a></div>
+				</li>
+													<li style="list-style: none!important;">
+				<div class="page"></div>
+				<div class="item-text"><a href="/raskrytie-informatsii/region-portfelnye-investitsii/requisite-elements/">Реквизиты</a></div>
+				</li>
+													<li class="akt" style="list-style: none!important;">
+				<div class="page"></div>
+				<div class="item-text"><a href="/raskrytie-informatsii/region-portfelnye-investitsii/sobstvennye-sredstva/">Расчет размера собственных средств</a></div>
+				</li>
+													<li style="list-style: none!important;">
+				<div class="page"></div>
+				<div class="item-text"><a href="/raskrytie-informatsii/region-portfelnye-investitsii/obrabotka-personalnyh-dannyh/">Обработка персональных данных</a></div>
+				</li>
+													<li style="list-style: none!important;">
+				<div class="page"></div>
+				<div class="item-text"><a href="/raskrytie-informatsii/region-portfelnye-investitsii/informatsionnaya-bezopasnost/">Информационная безопасность</a></div>
+				</li>
+													<li style="list-style: none!important;">
+				<div class="page"></div>
+				<div class="item-text"><a href="/raskrytie-informatsii/region-portfelnye-investitsii/pub-pravila-informatsii-ob-otkaze/">Публичные правила представления клиентам информации об отказе в выполнении распоряжения о совершении операции</a></div>
+				</li>
+					</ul></li></ul>
+</div>
+		</div>
+		<div class="fl_l padt28 cont">
+<ul class="breadcrumb-navigation"><li><a href="/raskrytie-informatsii/region-portfelnye-investitsii/" title="УК Портфельные инвестиции">УК Портфельные инвестиции</a></li><li><span>&nbsp;&gt;&nbsp;</span></li><li><a href="/raskrytie-informatsii/region-portfelnye-investitsii/sobstvennye-sredstva/" title="Собственные средства">Собственные средства</a></li></ul><br>
+			<h1>Расчет собственных средств</h1>
+				Период актуальности раскрываемой информации: вся раскрываемая информация актуальна с даты её раскрытия по настоящее время, если не указано иное. 
+<br>
+
+
+<div class="fileList">
+								<table class="tab td_tac" border="0" cellpadding="10" cellspacing="0">
+			<tbody><tr>
+				<th>Наименование</th>
+				<th>Дата раскрытия</th>
+				<th>&nbsp;</th>
+			</tr>		
+														<tr>
+				<td width="60%">Расчет СС_31.05.23        								</td>
+				<td>16.06.2023 12:23:00</td>
+				<td>
+					
+						<a target="_blanc" href="/upload/iblock/1e5/ss_may_2023.pdf">Скачать</a><br>
+						pdf (56 кБ)<br> 											
+				</td>
+			</tr>
+																						<tr class="gray">
+				<td width="60%">Расчет СС_30.04.23        								</td>
+				<td>18.05.2023 12:05:00</td>
+				<td>
+					
+						<a target="_blanc" href="/upload/iblock/b3e/ss_april_2023.pdf">Скачать</a><br>
+						pdf (60 кБ)<br> 											
+				</td>
+			</tr>
+																						<tr>
+				<td width="60%">Расчет СС_31.03.23        								</td>
+				<td>17.04.2023 12:03:00</td>
+				<td>
+					
+						<a target="_blanc" href="/upload/iblock/454/ss_mart_2023.pdf">Скачать</a><br>
+						pdf (55 кБ)<br> 											
+				</td>
+			</tr>
+																						<tr class="gray">
+				<td width="60%">Расчет СС_28.02.23        								</td>
+				<td>15.03.2023 12:38:00</td>
+				<td>
+					
+						<a target="_blanc" href="/upload/iblock/bc4/ss_feb_2023.pdf">Скачать</a><br>
+						pdf (55 кБ)<br> 											
+				</td>
+			</tr>
+																						<tr>
+				<td width="60%">Расчет СС_31.01.23        								</td>
+				<td>15.02.2023 13:33:00</td>
+				<td>
+					
+						<a target="_blanc" href="/upload/iblock/c01/ss_january_2023.pdf">Скачать</a><br>
+						pdf (60 кБ)<br> 											
+				</td>
+			</tr>
+																						<tr class="gray">
+				<td width="60%">Расчет СС_31.12.22        								</td>
+				<td>23.01.2023 12:26:00</td>
+				<td>
+					
+						<a target="_blanc" href="/upload/iblock/04d/ss_december_2022.pdf">Скачать</a><br>
+						pdf (61 кБ)<br> 											
+				</td>
+			</tr>
+																						<tr>
+				<td width="60%">Расчет СС_30.11.22        								</td>
+				<td>30.12.2022 12:51:00</td>
+				<td>
+					
+						<a target="_blanc" href="/upload/iblock/069/ss_november_2022.pdf">Скачать</a><br>
+						pdf (55 кБ)<br> 											
+				</td>
+			</tr>
+																						<tr class="gray">
+				<td width="60%">Расчет СС_31.10.22        								</td>
+				<td>30.12.2022 12:50:00</td>
+				<td>
+					
+						<a target="_blanc" href="/upload/iblock/35c/ss_october_2022.pdf">Скачать</a><br>
+						pdf (59 кБ)<br> 											
+				</td>
+			</tr>
+																						<tr>
+				<td width="60%">Расчет СС_30.09.22        								</td>
+				<td>30.12.2022 12:49:00</td>
+				<td>
+					
+						<a target="_blanc" href="/upload/iblock/019/ss_september_2022.pdf">Скачать</a><br>
+						pdf (55 кБ)<br> 											
+				</td>
+			</tr>
+																						<tr class="gray">
+				<td width="60%">Расчет СС_31.08.22        								</td>
+				<td>30.12.2022 12:48:00</td>
+				<td>
+					
+						<a target="_blanc" href="/upload/iblock/752/_2022.pdf">Скачать</a><br>
+						pdf (55 кБ)<br> 											
+				</td>
+			</tr>
+																						<tr>
+				<td width="60%">Расчет СС_31.07.22        								</td>
+				<td>30.12.2022 12:47:00</td>
+				<td>
+					
+						<a target="_blanc" href="/upload/iblock/188/ss_july_2022.pdf">Скачать</a><br>
+						pdf (60 кБ)<br> 											
+				</td>
+			</tr>
+																						<tr class="gray">
+				<td width="60%">Расчет СС_30.06.22        								</td>
+				<td>30.12.2022 12:46:00</td>
+				<td>
+					
+						<a target="_blanc" href="/upload/iblock/206/ss_june_2022.pdf">Скачать</a><br>
+						pdf (60 кБ)<br> 											
+				</td>
+			</tr>
+																						<tr>
+				<td width="60%">Расчет СС_31.05.22        								</td>
+				<td>30.12.2022 12:45:00</td>
+				<td>
+					
+						<a target="_blanc" href="/upload/iblock/296/ss_may_2022.pdf">Скачать</a><br>
+						pdf (55 кБ)<br> 											
+				</td>
+			</tr>
+																						<tr class="gray">
+				<td width="60%">Расчет СС_30.04.22        								</td>
+				<td>30.12.2022 12:44:00</td>
+				<td>
+					
+						<a target="_blanc" href="/upload/iblock/b57/ss_aprel_2022.pdf">Скачать</a><br>
+						pdf (60 кБ)<br> 											
+				</td>
+			</tr>
+																						<tr>
+				<td width="60%">Расчет СС_31.03.22        								</td>
+				<td>30.12.2022 12:43:00</td>
+				<td>
+					
+						<a target="_blanc" href="/upload/iblock/1d1/ss_03_2022.pdf">Скачать</a><br>
+						pdf (70 кБ)<br> 											
+				</td>
+			</tr>
+																						<tr class="gray">
+				<td width="60%">Расчет СС_28.02.22        								</td>
+				<td>30.12.2022 12:42:00</td>
+				<td>
+					
+						<a target="_blanc" href="/upload/iblock/41b/rss_02_2022.pdf">Скачать</a><br>
+						pdf (52 кБ)<br> 											
+				</td>
+			</tr>
+																						<tr>
+				<td width="60%">Расчет СС_31.01.22        								</td>
+				<td>30.12.2022 12:41:00</td>
+				<td>
+					
+						<a target="_blanc" href="/upload/iblock/e2d/_2022.pdf">Скачать</a><br>
+						pdf (50 кБ)<br> 											
+				</td>
+			</tr>
+																						<tr class="gray">
+				<td width="60%">Расчет СС_31.12.21        								</td>
+				<td>30.12.2022 12:40:00</td>
+				<td>
+					
+						<a target="_blanc" href="/upload/iblock/b66/_2021.pdf">Скачать</a><br>
+						pdf (51 кБ)<br> 											
+				</td>
+			</tr>
+																						<tr>
+				<td width="60%">Расчет СС_30.11.21        								</td>
+				<td>15.12.2021 14:25:00</td>
+				<td>
+					
+						<a target="_blanc" href="/upload/iblock/29e/ss_noyabr_2021.pdf">Скачать</a><br>
+						pdf (49 кБ)<br> 											
+				</td>
+			</tr>
+																						<tr class="gray">
+				<td width="60%">Расчет СС_31.10.21        								</td>
+				<td>18.11.2021 16:07:00</td>
+				<td>
+					
+						<a target="_blanc" href="/upload/iblock/5dc/ss_oktyabr_2021.pdf">Скачать</a><br>
+						pdf (51 кБ)<br> 											
+				</td>
+			</tr>
+																						<tr>
+				<td width="60%">Расчет СС_30.09.21        								</td>
+				<td>14.10.2021 16:55:00</td>
+				<td>
+					
+						<a target="_blanc" href="/upload/iblock/032/ss_sentyabr_2021.pdf">Скачать</a><br>
+						pdf (53 кБ)<br> 											
+				</td>
+			</tr>
+																						<tr class="gray">
+				<td width="60%">Расчет СС_31.08.21        								</td>
+				<td>14.09.2021 19:11:00</td>
+				<td>
+					
+						<a target="_blanc" href="/upload/iblock/b5e/ss_avgust_2021.pdf">Скачать</a><br>
+						pdf (52 кБ)<br> 											
+				</td>
+			</tr>
+																						<tr>
+				<td width="60%">Расчет СС_31.07.21        								</td>
+				<td>16.08.2021 13:33:00</td>
+				<td>
+					
+						<a target="_blanc" href="/upload/iblock/b7b/ss_iyul_2021.pdf">Скачать</a><br>
+						pdf (50 кБ)<br> 											
+				</td>
+			</tr>
+																						<tr class="gray">
+				<td width="60%">Расчет СС_30.06.21        								</td>
+				<td>15.07.2021 10:27:00</td>
+				<td>
+					
+						<a target="_blanc" href="/upload/iblock/b69/ss_iyun_2021.pdf">Скачать</a><br>
+						pdf (53 кБ)<br> 											
+				</td>
+			</tr>
+																						<tr>
+				<td width="60%">Расчет СС_31.05.21        								</td>
+				<td>10.06.2021 15:20:00</td>
+				<td>
+					
+						<a target="_blanc" href="/upload/iblock/fe9/ss_may_2021.pdf">Скачать</a><br>
+						pdf (53 кБ)<br> 											
+				</td>
+			</tr>
+																						<tr class="gray">
+				<td width="60%">Расчет СС_30.04.21        								</td>
+				<td>18.05.2021 17:05:00</td>
+				<td>
+					
+						<a target="_blanc" href="/upload/iblock/5c8/ss_aprel_2021.pdf">Скачать</a><br>
+						pdf (53 кБ)<br> 											
+				</td>
+			</tr>
+																						<tr>
+				<td width="60%">Расчет СС_31.03.21        								</td>
+				<td>15.04.2021 10:15:00</td>
+				<td>
+					
+						<a target="_blanc" href="/upload/iblock/c08/ss_mart_2021.pdf">Скачать</a><br>
+						pdf (53 кБ)<br> 											
+				</td>
+			</tr>
+																						<tr class="gray">
+				<td width="60%">Расчет СС_28.02.21        								</td>
+				<td>15.03.2021 12:15:00</td>
+				<td>
+					
+						<a target="_blanc" href="/upload/iblock/984/ss_fevral_2021.pdf">Скачать</a><br>
+						pdf (53 кБ)<br> 											
+				</td>
+			</tr>
+																						<tr>
+				<td width="60%">Расчет СС_31.01.21        								</td>
+				<td>15.02.2021 11:58:00</td>
+				<td>
+					
+						<a target="_blanc" href="/upload/iblock/315/ss_yanvar_2021.pdf">Скачать</a><br>
+						pdf (53 кБ)<br> 											
+				</td>
+			</tr>
+																						<tr class="gray">
+				<td width="60%">Расчет СС_31.12.20        								</td>
+				<td>25.01.2021 12:45:00</td>
+				<td>
+					
+						<a target="_blanc" href="/upload/iblock/605/ss_dekabr_2020.pdf">Скачать</a><br>
+						pdf (51 кБ)<br> 											
+				</td>
+			</tr>
+																						<tr>
+				<td width="60%">Расчет СС_30.11.20        								</td>
+				<td>14.12.2020 13:51:00</td>
+				<td>
+					
+						<a target="_blanc" href="/upload/iblock/612/ss_noyabr_2020.pdf">Скачать</a><br>
+						pdf (53 кБ)<br> 											
+				</td>
+			</tr>
+																						<tr class="gray">
+				<td width="60%">Расчет СС_31.10.20        								</td>
+				<td>16.11.2020 14:16:00</td>
+				<td>
+					
+						<a target="_blanc" href="/upload/iblock/13a/ss_oktyabr_2020.pdf">Скачать</a><br>
+						pdf (50 кБ)<br> 											
+				</td>
+			</tr>
+																						<tr>
+				<td width="60%">Расчет СС_30.09.20        								</td>
+				<td>15.10.2020 12:50:00</td>
+				<td>
+					
+						<a target="_blanc" href="/upload/iblock/da9/ss_sentyabr_2020.pdf">Скачать</a><br>
+						pdf (50 кБ)<br> 											
+				</td>
+			</tr>
+																						<tr class="gray">
+				<td width="60%">Расчет СС_31.08.20        								</td>
+				<td>14.09.2020 11:21:00</td>
+				<td>
+					
+						<a target="_blanc" href="/upload/iblock/6fe/ss_avgust_2020.pdf">Скачать</a><br>
+						pdf (50 кБ)<br> 											
+				</td>
+			</tr>
+																						<tr>
+				<td width="60%">Расчет СС_31.07.20        								</td>
+				<td>14.08.2020 13:52:00</td>
+				<td>
+					
+						<a target="_blanc" href="/upload/iblock/a27/ss_iyul_2020.pdf">Скачать</a><br>
+						pdf (53 кБ)<br> 											
+				</td>
+			</tr>
+																						<tr class="gray">
+				<td width="60%">Расчет СС_30.06.20        								</td>
+				<td>20.07.2020 11:15:00</td>
+				<td>
+					
+						<a target="_blanc" href="/upload/iblock/fc8/ss_iyun_2020.pdf">Скачать</a><br>
+						pdf (50 кБ)<br> 											
+				</td>
+			</tr>
+																						<tr>
+				<td width="60%">Расчет СС_31.05.20        								</td>
+				<td>11.06.2020 18:03:00</td>
+				<td>
+					
+						<a target="_blanc" href="/upload/iblock/6f1/ss_may_2020.pdf">Скачать</a><br>
+						pdf (52 кБ)<br> 											
+				</td>
+			</tr>
+																						<tr class="gray">
+				<td width="60%">Расчет СС_30.04.20        								</td>
+				<td>20.05.2020 17:15:00</td>
+				<td>
+					
+						<a target="_blanc" href="/upload/iblock/874/ss_aprel_2020.pdf">Скачать</a><br>
+						pdf (50 кБ)<br> 											
+				</td>
+			</tr>
+																						<tr>
+				<td width="60%">Расчет СС_31.03.20        								</td>
+				<td>30.04.2020 12:59:00</td>
+				<td>
+					
+						<a target="_blanc" href="/upload/iblock/328/ss_mart_2020.pdf">Скачать</a><br>
+						pdf (50 кБ)<br> 											
+				</td>
+			</tr>
+																						<tr class="gray">
+				<td width="60%">Расчет СС_29.02.20        								</td>
+				<td>16.03.2020 17:58:00</td>
+				<td>
+					
+						<a target="_blanc" href="/upload/iblock/11b/ss_fevral_2020.pdf">Скачать</a><br>
+						pdf (53 кБ)<br> 											
+				</td>
+			</tr>
+																						<tr>
+				<td width="60%">Расчет СС_31.01.20        								</td>
+				<td>13.02.2020 15:44:00</td>
+				<td>
+					
+						<a target="_blanc" href="/upload/iblock/151/ss_yanvar_2020.pdf">Скачать</a><br>
+						pdf (53 кБ)<br> 											
+				</td>
+			</tr>
+																						<tr class="gray">
+				<td width="60%">Расчет СС_31.12.19        								</td>
+				<td>22.01.2020 15:05:00</td>
+				<td>
+					
+						<a target="_blanc" href="/upload/iblock/23e/ss_dekabr_2019.pdf">Скачать</a><br>
+						pdf (50 кБ)<br> 											
+				</td>
+			</tr>
+																						<tr>
+				<td width="60%">Расчет СС_30.11.19        								</td>
+				<td>16.12.2019 10:15:00</td>
+				<td>
+					
+						<a target="_blanc" href="/upload/iblock/298/ss_noyabr_2019.pdf">Скачать</a><br>
+						pdf (137 кБ)<br> 											
+				</td>
+			</tr>
+																						<tr class="gray">
+				<td width="60%">Расчет СС_31.10.19        								</td>
+				<td>15.11.2019 15:34:00</td>
+				<td>
+					
+						<a target="_blanc" href="/upload/iblock/1cc/ss_oktyabr_2019.pdf">Скачать</a><br>
+						pdf (137 кБ)<br> 											
+				</td>
+			</tr>
+																						<tr>
+				<td width="60%">Расчет СС_30.09.19        								</td>
+				<td>15.10.2019 14:26:00</td>
+				<td>
+					
+						<a target="_blanc" href="/upload/iblock/b3b/ss_sentyabr_2019.pdf">Скачать</a><br>
+						pdf (137 кБ)<br> 											
+				</td>
+			</tr>
+																						<tr class="gray">
+				<td width="60%">Расчет СС_31.08.19        								</td>
+				<td>12.09.2019 13:34:00</td>
+				<td>
+					
+						<a target="_blanc" href="/upload/iblock/d56/ss_avgust_2019.pdf">Скачать</a><br>
+						pdf (137 кБ)<br> 											
+				</td>
+			</tr>
+																						<tr>
+				<td width="60%">Расчет СС_31.07.19        								</td>
+				<td>13.08.2019 11:13:00</td>
+				<td>
+					
+						<a target="_blanc" href="/upload/iblock/f71/ss_iyul_2019.pdf">Скачать</a><br>
+						pdf (137 кБ)<br> 											
+				</td>
+			</tr>
+																						<tr class="gray">
+				<td width="60%">Расчет СС_30.06.19        								</td>
+				<td>11.07.2019 16:12:00</td>
+				<td>
+					
+						<a target="_blanc" href="/upload/iblock/1d1/ss_iyun_2019.pdf">Скачать</a><br>
+						pdf (137 кБ)<br> 											
+				</td>
+			</tr>
+																						<tr>
+				<td width="60%">Расчет СС_31.05.19        								</td>
+				<td>13.06.2019 17:34:00</td>
+				<td>
+					
+						<a target="_blanc" href="/upload/iblock/534/ss_may_2019.pdf">Скачать</a><br>
+						pdf (137 кБ)<br> 											
+				</td>
+			</tr>
+																						<tr class="gray">
+				<td width="60%">Расчет СС_30.04.19        								</td>
+				<td>21.05.2019 17:05:00</td>
+				<td>
+					
+						<a target="_blanc" href="/upload/iblock/080/ss_aprel_2019.pdf">Скачать</a><br>
+						pdf (137 кБ)<br> 											
+				</td>
+			</tr>
+																						<tr>
+				<td width="60%">Расчет CC_31.03.19        								</td>
+				<td>11.04.2019 16:19:00</td>
+				<td>
+					
+						<a target="_blanc" href="/upload/iblock/549/ss_mart_2019.pdf">Скачать</a><br>
+						pdf (137 кБ)<br> 											
+				</td>
+			</tr>
+																						<tr class="gray">
+				<td width="60%">Расчет CC_28.02.19        								</td>
+				<td>14.03.2019 15:45:00</td>
+				<td>
+					
+						<a target="_blanc" href="/upload/iblock/949/ss_fevral_2019.pdf">Скачать</a><br>
+						pdf (137 кБ)<br> 											
+				</td>
+			</tr>
+																						<tr>
+				<td width="60%">Расчет CC_31.01.19        								</td>
+				<td>14.02.2019 17:17:00</td>
+				<td>
+					
+						<a target="_blanc" href="/upload/iblock/d22/ss_yanvar_2019.pdf">Скачать</a><br>
+						pdf (137 кБ)<br> 											
+				</td>
+			</tr>
+																						<tr class="gray">
+				<td width="60%">Расчет CC_31.12.18        								</td>
+				<td>22.01.2019 11:17:00</td>
+				<td>
+					
+						<a target="_blanc" href="/upload/iblock/fd7/ss_dekabr.pdf">Скачать</a><br>
+						pdf (137 кБ)<br> 											
+				</td>
+			</tr>
+																						<tr>
+				<td width="60%">Расчет CC_30.11.18        								</td>
+				<td>13.12.2018 11:17:00</td>
+				<td>
+					
+						<a target="_blanc" href="/upload/iblock/952/ss_noyabr.pdf">Скачать</a><br>
+						pdf (139 кБ)<br> 											
+				</td>
+			</tr>
+																						<tr class="gray">
+				<td width="60%">Расчет CC_31.10.18        								</td>
+				<td>15.11.2018 11:48:00</td>
+				<td>
+					
+						<a target="_blanc" href="/upload/iblock/7ac/cc_311018.pdf">Скачать</a><br>
+						pdf (40 кБ)<br> 											
+				</td>
+			</tr>
+																						<tr>
+				<td width="60%">Расчет CC_30.09.18        								</td>
+				<td>12.10.2018 11:03:00</td>
+				<td>
+					
+						<a target="_blanc" href="/upload/iblock/80f/cc_300918.pdf">Скачать</a><br>
+						pdf (182 кБ)<br> 											
+				</td>
+			</tr>
+																						<tr class="gray">
+				<td width="60%">Расчет CC_31.08.18        								</td>
+				<td>10.08.2018 11:03:00</td>
+				<td>
+					
+						<a target="_blanc" href="/upload/iblock/81c/rss_avgust_2018.pdf">Скачать</a><br>
+						pdf (138 кБ)<br> 											
+				</td>
+			</tr>
+																						<tr>
+				<td width="60%">Расчет CC_31.07.18        								</td>
+				<td>10.08.2018 11:03:00</td>
+				<td>
+					
+						<a target="_blanc" href="/upload/iblock/168/rss_iyul_2018.pdf">Скачать</a><br>
+						pdf (237 кБ)<br> 											
+				</td>
+			</tr>
+																						<tr class="gray">
+				<td width="60%">Расчет CC_30.06.18        								</td>
+				<td>12.07.2018 12:03:00</td>
+				<td>
+					
+						<a target="_blanc" href="/upload/iblock/713/rss_iyun_2018.pdf">Скачать</a><br>
+						pdf (193 кБ)<br> 											
+				</td>
+			</tr>
+																						<tr>
+				<td width="60%">Расчет CC_31.05.18        								</td>
+				<td>15.06.2018 17:03:00</td>
+				<td>
+					
+						<a target="_blanc" href="/upload/iblock/c28/rss_may_2018.pdf">Скачать</a><br>
+						pdf (193 кБ)<br> 											
+				</td>
+			</tr>
+																						<tr class="gray">
+				<td width="60%">Расчет CC_30.04.18        								</td>
+				<td>17.05.2018 12:56:00</td>
+				<td>
+					
+						<a target="_blanc" href="/upload/iblock/f8f/rss_aprel_2018.pdf">Скачать</a><br>
+						pdf (203 кБ)<br> 											
+				</td>
+			</tr>
+																						<tr>
+				<td width="60%">Расчет CC_31.03.18        								</td>
+				<td>12.04.2018 11:02:00</td>
+				<td>
+					
+						<a target="_blanc" href="/upload/iblock/981/raschet_cc_31032018.pdf">Скачать</a><br>
+						pdf (205 кБ)<br> 											
+				</td>
+			</tr>
+																						<tr class="gray">
+				<td width="60%">Расчет CC_28.02.18        								</td>
+				<td>15.03.2018 17:38:00</td>
+				<td>
+					
+						<a target="_blanc" href="/upload/iblock/724/raschet_cc_28022018.pdf">Скачать</a><br>
+						pdf (144 кБ)<br> 											
+				</td>
+			</tr>
+																						<tr>
+				<td width="60%">Расчет CC_31.01.18        								</td>
+				<td>09.02.2018 12:38:00</td>
+				<td>
+					
+						<a target="_blanc" href="/upload/iblock/0c2/rss_yanvar_2018_na_sayt.pdf">Скачать</a><br>
+						pdf (145 кБ)<br> 											
+				</td>
+			</tr>
+																						<tr class="gray">
+				<td width="60%">Расчет CC_31.12.17        								</td>
+				<td>19.01.2018 15:45:00</td>
+				<td>
+					
+						<a target="_blanc" href="/upload/iblock/146/rss_31.12.2017_na_sayt.pdf">Скачать</a><br>
+						pdf (144 кБ)<br> 											
+				</td>
+			</tr>
+																						<tr>
+				<td width="60%">Расчет CC_30.11.17        								</td>
+				<td>13.12.2017 12:18:00</td>
+				<td>
+					
+						<a target="_blanc" href="/upload/iblock/dce/raschet_cc_30112017_na_sayt.pdf">Скачать</a><br>
+						pdf (144 кБ)<br> 											
+				</td>
+			</tr>
+																						<tr class="gray">
+				<td width="60%">Расчет CC_31.10.17        								</td>
+				<td>15.11.2017 11:42:00</td>
+				<td>
+					
+						<a target="_blanc" href="/upload/iblock/4ef/raschet_cc_31102017_na_sayt.pdf">Скачать</a><br>
+						pdf (203 кБ)<br> 											
+				</td>
+			</tr>
+																						<tr>
+				<td width="60%">Расчет CC_30.09.17        								</td>
+				<td>13.10.2017 11:14:00</td>
+				<td>
+					
+						<a target="_blanc" href="/upload/iblock/dae/raschet_ss_na_30.09.2017_na_sayt.pdf">Скачать</a><br>
+						pdf (204 кБ)<br> 											
+				</td>
+			</tr>
+																						<tr class="gray">
+				<td width="60%">Расчет CC_31.08.17        								</td>
+				<td>12.09.2017 17:03:00</td>
+				<td>
+					
+						<a target="_blanc" href="/upload/iblock/c03/raschet_ss_avgust_17.pdf">Скачать</a><br>
+						pdf (138 кБ)<br> 											
+				</td>
+			</tr>
+																						<tr>
+				<td width="60%">Расчет CC_31.07.17        								</td>
+				<td>11.08.2017 17:44:00</td>
+				<td>
+					
+						<a target="_blanc" href="/upload/iblock/2e4/raschet_ss_iyul_17.pdf">Скачать</a><br>
+						pdf (138 кБ)<br> 											
+				</td>
+			</tr>
+																						<tr class="gray">
+				<td width="60%">Расчет CC_30.06.17        								</td>
+				<td>13.07.2017 16:26:00</td>
+				<td>
+					
+						<a target="_blanc" href="/upload/iblock/fa7/raschet_cc_300617.pdf">Скачать</a><br>
+						pdf (138 кБ)<br> 											
+				</td>
+			</tr>
+																						<tr>
+				<td width="60%">Расчет CC_31.05.17        								</td>
+				<td>15.06.2017 11:59:00</td>
+				<td>
+					
+						<a target="_blanc" href="/upload/iblock/2fa/raschet_ss_may_dlya_sayta.pdf">Скачать</a><br>
+						pdf (136 кБ)<br> 											
+				</td>
+			</tr>
+																						<tr class="gray">
+				<td width="60%">Расчет CC_30.04.17        								</td>
+				<td>17.05.2017 15:47:00</td>
+				<td>
+					
+						<a target="_blanc" href="/upload/iblock/b65/raschet_ss_30_04_17.pdf">Скачать</a><br>
+						pdf (136 кБ)<br> 											
+				</td>
+			</tr>
+																						<tr>
+				<td width="60%">Расчет CC_31.03.17        								</td>
+				<td>14.04.2017 16:17:00</td>
+				<td>
+					
+						<a target="_blanc" href="/upload/iblock/6c3/raschet_ss_bez_rassh.pdf">Скачать</a><br>
+						pdf (136 кБ)<br> 											
+				</td>
+			</tr>
+																						<tr class="gray">
+				<td width="60%">Расчет CC_28.02.17        								</td>
+				<td>15.03.2017 16:36:00</td>
+				<td>
+					
+						<a target="_blanc" href="/upload/iblock/861/raschet_ss_dlya_sayta.pdf">Скачать</a><br>
+						pdf (251 кБ)<br> 											
+				</td>
+			</tr>
+																						<tr>
+				<td width="60%">Расчет CC_31.01.17        								</td>
+				<td>14.02.2017 17:18:00</td>
+				<td>
+					
+						<a target="_blanc" href="/upload/iblock/215/raschet_ss_na_31_01_17.pdf">Скачать</a><br>
+						pdf (252 кБ)<br> 											
+				</td>
+			</tr>
+																						<tr class="gray">
+				<td width="60%">Расчет CC_31.12.16        								</td>
+				<td>25.01.2017 16:36:00</td>
+				<td>
+					
+						<a target="_blanc" href="/upload/iblock/813/zamena_rascheta_ss_31_12_2016.pdf">Скачать</a><br>
+						pdf (252 кБ)<br> 											
+				</td>
+			</tr>
+																						<tr>
+				<td width="60%">Расчет CC_30.11.16        								</td>
+				<td>14.12.2016 15:04:00</td>
+				<td>
+					
+						<a target="_blanc" href="/upload/iblock/03f/raschet_ss_11_2016_na_sayt.pdf">Скачать</a><br>
+						pdf (261 кБ)<br> 											
+				</td>
+			</tr>
+																						<tr class="gray">
+				<td width="60%">Расчет CC_31.10.16        								</td>
+				<td>15.11.2016 16:52:00</td>
+				<td>
+					
+						<a target="_blanc" href="/upload/iblock/483/raschet_ss_okt_16.pdf">Скачать</a><br>
+						pdf (262 кБ)<br> 											
+				</td>
+			</tr>
+																						<tr>
+				<td width="60%">Расчет CC_30.09.16        								</td>
+				<td>14.10.2016 17:30:00</td>
+				<td>
+					
+						<a target="_blanc" href="/upload/iblock/9fd/raschet_ss_30_09_2016_na_sayt.pdf">Скачать</a><br>
+						pdf (237 кБ)<br> 											
+				</td>
+			</tr>
+																						<tr class="gray">
+				<td width="60%">Расчет CC_31.08.16        								</td>
+				<td>14.09.2016 11:53:00</td>
+				<td>
+					
+						<a target="_blanc" href="/upload/iblock/028/raschet_ss_za_avgust.pdf">Скачать</a><br>
+						pdf (1.24 мБ)<br> 											
+				</td>
+			</tr>
+																						<tr>
+				<td width="60%">Расчет CC_31.07.16        								</td>
+				<td>08.08.2016 14:54:00</td>
+				<td>
+					
+						<a target="_blanc" href="/upload/iblock/684/raschet_ss_iyul_2016_na_sayt.pdf">Скачать</a><br>
+						pdf (1.24 мБ)<br> 											
+				</td>
+			</tr>
+																						<tr class="gray">
+				<td width="60%">Расчет CC_30.06.16        								</td>
+				<td>13.07.2016 19:12:00</td>
+				<td>
+					
+						<a target="_blanc" href="/upload/iblock/754/raschet_ss_na_30_06_2016.pdf">Скачать</a><br>
+						pdf (1.26 мБ)<br> 											
+				</td>
+			</tr>
+																						<tr>
+				<td width="60%">Расчет CC_31.05.16        								</td>
+				<td>09.06.2016 15:01:00</td>
+				<td>
+					
+						<a target="_blanc" href="/upload/iblock/e1e/raschet_ss_may_2016.pdf">Скачать</a><br>
+						pdf (1.25 мБ)<br> 											
+				</td>
+			</tr>
+																						<tr class="gray">
+				<td width="60%">Расчет СС_30.04.16        								</td>
+				<td>18.05.2016 16:55:00</td>
+				<td>
+					
+						<a target="_blanc" href="/upload/iblock/2f0/raschet_ss_aprel_2016_pif_.pdf">Скачать</a><br>
+						pdf (184 кБ)<br> 											
+				</td>
+			</tr>
+																						<tr>
+				<td width="60%">Расчет СС_31.03.16        								</td>
+				<td>13.04.2016 16:24:00</td>
+				<td>
+					
+						<a target="_blanc" href="/upload/iblock/e27/raschet_ss_mart.pdf">Скачать</a><br>
+						pdf (1.24 мБ)<br> 											
+				</td>
+			</tr>
+																						<tr class="gray">
+				<td width="60%">Расчет СС_29.02.16        								</td>
+				<td>16.03.2016 18:28:00</td>
+				<td>
+					
+						<a target="_blanc" href="/upload/iblock/b88/raschet_ss_fevral_pif_na_sayt.pdf">Скачать</a><br>
+						pdf (179 кБ)<br> 											
+				</td>
+			</tr>
+																						<tr>
+				<td width="60%">Расчет СС_31.01.16        								</td>
+				<td>19.02.2016 17:23:00</td>
+				<td>
+					
+						<a target="_blanc" href="/upload/iblock/620/raschet_ss_31_01_2016.pdf">Скачать</a><br>
+						pdf (179 кБ)<br> 											
+				</td>
+			</tr>
+																						<tr class="gray">
+				<td width="60%">Расчет СС_30.11.15        								</td>
+				<td>11.12.2015 11:49:00</td>
+				<td>
+					
+						<a target="_blanc" href="/upload/iblock/a8b/ss_noyabr.pdf">Скачать</a><br>
+						pdf (180 кБ)<br> 											
+				</td>
+			</tr>
+																						<tr>
+				<td width="60%">Расчет СС_31.12.15        								</td>
+				<td>29.01.2016 11:37:00</td>
+				<td>
+					
+						<a target="_blanc" href="/upload/iblock/cca/raschet_ss_dekabr.pdf">Скачать</a><br>
+						pdf (180 кБ)<br> 											
+				</td>
+			</tr>
+																						<tr class="gray">
+				<td width="60%">Расчет СС_31.10.15        								</td>
+				<td>27.11.2015 16:26:00</td>
+				<td>
+					
+						<a target="_blanc" href="/upload/iblock/c66/raschet_ss_oktyabr.pdf">Скачать</a><br>
+						pdf (180 кБ)<br> 											
+				</td>
+			</tr>
+																						<tr>
+				<td width="60%">Расчет СС_30.09.15        								</td>
+				<td>19.10.2015 17:53:00</td>
+				<td>
+					
+						<a target="_blanc" href="/upload/iblock/793/raschet_ss_sent_2015.pdf">Скачать</a><br>
+						pdf (180 кБ)<br> 											
+				</td>
+			</tr>
+																						<tr class="gray">
+				<td width="60%">Расчет СС_31.08.15        								</td>
+				<td>11.09.2015 13:12:00</td>
+				<td>
+					
+						<a target="_blanc" href="/upload/iblock/ac8/raschet_ss_avgust.pdf">Скачать</a><br>
+						pdf (180 кБ)<br> 											
+				</td>
+			</tr>
+																						<tr>
+				<td width="60%">Расчет СС_31.07.15        								</td>
+				<td>12.08.2015 17:01:00</td>
+				<td>
+					
+						<a target="_blanc" href="/upload/iblock/112/raschet_ss_iyul_.pdf">Скачать</a><br>
+						pdf (180 кБ)<br> 											
+				</td>
+			</tr>
+																						<tr class="gray">
+				<td width="60%">Расчет СС_30.06.15        								</td>
+				<td>24.07.2015 10:24:00</td>
+				<td>
+					
+						<a target="_blanc" href="/upload/iblock/9d6/ss_iyun.pdf">Скачать</a><br>
+						pdf (180 кБ)<br> 											
+				</td>
+			</tr>
+																						<tr>
+				<td width="60%">Расчет СС_31.05.15        								</td>
+				<td>23.06.2015 11:03:00</td>
+				<td>
+					
+						<a target="_blanc" href="/upload/iblock/c60/raschet_ss_may.pdf">Скачать</a><br>
+						pdf (179 кБ)<br> 											
+				</td>
+			</tr>
+																						<tr class="gray">
+				<td width="60%">Расчет СС_30.04.15        								</td>
+				<td>22.05.2015 16:11:00</td>
+				<td>
+					
+						<a target="_blanc" href="/upload/iblock/0d2/raschet_ss_aprel.pdf">Скачать</a><br>
+						pdf (179 кБ)<br> 											
+				</td>
+			</tr>
+																						<tr>
+				<td width="60%">Расчет СС_31.03.15        								</td>
+				<td>16.04.2015 10:19:00</td>
+				<td>
+					
+						<a target="_blanc" href="/upload/iblock/bcc/raschet_cc_31.03.15.pdf">Скачать</a><br>
+						pdf (966 кБ)<br> 											
+				</td>
+			</tr>
+																						<tr class="gray">
+				<td width="60%">Расчет СС_28.02.15        								</td>
+				<td>23.03.2015 18:01:00</td>
+				<td>
+					
+						<a target="_blanc" href="/upload/iblock/b57/raschet_cc_28.02.15.pdf">Скачать</a><br>
+						pdf (966 кБ)<br> 											
+				</td>
+			</tr>
+																						<tr>
+				<td width="60%">Расчет СС_31.01.15        								</td>
+				<td>26.02.2015 10:22:00</td>
+				<td>
+					
+						<a target="_blanc" href="/upload/iblock/ffe/raschet_cc_31.01.15.pdf">Скачать</a><br>
+						pdf (956 кБ)<br> 											
+				</td>
+			</tr>
+																						<tr class="gray">
+				<td width="60%">Расчет СС_31.12.14        								</td>
+				<td>30.01.2015 13:10:00</td>
+				<td>
+					
+						<a target="_blanc" href="/upload/iblock/ba6/raschet_cc_31.12.14.pdf">Скачать</a><br>
+						pdf (968 кБ)<br> 											
+				</td>
+			</tr>
+																						<tr>
+				<td width="60%">Расчет СС_30.11.14        								</td>
+				<td>18.12.2014 17:32:00</td>
+				<td>
+					
+						<a target="_blanc" href="/upload/iblock/88a/raschet_cc_30.11.14.pdf">Скачать</a><br>
+						pdf (958 кБ)<br> 											
+				</td>
+			</tr>
+																						<tr class="gray">
+				<td width="60%">Расчет СС_31.10.14        								</td>
+				<td>24.11.2014 10:51:00</td>
+				<td>
+					
+						<a target="_blanc" href="/upload/iblock/cee/raschet_ss_31.10.14.pdf">Скачать</a><br>
+						pdf (968 кБ)<br> 											
+				</td>
+			</tr>
+																						<tr>
+				<td width="60%">Расчет СС_30.09.14        								</td>
+				<td>13.10.2014 13:51:00</td>
+				<td>
+					
+						<a target="_blanc" href="/upload/iblock/8ee/raschet_cc_30.09.14.pdf">Скачать</a><br>
+						pdf (966 кБ)<br> 											
+				</td>
+			</tr>
+																						<tr class="gray">
+				<td width="60%">Расчет СС на 31.08.14        								</td>
+				<td>15.09.2014 15:12:00</td>
+				<td>
+					
+						<a target="_blanc" href="/upload/iblock/f81/raschet_cc_31.08.14.pdf">Скачать</a><br>
+						pdf (958 кБ)<br> 											
+				</td>
+			</tr>
+																						<tr>
+				<td width="60%">Расчет СС на 31.07.14        								</td>
+				<td>26.08.2014 13:44:00</td>
+				<td>
+					
+						<a target="_blanc" href="/upload/iblock/abc/raschet_cc_31.07.14.pdf">Скачать</a><br>
+						pdf (951 кБ)<br> 											
+				</td>
+			</tr>
+																						<tr class="gray">
+				<td width="60%">Расчет СС на 30.06.14        								</td>
+				<td>14.07.2014 09:53:00</td>
+				<td>
+					
+						<a target="_blanc" href="/upload/iblock/527/raschet_cc_30.06.14.pdf">Скачать</a><br>
+						pdf (961 кБ)<br> 											
+				</td>
+			</tr>
+																						<tr>
+				<td width="60%">Расчет СС на 31.05.14        								</td>
+				<td>23.06.2014 09:56:00</td>
+				<td>
+					
+						<a target="_blanc" href="/upload/iblock/a6f/raschet_cc_31.05.14.pdf">Скачать</a><br>
+						pdf (952 кБ)<br> 											
+				</td>
+			</tr>
+																						<tr class="gray">
+				<td width="60%">Расчет СС на 30.04.14        								</td>
+				<td>16.05.2014 10:20:00</td>
+				<td>
+					
+						<a target="_blanc" href="/upload/iblock/97e/raschet_cc_30.04.14.pdf">Скачать</a><br>
+						pdf (962 кБ)<br> 											
+				</td>
+			</tr>
+																						<tr>
+				<td width="60%">Расчет СС на 31.03.14        								</td>
+				<td>18.04.2014 12:06:00</td>
+				<td>
+					
+						<a target="_blanc" href="/upload/iblock/6f9/raschet_cc_31.03.14.pdf">Скачать</a><br>
+						pdf (1.26 мБ)<br> 											
+				</td>
+			</tr>
+																						<tr class="gray">
+				<td width="60%">Расчет СС на 28.02.14        								</td>
+				<td>26.03.2014 10:43:00</td>
+				<td>
+					
+						<a target="_blanc" href="/upload/iblock/f2d/raschet_cc_28.02.14.pdf">Скачать</a><br>
+						pdf (1.29 мБ)<br> 											
+				</td>
+			</tr>
+																						<tr>
+				<td width="60%">Расчет CC_31.01.2014        								</td>
+				<td>27.02.2014 11:35:00</td>
+				<td>
+					
+						<a target="_blanc" href="/upload/iblock/cad/raschet_cc_31.01.14.pdf">Скачать</a><br>
+						pdf (1.3 мБ)<br> 											
+				</td>
+			</tr>
+																						<tr class="gray">
+				<td width="60%">Расчет СС_31.12.13        								</td>
+				<td>29.01.2014 13:53:00</td>
+				<td>
+					
+						<a target="_blanc" href="/upload/iblock/499/raschet_cc_31.12.13.pdf">Скачать</a><br>
+						pdf (1.27 мБ)<br> 											
+				</td>
+			</tr>
+																						<tr>
+				<td width="60%">Расчет СС_30.11.13        								</td>
+				<td>27.12.2013 10:04:00</td>
+				<td>
+					
+						<a target="_blanc" href="/upload/iblock/b2e/raschet_cc_301113.pdf">Скачать</a><br>
+						pdf (1.28 мБ)<br> 											
+				</td>
+			</tr>
+																						<tr class="gray">
+				<td width="60%">Расчет СС_31.10.13        								</td>
+				<td>22.11.2013 11:11:00</td>
+				<td>
+					
+						<a target="_blanc" href="/upload/iblock/f6c/raschet_cc_311013.pdf">Скачать</a><br>
+						pdf (1.29 мБ)<br> 											
+				</td>
+			</tr>
+																						<tr>
+				<td width="60%">Расчет СС_30.09.13        								</td>
+				<td>24.10.2013 09:41:00</td>
+				<td>
+					
+						<a target="_blanc" href="/upload/iblock/7cb/raschet_cc_300913.pdf">Скачать</a><br>
+						pdf (1.3 мБ)<br> 											
+				</td>
+			</tr>
+																						<tr class="gray">
+				<td width="60%">Расчет СС_31.08.13        								</td>
+				<td>27.09.2013 14:49:00</td>
+				<td>
+					
+						<a target="_blanc" href="/upload/iblock/e15/raschet_cc_310813.pdf">Скачать</a><br>
+						pdf (1.3 мБ)<br> 											
+				</td>
+			</tr>
+																						<tr>
+				<td width="60%">Расчет СС_31.07.13        								</td>
+				<td>19.08.2013 11:15:00</td>
+				<td>
+					
+						<a target="_blanc" href="/upload/iblock/67e/raschet_cc_310713.pdf">Скачать</a><br>
+						pdf (1.25 мБ)<br> 											
+				</td>
+			</tr>
+																						<tr class="gray">
+				<td width="60%">Расчет СС_30.06.13        								</td>
+				<td>23.07.2013 16:19:00</td>
+				<td>
+					
+						<a target="_blanc" href="/upload/iblock/5dd/300613.pdf">Скачать</a><br>
+						pdf (1.3 мБ)<br> 											
+				</td>
+			</tr>
+																						<tr>
+				<td width="60%">Расчет СС_31.05.13        								</td>
+				<td>13.06.2013 17:36:00</td>
+				<td>
+					
+						<a target="_blanc" href="/upload/iblock/bcb/310513.pdf">Скачать</a><br>
+						pdf (1.29 мБ)<br> 											
+				</td>
+			</tr>
+																						<tr class="gray">
+				<td width="60%">Расчет СС_30.04.13        								</td>
+				<td>17.05.2013 16:58:00</td>
+				<td>
+					
+						<a target="_blanc" href="/upload/iblock/f90/300413.pdf">Скачать</a><br>
+						pdf (1.27 мБ)<br> 											
+				</td>
+			</tr>
+																						<tr>
+				<td width="60%">Расчет СС_31.03.13        								</td>
+				<td>24.04.2013 15:52:00</td>
+				<td>
+					
+						<a target="_blanc" href="/upload/iblock/aa5/310313.pdf">Скачать</a><br>
+						pdf (1.23 мБ)<br> 											
+				</td>
+			</tr>
+																						<tr class="gray">
+				<td width="60%">Расчет СС_28.02.13        								</td>
+				<td>20.03.2013 14:59:00</td>
+				<td>
+					
+						<a target="_blanc" href="/upload/iblock/9a0/280213.pdf">Скачать</a><br>
+						pdf (1.31 мБ)<br> 											
+				</td>
+			</tr>
+																						<tr>
+				<td width="60%">Расчет СС _31.01.13        								</td>
+				<td>25.02.2013 12:14:00</td>
+				<td>
+					
+						<a target="_blanc" href="/upload/iblock/528/310113.pdf">Скачать</a><br>
+						pdf (1.31 мБ)<br> 											
+				</td>
+			</tr>
+										</tbody></table>
+</div>
+
+
+
+
+
+<br>			
+		</div>
+		<div class="fl_r pad0_20 padt35 w150 rm"><div class="right_obl">
+<div class="r_anons_news">
+		<p class="news-item" id="bx_1914200112_216943">
+							<span class="news-date-time">
+				03.03.2023 13:40			</span>
+											<a href="/raskrytie-informatsii/region-portfelnye-investitsii/ofitsialnye-soobshcheniya/216943/"><b>Результаты проведения специальной оценки условий труда</b></a>
+														</p>
+		<p class="news-item" id="bx_1914200112_216798">
+							<span class="news-date-time">
+				18.02.2023 19:42			</span>
+											<a href="/raskrytie-informatsii/region-portfelnye-investitsii/ofitsialnye-soobshcheniya/216798/"><b>ООО «УК Портфельные инвестиции» сообщает о технических неполадках на сайте</b></a>
+														</p>
+		<p class="news-item" id="bx_1914200112_216780">
+							<span class="news-date-time">
+				17.02.2023 14:55			</span>
+											<a href="/raskrytie-informatsii/region-portfelnye-investitsii/ofitsialnye-soobshcheniya/216780/"><b>ООО «УК Портфельные инвестиции» сообщает о технических неполадках на сайте</b></a>
+														</p>
+		<p class="news-item" id="bx_1914200112_216543">
+							<span class="news-date-time">
+				01.02.2023 12:06			</span>
+											<a href="/raskrytie-informatsii/region-portfelnye-investitsii/ofitsialnye-soobshcheniya/216543/"><b>Сообщение о регистрации изменений и дополнений №17 в Правила доверительного управления ЗПИФ смешанных инвестиций «Коммерческие инвестиции»</b></a>
+														</p>
+		<p class="news-item" id="bx_1914200112_215868">
+							<span class="news-date-time">
+				06.12.2022 13:20			</span>
+											<a href="/raskrytie-informatsii/region-portfelnye-investitsii/ofitsialnye-soobshcheniya/215868/"><b>Сообщение о  дате составления списка владельцев инвестиционных паев ЗПИФ смешанных инвестиций «Коммерческие Инвестиции» для частичного погашения инвестиционных паев без заявления владельцами инвестиционных паев требований об их погашении</b></a>
+														</p>
+<a class="a_allnews" href="/raskrytie-informatsii/region-portfelnye-investitsii/ofitsialnye-soobshcheniya/">Все сообщения</a>
+</div>
+ </div>
+
+</div>
+<div class="clearBlock h70p"></div>
+</div>
+ </div>
+<div class="ta_c padb10 fs11 footer">
+<a href="http://www.prof-line.ru/" title="Сделано в интернет-агентстве ПРОФЛАЙН" target="_blank"><img alt="Сделано в интернет-агентстве ПРОФЛАЙН" title="Сделано в интернет-агентстве ПРОФЛАЙН" border="0" src="/images/profline.png" style="margin-bottom:-10px;"></a>
+</div>
+

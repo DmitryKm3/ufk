@@ -1,0 +1,477 @@
+
+
+<header class="header-wrapper">
+	<div class="up-row content">
+		<div class="up-row-columns">
+			<div class="up-row-col up-block-email" id="head-block-email">
+				<div class="email-img">
+					<figure>
+						<img src="/images/message.png" alt="">
+					</figure>
+				</div>
+				<div class="email-txt">
+					<a href="mailto:main@uk-proekt.ru">
+						<div class="info-text-block">
+<!--							<span>main@uk-proekt.ru</span>-->
+							<span>main@uk-proekt.ru</span>
+						</div>
+						<div class="info-text-block">
+							<span style="font-size: .9em">эл. почта</span>
+						</div>
+					</a>
+				</div>
+			</div>
+			<div class="up-row-col up-block-logo">
+				<a href="/"><img src="/images/logo.svg" alt="" class="logo"></a>
+			</div>
+			<div class="up-row-col up-block-btn" id="head-block-btn">
+<!--				<a class="btn-main" href="/#btn-menu-feedback">Обратная связь</a>-->
+				<a class="btn-main" href="/site/contact/#section-feedback" id="btn-menu-feedback">Обратная связь</a>
+			</div>
+		</div>
+	</div>
+
+	<nav id="ukp-nav" class="navbar navbar-expand-md navbar-light bg-light">
+<div class="container">
+<a class="navbar-brand" href="/">&nbsp;</a>
+<button type="button" class="navbar-toggler" data-toggle="collapse" data-target="#ukp-nav-collapse" aria-controls="ukp-nav-collapse" aria-expanded="false" aria-label="Toggle navigation"><span class="navbar-toggler-icon"></span></button>
+<div id="ukp-nav-collapse" class="collapse navbar-collapse">
+<ul id="w0" class="navbar-nav nav"><li class="nav-item"><a class="nav-link" href="/site/about">О компании</a></li>
+<li class="nav-item"><a class="nav-link" href="/site/open-info">Раскрытие информации</a></li>
+<li class="nav-item"><a class="nav-link" href="/site/funds">Фонды</a></li>
+<li class="nav-item"><a class="nav-link" href="/site/news">Новости</a></li>
+<li class="nav-item"><a class="nav-link" href="/site/contact">Контакты</a></li></ul></div>
+</div>
+</nav></header>
+
+<main role="main" class="flex-shrink-0">
+			
+<!--<div class="site-open_data" id="section-open_data">-->
+<div class="site-open_data">
+	<div class="content">
+		<div class="site-open_data-logo">
+			<div class="site-open_data-logo-block">
+				<div class="text-block"><div class="text-caps">Раскрытие<br>информации</div></div>
+			</div>
+
+			<div class="site-open_data-logo-img col-sm-8">
+				<img src="/images/53.jpg" alt="">
+			</div>
+		</div>
+
+		<div id="div_block-3-10" class="ct-div-block container" hidden="">
+			<div id="div_block-4-10" class="ct-div-block row">
+				<div id="div_block-5-10" class="ct-div-block col-lg-12">
+					<div id="div_block-6-10" class="ct-div-block project-details-item">
+						<div id="div_block-7-10" class="ct-div-block project-details-left"><img id="image-8-10" alt="" src="/images/53.jpg" class="ct-image"></div>
+						<div id="div_block-9-10" class="ct-div-block project-details-right">
+							<div id="div_block-11-10" class="ct-div-block project-right-text"><h2 id="headline-12-10" class="ct-headline">
+									Раскрытие информации ООО «УК «Проект»</h2></div>
+						</div>
+					</div>
+				</div>
+			</div>
+		</div>
+
+						<table class="table-data">
+					<caption>Документы управляющей компании</caption>
+					<thead>
+					<tr>
+						<th class="table-col1">Наименование</th>
+						<th class="table-col2">Дата публикации</th>
+						<th class="table-col3">Срок доступа</th>
+					</tr>
+					</thead>
+					<tbody>
+											<tr>
+							<td><a href="/ukpfiles/docs/1/64be64f15ae375102996cb0a1cf81fbe.pdf" target="_blank">Сообщение о регистрации правил доверительного управления и о начале срока приема заявок на приобретение инвестиционных паев при формировании Комбинированного закрытого паевого инвестиционного фонда «Фонд залоговых инвестиций»</a></td>
+							<td>01.02.2023 23:11</td>
+							<td>01.07.2023</td>
+						</tr>
+											<tr>
+							<td><a href="/ukpfiles/docs/1/bb2cdf9ab325c93155acd0ef0867e794.pdf" target="_blank">Уведомление о смене юридического адреса и адреса местонахождения Общества с ограниченной ответственностью «Управляющая компания «Проект»</a></td>
+							<td>25.03.2022 15:01</td>
+							<td>Бессрочно</td>
+						</tr>
+											<tr>
+							<td><a href="/ukpfiles/docs/1/d942a58ebd0e36a73b2dfc3d1fabe124.pdf" target="_blank">Регламент признания лиц квалифицированными инвесторами Общества с ограниченной ответственностью «Управляющая компания «Проект» (архив)</a></td>
+							<td>30.09.2021 17:15</td>
+							<td>Бессрочно</td>
+						</tr>
+											<tr>
+							<td><a href="/ukpfiles/docs/1/72e81f17ddc185320ad2de232e3ce0fb.pdf" target="_blank">Критерии отнесения клиентов в ООО «УК «Проект» к категории клиентов-иностранных налогоплательщиков и способы получения от них необходимой информации</a></td>
+							<td>06.08.2021 18:25</td>
+							<td>Бессрочно</td>
+						</tr>
+											<tr>
+							<td><a href="/ukpfiles/docs/1/80120b266aadeae3915bccc6bd46d56e.pdf" target="_blank">Регламент признания лиц квалифицированными инвесторами Общества с ограниченной ответственностью «Управляющая компания «Проект» (архив)</a></td>
+							<td>06.08.2021 18:24</td>
+							<td>Бессрочно</td>
+						</tr>
+										</tbody>
+				</table>
+							<table class="table-data">
+					<caption>Регламент признания лиц квалифицированными инвесторами</caption>
+					<thead>
+					<tr>
+						<th class="table-col1">Наименование</th>
+						<th class="table-col2">Дата публикации</th>
+						<th class="table-col3">Срок доступа</th>
+					</tr>
+					</thead>
+					<tbody>
+											<tr>
+							<td><a href="/ukpfiles/docs/4/a178d90d5869dd11ae7001ded9591b38.docx" target="_blank">Информация для лиц, признанных ООО УК Проект квалифицированными инвесторами</a></td>
+							<td>27.01.2023 19:55</td>
+							<td>Бессрочно</td>
+						</tr>
+											<tr>
+							<td><a href="/ukpfiles/docs/4/1df08292c853151b3c610ee53b09a552.pdf" target="_blank">Регламент признания лиц квалифицированными инвесторами Общества с ограниченной ответственностью «Управляющая компания «Проект» от 27.01.2023 г.</a></td>
+							<td>27.01.2023 19:50</td>
+							<td>Бессрочно</td>
+						</tr>
+										</tbody>
+				</table>
+							<table class="table-data">
+					<caption>Расчёт размера собственных средств</caption>
+					<thead>
+					<tr>
+						<th class="table-col1">Наименование</th>
+						<th class="table-col2">Дата публикации</th>
+						<th class="table-col3">Срок доступа</th>
+					</tr>
+					</thead>
+					<tbody>
+											<tr>
+							<td><a href="/ukpfiles/docs/2/c292b7efd1fbc5af3ad9a1db24db19a2.pdf" target="_blank">Расчёт размера собственных средств ООО «УК «Проект» на 31 мая 2023 года</a></td>
+							<td>15.06.2023 11:47</td>
+							<td>15.07.2026</td>
+						</tr>
+											<tr>
+							<td><a href="/ukpfiles/docs/2/518bbbb140c59b08190f4e2915dfb52b.pdf" target="_blank">Расчёт размера собственных средств ООО «УК «Проект» на 30 апреля 2023 года</a></td>
+							<td>15.05.2023 17:03</td>
+							<td>15.06.2026</td>
+						</tr>
+											<tr>
+							<td><a href="/ukpfiles/docs/2/452764f57539f2f80c864b406f521187.pdf" target="_blank">Расчёт размера собственных средств ООО «УК «Проект» на 31 марта 2023 года</a></td>
+							<td>14.04.2023 00:02</td>
+							<td>14.05.2026</td>
+						</tr>
+											<tr>
+							<td><a href="/ukpfiles/docs/2/60c6b90028b3f32f5acb0500442f3d5f.pdf" target="_blank">Расчёт размера собственных средств ООО «УК «Проект» на 28 февраля 2023 года</a></td>
+							<td>13.03.2023 17:02</td>
+							<td>13.04.2026</td>
+						</tr>
+											<tr>
+							<td><a href="/ukpfiles/docs/2/101cda59c15cd4d49c493cbdbbf848cd.pdf" target="_blank">Расчёт размера собственных средств ООО «УК «Проект» на 31 января 2023 года</a></td>
+							<td>13.02.2023 11:55</td>
+							<td>13.03.2026</td>
+						</tr>
+											<tr>
+							<td><a href="/ukpfiles/docs/2/4a98fa4ad1df17b40ac9bd3b50138128.pdf" target="_blank">Расчёт размера собственных средств ООО «УК «Проект» на 31 декабря 2022 года</a></td>
+							<td>17.01.2023 11:06</td>
+							<td>17.02.2026</td>
+						</tr>
+											<tr>
+							<td><a href="/ukpfiles/docs/2/69f33b1a76d39daf129e4926e39b1122.pdf" target="_blank">Расчёт размера собственных средств ООО «УК «Проект» на 30 ноября 2022 года</a></td>
+							<td>07.12.2022 17:34</td>
+							<td>07.01.2026</td>
+						</tr>
+											<tr>
+							<td><a href="/ukpfiles/docs/2/62784bc7bbe8b5e2e26a45ab67978bff.pdf" target="_blank">Расчёт размера собственных средств ООО «УК «Проект» на 31 октября 2022 года</a></td>
+							<td>10.11.2022 11:32</td>
+							<td>10.12.2025</td>
+						</tr>
+											<tr>
+							<td><a href="/ukpfiles/docs/2/f7f15497df4e493ac757c7d26af80605.pdf" target="_blank">Расчёт размера собственных средств ООО «УК «Проект» на 30 сентября 2022 года</a></td>
+							<td>10.10.2022 14:49</td>
+							<td>10.11.2025</td>
+						</tr>
+											<tr>
+							<td><a href="/ukpfiles/docs/2/9d63a3d7d2495dea20284a382cb7ac7b.pdf" target="_blank">Расчёт размера собственных средств ООО «УК «Проект» на 31 августа 2022 года</a></td>
+							<td>12.09.2022 11:41</td>
+							<td>12.10.2025</td>
+						</tr>
+											<tr>
+							<td><a href="/ukpfiles/docs/2/39aa8664475f663c6e05d839307fde04.pdf" target="_blank">Расчёт размера собственных средств ООО «УК «Проект» на 31 июля 2022 года</a></td>
+							<td>09.08.2022 09:53</td>
+							<td>09.09.2025</td>
+						</tr>
+											<tr>
+							<td><a href="/ukpfiles/docs/2/9eeeef4cc908e608066de9ac5cf45e1b.pdf" target="_blank">Расчёт размера собственных средств ООО «УК «Проект» на 30 июня 2022 года</a></td>
+							<td>11.07.2022 16:25</td>
+							<td>11.08.2025</td>
+						</tr>
+											<tr>
+							<td><a href="/ukpfiles/docs/2/d8ddb3bc46e03edb7ebcac976a23b4af.pdf" target="_blank">Расчёт размера собственных средств ООО «УК «Проект» на 31 мая 2022 года</a></td>
+							<td>10.06.2022 09:26</td>
+							<td>10.07.2025</td>
+						</tr>
+											<tr>
+							<td><a href="/ukpfiles/docs/2/378de4fed75929b06ac2aa98306df984.pdf" target="_blank">Расчёт размера собственных средств ООО «УК «Проект» на 30 апреля 2022 года</a></td>
+							<td>16.05.2022 11:53</td>
+							<td>16.06.2025</td>
+						</tr>
+											<tr>
+							<td><a href="/ukpfiles/docs/2/cb7dd1a98a8c60f3ab8d18a5428b358f.pdf" target="_blank">Расчёт размера собственных средств ООО «УК «Проект» на 31 марта 2022 года</a></td>
+							<td>11.04.2022 18:22</td>
+							<td>11.05.2025</td>
+						</tr>
+											<tr>
+							<td><a href="/ukpfiles/docs/2/983628247e02ad02e637d99b0dbb85e5.pdf" target="_blank">Расчёт размера собственных средств ООО «УК «Проект» на 28 февраля 2022 года</a></td>
+							<td>11.03.2022 11:59</td>
+							<td>11.04.2025</td>
+						</tr>
+											<tr>
+							<td><a href="/ukpfiles/docs/2/4cfb69f79b16d4160deedfb8adffecac.pdf" target="_blank">Расчёт размера собственных средств ООО «УК «Проект» на 31 января 2022 года</a></td>
+							<td>11.02.2022 16:18</td>
+							<td>11.03.2025</td>
+						</tr>
+											<tr>
+							<td><a href="/ukpfiles/docs/2/d2184c16391522e36967f1268fd10409.pdf" target="_blank">Расчёт размера собственных средств ООО «УК «Проект» на 31 декабря 2021 года</a></td>
+							<td>21.01.2022 12:45</td>
+							<td>21.02.2025</td>
+						</tr>
+											<tr>
+							<td><a href="/ukpfiles/docs/2/7b94d7bfdf9030515cd78546784036bf.pdf" target="_blank">Расчёт размера собственных средств ООО «УК «Проект» на 30 ноября 2021 года</a></td>
+							<td>10.12.2021 16:16</td>
+							<td>10.01.2025</td>
+						</tr>
+											<tr>
+							<td><a href="/ukpfiles/docs/2/acf9534b46c6a20569b6b30aa42a8910.pdf" target="_blank">Расчёт размера собственных средств ООО «УК «Проект» на 31 октября 2021 года</a></td>
+							<td>16.11.2021 13:37</td>
+							<td>16.12.2024</td>
+						</tr>
+											<tr>
+							<td><a href="/ukpfiles/docs/2/b093bfdb1bb7c3fcc840111e37f2d01e.pdf" target="_blank">Расчёт размера собственных средств ООО «УК «Проект» на 30 сентября 2021 года</a></td>
+							<td>08.10.2021 10:09</td>
+							<td>08.11.2024</td>
+						</tr>
+											<tr>
+							<td><a href="/ukpfiles/docs/2/163a143cc273b7211105b258e1c8ee55.pdf" target="_blank">Расчёт размера собственных средств ООО «УК «Проект» на 31 августа 2021 года</a></td>
+							<td>09.09.2021 16:35</td>
+							<td>09.10.2024</td>
+						</tr>
+											<tr>
+							<td><a href="/ukpfiles/docs/2/06d4444f31c5236f9c4c9a195cdbcf28.pdf" target="_blank">Расчёт размера собственных средств ООО «УК «Проект» на 31 июля 2021 года </a></td>
+							<td>06.08.2021 17:52</td>
+							<td>06.09.2024</td>
+						</tr>
+										</tbody>
+				</table>
+							<table class="table-data">
+					<caption>Финансовая отчётность и аудиторские заключения</caption>
+					<thead>
+					<tr>
+						<th class="table-col1">Наименование</th>
+						<th class="table-col2">Дата публикации</th>
+						<th class="table-col3">Срок доступа</th>
+					</tr>
+					</thead>
+					<tbody>
+											<tr>
+							<td><a href="/ukpfiles/docs/3/ac4f231cfc9972199ec537f2a907aca3.pdf" target="_blank">Промежуточная бухгалтерская (финансовая) отчётность за 3 месяца 2023 года</a></td>
+							<td>28.04.2023 18:30</td>
+							<td>30.04.2026</td>
+						</tr>
+											<tr>
+							<td><a href="/ukpfiles/docs/3/6e3def0a069825e1a0b099b932100670.pdf" target="_blank">Годовая бухгалтерская (финансовая) отчетность некредитной финансовой организации за 2022 год</a></td>
+							<td>28.03.2023 11:22</td>
+							<td>31.03.2026</td>
+						</tr>
+											<tr>
+							<td><a href="/ukpfiles/docs/3/71dc00ee5e1a80d23c9125fa4f3559cb.pdf" target="_blank">Аудиторское заключение за 2022 год</a></td>
+							<td>28.03.2023 10:59</td>
+							<td>31.03.2026</td>
+						</tr>
+											<tr>
+							<td><a href="/ukpfiles/docs/3/3d217b6a60a15dca7d7720439378dcd8.pdf" target="_blank">Промежуточная бухгалтерская (финансовая) отчётность на 31 декабря 2022 года</a></td>
+							<td>30.01.2023 11:58</td>
+							<td>31.01.2026</td>
+						</tr>
+											<tr>
+							<td><a href="/ukpfiles/docs/3/61f70beb81f2e1df9592c4473ea556be.pdf" target="_blank">Промежуточная бухгалтерская (финансовая) отчётность за 9 месяцев 2022 года</a></td>
+							<td>27.10.2022 16:00</td>
+							<td>31.10.2025</td>
+						</tr>
+											<tr>
+							<td><a href="/ukpfiles/docs/3/ad661b063dfb321bab8bcba35e61a835.pdf" target="_blank">Промежуточная бухгалтерская (финансовая) отчётность за 6 месяцев 2022 года</a></td>
+							<td>25.07.2022 14:24</td>
+							<td>31.07.2025</td>
+						</tr>
+											<tr>
+							<td><a href="/ukpfiles/docs/3/3a633fc8471c69d3d9ef9c2cf2439576.pdf" target="_blank">Промежуточная бухгалтерская (финансовая) отчётность за 3 месяца 2022 года</a></td>
+							<td>27.04.2022 17:30</td>
+							<td>30.04.2025</td>
+						</tr>
+											<tr>
+							<td><a href="/ukpfiles/docs/3/3a5766b05bffae57107419254bddb3ca.pdf" target="_blank">Аудиторское заключение за 2021 год</a></td>
+							<td>28.03.2022 15:48</td>
+							<td>31.03.2025</td>
+						</tr>
+											<tr>
+							<td><a href="/ukpfiles/docs/3/8499a7e701a190146e065a2711e666cf.pdf" target="_blank">Годовая бухгалтерская (финансовая) отчетность некредитной финансовой организации за 2021 год</a></td>
+							<td>28.03.2022 15:47</td>
+							<td>31.03.2025</td>
+						</tr>
+											<tr>
+							<td><a href="/ukpfiles/docs/3/d947ec420f09e9e4e6cc8841de00dddf.pdf" target="_blank">Промежуточная бухгалтерская (финансовая) отчётность за 9 месяцев 2021 года</a></td>
+							<td>27.10.2021 15:04</td>
+							<td>30.10.2024</td>
+						</tr>
+										</tbody>
+				</table>
+			
+	</div>
+</div>
+</main>
+
+<!--<footer class="footer mt-auto py-3 text-muted">-->
+<div class="content">
+	<div class="about-text-item" style="margin: 50px auto">
+		<div class="service-img" style="float: left">
+			<div class="service-img-round">
+				<img src="/images/team.png" alt="">			</div>
+		</div>
+		<div class="info-item" style="margin-left: 50px">
+			<div class="service-txt">
+				<div class="service-header">ИНФОРМАЦИЯ</div>
+				<div class="service-text">Стоимость инвестиционных паёв может увеличиваться и уменьшаться. Результаты инвестирования в прошлом не определяют доходы в будущем. Государство не гарантирует доходность инвестиций в паевые инвестиционные фонды. До приобретения инвестиционных паёв следует ознакомиться с Правилами доверительного управления паевым инвестиционным фондом.<br>ООО "УК "Проект" не несёт ответственности за возможные убытки инвестора в случае совершения операций с паями.</div>
+			</div>
+		</div>
+	</div>
+</div>
+
+<footer>
+<!--	<div class="footer-info-area">-->
+
+	<div class="content">
+		<div class="footer-items">
+			<div class="footer-item">
+				<div class="footer-item-block">
+					<div class="footer-item-text">
+						<div class="footer-text-header">
+							<a href="/">
+								<img class="footer-logo" alt="" src="/images/footer-logo.svg">
+							</a>
+						</div>
+						<div class="footer-text-row-block">
+							<div class="row-block-img"></div>
+							<a href="/admin">
+								<div class="row-block-txt">Общество с ограниченной ответственностью «Управляющая компания «Проект»</div>
+							</a>
+						</div>
+					</div>
+				</div>
+			</div>
+			<div class="footer-item">
+				<div class="footer-item-block">
+					<div class="footer-item-text">
+						<div class="footer-text-header">Об организации</div>
+						<div class="footer-text-row-block">
+							<div class="row-block-img"></div>
+							<div class="row-block-txt">ИНН/КПП<br>1655449328 / 165501001</div>
+						</div>
+						<div class="footer-text-row-block">
+							<div class="row-block-img"></div>
+							<div class="row-block-txt">ОГРН<br>1201600087150</div>
+						</div>
+						<div class="footer-text-row-block">
+							<div class="row-block-img"></div>
+							<div class="row-block-txt">Лицензия №&nbsp;21-000-1-01049<br>выдана Банком России 27.07.2021&nbsp;г. (лицензия бессрочная)</div>
+						</div>
+					</div>
+				</div>
+			</div>
+			<div class="footer-item">
+				<div class="footer-item-block">
+					<div class="footer-item-text">
+						<div class="footer-text-header">Адреса и контакты</div>
+						<div class="footer-text-row-block">
+							<div class="row-block-img"><img alt="" src="/images/f-map.png"></div>
+							<div class="row-block-txt">420107, Республика Татарстан, г.&nbsp;Казань, ул.&nbsp;Хади Такташа, д.&nbsp;41, пом.&nbsp;1023, комната&nbsp;12</div>
+						</div>
+						<div class="footer-text-row-block">
+							<div class="row-block-img"><img alt="" src="/images/f-phone.png"></div>
+							<div class="row-block-txt">Телефон :<br>&nbsp;&nbsp;&nbsp;+7 (843) 251-18-19</div>
+						</div>
+						<div class="footer-text-row-block">
+							<div class="row-block-img"><img alt="" src="/images/f-globe.png"></div>
+							<div class="row-block-txt">Электронная почта :<br>&nbsp;&nbsp;&nbsp;main@uk-proekt.ru</div>
+						</div>
+					</div>
+				</div>
+			</div>
+			<div class="footer-item">
+				<div class="footer-item-block">
+					<div class="footer-item-text">
+						<div class="footer-text-header">Карта сайта</div>
+<!--						<div class="footer-text-row-block">-->
+<!--							<div class="row-block-img"></div>-->
+<!--							<div class="row-block-txt" id="btn-menu-f-main">О компании</div>-->
+<!--						</div>-->
+						<div class="footer-text-row-block">
+							<div class="row-block-img"></div>
+							<div class="row-block-txt">
+								<a href="/site/about" id="btn-menu-f-main">О компании</a>
+							</div>
+						</div>
+<!--						<div class="footer-text-row-block">-->
+<!--							<div class="row-block-img"></div>-->
+<!--							<div class="row-block-txt" id="btn-menu-f-open_data">Раскрытие информации</div>-->
+<!--						</div>-->
+						<div class="footer-text-row-block">
+							<div class="row-block-img"></div>
+							<div class="row-block-txt">
+								<a href="/site/open-info" id="btn-menu-f-open_data">Раскрытие информации</a>
+							</div>
+						</div>
+<!--						<div class="footer-text-row-block">-->
+<!--							<div class="row-block-img"></div>-->
+<!--							<div class="row-block-txt" id="btn-menu-f-news">Новости</div>-->
+<!--						</div>-->
+						<div class="footer-text-row-block">
+							<div class="row-block-img"></div>
+							<div class="row-block-txt">
+								<a href="/site/news" id="btn-menu-f-news">Новости</a>
+							</div>
+						</div>
+<!--						<div class="footer-text-row-block">-->
+<!--							<div class="row-block-img"></div>-->
+<!--							<div class="row-block-txt" id="btn-menu-f-contact">Контакты</div>-->
+<!--						</div>-->
+						<div class="footer-text-row-block">
+							<div class="row-block-img"></div>
+							<div class="row-block-txt">
+								<a href="/site/contact" id="btn-menu-f-contact">Контакты</a>
+							</div>
+						</div>
+<!--						<div class="footer-text-row-block">-->
+<!--							<div class="row-block-img"></div>-->
+<!--							<div class="row-block-txt" id="btn-menu-f-feedback">Обратная связь</div>-->
+<!--						</div>-->
+						<div class="footer-text-row-block">
+							<div class="row-block-img"></div>
+							<div class="row-block-txt">
+								<a href="/site/contact/#section-feedback" id="btn-menu-f-feedback">Обратная связь</a>
+							</div>
+						</div>
+					</div>
+				</div>
+			</div>
+		</div>
+	</div>
+
+	<div class="content">
+		<div class="footer-copyright">
+			<span>©  <a href="/index.php"> ООО «УК «Проект» </a> 2020-2023</span>
+		</div>
+	</div>
+</footer>
+
+<script src="/assets/38a76eeb/jquery.js"></script>
+<script src="/assets/f7c345bb/yii.js"></script>
+<script src="/js/owl.carousel.min.js"></script>
+<script src="/js/script.js"></script>
+<script src="/assets/492fb309/js/bootstrap.bundle.js"></script>
+

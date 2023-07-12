@@ -1,0 +1,363 @@
+
+<div class="site" id="page-top">
+            <script>
+            /(trident|msie)/i.test(navigator.userAgent) && document.getElementById && window.addEventListener && window.addEventListener("hashchange", function () {
+                var t, e = location.hash.substring(1);
+                /^[A-z0-9_-]+$/.test(e) && (t = document.getElementById(e)) && (/^(?:a|select|input|button|textarea)$/i.test(t.tagName) || (t.tabIndex = -1), t.focus())
+            }, !1);
+        </script>
+        <a class="skip-link screen-reader-text" href="#content">
+            Перейти к содержимому        </a>
+        <!-- dynamic header start --><div data-colibri-id="53-h1" class="page-header style-34 style-local-53-h1 position-relative">
+  <!---->
+  <div data-colibri-navigation-overlap="true" role="banner" class="h-navigation_outer h-navigation_overlap style-35-outer style-local-53-h2-outer" style="animation-duration: 0s;">
+    <!---->
+    <div style="visibility: hidden; display: none;"></div><div id="navigation" data-colibri-component="navigation" data-colibri-id="53-h2" class="h-section h-navigation h-navigation d-flex style-35 style-local-53-h2" data-loaded="true">
+      <!---->
+      <div class="h-section-grid-container h-section-fluid-container">
+        <div data-nav-normal="">
+          <div data-colibri-id="53-h3" class="h-row-container h-section-boxed-container gutters-row-lg-0 gutters-row-md-0 gutters-row-2 gutters-row-v-lg-0 gutters-row-v-md-0 gutters-row-v-2 style-36 style-local-53-h3 position-relative">
+            <!---->
+            <div class="h-row justify-content-lg-center justify-content-md-center justify-content-center align-items-lg-stretch align-items-md-stretch align-items-stretch gutters-col-lg-0 gutters-col-md-0 gutters-col-2 gutters-col-v-lg-0 gutters-col-v-md-0 gutters-col-v-2">
+              <!---->
+              <div class="h-column h-column-container d-flex h-col-none style-37-outer style-local-53-h4-outer">
+                <div data-colibri-id="53-h4" data-placeholder-provider="navigation-logo" class="d-flex h-flex-basis h-column__inner h-px-lg-0 h-px-md-0 h-px-0 v-inner-lg-0 v-inner-md-0 v-inner-0 style-37 style-local-53-h4 position-relative">
+                  <!---->
+                  <!---->
+                  <div class="w-100 h-y-container h-column__content h-column__v-align flex-basis-100 align-self-lg-center align-self-md-center align-self-center">
+                    <!---->
+                    <div data-colibri-id="53-h5" class="d-flex align-items-center text-lg-left text-md-left text-left justify-content-lg-start justify-content-md-start justify-content-start style-38 style-local-53-h5 position-relative h-element">
+                      <!---->
+                      <a rel="home" href="https://uk-newline.ru/" h-use-smooth-scroll="true" class="d-flex align-items-center">
+                        <img src="https://uk-newline.ru/wp-content/uploads/2021/10/cropped-Newline-Asset-Management-Logo.jpg" class="h-logo__image h-logo__image_h logo-image style-38-image style-local-53-h5-image" alt="">
+                        <img src="https://uk-newline.ru/wp-content/uploads/2021/10/cropped-Newline-Asset-Management-Logo.jpg" class="h-logo__alt-image h-logo__alt-image_h logo-alt-image style-38-image style-local-53-h5-image" alt="">
+                      </a>
+                    </div>
+                  </div>
+                </div>
+              </div>
+              <div class="h-column h-column-container d-flex h-col-none style-204-outer style-local-53-h6-outer h-hide-sm">
+                <div data-colibri-id="53-h6" data-placeholder-provider="navigation-spacing" class="d-flex h-flex-basis h-column__inner h-ui-empty-state-container h-px-lg-0 h-px-md-0 h-px-0 v-inner-lg-0 v-inner-md-0 v-inner-0 style-204 style-local-53-h6 h-hide-sm position-relative">
+                  <!---->
+                  <!---->
+                  <div class="w-100 h-y-container h-column__content h-column__v-align flex-basis-100">
+                    <!---->
+                  </div>
+                </div>
+              </div>
+              <div class="h-column h-column-container d-flex h-col-none style-41-outer style-local-53-h7-outer">
+                <div data-colibri-id="53-h7" data-placeholder-provider="navigation-menu" class="d-flex h-flex-basis h-column__inner h-px-lg-0 h-px-md-0 h-px-0 v-inner-lg-0 v-inner-md-0 v-inner-0 style-41 style-local-53-h7 position-relative">
+                  <!---->
+                  <!---->
+                  <div class="w-100 h-y-container h-column__content h-column__v-align flex-basis-100 align-self-lg-center align-self-md-center align-self-center">
+                    <!---->
+                    <div data-colibri-component="dropdown-menu" role="navigation" h-use-smooth-scroll-all="true" data-colibri-id="53-h8" class="h-menu h-global-transition-all h-ignore-global-body-typography has-offcanvas-tablet h-menu-horizontal h-dropdown-menu style-42 style-local-53-h8 position-relative h-element" data-loaded="true">
+                      <!---->
+                      <div class="h-global-transition-all h-main-menu"><div class="colibri-menu-container"><ul id="menu-%d0%be%d1%81%d0%bd%d0%be%d0%b2%d0%bd%d0%be%d0%b5" class="colibri-menu bordered-active-item bordered-active-item--bottom effect-borders-grow grow-from-center"><li id="menu-item-15" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-home menu-item-15"><a href="http://uk-newline.ru/">Главная страница</a></li>
+<li id="menu-item-439" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-439"><a href="https://uk-newline.ru/public/">Раскрытие информации</a></li>
+<li id="menu-item-440" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-440"><a href="https://uk-newline.ru/details/">Реквизиты</a></li>
+<li id="menu-item-441" class="menu-item menu-item-type-post_type menu-item-object-page current-menu-item page_item page-item-432 current_page_item menu-item-441"><a href="https://uk-newline.ru/documents/" aria-current="page">Документы и отчетность</a></li>
+</ul></div></div>
+                      <div data-colibri-id="53-h9" class="h-mobile-menu h-global-transition-disable style-43 style-local-53-h9 position-relative h-element">
+                        <!---->
+                        <a data-click-outside="true" data-target="#offcanvas-wrapper-53-h9" data-target-id="offcanvas-wrapper-53-h9" data-offcanvas-overlay-id="offcanvas-overlay-53-h9" href="#" data-colibri-component="offcanvas" data-direction="right" data-push="false" title="Menu" class="h-hamburger-button" data-loaded="true">
+                          <div class="icon-container h-hamburger-icon">
+                            <div class="h-icon-svg" style="width: 100%; height: 100%;">
+                              <!--Icon by Font Awesome (https://fontawesome.com)-->
+                              <svg version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" id="bars" viewBox="0 0 1536 1896.0833">
+                                <path d="M1536 1344v128q0 26-19 45t-45 19H64q-26 0-45-19t-19-45v-128q0-26 19-45t45-19h1408q26 0 45 19t19 45zm0-512v128q0 26-19 45t-45 19H64q-26 0-45-19T0 960V832q0-26 19-45t45-19h1408q26 0 45 19t19 45zm0-512v128q0 26-19 45t-45 19H64q-26 0-45-19T0 448V320q0-26 19-45t45-19h1408q26 0 45 19t19 45z"></path>
+                              </svg>
+                            </div>
+                          </div>
+                        </a>
+                        
+                        
+                      </div>
+                    </div>
+                  </div>
+                </div>
+              </div>
+            </div>
+          </div>
+        </div>
+        <div data-nav-sticky="" style="display: none;"></div>
+      </div>
+    </div>
+  <div class="resize-triggers"><div class="expand-trigger"><div style="width: 1028px; height: 123px;"></div></div><div class="contract-trigger"></div></div></div>
+  <div data-colibri-id="53-h23" id="hero" class="h-section h-hero d-flex align-items-lg-center align-items-md-center align-items-center style-57 style-local-53-h23 position-relative">
+    <div class="background-wrapper">
+      <div class="background-layer background-layer-media-container-lg">
+        <div data-enabled="true" data-colibri-component="parallax" class="background-layer paraxify" model-id="53-h23" media="desktop" is-preview="true" style="background-image: url(&quot;http://uk-newline.ru/wp-content/uploads/2020/11/cropped-cropped-Без-названия1-e1604604487201-1.png&quot;); background-position: center -115.8px;" data-loaded="true"><div class="resize-triggers"><div class="expand-trigger"><div style="width: 1028px; height: 330px;"></div></div><div class="contract-trigger"></div></div></div>
+        <div class="overlay-layer">
+          <div class="overlay-image-layer" style="background-color: rgb(255, 255, 255); opacity: 0.54;"></div>
+          <div class="shape-layer colibri-shape-10degree-stripes" style="background-position: center center; background-size: cover; background-repeat: no-repeat;"></div>
+        </div>
+      </div>
+      <div class="background-layer background-layer-media-container-md">
+        <!---->
+        <div class="overlay-layer">
+          <div class="overlay-image-layer" style="background-color: rgb(255, 255, 255); opacity: 0.54;"></div>
+          <div class="shape-layer colibri-shape-10degree-stripes" style="background-position: center center; background-size: cover; background-repeat: no-repeat;"></div>
+        </div>
+      </div>
+      <div class="background-layer background-layer-media-container">
+        <!---->
+        <div class="overlay-layer">
+          <div class="overlay-image-layer" style="background-color: rgb(255, 255, 255); opacity: 0.54;"></div>
+          <div class="shape-layer colibri-shape-10degree-stripes" style="background-position: center center; background-size: cover; background-repeat: no-repeat;"></div>
+        </div>
+      </div>
+    </div>
+    <!---->
+    <div class="h-separator" style="height: 100px; bottom: calc(0px);">
+      <svg style="fill:rgb(166, 185, 187);transform:rotateX(180deg);" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 2600 130.1" preserveAspectRatio="none">
+        <polygon points="0 130.1 2600 69.1 0 69.1 0 130.1" opacity="0.33" style="isolation:isolate"></polygon>
+        <polygon points="0 69.1 2600 69.1 0 0 0 69.1" opacity="0.67" style="isolation:isolate"></polygon>
+        <polygon points="0 0 2600 69.1 2600 0 0 0" style="isolation:isolate"></polygon>
+      </svg>
+    </div>
+    <div class="h-section-grid-container h-navigation-padding h-section-boxed-container" style="padding-top: 122px;">
+      <!---->
+      <div data-colibri-id="53-h24" class="h-row-container gutters-row-lg-0 gutters-row-md-0 gutters-row-0 gutters-row-v-lg-0 gutters-row-v-md-0 gutters-row-v-0 style-58 style-local-53-h24 position-relative">
+        <!---->
+        <div class="h-row justify-content-lg-start justify-content-md-start justify-content-center align-items-lg-stretch align-items-md-stretch align-items-stretch gutters-col-lg-0 gutters-col-md-0 gutters-col-0 gutters-col-v-lg-0 gutters-col-v-md-0 gutters-col-v-0">
+          <!---->
+          <div class="h-column h-column-container d-flex h-col-lg-auto h-col-md-auto h-col-auto style-59-outer style-local-53-h25-outer">
+            <div data-colibri-id="53-h25" class="d-flex h-flex-basis h-column__inner h-px-lg-3 h-px-md-3 h-px-3 v-inner-lg-3 v-inner-md-3 v-inner-3 style-59 style-local-53-h25 inner-hero-title-column position-relative">
+              <!---->
+              <!---->
+              <div class="w-100 h-y-container h-column__content h-column__v-align flex-basis-100 align-self-lg-center align-self-md-center align-self-center">
+                <!---->
+                <div data-colibri-id="53-h26" class="page-title style-60 style-local-53-h26 position-relative h-element">
+                  <!---->
+                  <div class="h-page-title__outer style-60-outer style-local-53-h26-outer">
+                    <div class="h-global-transition-all"><span><h3 style="margin-bottom:0">Документы и отчетность</h3></span></div>
+                  </div>
+                </div>
+              </div>
+            </div>
+          </div>
+          <!---->
+        </div>
+      </div>
+    </div>
+  </div>
+</div>		<script type="text/javascript">
+          (function () {
+            function setHeaderTopSpacing() {
+
+                // forEach polyfill
+                if(!NodeList.prototype.forEach){
+                    NodeList.prototype.forEach = function (callback) {
+                        for(var i=0;i<this.length;i++){
+                            callback.call(this,this.item(i));
+                        }
+                    }
+                }
+
+              // '[data-colibri-component="navigation"][data-overlap="true"]' selector is backward compatibility
+              var navigation = document.querySelector('[data-colibri-navigation-overlap="true"], [data-colibri-component="navigation"][data-overlap="true"]')
+              if (navigation) {
+                var els = document
+                .querySelectorAll('.h-navigation-padding');
+                if (els.length) {
+                  els.forEach(function (item) {
+                    item.style.paddingTop = navigation.offsetHeight + "px";
+                  });
+                }
+              }
+            }
+            setHeaderTopSpacing();
+          })();
+		</script>
+		<!-- dynamic header end -->
+<!-- Content:start -->
+<div class="content  position-relative page-content colibri-page-content" id="content"><!-- Section:start -->
+<div class="d-flex h-section h-section-global-spacing position-relative"><div class="h-section-grid-container h-section-boxed-container"><!-- Row:start -->
+<div class="h-row-container"><div class="h-row"><!-- Column:start -->
+<div class="h-col"><div id="post-432" class="post-432 page type-page status-publish hentry">
+  <div>
+   
+<p></p>
+
+
+
+<p></p>
+
+
+
+<p><a rel="noreferrer noopener" href="https://uk-newline.ru/wp-content/uploads/2023/05/rss_30042023.pdf" data-type="URL" target="_blank">Расчет собственных </a><a rel="noreferrer noopener" href="https://uk-newline.ru/wp-content/uploads/2023/06/rss_31_05_2023.pdf" data-type="URL" target="_blank">средств </a>на 31.05.2023<br>дата раскрытия 14.06.2023 </p>
+
+
+
+<p><a rel="noreferrer noopener" href="https://uk-newline.ru/wp-content/uploads/2023/05/rss_30042023.pdf" data-type="URL" target="_blank">Расчет собственных средств</a> на 30.04.2023<br>дата раскрытия 16.05.2023   </p>
+
+
+
+<p><a rel="noreferrer noopener" href="https://uk-newline.ru/wp-content/uploads/2023/04/nl_buh_fin_31_03_2023.pdf" data-type="URL" target="_blank">Промежуточная бухгалтерская (финансовая) отчетность по состоянию на 31.03.2023</a><br>дата раскрытия 27.04.2023   </p>
+
+
+
+<p><a rel="noreferrer noopener" href="https://uk-newline.ru/wp-content/uploads/2023/04/rss_nl_31_03_2023.pdf" data-type="URL" target="_blank">Расчет собственных средств</a> на 31.03.2023<br>дата раскрытия 12.04.2023  </p>
+
+
+
+<p><a rel="noreferrer noopener" href="https://uk-newline.ru/wp-content/uploads/2023/03/buh_fin_2022.pdf" data-type="URL" target="_blank">Бухгалтерская (финансовая) отчетность за 2022 год (с возможностью контекстного поиска)</a><br>дата раскрытия 27.03.2023 </p>
+
+
+
+<p><a rel="noreferrer noopener" href="https://uk-newline.ru/wp-content/uploads/2023/03/audit_2022.pdf" data-type="URL" target="_blank">Бухгалтерская (финансовая) отчетность и Аудиторское заключение независимого аудитора за 2022 год по состоянию на 31 декабря 2022 года</a><br>дата раскрытия 27.03.2023 </p>
+
+
+
+<p><a rel="noreferrer noopener" href="https://uk-newline.ru/wp-content/uploads/2023/03/MSFO_2022.pdf" data-type="URL" target="_blank">Финансовая отчетность по МСФО за 2022 год (с возможностью контекстного поиска)</a><br>дата раскрытия 27.03.2023</p>
+
+
+
+<p><a rel="noreferrer noopener" href="https://uk-newline.ru/wp-content/uploads/2023/03/audit_MSFO_2022.pdf" data-type="URL" target="_blank">Финансовая отчетность в соответствии с Международными стандартами финансовой отчетности (МСФО) по состоянию на 31 декабря 2022 года за 2022 год и Аудиторское заключение независимого аудитора</a><br>дата раскрытия 27.03.2023    </p>
+
+
+
+<p><a rel="noreferrer noopener" href="https://uk-newline.ru/wp-content/uploads/2023/03/rss_nl_-280223.pdf" data-type="URL" target="_blank">Расчет собственных средств</a> на 28.02.2023<br>дата раскрытия 14.03.2023 </p>
+
+
+
+<p><a rel="noreferrer noopener" href="https://uk-newline.ru/wp-content/uploads/2023/02/rss_nl_-310123.pdf" data-type="URL" target="_blank">Расчет собственных средств</a> на 31.01.2023<br>дата раскрытия 10.02.2023  </p>
+
+
+
+<p><a rel="noreferrer noopener" href="https://uk-newline.ru/wp-content/uploads/2023/01/rss_nl_-311222.pdf" data-type="URL" target="_blank">Расчет собственных средств</a> на 31.12.2022<br>дата раскрытия 20.01.2023 </p>
+
+
+
+<p><a rel="noreferrer noopener" href="https://uk-newline.ru/wp-content/uploads/2022/01/rssnl_311221.pdf" data-type="URL" data-id="https://uk-newline.ru/wp-content/uploads/2022/01/rssnl_311221.pdf" target="_blank">Расчет собственных средств</a> на 31.12.2021<br>дата раскрытия 21.01.2022 </p>
+
+
+
+<p><a rel="noreferrer noopener" href="https://uk-newline.ru/wp-content/uploads/2021/12/rss_30112021.pdf" data-type="URL" data-id="https://uk-newline.ru/wp-content/uploads/2021/12/rss_30112021.pdf" target="_blank">Расчет собственных средств</a> на 30.11.2021<br>дата раскрытия 14.12.2021  </p>
+
+
+
+<p><a rel="noreferrer noopener" href="https://uk-newline.ru/wp-content/uploads/2021/11/rss_31_10_2021.pdf" data-type="URL" data-id="https://uk-newline.ru/wp-content/uploads/2021/11/rss_31_10_2021.pdf" target="_blank">Расчет собственных средств</a> на 31.10.2021<br>дата раскрытия 16.11.2021</p>
+
+
+
+<p><a rel="noreferrer noopener" href="https://uk-newline.ru/wp-content/uploads/2021/10/buh_fin_30_09_2021.pdf" data-type="URL" data-id="https://uk-newline.ru/wp-content/uploads/2021/10/buh_fin_30_09_2021.pdf" target="_blank">Бухгалтерская (финансовая) отчетность</a> ООО УК Ньюлайн Эссет Менеджмент за 9 месяцев, 3 кв. 2021 (МСФО (IFRS) 9)<br>дата раскрытия 29.10.2021</p>
+
+
+
+<p><a rel="noreferrer noopener" href="https://uk-newline.ru/wp-content/uploads/2021/10/rss_30_09_2021.pdf" data-type="URL" data-id="https://uk-newline.ru/wp-content/uploads/2021/10/rss_30_09_2021.pdf" target="_blank">Расчет собственных средств</a> на 30.09.2021<br>дата раскрытия 15.10.2021</p>
+
+
+
+<p><a rel="noreferrer noopener" href="https://uk-newline.ru/wp-content/uploads/2021/09/rssnl310821.pdf" data-type="URL" data-id="https://uk-newline.ru/wp-content/uploads/2021/09/rssnl310821.pdf" target="_blank">Расчет собственных средств</a> на 31.08.2021<br>дата раскрытия 16.09.2021</p>
+
+
+
+<p><a rel="noreferrer noopener" href="https://uk-newline.ru/wp-content/uploads/2021/08/31-07-2021-РСС.pdf" target="_blank">Расчет собственных средств</a> на 31.07.2021<br>дата раскрытия 06.08.2021 </p>
+
+
+
+<p><a rel="noreferrer noopener" href="https://uk-newline.ru/wp-content/uploads/2021/07/НЭМ-БФО-6-мес.-2021-года.pdf" target="_blank">Бухгалтерская (финансовая) отчетность</a> ООО УК Ньюлайн Эссет Менеджмент за 1 полугодие, 2 кв. 2021 (МСФО (IFRS) 9)<br>дата раскрытия 16.07.2021 </p>
+
+
+
+<p><a href="https://uk-newline.ru/wp-content/uploads/2021/07/nem_rcc_30.06.2021.pdf" target="_blank" rel="noreferrer noopener">Расчет собственных средств</a> на 30.06.2021<br>дата раскрытия 13.07.2021</p>
+
+
+
+<p><a rel="noreferrer noopener" href="https://uk-newline.ru/wp-content/uploads/2021/06/soobsh_170621.pdf" target="_blank">Расчет собственных средств</a> на 31.05.2021<br>дата раскрытия 17.06.2021</p>
+  </div>
+</div>
+</div>
+<!-- Column:end --></div></div>
+<!-- Row:end --></div></div>
+<!-- Section:end --></div>
+<!-- Content:end --><!-- dynamic footer start --><div data-enabled="false" data-colibri-component="" data-colibri-id="58-f1" class="page-footer style-62 style-local-58-f1 position-relative">
+  <!---->
+  <div data-colibri-component="section" data-colibri-id="58-f2" id="copyright" class="h-section h-section-global-spacing d-flex align-items-lg-center align-items-md-center align-items-center style-63 style-local-58-f2 position-relative">
+    <!---->
+    <!---->
+    <div class="h-section-grid-container h-section-boxed-container">
+      <!---->
+      <div data-colibri-id="58-f3" class="h-row-container gutters-row-lg-1 gutters-row-md-1 gutters-row-2 gutters-row-v-lg-1 gutters-row-v-md-1 gutters-row-v-2 style-64 style-local-58-f3 position-relative">
+        <!---->
+        <div class="h-row justify-content-lg-center justify-content-md-center justify-content-center align-items-lg-stretch align-items-md-stretch align-items-stretch gutters-col-lg-1 gutters-col-md-1 gutters-col-2 gutters-col-v-lg-1 gutters-col-v-md-1 gutters-col-v-2">
+          <!---->
+          <div class="h-column h-column-container d-flex h-col-lg-auto h-col-md-auto h-col-auto style-65-outer style-local-58-f4-outer">
+            <div data-colibri-id="58-f4" class="d-flex h-flex-basis h-column__inner h-px-lg-1 h-px-md-1 h-px-2 v-inner-lg-1 v-inner-md-1 v-inner-2 style-65 style-local-58-f4 position-relative">
+              <!---->
+              <!---->
+              <div class="w-100 h-y-container h-column__content h-column__v-align flex-basis-100 align-self-lg-start align-self-md-start align-self-start">
+                <!---->
+                <div data-colibri-id="58-f5" class="style-66 style-local-58-f5 position-relative h-element">
+                  <!---->
+                  <div class="h-global-transition-all">© 2023 ООО Управляющая Компания «Ньюлайн Эссет Менеджмент». Created using WordPress and
+                    <a target="_blank" href="https://colibriwp.com" rel="noopener">Colibri</a></div>
+                </div>
+              </div>
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+  </div>
+</div><!-- dynamic footer end --></div><!-- #page -->
+        <script data-name="colibri-frontend-data">window.colibriFrontendData = [];</script>
+        <script type="text/javascript" src="https://uk-newline.ru/wp-includes/js/wp-embed.min.js?ver=5.8.7" id="wp-embed-js"></script>
+
+
+<div id="offcanvas-wrapper-53-h9" class="h-offcanvas-panel offcanvas offcanvas-right hide force-hide style-43-offscreen style-local-53-h9-offscreen">
+                          <div data-colibri-id="53-h10" class="d-flex flex-column h-offscreen-panel style-44 style-local-53-h10 position-relative h-element">
+                            <!---->
+                            <div class="offscreen-header h-ui-empty-state-container">
+                              <div data-colibri-id="53-h12" class="h-row-container gutters-row-lg-2 gutters-row-md-2 gutters-row-0 gutters-row-v-lg-2 gutters-row-v-md-2 gutters-row-v-2 style-45 style-local-53-h12 position-relative">
+                                <!---->
+                                <div class="h-row justify-content-lg-center justify-content-md-center justify-content-center align-items-lg-stretch align-items-md-stretch align-items-stretch gutters-col-lg-2 gutters-col-md-2 gutters-col-0 gutters-col-v-lg-2 gutters-col-v-md-2 gutters-col-v-2">
+                                  <!---->
+                                  <div class="h-column h-column-container d-flex h-col-none style-46-outer style-local-53-h13-outer">
+                                    <div data-colibri-id="53-h13" class="d-flex h-flex-basis h-column__inner h-px-lg-2 h-px-md-2 h-px-2 v-inner-lg-2 v-inner-md-2 v-inner-2 style-46 style-local-53-h13 position-relative">
+                                      <!---->
+                                      <!---->
+                                      <div class="w-100 h-y-container h-column__content h-column__v-align flex-basis-100 align-self-lg-start align-self-md-start align-self-start">
+                                        <!---->
+                                        <div data-colibri-id="53-h14" class="d-flex align-items-center text-lg-center text-md-center text-center justify-content-lg-center justify-content-md-center justify-content-center style-47 style-local-53-h14 position-relative h-element">
+                                          <!---->
+                                          <a rel="home" href="https://uk-newline.ru/" h-use-smooth-scroll="true" class="d-flex align-items-center"><span class="h-logo__text h-logo__text_h logo-text d-inline-block style-47-text style-local-53-h14-text">ООО Управляющая Компания «Ньюлайн Эссет Менеджмент»</span></a>
+                                        </div>
+                                      </div>
+                                    </div>
+                                  </div>
+                                </div>
+                              </div>
+                            </div>
+                            <div class="offscreen-content">
+                              <!---->
+                              <div data-colibri-component="accordion-menu" role="navigation" h-use-smooth-scroll-all="true" data-colibri-id="53-h11" class="h-menu h-global-transition-all h-ignore-global-body-typography h-mobile-menu h-menu-accordion style-50 style-local-53-h11 position-relative h-element" data-loaded="true">
+                                <!---->
+                                <div class="h-global-transition-all h-mobile-menu"><div class="colibri-menu-container"><ul id="menu-%d0%be%d1%81%d0%bd%d0%be%d0%b2%d0%bd%d0%be%d0%b5-1" class="colibri-menu none "><li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-home menu-item-15"><a href="http://uk-newline.ru/">Главная страница</a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-439"><a href="https://uk-newline.ru/public/">Раскрытие информации</a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-440"><a href="https://uk-newline.ru/details/">Реквизиты</a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page current-menu-item page_item page-item-432 current_page_item menu-item-441"><a href="https://uk-newline.ru/documents/" aria-current="page">Документы и отчетность</a></li>
+</ul></div></div>
+                              </div>
+                            </div>
+                            <div class="offscreen-footer h-ui-empty-state-container">
+                              <div data-colibri-id="53-h15" class="h-row-container gutters-row-lg-2 gutters-row-md-2 gutters-row-0 gutters-row-v-lg-2 gutters-row-v-md-2 gutters-row-v-2 style-48 style-local-53-h15 position-relative">
+                                <!---->
+                                <div class="h-row justify-content-lg-center justify-content-md-center justify-content-center align-items-lg-stretch align-items-md-stretch align-items-stretch gutters-col-lg-2 gutters-col-md-2 gutters-col-0 gutters-col-v-lg-2 gutters-col-v-md-2 gutters-col-v-2">
+                                  <!---->
+                                  <div class="h-column h-column-container d-flex h-col-none style-49-outer style-local-53-h16-outer">
+                                    <div data-colibri-id="53-h16" class="d-flex h-flex-basis h-column__inner h-ui-empty-state-container h-px-lg-2 h-px-md-2 h-px-2 v-inner-lg-2 v-inner-md-2 v-inner-2 style-49 style-local-53-h16 position-relative">
+                                      <!---->
+                                      <!---->
+                                      <div class="w-100 h-y-container h-column__content h-column__v-align flex-basis-100">
+                                        <!---->
+                                      </div>
+                                    </div>
+                                  </div>
+                                </div>
+                              </div>
+                            </div>
+                          </div>
+                        </div><div id="offcanvas-overlay-53-h9" class="offscreen-overlay style-43-offscreenOverlay style-local-53-h9-offscreenOverlay"></div>

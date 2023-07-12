@@ -1,0 +1,270 @@
+
+
+
+<span class="skiplink"><a class="screen-reader-text" href="#content">Перейти к содержимому</a></span>
+
+
+<noscript>
+	<div id="no-javascript">
+		Для корректного отображения и функционирования сайта требуется включить JavaScript в настройках браузера. Спасибо!	</div>
+</noscript>
+
+<div id="page" class="site">
+
+	
+	<header id="masthead" class="site-header" itemscope="itemscope" itemtype="https://schema.org/WPHeader">
+
+		
+		<div class="site-branding" itemprop="publisher" itemscope="itemscope" itemtype="https://schema.org/Organization">
+
+			<a href="http://www.uamc.ru/" class="custom-logo-link site-logo-link" rel="home"><img width="280" height="152" src="http://www.uamc.ru/wp-content/uploads/2018/11/cropped-uamc_logo.png" class="custom-logo attachment-full size-full" alt="Общество с ограниченной ответственностью &quot;Объединенная управляющая компания&quot;" decoding="async"></a>            
+            <div><p align="center" style="padding-top:20px;"><!--Общество с ограниченной ответственностью<br>
+«Объединенная управляющая компания»<br>-->
+
+РФ, 109004, г. Москва, Товарищеский пер., дом 36/16, этаж 3, комнаты 1, 1а, 3, 6<br>
+Тел./факс: +7 (495) 276-02-13<br>
+e-mail: post@uamc.ru; www.uamc.ru<br>
+ИНН 7707608090 / КПП 770901001</p></div>
+
+			<div id="site-title-wrapper">
+
+				
+						<p id="site-title" class="site-title"><a href="http://www.uamc.ru/" rel="home">Общество с ограниченной ответственностью "Объединенная управляющая компания"</a></p>
+
+					
+						<p id="site-description" class="site-description">ООО "Объединенная УК"</p>
+
+					
+			</div><!-- #site-title-wrapper -->
+
+		</div><!-- .site-branding -->
+
+		
+		<nav id="site-navigation" class="main-navigation" aria-label="Основное меню" itemscope="itemscope" itemtype="https://schema.org/SiteNavigationElement">
+
+			<h2 class="screen-reader-text">Основное меню</h2>
+			<button class="menu-toggle" aria-controls="primary-menu" aria-expanded="false">Меню</button>
+
+			
+			<div class="search-box-wrapper search-container-mobile">
+				<div class="search-box">
+					<form itemprop="potentialAction" itemscope="" itemtype="http://schema.org/SearchAction" role="search" method="get" class="search-form" action="http://www.uamc.ru/">
+				<label>
+					<span class="screen-reader-text">Найти:</span>
+					<input type="search" itemprop="query-input" class="search-field" placeholder="Поиск…" value="" name="s">
+				</label>
+				<input type="submit" class="search-submit" value="Поиск">
+			<meta itemprop="target" content="http://www.uamc.ru/?s={search} "></form>				</div>
+			</div>
+
+			<!--<button class="go-to-top"><a href="#page"><span class="icon-webfont fa-chevron-circle-up" aria-hidden="true"></span></a></button>-->
+
+			<div class="menu-%d0%b3%d0%be%d1%80%d0%b8%d0%b7%d0%be%d0%bd%d1%82%d0%b0%d0%bb%d1%8c%d0%bd%d0%be%d0%b5-container"><ul id="primary-menu" class="nav-menu" aria-expanded="false"><li id="menu-item-98" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-home menu-item-98"><a href="http://www.uamc.ru">Главная</a></li>
+<li id="menu-item-90" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-90"><a href="http://www.uamc.ru/%d0%b7%d0%bf%d0%b8%d1%84%d0%bd/">ПАЕВЫЕ ФОНДЫ</a></li>
+<li id="menu-item-94" class="menu-item menu-item-type-post_type menu-item-object-page current-page-ancestor current-menu-ancestor current_page_ancestor menu-item-has-children menu-item-94"><a href="http://www.uamc.ru/%d1%80%d0%b0%d1%81%d0%ba%d1%80%d1%8b%d1%82%d0%b8%d0%b5-%d0%b8%d0%bd%d1%84%d0%be%d1%80%d0%bc%d0%b0%d1%86%d0%b8%d0%b8/">Раскрытие информации</a>
+<ul class="sub-menu">
+	<li id="menu-item-158" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-158"><a href="http://www.uamc.ru/%d0%b4%d0%be%d0%ba%d1%83%d0%bc%d0%b5%d0%bd%d1%82%d1%8b/">Документы</a></li>
+	<li id="menu-item-139" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-139"><a href="http://www.uamc.ru/%d1%80%d0%b0%d1%81%d0%ba%d1%80%d1%8b%d1%82%d0%b8%d0%b5-%d0%b8%d0%bd%d1%84%d0%be%d1%80%d0%bc%d0%b0%d1%86%d0%b8%d0%b8/%d0%bb%d0%b8%d1%86%d0%b5%d0%bd%d0%b7%d0%b8%d1%8f/">Лицензия</a></li>
+	<li id="menu-item-134" class="menu-item menu-item-type-post_type menu-item-object-page current-page-ancestor current-menu-ancestor current_page_ancestor menu-item-has-children menu-item-134"><a href="http://www.uamc.ru/%d1%80%d0%b0%d1%81%d0%ba%d1%80%d1%8b%d1%82%d0%b8%d0%b5-%d0%b8%d0%bd%d1%84%d0%be%d1%80%d0%bc%d0%b0%d1%86%d0%b8%d0%b8/%d0%be%d1%82%d1%87%d0%b5%d1%82%d0%bd%d0%be%d1%81%d1%82%d1%8c-%d1%83%d0%ba/">Отчетность УК</a>
+	<ul class="sub-menu">
+		<li id="menu-item-555" class="menu-item menu-item-type-post_type menu-item-object-page current-page-ancestor current-menu-ancestor current-menu-parent current-page-parent current_page_parent current_page_ancestor menu-item-has-children menu-item-555"><a href="http://www.uamc.ru/%d1%80%d0%b0%d1%81%d0%ba%d1%80%d1%8b%d1%82%d0%b8%d0%b5-%d0%b8%d0%bd%d1%84%d0%be%d1%80%d0%bc%d0%b0%d1%86%d0%b8%d0%b8/%d0%be%d1%82%d1%87%d0%b5%d1%82%d0%bd%d0%be%d1%81%d1%82%d1%8c-%d1%83%d0%ba/%d1%80%d0%b0%d1%81%d1%87%d0%b5%d1%82-%d1%81%d0%be%d0%b1%d1%81%d1%82%d0%b2%d0%b5%d0%bd%d0%bd%d1%8b%d1%85-%d1%81%d1%80%d0%b5%d0%b4%d1%81%d1%82%d0%b2/">Расчет собственных средств</a>
+		<ul class="sub-menu">
+			<li id="menu-item-166" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-166"><a href="http://www.uamc.ru/%d1%80%d0%b0%d1%81%d0%ba%d1%80%d1%8b%d1%82%d0%b8%d0%b5-%d0%b8%d0%bd%d1%84%d0%be%d1%80%d0%bc%d0%b0%d1%86%d0%b8%d0%b8/%d0%be%d1%82%d1%87%d0%b5%d1%82%d0%bd%d0%be%d1%81%d1%82%d1%8c-%d1%83%d0%ba/2018-%d0%b3%d0%be%d0%b4/">2018 год</a></li>
+			<li id="menu-item-286" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-286"><a href="http://www.uamc.ru/%d1%80%d0%b0%d1%81%d0%ba%d1%80%d1%8b%d1%82%d0%b8%d0%b5-%d0%b8%d0%bd%d1%84%d0%be%d1%80%d0%bc%d0%b0%d1%86%d0%b8%d0%b8/%d0%be%d1%82%d1%87%d0%b5%d1%82%d0%bd%d0%be%d1%81%d1%82%d1%8c-%d1%83%d0%ba/2019-%d0%b3%d0%be%d0%b4/">2019 год</a></li>
+			<li id="menu-item-398" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-398"><a href="http://www.uamc.ru/%d1%80%d0%b0%d1%81%d0%ba%d1%80%d1%8b%d1%82%d0%b8%d0%b5-%d0%b8%d0%bd%d1%84%d0%be%d1%80%d0%bc%d0%b0%d1%86%d0%b8%d0%b8/%d0%be%d1%82%d1%87%d0%b5%d1%82%d0%bd%d0%be%d1%81%d1%82%d1%8c-%d1%83%d0%ba/2020-%d0%b3%d0%be%d0%b4/">2020 год</a></li>
+			<li id="menu-item-482" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-482"><a href="http://www.uamc.ru/%d1%80%d0%b0%d1%81%d0%ba%d1%80%d1%8b%d1%82%d0%b8%d0%b5-%d0%b8%d0%bd%d1%84%d0%be%d1%80%d0%bc%d0%b0%d1%86%d0%b8%d0%b8/%d0%be%d1%82%d1%87%d0%b5%d1%82%d0%bd%d0%be%d1%81%d1%82%d1%8c-%d1%83%d0%ba/%d1%80%d0%b0%d1%81%d1%87%d0%b5%d1%82-%d1%81%d0%be%d0%b1%d1%81%d1%82%d0%b2%d0%b5%d0%bd%d0%bd%d1%8b%d1%85-%d1%81%d1%80%d0%b5%d0%b4%d1%81%d1%82%d0%b2/2021-2/">2021 год</a></li>
+			<li id="menu-item-719" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-719"><a href="http://www.uamc.ru/%d1%80%d0%b0%d1%81%d0%ba%d1%80%d1%8b%d1%82%d0%b8%d0%b5-%d0%b8%d0%bd%d1%84%d0%be%d1%80%d0%bc%d0%b0%d1%86%d0%b8%d0%b8/%d0%be%d1%82%d1%87%d0%b5%d1%82%d0%bd%d0%be%d1%81%d1%82%d1%8c-%d1%83%d0%ba/%d1%80%d0%b0%d1%81%d1%87%d0%b5%d1%82-%d1%81%d0%be%d0%b1%d1%81%d1%82%d0%b2%d0%b5%d0%bd%d0%bd%d1%8b%d1%85-%d1%81%d1%80%d0%b5%d0%b4%d1%81%d1%82%d0%b2/2022-%d0%b3%d0%be%d0%b4-2/">2022 год</a></li>
+			<li id="menu-item-742" class="menu-item menu-item-type-post_type menu-item-object-page current-menu-item page_item page-item-736 current_page_item menu-item-742"><a href="http://www.uamc.ru/%d1%80%d0%b0%d1%81%d0%ba%d1%80%d1%8b%d1%82%d0%b8%d0%b5-%d0%b8%d0%bd%d1%84%d0%be%d1%80%d0%bc%d0%b0%d1%86%d0%b8%d0%b8/%d0%be%d1%82%d1%87%d0%b5%d1%82%d0%bd%d0%be%d1%81%d1%82%d1%8c-%d1%83%d0%ba/%d1%80%d0%b0%d1%81%d1%87%d0%b5%d1%82-%d1%81%d0%be%d0%b1%d1%81%d1%82%d0%b2%d0%b5%d0%bd%d0%bd%d1%8b%d1%85-%d1%81%d1%80%d0%b5%d0%b4%d1%81%d1%82%d0%b2/2022-%d0%b3%d0%be%d0%b4-3/" aria-current="page">2023 год</a></li>
+		</ul>
+</li>
+		<li id="menu-item-721" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-721"><a href="http://www.uamc.ru/%d0%bf%d1%80%d0%be%d0%bc%d0%b5%d0%b6%d1%83%d1%82%d0%be%d1%87%d0%bd%d0%b0%d1%8f-%d0%b8-%d0%b3%d0%be%d0%b4%d0%be%d0%b2%d0%b0%d1%8f-%d0%b1%d1%83%d1%85%d0%b3%d0%b0%d0%bb%d1%82%d0%b5%d1%80%d1%81%d0%ba/">Промежуточная и годовая бухгалтерская (финансовая) отчетность</a></li>
+		<li id="menu-item-564" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-564"><a href="http://www.uamc.ru/%d1%80%d0%b0%d1%81%d0%ba%d1%80%d1%8b%d1%82%d0%b8%d0%b5-%d0%b8%d0%bd%d1%84%d0%be%d1%80%d0%bc%d0%b0%d1%86%d0%b8%d0%b8/%d0%be%d1%82%d1%87%d0%b5%d1%82%d0%bd%d0%be%d1%81%d1%82%d1%8c-%d1%83%d0%ba/%d0%b3%d0%be%d0%b4%d0%be%d0%b2%d0%b0%d1%8f-%d1%84%d0%b8%d0%bd%d0%b0%d0%bd%d1%81%d0%be%d0%b2%d0%b0%d1%8f-%d0%be%d1%82%d1%87%d0%b5%d1%82%d0%bd%d0%be%d1%81%d1%82%d1%8c-%d0%bf%d0%be-%d1%81%d1%82%d0%b0/">Годовая финансовая отчетность по стандартам МСФО</a></li>
+	</ul>
+</li>
+</ul>
+</li>
+<li id="menu-item-96" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-96"><a href="http://www.uamc.ru/%d0%ba%d0%be%d0%bd%d1%82%d0%b0%d0%ba%d1%82%d1%8b/">Контакты</a></li>
+<li id="menu-item-192" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-192"><a href="http://www.uamc.ru/%d0%bd%d0%b0%d1%88%d0%b8-%d1%80%d0%b5%d0%ba%d0%b2%d0%b8%d0%b7%d0%b8%d1%82%d1%8b/">Реквизиты</a></li>
+<li id="menu-item-196" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-196"><a href="http://www.uamc.ru/%d0%bd%d0%be%d0%b2%d0%be%d1%81%d1%82%d0%b8/">Новости</a></li>
+</ul></div>
+		</nav><!-- #site-navigation -->
+
+		<!-- Custom Header - Start -->
+
+		
+		
+			
+		
+		<!-- Custom Header - End -->
+
+		
+	</header><!-- .site-header -->
+
+	
+	<div id="content" class="site-content">
+
+	<div id="primary" class="content-area">
+
+		
+		<main id="main" class="site-main" itemscope="itemscope" itemprop="mainContentOfPage">
+
+			
+			
+	
+	<article id="post-736" class="post-736 page type-page status-publish" itemscope="" itemtype="https://schema.org/Article">
+
+		
+		<header class="entry-header">
+
+			<h1 class="entry-title" itemprop="headline">2023 год</h1>
+			<link itemprop="mainEntityOfPage" href="http://www.uamc.ru/%d1%80%d0%b0%d1%81%d0%ba%d1%80%d1%8b%d1%82%d0%b8%d0%b5-%d0%b8%d0%bd%d1%84%d0%be%d1%80%d0%bc%d0%b0%d1%86%d0%b8%d0%b8/%d0%be%d1%82%d1%87%d0%b5%d1%82%d0%bd%d0%be%d1%81%d1%82%d1%8c-%d1%83%d0%ba/%d1%80%d0%b0%d1%81%d1%87%d0%b5%d1%82-%d1%81%d0%be%d0%b1%d1%81%d1%82%d0%b2%d0%b5%d0%bd%d0%bd%d1%8b%d1%85-%d1%81%d1%80%d0%b5%d0%b4%d1%81%d1%82%d0%b2/2022-%d0%b3%d0%be%d0%b4-3/">
+
+		</header>
+
+		<div class="entry-content" itemprop="articleBody">
+
+			
+<p><a rel="noreferrer noopener" href="http://www.uamc.ru/wp-content/zagruzki/2023/05/31-05-2023.pdf" target="_blank">Расчет размера собственных средств за май 2023 года (опубликовано 15.06.2023г. 12:25, доступно до 9:00 15.10.2026г.)<span class="icon-webfont fa-external-link" aria-hidden="true"></span><span class="screen-reader-text">Открывается в новом окне</span></a></p>
+
+
+
+<p><a rel="noreferrer noopener" href="http://www.uamc.ru/wp-content/zagruzki/2023/04/30-04-2023.pdf" target="_blank">Расчет размера собственных средств за апрель 2023 года (опубликовано 20.05.2023г. 0:45, доступно до 9:00 20.09.2026)<span class="icon-webfont fa-external-link" aria-hidden="true"></span><span class="screen-reader-text">Открывается в новом окне</span></a></p>
+
+
+
+<p><a rel="noreferrer noopener" href="http://www.uamc.ru/wp-content/zagruzki/2023/03/31-03-2023.pdf" target="_blank">Расчет размера собственных средств за март 2023 года (опубликовано 17.04.2023г. 09:50, доступно до 22:45 17.08.2026г.)<span class="icon-webfont fa-external-link" aria-hidden="true"></span><span class="screen-reader-text">Открывается в новом окне</span></a></p>
+
+
+
+<p><a rel="noreferrer noopener" href="http://www.uamc.ru/wp-content/zagruzki/2023/02/28-02-2023.pdf" target="_blank">Расчет размера собственных средств за февраль 2023 года (опубликовано 15.03.2023г. 09:10, доступно до 22:45 15.07.2026г.)<span class="icon-webfont fa-external-link" aria-hidden="true"></span><span class="screen-reader-text">Открывается в новом окне</span></a></p>
+
+
+
+<p><a rel="noreferrer noopener" href="http://www.uamc.ru/wp-content/zagruzki/2023/01/31-01-2023.pdf" target="_blank">Расчет размера собственных средств за январь 2023 года (опубликовано 15.02.2023г. 10:50, доступно до 22:45 15.06.2026г.)<span class="icon-webfont fa-external-link" aria-hidden="true"></span><span class="screen-reader-text">Открывается в новом окне</span></a></p>
+
+			
+		</div><!-- .entry-content -->
+
+		<footer class="entry-meta">
+
+			
+		</footer><!-- .entry-meta -->
+
+		
+	</article><!-- #post-736 -->
+
+	
+			
+		</main><!-- .site-main -->
+
+		
+	</div><!-- #primary -->
+
+
+	
+		
+		
+		<aside id="secondary" class="sidebar widget-area" aria-labelledby="sidebar-header" itemscope="itemscope" itemtype="https://schema.org/WPSideBar">
+
+		<h2 class="screen-reader-text" id="sidebar-header">Главная боковая колонка</h2>
+
+			
+			<section id="nav_menu-3" class="widget widget_nav_menu"><div class="menu-%d0%b3%d0%be%d1%80%d0%b8%d0%b7%d0%be%d0%bd%d1%82%d0%b0%d0%bb%d1%8c%d0%bd%d0%be%d0%b5-container"><ul id="menu-%d0%b3%d0%be%d1%80%d0%b8%d0%b7%d0%be%d0%bd%d1%82%d0%b0%d0%bb%d1%8c%d0%bd%d0%be%d0%b5" class="menu"><li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-home menu-item-98"><a href="http://www.uamc.ru">Главная</a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-90"><a href="http://www.uamc.ru/%d0%b7%d0%bf%d0%b8%d1%84%d0%bd/">ПАЕВЫЕ ФОНДЫ</a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page current-page-ancestor current-menu-ancestor current_page_ancestor menu-item-has-children menu-item-94"><a href="http://www.uamc.ru/%d1%80%d0%b0%d1%81%d0%ba%d1%80%d1%8b%d1%82%d0%b8%d0%b5-%d0%b8%d0%bd%d1%84%d0%be%d1%80%d0%bc%d0%b0%d1%86%d0%b8%d0%b8/">Раскрытие информации</a>
+<ul class="sub-menu">
+	<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-158"><a href="http://www.uamc.ru/%d0%b4%d0%be%d0%ba%d1%83%d0%bc%d0%b5%d0%bd%d1%82%d1%8b/">Документы</a></li>
+	<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-139"><a href="http://www.uamc.ru/%d1%80%d0%b0%d1%81%d0%ba%d1%80%d1%8b%d1%82%d0%b8%d0%b5-%d0%b8%d0%bd%d1%84%d0%be%d1%80%d0%bc%d0%b0%d1%86%d0%b8%d0%b8/%d0%bb%d0%b8%d1%86%d0%b5%d0%bd%d0%b7%d0%b8%d1%8f/">Лицензия</a></li>
+	<li class="menu-item menu-item-type-post_type menu-item-object-page current-page-ancestor current-menu-ancestor current_page_ancestor menu-item-has-children menu-item-134"><a href="http://www.uamc.ru/%d1%80%d0%b0%d1%81%d0%ba%d1%80%d1%8b%d1%82%d0%b8%d0%b5-%d0%b8%d0%bd%d1%84%d0%be%d1%80%d0%bc%d0%b0%d1%86%d0%b8%d0%b8/%d0%be%d1%82%d1%87%d0%b5%d1%82%d0%bd%d0%be%d1%81%d1%82%d1%8c-%d1%83%d0%ba/">Отчетность УК</a>
+	<ul class="sub-menu">
+		<li class="menu-item menu-item-type-post_type menu-item-object-page current-page-ancestor current-menu-ancestor current-menu-parent current-page-parent current_page_parent current_page_ancestor menu-item-has-children menu-item-555"><a href="http://www.uamc.ru/%d1%80%d0%b0%d1%81%d0%ba%d1%80%d1%8b%d1%82%d0%b8%d0%b5-%d0%b8%d0%bd%d1%84%d0%be%d1%80%d0%bc%d0%b0%d1%86%d0%b8%d0%b8/%d0%be%d1%82%d1%87%d0%b5%d1%82%d0%bd%d0%be%d1%81%d1%82%d1%8c-%d1%83%d0%ba/%d1%80%d0%b0%d1%81%d1%87%d0%b5%d1%82-%d1%81%d0%be%d0%b1%d1%81%d1%82%d0%b2%d0%b5%d0%bd%d0%bd%d1%8b%d1%85-%d1%81%d1%80%d0%b5%d0%b4%d1%81%d1%82%d0%b2/">Расчет собственных средств</a>
+		<ul class="sub-menu">
+			<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-166"><a href="http://www.uamc.ru/%d1%80%d0%b0%d1%81%d0%ba%d1%80%d1%8b%d1%82%d0%b8%d0%b5-%d0%b8%d0%bd%d1%84%d0%be%d1%80%d0%bc%d0%b0%d1%86%d0%b8%d0%b8/%d0%be%d1%82%d1%87%d0%b5%d1%82%d0%bd%d0%be%d1%81%d1%82%d1%8c-%d1%83%d0%ba/2018-%d0%b3%d0%be%d0%b4/">2018 год</a></li>
+			<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-286"><a href="http://www.uamc.ru/%d1%80%d0%b0%d1%81%d0%ba%d1%80%d1%8b%d1%82%d0%b8%d0%b5-%d0%b8%d0%bd%d1%84%d0%be%d1%80%d0%bc%d0%b0%d1%86%d0%b8%d0%b8/%d0%be%d1%82%d1%87%d0%b5%d1%82%d0%bd%d0%be%d1%81%d1%82%d1%8c-%d1%83%d0%ba/2019-%d0%b3%d0%be%d0%b4/">2019 год</a></li>
+			<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-398"><a href="http://www.uamc.ru/%d1%80%d0%b0%d1%81%d0%ba%d1%80%d1%8b%d1%82%d0%b8%d0%b5-%d0%b8%d0%bd%d1%84%d0%be%d1%80%d0%bc%d0%b0%d1%86%d0%b8%d0%b8/%d0%be%d1%82%d1%87%d0%b5%d1%82%d0%bd%d0%be%d1%81%d1%82%d1%8c-%d1%83%d0%ba/2020-%d0%b3%d0%be%d0%b4/">2020 год</a></li>
+			<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-482"><a href="http://www.uamc.ru/%d1%80%d0%b0%d1%81%d0%ba%d1%80%d1%8b%d1%82%d0%b8%d0%b5-%d0%b8%d0%bd%d1%84%d0%be%d1%80%d0%bc%d0%b0%d1%86%d0%b8%d0%b8/%d0%be%d1%82%d1%87%d0%b5%d1%82%d0%bd%d0%be%d1%81%d1%82%d1%8c-%d1%83%d0%ba/%d1%80%d0%b0%d1%81%d1%87%d0%b5%d1%82-%d1%81%d0%be%d0%b1%d1%81%d1%82%d0%b2%d0%b5%d0%bd%d0%bd%d1%8b%d1%85-%d1%81%d1%80%d0%b5%d0%b4%d1%81%d1%82%d0%b2/2021-2/">2021 год</a></li>
+			<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-719"><a href="http://www.uamc.ru/%d1%80%d0%b0%d1%81%d0%ba%d1%80%d1%8b%d1%82%d0%b8%d0%b5-%d0%b8%d0%bd%d1%84%d0%be%d1%80%d0%bc%d0%b0%d1%86%d0%b8%d0%b8/%d0%be%d1%82%d1%87%d0%b5%d1%82%d0%bd%d0%be%d1%81%d1%82%d1%8c-%d1%83%d0%ba/%d1%80%d0%b0%d1%81%d1%87%d0%b5%d1%82-%d1%81%d0%be%d0%b1%d1%81%d1%82%d0%b2%d0%b5%d0%bd%d0%bd%d1%8b%d1%85-%d1%81%d1%80%d0%b5%d0%b4%d1%81%d1%82%d0%b2/2022-%d0%b3%d0%be%d0%b4-2/">2022 год</a></li>
+			<li class="menu-item menu-item-type-post_type menu-item-object-page current-menu-item page_item page-item-736 current_page_item menu-item-742"><a href="http://www.uamc.ru/%d1%80%d0%b0%d1%81%d0%ba%d1%80%d1%8b%d1%82%d0%b8%d0%b5-%d0%b8%d0%bd%d1%84%d0%be%d1%80%d0%bc%d0%b0%d1%86%d0%b8%d0%b8/%d0%be%d1%82%d1%87%d0%b5%d1%82%d0%bd%d0%be%d1%81%d1%82%d1%8c-%d1%83%d0%ba/%d1%80%d0%b0%d1%81%d1%87%d0%b5%d1%82-%d1%81%d0%be%d0%b1%d1%81%d1%82%d0%b2%d0%b5%d0%bd%d0%bd%d1%8b%d1%85-%d1%81%d1%80%d0%b5%d0%b4%d1%81%d1%82%d0%b2/2022-%d0%b3%d0%be%d0%b4-3/" aria-current="page">2023 год</a></li>
+		</ul>
+</li>
+		<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-721"><a href="http://www.uamc.ru/%d0%bf%d1%80%d0%be%d0%bc%d0%b5%d0%b6%d1%83%d1%82%d0%be%d1%87%d0%bd%d0%b0%d1%8f-%d0%b8-%d0%b3%d0%be%d0%b4%d0%be%d0%b2%d0%b0%d1%8f-%d0%b1%d1%83%d1%85%d0%b3%d0%b0%d0%bb%d1%82%d0%b5%d1%80%d1%81%d0%ba/">Промежуточная и годовая бухгалтерская (финансовая) отчетность</a></li>
+		<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-564"><a href="http://www.uamc.ru/%d1%80%d0%b0%d1%81%d0%ba%d1%80%d1%8b%d1%82%d0%b8%d0%b5-%d0%b8%d0%bd%d1%84%d0%be%d1%80%d0%bc%d0%b0%d1%86%d0%b8%d0%b8/%d0%be%d1%82%d1%87%d0%b5%d1%82%d0%bd%d0%be%d1%81%d1%82%d1%8c-%d1%83%d0%ba/%d0%b3%d0%be%d0%b4%d0%be%d0%b2%d0%b0%d1%8f-%d1%84%d0%b8%d0%bd%d0%b0%d0%bd%d1%81%d0%be%d0%b2%d0%b0%d1%8f-%d0%be%d1%82%d1%87%d0%b5%d1%82%d0%bd%d0%be%d1%81%d1%82%d1%8c-%d0%bf%d0%be-%d1%81%d1%82%d0%b0/">Годовая финансовая отчетность по стандартам МСФО</a></li>
+	</ul>
+</li>
+</ul>
+</li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-96"><a href="http://www.uamc.ru/%d0%ba%d0%be%d0%bd%d1%82%d0%b0%d0%ba%d1%82%d1%8b/">Контакты</a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-192"><a href="http://www.uamc.ru/%d0%bd%d0%b0%d1%88%d0%b8-%d1%80%d0%b5%d0%ba%d0%b2%d0%b8%d0%b7%d0%b8%d1%82%d1%8b/">Реквизиты</a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-196"><a href="http://www.uamc.ru/%d0%bd%d0%be%d0%b2%d0%be%d1%81%d1%82%d0%b8/">Новости</a></li>
+</ul></div></section>
+			
+		</aside><!-- #secondary -->
+
+		
+		</div><!-- #content .site-content -->
+
+	
+	
+	<footer id="colophon" class="site-footer" aria-labelledby="footer-header" itemscope="itemscope" itemtype="https://schema.org/WPFooter">
+
+		
+		<h2 class="screen-reader-text" id="footer-header">Содержимое подвала</h2>
+
+		<div id="footer-widgets" class="widget-area three" itemscope="itemscope" itemtype="https://schema.org/WPSideBar">
+
+			
+				
+				
+				
+			
+		</div><!-- #footer-widgets -->
+
+		<div class="site-info">
+
+			
+			
+			<p align="justify" style="font-size:14px;">Общество с ограниченной ответственностью «Объединенная управляющая компания». 
+
+Лицензия ФСФР России на осуществление деятельности по управлению инвестиционными фондами, паевыми инвестиционными фондами и негосударственными пенсионными фондами № 21-000-1-00874 от «09» мая 2012 года
+
+Получить подробную информацию о паевых инвестиционных фондах и ознакомиться с правилами доверительного управления паевыми инвестиционными фондами и иными документами можно по адресу: 109004, г. Москва, Товарищеский пер., дом 36/16, этаж 3, комнаты 1, 1а, 3; тел. Тел./факс: +7 (495) 276-02-13; e-mail: post@uamc.ru
+
+Стоимость инвестиционных паев может увеличиваться и уменьшаться, результаты инвестирования в прошлом не определяют доходы в будущем, государство не гарантирует доходность инвестиций в инвестиционные фонды. Прежде чем приобрести инвестиционный пай, следует внимательно ознакомиться с правилами доверительного управления инвестиционного фондом.</p>
+
+			
+			<!--<span id="site-admin-link"> <a href="http://www.uamc.ru/wp-login.php">Войти</a></span>-->
+
+		</div><!-- .site-info -->
+
+		<div class="site-info-2">
+
+			
+			
+
+		</div><!-- .site-info-2 -->
+
+		
+	</footer><!-- .site-footer -->
+
+	
+</div><!-- #page .site -->
+
+<script type="text/javascript" src="http://www.uamc.ru/wp-content/plugins/contact-form-7/includes/swv/js/index.js?ver=5.7.7" id="swv-js"></script>
+<script type="text/javascript" id="contact-form-7-js-extra">
+/* <![CDATA[ */
+var wpcf7 = {"api":{"root":"http:\/\/www.uamc.ru\/wp-json\/","namespace":"contact-form-7\/v1"}};
+/* ]]> */
+</script>
+<script type="text/javascript" src="http://www.uamc.ru/wp-content/plugins/contact-form-7/includes/js/index.js?ver=5.7.7" id="contact-form-7-js"></script>
+<script type="text/javascript" src="http://www.uamc.ru/wp-content/themes/tiny-framework/js/navigation.js?ver=2.3.1" id="tinyframework-navigation-js"></script>
+<script type="text/javascript" id="tinyframework-additional-scripts-js-extra">
+/* <![CDATA[ */
+var tinyframeworkAdditionalScripts = {"newWindow":"\u041e\u0442\u043a\u0440\u044b\u0432\u0430\u0435\u0442\u0441\u044f \u0432 \u043d\u043e\u0432\u043e\u043c \u043e\u043a\u043d\u0435"};
+/* ]]> */
+</script>
+<script type="text/javascript" src="http://www.uamc.ru/wp-content/themes/tiny-framework/js/functions.js?ver=2.3.1" id="tinyframework-additional-scripts-js"></script>
+<script type="text/javascript" src="http://www.uamc.ru/wp-content/themes/tiny-framework/js/skip-link-focus-fix.js?ver=2.3.1" id="tinyframework-skip-link-focus-fix-js"></script>
+
+<!-- Happy coding! "Ut In Omnibus Glorificetur Deus" ~Saint Benedict -->
+
+

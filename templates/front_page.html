@@ -1,0 +1,86 @@
+{% extends 'base_generic.html' %}
+{% load static %}
+{% block content %}
+		<div class="container">
+			<header class="d-flex flex-wrap justify-content-center align-items-center py-3 mb-4 border-bottom">
+				<a href="/" class="d-flex align-items-center mb-3 mb-md-0 me-md-auto text-dark text-decoration-none">
+					<img src="{% static '/img/icon64.png' %}" >
+					<span class="ms-4 fs-4">Система мониторинга</span>
+				</a>
+				<ul class="nav nav-pills">
+					<li class="nav-item"><a href="/admin" class="nav-link active" aria-current="page">Административная панель</a></li>
+				</ul>
+			</header>
+		</div>
+		<div class="album py-5">
+			<div class="container">
+				<div class="row row-cols-1 row-cols-sm-2 row-cols-md-2 g-3">
+					<div class="col">
+						<div class="card">
+							<div class="card-body">
+								<div class="d-flex flex-row justify-content-between">
+									<p class="card-text fs-5">Мониторинг</p>
+									<p class="fw-bold">{{ lastmon.date }}</p>
+								</div>
+								<div class="d-flex flex-row justify-content-between">
+									<p>Сайтов всего:</p>
+									<p class="fw-bold">{{ lastmon.total }}</p>
+								</div>
+								<div class="d-flex flex-row justify-content-between">
+									<p>Недоступно более 1 часа:</p>
+									<p class="fw-bold">{{ lastmon.unavailable }}</p>
+								</div>
+								<div class="d-flex flex-row justify-content-between">
+									<p>Ошибок при получении сайтов:</p>
+									<p class="fw-bold">{{ lastmon.errors }}</p>
+								</div>
+							</div>
+						</div>
+					</div>
+					<div class="col">
+						<div class="card">
+							<div class="card-body">
+								<p class="card-text fs-5">Изменения в реестре ПИФ</p>
+								<div class="d-flex flex-row justify-content-between">
+									<p>ПИФ всего:</p>
+									<p class="fw-bold">{{ pifs.total }}</p>
+								</div>
+								<div class="d-flex flex-row justify-content-between">
+									<p>Последнее изменение:</p>
+									<p class="fw-bold">{{ pifs.lastchange }}</p>
+								</div>
+							</div>
+						</div>
+					</div>
+				</div>
+			</div>
+		</div>
+		<div class="container">
+			<div class="card">
+				<div class="card-body">
+					<h1><span class="badge badge-secondary">Ошибки мониторинга</span></h1>
+					{% for error in monerrors %}
+					<div class="d-flex flex-wrap justify-content-between">
+						<p>{{ error.site }}</p>
+						<p>{{ error.code }}</p>
+						<p>{{ error.text }}</p>
+					</div>
+					{% endfor %}
+					{% include 'monstatus.html'  %}
+				</div>
+			</div>
+		</div>
+		<div class="container">
+			<div class="card">
+				<button class="btn btn-primary" type="button" data-bs-toggle="collapse" data-bs-target="#collapse2" aria-expanded="false" aria-controls="collapse2">
+					Placeholder	
+				</button>
+				<div class="collapse" id="collapse2">
+				<div class="card card-body">
+					{% include 'otch.html' %}
+				</div>
+				</div>
+			</div>
+		</div>
+{% endblock %}
+

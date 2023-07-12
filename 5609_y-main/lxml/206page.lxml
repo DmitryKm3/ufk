@@ -1,0 +1,1460 @@
+
+<svg xmlns="http://www.w3.org/2000/svg" style="border: 0 !important; clip: rect(0 0 0 0) !important; height: 1px !important; margin: -1px !important; overflow: hidden !important; padding: 0 !important; position: absolute !important; width: 1px !important;" class="root-svg-symbols-element">
+    <defs>
+        <pattern id="a" patternContentUnits="objectBoundingBox" width="1" height="1">
+            <use xlink:href="#b" transform="scale(.00395 .01786)"></use>
+        </pattern>
+        <image id="b" width="253" height="56" xlink:href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAP0AAAA4CAMAAAABzg7JAAAC91BMVEX////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////b+1ypAAAA/HRSTlMAAQIDBAUGBwgJCgsMDQ4PEBESExQVFhcYGRobHB0eHyAhIiMkJSYnKCkqKywtLi8wMTIzNDU2Nzg5Ojs9Pj9AQUJDREVGR0hJSktMTU5PUFFSU1RVVldY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"></image>
+        <linearGradient id="a" x2="1" gradientUnits="userSpaceOnUse" gradientTransform="matrix(18.8611 0 -26.3317 41.1525 14.104 -20.576)">
+            <stop stop-color="#FEBF4A"></stop>
+            <stop offset=".336" stop-color="#F7931D"></stop>
+            <stop offset="1" stop-color="#F36126"></stop>
+        </linearGradient>
+        <pattern id="a" patternContentUnits="objectBoundingBox" width="1" height="1">
+            <use xlink:href="#b" transform="scale(.00962 .05882)"></use>
+        </pattern>
+        <image id="b" width="104" height="17" xlink:href="data:image/png;base64,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"></image>
+        <linearGradient id="a" x2="1" gradientUnits="userSpaceOnUse" gradientTransform="matrix(18.8611 0 -26.3317 41.1525 14.104 -20.576)">
+            <stop stop-color="#FEBF4A"></stop>
+            <stop offset=".336" stop-color="#F7931D"></stop>
+            <stop offset="1" stop-color="#F36126"></stop>
+        </linearGradient>
+    </defs>
+    <symbol id="333" viewBox="0 0 253 56">
+        <path fill="url(#a)" d="M0 0h253v56H0z"></path>
+    </symbol>
+    <symbol id="arr-blue" viewBox="0 0 13.29 22.67">
+        <path d="M13.29 11.34L2 22.67l-2-2 9.3-9.34L0 2l2-2 9.3 9.34z" fill="#21b5ff"></path>
+    </symbol>
+    <symbol id="arr-white" viewBox="0 0 13.29 22.67">
+        <path d="M13.29 11.34L2 22.67l-2-2 9.3-9.34L0 2l2-2 9.3 9.34z" fill="#fff"></path>
+    </symbol>
+    <symbol id="arr" viewBox="0 0 13.29 22.67">
+        <path d="M13.29 11.34L2 22.67l-2-2 9.3-9.34L0 2l2-2 9.3 9.34z"></path>
+    </symbol>
+    <symbol id="arrow-detail" viewBox="0 0 17 16">
+        <path fill-rule="evenodd" clip-rule="evenodd" d="M16.002 7.369L8.75.116 7.648 1.22l5.68 5.68H0v1.559h13.172L7.648 13.98l1.102 1.102 7.252-7.252-.23-.231.23-.231zm-1.972.23l-.111-.11v.221l.11-.11z" fill="#333"></path>
+    </symbol>
+    <symbol id="arrow-tabs" viewBox="0 0 21 12">
+        <path fill-rule="evenodd" clip-rule="evenodd" d="M0 1.414L1.414 0 9.9 8.485 18.385 0l1.414 1.414-9.9 9.9L0 1.414z" transform="translate(.293 .485)" fill="url(#a)"></path>
+    </symbol>
+    <symbol id="arrow-up" viewBox="0 0 16 17">
+        <path fill-rule="evenodd" clip-rule="evenodd" d="M7.901.064L.936 7.029l1.37 1.37L7.01 3.695v12.357h1.937V3.664l4.736 4.735 1.37-1.37L8.086.064l-.093.093L7.9.064z" fill="#fff"></path>
+        <path fill-rule="evenodd" clip-rule="evenodd" d="M7.901.064L.936 7.029l1.37 1.37L7.01 3.695v12.357h1.937V3.664l4.736 4.735 1.37-1.37L8.086.064l-.093.093L7.9.064z" fill="#fff"></path>
+        <path fill-rule="evenodd" clip-rule="evenodd" d="M7.901.064L.936 7.029l1.37 1.37L7.01 3.695v12.357h1.937V3.664l4.736 4.735 1.37-1.37L8.086.064l-.093.093L7.9.064z" fill="#4A4A4A"></path>
+    </symbol>
+    <symbol id="creative-footer" viewBox="0 0 104 17">
+        <path fill="url(#a)" d="M0 0h104v17H0z"></path>
+    </symbol>
+    <symbol id="creative" viewBox="0 0 354.087 59.38">
+        <path d="M35.165 19.623c.212.156.39.31.535.464a.772.772 0 0 1 .216.548c0 .155-.043.322-.129.506a3.202 3.202 0 0 1-.275.475L34.3 23.522c-.309.442-.636.663-.982.663a1.994 1.994 0 0 1-.463-.13 2.687 2.687 0 0 1-.577-.331 18.254 18.254 0 0 0-4.778-2.455 16.26 16.26 0 0 0-5.298-.894c-2.521 0-4.836.462-6.943 1.385-2.107.924-3.922 2.171-5.442 3.739a17.06 17.06 0 0 0-3.552 5.442 16.915 16.915 0 0 0-1.27 6.496c0 2.388.472 4.615 1.415 6.684.942 2.07 2.203 3.865 3.782 5.385a17.634 17.634 0 0 0 5.457 3.579 16.426 16.426 0 0 0 6.437 1.301c.751 0 1.487-.044 2.209-.131a13.68 13.68 0 0 0 2.18-.447 17.784 17.784 0 0 0 2.266-.837 20.881 20.881 0 0 0 2.44-1.301c.174-.077.361-.187.563-.331.203-.144.394-.288.577-.432.183-.146.362-.264.534-.361.174-.097.318-.144.434-.144.366 0 .693.241.981.72l1.328 2.194c.135.251.202.521.202.809 0 .405-.221.732-.664.981a23.013 23.013 0 0 1-6.034 3.133c-2.194.76-4.561 1.141-7.101 1.141-2.041 0-3.995-.261-5.862-.778a21.933 21.933 0 0 1-5.255-2.226 22.14 22.14 0 0 1-7.896-7.894 21.995 21.995 0 0 1-2.209-5.254A21.95 21.95 0 0 1 0 37.352a21.84 21.84 0 0 1 3.003-11.117 22.556 22.556 0 0 1 3.451-4.475 21.532 21.532 0 0 1 4.46-3.449 22.686 22.686 0 0 1 5.269-2.224 21.548 21.548 0 0 1 5.875-.793c2.425 0 4.74.375 6.944 1.124a23.14 23.14 0 0 1 6.163 3.205m8.176-2.365c0-.444.115-.786.346-1.027.231-.24.539-.361.923-.361h16.688c1.905 0 3.681.357 5.327 1.07a13.494 13.494 0 0 1 4.301 2.93 13.793 13.793 0 0 1 2.887 4.345 13.374 13.374 0 0 1 1.055 5.282c0 1.369-.193 2.676-.578 3.927a13.846 13.846 0 0 1-1.616 3.479 13.554 13.554 0 0 1-2.483 2.859 13.387 13.387 0 0 1-3.205 2.064l7.593 15.647c.096.231.144.405.144.521a.654.654 0 0 1-.274.532c-.183.145-.438.218-.765.218h-2.916c-.385 0-.689-.098-.91-.288-.221-.194-.408-.462-.562-.81l-6.988-14.694a4.824 4.824 0 0 1-.664.07c-.231.011-.538.017-.923.017H48.335v14.434c0 .85-.423 1.271-1.271 1.271H44.61c-.847 0-1.269-.422-1.269-1.271V17.258zm26.59 12.212a8.336 8.336 0 0 0-.664-3.292 9.03 9.03 0 0 0-1.819-2.756 8.671 8.671 0 0 0-2.743-1.906 8.272 8.272 0 0 0-3.407-.709H48.335v17.296h13.05c1.213 0 2.338-.23 3.378-.694a8.499 8.499 0 0 0 2.699-1.876 8.925 8.925 0 0 0 1.805-2.758 8.425 8.425 0 0 0 .664-3.305m41.048-13.6c.866 0 1.299.454 1.299 1.357v2.339c0 .347-.115.655-.346.923-.232.271-.568.405-1.011.405H86.929v12.761h19.084c.347 0 .644.105.895.318.25.212.375.548.375 1.01v2.367c0 .348-.106.655-.318.924-.212.27-.528.404-.952.404H86.929V53.72h24.252c.866 0 1.3.451 1.3 1.357v2.396c0 .848-.425 1.271-1.271 1.271H83.205c-.848 0-1.27-.405-1.27-1.214V17.198c0-.884.422-1.328 1.27-1.328h27.774zm10.344 41.72c-.308.771-.838 1.154-1.588 1.154h-2.483c-.828 0-1.241-.308-1.241-.923 0-.174.018-.357.057-.549a.633.633 0 0 1 .087-.203l5.499-13.237c1.589-3.819 2.97-7.141 4.144-9.96 1.173-2.82 2.165-5.192 2.973-7.118a772.342 772.342 0 0 0 1.993-4.777c.519-1.261.923-2.228 1.212-2.902.289-.673.5-1.169.635-1.486.135-.318.221-.535.26-.65.077-.211.206-.444.39-.692.182-.251.533-.377 1.053-.377h1.704c.481 0 .813.126.996.377.182.248.322.481.419.692l16.628 40.16c0 .021.034.116.103.288.067.174.101.317.101.435 0 .308-.121.539-.362.693-.24.152-.554.229-.939.229h-2.482c-.385 0-.707-.1-.967-.304a1.886 1.886 0 0 1-.592-.793l-3.348-8.285h-20.99l-3.262 8.228zm5.341-13.138h16.889l-8.401-21.133-8.488 21.133zm53.302-28.582c.347 0 .654.106.924.317.27.214.424.532.463.954v2.368c0 .384-.12.712-.361.98-.241.271-.582.405-1.025.405H167.64v36.552c0 .365-.112.673-.333.924-.221.25-.553.375-.995.375h-2.34c-.385 0-.703-.121-.951-.362-.251-.24-.377-.552-.377-.937V20.894H150.26c-.387 0-.699-.111-.939-.332-.241-.221-.361-.572-.361-1.053v-2.368c0-.385.12-.693.361-.924.24-.231.552-.347.939-.347h29.706zm12.463 41.604c0 .424-.116.742-.347.953-.231.213-.549.318-.953.318h-2.396c-.865 0-1.3-.423-1.3-1.271V17.141c0-.385.11-.692.333-.923.222-.231.543-.348.967-.348h2.396c.384 0 .698.117.939.348.238.231.36.538.36.923v40.333zm11.38-40.42c.364.923.803 2.021 1.313 3.291.509 1.271 1.068 2.656 1.674 4.158.607 1.501 1.247 3.08 1.919 4.736l2.037 4.994a1018.36 1018.36 0 0 0 2.034 4.95c.675 1.628 1.311 3.168 1.906 4.62.596 1.453 1.141 2.775 1.632 3.97.49 1.193.91 2.204 1.255 3.031.328-.827.736-1.838 1.229-3.031.49-1.194 1.032-2.517 1.631-3.97a714.948 714.948 0 0 0 1.877-4.62c.653-1.626 1.322-3.281 2.007-4.964.683-1.686 1.361-3.354 2.034-5.01a742.613 742.613 0 0 0 1.906-4.734 603.876 603.876 0 0 1 1.673-4.173c.521-1.279.964-2.382 1.329-3.306.136-.327.333-.595.592-.809.26-.211.591-.317.996-.317h2.512c.846 0 1.271.328 1.271.982 0 .097-.021.231-.058.405-.04.172-.07.268-.087.288L219.917 57.59a8.37 8.37 0 0 1-.144.346 1.376 1.376 0 0 1-.244.377 1.472 1.472 0 0 1-.419.302c-.173.087-.404.13-.694.13h-1.673c-.405 0-.727-.13-.967-.391-.241-.258-.411-.495-.506-.706l-16.399-39.409a6.312 6.312 0 0 1-.23-.562 3.047 3.047 0 0 1-.175-.881c0-.616.415-.925 1.242-.925h2.541c.386 0 .713.106.981.317.27.213.462.501.579.866m67.393-1.184c.866 0 1.3.454 1.3 1.357v2.339c0 .347-.115.655-.347.923-.231.271-.568.405-1.01.405h-23.991v12.761h19.083c.346 0 .646.105.894.318.251.212.377.548.377 1.01v2.367c0 .348-.106.655-.317.924-.213.27-.53.404-.953.404h-19.083V53.72h24.251c.867 0 1.299.451 1.299 1.357v2.396c0 .848-.423 1.271-1.269 1.271H243.43c-.848 0-1.271-.405-1.271-1.214V17.198c0-.884.424-1.328 1.271-1.328h27.772zm60.351 6.661c4.008 4.001 10.492 4.001 14.493 0a10.244 10.244 0 0 0 0-14.494c-4.001-4.001-10.485-4.001-14.493 0l-6.773 7.249 6.773 7.245zM311.112 8.037c-4.001-4.001-10.489-4.001-14.494 0-4.004 4.005-4.004 10.493 0 14.494 4.005 4.001 10.493 4.001 14.494 0l6.777-7.245-6.777-7.249zm3.566 18.057c-5.97 5.97-15.648 5.97-21.615 0-5.971-5.97-5.971-15.646 0-21.616 5.967-5.97 15.646-5.97 21.615 0l6.657 7.122 6.655-7.122c5.973-5.97 15.652-5.97 21.619 0 5.97 5.97 5.97 15.646 0 21.616-5.967 5.97-15.646 5.97-21.619 0l-6.655-7.123-6.657 7.123z"></path>
+    </symbol>
+    <symbol id="datepicer-icon" viewBox="0 0 20 21">
+        <path fill-rule="evenodd" clip-rule="evenodd" d="M8 19h4v-4H8v4zm4-6V9H8v4h4zm2 2v4h3.005c.55 0 .995-.447.995-1v-3h-4zm4-6h-4v4h4V9zM2 15v3c0 .552.446 1 .995 1H6v-4H2zm4-2V9H2v4h4zm12-8c0-.552-.446-1-.995-1C17 4.552 16.556 5 16 5c-.552 0-1-.444-1-1h-2c0 .552-.444 1-1 1-.552 0-1-.444-1-1H9c0 .552-.444 1-1 1-.552 0-1-.444-1-1H5c0 .552-.444 1-1 1-.552 0-1-.444-1-1-.554 0-1 .447-1 1v2h16V5zm2 0v13c0 1.656-1.34 3-2.995 3H2.995A2.998 2.998 0 0 1 0 18V5c0-1.656 1.34-3 2.995-3L3 1c0-.552.444-1 1-1 .552 0 1 .444 1 1v1h2V1c0-.552.444-1 1-1 .552 0 1 .444 1 1v1h2V1c0-.552.444-1 1-1 .552 0 1 .444 1 1v1h2V1c0-.552.444-1 1-1 .552 0 1 .444 1 1v1c1.66 0 3 1.344 3 3z" fill="#F67A22"></path>
+    </symbol>
+    <symbol id="detail-white" viewBox="0 0 17 16">
+        <path fill-rule="evenodd" clip-rule="evenodd" d="M16.002 7.369L8.75.117 7.648 1.219l5.68 5.68H0v1.559h13.172L7.648 13.98l1.102 1.102 7.252-7.252-.231-.23.231-.232zM14.03 7.6l-.111-.11v.22l.11-.11z" fill="#fff"></path>
+    </symbol>
+    <symbol id="icon-phone" viewBox="0 0 18 18">
+        <path fill-rule="evenodd" clip-rule="evenodd" d="M1 0a1 1 0 0 0-1 1c0 9.388 7.612 17 17 17a1 1 0 0 0 1-1v-3.5a.999.999 0 0 0-1-.999c-1.248 0-2.448-.201-3.572-.569a.997.997 0 0 0-1.015.245l-2.201 2.203a15.08 15.08 0 0 1-6.589-6.586l2.2-2.207a1 1 0 0 0 .245-1.015A11.468 11.468 0 0 1 5.499 1c0-.553-.447-1-.999-1H1z" fill="#fff"></path>
+    </symbol>
+    <symbol id="icon_owl_prev" viewBox="0 0 17 15">
+        <path fill-rule="evenodd" clip-rule="evenodd" d="M.983 7.383L8.25.117l1.07 1.071-5.63 5.63H17v1.516H3.843l5.478 5.478-1.071 1.071L.983 7.617 1.1 7.5l-.117-.117zM3.01 7.5l.045.045v-.09L3.01 7.5z" fill="#fff"></path>
+    </symbol>
+    <symbol id="logo-black" viewBox="0 0 126 48">
+        <path fill-rule="evenodd" clip-rule="evenodd" d="M19.634 28.35a8.755 8.755 0 1 1 .001-17.508 8.755 8.755 0 0 1-.001 17.509zM19.606 0C8.796 0 0 8.812 0 19.623L.01 44.25v2.204s.027.659.216.903c0 0 .197.348.666.18 0 0 .401-.13.967-.632l1.48-1.452 7.11-7.096s.355-.431.908-.587c0 0 .403-.13.909-.045.44.081.848.271 1.341.485.196.083.27.072.572.202l.138.053c1.127.405 3.421.733 5.289.733 10.811 0 19.545-8.813 19.545-19.623S30.417 0 19.606 0z" fill="#231F20"></path>
+        <path fill-rule="evenodd" clip-rule="evenodd" d="M19.6 23.74a4.168 4.168 0 0 0 4.157-4.168 4.168 4.168 0 0 0-4.157-4.169 4.177 4.177 0 0 0-4.17 4.17 4.177 4.177 0 0 0 4.17 4.167z" fill="#231F20"></path>
+        <path fill-rule="evenodd" clip-rule="evenodd" d="M19.653 28.335c-4.829 0-8.773-3.93-8.773-8.76 0-4.832 3.944-8.732 8.773-8.732 4.832 0 8.739 3.917 8.739 8.748a8.737 8.737 0 0 1-8.739 8.744zM19.6 5.397c-7.672.01-14.137 6.233-14.212 14.031l-.003.07v17.056l5.193-5.032s.368-.443.804-.287c0 0 .096.039.152.077l.237.16s.471.305.496.31l.047.033c2.127 1.264 4.595 2.022 7.286 2.022 7.85 0 14.22-6.413 14.22-14.262 0-7.85-6.37-14.187-14.22-14.178zm86.479 17.026a2.716 2.716 0 0 1 2.706 2.707 2.707 2.707 0 0 1-2.706 2.707 2.698 2.698 0 0 1-2.709-2.707 2.707 2.707 0 0 1 2.709-2.707z" fill="#F7931D"></path>
+        <path fill-rule="evenodd" clip-rule="evenodd" d="M114.212 17.887v10.16h2.406v-2.464h6.463v2.465h2.412v-10.16h-2.412v5.696h-6.463v-5.697h-2.406zm-28.651 0v10.16h4.603l5.203-6.772v6.773h2.42v-10.16h-2.333l-7.47 9.408v-9.409h-2.422zm-8.149 0v14.835h2.414V20.03h5.081v-2.142h-7.495zM49.593 30.651c0-.088.002-5.988.008-6.078H47.17v13.78h2.41v-5.188c1.74.005 2.186-.015 3.928-.015 4.409 0 7.652-3.454 7.652-7.65 0-4.153-3.147-7.601-7.475-7.692v-.003h-6.529l.004 2.428c1.291 0 6.348.005 6.348.01 2.89 0 5.23 2.352 5.23 5.228 0 2.891-2.34 5.23-5.23 5.23-1.74 0-2.174-.046-3.915-.05zm14.573-6.414a5.228 5.228 0 0 1 5.126-4.225 5.22 5.22 0 0 1 5.131 4.225H64.166zm5.125-6.675c-4.417 0-7.639 3.485-7.639 7.694 0 .991.174 1.942.515 2.82h2.747a5.14 5.14 0 0 1-.749-1.844h10.258v.015h2.449a7.26 7.26 0 0 0 .058-.991c0-4.209-3.217-7.694-7.639-7.694zm36.789 12.795a5.222 5.222 0 0 1-5.226-5.228 5.232 5.232 0 0 1 5.226-5.229c2.875 0 5.228 2.353 5.228 5.23a5.234 5.234 0 0 1-5.228 5.227zm0-12.895c-4.421 0-7.654 3.486-7.654 7.696 0 4.192 3.244 7.65 7.653 7.65 4.391 0 7.636-3.457 7.636-7.65 0-4.21-3.214-7.696-7.636-7.696zm-17.61-2.734c-.969 0-1.548-.763-1.548-1.819 0-1.054.58-1.8 1.548-1.8.964 0 1.542.764 1.542 1.818 0 1.056-.578 1.801-1.542 1.801zm0-4.146c-1.657 0-2.165 1.383-2.165 2.346 0 .965.508 2.347 2.165 2.347 1.675 0 2.162-1.382 2.162-2.347 0-.963-.487-2.346-2.162-2.346zm6.343 3.875h-.021l-1.256-3.766h-.873v4.455h.58v-2.619c0-.145-.016-.707-.016-1.127h.016l1.256 3.746h.6l1.26-3.746h.015c0 .42-.016.982-.016 1.127v2.619h.581v-4.455h-.857l-1.269 3.766zM84.619 10.69h-.82l-2.166 2.165V10.69h-.599v4.455h.599v-1.563l.712-.674 1.548 2.237h.78l-1.893-2.654 1.839-1.801zm40.116 0l-2.256 3.656h-.039V10.69h-.597v4.455h.69l2.28-3.584v3.584h.614V10.69h-.692zM99.15 15.146h.602v-3.91h2.31v3.91h.62v-4.455H99.15v4.455zm-24.366-1.814l.692-1.912.016-.056h.02l.656 1.968h-1.384zm.4-2.641l-1.673 4.455h.618l.471-1.289h1.782l.441 1.289h.654l-1.602-4.455h-.69zm30.597 2.64l.696-1.91.012-.057h.022l.656 1.968h-1.386zm.403-2.64l-1.674 4.455h.617l.47-1.289h1.79l.432 1.289h.656l-1.601-4.455h-.69zm10.5 3.656h-.017v-3.656h-.598v4.455h.687l2.257-3.584h.016v3.584h.6v-4.455h-.69l-2.255 3.656zm-3.43-1.8h-2.33V10.69h-.599v4.455h.6v-2.07h2.329v2.07h.598V10.69h-.598v1.855zm-59.531.215H52.54V11.22h1.218c.493 0 .876.181.876.727 0 .619-.365.816-.911.816zm.217-2.071h-2v4.455h.6v-1.871h1.4c.967 0 1.31-.71 1.31-1.328 0-.71-.49-1.256-1.31-1.256zm4.68 3.056l-1.39-3.056h-.636l1.73 3.637c-.202.365-.272.422-.492.422-.146 0-.253 0-.349-.022v.493c.112.034.277.054.442.054.348 0 .654-.147.944-.837l1.675-3.747h-.636l-1.289 3.056zm-11.088 1.399h.602v-3.91h2.325v-.545h-2.927v4.455zm76.053-4.8c.823 0 .895-.62.93-.84h-.31c-.066.275-.197.474-.62.474-.414 0-.538-.2-.615-.474h-.308c.015.22.11.84.923.84zm-61.43 4.8h.598v-3.91h2.33v3.91h.599v-4.455h-3.527v4.455zm5.982 0h.598v-3.91h2.328v3.91h.603v-4.455h-3.53v4.455z" fill="#231F20"></path>
+    </symbol>
+    <symbol id="logo-white" viewBox="0 0 107.74 40.94">
+        <title>Ресурс 4</title>
+        <g id="Слой_2" data-name="Слой 2">
+            <g id="Слой_1-2" data-name="Слой 1">
+                <path d="M16.87 0A16.9 16.9 0 0 0 0 16.88V40a1.85 1.85 0 0 0 .19.78.45.45 0 0 0 .57.15 2.67 2.67 0 0 0 .83-.54l1.27-1.25L9 33a1.73 1.73 0 0 1 .78-.51 1.82 1.82 0 0 1 .78 0 5.4 5.4 0 0 1 1.15.42c.17.07.23.06.49.17h.12a16.15 16.15 0 0 0 4.55.63 16.86 16.86 0 0 0 0-33.71zm0 24.39a7.53 7.53 0 1 1 7.53-7.53 7.53 7.53 0 0 1-7.51 7.53z" fill="#fff"></path>
+                <path d="M16.86 20.43a3.59 3.59 0 1 0-3.59-3.59 3.59 3.59 0 0 0 3.59 3.59z" fill="#fff"></path>
+                <path d="M16.86 4.64A12.27 12.27 0 0 0 4.64 16.72v14.73l4.46-4.33a.7.7 0 0 1 .69-.25l.13.06.2.14.43.27a12.23 12.23 0 1 0 6.31-22.7zm0 19.74a7.53 7.53 0 1 1 7.52-7.53 7.56 7.56 0 0 1-7.47 7.53zM91 20.27a2.34 2.34 0 1 1-2.34 2.34A2.35 2.35 0 0 1 91 20.27z" fill="#e09b37"></path>
+                <path fill="#fff" d="M97.98 16.35v8.78h2.09V23h5.58v2.13h2.08v-8.78h-2.08v4.92h-5.58v-4.92h-2.09zm-24.75 0v8.78h3.97l4.5-5.85v5.85h2.09v-8.78h-2.01l-6.46 8.13v-8.13h-2.09zm-7.05 0v12.82h2.09V18.2h4.39v-1.85h-6.48zM42.14 27.38v-5.25H40V34h2.08v-4.45h3.4a6.63 6.63 0 0 0 .15-13.26H40v2.1h5.49a4.52 4.52 0 0 1 0 9h-3.38z"></path>
+                <path d="M59.16 16.07a6.54 6.54 0 0 0-6.6 6.65 6.68 6.68 0 0 0 .44 2.43h2.37a4.4 4.4 0 0 1-.65-1.59h11a6.24 6.24 0 0 0 .05-.86 6.54 6.54 0 0 0-6.61-6.63zm-4.43 5.77a4.52 4.52 0 0 1 8.86 0zM91 16a6.63 6.63 0 1 0 6.6 6.65A6.55 6.55 0 0 0 91 16zm0 11.14a4.52 4.52 0 1 1 4.52-4.52A4.51 4.51 0 0 1 91 27.13zM58.16 14h.52v-3.4h2V14h.52v-3.87h-3.04zM53 14h.52v-3.4h2V14H56v-3.87h-3zm53.09-4.15a.73.73 0 0 0 .8-.72h-.27a.47.47 0 0 1-.54.41.48.48 0 0 1-.53-.41h-.26a.72.72 0 0 0 .8.7zM40.36 14h.52v-3.4h2v-.47h-2.52zm9.58-1.21l-1.2-2.64h-.55l1.5 3.14c-.18.32-.24.36-.42.36a1.53 1.53 0 0 1-.3 0V14a1.38 1.38 0 0 0 .38 0c.3 0 .57-.13.82-.72l1.45-3.24h-.55zm-4-2.64h-1.78V14h.52v-1.64h1.21A1.07 1.07 0 0 0 47 11.21a1.05 1.05 0 0 0-1.11-1.08zm-.19 1.79h-1v-1.36h1.05c.43 0 .76.16.76.63s-.38.71-.85.71zm51.45-.19h-2v-1.6h-.52V14h.52v-1.81h2V14h.52v-3.87h-.52zm3 1.56v-3.18h-.52V14h.6l1.95-3.1V14h.52v-3.87h-.6zM91 10.13L89.6 14h.53l.41-1.12h1.55l.37 1.12H93l-1.39-3.85zm-.35 2.28l.6-1.65.57 1.7zm-26.39-2.28L62.81 14h.53l.41-1.12h1.54l.38 1.12h.57l-1.38-3.85zm-.34 2.28l.59-1.65.57 1.7zM85 14h.52v-3.4h2V14H88v-3.87h-3zm22.11-3.85l-1.95 3.16v-3.18h-.52V14h.6l2-3.1V14h.53v-3.87zm-34.67 0h-.74L69.83 12v-1.87h-.52V14h.52v-1.37l.62-.58L71.78 14h.68l-1.64-2.3zm8.81 3.26l-1.09-3.26h-.75V14h.5v-3.28L81 14h.52l1.09-3.24V14h.5v-3.87h-.74zM75.74 10a1.86 1.86 0 0 0-1.87 2 1.88 1.88 0 1 0 3.74 0 1.85 1.85 0 0 0-1.87-2zm0 3.58c-.84 0-1.34-.66-1.34-1.57a1.37 1.37 0 0 1 1.34-1.56c.83 0 1.33.66 1.33 1.57s-.5 1.6-1.33 1.6z" fill="#fff"></path>
+            </g>
+        </g>
+    </symbol>
+    <symbol id="menu-error" viewBox="0 0 18 14">
+        <path fill-rule="evenodd" clip-rule="evenodd" d="M.25.75h17.5v2.5H.25V.75zm0 5h17.5v2.5H.25v-2.5zm17.5 5H.25v2.5h17.5v-2.5z" fill="#424242"></path>
+    </symbol>
+    <symbol id="nav-link-icon" viewBox="0 0 9 15">
+        <path fill-rule="evenodd" clip-rule="evenodd" d="M1.37 0l6.965 6.965-.092.092.093.093-6.966 6.966L0 12.746l5.688-5.688L0 1.37 1.37 0z" fill="#fff"></path>
+        <path fill-rule="evenodd" clip-rule="evenodd" d="M1.37 0l6.965 6.965-.092.092.093.093-6.966 6.966L0 12.746l5.688-5.688L0 1.37 1.37 0z" fill="#fff"></path>
+        <path fill-rule="evenodd" clip-rule="evenodd" d="M1.37 0l6.965 6.965-.092.092.093.093-6.966 6.966L0 12.746l5.688-5.688L0 1.37 1.37 0z" fill="#4A4A4A"></path>
+    </symbol>
+    <symbol id="news-icon-select" viewBox="0 0 20 12">
+        <path fill-rule="evenodd" clip-rule="evenodd" d="M0 1.414L1.414 0 9.9 8.485 18.385 0l1.414 1.414-9.9 9.9L0 1.414z" fill="url(#a)"></path>
+    </symbol>
+    <symbol id="pagin-next" viewBox="0 0 17 15">
+        <path fill-rule="evenodd" clip-rule="evenodd" d="M16.017 7.383L8.75.117 7.68 1.188l5.63 5.63H0v1.515h13.157L7.68 13.811l1.072 1.072 7.266-7.266L15.9 7.5l.117-.117zM13.99 7.5l-.045-.045v.09l.045-.045z" fill="#fff"></path>
+        <path fill-rule="evenodd" clip-rule="evenodd" d="M16.017 7.383L8.75.117 7.68 1.188l5.63 5.63H0v1.515h13.157L7.68 13.811l1.072 1.072 7.266-7.266L15.9 7.5l.117-.117zM13.99 7.5l-.045-.045v.09l.045-.045z" fill="#fff"></path>
+        <path fill-rule="evenodd" clip-rule="evenodd" d="M16.017 7.383L8.75.117 7.68 1.188l5.63 5.63H0v1.515h13.157L7.68 13.811l1.072 1.072 7.266-7.266L15.9 7.5l.117-.117zM13.99 7.5l-.045-.045v.09l.045-.045z" fill="#fff"></path>
+    </symbol>
+    <symbol id="pagin-prev" viewBox="0 0 17 15">
+        <path fill-rule="evenodd" clip-rule="evenodd" d="M.983 7.383L8.25.117l1.07 1.071-5.63 5.63H17v1.515H3.843l5.478 5.478-1.072 1.072L.983 7.617 1.1 7.5l-.117-.117zM3.01 7.5l.045.045v-.09L3.01 7.5z" fill="#4C4C4C"></path>
+    </symbol>
+    <symbol id="pers" viewBox="0 0 24.2 30.16">
+        <path d="M12.1 17.1c-4 0-7.31-3.84-7.31-8.55S8.07 0 12.1 0s7.31 3.84 7.31 8.55-3.28 8.55-7.31 8.55m0-14.52c-2.61 0-4.73 2.68-4.73 6s2.12 6 4.73 6 4.73-2.68 4.73-6-2.12-6-4.73-6m3.08 27.58h-4.71c-3.81 0-6.82.06-8.73-1.83C.57 27.16 0 25.42 0 23a7.3 7.3 0 0 1 1.87-4.82 1.29 1.29 0 0 1 2 1.68A4.72 4.72 0 0 0 2.58 23c0 1.7.32 2.85 1 3.49 1.14 1.13 3.68 1.11 6.89 1.08h3.31c3.21 0 5.75.05 6.89-1.08.65-.65 1-1.79 1-3.49a5.25 5.25 0 0 0-1.4-3 1.29 1.29 0 1 1 1.65-2 7.63 7.63 0 0 1 2.28 5c0 2.43-.57 4.17-1.73 5.33-1.66 1.64-4.15 1.84-7.28 1.84"></path>
+    </symbol>
+    <symbol id="shape-f" viewBox="0 0 12 24">
+        <path d="M11.533 12H7.979v12H2.66V12H0V7.861h2.66V5.386c0-1.777.447-3.118 1.34-4.025C4.893.453 6.368 0 8.426 0h3.553v4.139H9.746c-.758 0-1.242.122-1.452.368-.21.246-.315.677-.315 1.295v2.06H12L11.533 12z" fill="#B6B6B6"></path>
+    </symbol>
+</svg>
+    <div class="wrap-eye-menu">
+        <div class="container container_lg">
+            <div class="eye-menu">
+                <div class="eye-menu__settings">
+                    <div class="eye-menu__fonts">
+                        <div class="eye-menu__text">Размер шрифта:
+                        </div>
+                        <div class="eye-menu__font-item eye-menu__font-item_xs" data-size="16">A
+                        </div>
+                        <div class="eye-menu__font-item eye-menu__font-item_md" data-size="18">A
+                        </div>
+                        <div class="eye-menu__font-item eye-menu__font-item_lg" data-size="20">A
+                        </div>
+                    </div>
+                    <div class="eye-menu__colors">
+                        <div class="eye-menu__text">Цветовая схема:
+                        </div>
+                        <div class="eye-menu__color-item eye-menu__color-item_white">A
+                        </div>
+                        <div class="eye-menu__color-item eye-menu__color-item_black">A
+                        </div>
+                        <div class="eye-menu__color-item eye-menu__color-item_blue">A
+                        </div>
+                    </div>
+                    <div class="eye-menu__images"><a class="eye-menu__vision-image" href="#">Отключить изображения</a>
+                    </div>
+                </div>
+                <div class="eye-menu__back-version">
+                    <div class="eye-button">
+                                                                                  <div class="eye-button__text">Обычная версия
+                                                                                  </div>
+                                                                                  <div class="eye-button__icon"><svg width="21" height="10" viewBox="0 0 21 10" fill="none" xmlns="http://www.w3.org/2000/svg">
+                    <path fill-rule="evenodd" clip-rule="evenodd" d="M4.41422 7.40005C5.69087 7.40005 6.82844 6.31592 6.82844 4.85005C6.82844 3.38417 5.69087 2.30005 4.41422 2.30005C3.13757 2.30005 2 3.38417 2 4.85005C2 6.31592 3.13757 7.40005 4.41422 7.40005ZM4.41422 9.40005C6.85213 9.40005 8.82844 7.36294 8.82844 4.85005C8.82844 2.33715 6.85213 0.300049 4.41422 0.300049C1.97631 0.300049 0 2.33715 0 4.85005C0 7.36294 1.97631 9.40005 4.41422 9.40005Z" fill="#282828"></path>
+                    <path fill-rule="evenodd" clip-rule="evenodd" d="M16.4142 7.1C17.6909 7.1 18.8284 6.01588 18.8284 4.55C18.8284 3.08413 17.6909 2 16.4142 2C15.1376 2 14 3.08413 14 4.55C14 6.01588 15.1376 7.1 16.4142 7.1ZM16.4142 9.1C18.8521 9.1 20.8284 7.0629 20.8284 4.55C20.8284 2.0371 18.8521 0 16.4142 0C13.9763 0 12 2.0371 12 4.55C12 7.0629 13.9763 9.1 16.4142 9.1Z" fill="#282828"></path>
+                    <path fill-rule="evenodd" clip-rule="evenodd" d="M10.5161 4C9.5 4 8.7326 4.93639 8.7326 5.76016H7.1792C7.1792 3.90351 8.63802 2.3335 10.5161 2.3335C12.3943 2.3335 13.8531 3.90351 13.8531 5.76016H12.1086C12.1086 4.93639 11.4357 4 10.5161 4Z" fill="#282828"></path>
+                    </svg>
+
+                                                                                  </div>
+                                                                        </div>
+                </div>
+            </div>
+        </div>
+    </div>
+<header class="header">
+    <div class="container container_lg">
+        <div class="header__content">
+            <div class="header__navigation-wrapper">
+                <a class="header__logo" href="/">
+                    <div class="logo-desktop">
+                        <svg width="59.796mm" height="16.958mm" version="1.1" viewBox="0 0 59.796 16.958" xmlns="http://www.w3.org/2000/svg"><g transform="matrix(.31378 0 0 -.31378 6.889 8.4394)" fill="#f0f"><path d="m0 0c-2.588 0-4.691 2.119-4.691 4.727 0 2.607 2.103 4.781 4.691 4.781s4.691-2.174 4.691-4.781c0-2.608-2.103-4.727-4.691-4.727m0 15.638c-5.946 0-10.821-4.877-10.821-10.947 0-6.014 4.875-10.946 10.821-10.946 6 0 10.821 4.932 10.821 10.946 0 6.07-4.821 10.947-10.821 10.947" fill="#fff" fill-rule="evenodd"></path></g><g fill="#fff"><g transform="matrix(.31378 0 0 -.31378 6.9085 12.058)"><path d="m0 0c-3.007 0-5.799 0.869-8.216 2.334h-0.054c0 0.055-0.537 0.38-0.537 0.38l-0.268 0.163c-0.054 0.054-0.161 0.108-0.161 0.108-0.484 0.163-0.913-0.325-0.913-0.325l-5.853-5.699v19.431c0.107 8.901 7.356 15.957 16.002 15.957 8.86 0 16.002-7.165 16.002-16.12 0-8.902-7.142-16.229-16.002-16.229m0 38.427c-12.136 0-22.017-9.932-22.017-22.253v-30.502s0-0.76 0.215-1.031c0 0 0.215-0.38 0.752-0.217 0 0 0.483 0.162 1.074 0.76l1.664 1.628 8.002 8.086s0.43 0.489 1.02 0.652c0 0 0.483 0.163 1.02 0.054 0.538-0.109 0.967-0.326 1.558-0.542 0.214-0.109 0.268-0.109 0.644-0.218l0.108-0.054c1.288-0.488 3.866-0.868 5.96-0.868 12.19 0 22.017 10.04 22.017 22.307 0 12.32-9.827 22.198-22.017 22.198" fill="#fff" fill-rule="evenodd"></path></g><g transform="matrix(.31378 0 0 -.31378 36.325 3.9906)"><path d="m0 0h-10.797v-18.818h3.358v15.402h7.439z" fill="#fff" fill-rule="evenodd"></path></g><g transform="matrix(.31378 0 0 -.31378 21.186 3.9906)"><path d="m0 0h-6.82v-18.818h3.344v4.956h3.476c3.737 0 6.754 3.08 6.754 6.897 0 3.818-3.017 6.965-6.754 6.965m0-10.447h-3.476v7.031h3.476c1.901 0 3.41-1.607 3.41-3.549s-1.509-3.482-3.41-3.482" fill="#fff" fill-rule="evenodd"></path></g><g transform="matrix(.31378 0 0 -.31378 59.796 9.8953)"><path d="m0 0v18.818h-3.391v-7.701h-8.642v7.701h-3.391v-18.818h3.391v7.701h8.642v-7.701z" fill="#fff" fill-rule="evenodd"></path></g><g transform="matrix(.31378 0 0 -.31378 49.633 3.9423)"><path d="m0 0c-5.276 0-9.563-4.322-9.563-9.641 0-5.318 4.287-9.64 9.563-9.64 5.275 0 9.563 4.322 9.563 9.64 0 5.319-4.288 9.641-9.563 9.641m0-15.891c-3.43 0-6.2 2.86-6.2 6.25 0 3.457 2.77 6.249 6.2 6.249s6.199-2.792 6.199-6.249c0-3.39-2.769-6.25-6.199-6.25" fill="#fff" fill-rule="evenodd"></path></g><g transform="matrix(.31378 0 0 -.31378 29.403 5.0625)"><path d="m0 0v3.416h-10.797v-18.818h10.797v3.416h-7.46v4.285h6.282v3.416h-6.282v4.285z" fill="#fff" fill-rule="evenodd"></path></g><g transform="matrix(.31378 0 0 -.31378 43.868 3.9906)"><path d="m0 0-11.701-11.385v11.385h-3.391v-18.818h0.266l11.767 11.384v-11.384h3.391v18.818z" fill="#fff" fill-rule="evenodd"></path></g></g><g fill="#fff"><path d="m18.938 12.638h3.0576v0.41155h-1.2831v3.2028h-0.49144v-3.2028h-1.2831z"></path><path d="m24.538 13.039v1.3581h0.6149q0.34135 0 0.52776-0.17672 0.18641-0.17672 0.18641-0.50354 0-0.3244-0.18641-0.50112-0.18641-0.17673-0.52776-0.17673zm-0.48902-0.40187h1.1039q0.60764 0 0.91752 0.27598 0.3123 0.27356 0.3123 0.80374 0 0.53502-0.3123 0.80858-0.30988 0.27356-0.91752 0.27356h-0.6149v1.4525h-0.48902z"></path><path d="m29.827 13.119-0.66332 1.7987h1.3291zm-0.27598-0.48176h0.55438l1.3775 3.6144h-0.50839l-0.32924-0.9272h-1.6293l-0.32924 0.9272h-0.51565z"></path><path d="m36.294 12.916v0.51565q-0.24693-0.22998-0.52776-0.34377-0.2784-0.11378-0.59312-0.11378-0.61975 0-0.94899 0.38008-0.32924 0.37766-0.32924 1.0942 0 0.71416 0.32924 1.0942 0.32924 0.37766 0.94899 0.37766 0.31472 0 0.59312-0.11378 0.28082-0.11378 0.52776-0.34377v0.51081q-0.25662 0.1743-0.5447 0.26146-0.28566 0.08716-0.60522 0.08716-0.82068 0-1.2928-0.50112-0.47207-0.50355-0.47207-1.3726 0-0.87152 0.47207-1.3726 0.47208-0.50354 1.2928-0.50354 0.3244 0 0.61006 0.08715 0.28809 0.08474 0.53986 0.25662z"></path><path d="m38.131 12.638h3.0576v0.41155h-1.2831v3.2028h-0.49144v-3.2028h-1.2831z"></path></g><text x="22.129723" y="14.211057" fill="#000000" font-family="'Open Sans'" font-size="2.8331px" letter-spacing="0px" stroke-width=".26561" word-spacing="0px" style="line-height:1.25" xml:space="preserve"><tspan x="22.129723" y="14.211057" stroke-width=".26561"> </tspan></text></svg>
+                    </div>
+                </a>
+                <nav class="navigation">
+                    
+                </nav>
+                <div class="eye-button-container">
+                    <div class="eye-button">
+                        <div class="eye-button__text">Версия для слабовидящих
+                        </div>
+                        <div class="eye-button__icon">
+                            <svg width="21" height="10" viewBox="0 0 21 10" fill="none" xmlns="http://www.w3.org/2000/svg">
+                                <path fill-rule="evenodd" clip-rule="evenodd" d="M4.41422 7.40005C5.69087 7.40005 6.82844 6.31592 6.82844 4.85005C6.82844 3.38417 5.69087 2.30005 4.41422 2.30005C3.13757 2.30005 2 3.38417 2 4.85005C2 6.31592 3.13757 7.40005 4.41422 7.40005ZM4.41422 9.40005C6.85213 9.40005 8.82844 7.36294 8.82844 4.85005C8.82844 2.33715 6.85213 0.300049 4.41422 0.300049C1.97631 0.300049 0 2.33715 0 4.85005C0 7.36294 1.97631 9.40005 4.41422 9.40005Z" fill="#282828"></path>
+                                <path fill-rule="evenodd" clip-rule="evenodd" d="M16.4142 7.1C17.6909 7.1 18.8284 6.01588 18.8284 4.55C18.8284 3.08413 17.6909 2 16.4142 2C15.1376 2 14 3.08413 14 4.55C14 6.01588 15.1376 7.1 16.4142 7.1ZM16.4142 9.1C18.8521 9.1 20.8284 7.0629 20.8284 4.55C20.8284 2.0371 18.8521 0 16.4142 0C13.9763 0 12 2.0371 12 4.55C12 7.0629 13.9763 9.1 16.4142 9.1Z" fill="#282828"></path>
+                                <path fill-rule="evenodd" clip-rule="evenodd" d="M10.5161 4C9.5 4 8.7326 4.93639 8.7326 5.76016H7.1792C7.1792 3.90351 8.63802 2.3335 10.5161 2.3335C12.3943 2.3335 13.8531 3.90351 13.8531 5.76016H12.1086C12.1086 4.93639 11.4357 4 10.5161 4Z" fill="#282828"></path>
+                            </svg>
+
+                        </div>
+                    </div>
+            </div>
+        </div>
+    </div>
+</div></header>
+<button class="button-phone">
+    <a class="button-phone__icon-div" data-name="Обратный звонок">
+        <svg width="18" height="18" viewBox="0 0 18 18" fill="none" xmlns="http://www.w3.org/2000/svg">
+            <path fill-rule="evenodd" clip-rule="evenodd" d="M1 0C0.447 0 0 0.447 0 1C0 10.388 7.612 18 17 18C17.553 18 18 17.553 18 17V13.5C18 12.948 17.553 12.501 17 12.501C15.752 12.501 14.552 12.3 13.428 11.932C13.328 11.9 13.223 11.884 13.119 11.884C12.864 11.884 12.608 11.982 12.413 12.177L10.212 14.38C7.38 12.94 5.065 10.625 3.623 7.794L5.823 5.587C6.098 5.313 6.179 4.918 6.068 4.572C5.7 3.447 5.499 2.247 5.499 1C5.499 0.447 5.052 0 4.5 0H1Z" fill="white"></path>
+        </svg>
+    </a>
+</button>
+<div class="btn-menu">
+    <button class="button button_theme_transparent js-btn-menu">
+        <div></div>
+        <div></div>
+        <div></div>
+    </button>
+</div>
+<div class="wrap-menu-fixed">
+    <div class="nav-top">
+        <div class="nav-top__logo">
+            <svg width="59.796mm" height="16.958mm" version="1.1" viewBox="0 0 59.796 16.958" xmlns="http://www.w3.org/2000/svg"><g><g transform="matrix(.31378 0 0 -.31378 6.889 8.4394)"><path d="m0 0c-2.588 0-4.691 2.119-4.691 4.727 0 2.607 2.103 4.781 4.691 4.781s4.691-2.174 4.691-4.781c0-2.608-2.103-4.727-4.691-4.727m0 15.638c-5.946 0-10.821-4.877-10.821-10.947 0-6.014 4.875-10.946 10.821-10.946 6 0 10.821 4.932 10.821 10.946 0 6.07-4.821 10.947-10.821 10.947" fill-rule="evenodd"></path></g><g transform="matrix(.31378 0 0 -.31378 6.9085 12.058)"><path d="m0 0c-3.007 0-5.799 0.869-8.216 2.334h-0.054c0 0.055-0.537 0.38-0.537 0.38l-0.268 0.163c-0.054 0.054-0.161 0.108-0.161 0.108-0.484 0.163-0.913-0.325-0.913-0.325l-5.853-5.699v19.431c0.107 8.901 7.356 15.957 16.002 15.957 8.86 0 16.002-7.165 16.002-16.12 0-8.902-7.142-16.229-16.002-16.229m0 38.427c-12.136 0-22.017-9.932-22.017-22.253v-30.502s0-0.76 0.215-1.031c0 0 0.215-0.38 0.752-0.217 0 0 0.483 0.162 1.074 0.76l1.664 1.628 8.002 8.086s0.43 0.489 1.02 0.652c0 0 0.483 0.163 1.02 0.054 0.538-0.109 0.967-0.326 1.558-0.542 0.214-0.109 0.268-0.109 0.644-0.218l0.108-0.054c1.288-0.488 3.866-0.868 5.96-0.868 12.19 0 22.017 10.04 22.017 22.307 0 12.32-9.827 22.198-22.017 22.198" fill-rule="evenodd"></path></g><g transform="matrix(.31378 0 0 -.31378 36.325 3.9906)"><path d="m0 0h-10.797v-18.818h3.358v15.402h7.439z" fill-rule="evenodd"></path></g><g transform="matrix(.31378 0 0 -.31378 21.186 3.9906)"><path d="m0 0h-6.82v-18.818h3.344v4.956h3.476c3.737 0 6.754 3.08 6.754 6.897 0 3.818-3.017 6.965-6.754 6.965m0-10.447h-3.476v7.031h3.476c1.901 0 3.41-1.607 3.41-3.549s-1.509-3.482-3.41-3.482" fill-rule="evenodd"></path></g><g transform="matrix(.31378 0 0 -.31378 59.796 9.8953)"><path d="m0 0v18.818h-3.391v-7.701h-8.642v7.701h-3.391v-18.818h3.391v7.701h8.642v-7.701z" fill-rule="evenodd"></path></g><g transform="matrix(.31378 0 0 -.31378 49.633 3.9423)"><path d="m0 0c-5.276 0-9.563-4.322-9.563-9.641 0-5.318 4.287-9.64 9.563-9.64 5.275 0 9.563 4.322 9.563 9.64 0 5.319-4.288 9.641-9.563 9.641m0-15.891c-3.43 0-6.2 2.86-6.2 6.25 0 3.457 2.77 6.249 6.2 6.249s6.199-2.792 6.199-6.249c0-3.39-2.769-6.25-6.199-6.25" fill-rule="evenodd"></path></g><g transform="matrix(.31378 0 0 -.31378 29.403 5.0625)"><path d="m0 0v3.416h-10.797v-18.818h10.797v3.416h-7.46v4.285h6.282v3.416h-6.282v4.285z" fill-rule="evenodd"></path></g><g transform="matrix(.31378 0 0 -.31378 43.868 3.9906)"><path d="m0 0-11.701-11.385v11.385h-3.391v-18.818h0.266l11.767 11.384v-11.384h3.391v18.818z" fill-rule="evenodd"></path></g></g><g><path d="m18.938 12.638h3.0576v0.41155h-1.2831v3.2028h-0.49144v-3.2028h-1.2831z"></path><path d="m24.538 13.039v1.3581h0.6149q0.34135 0 0.52776-0.17672 0.18641-0.17672 0.18641-0.50354 0-0.3244-0.18641-0.50112-0.18641-0.17673-0.52776-0.17673zm-0.48902-0.40187h1.1039q0.60764 0 0.91752 0.27598 0.3123 0.27356 0.3123 0.80374 0 0.53502-0.3123 0.80858-0.30988 0.27356-0.91752 0.27356h-0.6149v1.4525h-0.48902z"></path><path d="m29.827 13.119-0.66332 1.7987h1.3291zm-0.27598-0.48176h0.55438l1.3775 3.6144h-0.50839l-0.32924-0.9272h-1.6293l-0.32924 0.9272h-0.51565z"></path><path d="m36.294 12.916v0.51565q-0.24693-0.22998-0.52776-0.34377-0.2784-0.11378-0.59312-0.11378-0.61975 0-0.94899 0.38008-0.32924 0.37766-0.32924 1.0942 0 0.71416 0.32924 1.0942 0.32924 0.37766 0.94899 0.37766 0.31472 0 0.59312-0.11378 0.28082-0.11378 0.52776-0.34377v0.51081q-0.25662 0.1743-0.5447 0.26146-0.28566 0.08716-0.60522 0.08716-0.82068 0-1.2928-0.50112-0.47207-0.50355-0.47207-1.3726 0-0.87152 0.47207-1.3726 0.47208-0.50354 1.2928-0.50354 0.3244 0 0.61006 0.08715 0.28809 0.08474 0.53986 0.25662z"></path><path d="m38.131 12.638h3.0576v0.41155h-1.2831v3.2028h-0.49144v-3.2028h-1.2831z"></path></g><text x="22.129723" y="14.211057" fill="#000000" font-family="'Open Sans'" font-size="2.8331px" letter-spacing="0px" stroke-width=".26561" word-spacing="0px" style="line-height:1.25" xml:space="preserve"><tspan x="22.129723" y="14.211057" fill="#000000" stroke-width=".26561"></tspan></text></svg>
+        </div>
+        <div class="nav-top__list">
+    </div>
+    </div>
+    <div class="nav-bottom">
+        <div class="nav-sideb">
+                        <div class="nav-sideb__list">
+    	    <div class="eye-button sidebar">
+        <div class="eye-button__text">Версия для слабовидящих</div>
+        <div class="eye-button__icon">
+            <svg width="21" height="10" viewBox="0 0 21 10" fill="none" xmlns="http://www.w3.org/2000/svg">
+                <path fill-rule="evenodd" clip-rule="evenodd" d="M4.41422 7.40005C5.69087 7.40005 6.82844 6.31592 6.82844 4.85005C6.82844 3.38417 5.69087 2.30005 4.41422 2.30005C3.13757 2.30005 2 3.38417 2 4.85005C2 6.31592 3.13757 7.40005 4.41422 7.40005ZM4.41422 9.40005C6.85213 9.40005 8.82844 7.36294 8.82844 4.85005C8.82844 2.33715 6.85213 0.300049 4.41422 0.300049C1.97631 0.300049 0 2.33715 0 4.85005C0 7.36294 1.97631 9.40005 4.41422 9.40005Z" fill="#282828"></path>
+                <path fill-rule="evenodd" clip-rule="evenodd" d="M16.4142 7.1C17.6909 7.1 18.8284 6.01588 18.8284 4.55C18.8284 3.08413 17.6909 2 16.4142 2C15.1376 2 14 3.08413 14 4.55C14 6.01588 15.1376 7.1 16.4142 7.1ZM16.4142 9.1C18.8521 9.1 20.8284 7.0629 20.8284 4.55C20.8284 2.0371 18.8521 0 16.4142 0C13.9763 0 12 2.0371 12 4.55C12 7.0629 13.9763 9.1 16.4142 9.1Z" fill="#282828"></path>
+                <path fill-rule="evenodd" clip-rule="evenodd" d="M10.5161 4C9.5 4 8.7326 4.93639 8.7326 5.76016H7.1792C7.1792 3.90351 8.63802 2.3335 10.5161 2.3335C12.3943 2.3335 13.8531 3.90351 13.8531 5.76016H12.1086C12.1086 4.93639 11.4357 4 10.5161 4Z" fill="#282828"></path>
+            </svg>
+        </div>
+    </div>
+    <a class="nav-sideb__phone nav-sideb__wrap-link" href="tel:+74957772964">+7 (495) 777-29-64</a>
+    <div class="nav-sideb__wrap-btn">
+        <button class="nav-left-button">
+            <a class="nav-left-button__icon-div" data-name="Обратный звонок">
+                <svg width="18" height="18" viewBox="0 0 18 18" fill="none" xmlns="http://www.w3.org/2000/svg">
+                    <path fill-rule="evenodd" clip-rule="evenodd" d="M1 0C0.447 0 0 0.447 0 1C0 10.388 7.612 18 17 18C17.553 18 18 17.553 18 17V13.5C18 12.948 17.553 12.501 17 12.501C15.752 12.501 14.552 12.3 13.428 11.932C13.328 11.9 13.223 11.884 13.119 11.884C12.864 11.884 12.608 11.982 12.413 12.177L10.212 14.38C7.38 12.94 5.065 10.625 3.623 7.794L5.823 5.587C6.098 5.313 6.179 4.918 6.068 4.572C5.7 3.447 5.499 2.247 5.499 1C5.499 0.447 5.052 0 4.5 0H1Z" fill="white"></path>
+                </svg>
+            </a>
+        </button>
+           </div>
+</div>        </div>
+                    <div class="transform-content">
+                <div class="contacts-block transform-block" id="transform-1">
+    <div class="contacts-block__row">
+                    <div class="contacts-block__column">
+                <div class="contacts-block__title">Контакты</div>
+                <a class="contacts-block__tel" href="tel:+74957772964">+7 (495) 777-29-64</a>
+<div class="contacts-block__wrap-text">
+	<div class="contacts-block__text">
+		 09:30 – 18:00 (MSK)
+	</div>
+	<div class="contacts-block__text contacts-block__text_indent">
+		 ПН – ПТ
+	</div>
+</div>
+ <br>            </div>
+                    <div class="contacts-block__column">
+                <div class="contacts-block__title">Офис компании</div>
+                <div class="contacts-block__wrap-text">
+	<div class="contacts-block__text">
+		 123112, г. Москва,
+	</div>
+	<div class="contacts-block__text">
+		 вн. тер. г. муниципальный округ Пресненский, <br>
+		1-й Красногвардейский пр-д, д. 22, стр. 1, помещ. А16
+	</div>
+</div>
+<br>            </div>
+                    <div class="contacts-block__column">
+                <div class="contacts-block__title">&nbsp;</div>
+                &nbsp;            </div>
+                
+    </div>
+            <div id="map" data-center="[55.750940, 37.533910]"><div style="height: 100%; width: 100%;"><div style="overflow: hidden;"></div></div></div>
+    </div>
+            </div>
+		    </div>
+</div>
+<div class="menu-substrate"></div><div class="container"><div class="breadcrumbs"><a class="breadcrumbs__link" href="/">Управляющая компания</a><span class="breadcrumbs__link">Расчет размера собственных средств</span></div></div><div class="wrap-rem">
+    <div class="container">
+            <h1 class="side-bar__header" data-side-bar="">Раскрытие информации
+                <div class="sub-menu__btn-menu js-btn-menu">
+                    <div></div>
+                    <div></div>
+                    <div></div>
+                </div>
+            </h1>
+
+        <div class="columns columns-indent-info">
+            <div class="column column_lg-3">
+                        <aside class="side-bar">
+        <ul class="list-menu">
+            <li class="list-item">
+                                    <a class="list-item__link" href="/">Управляющая компания</a>
+                            </li>
+                            <li class="list-item">
+                				    				
+                                            <a class="list-item__link" href="/management_company_info/">
+                            <span class="link-title"><span>Раскрытие информации профессиональным участником рынка ценных бумаг</span></span>
+                        </a>
+                                                    </li>
+                            <li class="list-item">
+                				    				
+                                            <a class="list-item__link" href="/info_structure/">
+                            <span class="link-title"><span>Информация о структуре собственности (Положение Банка России № 622-П от 26.12.2017 г.)</span></span>
+                        </a>
+                                                    </li>
+                            <li class="list-item">
+                                    <div class="list-item__link ">
+                        <div class="link-title">
+                            <span>Паевые инвестиционные фонды</span>
+                            <svg width="21" height="12" viewBox="0 0 21 12" fill="none" xmlns="http://www.w3.org/2000/svg">
+                            <path fill-rule="evenodd" clip-rule="evenodd" d="M0 1.41421L1.41421 0L9.89949 8.48528L18.3848 0L19.799 1.41421L9.89949 11.3137L0 1.41421Z" transform="translate(0.292969 0.485352)" fill="url(#paint0_linear)"></path>
+                            <defs>
+                                <linearGradient id="paint0_linear" x2="1" gradientUnits="userSpaceOnUse" gradientTransform="matrix(18.8611 -2.09201e-07 -26.3317 41.1525 14.1037 -20.5762)">
+                                    <stop stop-color="#FEBF4A"></stop>
+                                    <stop offset="0.335964" stop-color="#F7931D"></stop>
+                                    <stop offset="1" stop-color="#F36126"></stop>
+                                </linearGradient>
+                            </defs>
+                        </svg>                        </div>
+                        <ul class="list">
+                            																			<li class="list-item">
+											<a class="list-item__link" href="/paevye-investitsionnye-fondy/opif-rynochnykh-finansovykh-instrumentov-intellektfond/">ОПИФ рыночных финансовых инструментов "ИнтеллектФонд"</a>
+										</li>
+																	                                                    </ul>
+                    </div>
+                                </li>
+                            <li class="list-item">
+                				    				
+                                            <a class="list-item__link" href="/pension/">
+                            <span class="link-title"><span>Пенсионные накопления</span></span>
+                        </a>
+                                                    </li>
+                            <li class="list-item">
+                				    				
+                                            <a class="list-item__link" href="/perechen-insayderskoy-informatsii/">
+                            <span class="link-title"><span>Перечень инсайдерской информации</span></span>
+                        </a>
+                                                    </li>
+                            <li class="list-item">
+                				    				
+                                            <a class="list-item__link" href="/reglament-priznaniya-lits-kvalifitsirovannymi-investorami/">
+                            <span class="link-title"><span>Регламент признания лиц квалифицированными инвесторами</span></span>
+                        </a>
+                                                    </li>
+                            <li class="list-item">
+                				    				
+                                            <a class="list-item__link" href="/kriterii-otneseniya-klientov-k-kategorii-klienta/">
+                            <span class="link-title"><span>Критерии отнесения клиентов к категории клиента - иностранного налогоплательщика и способы получения от них необходимой информации</span></span>
+                        </a>
+                                                    </li>
+                            <li class="list-item">
+                				    				
+                                            <a class="list-item__link" href="/ofitsialnye-soobshcheniya/">
+                            <span class="link-title"><span>Официальные сообщения</span></span>
+                        </a>
+                                                    </li>
+                            <li class="list-item">
+                				    				
+                                            <a class="list-item__link" href="/doc_securities/">
+                            <span class="link-title"><span>Документы по доверительному управлению ценными бумагами</span></span>
+                        </a>
+                                                    </li>
+                            <li class="list-item">
+                				    				
+                                            <a class="list-item__link" href="/license/">
+                            <span class="link-title"><span>Лицензии</span></span>
+                        </a>
+                                                    </li>
+                            <li class="list-item">
+                				    				
+                                            <a class="list-item__link" href="/requisites/">
+                            <span class="link-title"><span>Реквизиты</span></span>
+                        </a>
+                                                    </li>
+                            <li class="list-item">
+                				    				
+                                            <a class="list-item__link list-item__link_is-active" href="/calculation-funds/">
+                            <span class="link-title"><span>Расчет размера собственных средств</span></span>
+                        </a>
+                                                    </li>
+                            <li class="list-item">
+                				    				
+                                            <a class="list-item__link" href="/obrabotka-personalnykh-dannykh/">
+                            <span class="link-title"><span>Обработка персональных данных</span></span>
+                        </a>
+                                                    </li>
+                            <li class="list-item">
+                				    				
+                                            <a class="list-item__link" href="/raskrytie-informatsii-uk-po-5609-u/">
+                            <span class="link-title"><span>Раскрытие информации управляющей компании по Указанию 5609-У</span></span>
+                        </a>
+                                                    </li>
+                            <li class="list-item">
+                				    				
+                                            <a class="list-item__link" href="/obshchie-svedeniya/">
+                            <span class="link-title"><span>Общие сведения</span></span>
+                        </a>
+                                                    </li>
+                            <li class="list-item">
+                				    				
+                                            <a class="list-item__link" href="https://www.cbr.ru/protection_rights/finprosvet//" target="_blank">
+                            <span class="link-title"><span>Информационные материалы, предназначенные для повышения финансовой грамотности получателей финансовых услуг</span></span>
+                        </a>
+                                                    </li>
+                    </ul>
+    </aside>
+            </div>
+            <div class="column column_lg-9 column_md-12">
+                <main>
+                    <div class="wrap-rem">
+                                              
+    <h2>Расчет собственных средств</h2>
+<div class="rem-content">
+    Период актуальности раскрываемой информации: вся раскрываемая информация актуальна с даты её раскрытия по настоящее время, если не указано иное.    <div class="rem-table">
+        <table>
+            <tbody><tr class="first-row-orange">
+                <td>Наименование</td>
+                <td>Дата раскрытия</td>
+                <td>Документ</td>
+            </tr>
+
+                                <tr>
+                        <td>
+                            <div class="t-mobil-title">Наименование</div>
+                            Расчет размера собственных средств за май 2023														                        </td>
+                        <td>
+                            <div class="t-mobil-title">Дата раскрытия</div>
+                            16.06.2023 12:20:00                        </td>
+                        <td class="td_doc">
+                            <div class="t-mobil-title">Документ</div>
+                                                                                            <span>
+                                    <a class="rem-table__link-orange" href="/upload/iblock/5b0/5b096b551a09661c58567aace89931df.pdf" download="">Скачать</a>
+                                    <br>&nbsp;pdf (213,56 кБ)
+                                </span>
+                                                    </td>
+                    </tr>
+                                    <tr>
+                        <td>
+                            <div class="t-mobil-title">Наименование</div>
+                            Расчет размера собственных средств за апрель 2023														                        </td>
+                        <td>
+                            <div class="t-mobil-title">Дата раскрытия</div>
+                            19.05.2023 10:34:00                        </td>
+                        <td class="td_doc">
+                            <div class="t-mobil-title">Документ</div>
+                                                                                            <span>
+                                    <a class="rem-table__link-orange" href="/upload/iblock/551/551a4a755e71bc450faeb290d89996c3.pdf" download="">Скачать</a>
+                                    <br>&nbsp;pdf (292,99 кБ)
+                                </span>
+                                                    </td>
+                    </tr>
+                                    <tr>
+                        <td>
+                            <div class="t-mobil-title">Наименование</div>
+                            Расчет размера собственных средств за февраль 2023														<br><i>Период актуальности: уточненный</i>                        </td>
+                        <td>
+                            <div class="t-mobil-title">Дата раскрытия</div>
+                            03.05.2023 17:51:00                        </td>
+                        <td class="td_doc">
+                            <div class="t-mobil-title">Документ</div>
+                                                                                            <span>
+                                    <a class="rem-table__link-orange" href="/upload/iblock/6d0/6d0b808f35ea484e5be94ae8f99c1a53.pdf" download="">Скачать</a>
+                                    <br>&nbsp;pdf (290,12 кБ)
+                                </span>
+                                                    </td>
+                    </tr>
+                                    <tr>
+                        <td>
+                            <div class="t-mobil-title">Наименование</div>
+                            Расчет размера собственных средств за январь 2023														<br><i>Период актуальности: уточненный</i>                        </td>
+                        <td>
+                            <div class="t-mobil-title">Дата раскрытия</div>
+                            03.05.2023 17:50:00                        </td>
+                        <td class="td_doc">
+                            <div class="t-mobil-title">Документ</div>
+                                                                                            <span>
+                                    <a class="rem-table__link-orange" href="/upload/iblock/5cf/5cf21a91c7d86a82fdcb0a76d9cdc4df.pdf" download="">Скачать</a>
+                                    <br>&nbsp;pdf (290,28 кБ)
+                                </span>
+                                                    </td>
+                    </tr>
+                                    <tr>
+                        <td>
+                            <div class="t-mobil-title">Наименование</div>
+                            Расчет размера собственных средств за март 2023														                        </td>
+                        <td>
+                            <div class="t-mobil-title">Дата раскрытия</div>
+                            17.04.2023 12:09:00                        </td>
+                        <td class="td_doc">
+                            <div class="t-mobil-title">Документ</div>
+                                                                                            <span>
+                                    <a class="rem-table__link-orange" href="/upload/iblock/5bb/5bb76f39f2565dc26fa6178130918543.pdf" download="">Скачать</a>
+                                    <br>&nbsp;pdf (289,83 кБ)
+                                </span>
+                                                    </td>
+                    </tr>
+                                    <tr>
+                        <td>
+                            <div class="t-mobil-title">Наименование</div>
+                            Расчет размера собственных средств за февраль 2023														                        </td>
+                        <td>
+                            <div class="t-mobil-title">Дата раскрытия</div>
+                            16.03.2023 13:33:00                        </td>
+                        <td class="td_doc">
+                            <div class="t-mobil-title">Документ</div>
+                                                                                            <span>
+                                    <a class="rem-table__link-orange" href="/upload/iblock/06d/06ddf3f761d207952439749c2d218887.pdf" download="">Скачать</a>
+                                    <br>&nbsp;pdf (290,17 кБ)
+                                </span>
+                                                    </td>
+                    </tr>
+                                    <tr>
+                        <td>
+                            <div class="t-mobil-title">Наименование</div>
+                            Расчет размера собственных средств за январь 2023														                        </td>
+                        <td>
+                            <div class="t-mobil-title">Дата раскрытия</div>
+                            16.02.2023 11:26:00                        </td>
+                        <td class="td_doc">
+                            <div class="t-mobil-title">Документ</div>
+                                                                                            <span>
+                                    <a class="rem-table__link-orange" href="/upload/iblock/b89/b895eec8d074d3d691036cf78b4ee0ac.pdf" download="">Скачать</a>
+                                    <br>&nbsp;pdf (290,31 кБ)
+                                </span>
+                                                    </td>
+                    </tr>
+                                                <tr>
+                        <td>
+                            <div class="t-mobil-title">Наименование</div>
+                            Расчет размера собственных средств за декабрь 2022														                        </td>
+                        <td>
+                            <div class="t-mobil-title">Дата раскрытия</div>
+                            23.01.2023 17:35:00                        </td>
+                        <td class="td_doc">
+                            <div class="t-mobil-title">Документ</div>
+                                                                                            <span>
+                                    <a class="rem-table__link-orange" href="/upload/iblock/a57/a57be5f2ba5cdd3bb29c3ac2e3e56b6f.pdf" download="">Скачать</a>
+                                    <br>&nbsp;pdf (288,23 кБ)
+                                </span>
+                                                    </td>
+                    </tr>
+                                    <tr>
+                        <td>
+                            <div class="t-mobil-title">Наименование</div>
+                            Расчет размера собственных средств за ноябрь 2022														                        </td>
+                        <td>
+                            <div class="t-mobil-title">Дата раскрытия</div>
+                            09.01.2023 16:10:00                        </td>
+                        <td class="td_doc">
+                            <div class="t-mobil-title">Документ</div>
+                                                                                            <span>
+                                    <a class="rem-table__link-orange" href="/upload/iblock/430/430cd0df433327840ad6e2e80788a192.pdf" download="">Скачать</a>
+                                    <br>&nbsp;pdf (289,49 кБ)
+                                </span>
+                                                    </td>
+                    </tr>
+                                    <tr>
+                        <td>
+                            <div class="t-mobil-title">Наименование</div>
+                            Расчет размера собственных средств за октябрь 2022														                        </td>
+                        <td>
+                            <div class="t-mobil-title">Дата раскрытия</div>
+                            09.01.2023 16:10:00                        </td>
+                        <td class="td_doc">
+                            <div class="t-mobil-title">Документ</div>
+                                                                                            <span>
+                                    <a class="rem-table__link-orange" href="/upload/iblock/500/5004b5c77e18b00ddde9949e193e12c4.pdf" download="">Скачать</a>
+                                    <br>&nbsp;pdf (457 кБ)
+                                </span>
+                                                    </td>
+                    </tr>
+                                    <tr>
+                        <td>
+                            <div class="t-mobil-title">Наименование</div>
+                            Расчет размера собственных средств за сентябрь 2022														                        </td>
+                        <td>
+                            <div class="t-mobil-title">Дата раскрытия</div>
+                            09.01.2023 16:09:00                        </td>
+                        <td class="td_doc">
+                            <div class="t-mobil-title">Документ</div>
+                                                                                            <span>
+                                    <a class="rem-table__link-orange" href="/upload/iblock/53a/53abc0682d3fa135a630e8b8251e5ccd.pdf" download="">Скачать</a>
+                                    <br>&nbsp;pdf (290,26 кБ)
+                                </span>
+                                                    </td>
+                    </tr>
+                                    <tr>
+                        <td>
+                            <div class="t-mobil-title">Наименование</div>
+                            Расчет размера собственных средств за август 2022														                        </td>
+                        <td>
+                            <div class="t-mobil-title">Дата раскрытия</div>
+                            09.01.2023 16:08:00                        </td>
+                        <td class="td_doc">
+                            <div class="t-mobil-title">Документ</div>
+                                                                                            <span>
+                                    <a class="rem-table__link-orange" href="/upload/iblock/38e/38e1b56c632e935f6fabe6ff23a5d3d5.pdf" download="">Скачать</a>
+                                    <br>&nbsp;pdf (289,47 кБ)
+                                </span>
+                                                    </td>
+                    </tr>
+                                    <tr>
+                        <td>
+                            <div class="t-mobil-title">Наименование</div>
+                            Расчет размера собственных средств за июль 2022														                        </td>
+                        <td>
+                            <div class="t-mobil-title">Дата раскрытия</div>
+                            09.01.2023 16:07:00                        </td>
+                        <td class="td_doc">
+                            <div class="t-mobil-title">Документ</div>
+                                                                                            <span>
+                                    <a class="rem-table__link-orange" href="/upload/iblock/955/95562ac35f36b8ffe94f38ff26e2ecd4.pdf" download="">Скачать</a>
+                                    <br>&nbsp;pdf (290,36 кБ)
+                                </span>
+                                                    </td>
+                    </tr>
+                                    <tr>
+                        <td>
+                            <div class="t-mobil-title">Наименование</div>
+                            Расчет размера собственных средств за июнь 2022														                        </td>
+                        <td>
+                            <div class="t-mobil-title">Дата раскрытия</div>
+                            09.01.2023 16:06:00                        </td>
+                        <td class="td_doc">
+                            <div class="t-mobil-title">Документ</div>
+                                                                                            <span>
+                                    <a class="rem-table__link-orange" href="/upload/iblock/88d/88d73b86a034469a4241054797ced71a.pdf" download="">Скачать</a>
+                                    <br>&nbsp;pdf (289,52 кБ)
+                                </span>
+                                                    </td>
+                    </tr>
+                                    <tr>
+                        <td>
+                            <div class="t-mobil-title">Наименование</div>
+                            Расчет размера собственных средств за май 2022														                        </td>
+                        <td>
+                            <div class="t-mobil-title">Дата раскрытия</div>
+                            09.01.2023 16:04:00                        </td>
+                        <td class="td_doc">
+                            <div class="t-mobil-title">Документ</div>
+                                                                                            <span>
+                                    <a class="rem-table__link-orange" href="/upload/iblock/6f5/6f5aeb9b8d86894189b956bbc7b58e99.pdf" download="">Скачать</a>
+                                    <br>&nbsp;pdf (287,97 кБ)
+                                </span>
+                                                    </td>
+                    </tr>
+                                    <tr>
+                        <td>
+                            <div class="t-mobil-title">Наименование</div>
+                            Расчет размера собственных средств за апрель 2022														                        </td>
+                        <td>
+                            <div class="t-mobil-title">Дата раскрытия</div>
+                            09.01.2023 16:04:00                        </td>
+                        <td class="td_doc">
+                            <div class="t-mobil-title">Документ</div>
+                                                                                            <span>
+                                    <a class="rem-table__link-orange" href="/upload/iblock/4e8/4e81712628195eeb602161854326b038.pdf" download="">Скачать</a>
+                                    <br>&nbsp;pdf (210,87 кБ)
+                                </span>
+                                                    </td>
+                    </tr>
+                                    <tr>
+                        <td>
+                            <div class="t-mobil-title">Наименование</div>
+                            Расчет размера собственных средств за март 2022														                        </td>
+                        <td>
+                            <div class="t-mobil-title">Дата раскрытия</div>
+                            09.01.2023 15:32:00                        </td>
+                        <td class="td_doc">
+                            <div class="t-mobil-title">Документ</div>
+                                                                                            <span>
+                                    <a class="rem-table__link-orange" href="/upload/iblock/4b7/4b79101554c040dd48a8ef4ba831ce40.pdf" download="">Скачать</a>
+                                    <br>&nbsp;pdf (380,2 кБ)
+                                </span>
+                                                    </td>
+                    </tr>
+                                    <tr>
+                        <td>
+                            <div class="t-mobil-title">Наименование</div>
+                            Расчет размера собственных средств за февраль 2022														                        </td>
+                        <td>
+                            <div class="t-mobil-title">Дата раскрытия</div>
+                            09.01.2023 15:30:00                        </td>
+                        <td class="td_doc">
+                            <div class="t-mobil-title">Документ</div>
+                                                                                            <span>
+                                    <a class="rem-table__link-orange" href="/upload/iblock/44c/44c4797ed75746a6b2707026768b6508.pdf" download="">Скачать</a>
+                                    <br>&nbsp;pdf (198,65 кБ)
+                                </span>
+                                                    </td>
+                    </tr>
+                                    <tr>
+                        <td>
+                            <div class="t-mobil-title">Наименование</div>
+                            Расчет размера собственных средств за январь 2022														                        </td>
+                        <td>
+                            <div class="t-mobil-title">Дата раскрытия</div>
+                            09.01.2023 15:30:00                        </td>
+                        <td class="td_doc">
+                            <div class="t-mobil-title">Документ</div>
+                                                                                            <span>
+                                    <a class="rem-table__link-orange" href="/upload/iblock/eb0/eb0317c93fe5c4bbfc50d9baa2628090.pdf" download="">Скачать</a>
+                                    <br>&nbsp;pdf (198,96 кБ)
+                                </span>
+                                                    </td>
+                    </tr>
+                                                <tr>
+                        <td>
+                            <div class="t-mobil-title">Наименование</div>
+                            Расчет размера собственных средств за декабрь 2021														                        </td>
+                        <td>
+                            <div class="t-mobil-title">Дата раскрытия</div>
+                            09.01.2023 15:28:00                        </td>
+                        <td class="td_doc">
+                            <div class="t-mobil-title">Документ</div>
+                                                                                            <span>
+                                    <a class="rem-table__link-orange" href="/upload/iblock/c5c/c5c5e0ff8396642cfb8754ff5692702c.pdf" download="">Скачать</a>
+                                    <br>&nbsp;pdf (267,16 кБ)
+                                </span>
+                                                    </td>
+                    </tr>
+                                    <tr>
+                        <td>
+                            <div class="t-mobil-title">Наименование</div>
+                            Расчет размера собственных средств за ноябрь 2021														                        </td>
+                        <td>
+                            <div class="t-mobil-title">Дата раскрытия</div>
+                            16.12.2021 13:42:00                        </td>
+                        <td class="td_doc">
+                            <div class="t-mobil-title">Документ</div>
+                                                                                            <span>
+                                    <a class="rem-table__link-orange" href="/upload/iblock/917/917c69840d5a1c61d5be765c4df027c4.pdf" download="">Скачать</a>
+                                    <br>&nbsp;pdf (196,12 кБ)
+                                </span>
+                                                    </td>
+                    </tr>
+                                    <tr>
+                        <td>
+                            <div class="t-mobil-title">Наименование</div>
+                            Расчет размера собственных средств за октябрь 2021														                        </td>
+                        <td>
+                            <div class="t-mobil-title">Дата раскрытия</div>
+                            19.11.2021 12:41:00                        </td>
+                        <td class="td_doc">
+                            <div class="t-mobil-title">Документ</div>
+                                                                                            <span>
+                                    <a class="rem-table__link-orange" href="/upload/iblock/973/9738d4e43f2c781caff6ebacdc28fc87.pdf" download="">Скачать</a>
+                                    <br>&nbsp;pdf (265,57 кБ)
+                                </span>
+                                                    </td>
+                    </tr>
+                                    <tr>
+                        <td>
+                            <div class="t-mobil-title">Наименование</div>
+                            Расчет размера собственных средств за сентябрь 2021														                        </td>
+                        <td>
+                            <div class="t-mobil-title">Дата раскрытия</div>
+                            14.10.2021 13:30:00                        </td>
+                        <td class="td_doc">
+                            <div class="t-mobil-title">Документ</div>
+                                                                                            <span>
+                                    <a class="rem-table__link-orange" href="/upload/iblock/55a/55a33c3ff8fb29cb025728155e992c1f.pdf" download="">Скачать</a>
+                                    <br>&nbsp;pdf (199,76 кБ)
+                                </span>
+                                                    </td>
+                    </tr>
+                                    <tr>
+                        <td>
+                            <div class="t-mobil-title">Наименование</div>
+                            Расчет размера собственных средств за август 2021														                        </td>
+                        <td>
+                            <div class="t-mobil-title">Дата раскрытия</div>
+                            28.09.2021 16:49:00                        </td>
+                        <td class="td_doc">
+                            <div class="t-mobil-title">Документ</div>
+                                                                                            <span>
+                                    <a class="rem-table__link-orange" href="/upload/iblock/a50/a507ce77839a42b4ed686c155d012324.pdf" download="">Скачать</a>
+                                    <br>&nbsp;pdf (199,7 кБ)
+                                </span>
+                                                    </td>
+                    </tr>
+                                    <tr>
+                        <td>
+                            <div class="t-mobil-title">Наименование</div>
+                            Расчет размера собственных средств за июль 2021														                        </td>
+                        <td>
+                            <div class="t-mobil-title">Дата раскрытия</div>
+                            30.08.2021 11:51:00                        </td>
+                        <td class="td_doc">
+                            <div class="t-mobil-title">Документ</div>
+                                                                                            <span>
+                                    <a class="rem-table__link-orange" href="/upload/iblock/a2e/a2e9467de7721350ee22bc81ad228e47.pdf" download="">Скачать</a>
+                                    <br>&nbsp;pdf (199,71 кБ)
+                                </span>
+                                                    </td>
+                    </tr>
+                                    <tr>
+                        <td>
+                            <div class="t-mobil-title">Наименование</div>
+                            Расчет размера собственных средств за июнь 2021														                        </td>
+                        <td>
+                            <div class="t-mobil-title">Дата раскрытия</div>
+                            30.07.2021 09:00:00                        </td>
+                        <td class="td_doc">
+                            <div class="t-mobil-title">Документ</div>
+                                                                                            <span>
+                                    <a class="rem-table__link-orange" href="/upload/iblock/13b/13b3f804051ca049aaf44bbe5ad52e12.pdf" download="">Скачать</a>
+                                    <br>&nbsp;pdf (199,63 кБ)
+                                </span>
+                                                    </td>
+                    </tr>
+                                    <tr>
+                        <td>
+                            <div class="t-mobil-title">Наименование</div>
+                            Расчет размера собственных средств за май 2021														                        </td>
+                        <td>
+                            <div class="t-mobil-title">Дата раскрытия</div>
+                            29.06.2021 12:50:00                        </td>
+                        <td class="td_doc">
+                            <div class="t-mobil-title">Документ</div>
+                                                                                            <span>
+                                    <a class="rem-table__link-orange" href="/upload/iblock/b86/b86d6c7aa33805ac5307225cb6baada0.pdf" download="">Скачать</a>
+                                    <br>&nbsp;pdf (199,66 кБ)
+                                </span>
+                                                    </td>
+                    </tr>
+                                    <tr>
+                        <td>
+                            <div class="t-mobil-title">Наименование</div>
+                            Расчет размера собственных средств за апрель 2021														                        </td>
+                        <td>
+                            <div class="t-mobil-title">Дата раскрытия</div>
+                            21.05.2021 11:43:00                        </td>
+                        <td class="td_doc">
+                            <div class="t-mobil-title">Документ</div>
+                                                                                            <span>
+                                    <a class="rem-table__link-orange" href="/upload/iblock/4ac/4ac9a020f4c064dbd2e140c1e6bb9baa.pdf" download="">Скачать</a>
+                                    <br>&nbsp;pdf (199,88 кБ)
+                                </span>
+                                                    </td>
+                    </tr>
+                                    <tr>
+                        <td>
+                            <div class="t-mobil-title">Наименование</div>
+                            Расчет размера собственных средств за март 2021														                        </td>
+                        <td>
+                            <div class="t-mobil-title">Дата раскрытия</div>
+                            28.04.2021 19:15:00                        </td>
+                        <td class="td_doc">
+                            <div class="t-mobil-title">Документ</div>
+                                                                                            <span>
+                                    <a class="rem-table__link-orange" href="/upload/iblock/46f/46f20e9505a9efd7d91ab6326dc363ec.pdf" download="">Скачать</a>
+                                    <br>&nbsp;pdf (200,03 кБ)
+                                </span>
+                                                    </td>
+                    </tr>
+                                    <tr>
+                        <td>
+                            <div class="t-mobil-title">Наименование</div>
+                            Расчет размера собственных средств за февраль 2021														                        </td>
+                        <td>
+                            <div class="t-mobil-title">Дата раскрытия</div>
+                            29.03.2021 18:28:00                        </td>
+                        <td class="td_doc">
+                            <div class="t-mobil-title">Документ</div>
+                                                                                            <span>
+                                    <a class="rem-table__link-orange" href="/upload/iblock/44d/44db5b5c239be97148edac82d93fc8f0.pdf" download="">Скачать</a>
+                                    <br>&nbsp;pdf (200,15 кБ)
+                                </span>
+                                                    </td>
+                    </tr>
+                                    <tr>
+                        <td>
+                            <div class="t-mobil-title">Наименование</div>
+                            Расчет размера собственных средств за январь 2021														                        </td>
+                        <td>
+                            <div class="t-mobil-title">Дата раскрытия</div>
+                            25.02.2021 18:17:00                        </td>
+                        <td class="td_doc">
+                            <div class="t-mobil-title">Документ</div>
+                                                                                            <span>
+                                    <a class="rem-table__link-orange" href="/upload/iblock/551/551b335cfb08901f1e907d9213e98734.pdf" download="">Скачать</a>
+                                    <br>&nbsp;pdf (199,85 кБ)
+                                </span>
+                                                    </td>
+                    </tr>
+                                                <tr>
+                        <td>
+                            <div class="t-mobil-title">Наименование</div>
+                            Расчет размера собственных средств за декабрь 2020														                        </td>
+                        <td>
+                            <div class="t-mobil-title">Дата раскрытия</div>
+                            29.01.2021 14:32:00                        </td>
+                        <td class="td_doc">
+                            <div class="t-mobil-title">Документ</div>
+                                                                                            <span>
+                                    <a class="rem-table__link-orange" href="/upload/iblock/9fd/9fdb7e3d1e25b1ed3b8ce1524ee94fcb.pdf" download="">Скачать</a>
+                                    <br>&nbsp;pdf (199,98 кБ)
+                                </span>
+                                                    </td>
+                    </tr>
+                                    <tr>
+                        <td>
+                            <div class="t-mobil-title">Наименование</div>
+                            Расчет размера собственных средств за ноябрь 2020														                        </td>
+                        <td>
+                            <div class="t-mobil-title">Дата раскрытия</div>
+                            25.12.2020 13:18:00                        </td>
+                        <td class="td_doc">
+                            <div class="t-mobil-title">Документ</div>
+                                                                                            <span>
+                                    <a class="rem-table__link-orange" href="/upload/iblock/14e/14ec5fc3bfd56a3c3a7064b43bb56246.pdf" download="">Скачать</a>
+                                    <br>&nbsp;pdf (200,04 кБ)
+                                </span>
+                                                    </td>
+                    </tr>
+                                    <tr>
+                        <td>
+                            <div class="t-mobil-title">Наименование</div>
+                            Расчет размера собственных средств за октябрь 2020														                        </td>
+                        <td>
+                            <div class="t-mobil-title">Дата раскрытия</div>
+                            25.11.2020 11:13:00                        </td>
+                        <td class="td_doc">
+                            <div class="t-mobil-title">Документ</div>
+                                                                                            <span>
+                                    <a class="rem-table__link-orange" href="/upload/iblock/d43/d430db4d7417ea65e10dd552471370cd.pdf" download="">Скачать</a>
+                                    <br>&nbsp;pdf (199,86 кБ)
+                                </span>
+                                                    </td>
+                    </tr>
+                                    <tr>
+                        <td>
+                            <div class="t-mobil-title">Наименование</div>
+                            Расчет размера собственных средств за сентябрь 2020														                        </td>
+                        <td>
+                            <div class="t-mobil-title">Дата раскрытия</div>
+                            27.10.2020 15:30:00                        </td>
+                        <td class="td_doc">
+                            <div class="t-mobil-title">Документ</div>
+                                                                                            <span>
+                                    <a class="rem-table__link-orange" href="/upload/iblock/ce7/ce775c3175aef65c82653aadfb609232.pdf" download="">Скачать</a>
+                                    <br>&nbsp;pdf (199,7 кБ)
+                                </span>
+                                                    </td>
+                    </tr>
+                                    <tr>
+                        <td>
+                            <div class="t-mobil-title">Наименование</div>
+                            Расчет размера собственных средств за август 2020														                        </td>
+                        <td>
+                            <div class="t-mobil-title">Дата раскрытия</div>
+                            28.09.2020 12:00:00                        </td>
+                        <td class="td_doc">
+                            <div class="t-mobil-title">Документ</div>
+                                                                                            <span>
+                                    <a class="rem-table__link-orange" href="/upload/iblock/0e5/0e585882fc35907637b9265f0040fbbb.pdf" download="">Скачать</a>
+                                    <br>&nbsp;pdf (199,88 кБ)
+                                </span>
+                                                    </td>
+                    </tr>
+                                    <tr>
+                        <td>
+                            <div class="t-mobil-title">Наименование</div>
+                            Расчет размера собственных средств за июль 2020														                        </td>
+                        <td>
+                            <div class="t-mobil-title">Дата раскрытия</div>
+                            20.08.2020 12:06:00                        </td>
+                        <td class="td_doc">
+                            <div class="t-mobil-title">Документ</div>
+                                                                                            <span>
+                                    <a class="rem-table__link-orange" href="/upload/iblock/4a5/4a5e5d6a76bd548ea46b2af09369c318.pdf" download="">Скачать</a>
+                                    <br>&nbsp;pdf (199,81 кБ)
+                                </span>
+                                                    </td>
+                    </tr>
+                                    <tr>
+                        <td>
+                            <div class="t-mobil-title">Наименование</div>
+                            Расчет размера собственных средств за июнь 2020														                        </td>
+                        <td>
+                            <div class="t-mobil-title">Дата раскрытия</div>
+                            30.07.2020 13:35:00                        </td>
+                        <td class="td_doc">
+                            <div class="t-mobil-title">Документ</div>
+                                                                                            <span>
+                                    <a class="rem-table__link-orange" href="/upload/iblock/e42/e427f97fdec8cbf1ce8b5f1699b989eb.pdf" download="">Скачать</a>
+                                    <br>&nbsp;pdf (137,35 кБ)
+                                </span>
+                                                    </td>
+                    </tr>
+                                    <tr>
+                        <td>
+                            <div class="t-mobil-title">Наименование</div>
+                            Расчет размера собственных средств за май 2020														                        </td>
+                        <td>
+                            <div class="t-mobil-title">Дата раскрытия</div>
+                            29.06.2020 09:52:00                        </td>
+                        <td class="td_doc">
+                            <div class="t-mobil-title">Документ</div>
+                                                                                            <span>
+                                    <a class="rem-table__link-orange" href="/upload/iblock/9fe/9fe6f066f9f778d0a617c8c588abe5e0.pdf" download="">Скачать</a>
+                                    <br>&nbsp;pdf (137,06 кБ)
+                                </span>
+                                                    </td>
+                    </tr>
+                                    <tr>
+                        <td>
+                            <div class="t-mobil-title">Наименование</div>
+                            Расчет размера собственных средств за апрель 2020														                        </td>
+                        <td>
+                            <div class="t-mobil-title">Дата раскрытия</div>
+                            29.05.2020 10:46:00                        </td>
+                        <td class="td_doc">
+                            <div class="t-mobil-title">Документ</div>
+                                                                                            <span>
+                                    <a class="rem-table__link-orange" href="/upload/iblock/f9b/f9bb34f7bb9ef1d6283b09eb5812787b.pdf" download="">Скачать</a>
+                                    <br>&nbsp;pdf (137,07 кБ)
+                                </span>
+                                                    </td>
+                    </tr>
+                                    <tr>
+                        <td>
+                            <div class="t-mobil-title">Наименование</div>
+                            Расчет размера собственных средств за март 2020														                        </td>
+                        <td>
+                            <div class="t-mobil-title">Дата раскрытия</div>
+                            30.04.2020 15:49:00                        </td>
+                        <td class="td_doc">
+                            <div class="t-mobil-title">Документ</div>
+                                                                                            <span>
+                                    <a class="rem-table__link-orange" href="/upload/iblock/75f/75f8d5a12bc2a5e26cf25b6664350b86.pdf" download="">Скачать</a>
+                                    <br>&nbsp;pdf (137,09 кБ)
+                                </span>
+                                                    </td>
+                    </tr>
+                                    <tr>
+                        <td>
+                            <div class="t-mobil-title">Наименование</div>
+                            Расчет размера собственных средств за февраль 2020														                        </td>
+                        <td>
+                            <div class="t-mobil-title">Дата раскрытия</div>
+                            26.03.2020 11:20:00                        </td>
+                        <td class="td_doc">
+                            <div class="t-mobil-title">Документ</div>
+                                                                                            <span>
+                                    <a class="rem-table__link-orange" href="/upload/iblock/dc7/dc7c78f6b6355ee82d51fb58b3a88cb4.pdf" download="">Скачать</a>
+                                    <br>&nbsp;pdf (137,44 кБ)
+                                </span>
+                                                    </td>
+                    </tr>
+                                    <tr>
+                        <td>
+                            <div class="t-mobil-title">Наименование</div>
+                            Расчет размера собственных средств за январь 2020														                        </td>
+                        <td>
+                            <div class="t-mobil-title">Дата раскрытия</div>
+                            27.02.2020 18:42:00                        </td>
+                        <td class="td_doc">
+                            <div class="t-mobil-title">Документ</div>
+                                                                                            <span>
+                                    <a class="rem-table__link-orange" href="/upload/iblock/4b7/4b7bed51d50d18168dddd77605fbf149.pdf" download="">Скачать</a>
+                                    <br>&nbsp;pdf (137,32 кБ)
+                                </span>
+                                                    </td>
+                    </tr>
+                                                <tr>
+                        <td>
+                            <div class="t-mobil-title">Наименование</div>
+                            Расчет размера собственных средств за декабрь 2019														                        </td>
+                        <td>
+                            <div class="t-mobil-title">Дата раскрытия</div>
+                            29.01.2020 19:40:00                        </td>
+                        <td class="td_doc">
+                            <div class="t-mobil-title">Документ</div>
+                                                                                            <span>
+                                    <a class="rem-table__link-orange" href="/upload/iblock/17f/17fd37e4c3ad81b79455fb49f0db69f9.pdf" download="">Скачать</a>
+                                    <br>&nbsp;pdf (137,34 кБ)
+                                </span>
+                                                    </td>
+                    </tr>
+                                    <tr>
+                        <td>
+                            <div class="t-mobil-title">Наименование</div>
+                            Расчет размера собственных средств за ноябрь 2019														                        </td>
+                        <td>
+                            <div class="t-mobil-title">Дата раскрытия</div>
+                            26.12.2019 19:15:00                        </td>
+                        <td class="td_doc">
+                            <div class="t-mobil-title">Документ</div>
+                                                                                            <span>
+                                    <a class="rem-table__link-orange" href="/upload/iblock/163/163a0660c689636303bd3ea55d3e4b2c.pdf" download="">Скачать</a>
+                                    <br>&nbsp;pdf (137,15 кБ)
+                                </span>
+                                                    </td>
+                    </tr>
+                                    <tr>
+                        <td>
+                            <div class="t-mobil-title">Наименование</div>
+                            Расчет размера собственных средств за октябрь 2019														                        </td>
+                        <td>
+                            <div class="t-mobil-title">Дата раскрытия</div>
+                            28.11.2019 13:10:00                        </td>
+                        <td class="td_doc">
+                            <div class="t-mobil-title">Документ</div>
+                                                                                            <span>
+                                    <a class="rem-table__link-orange" href="/upload/iblock/0a6/0a6b1fe9ab48b1b7f64051a012720691.pdf" download="">Скачать</a>
+                                    <br>&nbsp;pdf (137,05 кБ)
+                                </span>
+                                                    </td>
+                    </tr>
+                                    <tr>
+                        <td>
+                            <div class="t-mobil-title">Наименование</div>
+                            Расчет размера собственных средств за сентябрь 2019														                        </td>
+                        <td>
+                            <div class="t-mobil-title">Дата раскрытия</div>
+                            25.10.2019 10:01:00                        </td>
+                        <td class="td_doc">
+                            <div class="t-mobil-title">Документ</div>
+                                                                                            <span>
+                                    <a class="rem-table__link-orange" href="/upload/iblock/7c4/7c4b688835cc8812c8a1e62f5c400983.pdf" download="">Скачать</a>
+                                    <br>&nbsp;pdf (137,05 кБ)
+                                </span>
+                                                    </td>
+                    </tr>
+                                    <tr>
+                        <td>
+                            <div class="t-mobil-title">Наименование</div>
+                            Расчет размера собственных средств за август 2019														                        </td>
+                        <td>
+                            <div class="t-mobil-title">Дата раскрытия</div>
+                            27.09.2019 14:15:00                        </td>
+                        <td class="td_doc">
+                            <div class="t-mobil-title">Документ</div>
+                                                                                            <span>
+                                    <a class="rem-table__link-orange" href="/upload/iblock/731/73138ee275a90684417c125bf8c7d0d5.pdf" download="">Скачать</a>
+                                    <br>&nbsp;pdf (136,93 кБ)
+                                </span>
+                                                    </td>
+                    </tr>
+                                    <tr>
+                        <td>
+                            <div class="t-mobil-title">Наименование</div>
+                            Расчет размера собственных средств за июль 2019														                        </td>
+                        <td>
+                            <div class="t-mobil-title">Дата раскрытия</div>
+                            23.08.2019 12:12:00                        </td>
+                        <td class="td_doc">
+                            <div class="t-mobil-title">Документ</div>
+                                                                                            <span>
+                                    <a class="rem-table__link-orange" href="/upload/iblock/0eb/0eb3d38848e4fb61cbadee6e44661f3d.pdf" download="">Скачать</a>
+                                    <br>&nbsp;pdf (137,11 кБ)
+                                </span>
+                                                    </td>
+                    </tr>
+                                    <tr>
+                        <td>
+                            <div class="t-mobil-title">Наименование</div>
+                            Расчет размера собственных средств за июнь 2019														                        </td>
+                        <td>
+                            <div class="t-mobil-title">Дата раскрытия</div>
+                            29.07.2019 19:21:00                        </td>
+                        <td class="td_doc">
+                            <div class="t-mobil-title">Документ</div>
+                                                                                            <span>
+                                    <a class="rem-table__link-orange" href="/upload/iblock/7d2/7d2ece93044aa8f3ea3a977eaf29a483.pdf" download="">Скачать</a>
+                                    <br>&nbsp;pdf (136,82 кБ)
+                                </span>
+                                                    </td>
+                    </tr>
+                                    <tr>
+                        <td>
+                            <div class="t-mobil-title">Наименование</div>
+                            Расчет размера собственных средств за май 2019														                        </td>
+                        <td>
+                            <div class="t-mobil-title">Дата раскрытия</div>
+                            27.06.2019 19:19:00                        </td>
+                        <td class="td_doc">
+                            <div class="t-mobil-title">Документ</div>
+                                                                                            <span>
+                                    <a class="rem-table__link-orange" href="/upload/iblock/3e6/3e67858c7f82c248d0e612b04dddfe32.pdf" download="">Скачать</a>
+                                    <br>&nbsp;pdf (136,85 кБ)
+                                </span>
+                                                    </td>
+                    </tr>
+                                    <tr>
+                        <td>
+                            <div class="t-mobil-title">Наименование</div>
+                            Расчет размера собственных средств за апрель 2019														                        </td>
+                        <td>
+                            <div class="t-mobil-title">Дата раскрытия</div>
+                            28.05.2019 09:58:00                        </td>
+                        <td class="td_doc">
+                            <div class="t-mobil-title">Документ</div>
+                                                                                            <span>
+                                    <a class="rem-table__link-orange" href="/upload/iblock/01b/01b0547306914f66d89f957c8702599c.pdf" download="">Скачать</a>
+                                    <br>&nbsp;pdf (136,96 кБ)
+                                </span>
+                                                    </td>
+                    </tr>
+                                    <tr>
+                        <td>
+                            <div class="t-mobil-title">Наименование</div>
+                            Расчет размера собственных средств за март 2019														                        </td>
+                        <td>
+                            <div class="t-mobil-title">Дата раскрытия</div>
+                            26.04.2019 17:11:00                        </td>
+                        <td class="td_doc">
+                            <div class="t-mobil-title">Документ</div>
+                                                                                            <span>
+                                    <a class="rem-table__link-orange" href="/upload/iblock/ff9/ff99610c7e4c2a81ed7e491f6a1281a7.pdf" download="">Скачать</a>
+                                    <br>&nbsp;pdf (137,05 кБ)
+                                </span>
+                                                    </td>
+                    </tr>
+                                    <tr>
+                        <td>
+                            <div class="t-mobil-title">Наименование</div>
+                            Расчет размера собственных средств за январь 2019 (уточненный)														                        </td>
+                        <td>
+                            <div class="t-mobil-title">Дата раскрытия</div>
+                            05.04.2019 11:21:00                        </td>
+                        <td class="td_doc">
+                            <div class="t-mobil-title">Документ</div>
+                                                                                            <span>
+                                    <a class="rem-table__link-orange" href="/upload/iblock/ab2/ab20fee5ea9df7c06caa06852485b610.pdf" download="">Скачать</a>
+                                    <br>&nbsp;pdf (137,22 кБ)
+                                </span>
+                                                    </td>
+                    </tr>
+                                    <tr>
+                        <td>
+                            <div class="t-mobil-title">Наименование</div>
+                            Расчет размера собственных средств за февраль 2019														                        </td>
+                        <td>
+                            <div class="t-mobil-title">Дата раскрытия</div>
+                            29.03.2019 13:57:00                        </td>
+                        <td class="td_doc">
+                            <div class="t-mobil-title">Документ</div>
+                                                                                            <span>
+                                    <a class="rem-table__link-orange" href="/upload/iblock/071/07173a56d8dcfb5e64b93ac618f43d3a.pdf" download="">Скачать</a>
+                                    <br>&nbsp;pdf (136,99 кБ)
+                                </span>
+                                                    </td>
+                    </tr>
+                                    <tr>
+                        <td>
+                            <div class="t-mobil-title">Наименование</div>
+                            Расчет размера собственных средств за январь 2019 (информация была уточнена)														<br><i>Период актуальности: c 28.02.2019 до 05.04.2019</i>                        </td>
+                        <td>
+                            <div class="t-mobil-title">Дата раскрытия</div>
+                            28.02.2019 21:19:00                        </td>
+                        <td class="td_doc">
+                            <div class="t-mobil-title">Документ</div>
+                                                                                            <span>
+                                    <a class="rem-table__link-orange" href="/upload/iblock/cc4/cc4f331b4ff573aaed6f14cd3ac1c641.pdf" download="">Скачать</a>
+                                    <br>&nbsp;pdf (137,21 кБ)
+                                </span>
+                                                    </td>
+                    </tr>
+                                                <tr>
+                        <td>
+                            <div class="t-mobil-title">Наименование</div>
+                            Расчет размера собственных средств за декабрь 2018 (уточненный)														                        </td>
+                        <td>
+                            <div class="t-mobil-title">Дата раскрытия</div>
+                            04.04.2018 18:40:00                        </td>
+                        <td class="td_doc">
+                            <div class="t-mobil-title">Документ</div>
+                                                                                            <span>
+                                    <a class="rem-table__link-orange" href="/upload/iblock/409/409c9dc49d1dc4ca4b7a9eb667cf62e9.pdf" download="">Скачать</a>
+                                    <br>&nbsp;pdf (137,34 кБ)
+                                </span>
+                                                    </td>
+                    </tr>
+                                    <tr>
+                        <td>
+                            <div class="t-mobil-title">Наименование</div>
+                            Расчет размера собственных средств за декабрь 2018 (информация была уточнена)														<br><i>Период актуальности: c 28.02.2019 до 04.04.2019</i>                        </td>
+                        <td>
+                            <div class="t-mobil-title">Дата раскрытия</div>
+                            28.02.2018 21:08:00                        </td>
+                        <td class="td_doc">
+                            <div class="t-mobil-title">Документ</div>
+                                                                                            <span>
+                                    <a class="rem-table__link-orange" href="/upload/iblock/c74/c7435b24ac26d07b3119b3ff78158cc6.pdf" download="">Скачать</a>
+                                    <br>&nbsp;pdf (137,32 кБ)
+                                </span>
+                                                    </td>
+                    </tr>
+                                    <tr>
+                        <td>
+                            <div class="t-mobil-title">Наименование</div>
+                            Расчет размера собственных средств за декабрь 2018 (информация была уточнена)														<br><i>Период актуальности: с  30.01.2019 по 28.02.2018 г.</i>                        </td>
+                        <td>
+                            <div class="t-mobil-title">Дата раскрытия</div>
+                            30.01.2018 19:08:00                        </td>
+                        <td class="td_doc">
+                            <div class="t-mobil-title">Документ</div>
+                                                                                            <span>
+                                    <a class="rem-table__link-orange" href="/upload/iblock/cb5/cb58026c2be937f42ef52861e1f4bb68.pdf" download="">Скачать</a>
+                                    <br>&nbsp;pdf (137,33 кБ)
+                                </span>
+                                                    </td>
+                    </tr>
+                                    <tr>
+                        <td>
+                            <div class="t-mobil-title">Наименование</div>
+                            Расчет размера собственных средств за ноябрь 2018														                        </td>
+                        <td>
+                            <div class="t-mobil-title">Дата раскрытия</div>
+                            28.12.2018 11:45:00                        </td>
+                        <td class="td_doc">
+                            <div class="t-mobil-title">Документ</div>
+                                                                                            <span>
+                                    <a class="rem-table__link-orange" href="/upload/iblock/df3/df39d5919c854f6544dac25676dbdcdb.pdf" download="">Скачать</a>
+                                    <br>&nbsp;pdf (137,32 кБ)
+                                </span>
+                                                    </td>
+                    </tr>
+                            
+                    </tbody></table>
+    </div>
+</div>
+                    </div>
+                </main>
+            </div>
+        </div>
+    </div>
+</div>
+<section class="home-request section section_size_large" id="home-request">
+    <div class="container">
+                <div class="wrapper-request">
+            <div class="request-block">
+                <div class="request-block__title">Оставьте заявку на консультацию
+                </div>
+                <div class="request-block__description">Если у вас остались вопросы, обязательно дайте знать и мы
+                    свяжемся с вами в ближайшее время
+                </div>
+            </div>
+            <form method="post" action="/ajax/consultation.php" class="request-form" data-form-ajax="true" enctype="multipart/form-data">            <div class="request-form">
+                <div class="request-form__inputs">
+                    <div class="input-wrap required">
+                        <input placeholder="Ваше имя" required="" value="" name="consultation[NAME]" type="text">                    </div>
+                    <div class="input-wrap required">
+                        <input class="phone-mask" type="tel" id="phone" placeholder="Ваш телефон" required="" value="" name="consultation[PROPERTY_phone]" im-insert="true">                    </div>
+                </div>
+                <div class="request-form__send-wrap">
+                    <div class="checkbox-container checkbox-container_size_md checkbox-container_theme_default">
+                                                    <div class="checkbox-container__control">
+														<input id="consultation[PROPERTY_url]" type="text" name="consultation[PROPERTY_url]" value="/calculation-funds/" style="background: none;color: transparent;height: 0px; width: 0px;}">
+                                                        <input class="checkbox-container__input" id="consultation[POLICY]" type="checkbox" name="consultation[POLICY]" required="required">
+                                                        <label class="checkbox-container__placeholder request-form__text" for="consultation[POLICY]">Нажимая кнопку "Отправить", я даю свое согласие на обработку введенной&nbsp;&nbsp;<a target="_blank" href="/upload/obrabotka-personalnyh-dannyh/0_politika_v_otnoshenii_obrabotki_personalnykh_dannykh_region_trast_03062013.pdf">персональной информации</a>
+                                                        </label>
+                                                    </div>
+                                                </div>
+                    <button class="request-form-button" type="submit">
+                        <div class="request-form-button__text">Отправить</div>
+                    </button>
+                </div>
+            </div>			
+            </form>        </div>		
+		<div class="wrapper-request">
+			<div class="tm-contancts-name">
+							</div>
+		</div>		
+    </div>
+</section>
+<div class="rules-popup" style="display: block;">
+    <div class="container">
+        <div class="rules-popup__content">
+                        <div class="text-block text-block_theme_e">Продолжая использовать наш сайт, вы даете согласие на обработку
+                файлов cookie, пользовательских данных (сведения о местоположении; тип и версия ОС; тип и версия
+                Браузера; тип устройства и разрешение его экрана; источник откуда пришел
+                на сайт пользователь; с какого сайта или по какой рекламе; язык ОС и Браузера; какие страницы открывает
+                и на какие кнопки нажимает пользователь; ip-адрес) в целях функционирования сайта, проведения
+                ретаргетинга и проведения статистических
+                исследований и обзоров. Если вы не хотите, чтобы ваши данные обрабатывались, покиньте сайт.
+            </div>
+            <div class="rules-popup__close-btn">
+                <svg width="14px" height="14px" viewBox="0 0 14 14" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+                    <defs>
+                        <rect id="a" width="24" height="24"></rect>
+                    </defs>
+                    <g transform="translate(-5 -5)" fill-rule="evenodd">
+                        <g fill-rule="nonzero">
+                            <path d="M18.01040764 5.28248558c-.21213203-.21213204-.56568542-.14142136-.88388348.1767767L5.45926227 17.12652415c-.31819805.31819806-.38890873.67175145-.1767767.88388348l.70710679.70710678c.21213203.21213204.56568542.14142136.88388348-.1767767L18.54073773 6.87347585c.31819805-.31819806.38890873-.67175145.1767767-.88388348l-.70710679-.70710678z"></path>
+                            <path d="M18.71751442 18.01040764c.21213204-.21213203.14142136-.56568542-.1767767-.88388348L6.87347585 5.45926227c-.31819806-.31819805-.67175145-.38890873-.88388348-.1767767l-.70710678.70710679c-.21213204.21213203-.14142136.56568542.1767767.88388348l11.66726188 11.66726189c.31819806.31819805.67175145.38890873.88388348.1767767l.70710678-.70710679z"></path>
+                        </g>
+                    </g>
+                </svg>
+            </div>
+        </div>
+    </div>
+</div>
+<footer class="footer">
+    <div class="arrow-up">
+        <div class="arrow-up__icon">
+            <svg width="16" height="17" viewBox="0 0 16 17" fill="none" xmlns="http://www.w3.org/2000/svg">
+                <path fill-rule="evenodd" clip-rule="evenodd" d="M15.9883 6.96582L9.02319 0L7.65332 1.37012L12.3569 6.07422H0V8.01172H12.3882L7.65332 12.7471L9.02295 14.1167L15.9883 7.15137L15.8955 7.05859L15.9883 6.96582Z" transform="translate(0.935547 16.0522) rotate(-90)" fill="white"></path>
+                <path fill-rule="evenodd" clip-rule="evenodd" d="M15.9883 6.96582L9.02319 0L7.65332 1.37012L12.3569 6.07422H0V8.01172H12.3882L7.65332 12.7471L9.02295 14.1167L15.9883 7.15137L15.8955 7.05859L15.9883 6.96582Z" transform="translate(0.935547 16.0522) rotate(-90)" fill="white"></path>
+                <path fill-rule="evenodd" clip-rule="evenodd" d="M15.9883 6.96582L9.02319 0L7.65332 1.37012L12.3569 6.07422H0V8.01172H12.3882L7.65332 12.7471L9.02295 14.1167L15.9883 7.15137L15.8955 7.05859L15.9883 6.96582Z" transform="translate(0.935547 16.0522) rotate(-90)" fill="#4A4A4A"></path>
+            </svg>
+
+        </div>
+    </div>
+    <div class="container">
+        <!--div class="footer__wrap">
+            <div class="footer-nav">
+                                            </div>
+        </div-->
+        <div class="footer__text">
+<p>Акционерное общество «РЕГИОН Траст»</p>
+<p>ОГРН 1237700365957 от&nbsp;24 мая 2023 года.<br>
+Лицензия на&nbsp;осуществление деятельности по&nbsp;управлению инвестиционными фондами, паевыми инвестиционными фондами и&nbsp;негосударственными пенсионными фондами&nbsp;<nobr>№ 21-000-1-00076</nobr>, выданная ФКЦБ России 15 августа 2002&nbsp;г., без ограничения срока действия.<br>
+Лицензия профессионального участника рынка ценных бумаг на&nbsp;осуществление деятельности по&nbsp;управлению ценными бумагами №&nbsp;<nobr>045-08118-001000</nobr>, выданная ФСФР России 16 ноября 2004&nbsp;г., без ограничения срока действия.</p>
+
+
+<p>Паевые инвестиционные фонды под управлением АО «РЕГИОН Траст»:<br>
+—&nbsp;Открытый паевой инвестиционный фонд рыночных финансовых инструментов «ИнтеллектФонд» (Правила доверительного управления Фондом зарегистрированы Банком России 21 января 2021 года за № 4267)<br>
+</p><p>До&nbsp;приобретения инвестиционных паев, заключения соответствующего договора заинтересованные лица могут ознакомиться с&nbsp;условиями управления активами, получить сведения об&nbsp;<nobr>АО «РЕГИОН Траст»</nobr> и&nbsp;иную информацию, которая должна быть предоставлена в&nbsp;соответствии с&nbsp;федеральным законом и&nbsp;иными нормативными правовыми актами Российской Федерации по&nbsp;адресу: Российская Федерация, 123112, Россия, г.&nbsp;Москва, вн.&nbsp;тер.&nbsp;г. муниципальный округ Пресненский, 1-й&nbsp;Красногвардейский пр-д, д.&nbsp;22, стр.&nbsp;1, помещ.&nbsp;А16. Телефон:&nbsp;<nobr>(495) 777-29-64</nobr>.<br>
+Адрес сайта в&nbsp;сети Интернет: <nobr><a href="http://trust-region.ru/">http://trust-region.ru/</a></nobr></p>
+<p>Информация, подлежащая в&nbsp;соответствии с&nbsp;Правилами доверительного управления паевыми инвестиционными фондами под управлением управляющих компаний опубликованию в&nbsp;печатном издании, публикуется в&nbsp;«Приложении к&nbsp;Вестнику Федеральной службы по&nbsp;финансовым рынкам».<br>
+Стоимость инвестиционных паев может увеличиваться и&nbsp;уменьшаться. Результаты инвестирования в&nbsp;прошлом не&nbsp;определяют доходы в&nbsp;будущем. Государство не&nbsp;гарантирует доходность инвестиций, в&nbsp;том числе в&nbsp;паевой инвестиционный фонд. Прежде чем приобрести инвестиционный пай, следует внимательно ознакомиться с&nbsp;правилами доверительного управления паевым инвестиционным фондом.</p>
+<p>Настоящим уведомляем Вас, что оказываемые АО «РЕГИОН Траст» финансовые услуги не являются услугами по открытию банковских счетов и приему вкладов; денежные средства, передаваемые по договору
+ доверительного управления, не подлежат страхованию в соответствии с Федеральным законом от 23 декабря 2003 года N 177-ФЗ "О страховании вкладов физических лиц в банках Российской Федерации".</p>
+ <p class="wrap-rem"><a href="/subscription/">Управление подпиской</a></p>
+        </div>
+    </div>
+</footer>
+<div class="foot">
+    <div class="container">
+        <div class="foot__wrap">
+            <div class="foot__text">© 1995–2023 ГК «РЕГИОН»
+            </div>
+        </div>
+    </div>
+</div>
+<script src="/local/templates/main/build/static/js/main.min.js?060323"></script>
+
+<div class="wrap-form wrap-form-js">
+    <form method="post" action="/ajax/consultation.php" class="request-form" data-form-ajax="true" enctype="multipart/form-data">        <div class="form-consult">
+            <div class="form-consult__title">Оставьте заявку
+                <br>на консультацию
+            </div>
+            <div class="form-consult__discr">Если у вас остались вопросы, обязательно дайте
+                <br>знать и мы свяжемся с вами в ближайшее время
+            </div>
+            <div class="input-row">
+                <div class="input-wrap">
+                    <input placeholder="Ваше имя" class="input-consult-name" value="" name="consultation[NAME]" type="text">                </div>
+            </div>
+            <div class="input-row">
+                <div class="input-wrap">
+                    <input id="phone" placeholder="Ваш телефон" class="input-consult-phone phone-mask" type="tel" value="" name="consultation[PROPERTY_phone]" im-insert="true">                </div>
+            </div>
+            <div class="form-consult__policy">
+                <div class="checkbox-container checkbox-container_size_md checkbox-container_theme_default">
+                                                                    <div class="checkbox-container__control">
+                                                                        <input class="checkbox-container__input" id="consultation-back-call[POLICY]" type="checkbox" name="consultation[POLICY]" required="required">
+                                                                        <label class="checkbox-container__placeholder request-form__text" for="consultation-back-call[POLICY]">Нажимая кнопку "Отправить", я даю свое согласие на обработку введенной&nbsp;&nbsp;<a target="_blank" href="/upload/obrabotka-personalnyh-dannyh/0_politika_v_otnoshenii_obrabotki_personalnykh_dannykh_region_trast_03062013.pdf">персональной информации</a>
+                                                                        </label>
+                                                                    </div>
+                                                                </div>
+            </div>
+            <button class="form-consult__btn" type="submit">
+                <div class="form-consult__text">Отправить
+                </div>
+            </button>
+        </div>
+            </form></div>
+
+

@@ -1,0 +1,1834 @@
+
+<style>
+  .chat-retail-error__text {
+    letter-spacing: 1px;
+    word-spacing: 6px;
+  }
+</style>
+<div id="chat_div" class="chat-retail-block"><div class="chat-retail-theme__default"><div class="chat-retail-icons__container" style="z-index: 1234534534;"><div class="chat-retail-icons"></div></div></div></div>
+<div class="overl"></div>
+
+<div class="popup_requisites">
+  <div class="popup_requisites__print" id="pdf-print">
+  </div>
+  <div class="popup_download">
+    <a href="#" class="copy-btn" id="req_copy_button" onclick="RequisitesCopy(event)">Скопировать</a>
+    <a href="#" class="" onclick="PDFPrint(event)">Скачать в PDF</a>
+  </div>
+  <span class="popup_requisites__close js-requisites-close">
+			<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 31 31"><path d="M15.5,29A13.5,13.5,0,1,0,2,15.5,13.49,13.49,0,0,0,15.5,29m0,2A15.5,15.5,0,1,1,31,15.5,15.5,15.5,0,0,1,15.5,31Zm7.42-10.2a1.5,1.5,0,0,1-2.12,2.12h0l-5.3-5.29-5.3,5.29A1.5,1.5,0,0,1,8.08,20.8l5.3-5.3-5.3-5.3A1.5,1.5,0,0,1,10.2,8.07l5.3,5.31,5.3-5.31a1.51,1.51,0,1,1,2.13,2.13h0l-5.3,5.3Z" style="fill:#3f474f"></path></svg>
+	</span>
+</div>
+<div class="popup-thx">
+  <span class="popup_thx__text">Спасибо, ваша заявка принята!</span>
+  <span class="popup-thx__close js-thx-close">
+			<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 31 31"><path d="M15.5,29A13.5,13.5,0,1,0,2,15.5,13.49,13.49,0,0,0,15.5,29m0,2A15.5,15.5,0,1,1,31,15.5,15.5,15.5,0,0,1,15.5,31Zm7.42-10.2a1.5,1.5,0,0,1-2.12,2.12h0l-5.3-5.29-5.3,5.29A1.5,1.5,0,0,1,8.08,20.8l5.3-5.3-5.3-5.3A1.5,1.5,0,0,1,10.2,8.07l5.3,5.31,5.3-5.31a1.51,1.51,0,1,1,2.13,2.13h0l-5.3,5.3Z" style="fill:#3f474f"></path></svg>
+	</span>
+</div>
+<div class="popup-send-mail">
+  <form id="iis-mail-send" method="get" action="">
+    <input type="hidden" name="sessid" id="sessid" value="27e0051b6f3ce1388a0c05cd74791dcc">    <input type="email" name="email" class="popup-send-mail__input" placeholder="Введите Ваш E-Mail">
+    <input type="submit" class="popup-send-mail__btn" value="Отправить на почту">
+  </form>
+  <span class="popup-send-mail__close js-iis-send-close">
+			<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 31 31"><path d="M15.5,29A13.5,13.5,0,1,0,2,15.5,13.49,13.49,0,0,0,15.5,29m0,2A15.5,15.5,0,1,1,31,15.5,15.5,15.5,0,0,1,15.5,31Zm7.42-10.2a1.5,1.5,0,0,1-2.12,2.12h0l-5.3-5.29-5.3,5.29A1.5,1.5,0,0,1,8.08,20.8l5.3-5.3-5.3-5.3A1.5,1.5,0,0,1,10.2,8.07l5.3,5.31,5.3-5.31a1.51,1.51,0,1,1,2.13,2.13h0l-5.3,5.3Z" style="fill:#3f474f"></path></svg>
+	</span>
+</div>
+<script type="text/javascript">
+  $('.js-popclose-cookie').click(function () {
+    $('.mob-pop').hide();
+    $.cookie('mobile-app-popup', '1', {path: '/'});
+  });
+  var x = $.cookie('mobile-app-popup');
+  if (x == 1) {
+    $('.mob-pop').addClass('hidden');
+  }
+</script>
+<div id="cnt-wrapper">
+  <div id="cnt-wrapper-i">
+    
+<div class="layout_wrapper">
+	<div class="popup_bg"></div>
+	<div class="popup_button"></div>
+	<div class="popup mCustomScrollbar _mCS_1 mCS_no_scrollbar"><div id="mCSB_1" class="mCustomScrollBox mCS-dark mCSB_vertical mCSB_inside" style="max-height: none;" tabindex="0"><div id="mCSB_1_container" class="mCSB_container mCS_y_hidden mCS_no_scrollbar_y" style="position:relative; top:0; left:0;" dir="ltr">
+		<div>
+					</div>
+	</div><div id="mCSB_1_scrollbar_vertical" class="mCSB_scrollTools mCSB_1_scrollbar mCS-dark mCSB_scrollTools_vertical" style="display: none;"><div class="mCSB_draggerContainer"><div id="mCSB_1_dragger_vertical" class="mCSB_dragger" style="position: absolute; min-height: 30px; top: 0px;"><div class="mCSB_dragger_bar" style="line-height: 30px;"></div></div><div class="mCSB_draggerRail"></div></div></div></div></div>
+</div>
+    <div class="town_switcher_top">
+                        </div>
+                            
+      <div class="main_menu main" style="display: none; border-bottom: 1px solid rgb(229, 232, 235);"></div>
+      <div class="header">
+        <div class="header__top">
+          <div class="mbox">
+            <div class="header__row">
+              <div class="header__logo">
+                <div href="#" class="header__ecosystem">
+                  <img style="display:none;" src="/local/templates/main/img/new-template/icons/ecosystem-ico.svg" alt="">
+                  <div class="header__ecosystem-popup">
+                    <div class="header__ecosystem-icons">
+                      <a href="http://sberbank.ru" class="header__ecosystem-icon" target="_blank">
+                        <img src="/local/templates/main/img/new-template/ecosystem/sber_icon.svg" alt="">
+                        <span>Сбербанк</span>
+                      </a>
+                      <a href="https://sber.ru/sberprime" class="header__ecosystem-icon" target="_blank">
+                        <img src="/local/templates/main/img/new-template/ecosystem/pryme_icon.svg" alt="">
+                        <span>Сбер Прайм</span>
+                      </a>
+                      <a href="https://sbermarket.ru" class="header__ecosystem-icon" target="_blank">
+                        <img src="/local/templates/main/img/new-template/ecosystem/sbermarket_icon.svg" alt="">
+                        <span>Сбермаркет</span>
+                      </a>
+                      <a href="https://okko.tv" class="header__ecosystem-icon" target="_blank">
+                        <img src="/local/templates/main/img/new-template/ecosystem/okko_icon.svg" alt="">
+                        <span>Окко</span>
+                      </a>
+                      <a href="https://domclick.ru" class="header__ecosystem-icon" target="_blank">
+                        <img src="/local/templates/main/img/new-template/ecosystem/domclick_icon.svg" alt="">
+                        <span>Домклик</span>
+                      </a>
+                      <a href="https://spasibosberbank.ru" class="header__ecosystem-icon" target="_blank">
+                        <img src="/local/templates/main/img/new-template/ecosystem/senq_icon.svg" alt="">
+                        <span>СберСпасибо</span>
+                      </a>
+                      <a href="https://www.sberbank-insurance.ru" class="header__ecosystem-icon" target="_blank">
+                        <img src="/local/templates/main/img/new-template/ecosystem/sberstrakh_icon.svg" alt="">
+                        <span>СберСтрахование</span>
+                      </a>
+                      <a href="https://sbermobile.ru" class="header__ecosystem-icon" target="_blank">
+                        <img src="/local/templates/main/img/new-template/ecosystem/sbermobile_icon.svg" alt="">
+                        <span>СберМобайл</span>
+                      </a>
+                      <a href="https://sblogistica.ru" class="header__ecosystem-icon" target="_blank">
+                        <img src="/local/templates/main/img/new-template/ecosystem/logisticks_icon.svg" alt="">
+                        <span>СберЛогистика</span>
+                      </a>
+                      <a href="https://www.delivery-club.ru" class="header__ecosystem-icon" target="_blank">
+                        <img src="/local/templates/main/img/new-template/ecosystem/delivery_icon.svg" alt="">
+                        <span>Delivery Club</span>
+                      </a>
+                      <a href="https://zvk.onelink.me/dd8d/f429c97e" class="header__ecosystem-icon" target="_blank">
+                        <img src="/local/templates/main/img/new-template/ecosystem/sberzvuk_icon.svg" alt="">
+                        <span>СберЗвук</span>
+                      </a>
+                      <a href="https://sber.ru/salute" class="header__ecosystem-icon" target="_blank">
+                        <img src="/local/templates/main/img/new-template/ecosystem/devices_icon.svg" alt="">
+                        <span>СберДевайсы</span>
+                      </a>
+                    </div>
+                    <div class="header__ecosystem-desc"><a href="https://www.sber.ru/" target="_blank">Больше об экосистеме Сбера &gt;</a>
+                    </div>
+                  </div>
+                </div>
+                <a href="/" class="header__logo-img">
+                  <img src="/local/templates/main/img/new-template/new-logo-big.svg">
+                </a>
+              </div>
+
+              
+<style type="text/css">
+.header__top-nav-col a.active{
+    color: #000;
+}
+
+</style>
+
+  	<div class="header__top-nav">		
+
+                	
+                    	
+        		        			<div class="header__top-nav-col">
+        		            	    <a href="/info_centr/" data-hash="">
+            	        Аналитика            	    </a>
+            	                	
+                    	
+        		            	    <a class="active" href="/disclosure/" data-hash="">
+            	        Раскрытие информации            	    </a>
+            	                	
+                    	
+        		            	    <a href="/offices/" data-hash="">
+            	        Офисы продаж            	    </a>
+            	                	
+                    	
+        		            	    <a href="/company/contacts/" data-hash="">
+            	        Контакты            	    </a>
+            	        			</div>
+            	                	
+                        	<div class="header__top-nav-more">
+              		<span>Ещё</span>
+              		<div class="header__top-nav-hidden">
+                    	
+        		            	    <a href="/individuals/" data-hash="">
+            	        Частным инвесторам            	    </a>
+            	                	
+                    	
+        		            	    <a href="/inst_investors/" data-hash="">
+            	        Институциональным инвесторам            	    </a>
+            	                	
+                    	
+        		            	    <a href="/company/" data-hash="">
+            	        О компании            	    </a>
+            	                	
+                    	
+        		            	    <a href="/faq/" data-hash="">
+            	        Вопросы и ответы            	    </a>
+            	        			</div>
+		</div>
+	</div>
+              <div class="header__right">
+                
+
+<a href="https://my.first-am.ru" class="header__personal">Личный кабинет</a>
+<div class="header__search">
+  	<div class="header__search-btn">
+  	  <img src="/local/templates/main/img/new-template/header-search.svg">
+  	</div>
+	<form action="/search/index.php">
+		<input type="submit" name="s" value="" class="form_search-button">
+		<input type="search" name="q" placeholder="Поиск по сайту">
+		<button type="button" name="sclose"></button>
+	</form>
+</div>
+
+                <div class="header__mobmenu">
+                  <div class="header__mobmenu-btn">
+                    <span></span><span></span><span></span>
+                  </div>
+                  <div class="mobmenu">
+                    <div class="mobmenu__search">
+                      <form action="/search/index.php">
+	<input type="submit" name="s" value="" class="form_search-button">
+	<input type="search" name="q" placeholder="Поиск по сайту">
+</form>
+
+
+
+
+                    </div>
+                    <div class="mobmenu__menu">
+
+                      <div class="mobile-menu">
+  <ul class="mobile-menu__list">
+    <li class="mobile-menu__item with-submenu">
+      <a href="/individuals/fund/" class="mobile-menu__link">Паевые фонды</a>
+      <div class="mobile-submenu__fund">
+  <div class="pif-tab pif-tab-navigation">
+    <div class="container-submenu">
+      <div class="pif-tab__wrapper">
+        <a href="/individuals/fund/" class="pif-tab__item">
+          <span class="pif-tab__ico pif-tab__ico--1">
+            <svg width="100%" height="100%">
+              <use xlink:href="#ico-tab1"></use>
+            </svg>
+          </span>
+          <span class="pif-tab__text">Что такое ПИФ?</span>
+        </a>
+        <a href="/individuals/fund/choose/" class="pif-tab__item">
+          <span class="pif-tab__ico pif-tab__ico--2">
+            <svg width="100%" height="100%">
+              <use xlink:href="#ico-tab2"></use>
+            </svg>
+          </span>
+          <span class="pif-tab__text">Выбрать ПИФ</span>
+        </a>
+        <a href="/individuals/fund/yield/" class="pif-tab__item">
+          <span class="pif-tab__ico pif-tab__ico--3">
+            <svg width="100%" height="100%">
+              <use xlink:href="#ico-tab3"></use>
+            </svg>
+          </span>
+          <span class="pif-tab__text">Сравнить доходность ПИФ</span>
+        </a>
+              </div>
+    </div>
+  </div>
+</div>
+    <div class="with-submenu__item ">
+    <span class="with-submenu__title">Открытые фонды облигаций</span>
+    <ul class="with-submenu__list">
+              <li class="with-submenu__list-item"><a href="/individuals/fund/bond-fund-with-income-payment/" class="mobile-menu__link">Фонд облигаций с выплатой дохода</a></li>
+              <li class="with-submenu__list-item"><a href="/individuals/fund/conservative-fund-with-income-payment/" class="mobile-menu__link">Фонд консервативный с выплатой дохода</a></li>
+              <li class="with-submenu__list-item"><a href="/individuals/fund/opif-obligatsiy-fond-ros-obligatsiy/" class="mobile-menu__link">Фонд российских облигаций</a></li>
+              <li class="with-submenu__list-item"><a href="/individuals/fund/opif-obligatsiy-valyutnye-sberegenia/" class="mobile-menu__link">Фонд Валютные сбережения</a></li>
+              <li class="with-submenu__list-item"><a href="/individuals/fund/pif-nakopitelniy/" class="mobile-menu__link">Фонд Накопительный</a></li>
+          </ul>
+  </div>
+    <div class="with-submenu__item ">
+    <span class="with-submenu__title">Открытые фонды акций</span>
+    <ul class="with-submenu__list">
+              <li class="with-submenu__list-item"><a href="/individuals/fund/stock-fund-with-income-payment/" class="mobile-menu__link">Фонд акций с выплатой дохода</a></li>
+              <li class="with-submenu__list-item"><a href="/individuals/fund/opif-aktsiy-fond-ros-aktsiy/" class="mobile-menu__link">Фонд российских акций</a></li>
+              <li class="with-submenu__list-item"><a href="/individuals/fund/opif-aktsiy-elektroenergetika/" class="mobile-menu__link">Фонд Электроэнергетика</a></li>
+              <li class="with-submenu__list-item"><a href="/individuals/fund/opif-aktsiy-prirodnye-resursy/" class="mobile-menu__link">Фонд Природные ресурсы</a></li>
+              <li class="with-submenu__list-item"><a href="/individuals/fund/opif-aktsiy-globalnyy-internet/" class="mobile-menu__link">Фонд Глобальный Интернет</a></li>
+              <li class="with-submenu__list-item"><a href="/individuals/fund/opif-aktsiy-potrebitelskiy-sektor/" class="mobile-menu__link">Фонд Потребительский сектор</a></li>
+              <li class="with-submenu__list-item"><a href="/individuals/fund/opif-aktsiy-finansovyy-sektor/" class="mobile-menu__link">Фонд Финансовый сектор</a></li>
+          </ul>
+  </div>
+    <div class="with-submenu__item ">
+    <span class="with-submenu__title">Открытые фонды смешанных инвестиций</span>
+    <ul class="with-submenu__list">
+              <li class="with-submenu__list-item"><a href="/individuals/fund/mixed-fund-with-income-payment/" class="mobile-menu__link">Фонд смешанный с выплатой дохода</a></li>
+              <li class="with-submenu__list-item"><a href="/individuals/fund/opif-smeshannykh-investitsiy-fond-sbalans/" class="mobile-menu__link">Фонд Сбалансированный</a></li>
+              <li class="with-submenu__list-item"><a href="/individuals/fund/fond-lokalniy/" class="mobile-menu__link">Фонд Локальный</a></li>
+              <li class="with-submenu__list-item"><a href="/individuals/fund/weighted-fund-with-income-payment/" class="mobile-menu__link">Фонд взвешенный с выплатой дохода</a></li>
+          </ul>
+  </div>
+    <div class="with-submenu__item locked">
+    <span class="with-submenu__title">Архивные фонды</span>
+    <ul class="with-submenu__list">
+              <li class="with-submenu__list-item"><a href="/individuals/fund/fond-perspektivnyh-obligaciy/" class="mobile-menu__link">Фонд перспективных облигаций</a></li>
+              <li class="with-submenu__list-item"><a href="/individuals/fund/opif-fondov-evropa/" class="mobile-menu__link">Фонд Европа</a></li>
+              <li class="with-submenu__list-item"><a href="/individuals/fund/opif-fondov-razvivayushchiesya-rynki/" class="mobile-menu__link">Фонд Развивающиеся рынки</a></li>
+              <li class="with-submenu__list-item"><a href="/individuals/fund/opif-fondov-globalnoe-mashinostroenie/" class="mobile-menu__link">Фонд Глобальное машиностроение</a></li>
+              <li class="with-submenu__list-item"><a href="/individuals/fund/zpifn-kommercheskaya-nedvizhimost/" class="mobile-menu__link">Фонд Коммерческая недвижимость</a></li>
+              <li class="with-submenu__list-item"><a href="/individuals/fund/zpifn-arendnyy-biznes/" class="mobile-menu__link">Фонд Арендный бизнес</a></li>
+              <li class="with-submenu__list-item"><a href="/individuals/fund/zpifn-arendnyy-biznes-3/" class="mobile-menu__link">Фонд Арендный бизнес 3</a></li>
+              <li class="with-submenu__list-item"><a href="/individuals/fund/opif-fondov-globalnyy-dolgovoy-rynok/" class="mobile-menu__link">Фонд Глобальный долговой рынок</a></li>
+              <li class="with-submenu__list-item"><a href="/individuals/fund/opif-aktsiy-fond-aktsiy-kompaniy-maloy-ka/" class="mobile-menu__link">Фонд акций компаний малой капитализации</a></li>
+              <li class="with-submenu__list-item"><a href="/individuals/fund/opif-aktsiy-telekommunikatsii-i-tekhnolog/" class="mobile-menu__link">Фонд Телекоммуникации и технологии</a></li>
+              <li class="with-submenu__list-item"><a href="/individuals/fund/opif-aktsiy-fond-aktivnogo-upravleniya/" class="mobile-menu__link">Фонд активного управления</a></li>
+          </ul>
+  </div>
+    <div class="with-submenu__item ">
+    <span class="with-submenu__title">ОПИФ фондов</span>
+    <ul class="with-submenu__list">
+              <li class="with-submenu__list-item"><a href="/individuals/fund/opif-globalny/" class="mobile-menu__link">Фонд Глобальный</a></li>
+              <li class="with-submenu__list-item"><a href="/individuals/fund/opif-fondov-biotekhnologii/" class="mobile-menu__link">Фонд Биотехнологии</a></li>
+              <li class="with-submenu__list-item"><a href="/individuals/fund/opif-fondov-zoloto/" class="mobile-menu__link">Фонд Золото</a></li>
+          </ul>
+  </div>
+    <div class="with-submenu__item ">
+    <span class="with-submenu__title">Закрытые фонды</span>
+    <ul class="with-submenu__list">
+              <li class="with-submenu__list-item"><a href="/individuals/fund/zpifn-arendnyy-biznes-2/" class="mobile-menu__link">Фонд Арендный бизнес 2</a></li>
+              <li class="with-submenu__list-item"><a href="/individuals/fund/zpifn-arendnyy-biznes-6/" class="mobile-menu__link">Фонд Современный 6</a></li>
+          </ul>
+  </div>
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="0" height="0" style="position:absolute">
+  <symbol id="ico-pif-1" viewBox="0 0 56.72 51.28">
+    <path d="M47.26,36.49H31.49a1.25,1.25,0,0,1,0-2.5H47.26a7,7,0,0,0,7-7V13.88a7,7,0,0,0-7-7H9.47a7,7,0,0,0-7,7V27a7,7,0,0,0,7,7h16a1.25,1.25,0,1,1,0,2.5h-16A9.47,9.47,0,0,1,0,27V13.88A9.47,9.47,0,0,1,9.47,4.42H47.26a9.47,9.47,0,0,1,9.46,9.46V27A9.47,9.47,0,0,1,47.26,36.49Z" style="fill:#369a1e"></path>
+    <path d="M29,41.78H27.75a2.9,2.9,0,0,1-2.9-2.89V31.6a2.9,2.9,0,0,1,2.9-2.9H29a2.9,2.9,0,0,1,2.89,2.9v7.29A2.9,2.9,0,0,1,29,41.78ZM27.75,31.2a.4.4,0,0,0-.4.4v7.29a.4.4,0,0,0,.4.39H29a.39.39,0,0,0,.39-.39V31.6a.39.39,0,0,0-.39-.4Z" style="fill:#f29a07"></path>
+    <path d="M41.19,6.92a1.24,1.24,0,0,1-1.1-.68A7,7,0,0,0,33.91,2.5H22.82a7,7,0,0,0-6.18,3.74,1.25,1.25,0,0,1-2.22-1.15A9.45,9.45,0,0,1,22.82,0H33.91A9.43,9.43,0,0,1,42.3,5.09a1.24,1.24,0,0,1-.53,1.68A1.19,1.19,0,0,1,41.19,6.92Z" style="fill:#369a1e"></path>
+    <path d="M45.21,51.28H11.52a9.48,9.48,0,0,1-9.47-9.47V33.5a1.25,1.25,0,0,1,2.5,0v8.31a7,7,0,0,0,7,7H45.21a7,7,0,0,0,7-7v-7.7a1.25,1.25,0,0,1,2.5,0v7.7A9.48,9.48,0,0,1,45.21,51.28Z" style="fill:#369a1e"></path>
+  </symbol>
+  <symbol id="ico-pif-2" viewBox="0 0 58.95 58.95">
+    <path d="M30.51,56.87v-2A26.44,26.44,0,1,0,4.08,28.44h-2A28.44,28.44,0,1,1,30.51,56.87Z" style="fill:#369a1e"></path>
+    <rect x="26.5" y="17.74" width="27.43" height="2" transform="translate(-1.47 33.92) rotate(-45)" style="fill:#369a1e"></rect>
+    <path d="M31.51,59h-1A30.55,30.55,0,0,1,0,28.44v-1H31.51ZM2,29.44A28.55,28.55,0,0,0,29.51,56.93V29.44Z" style="fill:#f29a07"></path>
+  </symbol>
+  <symbol id="ico-pif-3" viewBox="0 0 67.72 49.85">
+    <path d="M34.32,38.48H4.63A4.64,4.64,0,0,1,0,33.85V4.63A4.64,4.64,0,0,1,4.63,0h44a4.64,4.64,0,0,1,4.63,4.63V15a1.25,1.25,0,0,1-2.5,0V4.63A2.14,2.14,0,0,0,48.65,2.5h-44A2.14,2.14,0,0,0,2.5,4.63V33.85A2.13,2.13,0,0,0,4.63,36H34.32a1.25,1.25,0,0,1,0,2.5Z" style="fill:#369a1e"></path>
+    <path d="M15,22a7.74,7.74,0,0,1-7.74-7.73c0-.18,0-.36,0-.52l.11-1.59,5,2.85,9.06-5.21.48.94a8,8,0,0,1,.85,3.52A7.75,7.75,0,0,1,15,22ZM9.39,15.65a5.74,5.74,0,1,0,11.08-3l-8.15,4.69Z" style="fill:#389a46"></path>
+    <polygon points="12.32 12.37 8.05 9.91 9.05 8.18 12.32 10.06 19.16 6.13 20.16 7.86 12.32 12.37" style="fill:#389a46"></polygon>
+    <path d="M50,49.85A17.73,17.73,0,1,1,67.72,32.12,17.75,17.75,0,0,1,50,49.85Zm0-33A15.23,15.23,0,1,0,65.22,32.12,15.24,15.24,0,0,0,50,16.89Z" style="fill:#f29a07"></path>
+    <path d="M43,40.18A1.26,1.26,0,0,1,42.14,38L55.91,24.27A1.25,1.25,0,1,1,57.68,26L43.91,39.81A1.29,1.29,0,0,1,43,40.18Z" style="fill:#f29a07"></path>
+    <path d="M55.1,41.56a4.33,4.33,0,1,1,4.33-4.33A4.33,4.33,0,0,1,55.1,41.56Zm0-6.15a1.83,1.83,0,1,0,1.83,1.82A1.83,1.83,0,0,0,55.1,35.41Z" style="fill:#f29a07"></path>
+    <path d="M44.87,31.32A4.33,4.33,0,1,1,49.19,27,4.33,4.33,0,0,1,44.87,31.32Zm0-6.15A1.83,1.83,0,1,0,46.69,27,1.83,1.83,0,0,0,44.87,25.17Z" style="fill:#f29a07"></path>
+  </symbol>
+  <symbol id="ico-pif-4" viewBox="0 0 66.94 49.14">
+    <path d="M11.75,29.39a1.25,1.25,0,0,1-1.25-1.25V5.1A5.11,5.11,0,0,1,15.6,0H57.5a5.11,5.11,0,0,1,5.1,5.1v9.07a1.25,1.25,0,0,1-2.5,0V5.1a2.61,2.61,0,0,0-2.6-2.6H15.6A2.61,2.61,0,0,0,13,5.1v23A1.25,1.25,0,0,1,11.75,29.39Z" style="fill:#369a1e"></path>
+    <path d="M57.5,42.31H24a1.25,1.25,0,1,1,0-2.5H57.5a2.61,2.61,0,0,0,2.6-2.6V28.7a1.25,1.25,0,1,1,2.5,0v8.51A5.11,5.11,0,0,1,57.5,42.31Z" style="fill:#369a1e"></path>
+    <path d="M66.94,29.39H53.73a8.24,8.24,0,1,1,0-16.47H66.94Zm-13.21-14a5.74,5.74,0,1,0,0,11.47H64.44V15.42Z" style="fill:#369a1e"></path>
+    <circle cx="55.49" cy="21.15" r="2.17" style="fill:#369a1e"></circle>
+    <path d="M6.73,49.14A1.26,1.26,0,0,1,5.5,47.67l1.59-9.23L.38,31.9a1.24,1.24,0,0,1-.32-1.28,1.26,1.26,0,0,1,1-.85l9.27-1.35L14.49,20a1.25,1.25,0,0,1,2.24,0l4.15,8.4,9.27,1.35a1.26,1.26,0,0,1,1,.85,1.24,1.24,0,0,1-.32,1.28l-6.71,6.54,1.59,9.23A1.25,1.25,0,0,1,23.9,49l-8.29-4.36L7.32,49A1.26,1.26,0,0,1,6.73,49.14ZM3.94,31.88,9.3,37.11a1.23,1.23,0,0,1,.36,1.1L8.39,45.6,15,42.11a1.25,1.25,0,0,1,1.16,0l6.64,3.49-1.27-7.39a1.23,1.23,0,0,1,.36-1.1l5.36-5.23L19.87,30.8a1.23,1.23,0,0,1-.94-.68L15.61,23.4l-3.32,6.72a1.23,1.23,0,0,1-.94.68Z" style="fill:#f29a07"></path>
+  </symbol>
+  <symbol id="question" viewBox="0 0 22.13 22.13">
+    <path d="M11.06,22.13A11.07,11.07,0,1,1,22.13,11.06,11.08,11.08,0,0,1,11.06,22.13Zm0-19.63a8.57,8.57,0,1,0,8.57,8.56A8.57,8.57,0,0,0,11.06,2.5Z" style="fill:#a0a3aa"></path>
+    <path d="M9.73,11.77c0-2,2.51-2.29,2.51-3.47,0-.53-.4-1-1.34-1A2.75,2.75,0,0,0,8.79,8.38L7.4,6.82a4.92,4.92,0,0,1,3.76-1.66c2.21,0,3.57,1.11,3.57,2.71,0,2.51-2.87,2.69-2.87,4.14a1.06,1.06,0,0,0,.31.72l-1.87.55A2.21,2.21,0,0,1,9.73,11.77Zm0,3.81A1.39,1.39,0,1,1,11.12,17,1.41,1.41,0,0,1,9.73,15.58Z" style="fill:#a0a3aa"></path>
+  </symbol>
+  <symbol id="ico-tab1" viewBox="0 0 15.75 18.5">
+    <path d="M13.75,2V16.5H2V2H13.75m1-2H1A1,1,0,0,0,0,1V17.5a1,1,0,0,0,1,1H14.75a1,1,0,0,0,1-1V1a1,1,0,0,0-1-1Z" style="fill:#369a1e"></path>
+    <path d="M10.75,7.25H5a1.25,1.25,0,0,1,0-2.5h5.75a1.25,1.25,0,0,1,0,2.5Z" style="fill:#f29a07"></path>
+    <path d="M10.75,11.94H5a1.25,1.25,0,0,1,0-2.5h5.75a1.25,1.25,0,0,1,0,2.5Z" style="fill:#f29a07"></path>
+  </symbol>
+  <symbol id="ico-tab2" viewBox="0 0 20.5 20.5">
+    <path d="M10.25,20.5a10.25,10.25,0,0,1,0-20.5V2a8.25,8.25,0,1,0,8.25,8.25h2A10.26,10.26,0,0,1,10.25,20.5Z" style="fill:#369a1e"></path>
+    <rect x="2.36" y="12.52" width="9.25" height="2" transform="translate(-7.52 8.9) rotate(-45)" style="fill:#369a1e"></rect>
+    <path d="M20.5,11.25H9.25V0h1A10.26,10.26,0,0,1,20.5,10.25Zm-9.25-2h7.19a8.28,8.28,0,0,0-7.19-7.19Z" style="fill:#f29a07"></path>
+  </symbol>
+  <symbol id="ico-tab3" viewBox="0 0 19.13 20.35">
+    <path d="M1,20.09a1,1,0,0,1-.71-.29,1,1,0,0,1,0-1.41L17.42,1.26a1,1,0,0,1,1.41,0,1,1,0,0,1,0,1.42L1.71,19.8A1,1,0,0,1,1,20.09Z" style="fill:#f29a07"></path>
+    <path d="M4.45,7.94a4,4,0,1,1,4-4A4,4,0,0,1,4.45,7.94ZM4.45,2a2,2,0,1,0,2,2A2,2,0,0,0,4.45,2Z" style="fill:#369a1e"></path>
+    <path d="M14.54,20.35a4,4,0,1,1,4-4A4,4,0,0,1,14.54,20.35Zm0-5.93a2,2,0,1,0,2,2A2,2,0,0,0,14.54,14.42Z" style="fill:#369a1e"></path>
+  </symbol>
+  <symbol id="ico-tab4" viewBox="0 0 19.46 19.46">
+    <path d="M14.88,15.71A1,1,0,0,1,14.17,14l3.58-3.58a1,1,0,0,1,1.42,0,1,1,0,0,1,0,1.41l-3.59,3.59A1,1,0,0,1,14.88,15.71Z" style="fill:#f29a07"></path>
+    <path d="M8,18.12a1,1,0,0,1-.71-.3L1.63,12.2a1,1,0,0,1-.29-.71,1,1,0,0,1,.29-.7L12.13.29a1,1,0,0,1,1.41,0l5.63,5.63a1,1,0,0,1,0,1.41L8.67,17.82A1,1,0,0,1,8,18.12ZM3.76,11.49,8,15.7,17,6.62l-4.2-4.21Z" style="fill:#369a1e"></path>
+    <path d="M1,19.46a1.05,1.05,0,0,1-.71-.29,1,1,0,0,1-.27-.9l1.34-7a1,1,0,0,1,2,.38L2.26,17.2l5.52-1.07a1,1,0,0,1,1.17.8,1,1,0,0,1-.8,1.17l-7,1.34Z" style="fill:#369a1e"></path>
+  </symbol>
+</svg>      <span class="screw"></span>
+    </li>
+    <li class="mobile-menu__item with-submenu">
+      <a href="/individuals/etf/" class="mobile-menu__link">Биржевые фонды</a>
+          
+                  	        <div class="with-submenu__item">
+			<span class="with-submenu__title">Биржевые паевые фонды</span>
+			<ul class="with-submenu__list">	
+	                                                
+				<li class="with-submenu__list-item"><a href="/individuals/etf/etf-moex" class="mobile-menu__link">Фонд Топ Российских акций - SBMX</a></li>
+			                                
+				<li class="with-submenu__list-item"><a href="/individuals/etf/etf-sbcn" class="mobile-menu__link">Фонд Сберегательный в юанях - SBCN</a></li>
+			                                
+				<li class="with-submenu__list-item"><a href="/individuals/etf/corporate-bonds-rub" class="mobile-menu__link">Фонд Корпоративные облигации - SBRB</a></li>
+			                                
+				<li class="with-submenu__list-item"><a href="/individuals/etf/etf-sp-500" class="mobile-menu__link">Фонд Американские акции - SBSP</a></li>
+			                                
+				<li class="with-submenu__list-item"><a href="/individuals/etf/etf-sbhi" class="mobile-menu__link">Фонд Халяльные инвестиции - SBHI</a></li>
+			                                
+				<li class="with-submenu__list-item"><a href="/individuals/etf/bpif-rfi-konservativnyy-smart-fond" class="mobile-menu__link">Фонд Консервативный смарт - SBCS</a></li>
+			                                
+				<li class="with-submenu__list-item"><a href="/individuals/etf/etf-sbmm" class="mobile-menu__link">Фонд Сберегательный - SBMM</a></li>
+			                                
+				<li class="with-submenu__list-item"><a href="/individuals/etf/etf-sbgd" class="mobile-menu__link">Фонд Доступное золото - SBGD</a></li>
+			                                
+				<li class="with-submenu__list-item"><a href="/individuals/etf/etf-sbog" class="mobile-menu__link">Фонд Глобальный портфель - SBOG</a></li>
+			                                
+				<li class="with-submenu__list-item"><a href="/individuals/etf/etf-esg" class="mobile-menu__link">Фонд Ответственные инвестиции - SBRI</a></li>
+			                                
+				<li class="with-submenu__list-item"><a href="/individuals/etf/etf-sbbe" class="mobile-menu__link">Фонд Блокчейн Экономика - SBBE</a></li>
+			                                
+				<li class="with-submenu__list-item"><a href="/individuals/etf/etf-ofz" class="mobile-menu__link">Фонд Государственные облигации - SBGB</a></li>
+			                                
+				<li class="with-submenu__list-item"><a href="/individuals/etf/bpif-rfi-ostorozhnyy-smart-fond" class="mobile-menu__link">Фонд Осторожный смарт - SBRS</a></li>
+			                                
+				<li class="with-submenu__list-item"><a href="/individuals/etf/bpif-rfi-vzveshennyy-smart-fond" class="mobile-menu__link">Фонд Взвешенный смарт - SBWS</a></li>
+			                                
+				<li class="with-submenu__list-item"><a href="/individuals/etf/bpif-rfi-progressivnyy-smart-fond" class="mobile-menu__link">Фонд Прогрессивный смарт - SBPS</a></li>
+			                                
+				<li class="with-submenu__list-item"><a href="/individuals/etf/bpif-rfi-dinamichnyy-smart-fond" class="mobile-menu__link">Фонд Динамичный смарт - SBDS</a></li>
+			                                
+				<li class="with-submenu__list-item"><a href="/individuals/etf/etf-eurobonds" class="mobile-menu__link">Фонд Российские еврооблигации - SBCB</a></li>
+			    			</ul>
+		</div>	
+	 	               
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="0" height="0" style="position:absolute">
+    <symbol id="ico-pif-1" viewBox="0 0 56.72 51.28">
+        <path d="M47.26,36.49H31.49a1.25,1.25,0,0,1,0-2.5H47.26a7,7,0,0,0,7-7V13.88a7,7,0,0,0-7-7H9.47a7,7,0,0,0-7,7V27a7,7,0,0,0,7,7h16a1.25,1.25,0,1,1,0,2.5h-16A9.47,9.47,0,0,1,0,27V13.88A9.47,9.47,0,0,1,9.47,4.42H47.26a9.47,9.47,0,0,1,9.46,9.46V27A9.47,9.47,0,0,1,47.26,36.49Z" style="fill:#369a1e"></path>
+        <path d="M29,41.78H27.75a2.9,2.9,0,0,1-2.9-2.89V31.6a2.9,2.9,0,0,1,2.9-2.9H29a2.9,2.9,0,0,1,2.89,2.9v7.29A2.9,2.9,0,0,1,29,41.78ZM27.75,31.2a.4.4,0,0,0-.4.4v7.29a.4.4,0,0,0,.4.39H29a.39.39,0,0,0,.39-.39V31.6a.39.39,0,0,0-.39-.4Z" style="fill:#f29a07"></path>
+        <path d="M41.19,6.92a1.24,1.24,0,0,1-1.1-.68A7,7,0,0,0,33.91,2.5H22.82a7,7,0,0,0-6.18,3.74,1.25,1.25,0,0,1-2.22-1.15A9.45,9.45,0,0,1,22.82,0H33.91A9.43,9.43,0,0,1,42.3,5.09a1.24,1.24,0,0,1-.53,1.68A1.19,1.19,0,0,1,41.19,6.92Z" style="fill:#369a1e"></path>
+        <path d="M45.21,51.28H11.52a9.48,9.48,0,0,1-9.47-9.47V33.5a1.25,1.25,0,0,1,2.5,0v8.31a7,7,0,0,0,7,7H45.21a7,7,0,0,0,7-7v-7.7a1.25,1.25,0,0,1,2.5,0v7.7A9.48,9.48,0,0,1,45.21,51.28Z" style="fill:#369a1e"></path>
+    </symbol>
+    <symbol id="ico-pif-2" viewBox="0 0 58.95 58.95">
+        <path d="M30.51,56.87v-2A26.44,26.44,0,1,0,4.08,28.44h-2A28.44,28.44,0,1,1,30.51,56.87Z" style="fill:#369a1e"></path>
+        <rect x="26.5" y="17.74" width="27.43" height="2" transform="translate(-1.47 33.92) rotate(-45)" style="fill:#369a1e"></rect>
+        <path d="M31.51,59h-1A30.55,30.55,0,0,1,0,28.44v-1H31.51ZM2,29.44A28.55,28.55,0,0,0,29.51,56.93V29.44Z" style="fill:#f29a07"></path>
+    </symbol>
+    <symbol id="ico-pif-3" viewBox="0 0 67.72 49.85">
+        <path d="M34.32,38.48H4.63A4.64,4.64,0,0,1,0,33.85V4.63A4.64,4.64,0,0,1,4.63,0h44a4.64,4.64,0,0,1,4.63,4.63V15a1.25,1.25,0,0,1-2.5,0V4.63A2.14,2.14,0,0,0,48.65,2.5h-44A2.14,2.14,0,0,0,2.5,4.63V33.85A2.13,2.13,0,0,0,4.63,36H34.32a1.25,1.25,0,0,1,0,2.5Z" style="fill:#369a1e"></path>
+        <path d="M15,22a7.74,7.74,0,0,1-7.74-7.73c0-.18,0-.36,0-.52l.11-1.59,5,2.85,9.06-5.21.48.94a8,8,0,0,1,.85,3.52A7.75,7.75,0,0,1,15,22ZM9.39,15.65a5.74,5.74,0,1,0,11.08-3l-8.15,4.69Z" style="fill:#389a46"></path>
+        <polygon points="12.32 12.37 8.05 9.91 9.05 8.18 12.32 10.06 19.16 6.13 20.16 7.86 12.32 12.37" style="fill:#389a46"></polygon>
+        <path d="M50,49.85A17.73,17.73,0,1,1,67.72,32.12,17.75,17.75,0,0,1,50,49.85Zm0-33A15.23,15.23,0,1,0,65.22,32.12,15.24,15.24,0,0,0,50,16.89Z" style="fill:#f29a07"></path>
+        <path d="M43,40.18A1.26,1.26,0,0,1,42.14,38L55.91,24.27A1.25,1.25,0,1,1,57.68,26L43.91,39.81A1.29,1.29,0,0,1,43,40.18Z" style="fill:#f29a07"></path>
+        <path d="M55.1,41.56a4.33,4.33,0,1,1,4.33-4.33A4.33,4.33,0,0,1,55.1,41.56Zm0-6.15a1.83,1.83,0,1,0,1.83,1.82A1.83,1.83,0,0,0,55.1,35.41Z" style="fill:#f29a07"></path>
+        <path d="M44.87,31.32A4.33,4.33,0,1,1,49.19,27,4.33,4.33,0,0,1,44.87,31.32Zm0-6.15A1.83,1.83,0,1,0,46.69,27,1.83,1.83,0,0,0,44.87,25.17Z" style="fill:#f29a07"></path>
+    </symbol>
+    <symbol id="ico-pif-4" viewBox="0 0 66.94 49.14">
+        <path d="M11.75,29.39a1.25,1.25,0,0,1-1.25-1.25V5.1A5.11,5.11,0,0,1,15.6,0H57.5a5.11,5.11,0,0,1,5.1,5.1v9.07a1.25,1.25,0,0,1-2.5,0V5.1a2.61,2.61,0,0,0-2.6-2.6H15.6A2.61,2.61,0,0,0,13,5.1v23A1.25,1.25,0,0,1,11.75,29.39Z" style="fill:#369a1e"></path>
+        <path d="M57.5,42.31H24a1.25,1.25,0,1,1,0-2.5H57.5a2.61,2.61,0,0,0,2.6-2.6V28.7a1.25,1.25,0,1,1,2.5,0v8.51A5.11,5.11,0,0,1,57.5,42.31Z" style="fill:#369a1e"></path>
+        <path d="M66.94,29.39H53.73a8.24,8.24,0,1,1,0-16.47H66.94Zm-13.21-14a5.74,5.74,0,1,0,0,11.47H64.44V15.42Z" style="fill:#369a1e"></path>
+        <circle cx="55.49" cy="21.15" r="2.17" style="fill:#369a1e"></circle>
+        <path d="M6.73,49.14A1.26,1.26,0,0,1,5.5,47.67l1.59-9.23L.38,31.9a1.24,1.24,0,0,1-.32-1.28,1.26,1.26,0,0,1,1-.85l9.27-1.35L14.49,20a1.25,1.25,0,0,1,2.24,0l4.15,8.4,9.27,1.35a1.26,1.26,0,0,1,1,.85,1.24,1.24,0,0,1-.32,1.28l-6.71,6.54,1.59,9.23A1.25,1.25,0,0,1,23.9,49l-8.29-4.36L7.32,49A1.26,1.26,0,0,1,6.73,49.14ZM3.94,31.88,9.3,37.11a1.23,1.23,0,0,1,.36,1.1L8.39,45.6,15,42.11a1.25,1.25,0,0,1,1.16,0l6.64,3.49-1.27-7.39a1.23,1.23,0,0,1,.36-1.1l5.36-5.23L19.87,30.8a1.23,1.23,0,0,1-.94-.68L15.61,23.4l-3.32,6.72a1.23,1.23,0,0,1-.94.68Z" style="fill:#f29a07"></path>
+    </symbol>
+    <symbol id="question" viewBox="0 0 22.13 22.13">
+        <path d="M11.06,22.13A11.07,11.07,0,1,1,22.13,11.06,11.08,11.08,0,0,1,11.06,22.13Zm0-19.63a8.57,8.57,0,1,0,8.57,8.56A8.57,8.57,0,0,0,11.06,2.5Z" style="fill:#a0a3aa"></path>
+        <path d="M9.73,11.77c0-2,2.51-2.29,2.51-3.47,0-.53-.4-1-1.34-1A2.75,2.75,0,0,0,8.79,8.38L7.4,6.82a4.92,4.92,0,0,1,3.76-1.66c2.21,0,3.57,1.11,3.57,2.71,0,2.51-2.87,2.69-2.87,4.14a1.06,1.06,0,0,0,.31.72l-1.87.55A2.21,2.21,0,0,1,9.73,11.77Zm0,3.81A1.39,1.39,0,1,1,11.12,17,1.41,1.41,0,0,1,9.73,15.58Z" style="fill:#a0a3aa"></path>
+    </symbol>
+    <symbol id="ico-tab1" viewBox="0 0 15.75 18.5">
+        <path d="M13.75,2V16.5H2V2H13.75m1-2H1A1,1,0,0,0,0,1V17.5a1,1,0,0,0,1,1H14.75a1,1,0,0,0,1-1V1a1,1,0,0,0-1-1Z" style="fill:#369a1e"></path>
+        <path d="M10.75,7.25H5a1.25,1.25,0,0,1,0-2.5h5.75a1.25,1.25,0,0,1,0,2.5Z" style="fill:#f29a07"></path>
+        <path d="M10.75,11.94H5a1.25,1.25,0,0,1,0-2.5h5.75a1.25,1.25,0,0,1,0,2.5Z" style="fill:#f29a07"></path>
+    </symbol>
+    <symbol id="ico-tab2" viewBox="0 0 20.5 20.5">
+        <path d="M10.25,20.5a10.25,10.25,0,0,1,0-20.5V2a8.25,8.25,0,1,0,8.25,8.25h2A10.26,10.26,0,0,1,10.25,20.5Z" style="fill:#369a1e"></path>
+        <rect x="2.36" y="12.52" width="9.25" height="2" transform="translate(-7.52 8.9) rotate(-45)" style="fill:#369a1e"></rect>
+        <path d="M20.5,11.25H9.25V0h1A10.26,10.26,0,0,1,20.5,10.25Zm-9.25-2h7.19a8.28,8.28,0,0,0-7.19-7.19Z" style="fill:#f29a07"></path>
+    </symbol>
+    <symbol id="ico-tab3" viewBox="0 0 19.13 20.35">
+        <path d="M1,20.09a1,1,0,0,1-.71-.29,1,1,0,0,1,0-1.41L17.42,1.26a1,1,0,0,1,1.41,0,1,1,0,0,1,0,1.42L1.71,19.8A1,1,0,0,1,1,20.09Z" style="fill:#f29a07"></path>
+        <path d="M4.45,7.94a4,4,0,1,1,4-4A4,4,0,0,1,4.45,7.94ZM4.45,2a2,2,0,1,0,2,2A2,2,0,0,0,4.45,2Z" style="fill:#369a1e"></path>
+        <path d="M14.54,20.35a4,4,0,1,1,4-4A4,4,0,0,1,14.54,20.35Zm0-5.93a2,2,0,1,0,2,2A2,2,0,0,0,14.54,14.42Z" style="fill:#369a1e"></path>
+    </symbol>
+    <symbol id="ico-tab4" viewBox="0 0 19.46 19.46">
+        <path d="M14.88,15.71A1,1,0,0,1,14.17,14l3.58-3.58a1,1,0,0,1,1.42,0,1,1,0,0,1,0,1.41l-3.59,3.59A1,1,0,0,1,14.88,15.71Z" style="fill:#f29a07"></path>
+        <path d="M8,18.12a1,1,0,0,1-.71-.3L1.63,12.2a1,1,0,0,1-.29-.71,1,1,0,0,1,.29-.7L12.13.29a1,1,0,0,1,1.41,0l5.63,5.63a1,1,0,0,1,0,1.41L8.67,17.82A1,1,0,0,1,8,18.12ZM3.76,11.49,8,15.7,17,6.62l-4.2-4.21Z" style="fill:#369a1e"></path>
+        <path d="M1,19.46a1.05,1.05,0,0,1-.71-.29,1,1,0,0,1-.27-.9l1.34-7a1,1,0,0,1,2,.38L2.26,17.2l5.52-1.07a1,1,0,0,1,1.17.8,1,1,0,0,1-.8,1.17l-7,1.34Z" style="fill:#369a1e"></path>
+    </symbol>
+</svg>
+
+      <span class="screw"></span>
+    </li>
+    <li class="mobile-menu__item with-submenu">
+      <a href="/individuals/investment_account/" class="mobile-menu__link">Индивидуальный инвестиционный счет</a>
+      <div class="with-submenu__item">
+        <span class="with-submenu__title">Индивидуальный инвестиционный счет</span>
+        <ul class="with-submenu__list">
+          <li class="with-submenu__list-item">
+            <a href="/individuals/investment_account/strategy/iis4/" class="mobile-menu__link">
+              Модельные портфели
+            </a>
+          </li>
+          <li class="with-submenu__list-item">
+            <a href="/individuals/investment_account/strategy/iis3/" class="mobile-menu__link">
+              Больше чем ИИС
+            </a>
+          </li>
+          <li class="with-submenu__list-item">
+            <a href="/individuals/investment_account/strategy/accumulate/" class="mobile-menu__link">
+              Накопительная
+            </a>
+          </li>
+          <li class="with-submenu__list-item">
+            <a href="/individuals/investment_account/strategy/investment_account_russian-stock/" class="mobile-menu__link">
+              Российские акции            </a>
+          </li>
+          <!-- <li class="with-submenu__list-item">
+              <a href="/individuals/investment_account/" class="mobile-menu__link">
+                  Налоговый вычет
+               </a>
+          </li>  	 -->
+          <!-- <li class="with-submenu__list-item">
+            <a href="/individuals/investment_account/strategy/iis4/"
+               class="mobile-menu__link">
+              Модельные портфели
+            </a>
+          </li> -->
+        </ul>
+      </div>
+      <div class="with-submenu__item locked">
+        <span class="with-submenu__title">Стратегии, недоступные для покупки</span>
+        <ul class="with-submenu__list">
+          <li class="with-submenu__list-item">
+            <a href="/individuals/investment_account/strategy/investment_account_usd/" class="mobile-menu__link">
+              Долларовые облигации
+            </a>
+          </li>
+          <li class="with-submenu__list-item">
+            <a href="/individuals/investment_account/strategy/investment_account_rub/" class="mobile-menu__link">
+              Рублевые облигации
+            </a>
+          </li>
+        </ul>
+      </div>
+      <span class="screw"></span>
+    </li>
+    <li class="mobile-menu__item with-submenu">
+      <a href="/individuals/managed_account/" class="mobile-menu__link">Доверительное управление</a>
+      	  <div class="with-submenu__item ">
+    <span class="with-submenu__title">Валютные стратегии</span>
+    <ul class="with-submenu__list">
+              <li class="with-submenu__list-item qualifed_menu_item">
+          <a class="mobile-menu__link" href="/individuals/managed_account/model-usd/">
+            Модельные портфели (USD)
+          </a>
+        </li>
+      
+              								        <li class="with-submenu__list-item ">
+					<a href="/individuals/managed_account/strategy/bonds-yuan/" class="mobile-menu__link">Облигации в Юанях</a>
+				</li>
+              								        <li class="with-submenu__list-item ">
+					<a href="/individuals/managed_account/strategy/currency_alternative/" class="mobile-menu__link">Валютная альтернатива</a>
+				</li>
+              								        <li class="with-submenu__list-item qualifed_menu_item">
+					<a href="/individuals/managed_account/strategy/vysokodokhodnye-obligatsii-usd/" class="mobile-menu__link">Стратегия "Высокодоходные облигации (USD)"</a>
+				</li>
+              								        <li class="with-submenu__list-item ">
+					<a href="/individuals/managed_account/strategy/evropeyskie-aktsii/" class="mobile-menu__link">Европейские акции</a>
+				</li>
+              																						        <li class="with-submenu__list-item ">
+					<a href="/individuals/managed_account/strategy/hedge-fund/" class="mobile-menu__link">Первый Хедж Фонд</a>
+				</li>
+              								        <li class="with-submenu__list-item qualifed_menu_item">
+					<a href="/individuals/managed_account/strategy/optimalnyy-globalnyy-portfel/" class="mobile-menu__link">Оптимальный глобальный портфель</a>
+				</li>
+              								        <li class="with-submenu__list-item ">
+					<a href="/individuals/managed_account/strategy/valyutnyy-dokhod-premer/" class="mobile-menu__link">Валютный доход - Премьер</a>
+				</li>
+              								        <li class="with-submenu__list-item qualifed_menu_item">
+					<a href="/individuals/managed_account/strategy/mezhdunarodnye-aktsii/" class="mobile-menu__link">Международные акции</a>
+				</li>
+              								        <li class="with-submenu__list-item qualifed_menu_item">
+					<a href="/individuals/managed_account/strategy/gruppa-strategiy-valyutnyy-dokhod/" class="mobile-menu__link">Группа стратегий "Валютный доход"</a>
+				</li>
+              								        <li class="with-submenu__list-item ">
+					<a href="/individuals/managed_account/strategy/gruppa-strategiy-dollarovye-obligatsii/" class="mobile-menu__link">Группа стратегий «Долларовые облигации» (ранее «Российские облигации (USD)»)</a>
+				</li>
+              								        <li class="with-submenu__list-item ">
+					<a href="/individuals/managed_account/strategy/dohod_podnebesnoi/" class="mobile-menu__link">Стратегия «Доход Поднебесной»</a>
+				</li>
+          </ul>
+  </div>
+	  <div class="with-submenu__item ">
+    <span class="with-submenu__title">Рублевые стратегии</span>
+    <ul class="with-submenu__list">
+      
+              								        <li class="with-submenu__list-item ">
+					<a href="/individuals/managed_account/strategy/sustainable-portfolio/" class="mobile-menu__link">Устойчивый портфель</a>
+				</li>
+              								        <li class="with-submenu__list-item buy_online_menu_item">
+					<a href="/individuals/managed_account/strategy/otvetstvennye-investitsii/" class="mobile-menu__link">Ответственные инвестиции</a>
+				</li>
+              								        <li class="with-submenu__list-item ">
+					<a href="/individuals/managed_account/strategy/khalyalnye-investitsii/" class="mobile-menu__link">Халяльные инвестиции</a>
+				</li>
+              								        <li class="with-submenu__list-item ">
+					<a href="/individuals/managed_account/strategy/zashchita-kapitala-rub/" class="mobile-menu__link">Защита капитала (RUB)</a>
+				</li>
+              																			<li class="with-submenu__list-item buy_online_menu_item">
+							<a class="mobile-menu__link" href="/individuals/managed_account/my-capital-rub/">
+								Мой капитал (RUB)
+							</a>
+						</li>
+																<li class="with-submenu__list-item buy_online_menu_item">
+							<a class="mobile-menu__link" href="/individuals/managed_account/model-rub/">
+								Модельные портфели (RUB)
+							</a>
+						</li>
+        					        <li class="with-submenu__list-item ">
+					<a href="/individuals/managed_account/strategy/dividendnye-aktsii/" class="mobile-menu__link">Дивидендные акции</a>
+				</li>
+              								        <li class="with-submenu__list-item ">
+					<a href="/individuals/managed_account/strategy/strategiya-kuponnyy-dokhod-rub-/" class="mobile-menu__link">Купонный доход (RUB)</a>
+				</li>
+              								        <li class="with-submenu__list-item ">
+					<a href="/individuals/managed_account/strategy/available-gold/" class="mobile-menu__link">Доступное золото</a>
+				</li>
+          </ul>
+  </div>
+	  <div class="with-submenu__item ">
+    <span class="with-submenu__title">Стратегии, недоступные для покупки</span>
+    <ul class="with-submenu__list">
+      
+              								        <li class="with-submenu__list-item ">
+					<a href="/individuals/managed_account/strategy/long-term_dividend_stocks/" class="mobile-menu__link">Долгосрочные дивидендные акции</a>
+				</li>
+              								        <li class="with-submenu__list-item ">
+					<a href="/individuals/managed_account/strategy/long-term_balanced_income/" class="mobile-menu__link">Долгосрочный сбалансированный доход</a>
+				</li>
+              								        <li class="with-submenu__list-item ">
+					<a href="/individuals/managed_account/strategy/long-term_ruble_bonds/" class="mobile-menu__link">Долгосрочные рублевые облигации</a>
+				</li>
+              								        <li class="with-submenu__list-item qualifed_menu_item">
+					<a href="/individuals/managed_account/strategy/vtoroy-khedzh-fond/" class="mobile-menu__link">Второй Хедж Фонд</a>
+				</li>
+              																						        <li class="with-submenu__list-item ">
+					<a href="/individuals/managed_account/strategy/strategiya-du-strukturnaya-5/" class="mobile-menu__link">Стратегия «Структурная 5»</a>
+				</li>
+              								        <li class="with-submenu__list-item ">
+					<a href="/individuals/managed_account/strategy/dollarovye-obligatsii/" class="mobile-menu__link">Долларовые облигации+</a>
+				</li>
+              								        <li class="with-submenu__list-item ">
+					<a href="/individuals/managed_account/strategy/valyutnaya-privilegiya/" class="mobile-menu__link">Валютная привилегия</a>
+				</li>
+              								        <li class="with-submenu__list-item ">
+					<a href="/individuals/managed_account/strategy/globalnye-obligatsii-usd-du/" class="mobile-menu__link">Глобальные облигации (USD)</a>
+				</li>
+              								        <li class="with-submenu__list-item ">
+					<a href="/individuals/managed_account/strategy/zashchita-kapitala-usd/" class="mobile-menu__link">Защита капитала (USD)</a>
+				</li>
+              								        <li class="with-submenu__list-item qualifed_menu_item">
+					<a href="/individuals/managed_account/strategy/aktivnoe-upravlenie-dlya-kvalifitsirovannykh-inves/" class="mobile-menu__link">Активное управление для квалифицированных инвесторов</a>
+				</li>
+              								        <li class="with-submenu__list-item buy_online_menu_item">
+					<a href="/individuals/managed_account/strategy/managed_account_obligation_rub/" class="mobile-menu__link">Облигационный доход – Рублевые облигации</a>
+				</li>
+              								        <li class="with-submenu__list-item buy_online_menu_item">
+					<a href="/individuals/managed_account/strategy/managed_account_stable_yield/" class="mobile-menu__link">Сбалансированный доход</a>
+				</li>
+              								        <li class="with-submenu__list-item qualifed_menu_item">
+					<a href="/individuals/managed_account/strategy/arkhivnaya-gruppa-strategiy-valyutnyy-dokhod/" class="mobile-menu__link">Архивная группа стратегий "Валютный доход"</a>
+				</li>
+          </ul>
+  </div>
+      <span class="screw"></span>
+    </li>
+  </ul>
+  <div class="menu-close js-close-menu">
+    <div class="menu-close__ico"></div>
+  </div>
+</div>
+
+<div class="mobmenu__menu">
+  <div class="mobmenu__section">
+    <a href="/individuals/fund/" class="mobmenu__link">Паевые фонды</a>
+    <div class="mobmenu__arrow"></div>
+    <div class="mobmenu__drop" bis_skin_checked="1">
+
+      <div class="mobmenu__list" bis_skin_checked="1">
+        <div class="mobmenu__list-title" bis_skin_checked="1">Открытые фонды облигаций</div>
+        <a href="/individuals/fund/bond-fund-with-income-payment/" class="mobmenu__list-item">Фонд облигаций с выплатой дохода</a>
+        <a href="/individuals/fund/conservative-fund-with-income-payment/" class="mobmenu__list-item">Фонд консервативный с выплатой дохода</a>
+        <a href="/individuals/fund/opif-obligatsiy-fond-ros-obligatsiy/" class="mobmenu__list-item">Фонд российских облигаций (ранее – Илья Муромец)</a>
+        <a href="/individuals/fund/opif-obligatsiy-valyutnye-sberegenia/" class="mobmenu__list-item">Фонд Валютные сбережения (ранее – валютные облигации)</a>
+        <a href="/individuals/fund/pif-nakopitelniy/" class="mobmenu__list-item">Фонд Накопительный (ранее – Денежный)</a>
+      </div>
+      <div class="mobmenu__list" bis_skin_checked="1">
+        <div class="mobmenu__list-title" bis_skin_checked="1">Открытые фонды акций</div>
+        <a href="/individuals/fund/stock-fund-with-income-payment/" class="mobmenu__list-item">Фонд акций с выплатой дохода</a>
+        <a href="/individuals/fund/opif-aktsiy-fond-ros-aktsiy/" class="mobmenu__list-item">Фонд российских акций (ранее – Добрыня Никитич)</a>
+        <a href="/individuals/fund/opif-aktsiy-elektroenergetika/" class="mobmenu__list-item">Фонд Электроэнергетика</a>
+        <a href="/individuals/fund/opif-aktsiy-prirodnye-resursy/" class="mobmenu__list-item">Фонд Природные ресурсы</a>
+        <a href="/individuals/fund/opif-aktsiy-globalnyy-internet/" class="mobmenu__list-item">Фонд Глобальный Интернет</a>
+        <a href="/individuals/fund/opif-aktsiy-potrebitelskiy-sektor/" class="mobmenu__list-item">Фонд Потребительский сектор</a>
+        <a href="/individuals/fund/opif-aktsiy-finansovyy-sektor/" class="mobmenu__list-item">Фонд Финансовый сектор</a>
+      </div>
+      <div class="mobmenu__list" bis_skin_checked="1">
+        <div class="mobmenu__list-title" bis_skin_checked="1">Открытые фонды смешанных инвестиций</div>
+
+        <a href="/individuals/fund/mixed-fund-with-income-payment/" class="mobmenu__list-item">Фонд смешанный с выплатой дохода</a>
+     
+        <a href="/individuals/fund/weighted-fund-with-income-payment/" class="mobmenu__list-item">Фонд взвешенный с выплатой дохода</a>
+
+        <a href="/individuals/fund/opif-smeshannykh-investitsiy-fond-sbalans/" class="mobmenu__list-item">Фонд Сбалансированный</a>
+        <a href="/individuals/fund/fond-lokalniy/" class="mobmenu__list-item">Фонд Локальный</a>
+      </div>
+      <div class="mobmenu__list" bis_skin_checked="1">
+        <div class="mobmenu__list-title" bis_skin_checked="1">ОПИФ фондов</div>
+        <a href="/individuals/fund/opif-globalny/" class="mobmenu__list-item">Фонд Глобальный (ранее - Глобальные акции)</a>
+        <a href="/individuals/fund/opif-fondov-biotekhnologii/" class="mobmenu__list-item">Фонд Биотехнологии</a>
+        <a href="/individuals/fund/opif-fondov-zoloto/" class="mobmenu__list-item">Фонд Золото</a>
+      </div>
+      <div class="mobmenu__list" bis_skin_checked="1">
+        <div class="mobmenu__list-title" bis_skin_checked="1">Интервальные фонды</div>
+        <a href="/individuals/fund/ipif-commodity-markets/" class="mobmenu__list-item">Фонд Товарные рынки</a>
+      </div>
+      <div class="mobmenu__list" bis_skin_checked="1">
+        <div class="mobmenu__list-title" bis_skin_checked="1">Архивные фонды</div>
+        <a href="/individuals/fund/opif-fondov-evropa/" class="mobmenu__list-item">Фонд Европа</a>
+        <a href="/individuals/fund/opif-fondov-razvivayushchiesya-rynki/" class="mobmenu__list-item">Фонд Развивающиеся рынки</a>
+        <a href="/individuals/fund/opif-fondov-globalnoe-mashinostroenie/" class="mobmenu__list-item">Фонд Глобальное машиностроение</a>
+        <a href="/individuals/fund/zpifn-arendnyy-biznes/" class="mobmenu__list-item">Фонд Арендный бизнес</a>
+        <a href="/individuals/fund/opif-fondov-globalnyy-dolgovoy-rynok/" class="mobmenu__list-item">Фонд Глобальный долговой рынок</a>
+        <a href="/individuals/fund/opif-aktsiy-fond-aktsiy-kompaniy-maloy-ka/" class="mobmenu__list-item">Фонд акций компаний малой капитализации</a>
+        <a href="/individuals/fund/opif-aktsiy-telekommunikatsii-i-tekhnolog/" class="mobmenu__list-item">Фонд Телекоммуникации и технологии</a>
+        <a href="/individuals/fund/opif-aktsiy-fond-aktivnogo-upravleniya/" class="mobmenu__list-item">Фонд активного управления</a>
+        <a href="/individuals/fund/fond-perspektivnyh-obligaciy/" class="mobmenu__list-item">Фонд перспективных облигаций</a>
+        <a href="/individuals/fund/zpifn-kommercheskaya-nedvizhimost/" class="mobmenu__list-item">Фонд Коммерческая недвижимость</a>
+         <a href="/individuals/fund/zpifn-arendnyy-biznes-3/" class="mobmenu__list-item">Фонд Арендный бизнес 3</a>
+      </div>
+      <div class="mobmenu__list" bis_skin_checked="1">
+        <div class="mobmenu__list-title" bis_skin_checked="1">Закрытые фонды</div>
+        <a href="/individuals/fund/zpifn-arendnyy-biznes-2/" class="mobmenu__list-item">Фонд Арендный бизнес 2</a>
+       
+        <a href="/individuals/fund/zpifn-arendnyy-biznes-6/" class="mobmenu__list-item">Фонд Современный 6</a>
+        <!-- <a href="/individuals/fund/fond-zarubezhnyy-rentnyy-biznes/" class="mobmenu__list-item">Фонд Зарубежный рентный бизнес</a> -->
+      </div>
+    </div>
+      </div>
+  <div class="mobmenu__section">
+    <a href="/individuals/etf/" class="mobmenu__link">Биржевые фонды</a>
+    <div class="mobmenu__arrow"></div>
+    <div class="mobmenu__drop">
+        <div class="mobmenu__list">
+      <div class="mobmenu__list-title">Биржевые фонды акций</div>
+                            <a href="/individuals/etf/etf-moex" class="mobmenu__list-item">Фонд Топ Российских акций - SBMX</a>
+                          <a href="/individuals/etf/etf-sp-500" class="mobmenu__list-item">Фонд Американские акции - SBSP</a>
+                          <a href="/individuals/etf/etf-esg" class="mobmenu__list-item">Фонд Ответственные инвестиции - SBRI</a>
+                          <a href="/individuals/etf/etf-sbhi" class="mobmenu__list-item">Фонд Халяльные инвестиции - SBHI</a>
+                          <a href="/individuals/etf/etf-sbbe" class="mobmenu__list-item">Фонд Блокчейн Экономика - SBBE</a>
+                          <a href="/individuals/etf/etf-sbog" class="mobmenu__list-item">Фонд Глобальный портфель - SBOG</a>
+        </div>  
+  <div class="mobmenu__list">
+      <div class="mobmenu__list-title">Биржевые фонды облигаций</div>
+                            <a href="/individuals/etf/etf-sbcn" class="mobmenu__list-item">Фонд Сберегательный в юанях - SBCN</a>
+                          <a href="/individuals/etf/corporate-bonds-rub" class="mobmenu__list-item">Фонд Корпоративные облигации - SBRB</a>
+                          <a href="/individuals/etf/etf-ofz" class="mobmenu__list-item">Фонд Государственные облигации - SBGB</a>
+                          <a href="/individuals/etf/etf-eurobonds" class="mobmenu__list-item">Фонд Российские еврооблигации - SBCB</a>
+        </div>  
+  <div class="mobmenu__list">
+      <div class="mobmenu__list-title">Биржевые фонды денежного рынка</div>
+                            <a href="/individuals/etf/etf-sbmm" class="mobmenu__list-item">Фонд Сберегательный - SBMM</a>
+        </div>  
+<div class="mobmenu__list">
+    <div class="mobmenu__list-title">Биржевые фонды товарных рынков</div>
+    <a href="/individuals/etf/etf-sbgd/" class="mobmenu__list-item">Фонд Доступное золото - SBGD ETF</a> 
+</div>   
+<div class="mobmenu__list">
+    <div class="mobmenu__list-title">Биржевые Смарт фонды</div>
+    <a href="/individuals/etf/smart/" class="mobmenu__list-item">Смарт фонды</a> 
+</div>    </div>
+  </div>
+  <div class="mobmenu__section">
+    <a href="/individuals/investment_account/" class="mobmenu__link">Индивидуальный инвестиционный счет</a>
+    <div class="mobmenu__arrow"></div>
+    <div class="mobmenu__drop">
+      <div class="mobmenu__list">
+        <div class="mobmenu__list-title">Стратегии для ИИС</div>
+        <a href="/individuals/investment_account/strategy/iis4/" class="mobmenu__list-item">Модельные портфели</a>
+        <a href="/individuals/investment_account/strategy/iis3/" class="mobmenu__list-item">Больше чем ИИС</a>
+        <a href="/individuals/investment_account/strategy/accumulate/" class="mobmenu__list-item">Накопительная</a>
+        <a href="/individuals/investment_account/strategy/investment_account_russian-stock/" class="mobmenu__list-item">Российские акции</a>
+        <!-- <a href="/individuals/investment_account/strategy/iis4/" class="mobmenu__list-item">Модельные портфели</a> -->
+      </div>
+      <div class="mobmenu__list">
+        <div class="mobmenu__list-title">Стратегии, недоступные для покупки</div>
+        <a href="/individuals/investment_account/strategy/investment_account_usd/" class="mobmenu__list-item">Долларовые облигации</a>
+        <a href="individuals/investment_account/strategy/investment_account_rub/" class="mobmenu__list-item">Рублевые облигации</a>
+      </div>
+    </div>
+  </div>
+  <div class="mobmenu__section">
+    <a href="/individuals/managed_account/" class="mobmenu__link">Доверительное управление</a>
+    <div class="mobmenu__arrow"></div>
+    <div class="mobmenu__drop">
+          <div class="mobmenu__list">
+    <div class="mobmenu__list-title">Рублевые стратегии</div>
+   
+                              <a href="/individuals/managed_account/strategy/available-gold/" class="mobmenu__list-item">Доступное золото</a>
+                                                  <a href="/individuals/managed_account/strategy/khalyalnye-investitsii/" class="mobmenu__list-item">Халяльные инвестиции</a>
+                              <a href="/individuals/managed_account/strategy/otvetstvennye-investitsii/" class="mobmenu__list-item">Ответственные инвестиции</a>
+                              <a href="/individuals/managed_account/strategy/sustainable-portfolio/" class="mobmenu__list-item">Устойчивый портфель</a>
+                                          <a href="/individuals/managed_account/model-rub/" class="mobmenu__list-item">
+            Модельные портфели (RUB)
+          </a>
+                              <a href="/individuals/managed_account/strategy/zashchita-kapitala-rub/" class="mobmenu__list-item">Защита капитала (RUB)</a>
+                              <a href="/individuals/managed_account/strategy/dividendnye-aktsii/" class="mobmenu__list-item">Дивидендные акции</a>
+                              <a href="/individuals/managed_account/strategy/strategiya-kuponnyy-dokhod-rub-/" class="mobmenu__list-item">Купонный доход (RUB)</a>
+      </div>
+    <div class="mobmenu__list">
+    <div class="mobmenu__list-title">Валютные стратегии</div>
+   
+                              <a href="/individuals/managed_account/strategy/bonds-yuan/" class="mobmenu__list-item">Облигации в Юанях</a>
+                                               <a href="/individuals/managed_account/my-capital-usd/" class="mobmenu__list-item">
+               Мой капитал (USD)
+            </a>
+                <a href="/individuals/managed_account/model-usd/" class="mobmenu__list-item">
+        Модельные портфели (USD)
+      </a>
+                <a href="/individuals/managed_account/strategy/evropeyskie-aktsii/" class="mobmenu__list-item">Европейские акции</a>
+                              <a href="/individuals/managed_account/strategy/valyutnyy-dokhod-premer/" class="mobmenu__list-item">Валютный доход - Премьер</a>
+                              <a href="/individuals/managed_account/strategy/currency_alternative/" class="mobmenu__list-item">Валютная альтернатива</a>
+                                                      <a href="/individuals/managed_account/strategy/hedge-fund/" class="mobmenu__list-item">Первый Хедж Фонд</a>
+                              <a href="/individuals/managed_account/strategy/optimalnyy-globalnyy-portfel/" class="mobmenu__list-item">Оптимальный глобальный портфель</a>
+                              <a href="/individuals/managed_account/strategy/mezhdunarodnye-aktsii/" class="mobmenu__list-item">Международные акции</a>
+                              <a href="/individuals/managed_account/strategy/gruppa-strategiy-valyutnyy-dokhod/" class="mobmenu__list-item">Группа стратегий "Валютный доход"</a>
+                              <a href="/individuals/managed_account/strategy/gruppa-strategiy-dollarovye-obligatsii/" class="mobmenu__list-item">Группа стратегий «Долларовые облигации» (ранее «Российские облигации (USD)»)</a>
+                              <a href="/individuals/managed_account/strategy/vysokodokhodnye-obligatsii-usd/" class="mobmenu__list-item">Стратегия "Высокодоходные облигации (USD)"</a>
+                              <a href="/individuals/managed_account/strategy/dohod_podnebesnoi/" class="mobmenu__list-item">Стратегия «Доход Поднебесной»</a>
+      </div>
+    <div class="mobmenu__list">
+    <div class="mobmenu__list-title">Стратегии, недоступные для покупки</div>
+   
+                              <a href="/individuals/managed_account/strategy/long-term_ruble_bonds/" class="mobmenu__list-item">Долгосрочные рублевые облигации</a>
+                                                  <a href="/individuals/managed_account/strategy/long-term_balanced_income/" class="mobmenu__list-item">Долгосрочный сбалансированный доход</a>
+                              <a href="/individuals/managed_account/strategy/long-term_dividend_stocks/" class="mobmenu__list-item">Долгосрочные дивидендные акции</a>
+                              <a href="/individuals/managed_account/strategy/globalnye-obligatsii-usd-du/" class="mobmenu__list-item">Глобальные облигации (USD)</a>
+                                  <a href="/individuals/managed_account/my-capital-rub/" class="mobmenu__list-item">
+            Мой капитал (RUB)
+          </a>
+                                      <a href="/individuals/managed_account/strategy/vtoroy-khedzh-fond/" class="mobmenu__list-item">Второй Хедж Фонд</a>
+                              <a href="/individuals/managed_account/strategy/aktivnoe-upravlenie-dlya-kvalifitsirovannykh-inves/" class="mobmenu__list-item">Активное управление для квалифицированных инвесторов</a>
+                              <a href="/individuals/managed_account/strategy/managed_account_obligation_rub/" class="mobmenu__list-item">Облигационный доход – Рублевые облигации</a>
+                              <a href="/individuals/managed_account/strategy/dollarovye-obligatsii/" class="mobmenu__list-item">Долларовые облигации+</a>
+                              <a href="/individuals/managed_account/strategy/zashchita-kapitala-usd/" class="mobmenu__list-item">Защита капитала (USD)</a>
+                              <a href="/individuals/managed_account/strategy/arkhivnaya-gruppa-strategiy-valyutnyy-dokhod/" class="mobmenu__list-item">Архивная группа стратегий "Валютный доход"</a>
+                              <a href="/individuals/managed_account/strategy/valyutnaya-privilegiya/" class="mobmenu__list-item">Валютная привилегия</a>
+                              <a href="/individuals/managed_account/strategy/managed_account_stable_yield/" class="mobmenu__list-item">Сбалансированный доход</a>
+                              <a href="/individuals/managed_account/strategy/strategiya-du-strukturnaya-5/" class="mobmenu__list-item">Стратегия «Структурная 5»</a>
+      </div>
+
+	    </div>
+  </div>
+
+  <div class="mobmenu__section">
+    <a href="/contact-us/" class="mobmenu__link">Вопрос/Обращение</a>
+      </div>
+</div>
+                      <div class="mobmenu__nav">
+                        
+    <a href="https://my.first-am.ru/" class="mobmenu__nav-item mobmenu__nav-personal">Личный кабинет</a>
+                      <a href="/info_centr/" class="mobmenu__nav-item">Аналитика</a>
+
+                      <a href="/disclosure/" class="mobmenu__nav-item">Раскрытие информации</a>
+
+                      <a href="/offices/" class="mobmenu__nav-item">Офисы продаж</a>
+
+                      <a href="/company/contacts/" class="mobmenu__nav-item">Контакты</a>
+
+                      <a href="/individuals/" class="mobmenu__nav-item">Частным инвесторам</a>
+
+                      <a href="/inst_investors/" class="mobmenu__nav-item">Институциональным инвесторам</a>
+
+                      <a href="/company/" class="mobmenu__nav-item">О компании</a>
+
+                      <a href="/faq/" class="mobmenu__nav-item">Вопросы и ответы</a>
+
+                          </div>
+                    </div>
+                  </div>
+                </div>
+              </div>
+            </div>
+          </div>
+        </div>
+        <div class="mbox" style="height: auto;">
+          
+  
+
+    <div class="header__nav">
+
+      <div class="header__nav-gotop" onclick="scrollTopPage();"></div>
+      <div class="header__nav-item ">
+        <a href="/individuals/fund/" class="header__nav-link">
+          <img src="/local/templates/main/img/new-template/icons/pif-0.svg">
+          <span>Паевые фонды</span>
+        </a>
+        <div class="header__subnav" bis_skin_checked="1">
+  <div class="header__subnav-col" bis_skin_checked="1">
+    <div class="header__subnav-section" bis_skin_checked="1">
+      <div class="header__subnav-title" bis_skin_checked="1">
+        Открытые фонды облигаций </div>
+      <a href="/individuals/fund/bond-fund-with-income-payment/" class="header__subnav-link">Фонд облигаций с выплатой дохода</a>
+      <a href="/individuals/fund/conservative-fund-with-income-payment/" class="header__subnav-link">Фонд консервативный с выплатой дохода</a>
+      <a href="/individuals/fund/opif-obligatsiy-fond-ros-obligatsiy/" class="header__subnav-link">Фонд российских облигаций (ранее – Илья Муромец)</a>
+      <a href="/individuals/fund/opif-obligatsiy-valyutnye-sberegenia/" class="header__subnav-link">Фонд Валютные сбережения (ранее – валютные облигации)</a>
+      <a href="/individuals/fund/pif-nakopitelniy/" class="header__subnav-link">Фонд Накопительный (ранее – Денежный)</a>
+    </div>
+    <div class="header__subnav-section" bis_skin_checked="1">
+      <div class="header__subnav-title" bis_skin_checked="1">
+        Открытые фонды акций </div>
+      <a href="/individuals/fund/stock-fund-with-income-payment/" class="header__subnav-link">Фонд акций с выплатой дохода</a>
+      <a href="/individuals/fund/opif-aktsiy-fond-ros-aktsiy/" class="header__subnav-link">Фонд российских акций (ранее – Добрыня Никитич)</a>
+      <a href="/individuals/fund/opif-aktsiy-elektroenergetika/" class="header__subnav-link">Фонд Электроэнергетика</a>
+      <a href="/individuals/fund/opif-aktsiy-prirodnye-resursy/" class="header__subnav-link">Фонд Природные ресурсы</a>
+      <a href="/individuals/fund/opif-aktsiy-globalnyy-internet/" class="header__subnav-link">Фонд Глобальный Интернет</a>
+      <a href="/individuals/fund/opif-aktsiy-potrebitelskiy-sektor/" class="header__subnav-link">Фонд Потребительский сектор</a>
+      <a href="/individuals/fund/opif-aktsiy-finansovyy-sektor/" class="header__subnav-link">Фонд Финансовый сектор</a>
+    </div>
+  </div>
+  <div class="header__subnav-col" bis_skin_checked="1">
+    <div class="header__subnav-section" bis_skin_checked="1">
+      <div class="header__subnav-title" bis_skin_checked="1">Открытые фонды смешанных инвестиций</div>
+      <a href="/individuals/fund/mixed-fund-with-income-payment/" class="header__subnav-link">Фонд смешанный с выплатой дохода</a>
+     
+      <a href="/individuals/fund/weighted-fund-with-income-payment/" class="header__subnav-link">Фонд взвешенный с выплатой дохода</a>
+      <a href="/individuals/fund/fond-lokalniy/" class="header__subnav-link">Фонд Локальный</a>
+      <a href="/individuals/fund/opif-smeshannykh-investitsiy-fond-sbalans/" class="header__subnav-link">Фонд Сбалансированный</a>
+    </div>
+    <div class="header__subnav-section" bis_skin_checked="1" style="margin-top: 30px;">
+      <div class="header__subnav-title" bis_skin_checked="1">
+        ОПИФ фондов </div>
+      <a href="/individuals/fund/opif-globalny/" class="header__subnav-link">Фонд Глобальный (ранее - Глобальные акции)</a>
+      <a href="/individuals/fund/opif-fondov-biotekhnologii/" class="header__subnav-link">Фонд Биотехнологии</a>
+      <a href="/individuals/fund/opif-fondov-zoloto/" class="header__subnav-link">Фонд Золото</a>
+    </div>
+    <div class="header__subnav-section" bis_skin_checked="1" style="margin-top: 30px;">
+      <div class="header__subnav-title" bis_skin_checked="1">
+      Интервальные фонды </div>
+      <a href="/individuals/fund/ipif-commodity-markets/" class="header__subnav-link">Фонд Товарные рынки</a>
+     
+    </div>
+  </div>
+  <div class="header__subnav-col" bis_skin_checked="1">
+    <div class="header__subnav-section" bis_skin_checked="1">
+      <div class="header__subnav-title" bis_skin_checked="1">
+        Архивные фонды </div>
+      <a href="/individuals/fund/opif-fondov-evropa/" class="header__subnav-link">Фонд Европа</a>
+      <a href="/individuals/fund/opif-fondov-razvivayushchiesya-rynki/" class="header__subnav-link">Фонд Развивающиеся рынки</a>
+      <a href="/individuals/fund/opif-fondov-globalnoe-mashinostroenie/" class="header__subnav-link">Фонд Глобальное машиностроение</a>
+      <a href="/individuals/fund/zpifn-arendnyy-biznes/" class="header__subnav-link">Фонд Арендный бизнес</a>
+      <a href="/individuals/fund/opif-fondov-globalnyy-dolgovoy-rynok/" class="header__subnav-link">Фонд Глобальный долговой рынок</a>
+      <a href="/individuals/fund/opif-aktsiy-fond-aktsiy-kompaniy-maloy-ka/" class="header__subnav-link">Фонд акций компаний малой капитализации</a>
+      <a href="/individuals/fund/opif-aktsiy-telekommunikatsii-i-tekhnolog/" class="header__subnav-link">Фонд Телекоммуникации и технологии</a>
+      <a href="/individuals/fund/opif-aktsiy-fond-aktivnogo-upravleniya/" class="header__subnav-link">Фонд активного управления</a>
+      <a href="/individuals/fund/fond-perspektivnyh-obligaciy/" class="header__subnav-link">Фонд перспективных облигаций</a>
+      <a href="/individuals/fund/zpifn-kommercheskaya-nedvizhimost/" class="header__subnav-link">Фонд Коммерческая недвижимость</a>
+      <a href="/individuals/fund/zpifn-arendnyy-biznes-3/" class="header__subnav-link">Фонд Арендный бизнес 3</a>
+    </div>
+    <div class="header__subnav-section" bis_skin_checked="1">
+      <div class="header__subnav-title" bis_skin_checked="1">
+        Закрытые фонды </div>
+      <a href="/individuals/fund/zpifn-arendnyy-biznes-2/" class="header__subnav-link">Фонд Арендный бизнес 2</a>
+     
+      <a href="/individuals/fund/zpifn-arendnyy-biznes-6/" class="header__subnav-link">Фонд Современный 6</a>
+      <!-- <a href="/individuals/fund/fond-zarubezhnyy-rentnyy-biznes/" class="header__subnav-link">Фонд Зарубежный рентный бизнес</a> -->
+    </div>
+  </div>
+</div>      </div>
+
+      <div class="header__nav-item ">
+        <a href="/individuals/etf/" class="header__nav-link">
+          <img src="/local/templates/main/img/new-template/icons/pif-2.svg">
+          <span>Биржевые фонды</span>
+        </a>
+        
+
+<div class="header__subnav">
+            <div class="header__subnav-col">
+        <div class="header__subnav-section">
+                                <div class="header__subnav-title">
+                            Биржевые фонды акций            </div>
+                                            <a href="/individuals/etf/etf-moex/" class="header__subnav-link">Фонд Топ Российских акций - SBMX</a>
+                                  <a href="/individuals/etf/etf-sp-500/" class="header__subnav-link">Фонд Американские акции - SBSP</a>
+                                  <a href="/individuals/etf/etf-esg/" class="header__subnav-link">Фонд Ответственные инвестиции - SBRI</a>
+                                  <a href="/individuals/etf/etf-sbhi/" class="header__subnav-link">Фонд Халяльные инвестиции - SBHI</a>
+                                  <a href="/individuals/etf/etf-sbbe/" class="header__subnav-link">Фонд Блокчейн Экономика - SBBE</a>
+                                  <a href="/individuals/etf/etf-sbog/" class="header__subnav-link">Фонд Глобальный портфель - SBOG</a>
+                  </div>
+      </div>
+          <div class="header__subnav-col">
+        <div class="header__subnav-section">
+                                <div class="header__subnav-title">
+                            Биржевые фонды облигаций            </div>
+                                            <a href="/individuals/etf/etf-sbcn/" class="header__subnav-link">Фонд Сберегательный в юанях - SBCN</a>
+                                  <a href="/individuals/etf/corporate-bonds-rub/" class="header__subnav-link">Фонд Корпоративные облигации - SBRB</a>
+                                  <a href="/individuals/etf/etf-ofz/" class="header__subnav-link">Фонд Государственные облигации - SBGB</a>
+                                  <a href="/individuals/etf/etf-eurobonds/" class="header__subnav-link">Фонд Российские еврооблигации - SBCB</a>
+                  </div>
+      </div>
+          <div class="header__subnav-col">
+        <div class="header__subnav-section">
+                                <div class="header__subnav-title">
+                            Биржевые фонды денежного рынка            </div>
+                                            <a href="/individuals/etf/etf-sbmm/" class="header__subnav-link">Фонд Сберегательный - SBMM</a>
+                  </div>
+      </div>
+        <div class="header__subnav-col">
+    <div class="header__subnav-section">
+            <div class="header__subnav-title">Биржевые фонды товарных рынков</div>
+            <a href="/individuals/etf/etf-sbgd/" class="header__subnav-link">Фонд Доступное золото - SBGD ETF</a>
+    </div>
+  </div>
+  <div class="header__subnav-col">
+    <div class="header__subnav-section">
+      <div class="header__subnav-title">Биржевые Смарт фонды</div>
+      <a href="/individuals/etf/smart/" class="header__subnav-link">Смарт фонды</a>
+    </div>
+  </div>
+</div>      </div>
+      <div class="header__nav-item ">
+        <a href="/individuals/investment_account/" class="header__nav-link">
+          <img src="/local/templates/main/img/new-template/icons/pif-4.svg">
+          <span>Индивидуальный инвестиционный счет</span>
+        </a>
+        <div class="header__subnav">
+          <div class="header__subnav-col">
+            <div class="header__subnav-section">
+              <div class="header__subnav-title">Стратегии для ИИС</div>
+              <a href="/individuals/investment_account/strategy/iis4/" class="header__subnav-link">Модельные портфели</a>
+              <a href="/individuals/investment_account/strategy/iis3/" class="header__subnav-link">Больше чем ИИС</a>
+              <a href="/individuals/investment_account/strategy/accumulate/" class="header__subnav-link">Накопительная</a>
+              <a href="/individuals/investment_account/strategy/investment_account_russian-stock/" class="header__subnav-link">Российские
+                акции</a>
+              <!-- <a href="/individuals/investment_account/strategy/iis4/" class="header__subnav-link">Модельные портфели</a> -->
+            </div>
+
+          </div>
+          <div class="header__subnav-col">
+            <div class="header__subnav-section">
+              <div class="header__subnav-title">Стратегии, недоступные для покупки</div>
+              <a href="/individuals/investment_account/strategy/investment_account_usd/" class="header__subnav-link">Долларовые
+                облигации</a>
+              <a href="/individuals/investment_account/strategy/investment_account_rub/" class="header__subnav-link">Рублевые облигации</a>
+            </div>
+          </div>
+        </div>
+      </div>
+      <div class="header__nav-item ">
+        <a href="/individuals/managed_account/" class="header__nav-link">
+          <img src="/local/templates/main/img/new-template/icons/pif-3.svg">
+          <span>Доверительное управление</span>
+        </a>
+        <div class="header__subnav" bis_skin_checked="1">
+         
+          <div class="header__subnav-col" bis_skin_checked="1">
+            <div class="header__subnav-section" bis_skin_checked="1">
+              <div class="header__subnav-title" bis_skin_checked="1">Рублевые стратегии</div>
+
+              <a href="/individuals/managed_account/strategy/available-gold/" class="header__subnav-link">Доступное золото</a>
+              <a href="/individuals/managed_account/strategy/khalyalnye-investitsii/" class="header__subnav-link">Халяльные инвестиции</a>
+              <a href="/individuals/managed_account/strategy/otvetstvennye-investitsii/" class="header__subnav-link">Ответственные инвестиции</a>
+              <a href="/individuals/managed_account/strategy/sustainable-portfolio/" class="header__subnav-link">Устойчивый портфель</a>
+             
+              <a href="/individuals/managed_account/model-rub/" class="header__subnav-link">
+                Модельные портфели (RUB)
+              </a>
+              <a href="/individuals/managed_account/strategy/zashchita-kapitala-rub/" class="header__subnav-link">Защита капитала (RUB)</a>
+              <a href="/individuals/managed_account/strategy/dividendnye-aktsii/" class="header__subnav-link">Дивидендные акции</a>
+              <a href="/individuals/managed_account/strategy/strategiya-kuponnyy-dokhod-rub-/" class="header__subnav-link">Купонный доход (RUB)</a>
+            </div>
+          </div>
+          <div class="header__subnav-col" bis_skin_checked="1">
+            <div class="header__subnav-section" bis_skin_checked="1">
+              <div class="header__subnav-title" bis_skin_checked="1">Валютные стратегии</div>
+
+              <a href="/individuals/managed_account/strategy/bonds-yuan/" class="header__subnav-link">Облигации в Юанях</a>
+              <a href="/individuals/managed_account/my-capital-usd/" class="header__subnav-link">
+                Мой капитал (USD)
+              </a>
+              <a href="/individuals/managed_account/model-usd/" class="header__subnav-link">
+                Модельные портфели (USD)
+              </a>
+              <a href="/individuals/managed_account/strategy/evropeyskie-aktsii/" class="header__subnav-link">Европейские акции</a>
+              <a href="/individuals/managed_account/strategy/valyutnyy-dokhod-premer/" class="header__subnav-link">Валютный доход - Премьер</a>
+              <a href="/individuals/managed_account/strategy/currency_alternative/" class="header__subnav-link">Валютная альтернатива</a>
+              <!-- <a href="/individuals/managed_account/my-capital-rub/" class="header__subnav-link">
+                Мой капитал (RUB)
+              </a> -->
+              <a href="/individuals/managed_account/strategy/hedge-fund/" class="header__subnav-link">Первый Хедж Фонд</a>
+              <a href="/individuals/managed_account/strategy/optimalnyy-globalnyy-portfel/" class="header__subnav-link">Оптимальный глобальный портфель</a>
+              <a href="/individuals/managed_account/strategy/mezhdunarodnye-aktsii/" class="header__subnav-link">Международные акции</a>
+              <a href="/individuals/managed_account/strategy/gruppa-strategiy-valyutnyy-dokhod/" class="header__subnav-link">Группа стратегий "Валютный доход"</a>
+              <a href="/individuals/managed_account/strategy/gruppa-strategiy-dollarovye-obligatsii/" class="header__subnav-link">Группа стратегий «Долларовые облигации» (ранее «Российские облигации (USD)»)</a>
+              <a href="/individuals/managed_account/strategy/vysokodokhodnye-obligatsii-usd/" class="header__subnav-link">Стратегия "Высокодоходные облигации (USD)"</a>
+              <a href="/individuals/managed_account/strategy/dohod_podnebesnoi/" class="header__subnav-link">Стратегия «Доход Поднебесной»</a>
+            </div>
+          </div>
+          <div class="header__subnav-col" bis_skin_checked="1">
+            <div class="header__subnav-section" bis_skin_checked="1">
+              <div class="header__subnav-title" bis_skin_checked="1">Стратегии, недоступные для покупки</div>
+
+              <a href="/individuals/managed_account/strategy/long-term_ruble_bonds/" class="header__subnav-link">Долгосрочные рублевые облигации</a>
+              <a href="/individuals/managed_account/strategy/long-term_balanced_income/" class="header__subnav-link">Долгосрочный сбалансированный доход</a>
+              <a href="/individuals/managed_account/strategy/long-term_dividend_stocks/" class="header__subnav-link">Долгосрочные дивидендные акции</a>
+              <a href="/individuals/managed_account/strategy/globalnye-obligatsii-usd-du/" class="header__subnav-link">Глобальные облигации (USD)</a>
+              
+              <a href="/individuals/managed_account/my-capital-rub/" class="header__subnav-link">
+                Мой капитал (RUB)
+              </a>
+              <a href="/individuals/managed_account/strategy/vtoroy-khedzh-fond/" class="header__subnav-link">Второй Хедж Фонд</a>
+              <a href="/individuals/managed_account/strategy/aktivnoe-upravlenie-dlya-kvalifitsirovannykh-inves/" class="header__subnav-link">Активное управление для квалифицированных инвесторов</a>
+              <a href="/individuals/managed_account/strategy/managed_account_obligation_rub/" class="header__subnav-link">Облигационный доход – Рублевые облигации</a>
+              <a href="/individuals/managed_account/strategy/dollarovye-obligatsii/" class="header__subnav-link">Долларовые облигации+</a>
+              <a href="/individuals/managed_account/strategy/zashchita-kapitala-usd/" class="header__subnav-link">Защита капитала (USD)</a>
+              <a href="/individuals/managed_account/strategy/arkhivnaya-gruppa-strategiy-valyutnyy-dokhod/" class="header__subnav-link">Архивная группа стратегий "Валютный доход"</a>
+              <a href="/individuals/managed_account/strategy/valyutnaya-privilegiya/" class="header__subnav-link">Валютная привилегия</a>
+              <a href="/individuals/managed_account/strategy/managed_account_stable_yield/" class="header__subnav-link">Сбалансированный доход</a>
+              <a href="/individuals/managed_account/strategy/strategiya-du-strukturnaya-5/" class="header__subnav-link">Стратегия «Структурная 5»</a>
+            </div>
+          </div>
+        </div>
+              </div>
+      <div class="header__nav-item new-faq">
+        <a href="/contact-us/" class="header__nav-link">
+                    <span>Вопрос/Обращение</span>
+        </a>
+              </div>
+    </div>
+    <style>
+      .new-faq .header__nav-link:after {
+        content: none
+      }
+
+      .new-faq .header__nav-link svg {
+        width: 28px;
+        top: -2px;
+        position: relative;
+        height: 28px;
+      }
+    </style>
+  
+        </div>
+      </div>
+      <div class="main_cont">
+                
+        <main class="  clearfix main ">  <div class="disclosure">
+      <section class="info_documents clearfix">
+  	<div>
+  		<h1>Собственные средства</h1>
+
+			
+
+<nav class="clearfix" id="disclosure_menu">
+		    <a href="/disclosure/raskrytie-informatsii-professionalnym-uchastnikom/">
+	        Раскрытие информации о профессиональном участнике рынка ценных бумаг	    </a>
+		    <a href="/disclosure/finansovaya-otchetnost/">
+	        Финансовая отчетность	    </a>
+		    <a href="/disclosure/otchetnost-msfo/">
+	        Отчетность МСФО	    </a>
+		    <a href="/disclosure/capital/" class="active">
+	        Собственные средства	    </a>
+		    <a href="/disclosure/official/">
+	        Официальные сообщения	    </a>
+		    <a href="/disclosure/fund/">
+	        ПИФ	    </a>
+		    <a href="/disclosure/agent/">
+	        Сведения об агентах	    </a>
+		    <a href="/disclosure/doveritelnoe-upravlenie/">
+	        Доверительное управление	    </a>
+		    <a href="/disclosure/pension/">
+	        Управление пенсионными накоплениями	    </a>
+		    <a href="/disclosure/konflikt/">
+	        Конфликт интересов	    </a>
+		    <a href="/disclosure/compliance/">
+	        Комплаенс	    </a>
+		    <a href="/disclosure/inside/">
+	         Перечень инсайдерской информации	    </a>
+		    <a href="/disclosure/fatca/">
+	        FATCA	    </a>
+		    <a href="/disclosure/crs/">
+	        CRS	    </a>
+		    <a href="/disclosure/priznanie-lits-kvalifitsirovannymi-investorami/">
+	        Признание лиц квалифицированными инвесторами	    </a>
+		    <a href="/disclosure/client/">
+	        Информация для клиентов	    </a>
+		    <a href="/disclosure/policy/">
+	        Персональные данные	    </a>
+		    <a href="/disclosure/support/">
+	        Сообщения о технических неполадках	    </a>
+		    <a href="/disclosure/edo/">
+	        ЭДО	    </a>
+		    <a href="/disclosure/raskrytie-informatsii-ob-upravlyayushchey-kompanii-pif/">
+	        Раскрытие информации об управляющей компании ПИФ	    </a>
+		    <a href="/disclosure/esg/">
+	        ESG	    </a>
+	</nav>			<section class="info search clearfix m-bottom-none">
+    <div class="search_line wide-search clearfix">
+        <header>
+        	<form>
+	            <span class="search-fix">
+                    <input type="search" placeholder="Введите поисковый запрос" name="q" value="">
+                    <input class="search_invis" type="submit" value="" name="">
+                </span>
+	        </form>
+        </header>
+    </div>
+</section>
+  		<div>
+									<div class="subscribe-btn">
+						<a class="subscribe-link" href="/disclosure_subscription/?rub=87">Подписаться на рассылку</a>
+					</div>
+							</div>
+
+			<section class="profile file-cont">
+			
+		<div class="docs">
+			<a class="file" href="/upload/iblock/8e9/0k07yx2sslwtu96ok1xhfr5ko4rz6m8n.pdf" target="_blank">Расчет размера собственных средств на 31.05.2023</a>
+											<p><b>Доступен с</b> 20.06.2023</p>
+												<p><b>Доступен по</b> 20.06.2026</p>
+												</div>
+			
+		<div class="docs">
+			<a class="file" href="/upload/iblock/52a/c8xf6631uy7uafjat7rlobijccgb8wyr.pdf" target="_blank">Расчет размера собственных средств на 30.04.2023</a>
+											<p><b>Доступен с</b> 19.05.2023</p>
+												<p><b>Доступен по</b> 19.05.2026</p>
+												</div>
+			
+		<div class="docs">
+			<a class="file" href="/upload/iblock/380/de2qudl0q8lplam5aoh7302ixcpzk00c.pdf" target="_blank">Расчет размера собственных средств на 31.03.2023</a>
+											<p><b>Доступен с</b> 19.04.2023</p>
+												<p><b>Доступен по</b> 19.04.2026</p>
+												</div>
+			
+		<div class="docs">
+			<a class="file" href="/upload/iblock/ea3/dimrsrcs32tetzbrkuj284whh1lilqht.pdf" target="_blank">Расчет размера собственных средств на 28.02.2023</a>
+											<p><b>Доступен с</b> 14.03.2023 19:05:00</p>
+												<p><b>Доступен по</b> 14.03.2026</p>
+												</div>
+			
+		<div class="docs">
+			<a class="file" href="/upload/iblock/bd6/ea1vcw6lz1xt47pmazr2fdhf8c42bpd8.pdf" target="_blank">Расчет размера собственных средств на 31.01.2023</a>
+											<p><b>Доступен с</b> 15.02.2023 10:05:00</p>
+												<p><b>Доступен по</b> 15.02.2026</p>
+												</div>
+			
+		<div class="docs">
+			<a class="file" href="/upload/iblock/e12/46wiprz0nod1oq7figd4au3h6sjsykaw.pdf" target="_blank">Расчет размера собственных средств на 31.12.2022</a>
+											<p><b>Доступен с</b> 23.01.2023 10:40:00</p>
+												<p><b>Доступен по</b> 23.01.2026</p>
+												</div>
+			
+		<div class="docs">
+			<a class="file" href="/upload/iblock/f27/z1g6320w94kwglzuzxucc8z18daxyogf.pdf" target="_blank">Расчет размера собственных средств на 30.11.2022, уточненный расчет</a>
+											<p><b>Доступен с</b> 09.01.2023 12:20:00</p>
+												<p><b>Доступен по</b> 09.01.2026</p>
+												</div>
+			
+		<div class="docs">
+			<a class="file" href="/upload/iblock/6d1/bje3iv794tb057oa4jt68c2ykclehox9.pdf" target="_blank">Расчет размера собственных средств на 30.11.2022</a>
+											<p><b>Доступен с</b> 16.12.2022 15:34:00</p>
+												<p><b>Доступен по</b> 16.12.2025</p>
+												</div>
+			
+		<div class="docs">
+			<a class="file" href="/upload/iblock/8c6/wjkoltyv2eubcez7fxh7go2xdjzr14nb.pdf" target="_blank">Расчет размера собственных средств на 31.10.2022</a>
+											<p><b>Доступен с</b> 18.11.2022 11:20:00</p>
+												<p><b>Доступен по</b> 18.11.2025</p>
+												</div>
+			
+		<div class="docs">
+			<a class="file" href="/upload/iblock/46c/be0vr5lsy6240o3e0jqbesvf2ytbivvb.pdf" target="_blank">Расчет размера собственных средств на 30.09.2022</a>
+											<p><b>Доступен с</b> 17.10.2022 10:05:00</p>
+												<p><b>Доступен по</b> 17.10.2025</p>
+												</div>
+			
+		<div class="docs">
+			<a class="file" href="/upload/iblock/a62/93pzvgvfnxtbsg36eqtbod4pd4uci2zh.pdf" target="_blank">Расчет размера собственных средств на 31.08.2022</a>
+											<p><b>Доступен с</b> 15.09.2022 10:10:00</p>
+												<p><b>Доступен по</b> 15.09.2025</p>
+												</div>
+			
+		<div class="docs">
+			<a class="file" href="/upload/iblock/a78/ylq7q030k4ccmqiuf0sn3exv93c83m97.pdf" target="_blank">Расчет размера собственных средств на 31.07.2022</a>
+											<p><b>Доступен с</b> 15.08.2022 10:40:00</p>
+												<p><b>Доступен по</b> 15.08.2025</p>
+												</div>
+			
+		<div class="docs">
+			<a class="file" href="/upload/iblock/9ab/i3s52lzv17mvfbsbcvmggug8098o2ra1.pdf" target="_blank">Расчет размера собственных средств на 30.06.2022</a>
+											<p><b>Доступен с</b> 15.07.2022 10:40:00</p>
+												<p><b>Доступен по</b> 15.07.2025</p>
+												</div>
+			
+		<div class="docs">
+			<a class="file" href="/upload/iblock/a06/eq23xqhtqfpjlv8nz54qk3dcybx3izol.pdf" target="_blank">Расчет размера собственных средств на 31.05.2022</a>
+											<p><b>Доступен с</b> 16.06.2022 11:05:00</p>
+												<p><b>Доступен по</b> 16.06.2025</p>
+												</div>
+			
+		<div class="docs">
+			<a class="file" href="/upload/iblock/a92/zb3185ih08pmlz80q912ocsndfg82z9p.pdf" target="_blank">Расчет размера собственных средств на 30.04.2022 </a>
+											<p><b>Доступен с</b> 20.05.2022 11:15:00</p>
+												<p><b>Доступен по</b> 20.05.2025</p>
+												</div>
+			
+		<div class="docs">
+			<a class="file" href="/upload/iblock/11a/11a50773d40f8313c9c4dac5c46b29fa.pdf" target="_blank">Расчет размера собственных средств на 31.03.2022</a>
+											<p><b>Доступен с</b> 15.04.2022 15:14:00</p>
+												<p><b>Доступен по</b> 15.04.2025</p>
+												</div>
+			
+		<div class="docs">
+			<a class="file" href="/upload/iblock/305/305d83a05ac84cbc533aa57134737a16.pdf" target="_blank">Расчет размера собственных средств на 28.02.2022</a>
+											<p><b>Доступен с</b> 18.03.2022 19:50:00</p>
+												<p><b>Доступен по</b> 18.03.2025</p>
+												</div>
+			
+		<div class="docs">
+			<a class="file" href="/upload/iblock/796/796faea55f37aa6901e80cc476c4a034.pdf" target="_blank">Расчет размера собственных средств на 31.01.2022</a>
+											<p><b>Доступен с</b> 15.02.2022 11:00:00</p>
+												<p><b>Доступен по</b> 15.02.2025</p>
+												</div>
+			
+		<div class="docs">
+			<a class="file" href="/upload/iblock/733/733f8930b39f65163165e569ba3f0123.pdf" target="_blank">Расчет размера собственных средств на 31.12.2021</a>
+											<p><b>Доступен с</b> 24.01.2022 13:44:00</p>
+												<p><b>Доступен по</b> 24.01.2025</p>
+												</div>
+			
+		<div class="docs">
+			<a class="file" href="/upload/iblock/7c2/7c26190269c6638fe4b4b940522d3144.pdf" target="_blank">Расчет размера собственных средств на 30.11.2021</a>
+											<p><b>Доступен с</b> 16.12.2021 18:50:00</p>
+												<p><b>Доступен по</b> 16.12.2024</p>
+												</div>
+	</section>
+<div class="parent-nav-disclosure">
+            
+
+<div class="pagination">
+			<span class="prev">‹</span>
+		<div class="pagination-list">
+									<span class="pagination-list__item current">1</span>
+															<a class="pagination-list__item" href="/disclosure/capital/?PAGEN_1=2">2</a>
+									</div>
+
+			<a class="next" href="/disclosure/capital/?PAGEN_1=2">›</a>
+	</div>        </div>
+		</div>
+  </section>
+			<div style="display:none">
+<pre>Array
+(
+    [IBLOCK_TYPE] =&gt; documents
+    [IBLOCK_ID] =&gt; 31
+    [FUND_DOCS_IBLOCK_TYPE] =&gt; documents
+    [FUND_DOCS_IBLOCK_ID] =&gt; 30
+    [DOCS_COUNT] =&gt; 20
+    [SEF_MODE] =&gt; Y
+    [SEF_FOLDER] =&gt; /disclosure/
+    [CACHE_TYPE] =&gt; A
+    [CACHE_TIME] =&gt; 36000000
+    [PAGER_TEMPLATE] =&gt; infinite_scroll_multi
+    [DISPLAY_TOP_PAGER] =&gt; N
+    [DISPLAY_BOTTOM_PAGER] =&gt; Y
+    [PAGER_TITLE] =&gt; 
+    [PAGER_SHOW_ALWAYS] =&gt; N
+    [PAGER_DESC_NUMBERING] =&gt; N
+    [PAGER_DESC_NUMBERING_CACHE_TIME] =&gt; 36000
+    [PAGER_SHOW_ALL] =&gt; N
+    [DOCUMENTS_SECTION_CODE] =&gt; dokumenty-fonda
+    [ONLY_AVAILABLE_DOCS] =&gt; Y
+    [DEFAULT_INDEX_NUMBER] =&gt; 6
+    [ARCHIVE] =&gt; Array
+        (
+            [0] =&gt; 31
+        )
+
+    [ARCHIVE_TYPE] =&gt; documents
+    [ARCHIVE_ELEM] =&gt; Array
+        (
+            [0] =&gt; 41
+            [1] =&gt; 1683
+            [2] =&gt; 43
+            [3] =&gt; 46
+        )
+
+    [SEF_URL_TEMPLATES] =&gt; Array
+        (
+            [fund] =&gt; fund/
+            [list] =&gt; #SECTION_CODE#/
+            [detail] =&gt; fund/#ELEMENT_CODE#/
+        )
+
+    [~IBLOCK_TYPE] =&gt; documents
+    [~IBLOCK_ID] =&gt; 31
+    [~FUND_DOCS_IBLOCK_TYPE] =&gt; documents
+    [~FUND_DOCS_IBLOCK_ID] =&gt; 30
+    [~DOCS_COUNT] =&gt; 20
+    [~SEF_MODE] =&gt; Y
+    [~SEF_FOLDER] =&gt; /disclosure/
+    [~CACHE_TYPE] =&gt; A
+    [~CACHE_TIME] =&gt; 36000000
+    [~PAGER_TEMPLATE] =&gt; infinite_scroll_multi
+    [~DISPLAY_TOP_PAGER] =&gt; N
+    [~DISPLAY_BOTTOM_PAGER] =&gt; Y
+    [~PAGER_TITLE] =&gt; 
+    [~PAGER_SHOW_ALWAYS] =&gt; N
+    [~PAGER_DESC_NUMBERING] =&gt; N
+    [~PAGER_DESC_NUMBERING_CACHE_TIME] =&gt; 36000
+    [~PAGER_SHOW_ALL] =&gt; N
+    [~DOCUMENTS_SECTION_CODE] =&gt; dokumenty-fonda
+    [~ONLY_AVAILABLE_DOCS] =&gt; Y
+    [~DEFAULT_INDEX_NUMBER] =&gt; 6
+    [~ARCHIVE] =&gt; Array
+        (
+            [0] =&gt; 31
+        )
+
+    [~ARCHIVE_TYPE] =&gt; documents
+    [~ARCHIVE_ELEM] =&gt; Array
+        (
+            [0] =&gt; 41
+            [1] =&gt; 1683
+            [2] =&gt; 43
+            [3] =&gt; 46
+        )
+
+    [~SEF_URL_TEMPLATES] =&gt; Array
+        (
+            [fund] =&gt; fund/
+            [list] =&gt; #SECTION_CODE#/
+            [detail] =&gt; fund/#ELEMENT_CODE#/
+        )
+
+    [SUBSCRIBE_FUNDS] =&gt; Array
+        (
+            [59] =&gt; opif-obligatsiy-fond-ros-obligatsiy
+            [60] =&gt; fond-perspektivnyh-obligaciy
+            [61] =&gt; opif-obligatsiy-valyutnye-sberegenia
+            [62] =&gt; pif-nakopitelniy
+            [103] =&gt; opif-aktsiy-fond-ros-aktsiy
+            [104] =&gt; opif-aktsiy-elektroenergetika
+            [105] =&gt; opif-aktsiy-prirodnye-resursy
+            [106] =&gt; opif-aktsiy-globalnyy-internet
+            [107] =&gt; opif-aktsiy-potrebitelskiy-sektor
+            [108] =&gt; opif-aktsiy-finansovyy-sektor
+            [64] =&gt; opif-smeshannykh-investitsiy-fond-sbalans
+            [66] =&gt; opif-globalny
+            [67] =&gt; opif-fondov-biotekhnologii
+            [68] =&gt; opif-fondov-zoloto
+            [110] =&gt; etf-sp-500
+            [111] =&gt; etf-moex
+            [112] =&gt; etf-eurobonds
+            [113] =&gt; etf-ofz
+            [114] =&gt; corporate-bonds-rub
+            [115] =&gt; etf-esg
+            [79] =&gt; zpifn-kommercheskaya-nedvizhimost
+            [80] =&gt; zpifn-arendnyy-biznes-2
+            [82] =&gt; zpifn-arendnyy-biznes-6
+            [85] =&gt; finansovaya-otchetnost
+            [86] =&gt; otchetnost-msfo
+            [87] =&gt; capital
+            [88] =&gt; official
+            [89] =&gt; agent
+            [101] =&gt; support
+            [84] =&gt; raskrytie-informatsii-ob-upravlyayushchey-kompanii-pif
+            [123] =&gt; etf-sbmm
+            [124] =&gt; etf-sbhi
+        )
+
+    [SORT_BY1] =&gt; SORT
+    [SORT_ORDER1] =&gt; ACS
+    [SORT_BY2] =&gt; ACTIVE_FROM
+    [SORT_ORDER2] =&gt; DESC
+)
+</pre></div>
+
+  </div>
+
+<section class="info clearfix footer-disclaimer /home/bitrix/sberbank-am/main/app/sberbank-am.ru/../admin/sberbankam_sync_test.php">
+  <noindex>
+    <div class="required_info bottom_text_rm">
+      <p class="text_grey">
+                                        <span style="font-size: 13px !important;">
+Стоимость инвестиционных паев может увеличиваться и уменьшаться, результаты инвестирования в прошлом не определяют доходы в будущем, государство не гарантирует доходность инвестиций в паевые инвестиционные фонды (ПИФ). Прежде чем приобрести инвестиционный пай, следует внимательно ознакомиться с правилами доверительного управления ПИФ (ПДУ ПИФ). ПДУ ПИФ предусмотрены скидки с расчетной стоимости инвестиционных паев при их погашении. Взимание скидок уменьшит доходность инвестиций в инвестиционные паи ПИФ.
+</span>
+<span>
+Не является индивидуальной инвестиционной рекомендацией в значении статьи 6.1. и 6.2. Федерального закона «О рынке ценных бумаг».
+Услуги по доверительному управлению, в т.ч. по доверительному управлению ПИФ оказывает АО УК «Первая», зарегистрировано Московской регистрационной палатой 1 апреля 1996 года, ИНН 7710183778. Лицензия ФКЦБ России на осуществление деятельности по управлению инвестиционными фондами, паевыми инвестиционными фондами и негосударственными пенсионными фондами №21-000-1-00010 от 12 сентября 1996 года. Лицензия ФКЦБ России №045-06044-001000 от 07.06 2002 на осуществление деятельности по управлению ценными бумагами.
+Ознакомиться с условиями управления активами, получить сведения об АО УК «Первая», о ПИФ, ознакомиться с ПДУ ПИФ, а также получить иную информацию заинтересованные лица могут по адресу: 123112, г. Москва, наб. Пресненская, д. 12, этаж 40, на сайте www.first-am.ru, по телефону: 8 800 301 1616.
+С информацией об ожидаемой доходности и величине допустимого риска, определенных согласно требованиям Положения ЦБ РФ от 03.08.2015 № 482-П, можно ознакомиться по ссылке: <a href="https://www.first-am.ru/disclosure/doveritelnoe-upravlenie/">https://www.first-am.ru/disclosure/doveritelnoe-upravlenie/</a>
+Результаты деятельности управляющего по управлению ценными бумагами в прошлом не определяют доходы в будущем. Прежде чем принять решение об инвестировании, необходимо внимательно ознакомиться с договором доверительного управления и декларацией о рисках. 
+Заключаемый договор доверительного управления не является договором банковского вклада или банковского счета. Передаваемые в управление денежные средства не застрахованы в государственной корпорации «Агентство по страхованию вкладов» в соответствии с федеральным законом «О страховании вкладов в банках РФ», государство и АО УК «Первая» не дают никаких гарантий сохранности и возврата инвестируемых денежных средств. Услуги по доверительному управлению ПИФ означает инвестирование денежных средств в ценные бумаги. Инвестирование в ценные бумаги влечёт кредитные и рыночные риски, в том числе риск потери всех или части инвестированных денежных средств. Вложение в ценные бумаги всех имеющихся у клиента денежных средств или большей их части может привести к утрате всех его накоплений, а также банкротству клиента. Для направления жалоб, а также внесудебного разрешения споров, связанных с услугами доверительного управления, клиент вправе обратиться в компанию (почтовый адрес: 123112, г. Москва, наб. Пресненская, д. 12, этаж 40, телефон: 8 800 301 1616, эл. адрес: info@first-am.ru, интернет- сайт: www.first-am.ru), в НАУФОР, в Центральный Банк РФ. В случае невозможности внесудебного урегулирования спора клиент вправе обратиться в суд.
+ОПИФ рыночных финансовых инструментов «Первая – Фонд российских облигаций» – правила доверительного управления фондом зарегистрированы ФСФР России 18.12.1996 за № 0007-45141428. 
+ОПИФ рыночных финансовых инструментов «Первая – Фонд российских акций» – правила доверительного управления фондом зарегистрированы ФСФР России 14.04.1997 за № 0011-46360962. 
+ОПИФ рыночных финансовых инструментов «Первая – Сбалансированный» – правила доверительного управления фондом зарегистрированы ФСФР России 21.03.2001 за № 0051-56540197. 
+ОПИФ рыночных финансовых инструментов «Первая – Природные ресурсы» правила доверительного управления фондом зарегистрированы ФСФР России 31.08.2006 за № 0597-94120779. 
+ОПИФ рыночных финансовых инструментов «Первая – Электроэнергетика» – правила доверительного управления фондом зарегистрированы ФСФР России 31.08.2006 за № 0598-94120851. 
+ОПИФ рыночных финансовых инструментов «Первая – Глобальный» – правила доверительного управления фондом зарегистрированы ФСФР России 26.12.2006 за № 0716-94122086. 
+ОПИФ рыночных финансовых инструментов «Первая – Потребительский сектор» – правила доверительного управления фондом зарегистрированы ФСФР России 01.03.2007 за № 0757-94127221. 
+ОПИФ рыночных финансовых инструментов «Первая – Финансовый сектор» – правила доверительного управления фондом зарегистрированы ФСФР России 16.08.2007 за № 0913-94127681. 
+ОПИФ рыночных финансовых инструментов «Первая - Глобальный Интернет» – правила доверительного управления фондом зарегистрированы ФСФР России 28.06.2011 за № 2161-94175705. 
+ОПИФ рыночных финансовых инструментов «Первая - Золото» – правила доверительного управления фондом зарегистрированы ФСФР России 14.07.2011 за № 2168-94176260. 
+ОПИФ рыночных финансовых инструментов «Первая - Валютные сбережения» – правила доверительного управления фондом зарегистрированы ФСФР России 26.03.2013 за № 2569.
+ОПИФ рыночных финансовых инструментов «Первая – Биотехнологии» - правила доверительного управления фондом зарегистрированы Банком России 23.04.2015 за № 2974. 
+ОПИФ рыночных финансовых инструментов «Первая – Накопительный» правила доверительного управления фондом зарегистрированы Банком России 23.11.2017 года за №3428. 
+ОПИФ рыночных финансовых инструментов «Долларовые облигации» – правила доверительного управления фондом зарегистрированы Банком России 02.04.2019 за № 3706. 
+ОПИФ рыночных финансовых инструментов «Еврооблигации» - правила доверительного управления фондом зарегистрированы Банком России 09.11.2017 года за № 3416. 
+ОПИФ рыночных финансовых инструментов «Рублевые облигации» - правила доверительного управления фондом зарегистрированы 10.02.2015 года за № 2940. 
+ОПИФ рыночных финансовых инструментов «Первая – Локальный» – правила доверительного управления фондом зарегистрированы Банком России 01.03.2022 за № 4860. 
+ОПИФ рыночных финансовых инструментов «Первая – Фонд облигаций с выплатой дохода» – правила доверительного управления зарегистрированы Банком России 06.06.2022 за № 4978.
+ОПИФ рыночных финансовых инструментов «Первая – Фонд смешанный с выплатой дохода» – правила доверительного управления зарегистрированы Банком России 06.06.2022 за № 4979.
+ОПИФ рыночных финансовых инструментов «Первая – Фонд акций с выплатой дохода» – правила доверительного управления зарегистрированы Банком России 06.06.2022 за № 4980.
+ОПИФ рыночных финансовых инструментов «Первая – Фонд консервативный с выплатой дохода» – правила доверительного управления зарегистрированы Банком России 30.03.2023 за № 5324.
+ОПИФ рыночных финансовых инструментов «Первая – Фонд взвешенный с выплатой дохода» – правила доверительного управления зарегистрированы Банком России 30.03.2023 за № 5325.
+ЗПИФ недвижимости «Арендный бизнес 2» - правила доверительного управления фондом зарегистрированы Банком России 29.09.2016 за № 3219. 
+ЗПИФ недвижимости «Современный 6» – правила доверительного управления фондом зарегистрированы Банком России 01.10.2020 года за №4171. 
+ИПИФ финансовых инструментов «Первый Хедж Фонд» - правила доверительного управления внесены в реестр Банком России 10.06.2020 года за № 4070-СД. 
+ИПИФ финансовых инструментов «Второй Хедж Фонд» - правила доверительного управления внесены в реестр Банком России 15.03.2021 года за № 4314-СД. 
+ИПИФ финансовых инструментов «Международные облигации» - правила доверительного управления внесены в реестр Банком России 16.06.2021 года за № 4471-СД. 
+ИПИФ финансовых инструментов «Первая - Товарные рынки» - правила доверительного управления внесены в реестр Банком России 24.08.2022 года за № 5078-СД.
+ИПИФ рыночных финансовых инструментов «Первая - Устойчивый портфель» - правила доверительного управления внесены в реестр Банком России 02.02.2023 года за № 5268.
+ИПИФ финансовых инструментов «Первая - Хедж Фонд на Гонконг» - правила доверительного управления внесены в реестр Банком России от 29.08.2022 года за № 5085-СД.
+БПИФ рыночных финансовых инструментов «Первая - Фонд Корпоративные облигации» – правила доверительного управления фондом зарегистрированы Банком России 25.07.2019 за № 3785. 
+БПИФ рыночных финансовых инструментов «Первая - Фонд Ответственные инвестиции» - правила доверительного управления фондом зарегистрированы Банком России 14.09.2020 за № 4162. 
+БПИФ рыночных финансовых инструментов «Первая - Фонд Консервативный смарт» — правила доверительного управления фондом зарегистрированы Банком России 24.05.2021 за № 4431.
+БПИФ рыночных финансовых инструментов «Первая - Фонд Осторожный смарт» — правила доверительного управления фондом зарегистрированы Банком России 24.05.2021 за № 4426.
+БПИФ рыночных финансовых инструментов «Первая - Фонд Взвешенный смарт» — правила доверительного управления фондом зарегистрированы Банком России 24.05.2021 за № 4429.
+БПИФ рыночных финансовых инструментов «Первая - Фонд Прогрессивный смарт» — правила доверительного управления фондом зарегистрированы Банком России 24.05.2021 за № 4427.
+БПИФ рыночных финансовых инструментов «Первая - Фонд Динамичный смарт» — правила доверительного управления фондом зарегистрированы Банком России 24.05.2021 за № 4428.
+БПИФ рыночных финансовых инструментов «Первая - Фонд Блокчейн Экономика» — правила доверительного управления фондом зарегистрированы Банком России 20.12.2021 за № 4779. 
+БПИФ рыночных финансовых инструментов «Первая - Фонд Халяльные инвестиции» — правила доверительного управления фондом зарегистрированы Банком России 02.11.2021 за № 4678.
+БПИФ рыночных финансовых инструментов «Первая - Фонд Глобальный портфель» - правила доверительного управления фондом зарегистрированы Банком России 20.12.2021 за № 4778.
+БПИФ рыночных финансовых инструментов «Первая - Фонд Сберегательный» — правила доверительного управления фондом зарегистрированы Банком России 20.09.2021 за № 4607.
+БПИФ рыночных финансовых инструментов «Первая - Фонд Топ Российских акций» – правила доверительного управления фондом зарегистрированы Банком России 15.08.2018 за № 3555.
+БПИФ рыночных финансовых инструментов «Первая - Фонд Государственные облигации» – правила доверительного управления фондом зарегистрированы Банком России 24.12.2018 за № 3629. 
+БПИФ рыночных финансовых инструментов «Первая - Фонд Российские еврооблигации» – правила доверительного управления фондом зарегистрированы Банком России 28.12.2018 за № 3636. 
+БПИФ рыночных финансовых инструментов «Первая - Фонд Американские акции» – правила доверительного управления фондом зарегистрированы Банком России 19.03.2019 за № 3692. 
+БПИФ рыночных финансовых инструментов «Первая – Фонд Доступное золото» - правила доверительного управления фондом зарегистрированы Банком России 11.08.2022 за 
+№ 5061.
+БПИФ рыночных финансовых инструментов «Первая - Фонд Сберегательный в юанях» - правила доверительного управления фондом зарегистрированы Банком России 22.12.2022 за № 5230
+
+
+
+</span>
+      </p>
+      <style>
+        @media (max-width:980px) {
+          .snoska_text {
+
+            padding-left: 20px;
+            padding-right: 20px;
+            padding-top:5px;
+            max-width: 100% !important;
+
+          }
+        }
+      </style>
+    </div>
+  </noindex>
+</section>
+<div class="btn-ontop">
+  <svg id="Capa_1" data-name="Capa 1" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 451.85 257.66">
+    <title>arrow</title>
+    <path d="M226,0a31.55,31.55,0,0,1,22.36,9.27L442.54,203.66a31.64,31.64,0,1,1-44.77,44.73L226,76.39,54,248.21A31.64,31.64,0,1,1,9.24,203.43L203.62,9.25A31.55,31.55,0,0,1,226,0Z" transform="translate(0.05 0)"></path>
+  </svg>
+</div>
+</main>
+
+  <div class="footer">
+    <div class="footer__top-wrap">
+      <div class="mbox">
+        <div class="footer__top">
+                          <a class="footer__top-item" href="/disclosure/">
+                Раскрытие информации            </a>
+                    <a class="footer__top-item" href="/offices/">
+                Офисы продаж            </a>
+                    <a class="footer__top-item" href="/info_centr/">
+                Аналитика            </a>
+                    <a class="footer__top-item" href="/company/">
+                О компании            </a>
+                    <a class="footer__top-item" href="/company/contacts/">
+                Контакты            </a>
+                    <a class="footer__top-item" href="/faq/">
+                Вопросы и ответы            </a>
+                    <a class="footer__top-item" href="https://my.first-am.ru/">
+                Личный кабинет            </a>
+        
+        </div>
+      </div>
+    </div>
+    <div class="footer__main-wrap">
+      <div class="mbox">
+        <div class="footer__main">
+          <div class="footer__left">
+            <div class="footer__nav">
+              <a class="footer__nav-item map_control">Карта сайта</a>
+              <a href="/upload/Information%20Security_2022.pdf" target="_blank" class="footer__nav-item">Памятка об информационной
+                безопасности</a>
+                            <a href="/cookies/" class="footer__nav-item">Политика Cookies</a>
+            </div>
+            <div class="footer__address">РФ, 123112, г. Москва, наб. Пресненская, д. 12, этаж 40</div>
+            <div class="footer__copyright">УК «Первая»<a href="http://www.sberbank.ru/" target="_blank" style="color: #878B90;"></a></div>
+            <div class="footer__license" style="color: #878B90;">
+              <!-- <a href="/disclosure/raskrytie-informatsii-professionalnym-uchastnikom/"
+                 style="color:#21a038;display: block;margin-bottom: 10px;">
+                Сведения о структуре и составе акционеров (участников) управляющей компании, в том числе о лицах, под контролем либо
+                значительным влиянием которых находится управляющая компания
+              </a> -->
+
+              Информация о структуре и составе акционеров (участников) некредитной финансовой организации, в том числе о лицах, под
+              контролем либо значительным влиянием которых находится некредитная финансовая организация), соответствует информации,
+              направленной 16.09.2021 г. в Банк России для размещения на официальном сайте Банка России
+
+            </div>
+          </div>
+          <div class="footer__right">
+            <div class="footer__phone">
+              <a href="tel:88003011616" style="font-size:24px">8 800 301 1616</a>
+              <!-- <a href="tel:+74955005550" style="font-size:24px">+7 495 5005-550</a> -->
+              <!-- <a href="tel:84955000100" style="font-size:24px">8 (495) 500 01-00</a> -->
+              <!-- <a href="tel:900">900</a> -->
+              <!-- <span>Для быстрого соединения произнесите фразу: «Сбер Управление Активами»</span> -->
+            </div>
+            <div class="footer__apps">
+              <!-- <a href="https://www.first-am.ru/landings/mobilnoe-prilozhenie-uk-pervaya" style="color: #21a038;"> 
+          Мобильное приложение<br> УК "Первая"
+
+          </a> -->
+            </div>
+            <div class="footer__apps">
+              <div class="footer__apps-title">Мобильное приложение</div>
+              <div class="footer__apps-btns">
+                <a href="https://apps.apple.com/ru/app/%D1%83%D0%BA-%D0%BF%D0%B5%D1%80%D0%B2%D0%B0%D1%8F/id1669552210" target="_blank"> <!-- onclick="yaCounter38324565.reachGoal('footer_appstore'); return true;" -->
+                  <img src="/local/templates/main/img/new-template/apple-store-ico.svg">
+                </a>
+                <a href="https://play.google.com/store/apps/details?id=ru.first.am.client.android" onclick="yaCounter38324565.reachGoal('footer_googleplay'); return true;" target="_blank" style="    height: 53px;
+    margin-top: -8px;">
+                  <img src="/local/templates/main/img/new-template/google-play-ico.svg">
+                </a>
+              </div>
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+  </div>
+
+<div class="footer_menu main clearfix">
+    <div class="footer_item">
+        <div class="footer_subitem">
+        	<div class="personal_cl">
+
+		
+			
+							<h3><a href="/individuals/">Частным инвесторам</a></h3>
+                <div class="hr"></div>
+				
+
+			
+		
+			
+							<a href="/individuals/fund/">Паевые инвестиционные фонды</a>
+				
+
+			
+		
+			
+							<a href="/individuals/etf/">Биржевые фонды</a>
+				
+
+			
+		
+			
+							<a href="/individuals/investment_account/">Индивидуальный инвестиционный счет</a>
+				
+
+			
+		
+			
+							<a href="/individuals/managed_account/">Доверительное управление</a>
+				
+
+			
+		
+			
+							<a href="/individuals/pension/">Управление пенсионными накоплениями</a>
+				
+
+			
+		
+			
+							<a href="/individuals/qual/">Квалифицированным инвесторам</a>
+				
+
+			
+		
+			
+							<h3><a href="/info_centr/">Информационный центр</a></h3>
+                <div class="hr"></div>
+				
+
+			
+		
+			
+							<a href="/info_centr/reviews/?type=weekly">Еженедельный обзор</a>
+				
+
+			
+		
+			
+							<a href="/info_centr/reviews/?type=monthly">Актуальные инвестиционные идеи</a>
+				
+
+			
+		
+			
+							<a href="/info_centr/profiles/">Профили фондов</a>
+				
+
+			
+		
+							</div><div class="corporate_cl">
+			
+							<h3><a href="/inst_investors/">Институциональным инвесторам</a></h3>
+                <div class="hr"></div>
+				
+
+			
+		
+			
+							<h3><a href="/faq/">Поддержка клиентов</a></h3>
+                <div class="hr"></div>
+				
+
+			
+		
+			
+							<a href="/faq/">Вопросы и ответы</a>
+				
+
+			
+		
+			
+							<a href="/offices/">Офисы продаж</a>
+				
+
+			
+		
+			
+							<a href="/disclosure/">Раскрытие информации</a>
+				
+
+			
+		
+							</div><div class="about_cl">
+			
+							<h3><a href="/company/">О компании</a></h3>
+                <div class="hr"></div>
+				
+
+			
+		
+			
+							<a href="/company/news/">Новости</a>
+				
+
+			
+		
+			
+							<a href="/company/smi/">Публикации СМИ</a>
+				
+
+			
+		
+			
+							<a href="/company/awards/">Рейтинги и награды</a>
+				
+
+			
+		
+			
+							<a href="/company/risk_management/">Риск-менеджмент</a>
+				
+
+			
+		
+			
+							<a href="/company/#license">Лицензии</a>
+				
+
+			
+		
+			
+							<a href="/company/career/">Карьера</a>
+				
+
+			
+		
+			
+							<a href="/company/contacts/">Контакты</a>
+				
+
+			
+		
+					</div>
+		</div>
+	</div>
+</div> 
+</div>
+
+</div>
+</div>
+
+<script>
+  var client_metric_id = $.cookie('client_metric_id');
+  if (!client_metric_id) {
+    client_metric_id = uuidv4();
+    $.cookie('client_metric_id', client_metric_id, {
+      expires: 999,
+      domain: '.first-am.ru',
+      path: '/'
+    });
+  }
+  window.dataLayer = window.dataLayer || [];
+  window.dataLayer.push({
+    "client_metric_id": client_metric_id
+  });
+
+  window.sv_partner = new SberAnalytics({
+    url: 'https://sa.online.sberbank.ru:8098/metrics/19c671bc49',
+    buffer: 1,
+    apiKey: '19c671bc49a65d548ffb3d4e93c769f564d10 8c15591e5bcc64c950798de4e54',
+    subId: '', //оставляем пустым
+    appId: '' //оставляем пустым
+  });
+
+  if ($(".drop_layout section[data-value='globalnye-obligatsii-eur']").length > 0) {
+    $(".drop_layout section[data-value='globalnye-obligatsii-eur']").remove();
+  }
+  if ($('.popup_dinamik_table .popap_td_rm_elem a').length > 0) {
+    $('.popup_dinamik_table .popap_td_rm_elem a').each(function() {
+      if (~this.href.search('smart')) {
+        $(this).attr("href", "https://www.first-am.ru/individuals/etf/smart/");
+      }
+
+    });
+
+  }
+</script>
+
+
+
+<div class="cookies-modal">    <div class="cookies-modal__content">        <div class="cookies-modal__text">УК «Первая» защищает персональные данные пользователей и обрабатывает Cookies            только для персонализации сервисов. Запретить обработку Cookies можно в настройках Вашего браузера. Пожалуйста, ознакомьтесь с <a target="blank" href="/upload/iblock/755/7555863991cda203f7e55e2ee0644d52.pdf">Условиями обработки персональных данных</a> и <a href="/cookies">Cookies</a>.</div>        <div class="cookies-modal__btn new-slider__btn">Закрыть</div>    </div></div><script src="/local/templates/main/js/chat/js/2.1.9/main_bundle_chat.min.js?v=2.1.6"></script>

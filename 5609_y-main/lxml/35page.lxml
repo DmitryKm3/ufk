@@ -1,0 +1,834 @@
+
+	<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 0 0" width="0" height="0" focusable="false" role="none" style="visibility: hidden; position: absolute; left: -9999px; overflow: hidden;"><defs><filter id="wp-duotone-dark-grayscale"><feColorMatrix color-interpolation-filters="sRGB" type="matrix" values=" .299 .587 .114 0 0 .299 .587 .114 0 0 .299 .587 .114 0 0 .299 .587 .114 0 0 "></feColorMatrix><feComponentTransfer color-interpolation-filters="sRGB"><feFuncR type="table" tableValues="0 0.49803921568627"></feFuncR><feFuncG type="table" tableValues="0 0.49803921568627"></feFuncG><feFuncB type="table" tableValues="0 0.49803921568627"></feFuncB><feFuncA type="table" tableValues="1 1"></feFuncA></feComponentTransfer><feComposite in2="SourceGraphic" operator="in"></feComposite></filter></defs></svg><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 0 0" width="0" height="0" focusable="false" role="none" style="visibility: hidden; position: absolute; left: -9999px; overflow: hidden;"><defs><filter id="wp-duotone-grayscale"><feColorMatrix color-interpolation-filters="sRGB" type="matrix" values=" .299 .587 .114 0 0 .299 .587 .114 0 0 .299 .587 .114 0 0 .299 .587 .114 0 0 "></feColorMatrix><feComponentTransfer color-interpolation-filters="sRGB"><feFuncR type="table" tableValues="0 1"></feFuncR><feFuncG type="table" tableValues="0 1"></feFuncG><feFuncB type="table" tableValues="0 1"></feFuncB><feFuncA type="table" tableValues="1 1"></feFuncA></feComponentTransfer><feComposite in2="SourceGraphic" operator="in"></feComposite></filter></defs></svg><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 0 0" width="0" height="0" focusable="false" role="none" style="visibility: hidden; position: absolute; left: -9999px; overflow: hidden;"><defs><filter id="wp-duotone-purple-yellow"><feColorMatrix color-interpolation-filters="sRGB" type="matrix" values=" .299 .587 .114 0 0 .299 .587 .114 0 0 .299 .587 .114 0 0 .299 .587 .114 0 0 "></feColorMatrix><feComponentTransfer color-interpolation-filters="sRGB"><feFuncR type="table" tableValues="0.54901960784314 0.98823529411765"></feFuncR><feFuncG type="table" tableValues="0 1"></feFuncG><feFuncB type="table" tableValues="0.71764705882353 0.25490196078431"></feFuncB><feFuncA type="table" tableValues="1 1"></feFuncA></feComponentTransfer><feComposite in2="SourceGraphic" operator="in"></feComposite></filter></defs></svg><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 0 0" width="0" height="0" focusable="false" role="none" style="visibility: hidden; position: absolute; left: -9999px; overflow: hidden;"><defs><filter id="wp-duotone-blue-red"><feColorMatrix color-interpolation-filters="sRGB" type="matrix" values=" .299 .587 .114 0 0 .299 .587 .114 0 0 .299 .587 .114 0 0 .299 .587 .114 0 0 "></feColorMatrix><feComponentTransfer color-interpolation-filters="sRGB"><feFuncR type="table" tableValues="0 1"></feFuncR><feFuncG type="table" tableValues="0 0.27843137254902"></feFuncG><feFuncB type="table" tableValues="0.5921568627451 0.27843137254902"></feFuncB><feFuncA type="table" tableValues="1 1"></feFuncA></feComponentTransfer><feComposite in2="SourceGraphic" operator="in"></feComposite></filter></defs></svg><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 0 0" width="0" height="0" focusable="false" role="none" style="visibility: hidden; position: absolute; left: -9999px; overflow: hidden;"><defs><filter id="wp-duotone-midnight"><feColorMatrix color-interpolation-filters="sRGB" type="matrix" values=" .299 .587 .114 0 0 .299 .587 .114 0 0 .299 .587 .114 0 0 .299 .587 .114 0 0 "></feColorMatrix><feComponentTransfer color-interpolation-filters="sRGB"><feFuncR type="table" tableValues="0 0"></feFuncR><feFuncG type="table" tableValues="0 0.64705882352941"></feFuncG><feFuncB type="table" tableValues="0 1"></feFuncB><feFuncA type="table" tableValues="1 1"></feFuncA></feComponentTransfer><feComposite in2="SourceGraphic" operator="in"></feComposite></filter></defs></svg><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 0 0" width="0" height="0" focusable="false" role="none" style="visibility: hidden; position: absolute; left: -9999px; overflow: hidden;"><defs><filter id="wp-duotone-magenta-yellow"><feColorMatrix color-interpolation-filters="sRGB" type="matrix" values=" .299 .587 .114 0 0 .299 .587 .114 0 0 .299 .587 .114 0 0 .299 .587 .114 0 0 "></feColorMatrix><feComponentTransfer color-interpolation-filters="sRGB"><feFuncR type="table" tableValues="0.78039215686275 1"></feFuncR><feFuncG type="table" tableValues="0 0.94901960784314"></feFuncG><feFuncB type="table" tableValues="0.35294117647059 0.47058823529412"></feFuncB><feFuncA type="table" tableValues="1 1"></feFuncA></feComponentTransfer><feComposite in2="SourceGraphic" operator="in"></feComposite></filter></defs></svg><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 0 0" width="0" height="0" focusable="false" role="none" style="visibility: hidden; position: absolute; left: -9999px; overflow: hidden;"><defs><filter id="wp-duotone-purple-green"><feColorMatrix color-interpolation-filters="sRGB" type="matrix" values=" .299 .587 .114 0 0 .299 .587 .114 0 0 .299 .587 .114 0 0 .299 .587 .114 0 0 "></feColorMatrix><feComponentTransfer color-interpolation-filters="sRGB"><feFuncR type="table" tableValues="0.65098039215686 0.40392156862745"></feFuncR><feFuncG type="table" tableValues="0 1"></feFuncG><feFuncB type="table" tableValues="0.44705882352941 0.4"></feFuncB><feFuncA type="table" tableValues="1 1"></feFuncA></feComponentTransfer><feComposite in2="SourceGraphic" operator="in"></feComposite></filter></defs></svg><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 0 0" width="0" height="0" focusable="false" role="none" style="visibility: hidden; position: absolute; left: -9999px; overflow: hidden;"><defs><filter id="wp-duotone-blue-orange"><feColorMatrix color-interpolation-filters="sRGB" type="matrix" values=" .299 .587 .114 0 0 .299 .587 .114 0 0 .299 .587 .114 0 0 .299 .587 .114 0 0 "></feColorMatrix><feComponentTransfer color-interpolation-filters="sRGB"><feFuncR type="table" tableValues="0.098039215686275 1"></feFuncR><feFuncG type="table" tableValues="0 0.66274509803922"></feFuncG><feFuncB type="table" tableValues="0.84705882352941 0.41960784313725"></feFuncB><feFuncA type="table" tableValues="1 1"></feFuncA></feComponentTransfer><feComposite in2="SourceGraphic" operator="in"></feComposite></filter></defs></svg>	<div id="site-wrapper">
+	<header id="masthead" class="cryout" itemscope="" itemtype="http://schema.org/WPHeader" role="banner">
+
+		<div id="site-header-main">
+			<div id="site-header-main-inside">
+
+				<nav id="mobile-menu">
+					<span id="nav-cancel"><i class="icon-cancel"></i></span>
+					<div><ul id="mobile-nav" class=""><li id="menu-item-1587" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1587"><a href="https://www.segd.ru/about/"><span>О компании</span></a></li>
+<li id="menu-item-1852" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-1852"><a href="https://www.segd.ru/category/news/"><span>Новости</span></a></li>
+<li id="menu-item-2159" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-2159"><a href="/disclosure/props/"><span>Раскрытие информации</span></a></li>
+<li id="menu-item-879" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-879"><a href="https://www.segd.ru/contacts/"><span>Контакты</span></a></li>
+<li class="menu-main-search">
+			<a role="link" href=""><i class="icon-search"></i><span class="screen-reader-text">Искать</span></a>
+<form role="search" method="get" class="searchform" action="https://www.segd.ru/">
+	<label>
+		<span class="screen-reader-text">Искать:</span>
+		<input type="search" class="s" placeholder="Искать" value="" name="s">
+	</label>
+	<button type="submit" class="searchsubmit"><span class="screen-reader-text">Искать</span><i class="icon-search"></i></button>
+</form>
+ </li></ul></div>				</nav> <!-- #mobile-menu -->
+
+				<div id="branding">
+					<div class="identity"><a href="https://www.segd.ru/" id="logo" class="custom-logo-link" title="ООО «Северная Эгида»" rel="home"><img src="https://www.segd.ru/wp-content/uploads/logo.png" class="custom-logo" alt="ООО «Северная Эгида»"></a></div><div id="site-text"><div itemprop="headline" id="site-title"><span> <a href="https://www.segd.ru/" title="" rel="home">ООО «Северная Эгида»</a> </span></div><span id="site-description" itemprop="description"></span></div>				</div><!-- #branding -->
+
+				
+				<a id="nav-toggle"><i class="icon-menu"></i></a>
+				<nav id="access" role="navigation" aria-label="Primary Menu" itemscope="" itemtype="http://schema.org/SiteNavigationElement">
+						<div class="skip-link screen-reader-text">
+		<a href="#main" title="Перейти к содержанию"> Перейти к содержанию </a>
+	</div>
+	<div><ul id="prime_nav" class=""><li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1587"><a href="https://www.segd.ru/about/"><span>О компании</span></a></li>
+<li class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-1852"><a href="https://www.segd.ru/category/news/"><span>Новости</span></a></li>
+<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-2159"><a href="/disclosure/props/"><span>Раскрытие информации</span></a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-879"><a href="https://www.segd.ru/contacts/"><span>Контакты</span></a></li>
+<li class="menu-main-search menu-search-animated">
+			<a role="link" href=""><i class="icon-search"></i><span class="screen-reader-text">Искать</span></a>
+<form role="search" method="get" class="searchform" action="https://www.segd.ru/">
+	<label>
+		<span class="screen-reader-text">Искать:</span>
+		<input type="search" class="s" placeholder="Искать" value="" name="s">
+	</label>
+	<button type="submit" class="searchsubmit"><span class="screen-reader-text">Искать</span><i class="icon-search"></i></button>
+</form>
+ </li></ul></div>				</nav><!-- #access -->
+
+			</div><!-- #site-header-main-inside -->
+		</div><!-- #site-header-main -->
+
+		<div id="header-image-main">
+			<div id="header-image-main-inside">
+							<div class="header-image" style="background-image: url(https://www.segd.ru/wp-content/themes/septera/resources/images/headers/mountain.jpg)"></div>
+			<img class="header-image" alt="ООО «Северная Эгида»" src="https://www.segd.ru/wp-content/themes/septera/resources/images/headers/mountain.jpg">
+							</div><!-- #header-image-main-inside -->
+		</div><!-- #header-image-main -->
+
+	</header><!-- #masthead -->
+
+	<div id="breadcrumbs-container" class="cryout two-columns-left"><div id="breadcrumbs-container-inside"><div id="breadcrumbs"> <nav id="breadcrumbs-nav"><a href="https://www.segd.ru" title="Главная"><i class="icon-bread-home"></i><span class="screen-reader-text">Главная</span></a><i class="icon-bread-arrow"></i> <a href="https://www.segd.ru/disclosure/">Раскрытие информации</a> <i class="icon-bread-arrow"></i> <span class="current">Собственные средства</span></nav></div></div></div><!-- breadcrumbs -->
+	
+	<div id="content" class="cryout">
+		
+	<div id="container" class="two-columns-left">
+
+		<main id="main" role="main" class="main">
+						
+			
+	<article id="post-557" class="post-557 page type-page status-publish hentry category-disclosure">
+		<div class="schema-image">
+					</div>
+		<div class="article-inner">
+			<header>
+				<h1 class="entry-title singular-title" itemprop="headline">Собственные средства</h1>			   <span class="entry-meta">
+									</span>
+			</header>
+
+			
+			<div class="entry-content" itemprop="text">
+				<style type="text/css">
+	#mla_gallery-1 {
+		margin: auto;
+		width: 100%;
+	}
+	#mla_gallery-1 .gallery-item {
+		float: none;
+		margin: 0%;
+		padding: 0 0 1%;
+		display: inline-block;
+		text-align: left;
+		width: 100%;
+	}
+	#mla_gallery-1 .gallery-item .gallery-icon img {
+		border: 2px solid #ffffff;
+	}
+	#mla_gallery-1 .gallery-caption {
+		margin-left: 0;
+		vertical-align: top;
+	}
+	/* see mla_gallery_shortcode() in media-library-assistant/includes/class-mla-shortcode-support.php */
+</style>
+<div id="mla_gallery-1" class="gallery galleryid-557 gallery-columns-1 gallery-size-none"><!-- row-open -->
+<figure class="gallery-item last_in_row">
+	<div class="gallery-icon ">
+		<img src="/wp-content/uploads/pdf_icon.png" alt="" loading="lazy" style="vertical-align:bottom"> <a href="https://www.segd.ru/wp-content/uploads/RSS_20230430.pdf">Собственные средства на 30.04.2023</a> <font size="-1">Опубликовано: 18.05.2023 </font>
+	</div>
+</figure><br style="clear: both">
+<!-- row-open -->
+<figure class="gallery-item last_in_row">
+	<div class="gallery-icon ">
+		<img src="/wp-content/uploads/pdf_icon.png" alt="" loading="lazy" style="vertical-align:bottom"> <a href="https://www.segd.ru/wp-content/uploads/RSS_20221130_2023.pdf">Собственные средства на 30.11.2022 (корректировка)</a> <font size="-1">Опубликовано: 21.04.2023 </font>
+	</div>
+</figure><br style="clear: both">
+<!-- row-open -->
+<figure class="gallery-item last_in_row">
+	<div class="gallery-icon ">
+		<img src="/wp-content/uploads/pdf_icon.png" alt="" loading="lazy" style="vertical-align:bottom"> <a href="https://www.segd.ru/wp-content/uploads/RSS_20221031_2023.pdf">Собственные средства на 31.10.2022 (корректировка)</a> <font size="-1">Опубликовано: 21.04.2023 </font>
+	</div>
+</figure><br style="clear: both">
+<!-- row-open -->
+<figure class="gallery-item last_in_row">
+	<div class="gallery-icon ">
+		<img src="/wp-content/uploads/pdf_icon.png" alt="" loading="lazy" style="vertical-align:bottom"> <a href="https://www.segd.ru/wp-content/uploads/RSS_20220930_2023.pdf">Собственные средства на 30.09.2022 (корректировка)</a> <font size="-1">Опубликовано: 21.04.2023 </font>
+	</div>
+</figure><br style="clear: both">
+<!-- row-open -->
+<figure class="gallery-item last_in_row">
+	<div class="gallery-icon ">
+		<img src="/wp-content/uploads/pdf_icon.png" alt="" loading="lazy" style="vertical-align:bottom"> <a href="https://www.segd.ru/wp-content/uploads/RSS_20220831_2023.pdf">Собственные средства на 31.08.2022 (корректировка)</a> <font size="-1">Опубликовано: 21.04.2023 </font>
+	</div>
+</figure><br style="clear: both">
+<!-- row-open -->
+<figure class="gallery-item last_in_row">
+	<div class="gallery-icon ">
+		<img src="/wp-content/uploads/pdf_icon.png" alt="" loading="lazy" style="vertical-align:bottom"> <a href="https://www.segd.ru/wp-content/uploads/RSS_20220731_2023.pdf">Собственные средства на 31.07.2022 (корректировка)</a> <font size="-1">Опубликовано: 21.04.2023 </font>
+	</div>
+</figure><br style="clear: both">
+<!-- row-open -->
+<figure class="gallery-item last_in_row">
+	<div class="gallery-icon ">
+		<img src="/wp-content/uploads/pdf_icon.png" alt="" loading="lazy" style="vertical-align:bottom"> <a href="https://www.segd.ru/wp-content/uploads/RSS_20220630_2023.pdf">Собственные средства на 30.06.2022 (корректировка)</a> <font size="-1">Опубликовано: 21.04.2023 </font>
+	</div>
+</figure><br style="clear: both">
+<!-- row-open -->
+<figure class="gallery-item last_in_row">
+	<div class="gallery-icon ">
+		<img src="/wp-content/uploads/pdf_icon.png" alt="" loading="lazy" style="vertical-align:bottom"> <a href="https://www.segd.ru/wp-content/uploads/RSS_20220531_2023.pdf">Собственные средства на 31.05.2022 (корректировка)</a> <font size="-1">Опубликовано: 21.04.2023 </font>
+	</div>
+</figure><br style="clear: both">
+<!-- row-open -->
+<figure class="gallery-item last_in_row">
+	<div class="gallery-icon ">
+		<img src="/wp-content/uploads/pdf_icon.png" alt="" loading="lazy" style="vertical-align:bottom"> <a href="https://www.segd.ru/wp-content/uploads/RSS_20220430_2023.pdf">Собственные средства на 30.04.2022 (корректировка)</a> <font size="-1">Опубликовано: 21.04.2023 </font>
+	</div>
+</figure><br style="clear: both">
+<!-- row-open -->
+<figure class="gallery-item last_in_row">
+	<div class="gallery-icon ">
+		<img src="/wp-content/uploads/pdf_icon.png" alt="" loading="lazy" style="vertical-align:bottom"> <a href="https://www.segd.ru/wp-content/uploads/RSS_20220331_2023.pdf">Собственные средства на 31.03.2022 (корректировка)</a> <font size="-1">Опубликовано: 21.04.2023 </font>
+	</div>
+</figure><br style="clear: both">
+<!-- row-open -->
+<figure class="gallery-item last_in_row">
+	<div class="gallery-icon ">
+		<img src="/wp-content/uploads/pdf_icon.png" alt="" loading="lazy" style="vertical-align:bottom"> <a href="https://www.segd.ru/wp-content/uploads/RSS_20220228_2023.pdf">Собственные средства на 28.02.2022 (корректировка)</a> <font size="-1">Опубликовано: 21.04.2023 </font>
+	</div>
+</figure><br style="clear: both">
+<!-- row-open -->
+<figure class="gallery-item last_in_row">
+	<div class="gallery-icon ">
+		<img src="/wp-content/uploads/pdf_icon.png" alt="" loading="lazy" style="vertical-align:bottom"> <a href="https://www.segd.ru/wp-content/uploads/RSS_20210831_2023.pdf">Собственные средства на 31.08.2021 (корректировка)</a> <font size="-1">Опубликовано: 20.04.2023 </font>
+	</div>
+</figure><br style="clear: both">
+<!-- row-open -->
+<figure class="gallery-item last_in_row">
+	<div class="gallery-icon ">
+		<img src="/wp-content/uploads/pdf_icon.png" alt="" loading="lazy" style="vertical-align:bottom"> <a href="https://www.segd.ru/wp-content/uploads/RSS_20210731_2023.pdf">Собственные средства на 31.07.2021 (корректировка)</a> <font size="-1">Опубликовано: 20.04.2023 </font>
+	</div>
+</figure><br style="clear: both">
+<!-- row-open -->
+<figure class="gallery-item last_in_row">
+	<div class="gallery-icon ">
+		<img src="/wp-content/uploads/pdf_icon.png" alt="" loading="lazy" style="vertical-align:bottom"> <a href="https://www.segd.ru/wp-content/uploads/RSS_20210630_2023.pdf">Собственные средства на 30.06.2021 (корректировка)</a> <font size="-1">Опубликовано: 20.04.2023 </font>
+	</div>
+</figure><br style="clear: both">
+<!-- row-open -->
+<figure class="gallery-item last_in_row">
+	<div class="gallery-icon ">
+		<img src="/wp-content/uploads/pdf_icon.png" alt="" loading="lazy" style="vertical-align:bottom"> <a href="https://www.segd.ru/wp-content/uploads/RSS_20210531_2023.pdf">Собственные средства на 31.05.2021 (корректировка)</a> <font size="-1">Опубликовано: 20.04.2023 </font>
+	</div>
+</figure><br style="clear: both">
+<!-- row-open -->
+<figure class="gallery-item last_in_row">
+	<div class="gallery-icon ">
+		<img src="/wp-content/uploads/pdf_icon.png" alt="" loading="lazy" style="vertical-align:bottom"> <a href="https://www.segd.ru/wp-content/uploads/RSS_20210430_2023.pdf">Собственные средства на 30.04.2021 (корректировка)</a> <font size="-1">Опубликовано: 20.04.2023 </font>
+	</div>
+</figure><br style="clear: both">
+<!-- row-open -->
+<figure class="gallery-item last_in_row">
+	<div class="gallery-icon ">
+		<img src="/wp-content/uploads/pdf_icon.png" alt="" loading="lazy" style="vertical-align:bottom"> <a href="https://www.segd.ru/wp-content/uploads/RSS_20210331_2023.pdf">Собственные средства на 31.03.2021 (корректировка)</a> <font size="-1">Опубликовано: 20.04.2023 </font>
+	</div>
+</figure><br style="clear: both">
+<!-- row-open -->
+<figure class="gallery-item last_in_row">
+	<div class="gallery-icon ">
+		<img src="/wp-content/uploads/pdf_icon.png" alt="" loading="lazy" style="vertical-align:bottom"> <a href="https://www.segd.ru/wp-content/uploads/RSS_20210228_2023.pdf">Собственные средства на 28.02.2021 (корректировка)</a> <font size="-1">Опубликовано: 20.04.2023 </font>
+	</div>
+</figure><br style="clear: both">
+<!-- row-open -->
+<figure class="gallery-item last_in_row">
+	<div class="gallery-icon ">
+		<img src="/wp-content/uploads/pdf_icon.png" alt="" loading="lazy" style="vertical-align:bottom"> <a href="https://www.segd.ru/wp-content/uploads/RSS_20210131_2023.pdf">Собственные средства на 31.01.2021 (корректировка)</a> <font size="-1">Опубликовано: 20.04.2023 </font>
+	</div>
+</figure><br style="clear: both">
+<!-- row-open -->
+<figure class="gallery-item last_in_row">
+	<div class="gallery-icon ">
+		<img src="/wp-content/uploads/pdf_icon.png" alt="" loading="lazy" style="vertical-align:bottom"> <a href="https://www.segd.ru/wp-content/uploads/RSS_20201231_2023.pdf">Собственные средства на 31.12.2020 (корректировка)</a> <font size="-1">Опубликовано: 20.04.2023 </font>
+	</div>
+</figure><br style="clear: both">
+<!-- row-open -->
+<figure class="gallery-item last_in_row">
+	<div class="gallery-icon ">
+		<img src="/wp-content/uploads/pdf_icon.png" alt="" loading="lazy" style="vertical-align:bottom"> <a href="https://www.segd.ru/wp-content/uploads/RSS_20201130_2023.pdf">Собственные средства на 30.11.2020 (корректировка)</a> <font size="-1">Опубликовано: 20.04.2023 </font>
+	</div>
+</figure><br style="clear: both">
+<!-- row-open -->
+<figure class="gallery-item last_in_row">
+	<div class="gallery-icon ">
+		<img src="/wp-content/uploads/pdf_icon.png" alt="" loading="lazy" style="vertical-align:bottom"> <a href="https://www.segd.ru/wp-content/uploads/RSS_20201031_2023.pdf">Собственные средства на 31.10.2020 (корректировка)</a> <font size="-1">Опубликовано: 20.04.2023 </font>
+	</div>
+</figure><br style="clear: both">
+<!-- row-open -->
+<figure class="gallery-item last_in_row">
+	<div class="gallery-icon ">
+		<img src="/wp-content/uploads/pdf_icon.png" alt="" loading="lazy" style="vertical-align:bottom"> <a href="https://www.segd.ru/wp-content/uploads/RSS_20200930_2023.pdf">Собственные средства на 30.09.2020 (корректировка)</a> <font size="-1">Опубликовано: 20.04.2023 </font>
+	</div>
+</figure><br style="clear: both">
+<!-- row-open -->
+<figure class="gallery-item last_in_row">
+	<div class="gallery-icon ">
+		<img src="/wp-content/uploads/pdf_icon.png" alt="" loading="lazy" style="vertical-align:bottom"> <a href="https://www.segd.ru/wp-content/uploads/RSS_20200831_2023.pdf">Собственные средства на 31.08.2020 (корректировка)</a> <font size="-1">Опубликовано: 20.04.2023 </font>
+	</div>
+</figure><br style="clear: both">
+<!-- row-open -->
+<figure class="gallery-item last_in_row">
+	<div class="gallery-icon ">
+		<img src="/wp-content/uploads/pdf_icon.png" alt="" loading="lazy" style="vertical-align:bottom"> <a href="https://www.segd.ru/wp-content/uploads/RSS_20200731_2023.pdf">Собственные средства на 31.07.2020 (корректировка)</a> <font size="-1">Опубликовано: 20.04.2023 </font>
+	</div>
+</figure><br style="clear: both">
+<!-- row-open -->
+<figure class="gallery-item last_in_row">
+	<div class="gallery-icon ">
+		<img src="/wp-content/uploads/pdf_icon.png" alt="" loading="lazy" style="vertical-align:bottom"> <a href="https://www.segd.ru/wp-content/uploads/RSS_20200630_2023.pdf">Собственные средства на 30.06.2020 (корректировка-2)</a> <font size="-1">Опубликовано: 20.04.2023 </font>
+	</div>
+</figure><br style="clear: both">
+<!-- row-open -->
+<figure class="gallery-item last_in_row">
+	<div class="gallery-icon ">
+		<img src="/wp-content/uploads/pdf_icon.png" alt="" loading="lazy" style="vertical-align:bottom"> <a href="https://www.segd.ru/wp-content/uploads/RSS_20200531_2023.pdf">Собственные средства на 31.05.2020 (корректировка-2)</a> <font size="-1">Опубликовано: 20.04.2023 </font>
+	</div>
+</figure><br style="clear: both">
+<!-- row-open -->
+<figure class="gallery-item last_in_row">
+	<div class="gallery-icon ">
+		<img src="/wp-content/uploads/pdf_icon.png" alt="" loading="lazy" style="vertical-align:bottom"> <a href="https://www.segd.ru/wp-content/uploads/RSS_20200430_2023.pdf">Собственные средства на 30.04.2020 (корректировка-2)</a> <font size="-1">Опубликовано: 20.04.2023 </font>
+	</div>
+</figure><br style="clear: both">
+<!-- row-open -->
+<figure class="gallery-item last_in_row">
+	<div class="gallery-icon ">
+		<img src="/wp-content/uploads/pdf_icon.png" alt="" loading="lazy" style="vertical-align:bottom"> <a href="https://www.segd.ru/wp-content/uploads/RSS_20200331_2023.pdf">Собственные средства на 31.03.2020 (корректировка-2)</a> <font size="-1">Опубликовано: 20.04.2023 </font>
+	</div>
+</figure><br style="clear: both">
+<!-- row-open -->
+<figure class="gallery-item last_in_row">
+	<div class="gallery-icon ">
+		<img src="/wp-content/uploads/pdf_icon.png" alt="" loading="lazy" style="vertical-align:bottom"> <a href="https://www.segd.ru/wp-content/uploads/RSS_20200229_2023.pdf">Собственные средства на 29.02.2020 (корректировка-2)</a> <font size="-1">Опубликовано: 20.04.2023 </font>
+	</div>
+</figure><br style="clear: both">
+<!-- row-open -->
+<figure class="gallery-item last_in_row">
+	<div class="gallery-icon ">
+		<img src="/wp-content/uploads/pdf_icon.png" alt="" loading="lazy" style="vertical-align:bottom"> <a href="https://www.segd.ru/wp-content/uploads/RSS_20200131_2023.pdf">Собственные средства на 31.01.2020 (корректировка-2)</a> <font size="-1">Опубликовано: 20.04.2023 </font>
+	</div>
+</figure><br style="clear: both">
+<!-- row-open -->
+<figure class="gallery-item last_in_row">
+	<div class="gallery-icon ">
+		<img src="/wp-content/uploads/pdf_icon.png" alt="" loading="lazy" style="vertical-align:bottom"> <a href="https://www.segd.ru/wp-content/uploads/RSS_20191231_2023.pdf">Собственные средства на 31.12.2019 (корректировка-2)</a> <font size="-1">Опубликовано: 20.04.2023 </font>
+	</div>
+</figure><br style="clear: both">
+<!-- row-open -->
+<figure class="gallery-item last_in_row">
+	<div class="gallery-icon ">
+		<img src="/wp-content/uploads/pdf_icon.png" alt="" loading="lazy" style="vertical-align:bottom"> <a href="https://www.segd.ru/wp-content/uploads/RSS_20191130_2023.pdf">Собственные средства на 30.11.2019 (корректировка-2)</a> <font size="-1">Опубликовано: 20.04.2023 </font>
+	</div>
+</figure><br style="clear: both">
+<!-- row-open -->
+<figure class="gallery-item last_in_row">
+	<div class="gallery-icon ">
+		<img src="/wp-content/uploads/pdf_icon.png" alt="" loading="lazy" style="vertical-align:bottom"> <a href="https://www.segd.ru/wp-content/uploads/RSS_20230331.pdf">Собственные средства на 31.03.2023</a> <font size="-1">Опубликовано: 17.04.2023 </font>
+	</div>
+</figure><br style="clear: both">
+<!-- row-open -->
+<figure class="gallery-item last_in_row">
+	<div class="gallery-icon ">
+		<img src="/wp-content/uploads/pdf_icon.png" alt="" loading="lazy" style="vertical-align:bottom"> <a href="https://www.segd.ru/wp-content/uploads/RSS_20230228.pdf">Собственные средства на 28.02.2023</a> <font size="-1">Опубликовано: 16.03.2023 </font>
+	</div>
+</figure><br style="clear: both">
+<!-- row-open -->
+<figure class="gallery-item last_in_row">
+	<div class="gallery-icon ">
+		<img src="/wp-content/uploads/pdf_icon.png" alt="" loading="lazy" style="vertical-align:bottom"> <a href="https://www.segd.ru/wp-content/uploads/RSS_20230131.pdf">Собственные средства на 31.01.2023</a> <font size="-1">Опубликовано: 16.02.2023 </font>
+	</div>
+</figure><br style="clear: both">
+<!-- row-open -->
+<figure class="gallery-item last_in_row">
+	<div class="gallery-icon ">
+		<img src="/wp-content/uploads/pdf_icon.png" alt="" loading="lazy" style="vertical-align:bottom"> <a href="https://www.segd.ru/wp-content/uploads/RSS_20221231.pdf">Собственные средства на 31.12.2022</a> <font size="-1">Опубликовано: 23.01.2023 </font>
+	</div>
+</figure><br style="clear: both">
+<!-- row-open -->
+<figure class="gallery-item last_in_row">
+	<div class="gallery-icon ">
+		<img src="/wp-content/uploads/pdf_icon.png" alt="" loading="lazy" style="vertical-align:bottom"> <a href="https://www.segd.ru/wp-content/uploads/RSS_20221130.pdf">Собственные средства на 30.11.2022</a> <font size="-1">Опубликовано: 30.12.2022 </font>
+	</div>
+</figure><br style="clear: both">
+<!-- row-open -->
+<figure class="gallery-item last_in_row">
+	<div class="gallery-icon ">
+		<img src="/wp-content/uploads/pdf_icon.png" alt="" loading="lazy" style="vertical-align:bottom"> <a href="https://www.segd.ru/wp-content/uploads/RSS_20221031.pdf">Собственные средства на 31.10.2022</a> <font size="-1">Опубликовано: 30.12.2022 </font>
+	</div>
+</figure><br style="clear: both">
+<!-- row-open -->
+<figure class="gallery-item last_in_row">
+	<div class="gallery-icon ">
+		<img src="/wp-content/uploads/pdf_icon.png" alt="" loading="lazy" style="vertical-align:bottom"> <a href="https://www.segd.ru/wp-content/uploads/RSS_20220930.pdf">Собственные средства на 30.09.2022</a> <font size="-1">Опубликовано: 30.12.2022 </font>
+	</div>
+</figure><br style="clear: both">
+<!-- row-open -->
+<figure class="gallery-item last_in_row">
+	<div class="gallery-icon ">
+		<img src="/wp-content/uploads/pdf_icon.png" alt="" loading="lazy" style="vertical-align:bottom"> <a href="https://www.segd.ru/wp-content/uploads/RSS_20220831.pdf">Собственные средства на 31.08.2022</a> <font size="-1">Опубликовано: 30.12.2022 </font>
+	</div>
+</figure><br style="clear: both">
+<!-- row-open -->
+<figure class="gallery-item last_in_row">
+	<div class="gallery-icon ">
+		<img src="/wp-content/uploads/pdf_icon.png" alt="" loading="lazy" style="vertical-align:bottom"> <a href="https://www.segd.ru/wp-content/uploads/RSS_20220731.pdf">Собственные средства на 31.07.2022</a> <font size="-1">Опубликовано: 30.12.2022 </font>
+	</div>
+</figure><br style="clear: both">
+<!-- row-open -->
+<figure class="gallery-item last_in_row">
+	<div class="gallery-icon ">
+		<img src="/wp-content/uploads/pdf_icon.png" alt="" loading="lazy" style="vertical-align:bottom"> <a href="https://www.segd.ru/wp-content/uploads/RSS_20220531.pdf">Собственные средства на 31.05.2022</a> <font size="-1">Опубликовано: 30.12.2022 </font>
+	</div>
+</figure><br style="clear: both">
+<!-- row-open -->
+<figure class="gallery-item last_in_row">
+	<div class="gallery-icon ">
+		<img src="/wp-content/uploads/pdf_icon.png" alt="" loading="lazy" style="vertical-align:bottom"> <a href="https://www.segd.ru/wp-content/uploads/RSS_20220630.pdf">Собственные средства на 30.06.2022</a> <font size="-1">Опубликовано: 30.12.2022 </font>
+	</div>
+</figure><br style="clear: both">
+<!-- row-open -->
+<figure class="gallery-item last_in_row">
+	<div class="gallery-icon ">
+		<img src="/wp-content/uploads/pdf_icon.png" alt="" loading="lazy" style="vertical-align:bottom"> <a href="https://www.segd.ru/wp-content/uploads/RSS_20220430.pdf">Собственные средства на 30.04.2022</a> <font size="-1">Опубликовано: 30.12.2022 </font>
+	</div>
+</figure><br style="clear: both">
+<!-- row-open -->
+<figure class="gallery-item last_in_row">
+	<div class="gallery-icon ">
+		<img src="/wp-content/uploads/pdf_icon.png" alt="" loading="lazy" style="vertical-align:bottom"> <a href="https://www.segd.ru/wp-content/uploads/RSS_20220331.pdf">Собственные средства на 31.03.2022</a> <font size="-1">Опубликовано: 30.12.2022 </font>
+	</div>
+</figure><br style="clear: both">
+<!-- row-open -->
+<figure class="gallery-item last_in_row">
+	<div class="gallery-icon ">
+		<img src="/wp-content/uploads/pdf_icon.png" alt="" loading="lazy" style="vertical-align:bottom"> <a href="https://www.segd.ru/wp-content/uploads/RSS_20220228.pdf">Собственные средства на 28.02.2022</a> <font size="-1">Опубликовано: 15.03.2022 </font>
+	</div>
+</figure><br style="clear: both">
+<!-- row-open -->
+<figure class="gallery-item last_in_row">
+	<div class="gallery-icon ">
+		<img src="/wp-content/uploads/pdf_icon.png" alt="" loading="lazy" style="vertical-align:bottom"> <a href="https://www.segd.ru/wp-content/uploads/RSS_20220131.pdf">Собственные средства на 31.01.2022</a> <font size="-1">Опубликовано: 16.02.2022 </font>
+	</div>
+</figure><br style="clear: both">
+<!-- row-open -->
+<figure class="gallery-item last_in_row">
+	<div class="gallery-icon ">
+		<img src="/wp-content/uploads/pdf_icon.png" alt="" loading="lazy" style="vertical-align:bottom"> <a href="https://www.segd.ru/wp-content/uploads/RSS_20211231.pdf">Собственные средства на 31.12.2021</a> <font size="-1">Опубликовано: 20.01.2022 </font>
+	</div>
+</figure><br style="clear: both">
+<!-- row-open -->
+<figure class="gallery-item last_in_row">
+	<div class="gallery-icon ">
+		<img src="/wp-content/uploads/pdf_icon.png" alt="" loading="lazy" style="vertical-align:bottom"> <a href="https://www.segd.ru/wp-content/uploads/RSS_20211130.pdf">Собственные средства на 30.11.2021</a> <font size="-1">Опубликовано: 16.12.2021 </font>
+	</div>
+</figure><br style="clear: both">
+<!-- row-open -->
+<figure class="gallery-item last_in_row">
+	<div class="gallery-icon ">
+		<img src="/wp-content/uploads/pdf_icon.png" alt="" loading="lazy" style="vertical-align:bottom"> <a href="https://www.segd.ru/wp-content/uploads/RSS_20211031.pdf">Собственные средства на 31.10.2021</a> <font size="-1">Опубликовано: 17.11.2021 </font>
+	</div>
+</figure><br style="clear: both">
+<!-- row-open -->
+<figure class="gallery-item last_in_row">
+	<div class="gallery-icon ">
+		<img src="/wp-content/uploads/pdf_icon.png" alt="" loading="lazy" style="vertical-align:bottom"> <a href="https://www.segd.ru/wp-content/uploads/RSS_20210930.pdf">Собственные средства на 30.09.2021</a> <font size="-1">Опубликовано: 15.10.2021 </font>
+	</div>
+</figure><br style="clear: both">
+<!-- row-open -->
+<figure class="gallery-item last_in_row">
+	<div class="gallery-icon ">
+		<img src="/wp-content/uploads/pdf_icon.png" alt="" loading="lazy" style="vertical-align:bottom"> <a href="https://www.segd.ru/wp-content/uploads/20210831.pdf">Собственные средства на 31.08.2021</a> <font size="-1">Опубликовано: 21.09.2021 </font>
+	</div>
+</figure><br style="clear: both">
+<!-- row-open -->
+<figure class="gallery-item last_in_row">
+	<div class="gallery-icon ">
+		<img src="/wp-content/uploads/pdf_icon.png" alt="" loading="lazy" style="vertical-align:bottom"> <a href="https://www.segd.ru/wp-content/uploads/RSS_20210731.pdf">Собственные средства на 31.07.2021</a> <font size="-1">Опубликовано: 17.08.2021 </font>
+	</div>
+</figure><br style="clear: both">
+<!-- row-open -->
+<figure class="gallery-item last_in_row">
+	<div class="gallery-icon ">
+		<img src="/wp-content/uploads/pdf_icon.png" alt="" loading="lazy" style="vertical-align:bottom"> <a href="https://www.segd.ru/wp-content/uploads/RSS_20210630.pdf">Собственные средства на 30.06.2021</a> <font size="-1">Опубликовано: 19.07.2021 </font>
+	</div>
+</figure><br style="clear: both">
+<!-- row-open -->
+<figure class="gallery-item last_in_row">
+	<div class="gallery-icon ">
+		<img src="/wp-content/uploads/pdf_icon.png" alt="" loading="lazy" style="vertical-align:bottom"> <a href="https://www.segd.ru/wp-content/uploads/RSS_20210531.pdf">Собственные средства на 31.05.2021</a> <font size="-1">Опубликовано: 22.06.2021 </font>
+	</div>
+</figure><br style="clear: both">
+<!-- row-open -->
+<figure class="gallery-item last_in_row">
+	<div class="gallery-icon ">
+		<img src="/wp-content/uploads/pdf_icon.png" alt="" loading="lazy" style="vertical-align:bottom"> <a href="https://www.segd.ru/wp-content/uploads/RSS_20210430.pdf">Собственные средства на 30.04.2021</a> <font size="-1">Опубликовано: 19.05.2021 </font>
+	</div>
+</figure><br style="clear: both">
+<!-- row-open -->
+<figure class="gallery-item last_in_row">
+	<div class="gallery-icon ">
+		<img src="/wp-content/uploads/pdf_icon.png" alt="" loading="lazy" style="vertical-align:bottom"> <a href="https://www.segd.ru/wp-content/uploads/RSS_20210331.pdf">Собственные средства на 31.03.2021</a> <font size="-1">Опубликовано: 15.04.2021 </font>
+	</div>
+</figure><br style="clear: both">
+<!-- row-open -->
+<figure class="gallery-item last_in_row">
+	<div class="gallery-icon ">
+		<img src="/wp-content/uploads/pdf_icon.png" alt="" loading="lazy" style="vertical-align:bottom"> <a href="https://www.segd.ru/wp-content/uploads/RSS_20210228.pdf">Собственные средства на 28.02.2021</a> <font size="-1">Опубликовано: 18.03.2021 </font>
+	</div>
+</figure><br style="clear: both">
+<!-- row-open -->
+<figure class="gallery-item last_in_row">
+	<div class="gallery-icon ">
+		<img src="/wp-content/uploads/pdf_icon.png" alt="" loading="lazy" style="vertical-align:bottom"> <a href="https://www.segd.ru/wp-content/uploads/RSS_20210131.pdf">Собственные средства на 31.01.2021</a> <font size="-1">Опубликовано: 25.02.2021 </font>
+	</div>
+</figure><br style="clear: both">
+<!-- row-open -->
+<figure class="gallery-item last_in_row">
+	<div class="gallery-icon ">
+		<img src="/wp-content/uploads/pdf_icon.png" alt="" loading="lazy" style="vertical-align:bottom"> <a href="https://www.segd.ru/wp-content/uploads/RSS_20201231.pdf">Собственные средства на 31.12.2020</a> <font size="-1">Опубликовано: 29.01.2021 </font>
+	</div>
+</figure><br style="clear: both">
+<!-- row-open -->
+<figure class="gallery-item last_in_row">
+	<div class="gallery-icon ">
+		<img src="/wp-content/uploads/pdf_icon.png" alt="" loading="lazy" style="vertical-align:bottom"> <a href="https://www.segd.ru/wp-content/uploads/RSS_20201130.pdf">Собственные средства на 30.11.2020</a> <font size="-1">Опубликовано: 15.12.2020 </font>
+	</div>
+</figure><br style="clear: both">
+<!-- row-open -->
+<figure class="gallery-item last_in_row">
+	<div class="gallery-icon ">
+		<img src="/wp-content/uploads/pdf_icon.png" alt="" loading="lazy" style="vertical-align:bottom"> <a href="https://www.segd.ru/wp-content/uploads/RSS_20201031.pdf">Собственные средства на 31.10.2020</a> <font size="-1">Опубликовано: 20.11.2020 </font>
+	</div>
+</figure><br style="clear: both">
+<!-- row-open -->
+<figure class="gallery-item last_in_row">
+	<div class="gallery-icon ">
+		<img src="/wp-content/uploads/pdf_icon.png" alt="" loading="lazy" style="vertical-align:bottom"> <a href="https://www.segd.ru/wp-content/uploads/RSS_20200930.pdf">Собственные средства на 30.09.2020</a> <font size="-1">Опубликовано: 27.10.2020 </font>
+	</div>
+</figure><br style="clear: both">
+<!-- row-open -->
+<figure class="gallery-item last_in_row">
+	<div class="gallery-icon ">
+		<img src="/wp-content/uploads/pdf_icon.png" alt="" loading="lazy" style="vertical-align:bottom"> <a href="https://www.segd.ru/wp-content/uploads/RSS_20200831.pdf">Собственные средства на 31.08.2020</a> <font size="-1">Опубликовано: 28.09.2020 </font>
+	</div>
+</figure><br style="clear: both">
+<!-- row-open -->
+<figure class="gallery-item last_in_row">
+	<div class="gallery-icon ">
+		<img src="/wp-content/uploads/pdf_icon.png" alt="" loading="lazy" style="vertical-align:bottom"> <a href="https://www.segd.ru/wp-content/uploads/RSS_20191130_corr.pdf">Собственные средства на 30.11.2019 (корректировка)</a> <font size="-1">Опубликовано: 26.08.2020 </font>
+	</div>
+</figure><br style="clear: both">
+<!-- row-open -->
+<figure class="gallery-item last_in_row">
+	<div class="gallery-icon ">
+		<img src="/wp-content/uploads/pdf_icon.png" alt="" loading="lazy" style="vertical-align:bottom"> <a href="https://www.segd.ru/wp-content/uploads/RSS_20191231_corr.pdf">Собственные средства на 31.12.2019 (корректировка)</a> <font size="-1">Опубликовано: 26.08.2020 </font>
+	</div>
+</figure><br style="clear: both">
+<!-- row-open -->
+<figure class="gallery-item last_in_row">
+	<div class="gallery-icon ">
+		<img src="/wp-content/uploads/pdf_icon.png" alt="" loading="lazy" style="vertical-align:bottom"> <a href="https://www.segd.ru/wp-content/uploads/RSS_20200131_corr.pdf">Собственные средства на 31.01.2020 (корректировка)</a> <font size="-1">Опубликовано: 26.08.2020 </font>
+	</div>
+</figure><br style="clear: both">
+<!-- row-open -->
+<figure class="gallery-item last_in_row">
+	<div class="gallery-icon ">
+		<img src="/wp-content/uploads/pdf_icon.png" alt="" loading="lazy" style="vertical-align:bottom"> <a href="https://www.segd.ru/wp-content/uploads/RSS_20200229_corr.pdf">Собственные средства на 29.02.2020 (корректировка)</a> <font size="-1">Опубликовано: 26.08.2020 </font>
+	</div>
+</figure><br style="clear: both">
+<!-- row-open -->
+<figure class="gallery-item last_in_row">
+	<div class="gallery-icon ">
+		<img src="/wp-content/uploads/pdf_icon.png" alt="" loading="lazy" style="vertical-align:bottom"> <a href="https://www.segd.ru/wp-content/uploads/RSS_20200331_corr.pdf">Собственные средства на 31.03.2020 (корректировка)</a> <font size="-1">Опубликовано: 26.08.2020 </font>
+	</div>
+</figure><br style="clear: both">
+<!-- row-open -->
+<figure class="gallery-item last_in_row">
+	<div class="gallery-icon ">
+		<img src="/wp-content/uploads/pdf_icon.png" alt="" loading="lazy" style="vertical-align:bottom"> <a href="https://www.segd.ru/wp-content/uploads/RSS_20200430_corr.pdf">Собственные средства на 30.04.2020 (корректировка)</a> <font size="-1">Опубликовано: 26.08.2020 </font>
+	</div>
+</figure><br style="clear: both">
+<!-- row-open -->
+<figure class="gallery-item last_in_row">
+	<div class="gallery-icon ">
+		<img src="/wp-content/uploads/pdf_icon.png" alt="" loading="lazy" style="vertical-align:bottom"> <a href="https://www.segd.ru/wp-content/uploads/RSS_20200531_corr.pdf">Собственные средства на 31.05.2020 (корректировка)</a> <font size="-1">Опубликовано: 26.08.2020 </font>
+	</div>
+</figure><br style="clear: both">
+<!-- row-open -->
+<figure class="gallery-item last_in_row">
+	<div class="gallery-icon ">
+		<img src="/wp-content/uploads/pdf_icon.png" alt="" loading="lazy" style="vertical-align:bottom"> <a href="https://www.segd.ru/wp-content/uploads/RSS_20200630_corr.pdf">Собственные средства на 30.06.2020 (корректировка)</a> <font size="-1">Опубликовано: 26.08.2020 </font>
+	</div>
+</figure><br style="clear: both">
+<!-- row-open -->
+<figure class="gallery-item last_in_row">
+	<div class="gallery-icon ">
+		<img src="/wp-content/uploads/pdf_icon.png" alt="" loading="lazy" style="vertical-align:bottom"> <a href="https://www.segd.ru/wp-content/uploads/RSS_20200731.pdf">Собственные средства на 31.07.2020</a> <font size="-1">Опубликовано: 20.08.2020 </font>
+	</div>
+</figure><br style="clear: both">
+<!-- row-open -->
+<figure class="gallery-item last_in_row">
+	<div class="gallery-icon ">
+		<img src="/wp-content/uploads/pdf_icon.png" alt="" loading="lazy" style="vertical-align:bottom"> <a href="https://www.segd.ru/wp-content/uploads/RSS_20200630.pdf">Собственные средства на 30.06.2020</a> <font size="-1">Опубликовано: 30.07.2020 </font>
+	</div>
+</figure><br style="clear: both">
+<!-- row-open -->
+<figure class="gallery-item last_in_row">
+	<div class="gallery-icon ">
+		<img src="/wp-content/uploads/pdf_icon.png" alt="" loading="lazy" style="vertical-align:bottom"> <a href="https://www.segd.ru/wp-content/uploads/RSS_20200531.pdf">Собственные средства на 31.05.2020</a> <font size="-1">Опубликовано: 29.06.2020 </font>
+	</div>
+</figure><br style="clear: both">
+<!-- row-open -->
+<figure class="gallery-item last_in_row">
+	<div class="gallery-icon ">
+		<img src="/wp-content/uploads/pdf_icon.png" alt="" loading="lazy" style="vertical-align:bottom"> <a href="https://www.segd.ru/wp-content/uploads/RSS_20200430.pdf">Собственные средства на 30.04.2020</a> <font size="-1">Опубликовано: 27.05.2020 </font>
+	</div>
+</figure><br style="clear: both">
+<!-- row-open -->
+<figure class="gallery-item last_in_row">
+	<div class="gallery-icon ">
+		<img src="/wp-content/uploads/pdf_icon.png" alt="" loading="lazy" style="vertical-align:bottom"> <a href="https://www.segd.ru/wp-content/uploads/RSS_20200331.pdf">Собственные средства на 31.03.2020</a> <font size="-1">Опубликовано: 20.04.2020 </font>
+	</div>
+</figure><br style="clear: both">
+<!-- row-open -->
+<figure class="gallery-item last_in_row">
+	<div class="gallery-icon ">
+		<img src="/wp-content/uploads/pdf_icon.png" alt="" loading="lazy" style="vertical-align:bottom"> <a href="https://www.segd.ru/wp-content/uploads/RSS_20200229.pdf">Собственные средства на 29.02.2020</a> <font size="-1">Опубликовано: 27.03.2020 </font>
+	</div>
+</figure><br style="clear: both">
+<!-- row-open -->
+<figure class="gallery-item last_in_row">
+	<div class="gallery-icon ">
+		<img src="/wp-content/uploads/pdf_icon.png" alt="" loading="lazy" style="vertical-align:bottom"> <a href="https://www.segd.ru/wp-content/uploads/RSS_20200131.pdf">Собственные средства на 31.01.2020</a> <font size="-1">Опубликовано: 27.02.2020 </font>
+	</div>
+</figure><br style="clear: both">
+<!-- row-open -->
+<figure class="gallery-item last_in_row">
+	<div class="gallery-icon ">
+		<img src="/wp-content/uploads/pdf_icon.png" alt="" loading="lazy" style="vertical-align:bottom"> <a href="https://www.segd.ru/wp-content/uploads/RSS_20191231.pdf">Собственные средства на 31.12.2019</a> <font size="-1">Опубликовано: 31.01.2020 </font>
+	</div>
+</figure><br style="clear: both">
+<!-- row-open -->
+<figure class="gallery-item last_in_row">
+	<div class="gallery-icon ">
+		<img src="/wp-content/uploads/pdf_icon.png" alt="" loading="lazy" style="vertical-align:bottom"> <a href="https://www.segd.ru/wp-content/uploads/RSS_20191130.pdf">Собственные средства на 30.11.2019</a> <font size="-1">Опубликовано: 30.12.2019 </font>
+	</div>
+</figure><br style="clear: both">
+<!-- row-open -->
+<figure class="gallery-item last_in_row">
+	<div class="gallery-icon ">
+		<img src="/wp-content/uploads/pdf_icon.png" alt="" loading="lazy" style="vertical-align:bottom"> <a href="https://www.segd.ru/wp-content/uploads/RSS_20191031.pdf">Собственные средства на 31.10.2019</a> <font size="-1">Опубликовано: 28.11.2019 </font>
+	</div>
+</figure><br style="clear: both">
+<!-- row-open -->
+<figure class="gallery-item last_in_row">
+	<div class="gallery-icon ">
+		<img src="/wp-content/uploads/pdf_icon.png" alt="" loading="lazy" style="vertical-align:bottom"> <a href="https://www.segd.ru/wp-content/uploads/RSS_20190930.pdf">Собственные средства на 30.09.2019</a> <font size="-1">Опубликовано: 25.10.2019 </font>
+	</div>
+</figure><br style="clear: both">
+<!-- row-open -->
+<figure class="gallery-item last_in_row">
+	<div class="gallery-icon ">
+		<img src="/wp-content/uploads/pdf_icon.png" alt="" loading="lazy" style="vertical-align:bottom"> <a href="https://www.segd.ru/wp-content/uploads/RSS_20190831.pdf">Собственные средства на 31.08.2019</a> <font size="-1">Опубликовано: 27.09.2019 </font>
+	</div>
+</figure><br style="clear: both">
+<!-- row-open -->
+<figure class="gallery-item last_in_row">
+	<div class="gallery-icon ">
+		<img src="/wp-content/uploads/pdf_icon.png" alt="" loading="lazy" style="vertical-align:bottom"> <a href="https://www.segd.ru/wp-content/uploads/RSS_20190731.pdf">Собственные средства на 31.07.2019</a> <font size="-1">Опубликовано: 23.08.2019 </font>
+	</div>
+</figure><br style="clear: both">
+<!-- row-open -->
+<figure class="gallery-item last_in_row">
+	<div class="gallery-icon ">
+		<img src="/wp-content/uploads/pdf_icon.png" alt="" loading="lazy" style="vertical-align:bottom"> <a href="https://www.segd.ru/wp-content/uploads/RSS_20190630.pdf">Собственные средства на 30.06.2019</a> <font size="-1">Опубликовано: 24.07.2019 </font>
+	</div>
+</figure><br style="clear: both">
+<!-- row-open -->
+<figure class="gallery-item last_in_row">
+	<div class="gallery-icon ">
+		<img src="/wp-content/uploads/pdf_icon.png" alt="" loading="lazy" style="vertical-align:bottom"> <a href="https://www.segd.ru/wp-content/uploads/RSS_20190531.pdf">Собственные средства на 31.05.2019</a> <font size="-1">Опубликовано: 21.06.2019 </font>
+	</div>
+</figure><br style="clear: both">
+<!-- row-open -->
+<figure class="gallery-item last_in_row">
+	<div class="gallery-icon ">
+		<img src="/wp-content/uploads/pdf_icon.png" alt="" loading="lazy" style="vertical-align:bottom"> <a href="https://www.segd.ru/wp-content/uploads/RSS_20190228_corr.pdf">Собственные средства на 28.02.2019 (корректировка)</a> <font size="-1">Опубликовано: 27.05.2019 </font>
+	</div>
+</figure><br style="clear: both">
+<!-- row-open -->
+<figure class="gallery-item last_in_row">
+	<div class="gallery-icon ">
+		<img src="/wp-content/uploads/pdf_icon.png" alt="" loading="lazy" style="vertical-align:bottom"> <a href="https://www.segd.ru/wp-content/uploads/RSS_20190331_corr.pdf">Собственные средства на 31.03.2019 (корректировка)</a> <font size="-1">Опубликовано: 27.05.2019 </font>
+	</div>
+</figure><br style="clear: both">
+<!-- row-open -->
+<figure class="gallery-item last_in_row">
+	<div class="gallery-icon ">
+		<img src="/wp-content/uploads/pdf_icon.png" alt="" loading="lazy" style="vertical-align:bottom"> <a href="https://www.segd.ru/wp-content/uploads/RSS_20190430.pdf">Собственные средства на 30.04.2019</a> <font size="-1">Опубликовано: 27.05.2019 </font>
+	</div>
+</figure><br style="clear: both">
+<!-- row-open -->
+<figure class="gallery-item last_in_row">
+	<div class="gallery-icon ">
+		<img src="/wp-content/uploads/pdf_icon.png" alt="" loading="lazy" style="vertical-align:bottom"> <a href="https://www.segd.ru/wp-content/uploads/RSS_20190331.pdf">Собственные средства на 31.03.2019</a> <font size="-1">Опубликовано: 22.04.2019 </font>
+	</div>
+</figure><br style="clear: both">
+<!-- row-open -->
+<figure class="gallery-item last_in_row">
+	<div class="gallery-icon ">
+		<img src="/wp-content/uploads/pdf_icon.png" alt="" loading="lazy" style="vertical-align:bottom"> <a href="https://www.segd.ru/wp-content/uploads/RSS_20190228.pdf">Собственные средства на 28.02.2019</a> <font size="-1">Опубликовано: 20.03.2019 </font>
+	</div>
+</figure><br style="clear: both">
+<!-- row-open -->
+<figure class="gallery-item last_in_row">
+	<div class="gallery-icon ">
+		<img src="/wp-content/uploads/pdf_icon.png" alt="" loading="lazy" style="vertical-align:bottom"> <a href="https://www.segd.ru/wp-content/uploads/RSS_20190131.pdf">Собственные средства на 31.01.2019</a> <font size="-1">Опубликовано: 22.02.2019 </font>
+	</div>
+</figure><br style="clear: both">
+<!-- row-open -->
+<figure class="gallery-item last_in_row">
+	<div class="gallery-icon ">
+		<img src="/wp-content/uploads/pdf_icon.png" alt="" loading="lazy" style="vertical-align:bottom"> <a href="https://www.segd.ru/wp-content/uploads/RSS_20181231.pdf">Собственные средства на 31.12.2018</a> <font size="-1">Опубликовано: 25.01.2019 </font>
+	</div>
+</figure><br style="clear: both">
+<!-- row-open -->
+<figure class="gallery-item last_in_row">
+	<div class="gallery-icon ">
+		<img src="/wp-content/uploads/pdf_icon.png" alt="" loading="lazy" style="vertical-align:bottom"> <a href="https://www.segd.ru/wp-content/uploads/RSS_20181130.pdf">Собственные средства на 30.11.2018</a> <font size="-1">Опубликовано: 21.12.2018 </font>
+	</div>
+</figure><br style="clear: both">
+<!-- row-open -->
+<figure class="gallery-item last_in_row">
+	<div class="gallery-icon ">
+		<img src="/wp-content/uploads/pdf_icon.png" alt="" loading="lazy" style="vertical-align:bottom"> <a href="https://www.segd.ru/wp-content/uploads/RSS_20181031.pdf">Собственные средства на 31.10.2018</a> <font size="-1">Опубликовано: 27.11.2018 </font>
+	</div>
+</figure><br style="clear: both">
+<!-- row-open -->
+<figure class="gallery-item last_in_row">
+	<div class="gallery-icon ">
+		<img src="/wp-content/uploads/pdf_icon.png" alt="" loading="lazy" style="vertical-align:bottom"> <a href="https://www.segd.ru/wp-content/uploads/RSS_20180930.pdf">Собственные средства на 30.09.2018</a> <font size="-1">Опубликовано: 19.10.2018 </font>
+	</div>
+</figure><br style="clear: both">
+<!-- row-open -->
+<figure class="gallery-item last_in_row">
+	<div class="gallery-icon ">
+		<img src="/wp-content/uploads/pdf_icon.png" alt="" loading="lazy" style="vertical-align:bottom"> <a href="https://www.segd.ru/wp-content/uploads/RSS_20180831.pdf">Собственные средства на 31.08.2018</a> <font size="-1">Опубликовано: 21.09.2018 </font>
+	</div>
+</figure><br style="clear: both">
+<!-- row-open -->
+<figure class="gallery-item last_in_row">
+	<div class="gallery-icon ">
+		<img src="/wp-content/uploads/pdf_icon.png" alt="" loading="lazy" style="vertical-align:bottom"> <a href="https://www.segd.ru/wp-content/uploads/RSS_20180731.pdf">Собственные средства на 31.07.2018</a> <font size="-1">Опубликовано: 16.08.2018 </font>
+	</div>
+</figure><br style="clear: both">
+<!-- row-open -->
+<figure class="gallery-item last_in_row">
+	<div class="gallery-icon ">
+		<img src="/wp-content/uploads/pdf_icon.png" alt="" loading="lazy" style="vertical-align:bottom"> <a href="https://www.segd.ru/wp-content/uploads/RSS_20180630.pdf">Собственные средства на 30.06.2018</a> <font size="-1">Опубликовано: 19.07.2018 </font>
+	</div>
+</figure><br style="clear: both">
+<!-- row-open -->
+<figure class="gallery-item last_in_row">
+	<div class="gallery-icon ">
+		<img src="/wp-content/uploads/pdf_icon.png" alt="" loading="lazy" style="vertical-align:bottom"> <a href="https://www.segd.ru/wp-content/uploads/RSS_20180531.pdf">Собственные средства на 31.05.2018</a> <font size="-1">Опубликовано: 18.06.2018 </font>
+	</div>
+</figure><br style="clear: both">
+<!-- row-open -->
+<figure class="gallery-item last_in_row">
+	<div class="gallery-icon ">
+		<img src="/wp-content/uploads/pdf_icon.png" alt="" loading="lazy" style="vertical-align:bottom"> <a href="https://www.segd.ru/wp-content/uploads/RSS_20180430.pdf">Собственные средства на 30.04.2018</a> <font size="-1">Опубликовано: 21.05.2018 </font>
+	</div>
+</figure><br style="clear: both">
+<!-- row-open -->
+<figure class="gallery-item last_in_row">
+	<div class="gallery-icon ">
+		<img src="/wp-content/uploads/pdf_icon.png" alt="" loading="lazy" style="vertical-align:bottom"> <a href="https://www.segd.ru/wp-content/uploads/RSS_20180331.pdf">Собственные средства на 31.03.2018</a> <font size="-1">Опубликовано: 16.04.2018 </font>
+	</div>
+</figure><br style="clear: both">
+<!-- row-open -->
+<figure class="gallery-item last_in_row">
+	<div class="gallery-icon ">
+		<img src="/wp-content/uploads/pdf_icon.png" alt="" loading="lazy" style="vertical-align:bottom"> <a href="https://www.segd.ru/wp-content/uploads/RSS_20180228.pdf">Собственные средства на 28.02.2018</a> <font size="-1">Опубликовано: 20.03.2018 </font>
+	</div>
+</figure><br style="clear: both">
+<!-- row-open -->
+<figure class="gallery-item last_in_row">
+	<div class="gallery-icon ">
+		<img src="/wp-content/uploads/pdf_icon.png" alt="" loading="lazy" style="vertical-align:bottom"> <a href="https://www.segd.ru/wp-content/uploads/RSS_20180131.pdf">Собственные средства на 31.01.2018</a> <font size="-1">Опубликовано: 19.02.2018 </font>
+	</div>
+</figure><br style="clear: both">
+</div>
+
+
+
+
+<p></p>
+							</div><!-- .entry-content -->
+
+			
+	<span class="schema-publisher" itemprop="publisher" itemscope="" itemtype="https://schema.org/Organization">
+         <span itemprop="logo" itemscope="" itemtype="https://schema.org/ImageObject">
+           <meta itemprop="url" content="https://www.segd.ru/wp-content/uploads/logo.png">
+         </span>
+         <meta itemprop="name" content="ООО «Северная Эгида»">
+    </span>
+<link itemprop="mainEntityOfPage" href="https://www.segd.ru/disclosure/rrss/">		</div><!-- .article-inner -->
+	</article><!-- #post-## -->
+	<section id="comments">
+	
+		</section><!-- #comments -->
+
+
+					</main><!-- #main -->
+
+		
+<aside id="primary" class="widget-area sidey" role="complementary" itemscope="" itemtype="http://schema.org/WPSideBar">
+	<nav class="sidebarmenu"><ul id="menu-%d1%80%d0%b0%d1%81%d0%ba%d1%80%d1%8b%d1%82%d0%b8%d0%b5-%d0%b8%d0%bd%d1%84%d0%be%d1%80%d0%bc%d0%b0%d1%86%d0%b8%d0%b8" class="menu"><li id="menu-item-2160" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-2160"><a href="https://www.segd.ru/disclosure/props/">Реквизиты управляющей компании</a></li>
+<li id="menu-item-910" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-910"><a href="https://www.segd.ru/disclosure/622-p/">Информация о структуре и составе участников НФО в соответствии с Положением Банка России № 622-П от 26.12.2017 г.</a></li>
+<li id="menu-item-621" class="menu-item menu-item-type-post_type menu-item-object-page current-menu-item page_item page-item-557 current_page_item menu-item-621"><a href="https://www.segd.ru/disclosure/rrss/" aria-current="page">Собственные средства</a></li>
+<li id="menu-item-696" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-696"><a href="https://www.segd.ru/disclosure/accounting/">Финансовая отчетность</a></li>
+<li id="menu-item-2107" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-2107"><a href="https://www.segd.ru/disclosure/docs/">Документация</a></li>
+<li id="menu-item-694" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-694"><a href="https://www.segd.ru/disclosure/edo/">Электронный документооборот</a></li>
+<li id="menu-item-2164" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-2164"><a href="https://www.segd.ru/disclosure/info_for_individual/">Информация для клиентов-физических лиц</a></li>
+<li id="menu-item-2257" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-2257"><a href="https://www.segd.ru/disclosure/info_base/">Информация для получателей финансовых услуг</a></li>
+<li id="menu-item-2113" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-2113"><a href="https://www.segd.ru/disclosure/messages_of_inaccurate/">Сообщения об обнаружении (выявлении) неточных, неполных и (или) недостоверных сведений в раскрываемой информации</a></li>
+<li id="menu-item-2125" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-2125"><a href="https://www.segd.ru/disclosure/maintenance_information/">Информация о проведении профилактических работ</a></li>
+<li id="menu-item-2250" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-2250"><a href="https://www.segd.ru/disclosure/technical_failures/">Информация о технических сбоях</a></li>
+<li id="menu-item-2127" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-2127"><a href="https://www.segd.ru/disclosure/working_conditions/">Сводные данные о результатах проведения специальной оценки условий труда</a></li>
+<li id="menu-item-1620" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1620"><a href="https://www.segd.ru/disclosure/archive/">Архив</a></li>
+</ul></nav>
+	<section id="block-8" class="widget-container widget_block widget_text">
+<p></p>
+</section>
+	</aside>
+
+	</div><!-- #container -->
+
+		
+		<aside id="colophon" role="complementary" itemscope="" itemtype="http://schema.org/WPSideBar">
+			<div id="colophon-inside" class="footer-one ">
+				
+<section id="block-57" class="widget-container widget_block widget_text"><div class="footer-widget-inside">
+<p>ООО «Северная Эгида» (лицензия № 21-000-1-00999 от 3 ноября 2016 года, на осуществление деятельности по управлению инвестиционными фондами, паевыми инвестиционными фондами и негосударственными пенсионными фондами, выдана Банком России, без ограничения срока действия).</p>
+</div></section><section id="block-72" class="widget-container widget_block widget_text"><div class="footer-widget-inside">
+<p>Получить подробную информацию о паевых инвестиционных фондах под управлением ООО «Северная Эгида» (далее также – Фонды) и ознакомиться с правилами доверительного управления Фондами, а также с иными документами, предусмотренными в Федеральном законе от 29.11.2001 N 156-ФЗ «Об инвестиционных фондах» и нормативными актами в сфере финансовых рынков, можно по адресу: 123112, г. Москва, вн.тер.г. муниципальный округ Пресненский, проезд 1-й Красногвардейский, д. 22, стр. 2, этаж 11, помещ. 105., по телефону +7 (495) 646-30-69, а также в сети интернет по адресу: <a href="http://www.segd.ru/">www.segd.ru.</a></p>
+</div></section><section id="block-73" class="widget-container widget_block widget_text"><div class="footer-widget-inside">
+<p>Стоимость инвестиционных паев может увеличиваться и уменьшаться, результаты инвестирования в прошлом не определяют доходы в будущем, государство не гарантирует доходность инвестиций в паевые инвестиционные фонды, прежде чем приобрести инвестиционный пай, следует внимательно ознакомиться с правилами доверительного управления фондом.</p>
+</div></section><section id="block-67" class="widget-container widget_block widget_text"><div class="footer-widget-inside">
+<p><a href="/disclosure/622-p/">Информация в соответствии с Положением Банка России № 622-П от 26.12.2017</a></p>
+</div></section>			</div>
+		</aside><!-- #colophon -->
+
+	</div><!-- #main -->
+
+	<footer id="footer" class="cryout" role="contentinfo" itemscope="" itemtype="http://schema.org/WPFooter">
+				<div id="footer-inside">
+			<div id="footer-separator"></div><div id="site-copyright">© ООО «Северная Эгида» 2023. Все права защищены. Любое использование материалов сайта без разрешения запрещено.</div><div style="display:block;float:right;clear: right;font-size: .85em;font-weight: bold; text-transform: uppercase;">Работает на<a target="_blank" href="http://www.cryoutcreations.eu/wordpress-themes/septera" title="Septera WordPress Theme by Cryout Creations"> Septera</a> &amp; <a target="_blank" href="http://wordpress.org/" title="Семантическая Персональная Платформа для Публикаций">  WordPress.</a></div><a id="toTop"> <span class="screen-reader-text">Вернуться наверх</span> <i class="icon-back2top"></i> </a>		</div> <!-- #footer-inside -->
+	</footer>
+</div><!-- site-wrapper -->
+	<script type="text/javascript">
+var colomatduration = 'fast';
+var colomatslideEffect = 'slideFade';
+var colomatpauseInit = '';
+var colomattouchstart = '';
+</script><style type="text/css" media="screen">.is-menu path.search-icon-path { fill: #848484;}body .popup-search-close:after, body .search-close:after { border-color: #848484;}body .popup-search-close:before, body .search-close:before { border-color: #848484;}</style><script type="text/javascript" src="https://www.segd.ru/wp-includes/js/dist/vendor/regenerator-runtime.min.js?ver=0.13.9" id="regenerator-runtime-js"></script>
+<script type="text/javascript" src="https://www.segd.ru/wp-includes/js/dist/vendor/wp-polyfill.min.js?ver=3.15.0" id="wp-polyfill-js"></script>
+<script type="text/javascript" id="contact-form-7-js-extra">
+/* <![CDATA[ */
+var wpcf7 = {"api":{"root":"https:\/\/www.segd.ru\/wp-json\/","namespace":"contact-form-7\/v1"}};
+/* ]]> */
+</script>
+<script type="text/javascript" src="https://www.segd.ru/wp-content/plugins/contact-form-7/includes/js/index.js?ver=5.4.2" id="contact-form-7-js"></script>
+<script type="text/javascript" src="https://www.segd.ru/wp-content/plugins/jquery-collapse-o-matic/js/collapse.js?ver=1.6.23" id="collapseomatic-js-js"></script>
+<script type="text/javascript" src="https://www.segd.ru/wp-content/plugins/add-search-to-menu/public/js/ivory-search.min.js?ver=4.6.6" id="ivory-search-scripts-js"></script>
+<script type="text/javascript" id="septera-frontend-js-extra">
+/* <![CDATA[ */
+var cryout_theme_settings = {"masonry":"1","rtl":"","magazine":"1","fitvids":"1","autoscroll":"1","articleanimation":"slide","lpboxratios":[1.467,1.2],"is_mobile":""};
+/* ]]> */
+</script>
+<script type="text/javascript" defer="" src="https://www.segd.ru/wp-content/themes/septera/resources/js/frontend.js?ver=1.5.1" id="septera-frontend-js"></script>
+<script type="text/javascript" src="https://www.segd.ru/wp-includes/js/imagesloaded.min.js?ver=4.1.4" id="imagesloaded-js"></script>
+<script type="text/javascript" defer="" src="https://www.segd.ru/wp-includes/js/masonry.min.js?ver=4.2.2" id="masonry-js"></script>
+<script type="text/javascript" defer="" src="https://www.segd.ru/wp-includes/js/jquery/jquery.masonry.min.js?ver=3.1.2b" id="jquery-masonry-js"></script>
+<script type="text/javascript" src="https://www.segd.ru/wp-includes/js/comment-reply.min.js?ver=5.9.3" id="comment-reply-js"></script>
+
+

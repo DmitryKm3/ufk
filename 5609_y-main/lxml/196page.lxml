@@ -1,0 +1,468 @@
+
+<div id="wrapper">
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 0 0" width="0" height="0" focusable="false" role="none" style="visibility: hidden; position: absolute; left: -9999px; overflow: hidden;"><defs><filter id="wp-duotone-dark-grayscale"><feColorMatrix color-interpolation-filters="sRGB" type="matrix" values=" .299 .587 .114 0 0 .299 .587 .114 0 0 .299 .587 .114 0 0 .299 .587 .114 0 0 "></feColorMatrix><feComponentTransfer color-interpolation-filters="sRGB"><feFuncR type="table" tableValues="0 0.49803921568627"></feFuncR><feFuncG type="table" tableValues="0 0.49803921568627"></feFuncG><feFuncB type="table" tableValues="0 0.49803921568627"></feFuncB><feFuncA type="table" tableValues="1 1"></feFuncA></feComponentTransfer><feComposite in2="SourceGraphic" operator="in"></feComposite></filter></defs></svg><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 0 0" width="0" height="0" focusable="false" role="none" style="visibility: hidden; position: absolute; left: -9999px; overflow: hidden;"><defs><filter id="wp-duotone-grayscale"><feColorMatrix color-interpolation-filters="sRGB" type="matrix" values=" .299 .587 .114 0 0 .299 .587 .114 0 0 .299 .587 .114 0 0 .299 .587 .114 0 0 "></feColorMatrix><feComponentTransfer color-interpolation-filters="sRGB"><feFuncR type="table" tableValues="0 1"></feFuncR><feFuncG type="table" tableValues="0 1"></feFuncG><feFuncB type="table" tableValues="0 1"></feFuncB><feFuncA type="table" tableValues="1 1"></feFuncA></feComponentTransfer><feComposite in2="SourceGraphic" operator="in"></feComposite></filter></defs></svg><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 0 0" width="0" height="0" focusable="false" role="none" style="visibility: hidden; position: absolute; left: -9999px; overflow: hidden;"><defs><filter id="wp-duotone-purple-yellow"><feColorMatrix color-interpolation-filters="sRGB" type="matrix" values=" .299 .587 .114 0 0 .299 .587 .114 0 0 .299 .587 .114 0 0 .299 .587 .114 0 0 "></feColorMatrix><feComponentTransfer color-interpolation-filters="sRGB"><feFuncR type="table" tableValues="0.54901960784314 0.98823529411765"></feFuncR><feFuncG type="table" tableValues="0 1"></feFuncG><feFuncB type="table" tableValues="0.71764705882353 0.25490196078431"></feFuncB><feFuncA type="table" tableValues="1 1"></feFuncA></feComponentTransfer><feComposite in2="SourceGraphic" operator="in"></feComposite></filter></defs></svg><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 0 0" width="0" height="0" focusable="false" role="none" style="visibility: hidden; position: absolute; left: -9999px; overflow: hidden;"><defs><filter id="wp-duotone-blue-red"><feColorMatrix color-interpolation-filters="sRGB" type="matrix" values=" .299 .587 .114 0 0 .299 .587 .114 0 0 .299 .587 .114 0 0 .299 .587 .114 0 0 "></feColorMatrix><feComponentTransfer color-interpolation-filters="sRGB"><feFuncR type="table" tableValues="0 1"></feFuncR><feFuncG type="table" tableValues="0 0.27843137254902"></feFuncG><feFuncB type="table" tableValues="0.5921568627451 0.27843137254902"></feFuncB><feFuncA type="table" tableValues="1 1"></feFuncA></feComponentTransfer><feComposite in2="SourceGraphic" operator="in"></feComposite></filter></defs></svg><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 0 0" width="0" height="0" focusable="false" role="none" style="visibility: hidden; position: absolute; left: -9999px; overflow: hidden;"><defs><filter id="wp-duotone-midnight"><feColorMatrix color-interpolation-filters="sRGB" type="matrix" values=" .299 .587 .114 0 0 .299 .587 .114 0 0 .299 .587 .114 0 0 .299 .587 .114 0 0 "></feColorMatrix><feComponentTransfer color-interpolation-filters="sRGB"><feFuncR type="table" tableValues="0 0"></feFuncR><feFuncG type="table" tableValues="0 0.64705882352941"></feFuncG><feFuncB type="table" tableValues="0 1"></feFuncB><feFuncA type="table" tableValues="1 1"></feFuncA></feComponentTransfer><feComposite in2="SourceGraphic" operator="in"></feComposite></filter></defs></svg><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 0 0" width="0" height="0" focusable="false" role="none" style="visibility: hidden; position: absolute; left: -9999px; overflow: hidden;"><defs><filter id="wp-duotone-magenta-yellow"><feColorMatrix color-interpolation-filters="sRGB" type="matrix" values=" .299 .587 .114 0 0 .299 .587 .114 0 0 .299 .587 .114 0 0 .299 .587 .114 0 0 "></feColorMatrix><feComponentTransfer color-interpolation-filters="sRGB"><feFuncR type="table" tableValues="0.78039215686275 1"></feFuncR><feFuncG type="table" tableValues="0 0.94901960784314"></feFuncG><feFuncB type="table" tableValues="0.35294117647059 0.47058823529412"></feFuncB><feFuncA type="table" tableValues="1 1"></feFuncA></feComponentTransfer><feComposite in2="SourceGraphic" operator="in"></feComposite></filter></defs></svg><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 0 0" width="0" height="0" focusable="false" role="none" style="visibility: hidden; position: absolute; left: -9999px; overflow: hidden;"><defs><filter id="wp-duotone-purple-green"><feColorMatrix color-interpolation-filters="sRGB" type="matrix" values=" .299 .587 .114 0 0 .299 .587 .114 0 0 .299 .587 .114 0 0 .299 .587 .114 0 0 "></feColorMatrix><feComponentTransfer color-interpolation-filters="sRGB"><feFuncR type="table" tableValues="0.65098039215686 0.40392156862745"></feFuncR><feFuncG type="table" tableValues="0 1"></feFuncG><feFuncB type="table" tableValues="0.44705882352941 0.4"></feFuncB><feFuncA type="table" tableValues="1 1"></feFuncA></feComponentTransfer><feComposite in2="SourceGraphic" operator="in"></feComposite></filter></defs></svg><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 0 0" width="0" height="0" focusable="false" role="none" style="visibility: hidden; position: absolute; left: -9999px; overflow: hidden;"><defs><filter id="wp-duotone-blue-orange"><feColorMatrix color-interpolation-filters="sRGB" type="matrix" values=" .299 .587 .114 0 0 .299 .587 .114 0 0 .299 .587 .114 0 0 .299 .587 .114 0 0 "></feColorMatrix><feComponentTransfer color-interpolation-filters="sRGB"><feFuncR type="table" tableValues="0.098039215686275 1"></feFuncR><feFuncG type="table" tableValues="0 0.66274509803922"></feFuncG><feFuncB type="table" tableValues="0.84705882352941 0.41960784313725"></feFuncB><feFuncA type="table" tableValues="1 1"></feFuncA></feComponentTransfer><feComposite in2="SourceGraphic" operator="in"></feComposite></filter></defs></svg>	
+<div id="page" class="site">
+	<a class="skip-link spicepress-screen-reader" href="#content">Skip to content</a>
+<!--Logo & Menu Section-->	
+<nav class=" navbar navbar-custom left">
+	<div class="container-fluid p-l-r-0">
+		<!-- Brand and toggle get grouped for better mobile display -->
+			<div class="navbar-header">
+			<a href="https://smartpif.ru/" class="navbar-brand " rel="home"><img width="210" height="132" src="https://smartpif.ru/wp-content/uploads/2020/12/cropped-lOGO_NEW.png" class="custom-logo" alt="ООО &quot;УК &quot;СМАРТ&quot;"></a>			<div class="site-branding-text">
+				<h1 class="site-title"><a href="https://smartpif.ru/" rel="home">ООО "УК "СМАРТ"</a></h1>
+									<p class="site-description">Мы помогаем расти вашим ПИФ</p>
+							</div>
+			<button class="navbar-toggle" type="button" data-toggle="collapse" data-target="#custom-collapse">
+				<span class="sr-only">Показать/Скрыть навигацию</span>
+				<span class="icon-bar"></span>
+				<span class="icon-bar"></span>
+				<span class="icon-bar"></span>
+			</button>
+		</div>
+	
+		<!-- Collect the nav links, forms, and other content for toggling -->
+		<div id="custom-collapse" class="collapse navbar-collapse">
+					<ul id="menu-main-menu-001" class="nav navbar-nav navbar-right"><li id="menu-item-11" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-home menu-item-11"><a href="http://smartpif.ru/">Главная</a></li>
+<li id="menu-item-15" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-15 dropdown"><a href="/about" class="dropdown-toggle">О компании<b class="caret"></b></a>
+<ul class="dropdown-menu">
+	<li id="menu-item-14" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-14"><a href="https://smartpif.ru/bank_details/">Банковские реквизиты</a></li>
+</ul>
+</li>
+<li id="menu-item-552" class="menu-item menu-item-type-post_type menu-item-object-page current-page-ancestor current-menu-ancestor current-menu-parent current-page-parent current_page_parent current_page_ancestor menu-item-has-children menu-item-552 active dropdown"><a href="https://smartpif.ru/information-disclosure-statement/" class="dropdown-toggle">Раскрытие информации<b class="caret"></b></a>
+<ul class="dropdown-menu">
+	<li id="menu-item-553" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-553"><a href="https://smartpif.ru/information-disclosure-statement/info-about-company/">Информация об организации</a></li>
+	<li id="menu-item-709" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-709"><a href="https://smartpif.ru/information-for-financial-recipients/">Информация для получателей финансовых услуг</a></li>
+	<li id="menu-item-554" class="menu-item menu-item-type-post_type menu-item-object-page current-menu-item page_item page-item-382 current_page_item menu-item-554 active"><a href="https://smartpif.ru/information-disclosure-statement/organizations-reporting/">Отчетность организации</a></li>
+	<li id="menu-item-712" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-712"><a href="https://smartpif.ru/reporting-inaccurate-incomplete-and-or-unreliable-information/">Сообщения о выявлении неточных, неполных и (или) недостоверных сведений</a></li>
+	<li id="menu-item-555" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-555"><a href="https://smartpif.ru/information-disclosure-statement/messages-about-the-companys-activities/">Сообщения о деятельности компании</a></li>
+	<li id="menu-item-715" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-715"><a href="https://smartpif.ru/reports-of-maintenance-work-or-technical-malfunctions/">Сообщения о профилактических работах или технических неполадках</a></li>
+	<li id="menu-item-556" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-556"><a href="https://smartpif.ru/information-disclosure-statement/internal-documents/">Внутренние документы</a></li>
+</ul>
+</li>
+<li id="menu-item-167" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-item-167 dropdown"><a href="https://smartpif.ru/funds/" class="dropdown-toggle">Фонды<b class="caret"></b></a>
+<ul class="dropdown-menu">
+	<li id="menu-item-1555" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1555"><a href="https://smartpif.ru/funds/cmf-sto-odin/">Комбинированный ЗПИФ «СтоАдин»</a></li>
+	<li id="menu-item-1554" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1554"><a href="https://smartpif.ru/funds/cmf-newo/">ЗПИФ комбинированный «Новые возможности»</a></li>
+	<li id="menu-item-1553" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1553"><a href="https://smartpif.ru/funds/cmf-adrenalin/">Фонд/Комбинированный ЗПИФ «Адреналин»</a></li>
+	<li id="menu-item-1557" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1557"><a href="https://smartpif.ru/funds/cmf-spi/">ЗПИФ комбинированный «Смарт Прайвет Инвест»</a></li>
+	<li id="menu-item-1556" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1556"><a href="https://smartpif.ru/funds/cmf-finpark/">ЗПИФ комбинированный «ФинПарк»</a></li>
+	<li id="menu-item-1558" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1558"><a href="https://smartpif.ru/funds/cmf-newp/">ЗПИФ комбинированный «Новые перспективы»</a></li>
+</ul>
+</li>
+<li id="menu-item-827" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-item-827 dropdown"><a href="https://smartpif.ru/mcp/" class="dropdown-toggle">ИСУ<b class="caret"></b></a>
+<ul class="dropdown-menu">
+	<li id="menu-item-828" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-828"><a href="https://smartpif.ru/mcp/mcp-reporting/">Отчётность ИСУ</a></li>
+	<li id="menu-item-830" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-830"><a href="https://smartpif.ru/mcp/mcp-rules-tm/">Правила ДУ</a></li>
+	<li id="menu-item-837" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-837"><a href="https://smartpif.ru/mcp-informations/">Информация о  наименовании управляющего ипотечным покрытием, месте приема заявок на  приобретение ипотечных сертификатов участия, количестве выданных  ипотечных сертификатов участия</a></li>
+	<li id="menu-item-921" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-921"><a href="https://smartpif.ru/mcp/mcp-insider-information/">Инсайдерская информация</a></li>
+</ul>
+</li>
+<li id="menu-item-109" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-109"><a href="https://smartpif.ru/category/news/">Новости</a></li>
+<li id="menu-item-13" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-13"><a href="https://smartpif.ru/contacts/">Контакты</a></li>
+<li id="menu-item-27" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-27"><a href="https://smartpif.ru/feedback/">Обратная связь</a></li>
+</ul>				
+		</div><!-- /.navbar-collapse -->
+	</div><!-- /.container-fluid -->
+</nav>	
+<!--/Logo & Menu Section-->	
+
+
+
+<div class="clearfix"></div>		<!-- Page Title Section -->
+		<section class="page-title-section">
+			<div class="overlay">
+				<div class="container">
+					<div class="row">
+						<div class="col-md-6 col-sm-6">
+						   <div class="page-title wow bounceInLeft animated animated" ata-wow-delay="0.4s" style="visibility: visible; animation-name: bounceInLeft;"><h1>Отчетность организации</h1></div>						</div>
+						<div class="col-md-6 col-sm-6">
+							<ul class="page-breadcrumb wow bounceInRight animated animated" ata-wow-delay="0.4s" style="visibility: visible; animation-name: bounceInRight;"><li><a href="https://smartpif.ru/">Главная</a></li><li class="active"><a href="https://smartpif.ru/information-disclosure-statement/">Раскрытие информации в соответствии с законодательством РФ</a></li><li class="active"><a href="https://smartpif.ru/information-disclosure-statement/organizations-reporting/">Отчетность организации</a></li></ul>						</div>
+					</div>
+				</div>
+			</div>
+		</section>
+		<div class="page-seperate"></div>
+		<!-- /Page Title Section -->
+
+		<div class="clearfix"></div>
+	<!-- Blog & Sidebar Section -->
+<div id="content">
+<section class="blog-section">
+	<div class="container">
+		<div class="row">	
+			<!--Blog Section-->
+			<div class="col-md-8 col-sm-7 col-xs-12">				<article class="post" id="post-382" data-wow-delay="0.4s">
+			
+				
+		
+		
+		<div class="post-content">					
+			<div class="entry-content">
+			<p align="center"><strong>Отчетность организации</strong></p>
+
+
+<p></p>
+
+
+<figure class="wp-block-table">
+<table>
+<tbody>
+<tr>
+<td width="610"><strong>Годовая бухгалтерская (финансовая) отчетность</strong></td>
+<td>Дата размещения</td>
+</tr>
+<tr>
+<td><a href="/wp-content/uploads/2023/03/Финансовая-отчётность-за-2022.pdf" target="_blank" rel="noreferrer noopener">Годовая бухгалтерская (финансовая) отчетность за 2022 год</a></td>
+<td>02.03.2023</td>
+</tr>
+<tr>
+<td><a href="/wp-content/uploads/2023/03/Аудиторское-заключение-за-2022-г.-ОСБУ.pdf" target="_blank" rel="noreferrer noopener">Аудиторское заключение о бухгалтерской (финансовой) отчетности за 2022 год</a></td>
+<td>02.03.2023</td>
+</tr>
+<tr>
+<td><a href="/assets/storage/15/fin-otchet-2021.pdf" target="_blank" rel="noreferrer noopener">Годовая бухгалтерская (финансовая) отчетность за 2021 год</a></td>
+<td>30.03.2022</td>
+</tr>
+<tr>
+<td><a href="/assets/storage/5/a3_ca_2021_compressed.pdf" target="_blank" rel="noreferrer noopener">Аудиторское заключение о бухгалтерской (финансовой) отчетности за 2021 год</a></td>
+<td>28.03.2022</td>
+</tr>
+<tr>
+<td><a href="/assets/storage/5/a3_ca_2020_compressed.pdf" target="_blank" rel="noreferrer noopener">Аудиторское заключение о бухгалтерской (финансовой) отчетности за 2020 год</a></td>
+<td>30.03.2021</td>
+</tr>
+<tr>
+<td><a href="/assets/storage/15/fin-otchet-2020.pdf" target="_blank" rel="noreferrer noopener">Годовая бухгалтерская (финансовая) отчетность за 2020 год</a></td>
+<td>30.03.2021</td>
+</tr>
+<tr>
+<td><a href="/assets/storage/15/auditorskoe-zakluchenie-2019.pdf" target="_blank" rel="noreferrer noopener">Аудиторское заключение о бухгалтерской (финансовой) отчетности за 2019 год</a></td>
+<td>30.03.2020</td>
+</tr>
+<tr>
+<td><a href="/assets/storage/15/buh-otchet-2019.pdf" target="_blank" rel="noreferrer noopener">Годовая бухгалтерская (финансовая) отчетность за 2019 год</a></td>
+<td>30.01.2020</td>
+</tr>
+</tbody>
+</table>
+</figure>
+
+
+<p></p>
+
+
+<figure class="wp-block-table">
+<table>
+<tbody>
+<tr>
+<td width="610"><strong>Промежуточная бухгалтерская (финансовая) отчетность</strong></td>
+<td>Дата размещения</td>
+</tr>
+<tr>
+<td><a href="/wp-content/uploads/2023/05/Финансовая-отчетность-УК-1-кв2023-г-сайт.pdf" target="_blank" rel="noreferrer noopener">Промежуточная бухгалтерская (финансовая) отчетность за 1 квартал 2023 года</a></td>
+<td>03.05.2023</td>
+</tr>
+<tr>
+<td><a href="/wp-content/uploads/2022/10/report_30-10-2022.pdf" target="_blank" rel="noreferrer noopener">Промежуточная бухгалтерская (финансовая) отчетность за 3 квартал 2022 года</a></td>
+<td>27.10.2022</td>
+</tr>
+<tr>
+<td><a href="/wp-content/uploads/2022/07/report_30-06-2022.pdf" target="_blank" rel="noreferrer noopener">Промежуточная бухгалтерская (финансовая) отчетность за 2 квартал 2022 года</a></td>
+<td>29.07.2022</td>
+</tr>
+<tr>
+<td><a href="/wp-content/uploads/2022/05/report_31-03-2022.pdf" target="_blank" rel="noreferrer noopener">Промежуточная бухгалтерская (финансовая) отчетность за 1 квартал 2022 года</a></td>
+<td>04.05.2022</td>
+</tr>
+<tr>
+<td><a href="/assets/storage/15/report_29-10-2021.pdf" target="_blank" rel="noreferrer noopener">Промежуточная бухгалтерская (финансовая) отчетность за 9 месяцев 2021 года</a></td>
+<td>29.10.2021</td>
+</tr>
+<tr>
+<td><a href="/assets/storage/15/fin-otchet-2021-532p.pdf" target="_blank" rel="noreferrer noopener">Промежуточная бухгалтерская (финансовая) отчетность за 1 полугодие 2021 года</a></td>
+<td>30.07.2021</td>
+</tr>
+<tr>
+<td><a href="/assets/storage/15/fin-otchet-31mar2021.pdf" target="_blank" rel="noreferrer noopener">Промежуточная бухгалтерская (финансовая) отчетность за 3 месяца 2021 года</a></td>
+<td>30.04.2021</td>
+</tr>
+<tr>
+<td><a href="/assets/storage/15/report_200930.pdf" target="_blank" rel="noreferrer noopener">Промежуточная бухгалтерская (финансовая) отчетность за 9 месяцев 2020 года</a></td>
+<td>30.10.2020</td>
+</tr>
+<tr>
+<td><a href="/assets/storage/15/buh-otchetnost-6-months.pdf" target="_blank" rel="noreferrer noopener">Промежуточная бухгалтерская (финансовая) отчетность за 1 полугодие 2020 года</a></td>
+<td>03.08.2020</td>
+</tr>
+<tr>
+<td><a href="/assets/storage/15/buhgalterskij-otchet-2020.pdf" target="_blank" rel="noreferrer noopener">Промежуточная бухгалтерская (финансовая) отчетность за 3 месяца 2020 года</a></td>
+<td>30.04.2020</td>
+</tr>
+<tr>
+<td><a href="/assets/storage/15/fin-otchet-30sep2019.pdf" target="_blank" rel="noreferrer noopener">Промежуточная бухгалтерская (финансовая) отчетность за 9 месяцев 2019 года</a></td>
+<td>29.10.2019</td>
+</tr>
+</tbody>
+</table>
+</figure>
+
+
+<p></p>
+
+
+<figure class="wp-block-table">
+<table>
+<tbody>
+<tr>
+<td width="610"><strong>Годовая консолидированная финансовая отчетность, составленная в соответствии с МСФО</strong></td>
+<td>Дата размещения</td>
+</tr>
+<tr>
+<td><a href="/wp-content/uploads/2023/03/Аудиторское-заключение-за-2022-г.-МСФО.pdf" target="_blank" rel="noreferrer noopener">Годовая консолидированная финансовая отчетность и аудиторское заключение за 2022 год (МСФО)</a></td>
+<td>02.03.2023</td>
+</tr>
+<tr>
+<td><a href="/wp-content/uploads/2022/04/audit_report_UK-SMART-MSFO2021.pdf" target="_blank" rel="noreferrer noopener">Годовая консолидированная финансовая отчетность и аудиторское заключение за 2021 г. (МСФО)</a></td>
+<td>28.04.2022</td>
+</tr>
+<tr>
+<td><a href="/assets/storage/5/audit_report_UK SMART MSFO.pdf" target="_blank" rel="noreferrer noopener">Годовая консолидированная финансовая отчетность и аудиторское заключение за 2020 г. (МСФО)</a></td>
+<td>28.04.2021</td>
+</tr>
+<tr>
+<td><a href="/assets/storage/15/zaklyuchenie-o-finansovoj-otchetnosti-ooo-uk-smart-za-2019-g-msfo.pdf" target="_blank" rel="noreferrer noopener">Годовая консолидированная финансовая отчетность и аудиторское заключение за 2019 г (МСФО)</a></td>
+<td>28.04.2020</td>
+</tr>
+</tbody>
+</table>
+</figure>
+
+
+<p></p>
+
+
+<figure class="wp-block-table">
+<table>
+<tbody>
+<tr>
+<td width="610"><strong>Расчет собственных средств</strong></td>
+<td>Дата размещения</td>
+</tr>
+<tr>
+<td><a href="/wp-content/uploads/2023/06/Расчет-размера-собственных-средств-на-31.05.2023.pdf" target="_blank" rel="noreferrer noopener">Расчет размера собственных средств на 31.05.2023</a></td>
+<td>14.06.2023</td>
+</tr>
+<tr>
+<td><a href="/wp-content/uploads/2023/05/Расчет-размера-собственных-средств-на-30.04.2023.pdf" target="_blank" rel="noreferrer noopener">Расчет размера собственных средств на 30.04.2023</a></td>
+<td>18.05.2023</td>
+</tr>
+<tr>
+<td><a href="/wp-content/uploads/2023/05/514-для-сайта-31-03-2023-скоррект.pdf" target="_blank" rel="noreferrer noopener">Скорректированный расчет размера собственных средств на 31.03.2023</a></td>
+<td>05.05.2023</td>
+</tr>
+<tr>
+<td><a href="/wp-content/uploads/2023/04/514-для-сайта-31-03-2023.pdf" target="_blank" rel="noreferrer noopener">Расчет размера собственных средств на 31.03.2023</a></td>
+<td>17.04.2023
+</td>
+</tr>
+<tr>
+<td><a href="/wp-content/uploads/2023/03/514-raschot-na-28.02.2023.pdf" target="_blank" rel="noreferrer noopener">Расчет размера собственных средств на 28.02.2023</a></td>
+<td>16.03.2023</td>
+</tr>
+<tr>
+<td><a href="/wp-content/uploads/2023/02/514-raschot-na-31.01.2023.pdf" target="_blank" rel="noreferrer noopener">Расчет размера собственных средств на 31.01.2023</a></td>
+<td>13.02.2023</td>
+</tr>
+<tr>
+<td><a href="/wp-content/uploads/2023/01/514-raschot-na-31.12.2022сайта.pdf" target="_blank" rel="noreferrer noopener">Расчет размера собственных средств на 31.12.2022</a></td>
+<td>23.01.2023</td>
+</tr>
+<tr>
+<td><a href="/wp-content/uploads/2022/12/514-для-сraschot-na-30.11.2022айта.pdf" target="_blank" rel="noreferrer noopener">Расчет размера собственных средств на 30.11.2022</a></td>
+<td>13.12.2022</td>
+</tr>
+<tr>
+<td><a href="/wp-content/uploads/2022/11/raschot-na-31.10.2022.pdf" target="_blank" rel="noreferrer noopener">Расчет размера собственных средств на 31.10.2022</a></td>
+<td>15.11.2022</td>
+</tr>
+<tr>
+<td><a href="/wp-content/uploads/2022/10/raschot-na-30.09.2022.pdf" target="_blank" rel="noreferrer noopener">Расчет размера собственных средств на 30.09.2022</a></td>
+<td>14.10.2022</td>
+</tr>
+<tr>
+<td><a href="/wp-content/uploads/2022/09/raschot-na-30.08.2022.pdf" target="_blank" rel="noreferrer noopener">Расчет размера собственных средств на 31.08.2022</a></td>
+<td>15.09.2022</td>
+</tr>
+<tr>
+<td><a href="/wp-content/uploads/2022/08/raschot-na-31.07.2022.pdf" target="_blank" rel="noreferrer noopener">Расчет размера собственных средств на 31.07.2022</a></td>
+<td>12.08.2022</td>
+</tr>
+<tr>
+<td><a href="/wp-content/uploads/2022/07/raschot-na-30.06.2022.pdf" target="_blank" rel="noreferrer noopener">Расчет размера собственных средств на 30.06.2022</a></td>
+<td>18.07.2022</td>
+</tr>
+<tr>
+<td><a href="/wp-content/uploads/2022/06/raschot-na-31.05.2022.pdf" target="_blank" rel="noreferrer noopener">Расчет размера собственных средств на 31.05.2022</a></td>
+<td>15.06.2022</td>
+</tr>
+<tr>
+<td><a href="/wp-content/uploads/2022/05/raschot-na-30042022.pdf" target="_blank" rel="noreferrer noopener">Расчет размера собственных средств на 30.04.2022</a></td>
+<td>19.05.2022</td>
+</tr>
+<tr>
+<td><a href="/wp-content/uploads/2022/04/raschot-na-31032022.pdf" target="_blank" rel="noreferrer noopener">Расчет размера собственных средств на 31.03.2022</a></td>
+<td>15.04.2022</td>
+</tr>
+<tr>
+<td><a href="/wp-content/uploads/2022/03/raschot-na-28022022.pdf" target="_blank" rel="noreferrer noopener">Расчет размера собственных средств на 28.02.2022</a></td>
+<td>16.03.2022</td>
+</tr>
+<tr>
+<td><a href="/wp-content/uploads/2022/02/raschot-na-31012022.pdf" target="_blank" rel="noreferrer noopener">Расчет размера собственных средств на 31.01.2022</a></td>
+<td>15.02.2022</td>
+</tr>
+<tr>
+<td>
+<p>Информацию по предыдущим периодам можно посмотреть <a href="/rss-archive/">здесь.</a></p>
+</td>
+<td>&nbsp;</td>
+</tr>
+</tbody>
+</table>
+</figure>			</div>							
+		</div>
+</article>
+
+
+
+
+			</div>	
+			<!--/Blog Section-->
+			
+<!--Sidebar Section-->
+<div class="col-md-4 col-sm-5 col-xs-12">
+	<div class="sidebar">
+		<aside id="archives-2" class="widget widget_archive wow fadeInDown animated animated" data-wow-delay="0.4s" style="visibility: visible; animation-delay: 0.4s; animation-name: fadeInDown;"><div class="section-header wow fadeInDown animated animated" data-wow-delay="0.4s" style="visibility: visible; animation-delay: 0.4s; animation-name: fadeInDown;"><h3 class="widget-title">Архивы</h3></div>
+			<ul>
+					<li><a href="https://smartpif.ru/2021/10/">Октябрь 2021</a></li>
+	<li><a href="https://smartpif.ru/2021/04/">Апрель 2021</a></li>
+	<li><a href="https://smartpif.ru/2021/03/">Март 2021</a></li>
+	<li><a href="https://smartpif.ru/2020/12/">Декабрь 2020</a></li>
+	<li><a href="https://smartpif.ru/2020/08/">Август 2020</a></li>
+	<li><a href="https://smartpif.ru/2020/07/">Июль 2020</a></li>
+	<li><a href="https://smartpif.ru/2020/06/">Июнь 2020</a></li>
+	<li><a href="https://smartpif.ru/2020/05/">Май 2020</a></li>
+	<li><a href="https://smartpif.ru/2020/04/">Апрель 2020</a></li>
+	<li><a href="https://smartpif.ru/2020/03/">Март 2020</a></li>
+	<li><a href="https://smartpif.ru/2019/09/">Сентябрь 2019</a></li>
+	<li><a href="https://smartpif.ru/2019/07/">Июль 2019</a></li>
+			</ul>
+
+			</aside>	
+	</div>
+</div>	
+<!--Sidebar Section-->
+		</div>
+	</div>
+</section>
+</div>
+<!-- /Blog & Sidebar Section -->
+
+<!-- Footer Section -->
+<footer class="site-footer">
+	<div class="container">
+				
+		<div class="row footer-sidebar">
+						<div class="col-md-4">		
+				<aside id="nav_menu-5" class="widget widget_nav_menu wow fadeInDown animated" data-wow-delay="0.4s" style="visibility: hidden; animation-delay: 0.4s; animation-name: none;"><div class="menu-main-menu-001-container"><ul id="menu-main-menu-2" class="menu"><li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-home menu-item-11"><a href="http://smartpif.ru/">Главная</a></li>
+<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-15"><a href="/about">О компании</a>
+<ul class="sub-menu">
+	<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-14"><a href="https://smartpif.ru/bank_details/">Банковские реквизиты</a></li>
+</ul>
+</li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page current-page-ancestor current-menu-ancestor current-menu-parent current-page-parent current_page_parent current_page_ancestor menu-item-has-children menu-item-552 active"><a href="https://smartpif.ru/information-disclosure-statement/">Раскрытие информации</a>
+<ul class="sub-menu">
+	<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-553"><a href="https://smartpif.ru/information-disclosure-statement/info-about-company/">Информация об организации</a></li>
+	<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-709"><a href="https://smartpif.ru/information-for-financial-recipients/">Информация для получателей финансовых услуг</a></li>
+	<li class="menu-item menu-item-type-post_type menu-item-object-page current-menu-item page_item page-item-382 current_page_item menu-item-554 active"><a href="https://smartpif.ru/information-disclosure-statement/organizations-reporting/" aria-current="page">Отчетность организации</a></li>
+	<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-712"><a href="https://smartpif.ru/reporting-inaccurate-incomplete-and-or-unreliable-information/">Сообщения о выявлении неточных, неполных и (или) недостоверных сведений</a></li>
+	<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-555"><a href="https://smartpif.ru/information-disclosure-statement/messages-about-the-companys-activities/">Сообщения о деятельности компании</a></li>
+	<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-715"><a href="https://smartpif.ru/reports-of-maintenance-work-or-technical-malfunctions/">Сообщения о профилактических работах или технических неполадках</a></li>
+	<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-556"><a href="https://smartpif.ru/information-disclosure-statement/internal-documents/">Внутренние документы</a></li>
+</ul>
+</li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-item-167"><a href="https://smartpif.ru/funds/">Фонды</a>
+<ul class="sub-menu">
+	<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1555"><a href="https://smartpif.ru/funds/cmf-sto-odin/">Комбинированный ЗПИФ «СтоАдин»</a></li>
+	<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1554"><a href="https://smartpif.ru/funds/cmf-newo/">ЗПИФ комбинированный «Новые возможности»</a></li>
+	<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1553"><a href="https://smartpif.ru/funds/cmf-adrenalin/">Фонд/Комбинированный ЗПИФ «Адреналин»</a></li>
+	<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1557"><a href="https://smartpif.ru/funds/cmf-spi/">ЗПИФ комбинированный «Смарт Прайвет Инвест»</a></li>
+	<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1556"><a href="https://smartpif.ru/funds/cmf-finpark/">ЗПИФ комбинированный «ФинПарк»</a></li>
+	<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1558"><a href="https://smartpif.ru/funds/cmf-newp/">ЗПИФ комбинированный «Новые перспективы»</a></li>
+</ul>
+</li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-item-827"><a href="https://smartpif.ru/mcp/">ИСУ</a>
+<ul class="sub-menu">
+	<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-828"><a href="https://smartpif.ru/mcp/mcp-reporting/">Отчётность ИСУ</a></li>
+	<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-830"><a href="https://smartpif.ru/mcp/mcp-rules-tm/">Правила ДУ</a></li>
+	<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-837"><a href="https://smartpif.ru/mcp-informations/">Информация о  наименовании управляющего ипотечным покрытием, месте приема заявок на  приобретение ипотечных сертификатов участия, количестве выданных  ипотечных сертификатов участия</a></li>
+	<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-921"><a href="https://smartpif.ru/mcp/mcp-insider-information/">Инсайдерская информация</a></li>
+</ul>
+</li>
+<li class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-109"><a href="https://smartpif.ru/category/news/">Новости</a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-13"><a href="https://smartpif.ru/contacts/">Контакты</a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-27"><a href="https://smartpif.ru/feedback/">Обратная связь</a></li>
+</ul></div></aside>			
+			</div>
+						
+						<div class="col-md-4">		
+				<aside id="custom_html-4" class="widget_text widget widget_custom_html wow fadeInDown animated" data-wow-delay="0.4s" style="visibility: hidden; animation-delay: 0.4s; animation-name: none;"><div class="textwidget custom-html-widget">Полное фирменное наименование управляющей компании паевого инвестиционного фонда/управляющего ипотечным покрытием: Общество с ограниченной ответственностью «Управляющая компания «СМАРТ»
+Сокращенное фирменное наименование управляющей компании паевого инвестиционного фонда/управляющего ипотечным покрытием: ООО «УК «СМАРТ»
+Индивидуальное обозначение, идентифицирующее ипотечные сертификаты участия с ипотечным покрытием: «ИСУ ГК-3»
+Номер и дата регистрации правил доверительного управления ипотечным покрытием: правила доверительного управления ипотечным покрытием «ИСУ ГК-3» зарегистрированы Банком России 23.10.2014 за №0034
+Номер и дата выдачи лицензии управляющей компании паевого инвестиционного фонда/управляющего ипотечным покрытием: Лицензия №21-000-1-01025 от 10 июля 2019 года выдана Банком России
+</div></aside><aside id="custom_html-6" class="widget_text widget widget_custom_html wow fadeInDown animated" data-wow-delay="0.4s" style="visibility: hidden; animation-delay: 0.4s; animation-name: none;"><div class="textwidget custom-html-widget">Информация о местах, в которых можно получить информацию, подлежащую раскрытию и предоставлению в соответствии с Федеральным законом № 156-ФЗ «Об инвестиционных фондах» и до приобретения ипотечных сертификатов можно ознакомиться с правилами доверительного управления ипотечным покрытием, а также иными документами, предусмотренными Федеральным законом «Об ипотечных ценных бумагах» и нормативными актами Банка России: 121087, город Москва, вн.тер.г. Муниципальный округ Филевский парк, улица Барклая, дом 6, строение 5, этаж 3, комната 24г, тел./факс (499) 653-69-03, https://smartpif.ru/. Информация, подлежащая опубликованию в печатном издании, публикуется в «Приложении к Вестнику Федеральной службы по финансовым рынкам»</div></aside>			
+			</div>
+						
+						<div class="col-md-4">		
+				<aside id="custom_html-5" class="widget_text widget widget_custom_html wow fadeInDown animated" data-wow-delay="0.4s" style="visibility: hidden; animation-delay: 0.4s; animation-name: none;"><div class="textwidget custom-html-widget">Инвестиционные паи паевых инвестиционных фондов предназначены для квалифицированных инвесторов
+Распространение информации о паевых инвестиционных фондах не допускается, за исключением случаев ее раскрытия в соответствии с федеральными законами (п.3 ст. 51 Федерального закона от 29.11.2001 № 156-ФЗ «Об инвестиционных фондах»). Информация о паевых инвестиционных фондах, инвестиционные паи которых ограничены в обороте, может предоставляться лицам, которым в соответствии с Федеральным законом "О рынке ценных бумаг" может предоставляться информация о ценных бумагах, предназначенных для квалифицированных инвесторов.
+
+
+Стоимость инвестиционных паев может увеличиваться и уменьшаться, результаты инвестирования в прошлом не определяют доходы в будущем, государство не гарантирует доходность инвестиций в паевые инвестиционные фонды. Прежде чем приобрести инвестиционный пай фонда, следует внимательно ознакомиться с правилами доверительного управления фондом
+Стоимость ипотечных сертификатов участия может увеличиваться и уменьшаться, государство не гарантирует доходность инвестиций в ипотечные сертификаты участия. Прежде чем приобрести ипотечный сертификат участия, следует внимательно ознакомиться с правилами доверительного управления ипотечным покрытием
+</div></aside>			
+			</div>
+					</div>
+		
+			<div class="row">
+				<div class="col-md-12">
+											<div class="site-info wow fadeIn animated" data-wow-delay="0.4s" style="visibility: hidden; animation-delay: 0.4s; animation-name: none;">
+						<p>Общество с ограниченной ответственностью «Управляющая компания «СМАРТ». &nbsp;&nbsp;&nbsp;Тел. + 7 (499) 653-69-03</p>
+						</div>
+									</div>
+			</div>
+			</div>
+</footer>
+<!-- /Footer Section -->
+<div class="clearfix"></div>
+</div><!--Close of wrapper-->
+<!--Scroll To Top-->
+<a href="#" class="hc_scrollup"><i class="fa fa-chevron-up"></i></a>
+<!--/Scroll To Top-->
+<script type="text/javascript" src="https://smartpif.ru/wp-includes/js/dist/vendor/regenerator-runtime.min.js?ver=0.13.9" id="regenerator-runtime-js"></script>
+<script type="text/javascript" src="https://smartpif.ru/wp-includes/js/dist/vendor/wp-polyfill.min.js?ver=3.15.0" id="wp-polyfill-js"></script>
+<script type="text/javascript" id="contact-form-7-js-extra">
+/* <![CDATA[ */
+var wpcf7 = {"api":{"root":"https:\/\/smartpif.ru\/wp-json\/","namespace":"contact-form-7\/v1"}};
+/* ]]> */
+</script>
+<script type="text/javascript" src="https://smartpif.ru/wp-content/plugins/contact-form-7/includes/js/index.js?ver=5.5.6.1" id="contact-form-7-js"></script>
+<script type="text/javascript" src="https://smartpif.ru/wp-content/themes/spicepress/js/animation/animate.js?ver=5.9.7" id="animate-js-js"></script>
+<script type="text/javascript" src="https://smartpif.ru/wp-content/themes/spicepress/js/animation/wow.min.js?ver=5.9.7" id="wow-js-js"></script>
+	<script>
+	/(trident|msie)/i.test(navigator.userAgent)&&document.getElementById&&window.addEventListener&&window.addEventListener("hashchange",function(){var t,e=location.hash.substring(1);/^[A-z0-9_-]+$/.test(e)&&(t=document.getElementById(e))&&(/^(?:a|select|input|button|textarea)$/i.test(t.tagName)||(t.tabIndex=-1),t.focus())},!1);
+	</script>
+	
+
+</div>

@@ -1,0 +1,470 @@
+
+			<a class="skip-link screen-reader-text" href="#main" title="Перейти к содержимому"> Перейти к содержимому </a>
+	<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 0 0" width="0" height="0" focusable="false" role="none" style="visibility: hidden; position: absolute; left: -9999px; overflow: hidden;"><defs><filter id="wp-duotone-dark-grayscale"><feColorMatrix color-interpolation-filters="sRGB" type="matrix" values=" .299 .587 .114 0 0 .299 .587 .114 0 0 .299 .587 .114 0 0 .299 .587 .114 0 0 "></feColorMatrix><feComponentTransfer color-interpolation-filters="sRGB"><feFuncR type="table" tableValues="0 0.49803921568627"></feFuncR><feFuncG type="table" tableValues="0 0.49803921568627"></feFuncG><feFuncB type="table" tableValues="0 0.49803921568627"></feFuncB><feFuncA type="table" tableValues="1 1"></feFuncA></feComponentTransfer><feComposite in2="SourceGraphic" operator="in"></feComposite></filter></defs></svg><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 0 0" width="0" height="0" focusable="false" role="none" style="visibility: hidden; position: absolute; left: -9999px; overflow: hidden;"><defs><filter id="wp-duotone-grayscale"><feColorMatrix color-interpolation-filters="sRGB" type="matrix" values=" .299 .587 .114 0 0 .299 .587 .114 0 0 .299 .587 .114 0 0 .299 .587 .114 0 0 "></feColorMatrix><feComponentTransfer color-interpolation-filters="sRGB"><feFuncR type="table" tableValues="0 1"></feFuncR><feFuncG type="table" tableValues="0 1"></feFuncG><feFuncB type="table" tableValues="0 1"></feFuncB><feFuncA type="table" tableValues="1 1"></feFuncA></feComponentTransfer><feComposite in2="SourceGraphic" operator="in"></feComposite></filter></defs></svg><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 0 0" width="0" height="0" focusable="false" role="none" style="visibility: hidden; position: absolute; left: -9999px; overflow: hidden;"><defs><filter id="wp-duotone-purple-yellow"><feColorMatrix color-interpolation-filters="sRGB" type="matrix" values=" .299 .587 .114 0 0 .299 .587 .114 0 0 .299 .587 .114 0 0 .299 .587 .114 0 0 "></feColorMatrix><feComponentTransfer color-interpolation-filters="sRGB"><feFuncR type="table" tableValues="0.54901960784314 0.98823529411765"></feFuncR><feFuncG type="table" tableValues="0 1"></feFuncG><feFuncB type="table" tableValues="0.71764705882353 0.25490196078431"></feFuncB><feFuncA type="table" tableValues="1 1"></feFuncA></feComponentTransfer><feComposite in2="SourceGraphic" operator="in"></feComposite></filter></defs></svg><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 0 0" width="0" height="0" focusable="false" role="none" style="visibility: hidden; position: absolute; left: -9999px; overflow: hidden;"><defs><filter id="wp-duotone-blue-red"><feColorMatrix color-interpolation-filters="sRGB" type="matrix" values=" .299 .587 .114 0 0 .299 .587 .114 0 0 .299 .587 .114 0 0 .299 .587 .114 0 0 "></feColorMatrix><feComponentTransfer color-interpolation-filters="sRGB"><feFuncR type="table" tableValues="0 1"></feFuncR><feFuncG type="table" tableValues="0 0.27843137254902"></feFuncG><feFuncB type="table" tableValues="0.5921568627451 0.27843137254902"></feFuncB><feFuncA type="table" tableValues="1 1"></feFuncA></feComponentTransfer><feComposite in2="SourceGraphic" operator="in"></feComposite></filter></defs></svg><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 0 0" width="0" height="0" focusable="false" role="none" style="visibility: hidden; position: absolute; left: -9999px; overflow: hidden;"><defs><filter id="wp-duotone-midnight"><feColorMatrix color-interpolation-filters="sRGB" type="matrix" values=" .299 .587 .114 0 0 .299 .587 .114 0 0 .299 .587 .114 0 0 .299 .587 .114 0 0 "></feColorMatrix><feComponentTransfer color-interpolation-filters="sRGB"><feFuncR type="table" tableValues="0 0"></feFuncR><feFuncG type="table" tableValues="0 0.64705882352941"></feFuncG><feFuncB type="table" tableValues="0 1"></feFuncB><feFuncA type="table" tableValues="1 1"></feFuncA></feComponentTransfer><feComposite in2="SourceGraphic" operator="in"></feComposite></filter></defs></svg><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 0 0" width="0" height="0" focusable="false" role="none" style="visibility: hidden; position: absolute; left: -9999px; overflow: hidden;"><defs><filter id="wp-duotone-magenta-yellow"><feColorMatrix color-interpolation-filters="sRGB" type="matrix" values=" .299 .587 .114 0 0 .299 .587 .114 0 0 .299 .587 .114 0 0 .299 .587 .114 0 0 "></feColorMatrix><feComponentTransfer color-interpolation-filters="sRGB"><feFuncR type="table" tableValues="0.78039215686275 1"></feFuncR><feFuncG type="table" tableValues="0 0.94901960784314"></feFuncG><feFuncB type="table" tableValues="0.35294117647059 0.47058823529412"></feFuncB><feFuncA type="table" tableValues="1 1"></feFuncA></feComponentTransfer><feComposite in2="SourceGraphic" operator="in"></feComposite></filter></defs></svg><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 0 0" width="0" height="0" focusable="false" role="none" style="visibility: hidden; position: absolute; left: -9999px; overflow: hidden;"><defs><filter id="wp-duotone-purple-green"><feColorMatrix color-interpolation-filters="sRGB" type="matrix" values=" .299 .587 .114 0 0 .299 .587 .114 0 0 .299 .587 .114 0 0 .299 .587 .114 0 0 "></feColorMatrix><feComponentTransfer color-interpolation-filters="sRGB"><feFuncR type="table" tableValues="0.65098039215686 0.40392156862745"></feFuncR><feFuncG type="table" tableValues="0 1"></feFuncG><feFuncB type="table" tableValues="0.44705882352941 0.4"></feFuncB><feFuncA type="table" tableValues="1 1"></feFuncA></feComponentTransfer><feComposite in2="SourceGraphic" operator="in"></feComposite></filter></defs></svg><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 0 0" width="0" height="0" focusable="false" role="none" style="visibility: hidden; position: absolute; left: -9999px; overflow: hidden;"><defs><filter id="wp-duotone-blue-orange"><feColorMatrix color-interpolation-filters="sRGB" type="matrix" values=" .299 .587 .114 0 0 .299 .587 .114 0 0 .299 .587 .114 0 0 .299 .587 .114 0 0 "></feColorMatrix><feComponentTransfer color-interpolation-filters="sRGB"><feFuncR type="table" tableValues="0.098039215686275 1"></feFuncR><feFuncG type="table" tableValues="0 0.66274509803922"></feFuncG><feFuncB type="table" tableValues="0.84705882352941 0.41960784313725"></feFuncB><feFuncA type="table" tableValues="1 1"></feFuncA></feComponentTransfer><feComposite in2="SourceGraphic" operator="in"></feComposite></filter></defs></svg>		<div id="site-wrapper">
+
+	<header id="masthead" class="cryout" itemscope="" itemtype="http://schema.org/WPHeader">
+
+		<div id="site-header-main">
+
+			<div class="site-header-top">
+
+				<div class="site-header-inside">
+
+					<div id="header-menu" itemscope="" itemtype="http://schema.org/SiteNavigationElement">
+											</div><!-- #header-menu -->
+
+				</div><!-- #site-header-inside -->
+
+			</div><!--.site-header-top-->
+
+						<nav id="mobile-menu" tabindex="-1">
+				<div class="side-menu side-section"><ul id="mobile-nav" class=""><li id="menu-item-1587" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1587" style="transition-delay: 0s;"><a href="https://www.ukpir.ru/about/"><span>О компании</span></a></li>
+<li id="menu-item-1492" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-1492" style="transition-delay: 0.03s;"><a href="https://www.ukpir.ru/category/about/news/"><span>Новости</span></a></li>
+<li id="menu-item-893" class="menu-item menu-item-type-post_type menu-item-object-page current-page-ancestor menu-item-893" style="transition-delay: 0.06s;"><a href="https://www.ukpir.ru/disclosure/"><span>Раскрытие информации</span></a></li>
+<li id="menu-item-879" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-879" style="transition-delay: 0.09s;"><a href="https://www.ukpir.ru/contacts/"><span>Контакты</span></a></li>
+</ul></div>					<div class="side-socials side-section">
+		<div class="widget-side-section-inner">
+			<section class="side-section-element widget_cryout_socials">
+				<div class="widget-socials">
+									</div>
+			</section>
+		</div>
+	</div>		<div class="side-section-widget side-section">
+			<div class="widget-side-section-inner">
+				<section id="block-64" class="side-section-element widget_block widget_search"><form role="search" method="get" action="https://www.ukpir.ru/" class="wp-block-search__button-outside wp-block-search__text-button wp-block-search"><label for="wp-block-search__input-1" class="wp-block-search__label">Поиск</label><div class="wp-block-search__inside-wrapper "><input type="search" id="wp-block-search__input-1" class="wp-block-search__input" name="s" value="" placeholder="" required=""><button type="submit" class="wp-block-search__button wp-element-button">Поиск</button></div></form></section>			</div><!--content-widget-->
+		</div>			</nav> <!-- #mobile-menu -->
+			
+			<div class="site-header-bottom">
+
+				<div class="site-header-bottom-fixed">
+
+					<div class="site-header-inside">
+
+						<div id="branding">
+							<div class="identity"><a href="https://www.ukpir.ru/" id="logo" class="custom-logo-link" title="ООО УК «П.И.Р.»" rel="home"><img src="https://www.ukpir.ru/wp-content/uploads/pir_logo.jpg" class="custom-logo" alt="ООО УК «П.И.Р.»" decoding="async"></a></div><div id="site-text"><div itemprop="headline" id="site-title"><span> <a href="https://www.ukpir.ru/" title="ПРОФЕССИОНАЛЬНЫЕ ИНВЕСТИЦИОННЫЕ РЕШЕНИЯ" rel="home">ООО УК «П.И.Р.»</a> </span></div><span id="site-description" itemprop="description">ПРОФЕССИОНАЛЬНЫЕ ИНВЕСТИЦИОННЫЕ РЕШЕНИЯ</span></div>						</div><!-- #branding -->
+
+												<div class="menu-burger">
+							<button class="hamburger" type="button">
+									<span></span>
+									<span></span>
+									<span></span>
+							</button>
+						</div>
+						
+						<nav id="access" aria-label="Верхнее меню" itemscope="" itemtype="http://schema.org/SiteNavigationElement">
+								<div><ul id="top-nav" class=""><li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1587"><a href="https://www.ukpir.ru/about/"><span>О компании</span></a></li>
+<li class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-1492"><a href="https://www.ukpir.ru/category/about/news/"><span>Новости</span></a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page current-page-ancestor menu-item-893"><a href="https://www.ukpir.ru/disclosure/"><span>Раскрытие информации</span></a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-879"><a href="https://www.ukpir.ru/contacts/"><span>Контакты</span></a></li>
+</ul></div>						</nav><!-- #access -->
+
+
+					</div><!-- #site-header-inside -->
+
+				</div><!-- #site-header-bottom-fixed -->
+
+			</div><!--.site-header-bottom-->
+
+		</div><!-- #site-header-main -->
+
+		<div id="header-image-main">
+			<div id="header-image-main-inside">
+					<a href="#main" class="meta-arrow" tabindex="-1">
+			<i class="icon-arrow" title="Читать дальше"></i>
+	</a>
+			<div id="header-overlay" style="opacity: 0;"></div>
+			<div class="header-image" style="background-image: url(https://www.ukpir.ru/wp-content/uploads/cropped-header_img1.jpg)"></div>
+			<img class="header-image" alt="ООО УК «П.И.Р.»" src="https://www.ukpir.ru/wp-content/uploads/cropped-header_img1.jpg" style="opacity: 1; background-position: center -159%;">
+				    <div id="header-page-title" style="opacity: 1;">
+        <div id="header-page-title-inside">
+						<div class="entry-meta pretitle-meta">
+							</div><!-- .entry-meta -->
+            <div class="entry-title">Расчет размера собственных средств</div>			<div class="entry-meta aftertitle-meta">
+											</div><!-- .entry-meta -->
+			<div class="byline">
+							</div>
+        </div>
+    </div> 			</div><!-- #header-image-main-inside -->
+		</div><!-- #header-image-main -->
+
+	</header><!-- #masthead -->
+
+	
+	<div id="content" class="cryout">
+		
+	<div id="container" class="two-columns-left">
+
+		<main id="main" class="main">
+			
+			
+	<article id="post-557" class="post-557 page type-page status-publish hentry category-disclosure">
+		<div class="schema-image">
+					<div class="entry-meta">
+					</div>
+				</div>
+		<div class="article-inner">
+			<header>
+				<h1 class="entry-title singular-title" itemprop="headline">Расчет размера собственных средств</h1>				<span class="entry-meta">
+									</span>
+			</header>
+
+			
+			<div class="entry-content" itemprop="text">
+				<style type="text/css">
+	#mla_gallery-1 {
+		margin: auto;
+		width: 100%;
+	}
+	#mla_gallery-1 .gallery-item {
+		float: none;
+		margin: 0%;
+		padding: 0 0 1%;
+		display: inline-block;
+		text-align: left;
+		width: 100%;
+	}
+	#mla_gallery-1 .gallery-item .gallery-icon img {
+		border: 2px solid #ffffff;
+	}
+	#mla_gallery-1 .gallery-caption {
+		margin-left: 0;
+		vertical-align: top;
+	}
+	/* see mla_gallery_shortcode() in media-library-assistant/includes/class-mla-shortcode-support.php */
+</style>
+<div id="mla_gallery-1" class="gallery galleryid-557 gallery-columns-1 gallery-size-none"><!-- row-open -->
+<figure class="gallery-item last_in_row">
+	<div class="gallery-icon ">
+		<img src="/wp-content/uploads/pdf_icon.png" alt="" loading="lazy" style="vertical-align:bottom"> <a href="https://www.ukpir.ru/wp-content/uploads/rss_20230531.pdf">На 31.05.2023</a> <font size="-1">Опубликовано: 09.06.2023 </font>
+	</div>
+</figure><br style="clear: both">
+<!-- row-open -->
+<figure class="gallery-item last_in_row">
+	<div class="gallery-icon ">
+		<img src="/wp-content/uploads/pdf_icon.png" alt="" loading="lazy" style="vertical-align:bottom"> <a href="https://www.ukpir.ru/wp-content/uploads/rss_20230430.pdf">На 30.04.2023</a> <font size="-1">Опубликовано: 17.05.2023 </font>
+	</div>
+</figure><br style="clear: both">
+<!-- row-open -->
+<figure class="gallery-item last_in_row">
+	<div class="gallery-icon ">
+		<img src="/wp-content/uploads/pdf_icon.png" alt="" loading="lazy" style="vertical-align:bottom"> <a href="https://www.ukpir.ru/wp-content/uploads/rss_20230331.pdf">На 31.03.2023</a> <font size="-1">Опубликовано: 14.04.2023 </font>
+	</div>
+</figure><br style="clear: both">
+<!-- row-open -->
+<figure class="gallery-item last_in_row">
+	<div class="gallery-icon ">
+		<img src="/wp-content/uploads/pdf_icon.png" alt="" loading="lazy" style="vertical-align:bottom"> <a href="https://www.ukpir.ru/wp-content/uploads/rss_20230228.pdf">На 28.02.2023</a> <font size="-1">Опубликовано: 14.03.2023 </font>
+	</div>
+</figure><br style="clear: both">
+<!-- row-open -->
+<figure class="gallery-item last_in_row">
+	<div class="gallery-icon ">
+		<img src="/wp-content/uploads/pdf_icon.png" alt="" loading="lazy" style="vertical-align:bottom"> <a href="https://www.ukpir.ru/wp-content/uploads/rss_20230131.pdf">На 31.01.2023</a> <font size="-1">Опубликовано: 09.02.2023 </font>
+	</div>
+</figure><br style="clear: both">
+<!-- row-open -->
+<figure class="gallery-item last_in_row">
+	<div class="gallery-icon ">
+		<img src="/wp-content/uploads/pdf_icon.png" alt="" loading="lazy" style="vertical-align:bottom"> <a href="https://www.ukpir.ru/wp-content/uploads/rss_20221231.pdf">На 31.12.2022</a> <font size="-1">Опубликовано: 23.01.2023 </font>
+	</div>
+</figure><br style="clear: both">
+<!-- row-open -->
+<figure class="gallery-item last_in_row">
+	<div class="gallery-icon ">
+		<img src="/wp-content/uploads/pdf_icon.png" alt="" loading="lazy" style="vertical-align:bottom"> <a href="https://www.ukpir.ru/wp-content/uploads/rss_20221130.pdf">На 30.11.2022</a> <font size="-1">Опубликовано: 30.12.2022 </font>
+	</div>
+</figure><br style="clear: both">
+<!-- row-open -->
+<figure class="gallery-item last_in_row">
+	<div class="gallery-icon ">
+		<img src="/wp-content/uploads/pdf_icon.png" alt="" loading="lazy" style="vertical-align:bottom"> <a href="https://www.ukpir.ru/wp-content/uploads/rss_20221031.pdf">На 31.10.2022</a> <font size="-1">Опубликовано: 30.12.2022 </font>
+	</div>
+</figure><br style="clear: both">
+<!-- row-open -->
+<figure class="gallery-item last_in_row">
+	<div class="gallery-icon ">
+		<img src="/wp-content/uploads/pdf_icon.png" alt="" loading="lazy" style="vertical-align:bottom"> <a href="https://www.ukpir.ru/wp-content/uploads/rss_20220930.pdf">На 30.09.2022</a> <font size="-1">Опубликовано: 30.12.2022 </font>
+	</div>
+</figure><br style="clear: both">
+<!-- row-open -->
+<figure class="gallery-item last_in_row">
+	<div class="gallery-icon ">
+		<img src="/wp-content/uploads/pdf_icon.png" alt="" loading="lazy" style="vertical-align:bottom"> <a href="https://www.ukpir.ru/wp-content/uploads/rss_20220831.pdf">На 31.08.2022</a> <font size="-1">Опубликовано: 30.12.2022 </font>
+	</div>
+</figure><br style="clear: both">
+<!-- row-open -->
+<figure class="gallery-item last_in_row">
+	<div class="gallery-icon ">
+		<img src="/wp-content/uploads/pdf_icon.png" alt="" loading="lazy" style="vertical-align:bottom"> <a href="https://www.ukpir.ru/wp-content/uploads/rss_20220731.pdf">На 31.07.2022</a> <font size="-1">Опубликовано: 30.12.2022 </font>
+	</div>
+</figure><br style="clear: both">
+<!-- row-open -->
+<figure class="gallery-item last_in_row">
+	<div class="gallery-icon ">
+		<img src="/wp-content/uploads/pdf_icon.png" alt="" loading="lazy" style="vertical-align:bottom"> <a href="https://www.ukpir.ru/wp-content/uploads/rss_20220630.pdf">На 30.06.2022</a> <font size="-1">Опубликовано: 30.12.2022 </font>
+	</div>
+</figure><br style="clear: both">
+<!-- row-open -->
+<figure class="gallery-item last_in_row">
+	<div class="gallery-icon ">
+		<img src="/wp-content/uploads/pdf_icon.png" alt="" loading="lazy" style="vertical-align:bottom"> <a href="https://www.ukpir.ru/wp-content/uploads/rss_20220531.pdf">На 31.05.2022</a> <font size="-1">Опубликовано: 30.12.2022 </font>
+	</div>
+</figure><br style="clear: both">
+<!-- row-open -->
+<figure class="gallery-item last_in_row">
+	<div class="gallery-icon ">
+		<img src="/wp-content/uploads/pdf_icon.png" alt="" loading="lazy" style="vertical-align:bottom"> <a href="https://www.ukpir.ru/wp-content/uploads/rss_20220430.pdf">На 30.04.2022</a> <font size="-1">Опубликовано: 30.12.2022 </font>
+	</div>
+</figure><br style="clear: both">
+<!-- row-open -->
+<figure class="gallery-item last_in_row">
+	<div class="gallery-icon ">
+		<img src="/wp-content/uploads/pdf_icon.png" alt="" loading="lazy" style="vertical-align:bottom"> <a href="https://www.ukpir.ru/wp-content/uploads/rss_20220331.pdf">На 31.03.2022</a> <font size="-1">Опубликовано: 30.12.2022 </font>
+	</div>
+</figure><br style="clear: both">
+<!-- row-open -->
+<figure class="gallery-item last_in_row">
+	<div class="gallery-icon ">
+		<img src="/wp-content/uploads/pdf_icon.png" alt="" loading="lazy" style="vertical-align:bottom"> <a href="https://www.ukpir.ru/wp-content/uploads/rss_20220228.pdf">На 28.02.2022</a> <font size="-1">Опубликовано: 14.03.2022 </font>
+	</div>
+</figure><br style="clear: both">
+<!-- row-open -->
+<figure class="gallery-item last_in_row">
+	<div class="gallery-icon ">
+		<img src="/wp-content/uploads/pdf_icon.png" alt="" loading="lazy" style="vertical-align:bottom"> <a href="https://www.ukpir.ru/wp-content/uploads/rss_20220131.pdf">На 31.01.2022</a> <font size="-1">Опубликовано: 11.02.2022 </font>
+	</div>
+</figure><br style="clear: both">
+<!-- row-open -->
+<figure class="gallery-item last_in_row">
+	<div class="gallery-icon ">
+		<img src="/wp-content/uploads/pdf_icon.png" alt="" loading="lazy" style="vertical-align:bottom"> <a href="https://www.ukpir.ru/wp-content/uploads/rss_20211231.pdf">На 31.12.2021</a> <font size="-1">Опубликовано: 20.01.2022 </font>
+	</div>
+</figure><br style="clear: both">
+<!-- row-open -->
+<figure class="gallery-item last_in_row">
+	<div class="gallery-icon ">
+		<img src="/wp-content/uploads/pdf_icon.png" alt="" loading="lazy" style="vertical-align:bottom"> <a href="https://www.ukpir.ru/wp-content/uploads/RSS_20211130.pdf">На 30.11.2021</a> <font size="-1">Опубликовано: 08.12.2021 </font>
+	</div>
+</figure><br style="clear: both">
+<!-- row-open -->
+<figure class="gallery-item last_in_row">
+	<div class="gallery-icon ">
+		<img src="/wp-content/uploads/pdf_icon.png" alt="" loading="lazy" style="vertical-align:bottom"> <a href="https://www.ukpir.ru/wp-content/uploads/RSS_20211031.pdf">На 31.10.2021</a> <font size="-1">Опубликовано: 16.11.2021 </font>
+	</div>
+</figure><br style="clear: both">
+<!-- row-open -->
+<figure class="gallery-item last_in_row">
+	<div class="gallery-icon ">
+		<img src="/wp-content/uploads/pdf_icon.png" alt="" loading="lazy" style="vertical-align:bottom"> <a href="https://www.ukpir.ru/wp-content/uploads/RSS_20210930.pdf">На 30.09.2021</a> <font size="-1">Опубликовано: 15.10.2021 </font>
+	</div>
+</figure><br style="clear: both">
+<!-- row-open -->
+<figure class="gallery-item last_in_row">
+	<div class="gallery-icon ">
+		<img src="/wp-content/uploads/pdf_icon.png" alt="" loading="lazy" style="vertical-align:bottom"> <a href="https://www.ukpir.ru/wp-content/uploads/RSS_20210831.pdf">На 31.08.2021</a> <font size="-1">Опубликовано: 14.09.2021 </font>
+	</div>
+</figure><br style="clear: both">
+<!-- row-open -->
+<figure class="gallery-item last_in_row">
+	<div class="gallery-icon ">
+		<img src="/wp-content/uploads/pdf_icon.png" alt="" loading="lazy" style="vertical-align:bottom"> <a href="https://www.ukpir.ru/wp-content/uploads/RSS_20210731.pdf">На 31.07.2021</a> <font size="-1">Опубликовано: 12.08.2021 </font>
+	</div>
+</figure><br style="clear: both">
+<!-- row-open -->
+<figure class="gallery-item last_in_row">
+	<div class="gallery-icon ">
+		<img src="/wp-content/uploads/pdf_icon.png" alt="" loading="lazy" style="vertical-align:bottom"> <a href="https://www.ukpir.ru/wp-content/uploads/RSS_20210630.pdf">На 30.06.2021</a> <font size="-1">Опубликовано: 21.07.2021 </font>
+	</div>
+</figure><br style="clear: both">
+<!-- row-open -->
+<figure class="gallery-item last_in_row">
+	<div class="gallery-icon ">
+		<img src="/wp-content/uploads/pdf_icon.png" alt="" loading="lazy" style="vertical-align:bottom"> <a href="https://www.ukpir.ru/wp-content/uploads/RSS_20210531.pdf">На 31.05.2021</a> <font size="-1">Опубликовано: 15.06.2021 </font>
+	</div>
+</figure><br style="clear: both">
+<!-- row-open -->
+<figure class="gallery-item last_in_row">
+	<div class="gallery-icon ">
+		<img src="/wp-content/uploads/pdf_icon.png" alt="" loading="lazy" style="vertical-align:bottom"> <a href="https://www.ukpir.ru/wp-content/uploads/RSS_20210430.pdf">На 30.04.2021</a> <font size="-1">Опубликовано: 20.05.2021 </font>
+	</div>
+</figure><br style="clear: both">
+<!-- row-open -->
+<figure class="gallery-item last_in_row">
+	<div class="gallery-icon ">
+		<img src="/wp-content/uploads/pdf_icon.png" alt="" loading="lazy" style="vertical-align:bottom"> <a href="https://www.ukpir.ru/wp-content/uploads/RSS_20210331.pdf">На 31.03.2021</a> <font size="-1">Опубликовано: 21.04.2021 </font>
+	</div>
+</figure><br style="clear: both">
+<!-- row-open -->
+<figure class="gallery-item last_in_row">
+	<div class="gallery-icon ">
+		<img src="/wp-content/uploads/pdf_icon.png" alt="" loading="lazy" style="vertical-align:bottom"> <a href="https://www.ukpir.ru/wp-content/uploads/RSS_20210228.pdf">На 28.02.2021</a> <font size="-1">Опубликовано: 23.03.2021 </font>
+	</div>
+</figure><br style="clear: both">
+<!-- row-open -->
+<figure class="gallery-item last_in_row">
+	<div class="gallery-icon ">
+		<img src="/wp-content/uploads/pdf_icon.png" alt="" loading="lazy" style="vertical-align:bottom"> <a href="https://www.ukpir.ru/wp-content/uploads/RSS_20210131.pdf">На 31.01.2021</a> <font size="-1">Опубликовано: 15.02.2021 </font>
+	</div>
+</figure><br style="clear: both">
+<!-- row-open -->
+<figure class="gallery-item last_in_row">
+	<div class="gallery-icon ">
+		<img src="/wp-content/uploads/pdf_icon.png" alt="" loading="lazy" style="vertical-align:bottom"> <a href="https://www.ukpir.ru/wp-content/uploads/RSS_20201231.pdf">На 31.12.2020</a> <font size="-1">Опубликовано: 25.01.2021 </font>
+	</div>
+</figure><br style="clear: both">
+<!-- row-open -->
+<figure class="gallery-item last_in_row">
+	<div class="gallery-icon ">
+		<img src="/wp-content/uploads/pdf_icon.png" alt="" loading="lazy" style="vertical-align:bottom"> <a href="https://www.ukpir.ru/wp-content/uploads/RSS_20201130.pdf">На 30.11.2020</a> <font size="-1">Опубликовано: 16.12.2020 </font>
+	</div>
+</figure><br style="clear: both">
+<!-- row-open -->
+<figure class="gallery-item last_in_row">
+	<div class="gallery-icon ">
+		<img src="/wp-content/uploads/pdf_icon.png" alt="" loading="lazy" style="vertical-align:bottom"> <a href="https://www.ukpir.ru/wp-content/uploads/RSS_20201031.pdf">На 31.10.2020</a> <font size="-1">Опубликовано: 16.11.2020 </font>
+	</div>
+</figure><br style="clear: both">
+<!-- row-open -->
+<figure class="gallery-item last_in_row">
+	<div class="gallery-icon ">
+		<img src="/wp-content/uploads/pdf_icon.png" alt="" loading="lazy" style="vertical-align:bottom"> <a href="https://www.ukpir.ru/wp-content/uploads/RSS_20200930.pdf">На 30.09.2020</a> <font size="-1">Опубликовано: 14.10.2020 </font>
+	</div>
+</figure><br style="clear: both">
+<!-- row-open -->
+<figure class="gallery-item last_in_row">
+	<div class="gallery-icon ">
+		<img src="/wp-content/uploads/pdf_icon.png" alt="" loading="lazy" style="vertical-align:bottom"> <a href="https://www.ukpir.ru/wp-content/uploads/RSS_20200831.pdf">На 31.08.2020</a> <font size="-1">Опубликовано: 14.09.2020 </font>
+	</div>
+</figure><br style="clear: both">
+<!-- row-open -->
+<figure class="gallery-item last_in_row">
+	<div class="gallery-icon ">
+		<img src="/wp-content/uploads/pdf_icon.png" alt="" loading="lazy" style="vertical-align:bottom"> <a href="https://www.ukpir.ru/wp-content/uploads/RSS_20200731.pdf">На 31.07.2020</a> <font size="-1">Опубликовано: 17.08.2020 </font>
+	</div>
+</figure><br style="clear: both">
+<!-- row-open -->
+<figure class="gallery-item last_in_row">
+	<div class="gallery-icon ">
+		<img src="/wp-content/uploads/pdf_icon.png" alt="" loading="lazy" style="vertical-align:bottom"> <a href="https://www.ukpir.ru/wp-content/uploads/RSS_20200630.pdf">На 30.06.2020</a> <font size="-1">Опубликовано: 16.07.2020 </font>
+	</div>
+</figure><br style="clear: both">
+<!-- row-open -->
+<figure class="gallery-item last_in_row">
+	<div class="gallery-icon ">
+		<img src="/wp-content/uploads/pdf_icon.png" alt="" loading="lazy" style="vertical-align:bottom"> <a href="https://www.ukpir.ru/wp-content/uploads/RSS_20200531.pdf">На 31.05.2020</a> <font size="-1">Опубликовано: 15.06.2020 </font>
+	</div>
+</figure><br style="clear: both">
+<!-- row-open -->
+<figure class="gallery-item last_in_row">
+	<div class="gallery-icon ">
+		<img src="/wp-content/uploads/pdf_icon.png" alt="" loading="lazy" style="vertical-align:bottom"> <a href="https://www.ukpir.ru/wp-content/uploads/RSS_20200430.pdf">На 30.04.2020</a> <font size="-1">Опубликовано: 21.05.2020 </font>
+	</div>
+</figure><br style="clear: both">
+<!-- row-open -->
+<figure class="gallery-item last_in_row">
+	<div class="gallery-icon ">
+		<img src="/wp-content/uploads/pdf_icon.png" alt="" loading="lazy" style="vertical-align:bottom"> <a href="https://www.ukpir.ru/wp-content/uploads/RSS_20200331.pdf">На 31.03.2020</a> <font size="-1">Опубликовано: 14.04.2020 </font>
+	</div>
+</figure><br style="clear: both">
+<!-- row-open -->
+<figure class="gallery-item last_in_row">
+	<div class="gallery-icon ">
+		<img src="/wp-content/uploads/pdf_icon.png" alt="" loading="lazy" style="vertical-align:bottom"> <a href="https://www.ukpir.ru/wp-content/uploads/RSS_20200229.pdf">На 29.02.2020</a> <font size="-1">Опубликовано: 17.03.2020 </font>
+	</div>
+</figure><br style="clear: both">
+<!-- row-open -->
+<figure class="gallery-item last_in_row">
+	<div class="gallery-icon ">
+		<img src="/wp-content/uploads/pdf_icon.png" alt="" loading="lazy" style="vertical-align:bottom"> <a href="https://www.ukpir.ru/wp-content/uploads/RSS_20200131.pdf">На 31.01.2020</a> <font size="-1">Опубликовано: 14.02.2020 </font>
+	</div>
+</figure><br style="clear: both">
+</div>
+
+
+
+
+<p></p>
+							</div><!-- .entry-content -->
+
+		</div><!-- .article-inner -->
+		
+	<span class="schema-publisher" itemprop="publisher" itemscope="" itemtype="https://schema.org/Organization">
+         <span itemprop="logo" itemscope="" itemtype="https://schema.org/ImageObject">
+           <meta itemprop="url" content="https://www.ukpir.ru/wp-content/uploads/pir_logo.jpg">
+         </span>
+         <meta itemprop="name" content="ООО УК «П.И.Р.»">
+    </span>
+<link itemprop="mainEntityOfPage" href="https://www.ukpir.ru/disclosure/rrss/">	</article><!-- #post-## -->
+	<section id="comments">
+	
+	
+	</section><!-- #comments -->
+
+
+					</main><!-- #main -->
+
+		
+<aside id="primary" class="widget-area sidey" itemscope="" itemtype="http://schema.org/WPSideBar">
+	<nav class="sidebarmenu widget-container"><ul id="menu-%d1%80%d0%b0%d1%81%d0%ba%d1%80%d1%8b%d1%82%d0%b8%d0%b5-%d0%b8%d0%bd%d1%84%d0%be%d1%80%d0%bc%d0%b0%d1%86%d0%b8%d0%b8" class="menu"><li id="menu-item-1792" class="menu-item menu-item-type-post_type menu-item-object-page current-page-ancestor current-page-parent menu-item-1792"><a href="https://www.ukpir.ru/disclosure/">Раскрытие информации</a></li>
+<li id="menu-item-624" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-624"><a href="https://www.ukpir.ru/disclosure/properties/">Реквизиты управляющей компании</a></li>
+<li id="menu-item-621" class="menu-item menu-item-type-post_type menu-item-object-page current-menu-item page_item page-item-557 current_page_item menu-item-621"><a href="https://www.ukpir.ru/disclosure/rrss/" aria-current="page">Расчет размера собственных средств</a></li>
+<li id="menu-item-696" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-696"><a href="https://www.ukpir.ru/disclosure/accounting/">Финансовая отчетность</a></li>
+<li id="menu-item-910" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-910"><a href="https://www.ukpir.ru/disclosure/622-p/">Информация о структуре и составе участников управляющей компании в соответствии с Положением Банка России № 622-П от 26.12.2017</a></li>
+<li id="menu-item-690" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-690"><a href="https://www.ukpir.ru/disclosure/sro/">Информация о&nbsp;членстве в&nbsp;саморегулируемых организациях</a></li>
+<li id="menu-item-1953" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1953"><a href="https://www.ukpir.ru/disclosure/inf_acq/">Информация для ознакомления получателями финансовых услуг</a></li>
+<li id="menu-item-1620" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1620"><a href="https://www.ukpir.ru/disclosure/archive/">Архив</a></li>
+</ul></nav>
+	<section id="block-8" class="widget-container widget_block widget_text">
+<p></p>
+</section>
+	</aside>
+
+	</div><!-- #container -->
+
+		
+		<aside id="colophon" itemscope="" itemtype="http://schema.org/WPSideBar">
+			<div id="colophon-inside" class="footer-one ">
+				
+<section id="block-60" class="widget-container widget_block"><div class="footer-widget-inside"><p><font size="6">8 495 120 12 23</font></p></div></section><section id="block-57" class="widget-container widget_block widget_text"><div class="footer-widget-inside">
+<p>© ООО УК «П.И.Р.», 2011–2023. Все права защищены. Любое использование материалов сайта без разрешения запрещено.</p>
+</div></section><section id="block-58" class="widget-container widget_block widget_text"><div class="footer-widget-inside">
+<p>Получить подробную информацию о фондах и ознакомиться с правилами доверительного управления фондами, а также с иными документами, предусмотренными в Федеральном законе от 29 ноября 2001 года № 156-ФЗ «Об инвестиционных фондах» и нормативными актами в сфере финансовых рынков, можно по адресу: 123112, город Москва, Пресненская набережная, дом 12, этаж 45, ком. 46-48, телефону +7 (495) 120-12-23, а также в сети интернет по адресу: <a href="http://www.ukpir.ru">www.ukpir.ru</a></p>
+</div></section><section id="block-55" class="widget-container widget_block widget_text"><div class="footer-widget-inside">
+<p>Стоимость инвестиционных паев может увеличиваться и уменьшаться, результаты инвестирования в прошлом не определяют доходы в будущем, государство не гарантирует доходность инвестиций в паевые инвестиционные фонды. Прежде чем приобрести инвестиционный пай, следует внимательно ознакомиться с правилами доверительного управления фондом.</p>
+</div></section><section id="block-66" class="widget-container widget_block widget_text"><div class="footer-widget-inside">
+<p>Раскрываемая на сайте информация находится в постоянном доступе и актуальна в течение периода с даты ее опубликования по настоящее время, если прямо не указано иное.</p>
+</div></section><section id="block-67" class="widget-container widget_block widget_text"><div class="footer-widget-inside">
+<p><a href="/disclosure/622-p/">Информация в соответствии с Положением Банка России № 622-П от 26.12.2017</a></p>
+</div></section>			</div>
+		</aside><!-- #colophon -->
+
+	</div><!-- #main -->
+
+	<footer id="footer" class="cryout" itemscope="" itemtype="http://schema.org/WPFooter">
+		<a id="toTop"><span class="screen-reader-text">Вернуться в начало</span><i class="icon-back2top"></i> </a>		<div id="footer-top">
+			<div class="footer-inside">
+				<div id="site-copyright"></div>			</div><!-- #footer-inside -->
+		</div><!--#footer-top-->
+		<div id="footer-bottom">
+			<div class="footer-inside">
+				<div style="display:block; margin: 0.5em auto;">Работает на<a target="_blank" href="http://www.cryoutcreations.eu/wordpress-themes/bravada" title="Bravada WordPress Theme by Cryout Creations"> Bravada</a> &amp; <a target="_blank" href="http://wordpress.org/" title="Современная персональная платформа для публикаций">  WordPress</a>.</div>			</div> <!-- #footer-inside -->
+		</div><!--#footer-bottom-->
+	</footer>
+</div><!-- site-wrapper -->
+	<script type="text/javascript">
+var colomatduration = 'fast';
+var colomatslideEffect = 'slideFade';
+var colomatpauseInit = '';
+var colomattouchstart = '';
+</script><style type="text/css" media="screen">.is-menu path.search-icon-path { fill: #848484;}body .popup-search-close:after, body .search-close:after { border-color: #848484;}body .popup-search-close:before, body .search-close:before { border-color: #848484;}</style><script src="https://www.ukpir.ru/wp-content/plugins/jquery-collapse-o-matic/js/collapse.js?ver=1.6.23" id="collapseomatic-js-js"></script>
+<script src="https://www.ukpir.ru/wp-content/plugins/add-search-to-menu/public/js/ivory-search.min.js?ver=4.7" id="ivory-search-scripts-js"></script>
+<script id="bravada-frontend-js-extra">
+var cryout_theme_settings = {"masonry":"1","rtl":"","magazine":"1","fitvids":"1","autoscroll":"1","articleanimation":"fade","lpboxratios":[1.779,1920],"is_mobile":"","menustyle":"0"};
+</script>
+<script defer="" src="https://www.ukpir.ru/wp-content/themes/bravada/resources/js/frontend.js?ver=1.0.6" id="bravada-frontend-js"></script>
+<script src="https://www.ukpir.ru/wp-includes/js/imagesloaded.min.js?ver=4.1.4" id="imagesloaded-js"></script>
+<script defer="" src="https://www.ukpir.ru/wp-includes/js/masonry.min.js?ver=4.2.2" id="masonry-js"></script>
+<script defer="" src="https://www.ukpir.ru/wp-includes/js/jquery/jquery.masonry.min.js?ver=3.1.2b" id="jquery-masonry-js"></script>
+<script src="https://www.ukpir.ru/wp-includes/js/comment-reply.min.js?ver=6.2.2" id="comment-reply-js"></script>
+
+

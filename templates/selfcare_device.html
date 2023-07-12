@@ -1,0 +1,16 @@
+{% extends 'selfcare_base.html' %}
+{% load static %}
+{% block content %}
+<div class="container">
+		<header class="justify-content-left">
+			<h2>{{printer.name}}</h2>
+		</header>
+		<div class="d-fles">
+		{% for file in files %}
+			<div class="row">
+				<img src="{% static file %}">
+			</div>
+		{% endfor %}
+		</div>
+</div>
+{% endblock %}

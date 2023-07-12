@@ -1,0 +1,1937 @@
+
+	  
+
+<!-- Google Tag Manager (noscript) -->
+<noscript><iframe src="https://www.googletagmanager.com/ns.html?id=GTM-5865S3V"
+height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
+<!-- End Google Tag Manager (noscript) -->
+
+	<div class="mob-menu">
+		<div class="mob-menu__top">
+			<a href="/sitemap/">карта сайта</a>
+			<a href="/contacts/">обратная связь</a>
+			<a href="tel:+74958703630">+7 (495) 870 36 30</a>
+		</div>
+		<nav class="nav">
+			<!-- Mob nav main -->
+			
+<ul>
+			<li><a href="/about/">О Компании</a></li>
+		
+			<li><a href="/services/">Услуги</a></li>
+		
+			<li><a href="/funds/">Фонды</a></li>
+		
+			<li><a href="/information/" class="sidebar-active">Раскрываемая информация</a></li>
+		
+			<li><a href="/contacts/">Контакты</a></li>
+		
+</ul>
+			<!-- Mob nav main end -->
+			<hr>
+			<!-- Mob nav bottom -->
+			
+<ul>
+			<li><a href="https://intero-invest.ru/information/struktura-i-sostav-uchastnikov-uk/">СТРУКТУРА И СОСТАВ УЧАСТНИКОВ УК ПИФ</a></li>
+		
+</ul>
+			<!-- Mob nav bottom end -->
+		</nav>
+	</div>
+	<!-- start header -->
+	<header class="header">
+		<div class="menu-bar">
+			<span></span>
+		</div>
+		<!--<div class="header-top">
+			<div class="row">
+				<div class="col-sm-6 header-top__left">
+					<a href="/sitemap/">карта сайта</a>
+				</div>
+				<div class="col-sm-6 header-top__right" style="font-size: 10px;">
+					<a id="link_feedback" href="#feedback">обратная связь</a>
+				</div>
+			</div>
+		</div>-->
+		<div class="header-middle">
+			<div class="wrapper">
+				<div class="logo">
+					<a href="/">
+						<img src="/local/templates/wfst_uk_ipt/img/logo-inter.png" alt="">
+					</a>
+				</div>
+				
+<nav class="nav">
+<ul>
+
+
+	
+	
+					<li class="drop"><a href="/about/" class="root-item">О Компании</a>
+				<div class="drop-descr"><ul>
+		
+	
+	
+
+	
+	
+		
+			                                    <li class="item-selected"><a href="/about/news/" class="parent">НОВОСТИ</a></li>
+                			
+		
+	
+	
+
+	
+	
+		
+			                                    <li class="item-selected"><a href="/about/partners/" class="parent">ПАРТНЕРЫ</a></li>
+                			
+		
+	
+	
+
+			</ul></div></li>	
+	
+					<li class="drop"><a href="/services/" class="root-item">Услуги</a>
+				<div class="drop-descr"><ul>
+		
+	
+	
+
+	
+	
+		
+			                                    <li class="item-selected"><a href="/services/kak-sozdat-zpif/" class="parent">КАК СОЗДАТЬ ЗПИФ?</a></li>
+                			
+		
+	
+	
+
+	
+	
+		
+			                                    <li class="item-selected"><a href="/services/zpif-nedvizhimosti/" class="parent">ЗПИФ НЕДВИЖИМОСТИ</a></li>
+                			
+		
+	
+	
+
+	
+	
+		
+			                                    <li class="item-selected"><a href="/services/investicii-v-stroitelstvo-mnogokvartirnyh-domov/" class="parent">ЗПИФ ДЛЯ ИНВЕСТИЦИЙ В СТРОИТЕЛЬСТВО ЖИЛОЙ НЕДВИЖИМОСТИ</a></li>
+                			
+		
+	
+	
+
+	
+	
+		
+			                                    <li class="item-selected"><a href="/services/investitsii-v-stroitelstvo-kommercheskoy-nedvizhimosti/" class="parent">ЗПИФ ДЛЯ ИНВЕСТИЦИЙ В СТРОИТЕЛЬСТВО КОММЕРЧЕСКОЙ НЕДВИЖИМОСТИ</a></li>
+                			
+		
+	
+	
+
+	
+	
+		
+			                                    <li class="item-selected"><a href="/services/investirovanie-v-gotovye-obekty/" class="parent">ЗПИФ ДЛЯ ИНВЕСТИЦИЙ В ГОТОВЫЕ ОБЪЕКТЫ НЕДВИЖИМОСТИ</a></li>
+                			
+		
+	
+	
+
+	
+	
+		
+			                                    <li class="item-selected"><a href="/services/postroenie-kholdingovykh-struktur/" class="parent">ПОСТРОЕНИЕ ХОЛДИНГОВЫХ СТРУКТУР НА ОСНОВЕ ЗПИФ</a></li>
+                			
+		
+	
+	
+
+	
+	
+		
+			                                    <li class="item-selected"><a href="/services/kombinirovannye-zpif/" class="parent">КОМБИНИРОВАННЫЕ ЗПИФ</a></li>
+                			
+		
+	
+	
+
+	
+	
+		
+			                                    <li class="item-selected"><a href="/services/investitsii-v-dorogostoyashchuyu-tekhniku-i-oborudovanie/" class="parent">ЗПИФ ДЛЯ ИНВЕСТИЦИЙ В ДОРОГОСТОЯЩУЮ ТЕХНИКУ И ОБОРУДОВАНИЕ</a></li>
+                			
+		
+	
+	
+
+	
+	
+		
+			                                    <li class="item-selected"><a href="/services/kreditnyy-zpif/kreditnyy-zpif.php" class="parent">КРЕДИТНЫЙ ЗПИФ</a></li>
+                			
+		
+	
+	
+
+	
+	
+		
+			                                    <li class="item-selected"><a href="/services/zpif-kak-instrument-dlya-strukturirovaniya-sdelok-/" class="parent">ЗПИФ КАК ИНСТРУМЕНТ ДЛЯ СТРУКТУРИРОВАНИЯ СДЕЛОК </a></li>
+                			
+		
+	
+	
+
+			</ul></div></li>	
+	
+					<li class="drop"><a href="/funds/" class="root-item">Фонды</a>
+				<div class="drop-descr"><ul>
+		
+	
+	
+
+	
+	
+		
+			                                    <li class="item-selected"><a href="/funds/kombinirovannyy-zpif-meditsinskie-investitsii/" class="parent">Комбинированный ЗПИФ «Медицинские инвестиции»</a></li>
+                			
+		
+	
+	
+
+	
+	
+		
+			                                    <li class="item-selected"><a href="/funds/kombinirovannyy-zpif-belavista/" class="parent">Комбинированный ЗПИФ «Белависта»</a></li>
+                			
+		
+	
+	
+
+	
+	
+		
+			                                    <li class="item-selected"><a href="/funds/kombinirovannyy-zpif-pragmatichnye-investitsii/" class="parent">КОМБИНИРОВАННЫЙ ЗПИФ «ПРАГМАТИЧНЫЕ ИНВЕСТИЦИИ»</a></li>
+                			
+		
+	
+	
+
+	
+	
+		
+			                                    <li class="item-selected"><a href="/funds/kombinirovannyy-zpif-finansovyy-aktiv-1/" class="parent">КОМБИНИРОВАННЫЙ ЗПИФ «ФИНАНСОВЫЙ АКТИВ-1»</a></li>
+                			
+		
+	
+	
+
+			</ul></div></li>	
+	
+					<li class="drop"><a href="/information/" class="root-item-selected">Раскрываемая информация</a>
+				<div class="drop-descr"><ul>
+		
+	
+	
+
+	
+	
+		
+			                                    <li class="item-selected"><a href="/information/o-kompanii/" class="parent">ИНФОРМАЦИЯ ОБ ОРГАНИЗАЦИИ</a></li>
+                			
+		
+	
+	
+
+	
+	
+		
+			                                    <span class="item-selected">Документы и отчетность организации</span>
+                			
+		
+	
+	
+
+	
+	
+		
+			                                    <li class="item-selected"><a href="/information/soobshcheniya-o-deyatelnosti-organizatsii/" class="parent">СООБЩЕНИЯ О ДЕЯТЕЛЬНОСТИ ОРГАНИЗАЦИИ</a></li>
+                			
+		
+	
+	
+
+	
+	
+		
+			                                    <li class="item-selected"><a href="/information/struktura-i-sostav-uchastnikov-uk/" class="parent">СТРУКТУРА И СОСТАВ УЧАСТНИКОВ УК ПИФ</a></li>
+                			
+		
+	
+	
+
+	
+	
+		
+			                                    <li class="item-selected"><a href="/information/edo/" class="parent">ЭЛЕКТРОННЫЙ ДОКУМЕНТООБОРОТ</a></li>
+                			
+		
+	
+	
+
+	
+	
+		
+			                                    <li class="item-selected"><a href="/information/kvalifitsirovannym-investoram/" class="parent">КВАЛИФИЦИРОВАННЫМ ИНВЕСТОРАМ</a></li>
+                			
+		
+	
+	
+
+	
+	
+		
+			                                    <li class="item-selected"><a href="/information/insayderam/" class="parent">ИНСАЙДЕРАМ</a></li>
+                			
+		
+	
+	
+
+	
+	
+		
+			                                    <li class="item-selected"><a href="/information/fatca/" class="parent">FATCA</a></li>
+                			
+		
+	
+	
+
+	
+	
+		
+			                                    <li class="item-selected"><a href="/information/informatsiya-dlya-klientov/" class="parent">ИНФОРМАЦИЯ ДЛЯ КЛИЕНТОВ</a></li>
+                			
+		
+	
+	
+
+			</ul></div></li>	
+	
+		
+							<li><a href="/contacts/" class="root-item">Контакты</a></li>
+			
+		
+	
+	
+
+
+</ul>
+</nav>
+				<div class="header-middle__text">
+					<a href="tel:+74958703630">+7 (495) 870 36 30</a>
+				</div>
+			</div>
+		</div>
+		<div class="header-bottom">
+			<div class="wrapper">
+				<div class="header-bottom__left">
+					
+<ul>
+			<li><a href="https://intero-invest.ru/information/struktura-i-sostav-uchastnikov-uk/">СТРУКТУРА И СОСТАВ УЧАСТНИКОВ УК ПИФ</a></li>
+		
+</ul>
+				</div>
+				<!--<div class="header-bottom__right">
+					<a href="#">+7 (495) 870 36 30</a>
+				</div>-->
+			</div>
+		</div>
+	</header>
+	<!-- end header -->
+
+
+
+			
+	<!-- start main -->
+	<section class="main main-two">
+		
+	</section>
+	<div class="crumbs">
+		<div class="wrapper">
+				<link href="/bitrix/css/main/font-awesome.css?158773147928777" type="text/css" rel="stylesheet">
+<div class="bx-breadcrumb" itemprop="http://schema.org/breadcrumb" itemscope="" itemtype="http://schema.org/BreadcrumbList">
+			<div class="bx-breadcrumb-item" id="bx_breadcrumb_0" itemprop="itemListElement" itemscope="" itemtype="http://schema.org/ListItem">
+				
+				<a href="/" title="Управляющая компания Интеро Инвест" class="item" itemprop="url">
+					<span itemprop="name">Управляющая компания Интеро Инвест</span>
+				</a>
+				<meta itemprop="position" content="1">
+			</div>
+			<div class="bx-breadcrumb-item" id="bx_breadcrumb_1" itemprop="itemListElement" itemscope="" itemtype="http://schema.org/ListItem">
+				<i class="fa fa-angle-right"></i>
+				<a href="/information/" title="Раскрываемая информация" class="item" itemprop="url">
+					<span itemprop="name">Раскрываемая информация</span>
+				</a>
+				<meta itemprop="position" content="2">
+			</div>
+			<div class="bx-breadcrumb-item" id="bx_breadcrumb_2" itemprop="itemListElement" itemscope="" itemtype="http://schema.org/ListItem">
+				<i class="fa fa-angle-right"></i>
+				<a href="/information/dokumenty-i-otchetnost-organizatsii/" title="ДОКУМЕНТЫ И ОТЧЕТНОСТЬ ОРГАНИЗАЦИИ" class="item" itemprop="url">
+					<span itemprop="name">ДОКУМЕНТЫ И ОТЧЕТНОСТЬ ОРГАНИЗАЦИИ</span>
+				</a>
+				<meta itemprop="position" content="3">
+			</div>
+			<div class="bx-breadcrumb-item" itemprop="itemListElement" itemscope="" itemtype="http://schema.org/ListItem">
+				<i class="fa fa-angle-right"></i>
+				<span itemprop="name" class="nolink">СОБСТВЕННЫЕ СРЕДСТВА УК</span>
+				<meta itemprop="position" content="4">
+			</div><div style="clear:both"></div></div>		</div>
+	</div>
+
+
+
+	<!-- end main -->
+
+	<section class="wfcontent">
+		<div class="row">
+
+			<div class="col-sm-4 right-sidebar col-sm-push-8">
+				<!-- section menu -->
+				
+<div class="hidden-xs hidden-sm">
+<ul>
+			<li><a href="/information/o-kompanii/">ИНФОРМАЦИЯ ОБ ОРГАНИЗАЦИИ</a></li>
+				<li><a href="/information/dokumenty-i-otchetnost-organizatsii/">ДОКУМЕНТЫ И ОТЧЕТНОСТЬ ОРГАНИЗАЦИИ</a></li>
+				<li><a href="/information/dokumenty-i-otchetnost-organizatsii/otchetnost-uk/">• ОТЧЕТНОСТЬ УК</a></li>
+				<li><span class="sidebar-active">• СОБСТВЕННЫЕ СРЕДСТВА УК</span></li>
+				<li><a href="/information/soobshcheniya-o-deyatelnosti-organizatsii/">СООБЩЕНИЯ О ДЕЯТЕЛЬНОСТИ ОРГАНИЗАЦИИ</a></li>
+				<li><a href="/information/struktura-i-sostav-uchastnikov-uk">СТРУКТУРА И СОСТАВ УЧАСТНИКОВ УК</a></li>
+				<li><a href="/information/edo/">ЭЛЕКТРОННЫЙ ДОКУМЕНТООБОРОТ</a></li>
+				<li><a href="/information/kvalifitsirovannym-investoram/">КВАЛИФИЦИРОВАННЫМ ИНВЕСТОРАМ</a></li>
+				<li><a href="/information/insayderam/">ИНСАЙДЕРАМ</a></li>
+				<li><a href="/information/fatca/">FATCA</a></li>
+				<li><a href="/information/informatsiya-dlya-klientov/">ИНФОРМАЦИЯ ДЛЯ КЛИЕНТОВ</a></li>
+	</ul>
+</div>
+<div class="visible-xs">
+	<select class="form-control link_sub_menu_vertical"><option value="" selected="selected">Выберите раздел из списка</option>
+						 			<option value="/information/o-kompanii/">ИНФОРМАЦИЯ ОБ ОРГАНИЗАЦИИ</option>
+	 			  					 			<option value="/information/dokumenty-i-otchetnost-organizatsii/">ДОКУМЕНТЫ И ОТЧЕТНОСТЬ ОРГАНИЗАЦИИ</option>
+	 			  					 			<option value="/information/dokumenty-i-otchetnost-organizatsii/otchetnost-uk/">• ОТЧЕТНОСТЬ УК</option>
+	 			  								<option value="/information/dokumenty-i-otchetnost-organizatsii/sobstvennye-sredstva-uk/" selected="selected">• СОБСТВЕННЫЕ СРЕДСТВА УК</option>
+				  					 			<option value="/information/soobshcheniya-o-deyatelnosti-organizatsii/">СООБЩЕНИЯ О ДЕЯТЕЛЬНОСТИ ОРГАНИЗАЦИИ</option>
+	 			  					 			<option value="/information/struktura-i-sostav-uchastnikov-uk">СТРУКТУРА И СОСТАВ УЧАСТНИКОВ УК</option>
+	 			  					 			<option value="/information/edo/">ЭЛЕКТРОННЫЙ ДОКУМЕНТООБОРОТ</option>
+	 			  					 			<option value="/information/kvalifitsirovannym-investoram/">КВАЛИФИЦИРОВАННЫМ ИНВЕСТОРАМ</option>
+	 			  					 			<option value="/information/insayderam/">ИНСАЙДЕРАМ</option>
+	 			  					 			<option value="/information/fatca/">FATCA</option>
+	 			  					 			<option value="/information/informatsiya-dlya-klientov/">ИНФОРМАЦИЯ ДЛЯ КЛИЕНТОВ</option>
+	 			  		</select>
+</div>
+
+
+
+
+
+<script>
+
+    $(function(){
+      // bind change event to select
+      $('.link_sub_menu_vertical').on('change', function () {
+          var url = $(this).val(); // get selected value
+          if (url) { // require a URL
+              window.location = url; // redirect
+          }
+          return false;
+      });
+
+      $(".link_sub_menu_vertical").prepend($('<option>', { 
+	        value: '',
+	        text : 'Выберите раздел из списка',
+	        selected : 'selected' 
+    	}));
+
+    });
+</script>
+
+
+				<!-- section menu -->
+				
+				<!-- sidebar right -->
+					<div class="hidden-xs hidden-sm">
+		<h2 class="section-title">ФИЛЬТР ПО ГОДАМ</h2>
+									<div class="facilities-sidebar__col buttonYear btnYear_2023 facilities-sidebar__col-big" data-year="2023">
+					<a href="#"></a>
+					<img src="/local/templates/wfst_uk_ipt/img/cal-big.png" class="yearImg" alt="">
+					<p>2023</p>
+				</div>
+												<div class="facilities-sidebar__col buttonYear btnYear_2022" data-year="2022">
+					<a href="#"></a>
+					<img src="/local/templates/wfst_uk_ipt/img/cal-small.png" class="yearImg" alt="">
+					<p>2022</p>
+				</div>
+												<div class="facilities-sidebar__col buttonYear btnYear_2021" data-year="2021">
+					<a href="#"></a>
+					<img src="/local/templates/wfst_uk_ipt/img/cal-small.png" class="yearImg" alt="">
+					<p>2021</p>
+				</div>
+												<div class="facilities-sidebar__col buttonYear btnYear_2020" data-year="2020">
+					<a href="#"></a>
+					<img src="/local/templates/wfst_uk_ipt/img/cal-small.png" class="yearImg" alt="">
+					<p>2020</p>
+				</div>
+												<div class="facilities-sidebar__col buttonYear btnYear_2019" data-year="2019">
+					<a href="#"></a>
+					<img src="/local/templates/wfst_uk_ipt/img/cal-small.png" class="yearImg" alt="">
+					<p>2019</p>
+				</div>
+												<div class="facilities-sidebar__col buttonYear btnYear_2018" data-year="2018">
+					<a href="#"></a>
+					<img src="/local/templates/wfst_uk_ipt/img/cal-small.png" class="yearImg" alt="">
+					<p>2018</p>
+				</div>
+												<div class="facilities-sidebar__col buttonYear btnYear_2017" data-year="2017">
+					<a href="#"></a>
+					<img src="/local/templates/wfst_uk_ipt/img/cal-small.png" class="yearImg" alt="">
+					<p>2017</p>
+				</div>
+					<br><br>
+	</div>
+
+	<div class="visible-xs"><br>
+		
+		<select class="form-control select_filter_year" id="select_filter_year">
+												<option value="2023" selected="selected">2023 год</option>
+						  							 			<option value="2022">2022 год</option>
+		 				  							 			<option value="2021">2021 год</option>
+		 				  							 			<option value="2020">2020 год</option>
+		 				  							 			<option value="2019">2019 год</option>
+		 				  							 			<option value="2018">2018 год</option>
+		 				  							 			<option value="2017">2017 год</option>
+		 				  			</select>
+	</div>
+					<!-- endsidebar right -->
+				
+	 		</div>
+
+			<div class="col-sm-8 col-sm-pull-4">
+				<h1 class="section-title">СОБСТВЕННЫЕ СРЕДСТВА УК</h1>
+				
+	
+
+
+<div id="comp_2a740a08af3c269828743e5d89d4dd82">
+<div class="facilities-wrap">
+
+	
+	<div class="sectionName year_2023 " style="display: block;">2023 год</div>
+
+	
+	
+	
+			
+		<div class="years year_2023 " style="display: block;">
+					<div class="facilities-block years year_2023 " id="bx_3218110189_267" style="display: block;">
+				<img src="/local/templates/wfst_uk_ipt/img/icons-1.png" alt="">
+				<span>15.06.2023 10:00:00</span>
+									<p><a href="/upload/iblock/de2/de2a69a031ceb4af3cac57dd059b4acf.pdf" target="_blank">Расчет размера собственных средств на 31.05.2023 (629.57 КБ)</a></p>
+								<span>Доступно до 15.06.2026</span>
+			</div>
+		</div>
+
+		
+			
+		<div class="years year_2023 " style="display: block;">
+					<div class="facilities-block years year_2023 " id="bx_3218110189_266" style="display: block;">
+				<img src="/local/templates/wfst_uk_ipt/img/icons-1.png" alt="">
+				<span>13.06.2023 10:00:00</span>
+									<p><a href="/upload/iblock/00b/00b738719c1598f2dd89ea3bd4875f56.pdf" target="_blank">Расчет размера собственных средств на 30.04.2023 (коррект. от 13.06.2023) (438.36 КБ)</a></p>
+								<span>Доступно до 13.06.2026</span>
+			</div>
+		</div>
+
+		
+			
+		<div class="years year_2023 " style="display: block;">
+					<div class="facilities-block years year_2023 " id="bx_3218110189_263" style="display: block;">
+				<img src="/local/templates/wfst_uk_ipt/img/icons-1.png" alt="">
+				<span>18.05.2023 10:59:13</span>
+									<p><a href="/upload/iblock/9f0/9f0aaf9c97363191c378ba5c7f91ccdf.pdf" target="_blank">Расчет размера собственных средств на 30.04.2023 (438.49 КБ)</a></p>
+								<span>Доступно до 18.05.2026</span>
+			</div>
+		</div>
+
+		
+			
+		<div class="years year_2023 " style="display: block;">
+					<div class="facilities-block years year_2023 " id="bx_3218110189_258" style="display: block;">
+				<img src="/local/templates/wfst_uk_ipt/img/icons-1.png" alt="">
+				<span>14.04.2023 15:20:03</span>
+									<p><a href="/upload/iblock/0a6/0a66467552a7546b9516ac3178ffb188.pdf" target="_blank">Расчет размера собственных средств на 31.03.2023 (434.52 КБ)</a></p>
+								<span>Доступно до 14.04.2026</span>
+			</div>
+		</div>
+
+		
+			
+		<div class="years year_2023 " style="display: block;">
+					<div class="facilities-block years year_2023 " id="bx_3218110189_251" style="display: block;">
+				<img src="/local/templates/wfst_uk_ipt/img/icons-1.png" alt="">
+				<span>29.03.2023 17:06:42</span>
+									<p><a href="/upload/iblock/344/344a8312215ace98dcb1357114ec1a5b.pdf" target="_blank">Расчет размера собственных средств на 28.02.2023 с учетом СПОД (корректировка) (434.5 КБ)</a></p>
+								<span>Доступно до 29.03.2026</span>
+			</div>
+		</div>
+
+		
+			
+		<div class="years year_2023 " style="display: block;">
+					<div class="facilities-block years year_2023 " id="bx_3218110189_250" style="display: block;">
+				<img src="/local/templates/wfst_uk_ipt/img/icons-1.png" alt="">
+				<span>29.03.2023 17:05:07</span>
+									<p><a href="/upload/iblock/91f/91f130191cdfde61fbc3d2a4646658a0.pdf" target="_blank">Расчет размера собственных средств на 31.01.2023 с учетом СПОД (корректировка) (434.52 КБ)</a></p>
+								<span>Доступно до 29.03.2026</span>
+			</div>
+		</div>
+
+		
+			
+		<div class="years year_2023 " style="display: block;">
+					<div class="facilities-block years year_2023 " id="bx_3218110189_248" style="display: block;">
+				<img src="/local/templates/wfst_uk_ipt/img/icons-1.png" alt="">
+				<span>15.03.2023 09:59:32</span>
+									<p><a href="/upload/iblock/cd2/cd2271d08873c3720209b401bff8959f.pdf" target="_blank">Расчет размера собственных средств на 28.02.2023 (434.5 КБ)</a></p>
+								<span>Доступно до 15.03.2026</span>
+			</div>
+		</div>
+
+		
+			
+		<div class="years year_2023 " style="display: block;">
+					<div class="facilities-block years year_2023 " id="bx_3218110189_247" style="display: block;">
+				<img src="/local/templates/wfst_uk_ipt/img/icons-1.png" alt="">
+				<span>15.02.2023 14:02:23</span>
+									<p><a href="/upload/iblock/c10/c10c8d5bd057691844f3b1f6b0253ce0.pdf" target="_blank">Расчет размера собственных средств на 31.01.2023 (434.53 КБ)</a></p>
+								<span>Доступно до 15.02.2026</span>
+			</div>
+		</div>
+
+		
+		
+	<div class="sectionName year_2022 " style="display: none;">2022 год</div>
+
+	
+	
+	
+			
+		<div class="years year_2022 " style="display: none;">
+					<div class="facilities-block years year_2022 " id="bx_3218110189_249" style="display: none;">
+				<img src="/local/templates/wfst_uk_ipt/img/icons-1.png" alt="">
+				<span>29.03.2023 17:01:06</span>
+									<p><a href="/upload/iblock/10f/10f12fff8e1bb855b925f92dafab76aa.pdf" target="_blank">Расчет размера собственных средств на 31.12.2022 с учетом СПОД (корректировка) (434.52 КБ)</a></p>
+								<span>Доступно до 29.03.2026</span>
+			</div>
+		</div>
+
+		
+			
+		<div class="years year_2022 " style="display: none;">
+					<div class="facilities-block years year_2022 " id="bx_3218110189_245" style="display: none;">
+				<img src="/local/templates/wfst_uk_ipt/img/icons-1.png" alt="">
+				<span>23.01.2023 11:47:11</span>
+									<p><a href="/upload/iblock/4c1/4c1c2a257c879bd370e40d52ed20b742.pdf" target="_blank">Расчет размера собственных средств на 31.12.2022 (434.52 КБ)</a></p>
+								<span>Доступно до 23.01.2026</span>
+			</div>
+		</div>
+
+		
+			
+		<div class="years year_2022 " style="display: none;">
+					<div class="facilities-block years year_2022 " id="bx_3218110189_244" style="display: none;">
+				<img src="/local/templates/wfst_uk_ipt/img/icons-1.png" alt="">
+				<span>16.01.2023 10:00:00</span>
+									<p><a href="/upload/iblock/77c/77cc09a05a77329747c77ba0f710a30e.pdf" target="_blank">Расчет размера собственных средств на 30.11.2022 (коррект. от 13.01.2023) (434.52 КБ)</a></p>
+								<span>Доступно до 16.01.2026</span>
+			</div>
+		</div>
+
+		
+			
+		<div class="years year_2022 " style="display: none;">
+					<div class="facilities-block years year_2022 " id="bx_3218110189_243" style="display: none;">
+				<img src="/local/templates/wfst_uk_ipt/img/icons-1.png" alt="">
+				<span>15.12.2022 11:12:25</span>
+									<p><a href="/upload/iblock/257/257f930e16af41ababc5bada5b49fc92.pdf" target="_blank">Расчет размера собственных средств на 30.11.2022 (434.52 КБ)</a></p>
+								<span>Доступно до 15.12.2025</span>
+			</div>
+		</div>
+
+		
+			
+		<div class="years year_2022 " style="display: none;">
+					<div class="facilities-block years year_2022 " id="bx_3218110189_242" style="display: none;">
+				<img src="/local/templates/wfst_uk_ipt/img/icons-1.png" alt="">
+				<span>16.11.2022 11:28:55</span>
+									<p><a href="/upload/iblock/102/102ec0f259f21b3fa71337fd3a0c36a8.pdf" target="_blank">Расчет размера собственных средств на 31.10.2022 (431.86 КБ)</a></p>
+								<span>Доступно до 16.11.2025</span>
+			</div>
+		</div>
+
+		
+			
+		<div class="years year_2022 " style="display: none;">
+					<div class="facilities-block years year_2022 " id="bx_3218110189_236" style="display: none;">
+				<img src="/local/templates/wfst_uk_ipt/img/icons-1.png" alt="">
+				<span>14.10.2022 16:40:39</span>
+									<p><a href="/upload/iblock/3d8/3d89593ae67ecbbbae5c125dea359e29.pdf" target="_blank">Расчет размера собственных средств на 30.09.2022 (434.52 КБ)</a></p>
+								<span>Доступно до 14.10.2025</span>
+			</div>
+		</div>
+
+		
+			
+		<div class="years year_2022 " style="display: none;">
+					<div class="facilities-block years year_2022 " id="bx_3218110189_235" style="display: none;">
+				<img src="/local/templates/wfst_uk_ipt/img/icons-1.png" alt="">
+				<span>13.09.2022 16:27:23</span>
+									<p><a href="/upload/iblock/c41/c41d48cb644f4725235c0259474714c0.pdf" target="_blank">Расчет размера собственных средств на 31.08.2022 (434.52 КБ)</a></p>
+								<span>Доступно до 13.09.2025</span>
+			</div>
+		</div>
+
+		
+			
+		<div class="years year_2022 " style="display: none;">
+					<div class="facilities-block years year_2022 " id="bx_3218110189_234" style="display: none;">
+				<img src="/local/templates/wfst_uk_ipt/img/icons-1.png" alt="">
+				<span>11.08.2022 14:22:01</span>
+									<p><a href="/upload/iblock/ee6/ee600e199faa019dc51d24a81a3a3a88.pdf" target="_blank">Расчет размера собственных средств на 31.07.2022 (434.52 КБ)</a></p>
+								<span>Доступно до 11.08.2025</span>
+			</div>
+		</div>
+
+		
+			
+		<div class="years year_2022 " style="display: none;">
+					<div class="facilities-block years year_2022 " id="bx_3218110189_226" style="display: none;">
+				<img src="/local/templates/wfst_uk_ipt/img/icons-1.png" alt="">
+				<span>15.07.2022 11:06:21</span>
+									<p><a href="/upload/iblock/2d1/2d10c698f9a95290505dfc41003cf70f.pdf" target="_blank">Расчет размера собственных средств на 30.06.2022 (434.51 КБ)</a></p>
+								<span>Доступно до 15.07.2025</span>
+			</div>
+		</div>
+
+		
+			
+		<div class="years year_2022 " style="display: none;">
+					<div class="facilities-block years year_2022 " id="bx_3218110189_225" style="display: none;">
+				<img src="/local/templates/wfst_uk_ipt/img/icons-1.png" alt="">
+				<span>15.06.2022 13:59:31</span>
+									<p><a href="/upload/iblock/3b1/3b1ad11a4c9ad601d5082399e259f47e.pdf" target="_blank">Расчет размера собственных средств на 31.05.2022 (434.52 КБ)</a></p>
+								<span>Доступно до 15.06.2025</span>
+			</div>
+		</div>
+
+		
+			
+		<div class="years year_2022 " style="display: none;">
+					<div class="facilities-block years year_2022 " id="bx_3218110189_224" style="display: none;">
+				<img src="/local/templates/wfst_uk_ipt/img/icons-1.png" alt="">
+				<span>19.05.2022 17:42:00</span>
+									<p><a href="/upload/iblock/27b/27b549e86cc5d0fbdb02e5b5b6810645.pdf" target="_blank">Расчет размера собственных средств на 30.04.2022 (434.53 КБ)</a></p>
+								<span>Доступно до 19.05.2025</span>
+			</div>
+		</div>
+
+		
+			
+		<div class="years year_2022 " style="display: none;">
+					<div class="facilities-block years year_2022 " id="bx_3218110189_219" style="display: none;">
+				<img src="/local/templates/wfst_uk_ipt/img/icons-1.png" alt="">
+				<span>15.04.2022 10:22:47</span>
+									<p><a href="/upload/iblock/cf4/cf45edeebc1c1121b90650a5e38a3638.pdf" target="_blank">Расчет размера собственных средств на 31.03.2022 (434.52 КБ)</a></p>
+								<span>Доступно до 15.04.2025</span>
+			</div>
+		</div>
+
+		
+			
+		<div class="years year_2022 " style="display: none;">
+					<div class="facilities-block years year_2022 " id="bx_3218110189_211" style="display: none;">
+				<img src="/local/templates/wfst_uk_ipt/img/icons-1.png" alt="">
+				<span>19.03.2022 09:49:21</span>
+									<p><a href="/upload/iblock/d77/d771306d56260cf6b3ba3cec2d910f79.pdf" target="_blank">Расчет размера собственных средств на 28.02.2022 с учетом СПОД (коррект. от 18.03.2022) (434.51 КБ)</a></p>
+								<span>Доступен до 19.03.2025</span>
+			</div>
+		</div>
+
+		
+			
+		<div class="years year_2022 " style="display: none;">
+					<div class="facilities-block years year_2022 " id="bx_3218110189_210" style="display: none;">
+				<img src="/local/templates/wfst_uk_ipt/img/icons-1.png" alt="">
+				<span>19.03.2022 09:48:58</span>
+									<p><a href="/upload/iblock/f1a/f1a93d1dd2bc35d2e080acf9db550a8f.pdf" target="_blank">Расчет размера собственных средств на 31.01.2022 с учетом СПОД (коррект. от 18.03.2022) (434.52 КБ)</a></p>
+								<span>Доступен до 19.03.2025</span>
+			</div>
+		</div>
+
+		
+			
+		<div class="years year_2022 " style="display: none;">
+					<div class="facilities-block years year_2022 " id="bx_3218110189_208" style="display: none;">
+				<img src="/local/templates/wfst_uk_ipt/img/icons-1.png" alt="">
+				<span>16.03.2022 10:02:19</span>
+									<p><a href="/upload/iblock/0b1/0b111b0047a87bafb1e6a10b52dc17a3.pdf" target="_blank">Расчет размера собственных средств на 28.02.2022 (431.86 КБ)</a></p>
+								<span>Доступно до 16.03.2025</span>
+			</div>
+		</div>
+
+		
+			
+		<div class="years year_2022 " style="display: none;">
+					<div class="facilities-block years year_2022 " id="bx_3218110189_207" style="display: none;">
+				<img src="/local/templates/wfst_uk_ipt/img/icons-1.png" alt="">
+				<span>15.02.2022 08:39:15</span>
+									<p><a href="/upload/iblock/386/38686ff53c4e70cf69bb5ecd7b711543.pdf" target="_blank">Расчет размера собственных средств на 31.01.2022 (431.86 КБ)</a></p>
+								<span>Доступно до 15.02.2025</span>
+			</div>
+		</div>
+
+		
+		
+	<div class="sectionName year_2021 " style="display: none;">2021 год</div>
+
+	
+	
+	
+			
+		<div class="years year_2021 " style="display: none;">
+					<div class="facilities-block years year_2021 " id="bx_3218110189_209" style="display: none;">
+				<img src="/local/templates/wfst_uk_ipt/img/icons-1.png" alt="">
+				<span>19.03.2022 09:47:59</span>
+									<p><a href="/upload/iblock/21d/21dde646ee5c27e0be9b012c1a5c060b.pdf" target="_blank">Расчет размера собственных средств на 31.12.2021 с учетом СПОД (коррект. от18.03.2022) (434.52 КБ)</a></p>
+								<span>Доступен до 19.03.2025</span>
+			</div>
+		</div>
+
+		
+			
+		<div class="years year_2021 " style="display: none;">
+					<div class="facilities-block years year_2021 " id="bx_3218110189_206" style="display: none;">
+				<img src="/local/templates/wfst_uk_ipt/img/icons-1.png" alt="">
+				<span>25.01.2022 09:32:31</span>
+									<p><a href="/upload/iblock/a16/a16bfb52df432a99ceff91213d5546aa.pdf" target="_blank">Расчет размера собственных средств на 31.12.2021 (434.53 КБ)</a></p>
+								<span>Доступно до 25.01.2025</span>
+			</div>
+		</div>
+
+		
+			
+		<div class="years year_2021 " style="display: none;">
+					<div class="facilities-block years year_2021 " id="bx_3218110189_205" style="display: none;">
+				<img src="/local/templates/wfst_uk_ipt/img/icons-1.png" alt="">
+				<span>14.12.2021 18:28:07</span>
+									<p><a href="/upload/iblock/8cf/8cfb82c3e106448acaa74b060c3ab761.pdf" target="_blank">Расчет размера собственных средств на 30.11.2021 (493.85 КБ)</a></p>
+								<span>Доступно до 14.12.2024</span>
+			</div>
+		</div>
+
+		
+			
+		<div class="years year_2021 " style="display: none;">
+					<div class="facilities-block years year_2021 " id="bx_3218110189_204" style="display: none;">
+				<img src="/local/templates/wfst_uk_ipt/img/icons-1.png" alt="">
+				<span>19.11.2021 15:21:56</span>
+									<p><a href="/upload/iblock/6d0/6d0f9a9ae7da9d277a835f8cb1ca95e8.pdf" target="_blank">Расчёт размера собственных средств на 31.10.2021 (493.84 КБ)</a></p>
+								<span>Доступно до 19.11.2024</span>
+			</div>
+		</div>
+
+		
+			
+		<div class="years year_2021 " style="display: none;">
+					<div class="facilities-block years year_2021 " id="bx_3218110189_197" style="display: none;">
+				<img src="/local/templates/wfst_uk_ipt/img/icons-1.png" alt="">
+				<span>18.10.2021 10:15:41</span>
+									<p><a href="/upload/iblock/3a7/3a7471743730b7bb329d5df5472cd545.pdf" target="_blank">Расчет размера собственных средств на 30.09.2021 (493.85 КБ)</a></p>
+								<span>Доступно до 18.10.2024</span>
+			</div>
+		</div>
+
+		
+			
+		<div class="years year_2021 " style="display: none;">
+					<div class="facilities-block years year_2021 " id="bx_3218110189_195" style="display: none;">
+				<img src="/local/templates/wfst_uk_ipt/img/icons-1.png" alt="">
+				<span>27.09.2021 10:55:40</span>
+									<p><a href="/upload/iblock/7c3/7c34fd4b276bddb6dfdb9e32885b843f.pdf" target="_blank">Расчет размера собственных средств на 31.08.2021 (488.8 КБ)</a></p>
+								<span>Доступно до 27.09.2024</span>
+			</div>
+		</div>
+
+		
+			
+		<div class="years year_2021 " style="display: none;">
+					<div class="facilities-block years year_2021 " id="bx_3218110189_194" style="display: none;">
+				<img src="/local/templates/wfst_uk_ipt/img/icons-1.png" alt="">
+				<span>26.08.2021 22:00:17</span>
+									<p><a href="/upload/iblock/f05/f0500b119d886252e5a79197c12acedd.pdf" target="_blank">Расчет размера собственных средств на 31.07.2021 (493.87 КБ)</a></p>
+								<span>Доступно до 26.08.2024</span>
+			</div>
+		</div>
+
+		
+			
+		<div class="years year_2021 " style="display: none;">
+					<div class="facilities-block years year_2021 " id="bx_3218110189_188" style="display: none;">
+				<img src="/local/templates/wfst_uk_ipt/img/icons-1.png" alt="">
+				<span>29.07.2021 15:08:29</span>
+									<p><a href="/upload/iblock/6dd/6dd0cf1395053b0ec82ff57bb9ed960a.pdf" target="_blank">Расчет размера собственных средств на 30.06.2021 (493.87 КБ)</a></p>
+								<span>Доступно до 29.07.2024</span>
+			</div>
+		</div>
+
+		
+			
+		<div class="years year_2021 " style="display: none;">
+					<div class="facilities-block years year_2021 " id="bx_3218110189_187" style="display: none;">
+				<img src="/local/templates/wfst_uk_ipt/img/icons-1.png" alt="">
+				<span>29.06.2021 00:16:22</span>
+									<p><a href="/upload/iblock/6c5/6c5d0fe87191074864655533949b2222.pdf" target="_blank">Расчет размера собственных средств на 31.05.2021 (488.73 КБ)</a></p>
+								<span>Доступно до 29.06.2024</span>
+			</div>
+		</div>
+
+		
+			
+		<div class="years year_2021 " style="display: none;">
+					<div class="facilities-block years year_2021 " id="bx_3218110189_185" style="display: none;">
+				<img src="/local/templates/wfst_uk_ipt/img/icons-1.png" alt="">
+				<span>26.05.2021 16:07:37</span>
+									<p><a href="/upload/iblock/07a/07a9b7fa8d8fbe710b45bc12711ef9ec.pdf" target="_blank">Расчет размера собственных средств на 30.04.2021 (493.87 КБ)</a></p>
+								<span>Доступно до 26.05.2024</span>
+			</div>
+		</div>
+
+		
+			
+		<div class="years year_2021 " style="display: none;">
+					<div class="facilities-block years year_2021 " id="bx_3218110189_179" style="display: none;">
+				<img src="/local/templates/wfst_uk_ipt/img/icons-1.png" alt="">
+				<span>28.04.2021 20:18:44</span>
+									<p><a href="/upload/iblock/f96/f96229bc2a0b05688c11ed9263b58a4a.pdf" target="_blank">Расчет размера собственных средств на 31.03.2021 (488.74 КБ)</a></p>
+								<span>Доступно до 28.04.2024</span>
+			</div>
+		</div>
+
+		
+			
+		<div class="years year_2021 " style="display: none;">
+					<div class="facilities-block years year_2021 " id="bx_3218110189_176" style="display: none;">
+				<img src="/local/templates/wfst_uk_ipt/img/icons-1.png" alt="">
+				<span>29.03.2021 11:52:48</span>
+									<p><a href="/upload/iblock/dd6/dd6ce395c6964a7342362b337d6fed93.pdf" target="_blank">Расчет размера собственных средств на 28.02.2021 (493.87 КБ)</a></p>
+								<span>Доступно до 29.03.2024</span>
+			</div>
+		</div>
+
+		
+			
+		<div class="years year_2021 " style="display: none;">
+					<div class="facilities-block years year_2021 " id="bx_3218110189_169" style="display: none;">
+				<img src="/local/templates/wfst_uk_ipt/img/icons-1.png" alt="">
+				<span>22.02.2021 11:19:25</span>
+									<p><a href="/upload/iblock/0b3/0b3490adc0470d42099242ed3979efcb.pdf" target="_blank">Расчет размера собственных средств на 31.01.2021 (488.71 КБ)</a></p>
+								<span>Доступно до 22.02.2024</span>
+			</div>
+		</div>
+
+		
+		
+	<div class="sectionName year_2020 " style="display: none;">2020 год</div>
+
+	
+	
+	
+			
+		<div class="years year_2020 " style="display: none;">
+					<div class="facilities-block years year_2020 " id="bx_3218110189_166" style="display: none;">
+				<img src="/local/templates/wfst_uk_ipt/img/icons-1.png" alt="">
+				<span>27.01.2021 11:44:36</span>
+									<p><a href="/upload/iblock/aab/aab152efd05ff44ee957887775122035.pdf" target="_blank">Расчет размера собственных средств на 31.12.2020 (493.99 КБ)</a></p>
+								<span>Доступно до 27.01.2024</span>
+			</div>
+		</div>
+
+		
+			
+		<div class="years year_2020 " style="display: none;">
+					<div class="facilities-block years year_2020 " id="bx_3218110189_164" style="display: none;">
+				<img src="/local/templates/wfst_uk_ipt/img/icons-1.png" alt="">
+				<span>29.12.2020 08:54:09</span>
+									<p><a href="/upload/iblock/1be/1be23d3852929fb2dee520074fd3caa3.pdf" target="_blank">Расчет размера собственных средств на 30.11.2020 (493.99 КБ)</a></p>
+								<span>Доступно до 29.12.2023</span>
+			</div>
+		</div>
+
+		
+			
+		<div class="years year_2020 " style="display: none;">
+					<div class="facilities-block years year_2020 " id="bx_3218110189_163" style="display: none;">
+				<img src="/local/templates/wfst_uk_ipt/img/icons-1.png" alt="">
+				<span>27.11.2020 12:56:35</span>
+									<p><a href="/upload/iblock/a57/a57bb00d60d125791366bc0f63af02b7.pdf" target="_blank">Расчет размера собственных средств на 31.10.2020 (487.99 КБ)</a></p>
+								<span>Доступно до 27.11.2023</span>
+			</div>
+		</div>
+
+		
+			
+		<div class="years year_2020 " style="display: none;">
+					<div class="facilities-block years year_2020 " id="bx_3218110189_154" style="display: none;">
+				<img src="/local/templates/wfst_uk_ipt/img/icons-1.png" alt="">
+				<span>30.10.2020 08:34:49</span>
+									<p><a href="/upload/iblock/50b/50b05b4bae66e20eb0437f74fffca14e.pdf" target="_blank">Расчет размера собственных средств на 30.09.2020 (493.94 КБ)</a></p>
+								<span>Доступно до 30.10.2023</span>
+			</div>
+		</div>
+
+		
+			
+		<div class="years year_2020 " style="display: none;">
+					<div class="facilities-block years year_2020 " id="bx_3218110189_151" style="display: none;">
+				<img src="/local/templates/wfst_uk_ipt/img/icons-1.png" alt="">
+				<span>30.09.2020 08:01:12</span>
+									<p><a href="/upload/iblock/b57/b5720c0f2f54d5b937c5d2d60f47ef14.pdf" target="_blank">Расчет размера собственных средств на 31.08.2020 (494.04 КБ)</a></p>
+								<span>Доступно до 30.09.2021</span>
+			</div>
+		</div>
+
+		
+			
+		<div class="years year_2020 " style="display: none;">
+					<div class="facilities-block years year_2020 " id="bx_3218110189_150" style="display: none;">
+				<img src="/local/templates/wfst_uk_ipt/img/icons-1.png" alt="">
+				<span>30.09.2020 08:00:05</span>
+									<p><a href="/upload/iblock/ed5/ed580bf74efc143a1a563a52f92bbc5f.pdf" target="_blank">Расчет размера собственных средств на 31.07.2020-корректировка 29.09.2020 (493.99 КБ)</a></p>
+								<span>Доступно до 30.09.2021</span>
+			</div>
+		</div>
+
+		
+			
+		<div class="years year_2020 " style="display: none;">
+					<div class="facilities-block years year_2020 " id="bx_3218110189_137" style="display: none;">
+				<img src="/local/templates/wfst_uk_ipt/img/icons-1.png" alt="">
+				<span>19.08.2020 08:57:49</span>
+									<p><a href="/upload/iblock/0df/0df3dab1846c9247d9f68bbacdca2323.pdf" target="_blank">Расчет размера собственных средств на 31.07.2020 (493.01 КБ)</a></p>
+								<span>Доступно до 19.08.2021</span>
+			</div>
+		</div>
+
+		
+			
+		<div class="years year_2020 " style="display: none;">
+					<div class="facilities-block years year_2020 " id="bx_3218110189_136" style="display: none;">
+				<img src="/local/templates/wfst_uk_ipt/img/icons-1.png" alt="">
+				<span>30.07.2020 13:22:40</span>
+									<p><a href="/upload/iblock/fe7/fe764a010c7435ab4bdedfbacaedbf33.pdf" target="_blank">Расчет размера собственных средств на 30.06.2020  (240.8 КБ)</a></p>
+								<span>Доступно до 30.07.2021</span>
+			</div>
+		</div>
+
+		
+			
+		<div class="years year_2020 " style="display: none;">
+					<div class="facilities-block years year_2020 " id="bx_3218110189_135" style="display: none;">
+				<img src="/local/templates/wfst_uk_ipt/img/icons-1.png" alt="">
+				<span>30.07.2020 13:22:03</span>
+									<p><a href="/upload/iblock/d40/d40ac90c0cc95119e90a26ab87b0f385.pdf" target="_blank">Расчет размера собственных средств на 31.05.2020-корректировка 29.07.2020 (240.79 КБ)</a></p>
+								<span>Доступно до 30.07.2021</span>
+			</div>
+		</div>
+
+		
+			
+		<div class="years year_2020 " style="display: none;">
+					<div class="facilities-block years year_2020 " id="bx_3218110189_134" style="display: none;">
+				<img src="/local/templates/wfst_uk_ipt/img/icons-1.png" alt="">
+				<span>30.06.2020 18:59:27</span>
+									<p><a href="/upload/iblock/790/79000da0b9b9494bc32eea7920a49178.pdf" target="_blank">Расчет размера собственных средств на 31.05.2020г  (240.8 КБ)</a></p>
+								<span>Доступно до 30.06.2021</span>
+			</div>
+		</div>
+
+		
+			
+		<div class="years year_2020 " style="display: none;">
+					<div class="facilities-block years year_2020 " id="bx_3218110189_133" style="display: none;">
+				<img src="/local/templates/wfst_uk_ipt/img/icons-1.png" alt="">
+				<span>26.05.2020 12:48:45</span>
+									<p><a href="/upload/iblock/a70/a70c4c8a50f5a62533594c8e6f266b40.pdf" target="_blank">Расчет размера собственных средств на 30.04.2020 (240.78 КБ)</a></p>
+								<span>Доступно до 26.05.2021</span>
+			</div>
+		</div>
+
+		
+			
+		<div class="years year_2020 " style="display: none;">
+					<div class="facilities-block years year_2020 " id="bx_3218110189_132" style="display: none;">
+				<img src="/local/templates/wfst_uk_ipt/img/icons-1.png" alt="">
+				<span>17.04.2020 11:28:50</span>
+									<p><a href="/upload/iblock/047/047abf47d9894033782972490a15dc73.pdf" target="_blank">Расчет размера собственных средств на 31.03.2020 (240.81 КБ)</a></p>
+								<span>Доступно до 17.04.2021</span>
+			</div>
+		</div>
+
+		
+			
+		<div class="years year_2020 " style="display: none;">
+					<div class="facilities-block years year_2020 " id="bx_3218110189_131" style="display: none;">
+				<img src="/local/templates/wfst_uk_ipt/img/icons-1.png" alt="">
+				<span>14.04.2020 14:56:52</span>
+									<p><a href="/upload/iblock/790/79060efb3edd9d4cc6cb74d666b95abc.pdf" target="_blank">Расчет размера собственных средств на 29.02.2020 (корректировка 13.04.2020) (240.8 КБ)</a></p>
+								<span>Доступно до 14.04.2021</span>
+			</div>
+		</div>
+
+		
+			
+		<div class="years year_2020 " style="display: none;">
+					<div class="facilities-block years year_2020 " id="bx_3218110189_122" style="display: none;">
+				<img src="/local/templates/wfst_uk_ipt/img/icons-1.png" alt="">
+				<span>18.03.2020 20:40:19</span>
+									<p><a href="/upload/iblock/6c0/6c0d511575ca737f01c1224105dfc03e.pdf" target="_blank">Расчет размера собственных средств на 29.02.2020 (240.77 КБ)</a></p>
+								<span>Доступно до 18.03.2021</span>
+			</div>
+		</div>
+
+		
+			
+		<div class="years year_2020 " style="display: none;">
+					<div class="facilities-block years year_2020 " id="bx_3218110189_121" style="display: none;">
+				<img src="/local/templates/wfst_uk_ipt/img/icons-1.png" alt="">
+				<span>20.02.2020 12:55:15</span>
+									<p><a href="/upload/iblock/ae2/ae2bbc1056900b1c227f46fc13787c9f.pdf" target="_blank">Расчет размера собственных средств на 31.01.2020 (240.78 КБ)</a></p>
+								<span>Доступно до 20.02.2021</span>
+			</div>
+		</div>
+
+		
+		
+	<div class="sectionName year_2019 " style="display: none;">2019 год</div>
+
+	
+	
+	
+			
+		<div class="years year_2019 " style="display: none;">
+					<div class="facilities-block years year_2019 " id="bx_3218110189_119" style="display: none;">
+				<img src="/local/templates/wfst_uk_ipt/img/icons-1.png" alt="">
+				<span>27.01.2020 20:45:30</span>
+									<p><a href="/upload/iblock/500/500684f513b780c227184bdc60c0357b.pdf" target="_blank">Расчет размера собственных средств на 31.12.2019 (280.39 КБ)</a></p>
+								<span>Доступно до 27.01.2021</span>
+			</div>
+		</div>
+
+		
+			
+		<div class="years year_2019 " style="display: none;">
+					<div class="facilities-block years year_2019 " id="bx_3218110189_118" style="display: none;">
+				<img src="/local/templates/wfst_uk_ipt/img/icons-1.png" alt="">
+				<span>30.12.2019 11:01:00</span>
+									<p><a href="/upload/iblock/cfa/cfa9b0b123d45070a0983a29ad90d32d.pdf" target="_blank">Расчет размера собственных средств на 30.11.2019 (480.18 КБ)</a></p>
+								<span>Доступно до 30.12.2020</span>
+			</div>
+		</div>
+
+		
+			
+		<div class="years year_2019 " style="display: none;">
+					<div class="facilities-block years year_2019 " id="bx_3218110189_117" style="display: none;">
+				<img src="/local/templates/wfst_uk_ipt/img/icons-1.png" alt="">
+				<span>29.11.2019 16:13:30</span>
+									<p><a href="/upload/iblock/464/4647ef11c066d406dca4eb94cfffbea0.pdf" target="_blank">Расчет размера собственных средств на 31.10.2019 (280.38 КБ)</a></p>
+								<span>Доступно до 29.11.2020</span>
+			</div>
+		</div>
+
+		
+			
+		<div class="years year_2019 " style="display: none;">
+					<div class="facilities-block years year_2019 " id="bx_3218110189_116" style="display: none;">
+				<img src="/local/templates/wfst_uk_ipt/img/icons-1.png" alt="">
+				<span>29.11.2019 16:12:46</span>
+									<p><a href="/upload/iblock/cdb/cdbacfe44be3a48a4d995409a7c32944.pdf" target="_blank">Расчет размера собственных средств на 30.09.2019 (корректировка от 28.11.2019) (280.38 КБ)</a></p>
+								<span>Доступно до 29.11.2020</span>
+			</div>
+		</div>
+
+		
+			
+		<div class="years year_2019 " style="display: none;">
+					<div class="facilities-block years year_2019 " id="bx_3218110189_113" style="display: none;">
+				<img src="/local/templates/wfst_uk_ipt/img/icons-1.png" alt="">
+				<span>21.10.2019 09:54:28</span>
+									<p><a href="/upload/iblock/3f1/3f1b398bbd140d3a88b0fa247b87c307.pdf" target="_blank">Расчет размера собственных средств на 30.09.2019 (280.38 КБ)</a></p>
+								<span>Доступно до 21.10.2020</span>
+			</div>
+		</div>
+
+		
+			
+		<div class="years year_2019 " style="display: none;">
+					<div class="facilities-block years year_2019 " id="bx_3218110189_112" style="display: none;">
+				<img src="/local/templates/wfst_uk_ipt/img/icons-1.png" alt="">
+				<span>16.09.2019 16:20:33</span>
+									<p><a href="/upload/iblock/5c6/5c6bb0fb508294749b597378be8056c9.pdf" target="_blank">Расчет размера собственных средств на 31.08.2019 (280.37 КБ)</a></p>
+								<span>Доступно до: 16.09.2020</span>
+			</div>
+		</div>
+
+		
+			
+		<div class="years year_2019 " style="display: none;">
+					<div class="facilities-block years year_2019 " id="bx_3218110189_111" style="display: none;">
+				<img src="/local/templates/wfst_uk_ipt/img/icons-1.png" alt="">
+				<span>30.08.2019 15:48:13</span>
+									<p><a href="/upload/iblock/dd8/dd88e86751efe1324886b477c159a99f.pdf" target="_blank">Расчет размера собственных средств на 31.07.2019 (280.38 КБ)</a></p>
+								<span>Доступно до: 30.08.2020</span>
+			</div>
+		</div>
+
+		
+			
+		<div class="years year_2019 " style="display: none;">
+					<div class="facilities-block years year_2019 " id="bx_3218110189_107" style="display: none;">
+				<img src="/local/templates/wfst_uk_ipt/img/icons-1.png" alt="">
+				<span>26.07.2019 14:50:54</span>
+									<p><a href="/upload/iblock/540/5407d0dd90e9993e49a77c1226f6b07c.pdf" target="_blank">Расчет размера собственных средств на 30.06.2019 (486.75 КБ)</a></p>
+								<span>Доступно до:26.07.2020</span>
+			</div>
+		</div>
+
+		
+			
+		<div class="years year_2019 " style="display: none;">
+					<div class="facilities-block years year_2019 " id="bx_3218110189_106" style="display: none;">
+				<img src="/local/templates/wfst_uk_ipt/img/icons-1.png" alt="">
+				<span>18.06.2019 09:11:47</span>
+									<p><a href="/upload/iblock/581/581c00a13343879c1d6351d6ecabb6c0.pdf" target="_blank">Расчет размера собственных средств на 31.05.2019 (240.76 КБ)</a></p>
+								<span>Доступно до: 18.06.2020</span>
+			</div>
+		</div>
+
+		
+			
+		<div class="years year_2019 " style="display: none;">
+					<div class="facilities-block years year_2019 " id="bx_3218110189_105" style="display: none;">
+				<img src="/local/templates/wfst_uk_ipt/img/icons-1.png" alt="">
+				<span>28.05.2019 19:20:18</span>
+									<p><a href="/upload/iblock/b66/b66be76910f363d2ed98479bdeaed985.pdf" target="_blank">Расчет размера собственных средств на 30.04.2019 (280.37 КБ)</a></p>
+								<span>Доступно до: 28.05.2020</span>
+			</div>
+		</div>
+
+		
+			
+		<div class="years year_2019 " style="display: none;">
+					<div class="facilities-block years year_2019 " id="bx_3218110189_101" style="display: none;">
+				<img src="/local/templates/wfst_uk_ipt/img/icons-1.png" alt="">
+				<span>28.04.2019 14:45:17</span>
+									<p><a href="/upload/iblock/a04/a04624dd1d735210301620f2220ef13c.pdf" target="_blank">Расчет размера собственных средств на 31.03.2019 (457.69 КБ)</a></p>
+								<span>Доступно до: 28.04.2020</span>
+			</div>
+		</div>
+
+		
+			
+		<div class="years year_2019 " style="display: none;">
+					<div class="facilities-block years year_2019 " id="bx_3218110189_92" style="display: none;">
+				<img src="/local/templates/wfst_uk_ipt/img/icons-1.png" alt="">
+				<span>28.03.2019 14:25:02</span>
+									<p><a href="/upload/iblock/bd5/bd58e4cd388931bdc879a7940577f741.pdf" target="_blank">Расчет размера собственных средств на 28.02.2019 (458.02 КБ)</a></p>
+								<span>Доступно до: 28.03.2020</span>
+			</div>
+		</div>
+
+		
+			
+		<div class="years year_2019 " style="display: none;">
+					<div class="facilities-block years year_2019 " id="bx_3218110189_91" style="display: none;">
+				<img src="/local/templates/wfst_uk_ipt/img/icons-1.png" alt="">
+				<span>28.03.2019 14:21:11</span>
+									<p><a href="/upload/iblock/e0b/e0bb2b931268abf103915fe979aea207.pdf" target="_blank">Расчет размера собственных средств на 31.01.2019 (корректировка 28.03.2019) (461.42 КБ)</a></p>
+								<span>Доступно до: 28.03.2020</span>
+			</div>
+		</div>
+
+		
+			
+		<div class="years year_2019 " style="display: none;">
+					<div class="facilities-block years year_2019 " id="bx_3218110189_90" style="display: none;">
+				<img src="/local/templates/wfst_uk_ipt/img/icons-1.png" alt="">
+				<span>12.03.2019 08:27:01</span>
+									<p><a href="/upload/iblock/5ed/5edd34c1610833b33247695599e8c240.pdf" target="_blank">Расчет размера собственных средств на 31.01.2019 (корректировка от 12.03.2019) (461.42 КБ)</a></p>
+								<span>Доступно до: 12.03.2020</span>
+			</div>
+		</div>
+
+		
+			
+		<div class="years year_2019 " style="display: none;">
+					<div class="facilities-block years year_2019 " id="bx_3218110189_89" style="display: none;">
+				<img src="/local/templates/wfst_uk_ipt/img/icons-1.png" alt="">
+				<span>28.02.2019 13:02:29</span>
+									<p><a href="/upload/iblock/428/42820d143774a98faa803a8095bfae6b.pdf" target="_blank">Расчет размера собственных средств на 31.01.2019 (461.4 КБ)</a></p>
+								<span>Доступно до: 28.02.2020</span>
+			</div>
+		</div>
+
+		
+		
+	<div class="sectionName year_2018 " style="display: none;">2018 год</div>
+
+	
+	
+	
+			
+		<div class="years year_2018 " style="display: none;">
+					<div class="facilities-block years year_2018 " id="bx_3218110189_100" style="display: none;">
+				<img src="/local/templates/wfst_uk_ipt/img/icons-1.png" alt="">
+				<span>11.04.2019 08:49:22</span>
+									<p><a href="/upload/iblock/6c1/6c11b78c377896a99fc042aaee5a3d13.pdf" target="_blank">Расчет размера собственных средств на 31.05.2018 (корректировка от 10.04.2019) (444.41 КБ)</a></p>
+								<span>Доступно до: 11.04.2020</span>
+			</div>
+		</div>
+
+		
+			
+		<div class="years year_2018 " style="display: none;">
+					<div class="facilities-block years year_2018 " id="bx_3218110189_84" style="display: none;">
+				<img src="/local/templates/wfst_uk_ipt/img/icons-1.png" alt="">
+				<span>30.01.2019 13:39:51</span>
+									<p><a href="/upload/iblock/47e/47e735f709eb9d83f71da0ac8ca0bf27.pdf" target="_blank">Расчет размера собственных средств на 31.12.2018 (460.27 КБ)</a></p>
+								<span>Доступно до: 30.01.2020</span>
+			</div>
+		</div>
+
+		
+			
+		<div class="years year_2018 " style="display: none;">
+					<div class="facilities-block years year_2018 " id="bx_3218110189_83" style="display: none;">
+				<img src="/local/templates/wfst_uk_ipt/img/icons-1.png" alt="">
+				<span>23.01.2019 15:17:03</span>
+									<p><a href="/upload/iblock/cac/cacc7a9d084152f32ad4f26441c948d6.pdf" target="_blank">Расчет размера собственных средств на 31.10.2018 (корректировка 23.01.2019) (280.35 КБ)</a></p>
+								<span>Доступно до: 23.01.2020</span>
+			</div>
+		</div>
+
+		
+			
+		<div class="years year_2018 " style="display: none;">
+					<div class="facilities-block years year_2018 " id="bx_3218110189_82" style="display: none;">
+				<img src="/local/templates/wfst_uk_ipt/img/icons-1.png" alt="">
+				<span>29.12.2018 09:28:53</span>
+									<p><a href="/upload/iblock/445/4452799ffad8832b86af8c87067b8363.pdf" target="_blank">Расчет размера собственных средств на 30.11.2018 (280.35 КБ)</a></p>
+								<span>Доступно до: 29.12.2019</span>
+			</div>
+		</div>
+
+		
+			
+		<div class="years year_2018 " style="display: none;">
+					<div class="facilities-block years year_2018 " id="bx_3218110189_80" style="display: none;">
+				<img src="/local/templates/wfst_uk_ipt/img/icons-1.png" alt="">
+				<span>29.11.2018 16:58:02</span>
+									<p><a href="/upload/iblock/6a5/6a5875bdde5b0bb6be328f98d305fbc2.pdf" target="_blank">Расчет размера собственных средств на 31.10.2018 (240.73 КБ)</a></p>
+								<span>Доступно до: 29.11.2019</span>
+			</div>
+		</div>
+
+		
+			
+		<div class="years year_2018 " style="display: none;">
+					<div class="facilities-block years year_2018 " id="bx_3218110189_77" style="display: none;">
+				<img src="/local/templates/wfst_uk_ipt/img/icons-1.png" alt="">
+				<span>30.10.2018 22:02:35</span>
+									<p><a href="/upload/iblock/5a3/5a3f7e56dce059df4a97a6243d82bd83.pdf" target="_blank">Расчет размера собственных средств на 30.09.2018 (корректировка от 30.10.18) (280.35 КБ)</a></p>
+								<span>Доступно до: 30.10.2019</span>
+			</div>
+		</div>
+
+		
+			
+		<div class="years year_2018 " style="display: none;">
+					<div class="facilities-block years year_2018 " id="bx_3218110189_76" style="display: none;">
+				<img src="/local/templates/wfst_uk_ipt/img/icons-1.png" alt="">
+				<span>30.10.2018 09:25:54</span>
+									<p><a href="/upload/iblock/0ab/0abcd870cc7e024c2c29fc93a481b546.pdf" target="_blank">Расчет размера собственных средств на 30.09.2018 (280.36 КБ)</a></p>
+								<span>Доступно до: 30.10.2019</span>
+			</div>
+		</div>
+
+		
+			
+		<div class="years year_2018 " style="display: none;">
+					<div class="facilities-block years year_2018 " id="bx_3218110189_74" style="display: none;">
+				<img src="/local/templates/wfst_uk_ipt/img/icons-1.png" alt="">
+				<span>30.10.2018 09:25:38</span>
+									<p><a href="/upload/iblock/399/3990a3bf62f26408a8935d29ac6a607a.pdf" target="_blank">Расчет размера собственных средств на 31.05.2018 (корректировка от 29.10.2018) (444.4 КБ)</a></p>
+								<span>Доступно до: 30.10.2019</span>
+			</div>
+		</div>
+
+		
+			
+		<div class="years year_2018 " style="display: none;">
+					<div class="facilities-block years year_2018 " id="bx_3218110189_75" style="display: none;">
+				<img src="/local/templates/wfst_uk_ipt/img/icons-1.png" alt="">
+				<span>30.10.2018 09:25:11</span>
+									<p><a href="/upload/iblock/0b2/0b22125a783eec8fc0c4596259935bef.pdf" target="_blank">Расчет размера собственных средств на 30.06.2018 (корректировка от 29.10.2018) (280.37 КБ)</a></p>
+								<span>Доступно до: 30.10.2019</span>
+			</div>
+		</div>
+
+		
+			
+		<div class="years year_2018 " style="display: none;">
+					<div class="facilities-block years year_2018 " id="bx_3218110189_65" style="display: none;">
+				<img src="/local/templates/wfst_uk_ipt/img/icons-1.png" alt="">
+				<span>26.09.2018 17:04:39</span>
+									<p><a href="/upload/iblock/e1c/e1c4f2ad517b939a1014ef1a2c5bce69.pdf" target="_blank">Расчет размера собственных средств на 31.08.2018 (283 Кб) (278.97 КБ)</a></p>
+								<span>Доступно до: 26.09.2019</span>
+			</div>
+		</div>
+
+		
+			
+		<div class="years year_2018 " style="display: none;">
+					<div class="facilities-block years year_2018 " id="bx_3218110189_64" style="display: none;">
+				<img src="/local/templates/wfst_uk_ipt/img/icons-1.png" alt="">
+				<span>31.08.2018 11:45:00</span>
+									<p><a href="/upload/iblock/d46/d46f3c5f49748dd7a0e2a88f57967cad.pdf" target="_blank">Расчет размера собственных средств на 31.07.2018 (283 Кб) (278.97 КБ)</a></p>
+								<span>Доступно до: 31.08.2019</span>
+			</div>
+		</div>
+
+		
+			
+		<div class="years year_2018 " style="display: none;">
+					<div class="facilities-block years year_2018 " id="bx_3218110189_28" style="display: none;">
+				<img src="/local/templates/wfst_uk_ipt/img/icons-1.png" alt="">
+				<span>23.07.2018 08:45:00</span>
+									<p><a href="/upload/iblock/9a2/9a29b4e9945d1b5d7dec1165647ec8df.pdf" target="_blank">Расчет размера собственных средств на 30.06.2018 (279 Кб) (278.99 КБ)</a></p>
+								<span>Доступно до: 23.07.2019</span>
+			</div>
+		</div>
+
+		
+			
+		<div class="years year_2018 " style="display: none;">
+					<div class="facilities-block years year_2018 " id="bx_3218110189_27" style="display: none;">
+				<img src="/local/templates/wfst_uk_ipt/img/icons-1.png" alt="">
+				<span>29.06.2018 14:05:00</span>
+									<p><a href="/upload/iblock/d84/d849374ee2cf8176d2b4663afc078f56.pdf" target="_blank">Расчет размера собственных средств на 31.05.2018 (448 Кб) (444.35 КБ)</a></p>
+								<span>Доступно до: 29.06.2019</span>
+			</div>
+		</div>
+
+		
+			
+		<div class="years year_2018 " style="display: none;">
+					<div class="facilities-block years year_2018 " id="bx_3218110189_26" style="display: none;">
+				<img src="/local/templates/wfst_uk_ipt/img/icons-1.png" alt="">
+				<span>28.05.2018 16:30:00</span>
+									<p><a href="/upload/iblock/c5e/c5e9c009af0ec0bf1404e7b8f2ac5811.pdf" target="_blank">Расчет размера собственных средств на 30.04.2018 (207 Кб) (208.11 КБ)</a></p>
+								<span>Доступно до: 28.05.2019</span>
+			</div>
+		</div>
+
+		
+			
+		<div class="years year_2018 " style="display: none;">
+					<div class="facilities-block years year_2018 " id="bx_3218110189_25" style="display: none;">
+				<img src="/local/templates/wfst_uk_ipt/img/icons-1.png" alt="">
+				<span>13.04.2018 15:40:00</span>
+									<p><a href="/upload/iblock/e94/e940b8d1299b77921b90ed440bf37a36.pdf" target="_blank">Расчет размера собственных средств на 31.03.2018 (207 Кб) (207.35 КБ)</a></p>
+								<span>Доступно до: 13.04.2019</span>
+			</div>
+		</div>
+
+		
+			
+		<div class="years year_2018 " style="display: none;">
+					<div class="facilities-block years year_2018 " id="bx_3218110189_24" style="display: none;">
+				<img src="/local/templates/wfst_uk_ipt/img/icons-1.png" alt="">
+				<span>21.03.2018 19:10:00</span>
+									<p><a href="/upload/iblock/5a6/5a6a1376941301a951d2eefb45184358.pdf" target="_blank">Расчет размера собственных средств на 28.02.2018 (207 Кб) (207.27 КБ)</a></p>
+								<span>Доступно до: 21.03.2019</span>
+			</div>
+		</div>
+
+		
+			
+		<div class="years year_2018 " style="display: none;">
+					<div class="facilities-block years year_2018 " id="bx_3218110189_23" style="display: none;">
+				<img src="/local/templates/wfst_uk_ipt/img/icons-1.png" alt="">
+				<span>13.02.2018 16:50:00</span>
+									<p><a href="/upload/iblock/206/2064852a331ddf563cf3551b6edc330e.pdf" target="_blank">Расчет размера собственных средств на 31.01.2018 (211 Кб) (207.41 КБ)</a></p>
+								<span>Доступно до: 13.02.2019</span>
+			</div>
+		</div>
+
+		
+		
+	<div class="sectionName year_2017 " style="display: none;">2017 год</div>
+
+	
+	
+	
+			
+		<div class="years year_2017 " style="display: none;">
+					<div class="facilities-block years year_2017 " id="bx_3218110189_22" style="display: none;">
+				<img src="/local/templates/wfst_uk_ipt/img/icons-1.png" alt="">
+				<span>19.01.2018 08:25:00</span>
+									<p><a href="/upload/iblock/ed9/ed91742148e34f2479d55ac1af5a7b94.pdf" target="_blank">Расчет размера собственных средств на 31.12.2017 (207 Кб) (207.39 КБ)</a></p>
+								<span>Доступно до: 19.01.2019</span>
+			</div>
+		</div>
+
+		
+			
+		<div class="years year_2017 " style="display: none;">
+					<div class="facilities-block years year_2017 " id="bx_3218110189_21" style="display: none;">
+				<img src="/local/templates/wfst_uk_ipt/img/icons-1.png" alt="">
+				<span>18.12.2017 10:30:00</span>
+									<p><a href="/upload/iblock/ec6/ec65477115497255e8e9b65c27efcfef.pdf" target="_blank">Расчет размера собственных средств на 30.11.2017 (208 Кб) (207.31 КБ)</a></p>
+								<span>Доступно до: 18.12.2018</span>
+			</div>
+		</div>
+
+		
+			
+		<div class="years year_2017 " style="display: none;">
+					<div class="facilities-block years year_2017 " id="bx_3218110189_20" style="display: none;">
+				<img src="/local/templates/wfst_uk_ipt/img/icons-1.png" alt="">
+				<span>16.11.2017 13:05:00</span>
+									<p><a href="/upload/iblock/320/320c1e01bc64ec0b22a6c8c30ea2f334.pdf" target="_blank">Расчет размера собственных средств на 31.10.2017 (211 Кб) (207.41 КБ)</a></p>
+								<span>Доступно до: 16.11.2018</span>
+			</div>
+		</div>
+
+		
+			
+		<div class="years year_2017 " style="display: none;">
+					<div class="facilities-block years year_2017 " id="bx_3218110189_19" style="display: none;">
+				<img src="/local/templates/wfst_uk_ipt/img/icons-1.png" alt="">
+				<span>17.10.2017 09:45:00</span>
+									<p><a href="/upload/iblock/c8d/c8de4dff212b56787d14c97f1303a152.pdf" target="_blank">Расчет размера собственных средств на 30.09.2017 (211 Кб) (207.37 КБ)</a></p>
+								<span>Доступно до: 17.10.2018</span>
+			</div>
+		</div>
+
+		
+			
+		<div class="years year_2017 " style="display: none;">
+					<div class="facilities-block years year_2017 " id="bx_3218110189_18" style="display: none;">
+				<img src="/local/templates/wfst_uk_ipt/img/icons-1.png" alt="">
+				<span>14.09.2017 14:35:00</span>
+									<p><a href="/upload/iblock/ddd/ddd83d7cb17f75d5179b29afa14ec1fd.pdf" target="_blank">Расчет размера собственных средств на 31.08.2017 (211 Кб) (207.42 КБ)</a></p>
+								<span>Доступно до 14.09.2018</span>
+			</div>
+		</div>
+
+		
+			
+		<div class="years year_2017 " style="display: none;">
+					<div class="facilities-block years year_2017 " id="bx_3218110189_17" style="display: none;">
+				<img src="/local/templates/wfst_uk_ipt/img/icons-1.png" alt="">
+				<span>15.08.2017 11:25:00</span>
+									<p><a href="/upload/iblock/823/823f2d4c71f17682a191be9a819aff15.pdf" target="_blank">Расчет размера собственных средств на 31.07.2017 (173 Кб) (173.02 КБ)</a></p>
+								<span>Доступно до 15.08.2018</span>
+			</div>
+		</div>
+
+		
+			
+		<div class="years year_2017 " style="display: none;">
+					<div class="facilities-block years year_2017 " id="bx_3218110189_16" style="display: none;">
+				<img src="/local/templates/wfst_uk_ipt/img/icons-1.png" alt="">
+				<span>14.07.2017 12:55:00</span>
+									<p><a href="/upload/iblock/aff/aff3689371911bba787dfff0998b85eb.pdf" target="_blank">Расчет размера собственных средств на 30.06.2017 (180 Кб) (180.65 КБ)</a></p>
+								<span>Доступно до 14.07.2018</span>
+			</div>
+		</div>
+
+		
+			
+		<div class="years year_2017 " style="display: none;">
+					<div class="facilities-block years year_2017 " id="bx_3218110189_15" style="display: none;">
+				<img src="/local/templates/wfst_uk_ipt/img/icons-1.png" alt="">
+				<span>09.06.2017 09:30:00</span>
+									<p><a href="/upload/iblock/f43/f43242588d224829ae03923945ebf8e0.pdf" target="_blank">Расчет размера собственных средств на 31.05.2017 (184 Кб) (180.29 КБ)</a></p>
+								<span>Доступно до 09.06.2018</span>
+			</div>
+		</div>
+
+		
+			
+		<div class="years year_2017 " style="display: none;">
+					<div class="facilities-block years year_2017 " id="bx_3218110189_14" style="display: none;">
+				<img src="/local/templates/wfst_uk_ipt/img/icons-1.png" alt="">
+				<span>12.05.2017 15:30:00</span>
+									<p><a href="/upload/iblock/e96/e96dafa30df3c1d26477f2106bfa12dc.pdf" target="_blank">Расчет размера собственных средств на 30.04.2017 (187 Кб) (183.45 КБ)</a></p>
+								<span>Доступно до 12.05.2018</span>
+			</div>
+		</div>
+
+		
+			
+		<div class="years year_2017 " style="display: none;">
+					<div class="facilities-block years year_2017 " id="bx_3218110189_13" style="display: none;">
+				<img src="/local/templates/wfst_uk_ipt/img/icons-1.png" alt="">
+				<span>14.04.2017 11:30:00</span>
+									<p><a href="/upload/iblock/b94/b94154d1fc81f523dddb11ee60bdcaba.pdf" target="_blank">Расчет размера собственных средств на 31.03.2017 (291 Кб) (287.11 КБ)</a></p>
+								<span>Доступно до 14.04.2018</span>
+			</div>
+		</div>
+
+		
+	</div>
+
+	 
+</div>
+			</div>
+
+		</div>
+	</section>
+	
+
+ 	<!-- start footer -->
+	<footer class="footer">
+		<div class="header-middle">
+			<div class="wrapper">
+				<div class="logo">
+					<a href="/">
+						<img src="/local/templates/wfst_uk_ipt/img/logo-inter.png" alt="">
+					</a>
+				</div>
+				
+<nav class="nav">
+<ul>
+
+
+	
+	
+		
+							<li><a href="/about/" class="root-item">О Компании</a></li>
+			
+		
+	
+	
+
+	
+	
+		
+							<li><a href="/services/" class="root-item">Услуги</a></li>
+			
+		
+	
+	
+
+	
+	
+		
+							<li><a href="/funds/" class="root-item">Фонды</a></li>
+			
+		
+	
+	
+
+	
+	
+		
+							<li><a href="/information/" class="root-item-selected">Раскрываемая информация</a></li>
+			
+		
+	
+	
+
+	
+	
+		
+							<li><a href="/contacts/" class="root-item">Контакты</a></li>
+			
+		
+	
+	
+
+
+</ul>
+</nav>
+				<div class="header-middle__text">
+					<a href="tel:+74958703630">+7 (495) 870 36 30</a>
+				</div>
+			</div>
+		</div>
+		<div class="header-bottom">
+			<div class="wrapper">
+				<div class="header-bottom__left">
+					
+<ul>
+			<li><a href="https://intero-invest.ru/information/struktura-i-sostav-uchastnikov-uk/">СТРУКТУРА И СОСТАВ УЧАСТНИКОВ УК ПИФ</a></li>
+		
+</ul>
+				</div>
+				<!--<div class="header-bottom__right">
+					<a href="tel:+74958703630">+7 (495) 870 36 30</a>
+				</div>-->
+			</div>
+		</div>
+		<div class="footer-bottom">
+			<div class="wrapper">
+<noindex>
+<div style="font-size: 16px; text-align:justify">
+
+Общество с ограниченной ответственностью Управляющая компания «Интеро Инвест» (ООО УК «Интеро Инвест»). Лицензия № 21-000-1-01002 от 30 марта 2017 г. на осуществление деятельности по управлению инвестиционными фондами, паевыми инвестиционными фондами и негосударственными пенсионными фондами, выданная Банком России, без ограничения срока действия.<br><br>
+Получить подробную информацию о паевых инвестиционных фондах и ознакомиться с правилами доверительного управления паевыми инвестиционными фондами, с иными документами, предусмотренными Федеральным законом от 29.11.2001 N 156-ФЗ "Об инвестиционных фондах" и нормативными актами в сфере финансовых рынков можно по адресу: 121151, г. Москва, вн. тер. г. муниципальный округ Дорогомилово, ул. Можайский Вал, д. 8, помещение 3Н/3; по телефону: +7 (495) 870 36 30.<br><br>
+Стоимость инвестиционных паев может увеличиваться и уменьшаться, результаты инвестирования в прошлом не определяют доходы в будущем, государство не гарантирует доходность инвестиций в паевые инвестиционные фонды.<br><br> 
+Управляющая компания не гарантирует доходность инвестиций в паевой инвестиционный фонд. Заявления любых лиц об увеличении в будущем стоимости инвестиционного пая паевого инвестиционного фонда могут расцениваться не иначе как предположения. Прежде чем приобрести инвестиционный пай, следует внимательно ознакомиться с правилами доверительного управления паевым инвестиционным фондом.<br><br>
+
+</div>
+</noindex>
+				<p>2021 © ООО УК "Интеро Инвест", Все права защищены</p> 
+			</div>
+		</div>
+
+        <div class="modal fade" id="feedback">
+            <div class="modal-dialog">
+                <div class="modal-content">
+                    <div class="modal-header">
+                        <button class="close" type="button" data-dismiss="modal">
+                            ×
+                        </button>
+                        <div class="section-title">Форма обратной связи</div>
+                    </div>
+                    <div class="modal-body">
+                        <div id="comp_197098cb4d0384a31d913c441d96fbb5">
+<form name="SIMPLE_FORM_1" action="/information/dokumenty-i-otchetnost-organizatsii/sobstvennye-sredstva-uk/" method="POST" enctype="multipart/form-data"><input type="hidden" name="bxajaxid" id="bxajaxid_197098cb4d0384a31d913c441d96fbb5_8BACKi" value="197098cb4d0384a31d913c441d96fbb5"><input type="hidden" name="AJAX_CALL" value="Y"><script type="text/javascript">
+function _processform_8BACKi(){
+	if (BX('bxajaxid_197098cb4d0384a31d913c441d96fbb5_8BACKi'))
+	{
+		var obForm = BX('bxajaxid_197098cb4d0384a31d913c441d96fbb5_8BACKi').form;
+		BX.bind(obForm, 'submit', function() {BX.ajax.submitComponentForm(this, 'comp_197098cb4d0384a31d913c441d96fbb5', true)});
+	}
+	BX.removeCustomEvent('onAjaxSuccess', _processform_8BACKi);
+}
+if (BX('bxajaxid_197098cb4d0384a31d913c441d96fbb5_8BACKi'))
+	_processform_8BACKi();
+else
+	BX.addCustomEvent('onAjaxSuccess', _processform_8BACKi);
+</script><input type="hidden" name="sessid" id="sessid" value="2e5882da16caed80a6562ea231987336"><input type="hidden" name="WEB_FORM_ID" value="1"><input type="hidden" name="lang" value="ru"> 
+<div class="container-fluid"> 
+  <div class="row"> 
+    <div class="col-md-12"> 
+      <div class="form-group"></div>
+     
+      <div class="form-group"><label>ФИО / Наименование компании<font color="red"><span class="form-required starrequired">*</span></font></label><input type="text" class="form-control" name="form_text_1" value="" size="0"></div>
+     
+      <div class="form-group"><label>Телефон<font color="red"><span class="form-required starrequired">*</span></font></label><input type="text" class="form-control" name="form_text_4" value="" size="0"></div>
+     
+      <div class="form-group"><label>Электронная почта<font color="red"><span class="form-required starrequired">*</span></font></label><input type="text" class="form-control" name="form_email_3" value="" size="0"></div>
+     
+      <div class="form-group"><label>Местонахождение заявителя<font color="red"><span class="form-required starrequired">*</span></font></label><input type="text" class="form-control" name="form_text_6" value="" size="0"></div>
+     
+      <div class="form-group"><label>Способ получения ответа<font color="red"><span class="form-required starrequired">*</span></font></label><select class="form-control" name="form_dropdown_answer_method" id="form_dropdown_answer_method"><option value="7"> По электронной почте</option><option value="8">В офисе Управляющей компании</option><option value="9">Почтой России по адресу местонахождения заявителя</option></select></div>
+     
+      <div class="form-group"><label>Прикрепить файл (doc, pdf, jpg)<font color="red"><span class="form-required starrequired">*</span></font></label> <input name="form_file_10" class="form-control" size="0" type="file"><span class="bx-input-file-desc"></span></div>
+     
+      <div class="form-group"><label>Текст сообщения<font color="red"><span class="form-required starrequired">*</span></font></label><textarea name="form_textarea_5" cols="4" rows="0" class="form-control"></textarea></div>
+     
+      <div class="form-group"><input type="hidden" name="captcha_sid" value="00c848c6353f12d4136229855b81ee26"><img src="/bitrix/tools/captcha.php?captcha_sid=00c848c6353f12d4136229855b81ee26" width="180" height="40"><br><input type="text" name="captcha_word" size="30" maxlength="50" value="" class="inputtext"></div>
+     
+      <div><input type="submit" name="web_form_submit" value="Отправить" class="btn btn-danger">&nbsp;</div>
+     </div>
+   </div>
+ </div>
+ </form></div>                    </div>
+                </div>
+            </div>
+        </div>
+        <div class="modal fade" id="request">
+            <div class="modal-dialog">
+                <div class="modal-content">
+                    <div class="modal-header">
+                        <button class="close" type="button" data-dismiss="modal">
+                            ×
+                        </button>
+                        <div class="section-title">Запрос консультации</div>
+                    </div>
+                    <div class="modal-body">
+                        <div id="comp_f9eee4ac60a3bf3da11014a895ead44d">
+
+
+<form name="SIMPLE_FORM_2" action="/information/dokumenty-i-otchetnost-organizatsii/sobstvennye-sredstva-uk/" method="POST" enctype="multipart/form-data"><input type="hidden" name="bxajaxid" id="bxajaxid_f9eee4ac60a3bf3da11014a895ead44d_Ar8Szp" value="f9eee4ac60a3bf3da11014a895ead44d"><input type="hidden" name="AJAX_CALL" value="Y"><script type="text/javascript">
+function _processform_Ar8Szp(){
+	if (BX('bxajaxid_f9eee4ac60a3bf3da11014a895ead44d_Ar8Szp'))
+	{
+		var obForm = BX('bxajaxid_f9eee4ac60a3bf3da11014a895ead44d_Ar8Szp').form;
+		BX.bind(obForm, 'submit', function() {BX.ajax.submitComponentForm(this, 'comp_f9eee4ac60a3bf3da11014a895ead44d', true)});
+	}
+	BX.removeCustomEvent('onAjaxSuccess', _processform_Ar8Szp);
+}
+if (BX('bxajaxid_f9eee4ac60a3bf3da11014a895ead44d_Ar8Szp'))
+	_processform_Ar8Szp();
+else
+	BX.addCustomEvent('onAjaxSuccess', _processform_Ar8Szp);
+</script><input type="hidden" name="sessid" id="sessid_1" value="2e5882da16caed80a6562ea231987336"><input type="hidden" name="WEB_FORM_ID" value="2">
+ 
+<div class="container-fluid"> 
+  <div class="row"> 
+    <div class="col-md-12"> 
+
+			<div class="form-group"><label>Ваше имя<font color="red"><span class="form-required starrequired">*</span></font></label><input type="text" class="form-control" name="form_text_13" value="" size="0"></div>
+			<div class="form-group"><label>Ваш e-mail или номер телефона<font color="red"><span class="form-required starrequired">*</span></font></label><input type="text" class="form-control" name="form_text_14" value="" size="0"></div>
+			<div class="form-group"><label>Сообщение<font color="red"><span class="form-required starrequired">*</span></font></label><textarea name="form_textarea_15" cols="4" rows="5" class="form-control"></textarea></div>
+				<div class="checkbox"><label><input type="checkbox" id="16" name="form_checkbox_agreement[]" value="16"><label for="16">В соответствии с ФЗ от 27.07.2006 №152-ФЗ «О персональных данных», заполняя поля заявки, Вы даете согласие на обработку указанных персональных данных какими угодно способами, а также даете согласие на обработку указанных персональных данных в целях продвижения товаров, работ, услуг на рынке, предоставляемых ООО УК «Интеро Инвест», путем осуществления прямых контактов с Вами с помощью средств связи. ООО УК «Интеро Инвест» гарантирует конфиденциальность и сохранность предоставленных Вами сведений</label></label></div>
+		
+	<input class="btn btn-danger" type="submit" name="web_form_submit" value="ОТПРАВИТЬ СООБЩЕНИЕ">
+
+     </div>
+   </div>
+ </div>
+
+</form></div>                    </div>
+                </div>
+            </div>
+        </div>
+        <div class="modal fade" id="calculator">
+            <div class="modal-dialog">
+                <div class="modal-content">
+                    <div class="modal-header">
+                        <button class="close" type="button" data-dismiss="modal">
+                            ×
+                        </button>
+                        <div class="section-title">КАЛЬКУЛЯТОР ЗПИФ</div>
+                    </div>
+                    <div class="modal-body">
+                        <div id="comp_e441ffaac44ad41fbd89371495251891">
+
+
+<form name="SIMPLE_FORM_3" action="/information/dokumenty-i-otchetnost-organizatsii/sobstvennye-sredstva-uk/" method="POST" enctype="multipart/form-data"><input type="hidden" name="bxajaxid" id="bxajaxid_e441ffaac44ad41fbd89371495251891_XrQFCj" value="e441ffaac44ad41fbd89371495251891"><input type="hidden" name="AJAX_CALL" value="Y"><script type="text/javascript">
+function _processform_XrQFCj(){
+	if (BX('bxajaxid_e441ffaac44ad41fbd89371495251891_XrQFCj'))
+	{
+		var obForm = BX('bxajaxid_e441ffaac44ad41fbd89371495251891_XrQFCj').form;
+		BX.bind(obForm, 'submit', function() {BX.ajax.submitComponentForm(this, 'comp_e441ffaac44ad41fbd89371495251891', true)});
+	}
+	BX.removeCustomEvent('onAjaxSuccess', _processform_XrQFCj);
+}
+if (BX('bxajaxid_e441ffaac44ad41fbd89371495251891_XrQFCj'))
+	_processform_XrQFCj();
+else
+	BX.addCustomEvent('onAjaxSuccess', _processform_XrQFCj);
+</script><input type="hidden" name="sessid" id="sessid_2" value="2e5882da16caed80a6562ea231987336"><input type="hidden" name="WEB_FORM_ID" value="3">
+<script>
+	var prices = {};
+	var result = 0;
+	var rewards = {
+		25:225000,
+		500:250000,
+		750:300000,
+		1000:350000,
+		1500:400000,
+		2000:450000,
+		4000:500000,
+		6000:550000,
+		8000:600000,
+		10000:650000,
+		9999999:700000,
+	};
+	$(document).ready(function() {
+		var rangeText = parseInt($('#rangeText').val());
+		calculate();
+		$("input").change(function() {
+			calculate();
+		});
+		function calculate() {
+			rangeText = parseInt($('#rangeText').val().replace(/\s+/g, ''));
+			$('#rangeText').val(rangeText.toString().replace(/(\d)(?=(\d\d\d)+([^\d]|$))/g, '$1\u202f'));
+			$('.range').val(rangeText);
+			if(rangeText>=10000){
+				$('#rangeText').val('10 000 и более');
+				rangeText=10000;
+			}
+			result = 0;
+			$.each(rewards,function(index,value){
+				if(rangeText<index){
+					result+=value;
+					return false;
+				}
+			});
+			$.each(prices,function(index,value){
+				if($('#'+index).is(':checked')) result+=value;
+			});
+			$('#result').text(result.toString().replace(/(\d)(?=(\d\d\d)+([^\d]|$))/g, '$1\u202f')+' руб/мес');
+		}
+	});
+</script>
+
+<div>
+	<div class="row"> 
+						<input type="hidden" class="range" name="form_hidden_17" value="9000">				<div class="form-group col-md-6">
+					<p><b>1. Размер фонда</b></p>
+					<input type="text" class="form-control" value="9000" size="0" id="rangeText" oninput="range.value = rangeText.value">МЛН. РУБ.
+					<input type="range" class="form-range" min="0" max="10000" step="25" id="range" oninput="rangeText.value = range.value" value="9000">
+				</div>
+				<div class="form-group col-md-6">
+					<p><b>Расходы на управление ЗПИФ</b></p>
+					<span id="result">650 000 руб/мес</span>
+					<span class="offer">Не является публичной офертой</span>
+				</div>
+			<script>					prices[18] = 0;
+										prices[19] = 25000;
+										prices[20] = 35000;
+					</script>				<div class="form-group col-md-12">
+					<p><b>2. Вид активов</b></p>
+					<label><input type="radio" selected="" id="18" name="form_radio_assets" value="18" checked=""></label><label for="18">Доли ООО / Акции АО</label><br><label><input type="radio" id="19" name="form_radio_assets" value="19"></label><label for="19">Недвижимость</label><br><label><input type="radio" id="20" name="form_radio_assets" value="20"></label><label for="20">Иные активы</label>				</div>
+				<script>					prices[21] = 0;
+										prices[22] = 25000;
+					</script>				<div class="form-group col-md-12">
+					<p><b>3. Вид фонда</b></p>
+					<label><input type="radio" selected="" id="21" name="form_radio_fund" value="21" checked=""></label><label for="21">для квалифицированных инвесторов</label><br><label><input type="radio" id="22" name="form_radio_fund" value="22"></label><label for="22">для неквалифицированных инвесторов</label>				</div>
+							<div class="form-group col-md-12"><label>Ваше имя<font color="red"><span class="form-required starrequired">*</span></font></label><input type="text" class="form-control" name="form_text_23" value="" size="0"></div>
+					<div class="form-group col-md-12"><label>Ваш e-mail или номер телефона<font color="red"><span class="form-required starrequired">*</span></font></label><input type="text" class="form-control" name="form_text_24" value="" size="0"></div>
+						<div class="form-group col-md-12 checkbox"><label><input type="checkbox" id="26" name="form_checkbox_agreement[]" value="26"><label for="26">В соответствии с ФЗ от 27.07.2006 №152-ФЗ «О персональных данных», заполняя поля заявки, Вы даете согласие на обработку указанных персональных данных какими угодно способами, а также даете согласие на обработку указанных персональных данных в целях продвижения товаров, работ, услуг на рынке, предоставляемых ООО УК «Интеро Инвест», путем осуществления прямых контактов с Вами с помощью средств связи. ООО УК «Интеро Инвест» гарантирует конфиденциальность и сохранность предоставленных Вами сведений</label></label></div>
+					<div class="form-group col-md-12">
+			<input class="btn btn-danger" type="submit" name="web_form_submit" value="Получить индивидуальный расчет">
+		</div>
+   </div>
+ </div>
+
+</form></div>                    </div>
+                </div>
+            </div>
+        </div>
+	</footer>
+	<!-- end footer -->
+    <script src="/local/templates/wfst_uk_ipt/js/modalFeedback.js"></script>
+	
+	<link rel="stylesheet" href="/local/templates/wfst_uk_ipt/css/main.css?v9">
+<script type="text/javascript" id="">(function(a,e,f,g,b,c,d){a[b]=a[b]||function(){(a[b].a=a[b].a||[]).push(arguments)};a[b].l=1*new Date;c=e.createElement(f);d=e.getElementsByTagName(f)[0];c.async=1;c.src=g;d.parentNode.insertBefore(c,d)})(window,document,"script","https://mc.yandex.ru/metrika/tag.js","ym");ym(87351699,"init",{clickmap:!0,trackLinks:!0,accurateTrackBounce:!0,webvisor:!0});</script>
+<noscript><div><img src="https://mc.yandex.ru/watch/87351699" style="position:absolute; left:-9999px;" alt=""></div></noscript>
+
+	<link rel="stylesheet" href="/local/templates/wfst_uk_ipt/css/custom.css?v9">
+	
+	<script src="/local/templates/wfst_uk_ipt/js/common.js"></script>
+
+<div id="fancybox-tmp"></div><div id="fancybox-loading"><div></div></div><div id="fancybox-overlay"></div><div id="fancybox-wrap" class="fancybox-ie"><div id="fancybox-outer"><div class="fancybox-bg" id="fancybox-bg-n"></div><div class="fancybox-bg" id="fancybox-bg-ne"></div><div class="fancybox-bg" id="fancybox-bg-e"></div><div class="fancybox-bg" id="fancybox-bg-se"></div><div class="fancybox-bg" id="fancybox-bg-s"></div><div class="fancybox-bg" id="fancybox-bg-sw"></div><div class="fancybox-bg" id="fancybox-bg-w"></div><div class="fancybox-bg" id="fancybox-bg-nw"></div><div id="fancybox-content"></div><a id="fancybox-close"></a><div id="fancybox-title"></div><a href="javascript:;" id="fancybox-left"><span class="fancy-ico" id="fancybox-left-ico"></span></a><a href="javascript:;" id="fancybox-right"><span class="fancy-ico" id="fancybox-right-ico"></span></a></div></div>

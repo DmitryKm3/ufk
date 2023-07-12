@@ -1,0 +1,209 @@
+<div id="wb_root" class="root wb-layout-vertical"><div class="wb_sbg"></div><div id="wb_header_6" class="wb_element wb-layout-element" data-plugin="LayoutElement"><div class="wb_content wb-layout-vertical"><div id="wb_element_instance3062_0" class="wb_element wb-layout-element" data-plugin="LayoutElement"><div class="wb_content wb-layout-horizontal"><div id="wb_element_instance3063_0" class="wb_element wb_element_picture" data-plugin="Picture" title=""><div class="wb_picture_wrap"><div class="wb-picture-wrapper"><a href="" data-popup-processed="true"><img alt="" src="gallery_gen/bad2f7db33d378ebcdbdc7cc0368f24c.jpg"></a></div></div></div><div id="wb_element_instance3064_0" class="wb_element wb-menu wb-prevent-layout-click wb-menu-mobile" data-plugin="Menu"><a class="btn btn-default btn-collapser" data-popup-processed="true"><span class="icon-bar"></span><span class="icon-bar"></span><span class="icon-bar"></span></a><ul class="hmenu" dir="ltr" style="top: 166px; max-height: calc(98vh - 166px);"><li class=""><a href="О-компании/" data-popup-processed="true">О компании</a></li><li class=""><a href="Наши-фонды/" data-popup-processed="true">Наши фонды</a></li><li class=""><a href="Инвестору/" data-popup-processed="true">Инвестору</a></li><li class="wb_this_page_menu_item active"><a href="Раскрытие-информации/" data-popup-processed="true">Раскрытие информации</a></li><li class=""><a href="Контакты/" data-popup-processed="true">Контакты</a></li><li class=""><a href="Поиск/" data-popup-processed="true">Поиск</a></li></ul><div class="clearfix"></div></div></div></div></div></div><div id="wb_main_6" class="wb_element wb-layout-element" data-plugin="LayoutElement" style="min-height: 563px;"><div class="wb_content wb-layout-vertical"><div id="wb_element_instance1_6" class="wb_element wb-layout-element" data-plugin="LayoutElement"><div class="wb_content wb-layout-vertical"><div id="wb_element_instance2_6" class="wb_element wb-layout-element" data-plugin="LayoutElement"><div class="wb_content wb-layout-vertical"><div id="wb_element_instance3_6" class="wb_element wb-layout-element" data-plugin="LayoutElement"><div class="wb_content wb-layout-horizontal"><div id="wb_element_instance4_6" class="wb_element wb-elm-orient-horizontal" data-plugin="Line"><div class="wb-elm-line"></div></div><div id="wb_element_instance5_6" class="wb_element wb_text_element" data-plugin="TextArea" style=" line-height: normal;"><h1 class="wb-stl-heading1" style="text-align: center;"><font color="#2f3961"><b>Раскрытие информации</b></font></h1>
+</div><div id="wb_element_instance6_6" class="wb_element wb-elm-orient-horizontal" data-plugin="Line"><div class="wb-elm-line"></div></div></div></div><div id="wb_element_instance7_6" class="wb_element wb_text_element" data-plugin="TextArea" style=" line-height: normal;"><ul><li>
+<p class="wb-stl-normal"><a href="Раскрытие-информации/#Finance" data-popup-processed="true">Финансовая отчетность</a></p>
+</li>
+<li>
+<p class="wb-stl-normal"><a href="Раскрытие-информации/#Property" data-popup-processed="true">Структура собственности</a></p>
+</li>
+<li>
+<p class="wb-stl-normal"><a href="Раскрытие-информации/#Documents" data-popup-processed="true">Регламентные документы</a></p>
+</li>
+<li>
+<p class="wb-stl-normal"><a href="Раскрытие-информации/#News" data-popup-processed="true">Информационные сообщения</a></p>
+</li>
+<li>
+<p class="wb-stl-normal"><a href="Раскрытие-информации/#Crash" data-popup-processed="true">Технические сбои</a></p>
+</li>
+</ul></div><div id="wb_element_instance8_6" class="wb_element wb-layout-element" data-plugin="LayoutElement"><a name="Finance" class="wb_anchor" data-popup-processed="true"></a><div class="wb_content wb-layout-horizontal"><div id="wb_element_instance9_6" class="wb_element wb_text_element" data-plugin="TextArea" style=" line-height: normal;"><h1 class="wb-stl-custom27"><span style="color:#inherit;"><strong>Финансовая отчетность</strong></span></h1>
+</div></div></div><div id="wb_element_instance10_6" class="wb_element wb-layout-element" data-plugin="LayoutElement"><div class="wb_content wb-layout-horizontal"><div id="wb_element_instance11_6" class="wb_element wb_text_element" data-plugin="TextArea" style=" line-height: normal;"><p><a data-_="Link" href="gallery/gera_20230531.pdf" target="_blank" data-popup-processed="true">Расчет собственных средств на 31.05.2023</a>&nbsp;(раскрыто 14.06.2023)</p>
+
+<p><a data-_="Link" href="gallery/gera_20230430.pdf" target="_blank" data-popup-processed="true">Расчет собственных средств на 30.04.2023</a>&nbsp;(раскрыто 18.05.2023)</p>
+
+<p><a data-_="Link" href="gallery/gera_20230331.pdf" target="_blank" data-popup-processed="true">Расчет собственных средств на 31.03.2023</a>&nbsp;(раскрыто 17.04.2023)</p>
+
+<p><a href="gallery/gera_20230228.pdf" data-popup-processed="true">Расчет собственных средств на 28.02.2023</a>&nbsp;(раскрыто 16.03.2023)</p>
+
+<p><a href="gallery/gera_20230131.pdf" data-popup-processed="true">Расчет собственных средств на 31.01.2023</a>&nbsp;(раскрыто 13.02.2023)</p>
+
+<p><a href="gallery/gera_20221231.pdf" data-popup-processed="true">Расчет собственных средств на 31.12.2022</a>&nbsp;(раскрыто 20.01.2023)</p>
+
+<p><a href="gallery/gera_20221130.pdf" data-popup-processed="true">Расчет собственных средств на 30.11.2022</a>&nbsp;(раскрыто 09.01.2023)</p>
+
+<p><a href="gallery/gera_20221031.pdf" data-popup-processed="true">Расчет собственных средств на 31.10.2022</a>&nbsp;(раскрыто 09.01.2023)</p>
+
+<p><a href="gallery/gera_20220930.pdf" data-popup-processed="true">Расчет собственных средств на 30.09.2022</a>&nbsp;(раскрыто 09.01.2023)</p>
+
+<p><a href="gallery/gera_20220831.pdf" data-popup-processed="true">Расчет собственных средств на 31.08.2022</a>&nbsp;(раскрыто 09.01.2023)</p>
+
+<p><a href="gallery/gera_20220729.pdf" data-popup-processed="true">Расчет собственных средств на 31.07.2022</a>&nbsp;(раскрыто 09.01.2023)</p>
+
+<p><a href="gallery/gera_20220630.pdf" data-popup-processed="true">Расчет собственных средств на 30.06.2022</a>&nbsp;(раскрыто 09.01.2023)</p>
+
+<p><a href="gallery/gera_20220531.pdf" data-popup-processed="true">Расчет собственных средств на 31.05.2022</a>&nbsp;(раскрыто 09.01.2023)</p>
+
+<p><a href="gallery/gera_20220430.pdf" data-popup-processed="true">Расчет собственных средств на 30.04.2022</a>&nbsp;(раскрыто 09.01.2023)</p>
+
+<p><a href="gallery/gera_20220331.pdf" data-popup-processed="true">Расчет собственных средств на 31.03.2022</a>&nbsp;(раскрыто 09.01.2023)</p>
+
+<p><a href="gallery/gera_20220228.pdf" data-popup-processed="true">Расчет собственных средств на 28.02.2022</a>&nbsp;(раскрыто 09.01.2023)</p>
+
+<p><a href="gallery/gera_20220131.pdf" data-popup-processed="true">Расчет собственных средств на 31.01.2022</a>&nbsp;(раскрыто 09.01.2023)</p>
+
+<p><a href="gallery/gera_20211231.pdf" data-popup-processed="true">Расчет собственных средств на 31.12.2021</a> (раскрыто 09.01.2023)</p>
+
+<p><a href="gallery/gera_20211130.pdf" data-popup-processed="true">Расчет собственных средств на 30.11.2021</a> (раскрыто 14.12.2021)</p>
+
+<p><a href="gallery/gera_20211031.pdf" data-popup-processed="true">Расчет собственных средств на 31.10.2021</a> (раскрыто 17.11.2021)</p>
+
+<p><a href="gallery/gera_20210930.pdf" data-popup-processed="true">Расчет собственных средств на 30.09.2021</a> (раскрыто 14.10.2021)</p>
+
+<p><a href="gallery/gera_20210831.pdf" data-popup-processed="true">Расчет собственных средств на 31.08.2021</a> (раскрыто 14.09.2021)</p>
+
+<p><a href="gallery/gera_20210731.pdf" data-popup-processed="true">Расчет собственных средств на 31.07.2021</a> (раскрыто 16.08.2021)</p>
+
+<p><a href="gallery/gera_20210630.pdf" data-popup-processed="true">Расчет собственных средств на 30.06.2021</a> (раскрыто 13.07.2021)</p>
+
+<p><a href="gallery/gera_20210531.pdf" data-popup-processed="true">Расчет собственных средств на 31.05.2021</a> (раскрыто 29.06.2021)</p>
+
+<p><a href="gallery/gera_20210430.pdf" data-popup-processed="true">Расчет собственных средств на 30.04.2021</a> (раскрыто 27.05.2021)</p>
+
+<p><a href="gallery/gera_20210331.pdf" data-popup-processed="true">Расчет собственных средств на 31.03.2021</a> (раскрыто 14.04.2021)</p>
+
+<p><a href="gallery/gera_20210228.pdf" data-popup-processed="true">Расчет собственных средств на 28.02.2021</a> (раскрыто 29.03.2021)</p>
+
+<p><a href="gallery/gera_20210131.pdf" data-popup-processed="true">Расчет собственных средств на 31.01.2021</a> (раскрыто 26.02.2021)</p>
+
+<p><a href="gallery/gera_20201231.pdf" data-popup-processed="true">Расчет собственных средств на 31.12.2020</a> (раскрыто 26.01.2021)</p>
+
+<p><a href="gallery/gera_20201130.pdf" data-popup-processed="true">Расчет собственных средств на 30.11.2020</a> (раскрыто 23.12.2020)</p>
+
+<p><a href="gallery/gera_20201031.pdf" data-popup-processed="true">Расчет собственных средств на 31.10.2020</a> (раскрыто 30.11.2020)</p>
+
+<p><a href="gallery/gera_20200930.pdf" data-popup-processed="true">Расчет собственных средств на 30.09.2020</a> (раскрыто 30.10.2020)</p>
+
+<p><a href="gallery/gera_20200831.pdf" data-popup-processed="true">Расчет собственных средств на 31.08.2020</a> (раскрыто 29.09.2020)</p>
+
+<p><a href="gallery/gera_20200731.pdf" data-popup-processed="true">Расчет собственных средств на 31.07.2020</a> (раскрыто 27.08.2020)</p>
+
+<p><a href="gallery/gera_20200630.pdf" data-popup-processed="true">Расчет собственных средств на 30.06.2020</a> (раскрыто 27.07.2020)</p>
+
+<p><a href="gallery/gera_20200531.pdf" data-popup-processed="true">Расчет собственных средств на 31.05.2020</a> (раскрыто 26.06.2020)</p>
+
+<p><a href="gallery/gera_20200430.pdf" data-popup-processed="true">Расчет собственных средств на 30.04.2020</a> (раскрыто 27.05.2020)</p>
+
+<p><a href="gallery/gera_20200331.pdf" data-popup-processed="true">Расчет собственных средств на 31.03.2020</a> (раскрыто 29.04.2020)</p>
+
+<p><a href="gallery/gera_20200229.pdf" data-popup-processed="true">Расчет собственных средств на 29.02.2020</a> (раскрыто 26.03.2020)</p>
+
+<p><a href="gallery/gera_20200131.pdf" data-popup-processed="true">Расчет собственных средств на 31.01.2020</a> (раскрыто 27.02.2020)</p>
+
+<p>&nbsp;</p>
+
+<p><a data-_="Link" href="gallery/GERA_BFO_2023-1.pdf" target="_blank" data-popup-processed="true">Промежуточная бухгалтерская (финансовая) отчетность за 1&nbsp;квартал 2023&nbsp;года</a> (опубликовано 02.05.2023&nbsp;в 15:40, доступно до 02.05.2026)</p>
+
+<p>Б<a data-_="Link" href="gallery/GERA_BFO_2022-4.pdf" target="_blank" data-popup-processed="true">ухгалтерская (финансовая) отчетность за 2022&nbsp;год</a>&nbsp;(опубликовано 03.04.2023 в 16:20, доступно до 03.04.2026)</p>
+
+<p><a href="gallery/GERA_BFO_2022-3.pdf" data-popup-processed="true">Промежуточная бухгалтерская (финансовая) отчетность за 3 квартал 2022&nbsp;года</a> (опубликовано 09.01.2023 в 14:50, доступно до 09.01.2026)</p>
+
+<p><a href="gallery/GERA_BFO_2022-2.pdf" data-popup-processed="true">Промежуточная бухгалтерская (финансовая) отчетность за 2&nbsp;квартал 2022&nbsp;года</a> (опубликовано 09.01.2023 в 14:40, доступно до 09.01.2026)</p>
+
+<p><a href="gallery/GERA_BFO_2022-1.pdf" data-popup-processed="true">Промежуточная бухгалтерская (финансовая) отчетность за 1&nbsp;квартал 2022&nbsp;года</a> (опубликовано 09.01.2023 в 14:30, доступно до 09.01.2026)</p>
+
+<p><a href="gallery/GERA_BFO_2021-4.pdf" data-popup-processed="true">Бухгалтерская (финансовая) отчетность за 2021&nbsp;год</a>&nbsp;(опубликовано 09.01.2023 в 14:20, доступно до 09.01.2026)</p>
+
+<p><a href="gallery/GERA_BFO_2021-3.pdf" data-popup-processed="true">Промежуточная бухгалтерская (финансовая) отчетность за 3 квартал 2021 года</a> (опубликовано 29.10.2021 в 14:16, доступно до 29.10.2024)</p>
+
+<p>&nbsp;</p>
+
+<p><a data-_="Link" href="gallery/Audit_RSBU_2022.pdf" target="_blank" data-popup-processed="true"><span style="color:#inherit;">Аудиторское заключение финансовой отчетности по РСБУ&nbsp;за 2022&nbsp;год</span></a> (опубликовано 27.03.2023&nbsp;в 17:06, доступно до 27.03.2026)</p>
+
+<p><a href="gallery/Audit_RSBU_2021.pdf" data-popup-processed="true"><span style="color:#inherit;">Аудиторское заключение финансовой отчетности по РСБУ&nbsp;за 2021&nbsp;год</span></a> (опубликовано 09.01.2023&nbsp;в 15:18, доступно до 09.01.2026)</p>
+
+<p>&nbsp;</p>
+
+<p><a data-_="Link" href="gallery/GERA_MSFO_2022-clean.pdf" target="_blank" data-popup-processed="true">Финансовая отчетность по МСФО за 2022&nbsp;год</a> (опубликовано 02.05.2023&nbsp;в 15:25, доступно до 02.05.2026)</p>
+
+<p><a href="gallery/GERA_MSFO_2021-clean.pdf" data-popup-processed="true">Финансовая отчетность по МСФО за 2021 год</a> (опубликовано 09.01.2023&nbsp;в 14:55, доступно до 09.01.2026)</p>
+
+<p><a href="gallery/GERA_MSFO_2020.pdf" data-popup-processed="true">Финансовая отчетность по МСФО за 2020 год</a> (опубликовано 27.05.2021 в 14:02, доступно до 27.05.2024)</p>
+
+<p><a href="gallery/GERA_MSFO_2019.pdf" data-popup-processed="true">Финансовая отчетность по МСФО за 2019 год</a> (опубликовано 23.06.2020 в 17:18, доступно до 24.06.2023)</p>
+
+<p>&nbsp;</p>
+
+<p><a data-_="Link" href="gallery/Audit_MSFO_2022-clean.pdf" target="_blank" data-popup-processed="true"><span style="color:#inherit;">Аудиторское заключение финансовой отчетности по МСФО за 2022&nbsp;год</span></a> (опубликовано 02.05.2023&nbsp;в 15:30, доступно до 02.05.2026)</p>
+
+<p><a href="gallery/Audit_MSFO_2021-clean.pdf" data-popup-processed="true"><span style="color:#inherit;">Аудиторское заключение финансовой отчетности по МСФО за 2021&nbsp;год</span></a> (опубликовано 09.01.2023&nbsp;в 15:13, доступно до 09.01.2026)</p>
+
+<p><a href="gallery/Audit_MSFO_2020.pdf" data-popup-processed="true"><span style="color:#inherit;">Аудиторское заключение финансовой отчетности по МСФО за 2020 год</span></a> (опубликовано 27.05.2021 в 14:02, доступно до 27.05.2024)</p>
+
+<p><a href="gallery/Audit_MSFO_2019.pdf" data-popup-processed="true">Аудиторское заключение финансовой отчетности по МСФО за 2019 год</a> (опубликовано 23.06.2020 в 17:18, доступно до 24.06.2023)</p>
+
+<p>&nbsp;</p>
+
+<p>&nbsp;</p>
+</div></div></div><div id="wb_element_instance12_6" class="wb_element wb-layout-element" data-plugin="LayoutElement"><a name="Property" class="wb_anchor" data-popup-processed="true"></a><div class="wb_content wb-layout-horizontal"><div id="wb_element_instance13_6" class="wb_element wb_text_element" data-plugin="TextArea" style=" line-height: normal;"><h1 class="wb-stl-custom27"><strong>Структура собственности</strong></h1>
+</div></div></div><div id="wb_element_instance14_6" class="wb_element wb_text_element" data-plugin="TextArea" style=" line-height: normal;"><p>Информация о структуре и составе участников ООО УК "ГЕРА"</p>
+</div><div id="wb_element_instance15_6" class="wb_element wb-layout-element" data-plugin="LayoutElement"><a name="Documents" class="wb_anchor" data-popup-processed="true"></a><div class="wb_content wb-layout-horizontal"><div id="wb_element_instance16_6" class="wb_element wb_text_element" data-plugin="TextArea" style=" line-height: normal;"><h1 class="wb-stl-custom27"><strong>Регламентные документы</strong></h1>
+</div></div></div><div id="wb_element_instance17_6" class="wb_element wb_text_element" data-plugin="TextArea" style=" line-height: normal;"><p><a href="gallery/Регламент признания КИ УК ГЕРА 2021-2.pdf" data-popup-processed="true">Регламент признания лиц квалифицированными инвесторами</a> (опубликовано 20.12.2021&nbsp;в 16:40, доступно до внесения изменений)</p>
+
+<p>&nbsp;</p>
+
+<p>Отсутствие запретов на обработку персональных данных для распространения (дата и время опубликования: 11.10.2021 14:00 мск) - ссылка не активна до 31.07.2023</p>
+
+<p>&nbsp;</p>
+
+<p><a href="gallery/ГЕРА_Положение о тестировании НКИ_2021.docx" data-popup-processed="true">Положение о тестировании ООО УК "ГЕРА" физических лиц, не являющихся квалифициваронными инвесторами</a> (опубликовано 01.10.2021&nbsp;в 10:00, доступно до внесения изменений)</p>
+
+<p>&nbsp;</p>
+
+<p><a href="gallery/Инф.сообщение_ГЕРА.docx" data-popup-processed="true">Информация об Управляющей компании и финансовой услуге</a>, раскрываемая согласно Стандарту защиты прав и интересов физических и юридических лиц - получателей финансовых услуг, оказываемых членами саморегулируемых организаций в сфере финансового рынка, объединяющих акционерные инвестиционные фонды и управляющие компании инвестиционных фондов, паевых инвестиционных фондов и негосударственных пенсионных фондов&nbsp;(опубликовано 01.10.2021&nbsp;в 10:00, доступно до внесения изменений)</p>
+
+<p>&nbsp;</p>
+
+<p><span style="color:rgba(0,0,0,1);"><a href="gallery/СОУТ.pdf" data-popup-processed="true">Перечень рекомендуемых мероприятий по улучшению условий труда</a>&nbsp;</span>(опубликовано 09.09.2021 10-00 мск, доступно до внесения изменений)</p>
+
+<p>&nbsp;</p>
+
+<p><a href="gallery/Политика обработки перс_данных - 2022 09 01.pdf" data-popup-processed="true">Политика обработки персональных данных и реализуемых требований к защите персональных данных</a> (дата и время опубликования: 02.09.2022&nbsp;09-00 мск)</p>
+
+<p>&nbsp;</p>
+
+<p><a href="gallery/FATCA.pdf" data-popup-processed="true">Критерии отнесения клиентов к категории клиента - иностранного налогоплательщика и способы получения информации от клиента - иностранного налогоплательщика</a> (дата и время опубликования: 01.07.2015 09-00 мск)</p>
+
+<p>&nbsp;</p>
+
+<p><a href="gallery/perechen_II.pdf" data-popup-processed="true">Перечень информации, относящейся к инсайдерской информации Общества с ограниченной ответственностью Управляющая компания "ГЕРА"</a> (дата и время опубликования: 06.02.2012 16-20 мск)</p>
+
+<p>&nbsp;</p>
+</div><div id="wb_element_instance18_6" class="wb_element wb-layout-element" data-plugin="LayoutElement"><a name="News" class="wb_anchor" data-popup-processed="true"></a><div class="wb_content wb-layout-horizontal"><div id="wb_element_instance19_6" class="wb_element wb_text_element" data-plugin="TextArea" style=" line-height: normal;"><h1 class="wb-stl-custom27"><strong>Информационные сообщения</strong></h1>
+</div></div></div><div id="wb_element_instance20_6" class="wb_element wb_text_element" data-plugin="TextArea" style=" line-height: normal;"><p><a href="gallery/inf_message-2023_02_13-01.pdf" data-popup-processed="true">Уведомление физических&nbsp;лиц, признанных квалифицированными инвесторами, о&nbsp;праве подать заявление Управляющей компании об исключении их из реестра квалифицированных инвесторов</a> - 13.02.2023</p>
+
+<p>&nbsp;</p>
+
+<p><a href="gallery/inf_message-2022_02_28-01.pdf" data-popup-processed="true">Уведомление физических&nbsp;лиц, признанных квалифицированными инвесторами, о&nbsp;праве подать заявление Управляющей компании об исключении их из реестра квалифицированных инвесторов</a> - 28.02.2022</p>
+
+<p>&nbsp;</p>
+
+<p><a href="gallery/inf_message-2022_02_01-01.docx" data-popup-processed="true">Установление платы за копирование бумажных документов</a>&nbsp;- 01.02.2022</p>
+
+<p>&nbsp;</p>
+
+<p><a href="gallery/inf_message-2021_12_27-01.pdf" data-popup-processed="true">Сообщение о том, что по завершении (окончании) срока формирования ЗПИФ недвижимости «ГЕРА-Республика» стоимость имущества, переданного в оплату инвестиционных паев, оказалась меньше стоимости имущества, необходимой для завершения (окончания) его формирования</a> - 27.12.2021</p>
+
+<p style="margin:0pt 0pt 0.0001pt">&nbsp;</p>
+
+<p><a href="Инф_сообщения/" data-popup-processed="true">Все актуальные сообщения</a></p>
+
+<p>&nbsp;</p>
+
+<p><a href="Архив/" data-popup-processed="true">Архив</a></p>
+
+<p>&nbsp;</p>
+</div><div id="wb_element_instance21_6" class="wb_element wb-layout-element" data-plugin="LayoutElement"><a name="Crash" class="wb_anchor" data-popup-processed="true"></a><div class="wb_content wb-layout-horizontal"><div id="wb_element_instance22_6" class="wb_element wb_text_element" data-plugin="TextArea" style=" line-height: normal;"><h1 class="wb-stl-custom27"><strong>Технические сбои</strong></h1>
+</div></div></div><div id="wb_element_instance23_6" class="wb_element wb_text_element" data-plugin="TextArea" style=" line-height: normal;"><p>Технических сбоев не зарегистрировано</p>
+
+<p>&nbsp;</p>
+</div></div></div></div></div><div id="wb_element_instance24_6" class="wb_element wb-layout-element" data-plugin="LayoutElement"><div class="wb_content wb-layout-vertical"><div id="wb_element_instance25_6" class="wb_element wb-layout-element" data-plugin="LayoutElement"><div class="wb_content wb-layout-horizontal"><div id="wb_element_instance26_6" class="wb_element wb-layout-element" data-plugin="LayoutElement"><div class="wb_content wb-layout-horizontal"><div id="wb_element_instance27_6" class="wb_element wb_text_element" data-plugin="TextArea" style=" line-height: normal;"><h2 class="wb-stl-heading2"><span style="color:rgba(255,255,255,1);">Вы подписались на наши эксклюзивные предложения?</span></h2>
+</div><div id="wb_element_instance28_6" class="wb_element" data-plugin="Button"><a class="wb_button" href="Контакты/" data-popup-processed="true"><span>Контакты</span></a></div></div></div></div></div></div></div></div></div><div id="wb_footer_6" class="wb_element wb-layout-element" data-plugin="LayoutElement"><div class="wb_content wb-layout-vertical"><div id="wb_element_instance3065_0" class="wb_element wb-layout-element" data-plugin="LayoutElement"><div class="wb_content wb-layout-horizontal"><div id="wb_element_instance3066_0" class="wb_element wb_element_picture" data-plugin="Picture" title=""><div class="wb_picture_wrap"><div class="wb-picture-wrapper"><img alt="" src="gallery/35cae6e422f888874d6ebddc7ff06381.lock.png"></div></div></div><div id="wb_element_instance3067_0" class="wb_element wb-layout-element" data-plugin="LayoutElement"><div class="wb_content wb-layout-horizontal"></div></div></div></div></div></div></div>
+

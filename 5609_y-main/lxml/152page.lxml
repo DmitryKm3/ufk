@@ -1,0 +1,135 @@
+
+  <div id="skip-link">
+    <a href="#main-content" class="element-invisible element-focusable">Перейти к основному содержанию</a>
+  </div>
+      
+  <div id="wrapper">
+    <div id="container" class="clearfix">
+
+      <div id="header">
+        <div id="logo-floater">
+                              <div id="branding"><strong><a href="/">
+                          <img src="https://www.interpromleasing.ru/sites/default/files/iplogo.png" alt=" " title=" " id="logo">
+                                    </a></strong></div>
+                          </div>
+
+                      </div> <!-- /#header -->
+
+              <div id="sidebar-first" class="sidebar">
+            <div class="region region-sidebar-first">
+    <div id="block-user-login" class="block block-user clearfix">
+
+    <h2 class="title">Вход на сайт</h2>
+  
+  <div class="content">
+    <form action="/funds?destination=funds" method="post" id="user-login-form" accept-charset="UTF-8"><div><div class="form-item form-type-textfield form-item-name">
+  <label for="edit-name">Имя пользователя <span class="form-required" title="Это поле обязательно для заполнения.">*</span></label>
+ <input type="text" id="edit-name" name="name" value="" size="15" maxlength="60" class="form-text required">
+</div>
+<div class="form-item form-type-password form-item-pass">
+  <label for="edit-pass">Пароль <span class="form-required" title="Это поле обязательно для заполнения.">*</span></label>
+ <input type="password" id="edit-pass" name="pass" size="15" maxlength="128" class="form-text required">
+</div>
+<div class="item-list"></div><input type="hidden" name="form_build_id" value="form-ybxg6WvfeT9G7OFVW-cMp7MHWTBn3U1i0hXf3cDufus">
+<input type="hidden" name="form_id" value="user_login_block">
+<div class="form-actions form-wrapper" id="edit-actions"><input type="submit" id="edit-submit" name="op" value="Войти" class="form-submit"></div></div></form>  </div>
+</div>
+<div id="block-system-main-menu" class="block block-system block-menu clearfix">
+
+    <h2 class="title">Главное меню</h2>
+  
+  <div class="content">
+    <ul class="menu"><li class="first leaf"><a href="/node/1">О компании</a></li>
+<li class="leaf"><a href="/node/12">ПОД/ФТ</a></li>
+<li class="leaf"><a href="/node/2">Предупреждение и противодействие коррупции</a></li>
+<li class="expanded active-trail"><a href="/info" title="" class="active-trail">Раскрытие информации в соответствии с требованиями Указания Банка России от 02.11.2020 № 5609-У</a><ul class="menu"><li class="first collapsed"><a href="/about" title="">Информация об организации</a></li>
+<li class="expanded active-trail"><a href="/node/20" title="" class="active-trail">Отчетность организации</a><ul class="menu"><li class="first leaf active-trail"><a href="/funds" title="" class="active-trail active">Расчет собственных средств</a></li>
+<li class="leaf"><a href="/bfouk" title="">Финансовая отчетность</a></li>
+<li class="last leaf"><a href="/msfo" title="">Отчетность МСФО</a></li>
+</ul></li>
+<li class="last collapsed"><a href="/msgorg">Сообщения о деятельности организации</a></li>
+</ul></li>
+<li class="leaf"><a href="/office">Закупочные процедуры</a></li>
+<li class="leaf"><a href="/node/24">ПОСТАВЩИКАМ</a></li>
+<li class="last leaf"><a href="/node/22">Раскрытие информации в соответствии с требованиями Положения Банка России от 26.12.2017 № 622-П</a></li>
+</ul>  </div>
+</div>
+  </div>
+        </div>
+      
+      <div id="center"><div id="squeeze"><div class="right-corner"><div class="left-corner">
+          <h2 class="element-invisible">Вы здесь</h2><div class="breadcrumb"><a href="/">Главная</a> › <a href="/info" title="" class="active-trail">Раскрытие информации в соответствии с требованиями Указания Банка России от 02.11.2020 № 5609-У</a> › <a href="/node/20" title="" class="active-trail">Отчетность организации</a></div>                    <a id="main-content"></a>
+          <div id="tabs-wrapper" class="clearfix">                                <h1 class="with-tabs">Расчет собственных средств</h1>
+                              </div>                                                  <div class="clearfix">
+              <div class="region region-content">
+    <div id="block-system-main" class="block block-system clearfix">
+
+    
+  <div class="content">
+    <div>Информация о размере собственных средств управляющей компании инвестиционных фондов, паевых инвестиционных фондов и негосударственных пенсионных фондов:</div><table>
+<tbody>
+ <tr class="odd"><td><div><a href="https://www.interpromleasing.ru/sites/default/files/funds/F0420514_20230531_3Y.pdf" target="_blank">Расчет размера собственных средств на 31.05.2023</a><br>Дата публикации: 15.06.2023<br>Информация доступна до: 16.06.2026</div></td> </tr>
+ <tr class="even"><td><div><a href="https://www.interpromleasing.ru/sites/default/files/funds/F0420514_20230430_3Y.pdf" target="_blank">Расчет размера собственных средств на 30.04.2023</a><br>Дата публикации: 19.05.2023<br>Информация доступна до: 20.05.2026</div></td> </tr>
+ <tr class="odd"><td><div><a href="https://www.interpromleasing.ru/sites/default/files/funds/F0420514_20230331_3Y.pdf" target="_blank">Расчет размера собственных средств на 31.03.2023</a><br>Дата публикации: 13.04.2023<br>Информация доступна до: 14.04.2026</div></td> </tr>
+ <tr class="even"><td><div><a href="https://www.interpromleasing.ru/sites/default/files/funds/F0420514_20230228_3Y.pdf" target="_blank">Расчет размера собственных средств на 28.02.2023</a><br>Дата публикации: 15.03.2023<br>Информация доступна до: 16.03.2026</div></td> </tr>
+ <tr class="odd"><td><div><a href="https://www.interpromleasing.ru/sites/default/files/funds/F0420514_20230131_SPOD_3Y.pdf" target="_blank">Расчет размера собственных средств (с учетом СПОД) на 31.01.2023</a><br>Дата публикации: 22.02.2023<br>Информация доступна до: 23.02.2026</div></td> </tr>
+ <tr class="even"><td><div><a href="https://www.interpromleasing.ru/sites/default/files/funds/F0420514_20230131_3Y.pdf" target="_blank">Расчет размера собственных средств на 31.01.2023</a><br>Дата публикации: 17.02.2023<br>Информация доступна до: 18.02.2026</div></td> </tr>
+ <tr class="odd"><td><div><a href="https://www.interpromleasing.ru/sites/default/files/funds/F0420514_20221231_SPOD_3Y.pdf" target="_blank">Расчет размера собственных средств (с учетом СПОД) на 31.12.2022</a><br>Дата публикации: 22.02.2023<br>Информация доступна до: 23.02.2026</div></td> </tr>
+ <tr class="even"><td><div><a href="https://www.interpromleasing.ru/sites/default/files/funds/F0420514_20221231_3Y.pdf" target="_blank">Расчет размера собственных средств на 31.12.2022</a><br>Дата публикации: 20.01.2023<br>Информация доступна до: 22.01.2026</div></td> </tr>
+ <tr class="odd"><td><div><a href="https://www.interpromleasing.ru/sites/default/files/funds/F0420514_20221130_3Y.pdf" target="_blank">Расчет размера собственных средств на 30.11.2022</a><br>Дата публикации: 13.12.2022<br>Информация доступна до: 14.12.2025</div></td> </tr>
+ <tr class="even"><td><div><a href="https://www.interpromleasing.ru/sites/default/files/funds/F0420514_20221031_3Y.pdf" target="_blank">Расчет размера собственных средств на 31.10.2022</a><br>Дата публикации: 15.11.2022<br>Информация доступна до: 16.11.2025</div></td> </tr>
+ <tr class="odd"><td><div><a href="https://www.interpromleasing.ru/sites/default/files/funds/F0420514_20220930_3Y.pdf" target="_blank">Расчет размера собственных средств на 30.09.2022</a><br>Дата публикации: 17.10.2022<br>Информация доступна до: 18.10.2025</div></td> </tr>
+ <tr class="even"><td><div><a href="https://www.interpromleasing.ru/sites/default/files/funds/F0420514_20220831_3Y.pdf" target="_blank">Расчет размера собственных средств на 31.08.2022</a><br>Дата публикации: 15.09.2022<br>Информация доступна до: 26.09.2025</div></td> </tr>
+ <tr class="odd"><td><div><a href="https://www.interpromleasing.ru/sites/default/files/funds/F0420514_20220731_3Y.pdf" target="_blank">Расчет размера собственных средств на 31.07.2022</a><br>Дата публикации: 17.08.2022<br>Информация доступна до: 18.08.2025</div></td> </tr>
+ <tr class="even"><td><div><a href="https://www.interpromleasing.ru/sites/default/files/funds/F0420514_20220630_3Y.pdf" target="_blank">Расчет размера собственных средств на 30.06.2022</a><br>Дата публикации: 18.07.2022<br>Информация доступна до: 19.07.2025</div></td> </tr>
+ <tr class="odd"><td><div><a href="https://www.interpromleasing.ru/sites/default/files/funds/F0420514_20220531_3Y.pdf" target="_blank">Расчет размера собственных средств на 31.05.2022</a><br>Дата публикации: 20.06.2022<br>Информация доступна до: 21.06.2025</div></td> </tr>
+ <tr class="even"><td><div><a href="https://www.interpromleasing.ru/sites/default/files/funds/F0420514_20220430_3Y.pdf" target="_blank">Расчет размера собственных средств на 30.04.2022</a><br>Дата публикации: 23.05.2022<br>Информация доступна до: 24.05.2025</div></td> </tr>
+ <tr class="odd"><td><div><a href="https://www.interpromleasing.ru/sites/default/files/funds/F0420514_20220331_3Y.pdf" target="_blank">Расчет размера собственных средств на 31.03.2022</a><br>Дата публикации: 13.04.2022<br>Информация доступна до: 13.04.2025</div></td> </tr>
+ <tr class="even"><td><div><a href="https://www.interpromleasing.ru/sites/default/files/funds/F0420514_20220228_3Y.pdf" target="_blank">Расчет размера собственных средств на 28.02.2022</a><br>Дата публикации: 15.03.2022<br>Информация доступна до: 15.03.2025</div></td> </tr>
+ <tr class="odd"><td><div><a href="https://www.interpromleasing.ru/sites/default/files/funds/F0420514_20220131_3Y.pdf" target="_blank">Расчет размера собственных средств на 31.01.2022</a><br>Дата публикации: 15.02.2022<br>Информация доступна до: 15.02.2025</div></td> </tr>
+ <tr class="even"><td><div><a href="https://www.interpromleasing.ru/sites/default/files/funds/F0420514_20211231_3Y.pdf" target="_blank">Расчет размера собственных средств на 31.12.2021</a><br>Дата публикации: 25.01.2022<br>Информация доступна до: 25.01.2025</div></td> </tr>
+ <tr class="odd"><td><div><a href="https://www.interpromleasing.ru/sites/default/files/funds/F0420514_20211130_3Y.pdf" target="_blank">Расчет размера собственных средств на 30.11.2021</a><br>Дата публикации: 14.12.2021<br>Информация доступна до: 14.12.2024</div></td> </tr>
+ <tr class="even"><td><div><a href="https://www.interpromleasing.ru/sites/default/files/funds/F0420514_20211031_3Y.pdf" target="_blank">Расчет размера собственных средств на 31.10.2021</a><br>Дата публикации: 22.11.2021<br>Информация доступна до: 25.11.2024</div></td> </tr>
+ <tr class="odd"><td><div><a href="https://www.interpromleasing.ru/sites/default/files/funds/F0420514_20210930_3Y.pdf" target="_blank">Расчет размера собственных средств на 30.09.2021</a><br>Дата публикации: 15.10.2021<br>Информация доступна до: 15.10.2024</div></td> </tr>
+ <tr class="even"><td><div><a href="https://www.interpromleasing.ru/sites/default/files/funds/F0420514_20210831_20240831.pdf" target="_blank">Расчет размера собственных средств на 31.08.2021</a><br>Дата публикации: 15.09.2021<br>Информация доступна до: 15.09.2024</div></td> </tr>
+ <tr class="odd"><td><div><a href="https://www.interpromleasing.ru/sites/default/files/funds/F0420514_20210731.pdf" target="_blank">Расчет размера собственных средств на 31.07.2021</a><br>Дата публикации: 23.08.2021<br>Информация доступна до: 23.08.2024</div></td> </tr>
+ <tr class="even"><td><div><a href="https://www.interpromleasing.ru/sites/default/files/funds/202106.pdf" target="_blank">Расчет размера собственных средств на 30.06.2021</a><br>Дата публикации: 20.07.2021<br>Информация доступна до: 20.07.2024</div></td> </tr>
+ <tr class="odd"><td><div><a href="https://www.interpromleasing.ru/sites/default/files/funds/202105.pdf" target="_blank">Расчет размера собственных средств на 31.05.2021</a><br>Дата публикации: 21.06.2021<br>Информация доступна до: 21.06.2024</div></td> </tr>
+ <tr class="even"><td><div><a href="https://www.interpromleasing.ru/sites/default/files/funds/202104.pdf" target="_blank">Расчет размера собственных средств на 30.04.2021</a><br>Дата публикации: 27.05.2021<br>Информация доступна до: 27.05.2024</div></td> </tr>
+ <tr class="odd"><td><div><a href="https://www.interpromleasing.ru/sites/default/files/funds/202103.pdf" target="_blank">Расчет размера собственных средств на 31.03.2021</a><br>Дата публикации: 23.04.2021<br>Информация доступна до: 23.04.2024</div></td> </tr>
+ <tr class="even"><td><div><a href="https://www.interpromleasing.ru/sites/default/files/funds/202102.pdf" target="_blank">Расчет размера собственных средств на 28.02.2021</a><br>Дата публикации: 23.03.2021<br>Информация доступна до: 23.03.2024</div></td> </tr>
+ <tr class="odd"><td><div><a href="https://www.interpromleasing.ru/sites/default/files/funds/202101.pdf" target="_blank">Расчет размера собственных средств на 31.01.2021</a><br>Дата публикации: 19.02.2021<br>Информация доступна до: 19.02.2024</div></td> </tr>
+ <tr class="even"><td><div><a href="https://www.interpromleasing.ru/sites/default/files/funds/202101SPOD.pdf" target="_blank">Расчет размера собственных средств (с учетом СПОД) на 31.01.2021</a><br>Дата публикации: 05.03.2021<br>Информация доступна до: 05.03.2024</div></td> </tr>
+ <tr class="odd"><td><div><a href="https://www.interpromleasing.ru/sites/default/files/funds/202012.pdf" target="_blank">Расчет размера собственных средств на 31.12.2020</a><br>Дата публикации: 26.01.2021<br>Информация доступна до: 26.01.2024</div></td> </tr>
+ <tr class="even"><td><div><a href="https://www.interpromleasing.ru/sites/default/files/funds/202012SPOD.pdf" target="_blank">Расчет размера собственных средств (с учетом СПОД) на 31.12.2020</a><br>Дата публикации: 05.03.2021<br>Информация доступна до: 05.03.2024</div></td> </tr>
+ <tr class="odd"><td><div><a href="https://www.interpromleasing.ru/sites/default/files/funds/202011.pdf" target="_blank">Расчет размера собственных средств на 30.11.2020</a><br>Дата публикации: 14.12.2020<br>Информация доступна до: 14.12.2023</div></td> </tr>
+ <tr class="even"><td><div><a href="https://www.interpromleasing.ru/sites/default/files/funds/202010.pdf" target="_blank">Расчет размера собственных средств на 31.10.2020</a><br>Дата публикации: 23.11.2020<br>Информация доступна до: 23.11.2023</div></td> </tr>
+ <tr class="odd"><td><div><a href="https://www.interpromleasing.ru/sites/default/files/funds/202009.pdf" target="_blank">Расчет размера собственных средств на 30.09.2020</a><br>Дата публикации: 14.10.2020<br>Информация доступна до: 14.10.2023</div></td> </tr>
+ <tr class="even"><td><div><a href="https://www.interpromleasing.ru/sites/default/files/funds/202008.pdf" target="_blank">Расчет размера собственных средств на 31.08.2020</a><br>Дата публикации: 21.09.2020<br>Информация доступна до: 21.09.2023</div></td> </tr>
+ <tr class="odd"><td><div>Расчет размера собственных средств на 31.07.2020<br>Дата публикации: 13.08.2020<br>Информация доступна до: 01.09.2021</div></td> </tr>
+ <tr class="even"><td><div>Расчет размера собственных средств на 30.06.2020<br>Дата публикации: 14.07.2020<br>Информация доступна до: 01.08.2021</div></td> </tr>
+ <tr class="odd"><td><div>Расчет размера собственных средств на 31.05.2020<br>Дата публикации: 11.06.2020<br>Информация доступна до: 01.07.2021</div></td> </tr>
+ <tr class="even"><td><div>Расчет размера собственных средств на 30.04.2020<br>Дата публикации: 28.05.2020<br>Информация доступна до: 01.06.2021</div></td> </tr>
+ <tr class="odd"><td><div>Расчет размера собственных средств на 31.03.2020<br>Дата публикации: 20.04.2020<br>Информация доступна до: 01.05.2021</div></td> </tr>
+</tbody>
+</table>
+  </div>
+</div>
+  </div>
+          </div>
+                      <div class="region region-footer">
+    <div id="block-block-2" class="block block-block clearfix">
+
+    
+  <div class="content">
+    <p>Стоимость инвестиционных паев может увеличиваться и уменьшаться. Результаты инвестирования в прошлом не определяют доходы в будущем. Государство не гарантирует доходность инвестиций в паевой инвестиционный фонд. Прежде чем приобрести инвестиционный пай, следует внимательно ознакомиться с инвестиционной декларацией паевого инвестиционного фонда, правилами доверительного управления паевым инвестиционным фондом.</p>
+  </div>
+</div>
+  </div>
+      </div></div></div></div> <!-- /.left-corner, /.right-corner, /#squeeze, /#center -->
+
+      
+    </div> <!-- /#container -->
+  </div> <!-- /#wrapper -->
+  
+

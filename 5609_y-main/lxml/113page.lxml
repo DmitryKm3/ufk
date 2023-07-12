@@ -1,0 +1,452 @@
+
+
+<!-- Navbar -->	
+<nav class="navbar navbar-default">
+	<div class="container">
+		<!-- Brand and toggle get grouped for better mobile display -->
+		<div class="navbar-header">
+			<a class="navbar-brand" href="http://infra-invest.ru/">
+								<img alt="Инфраструктурные инвестиции" src="http://infra-invest.ru/wp-content/uploads/2018/11/logo.png" class="logo_imgae" style="width:180px; height:49px;">
+							</a>
+			<button type="button" class="navbar-toggle collapsed" data-toggle="collapse" data-target="#bs-example-navbar-collapse-1">
+				<span class="sr-only">Toggle navigation</span>
+				<span class="icon-bar"></span>
+				<span class="icon-bar"></span>
+				<span class="icon-bar"></span>
+			</button>
+		</div>
+
+		<!-- Collect the nav links, forms, and other content for toggling -->
+		<div class="collapse navbar-collapse" id="bs-example-navbar-collapse-1">
+			<ul id="menu-menu-1" class="nav navbar-nav navbar-right"><li id="menu-item-93" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-home menu-item-has-children menu-item-93 dropdown"><a href="http://infra-invest.ru/">Управляющая компания<span class="caret"></span></a>
+<ul class="dropdown-menu">
+	<li id="menu-item-654" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-654"><a href="http://infra-invest.ru/%d1%83%d0%bf%d1%80%d0%b0%d0%b2%d0%bb%d1%8f%d1%8e%d1%89%d0%b0%d1%8f-%d0%ba%d0%be%d0%bc%d0%bf%d0%b0%d0%bd%d0%b8%d1%8f/%d0%b7%d0%bf%d0%b8%d1%84/">ЗПИФ</a></li>
+	<li id="menu-item-95" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-95"><a href="http://infra-invest.ru/%d1%83%d0%bf%d1%80%d0%b0%d0%b2%d0%bb%d1%8f%d1%8e%d1%89%d0%b0%d1%8f-%d0%ba%d0%be%d0%bc%d0%bf%d0%b0%d0%bd%d0%b8%d1%8f/%d1%80%d0%b8%d1%81%d0%ba-%d0%bc%d0%b5%d0%bd%d0%b5%d0%b4%d0%b6%d0%bc%d0%b5%d0%bd%d1%82/">Риск-менеджмент</a></li>
+</ul>
+</li>
+<li id="menu-item-83" class="menu-item menu-item-type-post_type menu-item-object-page current-page-ancestor current-menu-ancestor current_page_ancestor menu-item-has-children menu-item-83 dropdown active"><a href="http://infra-invest.ru/%d1%80%d0%b0%d1%81%d0%ba%d1%80%d1%8b%d1%82%d0%b8%d0%b5-%d0%b8%d0%bd%d1%84%d0%be%d1%80%d0%bc%d0%b0%d1%86%d0%b8%d0%b8/">Раскрытие информации<span class="caret"></span></a>
+<ul class="dropdown-menu">
+	<li id="menu-item-134" class="menu-item menu-item-type-post_type menu-item-object-page current-page-ancestor current-menu-ancestor current-menu-parent current-page-parent current_page_parent current_page_ancestor menu-item-has-children menu-item-134 dropdown-submenu active"><a href="http://infra-invest.ru/%d1%80%d0%b0%d1%81%d0%ba%d1%80%d1%8b%d1%82%d0%b8%d0%b5-%d0%b8%d0%bd%d1%84%d0%be%d1%80%d0%bc%d0%b0%d1%86%d0%b8%d0%b8/%d0%be%d1%82%d1%87%d0%b5%d1%82%d0%bd%d0%be%d1%81%d1%82%d1%8c/">Отчетность</a>
+	<ul class="dropdown-menu">
+		<li id="menu-item-156" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-156"><a href="http://infra-invest.ru/%d1%80%d0%b0%d1%81%d0%ba%d1%80%d1%8b%d1%82%d0%b8%d0%b5-%d0%b8%d0%bd%d1%84%d0%be%d1%80%d0%bc%d0%b0%d1%86%d0%b8%d0%b8/%d0%be%d1%82%d1%87%d0%b5%d1%82%d0%bd%d0%be%d1%81%d1%82%d1%8c/%d0%ba%d0%be%d0%bd%d1%81%d0%be%d0%bb%d0%b8%d0%b4%d0%b8%d1%80%d0%be%d0%b2%d0%b0%d0%bd%d0%bd%d0%b0%d1%8f-%d0%be%d1%82%d1%87%d0%b5%d1%82%d0%bd%d0%be%d1%81%d1%82%d1%8c-%d1%83%d0%bf%d1%80%d0%b0%d0%b2%d0%bb/">Консолидированная отчетность управляющей компании</a></li>
+		<li id="menu-item-155" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-155"><a href="http://infra-invest.ru/%d1%80%d0%b0%d1%81%d0%ba%d1%80%d1%8b%d1%82%d0%b8%d0%b5-%d0%b8%d0%bd%d1%84%d0%be%d1%80%d0%bc%d0%b0%d1%86%d0%b8%d0%b8/%d0%be%d1%82%d1%87%d0%b5%d1%82%d0%bd%d0%be%d1%81%d1%82%d1%8c/%d0%b1%d1%83%d1%85%d0%b3%d0%b0%d0%bb%d1%82%d0%b5%d1%80%d1%81%d0%ba%d0%b0%d1%8f-%d1%84%d0%b8%d0%bd%d0%b0%d0%bd%d1%81%d0%be%d0%b2%d0%b0%d1%8f-%d0%be%d1%82%d1%87%d0%b5%d1%82%d0%bd%d0%be%d1%81%d1%82/">Бухгалтерская (финансовая) отчетность</a></li>
+		<li id="menu-item-154" class="menu-item menu-item-type-post_type menu-item-object-page current-menu-item page_item page-item-152 current_page_item menu-item-154 active"><a href="http://infra-invest.ru/%d1%80%d0%b0%d1%81%d0%ba%d1%80%d1%8b%d1%82%d0%b8%d0%b5-%d0%b8%d0%bd%d1%84%d0%be%d1%80%d0%bc%d0%b0%d1%86%d0%b8%d0%b8/%d0%be%d1%82%d1%87%d0%b5%d1%82%d0%bd%d0%be%d1%81%d1%82%d1%8c/%d1%80%d0%b0%d1%81%d1%87%d0%b5%d1%82-%d1%80%d0%b0%d0%b7%d0%bc%d0%b5%d1%80%d0%b0-%d1%81%d0%be%d0%b1%d1%81%d1%82%d0%b2%d0%b5%d0%bd%d0%bd%d1%8b%d1%85-%d1%81%d1%80%d0%b5%d0%b4%d1%81%d1%82%d0%b2/">Расчет размера собственных средств</a></li>
+	</ul>
+</li>
+	<li id="menu-item-133" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-item-133 dropdown-submenu"><a href="http://infra-invest.ru/%d1%80%d0%b0%d1%81%d0%ba%d1%80%d1%8b%d1%82%d0%b8%d0%b5-%d0%b8%d0%bd%d1%84%d0%be%d1%80%d0%bc%d0%b0%d1%86%d0%b8%d0%b8/%d0%bf%d1%80%d0%be%d1%87%d0%b0%d1%8f-%d0%b8%d0%bd%d1%84%d0%be%d1%80%d0%bc%d0%b0%d1%86%d0%b8%d1%8f/">Прочая информация</a>
+	<ul class="dropdown-menu">
+		<li id="menu-item-173" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-173"><a href="http://infra-invest.ru/%d1%80%d0%b0%d1%81%d0%ba%d1%80%d1%8b%d1%82%d0%b8%d0%b5-%d0%b8%d0%bd%d1%84%d0%be%d1%80%d0%bc%d0%b0%d1%86%d0%b8%d0%b8/%d0%bf%d1%80%d0%be%d1%87%d0%b0%d1%8f-%d0%b8%d0%bd%d1%84%d0%be%d1%80%d0%bc%d0%b0%d1%86%d0%b8%d1%8f/%d0%bf%d0%be%d0%bb%d0%be%d0%b6%d0%b5%d0%bd%d0%b8%d0%b5-%d0%be-%d0%bf%d0%be%d1%80%d1%8f%d0%b4%d0%ba%d0%b5-%d0%bf%d1%80%d0%b8%d0%b7%d0%bd%d0%b0%d0%bd%d0%b8%d1%8f-%d0%bb%d0%b8%d1%86-%d0%ba%d0%b2%d0%b0/">Регламент признания лиц квалифицированными инвесторами</a></li>
+		<li id="menu-item-174" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-174"><a href="http://infra-invest.ru/%d1%80%d0%b0%d1%81%d0%ba%d1%80%d1%8b%d1%82%d0%b8%d0%b5-%d0%b8%d0%bd%d1%84%d0%be%d1%80%d0%bc%d0%b0%d1%86%d0%b8%d0%b8/%d0%bf%d1%80%d0%be%d1%87%d0%b0%d1%8f-%d0%b8%d0%bd%d1%84%d0%be%d1%80%d0%bc%d0%b0%d1%86%d0%b8%d1%8f/%d0%bf%d1%80%d0%b8%d0%ba%d0%b0%d0%b7-%d0%be%d0%b1-%d1%83%d1%82%d0%b2%d0%b5%d1%80%d0%b6%d0%b4%d0%b5%d0%bd%d0%b8%d0%b8-%d0%ba%d1%80%d0%b8%d1%82%d0%b5%d1%80%d0%b8%d0%b5%d0%b2-%d0%be%d1%82%d0%bd%d0%b5/">Приказ об утверждении критериев отнесения клиентов к категории клиента — иностранного налогоплательщика</a></li>
+		<li id="menu-item-843" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-843"><a href="http://infra-invest.ru/%d1%80%d0%b0%d1%81%d0%ba%d1%80%d1%8b%d1%82%d0%b8%d0%b5-%d0%b8%d0%bd%d1%84%d0%be%d1%80%d0%bc%d0%b0%d1%86%d0%b8%d0%b8/%d0%bf%d1%80%d0%be%d1%87%d0%b0%d1%8f-%d0%b8%d0%bd%d1%84%d0%be%d1%80%d0%bc%d0%b0%d1%86%d0%b8%d1%8f/%d0%b0%d0%bd%d0%ba%d0%b5%d1%82%d1%8b-%d1%81%d0%b0%d0%bc%d0%be%d1%81%d0%b5%d1%80%d1%82%d0%b8%d1%84%d0%b8%d0%ba%d0%b0%d1%86%d0%b8%d0%b8-%d0%b2-%d1%86%d0%b5%d0%bb%d1%8f%d1%85-%d1%83%d1%81%d1%82%d0%b0/">Соблюдение требований CRS</a></li>
+		<li id="menu-item-177" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-177"><a href="http://infra-invest.ru/%d1%80%d0%b0%d1%81%d0%ba%d1%80%d1%8b%d1%82%d0%b8%d0%b5-%d0%b8%d0%bd%d1%84%d0%be%d1%80%d0%bc%d0%b0%d1%86%d0%b8%d0%b8/%d0%bf%d1%80%d0%be%d1%87%d0%b0%d1%8f-%d0%b8%d0%bd%d1%84%d0%be%d1%80%d0%bc%d0%b0%d1%86%d0%b8%d1%8f/%d0%bf%d0%b5%d1%80%d0%b5%d1%87%d0%b5%d0%bd%d1%8c-%d0%b8%d0%bd%d1%84%d0%be%d1%80%d0%bc%d0%b0%d1%86%d0%b8%d0%b8-%d0%be%d1%82%d0%bd%d0%be%d1%81%d1%8f%d1%89%d0%b5%d0%b9%d1%81%d1%8f-%d0%ba-%d0%b8%d0%bd/">Перечень информации, относящейся к инсайдерской информации</a></li>
+		<li id="menu-item-178" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-178"><a href="http://infra-invest.ru/%d1%80%d0%b0%d1%81%d0%ba%d1%80%d1%8b%d1%82%d0%b8%d0%b5-%d0%b8%d0%bd%d1%84%d0%be%d1%80%d0%bc%d0%b0%d1%86%d0%b8%d0%b8/%d0%bf%d1%80%d0%be%d1%87%d0%b0%d1%8f-%d0%b8%d0%bd%d1%84%d0%be%d1%80%d0%bc%d0%b0%d1%86%d0%b8%d1%8f/%d0%bf%d1%80%d0%b0%d0%b2%d0%b8%d0%bb%d0%b0-%d1%8d%d0%bb%d0%b5%d0%ba%d1%82%d1%80%d0%be%d0%bd%d0%bd%d0%be%d0%b3%d0%be-%d0%b4%d0%be%d0%ba%d1%83%d0%bc%d0%b5%d0%bd%d1%82%d0%be%d0%be%d0%b1%d0%be%d1%80%d0%be/">Правила электронного документооборота</a></li>
+		<li id="menu-item-866" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-866"><a href="http://infra-invest.ru/%d1%80%d0%b0%d1%81%d0%ba%d1%80%d1%8b%d1%82%d0%b8%d0%b5-%d0%b8%d0%bd%d1%84%d0%be%d1%80%d0%bc%d0%b0%d1%86%d0%b8%d0%b8/%d0%bf%d1%80%d0%be%d1%87%d0%b0%d1%8f-%d0%b8%d0%bd%d1%84%d0%be%d1%80%d0%bc%d0%b0%d1%86%d0%b8%d1%8f/%d1%81%d0%be%d0%be%d0%b1%d1%89%d0%b5%d0%bd%d0%b8%d1%8f/">Сообщения</a></li>
+	</ul>
+</li>
+</ul>
+</li>
+<li id="menu-item-115" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-115"><a href="http://infra-invest.ru/category/%d0%bd%d0%be%d0%b2%d0%be%d1%81%d1%82%d0%b8/">Новости</a></li>
+<li id="menu-item-79" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-79"><a href="http://infra-invest.ru/%d0%ba%d0%be%d0%bd%d1%82%d0%b0%d0%ba%d1%82%d1%8b/">Контакты</a></li>
+<li id="menu-item-81" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-81"><a href="http://infra-invest.ru/%d0%bf%d0%b0%d1%80%d1%82%d0%bd%d0%b5%d1%80%d1%8b/">Партнеры</a></li>
+</ul>			
+		</div>
+	</div>
+</nav>	
+<!-- End of Navbar --><!-- Page Title -->
+<section class="page-header">
+	<div class="container">
+		<div class="row">
+			<div class="col-md-6">
+				<div class="page-title">
+					<h2>Расчет размера собственных средств</h2>
+					<p>Управляющая компания "Инфраструктурные инвестиции"</p>
+				</div>
+			</div>
+			<div class="col-md-6">
+				<ul class="page-breadcrumb">
+					<li><a href="http://infra-invest.ru">Главная</a> &nbsp; / &nbsp;<a href="http://infra-invest.ru/%d1%80%d0%b0%d1%81%d0%ba%d1%80%d1%8b%d1%82%d0%b8%d0%b5-%d0%b8%d0%bd%d1%84%d0%be%d1%80%d0%bc%d0%b0%d1%86%d0%b8%d0%b8/">Раскрытие информации</a>&nbsp; / &nbsp; <a href="http://infra-invest.ru/%d1%80%d0%b0%d1%81%d0%ba%d1%80%d1%8b%d1%82%d0%b8%d0%b5-%d0%b8%d0%bd%d1%84%d0%be%d1%80%d0%bc%d0%b0%d1%86%d0%b8%d0%b8/%d0%be%d1%82%d1%87%d0%b5%d1%82%d0%bd%d0%be%d1%81%d1%82%d1%8c/">Отчетность</a>&nbsp; / &nbsp;  </li><li class="active">Расчет размера собственных средств</li>				</ul>
+			</div>
+		</div>
+	</div>	
+</section>
+<!-- End of Page Title -->
+<div class="clearfix"></div><!-- Blog & Sidebar Section -->
+<section>		
+	<div class="container">
+		<div class="row">
+			
+			<!--Blog Detail-->
+			<div class="col-md-8">				<div class="page-content">
+						<h4><strong><em>2023 г.:</em></strong></h4>
+<h4><a href="/wp-content/uploads/2023/06/2023.05-РСС-ИНФИ_на-сайт.pdf" target="_blank" rel="noopener">Расчет размера собственных средств на 31.05.2023 г.</a></h4>
+<h4>Размещено на сайте 13.06.2023 г. в 17.35, информация доступна бессрочно.</h4>
+<h4><a href="/wp-content/uploads/2023/05/2023.04-РСС-ИНФИ_на-сайт.pdf" target="_blank" rel="noopener">Расчет размера собственных средств на 30.04.2023 г.</a></h4>
+<h4>Размещено на сайте 17.05.2023 г. в 16.25, информация доступна бессрочно.</h4>
+<h4><a href="/wp-content/uploads/2023/04/2023.03-РСС-ИНФИ_на-сайт.pdf" target="_blank" rel="noopener">Расчет размера собственных средств на 31.03.2023 г.</a></h4>
+<h4>Размещено на сайте 17.04.2023 г. в 14.20, информация доступна бессрочно.</h4>
+<h4><a href="/wp-content/uploads/2023/03/2023.02-РСС-ИНФИ_на-сайт.pdf" target="_blank" rel="noopener">Расчет размера собственных средств на 28.02.2023 г.</a></h4>
+<h4>Размещено на сайте 15.03.2023 г. в 16.20, информация доступна бессрочно.</h4>
+<h4><a href="/wp-content/uploads/2023/02/2023.01-РСС-ИНФИ_на-сайт.pdf" target="_blank" rel="noopener">Расчет размера собственных средств на 31.01.2023 г.</a></h4>
+<h4>Размещено на сайте 13.02.2023 г. в 16.40, информация доступна бессрочно.</h4>
+<h4><strong><em>2022 г.:</em></strong></h4>
+<h4><a href="/wp-content/uploads/2023/01/Раскрытие-информации.pdf" target="_blank" rel="noopener">Расчет размера собственных средств на 31.12.2022 г. (скорректированный)</a></h4>
+<h4>Размещено на сайте 30.01.2023 г. в 16.40, информация доступна бессрочно.</h4>
+<h4><a href="/wp-content/uploads/2023/01/2021.12-РСС-ИНФИ.pdf" target="_blank" rel="noopener">Расчет размера собственных средств на 31.12.2022 г.</a></h4>
+<h4>Размещено на сайте 24.01.2023 г. в 12.25, информация доступна бессрочно.</h4>
+<h4><a href="/wp-content/uploads/2023/01/2022.11-РСС-ИНФИ-корр.pdf" target="_blank" rel="noopener">Расчет размера собственных средств на 30.11.2022 г. (скорректированный)</a></h4>
+<h4>Размещено на сайте 17.01.2023 г. в 13.40, информация доступна бессрочно.</h4>
+<h4><a href="/wp-content/uploads/2022/12/2022.11-РСС-ИНФИ.pdf" target="_blank" rel="noopener">Расчет размера собственных средств на 30.11.2022 г.</a></h4>
+<h4>Размещено на сайте 14.12.2022 г. в 17.15, информация доступна бессрочно.</h4>
+<h4><a href="/wp-content/uploads/2023/01/2022.10-РСС-ИНФИ-корр-№2-1.pdf" target="_blank" rel="noopener">Расчет размера собственных средств на 31.10.2022 г. (скорректированный-2)</a></h4>
+<h4>Размещено на сайте 17.01.2023 г. в 13:45, информация доступна бессрочно.</h4>
+<h4><a href="/wp-content/uploads/2022/11/2022.10-РСС-ИНФИ-корр.pdf" target="_blank" rel="noopener">Расчет размера собственных средств на 31.10.2022 г. (скорректированный)</a></h4>
+<h4>Размещено на сайте 28.11.2022 г. в 17:35, информация доступна бессрочно.</h4>
+<h4><a href="/wp-content/uploads/2022/11/2022.10-РСС-ИНФИ-1.pdf" target="_blank" rel="noopener">Расчет размера собственных средств на 31.10.2022 г.</a></h4>
+<h4>Размещено на сайте 17.11.2022 г. в 12.25, информация доступна бессрочно.</h4>
+<h4><a href="/wp-content/uploads/2022/10/2022.09-РСС-ИНФИ.pdf" target="_blank" rel="noopener">Расчет размера собственных средств на 30.09.2022 г.</a></h4>
+<h4>Размещено на сайте 17.10.2022 г. в 15.20, информация доступна бессрочно.</h4>
+<h4><a href="/wp-content/uploads/2022/09/2022.08-РСС-ИНФИ-1.pdf" target="_blank" rel="noopener">Расчет размера собственных средств на 31.08.2022 г.</a></h4>
+<h4>Размещено на сайте 15.09.2022 г. в 16.40, информация доступна бессрочно.</h4>
+<h4><a href="/wp-content/uploads/2022/08/Расчет-размера-собственных-средств-на-31.07.2022-г.-инфо-1.pdf" target="_blank" rel="noopener">Расчет размера собственных средств на 31.07.2022 г. (скорректированный)</a></h4>
+<h4>Размещено на сайте 31.08.2022 г. в 15.05, информация доступна бессрочно.</h4>
+<h4><a href="/wp-content/uploads/2022/08/Расчет-размера-собственных-средств-на-31.07.2022-г.-инфо.pdf" target="_blank" rel="noopener">Расчет размера собственных средств на 31.07.2022 г.</a></h4>
+<h4>Размещено на сайте 15.08.2022 г. в 13.10, информация доступна бессрочно.</h4>
+<h4><a href="/wp-content/uploads/2022/08/Расчет-размера-собственных-средств-на-30.06.2022-г.-скор.-инфо.pdf" target="_blank" rel="noopener">Расчет размера собственных средств на 30.06.2022 г. (скорректированный)</a></h4>
+<h4>Размещено на сайте 03.08.2022 г. в 17.40, информация доступна бессрочно.</h4>
+<h4><a href="/wp-content/uploads/2022/07/Расчет-размера-собственных-средств-на-30.06.2022-г.-инфо.pdf" target="_blank" rel="noopener">Расчет размера собственных средств на 30.06.2022 г.</a></h4>
+<h4>Размещено на сайте 13.07.2022 г. в 16.10, информация доступна бессрочно.</h4>
+<h4><a href="/wp-content/uploads/2022/06/Расчет-размера-собственных-средств-на-31.05.2022-г.-инфо.pdf" target="_blank" rel="noopener">Расчет размера собственных средств на 31.05.2022 г.</a></h4>
+<h4>Размещено на сайте 10.06.2022 г. в 15.40, информация доступна бессрочно.</h4>
+<h4><a href="/wp-content/uploads/2022/05/Расчет-размера-собственных-средств-на-30.04.2022-г.-инфо.pdf" target="_blank" rel="noopener">Расчет размера собственных средств на 30.04.2022 г.</a></h4>
+<h4>Размещено на сайте 17.05.2022 г. в 16.05, информация доступна бессрочно.</h4>
+<h4><a href="/wp-content/uploads/2022/04/Расчет-размера-собственных-средств-на-31.03.2022-г.-инфо-1.pdf" target="_blank" rel="noopener">Расчет размера собственных средств на 31.03.2022 г. (скорректированный)</a></h4>
+<h4>Размещено на сайте 26.04.2022 г. в 17.17, информация доступна бессрочно.</h4>
+<h4><a href="/wp-content/uploads/2022/04/Расчет-размера-собственных-средств-на-31.03.2022-г.-инфо.pdf" target="_blank" rel="noopener">Расчет размера собственных средств на 31.03.2022 г.</a></h4>
+<h4>Размещено на сайте 14.04.2022 г. в 14.45, информация доступна бессрочно.</h4>
+<h4><a href="/wp-content/uploads/2022/03/2022.02-РСС-ИНФИ.pdf" target="_blank" rel="noopener">Расчет размера собственных средств на 28.02.2022 г.</a></h4>
+<h4>Размещено на сайте 15.03.2022 г. в 13.57, информация доступна бессрочно.</h4>
+<h4><a href="/wp-content/uploads/2022/02/Расчет-размера-собственных-средств-на-31.01.2022-г.-инфо.pdf" target="_blank" rel="noopener">Расчет размера собственных средств на 31.01.2022 г.</a></h4>
+<h4>Размещено на сайте 11.02.2022 г. в 17.35, информация доступна бессрочно.</h4>
+<h4><strong><em>2021 г.:</em></strong></h4>
+<h4><a href="/wp-content/uploads/2022/02/Расчет-размера-собственных-средств-на-31.12.2021-г.-инфо.pdf" target="_blank" rel="noopener">Расчет размера собственных средств на 31.12.2021 г.</a></h4>
+<h4>Размещено на сайте 21.01.2021 г. в 14.45, информация доступна бессрочно.</h4>
+<h4><a href="/wp-content/uploads/2022/02/Расчет-размера-собственных-средств-на-30.11.2021-г.-инфо.pdf" target="_blank" rel="noopener">Расчет размера собственных средств на 30.11.2021 г.</a></h4>
+<h4>Размещено на сайте 14.12.2021 г. в 10.27, информация доступна бессрочно.</h4>
+<h4><a href="/wp-content/uploads/2022/02/Расчет-размера-собственных-средств-на-31.10.2021-г.-инфо.pdf" target="_blank" rel="noopener">Расчет размера собственных средств на 31.10.2021 г.</a></h4>
+<h4>Размещено на сайте 16.11.2021 г. в 12.20, информация доступна бессрочно.</h4>
+<h4><a href="/wp-content/uploads/2021/10/Расчет-размера-собственных-средств-на-30.09.2021-г.-инфо.pdf" target="_blank" rel="noopener">Расчет размера собственных средств на 30.09.2021 г.</a></h4>
+<h4>Размещено на сайте 15.10.2021 г. в 12.45, информация доступна бессрочно.</h4>
+<h4><a href="/wp-content/uploads/2021/09/2021.08-РСС.pdf" target="_blank" rel="noopener">Расчет размера собственных средств на 31.08.2021 г.</a></h4>
+<h4>Размещено на сайте 17.09.2021 г. в 14.05, информация доступна бессрочно.</h4>
+<h4><a href="/wp-content/uploads/2021/08/2021.07-РСС.pdf" target="_blank" rel="noopener">Расчет размера собственных средств на 31.07.2021 г.</a></h4>
+<h4>Размещено на сайте 12.08.2021 г. в 16.45, информация доступна бессрочно.</h4>
+<h4><a href="/wp-content/uploads/2021/08/2021.06-РСС-корректировка.pdf" target="_blank" rel="noopener">Расчет размера собственных средств на 30.06.2021 г. (скорректированный)</a></h4>
+<h4>Размещено на сайте 04.08.2021 г. в 10.35, информация доступна бессрочно.</h4>
+<h4><a href="/wp-content/uploads/2021/07/2021.06-РСС.pdf" target="_blank" rel="noopener">Расчет размера собственных средств на 30.06.2021 г.</a></h4>
+<h4>Размещено на сайте 15.07.2021 г. в 16.25, информация доступна бессрочно.</h4>
+<h4><a href="/wp-content/uploads/2021/06/2021.05-РСС.pdf" target="_blank" rel="noopener">Расчет размера собственных средств на 31.05.2021 г.</a></h4>
+<h4>Размещено на сайте 16.06.2021 г. в 09.45, информация доступна бессрочно.</h4>
+<h4><a href="/wp-content/uploads/2021/05/2021.04-РСС-корректировка.pdf" target="_blank" rel="noopener">Расчет размера собственных средств на 30.04.2021 г. (скорректированный)</a></h4>
+<h4>Размещено на сайте 28.05.2021 г. в 17.10, информация доступна бессрочно.</h4>
+<h4><a href="/wp-content/uploads/2021/05/2021.04-РСС-1.pdf" target="_blank" rel="noopener">Расчет размера собственных средств на 30.04.2021 г.</a></h4>
+<h4>Размещено на сайте 18.05.2021 г. в 16.05, информация доступна бессрочно.</h4>
+<h4><a href="/wp-content/uploads/2021/05/2021.01-РСС-корректировка.pdf" target="_blank" rel="noopener">Расчет размера собственных средств на 31.01.2021 г. (скорректированный)</a></h4>
+<h4>Размещено на сайте 26.04.2021 г. в 15.20, информация доступна бессрочно.</h4>
+<h4><a href="/wp-content/uploads/2021/05/2021.02-РСС-корректировка.pdf" target="_blank" rel="noopener">Расчет размера собственных средств на 28.02.2021 г. (скорректированный)</a></h4>
+<h4>Размещено на сайте 20.04.2021 г. в 13.50, информация доступна бессрочно.</h4>
+<h4><a href="/wp-content/uploads/2021/04/2021.03-РСС.pdf" target="_blank" rel="noopener">Расчет размера собственных средств на 31.03.2021 г.</a></h4>
+<h4>Размещено на сайте 19.04.2021 г. в 12.05, информация доступна бессрочно.</h4>
+<h4><a href="/wp-content/uploads/2021/03/2021.02-РСС.pdf" target="_blank" rel="noopener">Расчет размера собственных средств на 28.02.2021 г.</a></h4>
+<h4>Размещено на сайте 18.03.2021 г. в 11.25, информация доступна бессрочно.</h4>
+<h4><a href="/wp-content/uploads/2021/02/2021.01-РСС.pdf" target="_blank" rel="noopener">Расчет размера собственных средств на 31.01.2021 г.</a></h4>
+<h4>Размещено на сайте 12.02.2021 г. в 14.25, информация доступна бессрочно.</h4>
+<h4><strong><em>2020 г.:</em></strong></h4>
+<h4><a href="/wp-content/uploads/2021/02/2020.12-РСС-уточненный.pdf" target="_blank" rel="noopener">Расчет размера собственных средств на 31.12.2020 г. уточненный </a></h4>
+<h4>Размещено на сайте 12.02.2021 г. в 12.40, информация доступна бессрочно.</h4>
+<h4><a href="/wp-content/uploads/2021/01/2020.12-РСС.pdf" target="_blank" rel="noopener">Расчет размера собственных средств на 31.12.2020 г.</a></h4>
+<h4>Размещено на сайте 27.01.2021 г. в 15.00, информация доступна бессрочно.</h4>
+<h4><a href="/wp-content/uploads/2020/12/2020.11-РСС-на-сайт-ИНФИ.pdf" target="_blank" rel="noopener">Расчет размера собственных средств на 30.11.2020 г.</a></h4>
+<h4>Размещено на сайте 19.12.2020 г. в 13-05, информация доступна бессрочно.</h4>
+<h4><a href="/wp-content/uploads/2020/11/2020.10-РСС-на-сайт-ИНФИ.pdf" target="_blank" rel="noopener">Расчет размера собственных средств на 31.10.2020 г.</a></h4>
+<h4>Размещено на сайте 13.11.2020 г. в 16-20, информация доступна бессрочно.</h4>
+<h4><a href="/wp-content/uploads/2020/10/2020.09-РСС-на-сайт-ИНФИ.pdf" target="_blank" rel="noopener">Расчет размера собственных средств на 30.09.2020г.</a></h4>
+<h4>Размещено на сайте 21.10.2020 г. в 13.30, информация доступна бессрочно.</h4>
+<h4><a href="/wp-content/uploads/2020/09/img-200922172649.pdf" target="_blank" rel="noopener">Расчет размера собственных средств на 31.08.2020г.</a></h4>
+<h4>Размещено на сайте 23.09.2020 г. в 12.30, информация доступна бессрочно.</h4>
+<h4><a href="/wp-content/uploads/2020/08/2020.07-РСС-на-сайт-ИНФИ.pdf" target="_blank" rel="noopener">Расчет размера собственных средств на 31.07.2020г.</a></h4>
+<h4>Размещено на сайте 14.08.2020 г. в 12.00, информация доступна бессрочно.</h4>
+<h4><a href="/wp-content/uploads/2020/07/2020.06-РСС-на-сайт-ИНФИ.pdf" target="_blank" rel="noopener">Расчет размера собственных средств на 30.06.2020г.</a></h4>
+<h4>Размещено на сайте 29.07.2020 г. в 10.00, информация доступна бессрочно.</h4>
+<h4><a href="/wp-content/uploads/2020/06/2020.05-РСС-на-сайт-ИНФИ_1.pdf" target="_blank" rel="noopener">Расчет размера собственных средств на 31.05.2020г.</a></h4>
+<h4>Размещено на сайте 17.06.2020 г. в 18.00, информация доступна бессрочно.</h4>
+<h4><a href="/wp-content/uploads/2020/05/Scannable-______-22-___-2020-_.-12_20_00.pdf" target="_blank" rel="noopener">Расчет размера собственных средств на 30.04.2020г.</a></h4>
+<h4>Размещено на сайте 22.05.2020 г. в 18.00, информация доступна бессрочно.</h4>
+<h4><a href="/wp-content/uploads/2020/04/РСС_03.pdf" target="_blank" rel="noopener">Расчет размера собственных средств на 31.03.2020г.</a></h4>
+<h4>Размещено на сайте 20.04.2020 г. в 18.00, информация доступна бессрочно.</h4>
+<h4><a href="/wp-content/uploads/2020/03/img-200316135320.pdf" target="_blank" rel="noopener">Расчет размера собственных средств на 29.02.2020г.</a></h4>
+<h4>Размещено на сайте 17.03.2020 г. в 16.00, информация доступна бессрочно.</h4>
+<h4><a href="/wp-content/uploads/2020/02/img-200219130712.pdf" target="_blank" rel="noopener">Расчет размера собственных средств на 31.01.2020г.</a></h4>
+<h4>Размещено на сайте 19.02.2020 г. в 12.00, информация доступна бессрочно.</h4>
+<h4><strong><em>2019 г.:</em></strong></h4>
+<h4><a href="/wp-content/uploads/2020/01/img-200127164407.pdf" target="_blank" rel="noopener">Расчет размера собственных средств на 31.12.2019г.</a></h4>
+<h4>Размещено на сайте 28.01.2020 г. в 12:00, информация доступна бессрочно.</h4>
+<h4><a href="/wp-content/uploads/2020/02/img-200214174644.pdf" target="_blank" rel="noopener">Корректировка расчета размера собственных средств на 30.11.2019 г.</a></h4>
+<h4>Размещено на сайте 14.02.2020 г. в 17.00, информация доступна бессрочно.</h4>
+<h4><a href="/wp-content/uploads/2019/12/РСС-на-30.11.2019.pdf" target="_blank" rel="noopener">Расчет размера собственных средств на 30.11.2019г.</a></h4>
+<h4>Размещено на сайте 30.12.2019 г. в 13:00, информация доступна бессрочно.</h4>
+<h4><a href="/wp-content/uploads/2020/02/img-200214173929.pdf" target="_blank" rel="noopener">Корректировка Расчета размера собственных средств на 31.10.2019г.</a></h4>
+<h4>Размещено на сайте 14.02.2020 г. в 17.00, информация доступна бессрочно.</h4>
+<h4><a href="/wp-content/uploads/2019/11/img-191127121716.pdf" target="_blank" rel="noopener">Расчет размера собственных средств на 31.10.2019г.</a></h4>
+<h4>Размещено на сайте 27.11.2019 г. в 13:00, информация доступна бессрочно.</h4>
+<h4><a href="/wp-content/uploads/2019/10/РСС-на-30-сентября-19.xls.pdf" target="_blank" rel="noopener">Расчет размера собственных средств на 30.09.2019г.</a></h4>
+<h4>Размещено на сайте 16.10.2019 г. в 12:00, информация доступна бессрочно.</h4>
+<h4><a href="/wp-content/uploads/2019/09/РСС-на-сайт-ИНФИ-август-2019.xls.pdf" target="_blank" rel="noopener">Расчет размера собственных средств на 31.08.2019г.</a></h4>
+<h4>Размещено на сайте 23.09.2019 г. в 15:00, информация доступна бессрочно.</h4>
+<h4><a href="/wp-content/uploads/2019/08/РСС-на-31-июля-2019-года.pdf" target="_blank" rel="noopener">Расчет размера собственных средств на 31.07.2019г.</a></h4>
+<h4>Размещено на сайте 15.08.2019 г. в 12:00, информация доступна бессрочно.</h4>
+<h4><a href="/wp-content/uploads/2019/07/РСС-на-30-июня-2019-г.pdf" target="_blank" rel="noopener">Расчет размера собственных средств на 30.06.2019г.</a></h4>
+<h4>Размещено на сайте 30.07.2019 г. в 15:00, информация доступна бессрочно.</h4>
+<h4><a href="/wp-content/uploads/2019/08/РСС-на-31-мая-2019г-исп.pdf" target="_blank" rel="noopener">Корректировка Расчета размера собственных средств на 31.05.2019г.</a></h4>
+<h4>Размещено на сайте 01.08.2019 г. в 15:00, информация доступна бессрочно.</h4>
+<h4><a href="/wp-content/uploads/2019/06/РСС-за-май-2019г.pdf" target="_blank" rel="noopener">Расчет размера собственных средств на 31.05.2019г.</a></h4>
+<h4>Размещено на сайте 26.06.2019 г. в 11:00, информация доступна бессрочно.</h4>
+<h4><a href="/wp-content/uploads/2019/08/РСС-на-30-апреля-2019г-исп.pdf" target="_blank" rel="noopener">Корректировка Расчета размера собственных средств на 30.04.2019г.</a></h4>
+<h4>Размещено на сайте 01.08.2019 г. в 15:00, информация доступна бессрочно.</h4>
+<h4><a href="/wp-content/uploads/2019/05/РСС-апрель-2019г.pdf" target="_blank" rel="noopener">Расчет размера собственных средств на 30.04.2019г.</a></h4>
+<h4>Размещено на сайте 28.05.2019 г. в 11:00, информация доступна бессрочно.</h4>
+<h4><a href="/wp-content/uploads/2019/08/РСС-на-31-марта-2019г-исп.pdf" target="_blank" rel="noopener">Корректировка Расчета размера собственных средств на 31.03.2019г.</a></h4>
+<h4>Размещено на сайте 01.08.2019 г. в 15:00, информация доступна бессрочно.</h4>
+<h4><a href="/wp-content/uploads/2019/04/РСС-за-март-2019.pdf" target="_blank" rel="noopener">Расчет размера собственных средств на 31.03.2019г.</a></h4>
+<h4>Размещено на сайте 17.04.2019 г. в 12:00, информация доступна бессрочно.</h4>
+<h4><a href="/wp-content/uploads/2019/08/РСС-на-28-февраля-2019г-исп.pdf" target="_blank" rel="noopener">Корректировка Расчета размера собственных средств на 28.02.2019г.</a></h4>
+<h4>Размещено на сайте 01.08.2019 г. в 15:00, информация доступна бессрочно.</h4>
+<h4><a href="/wp-content/uploads/2019/03/scan_po.pdf" target="_blank" rel="noopener">Расчет размера собственных средств на 28.02.2019г.</a></h4>
+<h4>Размещено на сайте 19.03.2019 г. в 11:00, информация доступна бессрочно.</h4>
+<h4><a href="/wp-content/uploads/2019/08/РСС-на-31-января-2019г-исп.pdf" target="_blank" rel="noopener">Корректировка Расчета размера собственных средств на 31.01.2019г.</a></h4>
+<h4>Размещено на сайте 01.08.2019 г. в 15:00, информация доступна бессрочно.</h4>
+<h4><a href="/wp-content/uploads/2019/02/РСС-январь-2019-с-печатью.pdf" target="_blank" rel="noopener">Расчет размера собственных средств на 31.01.2019г.</a></h4>
+<h4>Размещено на сайте 19.02.2019 г. в 17:00, информация доступна бессрочно.</h4>
+<h4><strong><em>2018 г.:</em></strong></h4>
+<h4><a href="/wp-content/uploads/2019/01/Расчет-размера-собственных-средств-на-31.12.2018-г..pdf" target="_blank" rel="noopener">Расчет размера собственных средств на 31.12.2018г.</a></h4>
+<h4>Размещено на сайте 25.01.2019 г. в 10:00, информация доступна бессрочно.</h4>
+<h4><a href="/wp-content/uploads/2018/12/OCUD0420514_30.11.2018_scan.pdf" target="_blank" rel="noopener">Расчет размера собственных средств на 30.11.2018г.</a></h4>
+<h4>Размещено на сайте 19.12.2018 г. в 17:00, информация доступна бессрочно.</h4>
+<h4><a href="/wp-content/uploads/2018/11/OCUD0420514_31.10.2018_scan.pdf" target="_blank" rel="noopener">Расчет размера собственных средств на 31.10.2018г.</a></h4>
+<h4>Размещено на сайте 23.11.2018 г. в 12:00, информация доступна бессрочно.</h4>
+<h4><a href="/wp-content/uploads/2018/10/OCUD0420514_30.09.2018_scan.pdf" target="_blank" rel="noopener">Расчет размера собственных средств на 30.09.2018г.</a></h4>
+<h4>Размещено на сайте 25.10.2018 г. в 12:00, информация доступна бессрочно.</h4>
+<h4><a href="/wp-content/uploads/2018/09/OCUD0420514_31.08.2018_scan.pdf" target="_blank" rel="noopener">Расчет размера собственных средств на 31.08.2018г.</a></h4>
+<h4>Размещено на сайте 20.09.2018 г. в 16:00, информация доступна бессрочно.</h4>
+<h4><a href="/wp-content/uploads/2018/08/OCUD0420514_31.07.2018_scan.pdf" target="_blank" rel="noopener">Расчет размера собственных средств на 31.07.2018г.</a></h4>
+<h4>Размещено на сайте 16.08.2018 г. в 13:00, информация доступна бессрочно.</h4>
+<h4><a href="/wp-content/uploads/2018/07/OCUD0420514_30.06.2018_scan.pdf" target="_blank" rel="noopener">Расчет размера собственных средств на 30.06.2018г.</a></h4>
+<h4>Размещено на сайте 16.07.2018 г. в 18:00, информация доступна бессрочно.</h4>
+<h4><a href="/wp-content/uploads/2018/06/OCUD0420514_31.05.2018.pdf" target="_blank" rel="noopener">Расчет размера собственных средств на 31.05.2018г.</a></h4>
+<h4>Размещено на сайте 27.06.2018 г. в 13:00, информация доступна бессрочно.</h4>
+<h4><a href="/wp-content/uploads/2018/05/OCUD0420514_30.04.2018_scan.pdf" target="_blank" rel="noopener">Расчет размера собственных средств на 30.04.2018г.</a></h4>
+<h4>Размещено на сайте 22.05.2018 г. в 11:00, информация доступна бессрочно.</h4>
+<h4><a href="/wp-content/uploads/2018/04/OCUD0420514_31.03.2018_scan.pdf" target="_blank" rel="noopener">Расчет размера собственных средств на 31.03.2018г.</a></h4>
+<h4>Размещено на сайте 19.04.2018 г. в 18:00, информация доступна бессрочно.</h4>
+<h4><a href="/wp-content/uploads/2018/04/OCUD0420514_28.02.2018_scan_korr.pdf" target="_blank" rel="noopener">Расчет размера собственных средств на 28.02.2018г. корректировка</a></h4>
+<h4>Размещено на сайте 19.04.2018 г. в 18:00, информация доступна бессрочно.</h4>
+<h4><a href="/wp-content/uploads/2018/04/OCUD0420514_31.01.2018_scan_korr.pdf" target="_blank" rel="noopener">Расчет размера собственных средств на 31.01.2018г. корректировка</a></h4>
+<h4>Размещено на сайте 19.04.2018 г. в 18:00, информация доступна бессрочно.</h4>
+<h4><a href="/wp-content/uploads/2018/03/OCUD0420514_28.02.2018.pdf" target="_blank" rel="noopener">Расчет размера собственных средств на 28.02.2018г.</a></h4>
+<h4>Размещено на сайте 29.03.2018 г. в 20:00, информация доступна бессрочно.</h4>
+<h4><a href="/wp-content/uploads/2018/02/INFI_0420514_20180131_scan.pdf" target="_blank" rel="noopener">Расчет размера собственных средств на 31.01.2018г.</a></h4>
+<h4>Размещено на сайте 28.02.2018 г. в 18:00, информация доступна бессрочно.</h4>
+<h4><strong><em>2017 г.:</em></strong></h4>
+<h4><a href="/wp-content/uploads/2018/01/INFI_0420514_20171231.pdf" target="_blank" rel="noopener">Расчет размера собственных средств на 31.12.2017г.</a></h4>
+<h4>Размещено на сайте 30.01.2018 г. в 18:00, информация доступна бессрочно.</h4>
+<h4><a href="/wp-content/uploads/2017/12/INFI_0420514_20171130_scan.pdf" target="_blank" rel="noopener">Расчет размера собственных средств на 30.11.2017г.</a></h4>
+<h4>Размещено на сайте 26.12.2017 г. в 17:00, информация доступна бессрочно.</h4>
+<h4><a href="/wp-content/uploads/2017/11/INFI_0420514_20171031_scan.pdf" target="_blank" rel="noopener">Расчет размера собственных средств на 31.10.2017г.</a></h4>
+<h4>Размещено на сайте 22.11.2017 г. в 16:00, информация доступна бессрочно.</h4>
+<h4><a href="/wp-content/uploads/2017/10/INFI_0420514_20170930_scan.pdf" target="_blank" rel="noopener">Расчет размера собственных средств на 30.09.2017г.</a></h4>
+<h4>Размещено на сайте 17.10.2017 г. в 16:00, информация доступна бессрочно.</h4>
+<h4><a href="/wp-content/uploads/2017/09/INFI_0420514_20170831_scan.pdf" target="_blank" rel="noopener">Расчет размера собственных средств на 31.08.2017г.</a></h4>
+<h4>Размещено на сайте 25.09.2017 г. в 16:00, информация доступна бессрочно.</h4>
+<h4><a href="/wp-content/uploads/2017/08/INFI_0420514_20170731.pdf" target="_blank" rel="noopener">Расчет размера собственных средств на 31.07.2017г.</a></h4>
+<h4>Размещено на сайте 30.08.2017 г. в 16:00, информация доступна бессрочно.</h4>
+<h4><a href="/wp-content/uploads/2017/07/INFI_0420514_20170630_scan.pdf" target="_blank" rel="noopener">Расчет размера собственных средств на 30.06.2017г.</a></h4>
+<h4>Размещено на сайте 28.07.2017 г. в 16:00, информация доступна бессрочно.</h4>
+<h4><a href="/wp-content/uploads/2017/06/INFI_0420514_20170531.pdf" target="_blank" rel="noopener">Расчет размера собственных средств на 31.05.2017г.</a></h4>
+<h4>Размещено на сайте 20.06.2017 г. в 16:00, информация доступна бессрочно.</h4>
+<h4><a href="/wp-content/uploads/2017/05/INFI_0420514_20170430.pdf" target="_blank" rel="noopener">Расчет размера собственных средств на 30.04.2017г.</a></h4>
+<h4>Размещено на сайте 25.05.2017 г. в 17:00, информация доступна бессрочно.</h4>
+<h4><a href="/wp-content/uploads/2017/04/infi_rss_310317.pdf" target="_blank" rel="noopener">Расчет размера собственных средств на 31.03.2017г.</a></h4>
+<h4>Размещено на сайте 24.04.2017 г. в 16:00, информация доступна бессрочно.</h4>
+<h4><a href="/wp-content/uploads/2017/03/infi_rss_280217.pdf" target="_blank" rel="noopener">Расчет размера собственных средств на 28.02.2017г.</a></h4>
+<h4>Размещено на сайте 23.03.2017 г. в 16:00, информация доступна бессрочно.</h4>
+<h4><a href="/wp-content/uploads/2017/02/infi_rss_310117.pdf" target="_blank" rel="noopener">Расчет размера собственных средств на 31.01.2017г.</a></h4>
+<h4>Размещено на сайте 15.02.2017 г. в 16:00, информация доступна бессрочно.</h4>
+<h4><strong><em>2016 г.:</em></strong></h4>
+<h4><a href="/wp-content/uploads/2017/01/infi_rss_311216.pdf" target="_blank" rel="noopener">Расчет размера собственных средств на 31.12.2016г.</a></h4>
+<h4>Размещено на сайте 30.01.2017 г. в 16:00, информация доступна бессрочно.</h4>
+<h4><a href="/wp-content/uploads/2016/12/infi_rss_301116.pdf" target="_blank" rel="noopener">Расчет размера собственных средств на 30.11.2016г.</a></h4>
+<h4>Размещено на сайте 19.12.2016 г. в 16:00, информация доступна бессрочно.</h4>
+<h4><a href="/wp-content/uploads/2016/11/infi_rss_311016.pdf" target="_blank" rel="noopener">Расчет размера собственных средств на 31.10.2016г.</a></h4>
+<h4>Размещено на сайте 24.11.2016 г. в 16:00, информация доступна бессрочно.</h4>
+<h4><a href="/wp-content/uploads/2016/10/infi_rss_300916.pdf" target="_blank" rel="noopener">Расчет размера собственных средств на 30.09.2016г.</a></h4>
+<h4>Размещено на сайте 27.10.2016 г. в 16:00, информация доступна бессрочно.</h4>
+<h4><a href="/wp-content/uploads/2016/07/infi_rss_310816.pdf" target="_blank" rel="noopener">Расчет размера собственных средств на 31.08.2016г.</a></h4>
+<h4>Размещено на сайте 19.09.2016 г. в 13:30, информация доступна бессрочно.</h4>
+<h4><a href="/wp-content/uploads/2016/07/infi_rss_310716_korr.pdf" target="_blank" rel="noopener">Уточненный расчет размера собственных средств на 31.07.2016г.</a></h4>
+<h4>Размещено на сайте 31.08.2016 г. в 15:30, информация доступна бессрочно.</h4>
+<h4><a href="/wp-content/uploads/2016/07/infi_rss_300616_korr.pdf" target="_blank" rel="noopener">Уточненный расчет размера собственных средств на 30.06.2016г.</a></h4>
+<h4>Размещено на сайте 31.08.2016 г. в 15:20, информация доступна бессрочно.</h4>
+<h4><a href="/wp-content/uploads/2016/07/infi_rss_310716.pdf" target="_blank" rel="noopener">Расчет размера собственных средств на 31.07.2016г.</a></h4>
+<h4>Размещено на сайте 11.08.2016 г. в 17:10, информация доступна бессрочно.</h4>
+<h4><a href="/wp-content/uploads/2016/07/infi_rss_300616.pdf" target="_blank" rel="noopener">Расчет размера собственных средств на 30.06.2016г.</a></h4>
+<h4>Размещено на сайте 18.07.2016 г. в 12:30, в связи с техническими неполадками повторно размещено 11.08.2016г. в 17:20. информация доступна бессрочно.</h4>
+<h4><a href="/wp-content/uploads/2016/07/infi_rss_310516.pdf" target="_blank" rel="noopener">Расчет размера собственных средств на 31.05.2016г.</a></h4>
+<h4>Размещено на сайте 15.06.2016 г. в 15:10, информация доступна бессрочно.</h4>
+<h4><a href="/wp-content/uploads/2016/07/infi_rss_300416.pdf" target="_blank" rel="noopener">Расчет размера собственных средств на 30.04.2016г.</a></h4>
+<h4>Размещено на сайте 20.05.2016 г. в 16:30, информация доступна бессрочно.</h4>
+<h4><a href="/wp-content/uploads/2016/07/infi_rss_310316.pdf" target="_blank" rel="noopener">Расчет размера собственных средств на 31.03.2016г.</a></h4>
+<h4>Размещено на сайте 19.04.2016 г. в 17:00, информация доступна бессрочно.</h4>
+<h4><a href="/wp-content/uploads/2016/07/infi_rss_290216.pdf" target="_blank" rel="noopener">Расчет размера собственных средств на 29.02.2016 г.</a></h4>
+<h4>Размещено на сайте 18.03.2016 г. в 16:20, информация доступна бессрочно.</h4>
+<h4><a href="/wp-content/uploads/2016/07/infi_rss_310116.pdf" target="_blank" rel="noopener">Расчет размера собственных средств на 31.01.2016 г.</a></h4>
+<h4>Размещено на сайте 20.02.2016 г. в 15:00, информация доступна бессрочно.</h4>
+<h4><strong><em>2015 г.:</em></strong></h4>
+<h4><a href="/wp-content/uploads/2016/07/infi_rss_311215.pdf" target="_blank" rel="noopener">Расчет размера собственных средств на 31.12.2015 г.</a></h4>
+<h4>Размещено на сайте 29.01.2016 г. в 19:00, информация доступна бессрочно.</h4>
+<h4><a href="/wp-content/uploads/2016/07/infi_rss_301115.pdf" target="_blank" rel="noopener">Расчет размера собственных средств на 30.11.2015 г.</a></h4>
+<h4>Размещено на сайте 28.11.2015 г. в 19:00, информация доступна бессрочно.</h4>
+<h4><a href="/wp-content/uploads/2016/07/infi_rss_311015.pdf" target="_blank" rel="noopener">Расчет размера собственных средств на 31.10.2015 г.</a></h4>
+<h4>Размещено на сайте 27.11.2015 г. в 17:00, информация доступна бессрочно.</h4>
+<h4><a href="/wp-content/uploads/2016/07/infi_rss_300915.pdf" target="_blank" rel="noopener">Расчет размера собственных средств на 30.09.2015 г.</a></h4>
+<h4>Размещено на сайте 29.10.2015 г. в 17:00, информация доступна бессрочно.</h4>
+<h4><a href="/wp-content/uploads/2016/07/infi_rss_310815.pdf" target="_blank" rel="noopener">Расчет размера собственных средств на 31.08.2015 г.</a></h4>
+<h4>Размещено на сайте 29.09.2015 г. в 18:00, информация доступна бессрочно.</h4>
+<h4><a href="/wp-content/uploads/2016/07/infi_rss_310715.pdf" target="_blank" rel="noopener">Расчет размера собственных средств на 31.07.2015 г.</a></h4>
+<h4>Размещено на сайте 27.08.2015 г. в 18:00, информация доступна бессрочно.</h4>
+<h4><a href="/wp-content/uploads/2016/07/infi_rss_300615.pdf" target="_blank" rel="noopener">Расчет размера собственных средств на 30.06.2015 г.</a></h4>
+<h4>Размещено на сайте 31.07.2015 г. в 14:00, информация доступна бессрочно.</h4>
+<h4><a href="/wp-content/uploads/2016/07/infi_rss_310515.pdf" target="_blank" rel="noopener">Расчет размера собственных средств на 31.05.2015 г.</a></h4>
+<h4>Размещено на сайте 29.06.2015 г. в 17:00, информация доступна бессрочно.</h4>
+<h4><a href="/wp-content/uploads/2016/07/infi_rss_30-04-2015.pdf" target="_blank" rel="noopener">Расчет размера собственных средств на 30.04.2015 г.</a></h4>
+<h4>Размещено на сайте 28.05.2015 г. в 17:00, информация доступна бессрочно.</h4>
+<h4><a href="/wp-content/uploads/2016/07/infi_rss_310315.pdf" target="_blank" rel="noopener">Расчет размера собственных средств на 31.03.2015 г.</a></h4>
+<h4>Размещено на сайте 29.04.2015 г. в 13:00, информация доступна бессрочно.</h4>
+<h4><a href="/wp-content/uploads/2016/07/infi_rss_2802015.pdf" target="_blank" rel="noopener">Расчет размера собственных средств на 28.02.2015 г.</a></h4>
+<h4>Размещено на сайте 31.03.2015 г. в 13:00, информация доступна бессрочно.</h4>
+<h4><a href="/wp-content/uploads/2016/07/infi_rss_310120105_02.pdf" target="_blank" rel="noopener">Расчет размера собственных средств на 31.01.2015 г.</a></h4>
+<h4>Размещено на сайте 26.02.2015 г. в 18:00, информация доступна бессрочно.</h4>
+<h4><strong><em>2014 г.:</em></strong></h4>
+<h4><a href="/wp-content/uploads/2016/07/INFI_RSS.pdf" target="_blank" rel="noopener">Расчет размера собственных средств на 31.12.2014 г.</a></h4>
+<h4>Размещено на сайте 30.01.2015 г. в 13:00, информация доступна бессрочно.</h4>
+<h4><a href="/wp-content/uploads/2016/07/INFI_RSS_30112014.compressed.pdf" target="_blank" rel="noopener">Расчет размера собственных средств на 30.11.2014 г.</a></h4>
+<h4>Размещено на сайте 29.12.2014 г. в 17:00, информация доступна бессрочно.</h4>
+<h4><a href="/wp-content/uploads/2016/07/INFI_RSS_31102014.pdf" target="_blank" rel="noopener">Расчет размера собственных средств на 31.10.2014 г.</a></h4>
+<h4>Размещено на сайте 28.11.2014 г. в 14:00, информация доступна бессрочно.</h4>
+										</div>
+				</div>
+				<!--/End of Blog Detail-->
+
+				
+<div class="col-md-4 col-xs-12">
+	<div class="sidebar">
+  		<aside id="recent-posts-6" class="widget widget_recent_entries">		<h3 class="widget-title">Новости</h3>		<ul>
+											<li>
+					<a href="http://infra-invest.ru/2023/01/13/%d0%b8%d0%bd%d1%84%d0%be%d1%80%d0%bc%d0%b0%d1%86%d0%b8%d0%be%d0%bd%d0%bd%d0%be%d0%b5-%d1%81%d0%be%d0%be%d0%b1%d1%89%d0%b5%d0%bd%d0%b8%d0%b5-%d0%b0%d0%be-%d1%83%d0%ba-%d0%b8%d0%bd%d1%84-2/">Информационное сообщение АО «УК «Инфраструктурные Инвестиции» о необходимости планового обновления идентификационных сведений</a>
+											<span class="post-date">13.01.2023</span>
+									</li>
+											<li>
+					<a href="http://infra-invest.ru/2022/01/13/%d0%b8%d0%bd%d1%84%d0%be%d1%80%d0%bc%d0%b0%d1%86%d0%b8%d0%be%d0%bd%d0%bd%d0%be%d0%b5-%d1%81%d0%be%d0%be%d0%b1%d1%89%d0%b5%d0%bd%d0%b8%d0%b5-%d0%b0%d0%be-%d1%83%d0%ba-%d0%b8%d0%bd%d1%84/">Информационное сообщение АО «УК «Инфраструктурные Инвестиции» о необходимости планового обновления идентификационных сведений</a>
+											<span class="post-date">13.01.2022</span>
+									</li>
+											<li>
+					<a href="http://infra-invest.ru/2021/10/22/%d0%be-%d1%80%d0%b5%d0%b6%d0%b8%d0%bc%d0%b5-%d1%80%d0%b0%d0%b1%d0%be%d1%82%d1%8b-%d0%b0%d0%be-%d1%83%d0%ba-%d0%b8%d0%bd%d1%84%d1%80%d0%b0%d1%81%d1%82%d1%80%d1%83%d0%ba%d1%82%d1%83%d1%80-2/">О режиме работы АО «УК «Инфраструктурные инвестиции» в период с 28 по 29 октября 2021 года и с 1 по 3 ноября 2021 года</a>
+											<span class="post-date">22.10.2021</span>
+									</li>
+											<li>
+					<a href="http://infra-invest.ru/2021/06/14/%d0%be-%d1%80%d0%b5%d0%b6%d0%b8%d0%bc%d0%b5-%d1%80%d0%b0%d0%b1%d0%be%d1%82%d1%8b-%d0%b0%d0%be-%d1%83%d0%ba-%d0%b8%d0%bd%d1%84%d1%80%d0%b0%d1%81%d1%82%d1%80%d1%83%d0%ba%d1%82%d1%83%d1%80/">О режиме работы АО «УК «Инфраструктурные инвестиции» в период с 15 по 18 июня 2021 г.</a>
+											<span class="post-date">14.06.2021</span>
+									</li>
+											<li>
+					<a href="http://infra-invest.ru/2021/04/29/%d1%80%d0%b5%d0%b6%d0%b8%d0%bc-%d1%80%d0%b0%d0%b1%d0%be%d1%82%d1%8b-%d1%83%d0%bf%d1%80%d0%b0%d0%b2%d0%bb%d1%8f%d1%8e%d1%89%d0%b5%d0%b9-%d0%ba%d0%be%d0%bc%d0%bf%d0%b0%d0%bd%d0%b8%d0%b8-%d0%b2-%d0%bf-4/">Режим работы управляющей компании в период с 04 по 07 мая 2021 г.</a>
+											<span class="post-date">29.04.2021</span>
+									</li>
+					</ul>
+		</aside><aside id="calendar-2" class="widget widget_calendar"><div id="calendar_wrap" class="calendar_wrap"><table id="wp-calendar">
+	<caption>Июнь 2023</caption>
+	<thead>
+	<tr>
+		<th scope="col" title="Понедельник">Пн</th>
+		<th scope="col" title="Вторник">Вт</th>
+		<th scope="col" title="Среда">Ср</th>
+		<th scope="col" title="Четверг">Чт</th>
+		<th scope="col" title="Пятница">Пт</th>
+		<th scope="col" title="Суббота">Сб</th>
+		<th scope="col" title="Воскресенье">Вс</th>
+	</tr>
+	</thead>
+
+	<tfoot>
+	<tr>
+		<td colspan="3" id="prev"><a href="http://infra-invest.ru/2023/01/">« Янв</a></td>
+		<td class="pad">&nbsp;</td>
+		<td colspan="3" id="next" class="pad">&nbsp;</td>
+	</tr>
+	</tfoot>
+
+	<tbody>
+	<tr>
+		<td colspan="3" class="pad">&nbsp;</td><td>1</td><td>2</td><td>3</td><td>4</td>
+	</tr>
+	<tr>
+		<td>5</td><td>6</td><td>7</td><td>8</td><td>9</td><td>10</td><td>11</td>
+	</tr>
+	<tr>
+		<td>12</td><td>13</td><td>14</td><td>15</td><td>16</td><td>17</td><td>18</td>
+	</tr>
+	<tr>
+		<td>19</td><td>20</td><td id="today">21</td><td>22</td><td>23</td><td>24</td><td>25</td>
+	</tr>
+	<tr>
+		<td>26</td><td>27</td><td>28</td><td>29</td><td>30</td>
+		<td class="pad" colspan="2">&nbsp;</td>
+	</tr>
+	</tbody>
+	</table></div></aside><aside id="search-6" class="widget widget_search"><form method="get" id="searchform" action="http://infra-invest.ru/">
+	<input type="text" class="search_btn" name="s" id="s" placeholder="Поиск">
+	<input type="submit" class="submit_search" style="" name="submit" value="Поиск">
+</form></aside>	</div>
+</div>	
+			</div>
+	</div>
+</section>
+<!-- End of Blog & Sidebar Section -->
+ 
+<div class="clearfix"></div>
+<!-- Footer Section -->
+<footer class="footer-sidebar">	
+	<!-- Footer Widgets -->	
+	<div class="container">		
+		<div class="row">		
+					</div>
+	</div>
+	<!-- /End of Footer Widgets -->	
+	
+	<!-- Copyrights -->	
+	<div class="site-info">
+		<div class="container">
+			<div class="row">
+				<div class="col-md-7">
+								<h3><strong>Стоимость инвестиционных паев может увеличиваться или уменьшаться, результаты инвестирования в прошлом не определяют доходов в будущем, государство не гарантирует доходности инвестиций в инвестиционные фонды. Перед приобретением инвестиционных паев следует внимательного ознакомления с правилами доверительного управления паевым инвестиционным фондом.</strong></h3>								</div>
+			</div>
+		</div>
+	</div>
+	<!-- Copyrights -->	
+
+</footer>
+<!-- /End of Footer Section -->
+
+<!--Scroll To Top--> 
+<a href="#" class="scrollup"><i class="fa fa-chevron-up"></i></a>
+<!--/End of Scroll To Top--> 	
+<script type="text/javascript" src="http://infra-invest.ru/wp-includes/js/comment-reply.min.js?ver=5.0.19"></script>
+<script type="text/javascript" src="http://infra-invest.ru/wp-includes/js/wp-embed.min.js?ver=5.0.19"></script>
+
