@@ -15,16 +15,16 @@ def send_email_about_avaliable(avaliable):
 
     subject = 'Сайт(ы) снова доступен(ы) после более часа недоступности.'
 
-    text = ""
+    text = "" # здесь можно какай-то шаблон написать
     for site in avaliable:
-        text += str(site[0]) + "\n"
+        text += str(site) + "\n"
 
     print(text)
 
     message = MIMEText(text, 'plain', 'utf-8')
     message['Subject'] = Header(subject, 'utf-8')
 
-    server.sendmail(login, 'pixiga5250@mahmul.com', message.as_string())
+    server.sendmail(login, 'pivmatal@gmail.com', message.as_string())
 
 
 # avaliable = ["Публичное акционерное общество 'ВАНТ МОБАЙЛ БАНК'", "Общество с ограниченной ответственностью Инвестиционная компания «Финдом»", "Акционерное общество 'ЮниКредит Банк'"]
