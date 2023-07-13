@@ -5,7 +5,7 @@ from bs4 import BeautifulSoup
 from bs4 import NavigableString
 
 import requests
-from requests.packages.urllib3.exceptions import InsecureRequestWarning
+from urllib3.exceptions import InsecureRequestWarning
 import re
 
 from selenium import webdriver

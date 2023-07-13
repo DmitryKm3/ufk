@@ -4,7 +4,7 @@ from fake_useragent import UserAgent
 from bs4 import BeautifulSoup
 
 import requests
-from requests.packages.urllib3.exceptions import InsecureRequestWarning
+from urllib3.exceptions import InsecureRequestWarning
 import re
 
 #from selenium import webdriver

@@ -4,8 +4,10 @@ from django.http import HttpResponse
 from .models import UK, MonitoringLog, PUCB, PIF
 from django.db.models import Q
 from django.views.decorators.csrf import csrf_protect
-from datetime import datetime, timezone
 import pytz
+import datetime
+from datetime import date, datetime
+from kid import kidpy, send_report_email
 localtime = pytz.timezone("Asia/Krasnoyarsk")
 
 # Create your views here.
@@ -40,11 +42,17 @@ def monitoring_view(request):
 def report_generation(request):
     if request.method == 'POST':
         # Получение данных из формы
-        date = request.POST.get('date')
-        parameters = request.POST.get('parameters')
-
+        start_date = datetime.strptime(request.POST.get('date'), '%Y-%m-%d').date()
+        request_parameters = request.POST.get('parameters')
+        email = request.POST.get('email')
         # Выполнение требуемых действий с данными
-        # Например, вы можете вызвать ваш скрипт или выполнить какую-то другую логику здесь
+        today =  date.today()
+        delta = today - start_date
+        days = delta.days #кол-во дней между датами
+        print(f"Дата = {days} Строка подзапроса = {request_parameters} email = {email}")
 
+        #функция s_r_e отправляет отчет на почту, kidpy формирует его и сохраняет путь в виде f'static/report_kid_{date_str}.xlsx'
+        kidpy(days, request_parameters)
+        send_report_email(email)
+        return render(request, 'front_page.html')
         # Возвращение ответа
-        return HttpResponse('Действие выполнено успешно!')
