@@ -27,10 +27,6 @@ def send_email_about_avaliable(avaliable):
     server.sendmail(login, 'pivmatal@gmail.com', message.as_string())
 
 
-# avaliable = ["Публичное акционерное общество 'ВАНТ МОБАЙЛ БАНК'", "Общество с ограниченной ответственностью Инвестиционная компания «Финдом»", "Акционерное общество 'ЮниКредит Банк'"]
-# avaliable.append("TEST COMPANY")
-
-# send_email_about_avaliable(avaliable)
 
 
 

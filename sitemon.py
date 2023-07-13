@@ -6,11 +6,7 @@ import django
 import os
 
 import send_to_email_avaliable
-
-from selenium import webdriver
-from selenium.common.exceptions import WebDriverException
-from selenium.webdriver.common.by import By
-
+import create_screen
 
 os.environ.setdefault("DJANGO_SETTINGS_MODULE", "monitoring_project.settings")
 django.setup()
@@ -82,7 +78,7 @@ for uk in active_uks:
             if (timedelta.seconds // 3600) >=1:
                notavailable.append([uk.uk_shortname, site, str(re)])
             elif (timedelta.seconds // 3600) >=2:
-                notavailable_site_two_hour.append([site,uk.uk_name])
+                notavailable_site_two_hour.append([uk.uk_shortname, site, str(re)])
             else:
                 errors.append([uk.uk_shortname, site, str(re)])
             if response is not None:
@@ -114,7 +110,7 @@ for uk in active_uks:
         if (timedelta.seconds // 3600) >=1:
            notavailable.append([uk.uk_shortname, site, response.status_code])
         if (timedelta.seconds // 3600) >=2:
-           notavailable_site_two_hour.append([site,uk.uk_name])
+           notavailable_site_two_hour.append([uk.uk_shortname, site, response.status_code])
 
 active_pucb = PUCB.objects.filter(pucb_enabled=True)
 for pucb in active_pucb:
@@ -152,7 +148,7 @@ for pucb in active_pucb:
             if (timedelta.seconds // 3600) >=1:
                notavailable.append([pucb.pucb_name, site, str(re)])
             elif (timedelta.seconds // 3600) >=2:
-               notavailable_site_two_hour.append([site,pucb.pucb_name])
+               notavailable_site_two_hour.append([pucb.pucb_name, site, str(re)])
             else:
                 errors.append([pucb.pucb_name, site, str(re)])
             #if response is not None:
@@ -179,76 +175,19 @@ for pucb in active_pucb:
         if (timedelta.seconds // 3600) >=1:
            notavailable.append([pucb.pucb_name, site, response.status_code])
         if (timedelta.seconds // 3600) >=2:
-           notavailable_site_two_hour.append([site,pucb.pucb_name])
+           notavailable_site_two_hour.append([pucb.pucb_name, site, response.status_code])
 
 
 print(available)
-# j=0
-# for uk in active_uks:
-# #     j=j+1
-# #     print(j)
-#     site = uk.uk_sitetype.strip() + "://" + uk.uk_site
-#     available.append([site,uk.uk_site])
 
-#БОЛЕЕ ЧАСА
 if len(notavailable) > 0:
-    # Создание объекта опций
-    options = webdriver.ChromeOptions()
-    # Установка опции для запуска без графического интерфейса
-    options.add_argument('--headless')
+    create_screen.create_screen(notavailable,'image_one_hour')
 
-    i = 0
-    driver = webdriver.Chrome(options=options) 
-    for screen in notavailable:
-        i += 1
-        print("{} {}".format(i,screen))
-        try:      
-           
-            driver.get(screen[1])
-            body_element = driver.find_element(By.TAG_NAME, "html")
-            driver.set_window_size(body_element.size['width'], body_element.size['height'])
-            path_screen = "image_one_hour/" + str(screen[0]) + ".png"
-            print(path_screen)
-            driver.save_screenshot(path_screen)
-
-        except WebDriverException:
-            body_element = driver.find_element(By.TAG_NAME, "html")
-            driver.set_window_size(body_element.size['width'], body_element.size['height'])
-            path_screen_with_error = "image_one_hour/" + str(screen[0]) + "_with_error.png"
-            print(path_screen_with_error)
-            driver.save_screenshot(path_screen_with_error)
-    
-    driver.quit()
-
-#БОЛЕЕ ДВУХ ЧАСОВ 
 if len(notavailable_site_two_hour) > 0:
-    # Создание объекта опций
-    options = webdriver.ChromeOptions()
-    # Установка опции для запуска без графического интерфейса
-    options.add_argument('--headless')
+    create_screen.create_screen(notavailable_site_two_hour,'image_two_hour')
 
-    i = 0
-    driver = webdriver.Chrome(options=options) 
-    for screen_two in notavailable_site_two_hour:
-        i += 1
-        print("{} {}".format(i,screen_two))
-        try:      
-           
-            driver.get(screen_two[0])
-            body_element = driver.find_element(By.TAG_NAME, "html")
-            driver.set_window_size(body_element.size['width'], body_element.size['height'])
-            path_screen = "image_two_hour/" + str(screen_two[1]) + ".png"
-            print(path_screen)
-            driver.save_screenshot(path_screen)
-
-        except WebDriverException:
-            body_element = driver.find_element(By.TAG_NAME, "html")
-            driver.set_window_size(body_element.size['width'], body_element.size['height'])
-            path_screen_with_error = "image_two_hour/" + str(screen_two[1]) + "_with_error.png"
-            print(path_screen_with_error)
-            driver.save_screenshot(path_screen_with_error)
-    
-    driver.quit()
+if len(available) > 0: 
+    send_to_email_avaliable.send_email_about_avaliable(available)
 
 
 monlog.status = "Ended"
@@ -287,6 +226,5 @@ monstatus.write("</table>\n")
 monstatus.close()
 
 
-if len(available) > 0: 
-    send_to_email_avaliable.send_email_about_avaliable(available)
+
 
