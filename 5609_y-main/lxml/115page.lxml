@@ -1,0 +1,1606 @@
+
+<!-- Yandex.Metrika counter -->
+<noscript><div><img src="https://mc.yandex.ru/watch/46641123" style="position:absolute; left:-9999px;" alt="" /></div></noscript>
+<!-- /Yandex.Metrika counter --><div class="cookie-alert" style="display: block;">
+    <div class="block">
+        <p>Продолжая использовать наш сайт, вы даете согласие на обработку файлов cookie и пользовательских данных.
+<small>Если вы не хотите, чтобы ваши данные обрабатывались, покиньте сайт. Перечень собираемых данных: Сведения о местоположении; тип и версия ОС тип и версия браузера; тип устройства и разрешение его экрана; источники входа на сайт; язык ОС и браузера; посещенные страницы сайта и действия на них; ip-адрес в целях функционирования сайта, проведения ретаргетинга, проведения статистических исследований и передачи третьим лицам.</small></p>
+        <button class="btn btn_gold-o" id="cookie_close">Принимаю</button>
+    </div>
+</div>
+<div class="search">
+    <form action="/search/">
+        <div class="block block_padding">
+            <input name="q" class="search__input" type="text" placeholder="Поиск">
+            <button class="btn btn_gold" type="submit">Найти</button><a class="search__close js-search-toggle" href="#"></a>
+        </div>
+    </form>
+</div>
+    <div class="alarm" data-key="header_230511645cf4454ed22" style="display: block;">
+        <div class="block">
+            <p>
+	 Управляющая компания ООО «УК «А-Капитал»&nbsp;уведомляет, что вынуждена одновременно приостановить выдачу, погашение и обмен инвестиционных паев с 1 марта 2022 года на срок до дня принятия УК решения об одновременном возобновлении операций по ряду паевых инвестиционных фондов...&nbsp;<a href="/opif/faq/" style="font-family: var(--ui-font-family-primary, var(--ui-font-family-helvetica));">Подробнее</a>
+</p>            <a href="#" class="alarm__close"></a>
+        </div>
+    </div>
+<div class="header">
+	<div class="header__disclosure"><div class="block"><a href="/info/">Раскрытие информации в&nbsp;соответствии с&nbsp;законодательством</a></div></div>
+    <div class="block">
+		<a class="header__logo" href="/"></a>
+		<a class="header__open" href="#"><span></span></a>
+		<a class="header__search js-search-toggle" href="#"></a>
+        <div class="header__container">
+            <div class="header__top">
+				<a class="header__logo" href="/"></a>
+                <div class="header__center">
+                    <a class="header__offices wrap" href="/about/#offices">Офисы</a><a class="header__contact wrap js-feedback" href="#">Свяжитесь с нами</a>
+<div class="header__about wrap"><a href="/about/">О компании</a>
+    <div class="about__dropdown">
+        <ul class="dropdown__list">
+            <li class="dropdown__entry"><a class="dropdown__lnk" href="/about/">О компании</a></li>
+            <li class="dropdown__entry"><a class="dropdown__lnk" href="/about/compliance/">Комплаенс</a></li>
+            <li class="dropdown__entry"><a class="dropdown__lnk" href="/about/news/">Новости</a></li>
+        </ul>
+    </div>
+</div>                    <div class="header__lang">
+						<a class="lang__lnk lang__lnk_current" href="/">Ru</a>
+						<a class="lang__lnk 1" href="/en/">En</a>
+					</div>
+					<a class="header__search js-search-toggle" href="#"></a>
+					<a class="header__auth" href="https://lk.acapital-am.ru/users/sign_in" target="_blank">Личный кабинет</a>
+					<a class="header__phone" href="tel:88126777720">8 (812) 677 77 20</a>
+                </div>
+            </div>
+            <div class="header__menu">
+                
+<ul class="menu__list">
+
+
+	
+	
+							<li class="menu__entry menu__entry_non-empty"><a href="/trust/" class="menu__lnk">Доверительное управление</a>
+				<div class="submenu"><ul class="submenu__list">
+		
+	
+	
+
+	
+	
+		
+							<li class="submenu__entry "><a href="/trust/gosudarstvennye-obligatsii-iis/" class="submenu__lnk">Государственные облигации. ИИС</a></li>
+			
+		
+	
+	
+
+	
+	
+		
+							<li class="submenu__entry "><a href="/trust/korporativnye-obligatsii-iis/" class="submenu__lnk">Корпоративные облигации. ИИС</a></li>
+			
+		
+	
+	
+
+	
+	
+		
+							<li class="submenu__entry "><a href="/trust/individualnaya-strategiya-rubli/" class="submenu__lnk">Индивидуальная стратегия. Рубли</a></li>
+			
+		
+	
+	
+
+	
+	
+		
+							<li class="submenu__entry "><a href="/trust/individualnaya-strategiya-valyuta/" class="submenu__lnk">Индивидуальная стратегия. Валюта</a></li>
+			
+		
+	
+	
+
+	
+	
+		
+							<li class="submenu__entry "><a href="/trust/faq/" class="submenu__lnk">Вопросы и ответы</a></li>
+			
+		
+	
+	
+
+			</ul></div></li>	
+	
+							<li class="menu__entry menu__entry_non-empty"><a href="/opif/" class="menu__lnk">ОПИФ</a>
+				<div class="submenu"><ul class="submenu__list">
+		
+	
+	
+
+	
+	
+		
+							<li class="submenu__entry "><a href="/opif/balanced/" class="submenu__lnk">«БСПБ - Сбалансированный»</a></li>
+			
+		
+	
+	
+
+	
+	
+		
+							<li class="submenu__entry "><a href="/opif/savings/" class="submenu__lnk">«БСПБ - Сберегательный»</a></li>
+			
+		
+	
+	
+
+	
+	
+		
+							<li class="submenu__entry "><a href="/opif/perspective/" class="submenu__lnk">«БСПБ - Глобальный»</a></li>
+			
+		
+	
+	
+
+	
+	
+		
+							<li class="submenu__entry "><a href="/opif/globalnyy-balance/" class="submenu__lnk">«БСПБ - Глобальный баланс»</a></li>
+			
+		
+	
+	
+
+	
+	
+		
+							<li class="submenu__entry "><a href="/opif/faq/" class="submenu__lnk">Вопросы и ответы</a></li>
+			
+		
+	
+	
+
+			</ul></div></li>	
+	
+							<li class="menu__entry menu__entry_non-empty"><a href="/bpif/" class="menu__lnk">БПИФ</a>
+				<div class="submenu"><ul class="submenu__list">
+		
+	
+	
+
+	
+	
+		
+							<li class="submenu__entry "><a href="/bpif/korporativnye-obligatsii-1000/" class="submenu__lnk">«БСПБ – Корпоративные облигации 1000» </a></li>
+			
+		
+	
+	
+
+	
+	
+		
+							<li class="submenu__entry "><a href="/bpif/ofz-1000/" class="submenu__lnk">«БСПБ - ОФЗ 1000»</a></li>
+			
+		
+	
+	
+
+			</ul></div></li>	
+	
+		
+			                                <li class="menu__entry "><a href="/zpif/" class="menu__lnk">ЗПИФ</a></li>
+			
+		
+	
+	
+
+	
+	
+		
+			                                <li class="menu__entry "><a href="/invest-consult/" class="menu__lnk">Инвестиционное консультирование</a></li>
+			
+		
+	
+	
+
+	
+	
+							<li class="menu__entry menu__entry_non-empty"><a href="/institutsionalnym-investoram/" onclick="return false;" class="menu__lnk">Институциональным инвесторам</a>
+				<div class="submenu"><ul class="submenu__list">
+		
+	
+	
+
+	
+	
+		
+							<li class="submenu__entry "><a href="/institutsionalnym-investoram/self-regulating/" class="submenu__lnk">Саморегулируемым организациям</a></li>
+			
+		
+	
+	
+
+	
+	
+		
+							<li class="submenu__entry "><a href="/institutsionalnym-investoram/endowment/" class="submenu__lnk">Эндаумент-фонды</a></li>
+			
+		
+	
+	
+
+	</ul></div></li>
+</ul>
+
+            </div>
+        </div>
+    </div>
+</div><div class="main vis">
+    <div class="circle">
+        <div></div>
+        <div></div>
+        <div></div>
+        <div></div>
+    </div>
+    <div class="bg" data-depth="0.6"></div>
+    <div class="block">
+        <h1 class="main__title">Наш опыт работает<br>
+на Ваш доход</h1>
+<p class="main__subtitle">
+	От готовых финансовых инструментов до индивидуальных стратегий
+</p>
+<a class="btn-more" href="/opif/">Выбрать стратегию</a>     </div>
+</div><div class="main-indent">
+    <div class="opif">
+    <div class="block block_padding">
+        <div class="main-head">
+            <div class="main-title" data-title="УК А-Капитал">Открытые паевые <br>инвестиционные фонды</div>
+            <button class="btn-more js-request">Обратиться в УК</button>
+        </div>
+
+        <div class="opif__list slick-initialized slick-slider slick-dotted"><button class="slick-prev slick-arrow" aria-label="Previous" type="button" style="">Previous</button><div class="slick-list draggable"><div class="slick-track" style="opacity: 1; width: 3773px; transform: translate3d(-1029px, 0px, 0px);"><div class="slick-slide slick-cloned" data-slick-index="-3" id="" aria-hidden="true" style="width: 323px;" tabindex="-1"><div><div class="opif__entry" id="" style="width: 100%; display: inline-block;">
+			<a href="/opif/balanced/" class="entry__lnk" tabindex="-1"></a>
+            <div class="entry__title">ОПИФ<span>«БСПБ - Сбалансированный»</span></div>
+            <div class="entry__risk">
+                <div class="entry__risk-text">
+                    <div class="entry__risk-lvl">Риск-профиль рискованный                        <div class="risk" data-risk-lvl="4"><span></span><span></span><span></span><span></span><span></span></div>
+                    </div>
+                </div>
+            </div>
+            <div class="entry__chars">
+                <div class="chars__line">
+                    <div class="chars__name">Стоимость пая:</div>
+                    <div class="chars__val">2 046,43 ₽
+                    </div>
+                </div>
+                <div class="chars__line">
+                    <div class="chars__name">СЧА:</div>
+                    <div class="chars__val">372 568 069,06 ₽
+                    </div>
+                </div>
+                <div class="chars__line">
+                    <div class="chars__name">Дата:</div>
+                    <div class="chars__val"><span>19.06.2023</span>
+                    </div>
+                </div>
+            </div>
+            <div class="entry__profit" data-profit="asc">
+                <div class="profit__title">Доходность <br>за 1 месяц<br>на 31.05.2023</div>
+                <!--<div class="profit__title">Доходность <br>за 1- месяц<br>на 30.11.2022</div>-->
+                <div class="profit__sum"><span>1,82%</span></div>
+            </div>
+            <div class="entry__btns">
+                <a href="https://lk.acapital-am.ru" target="_blank" class="btn btn_gold" tabindex="-1">Купить онлайн</a>
+                <a class="btn btn_gold-o" href="/opif/balanced/" tabindex="-1">Узнать больше</a>
+            </div>
+        </div></div></div><div class="slick-slide slick-cloned" data-slick-index="-2" id="" aria-hidden="true" style="width: 323px;" tabindex="-1"><div><div class="opif__entry" id="" style="width: 100%; display: inline-block;">
+			<a href="/opif/perspective/" class="entry__lnk" tabindex="-1"></a>
+            <div class="entry__title">ОПИФ<span>«БСПБ - Глобальный»</span></div>
+            <div class="entry__risk">
+                <div class="entry__risk-text">
+                    <div class="entry__risk-lvl">Риск-профиль умеренный                        <div class="risk" data-risk-lvl="2"><span></span><span></span><span></span><span></span><span></span></div>
+                    </div>
+                </div>
+            </div>
+            <div class="entry__chars">
+                <div class="chars__line">
+                    <div class="chars__name">Стоимость пая:</div>
+                    <div class="chars__val">207,92 ₽
+                    </div>
+                </div>
+                <div class="chars__line">
+                    <div class="chars__name">СЧА:</div>
+                    <div class="chars__val">2 077 407 832,99 ₽
+                    </div>
+                </div>
+                <div class="chars__line">
+                    <div class="chars__name">Дата:</div>
+                    <div class="chars__val"><span>25.02.2022</span>
+                    </div>
+                </div>
+            </div>
+            <div class="entry__profit" data-profit="asc">
+                <div class="profit__title">Доходность <br>за 1 месяц<br>на 31.05.2023</div>
+                <!--<div class="profit__title">Доходность <br>за 1- месяц<br>на 30.11.2022</div>-->
+                <div class="profit__sum"><span>—</span></div>
+            </div>
+            <div class="entry__btns">
+                <a href="https://lk.acapital-am.ru" target="_blank" class="btn btn_gold" tabindex="-1">Купить онлайн</a>
+                <a class="btn btn_gold-o" href="/opif/perspective/" tabindex="-1">Узнать больше</a>
+            </div>
+        </div></div></div><div class="slick-slide slick-cloned" data-slick-index="-1" id="" aria-hidden="true" style="width: 323px;" tabindex="-1"><div><div class="opif__entry" id="" style="width: 100%; display: inline-block;">
+			<a href="/opif/globalnyy-balance/" class="entry__lnk" tabindex="-1"></a>
+            <div class="entry__title">ОПИФ<span>«БСПБ - Глобальный баланс»</span></div>
+            <div class="entry__risk">
+                <div class="entry__risk-text">
+                    <div class="entry__risk-lvl">Риск-профиль сбалансированный                        <div class="risk" data-risk-lvl="3"><span></span><span></span><span></span><span></span><span></span></div>
+                    </div>
+                </div>
+            </div>
+            <div class="entry__chars">
+                <div class="chars__line">
+                    <div class="chars__name">Стоимость пая:</div>
+                    <div class="chars__val">111,71 ₽
+                    </div>
+                </div>
+                <div class="chars__line">
+                    <div class="chars__name">СЧА:</div>
+                    <div class="chars__val">130 521 148,22 ₽
+                    </div>
+                </div>
+                <div class="chars__line">
+                    <div class="chars__name">Дата:</div>
+                    <div class="chars__val"><span>25.02.2022</span>
+                    </div>
+                </div>
+            </div>
+            <div class="entry__profit" data-profit="asc">
+                <div class="profit__title">Доходность <br>за 1 месяц<br>на 31.05.2023</div>
+                <!--<div class="profit__title">Доходность <br>за 1- месяц<br>на 30.11.2022</div>-->
+                <div class="profit__sum"><span>—</span></div>
+            </div>
+            <div class="entry__btns">
+                <a href="https://lk.acapital-am.ru" target="_blank" class="btn btn_gold" tabindex="-1">Купить онлайн</a>
+                <a class="btn btn_gold-o" href="/opif/globalnyy-balance/" tabindex="-1">Узнать больше</a>
+            </div>
+        </div></div></div><div class="slick-slide slick-current slick-active" data-slick-index="0" aria-hidden="false" style="width: 323px;" role="tabpanel" id="slick-slide10"><div><div class="opif__entry" id="bx_3218110189_858" style="width: 100%; display: inline-block;">
+			<a href="/opif/savings/" class="entry__lnk" tabindex="0"></a>
+            <div class="entry__title">ОПИФ<span>«БСПБ - Сберегательный»</span></div>
+            <div class="entry__risk">
+                <div class="entry__risk-text">
+                    <div class="entry__risk-lvl">Риск-профиль сбалансированный                        <div class="risk" data-risk-lvl="3"><span></span><span></span><span></span><span></span><span></span></div>
+                    </div>
+                </div>
+            </div>
+            <div class="entry__chars">
+                <div class="chars__line">
+                    <div class="chars__name">Стоимость пая:</div>
+                    <div class="chars__val">384,06 ₽
+                    </div>
+                </div>
+                <div class="chars__line">
+                    <div class="chars__name">СЧА:</div>
+                    <div class="chars__val">1 273 184 037,71 ₽
+                    </div>
+                </div>
+                <div class="chars__line">
+                    <div class="chars__name">Дата:</div>
+                    <div class="chars__val"><span>19.06.2023</span>
+                    </div>
+                </div>
+            </div>
+            <div class="entry__profit" data-profit="asc">
+                <div class="profit__title">Доходность <br>за 1 месяц<br>на 31.05.2023</div>
+                <!--<div class="profit__title">Доходность <br>за 1- месяц<br>на 30.11.2022</div>-->
+                <div class="profit__sum"><span>0,74%</span></div>
+            </div>
+            <div class="entry__btns">
+                <a href="https://lk.acapital-am.ru" target="_blank" class="btn btn_gold" tabindex="0">Купить онлайн</a>
+                <a class="btn btn_gold-o" href="/opif/savings/" tabindex="0">Узнать больше</a>
+            </div>
+        </div></div></div><div class="slick-slide slick-active" data-slick-index="1" aria-hidden="false" style="width: 323px;" role="tabpanel" id="slick-slide11"><div><div class="opif__entry" id="bx_3218110189_857" style="width: 100%; display: inline-block;">
+			<a href="/opif/balanced/" class="entry__lnk" tabindex="0"></a>
+            <div class="entry__title">ОПИФ<span>«БСПБ - Сбалансированный»</span></div>
+            <div class="entry__risk">
+                <div class="entry__risk-text">
+                    <div class="entry__risk-lvl">Риск-профиль рискованный                        <div class="risk" data-risk-lvl="4"><span></span><span></span><span></span><span></span><span></span></div>
+                    </div>
+                </div>
+            </div>
+            <div class="entry__chars">
+                <div class="chars__line">
+                    <div class="chars__name">Стоимость пая:</div>
+                    <div class="chars__val">2 046,43 ₽
+                    </div>
+                </div>
+                <div class="chars__line">
+                    <div class="chars__name">СЧА:</div>
+                    <div class="chars__val">372 568 069,06 ₽
+                    </div>
+                </div>
+                <div class="chars__line">
+                    <div class="chars__name">Дата:</div>
+                    <div class="chars__val"><span>19.06.2023</span>
+                    </div>
+                </div>
+            </div>
+            <div class="entry__profit" data-profit="asc">
+                <div class="profit__title">Доходность <br>за 1 месяц<br>на 31.05.2023</div>
+                <!--<div class="profit__title">Доходность <br>за 1- месяц<br>на 30.11.2022</div>-->
+                <div class="profit__sum"><span>1,82%</span></div>
+            </div>
+            <div class="entry__btns">
+                <a href="https://lk.acapital-am.ru" target="_blank" class="btn btn_gold" tabindex="0">Купить онлайн</a>
+                <a class="btn btn_gold-o" href="/opif/balanced/" tabindex="0">Узнать больше</a>
+            </div>
+        </div></div></div><div class="slick-slide slick-active" data-slick-index="2" aria-hidden="false" style="width: 323px;" role="tabpanel" id="slick-slide12"><div><div class="opif__entry" id="bx_3218110189_859" style="width: 100%; display: inline-block;">
+			<a href="/opif/perspective/" class="entry__lnk" tabindex="0"></a>
+            <div class="entry__title">ОПИФ<span>«БСПБ - Глобальный»</span></div>
+            <div class="entry__risk">
+                <div class="entry__risk-text">
+                    <div class="entry__risk-lvl">Риск-профиль умеренный                        <div class="risk" data-risk-lvl="2"><span></span><span></span><span></span><span></span><span></span></div>
+                    </div>
+                </div>
+            </div>
+            <div class="entry__chars">
+                <div class="chars__line">
+                    <div class="chars__name">Стоимость пая:</div>
+                    <div class="chars__val">207,92 ₽
+                    </div>
+                </div>
+                <div class="chars__line">
+                    <div class="chars__name">СЧА:</div>
+                    <div class="chars__val">2 077 407 832,99 ₽
+                    </div>
+                </div>
+                <div class="chars__line">
+                    <div class="chars__name">Дата:</div>
+                    <div class="chars__val"><span>25.02.2022</span>
+                    </div>
+                </div>
+            </div>
+            <div class="entry__profit" data-profit="asc">
+                <div class="profit__title">Доходность <br>за 1 месяц<br>на 31.05.2023</div>
+                <!--<div class="profit__title">Доходность <br>за 1- месяц<br>на 30.11.2022</div>-->
+                <div class="profit__sum"><span>—</span></div>
+            </div>
+            <div class="entry__btns">
+                <a href="https://lk.acapital-am.ru" target="_blank" class="btn btn_gold" tabindex="0">Купить онлайн</a>
+                <a class="btn btn_gold-o" href="/opif/perspective/" tabindex="0">Узнать больше</a>
+            </div>
+        </div></div></div><div class="slick-slide" data-slick-index="3" aria-hidden="true" style="width: 323px;" tabindex="-1" role="tabpanel" id="slick-slide13"><div><div class="opif__entry" id="bx_3218110189_3568" style="width: 100%; display: inline-block;">
+			<a href="/opif/globalnyy-balance/" class="entry__lnk" tabindex="-1"></a>
+            <div class="entry__title">ОПИФ<span>«БСПБ - Глобальный баланс»</span></div>
+            <div class="entry__risk">
+                <div class="entry__risk-text">
+                    <div class="entry__risk-lvl">Риск-профиль сбалансированный                        <div class="risk" data-risk-lvl="3"><span></span><span></span><span></span><span></span><span></span></div>
+                    </div>
+                </div>
+            </div>
+            <div class="entry__chars">
+                <div class="chars__line">
+                    <div class="chars__name">Стоимость пая:</div>
+                    <div class="chars__val">111,71 ₽
+                    </div>
+                </div>
+                <div class="chars__line">
+                    <div class="chars__name">СЧА:</div>
+                    <div class="chars__val">130 521 148,22 ₽
+                    </div>
+                </div>
+                <div class="chars__line">
+                    <div class="chars__name">Дата:</div>
+                    <div class="chars__val"><span>25.02.2022</span>
+                    </div>
+                </div>
+            </div>
+            <div class="entry__profit" data-profit="asc">
+                <div class="profit__title">Доходность <br>за 1 месяц<br>на 31.05.2023</div>
+                <!--<div class="profit__title">Доходность <br>за 1- месяц<br>на 30.11.2022</div>-->
+                <div class="profit__sum"><span>—</span></div>
+            </div>
+            <div class="entry__btns">
+                <a href="https://lk.acapital-am.ru" target="_blank" class="btn btn_gold" tabindex="-1">Купить онлайн</a>
+                <a class="btn btn_gold-o" href="/opif/globalnyy-balance/" tabindex="-1">Узнать больше</a>
+            </div>
+        </div></div></div><div class="slick-slide slick-cloned" data-slick-index="4" id="" aria-hidden="true" style="width: 323px;" tabindex="-1"><div><div class="opif__entry" id="" style="width: 100%; display: inline-block;">
+			<a href="/opif/savings/" class="entry__lnk" tabindex="-1"></a>
+            <div class="entry__title">ОПИФ<span>«БСПБ - Сберегательный»</span></div>
+            <div class="entry__risk">
+                <div class="entry__risk-text">
+                    <div class="entry__risk-lvl">Риск-профиль сбалансированный                        <div class="risk" data-risk-lvl="3"><span></span><span></span><span></span><span></span><span></span></div>
+                    </div>
+                </div>
+            </div>
+            <div class="entry__chars">
+                <div class="chars__line">
+                    <div class="chars__name">Стоимость пая:</div>
+                    <div class="chars__val">384,06 ₽
+                    </div>
+                </div>
+                <div class="chars__line">
+                    <div class="chars__name">СЧА:</div>
+                    <div class="chars__val">1 273 184 037,71 ₽
+                    </div>
+                </div>
+                <div class="chars__line">
+                    <div class="chars__name">Дата:</div>
+                    <div class="chars__val"><span>19.06.2023</span>
+                    </div>
+                </div>
+            </div>
+            <div class="entry__profit" data-profit="asc">
+                <div class="profit__title">Доходность <br>за 1 месяц<br>на 31.05.2023</div>
+                <!--<div class="profit__title">Доходность <br>за 1- месяц<br>на 30.11.2022</div>-->
+                <div class="profit__sum"><span>0,74%</span></div>
+            </div>
+            <div class="entry__btns">
+                <a href="https://lk.acapital-am.ru" target="_blank" class="btn btn_gold" tabindex="-1">Купить онлайн</a>
+                <a class="btn btn_gold-o" href="/opif/savings/" tabindex="-1">Узнать больше</a>
+            </div>
+        </div></div></div><div class="slick-slide slick-cloned" data-slick-index="5" id="" aria-hidden="true" style="width: 323px;" tabindex="-1"><div><div class="opif__entry" id="" style="width: 100%; display: inline-block;">
+			<a href="/opif/balanced/" class="entry__lnk" tabindex="-1"></a>
+            <div class="entry__title">ОПИФ<span>«БСПБ - Сбалансированный»</span></div>
+            <div class="entry__risk">
+                <div class="entry__risk-text">
+                    <div class="entry__risk-lvl">Риск-профиль рискованный                        <div class="risk" data-risk-lvl="4"><span></span><span></span><span></span><span></span><span></span></div>
+                    </div>
+                </div>
+            </div>
+            <div class="entry__chars">
+                <div class="chars__line">
+                    <div class="chars__name">Стоимость пая:</div>
+                    <div class="chars__val">2 046,43 ₽
+                    </div>
+                </div>
+                <div class="chars__line">
+                    <div class="chars__name">СЧА:</div>
+                    <div class="chars__val">372 568 069,06 ₽
+                    </div>
+                </div>
+                <div class="chars__line">
+                    <div class="chars__name">Дата:</div>
+                    <div class="chars__val"><span>19.06.2023</span>
+                    </div>
+                </div>
+            </div>
+            <div class="entry__profit" data-profit="asc">
+                <div class="profit__title">Доходность <br>за 1 месяц<br>на 31.05.2023</div>
+                <!--<div class="profit__title">Доходность <br>за 1- месяц<br>на 30.11.2022</div>-->
+                <div class="profit__sum"><span>1,82%</span></div>
+            </div>
+            <div class="entry__btns">
+                <a href="https://lk.acapital-am.ru" target="_blank" class="btn btn_gold" tabindex="-1">Купить онлайн</a>
+                <a class="btn btn_gold-o" href="/opif/balanced/" tabindex="-1">Узнать больше</a>
+            </div>
+        </div></div></div><div class="slick-slide slick-cloned" data-slick-index="6" id="" aria-hidden="true" style="width: 323px;" tabindex="-1"><div><div class="opif__entry" id="" style="width: 100%; display: inline-block;">
+			<a href="/opif/perspective/" class="entry__lnk" tabindex="-1"></a>
+            <div class="entry__title">ОПИФ<span>«БСПБ - Глобальный»</span></div>
+            <div class="entry__risk">
+                <div class="entry__risk-text">
+                    <div class="entry__risk-lvl">Риск-профиль умеренный                        <div class="risk" data-risk-lvl="2"><span></span><span></span><span></span><span></span><span></span></div>
+                    </div>
+                </div>
+            </div>
+            <div class="entry__chars">
+                <div class="chars__line">
+                    <div class="chars__name">Стоимость пая:</div>
+                    <div class="chars__val">207,92 ₽
+                    </div>
+                </div>
+                <div class="chars__line">
+                    <div class="chars__name">СЧА:</div>
+                    <div class="chars__val">2 077 407 832,99 ₽
+                    </div>
+                </div>
+                <div class="chars__line">
+                    <div class="chars__name">Дата:</div>
+                    <div class="chars__val"><span>25.02.2022</span>
+                    </div>
+                </div>
+            </div>
+            <div class="entry__profit" data-profit="asc">
+                <div class="profit__title">Доходность <br>за 1 месяц<br>на 31.05.2023</div>
+                <!--<div class="profit__title">Доходность <br>за 1- месяц<br>на 30.11.2022</div>-->
+                <div class="profit__sum"><span>—</span></div>
+            </div>
+            <div class="entry__btns">
+                <a href="https://lk.acapital-am.ru" target="_blank" class="btn btn_gold" tabindex="-1">Купить онлайн</a>
+                <a class="btn btn_gold-o" href="/opif/perspective/" tabindex="-1">Узнать больше</a>
+            </div>
+        </div></div></div><div class="slick-slide slick-cloned" data-slick-index="7" id="" aria-hidden="true" style="width: 323px;" tabindex="-1"><div><div class="opif__entry" id="" style="width: 100%; display: inline-block;">
+			<a href="/opif/globalnyy-balance/" class="entry__lnk" tabindex="-1"></a>
+            <div class="entry__title">ОПИФ<span>«БСПБ - Глобальный баланс»</span></div>
+            <div class="entry__risk">
+                <div class="entry__risk-text">
+                    <div class="entry__risk-lvl">Риск-профиль сбалансированный                        <div class="risk" data-risk-lvl="3"><span></span><span></span><span></span><span></span><span></span></div>
+                    </div>
+                </div>
+            </div>
+            <div class="entry__chars">
+                <div class="chars__line">
+                    <div class="chars__name">Стоимость пая:</div>
+                    <div class="chars__val">111,71 ₽
+                    </div>
+                </div>
+                <div class="chars__line">
+                    <div class="chars__name">СЧА:</div>
+                    <div class="chars__val">130 521 148,22 ₽
+                    </div>
+                </div>
+                <div class="chars__line">
+                    <div class="chars__name">Дата:</div>
+                    <div class="chars__val"><span>25.02.2022</span>
+                    </div>
+                </div>
+            </div>
+            <div class="entry__profit" data-profit="asc">
+                <div class="profit__title">Доходность <br>за 1 месяц<br>на 31.05.2023</div>
+                <!--<div class="profit__title">Доходность <br>за 1- месяц<br>на 30.11.2022</div>-->
+                <div class="profit__sum"><span>—</span></div>
+            </div>
+            <div class="entry__btns">
+                <a href="https://lk.acapital-am.ru" target="_blank" class="btn btn_gold" tabindex="-1">Купить онлайн</a>
+                <a class="btn btn_gold-o" href="/opif/globalnyy-balance/" tabindex="-1">Узнать больше</a>
+            </div>
+        </div></div></div></div></div><button class="slick-next slick-arrow" aria-label="Next" type="button" style="">Next</button><ul class="slick-dots" style="" role="tablist"><li class="slick-active" role="presentation"><button type="button" role="tab" id="slick-slide-control10" aria-controls="slick-slide10" aria-label="1 of 2" tabindex="0" aria-selected="true">1</button></li><li role="presentation"><button type="button" role="tab" id="slick-slide-control11" aria-controls="slick-slide11" aria-label="2 of 2" tabindex="-1">2</button></li><li role="presentation"><button type="button" role="tab" id="slick-slide-control12" aria-controls="slick-slide12" aria-label="3 of 2" tabindex="-1">3</button></li><li role="presentation"><button type="button" role="tab" id="slick-slide-control13" aria-controls="slick-slide13" aria-label="4 of 2" tabindex="-1">4</button></li></ul></div>
+
+    </div>
+</div>    
+<div class="trust">
+    <div class="block">
+        <div class="trust__left">
+            <div class="trust__bg"></div>
+            <div class="trust__block">
+                <div class="trust__title">Стратегии доверительного управления</div>
+                <div class="trust__links slick-initialized slick-slider slick-vertical"><div class="slick-list draggable" style="height: 188px;"><div class="slick-track" style="opacity: 1; height: 188px; transform: translate3d(0px, 0px, 0px);"><a class="trust__lnk active slick-slide slick-current slick-active" href="/trust/gosudarstvennye-obligatsii-iis/" onclick="return false;" data-slick-index="0" aria-hidden="false" style="width: 299px;">Государственные облигации. ИИС</a><a class="trust__lnk slick-slide slick-active" href="/trust/korporativnye-obligatsii-iis/" onclick="return false;" data-slick-index="1" aria-hidden="false" style="width: 299px;">Корпоративные облигации. ИИС</a><a class="trust__lnk slick-slide slick-active" href="/trust/individualnaya-strategiya-rubli/" onclick="return false;" data-slick-index="2" aria-hidden="false" style="width: 299px;">Индивидуальная стратегия. Рубли</a><a class="trust__lnk slick-slide slick-active" href="/trust/individualnaya-strategiya-valyuta/" onclick="return false;" data-slick-index="3" aria-hidden="false" style="width: 299px;">Индивидуальная стратегия. Валюта</a></div></div></div>
+                <button class="btn btn_gold-o js-request">Обратиться в УК</button>
+            </div>
+        </div>
+        <div class="trust__container">
+            <div class="main-title" data-title="УК А-Капитал">Доверительное управление</div>
+            <div class="trust__list slick-initialized slick-slider"><button class="slick-prev slick-arrow" aria-label="Previous" type="button" style="">Previous</button><div class="slick-list draggable"><div class="slick-track" style="opacity: 1; width: 6012px; transform: translate3d(-668px, 0px, 0px);"><div class="slick-slide slick-cloned" data-slick-index="-1" id="" aria-hidden="true" style="width: 668px;" tabindex="-1"><div><div class="trust__entry" style="width: 100%; display: inline-block;">
+                        <div class="entry__risk">
+                            <div class="entry__risk-num">4</div>
+                            <div class="entry__risk-text">
+                                <div class="entry__risk-lvl">Риск-профиль индивидуальный                                    <div class="risk" data-risk-lvl="0"><span></span><span></span><span></span><span></span><span></span></div>
+                                </div>
+                                <div class="entry__risk-title">Индивидуальная стратегия. Валюта</div>
+                            </div>
+                        </div>
+                        <div class="entry__desc">
+                            <p></p><p>
+	 Эффективная стратегия управления портфелем для получения максимальной доходности в валюте при заданном уровне риска. Индивидуальный подход к достижению инвестиционных целей.
+</p><p></p>
+                        </div>
+                                                <div class="entry__features">
+                            <ul>
+                                                                <li>
+                                    <div class="features__title">Минимальная сумма</div>
+                                    <div class="features__val">от 200 тыс. у.е.</div>
+                                </li>
+                                                                <li>
+                                    <div class="features__title">Срок стратегии</div>
+                                    <div class="features__val">от 3 лет</div>
+                                </li>
+                                                                <li>
+                                    <div class="features__title">Ожидаемая доходность</div>
+                                    <div class="features__val">от 3-5% годовых</div>
+                                </li>
+                                                            </ul>
+                        </div>
+                                                <div class="entry__btns"><a class="btn btn_gold" href="/trust/individualnaya-strategiya-valyuta/" tabindex="-1">Подробнее</a>
+                            <button class="btn btn_gold-o js-request" tabindex="-1">Обратиться в УК</button>
+                        </div>
+                    </div></div></div><div class="slick-slide slick-current slick-active" data-slick-index="0" aria-hidden="false" style="width: 668px;"><div><div class="trust__entry" style="width: 100%; display: inline-block;">
+                        <div class="entry__risk">
+                            <div class="entry__risk-num">1</div>
+                            <div class="entry__risk-text">
+                                <div class="entry__risk-lvl">Риск-профиль сбалансированный                                    <div class="risk" data-risk-lvl="3"><span></span><span></span><span></span><span></span><span></span></div>
+                                </div>
+                                <div class="entry__risk-title">Государственные облигации. ИИС</div>
+                            </div>
+                        </div>
+                        <div class="entry__desc">
+                            <p></p><p>
+	 Индивидуальный инвестиционный счет (ИИС) – специальный счет, на который можно покупать различные финансовые инструменты и при этом получать инвестиционный налоговый вычет от государства.
+</p>
+<p>
+	 Основа стратегии – инвестирование в паи БПИФ «БСПБ - ОФЗ 1000», в состав активов которого входят государственные облигации Российской Федерации, имеющие наивысший кредитный рейтинг среди всех инструментов на отечественном финансовом рынке.
+</p>
+ <br>
+<p>
+</p><p></p>
+                        </div>
+                                                <div class="entry__features">
+                            <ul>
+                                                                <li>
+                                    <div class="features__title">Минимальная сумма</div>
+                                    <div class="features__val">10 000 ₽</div>
+                                </li>
+                                                                <li>
+                                    <div class="features__title">Срок стратегии</div>
+                                    <div class="features__val">3 года</div>
+                                </li>
+                                                                <li>
+                                    <div class="features__title">Ожидаемая доходность</div>
+                                    <div class="features__val">4-10% годовых</div>
+                                </li>
+                                                            </ul>
+                        </div>
+                                                <div class="entry__btns"><a class="btn btn_gold" href="/trust/gosudarstvennye-obligatsii-iis/" tabindex="0">Подробнее</a>
+                            <button class="btn btn_gold-o js-request" tabindex="0">Обратиться в УК</button>
+                        </div>
+                    </div></div></div><div class="slick-slide" data-slick-index="1" aria-hidden="true" style="width: 668px;" tabindex="-1"><div><div class="trust__entry" style="width: 100%; display: inline-block;">
+                        <div class="entry__risk">
+                            <div class="entry__risk-num">2</div>
+                            <div class="entry__risk-text">
+                                <div class="entry__risk-lvl">Риск-профиль рискованный                                    <div class="risk" data-risk-lvl="4"><span></span><span></span><span></span><span></span><span></span></div>
+                                </div>
+                                <div class="entry__risk-title">Корпоративные облигации. ИИС</div>
+                            </div>
+                        </div>
+                        <div class="entry__desc">
+                            <p></p><p>
+</p>
+<p>
+	 Индивидуальный инвестиционный счет (ИИС) – специальный счет, на который можно покупать различные финансовые инструменты и при этом получать инвестиционный налоговый вычет от государства.
+</p>
+<p>
+</p>
+<p>
+	 Основа стратегии – инвестирование в паи БПИФ «БСПБ - Корпоративные облигации 1000», в состав активов которого входят среднесрочные корпоративные облигации российских эмитентов. Выбор активов фонда основывается на сравнительном анализе ценных бумаг по выбору лучших альтернатив в соотношении риск/доходность.
+</p>
+<p>
+</p><p></p>
+                        </div>
+                                                <div class="entry__features">
+                            <ul>
+                                                                <li>
+                                    <div class="features__title">Минимальная сумма</div>
+                                    <div class="features__val">10 000 ₽</div>
+                                </li>
+                                                                <li>
+                                    <div class="features__title">Срок стратегии</div>
+                                    <div class="features__val">3 года</div>
+                                </li>
+                                                                <li>
+                                    <div class="features__title">Ожидаемая доходность</div>
+                                    <div class="features__val">6-12% годовых</div>
+                                </li>
+                                                            </ul>
+                        </div>
+                                                <div class="entry__btns"><a class="btn btn_gold" href="/trust/korporativnye-obligatsii-iis/" tabindex="-1">Подробнее</a>
+                            <button class="btn btn_gold-o js-request" tabindex="-1">Обратиться в УК</button>
+                        </div>
+                    </div></div></div><div class="slick-slide" data-slick-index="2" aria-hidden="true" style="width: 668px;" tabindex="-1"><div><div class="trust__entry" style="width: 100%; display: inline-block;">
+                        <div class="entry__risk">
+                            <div class="entry__risk-num">3</div>
+                            <div class="entry__risk-text">
+                                <div class="entry__risk-lvl">Риск-профиль индивидуальный                                    <div class="risk" data-risk-lvl="0"><span></span><span></span><span></span><span></span><span></span></div>
+                                </div>
+                                <div class="entry__risk-title">Индивидуальная стратегия. Рубли</div>
+                            </div>
+                        </div>
+                        <div class="entry__desc">
+                            <p></p><p>
+	 Эффективная стратегия управления портфелем для получения максимальной доходности в рублях при заданном уровне риска. Индивидуальный подход к достижению целей.
+</p><p></p>
+                        </div>
+                                                <div class="entry__features">
+                            <ul>
+                                                                <li>
+                                    <div class="features__title">Минимальная сумма</div>
+                                    <div class="features__val">от 10 млн руб.</div>
+                                </li>
+                                                                <li>
+                                    <div class="features__title">Срок стратегии</div>
+                                    <div class="features__val">от 3 лет</div>
+                                </li>
+                                                                <li>
+                                    <div class="features__title">Ожидаемая доходность</div>
+                                    <div class="features__val">от 7% годовых</div>
+                                </li>
+                                                            </ul>
+                        </div>
+                                                <div class="entry__btns"><a class="btn btn_gold" href="/trust/individualnaya-strategiya-rubli/" tabindex="-1">Подробнее</a>
+                            <button class="btn btn_gold-o js-request" tabindex="-1">Обратиться в УК</button>
+                        </div>
+                    </div></div></div><div class="slick-slide" data-slick-index="3" aria-hidden="true" style="width: 668px;" tabindex="-1"><div><div class="trust__entry" style="width: 100%; display: inline-block;">
+                        <div class="entry__risk">
+                            <div class="entry__risk-num">4</div>
+                            <div class="entry__risk-text">
+                                <div class="entry__risk-lvl">Риск-профиль индивидуальный                                    <div class="risk" data-risk-lvl="0"><span></span><span></span><span></span><span></span><span></span></div>
+                                </div>
+                                <div class="entry__risk-title">Индивидуальная стратегия. Валюта</div>
+                            </div>
+                        </div>
+                        <div class="entry__desc">
+                            <p></p><p>
+	 Эффективная стратегия управления портфелем для получения максимальной доходности в валюте при заданном уровне риска. Индивидуальный подход к достижению инвестиционных целей.
+</p><p></p>
+                        </div>
+                                                <div class="entry__features">
+                            <ul>
+                                                                <li>
+                                    <div class="features__title">Минимальная сумма</div>
+                                    <div class="features__val">от 200 тыс. у.е.</div>
+                                </li>
+                                                                <li>
+                                    <div class="features__title">Срок стратегии</div>
+                                    <div class="features__val">от 3 лет</div>
+                                </li>
+                                                                <li>
+                                    <div class="features__title">Ожидаемая доходность</div>
+                                    <div class="features__val">от 3-5% годовых</div>
+                                </li>
+                                                            </ul>
+                        </div>
+                                                <div class="entry__btns"><a class="btn btn_gold" href="/trust/individualnaya-strategiya-valyuta/" tabindex="-1">Подробнее</a>
+                            <button class="btn btn_gold-o js-request" tabindex="-1">Обратиться в УК</button>
+                        </div>
+                    </div></div></div><div class="slick-slide slick-cloned" data-slick-index="4" id="" aria-hidden="true" style="width: 668px;" tabindex="-1"><div><div class="trust__entry" style="width: 100%; display: inline-block;">
+                        <div class="entry__risk">
+                            <div class="entry__risk-num">1</div>
+                            <div class="entry__risk-text">
+                                <div class="entry__risk-lvl">Риск-профиль сбалансированный                                    <div class="risk" data-risk-lvl="3"><span></span><span></span><span></span><span></span><span></span></div>
+                                </div>
+                                <div class="entry__risk-title">Государственные облигации. ИИС</div>
+                            </div>
+                        </div>
+                        <div class="entry__desc">
+                            <p></p><p>
+	 Индивидуальный инвестиционный счет (ИИС) – специальный счет, на который можно покупать различные финансовые инструменты и при этом получать инвестиционный налоговый вычет от государства.
+</p>
+<p>
+	 Основа стратегии – инвестирование в паи БПИФ «БСПБ - ОФЗ 1000», в состав активов которого входят государственные облигации Российской Федерации, имеющие наивысший кредитный рейтинг среди всех инструментов на отечественном финансовом рынке.
+</p>
+ <br>
+<p>
+</p><p></p>
+                        </div>
+                                                <div class="entry__features">
+                            <ul>
+                                                                <li>
+                                    <div class="features__title">Минимальная сумма</div>
+                                    <div class="features__val">10 000 ₽</div>
+                                </li>
+                                                                <li>
+                                    <div class="features__title">Срок стратегии</div>
+                                    <div class="features__val">3 года</div>
+                                </li>
+                                                                <li>
+                                    <div class="features__title">Ожидаемая доходность</div>
+                                    <div class="features__val">4-10% годовых</div>
+                                </li>
+                                                            </ul>
+                        </div>
+                                                <div class="entry__btns"><a class="btn btn_gold" href="/trust/gosudarstvennye-obligatsii-iis/" tabindex="-1">Подробнее</a>
+                            <button class="btn btn_gold-o js-request" tabindex="-1">Обратиться в УК</button>
+                        </div>
+                    </div></div></div><div class="slick-slide slick-cloned" data-slick-index="5" id="" aria-hidden="true" style="width: 668px;" tabindex="-1"><div><div class="trust__entry" style="width: 100%; display: inline-block;">
+                        <div class="entry__risk">
+                            <div class="entry__risk-num">2</div>
+                            <div class="entry__risk-text">
+                                <div class="entry__risk-lvl">Риск-профиль рискованный                                    <div class="risk" data-risk-lvl="4"><span></span><span></span><span></span><span></span><span></span></div>
+                                </div>
+                                <div class="entry__risk-title">Корпоративные облигации. ИИС</div>
+                            </div>
+                        </div>
+                        <div class="entry__desc">
+                            <p></p><p>
+</p>
+<p>
+	 Индивидуальный инвестиционный счет (ИИС) – специальный счет, на который можно покупать различные финансовые инструменты и при этом получать инвестиционный налоговый вычет от государства.
+</p>
+<p>
+</p>
+<p>
+	 Основа стратегии – инвестирование в паи БПИФ «БСПБ - Корпоративные облигации 1000», в состав активов которого входят среднесрочные корпоративные облигации российских эмитентов. Выбор активов фонда основывается на сравнительном анализе ценных бумаг по выбору лучших альтернатив в соотношении риск/доходность.
+</p>
+<p>
+</p><p></p>
+                        </div>
+                                                <div class="entry__features">
+                            <ul>
+                                                                <li>
+                                    <div class="features__title">Минимальная сумма</div>
+                                    <div class="features__val">10 000 ₽</div>
+                                </li>
+                                                                <li>
+                                    <div class="features__title">Срок стратегии</div>
+                                    <div class="features__val">3 года</div>
+                                </li>
+                                                                <li>
+                                    <div class="features__title">Ожидаемая доходность</div>
+                                    <div class="features__val">6-12% годовых</div>
+                                </li>
+                                                            </ul>
+                        </div>
+                                                <div class="entry__btns"><a class="btn btn_gold" href="/trust/korporativnye-obligatsii-iis/" tabindex="-1">Подробнее</a>
+                            <button class="btn btn_gold-o js-request" tabindex="-1">Обратиться в УК</button>
+                        </div>
+                    </div></div></div><div class="slick-slide slick-cloned" data-slick-index="6" id="" aria-hidden="true" style="width: 668px;" tabindex="-1"><div><div class="trust__entry" style="width: 100%; display: inline-block;">
+                        <div class="entry__risk">
+                            <div class="entry__risk-num">3</div>
+                            <div class="entry__risk-text">
+                                <div class="entry__risk-lvl">Риск-профиль индивидуальный                                    <div class="risk" data-risk-lvl="0"><span></span><span></span><span></span><span></span><span></span></div>
+                                </div>
+                                <div class="entry__risk-title">Индивидуальная стратегия. Рубли</div>
+                            </div>
+                        </div>
+                        <div class="entry__desc">
+                            <p></p><p>
+	 Эффективная стратегия управления портфелем для получения максимальной доходности в рублях при заданном уровне риска. Индивидуальный подход к достижению целей.
+</p><p></p>
+                        </div>
+                                                <div class="entry__features">
+                            <ul>
+                                                                <li>
+                                    <div class="features__title">Минимальная сумма</div>
+                                    <div class="features__val">от 10 млн руб.</div>
+                                </li>
+                                                                <li>
+                                    <div class="features__title">Срок стратегии</div>
+                                    <div class="features__val">от 3 лет</div>
+                                </li>
+                                                                <li>
+                                    <div class="features__title">Ожидаемая доходность</div>
+                                    <div class="features__val">от 7% годовых</div>
+                                </li>
+                                                            </ul>
+                        </div>
+                                                <div class="entry__btns"><a class="btn btn_gold" href="/trust/individualnaya-strategiya-rubli/" tabindex="-1">Подробнее</a>
+                            <button class="btn btn_gold-o js-request" tabindex="-1">Обратиться в УК</button>
+                        </div>
+                    </div></div></div><div class="slick-slide slick-cloned" data-slick-index="7" id="" aria-hidden="true" style="width: 668px;" tabindex="-1"><div><div class="trust__entry" style="width: 100%; display: inline-block;">
+                        <div class="entry__risk">
+                            <div class="entry__risk-num">4</div>
+                            <div class="entry__risk-text">
+                                <div class="entry__risk-lvl">Риск-профиль индивидуальный                                    <div class="risk" data-risk-lvl="0"><span></span><span></span><span></span><span></span><span></span></div>
+                                </div>
+                                <div class="entry__risk-title">Индивидуальная стратегия. Валюта</div>
+                            </div>
+                        </div>
+                        <div class="entry__desc">
+                            <p></p><p>
+	 Эффективная стратегия управления портфелем для получения максимальной доходности в валюте при заданном уровне риска. Индивидуальный подход к достижению инвестиционных целей.
+</p><p></p>
+                        </div>
+                                                <div class="entry__features">
+                            <ul>
+                                                                <li>
+                                    <div class="features__title">Минимальная сумма</div>
+                                    <div class="features__val">от 200 тыс. у.е.</div>
+                                </li>
+                                                                <li>
+                                    <div class="features__title">Срок стратегии</div>
+                                    <div class="features__val">от 3 лет</div>
+                                </li>
+                                                                <li>
+                                    <div class="features__title">Ожидаемая доходность</div>
+                                    <div class="features__val">от 3-5% годовых</div>
+                                </li>
+                                                            </ul>
+                        </div>
+                                                <div class="entry__btns"><a class="btn btn_gold" href="/trust/individualnaya-strategiya-valyuta/" tabindex="-1">Подробнее</a>
+                            <button class="btn btn_gold-o js-request" tabindex="-1">Обратиться в УК</button>
+                        </div>
+                    </div></div></div></div></div><button class="slick-next slick-arrow" aria-label="Next" type="button" style="">Next</button></div>
+        </div>
+    </div>
+</div>
+    <div class="consult">
+    <div class="block block_padding">
+        <div class="main-title" data-title="УК А-Капитал">Инвестиционное <br>консультирование</div>
+        <p>Комплексная услуга инвестиционного консультирования позволяет клиенту получить профессиональную <br>информационно-аналитическую и консультационную поддержку на всех этапах инвестирования.</p>
+        <div class="consult__list">
+            <div class="consult__entry">
+                <div class="entry__num">1</div>
+                <div class="entry__text">Составление портфеля</div>
+            </div>
+            <div class="consult__entry">
+                <div class="entry__num">2</div>
+                <div class="entry__text">Регулярные отчеты</div>
+            </div>
+            <div class="consult__entry">
+                <div class="entry__num">3</div>
+                <div class="entry__text">Персональный советник</div>
+            </div>
+        </div>
+    </div>
+</div>    <div class="zpif_bg">
+    <div class="zpif">
+        <div class="block block_padding">
+            
+                <div class="main-title" data-title="УК А-Капитал">
+	 Закрытые паевые <br>
+	 инвестиционные фонды
+</div>
+<p>
+	 ЗПИФ – удобный и строго регулируемый государством инструмент, позволяющий реализовывать <br> проекты по управлению имуществом, семейными активами, проектному и венчурному <br> финансированию, защите прав собственности.<br>
+</p>
+ <a class="btn btn_gold" href="/zpif/">Узнать больше</a>                
+        </div>
+    </div>
+</div>
+<div class="fund-disclaimer">
+    <div class="block block_padding_top">
+            </div>
+</div></div><!-- /content --><div class="footer">
+    <div class="block">
+        <div class="footer__top-container">
+            <a class="footer__logo" href="/"></a>
+            <p>
+                <a href="https://cbr.ru/support_measures" class="btn btn_gold btn_small" target="_blank">Меры защиты финансового рынка</a>
+                <a href="https://cbr.ru/faq" class="btn btn_gold btn_small" target="_blank">Ответы на вопросы ЦБ РФ</a>
+            </p>
+        </div>
+        <div class="footer__menu-container">
+            <div class="footer__menu">
+                
+<ul class="menu__list">
+
+
+	
+	
+							<li class="menu__entry "><a href="/trust/" class="menu__lnk">Доверительное управление</a>
+				<div class="submenu"><ul class="submenu__list">
+		
+	
+	
+
+	
+	
+		
+							<li class="submenu__entry "><a href="/trust/gosudarstvennye-obligatsii-iis/" class="submenu__lnk">Государственные облигации. ИИС</a></li>
+			
+		
+	
+	
+
+	
+	
+		
+							<li class="submenu__entry "><a href="/trust/korporativnye-obligatsii-iis/" class="submenu__lnk">Корпоративные облигации. ИИС</a></li>
+			
+		
+	
+	
+
+	
+	
+		
+							<li class="submenu__entry "><a href="/trust/individualnaya-strategiya-rubli/" class="submenu__lnk">Индивидуальная стратегия. Рубли</a></li>
+			
+		
+	
+	
+
+	
+	
+		
+							<li class="submenu__entry "><a href="/trust/individualnaya-strategiya-valyuta/" class="submenu__lnk">Индивидуальная стратегия. Валюта</a></li>
+			
+		
+	
+	
+
+	
+	
+		
+							<li class="submenu__entry "><a href="/trust/faq/" class="submenu__lnk">Вопросы и ответы</a></li>
+			
+		
+	
+	
+
+			</ul></div></li>	
+	
+							<li class="menu__entry "><a href="/opif/" class="menu__lnk">ОПИФ</a>
+				<div class="submenu"><ul class="submenu__list">
+		
+	
+	
+
+	
+	
+		
+							<li class="submenu__entry "><a href="/opif/balanced/" class="submenu__lnk">«БСПБ - Сбалансированный»</a></li>
+			
+		
+	
+	
+
+	
+	
+		
+							<li class="submenu__entry "><a href="/opif/savings/" class="submenu__lnk">«БСПБ - Сберегательный»</a></li>
+			
+		
+	
+	
+
+	
+	
+		
+							<li class="submenu__entry "><a href="/opif/perspective/" class="submenu__lnk">«БСПБ - Глобальный»</a></li>
+			
+		
+	
+	
+
+	
+	
+		
+							<li class="submenu__entry "><a href="/opif/globalnyy-balance/" class="submenu__lnk">«БСПБ - Глобальный баланс»</a></li>
+			
+		
+	
+	
+
+	
+	
+		
+							<li class="submenu__entry "><a href="/opif/faq/" class="submenu__lnk">Вопросы и ответы</a></li>
+			
+		
+	
+	
+
+			</ul></div></li>	
+	
+							<li class="menu__entry "><a href="/institutsionalnym-investoram/" class="menu__lnk">Институционным инвесторам</a>
+				<div class="submenu"><ul class="submenu__list">
+		
+	
+	
+
+	
+	
+		
+							<li class="submenu__entry "><a href="/institutsionalnym-investoram/self-regulating/" class="submenu__lnk">Саморегулируемым организациям</a></li>
+			
+		
+	
+	
+
+	
+	
+		
+							<li class="submenu__entry "><a href="/institutsionalnym-investoram/endowment/" class="submenu__lnk">Эндаумент-фонды</a></li>
+			
+		
+	
+	
+
+			</ul></div></li>	
+	
+							<li class="menu__entry "><a href="/about/" class="menu__lnk">О компании</a>
+				<div class="submenu"><ul class="submenu__list">
+		
+	
+	
+
+	
+	
+		
+							<li class="submenu__entry "><a href="/about/news/" class="submenu__lnk">Новости</a></li>
+			
+		
+	
+	
+
+	
+	
+		
+							<li class="submenu__entry "><a href="/info/litsenzii/" class="submenu__lnk">Лицензии</a></li>
+			
+		
+	
+	
+
+	
+	
+		
+							<li class="submenu__entry "><a href="/about/rekvizity/" class="submenu__lnk">Реквизиты</a></li>
+			
+		
+	
+	
+
+	
+	
+		
+							<li class="submenu__entry "><a href="/about/kontakty/" class="submenu__lnk">Контакты</a></li>
+			
+		
+	
+	
+
+			</ul></div></li>	
+	
+							<li class="menu__entry "><a href="/bpif/" class="menu__lnk">БПИФ</a>
+				<div class="submenu"><ul class="submenu__list">
+		
+	
+	
+
+	
+	
+		
+							<li class="submenu__entry "><a href="/bpif/korporativnye-obligatsii-1000/" class="submenu__lnk">«БСПБ – Корпоративные облигации 1000» </a></li>
+			
+		
+	
+	
+
+	
+	
+		
+							<li class="submenu__entry "><a href="/bpif/ofz-1000/" class="submenu__lnk">«БСПБ - ОФЗ 1000»</a></li>
+			
+		
+	
+	
+
+			</ul></div></li>	
+	
+		
+						
+                                <li class="menu__entry "><a href="/invest-consult/" class="menu__lnk">Инвестконсультирование</a></li>
+			
+		
+	
+	
+
+	
+	
+		
+						
+                                <li class="menu__entry "><a href="/zpif/" class="menu__lnk">ЗПИФ</a></li>
+			
+		
+	
+	
+
+	
+	
+		
+						
+                                <li class="menu__entry "><a href="/info/" class="menu__lnk">Раскрытие информации</a></li>
+			
+		
+	
+	
+
+
+</ul>
+
+            </div>
+            <div class="footer__contacts"><a class="footer__phone" href="tel:88126777720">8 (812) 677 77 20</a>
+                <button class="btn btn_gold js-request">Обратиться в УК</button><a class="footer__auth" target="_blank" href="https://lk.acapital-am.ru/users/sign_in">Вход в личный кабинет</a>
+				<a href="#" class="footer__subscribe js-subscribe-toggle">Подписаться на рассылку</a>
+            </div>
+        </div>
+        <div class="footer__bottom-container">
+            <div class="footer__social"><a class="social__lnk social__lnk_ok" href="#" target="_blank"></a><a class="social__lnk social__lnk_ig" href="#" target="_blank"></a><a class="social__lnk social__lnk_tw" href="#" target="_blank"></a><a class="social__lnk social__lnk_vk" href="#" target="_blank"></a><a class="social__lnk social__lnk_fb" href="#" target="_blank"></a></div>
+            <div class="footer__copy">© 2023. Все права защищены</div><a href="https://ifrog.ru" target="_blank" class="footer__ifrog">Сделано в iFrog</a>
+        </div>
+        <noindex>
+        <div class="footer__disclaimer">
+             <p>
+	 Общество с ограниченной ответственностью «УК «А-Капитал». Лицензия ФСФР России на осуществление деятельности по управлению инвестиционными фондами, паевыми инвестиционными фондами и негосударственными пенсионными фондами № 21-000-1-00824 от 09.08.2011, без ограничения срока действия; Лицензия Банка России на осуществление деятельности по управлению ценными бумагами № 040-14006-001000 от 13.01.2017, без ограничения срока действия.
+</p>
+<p class="text-large text-light">
+	 Стоимость инвестиционных паев может увеличиваться и уменьшаться, результаты инвестирования в прошлом не определяют доходы в будущем, государство не гарантирует доходность инвестиций в паевые инвестиционные фонды. Прежде чем приобрести инвестиционный пай, следует внимательно ознакомиться с правилами доверительного управления паевым инвестиционным фондом. Правилами доверительного управления открытыми паевыми инвестиционными фондами предусмотрены надбавки при приобретении и скидки при погашении паев. Взимание надбавок (скидок) уменьшает доходность инвестиций в инвестиционные паи открытых паевых инвестиционных фондов.
+</p>
+<p>
+    Получить подробную информацию об открытых и биржевых паевых инвестиционных фондах и ознакомиться с правилами доверительного управления фондами, а также с иными документами, подлежащими раскрытию и предоставлению в соответствии с Федеральным законом «Об инвестиционных фондах» и нормативными актами Банка России, можно по адресу управляющей компании: 191119, г. Санкт-Петербург, вн.тер.г. Муниципальный округ Семеновский, пр-кт Загородный, д. 46, к. 2, литера Б, кабинет №125; по адресу обособленного подразделения управляющей компании: 195112, г. Санкт-Петербург, Малоохтинский проспект, дом 64, литер А, часть пом. №541 (кабинет №623); по телефонам: (812) 677 77 20 / (812) 320 53 70 / (812) 320 53 72 или в информационно-телекоммуникационной сети Интернет по адресу: <a href="https://www.acapital-am.ru">www.acapital-am.ru</a>, а также в пунктах приема заявок агента по выдаче, погашению и обмену инвестиционных паев открытых паевых инвестиционных фондов.
+</p>
+<p>
+	 Под управлением ООО «УК «А-Капитал» находятся следующие паевые инвестиционные фонды: <br>
+	Открытый паевой инвестиционный фонд рыночных финансовых инструментов «БСПБ - Сбалансированный» (Правила зарегистрированы ФКЦБ России 08.11.2000 за № 0047-18548678); <br>
+	Открытый паевой инвестиционный фонд рыночных финансовых инструментов «БСПБ - Сберегательный» (Правила зарегистрированы ФСФР России 22.12.2005 за № 0450-75409623); <br>
+	Открытый паевой инвестиционный фонд рыночных финансовых инструментов «БСПБ - Глобальный» (Правила доверительного управления зарегистрированы ФКЦБ России 12.05.2004 за №0211-58233714); <br>
+	Открытый паевой инвестиционный фонд рыночных финансовых инструментов «БСПБ - Глобальный баланс» (Правила доверительного управления зарегистрированы Банком России 26.04.2021 за № 4393); <br>
+	Открытый паевой инвестиционный фонд рыночных финансовых инструментов «Американский рынок» (Правила доверительного управления зарегистрированы Центральным Банком Российской Федерации 30.12.2020 № 4252); <br>
+	Открытый паевой инвестиционный фонд рыночных финансовых инструментов «Корпоративные облигации. Широкий кредитный рейтинг» (Правила доверительного управления зарегистрированы Центральным Банком Российской Федерации 30.12.2020 № 4250); <br>
+	Открытый паевой инвестиционный фонд рыночных финансовых инструментов «Корпоративный долг. Высокий кредитный рейтинг» (Правила доверительного управления зарегистрированы Центральным Банком Российской Федерации 30.12.2020 № 4254); <br>
+	Открытый паевой инвестиционный фонд рыночных финансовых инструментов «Фонд Золото» (Правила доверительного управления зарегистрированы Центральным Банком Российской Федерации 30.12.2020 № 4253); <br>
+	Открытый паевой инвестиционный фонд рыночных финансовых инструментов «Фонд новые технологии» (Правила доверительного управления зарегистрированы Центральным Банком Российской Федерации 30.12.2020 № 4251). <br>
+	Биржевой паевой инвестиционный фонд рыночных финансовых инструментов «БСПБ - ОФЗ 1000» (Правила доверительного управления зарегистрированы Банком России 07.06.2021 за № 4448); <br>
+	Биржевой паевой инвестиционный фонд рыночных финансовых инструментов «БСПБ - Корпоративные облигации 1000» (Правила доверительного управления зарегистрированы Банком России 07.06.2021 за № 4449). <br>
+	Закрытый паевой инвестиционный комбинированный фонд «Невский - Десятый фонд» (Правила доверительного управления зарегистрированы Банком России 17.09.2015 за № 3040, фонд для квалифицированных инвесторов); <br>
+	Закрытый паевой инвестиционный комбинированный фонд «БСПБ - Второй фонд» (Правила доверительного управления согласованы ЗАО «ПРСД» 22.11.2021, информация внесена в реестр паевых инвестиционных фондов Банком России 22.11.2021 за № 4707-СД, фонд для квалифицированных инвесторов). <br>
+	Закрытый паевой инвестиционный комбинированный фонд «Невский - Семнадцатый фонд» (Правила доверительного управления зарегистрированы Банком России 22.05.2018 за № 3502, фонд для квалифицированных инвесторов).
+</p>
+<p>
+	 Любые инвестиции в ценные бумаги являются в определенной степени рискованными. Существует вероятность возникновения реального ущерба или упущенной выгоды при осуществлении ООО «УК «А-Капитал» (далее – Управляющий) доверительного управления. Результаты деятельности Управляющего в прошлом не определяют доходы в будущем. При подписании договора доверительного управления Управляющий обязан ознакомить учредителя управления с рисками осуществления деятельности по управлению ценными бумагами на рынке ценных бумаг.
+</p>
+<p>
+	 Ожидаемая доходность стандартной инвестиционной стратегии не гарантируется Управляющим и не является идентичной фактической доходности управления имуществом учредителя управления, переданного в доверительное управление по договору, приводится до вычета комиссий, расходов и налогов, рассчитывается для цели определения стандартного инвестиционного профиля в соответствии с требованиями Положения Банка России от 03.08.2015 № 482-П «О единых требованиях к правилам осуществления деятельности по управлению ценными бумагами, к порядку раскрытия управляющим информации, а также требованиях, направленных на исключение конфликта интересов управляющего» <br>
+ <br>
+	 Размещенная информация носит исключительно информативный характер, не является индивидуальной инвестиционной рекомендацией, не является офертой или предложением делать оферты, гарантией и/или обещанием эффективности деятельности (доходности вложений) в будущем, и финансовые инструменты либо операции, упомянутые в ней, могут не соответствовать Вашему инвестиционному профилю и инвестиционным целям (ожиданиям). Определение соответствия финансового инструмента либо операции Вашим интересам, инвестиционным целям, инвестиционному горизонту и уровню допустимого риска является Вашей задачей. ООО «УК «А-Капитал» не несет ответственности за возможные убытки в случае совершения операций либо инвестирования в финансовые инструменты, упомянутые в данной информации, и не рекомендует использовать указанную информацию в качестве единственного источника информации при принятии инвестиционного решения. Представленная информация (информационные материалы) не заменяют консультации специалиста в области инвестиций и финансов и не должны использоваться вместо неё. <br>
+ <br>
+ <br>
+	 Оказываемые ООО «УК «А-Капитал» финансовые услуги не являются услугами по открытию банковских счетов и приему вкладов. Денежные средства, передаваемые по договору доверительного управления (в том числе, передаваемые в оплату инвестиционных паев), не подлежат страхованию в соответствии с Федеральным законом от 23.12.2003 №177-ФЗ «О страховании вкладов физических лиц в банках Российской Федерации».<br>
+ <br>
+	 ООО «УК «А-Капитал» сообщает о совмещении деятельности по доверительному управлению паевыми инвестиционными фондами, деятельности по управлению ценными бумагами, деятельности по инвестиционному консультированию, а также о существовании риска конфликта интересов при совмещении вышеуказанных видов деятельности.<br>
+	 При урегулировании возникающих конфликтов интересов Управляющая компания прежде всего руководствуется интересами своих клиентов. Документы в отношении конфликта интересов раскрыты в разделе <a href="/info/">«Раскрытие информации в соответствии с законодательством»</a> настоящего сайта.<br>
+</p>
+<p>
+	 Любая информация, представленная на сайте, действительна на дату ее размещения и может быть изменена и/или дополнена в любое время без предварительного уведомления со стороны ООО «УК «А-Капитал».
+</p>         </div>
+        </noindex>
+    </div>
+</div><div class="popup hideover" id="popup-subscribe">
+    <div class="popup-overlay">
+        <table>
+            <tbody>
+            <tr>
+                <td>
+                    <div class="popup-container"><a class="popup__close" href="#"></a>
+                        <form class="formsController" data-url="/api/sub" method="post">
+                            <div class="loading loading-default">
+                                <div class="loading__inner"></div>
+                            </div>
+                            <div class="popup__title">Подписаться на рассылку</div>
+                            <div class="form__container">
+								<div class="subscribe__select form__label">
+                                    <select name="subscriptions[]" multiple="" required="" data-select2-id="select2-data-1-j8oc" tabindex="-1" class="select2-hidden-accessible" aria-hidden="true">
+                                        <option value="all">Все категории</option>
+                                                                                    <option value="4230">Раскрытие информации в отношении ООО «БСПБ Капитал»</option>
+                                                                                    <option value="4568">ОПИФ рыночных финансовых инструментов «Фонд новые технологии»</option>
+                                                                                    <option value="4567">ОПИФ рыночных финансовых инструментов «Фонд Золото»</option>
+                                                                                    <option value="4566">ОПИФ рыночных финансовых инструментов «Корпоративный долг. Высокий кредитный рейтинг»</option>
+                                                                                    <option value="4565">ОПИФ рыночных финансовых инструментов «Американский рынок»</option>
+                                                                                    <option value="4564">ОПИФ рыночных финансовых инструментов «Корпоративные облигации. Широкий кредитный рейтинг»</option>
+                                                                                    <option value="4213">ОПИФ рыночных финансовых инструментов «БСПБ - Глобальный»</option>
+                                                                                    <option value="4218">БПИФ рыночных финансовых инструментов «БСПБ - ОФЗ 1000»</option>
+                                                                                    <option value="4217">БПИФ рыночных финансовых инструментов «БСПБ - Корпоративные облигации 1000»</option>
+                                                                                    <option value="4216">ОПИФ рыночных финансовых инструментов «БСПБ - Глобальный баланс»</option>
+                                                                                    <option value="4215">ОПИФ рыночных финансовых инструментов «БСПБ - Сбалансированный»</option>
+                                                                                    <option value="4214">ОПИФ рыночных финансовых инструментов «БСПБ - Сберегательный»</option>
+                                                                                                                    </select><span class="select2 select2-container select2-container--default" dir="ltr" data-select2-id="select2-data-2-4j4f" style="width: auto;"><span class="selection"><span class="select2-selection select2-selection--multiple" role="combobox" aria-haspopup="true" aria-expanded="false" tabindex="-1" aria-disabled="false"><ul class="select2-selection__rendered" id="select2-subscriptions-jj-container"></ul><span class="select2-search select2-search--inline"><textarea class="select2-search__field" type="search" tabindex="0" autocorrect="off" autocapitalize="none" spellcheck="false" role="searchbox" aria-autocomplete="list" autocomplete="off" aria-label="Search" aria-describedby="select2-subscriptions-jj-container" placeholder="Выберите рассылку*" style="width: 100%;"></textarea></span></span></span><span class="dropdown-wrapper" aria-hidden="true"></span></span>
+								</div>
+								<label class="form__label form__label_lg">
+									<input class="form__input" type="email" name="email" required="" placeholder="Ваш email *">
+								</label>
+                                <div class="form__label form__label_lg form__label_subscribe">
+                                    <label class="chkbox__custom">
+                                        <input class="custom__input" type="checkbox" name="confirm" value="1" checked=""><span class="custom__title">Даю согласие на получение информации от ООО «УК «А-Капитал» в соответствии с ч.1 ст.18 ФЗ «О рекламе», подтверждаю, что ознакомлен с возможностью отказаться от получения данной рассылки в любое время.</span>
+                                    </label>
+                                </div>
+                                <div class="form__label_lg flex-center">
+                                    <button class="btn btn_gold fc-submit" disabled="" type="submit">Отправить</button>
+                                    <div>
+                                        <div class="form__hint"><span class="red">*</span> — обязательные поля</div>
+                                        <div class="form__error"></div>
+                                    </div>
+                                </div>
+                            </div>
+                        </form>
+                        <div class="success__container">
+                            <p>Спасибо, ваша заявка принята</p>                        </div>
+                    </div>
+                </td>
+            </tr>
+            </tbody>
+        </table>
+    </div>
+</div>
+<div class="popup hideover" id="popup-request">
+    <div class="popup-overlay">
+        <table>
+            <tbody>
+            <tr>
+                <td>
+                    <div class="popup-container"><a class="popup__close" href="#"></a>
+                        <form class="formsController" data-url="/api/form/request" method="post">
+                            <div class="loading loading-default">
+                                <div class="loading__inner"></div>
+                            </div>
+                            <div class="popup__title">Оставьте заявку</div>
+                            <p class="popup__text">Заполните все поля и наш специалист свяжется с вами в самое ближайшее время!</p>
+                            <div class="form__container">
+                                <label class="form__label form__label_sm">
+                                    <div class="form__caption">ФИО<span class="red">*</span></div>
+                                    <input class="form__input" type="text" name="name" required="">
+                                </label>
+                                <label class="form__label form__label_sm">
+                                    <div class="form__caption">Ваш email<span class="red">*</span></div>
+                                    <input class="form__input" type="email" name="email" required="">
+                                </label>
+                                <label class="form__label form__label_sm">
+                                    <div class="form__caption">Ваш номер телефона<span class="red">*</span></div>
+                                    <input class="form__input form__input_phone" name="phone" type="tel" required="" inputmode="text">
+                                </label>
+                                <label class="form__label form__label_lg">
+                                    <div class="form__caption">Тема обращения<span class="red">*</span></div>
+                                    <select class="form__select" name="subject" required="">
+                                                                                <option value="Другое">Другое</option>
+                                                                                <option value="Запрос на предоставление раскрываемой информации">Запрос на предоставление раскрываемой информации</option>
+                                                                            </select>
+                                </label>
+								<label class="form__label form__label_lg form__label-file" style="display: none;">
+									<input type="file" name="doc">
+									<span><i>Прикрепить файл</i></span>
+								</label>
+                                <label class="form__label form__label_lg">
+                                    <div class="form__caption">Ваше сообщение</div>
+                                    <textarea class="form__input form__input_textarea" name="message"></textarea>
+                                </label>
+                                <div class="form__label form__label_lg form__label_subscribe" style="display: none">
+                                    <label class="chkbox__custom">
+                                        <input class="custom__input" type="checkbox" name="subscribe" value="1" checked=""><span class="custom__title">Даю согласие на получение информации от ООО «УК «А-Капитал» в соответствии с ч.1 ст.18 ФЗ «О рекламе», подтверждаю, что ознакомлен с возможностью отказаться от получения данной рассылки в любое время.</span>
+                                    </label>
+                                </div>
+                                <div class="form__label form__label_lg form__label_personal">
+                                    <label class="chkbox__custom">
+                                        <input class="custom__input" type="checkbox" name="confirm" value="1" checked="" required=""><span class="custom__title">Я согласен с условиями обработки и хранения моих персональных данных. <a href="/privacy/" target="_blank">Подробная информация</a></span>
+                                    </label>
+                                </div>
+                                <div class="form__label_lg flex-center">
+                                    <button class="btn btn_gold fc-submit" type="submit">Отправить</button>
+                                    <div>
+                                        <div class="form__hint"><span class="red">*</span> — обязательные поля</div>
+                                        <div class="form__error"></div>
+                                    </div>
+                                </div>
+                            </div>
+                        </form>
+                        <div class="success__container">
+                            <p>Спасибо, ваша заявка принята</p>                        </div>
+                    </div>
+                </td>
+            </tr>
+            </tbody>
+        </table>
+    </div>
+</div>
+<div class="popup hideover" id="popup-feedback">
+    <div class="popup-overlay">
+        <table>
+            <tbody>
+            <tr>
+                <td>
+                    <div class="popup-container"><a class="popup__close" href="#"></a>
+                        <div class="popup__tabs">
+                            <a class="tabs__lnk tabs__lnk_current" href="#form-ask">Задать вопрос</a>
+                            <a class="tabs__lnk" href="#form-call">Заказать звонок</a>
+                        </div>
+                        <div class="tabs__container">
+                            <form data-url="/api/form/ask" method="post" id="form-ask">
+                                <div class="loading loading-default">
+                                    <div class="loading__inner"></div>
+                                </div>
+                                <div class="form__subtitle">Заполните все поля и наш специалист свяжется с вами в самое ближайшее время</div>
+                                <div class="form__container">
+                                    <label class="form__label form__label_sm">
+                                        <div class="form__caption">ФИО<span class="red">*</span></div>
+                                        <input class="form__input" type="text" name="name" required="">
+                                    </label>
+                                    <label class="form__label form__label_sm">
+                                        <div class="form__caption">Ваш email</div>
+                                        <input class="form__input" type="email" name="email">
+                                    </label>
+                                    <label class="form__label form__label_sm">
+                                        <div class="form__caption">Ваш номер телефона</div>
+                                        <input class="form__input form__input_phone" type="tel" name="phone" inputmode="text">
+                                    </label>
+                                    <label class="form__label form__label_lg">
+                                        <div class="form__caption">Ваш вопрос</div>
+                                        <textarea class="form__input form__input_textarea" name="message"></textarea>
+                                    </label>
+                                    <div class="form__label form__label_lg form__label_personal">
+                                        <label class="chkbox__custom">
+                                            <input class="custom__input" type="checkbox" name="confirm" value="1" checked="" required=""><span class="custom__title">Я согласен с условиями обработки и хранения моих персональных данных. <a href="/privacy/" target="_blank">Подробная информация</a></span>
+                                        </label>
+                                    </div>
+                                    <div class="form__label_lg flex-center">
+                                        <button class="btn btn_gold fc-submit" type="submit">Отправить</button>
+                                        <div>
+                                            <div class="form__hint"><span class="red">*</span> — обязательные поля</div>
+                                            <div class="form__error"></div>
+                                        </div>
+                                    </div>
+                                </div>
+                            </form>
+                            <div class="success__container">
+                                <p>Спасибо, ваша заявка принята! <br>Наш специалист свяжется с вами в самое ближайшее время</p>                            </div>
+                            <form data-url="/api/form/call" method="post" id="form-call">
+                                <div class="loading loading-default">
+                                    <div class="loading__inner"></div>
+                                </div>
+                                <div class="form__subtitle">Заполните все поля и наш специалист свяжется с вами в самое ближайшее время</div>
+                                <div class="form__container">
+                                    <label class="form__label form__label_md">
+                                        <div class="form__caption">ФИО<span class="red">*</span></div>
+                                        <input class="form__input" type="text" name="name" required="">
+                                    </label>
+                                    <label class="form__label form__label_md">
+                                        <div class="form__caption">Ваш номер телефона<span class="red">*</span></div>
+                                        <input class="form__input form__input_phone" name="phone" type="tel" required="" inputmode="text">
+                                    </label>
+                                    <div class="form__label form__label_lg form__label_personal">
+                                        <label class="chkbox__custom">
+                                            <input class="custom__input" type="checkbox" name="confirm" value="1" checked="" required=""><span class="custom__title">Я согласен с условиями обработки и хранения моих персональных данных. <a href="/privacy/" target="_blank">Подробная информация</a></span>
+                                        </label>
+                                    </div>
+                                    <div class="form__label_lg flex-center">
+                                        <button class="btn btn_gold fc-submit" type="submit">Отправить</button>
+                                        <div>
+                                            <div class="form__hint"><span class="red">*</span> — обязательные поля</div>
+                                            <div class="form__error"></div>
+                                        </div>
+                                    </div>
+                                </div>
+                            </form>
+                            <div class="success__container">
+                                <p>Спасибо, ваша заявка принята! <br>Наш специалист свяжется с вами в самое ближайшее время</p>                            </div>
+                        </div>
+                    </div>
+                </td>
+            </tr>
+            </tbody>
+        </table>
+    </div>
+</div><!-- Yandex.Metrika counter -->
+<noscript><div><img src="https://mc.yandex.ru/watch/80447215" style="position:absolute; left:-9999px;" alt="" /></div></noscript>
+<!-- /Yandex.Metrika counter -->
+<script async="" src="https://mc.yandex.ru/metrika/tag.js"></script><script async="" src="https://mc.yandex.ru/metrika/tag.js"></script><script type="text/javascript" async="" src="https://bitrix.info/ba.js"></script><script type="text/javascript" src="/assets/js/vendor.039231971aacedf8ff2e.js?1683817202855772"></script>
+<script type="text/javascript" src="/assets/js/main.642c22c0cf9c35723b78.js?168381720210600"></script>
+<script type="text/javascript" src="/assets/js/controllers/index/index.816dfde077c35b96d138.js?16838172022206"></script>
+<script type="text/javascript">var _ba = _ba || []; _ba.push(["aid", "1494c8aeb060da6dbc5e7866c70a167e"]); _ba.push(["host", "www.acapital-am.ru"]); (function() {var ba = document.createElement("script"); ba.type = "text/javascript"; ba.async = true;ba.src = (document.location.protocol == "https:" ? "https://" : "http://") + "bitrix.info/ba.js";var s = document.getElementsByTagName("script")[0];s.parentNode.insertBefore(ba, s);})();</script>
+
+
+<script type="text/javascript">
+    (function(m,e,t,r,i,k,a){m[i]=m[i]||function(){(m[i].a=m[i].a||[]).push(arguments)};
+        m[i].l=1*new Date();k=e.createElement(t),a=e.getElementsByTagName(t)[0],k.async=1,k.src=r,a.parentNode.insertBefore(k,a)})
+    (window, document, "script", "https://mc.yandex.ru/metrika/tag.js", "ym");
+
+    ym(46641123, "init", {
+        clickmap:true,
+        trackLinks:true,
+        accurateTrackBounce:true,
+        webvisor:true
+    });
+</script>
+<script type="text/javascript">   
+function getCookie(name) {
+    let matches = document.cookie.match(new RegExp(
+    "(?:^|; )" + name.replace(/([\.$?*|{}\(\)\[\]\\\/\+^])/g, '\\$1') + "=([^;]*)"
+    ));
+    return matches ? decodeURIComponent(matches[1]) : undefined;
+}
+let cookiecook = getCookie("cookiecook"),
+cookiewin = document.getElementsByClassName('cookie-alert')[0];    
+if (cookiecook != "no") {   
+    cookiewin.style.display="block"; 
+    document.getElementById("cookie_close").addEventListener("click", function(){
+        cookiewin.style.display="none";    
+        let date = new Date;
+        date.setDate(date.getDate() + 360);    
+        document.cookie = "cookiecook=no; path=/; expires=" + date.toUTCString();               
+    });
+}
+</script><script type="text/javascript">window.strategiesCount = 4</script>
+
+<script type="text/javascript">
+   (function(m,e,t,r,i,k,a){m[i]=m[i]||function(){(m[i].a=m[i].a||[]).push(arguments)};
+   m[i].l=1*new Date();k=e.createElement(t),a=e.getElementsByTagName(t)[0],k.async=1,k.src=r,a.parentNode.insertBefore(k,a)})
+   (window, document, "script", "https://mc.yandex.ru/metrika/tag.js", "ym");
+
+   ym(80447215, "init", {
+        clickmap:true,
+        trackLinks:true,
+        accurateTrackBounce:true,
+        webvisor:true
+   });
+</script>
+
+

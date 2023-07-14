@@ -1,0 +1,278 @@
+
+	<div class="conteiner">
+		<header class="header">
+			<div class="logo">
+				<a href="https://merkury-m.ru"><img src="https://merkury-m.ru/wp-content/themes/custom/assets/img/logo.png" alt=""></a>
+				<!--<span>&reg;</span>-->
+			</div>
+			<div class="hed">
+				<img src="https://merkury-m.ru/wp-content/themes/custom/assets/img/info.jpg" alt="">
+			</div>
+		</header><div class="content">
+	<div class="nav">
+		<div class="widget-area">
+	<aside id="block-2" class="widget widget_block"><p></p><nav id="bellows-main-0" class="bellows bellows-main bellows-source-menu bellows-align-full bellows-skin-none bellows-type-"><ul id="menu-verhnee-menyu" class="bellows-nav" data-bellows-config="main"><li id="menu-item-42" class="bellows-menu-item bellows-menu-item-type-post_type bellows-menu-item-object-page bellows-menu-item-home bellows-menu-item-42 bellows-item-level-0"><a href="https://merkury-m.ru/" class="bellows-target"><span class="bellows-target-title bellows-target-text">Главная</span></a></li>
+<li id="menu-item-614" class="bellows-menu-item bellows-menu-item-type-post_type bellows-menu-item-object-page bellows-menu-item-has-children bellows-menu-item-614 bellows-item-level-0"><a href="https://merkury-m.ru/o-kompanii/" class="bellows-target"><span class="bellows-target-title bellows-target-text">О компании</span><button class="bellows-subtoggle"><i class="bellows-subtoggle-icon-expand fa fa-chevron-down"></i><i class="bellows-subtoggle-icon-collapse fa fa-chevron-up"></i></button></a>
+<ul class="bellows-submenu">
+	<li id="menu-item-170" class="bellows-menu-item bellows-menu-item-type-post_type bellows-menu-item-object-page bellows-menu-item-170 bellows-item-level-1"><a href="https://merkury-m.ru/istoriya-razvitiya-missiya/" class="bellows-target"><span class="bellows-target-title bellows-target-text">История развития / Миссия</span></a></li>
+	<li id="menu-item-167" class="bellows-menu-item bellows-menu-item-type-post_type bellows-menu-item-object-page bellows-menu-item-167 bellows-item-level-1"><a href="https://merkury-m.ru/liczenzii/" class="bellows-target"><span class="bellows-target-title bellows-target-text">Лицензии</span></a></li>
+	<li id="menu-item-173" class="bellows-menu-item bellows-menu-item-type-post_type bellows-menu-item-object-page bellows-menu-item-173 bellows-item-level-1"><a href="https://merkury-m.ru/komanda/" class="bellows-target"><span class="bellows-target-title bellows-target-text">Команда</span></a></li>
+	<li id="menu-item-176" class="bellows-menu-item bellows-menu-item-type-post_type bellows-menu-item-object-page bellows-menu-item-176 bellows-item-level-1"><a href="https://merkury-m.ru/aktivy-pod-upravleniem/" class="bellows-target"><span class="bellows-target-title bellows-target-text">Активы под управлением</span></a></li>
+	<li id="menu-item-48" class="bellows-menu-item bellows-menu-item-type-post_type bellows-menu-item-object-page bellows-menu-item-48 bellows-item-level-1"><a href="https://merkury-m.ru/novosti-kompanii/" class="bellows-target"><span class="bellows-target-title bellows-target-text">Новости компании</span></a></li>
+	<li id="menu-item-179" class="bellows-menu-item bellows-menu-item-type-post_type bellows-menu-item-object-page bellows-menu-item-179 bellows-item-level-1"><a href="https://merkury-m.ru/vakansii/" class="bellows-target"><span class="bellows-target-title bellows-target-text">Вакансии</span></a></li>
+	<li id="menu-item-46" class="bellows-menu-item bellows-menu-item-type-post_type bellows-menu-item-object-page bellows-menu-item-46 bellows-item-level-1"><a href="https://merkury-m.ru/kontakty/" class="bellows-target"><span class="bellows-target-title bellows-target-text">Контакты</span></a></li>
+</ul>
+</li>
+<li id="menu-item-44" class="bellows-menu-item bellows-menu-item-type-post_type bellows-menu-item-object-page bellows-current-menu-ancestor bellows-current-menu-parent bellows-current_page_parent bellows-current_page_ancestor bellows-menu-item-has-children bellows-menu-item-44 bellows-item-level-0"><a href="https://merkury-m.ru/raskrytie-informaczii/" class="bellows-target"><span class="bellows-target-title bellows-target-text">Раскрытие информации в соответствии с федеральными законами и нормативными актами Банка России</span><button class="bellows-subtoggle"><i class="bellows-subtoggle-icon-expand fa fa-chevron-down"></i><i class="bellows-subtoggle-icon-collapse fa fa-chevron-up"></i></button></a>
+<ul class="bellows-submenu" style="display: block; overflow: hidden; height: 59.4377px; padding-top: 0px; margin-top: 0px; padding-bottom: 0px; margin-bottom: 0px;">
+	<li id="menu-item-1625" class="bellows-menu-item bellows-menu-item-type-post_type bellows-menu-item-object-page bellows-menu-item-1625 bellows-item-level-1"><a href="https://merkury-m.ru/rekvizity/" class="bellows-target"><span class="bellows-target-title bellows-target-text">Реквизиты</span></a></li>
+	<li id="menu-item-1626" class="bellows-menu-item bellows-menu-item-type-post_type bellows-menu-item-object-page bellows-current-menu-item bellows-page_item bellows-page-item-219 bellows-current_page_item bellows-menu-item-1626 bellows-item-level-1"><a href="https://merkury-m.ru/info-raschet-ss/" class="bellows-target"><span class="bellows-target-title bellows-target-text">Информация о расчете размера собственных средств</span></a></li>
+	<li id="menu-item-1627" class="bellows-menu-item bellows-menu-item-type-post_type bellows-menu-item-object-page bellows-menu-item-1627 bellows-item-level-1"><a href="https://merkury-m.ru/otchetnost-i-pokazateli/" class="bellows-target"><span class="bellows-target-title bellows-target-text">Отчетность и показатели</span></a></li>
+	<li id="menu-item-1628" class="bellows-menu-item bellows-menu-item-type-post_type bellows-menu-item-object-page bellows-menu-item-1628 bellows-item-level-1"><a href="https://merkury-m.ru/soobshheniya-dlya-klientov/" class="bellows-target"><span class="bellows-target-title bellows-target-text">Сообщения для клиентов и контрагентов</span></a></li>
+	<li id="menu-item-1629" class="bellows-menu-item bellows-menu-item-type-post_type bellows-menu-item-object-page bellows-menu-item-1629 bellows-item-level-1"><a href="https://merkury-m.ru/perechen-inside-info/" class="bellows-target"><span class="bellows-target-title bellows-target-text">Перечень инсайдерской информации</span></a></li>
+	<li id="menu-item-1630" class="bellows-menu-item bellows-menu-item-type-post_type bellows-menu-item-object-page bellows-menu-item-1630 bellows-item-level-1"><a href="https://merkury-m.ru/reg-prizn-kval-invest/" class="bellows-target"><span class="bellows-target-title bellows-target-text">Регламент признания лиц квалифицированными инвесторами</span></a></li>
+	<li id="menu-item-1631" class="bellows-menu-item bellows-menu-item-type-post_type bellows-menu-item-object-page bellows-menu-item-1631 bellows-item-level-1"><a href="https://merkury-m.ru/polozhenie-finop-innal/" class="bellows-target"><span class="bellows-target-title bellows-target-text">Положение об особенностях осуществления финансовых операций с иностранными налогоплательщиками</span></a></li>
+	<li id="menu-item-1632" class="bellows-menu-item bellows-menu-item-type-post_type bellows-menu-item-object-page bellows-menu-item-1632 bellows-item-level-1"><a href="https://merkury-m.ru/info-riska-dostup-info/" class="bellows-target"><span class="bellows-target-title bellows-target-text">Рекомендации по защите информации</span></a></li>
+	<li id="menu-item-1633" class="bellows-menu-item bellows-menu-item-type-post_type bellows-menu-item-object-page bellows-menu-item-1633 bellows-item-level-1"><a href="https://merkury-m.ru/konflikt-int/" class="bellows-target"><span class="bellows-target-title bellows-target-text">Предотвращение возникновения конфликта интересов</span></a></li>
+	<li id="menu-item-1634" class="bellows-menu-item bellows-menu-item-type-post_type bellows-menu-item-object-page bellows-menu-item-1634 bellows-item-level-1"><a href="https://merkury-m.ru/personalnye-dannye/" class="bellows-target"><span class="bellows-target-title bellows-target-text">Политика в отношении обработки персональных данных</span></a></li>
+	<li id="menu-item-1635" class="bellows-menu-item bellows-menu-item-type-post_type bellows-menu-item-object-page bellows-menu-item-1635 bellows-item-level-1"><a href="https://merkury-m.ru/inaya-informacziya/" class="bellows-target"><span class="bellows-target-title bellows-target-text">Иная раскрываемая информация</span></a></li>
+</ul>
+</li>
+<li id="menu-item-47" class="bellows-menu-item bellows-menu-item-type-post_type bellows-menu-item-object-page bellows-menu-item-47 bellows-item-level-0"><a href="https://merkury-m.ru/paevye-investiczionnye-fondy/" class="bellows-target"><span class="bellows-target-title bellows-target-text">Паевые инвестиционные фонды</span></a></li>
+<li id="menu-item-207" class="bellows-menu-item bellows-menu-item-type-post_type bellows-menu-item-object-page bellows-menu-item-207 bellows-item-level-0"><a href="https://merkury-m.ru/elektronnyj-dokumentooborot/" class="bellows-target"><span class="bellows-target-title bellows-target-text">Электронный документооборот</span></a></li>
+<li id="menu-item-208" class="bellows-menu-item bellows-menu-item-type-custom bellows-menu-item-object-custom bellows-menu-item-has-children bellows-menu-item-208 bellows-item-level-0"><a href="https://merkury-m.ru/analitika/" class="bellows-target"><span class="bellows-target-title bellows-target-text">Полезная информация</span><button class="bellows-subtoggle"><i class="bellows-subtoggle-icon-expand fa fa-chevron-down"></i><i class="bellows-subtoggle-icon-collapse fa fa-chevron-up"></i></button></a>
+<ul class="bellows-submenu">
+	<li id="menu-item-215" class="bellows-menu-item bellows-menu-item-type-post_type bellows-menu-item-object-page bellows-menu-item-215 bellows-item-level-1"><a href="https://merkury-m.ru/analitika/" class="bellows-target"><span class="bellows-target-title bellows-target-text">Аналитика</span></a></li>
+	<li id="menu-item-216" class="bellows-menu-item bellows-menu-item-type-post_type bellows-menu-item-object-page bellows-menu-item-216 bellows-item-level-1"><a href="https://merkury-m.ru/chasto-zadavaemye-voprosy/" class="bellows-target"><span class="bellows-target-title bellows-target-text">Часто задаваемые вопросы</span></a></li>
+	<li id="menu-item-217" class="bellows-menu-item bellows-menu-item-type-post_type bellows-menu-item-object-page bellows-menu-item-217 bellows-item-level-1"><a href="https://merkury-m.ru/poleznye-ssylki/" class="bellows-target"><span class="bellows-target-title bellows-target-text">Полезные ссылки</span></a></li>
+</ul>
+</li>
+</ul></nav><p></p>
+</aside></div>	</div>
+	<div class="page">
+						<article class="post-219 page type-page status-publish hentry" id="219">
+			<h2>Информация о расчете размера собственных средств</h2>
+			<div class="entry">
+				
+<p class="has-text-color has-medium-font-size" style="color:#02588a"></p>
+
+
+
+<table id="tablepress-76" class="tablepress tablepress-id-76">
+<tbody>
+<tr class="row-1">
+	<td colspan="3" class="column-1"><strong>Информация о расчете размера собственных средств за 2023 год</strong></td>
+</tr>
+<tr class="row-2">
+	<td class="column-1"><strong>Раскрываемая информация</strong></td><td class="column-2"><strong>Документ</strong></td><td class="column-3"><strong>Дата размещения</strong></td>
+</tr>
+<tr class="row-3">
+	<td colspan="3" class="column-1"><strong>IV квартал 2023 года</strong></td>
+</tr>
+<tr class="row-4">
+	<td colspan="3" class="column-1"><strong>III квартал 2023 года</strong></td>
+</tr>
+<tr class="row-5">
+	<td colspan="3" class="column-1"><strong>II квартал 2023 года</strong></td>
+</tr>
+<tr class="row-6">
+	<td class="column-1">Расчет размера собственных средств УК по состоянию на 31.05.2023</td><td class="column-2"><a href="/wp-content/doc/SS_UK_230531.pdf" class="f_href" target="_blank" rel="noopener noreferrer">Adobe PDF<br>(219 kb)</a></td><td class="column-3"><em>16.06.2023</em></td>
+</tr>
+<tr class="row-7">
+	<td class="column-1">Расчет размера собственных средств УК по состоянию на 30.04.2023</td><td class="column-2"><a href="/wp-content/doc/SS_UK_230430.pdf" class="f_href" target="_blank" rel="noopener noreferrer">Adobe PDF<br>(219 kb)</a></td><td class="column-3"><em>17.05.2023</em></td>
+</tr>
+<tr class="row-8">
+	<td colspan="3" class="column-1"><strong>I квартал 2023 года</strong></td>
+</tr>
+<tr class="row-9">
+	<td class="column-1">Расчет размера собственных средств УК по состоянию на 31.03.2023</td><td class="column-2"><a href="/wp-content/doc/SS_UK_230331.pdf" class="f_href" target="_blank" rel="noopener noreferrer">Adobe PDF<br>(215 kb)</a></td><td class="column-3"><em>14.04.2023</em></td>
+</tr>
+<tr class="row-10">
+	<td class="column-1">Расчет размера собственных средств УК по состоянию на 28.02.2023</td><td class="column-2"><a href="/wp-content/doc/SS_UK_230228.pdf" class="f_href" target="_blank" rel="noopener noreferrer">Adobe PDF<br>(217 kb)</a></td><td class="column-3"><em>14.03.2023</em></td>
+</tr>
+<tr class="row-11">
+	<td class="column-1">Расчет размера собственных средств УК по состоянию на 31.01.2023</td><td class="column-2"><a href="/wp-content/doc/SS_UK_230131.pdf" class="f_href" target="_blank" rel="noopener noreferrer">Adobe PDF<br>(142 kb)</a></td><td class="column-3"><em>14.02.2023</em></td>
+</tr>
+</tbody>
+</table>
+
+
+
+<p>
+				Год:  <span class="post-page-numbers current" aria-current="page">2023</span> : <a href="https://merkury-m.ru/info-raschet-ss/2/" class="post-page-numbers">2022</a> : <a href="https://merkury-m.ru/info-raschet-ss/3/" class="post-page-numbers">2021</a> : <a href="https://merkury-m.ru/info-raschet-ss/4/" class="post-page-numbers">2020</a> : <a href="https://merkury-m.ru/info-raschet-ss/5/" class="post-page-numbers">2019</a> : <a href="https://merkury-m.ru/info-raschet-ss/6/" class="post-page-numbers">2018</a> : <a href="https://merkury-m.ru/info-raschet-ss/7/" class="post-page-numbers">2017</a> : <a href="https://merkury-m.ru/info-raschet-ss/8/" class="post-page-numbers">2016</a> : <a href="https://merkury-m.ru/info-raschet-ss/9/" class="post-page-numbers">2015</a> : <a href="https://merkury-m.ru/info-raschet-ss/10/" class="post-page-numbers">2014</a> : <a href="https://merkury-m.ru/info-raschet-ss/11/" class="post-page-numbers">2013</a> : <a href="https://merkury-m.ru/info-raschet-ss/12/" class="post-page-numbers">2012</a> : <a href="https://merkury-m.ru/info-raschet-ss/13/" class="post-page-numbers">2011</a> : <a href="https://merkury-m.ru/info-raschet-ss/14/" class="post-page-numbers">2010</a> : <a href="https://merkury-m.ru/info-raschet-ss/15/" class="post-page-numbers">2009</a></p>
+			</div>
+
+		</article>
+				
+	</div>
+
+	<div class="news">
+		<div class="widget-area">
+	<aside id="recent-posts-widget-with-thumbnails-2" class="widget recent-posts-widget-with-thumbnails">
+<div id="rpwwt-recent-posts-widget-with-thumbnails-2" class="rpwwt-widget">
+<h3>Новости</h3>
+	<ul>
+		<li><a href="https://merkury-m.ru/01-09-2022/"></a><div class="rpwwt-post-date">01.09.2022</div><div class="rpwwt-post-excerpt">Управляющая компания информирует о размещении Сообщения о прекращении Закрытого паевого инвестиционного комбинированного фонда «Максимус»<a href="https://merkury-m.ru/01-09-2022/" class="rpwwt-post-excerpt-more"><br> [&gt;&gt;&gt; Подробнее]</a></div></li>
+		<li><a href="https://merkury-m.ru/1373-2/"></a><div class="rpwwt-post-date">10.08.2022</div><div class="rpwwt-post-excerpt">Управляющая компания информирует о размещении Сообщения о прекращении Закрытого паевого инвестиционного комбинированного фонда «Максимус»<a href="https://merkury-m.ru/1373-2/" class="rpwwt-post-excerpt-more"><br> [&gt;&gt;&gt; Подробнее]</a></div></li>
+	</ul>
+</div><!-- .rpwwt-widget -->
+</aside><aside id="search-2" class="widget widget_search"><form role="search" method="get" id="searchform" class="searchform" action="https://merkury-m.ru/">
+				<div>
+					<label class="screen-reader-text" for="s">Найти:</label>
+					<input type="text" value="" name="s" id="s">
+					<input type="submit" id="searchsubmit" value="Поиск">
+				</div>
+			</form></aside><aside id="block-6" class="widget widget_block">
+<div class="wp-block-columns">
+<div class="wp-block-column" style="flex-basis:100%"><div class="widget widget_archive"><h2 class="widgettitle">Архивы новостей</h2>		<label class="screen-reader-text" for="archives-dropdown--1">Архивы новостей</label>
+		<select id="archives-dropdown--1" name="archive-dropdown">
+			
+			<option value="">Выберите месяц</option>
+				<option value="https://merkury-m.ru/2022/09/"> Сентябрь 2022 </option>
+	<option value="https://merkury-m.ru/2022/08/"> Август 2022 </option>
+	<option value="https://merkury-m.ru/2021/10/"> Октябрь 2021 </option>
+	<option value="https://merkury-m.ru/2020/05/"> Май 2020 </option>
+	<option value="https://merkury-m.ru/2020/04/"> Апрель 2020 </option>
+	<option value="https://merkury-m.ru/2020/03/"> Март 2020 </option>
+
+		</select>
+
+<script type="text/javascript">
+/* <![CDATA[ */
+(function() {
+	var dropdown = document.getElementById( "archives-dropdown--1" );
+	function onSelectChange() {
+		if ( dropdown.options[ dropdown.selectedIndex ].value !== '' ) {
+			document.location.href = this.options[ this.selectedIndex ].value;
+		}
+	}
+	dropdown.onchange = onSelectChange;
+})();
+/* ]]> */
+</script>
+			</div></div>
+</div>
+</aside><aside id="shortcodes-ultimate-5" class="widget shortcodes-ultimate"><div class="textwidget">﻿<div class="su-lightbox-content su-u-trim " id="my-custom-popup" style="display:none;width:350px;min-width:none;max-width:600px;margin-top:10px;margin-bottom:10px;padding:5px;background:rgba(156,221,228,0.90);color:#333333;box-shadow:0px 0px 15px #333333;text-align:center"><br>
+<span style="text-align: center; font-size: 18px; color: #e30f13;">Есть вопросы?</span><br><br>
+<span style="text-align: center;">Оставьте номер своего телефона или e-mail, наш специалист свяжется с Вами.</span><br><br><div role="form" class="wpcf7" id="wpcf7-f131-o1" lang="ru-RU" dir="ltr">
+<div class="screen-reader-response"><p role="status" aria-live="polite" aria-atomic="true"></p> <ul></ul></div>
+<form action="/info-raschet-ss/#wpcf7-f131-o1" method="post" class="wpcf7-form init form contact-form" novalidate="novalidate" data-status="init">
+<div style="display: none;">
+<input type="hidden" name="_wpcf7" value="131">
+<input type="hidden" name="_wpcf7_version" value="5.5.2">
+<input type="hidden" name="_wpcf7_locale" value="ru_RU">
+<input type="hidden" name="_wpcf7_unit_tag" value="wpcf7-f131-o1">
+<input type="hidden" name="_wpcf7_container_post" value="0">
+<input type="hidden" name="_wpcf7_posted_data_hash" value="">
+</div>
+<p><label> Введите Ваше имя *<br>
+    <span class="wpcf7-form-control-wrap your-name"><input type="text" name="your-name" value="" size="40" class="wpcf7-form-control wpcf7-text wpcf7-validates-as-required" aria-required="true" aria-invalid="false"></span> </label> </p>
+<p><label>Введите название организации *<br>
+<span class="wpcf7-form-control-wrap your-org"><input type="text" name="your-org" value="" size="40" class="wpcf7-form-control wpcf7-text wpcf7-validates-as-required" aria-required="true" aria-invalid="false"></span> </label></p>
+<p><label> Ваш e-mail *<br>
+    <span class="wpcf7-form-control-wrap your-email"><input type="email" name="your-email" value="" size="40" class="wpcf7-form-control wpcf7-text wpcf7-email wpcf7-validates-as-required wpcf7-validates-as-email" aria-required="true" aria-invalid="false"></span> </label></p>
+<p><label> Введите номер телефона<br>
+    <span class="wpcf7-form-control-wrap tel-574"><input type="tel" name="tel-574" value="" size="40" class="wpcf7-form-control wpcf7-text wpcf7-tel wpcf7-validates-as-tel" aria-invalid="false"></span> </label></p>
+<p><label> Сообщение<br>
+    <span class="wpcf7-form-control-wrap your-message"><textarea name="your-message" cols="40" rows="10" class="wpcf7-form-control wpcf7-textarea" aria-invalid="false"></textarea></span> </label></p>
+<p><label>Пункты со (*) обязательны<br>
+к заполнению</label></p>
+<p><input type="submit" value="Отправить" class="wpcf7-form-control has-spinner wpcf7-submit"><span class="wpcf7-spinner"></span></p>
+<div class="wpcf7-response-output" aria-hidden="true"></div></form></div>
+</div>
+
+<span class="su-lightbox" data-mfp-src="#my-custom-popup" data-mfp-type="inline" data-mobile="yes">
+ <div class="dws">
+	<div class="pls">
+	 <div class="blc"></div>
+	 <div class="phn"><img src="/wp-content/themes/custom/assets/img/phoneico.svg" alt="phone"></div>
+	 <div class="txt">Кнопка связи</div>
+	</div>
+  </div>
+</span></div></aside></div>	</div>
+</div>
+<div class="block-page__container">
+	<div class="block-page__text">
+
+		Стоимость инвестиционных паев может увеличиваться и уменьшаться, результаты инвестирования в прошлом не
+		определяют доходы в будущем, государство не гарантирует доходность инвестиций в паевые инвестиционные
+		фонды.<br>
+
+
+		Необходимо внимательно ознакомиться с правилами доверительного управления паевым инвестиционным фондом перед
+		приобретением инвестиционных паев.
+
+	</div>
+</div>
+<div class="footer">
+	<div class="town">
+		<h3>+7(499)213-00-24</h3>
+		<p>Россия, 119002<br>
+			Москва, пер. Сивцев Вражек, д.29/16<br>
+			E-mail: pif@merkury-m.ru</p>
+	</div>
+
+	<div class="cop">
+
+		<div class="widge"><div class="widget-area">
+	<aside id="block-5" class="widget widget_block">
+<div class="wp-block-columns are-vertically-aligned-top">
+<div class="wp-block-column is-vertically-aligned-top" style="flex-basis:100%"></div>
+</div>
+</aside></div></div>
+		<p>Copyright © 2023 Меркури Эссет Менеджмент</p>
+	</div>
+</div>
+
+</div>
+<link rel="stylesheet" id="su-shortcodes-css" href="https://merkury-m.ru/wp-content/plugins/shortcodes-ultimate/includes/css/shortcodes.css?ver=5.11.1" type="text/css" media="all">
+<link rel="stylesheet" id="magnific-popup-css" href="https://merkury-m.ru/wp-content/plugins/shortcodes-ultimate/vendor/magnific-popup/magnific-popup.css?ver=1.1.0" type="text/css" media="all">
+<script type="text/javascript" src="https://code.jquery.com/jquery-3.4.1.min.js" id="jquery-js"></script>
+<script type="text/javascript" src="https://merkury-m.ru/wp-includes/js/comment-reply.min.js?ver=5.8.2" id="comment-reply-js"></script>
+<script type="text/javascript" src="https://merkury-m.ru/wp-includes/js/dist/vendor/regenerator-runtime.min.js?ver=0.13.7" id="regenerator-runtime-js"></script>
+<script type="text/javascript" src="https://merkury-m.ru/wp-includes/js/dist/vendor/wp-polyfill.min.js?ver=3.15.0" id="wp-polyfill-js"></script>
+<script type="text/javascript" id="contact-form-7-js-extra">
+/* <![CDATA[ */
+var wpcf7 = {"api":{"root":"https:\/\/merkury-m.ru\/wp-json\/","namespace":"contact-form-7\/v1"}};
+/* ]]> */
+</script>
+<script type="text/javascript" src="https://merkury-m.ru/wp-content/plugins/contact-form-7/includes/js/index.js?ver=5.5.2" id="contact-form-7-js"></script>
+<script type="text/javascript" id="bellows-js-extra">
+/* <![CDATA[ */
+var bellows_data = {"config":{"main":{"folding":"single","current":"on","slide_speed":400}},"v":"1.3"};
+/* ]]> */
+</script>
+<script type="text/javascript" src="https://merkury-m.ru/wp-content/plugins/bellows-accordion-menu/assets/js/bellows.min.js?ver=1.3" id="bellows-js"></script>
+<script type="text/javascript" src="https://merkury-m.ru/wp-includes/js/wp-embed.min.js?ver=5.8.2" id="wp-embed-js"></script>
+<script type="text/javascript" src="https://merkury-m.ru/wp-content/plugins/shortcodes-ultimate/vendor/magnific-popup/magnific-popup.js?ver=1.1.0" id="magnific-popup-js"></script>
+<script type="text/javascript" id="su-shortcodes-js-extra">
+/* <![CDATA[ */
+var SUShortcodesL10n = {"noPreview":"\u042d\u0442\u043e\u0442 \u0448\u043e\u0440\u0442\u043a\u043e\u0434 \u043d\u0435 \u0440\u0430\u0431\u043e\u0442\u0430\u0435\u0442 \u0432 \u0440\u0435\u0436\u0438\u043c\u0435 \u043f\u0440\u0435\u0434\u043f\u0440\u043e\u0441\u043c\u043e\u0442\u0440\u0430. \u041f\u043e\u0436\u0430\u043b\u0443\u0439\u0441\u0442\u0430 \u0432\u0441\u0442\u0430\u0432\u044c\u0442\u0435 \u0448\u043e\u0440\u0442\u043a\u043e\u0434 \u0432 \u0440\u0435\u0434\u0430\u043a\u0442\u043e\u0440 \u0438 \u043f\u043e\u0441\u043c\u043e\u0442\u0440\u0438\u0442\u0435 \u0440\u0435\u0437\u0443\u043b\u044c\u0442\u0430\u0442 \u043d\u0430 \u0441\u0442\u0440\u0430\u043d\u0438\u0446\u0435 \u0437\u0430\u043f\u0438\u0441\u0438.","magnificPopup":{"close":"\u0417\u0430\u043a\u0440\u044b\u0442\u044c (Esc)","loading":"\u0417\u0430\u0433\u0440\u0443\u0437\u043a\u0430...","prev":"\u041d\u0430\u0437\u0430\u0434 (\u041a\u043b\u0430\u0432\u0438\u0448\u0430 \u0412\u043b\u0435\u0432\u043e)","next":"\u0412\u043f\u0435\u0440\u0435\u0434 (\u041a\u043b\u0430\u0432\u0438\u0448\u0430 \u0412\u043f\u0440\u0430\u0432\u043e)","counter":"%curr% \u0438\u0437 %total%","error":"Failed to load content. <a href=\"%url%\" target=\"_blank\"><u>Open link<\/u><\/a>"}};
+/* ]]> */
+</script>
+<script type="text/javascript" src="https://merkury-m.ru/wp-content/plugins/shortcodes-ultimate/includes/js/shortcodes/index.js?ver=5.11.1" id="su-shortcodes-js"></script>
+
+<!-- Shortcodes Ultimate custom CSS - start -->
+<style type="text/css">
+.su-custom-gallery-slide {
+	    float:none;
+        }
+.su-custom-gallery-slide img{
+	    margin:0 auto;
+        }
+</style>
+<!-- Shortcodes Ultimate custom CSS - end -->
+
+<!--
+<script>
+document.querySelector(".minimenu1").onchange = function() {
+	location.assign(this.value);
+}
+</script>
+<script>
+document.querySelector(".minimenu2").onchange = function() {
+	location.assign(this.value);
+}
+</script>-->
+
+

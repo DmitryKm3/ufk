@@ -1,0 +1,866 @@
+
+	<div id="wrapper">
+		<header class="header">	
+			<div class="holder">
+				<div class="header-block">
+					<div class="header-logo">
+						<a href="/"><img src="/upload/iblock/037/logo.svg" alt=""></a>
+					</div>
+					
+<ul class="header-nav">
+
+			<li><a href="/">Главная</a></li>
+		
+			<li><a href="/info/" class="active">Раскрытие информации</a></li>
+		
+			<li><a href="/license/">Лицензии</a></li>
+		
+			<li><a href="/contacts/">Контакты</a></li>
+		
+			<li><a href="https://lk.pnkrental.ru/login ">Личный кабинет</a></li>
+		
+
+</ul>
+					
+                        <a href="?special_version=Y" class="l-header-version">
+                            <button class="">Aa</button>
+                            <span class="link_style">Версия для <br>слабовидящих</span>
+                        </a>
+
+					<a href="" class="mob-nav-icon"><span class="mob-nav-block"></span></a>
+				</div>
+			</div>
+		</header>
+<section class="banner banner-min">
+			<div class="holder">
+				<h1 class="banner-title">Раскрытие информации в соответствии с требованиями законодательства</h1>
+			</div>
+		</section>
+		<section class="main">
+			<div class="holder">				<div class="title-light">Собственные средства</div>
+				<div class="info">
+					<div class="info-side">
+						<ul class="info-side-list">
+
+
+
+
+				
+				
+				<li style="background-image: url('/upload/iblock/598/icon1.png');" id="bx_1847241719_50" class="icon1 "><a href="/info/dokumentatsiya-i-ofitsialnye-soobshcheniya/">Документация и официальные сообщения</a></li>
+				
+				
+				
+				
+				
+				
+				
+				
+								
+				
+				<li style="background-image: url('/upload/iblock/ef2/icon2.png');" id="bx_1847241719_51" class="icon1 "><a href="/info/finansovaya-otchetnost/">Финансовая отчетность</a></li>
+				
+				
+				
+				
+				
+				
+				
+				
+								
+				
+				<li style="background-image: url('/upload/iblock/c71/icon3.png');" id="bx_1847241719_52" class="icon1 active"><a href="/info/sobstvennye-sredstva/">Собственные средства</a></li>
+				
+				
+				
+				
+				
+				
+				
+				
+								
+				
+				<li style="background-image: url('/upload/iblock/1d5/icon4.png');" id="bx_1847241719_53" class="icon1 "><a href="/info/fatca/">FATCA</a></li>
+				
+				
+				
+				
+				
+				
+				
+				
+								
+				
+				<li style="background-image: url('/upload/iblock/ce1/icon5.png');" id="bx_1847241719_54" class="icon1 "><a href="/info/obshchaya-informatsiya/">Общая информация</a></li>
+				
+				
+				
+				
+				
+				
+				
+				
+								
+				
+				<li style="background-image: url('/upload/iblock/71e/icon5.png');" id="bx_1847241719_67" class="icon1 "><a href="/info/doveritelnoe-upravlenie/">Доверительное управление</a></li>
+				
+				
+				
+				
+				
+				
+				
+				
+								
+				
+				<li style="background-image: url('/upload/iblock/d14/canvas.png');" id="bx_1847241719_71" class="icon1 "><a href="/info/informatsiya-o-tekhnicheskikh-sboyakh/">Информация о технических сбоях</a></li>
+				
+				
+				
+				
+				
+				
+				
+				
+				
+
+
+
+
+
+
+
+
+
+
+						
+</ul>
+
+
+
+					</div>
+					<div class="info-content">
+						<div class="info-list">
+							<div id="bx_3966226736_411_7e1b8e3524755c391129a9d7e6f2d206" class="info-item">
+								<div class="info-item-icon"><img src="/bitrix/templates/web20/images/pdf.png" alt=""></div>
+								<div class="info-item-text">
+									<a download="" href="/upload/iblock/850/msfrdgmy7iroq7b76uj5rmyjcoh5n3bg/РСС май 2023.pdf">Расчет размера собственных средств на 31.05.2023</a><br>
+									Дата публикации 15.06.2023. Время опубликования 18:11. Дата, до которой осуществляется доступ к информации: в течение трех лет со дня раскрытия информации.								</div>
+							</div>
+									<div id="bx_3966226736_410_362ce596257894d11ab5c1d73d13c755" class="info-item">
+								<div class="info-item-icon"><img src="/bitrix/templates/web20/images/pdf.png" alt=""></div>
+								<div class="info-item-text">
+									<a download="" href="/upload/iblock/e56/РСС апрель 2023.pdf">Расчет размера собственных средств на 30.04.2023</a><br>
+									Дата публикации 17.05.2023. Время опубликования 10:20. Дата, до которой осуществляется доступ к информации: в течение трех лет со дня раскрытия информации.								</div>
+							</div>
+									<div id="bx_3966226736_402_c80764dfaf26ca80162484593ec7c29b" class="info-item">
+								<div class="info-item-icon"><img src="/bitrix/templates/web20/images/pdf.png" alt=""></div>
+								<div class="info-item-text">
+									<a download="" href="/upload/iblock/56d/РСС март 2023.pdf">Расчет размера собственных средств на 31.03.2023</a><br>
+									Дата публикации 14.04.2023. Время опубликования 14:04. Дата, до которой осуществляется доступ к информации: в течение трех лет со дня раскрытия информации.								</div>
+							</div>
+									<div id="bx_3966226736_400_d0fb066f64e2309c4b241a491f76c62e" class="info-item">
+								<div class="info-item-icon"><img src="/bitrix/templates/web20/images/pdf.png" alt=""></div>
+								<div class="info-item-text">
+									<a download="" href="/upload/iblock/544/РСС февраль 2023.pdf">Расчет размера собственных средств на 28.02.2023</a><br>
+									Дата публикации 17.03.2023. Время опубликования 19:47. Дата, до которой осуществляется доступ к информации: в течение трех лет со дня раскрытия информации.								</div>
+							</div>
+									<div id="bx_3966226736_398_8e8f6cea7f5e44ced2966cbefca3ecfa" class="info-item">
+								<div class="info-item-icon"><img src="/bitrix/templates/web20/images/pdf.png" alt=""></div>
+								<div class="info-item-text">
+									<a download="" href="/upload/iblock/9bc/РСС январь 2023.pdf">Расчет размера собственных средств на 31.01.2023</a><br>
+									Дата публикации 14.02.2023. Время опубликования 11:25. Дата, до которой осуществляется доступ к информации: в течение трех лет со дня раскрытия информации.								</div>
+							</div>
+									<div id="bx_3966226736_396_0f73996d13437b0b91038138616a89fe" class="info-item">
+								<div class="info-item-icon"><img src="/bitrix/templates/web20/images/pdf.png" alt=""></div>
+								<div class="info-item-text">
+									<a download="" href="/upload/iblock/83c/РСС декабрь 2022.pdf">Расчет размера собственных средств на 31.12.2022</a><br>
+									Дата публикации 20.01.2023. Время опубликования 10:38. Дата, до которой осуществляется доступ к информации: в течение трех лет со дня раскрытия информации.								</div>
+							</div>
+									<div id="bx_3966226736_395_ec5d0e2cff91ab20debac17d8febe5be" class="info-item">
+								<div class="info-item-icon"><img src="/bitrix/templates/web20/images/pdf.png" alt=""></div>
+								<div class="info-item-text">
+									<a download="" href="/upload/iblock/b94/РСС ноябрь 2022.pdf">Расчет размера собственных средств на 30.11.2022</a><br>
+									Дата публикации 13.12.2022. Время опубликования 15:18. Дата, до которой осуществляется доступ к информации: в течение трех лет со дня раскрытия информации.								</div>
+							</div>
+									<div id="bx_3966226736_394_e7e5a53fd4b76e4dce4f311b34c340d4" class="info-item">
+								<div class="info-item-icon"><img src="/bitrix/templates/web20/images/pdf.png" alt=""></div>
+								<div class="info-item-text">
+									<a download="" href="/upload/iblock/996/РСС октябрь 2022.pdf">Расчет размера собственных средств на 31.10.2022</a><br>
+									Дата публикации 15.11.2022. Время опубликования 15:55. Дата, до которой осуществляется доступ к информации: в течение трех лет со дня раскрытия информации.								</div>
+							</div>
+									<div id="bx_3966226736_390_4acf0f176831c66031059fe22bcc4d9c" class="info-item">
+								<div class="info-item-icon"><img src="/bitrix/templates/web20/images/pdf.png" alt=""></div>
+								<div class="info-item-text">
+									<a download="" href="/upload/iblock/0f4/РСС сентябрь 2022.pdf">Расчет размера собственных средств на 30.09.2022</a><br>
+									Дата публикации 14.10.2022. Время опубликования 11:41. Дата, до которой осуществляется доступ к информации: в течение трех лет со дня раскрытия информации.								</div>
+							</div>
+									<div id="bx_3966226736_383_905587df90578eb4342842ad8de05a16" class="info-item">
+								<div class="info-item-icon"><img src="/bitrix/templates/web20/images/pdf.png" alt=""></div>
+								<div class="info-item-text">
+									<a download="" href="/upload/iblock/660/РСС август 2022.pdf">Расчет размера собственных средств на 31.08.2022</a><br>
+									Дата публикации 13.09.2022. Время опубликования 9:55. Дата, до которой осуществляется доступ к информации: в течение трех лет со дня раскрытия информации.								</div>
+							</div>
+									<div id="bx_3966226736_376_de8224b4f7bd52cd619e48f9536ed644" class="info-item">
+								<div class="info-item-icon"><img src="/bitrix/templates/web20/images/pdf.png" alt=""></div>
+								<div class="info-item-text">
+									<a download="" href="/upload/iblock/c42/РСС июль 2022.pdf">Расчет размера собственных средств на 31.07.2022</a><br>
+									Дата публикации 11.08.2022. Время опубликования 19:41. Дата, до которой осуществляется доступ к информации: в течение трех лет со дня раскрытия информации.								</div>
+							</div>
+									<div id="bx_3966226736_374_bba1b7f7802c6bb351319fcd6fe1262e" class="info-item">
+								<div class="info-item-icon"><img src="/bitrix/templates/web20/images/pdf.png" alt=""></div>
+								<div class="info-item-text">
+									<a download="" href="/upload/iblock/863/РСС июнь 2022.pdf">Расчет размера собственных средств на 30.06.2022</a><br>
+									Дата публикации 13.07.2022. Время опубликования 19:15. Дата, до которой осуществляется доступ к информации: в течение трех лет со дня раскрытия информации.								</div>
+							</div>
+									<div id="bx_3966226736_373_bf4fd6bee3745e05dc5b692694f96b1f" class="info-item">
+								<div class="info-item-icon"><img src="/bitrix/templates/web20/images/pdf.png" alt=""></div>
+								<div class="info-item-text">
+									<a download="" href="/upload/iblock/d9b/РСС май 2022.pdf">Расчет размера собственных средств на 31.05.2022</a><br>
+									Дата публикации 10.06.2022. Время опубликования 13:52. Дата, до которой осуществляется доступ к информации: в течение трех лет со дня раскрытия информации.								</div>
+							</div>
+									<div id="bx_3966226736_372_7d79862f09c1ac7d8ceb0db00e6f9889" class="info-item">
+								<div class="info-item-icon"><img src="/bitrix/templates/web20/images/pdf.png" alt=""></div>
+								<div class="info-item-text">
+									<a download="" href="/upload/iblock/486/РСС апрель 2022.pdf">Расчет размера собственных средств на 30.04.2022</a><br>
+									Дата публикации 18.05.2022. Время опубликования 19:33. Дата, до которой осуществляется доступ к информации: в течение трех лет со дня раскрытия информации.								</div>
+							</div>
+									<div id="bx_3966226736_368_7aade40684305b0155d93b350d3ddd18" class="info-item">
+								<div class="info-item-icon"><img src="/bitrix/templates/web20/images/pdf.png" alt=""></div>
+								<div class="info-item-text">
+									<a download="" href="/upload/iblock/d6e/РСС март 2022.pdf">Расчет размера собственных средств на 31.03.2022</a><br>
+									Дата публикации 14.04.2022. Время опубликования 15:58. Дата, до которой осуществляется доступ к информации: в течение трех лет со дня раскрытия информации.								</div>
+							</div>
+									<div id="bx_3966226736_363_073d158394d28f443e5d2f5762c9cb5e" class="info-item">
+								<div class="info-item-icon"><img src="/bitrix/templates/web20/images/pdf.png" alt=""></div>
+								<div class="info-item-text">
+									<a download="" href="/upload/iblock/a26/РСС февраль 2022.pdf">Расчет размера собственных средств на 28.02.2022</a><br>
+									Дата публикации 14.03.2022. Время опубликования 19:24. Дата, до которой осуществляется доступ к информации: в течение трех лет со дня раскрытия информации.								</div>
+							</div>
+									<div id="bx_3966226736_362_059032928594adf8584154ebf439f070" class="info-item">
+								<div class="info-item-icon"><img src="/bitrix/templates/web20/images/pdf.png" alt=""></div>
+								<div class="info-item-text">
+									<a download="" href="/upload/iblock/534/РСС январь 2022.pdf">Расчет размера собственных средств на 31.01.2022</a><br>
+									Дата публикации 12.02.2022. Время опубликования 21:55. Дата, до которой осуществляется доступ к информации: в течение трех лет со дня раскрытия информации.								</div>
+							</div>
+									<div id="bx_3966226736_360_b6181df5524b4d6de0cda9ee063c6834" class="info-item">
+								<div class="info-item-icon"><img src="/bitrix/templates/web20/images/pdf.png" alt=""></div>
+								<div class="info-item-text">
+									<a download="" href="/upload/iblock/5cd/РСС декабрь 2021.pdf">Расчет размера собственных средств на 31.12.2021</a><br>
+									Дата публикации 21.01.2022. Время опубликования 18:58. Дата, до которой осуществляется доступ к информации: в течение трех лет со дня раскрытия информации.								</div>
+							</div>
+									<div id="bx_3966226736_352_a2ea0b94ce937d3a14da723ba41668ae" class="info-item">
+								<div class="info-item-icon"><img src="/bitrix/templates/web20/images/pdf.png" alt=""></div>
+								<div class="info-item-text">
+									<a download="" href="/upload/iblock/6c2/РСС ноябрь 2021.pdf">Расчет размера собственных средств на 30.11.2021</a><br>
+									Дата публикации 13.12.2021. Время опубликования 22:09. Дата, до которой осуществляется доступ к информации: в течение трех лет со дня раскрытия информации								</div>
+							</div>
+									<div id="bx_3966226736_346_bddf37c6339ebaac0f9468d1f571c1a8" class="info-item">
+								<div class="info-item-icon"><img src="/bitrix/templates/web20/images/pdf.png" alt=""></div>
+								<div class="info-item-text">
+									<a download="" href="/upload/iblock/fc7/РСС октябрь 2021.pdf">Расчет размера собственных средств на 31.10.2021 </a><br>
+									Дата публикации 19.11.2021. Время опубликования 23:32. Дата, до которой осуществляется доступ к информации: в течение трех лет со дня раскрытия информации								</div>
+							</div>
+									<div id="bx_3966226736_338_02eca2ec0f7cb39f4b0da2637721f359" class="info-item">
+								<div class="info-item-icon"><img src="/bitrix/templates/web20/images/pdf.png" alt=""></div>
+								<div class="info-item-text">
+									<a download="" href="/upload/iblock/ab5/РСС сентябрь 2021.pdf">Расчет размера собственных средств на 30.09.2021 г.</a><br>
+									​Дата публикации 14.10.2021. Время опубликования 16:00. Дата, до которой осуществляется доступ к информации: в течение трех лет со дня раскрытия информации								</div>
+							</div>
+									<div id="bx_3966226736_335_f0fe43ce653394ff4159d4b58889bdc9" class="info-item">
+								<div class="info-item-icon"><img src="/bitrix/templates/web20/images/pdf.png" alt=""></div>
+								<div class="info-item-text">
+									<a download="" href="/upload/iblock/834/РСС август 2021.pdf">Расчет размера собственных средств на 31.08.2021 г.</a><br>
+									​Дата публикации 17.09.2021. Время опубликования 19:00. Дата, до которой осуществляется доступ к информации: бессрочно								</div>
+							</div>
+									<div id="bx_3966226736_333_bdbeef3100657ed4ae7b8ee9ea0f4269" class="info-item">
+								<div class="info-item-icon"><img src="/bitrix/templates/web20/images/pdf.png" alt=""></div>
+								<div class="info-item-text">
+									<a download="" href="/upload/iblock/331/РСС июль 2021.pdf">Расчет размера собственных средств на 31.07.2021 г.</a><br>
+									​Дата публикации 17.08.2021. Время опубликования 11:30. Дата, до которой осуществляется доступ к информации: бессрочно								</div>
+							</div>
+									<div id="bx_3966226736_332_fee1f791e0cbe18eb079e94948d2521c" class="info-item">
+								<div class="info-item-icon"><img src="/bitrix/templates/web20/images/pdf.png" alt=""></div>
+								<div class="info-item-text">
+									<a download="" href="/upload/iblock/ae2/РСС июнь 2021 Уточн 1.pdf">Расчет размера собственных средств на 30.06.2021 г. (уточненный)</a><br>
+									​Дата публикации 12.08.2021. Время опубликования 12:00. Дата, до которой осуществляется доступ к информации: бессрочно								</div>
+							</div>
+									<div id="bx_3966226736_331_55e4ee8363b61467e2f4b7bb8bfe05f9" class="info-item">
+								<div class="info-item-icon"><img src="/bitrix/templates/web20/images/pdf.png" alt=""></div>
+								<div class="info-item-text">
+									<a download="" href="/upload/iblock/3a8/РСС май 2021 Уточн 1.pdf">Расчет размера собственных средств на 31.05.2021 г. (уточненный)</a><br>
+									​Дата публикации 12.08.2021. Время опубликования 12:00. Дата, до которой осуществляется доступ к информации: бессрочно								</div>
+							</div>
+									<div id="bx_3966226736_330_359535690f13733ed927168b8c4925b3" class="info-item">
+								<div class="info-item-icon"><img src="/bitrix/templates/web20/images/pdf.png" alt=""></div>
+								<div class="info-item-text">
+									<a download="" href="/upload/iblock/0d3/РСС апрель 2021 Уточн 1.pdf">Расчет размера собственных средств на 30.04.2021 г. (уточненный)</a><br>
+									​Дата публикации 12.08.2021. Время опубликования 12:00. Дата, до которой осуществляется доступ к информации: бессрочно								</div>
+							</div>
+									<div id="bx_3966226736_329_9be515096b2fd4505d6b3c0b02acd706" class="info-item">
+								<div class="info-item-icon"><img src="/bitrix/templates/web20/images/pdf.png" alt=""></div>
+								<div class="info-item-text">
+									<a download="" href="/upload/iblock/949/РСС декабрь 2020 Уточн 1.pdf">Расчет размера собственных средств на 31.12.2020 г. (уточненный)</a><br>
+									​Дата публикации 12.08.2021. Время опубликования 12:00. Дата, до которой осуществляется доступ к информации: бессрочно								</div>
+							</div>
+									<div id="bx_3966226736_328_7c44cf42b4fbbf9b159ca7014029f62d" class="info-item">
+								<div class="info-item-icon"><img src="/bitrix/templates/web20/images/pdf.png" alt=""></div>
+								<div class="info-item-text">
+									<a download="" href="/upload/iblock/964/РСС ноябрь 2020 Уточн 1.pdf">Расчет размера собственных средств на 30.11.2020 г. (уточненный)</a><br>
+									​Дата публикации 12.08.2021. Время опубликования 12:00. Дата, до которой осуществляется доступ к информации: бессрочно								</div>
+							</div>
+									<div id="bx_3966226736_327_d2e7109c112e1e7afe6d1967a81362f4" class="info-item">
+								<div class="info-item-icon"><img src="/bitrix/templates/web20/images/pdf.png" alt=""></div>
+								<div class="info-item-text">
+									<a download="" href="/upload/iblock/f86/РСС октябрь 2020 Уточн 1.pdf">Расчет размера собственных средств на 31.10.2020 г. (уточненный)</a><br>
+									​Дата публикации 12.08.2021. Время опубликования 12:00. Дата, до которой осуществляется доступ к информации: бессрочно								</div>
+							</div>
+									<div id="bx_3966226736_326_cad06926184771cf2b658cc41406213f" class="info-item">
+								<div class="info-item-icon"><img src="/bitrix/templates/web20/images/pdf.png" alt=""></div>
+								<div class="info-item-text">
+									<a download="" href="/upload/iblock/11d/РСС сентябрь 2020 Уточн 1.pdf">Расчет размера собственных средств на 30.09.2020 г. (уточненный)</a><br>
+									​Дата публикации 12.08.2021. Время опубликования 12:00. Дата, до которой осуществляется доступ к информации: бессрочно								</div>
+							</div>
+									<div id="bx_3966226736_324_e7fe347664c5e0b6dfb5a358aa2c681b" class="info-item">
+								<div class="info-item-icon"><img src="/bitrix/templates/web20/images/pdf.png" alt=""></div>
+								<div class="info-item-text">
+									<a download="" href="/upload/iblock/47e/РСС июнь 2021.pdf">Расчет размера собственных средств на 30.06.2021 г.</a><br>
+									​Дата публикации 19.07.2021. Время опубликования 13:00. Дата, до которой осуществляется доступ к информации: бессрочно								</div>
+							</div>
+									<div id="bx_3966226736_321_e930ec4c8e3ded547da23da3c1e11632" class="info-item">
+								<div class="info-item-icon"><img src="/bitrix/templates/web20/images/pdf.png" alt=""></div>
+								<div class="info-item-text">
+									<a download="" href="/upload/iblock/b9c/РСС май 2021.pdf">Расчет размера собственных средств на 31.05.2021 г.</a><br>
+									​Дата публикации 11.06.2021. Время опубликования 20:00. Дата, до которой осуществляется доступ к информации: бессрочно								</div>
+							</div>
+									<div id="bx_3966226736_316_42a4b39ad94881cb80fb838485e864c7" class="info-item">
+								<div class="info-item-icon"><img src="/bitrix/templates/web20/images/pdf.png" alt=""></div>
+								<div class="info-item-text">
+									<a download="" href="/upload/iblock/972/РСС апрель 2021.pdf">Расчет размера собственных средств на 30.04.2021 г.</a><br>
+									​Дата публикации 18.05.2021. Время опубликования 18:00. Дата, до которой осуществляется доступ к информации: бессрочно								</div>
+							</div>
+									<div id="bx_3966226736_312_f05b0393708941d6093f2f68b4f2c23b" class="info-item">
+								<div class="info-item-icon"><img src="/bitrix/templates/web20/images/pdf.png" alt=""></div>
+								<div class="info-item-text">
+									<a download="" href="/upload/iblock/7d3/РСС март 2021.pdf">Расчет размера собственных средств на 31.03.2021 г.</a><br>
+									​Дата публикации 14.04.2021. Время опубликования 14:00. Дата, до которой осуществляется доступ к информации: бессрочно								</div>
+							</div>
+									<div id="bx_3966226736_311_4b6b89299f497a1c3c2d81760f507cd8" class="info-item">
+								<div class="info-item-icon"><img src="/bitrix/templates/web20/images/pdf.png" alt=""></div>
+								<div class="info-item-text">
+									<a download="" href="/upload/iblock/9e9/РСС февраль 2021 Уточн 1.pdf">Расчет размера собственных средств на 28.02.2021 г. (уточненный)</a><br>
+									​Дата публикации 24.03.2021. Время опубликования 13:00. Дата, до которой осуществляется доступ к информации: бессрочно								</div>
+							</div>
+									<div id="bx_3966226736_310_3a491c9b0bb72d0d3852d8fb5aa488b0" class="info-item">
+								<div class="info-item-icon"><img src="/bitrix/templates/web20/images/pdf.png" alt=""></div>
+								<div class="info-item-text">
+									<a download="" href="/upload/iblock/605/РСС январь 2021 Уточн 1.pdf">Расчет размера собственных средств на 31.01.2021 г. (уточненный)</a><br>
+									​Дата публикации 24.03.2021. Время опубликования 13:00. Дата, до которой осуществляется доступ к информации: бессрочно								</div>
+							</div>
+									<div id="bx_3966226736_302_a56b1f8ece013d61e50ecac0240e6990" class="info-item">
+								<div class="info-item-icon"><img src="/bitrix/templates/web20/images/pdf.png" alt=""></div>
+								<div class="info-item-text">
+									<a download="" href="/upload/iblock/3e5/РСС февраль 2021.pdf">Расчет размера собственных средств на 28.02.2021 г.</a><br>
+									​Дата публикации 12.03.2021. Время опубликования 13:00. Дата, до которой осуществляется доступ к информации: бессрочно								</div>
+							</div>
+									<div id="bx_3966226736_299_7b4aab27797f8b216bbc0fa93b431e65" class="info-item">
+								<div class="info-item-icon"><img src="/bitrix/templates/web20/images/pdf.png" alt=""></div>
+								<div class="info-item-text">
+									<a download="" href="/upload/iblock/b89/РСС январь 2021.pdf">Расчет размера собственных средств на 31.01.2021 г.</a><br>
+									​Дата публикации 17.02.2021. Время опубликования 14:45. Дата, до которой осуществляется доступ к информации: бессрочно								</div>
+							</div>
+									<div id="bx_3966226736_297_4db910cfebc2a6db9af9eeb3f379e4bf" class="info-item">
+								<div class="info-item-icon"><img src="/bitrix/templates/web20/images/pdf.png" alt=""></div>
+								<div class="info-item-text">
+									<a download="" href="/upload/iblock/ea5/РСС декабрь 2020.pdf">Расчет размера собственных средств на 31.12.2020 г.</a><br>
+									​Дата публикации 21.01.2021. Время опубликования 19:00. Дата, до которой осуществляется доступ к информации: бессрочно								</div>
+							</div>
+									<div id="bx_3966226736_285_f72daf863a56a26579e349a9f2980f82" class="info-item">
+								<div class="info-item-icon"><img src="/bitrix/templates/web20/images/pdf.png" alt=""></div>
+								<div class="info-item-text">
+									<a download="" href="/upload/iblock/0a6/РСС ноябрь 2020.pdf">Расчет размера собственных средств на 30.11.2020 г.</a><br>
+									​Дата публикации 11.12.2020. Время опубликования 18:30. Дата, до которой осуществляется доступ к информации: бессрочно								</div>
+							</div>
+									<div id="bx_3966226736_280_8369df9ea9ba0d41c9daccd1dcbeb647" class="info-item">
+								<div class="info-item-icon"><img src="/bitrix/templates/web20/images/pdf.png" alt=""></div>
+								<div class="info-item-text">
+									<a download="" href="/upload/iblock/7b7/РСС октябрь 2020.pdf">Расчет размера собственных средств на 31.10.2020 г.</a><br>
+									​Дата публикации 12.11.2020. Время опубликования 18:40. Дата, до которой осуществляется доступ к информации: бессрочно								</div>
+							</div>
+									<div id="bx_3966226736_271_fa6ef7224c8fd0e485a4740419227e33" class="info-item">
+								<div class="info-item-icon"><img src="/bitrix/templates/web20/images/pdf.png" alt=""></div>
+								<div class="info-item-text">
+									<a download="" href="/upload/iblock/eba/РСС сентябрь 2020.pdf">Расчет размера собственных средств на 30.09.2020 г.</a><br>
+									​Дата публикации 19.10.2020. Время опубликования 18:15. Дата, до которой осуществляется доступ к информации: бессрочно								</div>
+							</div>
+									<div id="bx_3966226736_268_0a41a0b4db5e38a547667b2126d5ca45" class="info-item">
+								<div class="info-item-icon"><img src="/bitrix/templates/web20/images/pdf.png" alt=""></div>
+								<div class="info-item-text">
+									<a download="" href="/upload/iblock/f5f/РСС август 2020.pdf">Расчет размера собственных средств на 31.08.2020 г.</a><br>
+									​Дата публикации 19.10.2020. Время опубликования 18:00. Дата, до которой осуществляется доступ к информации: бессрочно								</div>
+							</div>
+									<div id="bx_3966226736_270_1dff7cab7d11763957f32b17695fe3d7" class="info-item">
+								<div class="info-item-icon"><img src="/bitrix/templates/web20/images/pdf.png" alt=""></div>
+								<div class="info-item-text">
+									<a download="" href="/upload/iblock/f38/РСС июль 2020 Уточн 1.pdf">Расчет размера собственных средств на 31.07.2020 г. (уточненный)</a><br>
+									​Дата публикации 19.10.2020. Время опубликования 17:50. Дата, до которой осуществляется доступ к информации: бессрочно								</div>
+							</div>
+									<div id="bx_3966226736_269_1a358e4c7511fb2753fa0770e1da3fb4" class="info-item">
+								<div class="info-item-icon"><img src="/bitrix/templates/web20/images/pdf.png" alt=""></div>
+								<div class="info-item-text">
+									<a download="" href="/upload/iblock/b06/РСС июнь 2020 Уточн 2.pdf">Расчет размера собственных средств на 30.06.2020 г. (уточенный)</a><br>
+									​Дата публикации 19.10.2020. Время опубликования 17:50. Дата, до которой осуществляется доступ к информации: бессрочно								</div>
+							</div>
+									<div id="bx_3966226736_266_b11dbf01adecda9113ee4e30d77829df" class="info-item">
+								<div class="info-item-icon"><img src="/bitrix/templates/web20/images/pdf.png" alt=""></div>
+								<div class="info-item-text">
+									<a download="" href="/upload/iblock/2e6/РСС июль 2020.pdf">Расчет размера собственных средств на 31.07.2020 г.</a><br>
+									​Дата публикации 18.08.2020. Время опубликования 18:00. Дата, до которой осуществляется доступ к информации: бессрочно								</div>
+							</div>
+									<div id="bx_3966226736_265_0f6b617080ad738d96f8366ac1d7f224" class="info-item">
+								<div class="info-item-icon"><img src="/bitrix/templates/web20/images/pdf.png" alt=""></div>
+								<div class="info-item-text">
+									<a download="" href="/upload/iblock/744/РСС июнь 2020 Уточн 1.pdf">Расчет размера собственных средств на 30.06.2020 г. (уточненный)</a><br>
+									​Дата публикации 11.08.2020. Время опубликования 17:30. Дата, до которой осуществляется доступ к информации: бессрочно								</div>
+							</div>
+									<div id="bx_3966226736_261_b12fbde5cbee02f7032227e316206f08" class="info-item">
+								<div class="info-item-icon"><img src="/bitrix/templates/web20/images/pdf.png" alt=""></div>
+								<div class="info-item-text">
+									<a download="" href="/upload/iblock/262/РСС июнь 2020.pdf">Расчет размера собственных средств на 30.06.2020 г.</a><br>
+									​Дата публикации 23.07.2020. Время опубликования 18:00. Дата, до которой осуществляется доступ к информации: бессрочно								</div>
+							</div>
+									<div id="bx_3966226736_255_cc22d9e1ed79ef90238c0c9486b9c925" class="info-item">
+								<div class="info-item-icon"><img src="/bitrix/templates/web20/images/pdf.png" alt=""></div>
+								<div class="info-item-text">
+									<a download="" href="/upload/iblock/2e9/РСС май 2020.pdf">Расчет размера собственных средств на 31.05.2020 г.</a><br>
+									​Дата публикации 15.06.2020. Время опубликования 10:00. Дата, до которой осуществляется доступ к информации: бессрочно								</div>
+							</div>
+									<div id="bx_3966226736_253_597fdbb9b50711f7caa88f5981367f3a" class="info-item">
+								<div class="info-item-icon"><img src="/bitrix/templates/web20/images/pdf.png" alt=""></div>
+								<div class="info-item-text">
+									<a download="" href="/upload/iblock/3d5/РСС апрель 2020.pdf">Расчет размера собственных средств на 30.04.2020 г.</a><br>
+									​Дата публикации 21.05.2020. Время опубликования 10:00. Дата, до которой осуществляется доступ к информации: бессрочно								</div>
+							</div>
+									<div id="bx_3966226736_241_3af4aff77308d8c957e32598a3c9ae02" class="info-item">
+								<div class="info-item-icon"><img src="/bitrix/templates/web20/images/pdf.png" alt=""></div>
+								<div class="info-item-text">
+									<a download="" href="/upload/iblock/fa4/РРС март 2020.pdf">Расчет размера собственных средств на 31.03.2020 г.</a><br>
+									​Дата публикации 16.04.2020. Время опубликования 10:00. Дата, до которой осуществляется доступ к информации: бессрочно								</div>
+							</div>
+									<div id="bx_3966226736_235_0f0bde178ea44be484d6b50edf32faa2" class="info-item">
+								<div class="info-item-icon"><img src="/bitrix/templates/web20/images/pdf.png" alt=""></div>
+								<div class="info-item-text">
+									<a download="" href="/upload/iblock/a3f/РСС февраль 2020.pdf">Расчет размера собственных средств на 29.02.2020 г.</a><br>
+									​Дата публикации 13.03.2020. Время опубликования 20:00. Дата, до которой осуществляется доступ к информации: бессрочно								</div>
+							</div>
+									<div id="bx_3966226736_234_100345d7d870c80f7e90657d857a87fb" class="info-item">
+								<div class="info-item-icon"><img src="/bitrix/templates/web20/images/pdf.png" alt=""></div>
+								<div class="info-item-text">
+									<a download="" href="/upload/iblock/000/РСС январь 2020 Уточн 1.pdf">Расчет размера собственных средств на 31.01.2020 г. (уточненный)</a><br>
+									​Дата публикации 03.03.2020. Время опубликования 19:05. Дата, до которой осуществляется доступ к информации: бессрочно								</div>
+							</div>
+									<div id="bx_3966226736_233_34be5cc66631ce12e230dac37f689174" class="info-item">
+								<div class="info-item-icon"><img src="/bitrix/templates/web20/images/pdf.png" alt=""></div>
+								<div class="info-item-text">
+									<a download="" href="/upload/iblock/cd7/РСС декабрь 2019 Уточн 2.pdf">Расчет размера собственных средств на 31.12.2019 г. (уточненный)</a><br>
+									Дата публикации 03.03.2020. Время опубликования 19:00. Дата, до которой осуществляется доступ к информации: бессрочно
+								</div>
+							</div>
+									<div id="bx_3966226736_231_0b0744863e428bec374c1c16857eba0c" class="info-item">
+								<div class="info-item-icon"><img src="/bitrix/templates/web20/images/pdf.png" alt=""></div>
+								<div class="info-item-text">
+									<a download="" href="/upload/iblock/ed7/РСС январь 2020.pdf">Расчет размера собственных средств на 31.01.2020 г.</a><br>
+									​Дата публикации 13.02.2020. Время опубликования 13:35. Дата, до которой осуществляется доступ к информации: бессрочно								</div>
+							</div>
+									<div id="bx_3966226736_230_ed0ec4583304a3318875d1b9df5260bd" class="info-item">
+								<div class="info-item-icon"><img src="/bitrix/templates/web20/images/pdf.png" alt=""></div>
+								<div class="info-item-text">
+									<a download="" href="/upload/iblock/084/РСС декабрь 2019 Уточн 1.pdf">Расчет размера собственных средств на 31.12.2019 г. (уточненный)</a><br>
+									Дата публикации 12.02.2020. Время опубликования 19:00. Дата, до которой осуществляется доступ к информации: бессрочно
+								</div>
+							</div>
+									<div id="bx_3966226736_227_fc2bbbdd477ee3c8da65da562dbf3b8f" class="info-item">
+								<div class="info-item-icon"><img src="/bitrix/templates/web20/images/pdf.png" alt=""></div>
+								<div class="info-item-text">
+									<a download="" href="/upload/iblock/fab/РСС декабрь 2019.pdf">Расчет размера собственных средств на 31.12.2019 г.</a><br>
+									​Дата публикации 27.01.2020. Время опубликования 13:10. Дата, до которой осуществляется доступ к информации: бессрочно								</div>
+							</div>
+									<div id="bx_3966226736_225_643273685530efcc7f211250e5d99061" class="info-item">
+								<div class="info-item-icon"><img src="/bitrix/templates/web20/images/pdf.png" alt=""></div>
+								<div class="info-item-text">
+									<a download="" href="/upload/iblock/280/РСС ноябрь 2019.pdf">Расчет размера собственных средств на 30.11.2019г.</a><br>
+									​Дата публикации 26.12.2019. Время опубликования 19:30. Дата, до которой осуществляется доступ к информации: бессрочно								</div>
+							</div>
+									<div id="bx_3966226736_224_5da91be6f09a87f95b2c01d3b12d35d8" class="info-item">
+								<div class="info-item-icon"><img src="/bitrix/templates/web20/images/pdf.png" alt=""></div>
+								<div class="info-item-text">
+									<a download="" href="/upload/iblock/2d1/РСС октябрь 2019 (уточнение).pdf">Расчет размера собственных средств на 31.10.2019 г. (уточненный)</a><br>
+									Дата публикации 12.12.2019. Время опубликования 16:00. Дата, до которой осуществляется доступ к информации: бессрочно
+								</div>
+							</div>
+									<div id="bx_3966226736_222_71835f1e68f1477703043e9a233929d3" class="info-item">
+								<div class="info-item-icon"><img src="/bitrix/templates/web20/images/pdf.png" alt=""></div>
+								<div class="info-item-text">
+									<a download="" href="/upload/iblock/36c/РСС сентябрь 2018 (уточнение).pdf">Расчет размера собственных средств на 30.09.2018 г. (уточненный)</a><br>
+									Дата публикации 10.12.2019. Время опубликования 19:30. Дата, до которой осуществляется доступ к информации: бессрочно								</div>
+							</div>
+									<div id="bx_3966226736_221_748c2feb5fea7f55172bf36edaeb9027" class="info-item">
+								<div class="info-item-icon"><img src="/bitrix/templates/web20/images/pdf.png" alt=""></div>
+								<div class="info-item-text">
+									<a download="" href="/upload/iblock/ffe/РСС август 2018 (уточнение).pdf">Расчет размера собственных средств на 31.08.2018 г. (уточненный)</a><br>
+									Дата публикации 10.12.2019. Время опубликования 19:25. Дата, до которой осуществляется доступ к информации: бессрочно								</div>
+							</div>
+									<div id="bx_3966226736_220_40afa25f0a0dbf08e7d02047ed9ba7b4" class="info-item">
+								<div class="info-item-icon"><img src="/bitrix/templates/web20/images/pdf.png" alt=""></div>
+								<div class="info-item-text">
+									<a download="" href="/upload/iblock/9ab/РСС июль 2018 (уточнение).pdf">Расчет размера собственных средств на 31.07.2018 г. (уточненный)</a><br>
+									Дата публикации 10.12.2019. Время опубликования 19:20. Дата, до которой осуществляется доступ к информации: бессрочно								</div>
+							</div>
+									<div id="bx_3966226736_219_29d4069e685eb626c03804325a57c04f" class="info-item">
+								<div class="info-item-icon"><img src="/bitrix/templates/web20/images/pdf.png" alt=""></div>
+								<div class="info-item-text">
+									<a download="" href="/upload/iblock/45d/РСС июнь 2018 (уточнение).pdf">Расчет размера собственных средств на 30.06.2018 г. (уточненный)</a><br>
+									Дата публикации 10.12.2019. Время опубликования 19:15. Дата, до которой осуществляется доступ к информации: бессрочно								</div>
+							</div>
+									<div id="bx_3966226736_218_d82b299cebccbc67a5aa59169a628d66" class="info-item">
+								<div class="info-item-icon"><img src="/bitrix/templates/web20/images/pdf.png" alt=""></div>
+								<div class="info-item-text">
+									<a download="" href="/upload/iblock/ac0/РСС май 2018 (уточнение).pdf">Расчет размера собственных средств на 31.05.2018 г. (уточненный)</a><br>
+									Дата публикации 10.12.2019. Время опубликования 19:10. Дата, до которой осуществляется доступ к информации: бессрочно								</div>
+							</div>
+									<div id="bx_3966226736_217_613150d9e4cc6776b4b72951c27f0b7a" class="info-item">
+								<div class="info-item-icon"><img src="/bitrix/templates/web20/images/pdf.png" alt=""></div>
+								<div class="info-item-text">
+									<a download="" href="/upload/iblock/f5e/РСС апрель 2018 (уточнение).pdf">Расчет размера собственных средств на 30.04.2018 г. (уточненный)</a><br>
+									Дата публикации 10.12.2019. Время опубликования 19:05. Дата, до которой осуществляется доступ к информации: бессрочно								</div>
+							</div>
+									<div id="bx_3966226736_216_da1661711469d7eb6fe66ed23166b10b" class="info-item">
+								<div class="info-item-icon"><img src="/bitrix/templates/web20/images/pdf.png" alt=""></div>
+								<div class="info-item-text">
+									<a download="" href="/upload/iblock/ce4/РСС март 2018 (уточнение).pdf">Расчет размера собственных средств на 31.03.2018 г. (уточненный)</a><br>
+									Дата публикации 10.12.2019. Время опубликования 19:00. Дата, до которой осуществляется доступ к информации: бессрочно								</div>
+							</div>
+									<div id="bx_3966226736_197_7589dbce95add018bfa3693683ebe694" class="info-item">
+								<div class="info-item-icon"><img src="/bitrix/templates/web20/images/pdf.png" alt=""></div>
+								<div class="info-item-text">
+									<a download="" href="/upload/iblock/3e8/РСС октябрь 2019.pdf">Расчет размера собственных средств на 31.10.2019г.</a><br>
+									​Дата публикации 26.11.2019. Время опубликования 11:22. Дата, до которой осуществляется доступ к информации: бессрочно								</div>
+							</div>
+									<div id="bx_3966226736_195_f0da78058974307d32d9a64d9660d6df" class="info-item">
+								<div class="info-item-icon"><img src="/bitrix/templates/web20/images/pdf.png" alt=""></div>
+								<div class="info-item-text">
+									<a download="" href="/upload/iblock/4c9/РСС сентябрь 2019.pdf">Расчет размера собственных средств на 30.09.2019г.</a><br>
+									​Дата публикации 22.10.2019. Время опубликования 14:50. Дата, до которой осуществляется доступ к информации: бессрочно								</div>
+							</div>
+									<div id="bx_3966226736_194_899c9b6f2322972feb74fa721372173c" class="info-item">
+								<div class="info-item-icon"><img src="/bitrix/templates/web20/images/pdf.png" alt=""></div>
+								<div class="info-item-text">
+									<a download="" href="/upload/iblock/4b5/РСС август 2019.pdf">Расчет размера собственных средств на 31.08.2019г.</a><br>
+									​Дата публикации 30.09.2019. Время опубликования 21:35. Дата, до которой осуществляется доступ к информации: бессрочно 								</div>
+							</div>
+									<div id="bx_3966226736_193_22e619c5627fa671982b560c6b3fc0b1" class="info-item">
+								<div class="info-item-icon"><img src="/bitrix/templates/web20/images/pdf.png" alt=""></div>
+								<div class="info-item-text">
+									<a download="" href="/upload/iblock/f95/РСС июль 2019.pdf">Расчет размера собственных средств на 31.07.2019г.</a><br>
+									​Дата публикации 30.08.2019. Время опубликования 17:35. Дата, до которой осуществляется доступ к информации: бессрочно								</div>
+							</div>
+									<div id="bx_3966226736_188_9fd817804627a0849d443e4ec36829ed" class="info-item">
+								<div class="info-item-icon"><img src="/bitrix/templates/web20/images/pdf.png" alt=""></div>
+								<div class="info-item-text">
+									<a download="" href="/upload/iblock/ea8/РСС июнь 2019.pdf">Расчет размера собственных средств на 30.06.2019г.</a><br>
+									​Дата публикации 29.07.2019. Время опубликования 16:45. Дата, до которой осуществляется доступ к информации: бессрочно								</div>
+							</div>
+									<div id="bx_3966226736_187_01f00276cacbb920c84b6e138f269ad9" class="info-item">
+								<div class="info-item-icon"><img src="/bitrix/templates/web20/images/pdf.png" alt=""></div>
+								<div class="info-item-text">
+									<a download="" href="/upload/iblock/c9e/РСС май 2019.pdf">Расчет размера собственных средств на 31.05.2019г.</a><br>
+									​Дата публикации 27.06.2019. Время опубликования 19:46. Дата, до которой осуществляется доступ к информации: бессрочно								</div>
+							</div>
+									<div id="bx_3966226736_186_196fba7f4ebf156a6ed990066a2ab340" class="info-item">
+								<div class="info-item-icon"><img src="/bitrix/templates/web20/images/pdf.png" alt=""></div>
+								<div class="info-item-text">
+									<a download="" href="/upload/iblock/950/РСС апрель 2019.pdf">Расчет размера собственных средств на 30.04.2019г.</a><br>
+									​Дата публикации 21.05.2019. Время опубликования 19:00. Дата, до которой осуществляется доступ к информации: бессрочно								</div>
+							</div>
+									<div id="bx_3966226736_109_a30fe35a0bf835e857bc43142ce6236c" class="info-item">
+								<div class="info-item-icon"><img src="/bitrix/templates/web20/images/pdf.png" alt=""></div>
+								<div class="info-item-text">
+									<a download="" href="/upload/iblock/dd5/РСС март 2019.pdf">Расчет размера собственных средств на 31.03.2019г.</a><br>
+									​Дата публикации 29.04.2019. Время опубликования 17:05. Дата, до которой осуществляется доступ к информации: бессрочно								</div>
+							</div>
+									<div id="bx_3966226736_110_15d591818403e6173fc168abfce9e6ab" class="info-item">
+								<div class="info-item-icon"><img src="/bitrix/templates/web20/images/pdf.png" alt=""></div>
+								<div class="info-item-text">
+									<a download="" href="/upload/iblock/f94/РСС февраль 2019.pdf">Расчет размера собственных средств на 28.02.2019г.</a><br>
+									Дата публикации 28.03.2019. Время опубликования 10:05. Дата, до которой осуществляется доступ к информации: бессрочно								</div>
+							</div>
+									<div id="bx_3966226736_111_55ede2437a748345b6ec91852c7ecf91" class="info-item">
+								<div class="info-item-icon"><img src="/bitrix/templates/web20/images/pdf.png" alt=""></div>
+								<div class="info-item-text">
+									<a download="" href="/upload/iblock/09f/РСС январь 2019.pdf">Расчет размера собственных средств на 31.01.2019г.</a><br>
+									​Дата публикации 27.02.2019. Время опубликования 19:27. Дата, до которой осуществляется доступ к информации: бессрочно								</div>
+							</div>
+									<div id="bx_3966226736_112_d19dbf76ee62077722d46569d4069f09" class="info-item">
+								<div class="info-item-icon"><img src="/bitrix/templates/web20/images/pdf.png" alt=""></div>
+								<div class="info-item-text">
+									<a download="" href="/upload/iblock/b44/РСС декабрь 2018.pdf">Расчет размера собственных средств на 31.12.2018г.</a><br>
+									Дата публикации 28.01.2019. Время опубликования 10:38. Дата, до которой осуществляется доступ к информации: бессрочно								</div>
+							</div>
+									<div id="bx_3966226736_113_5650e7dbf5327e208efbc0e6ce77d9a7" class="info-item">
+								<div class="info-item-icon"><img src="/bitrix/templates/web20/images/pdf.png" alt=""></div>
+								<div class="info-item-text">
+									<a download="" href="/upload/iblock/d66/RRSS_1118.pdf">Расчет размера собственных средств на 30.11.2018г.</a><br>
+									Дата публикации 18.12.2018. Время опубликования 11:22. Дата, до которой осуществляется доступ к информации: бессрочно								</div>
+							</div>
+									<div id="bx_3966226736_114_977f30f2138c47d21402f70a9f245f52" class="info-item">
+								<div class="info-item-icon"><img src="/bitrix/templates/web20/images/pdf.png" alt=""></div>
+								<div class="info-item-text">
+									<a download="" href="/upload/iblock/60c/RRSS_1018.pdf">Расчет размера собственных средств на 31.10.2018г.</a><br>
+									Дата публикации 13.11.2018. Время опубликования 13:10. Дата, до которой осуществляется доступ к информации: бессрочно								</div>
+							</div>
+									<div id="bx_3966226736_115_e1f906a4414507794ad261a2de57ea38" class="info-item">
+								<div class="info-item-icon"><img src="/bitrix/templates/web20/images/pdf.png" alt=""></div>
+								<div class="info-item-text">
+									<a download="" href="/upload/iblock/3d6/RRSS_0918.pdf">Расчет размера собственных средств на 30.09.2018г.</a><br>
+									​Дата публикации 12.10.2018. Время опубликования 12:33. Дата, до которой осуществляется доступ к информации: бессрочно								</div>
+							</div>
+									<div id="bx_3966226736_116_b078c821c6425014c29d7697a82cf4fc" class="info-item">
+								<div class="info-item-icon"><img src="/bitrix/templates/web20/images/pdf.png" alt=""></div>
+								<div class="info-item-text">
+									<a download="" href="/upload/iblock/c39/RRSS_0818.pdf">Расчет размера собственных средств на 31.08.2018г.</a><br>
+									​Дата публикации 13.09.2018. Время опубликования 11:50. Дата, до которой осуществляется доступ к информации: бессрочно								</div>
+							</div>
+									<div id="bx_3966226736_117_ae39f11d687900e8ac9df170a09cff75" class="info-item">
+								<div class="info-item-icon"><img src="/bitrix/templates/web20/images/pdf.png" alt=""></div>
+								<div class="info-item-text">
+									<a download="" href="/upload/iblock/ee1/RRSS_0718.pdf">Расчет размера собственных средств на 31.07.2018г.</a><br>
+									​Дата публикации 14.08.2018. Время опубликования 15:50. Дата, до которой осуществляется доступ к информации: бессрочно								</div>
+							</div>
+									<div id="bx_3966226736_118_505bfeb055c54844b7ffe66c3cedfa4e" class="info-item">
+								<div class="info-item-icon"><img src="/bitrix/templates/web20/images/pdf.png" alt=""></div>
+								<div class="info-item-text">
+									<a download="" href="/upload/iblock/c5a/RRSS_30.06.2018.pdf">Расчет размера собственных средств на 30.06.2018г.</a><br>
+									​Дата публикации 13.07.2018. Время опубликования 19:00. Дата, до которой осуществляется доступ к информации: бессрочно								</div>
+							</div>
+									<div id="bx_3966226736_119_c8d15f7722f64af1c97c2b5cd62da995" class="info-item">
+								<div class="info-item-icon"><img src="/bitrix/templates/web20/images/pdf.png" alt=""></div>
+								<div class="info-item-text">
+									<a download="" href="/upload/iblock/b17/RSS_31.05.18.pdf">Расчет размера собственных средств на 31.05.2018г.</a><br>
+									​Дата публикации 15.06.2018. Время опубликования 13:45. Дата, до которой осуществляется доступ к информации: бессрочно								</div>
+							</div>
+									<div id="bx_3966226736_120_6c847e8eea817003ed069d798ced9f6b" class="info-item">
+								<div class="info-item-icon"><img src="/bitrix/templates/web20/images/pdf.png" alt=""></div>
+								<div class="info-item-text">
+									<a download="" href="/upload/iblock/a16/RRSS_30042018.pdf">Расчет размера собственных средств на 30.04.2018г.</a><br>
+									Дата публикации 16.05.2018. Время опубликования 12:50. Дата, до которой осуществляется доступ к информации: бессрочно								</div>
+							</div>
+									<div id="bx_3966226736_121_41d0068ad1b16ac763d86656554fe03f" class="info-item">
+								<div class="info-item-icon"><img src="/bitrix/templates/web20/images/pdf.png" alt=""></div>
+								<div class="info-item-text">
+									<a download="" href="/upload/iblock/935/RRSS_31.03.18.pdf">Расчет размера собственных средств на 31.03.2018г.</a><br>
+									Дата публикации 12.04.2018. Время опубликования 11:20. Дата, до которой осуществляется доступ к информации: бессрочно								</div>
+							</div>
+									<div id="bx_3966226736_122_27d6cbb474e29429c2fed5a4682888b6" class="info-item">
+								<div class="info-item-icon"><img src="/bitrix/templates/web20/images/pdf.png" alt=""></div>
+								<div class="info-item-text">
+									<a download="" href="/upload/iblock/94a/RRSS_31.03.18.pdf">Расчет размера собственных средств на 28.02.2018г. (уточненный)</a><br>
+									Дата публикации 02.04.2018. Время опубликования 14:15. Дата, до которой осуществляется доступ к информации: бессрочно								</div>
+							</div>
+									<div id="bx_3966226736_124_e51f1134a4a628dd72ef1551ff346028" class="info-item">
+								<div class="info-item-icon"><img src="/bitrix/templates/web20/images/pdf.png" alt=""></div>
+								<div class="info-item-text">
+									<a download="" href="/upload/iblock/e58/RRSS_280218.pdf">Расчет размера собственных средств на 31.01.2018г. (уточненный)</a><br>
+									Дата публикации 02.04.2018. Время опубликования 14:15. Дата, до которой осуществляется доступ к информации: бессрочно								</div>
+							</div>
+									<div id="bx_3966226736_126_d6cb0af739e1a0d7fa991ca510391242" class="info-item">
+								<div class="info-item-icon"><img src="/bitrix/templates/web20/images/pdf.png" alt=""></div>
+								<div class="info-item-text">
+									<a download="" href="/upload/iblock/96c/RRSS_31.12.17_ispravl.pdf">Расчет размера собственных средств на 31.12.2017г. (уточненный)</a><br>
+									Дата публикации 02.04.2018. Время опубликования 14:15. Дата, до которой осуществляется доступ к информации: бессрочно								</div>
+							</div>
+									<div id="bx_3966226736_123_fc8635297e7541574171089435c06421" class="info-item">
+								<div class="info-item-icon"><img src="/bitrix/templates/web20/images/pdf.png" alt=""></div>
+								<div class="info-item-text">
+									<a download="" href="/upload/iblock/446/RRSS_28.02.18_ispravl.pdf">Расчет размера собственных средств на 28.02.2018г.</a><br>
+									Дата публикации 16.03.2018. Время опубликования 19:00. Дата, до которой осуществляется доступ к информации: бессрочно								</div>
+							</div>
+									<div id="bx_3966226736_125_cb0b6b4d280137ce5d4ba6cb69968083" class="info-item">
+								<div class="info-item-icon"><img src="/bitrix/templates/web20/images/pdf.png" alt=""></div>
+								<div class="info-item-text">
+									<a download="" href="/upload/iblock/a58/RRSS_31.01.2018.pdf">Расчет размера собственных средств на 31.01.2018г.</a><br>
+									Дата публикации 14.02.2018. Время опубликования 21:00. Дата, до которой осуществляется доступ к информации: бессрочно								</div>
+							</div>
+									<div id="bx_3966226736_127_cd1eeaf17287a1acfa8421cf1cb5fcfc" class="info-item">
+								<div class="info-item-icon"><img src="/bitrix/templates/web20/images/pdf.png" alt=""></div>
+								<div class="info-item-text">
+									<a download="" href="/upload/iblock/756/RRSS_31.12.2017.pdf">Расчет размера собственных средств на 31.12.2017г.</a><br>
+									Дата публикации 22.01.2018. Время опубликования 19:45. Дата, до которой осуществляется доступ к информации: бессрочно								</div>
+							</div>
+									<div id="bx_3966226736_128_b92ea7f9e9786eacabc0f2576042148c" class="info-item">
+								<div class="info-item-icon"><img src="/bitrix/templates/web20/images/pdf.png" alt=""></div>
+								<div class="info-item-text">
+									<a download="" href="/upload/iblock/d6b/RRSS_30.11.2017_.pdf">Расчет размера собственных средств на 30.11.2017г. (уточненный)</a><br>
+									Дата публикации 19.01.2018. Время опубликования 18:30. Дата, до которой осуществляется доступ к информации: бессрочно								</div>
+							</div>
+									<div id="bx_3966226736_129_00347ed372c799a7c5c0b87aa421d8bc" class="info-item">
+								<div class="info-item-icon"><img src="/bitrix/templates/web20/images/pdf.png" alt=""></div>
+								<div class="info-item-text">
+									<a download="" href="/upload/iblock/f7d/RRSS_30.11.2017.pdf">Расчет размера собственных средств на 30.11.2017г.</a><br>
+									Дата публикации 14.12.2017. Время опубликования 18:30. Дата, до которой осуществляется доступ к информации: бессрочно								</div>
+							</div>
+									<div id="bx_3966226736_130_4ef6a0687ad38450959e7fd622e9db18" class="info-item">
+								<div class="info-item-icon"><img src="/bitrix/templates/web20/images/pdf.png" alt=""></div>
+								<div class="info-item-text">
+									<a download="" href="/upload/iblock/aae/RRSS_31102017.pdf">Расчет размера собственных средств на 31.10.2017г.</a><br>
+									Дата публикации 13.11.2017. Время опубликования 18:30. Дата, до которой осуществляется доступ к информации: бессрочно								</div>
+							</div>
+									<div id="bx_3966226736_131_2a34a984cdc89e6cab0ad505b995901b" class="info-item">
+								<div class="info-item-icon"><img src="/bitrix/templates/web20/images/pdf.png" alt=""></div>
+								<div class="info-item-text">
+									<a download="" href="/upload/iblock/aac/RRSS_30.09.2017.pdf">Расчет размера собственных средств на 30.09.2017г.</a><br>
+									Дата публикации 10.10.2017. Время опубликования 15:30. Дата, до которой осуществляется доступ к информации: бессрочно								</div>
+							</div>
+									<div id="bx_3966226736_132_535f0cb6e45a7b870de868f15bc8b66c" class="info-item">
+								<div class="info-item-icon"><img src="/bitrix/templates/web20/images/pdf.png" alt=""></div>
+								<div class="info-item-text">
+									<a download="" href="/upload/iblock/155/RRSS_31.08.2017_.pdf">Расчет размера собственных средств на 31.08.2017г.</a><br>
+									Дата публикации 06.09.2017. Время опубликования 18:00. Дата, до которой осуществляется доступ к информации: бессрочно								</div>
+							</div>
+									<div id="bx_3966226736_133_72a46a839f08b1ee41f01312270c95ea" class="info-item">
+								<div class="info-item-icon"><img src="/bitrix/templates/web20/images/pdf.png" alt=""></div>
+								<div class="info-item-text">
+									<a download="" href="/upload/iblock/747/RRSS_31.07.2017.pdf">Расчет размера собственных средств на 31.07.2017г.</a><br>
+									Дата публикации 11.08.2017. Время опубликования 18:00. Дата, до которой осуществляется доступ к информации: бессрочно								</div>
+							</div>
+									<div id="bx_3966226736_134_5c79a7982cfbe82fde10a4b740b029af" class="info-item">
+								<div class="info-item-icon"><img src="/bitrix/templates/web20/images/pdf.png" alt=""></div>
+								<div class="info-item-text">
+									<a download="" href="/upload/iblock/4bd/RRSS_30.06.2017.pdf">Расчет размера собственных средств на 30.06.2017г. ​</a><br>
+									​Дата публикации 12.07.2017. Время опубликования 18:00. Дата, до которой осуществляется доступ к информации: бессрочно								</div>
+							</div>
+									<div id="bx_3966226736_135_4d66e35b87b6d77b72ee1446dee92430" class="info-item">
+								<div class="info-item-icon"><img src="/bitrix/templates/web20/images/pdf.png" alt=""></div>
+								<div class="info-item-text">
+									<a download="" href="/upload/iblock/c7e/RRSS_31052017.pdf">Расчет размера собственных средств на 31.05.2017г.</a><br>
+									Дата публикации 16.06.2017. Время опубликования 18:00. Дата, до которой осуществляется доступ к информации: бессрочно								</div>
+							</div>
+								</div>
+
+						<div class="section-links">
+</div>
+					</div>
+
+
+
+
+				</div>
+			</div>
+		</section>
+
+		<footer class="footer">
+
+			<div class="holder">
+
+				<div class="wr-footer-top">
+					<div class="footer-top">
+						<div class="footer-logo">
+							<img src="/upload/iblock/e1e/logo2.svg" alt="">
+						</div>
+						<div class="footer-content">
+							<div class="footer-title">ООО УК «А класс капитал»</div>
+							<div class="footer-text">123112, Москва,<br>
+Пресненская набережная, д.6 стр. 2, эт. 27, пом. I, ком. 26, 28-31</div>
+							<div class="footer-text">Время работы<br>
+Пн. - Пт.: 10:00 - 19:00<br>
+Сб. - Вс.:  выходные дни</div>
+						</div>
+					</div>
+					<div class="text-policy"><a href="/info/">Раскрытие информации в соответствии с требованиями законодательства</a></div>
+<div class="text-policy"><a data-fancybox="" href="#pop-inf">Рекомендации по защите информации</a></div>
+					<div class="text-policy text-left-f">
+					<p class="smm-txt">Общество с ограниченной ответственностью Управляющая компания «А класс капитал».<br>
+					Лицензия на осуществление деятельности по управлению инвестиционными фондами, паевыми инвестиционными фондами и негосударственными пенсионными фондами № 21-000-1-01006 от 09 июня 2017 г., орган, выдавший лицензию: Банк России; срок действия: без ограничения срока действия.<br>
+					Лицензия профессионального участника рынка ценных бумаг на осуществление деятельности по управлению ценными бумагами № 045-14079-001000 от 12.08.2019, орган, выдавший лицензию: Банк России.<br>
+					Информацию, подлежащую раскрытию и предоставлению в соответствии законодательством Российской Федерации и нормативными актами Банка России, можно по адресу 123112, г. Москва, вн.тер.г. муниципальный округ Пресненский, Пресненская наб., д. 6 стр. 2, эт. 27, пом. I, ком. 26,28-31, телефон +7(499)70-252-70, <a href="/">https://www.aclass.capital/</a></p>
+					<p class="big-text-f">Стоимость инвестиционных паёв может увеличиваться и уменьшаться. Результаты инвестирования в прошлом не определяют доходы в будущем. Государство не гарантирует доходность инвестиций в паевые инвестиционные фонды. Перед приобретением инвестиционных паев необходимо внимательно ознакомиться с правилами доверительного управления паевым инвестиционным фондом.</p>
+					</div>
+				</div>
+				<div class="footer-bottom">
+					<p style="margin-top:10px" class="info-slab"><a target="_blank" href="/info/ ">Раскрытие информации в соответствии с требованиями законодательства</a></p>
+ООО УК «А класс капитал» © Все права защищены. 
+ <a href="/license">Лицензия</a><br>
+ <!-- <a target="_blank" href="http://www.cbr.ru/finorg/foinfo/?ogrn=1177746042836">Информация о структуре и составе участников ООО УК «А класс капитал», в том числе о лицах, под контролем либо значительным влиянием которых находится ООО УК «А класс капитал»</a> -->				</div>
+			</div>		</footer>
+	</div>
+		
+    <div class="b_cookie" style="opacity: 1;">
+        <div class="holder">
+            <div class="rows">
+                <div class="cols cols01">
+                    <p>ООО УК «А класс капитал» использует файлы cookie. Подробная информация в <a href="/doc/personal_data_processing_policy.pdf" target="_blank">Политике в отношении обработки персональных данных ООО УК «А класс капитал»</a>. 
+                        <span class="br">Вы можете запретить сохранение cookie в настройках своего браузера.</span></p>
+                </div>
+                <div class="cols cols02">
+                    <button class="cookie_btn">Принимаю</button>
+                </div>
+                <div class="cols cols03">
+                    <button class="cookie_close_btn"></button>
+                </div>
+            </div>
+        </div>
+    </div>
+
+
+
+	<div style="display:none">
+		<div id="pop-inf" class="pop-info-f">
+			<p style="text-align:center"><b>Рекомендации по защите информации, информация о возможных рисках несанкционированного доступа к защищаемой информации, а также информация о мерах по предотвращению несанкционированного доступа к защищаемой информации</b></p>
+			<p><i>В целях защиты информации от воздействия программных кодов, приводящего к нарушению штатного функционирования устройств и оборудования, а также в рамках информирования о мерах по предотвращению несанкционированного доступа к защищаемой информации, в том числе при утрате (потере, хищении) клиентом (у клиента) устройства, посредством которого им совершались действия в целях осуществления финансовой операции (далее – устройство), контролю конфигурации устройства, с использованием которого клиентом совершаются действия в целях осуществления финансовой операции, и своевременному обнаружению воздействия вредоносного кода, ООО УК «А класс капитал» (далее – Управляющая компания) <b>настоятельно рекомендует</b>:</i></p>
+		
+			<p>Настоятельно рекомендуем:</p>
+			<ul>
+				<li>Осуществляйте вход в Личный Кабинет только с официальных сайтов Управляющей компании <a href="/">https://aclass.capital/</a>, <a target="_blank" href="https://pnkrental.ru/">https://pnkrental.ru/</a>, либо по прямой ссылке <a target="_blank" href="https://lk.pnkrental.ru/login">https://lk.pnkrental.ru/login</a>.</li> 
+				<li>Перед осуществлением входа в Личный Кабинет убедитесь, что Вы находитесь на подлинном веб-сайте (самый надежный способ доступа к достоверному веб-сайту – набрать адрес сайта вручную).</li>
+				<li>Не осуществляйте вход в Личный Кабинет из гиперссылок, в особенности, если такие гиперссылки указаны в электронных сообщениях, т.к. мошенники могут создавать фишинговые сайты-двойники для хищения Вашей информации. При обнаружении сайта-двойника незамедлительно сообщите об этом в Управляющую компанию.</li>
+				<li>Перед осуществлением передачи Вашей конфиденциальной информации через веб-сайт убедитесь в наличии символа замка в правом нижнем углу веб-страницы (либо в адресной строке, в зависимости от используемого браузера). Символ замка на веб-странице указывает на то, что веб-сайт работает в защищенном режиме.</li>
+				<li>Установите актуальное приложение для защиты Ваших персональных устройств (РС, планшет, мобильное устройство), которое проверит Ваш трафик, защитит от вирусов и шпионских программ Ваши приложения. Такие антивирусные программы предназначены для блокировки опасных сайтов, которые могут содержать вредоносный код и устанавливать вредоносное ПО на Вашем устройстве. Своевременно обновляйте установленное антивирусное приложение. Также рекомендуем использовать антивирусные приложения проверенных и положительно зарекомендовавших себя производителей.</li>
+				<li>Используйте на устройстве только лицензионное ПО, не устанавливайте ПО, полученное из сомнительных источников.</li>
+				<li>Не открывайте вложения в почтовые письма, полученные от неизвестных Вам отправителей. Если отправитель Вам известен – в любом случае рекомендуется проверить полученный файл антивирусной системой.
+				</li><li>Не посещайте сайты сомнительного содержания.</li>
+				<li>Не проводите конфиденциальные транзакции с использованием недоверенного общедоступного Wi-Fi.</li>
+				<li>Оформите отдельную сим-карту для работы с мобильным банком и никому не сообщайте в публичном пространстве этот мобильный номер. Современные устройства связи поддерживают несколько сим-карт одновременно.</li>
+				<li>Вы вправе написать заявление в салоне сотовой связи, запрещающее перевыпуск сим-карты без Вашего личного участия. При этом, Вы можете указать строго определенное отделение, в котором можно лично получить сим-карту.</li>
+				<li>Никогда и никому не сообщайте свои конфиденциальные данные, в том числе, но не ограничиваясь, логины, пароли, коды, ПИН-коды, CVV/ CVC-коды, данные электронной подписи и пр. Сотрудники Управляющей компании никогда не требуют указанную информацию. </li>
+				<li>Внимательно следите за смс о блокировке сим-карт или перевыпуске.</li>
+				<li>В случае сомнений перезванивайте лично в Управляющую компанию или банки по номеру, который указан на официальном сайте или на обратной стороне Вашей банковской карты (для банков). Игнорируйте сообщения о необходимости перезвонить в Управляющую компанию или банк по указанному в сообщении номеру. Так как существуют мошеннические сервисы подмены номеров, звоните в Управляющую компанию или банк самостоятельно.</li>
+				<li>Не выкладывайте фотографии и сканы Ваших документов в соцсети (например, паспорт, электронные билеты, чеки за оказанные услуги и т.п.): дополнительная информация только помогает мошенникам.</li>
+				<li>Будьте особенно бдительны и осторожны, если люди, представляющиеся сотрудниками Управляющей компании и (или) банков требуют от Вас каких-либо быстрых действий, пытаются напугать, т.к. это распространенные приемы мошенников.</li>
+				<li>Не передавайте Ваш мобильный телефон и (или) другие устройства третьим лицам, т.к. они могут установить на него ПО, содержащее вредоносный код, а в случае кражи или утраты злоумышленники могут воспользоваться Вашим устройством для доступа к Личному Кабинету. В связи с этим при утрате, краже устройства, используемого для получения смс и (или) доступа к Личному Кабинету: (1) незамедлительно проинформируйте Управляющую компанию и (или) (2) максимально оперативно заблокируйте сим-карту.</li>
+			</ul>
+<br>
+			<p><i>Управляющая компания информирует о следующих возможных рисках несанкционированного доступа к защищаемой информации с целью осуществления финансовых операций лицами, не обладающими правом их осуществления:</i></p>
+			<ul>
+				<li>риски разглашения конфиденциальной информации, персональных данных (например, информации об активах, персональной информации и пр.);</li>
+				<li>совершение финансовых операций с активами клиента третьими лицами, не обладающими правом их осуществления, а также совершение ими иных действий (например, внесение изменений в регистрационные данные клиента, изменение параметров услуг и пр.);</li>
+				<li>вредоносное воздействие на устройства и оборудование.</li>
+			</ul>
+<br>
+			<p>Применяемые Управляющей компанией стандарты защиты информации от взломов допускают, что на отдельных видах устройств возможно временное ограничение доступа в Личный Кабинет. В случае возникновения проблемы с доступом клиент может войти в Личный Кабинет по прямой ссылке: <a target="_blank" href="https://lk.pnkrental.ru/login">https://lk.pnkrental.ru/login</a>.</p>	
+			<p style="text-align:center"><b>При любом подозрении на мошенничество незамедлительно обратитесь в Управляющую компанию!</b></p>
+		</div>
+	</div>
+
+
+
+	<link media="all" rel="stylesheet" type="text/css" href="/bitrix/templates/web20/css/jquery.fancybox.min.css">
+	<script src="/bitrix/templates/web20/js/jquery-2.2.4.min.js"></script>
+	<script src="/bitrix/templates/web20/js/jquery.fancybox.min.js"></script>
+	<script src="/bitrix/templates/web20/js/jquery.cookie.min.js"></script>
+	<script src="/bitrix/templates/web20/js/form/jquery.knob.js"></script>
+	<script src="/bitrix/templates/web20/js/form/jquery.ui.widget.js"></script>
+	<script src="/bitrix/templates/web20/js/form/jquery.iframe-transport.js"></script>
+	<script src="/bitrix/templates/web20/js/form/jquery.fileupload.js"></script>
+	<script src="/bitrix/templates/web20/js/all.js"></script>
+	<script src="/bitrix/templates/web20/js/add.js?v2.1"></script>
+
+ 

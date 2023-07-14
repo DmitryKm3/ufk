@@ -1,0 +1,1232 @@
+
+<div id="main">
+    <div id="header">
+        <a href="/" class="logo"><img style="max-width: 300px;" src="/bitrix/templates/proton/images/logo-min.png" alt="Протон"></a>
+        <div class="header_txt">
+                    </div>
+        <div class="phone_block_head">
+            Контактный телефон:
+            <div class="phone_num">+7 (495) 645 96 67
+</div>
+        </div>
+    </div>
+    
+	<div id="top_menu">
+		<div class="top_menu_cont">
+			<table>
+				<tbody><tr>
+				
+					
+					
+													<td><a class="item_menu" href="/about/"><span>О компании</span></a></td>
+						
+					
+					
+				
+					
+					
+													<td><a class="item_menu" href="/funds/"><span>Фонды</span></a></td>
+						
+					
+					
+				
+					
+					
+													<td><a class="item_menu parent_link sel" href="/documents/"><span>Раскрытие информации</span></a></td>
+								
+						
+					
+					
+				
+					
+					
+						
+					
+					
+				
+					
+					
+						
+					
+					
+				
+					
+					
+						
+					
+					
+				
+					
+					
+						
+					
+					
+				
+					
+					
+													<td><a class="item_menu" href="/contacts/"><span>Контакты</span></a></td>
+						
+					
+					
+												</tr>
+			</tbody></table>
+		</div>
+	</div>
+    <div id="content" class="inner_page">
+                <div class="left_column_bg"></div>
+        <div class="left_column">
+            
+			<div class="left_menu">
+				<ul>
+				
+				
+					
+					
+													<li class="level1 sel"><a href="/documents">Расчёт размера собственных средств</a></li>
+						
+					
+					
+				
+					
+					
+													<li class="level1"><a href="/documents/licences/">Лицензия</a></li>
+						
+					
+					
+				
+					
+					
+													<li class="level1"><a href="/documents/audit/">Аудит и финансовая отчетность</a></li>
+						
+					
+					
+				
+					
+					
+													<li class="level1"><a href="/documents/other/">Другие документы</a></li>
+						
+					
+					
+				
+								
+				
+				</ul>
+			</div>
+        </div>
+        <div class="center_col">
+                        <h1><span>Раскрытие информации</span></h1><div class="docs_list_block">
+	<div class="filter_year">
+	        <a href="#" data-year_id="37" class="sel">2023</a>
+	        <a href="#" data-year_id="35" class="">2022</a>
+	        <a href="#" data-year_id="32" class="">2021</a>
+	        <a href="#" data-year_id="30" class="">2020</a>
+	        <a href="#" data-year_id="15" class="">2019</a>
+	        <a href="#" data-year_id="7" class="">2018</a>
+	        <a href="#" data-year_id="6" class="">2017</a>
+		</div>
+	<div class="title_docs">ОФИЦИАЛЬНЫЕ Документы</div>
+			<div class="docs_list" id="year_id_37">
+					<div class="item">
+				<div class="doc_icon">
+					<a href="/upload/iblock/383/sobsr_31052023.pdf" target="_blank" style="display:block;text-decoration:none;">
+					<img src="/bitrix/templates/proton/images/pdf_icon.png" alt="" class="icon">
+					<div class="date">31.05.2023</div>
+					</a>
+				</div>
+				<div class="doc_info">
+					<!--Документ бессрочного хранения-->
+					<div class="name">Расчет размера собственных средств по состоянию на 31 мая 2023г. Опубликовано 13.06.2023, время – 17:50. Доступно в течение 3(трех) лет со дня раскрытия.</div>
+				</div>
+			</div>	
+					<div class="item">
+				<div class="doc_icon">
+					<a href="/upload/iblock/3fc/sobsr_30042023.pdf" target="_blank" style="display:block;text-decoration:none;">
+					<img src="/bitrix/templates/proton/images/pdf_icon.png" alt="" class="icon">
+					<div class="date">30.04.2023</div>
+					</a>
+				</div>
+				<div class="doc_info">
+					<!--Документ бессрочного хранения-->
+					<div class="name">Расчет размера собственных средств по состоянию на 30 апреля 2023г. Опубликовано 12.05.2023, время – 14:10. Доступно в течение 3(трех) лет со дня раскрытия.</div>
+				</div>
+			</div>	
+					<div class="item">
+				<div class="doc_icon">
+					<a href="/upload/iblock/774/sobsr_31032023.pdf" target="_blank" style="display:block;text-decoration:none;">
+					<img src="/bitrix/templates/proton/images/pdf_icon.png" alt="" class="icon">
+					<div class="date">31.03.2023</div>
+					</a>
+				</div>
+				<div class="doc_info">
+					<!--Документ бессрочного хранения-->
+					<div class="name">Расчет размера собственных средств по состоянию на 31 марта 2023г. Опубликовано 12.04.2023, время – 17:30. Доступно в течение 3(трех) лет со дня раскрытия.</div>
+				</div>
+			</div>	
+					<div class="item">
+				<div class="doc_icon">
+					<a href="/upload/iblock/6e5/sobsr_28022023.pdf" target="_blank" style="display:block;text-decoration:none;">
+					<img src="/bitrix/templates/proton/images/pdf_icon.png" alt="" class="icon">
+					<div class="date">28.02.2023</div>
+					</a>
+				</div>
+				<div class="doc_info">
+					<!--Документ бессрочного хранения-->
+					<div class="name">Расчет размера собственных средств по состоянию на 28 февраля 2023г. Опубликовано 13.03.2023, время – 17:40. Доступно в течение 3(трех) лет со дня раскрытия.</div>
+				</div>
+			</div>	
+					<div class="item">
+				<div class="doc_icon">
+					<a href="/upload/iblock/37b/sobsr_31012023.pdf" target="_blank" style="display:block;text-decoration:none;">
+					<img src="/bitrix/templates/proton/images/pdf_icon.png" alt="" class="icon">
+					<div class="date">31.01.2023</div>
+					</a>
+				</div>
+				<div class="doc_info">
+					<!--Документ бессрочного хранения-->
+					<div class="name">Расчет размера собственных средств по состоянию на 31 января 2023г. Опубликовано 14.02.2023, время – 16:40. Доступно в течение 3(трех) лет со дня раскрытия.</div>
+				</div>
+			</div>	
+				</div>
+			<div class="docs_list" style="display:none;" id="year_id_35">
+					<div class="item">
+				<div class="doc_icon">
+					<a href="/upload/iblock/694/sobsr_31122022.pdf" target="_blank" style="display:block;text-decoration:none;">
+					<img src="/bitrix/templates/proton/images/pdf_icon.png" alt="" class="icon">
+					<div class="date">31.12.2022</div>
+					</a>
+				</div>
+				<div class="doc_info">
+					<!--Документ бессрочного хранения-->
+					<div class="name">Расчет размера собственных средств по состоянию на 31 декабря 2022 г. Опубликовано 18.01.2023, время – 15:00. Доступно в течение 3(трех) лет со дня раскрытия.</div>
+				</div>
+			</div>	
+					<div class="item">
+				<div class="doc_icon">
+					<a href="/upload/iblock/e69/sobsr_30112022.pdf" target="_blank" style="display:block;text-decoration:none;">
+					<img src="/bitrix/templates/proton/images/pdf_icon.png" alt="" class="icon">
+					<div class="date">30.11.2022</div>
+					</a>
+				</div>
+				<div class="doc_info">
+					<!--Документ бессрочного хранения-->
+					<div class="name">Расчет размера собственных средств по состоянию на 30 ноября 2022 г. Опубликовано 09.12.2022, время – 16:45. Доступно в течение 3(трех) лет со дня раскрытия.</div>
+				</div>
+			</div>	
+					<div class="item">
+				<div class="doc_icon">
+					<a href="/upload/iblock/a74/sobsr_31102022.pdf" target="_blank" style="display:block;text-decoration:none;">
+					<img src="/bitrix/templates/proton/images/pdf_icon.png" alt="" class="icon">
+					<div class="date">31.10.2022</div>
+					</a>
+				</div>
+				<div class="doc_info">
+					<!--Документ бессрочного хранения-->
+					<div class="name">Расчет размера собственных средств по состоянию на 31 октября 2022 г. Опубликовано 10.11.2022, время – 16:00. Доступно в течение 3(трех) лет со дня раскрытия.</div>
+				</div>
+			</div>	
+					<div class="item">
+				<div class="doc_icon">
+					<a href="/upload/iblock/814/sobsr_30092022.pdf" target="_blank" style="display:block;text-decoration:none;">
+					<img src="/bitrix/templates/proton/images/pdf_icon.png" alt="" class="icon">
+					<div class="date">30.09.2022</div>
+					</a>
+				</div>
+				<div class="doc_info">
+					<!--Документ бессрочного хранения-->
+					<div class="name">Расчет размера собственных средств по состоянию на 30 сентября 2022 г. Опубликовано 11.10.2022, время – 18:14. Доступно в течение 3(трех) лет со дня раскрытия.</div>
+				</div>
+			</div>	
+					<div class="item">
+				<div class="doc_icon">
+					<a href="/upload/iblock/39b/sobsr_31082022.pdf" target="_blank" style="display:block;text-decoration:none;">
+					<img src="/bitrix/templates/proton/images/pdf_icon.png" alt="" class="icon">
+					<div class="date">31.08.2022</div>
+					</a>
+				</div>
+				<div class="doc_info">
+					<!--Документ бессрочного хранения-->
+					<div class="name">Расчет размера собственных средств по состоянию на 31 августа 2022 г. Опубликовано 12.09.2022, время – 11:14. Доступно в течение 3(трех) лет со дня раскрытия.</div>
+				</div>
+			</div>	
+					<div class="item">
+				<div class="doc_icon">
+					<a href="/upload/iblock/e57/sobsr_31072022.pdf" target="_blank" style="display:block;text-decoration:none;">
+					<img src="/bitrix/templates/proton/images/pdf_icon.png" alt="" class="icon">
+					<div class="date">31.07.2022</div>
+					</a>
+				</div>
+				<div class="doc_info">
+					<!--Документ бессрочного хранения-->
+					<div class="name">Расчет размера собственных средств по состоянию на 31 июля 2022 г. Опубликовано 10.08.2022, время – 17:30. Доступно в течение 3(трех) лет со дня раскрытия.</div>
+				</div>
+			</div>	
+					<div class="item">
+				<div class="doc_icon">
+					<a href="/upload/iblock/0d0/sobsr_30062022.pdf" target="_blank" style="display:block;text-decoration:none;">
+					<img src="/bitrix/templates/proton/images/pdf_icon.png" alt="" class="icon">
+					<div class="date">30.06.2022</div>
+					</a>
+				</div>
+				<div class="doc_info">
+					<!--Документ бессрочного хранения-->
+					<div class="name">Расчет размера собственных средств по состоянию на 30 июня 2022 г. Опубликовано 14.07.2022, время – 12:50. Доступно в течение 3(трех) лет со дня раскрытия.</div>
+				</div>
+			</div>	
+					<div class="item">
+				<div class="doc_icon">
+					<a href="/upload/iblock/391/sobsr_31052022.pdf" target="_blank" style="display:block;text-decoration:none;">
+					<img src="/bitrix/templates/proton/images/pdf_icon.png" alt="" class="icon">
+					<div class="date">31.05.2022</div>
+					</a>
+				</div>
+				<div class="doc_info">
+					<!--Документ бессрочного хранения-->
+					<div class="name">Расчет размера собственных средств по состоянию на 31 мая 2022 г. Опубликовано 14.06.2022, время – 17:25. Доступно в течение 3(трех) лет со дня раскрытия.</div>
+				</div>
+			</div>	
+					<div class="item">
+				<div class="doc_icon">
+					<a href="/upload/iblock/362/sobsr_30042022.pdf" target="_blank" style="display:block;text-decoration:none;">
+					<img src="/bitrix/templates/proton/images/pdf_icon.png" alt="" class="icon">
+					<div class="date">30.04.2022</div>
+					</a>
+				</div>
+				<div class="doc_info">
+					<!--Документ бессрочного хранения-->
+					<div class="name">Расчет размера собственных средств по состоянию на 30 апреля 2022 г. Опубликовано 18.05.2022, время – 14:25. Доступно в течение 3(трех) лет со дня раскрытия.</div>
+				</div>
+			</div>	
+					<div class="item">
+				<div class="doc_icon">
+					<a href="/upload/iblock/d50/sobsr_31032022.pdf" target="_blank" style="display:block;text-decoration:none;">
+					<img src="/bitrix/templates/proton/images/pdf_icon.png" alt="" class="icon">
+					<div class="date">31.03.2022</div>
+					</a>
+				</div>
+				<div class="doc_info">
+					<!--Документ бессрочного хранения-->
+					<div class="name">Расчет размера собственных средств по состоянию на 31 марта 2022 г. Опубликовано 13.04.2022, время – 11:35. Доступно в течение 3(трех) лет со дня раскрытия.</div>
+				</div>
+			</div>	
+					<div class="item">
+				<div class="doc_icon">
+					<a href="/upload/iblock/42b/sobsr_28022022.pdf" target="_blank" style="display:block;text-decoration:none;">
+					<img src="/bitrix/templates/proton/images/pdf_icon.png" alt="" class="icon">
+					<div class="date">28.02.2022</div>
+					</a>
+				</div>
+				<div class="doc_info">
+					<!--Документ бессрочного хранения-->
+					<div class="name">Расчет размера собственных средств по состоянию на 28 февраля 2022 г. Опубликовано 15.03.2022, время – 13:45. Доступно в течение 3(трех) лет со дня раскрытия.</div>
+				</div>
+			</div>	
+					<div class="item">
+				<div class="doc_icon">
+					<a href="/upload/iblock/a84/sobsr_31012022.pdf" target="_blank" style="display:block;text-decoration:none;">
+					<img src="/bitrix/templates/proton/images/pdf_icon.png" alt="" class="icon">
+					<div class="date">31.01.2022</div>
+					</a>
+				</div>
+				<div class="doc_info">
+					<!--Документ бессрочного хранения-->
+					<div class="name">Расчет размера собственных средств по состоянию на 31 января 2022 г. Опубликовано 15.02.2022, время – 12:30. Доступно в течение 3(трех) лет со дня раскрытия.</div>
+				</div>
+			</div>	
+				</div>
+			<div class="docs_list" style="display:none;" id="year_id_32">
+					<div class="item">
+				<div class="doc_icon">
+					<a href="/upload/iblock/063/sobsr_31122021.pdf" target="_blank" style="display:block;text-decoration:none;">
+					<img src="/bitrix/templates/proton/images/pdf_icon.png" alt="" class="icon">
+					<div class="date">31.12.2021</div>
+					</a>
+				</div>
+				<div class="doc_info">
+					<!--Документ бессрочного хранения-->
+					<div class="name">Расчет размера собственных средств по состоянию на 31 декабря 2021 г. Опубликовано 20.01.2022, время – 15:50. Доступно в течение 3(трех) лет со дня раскрытия.</div>
+				</div>
+			</div>	
+					<div class="item">
+				<div class="doc_icon">
+					<a href="/upload/iblock/a29/sobsr_30112021.pdf" target="_blank" style="display:block;text-decoration:none;">
+					<img src="/bitrix/templates/proton/images/pdf_icon.png" alt="" class="icon">
+					<div class="date">30.11.2021</div>
+					</a>
+				</div>
+				<div class="doc_info">
+					<!--Документ бессрочного хранения-->
+					<div class="name">Расчет размера собственных средств по состоянию на 30 ноября 2021 г. Опубликовано 17.12.2021, время – 16:50. Доступно в течение 12 месяцев с даты размещения.</div>
+				</div>
+			</div>	
+					<div class="item">
+				<div class="doc_icon">
+					<a href="/upload/iblock/3c7/sobsr_31102021.pdf" target="_blank" style="display:block;text-decoration:none;">
+					<img src="/bitrix/templates/proton/images/pdf_icon.png" alt="" class="icon">
+					<div class="date">31.10.2021</div>
+					</a>
+				</div>
+				<div class="doc_info">
+					<!--Документ бессрочного хранения-->
+					<div class="name">Расчет размера собственных средств по состоянию на 31 октября 2021 г. Опубликовано 17.11.2021, время – 13:35. Доступно в течение 12 месяцев с даты размещения.</div>
+				</div>
+			</div>	
+					<div class="item">
+				<div class="doc_icon">
+					<a href="/upload/iblock/b17/sobsr_30092021.pdf" target="_blank" style="display:block;text-decoration:none;">
+					<img src="/bitrix/templates/proton/images/pdf_icon.png" alt="" class="icon">
+					<div class="date">30.09.2021</div>
+					</a>
+				</div>
+				<div class="doc_info">
+					<!--Документ бессрочного хранения-->
+					<div class="name">Расчет размера собственных средств по состоянию на 30 сентября 2021 г. Опубликовано 12.10.2021, время – 17:50. Доступно в течение 12 месяцев с даты размещения.</div>
+				</div>
+			</div>	
+					<div class="item">
+				<div class="doc_icon">
+					<a href="/upload/iblock/8f0/sobsr_31082021.pdf" target="_blank" style="display:block;text-decoration:none;">
+					<img src="/bitrix/templates/proton/images/pdf_icon.png" alt="" class="icon">
+					<div class="date">31.08.2021</div>
+					</a>
+				</div>
+				<div class="doc_info">
+					<!--Документ бессрочного хранения-->
+					<div class="name">Расчет размера собственных средств по состоянию на 31 августа 2021 г. Опубликовано 14.09.2021, время – 18:02. Доступно в течение 12 месяцев с даты размещения.</div>
+				</div>
+			</div>	
+					<div class="item">
+				<div class="doc_icon">
+					<a href="/upload/iblock/2fb/sobsr_31072021.pdf" target="_blank" style="display:block;text-decoration:none;">
+					<img src="/bitrix/templates/proton/images/pdf_icon.png" alt="" class="icon">
+					<div class="date">31.07.2021</div>
+					</a>
+				</div>
+				<div class="doc_info">
+					<!--Документ бессрочного хранения-->
+					<div class="name">Расчет размера собственных средств по состоянию на 31 июля 2021 г. Опубликовано 10.08.2021, время – 16:10. Доступно в течение 12 месяцев с даты размещения.</div>
+				</div>
+			</div>	
+					<div class="item">
+				<div class="doc_icon">
+					<a href="/upload/iblock/7f8/sobsr_30062021.pdf" target="_blank" style="display:block;text-decoration:none;">
+					<img src="/bitrix/templates/proton/images/pdf_icon.png" alt="" class="icon">
+					<div class="date">30.06.2021</div>
+					</a>
+				</div>
+				<div class="doc_info">
+					<!--Документ бессрочного хранения-->
+					<div class="name">Расчет размера собственных средств по состоянию на 30 июня 2021 г. Опубликовано 12.07.2021, время – 15:22. Доступно в течение 12 месяцев с даты размещения.</div>
+				</div>
+			</div>	
+					<div class="item">
+				<div class="doc_icon">
+					<a href="/upload/iblock/3d3/sobsr_31052021.pdf" target="_blank" style="display:block;text-decoration:none;">
+					<img src="/bitrix/templates/proton/images/pdf_icon.png" alt="" class="icon">
+					<div class="date">31.05.2021</div>
+					</a>
+				</div>
+				<div class="doc_info">
+					<!--Документ бессрочного хранения-->
+					<div class="name">Расчет размера собственных средств по состоянию на 31 мая 2021 г. Опубликовано 08.06.2021, время – 10:00. Доступно в течение 12 месяцев с даты размещения.</div>
+				</div>
+			</div>	
+					<div class="item">
+				<div class="doc_icon">
+					<a href="/upload/iblock/251/sobsr_30042021.pdf" target="_blank" style="display:block;text-decoration:none;">
+					<img src="/bitrix/templates/proton/images/pdf_icon.png" alt="" class="icon">
+					<div class="date">30.04.2021</div>
+					</a>
+				</div>
+				<div class="doc_info">
+					<!--Документ бессрочного хранения-->
+					<div class="name">Расчет размера собственных средств по состоянию на 30 апреля 2021 г. Опубликовано 24.05.2021, время – 15:58. Доступно в течение 12 месяцев с даты размещения.</div>
+				</div>
+			</div>	
+					<div class="item">
+				<div class="doc_icon">
+					<a href="/upload/iblock/7d7/sobsr_31032021.pdf" target="_blank" style="display:block;text-decoration:none;">
+					<img src="/bitrix/templates/proton/images/pdf_icon.png" alt="" class="icon">
+					<div class="date">31.03.2021</div>
+					</a>
+				</div>
+				<div class="doc_info">
+					<!--Документ бессрочного хранения-->
+					<div class="name">Расчет размера собственных средств по состоянию на 31марта 2021 г. Опубликовано 09.04.2021, время – 13:23. Доступно в течение 12 месяцев с даты размещения.</div>
+				</div>
+			</div>	
+					<div class="item">
+				<div class="doc_icon">
+					<a href="/upload/iblock/628/sobsr_28022021.pdf" target="_blank" style="display:block;text-decoration:none;">
+					<img src="/bitrix/templates/proton/images/pdf_icon.png" alt="" class="icon">
+					<div class="date">28.02.2021</div>
+					</a>
+				</div>
+				<div class="doc_info">
+					<!--Документ бессрочного хранения-->
+					<div class="name">Расчет размера собственных средств по состоянию на 28 февраля 2021 г. Опубликовано 15.03.2021, время – 17:45. Доступно в течение 12 месяцев с даты размещения.</div>
+				</div>
+			</div>	
+					<div class="item">
+				<div class="doc_icon">
+					<a href="/upload/iblock/3db/sobsr_31012021.pdf" target="_blank" style="display:block;text-decoration:none;">
+					<img src="/bitrix/templates/proton/images/pdf_icon.png" alt="" class="icon">
+					<div class="date">31.01.2021</div>
+					</a>
+				</div>
+				<div class="doc_info">
+					<!--Документ бессрочного хранения-->
+					<div class="name">Расчет размера собственных средств по состоянию на 31 января 2021 г. Опубликовано 10.02.2021, время – 17:35. Доступно в течение 12 месяцев с даты размещения.</div>
+				</div>
+			</div>	
+				</div>
+			<div class="docs_list" style="display:none;" id="year_id_30">
+					<div class="item">
+				<div class="doc_icon">
+					<a href="/upload/iblock/909/sobsr_31122020.pdf" target="_blank" style="display:block;text-decoration:none;">
+					<img src="/bitrix/templates/proton/images/pdf_icon.png" alt="" class="icon">
+					<div class="date">31.12.2020</div>
+					</a>
+				</div>
+				<div class="doc_info">
+					<!--Документ бессрочного хранения-->
+					<div class="name">Расчет размера собственных средств по состоянию на 31 декабря 2020 г. Опубликовано 19.01.2021, время – 12:55. Доступно в течение 12 месяцев с даты размещения.</div>
+				</div>
+			</div>	
+					<div class="item">
+				<div class="doc_icon">
+					<a href="/upload/iblock/7e4/sobsr_30112020.pdf" target="_blank" style="display:block;text-decoration:none;">
+					<img src="/bitrix/templates/proton/images/pdf_icon.png" alt="" class="icon">
+					<div class="date">30.11.2020</div>
+					</a>
+				</div>
+				<div class="doc_info">
+					<!--Документ бессрочного хранения-->
+					<div class="name">Расчет размера собственных средств по состоянию на 30 ноября 2020 г. Опубликовано 10.12.2020, время – 12:55. Доступно в течение 12 месяцев с даты размещения.</div>
+				</div>
+			</div>	
+					<div class="item">
+				<div class="doc_icon">
+					<a href="/upload/iblock/afa/sobsr_31102020.pdf" target="_blank" style="display:block;text-decoration:none;">
+					<img src="/bitrix/templates/proton/images/pdf_icon.png" alt="" class="icon">
+					<div class="date">31.10.2020</div>
+					</a>
+				</div>
+				<div class="doc_info">
+					<!--Документ бессрочного хранения-->
+					<div class="name">Расчет размера собственных средств по состоянию на 31 октября 2020 г. Опубликовано 13.11.2020, время – 15:10. Доступно в течение 12 месяцев с даты размещения.</div>
+				</div>
+			</div>	
+					<div class="item">
+				<div class="doc_icon">
+					<a href="/upload/iblock/434/sobsr_30092020.pdf" target="_blank" style="display:block;text-decoration:none;">
+					<img src="/bitrix/templates/proton/images/pdf_icon.png" alt="" class="icon">
+					<div class="date">30.09.2020</div>
+					</a>
+				</div>
+				<div class="doc_info">
+					<!--Документ бессрочного хранения-->
+					<div class="name">Расчет размера собственных средств по состоянию на 30 сентября 2020 г. Опубликовано 15.10.2020, время – 12:00. Доступно в течение 12 месяцев с даты размещения.</div>
+				</div>
+			</div>	
+					<div class="item">
+				<div class="doc_icon">
+					<a href="/upload/iblock/b87/sobsr_31082020.pdf" target="_blank" style="display:block;text-decoration:none;">
+					<img src="/bitrix/templates/proton/images/pdf_icon.png" alt="" class="icon">
+					<div class="date">31.08.2020</div>
+					</a>
+				</div>
+				<div class="doc_info">
+					<!--Документ бессрочного хранения-->
+					<div class="name">Расчет размера собственных средств по состоянию на 31 августа 2020 г. Опубликовано 10.09.2020, время – 15:47. Доступно в течение 12 месяцев с даты размещения.</div>
+				</div>
+			</div>	
+					<div class="item">
+				<div class="doc_icon">
+					<a href="/upload/iblock/5df/sobsr_31072020.pdf" target="_blank" style="display:block;text-decoration:none;">
+					<img src="/bitrix/templates/proton/images/pdf_icon.png" alt="" class="icon">
+					<div class="date">31.07.2020</div>
+					</a>
+				</div>
+				<div class="doc_info">
+					<!--Документ бессрочного хранения-->
+					<div class="name">Расчет размера собственных средств по состоянию на 31 июля 2020 г. Опубликовано 13.08.2020, время – 16:10. Доступно в течение 12 месяцев с даты размещения.</div>
+				</div>
+			</div>	
+					<div class="item">
+				<div class="doc_icon">
+					<a href="/upload/iblock/9e5/sobsr_30062020.pdf" target="_blank" style="display:block;text-decoration:none;">
+					<img src="/bitrix/templates/proton/images/pdf_icon.png" alt="" class="icon">
+					<div class="date">30.06.2020</div>
+					</a>
+				</div>
+				<div class="doc_info">
+					<!--Документ бессрочного хранения-->
+					<div class="name">Расчет размера собственных средств по состоянию на 30 июня 2020 г. Опубликовано 14.07.2020, время – 15:33. Доступно в течение 12 месяцев с даты размещения.</div>
+				</div>
+			</div>	
+					<div class="item">
+				<div class="doc_icon">
+					<a href="/upload/iblock/3aa/sobsr_31052020.pdf" target="_blank" style="display:block;text-decoration:none;">
+					<img src="/bitrix/templates/proton/images/pdf_icon.png" alt="" class="icon">
+					<div class="date">31.05.2020</div>
+					</a>
+				</div>
+				<div class="doc_info">
+					<!--Документ бессрочного хранения-->
+					<div class="name">Расчет размера собственных средств по состоянию на 31 мая 2020 г. Опубликовано 16.06.2020, время – 10:53. Доступно в течение 12 месяцев с даты размещения.</div>
+				</div>
+			</div>	
+					<div class="item">
+				<div class="doc_icon">
+					<a href="/upload/iblock/13d/sobsr_30042020.pdf" target="_blank" style="display:block;text-decoration:none;">
+					<img src="/bitrix/templates/proton/images/pdf_icon.png" alt="" class="icon">
+					<div class="date">30.04.2020</div>
+					</a>
+				</div>
+				<div class="doc_info">
+					<!--Документ бессрочного хранения-->
+					<div class="name">Расчет размера собственных средств по состоянию на 30 апреля 2020 г. Опубликовано 19.05.2020, время – 14:43. Доступно в течение 12 месяцев с даты размещения.</div>
+				</div>
+			</div>	
+					<div class="item">
+				<div class="doc_icon">
+					<a href="/upload/iblock/792/sobsr_31032020.pdf" target="_blank" style="display:block;text-decoration:none;">
+					<img src="/bitrix/templates/proton/images/pdf_icon.png" alt="" class="icon">
+					<div class="date">31.03.2020</div>
+					</a>
+				</div>
+				<div class="doc_info">
+					<!--Документ бессрочного хранения-->
+					<div class="name">Расчет размера собственных средств по состоянию на 31 марта 2020 г. Опубликовано 17.04.2020, время – 13:34. Доступно в течение 12 месяцев с даты размещения.</div>
+				</div>
+			</div>	
+					<div class="item">
+				<div class="doc_icon">
+					<a href="/upload/iblock/cba/sobsr_29022020.pdf" target="_blank" style="display:block;text-decoration:none;">
+					<img src="/bitrix/templates/proton/images/pdf_icon.png" alt="" class="icon">
+					<div class="date">29.02.2020</div>
+					</a>
+				</div>
+				<div class="doc_info">
+					<!--Документ бессрочного хранения-->
+					<div class="name">Расчет размера собственных средств по состоянию на 29 февраля 2020 г. Опубликовано 12.03.2020, время – 17:59. Доступно в течение 12 месяцев с даты размещения.</div>
+				</div>
+			</div>	
+					<div class="item">
+				<div class="doc_icon">
+					<a href="/upload/iblock/819/sobsr_31012020.pdf" target="_blank" style="display:block;text-decoration:none;">
+					<img src="/bitrix/templates/proton/images/pdf_icon.png" alt="" class="icon">
+					<div class="date">31.01.2020</div>
+					</a>
+				</div>
+				<div class="doc_info">
+					<!--Документ бессрочного хранения-->
+					<div class="name">Расчет размера собственных средств по состоянию на 31 января 2020 г. Опубликовано 13.02.2020, время – 17:54. Доступно в течение 12 месяцев с даты размещения.</div>
+				</div>
+			</div>	
+				</div>
+			<div class="docs_list" style="display:none;" id="year_id_15">
+					<div class="item">
+				<div class="doc_icon">
+					<a href="/upload/iblock/575/sobsr_31122019.pdf" target="_blank" style="display:block;text-decoration:none;">
+					<img src="/bitrix/templates/proton/images/pdf_icon.png" alt="" class="icon">
+					<div class="date">31.12.2019</div>
+					</a>
+				</div>
+				<div class="doc_info">
+					<!--Документ бессрочного хранения-->
+					<div class="name">Расчет размера собственных средств по состоянию на 31 декабря 2019 г. Опубликовано 21.01.2019, время – 16:15. Доступно в течение 12 месяцев с даты размещения.</div>
+				</div>
+			</div>	
+					<div class="item">
+				<div class="doc_icon">
+					<a href="/upload/iblock/be0/sobsr_30112019.pdf" target="_blank" style="display:block;text-decoration:none;">
+					<img src="/bitrix/templates/proton/images/pdf_icon.png" alt="" class="icon">
+					<div class="date">30.11.2019</div>
+					</a>
+				</div>
+				<div class="doc_info">
+					<!--Документ бессрочного хранения-->
+					<div class="name">Расчет размера собственных средств по состоянию на 30 ноября 2019 г. Опубликовано 11.12.2019, время – 11:25. Доступно в течение 12 месяцев с даты размещения.</div>
+				</div>
+			</div>	
+					<div class="item">
+				<div class="doc_icon">
+					<a href="/upload/iblock/56b/sobsr_31102019.pdf" target="_blank" style="display:block;text-decoration:none;">
+					<img src="/bitrix/templates/proton/images/pdf_icon.png" alt="" class="icon">
+					<div class="date">31.10.2019</div>
+					</a>
+				</div>
+				<div class="doc_info">
+					<!--Документ бессрочного хранения-->
+					<div class="name">Расчет размера собственных средств по состоянию на 31 октября 2019 г. Опубликовано 12.11.2019, время – 16:25. Доступно в течение 12 месяцев с даты размещения.</div>
+				</div>
+			</div>	
+					<div class="item">
+				<div class="doc_icon">
+					<a href="/upload/iblock/6b6/sobsr_30092019.pdf" target="_blank" style="display:block;text-decoration:none;">
+					<img src="/bitrix/templates/proton/images/pdf_icon.png" alt="" class="icon">
+					<div class="date">30.09.2019</div>
+					</a>
+				</div>
+				<div class="doc_info">
+					<!--Документ бессрочного хранения-->
+					<div class="name">Расчет размера собственных средств по состоянию на 30 сентября 2019 г. Опубликовано 15.10.2019, время – 18:05. Доступно в течение 12 месяцев с даты размещения.</div>
+				</div>
+			</div>	
+					<div class="item">
+				<div class="doc_icon">
+					<a href="/upload/iblock/eb5/sobsr_31082019.pdf" target="_blank" style="display:block;text-decoration:none;">
+					<img src="/bitrix/templates/proton/images/pdf_icon.png" alt="" class="icon">
+					<div class="date">31.08.2019</div>
+					</a>
+				</div>
+				<div class="doc_info">
+					<!--Документ бессрочного хранения-->
+					<div class="name">Расчет размера собственных средств по состоянию на 31 августа 2019 г. Опубликовано 10.09.2019, время – 18:53. Доступно в течение 12 месяцев с даты размещения.</div>
+				</div>
+			</div>	
+					<div class="item">
+				<div class="doc_icon">
+					<a href="/upload/iblock/77b/sobsr_31072019.pdf" target="_blank" style="display:block;text-decoration:none;">
+					<img src="/bitrix/templates/proton/images/pdf_icon.png" alt="" class="icon">
+					<div class="date">31.07.2019</div>
+					</a>
+				</div>
+				<div class="doc_info">
+					<!--Документ бессрочного хранения-->
+					<div class="name">Расчет размера собственных средств по состоянию на 31 июля 2019 г. Опубликовано 13.08.2019, время – 16:05. Доступно в течение 12 месяцев с даты размещения.</div>
+				</div>
+			</div>	
+					<div class="item">
+				<div class="doc_icon">
+					<a href="/upload/iblock/711/sobsr_30062019.pdf" target="_blank" style="display:block;text-decoration:none;">
+					<img src="/bitrix/templates/proton/images/pdf_icon.png" alt="" class="icon">
+					<div class="date">30.06.2019</div>
+					</a>
+				</div>
+				<div class="doc_info">
+					<!--Документ бессрочного хранения-->
+					<div class="name">Расчет размера собственных средств по состоянию на 30 июня 2019 г. Опубликовано 11.07.2019, время – 15:55. Доступно в течение 12 месяцев с даты размещения.</div>
+				</div>
+			</div>	
+					<div class="item">
+				<div class="doc_icon">
+					<a href="/upload/iblock/0b3/sobsr_31052019.pdf" target="_blank" style="display:block;text-decoration:none;">
+					<img src="/bitrix/templates/proton/images/pdf_icon.png" alt="" class="icon">
+					<div class="date">31.05.2019</div>
+					</a>
+				</div>
+				<div class="doc_info">
+					<!--Документ бессрочного хранения-->
+					<div class="name">Расчет размера собственных средств по состоянию на 31 мая 2019 г. Опубликовано 13.06.2019, время – 17:50. Доступно в течение 12 месяцев с даты размещения.</div>
+				</div>
+			</div>	
+					<div class="item">
+				<div class="doc_icon">
+					<a href="/upload/iblock/5a7/sobsr_30042019.pdf" target="_blank" style="display:block;text-decoration:none;">
+					<img src="/bitrix/templates/proton/images/pdf_icon.png" alt="" class="icon">
+					<div class="date">30.04.2019</div>
+					</a>
+				</div>
+				<div class="doc_info">
+					<!--Документ бессрочного хранения-->
+					<div class="name">Расчет размера собственных средств по состоянию на 30 апреля 2019 г. Опубликовано 23.05.2019, время – 15:50. Доступно в течение 12 месяцев с даты размещения.</div>
+				</div>
+			</div>	
+					<div class="item">
+				<div class="doc_icon">
+					<a href="/upload/iblock/4ab/sobsr_31032019.pdf" target="_blank" style="display:block;text-decoration:none;">
+					<img src="/bitrix/templates/proton/images/pdf_icon.png" alt="" class="icon">
+					<div class="date">31.03.2019</div>
+					</a>
+				</div>
+				<div class="doc_info">
+					<!--Документ бессрочного хранения-->
+					<div class="name">Расчет размера собственных средств по состоянию на 31 марта 2019 г. Опубликовано 12.04.2019, время – 10:55. Доступно в течение 12 месяцев с даты размещения.</div>
+				</div>
+			</div>	
+					<div class="item">
+				<div class="doc_icon">
+					<a href="/upload/iblock/850/sobsr_28022019.pdf" target="_blank" style="display:block;text-decoration:none;">
+					<img src="/bitrix/templates/proton/images/pdf_icon.png" alt="" class="icon">
+					<div class="date">28.02.2019</div>
+					</a>
+				</div>
+				<div class="doc_info">
+					<!--Документ бессрочного хранения-->
+					<div class="name">Расчет размера собственных средств по состоянию на 28 февраля 2019 г. Опубликовано 14.03.2019, время – 16:21. Доступно в течение 12 месяцев с даты размещения.</div>
+				</div>
+			</div>	
+					<div class="item">
+				<div class="doc_icon">
+					<a href="/upload/iblock/6a4/sobsr_31012019.pdf" target="_blank" style="display:block;text-decoration:none;">
+					<img src="/bitrix/templates/proton/images/pdf_icon.png" alt="" class="icon">
+					<div class="date">31.01.2019</div>
+					</a>
+				</div>
+				<div class="doc_info">
+					<!--Документ бессрочного хранения-->
+					<div class="name">Расчет размера собственных средств по состоянию на 31 января 2019 г. Опубликовано 18.02.2019, время – 10:22. Доступно в течение 12 месяцев с даты размещения.</div>
+				</div>
+			</div>	
+				</div>
+			<div class="docs_list" style="display:none;" id="year_id_7">
+					<div class="item">
+				<div class="doc_icon">
+					<a href="/upload/iblock/c5b/sobsr_31122018.pdf" target="_blank" style="display:block;text-decoration:none;">
+					<img src="/bitrix/templates/proton/images/pdf_icon.png" alt="" class="icon">
+					<div class="date">31.12.2018</div>
+					</a>
+				</div>
+				<div class="doc_info">
+					<!--Документ бессрочного хранения-->
+					<div class="name">Расчет размера собственных средств по состоянию на 31 декабря 2018 г. Опубликовано 22.01.2019, время – 12:09. Доступно в течение 12 месяцев с даты размещения.</div>
+				</div>
+			</div>	
+					<div class="item">
+				<div class="doc_icon">
+					<a href="/upload/iblock/458/sobsr_30112018.pdf" target="_blank" style="display:block;text-decoration:none;">
+					<img src="/bitrix/templates/proton/images/pdf_icon.png" alt="" class="icon">
+					<div class="date">30.11.2018</div>
+					</a>
+				</div>
+				<div class="doc_info">
+					<!--Документ бессрочного хранения-->
+					<div class="name">Расчет размера собственных средств по состоянию на 30 ноября 2018 г. Опубликовано 12.12.2018, время – 15:00. Доступно в течение 12 месяцев с даты размещения.</div>
+				</div>
+			</div>	
+					<div class="item">
+				<div class="doc_icon">
+					<a href="/upload/iblock/75d/sobsr_31102018.pdf" target="_blank" style="display:block;text-decoration:none;">
+					<img src="/bitrix/templates/proton/images/pdf_icon.png" alt="" class="icon">
+					<div class="date">31.10.2018</div>
+					</a>
+				</div>
+				<div class="doc_info">
+					<!--Документ бессрочного хранения-->
+					<div class="name">Расчет размера собственных средств по состоянию на 31 октября 2018 г. Опубликовано 16.11.2018, время – 10:53. Доступно в течение 12 месяцев с даты размещения.</div>
+				</div>
+			</div>	
+					<div class="item">
+				<div class="doc_icon">
+					<a href="/upload/iblock/841/sobsr_correct__30092018.pdf" target="_blank" style="display:block;text-decoration:none;">
+					<img src="/bitrix/templates/proton/images/pdf_icon.png" alt="" class="icon">
+					<div class="date">31.01.2019</div>
+					</a>
+				</div>
+				<div class="doc_info">
+					<!--Документ бессрочного хранения-->
+					<div class="name">Корректировка Расчета размера собственных средств по состоянию на 30 сентября 2018 г. Опубликовано 31.01.2019, время – 15:52. Доступно в течение 12 месяцев с даты размещения.</div>
+				</div>
+			</div>	
+					<div class="item">
+				<div class="doc_icon">
+					<a href="/upload/iblock/d5f/sobsr_correct_30092018.pdf" target="_blank" style="display:block;text-decoration:none;">
+					<img src="/bitrix/templates/proton/images/pdf_icon.png" alt="" class="icon">
+					<div class="date">16.11.2018</div>
+					</a>
+				</div>
+				<div class="doc_info">
+					<!--Документ бессрочного хранения-->
+					<div class="name">Корректировка Расчета размера собственных средств по состоянию на 30 сентября 2018 г. Опубликовано 16.11.2018, время – 10:50. Доступно в течение 12 месяцев с даты размещения.</div>
+				</div>
+			</div>	
+					<div class="item">
+				<div class="doc_icon">
+					<a href="/upload/iblock/93b/sobsr_correct_30092019.pdf" target="_blank" style="display:block;text-decoration:none;">
+					<img src="/bitrix/templates/proton/images/pdf_icon.png" alt="" class="icon">
+					<div class="date">29.10.2018</div>
+					</a>
+				</div>
+				<div class="doc_info">
+					<!--Документ бессрочного хранения-->
+					<div class="name">Корректировка Расчета размера собственных средств по состоянию на 30 сентября 2018 г. Опубликовано 29102018, время – 1243. Доступно в течение 12 месяцев с даты размещения.</div>
+				</div>
+			</div>	
+					<div class="item">
+				<div class="doc_icon">
+					<a href="/upload/iblock/12b/sobsr_30092018.pdf" target="_blank" style="display:block;text-decoration:none;">
+					<img src="/bitrix/templates/proton/images/pdf_icon.png" alt="" class="icon">
+					<div class="date">30.09.2018</div>
+					</a>
+				</div>
+				<div class="doc_info">
+					<!--Документ бессрочного хранения-->
+					<div class="name">Расчет размера собственных средств по состоянию на 30 сентября 2018 г. Опубликовано 11.10.2018, время 16:46. Доступно в течение 12 месяцев с даты размещения.</div>
+				</div>
+			</div>	
+					<div class="item">
+				<div class="doc_icon">
+					<a href="/upload/iblock/52f/sobsr_correct__31082018.pdf" target="_blank" style="display:block;text-decoration:none;">
+					<img src="/bitrix/templates/proton/images/pdf_icon.png" alt="" class="icon">
+					<div class="date">31.01.2019</div>
+					</a>
+				</div>
+				<div class="doc_info">
+					<!--Документ бессрочного хранения-->
+					<div class="name">Корректировка Расчета размера собственных средств по состоянию на 31 августа 2018 г. Опубликовано 30.01.2019, время – 15:50. Доступно в течение 12 месяцев с даты размещения.</div>
+				</div>
+			</div>	
+					<div class="item">
+				<div class="doc_icon">
+					<a href="/upload/iblock/4b3/sobsr_correct_31082018.pdf" target="_blank" style="display:block;text-decoration:none;">
+					<img src="/bitrix/templates/proton/images/pdf_icon.png" alt="" class="icon">
+					<div class="date">16.11.2018</div>
+					</a>
+				</div>
+				<div class="doc_info">
+					<!--Документ бессрочного хранения-->
+					<div class="name">Корректировка Расчета размера собственных средств по состоянию на 31 августа 2018 г. Опубликовано 16112018, время – 1050. Доступно в течение 12 месяцев с даты размещения.</div>
+				</div>
+			</div>	
+					<div class="item">
+				<div class="doc_icon">
+					<a href="/upload/iblock/09e/sobsr_31082018.pdf" target="_blank" style="display:block;text-decoration:none;">
+					<img src="/bitrix/templates/proton/images/pdf_icon.png" alt="" class="icon">
+					<div class="date">31.08.2018</div>
+					</a>
+				</div>
+				<div class="doc_info">
+					<!--Документ бессрочного хранения-->
+					<div class="name">Расчет размера собственных средств по состоянию на 31 августа 2018 г. Опубликовано 13.09.2018, время 18:12. Доступно в течение 12 месяцев с даты размещения.</div>
+				</div>
+			</div>	
+					<div class="item">
+				<div class="doc_icon">
+					<a href="/upload/iblock/bb2/sobsr_correct_31072018.pdf" target="_blank" style="display:block;text-decoration:none;">
+					<img src="/bitrix/templates/proton/images/pdf_icon.png" alt="" class="icon">
+					<div class="date">31.01.2019</div>
+					</a>
+				</div>
+				<div class="doc_info">
+					<!--Документ бессрочного хранения-->
+					<div class="name">Корректировка Расчета размера собственных средств по состоянию на 31 июля 2018 г. Опубликовано 30.01.2019, время – 15:50. Доступно в течение 12 месяцев с даты размещения.</div>
+				</div>
+			</div>	
+					<div class="item">
+				<div class="doc_icon">
+					<a href="/upload/iblock/384/sobsr_31072018.pdf" target="_blank" style="display:block;text-decoration:none;">
+					<img src="/bitrix/templates/proton/images/pdf_icon.png" alt="" class="icon">
+					<div class="date">31.07.2018</div>
+					</a>
+				</div>
+				<div class="doc_info">
+					<!--Документ бессрочного хранения-->
+					<div class="name">Расчет размера собственных средств по состоянию на 31 июля 2018 г. Опубликовано 14.08.2018, время 18:00. Доступно в течение 12 месяцев с даты размещения.</div>
+				</div>
+			</div>	
+					<div class="item">
+				<div class="doc_icon">
+					<a href="/upload/iblock/0f8/sobsr_30062018_correct.pdf" target="_blank" style="display:block;text-decoration:none;">
+					<img src="/bitrix/templates/proton/images/pdf_icon.png" alt="" class="icon">
+					<div class="date">27.07.2018</div>
+					</a>
+				</div>
+				<div class="doc_info">
+					<!--Документ бессрочного хранения-->
+					<div class="name">Корректировка Расчета размера собственных средств по состоянию на 30 июня 2018 г. Опубликовано 27.07.2018, время – 13:44. Доступно в течение 12 месяцев с даты размещения.</div>
+				</div>
+			</div>	
+					<div class="item">
+				<div class="doc_icon">
+					<a href="/upload/iblock/c6c/sobsr_30062019.pdf" target="_blank" style="display:block;text-decoration:none;">
+					<img src="/bitrix/templates/proton/images/pdf_icon.png" alt="" class="icon">
+					<div class="date">30.06.2018</div>
+					</a>
+				</div>
+				<div class="doc_info">
+					<!--Документ бессрочного хранения-->
+					<div class="name">Расчет размера собственных средств по состоянию на 30 июня 2018 г. Опубликовано 12.07.2018, время 17:02. Доступно в течение 12 месяцев с даты размещения.</div>
+				</div>
+			</div>	
+					<div class="item">
+				<div class="doc_icon">
+					<a href="/upload/iblock/435/sobsr_31052018_correct.pdf" target="_blank" style="display:block;text-decoration:none;">
+					<img src="/bitrix/templates/proton/images/pdf_icon.png" alt="" class="icon">
+					<div class="date">27.10.2018</div>
+					</a>
+				</div>
+				<div class="doc_info">
+					<!--Документ бессрочного хранения-->
+					<div class="name">Корректировка Расчета размера собственных средств по состоянию на 31 мая 2018 г. Опубликовано 27.07.2018, время – 13:43. Доступно в течение 12 месяцев с даты размещения.</div>
+				</div>
+			</div>	
+					<div class="item">
+				<div class="doc_icon">
+					<a href="/upload/iblock/826/sobsr_31052018.pdf" target="_blank" style="display:block;text-decoration:none;">
+					<img src="/bitrix/templates/proton/images/pdf_icon.png" alt="" class="icon">
+					<div class="date">31.05.2018</div>
+					</a>
+				</div>
+				<div class="doc_info">
+					<!--Документ бессрочного хранения-->
+					<div class="name">Расчет размера собственных средств по состоянию на 31 мая 2018 г. Опубликовано 15.06.2018, время 11:02. Доступно в течение 12 месяцев с даты размещения.</div>
+				</div>
+			</div>	
+					<div class="item">
+				<div class="doc_icon">
+					<a href="/upload/iblock/c82/sobsr_30042018.pdf" target="_blank" style="display:block;text-decoration:none;">
+					<img src="/bitrix/templates/proton/images/pdf_icon.png" alt="" class="icon">
+					<div class="date">30.04.2018</div>
+					</a>
+				</div>
+				<div class="doc_info">
+					<!--Документ бессрочного хранения-->
+					<div class="name">Расчет размера собственных средств по состоянию на 30 апреля 2018 г. Опубликовано 15.05.2018, время - 16:27.</div>
+				</div>
+			</div>	
+					<div class="item">
+				<div class="doc_icon">
+					<a href="/upload/iblock/6a9/sobsr_31032018.pdf" target="_blank" style="display:block;text-decoration:none;">
+					<img src="/bitrix/templates/proton/images/pdf_icon.png" alt="" class="icon">
+					<div class="date">31.03.2018</div>
+					</a>
+				</div>
+				<div class="doc_info">
+					<!--Документ бессрочного хранения-->
+					<div class="name">Расчет размера собственных средств по состоянию на 31 марта 2018 года. Опубликовано 13.04.2018, время 13:39.</div>
+				</div>
+			</div>	
+					<div class="item">
+				<div class="doc_icon">
+					<a href="/upload/iblock/c6a/sobsr_28022018.pdf" target="_blank" style="display:block;text-decoration:none;">
+					<img src="/bitrix/templates/proton/images/pdf_icon.png" alt="" class="icon">
+					<div class="date">28.02.2018</div>
+					</a>
+				</div>
+				<div class="doc_info">
+					<!--Документ бессрочного хранения-->
+					<div class="name">Расчет размера собственных средств по состоянию на 28 февраля 2018 года. Опубликовано 15.03.2018, время 18:10.</div>
+				</div>
+			</div>	
+					<div class="item">
+				<div class="doc_icon">
+					<a href="/upload/iblock/448/sobsr_31012018.pdf" target="_blank" style="display:block;text-decoration:none;">
+					<img src="/bitrix/templates/proton/images/pdf_icon.png" alt="" class="icon">
+					<div class="date">31.01.2018</div>
+					</a>
+				</div>
+				<div class="doc_info">
+					<!--Документ бессрочного хранения-->
+					<div class="name">Расчет размера собственных средств по состоянию на 31 января 2018 г. Опубликовано 12.02.2018, время - 11:08.</div>
+				</div>
+			</div>	
+				</div>
+			<div class="docs_list" style="display:none;" id="year_id_6">
+					<div class="item">
+				<div class="doc_icon">
+					<a href="/upload/iblock/eb8/sobsr_31122017.pdf" target="_blank" style="display:block;text-decoration:none;">
+					<img src="/bitrix/templates/proton/images/pdf_icon.png" alt="" class="icon">
+					<div class="date">31.12.2017</div>
+					</a>
+				</div>
+				<div class="doc_info">
+					<!--Документ бессрочного хранения-->
+					<div class="name">Расчет размера собственных средств по состоянию на 31 декабря 2017 г. Опубликовано 18.01.2017, время - 18:20.</div>
+				</div>
+			</div>	
+					<div class="item">
+				<div class="doc_icon">
+					<a href="/upload/iblock/8b2/sobsr_30112017.pdf" target="_blank" style="display:block;text-decoration:none;">
+					<img src="/bitrix/templates/proton/images/pdf_icon.png" alt="" class="icon">
+					<div class="date">30.11.2017</div>
+					</a>
+				</div>
+				<div class="doc_info">
+					<!--Документ бессрочного хранения-->
+					<div class="name">Расчет размера собственных средств по состоянию на 30 ноября 2017 г. Опубликовано 12.12.2017, время - 15:45.</div>
+				</div>
+			</div>	
+					<div class="item">
+				<div class="doc_icon">
+					<a href="/upload/iblock/267/sobsr_31102017.pdf" target="_blank" style="display:block;text-decoration:none;">
+					<img src="/bitrix/templates/proton/images/pdf_icon.png" alt="" class="icon">
+					<div class="date">31.10.2017</div>
+					</a>
+				</div>
+				<div class="doc_info">
+					<!--Документ бессрочного хранения-->
+					<div class="name">Расчет размера собственных средств по состоянию на 31 октября 2017 г. Опубликовано 14.11.2017, время - 17:55.</div>
+				</div>
+			</div>	
+					<div class="item">
+				<div class="doc_icon">
+					<a href="/upload/iblock/52f/sobsr_30092017.pdf" target="_blank" style="display:block;text-decoration:none;">
+					<img src="/bitrix/templates/proton/images/pdf_icon.png" alt="" class="icon">
+					<div class="date">30.09.2017</div>
+					</a>
+				</div>
+				<div class="doc_info">
+					<!--Документ бессрочного хранения-->
+					<div class="name">Расчет размера собственных средств по состоянию на 30 сентября 2017 г. Опубликовано 12.10.2017, время - 12:20.</div>
+				</div>
+			</div>	
+					<div class="item">
+				<div class="doc_icon">
+					<a href="/upload/iblock/6f1/sobsr_31082017.pdf" target="_blank" style="display:block;text-decoration:none;">
+					<img src="/bitrix/templates/proton/images/pdf_icon.png" alt="" class="icon">
+					<div class="date">31.08.2017</div>
+					</a>
+				</div>
+				<div class="doc_info">
+					<!--Документ бессрочного хранения-->
+					<div class="name">Расчет размера собственных средств по состоянию на 31 августа 2017 г. Опубликовано 13.09.2017 г., время 11:50.</div>
+				</div>
+			</div>	
+					<div class="item">
+				<div class="doc_icon">
+					<a href="/upload/iblock/2a4/sobsr_310717.pdf" target="_blank" style="display:block;text-decoration:none;">
+					<img src="/bitrix/templates/proton/images/pdf_icon.png" alt="" class="icon">
+					<div class="date">31.07.2017</div>
+					</a>
+				</div>
+				<div class="doc_info">
+					<!--Документ бессрочного хранения-->
+					<div class="name">Расчет размера собственных средств по состоянию на 31 июля 2017 года. Опубликовано 14.08.2017, время 10:20.</div>
+				</div>
+			</div>	
+					<div class="item">
+				<div class="doc_icon">
+					<a href="/upload/iblock/ef6/sobsr_300617.pdf" target="_blank" style="display:block;text-decoration:none;">
+					<img src="/bitrix/templates/proton/images/pdf_icon.png" alt="" class="icon">
+					<div class="date">30.06.2017</div>
+					</a>
+				</div>
+				<div class="doc_info">
+					<!--Документ бессрочного хранения-->
+					<div class="name">Расчет размера собственных средств по состоянию на 30 июня 2017 года. Опубликовано 12.07.2017, время 09:00.</div>
+				</div>
+			</div>	
+					<div class="item">
+				<div class="doc_icon">
+					<a href="/upload/iblock/ac1/sobsr_310517.xls" target="_blank" style="display:block;text-decoration:none;">
+					<img src="/bitrix/templates/proton/images/excel_icon.png" alt="" class="icon">
+					<div class="date">31.05.2017</div>
+					</a>
+				</div>
+				<div class="doc_info">
+					<!--Документ бессрочного хранения-->
+					<div class="name">Расчет размера собственных средств по состоянию на 31 мая 2017 года. Опубликовано 08.06.2017, время 09:40.</div>
+				</div>
+			</div>	
+					<div class="item">
+				<div class="doc_icon">
+					<a href="/upload/iblock/f26/sobsr_300417.xls" target="_blank" style="display:block;text-decoration:none;">
+					<img src="/bitrix/templates/proton/images/excel_icon.png" alt="" class="icon">
+					<div class="date">30.04.2017</div>
+					</a>
+				</div>
+				<div class="doc_info">
+					<!--Документ бессрочного хранения-->
+					<div class="name">Расчет размера собственных средств по состоянию на 30 апреля 2017 года. Опубликовано 17.05.2017, время 13:30.</div>
+				</div>
+			</div>	
+					<div class="item">
+				<div class="doc_icon">
+					<a href="/upload/iblock/c00/sobsr_310317.xls" target="_blank" style="display:block;text-decoration:none;">
+					<img src="/bitrix/templates/proton/images/excel_icon.png" alt="" class="icon">
+					<div class="date">31.03.2017</div>
+					</a>
+				</div>
+				<div class="doc_info">
+					<!--Документ бессрочного хранения-->
+					<div class="name">Расчет размера собственных средств по состоянию на 31 марта 2017 года. Опубликовано 12.04.2017, время 14:30.</div>
+				</div>
+			</div>	
+					<div class="item">
+				<div class="doc_icon">
+					<a href="/upload/iblock/670/sobsr_28022017.xls" target="_blank" style="display:block;text-decoration:none;">
+					<img src="/bitrix/templates/proton/images/excel_icon.png" alt="" class="icon">
+					<div class="date">28.02.2017</div>
+					</a>
+				</div>
+				<div class="doc_info">
+					<!--Документ бессрочного хранения-->
+					<div class="name">Расчет размера собственных средств по состоянию на 28 февраля 2017 г. Опубликовано 13.03.2017, время 10:10.</div>
+				</div>
+			</div>	
+					<div class="item">
+				<div class="doc_icon">
+					<a href="/upload/iblock/dbc/sobsr_31012017.xls" target="_blank" style="display:block;text-decoration:none;">
+					<img src="/bitrix/templates/proton/images/excel_icon.png" alt="" class="icon">
+					<div class="date">31.01.2017</div>
+					</a>
+				</div>
+				<div class="doc_info">
+					<!--Документ бессрочного хранения-->
+					<div class="name">Расчет размера собственных средств по состоянию на 31 января 2017 года. Опубликовано 09.02.2017, время 14:00.</div>
+				</div>
+			</div>	
+				</div>
+	</div>
+		
+				</div>
+				<div class="clear_block"></div>
+	</div>
+	<div id="footer">
+		<div class="footer_cont">
+			<div class="foot_menu">
+				<ul class="level1 item_column1">
+					<li><a href="/">Главная страница</a></li>
+					<li><a href="/about/">О нас</a></li>
+					<li><a href="/funds/">Фонды недвижимости</a>
+						<ul>
+							<li><a href="/funds/">Фонды</a></li>
+							<li><a href="/funds/archive/">Архив фондов</a></li>
+						</ul>
+					</li>
+				</ul>
+				<ul class="level1">
+					<li><a href="/documents/">Раскрытие информации</a>
+						<ul>
+							<li><a href="/documents/">Расчет размера собственных средств</a></li>
+							<li><a href="/documents/licences/">Лицензия</a></li>
+                            <li><a href="/documents/audit/">Аудит</a></li>
+							<li><a href="/documents/other/">Другие документы</a></li>
+						</ul>
+					</li>
+					<li><a href="/contacts/">Контакты</a></li>
+				</ul>
+			</div>
+			<div class="right_foot">
+				<div class="left_txt">
+					<div class="develop_txt">
+						Разработка сайта:<br>
+						<a href="http://global-arts.ru/" target="_blank">GLOBAL ARTS</a>
+					</div>
+				</div>
+				<div class="contacts_foot">
+					<div class="phone_block">
+						Контактный телефон:
+						<div class="phone_num">+7 (495) 645 96 67
+</div>
+					</div>
+					<div class="address_txt">Россия,119285, г. Москва, <br>
+Минская ул., дом&nbsp;2Г, K. 1 <br>
+эт/пом/ком 4/V/7
+	</div>
+				</div>
+			</div>
+		</div>
+	</div>
+</div>
+
+<!-- Yandex.Metrika counter -->
+<script type="text/javascript">
+    (function(m,e,t,r,i,k,a){m[i]=m[i]||function(){(m[i].a=m[i].a||[]).push(arguments)};
+        m[i].l=1*new Date();k=e.createElement(t),a=e.getElementsByTagName(t)[0],k.async=1,k.src=r,a.parentNode.insertBefore(k,a)})
+    (window, document, "script", "https://mc.yandex.ru/metrika/tag.js", "ym");
+
+    ym(55799827, "init", {
+        clickmap:true,
+        trackLinks:true,
+        accurateTrackBounce:true,
+        webvisor:true
+    });
+</script>
+<noscript><div><img src="https://mc.yandex.ru/watch/55799827" style="position:absolute; left:-9999px;" alt="" /></div></noscript>
+<!-- /Yandex.Metrika counter -->
+
+
+<div id="fancybox-tmp"></div><div id="fancybox-loading"><div></div></div><div id="fancybox-overlay"></div><div id="fancybox-wrap"><div id="fancybox-outer"><div class="fancybox-bg" id="fancybox-bg-n"></div><div class="fancybox-bg" id="fancybox-bg-ne"></div><div class="fancybox-bg" id="fancybox-bg-e"></div><div class="fancybox-bg" id="fancybox-bg-se"></div><div class="fancybox-bg" id="fancybox-bg-s"></div><div class="fancybox-bg" id="fancybox-bg-sw"></div><div class="fancybox-bg" id="fancybox-bg-w"></div><div class="fancybox-bg" id="fancybox-bg-nw"></div><div id="fancybox-content"></div><a id="fancybox-close"></a><div id="fancybox-title"></div><a href="javascript:;" id="fancybox-left"><span class="fancy-ico" id="fancybox-left-ico"></span></a><a href="javascript:;" id="fancybox-right"><span class="fancy-ico" id="fancybox-right-ico"></span></a></div></div>

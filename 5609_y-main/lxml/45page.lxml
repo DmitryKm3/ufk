@@ -1,0 +1,119 @@
+ 
+<div id="panel"></div>
+ 
+<div class="main"> 	 
+  <div class="header"> 		<img src="/images/header_bg.jpg" style="width:100%; height:156px"> 		 
+    <div class="logo"><a href="/"><img src="/images/legion_logo.png" alt="ЛЕГИОН - Управляющая компания"></a></div>
+   		 
+    <div class="map_btn"><a href="/map.php" class="header_btn_text"><img src="/images/dribble.png" style="margin:0 12px 0 0; float:left">Карта сайта</a></div>
+   <div class="enter_btn" id="extra-login"><a class="header_btn_text" href="#" rel="#login"><img src="/images/lock.png" style="margin:0 12px 0 0; float:left">Вход для клиентов</a></div>
+	</div>
+ 	 
+  <div class="main_menu"> 
+    <div style="margin:0 auto; width:912px;"> 		 		 
+      <ul id="topnav">
+			<li><a href="/about/" class="nav_about">О компании</a>
+				<div class="sub" style="opacity: 0;">
+				<ul class=".ul_sub">
+					<li><h2><a href="/about/">О&nbsp;компании</a></h2></li>
+					<li><h2><a href="/about/team/">Команда</a></h2></li>
+					<li><h2><a href="/about/news/">Новости</a></h2></li>
+					<li><h2><a href="/about/license/">Лицензии</a></h2></li>
+					<li><h2><a href="/about/vacancies/">Вакансии</a></h2></li>
+					<li><h2><a href="/about/contacts/">Контакты</a></h2></li>
+				</ul>
+				</div>
+			</li>
+			<li><a href="/pif/exponenta/" class="nav_pif">Паевые фонды</a>
+							</li>
+			<li><a href="#" class="nav_info">Раскрытие информации</a>
+				<div class="sub" style="opacity: 0;">
+				<ul class=".ul_sub">
+					<li><h2><a href="/pif_info/company/messages/">Управляющая&nbsp;компания</a></h2></li>
+					 <li><h2><a href="/pif/exponenta/">Паевые&nbsp;фонды</a></h2>
+</li>
+				</ul>
+				</div>
+			</li>
+			<li><a href="#" class="nav_sale">Продажа&nbsp;недвижимости</a></li>
+			<li><a href="#" class="nav_clients">Корпоративным&nbsp;клиентам</a></li>			
+			<li><a href="/about/contacts/" class="nav_contacts">Контакты</a></li>
+		</ul>
+     	</div>
+   </div>
+ 
+  <div style="height:6px; width:100%; background-color:#bdbdbd; padding:0; margin:0;"></div>
+  <div style="height:110px; width:950px; paddind:0; margin:0;"><img src="/images/company_img.jpg"></div>
+<hr color="#bdbdbd" size="2" style="margin:15px 0 -22px 0;"> 
+  <div class="main_block">
+	<div class="main_border">
+
+   <script src="/bitrix/templates/legion_tabs/components/bitrix/menu/horizontal_menu_tabs/script.js?1351693695" type="text/javascript"></script>
+
+<ul id="lineTabs"><li><a href="/pif_info/company/docs/" class="dokumentooborot">Электронный документооборот</a></li><li><a href="/pif_info/company/docs.php?SECTION_ID=148" class="sredstva active">Собственные средства</a></li><li><a href="/pif_info/company/docs.php?SECTION_ID=143" class="soobsheniya">Официальные сообщения</a></li><li><a href="/pif_info/company/docs.php?SECTION_ID=149" class="kvartalnaya">Квартальная отчетность</a></li><li><a href="/pif_info/company/docs.php?SECTION_ID=94" class="godovaya">Годовая отчетность</a></li></ul><div class="sub_menu_table1"><table cellspacing="0" cellpadding="0"><tbody><tr><td><ul id="yearTabs"><li><a href="/pif_info/company/docs.php?SECTION_ID=148" class="sub_menu2 active">2023</a></li><li><a href="/pif_info/company/docs.php?SECTION_ID=145" class="sub_menu2">2022</a></li><li><a href="/pif_info/company/docs.php?SECTION_ID=138" class="sub_menu2">2021</a></li><li><a href="/pif_info/company/docs.php?SECTION_ID=136" class="sub_menu2">2020</a></li><li><a href="/pif_info/company/docs.php?SECTION_ID=134" class="sub_menu2">2019</a></li><li><a href="/pif_info/company/docs.php?SECTION_ID=132" class="sub_menu2">2018</a></li><li><a href="/pif_info/company/docs.php?SECTION_ID=130" class="sub_menu2">2017</a></li><li><a href="/pif_info/company/docs.php?SECTION_ID=126" class="sub_menu2">2016</a></li><li><a href="/pif_info/company/docs.php?SECTION_ID=125" class="sub_menu2">2015</a></li><li><a href="/pif_info/company/docs.php?SECTION_ID=124" class="sub_menu2">2014</a></li><li><a href="/pif_info/company/docs.php?SECTION_ID=123" class="sub_menu2">2013</a></li><li><a href="/pif_info/company/docs.php?SECTION_ID=101" class="sub_menu2">2012</a></li></ul></td></tr></tbody></table></div>   <div class="sub_content">
+
+<div class="news-list">
+		<p class="news-item" id="bx_1914200112_605">
+		</p><table style="margin:0; padding:0; line-height: normal"><tbody><tr><td style="margin:0; padding:0; vertical-align: top">
+									<a href="/upload/iblock/dae/rss_ukl_30_04_2023.pdf">Расчет размера собственных средств на 30.04.2023</a><br>
+										<span style="font-size: x-small;">Дата и время публикации: 15:25 17.05.2023<br>
+Информация доступна до: 31.05.2024<br>
+</span>
+						</td></tr></tbody></table>
+	<p></p>
+		<p class="news-item" id="bx_1914200112_604">
+		</p><table style="margin:0; padding:0; line-height: normal"><tbody><tr><td style="margin:0; padding:0; vertical-align: top">
+									<a href="/upload/iblock/40d/rss_ukl_31_03_2023.pdf">Расчет размера собственных средств на 31.03.2023</a><br>
+										<span style="font-size: x-small;">Дата и время публикации: 09:14 14.04.2023<br>
+Информация доступна до: 30.04.2024<br>
+</span>
+						</td></tr></tbody></table>
+	<p></p>
+		<p class="news-item" id="bx_1914200112_599">
+		</p><table style="margin:0; padding:0; line-height: normal"><tbody><tr><td style="margin:0; padding:0; vertical-align: top">
+									<a href="/upload/iblock/eef/rss_ukl_28_02_2023.pdf">Расчет размера собственных средств на 28.02.2023 (корр.)</a><br>
+										<span style="font-size: x-small;">Дата и время публикации: 17:26 20.03.2023 <br>
+Информация доступна до: 31.03.2024</span>
+						</td></tr></tbody></table>
+	<p></p>
+		<p class="news-item" id="bx_1914200112_598">
+		</p><table style="margin:0; padding:0; line-height: normal"><tbody><tr><td style="margin:0; padding:0; vertical-align: top">
+									<a href="/upload/iblock/b0c/rss_ukl_28_02_2023.pdf">Расчет размера собственных средств на 28.02.2023</a><br>
+										<span style="font-size: x-small;">Дата и время публикации: 19:20 14.03.2023<br>
+Информация доступна до: 31.03.2024</span>
+						</td></tr></tbody></table>
+	<p></p>
+		<p class="news-item" id="bx_1914200112_597">
+		</p><table style="margin:0; padding:0; line-height: normal"><tbody><tr><td style="margin:0; padding:0; vertical-align: top">
+									<a href="/upload/iblock/cac/rss_ukl_31_01_2023.pdf">Расчет размера собственных средств на 31.01.2023</a><br>
+										<span style="font-size: x-small;">Дата и время публикации: 17:12 14.02.2023<br>
+Информация доступна до: 28.02.2024<br>
+</span>
+						</td></tr></tbody></table>
+	<p></p>
+</div>
+&nbsp;&nbsp; 	
+<div id="empty_block"></div>
+ 
+<div class="footer"> 	
+  <div class="footer_text"> 		Стоимость инвестиционных паев может увеличиваться и уменьшаться, результаты инвестирования в прошлом не определяют доходы в будущем, государство не гарантирует доходность инвестиций в паевые инвестиционные фонды. Прежде чем приобрести инвестиционный пай, следует внимательно ознакомиться с правилами доверительного управления паевым инвестиционным фондом. 		
+    <br>
+  Лицензия ФСФР России на осуществление деятельности по управлению инвестиционными фондами, паевыми инвестиционными фондами и негосударственными пенсионными фондами № 21-000-1-00942 от 15.11.2012 		
+    <br>
+  Адрес: 454100, Россия, Челябинская область, г. Челябинск, ул. Аношкина, д. 12, нежилое помещение №15, офис 407. Телефон (факс): +7 (351) 223-46-03. 		
+    <br>
+  Электронная почта: info@legion-am.ru 	</div>
+ 	
+  <div class="footer_copyrights"> 		<span style="color: rgb(125, 125, 125);">Создание сайта —</span> <span style="color: rgb(186, 186, 186);">Рекламная группа Media74</span> 	</div>
+ </div>
+ 			
+<div id="login" class="b-png hide"><a class="close"></a> 				
+  <div id="login-form"> 					<form action="/cabinet/?login=yes" method="post" name="form_auth"> 						<input type="hidden" name="backurl" value="/cabinet/"> 						<input type="hidden" name="AUTH_FORM" value="Y"> 						<input type="hidden" name="TYPE" value="AUTH"> 						
+      <div id="login-text" class="clearfix">							 								<input class="text b-placeholder" type="text" name="USER_LOGIN" title="Логин" value="Логин"> 						</div>
+     						
+      <div id="login-password" class="clearfix"> 								<input class="password b-placeholder" type="password" name="USER_PASSWORD" title="ПАРОЛЬ" value="ПАРОЛЬ"> 						</div>
+     						
+      <div> 							<input id="login-submit" class="b-left" name="Login" type="image" src="/images/login-btn.png" value="Войти"> 						</div>
+     					</form> 				</div>
+ 			</div>
+ </div></div></div></div>

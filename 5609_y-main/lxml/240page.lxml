@@ -1,0 +1,431 @@
+
+<!-- Google Tag Manager (noscript) -->
+<noscript><iframe src="https://www.googletagmanager.com/ns.html?id=GTM-MRCBDF6"
+height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
+<!-- End Google Tag Manager (noscript) -->
+
+
+<div id="panel">
+	</div>
+<header class="header">
+    <div class="wrap">
+        <a href="/" class="header__logo">
+            <img src="/local/templates/main/assets/img/logo.svg" alt="">
+        </a>
+        <div class="burger">
+            <span></span>
+        </div>
+
+		<nav class="header__nav">  
+	<ul class="header__menu">
+					
+					<li><a class="header__link" href="/about/">О компании</a>
+				
+			 </li> 		
+					<li class="include active"><a class="header__link" href="/information-disclosure/">Раскрытие информации</a><ul>
+				
+					
+					<li class="active"><a class="header__link" href="/information-disclosure/own/">Расчет собственных средств</a>
+				
+			 </li> 		
+					<li><a class="header__link" href="/information-disclosure/reports/">Отчётность ООО «ВЭБ.РФ Управление активами»</a>
+				
+			 </li> 		
+					<li><a class="header__link" href="/information-disclosure/official-messages/">Официальные сообщения</a>
+				
+			 </li> 		
+					<li><a class="header__link" href="/information-disclosure/other/">Иная информация и документы</a>
+				
+			 </li> 		
+					<li><a class="header__link" href="/information-disclosure/structure/">Информация о структуре и составе участников ООО «ВЭБ.РФ Управление активами»</a>
+				
+			 </li> 		
+					<li><a class="header__link" href="/information-disclosure/technical-difficulites/">Сообщение о технических неполадках</a>
+				
+						</li></ul></li>	
+				
+					<li><a class="header__link" href="/commerce/">Активы</a>
+				
+			 </li> 		
+					<li><a class="header__link" href="/contacts/">Контакты</a>
+				
+		</li></ul>
+</nav>		<div class="header__block">
+		    <div id="title-search" class="header__search">
+        <form action="/search/index.php">
+                <input id="title-search-input" type="search" name="q" placeholder="Поиск" value="" autocomplete="off" "="">
+                <div class="search__btn">
+                    <img src="/local/templates/main/assets/img/search.png" type="submit" name="s" alt="Поиск">
+                </div>
+        </form>
+    </div>
+
+		<a id="order-header-button" class="btn" data-fancybox="" data-type="ajax" data-src="/include/form/form.php" href="javascript:;">Заказать звонок</a>
+		</div>
+	</div>
+
+    <div class="burger__wrap">
+	<nav class="header__nav header__nav_burger">
+    <ul class="accordeon">
+                
+                <li><a class="header__link" href="/about/">О компании</a>
+                
+                         </li> 
+        <li class="include active"><a class="header__link" href="/information-disclosure/">Раскрытие информации</a><ul>
+            
+                        
+                <li class="active"><a class="header__link" href="/information-disclosure/own/">Расчет собственных средств</a>
+                
+                         </li> 
+                <li><a class="header__link" href="/information-disclosure/reports/">Отчётность ООО «ВЭБ.РФ Управление активами»</a>
+                
+                         </li> 
+                <li><a class="header__link" href="/information-disclosure/official-messages/">Официальные сообщения</a>
+                
+                         </li> 
+                <li><a class="header__link" href="/information-disclosure/other/">Иная информация и документы</a>
+                
+                         </li> 
+                <li><a class="header__link" href="/information-disclosure/structure/">Информация о структуре и составе участников ООО «ВЭБ.РФ Управление активами»</a>
+                
+                         </li> 
+                <li><a class="header__link" href="/information-disclosure/technical-difficulites/">Сообщение о технических неполадках</a>
+                
+                                </li></ul></li>
+    
+                <li><a class="header__link" href="/commerce/">Активы</a>
+                
+                         </li> 
+                <li><a class="header__link" href="/contacts/">Контакты</a>
+                
+                        </li></ul>
+</nav>
+    </div>
+</header>
+<div class="page">
+	<div class="page__title ">
+		<div class="wrap">
+							<div class="page__subtitle"><span>Раскрытие информации</span></div>
+						<h1>Расчет собственных средств</h1>
+					</div>
+	</div>
+	
+	
+						
+
+<div class="page__search">
+    <div class="wrap">
+        <form id="form_search">
+            <input type="search" id="page-search" name="page-search" placeholder="Поиск">
+            <input type="text" id="date-start" name="date-start" placeholder="Дата публикации">
+            <input type="text" id="date-end" name="date-end" placeholder="Дата окончания">
+        </form>
+        <form id="form_sort">
+            <select>
+                <option>Сортировать по: "Дата и время публикации"</option>
+                <option>Сортировать по: "Доступно до"</option>
+            </select>
+        </form>
+    </div>
+</div>
+
+<div class="page__documents" data-iblock-id="8">
+
+    <div class="documents__header">
+        <div class="wrap">
+            <div class="documents__header_item document__name">Список документов</div>
+            <div class="documents__header_item document__published">Дата и время публикации</div>
+            <div class="documents__header_item document__finished">Доступно до</div>
+        </div>
+    </div>
+
+    <div class="documents__main">
+        <div class="wrap js-docs">
+	        <div class="documents__main_item">
+            <a href="/upload/iblock/60f/60f0e2c79a99d315395e0b99ad0f3dff.pdf" download="РСС_май 2023_размещ.pdf" class="document__name">
+                <p>Расчет собственных средств на 31.05.2023</p>
+				            </a>
+            <div class="document__published">15.06.23 15:59</div>
+            <div class="document__finished">
+									15.06.2026				            </div>
+        </div>
+	        <div class="documents__main_item">
+            <a href="/upload/iblock/28e/28eb4aaf6c83df67ecb27790051df721.pdf" download="РСС_апрель 2023_размещение.pdf" class="document__name">
+                <p>Расчет собственных средств на 30.04.2023</p>
+				            </a>
+            <div class="document__published">19.05.23 10:51</div>
+            <div class="document__finished">
+									18.05.2026				            </div>
+        </div>
+	        <div class="documents__main_item">
+            <a href="/upload/iblock/489/4897b26b602e325e074408e85e25e538.pdf" download="РСС_31.03.2023_корр._размещ.pdf" class="document__name">
+                <p>Расчет собственных средств на 31.03.2023</p>
+				Корректировка            </a>
+            <div class="document__published">18.05.23 09:51</div>
+            <div class="document__finished">
+									18.05.2026				            </div>
+        </div>
+	        <div class="documents__main_item">
+            <a href="/upload/iblock/277/2771f6830b4661c0eb5e48d4f9e1b2f3.pdf" download="РСС_март 2023_размещ.pdf" class="document__name">
+                <p>Расчет собственных средств на 31.03.2023</p>
+				            </a>
+            <div class="document__published">17.04.23 10:25</div>
+            <div class="document__finished">
+									17.04.2026				            </div>
+        </div>
+	        <div class="documents__main_item">
+            <a href="/upload/iblock/c73/c73e5ccae732821a8c71e9ce1a84b686.pdf" download="РСС на сайт февраль 2023.pdf" class="document__name">
+                <p>Расчет собственных средств на 28.02.2023</p>
+				            </a>
+            <div class="document__published">15.03.23 15:36</div>
+            <div class="document__finished">
+									15.03.2026 				            </div>
+        </div>
+	        <div class="documents__main_item">
+            <a href="/upload/iblock/33e/33ea8fac21df6414b51d412732b4b7e0.pdf" download="РСС_УК_0420514_31.01.2023_размещ..pdf" class="document__name">
+                <p>Расчет собственных средств на 31.01.2023</p>
+				            </a>
+            <div class="document__published">14.02.23 10:28</div>
+            <div class="document__finished">
+									14.02.2026				            </div>
+        </div>
+	        <div class="documents__main_item">
+            <a href="/upload/iblock/0af/0afcaab5ac8487083fe00727a6e99203.pdf" download="РСС_12.2022_ВЭБ.РФ УА (2).pdf" class="document__name">
+                <p>Расчет собственных средств на 31.12.2022</p>
+				            </a>
+            <div class="document__published">23.01.23 18:52</div>
+            <div class="document__finished">
+									23.01.2026				            </div>
+        </div>
+	        <div class="documents__main_item">
+            <a href="/upload/iblock/3b2/3b2cb7e014801113c11bc8430653caca.pdf" download="19. РСС за март 2022_уточнен. на размещ.pdf" class="document__name">
+                <p>Расчет собственных средств на 31.03.2022 </p>
+				Корректировка            </a>
+            <div class="document__published">06.05.22 09:05</div>
+            <div class="document__finished">
+									06.05.2025				            </div>
+        </div>
+	        <div class="documents__main_item">
+            <a href="/upload/iblock/5c1/5c179e28b95fe71f1ed6ae259d9be417.pdf" download="18. РСС_март 2022_размещение.pdf" class="document__name">
+                <p>Расчет собственных средств на 31.03.2022</p>
+				            </a>
+            <div class="document__published">15.04.22 09:36</div>
+            <div class="document__finished">
+									15.04.2025				            </div>
+        </div>
+	        <div class="documents__main_item">
+            <a href="/upload/iblock/413/4130c7988670ef63cceacf590089d93b.pdf" download="17. РСС_февраль 2022_кор..pdf" class="document__name">
+                <p>Расчет собственных средств на 28.02.2022 </p>
+				Корректировка            </a>
+            <div class="document__published">06.04.22 15:26</div>
+            <div class="document__finished">
+									06.04.2025				            </div>
+        </div>
+	</div>
+    </div>
+</div>
+
+
+
+</div>
+	
+<footer class="footer">
+    <div class="wrap">
+        <div class="footer__section">
+            <div class="footer__info">
+                <div class="footer__address">
+                    <span>Адрес</span>
+                    <div>125009, г. Москва,<br> вн. тер. г. муниципальный округ Арбат,<br> ул. Воздвиженка, д. 10</div>
+                </div>
+            </div>
+            <div class="footer__copyright">© ВЭБ.РФ Управление активами, 2020</div>
+        </div>
+        <div class="footer__section">
+            <div class="footer__text">
+                <a id="link-structure-button" href="/information-disclosure/structure/">Структура владения</a>
+				<a id="link-policy-button" style="margin-left: 20px;" href="/include/policy.pdf" target="_blank">Политика конфиденциальности</a>
+                <div>
+					Общество с ограниченной ответственностью «ВЭБ.РФ Управление активами». Лицензия на осуществление деятельности по управлению инвестиционными фондами, паевыми инвестиционными фондами и негосударственными пенсионными фондами от 18.01.2021 г. № 21-000-1-01043 выдана Банком России, бессрочно.
+                </div>
+				<div>
+					Информация о паевых инвестиционных фондах раскрывается на данном сайте и в «Приложение к Вестнику ФСФР России». Стоимость инвестиционных паев может увеличиваться и уменьшаться, результаты инвестирования в прошлом не определяют доходы в будущем, государство не гарантирует доходность инвестиций в паевые инвестиционные фонды. Прежде чем приобрести инвестиционный пай, следует внимательно ознакомиться с правилами доверительного управления паевым инвестиционным фондом.			
+				</div>
+				<div>
+					ООО «ВЭБ.РФ Управление активами» не совмещает деятельность по доверительному управлению паевыми инвестиционными фондами с деятельностью по управлению ценными бумагами.
+				</div>
+				<div>
+					ООО «ВЭБ.РФ Управление активами» уведомляет клиентов и иных заинтересованных лиц о существовании риска возникновения конфликта интересов при осуществлении деятельности по доверительному управлению паевыми инвестиционными фондами. При этом под конфликтом интересов ООО «ВЭБ.РФ Управление активами» понимается наличие у ООО «ВЭБ.РФ Управление активами», и (или) иных лиц, если они действуют от имени ООО «ВЭБ.РФ Управление активами» или от своего имени, но за его счет, и (или) его работников интереса, отличного от интересов стороны по договору доверительного управления (клиента ООО «ВЭБ.РФ Управление активами»), при совершении либо не совершении юридических и (или) фактических действий, влияющих на связанные с оказанием услуг ООО «ВЭБ.РФ Управление активами» интересы стороны по договору доверительного управления (клиента ООО «ВЭБ.РФ Управление активами»).
+				</div>
+				<div>
+					На Сайте могут присутствовать гиперссылки на сайты компаний, которые являются нашими партнёрами. Однако ООО «ВЭБ.РФ Управление активами» не несёт ответственности за содержание таких сайтов и за имеющиеся там ссылки.
+				</div>
+                <div class="footer__copyright footer__copyright_double">© ВЭБ.РФ Управление активами, 2020</div>
+            </div>
+        </div>
+    </div>
+</footer>
+
+
+<script type="text/javascript">if(!window.BX)window.BX={};if(!window.BX.message)window.BX.message=function(mess){if(typeof mess==='object'){for(let i in mess) {BX.message[i]=mess[i];} return true;}};</script>
+<script type="text/javascript">(window.BX||top.BX).message({'JS_CORE_LOADING':'Загрузка...','JS_CORE_NO_DATA':'- Нет данных -','JS_CORE_WINDOW_CLOSE':'Закрыть','JS_CORE_WINDOW_EXPAND':'Развернуть','JS_CORE_WINDOW_NARROW':'Свернуть в окно','JS_CORE_WINDOW_SAVE':'Сохранить','JS_CORE_WINDOW_CANCEL':'Отменить','JS_CORE_WINDOW_CONTINUE':'Продолжить','JS_CORE_H':'ч','JS_CORE_M':'м','JS_CORE_S':'с','JSADM_AI_HIDE_EXTRA':'Скрыть лишние','JSADM_AI_ALL_NOTIF':'Показать все','JSADM_AUTH_REQ':'Требуется авторизация!','JS_CORE_WINDOW_AUTH':'Войти','JS_CORE_IMAGE_FULL':'Полный размер'});</script><script type="text/javascript" src="/bitrix/js/main/core/core.js?1606488665549323"></script><script>BX.setJSList(['/bitrix/js/main/core/core_ajax.js','/bitrix/js/main/core/core_promise.js','/bitrix/js/main/polyfill/promise/js/promise.js','/bitrix/js/main/loadext/loadext.js','/bitrix/js/main/loadext/extension.js','/bitrix/js/main/polyfill/promise/js/promise.js','/bitrix/js/main/polyfill/find/js/find.js','/bitrix/js/main/polyfill/includes/js/includes.js','/bitrix/js/main/polyfill/matches/js/matches.js','/bitrix/js/ui/polyfill/closest/js/closest.js','/bitrix/js/main/polyfill/fill/main.polyfill.fill.js','/bitrix/js/main/polyfill/find/js/find.js','/bitrix/js/main/polyfill/matches/js/matches.js','/bitrix/js/main/polyfill/core/dist/polyfill.bundle.js','/bitrix/js/main/core/core.js','/bitrix/js/main/polyfill/intersectionobserver/js/intersectionobserver.js','/bitrix/js/main/lazyload/dist/lazyload.bundle.js','/bitrix/js/main/polyfill/core/dist/polyfill.bundle.js','/bitrix/js/main/parambag/dist/parambag.bundle.js']);
+BX.setCSSList(['/bitrix/js/main/core/css/core.css','/bitrix/js/main/lazyload/dist/lazyload.bundle.css','/bitrix/js/main/parambag/dist/parambag.bundle.css']);</script>
+<script type="text/javascript">(window.BX||top.BX).message({'LANGUAGE_ID':'ru','FORMAT_DATE':'DD.MM.YYYY','FORMAT_DATETIME':'DD.MM.YYYY HH:MI:SS','COOKIE_PREFIX':'BITRIX_SM','SERVER_TZ_OFFSET':'10800','SITE_ID':'s1','SITE_DIR':'/','USER_ID':'','SERVER_TIME':'1687320636','USER_TZ_OFFSET':'0','USER_TZ_AUTO':'Y','bitrix_sessid':'d49be4970e44037ac47d75390449be8c'});</script><script type="text/javascript" src="/bitrix/components/bitrix/search.title/script.js?16064886609847"></script>
+<script type="text/javascript" src="/local/templates/main/assets/js/jquery-3.5.1.min.js?160648867389476"></script>
+<script type="text/javascript" src="/local/templates/main/assets/js/burger.js?1606488673158"></script>
+<script type="text/javascript" src="/local/templates/main/assets/js/menu.js?1606488673859"></script>
+<script type="text/javascript" src="/local/templates/main/assets/js/main.js?16110489911096"></script>
+<script type="text/javascript" src="/local/templates/main/assets/js/custom.js?16064886731223"></script>
+<script type="text/javascript" src="/local/templates/main/assets/js/jquery.maskedinput.min.js?16074841204330"></script>
+<script type="text/javascript" src="/local/templates/main/assets/js/jquery.fancybox.min.js?160936554068253"></script>
+<script type="text/javascript" src="/local/templates/main/assets/js/swiper-bundle.min.js?1626948487146031"></script>
+<script type="text/javascript" src="/local/templates/main/assets/js/swiper-init.js?16667646491037"></script>
+<script type="text/javascript">var _ba = _ba || []; _ba.push(["aid", "259512b48675ebae7e017e61b432d5a9"]); _ba.push(["host", "vebrf-am.ru"]); (function() {var ba = document.createElement("script"); ba.type = "text/javascript"; ba.async = true;ba.src = (document.location.protocol == "https:" ? "https://" : "http://") + "bitrix.info/ba.js";var s = document.getElementsByTagName("script")[0];s.parentNode.insertBefore(ba, s);})();</script>
+
+
+<script type="text/javascript">
+	   (function(m,e,t,r,i,k,a){m[i]=m[i]||function(){(m[i].a=m[i].a||[]).push(arguments)};
+	   m[i].l=1*new Date();k=e.createElement(t),a=e.getElementsByTagName(t)[0],k.async=1,k.src=r,a.parentNode.insertBefore(k,a)})
+	   (window, document, "script", "https://mc.yandex.ru/metrika/tag.js", "ym");
+
+	   ym(71157772, "init", {
+			clickmap:true,
+			trackLinks:true,
+			accurateTrackBounce:true
+	   });
+	</script>
+<script async="" src="https://www.googletagmanager.com/gtag/js?id=UA-187221131-1"></script>
+<script>
+	  window.dataLayer = window.dataLayer || [];
+	  function gtag(){dataLayer.push(arguments);}
+	  gtag('js', new Date());
+
+	  gtag('config', 'UA-187221131-1');
+	</script><script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
+new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
+j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
+'https://www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
+})(window,document,'script','dataLayer','GTM-MRCBDF6');</script>
+<script>
+	BX.ready(function(){
+		new JCTitleSearch({
+			'AJAX_PAGE' : '/information-disclosure/own/',
+			'CONTAINER_ID': 'title-search',
+			'INPUT_ID': 'title-search-input',
+			'MIN_QUERY_LEN': 2
+		});
+	});
+</script>
+
+<script>
+    $(document).ready(function ()
+    {
+        let iblockId = $('.page__documents').data('iblock-id');
+
+        let objReq = {
+            iblock_id: iblockId,
+            section_id: $('.js_section.active').find('.js_doc-section').data('section-id'),
+            page: 1
+        };
+
+        request('/ajax/documents.php', 'GET', objReq)
+            .then(response =>
+            {
+                $(".js-docs").append(response);
+            })
+            .catch((error) =>
+            {
+            });
+
+
+        $(document).on("click", ".js_doc-section", function (e)
+        {
+            e.preventDefault();
+            $('.js_doc-section').parent().removeClass('active');
+            $(this).parent().addClass('active');
+
+            let objReq = {
+                iblock_id: iblockId,
+                section_id: $(this).data('section-id'),
+                page: 1
+            };
+
+            request('/ajax/documents.php', 'GET', objReq)
+                .then(response =>
+                {
+                    $(".documents__main_item").remove();
+                    $(".js-docs").append(response);
+                })
+                .catch((error) =>
+                {
+                });
+        });
+
+        let currentPage = 1;
+        let inProgress = false;
+        let lastPage = false;
+
+        $(window).scroll(function ()
+        {
+            if ($(window).scrollTop() + $(window).height() >= $(document).height() - 500 && !inProgress && !lastPage)
+            {
+                inProgress = true;
+
+                let objReq = {
+                    iblock_id: iblockId,
+                    page: currentPage + 1,
+                    section_id: $('.js_section.active').find('.js_doc-section').data('section-id'),
+                    filter_name: $('#page-search').val(),
+                    filter_active_from: $('#date-start').val(),
+                    filter_active_end: $('#date-end').val(),
+                };
+
+                request("/ajax/documents.php", 'GET', objReq)
+                    .then(response =>
+                    {
+                        if (response.length > 100)
+                        {
+                            inProgress = false;
+                            currentPage++;
+                            $(".js-docs").append(response);
+                        } else
+                        {
+                            lastPage = true;
+                        }
+                    })
+                    .catch((error) =>
+                    {
+
+                    });
+            }
+        });
+
+        $("#page-search,#date-start,#date-end").change(function (e)
+        {
+            e.preventDefault();
+            lastPage = false;
+            inProgress = false;
+            currentPage = 1;
+
+            let objReq = {
+                iblock_id: iblockId,
+                page: 1,
+                section_id: $('.js_section.active').find('.js_doc-section').data('section-id'),
+                filter_name: $('#page-search').val(),
+                filter_active_from: $('#date-start').val(),
+                filter_active_end: $('#date-end').val(),
+            };
+
+            request('/ajax/documents.php', 'GET', objReq)
+                .then(response =>
+                {
+                    $(".documents__main_item").remove();
+                    $(".js-docs").append(response);
+                })
+                .catch((error) =>
+                {
+                });
+        });
+    });
+</script>
+
+<div class="title-search-result"></div>

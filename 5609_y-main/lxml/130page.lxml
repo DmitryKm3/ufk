@@ -1,0 +1,949 @@
+
+			<a class="skip-link screen-reader-text" href="#main" title="Перейти к содержанию"> Перейти к содержанию </a>
+	<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 0 0" width="0" height="0" focusable="false" role="none" style="visibility: hidden; position: absolute; left: -9999px; overflow: hidden;"><defs><filter id="wp-duotone-dark-grayscale"><feColorMatrix color-interpolation-filters="sRGB" type="matrix" values=" .299 .587 .114 0 0 .299 .587 .114 0 0 .299 .587 .114 0 0 .299 .587 .114 0 0 "></feColorMatrix><feComponentTransfer color-interpolation-filters="sRGB"><feFuncR type="table" tableValues="0 0.49803921568627"></feFuncR><feFuncG type="table" tableValues="0 0.49803921568627"></feFuncG><feFuncB type="table" tableValues="0 0.49803921568627"></feFuncB><feFuncA type="table" tableValues="1 1"></feFuncA></feComponentTransfer><feComposite in2="SourceGraphic" operator="in"></feComposite></filter></defs></svg><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 0 0" width="0" height="0" focusable="false" role="none" style="visibility: hidden; position: absolute; left: -9999px; overflow: hidden;"><defs><filter id="wp-duotone-grayscale"><feColorMatrix color-interpolation-filters="sRGB" type="matrix" values=" .299 .587 .114 0 0 .299 .587 .114 0 0 .299 .587 .114 0 0 .299 .587 .114 0 0 "></feColorMatrix><feComponentTransfer color-interpolation-filters="sRGB"><feFuncR type="table" tableValues="0 1"></feFuncR><feFuncG type="table" tableValues="0 1"></feFuncG><feFuncB type="table" tableValues="0 1"></feFuncB><feFuncA type="table" tableValues="1 1"></feFuncA></feComponentTransfer><feComposite in2="SourceGraphic" operator="in"></feComposite></filter></defs></svg><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 0 0" width="0" height="0" focusable="false" role="none" style="visibility: hidden; position: absolute; left: -9999px; overflow: hidden;"><defs><filter id="wp-duotone-purple-yellow"><feColorMatrix color-interpolation-filters="sRGB" type="matrix" values=" .299 .587 .114 0 0 .299 .587 .114 0 0 .299 .587 .114 0 0 .299 .587 .114 0 0 "></feColorMatrix><feComponentTransfer color-interpolation-filters="sRGB"><feFuncR type="table" tableValues="0.54901960784314 0.98823529411765"></feFuncR><feFuncG type="table" tableValues="0 1"></feFuncG><feFuncB type="table" tableValues="0.71764705882353 0.25490196078431"></feFuncB><feFuncA type="table" tableValues="1 1"></feFuncA></feComponentTransfer><feComposite in2="SourceGraphic" operator="in"></feComposite></filter></defs></svg><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 0 0" width="0" height="0" focusable="false" role="none" style="visibility: hidden; position: absolute; left: -9999px; overflow: hidden;"><defs><filter id="wp-duotone-blue-red"><feColorMatrix color-interpolation-filters="sRGB" type="matrix" values=" .299 .587 .114 0 0 .299 .587 .114 0 0 .299 .587 .114 0 0 .299 .587 .114 0 0 "></feColorMatrix><feComponentTransfer color-interpolation-filters="sRGB"><feFuncR type="table" tableValues="0 1"></feFuncR><feFuncG type="table" tableValues="0 0.27843137254902"></feFuncG><feFuncB type="table" tableValues="0.5921568627451 0.27843137254902"></feFuncB><feFuncA type="table" tableValues="1 1"></feFuncA></feComponentTransfer><feComposite in2="SourceGraphic" operator="in"></feComposite></filter></defs></svg><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 0 0" width="0" height="0" focusable="false" role="none" style="visibility: hidden; position: absolute; left: -9999px; overflow: hidden;"><defs><filter id="wp-duotone-midnight"><feColorMatrix color-interpolation-filters="sRGB" type="matrix" values=" .299 .587 .114 0 0 .299 .587 .114 0 0 .299 .587 .114 0 0 .299 .587 .114 0 0 "></feColorMatrix><feComponentTransfer color-interpolation-filters="sRGB"><feFuncR type="table" tableValues="0 0"></feFuncR><feFuncG type="table" tableValues="0 0.64705882352941"></feFuncG><feFuncB type="table" tableValues="0 1"></feFuncB><feFuncA type="table" tableValues="1 1"></feFuncA></feComponentTransfer><feComposite in2="SourceGraphic" operator="in"></feComposite></filter></defs></svg><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 0 0" width="0" height="0" focusable="false" role="none" style="visibility: hidden; position: absolute; left: -9999px; overflow: hidden;"><defs><filter id="wp-duotone-magenta-yellow"><feColorMatrix color-interpolation-filters="sRGB" type="matrix" values=" .299 .587 .114 0 0 .299 .587 .114 0 0 .299 .587 .114 0 0 .299 .587 .114 0 0 "></feColorMatrix><feComponentTransfer color-interpolation-filters="sRGB"><feFuncR type="table" tableValues="0.78039215686275 1"></feFuncR><feFuncG type="table" tableValues="0 0.94901960784314"></feFuncG><feFuncB type="table" tableValues="0.35294117647059 0.47058823529412"></feFuncB><feFuncA type="table" tableValues="1 1"></feFuncA></feComponentTransfer><feComposite in2="SourceGraphic" operator="in"></feComposite></filter></defs></svg><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 0 0" width="0" height="0" focusable="false" role="none" style="visibility: hidden; position: absolute; left: -9999px; overflow: hidden;"><defs><filter id="wp-duotone-purple-green"><feColorMatrix color-interpolation-filters="sRGB" type="matrix" values=" .299 .587 .114 0 0 .299 .587 .114 0 0 .299 .587 .114 0 0 .299 .587 .114 0 0 "></feColorMatrix><feComponentTransfer color-interpolation-filters="sRGB"><feFuncR type="table" tableValues="0.65098039215686 0.40392156862745"></feFuncR><feFuncG type="table" tableValues="0 1"></feFuncG><feFuncB type="table" tableValues="0.44705882352941 0.4"></feFuncB><feFuncA type="table" tableValues="1 1"></feFuncA></feComponentTransfer><feComposite in2="SourceGraphic" operator="in"></feComposite></filter></defs></svg><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 0 0" width="0" height="0" focusable="false" role="none" style="visibility: hidden; position: absolute; left: -9999px; overflow: hidden;"><defs><filter id="wp-duotone-blue-orange"><feColorMatrix color-interpolation-filters="sRGB" type="matrix" values=" .299 .587 .114 0 0 .299 .587 .114 0 0 .299 .587 .114 0 0 .299 .587 .114 0 0 "></feColorMatrix><feComponentTransfer color-interpolation-filters="sRGB"><feFuncR type="table" tableValues="0.098039215686275 1"></feFuncR><feFuncG type="table" tableValues="0 0.66274509803922"></feFuncG><feFuncB type="table" tableValues="0.84705882352941 0.41960784313725"></feFuncB><feFuncA type="table" tableValues="1 1"></feFuncA></feComponentTransfer><feComposite in2="SourceGraphic" operator="in"></feComposite></filter></defs></svg>		<div id="site-wrapper">
+
+	<header id="masthead" class="cryout" itemscope="" itemtype="http://schema.org/WPHeader">
+
+		<div id="site-header-main">
+			<div id="site-header-main-inside">
+
+								<nav id="mobile-menu">
+					<div><ul id="mobile-nav" class=""><li id="menu-item-968" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-968"><a href="https://www.april-investments.ru/%d0%be%d1%80%d0%b3%d0%b0%d0%bd%d1%8b-%d1%83%d0%bf%d1%80%d0%b0%d0%b2%d0%bb%d0%b5%d0%bd%d0%b8%d1%8f/"><span>О компании</span></a></li>
+<li id="menu-item-924" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-924"><a href="/disclosure/"><span>Раскрытие информации</span></a></li>
+<li id="menu-item-866" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-866"><a href="https://www.april-investments.ru/contacts/"><span>Контакты</span></a></li>
+<li class="menu-main-search">
+			<a role="link" href=""><i class="search-icon"></i><span class="screen-reader-text">Искать</span></a>
+<form role="search" method="get" class="searchform" action="https://www.april-investments.ru/">
+	<label>
+		<span class="screen-reader-text">Искать:</span>
+		<input type="search" class="s" placeholder="Искать" value="" name="s">
+	</label>
+	<button type="submit" class="searchsubmit"><span class="screen-reader-text">Искать</span><i class="blicon-magnifier"></i></button>
+</form>
+
+		</li></ul></div>					<button id="nav-cancel"><i class="blicon-cross3"></i></button>
+				</nav> <!-- #mobile-menu -->
+				
+				<div id="branding">
+					<div class="identity"><a href="https://www.april-investments.ru/" id="logo" class="custom-logo-link" title="ООО УК «Апрель Инвестиции»" rel="home"><img src="https://www.april-investments.ru/wp-content/uploads/AI_logo_main_rus.jpg" class="custom-logo" alt="ООО УК «Апрель Инвестиции»" decoding="async" srcset="https://www.april-investments.ru/wp-content/uploads/AI_logo_main_rus.jpg 436w, https://www.april-investments.ru/wp-content/uploads/AI_logo_main_rus-300x31.jpg 300w, https://www.april-investments.ru/wp-content/uploads/AI_logo_main_rus-426x45.jpg 426w" sizes="(max-width: 436px) 100vw, 436px"></a></div><div id="site-text"><div itemprop="headline" id="site-title"><span> <a href="https://www.april-investments.ru/" title="ООО УК «Апрель Инвестиции»" rel="home"><span style="transition: color 0s ease 0.05s, background-color 0s ease 0.05s;">О</span><span style="transition: color 0s ease 0.07s, background-color 0s ease 0.07s;">О</span><span style="transition: color 0s ease 0.09s, background-color 0s ease 0.09s;">О</span><span style="transition: color 0s ease 0.11s, background-color 0s ease 0.11s;">&nbsp;</span><span style="transition: color 0s ease 0.13s, background-color 0s ease 0.13s;">У</span><span style="transition: color 0s ease 0.15s, background-color 0s ease 0.15s;">К</span><span style="transition: color 0s ease 0.17s, background-color 0s ease 0.17s;">&nbsp;</span><span style="transition: color 0s ease 0.19s, background-color 0s ease 0.19s;">«</span><span style="transition: color 0s ease 0.21s, background-color 0s ease 0.21s;">А</span><span style="transition: color 0s ease 0.23s, background-color 0s ease 0.23s;">п</span><span style="transition: color 0s ease 0.25s, background-color 0s ease 0.25s;">р</span><span style="transition: color 0s ease 0.27s, background-color 0s ease 0.27s;">е</span><span style="transition: color 0s ease 0.29s, background-color 0s ease 0.29s;">л</span><span style="transition: color 0s ease 0.31s, background-color 0s ease 0.31s;">ь</span><span style="transition: color 0s ease 0.33s, background-color 0s ease 0.33s;">&nbsp;</span><span style="transition: color 0s ease 0.35s, background-color 0s ease 0.35s;">И</span><span style="transition: color 0s ease 0.37s, background-color 0s ease 0.37s;">н</span><span style="transition: color 0s ease 0.39s, background-color 0s ease 0.39s;">в</span><span style="transition: color 0s ease 0.41s, background-color 0s ease 0.41s;">е</span><span style="transition: color 0s ease 0.43s, background-color 0s ease 0.43s;">с</span><span style="transition: color 0s ease 0.45s, background-color 0s ease 0.45s;">т</span><span style="transition: color 0s ease 0.47s, background-color 0s ease 0.47s;">и</span><span style="transition: color 0s ease 0.49s, background-color 0s ease 0.49s;">ц</span><span style="transition: color 0s ease 0.51s, background-color 0s ease 0.51s;">и</span><span style="transition: color 0s ease 0.53s, background-color 0s ease 0.53s;">и</span><span style="transition: color 0s ease 0.55s, background-color 0s ease 0.55s;">»</span></a> </span></div><span id="site-description" itemprop="description">ООО УК «Апрель Инвестиции»</span></div>				</div><!-- #branding -->
+
+				
+								<a id="nav-toggle" href="#"><span>&nbsp;</span></a>
+				<nav id="access" role="navigation" aria-label="Primary Menu" itemscope="" itemtype="http://schema.org/SiteNavigationElement">
+						<div><ul id="prime_nav" class=""><li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-968"><a href="https://www.april-investments.ru/%d0%be%d1%80%d0%b3%d0%b0%d0%bd%d1%8b-%d1%83%d0%bf%d1%80%d0%b0%d0%b2%d0%bb%d0%b5%d0%bd%d0%b8%d1%8f/"><span>О компании</span></a></li>
+<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-924"><a href="/disclosure/"><span>Раскрытие информации</span></a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-866"><a href="https://www.april-investments.ru/contacts/"><span>Контакты</span></a></li>
+<li class="menu-main-search menu-search-animated">
+			<a role="link" href=""><i class="search-icon"></i><span class="screen-reader-text">Искать</span></a>
+<form role="search" method="get" class="searchform" action="https://www.april-investments.ru/">
+	<label>
+		<span class="screen-reader-text">Искать:</span>
+		<input type="search" class="s" placeholder="Искать" value="" name="s">
+	</label>
+	<button type="submit" class="searchsubmit"><span class="screen-reader-text">Искать</span><i class="blicon-magnifier"></i></button>
+</form>
+
+		</li></ul></div>				</nav><!-- #access -->
+				
+			</div><!-- #site-header-main-inside -->
+		</div><!-- #site-header-main -->
+
+		<div id="header-image-main">
+			<div id="header-image-main-inside">
+							<div class="header-image" style="background-image: url(https://www.april-investments.ru/wp-content/themes/fluida/resources/images/headers/waterfall.jpg)"></div>
+			<img class="header-image" alt="ООО УК «Апрель Инвестиции»" src="https://www.april-investments.ru/wp-content/themes/fluida/resources/images/headers/waterfall.jpg">
+							</div><!-- #header-image-main-inside -->
+		</div><!-- #header-image-main -->
+
+	</header><!-- #masthead -->
+
+	<div id="breadcrumbs-container" class="cryout two-columns-left"><div id="breadcrumbs-container-inside"><div id="breadcrumbs"> <nav id="breadcrumbs-nav"><a href="https://www.april-investments.ru" title="Главная"><i class="blicon-home2"></i><span class="screen-reader-text">Главная</span></a><i class="icon-angle-right"></i> <a href="https://www.april-investments.ru/disclosure/">Раскрытие информации и документация</a> <i class="icon-angle-right"></i> <span class="current">Расчет размера собственных средств</span></nav></div></div></div><!-- breadcrumbs -->
+	
+	<div id="content" class="cryout">
+		
+	<div id="container" class="two-columns-left">
+
+		<main id="main" class="main">
+			
+			
+	<article id="post-557" class="post-557 page type-page status-publish hentry category-disclosure">
+		<div class="schema-image">
+					</div>
+		<div class="article-inner">
+			<header>
+				<h1 class="entry-title" itemprop="headline">Расчет размера собственных средств</h1>				<span class="entry-meta">
+									</span>
+			</header>
+
+			
+			<div class="entry-content" itemprop="text">
+				
+<p></p>
+
+
+<style type="text/css">
+	#mla_gallery-1 {
+		margin: auto;
+		width: 100%;
+	}
+	#mla_gallery-1 .gallery-item {
+		float: none;
+		margin: 0%;
+		display: inline-block;
+		text-align: left;
+		width: 100%;
+	}
+	#mla_gallery-1 .gallery-item .gallery-icon img {
+		border: 0px solid #cfcfcf;
+	}
+	#mla_gallery-1 .gallery-caption {
+		margin-left: 0;
+		vertical-align: top;
+	}
+	/* see mla_gallery_shortcode() in media-library-assistant/includes/class-mla-shortcode-support.php */
+</style>
+<div id="mla_gallery-1" class="gallery galleryid-557 gallery-columns-1 gallery-size-none"><!-- row-open  upload_date,date('d.m.Y H:i' -->
+<figure class="gallery-item last_in_row">
+	<div class="gallery-icon ">
+		<img src="/wp-content/uploads/pdf_icon.png" alt="" loading="lazy" style="vertical-align:middle">&nbsp; <a target="_blank" href="https://www.april-investments.ru/wp-content/uploads/Расчет-собственных-средств-на-31.05.2023-АИ.pdf">Расчет собственных средств УК на 31.05.2023 г.</a><font size="-1"> Опубликовано: 14.06.2023</font>
+	</div>
+	</figure><br style="clear: both">
+<!-- row-open  upload_date,date('d.m.Y H:i' -->
+<figure class="gallery-item last_in_row">
+	<div class="gallery-icon ">
+		<img src="/wp-content/uploads/pdf_icon.png" alt="" loading="lazy" style="vertical-align:middle">&nbsp; <a target="_blank" href="https://www.april-investments.ru/wp-content/uploads/Расчет-собственных-средств-на-30.04.2023-АИ.pdf">Расчет собственных средств УК на 30.04.2023 г.</a><font size="-1"> Опубликовано: 17.05.2023</font>
+	</div>
+	</figure><br style="clear: both">
+<!-- row-open  upload_date,date('d.m.Y H:i' -->
+<figure class="gallery-item last_in_row">
+	<div class="gallery-icon ">
+		<img src="/wp-content/uploads/pdf_icon.png" alt="" loading="lazy" style="vertical-align:middle">&nbsp; <a target="_blank" href="https://www.april-investments.ru/wp-content/uploads/Расчет-собственных-средств-на-31.03.2023-АИ.pdf">Расчет собственных средств УК на 31.03.2023 г.</a><font size="-1"> Опубликовано: 17.04.2023</font>
+	</div>
+	</figure><br style="clear: both">
+<!-- row-open  upload_date,date('d.m.Y H:i' -->
+<figure class="gallery-item last_in_row">
+	<div class="gallery-icon ">
+		<img src="/wp-content/uploads/pdf_icon.png" alt="" loading="lazy" style="vertical-align:middle">&nbsp; <a target="_blank" href="https://www.april-investments.ru/wp-content/uploads/Расчет-собственных-средств-на-28.02.2023-АИ.pdf">Расчет собственных средств УК на 28.02.2023 г.</a><font size="-1"> Опубликовано: 16.03.2023</font>
+	</div>
+	</figure><br style="clear: both">
+<!-- row-open  upload_date,date('d.m.Y H:i' -->
+<figure class="gallery-item last_in_row">
+	<div class="gallery-icon ">
+		<img src="/wp-content/uploads/pdf_icon.png" alt="" loading="lazy" style="vertical-align:middle">&nbsp; <a target="_blank" href="https://www.april-investments.ru/wp-content/uploads/Расчет-собственных-средств-на-31.01.2023-АИ.pdf">Расчет собственных средств УК на 31.01.2023 г.</a><font size="-1"> Опубликовано: 15.02.2023</font>
+	</div>
+	</figure><br style="clear: both">
+<!-- row-open  upload_date,date('d.m.Y H:i' -->
+<figure class="gallery-item last_in_row">
+	<div class="gallery-icon ">
+		<img src="/wp-content/uploads/pdf_icon.png" alt="" loading="lazy" style="vertical-align:middle">&nbsp; <a target="_blank" href="https://www.april-investments.ru/wp-content/uploads/Расчет-собственных-средств-на-31.12.2022-АИ.pdf">Расчет собственных средств УК на 31.12.2022 г.</a><font size="-1"> Опубликовано: 23.01.2023</font>
+	</div>
+	</figure><br style="clear: both">
+<!-- row-open  upload_date,date('d.m.Y H:i' -->
+<figure class="gallery-item last_in_row">
+	<div class="gallery-icon ">
+		<img src="/wp-content/uploads/pdf_icon.png" alt="" loading="lazy" style="vertical-align:middle">&nbsp; <a target="_blank" href="https://www.april-investments.ru/wp-content/uploads/Расчет-собственных-средств-на-30.11.2022-АИ.pdf">Расчет собственных средств УК на 30.11.2022 г.</a><font size="-1"> Опубликовано: 30.12.2022</font>
+	</div>
+	</figure><br style="clear: both">
+<!-- row-open  upload_date,date('d.m.Y H:i' -->
+<figure class="gallery-item last_in_row">
+	<div class="gallery-icon ">
+		<img src="/wp-content/uploads/pdf_icon.png" alt="" loading="lazy" style="vertical-align:middle">&nbsp; <a target="_blank" href="https://www.april-investments.ru/wp-content/uploads/Расчет-собственных-средств-на-30.09.2022-АИ.pdf">Расчет собственных средств УК на 30.09.2022 г.</a><font size="-1"> Опубликовано: 30.12.2022</font>
+	</div>
+	</figure><br style="clear: both">
+<!-- row-open  upload_date,date('d.m.Y H:i' -->
+<figure class="gallery-item last_in_row">
+	<div class="gallery-icon ">
+		<img src="/wp-content/uploads/pdf_icon.png" alt="" loading="lazy" style="vertical-align:middle">&nbsp; <a target="_blank" href="https://www.april-investments.ru/wp-content/uploads/Расчет-собственных-средств-на-31.10.2022-АИ.pdf">Расчет собственных средств УК на 31.10.2022 г.</a><font size="-1"> Опубликовано: 30.12.2022</font>
+	</div>
+	</figure><br style="clear: both">
+<!-- row-open  upload_date,date('d.m.Y H:i' -->
+<figure class="gallery-item last_in_row">
+	<div class="gallery-icon ">
+		<img src="/wp-content/uploads/pdf_icon.png" alt="" loading="lazy" style="vertical-align:middle">&nbsp; <a target="_blank" href="https://www.april-investments.ru/wp-content/uploads/Расчет-собственных-средств-на-31.08.2022-АИ.pdf">Расчет собственных средств УК на 31.08.2022 г.</a><font size="-1"> Опубликовано: 30.12.2022</font>
+	</div>
+	</figure><br style="clear: both">
+<!-- row-open  upload_date,date('d.m.Y H:i' -->
+<figure class="gallery-item last_in_row">
+	<div class="gallery-icon ">
+		<img src="/wp-content/uploads/pdf_icon.png" alt="" loading="lazy" style="vertical-align:middle">&nbsp; <a target="_blank" href="https://www.april-investments.ru/wp-content/uploads/Расчет-собственных-средств-на-31.07.2022-АИ.pdf">Расчет собственных средств УК на 31.07.2022 г.</a><font size="-1"> Опубликовано: 30.12.2022</font>
+	</div>
+	</figure><br style="clear: both">
+<!-- row-open  upload_date,date('d.m.Y H:i' -->
+<figure class="gallery-item last_in_row">
+	<div class="gallery-icon ">
+		<img src="/wp-content/uploads/pdf_icon.png" alt="" loading="lazy" style="vertical-align:middle">&nbsp; <a target="_blank" href="https://www.april-investments.ru/wp-content/uploads/Расчет-собственных-средств-на-30.06.2022-АИ.pdf">Расчет собственных средств УК на 30.06.2022 г.</a><font size="-1"> Опубликовано: 30.12.2022</font>
+	</div>
+	</figure><br style="clear: both">
+<!-- row-open  upload_date,date('d.m.Y H:i' -->
+<figure class="gallery-item last_in_row">
+	<div class="gallery-icon ">
+		<img src="/wp-content/uploads/pdf_icon.png" alt="" loading="lazy" style="vertical-align:middle">&nbsp; <a target="_blank" href="https://www.april-investments.ru/wp-content/uploads/Расчет-собственных-средств-на-31.05.2022-АИ.pdf">Расчет собственных средств УК на 31.05.2022 г.</a><font size="-1"> Опубликовано: 30.12.2022</font>
+	</div>
+	</figure><br style="clear: both">
+<!-- row-open  upload_date,date('d.m.Y H:i' -->
+<figure class="gallery-item last_in_row">
+	<div class="gallery-icon ">
+		<img src="/wp-content/uploads/pdf_icon.png" alt="" loading="lazy" style="vertical-align:middle">&nbsp; <a target="_blank" href="https://www.april-investments.ru/wp-content/uploads/Расчет-собственных-средств-на-30.04.2022-АИ.pdf">Расчет собственных средств УК на 30.04.2022 г.</a><font size="-1"> Опубликовано: 30.12.2022</font>
+	</div>
+	</figure><br style="clear: both">
+<!-- row-open  upload_date,date('d.m.Y H:i' -->
+<figure class="gallery-item last_in_row">
+	<div class="gallery-icon ">
+		<img src="/wp-content/uploads/pdf_icon.png" alt="" loading="lazy" style="vertical-align:middle">&nbsp; <a target="_blank" href="https://www.april-investments.ru/wp-content/uploads/Расчет-собственных-средств-на-31.03.2022-АИ.pdf">Расчет собственных средств УК на 31.03.2022 г.</a><font size="-1"> Опубликовано: 30.12.2022</font>
+	</div>
+	</figure><br style="clear: both">
+<!-- row-open  upload_date,date('d.m.Y H:i' -->
+<figure class="gallery-item last_in_row">
+	<div class="gallery-icon ">
+		<img src="/wp-content/uploads/pdf_icon.png" alt="" loading="lazy" style="vertical-align:middle">&nbsp; <a target="_blank" href="https://www.april-investments.ru/wp-content/uploads/Расчет-собственных-средств-на-28.02.2022-АИ.pdf">Расчет собственных средств УК на 28.02.2022 г.</a><font size="-1"> Опубликовано: 16.03.2022</font>
+	</div>
+	</figure><br style="clear: both">
+<!-- row-open  upload_date,date('d.m.Y H:i' -->
+<figure class="gallery-item last_in_row">
+	<div class="gallery-icon ">
+		<img src="/wp-content/uploads/pdf_icon.png" alt="" loading="lazy" style="vertical-align:middle">&nbsp; <a target="_blank" href="https://www.april-investments.ru/wp-content/uploads/Расчет-собственных-средств-на-31.01.2022-АИ.pdf">Расчет собственных средств УК на 31.01.2022 г.</a><font size="-1"> Опубликовано: 15.02.2022</font>
+	</div>
+	</figure><br style="clear: both">
+<!-- row-open  upload_date,date('d.m.Y H:i' -->
+<figure class="gallery-item last_in_row">
+	<div class="gallery-icon ">
+		<img src="/wp-content/uploads/pdf_icon.png" alt="" loading="lazy" style="vertical-align:middle">&nbsp; <a target="_blank" href="https://www.april-investments.ru/wp-content/uploads/Расчет-собственных-средств-на-31.12.2021-АИ.pdf">Расчет собственных средств УК на 31.12.2021 г.</a><font size="-1"> Опубликовано: 21.01.2022</font>
+	</div>
+	</figure><br style="clear: both">
+<!-- row-open  upload_date,date('d.m.Y H:i' -->
+<figure class="gallery-item last_in_row">
+	<div class="gallery-icon ">
+		<img src="/wp-content/uploads/pdf_icon.png" alt="" loading="lazy" style="vertical-align:middle">&nbsp; <a target="_blank" href="https://www.april-investments.ru/wp-content/uploads/Расчет-собственных-средств-на-30.11.2021-АИ.pdf">Расчет собственных средств УК на 30.11.2021 г.</a><font size="-1"> Опубликовано: 17.12.2021</font>
+	</div>
+	</figure><br style="clear: both">
+<!-- row-open  upload_date,date('d.m.Y H:i' -->
+<figure class="gallery-item last_in_row">
+	<div class="gallery-icon ">
+		<img src="/wp-content/uploads/pdf_icon.png" alt="" loading="lazy" style="vertical-align:middle">&nbsp; <a target="_blank" href="https://www.april-investments.ru/wp-content/uploads/Расчет-собственных-средств-на-31.10.2021-АИ.pdf">Расчет собственных средств УК на 31.10.2021 г.</a><font size="-1"> Опубликовано: 17.11.2021</font>
+	</div>
+	</figure><br style="clear: both">
+<!-- row-open  upload_date,date('d.m.Y H:i' -->
+<figure class="gallery-item last_in_row">
+	<div class="gallery-icon ">
+		<img src="/wp-content/uploads/pdf_icon.png" alt="" loading="lazy" style="vertical-align:middle">&nbsp; <a target="_blank" href="https://www.april-investments.ru/wp-content/uploads/RSS_30092021.pdf">Расчет собственных средств УК на 30.09.2021 г.</a><font size="-1"> Опубликовано: 15.10.2021</font>
+	</div>
+	</figure><br style="clear: both">
+<!-- row-open  upload_date,date('d.m.Y H:i' -->
+<figure class="gallery-item last_in_row">
+	<div class="gallery-icon ">
+		<img src="/wp-content/uploads/pdf_icon.png" alt="" loading="lazy" style="vertical-align:middle">&nbsp; <a target="_blank" href="https://www.april-investments.ru/wp-content/uploads/RSS_31082021.pdf">Расчет собственных средств УК на 31.08.2021 г.</a><font size="-1"> Опубликовано: 21.09.2021</font>
+	</div>
+	</figure><br style="clear: both">
+<!-- row-open  upload_date,date('d.m.Y H:i' -->
+<figure class="gallery-item last_in_row">
+	<div class="gallery-icon ">
+		<img src="/wp-content/uploads/pdf_icon.png" alt="" loading="lazy" style="vertical-align:middle">&nbsp; <a target="_blank" href="https://www.april-investments.ru/wp-content/uploads/RSS_31072021.pdf">Расчет собственных средств УК на 31.07.2021 г.</a><font size="-1"> Опубликовано: 16.08.2021</font>
+	</div>
+	</figure><br style="clear: both">
+<!-- row-open  upload_date,date('d.m.Y H:i' -->
+<figure class="gallery-item last_in_row">
+	<div class="gallery-icon ">
+		<img src="/wp-content/uploads/pdf_icon.png" alt="" loading="lazy" style="vertical-align:middle">&nbsp; <a target="_blank" href="https://www.april-investments.ru/wp-content/uploads/RSS_30062021.pdf">Расчет собственных средств УК на 30.06.2021 г.</a><font size="-1"> Опубликовано: 19.07.2021</font>
+	</div>
+	</figure><br style="clear: both">
+<!-- row-open  upload_date,date('d.m.Y H:i' -->
+<figure class="gallery-item last_in_row">
+	<div class="gallery-icon ">
+		<img src="/wp-content/uploads/pdf_icon.png" alt="" loading="lazy" style="vertical-align:middle">&nbsp; <a target="_blank" href="https://www.april-investments.ru/wp-content/uploads/RSS_31052021.pdf">Расчет собственных средств УК на 31.05.2021 г.</a><font size="-1"> Опубликовано: 11.06.2021</font>
+	</div>
+	</figure><br style="clear: both">
+<!-- row-open  upload_date,date('d.m.Y H:i' -->
+<figure class="gallery-item last_in_row">
+	<div class="gallery-icon ">
+		<img src="/wp-content/uploads/pdf_icon.png" alt="" loading="lazy" style="vertical-align:middle">&nbsp; <a target="_blank" href="https://www.april-investments.ru/wp-content/uploads/RSS_30042021.pdf">Расчет собственных средств УК на 30.04.2021 г.</a><font size="-1"> Опубликовано: 19.05.2021</font>
+	</div>
+	</figure><br style="clear: both">
+<!-- row-open  upload_date,date('d.m.Y H:i' -->
+<figure class="gallery-item last_in_row">
+	<div class="gallery-icon ">
+		<img src="/wp-content/uploads/pdf_icon.png" alt="" loading="lazy" style="vertical-align:middle">&nbsp; <a target="_blank" href="https://www.april-investments.ru/wp-content/uploads/RSS_31032021.pdf">Расчет собственных средств УК на 31.03.2021 г.</a><font size="-1"> Опубликовано: 20.04.2021</font>
+	</div>
+	</figure><br style="clear: both">
+<!-- row-open  upload_date,date('d.m.Y H:i' -->
+<figure class="gallery-item last_in_row">
+	<div class="gallery-icon ">
+		<img src="/wp-content/uploads/pdf_icon.png" alt="" loading="lazy" style="vertical-align:middle">&nbsp; <a target="_blank" href="https://www.april-investments.ru/wp-content/uploads/RSS_28022021.pdf">Расчет собственных средств УК на 28.02.2021 г.</a><font size="-1"> Опубликовано: 19.03.2021</font>
+	</div>
+	</figure><br style="clear: both">
+<!-- row-open  upload_date,date('d.m.Y H:i' -->
+<figure class="gallery-item last_in_row">
+	<div class="gallery-icon ">
+		<img src="/wp-content/uploads/pdf_icon.png" alt="" loading="lazy" style="vertical-align:middle">&nbsp; <a target="_blank" href="https://www.april-investments.ru/wp-content/uploads/RSS_31122020.pdf">Расчет собственных средств УК на 31.12.2020 г.</a><font size="-1"> Опубликовано: 26.01.2021</font>
+	</div>
+	</figure><br style="clear: both">
+<!-- row-open  upload_date,date('d.m.Y H:i' -->
+<figure class="gallery-item last_in_row">
+	<div class="gallery-icon ">
+		<img src="/wp-content/uploads/pdf_icon.png" alt="" loading="lazy" style="vertical-align:middle">&nbsp; <a target="_blank" href="https://www.april-investments.ru/wp-content/uploads/RSS_30112020.pdf">Расчет собственных средств УК на 30.11.2020 г.</a><font size="-1"> Опубликовано: 15.12.2020</font>
+	</div>
+	</figure><br style="clear: both">
+<!-- row-open  upload_date,date('d.m.Y H:i' -->
+<figure class="gallery-item last_in_row">
+	<div class="gallery-icon ">
+		<img src="/wp-content/uploads/pdf_icon.png" alt="" loading="lazy" style="vertical-align:middle">&nbsp; <a target="_blank" href="https://www.april-investments.ru/wp-content/uploads/RSS_31102020.pdf">Расчет собственных средств УК на 31.10.2020 г.</a><font size="-1"> Опубликовано: 18.11.2020</font>
+	</div>
+	</figure><br style="clear: both">
+<!-- row-open  upload_date,date('d.m.Y H:i' -->
+<figure class="gallery-item last_in_row">
+	<div class="gallery-icon ">
+		<img src="/wp-content/uploads/pdf_icon.png" alt="" loading="lazy" style="vertical-align:middle">&nbsp; <a target="_blank" href="https://www.april-investments.ru/wp-content/uploads/RSS_30092020.pdf">Расчет собственных средств УК на 30.09.2020 г.</a><font size="-1"> Опубликовано: 14.10.2020</font>
+	</div>
+	</figure><br style="clear: both">
+<!-- row-open  upload_date,date('d.m.Y H:i' -->
+<figure class="gallery-item last_in_row">
+	<div class="gallery-icon ">
+		<img src="/wp-content/uploads/pdf_icon.png" alt="" loading="lazy" style="vertical-align:middle">&nbsp; <a target="_blank" href="https://www.april-investments.ru/wp-content/uploads/RSS_31082020.pdf">Расчет собственных средств УК на 31.08.2020 г.</a><font size="-1"> Опубликовано: 14.09.2020</font>
+	</div>
+	</figure><br style="clear: both">
+<!-- row-open  upload_date,date('d.m.Y H:i' -->
+<figure class="gallery-item last_in_row">
+	<div class="gallery-icon ">
+		<img src="/wp-content/uploads/pdf_icon.png" alt="" loading="lazy" style="vertical-align:middle">&nbsp; <a target="_blank" href="https://www.april-investments.ru/wp-content/uploads/RSS_31072020.pdf">Расчет собственных средств УК на 31.07.2020 г.</a><font size="-1"> Опубликовано: 17.08.2020</font>
+	</div>
+	</figure><br style="clear: both">
+<!-- row-open  upload_date,date('d.m.Y H:i' -->
+<figure class="gallery-item last_in_row">
+	<div class="gallery-icon ">
+		<img src="/wp-content/uploads/pdf_icon.png" alt="" loading="lazy" style="vertical-align:middle">&nbsp; <a target="_blank" href="https://www.april-investments.ru/wp-content/uploads/RSS_30062020.pdf">Расчет собственных средств УК на 30.06.2020 г.</a><font size="-1"> Опубликовано: 15.07.2020</font>
+	</div>
+	</figure><br style="clear: both">
+<!-- row-open  upload_date,date('d.m.Y H:i' -->
+<figure class="gallery-item last_in_row">
+	<div class="gallery-icon ">
+		<img src="/wp-content/uploads/pdf_icon.png" alt="" loading="lazy" style="vertical-align:middle">&nbsp; <a target="_blank" href="https://www.april-investments.ru/wp-content/uploads/RSS_31052020.pdf">Расчет собственных средств УК на 31.05.2020 г.</a><font size="-1"> Опубликовано: 15.06.2020</font>
+	</div>
+	</figure><br style="clear: both">
+<!-- row-open  upload_date,date('d.m.Y H:i' -->
+<figure class="gallery-item last_in_row">
+	<div class="gallery-icon ">
+		<img src="/wp-content/uploads/pdf_icon.png" alt="" loading="lazy" style="vertical-align:middle">&nbsp; <a target="_blank" href="https://www.april-investments.ru/wp-content/uploads/RSS_30042020.pdf">Расчет собственных средств УК на 30.04.2020 г.</a><font size="-1"> Опубликовано: 29.05.2020</font>
+	</div>
+	</figure><br style="clear: both">
+<!-- row-open  upload_date,date('d.m.Y H:i' -->
+<figure class="gallery-item last_in_row">
+	<div class="gallery-icon ">
+		<img src="/wp-content/uploads/pdf_icon.png" alt="" loading="lazy" style="vertical-align:middle">&nbsp; <a target="_blank" href="https://www.april-investments.ru/wp-content/uploads/RSS_31032020.pdf">Расчет собственных средств УК на 31.03.2020 г.</a><font size="-1"> Опубликовано: 21.04.2020</font>
+	</div>
+	</figure><br style="clear: both">
+<!-- row-open  upload_date,date('d.m.Y H:i' -->
+<figure class="gallery-item last_in_row">
+	<div class="gallery-icon ">
+		<img src="/wp-content/uploads/pdf_icon.png" alt="" loading="lazy" style="vertical-align:middle">&nbsp; <a target="_blank" href="https://www.april-investments.ru/wp-content/uploads/RSS_29022020.pdf">Расчет собственных средств УК на 29.02.2020 г.</a><font size="-1"> Опубликовано: 17.03.2020</font>
+	</div>
+	</figure><br style="clear: both">
+<!-- row-open  upload_date,date('d.m.Y H:i' -->
+<figure class="gallery-item last_in_row">
+	<div class="gallery-icon ">
+		<img src="/wp-content/uploads/pdf_icon.png" alt="" loading="lazy" style="vertical-align:middle">&nbsp; <a target="_blank" href="https://www.april-investments.ru/wp-content/uploads/RSS_31012020.pdf">Расчет собственных средств УК на 31.01.2020 г.</a><font size="-1"> Опубликовано: 27.02.2020</font>
+	</div>
+	</figure><br style="clear: both">
+<!-- row-open  upload_date,date('d.m.Y H:i' -->
+<figure class="gallery-item last_in_row">
+	<div class="gallery-icon ">
+		<img src="/wp-content/uploads/pdf_icon.png" alt="" loading="lazy" style="vertical-align:middle">&nbsp; <a target="_blank" href="https://www.april-investments.ru/wp-content/uploads/RSS_31012021.pdf">Расчет собственных средств УК на 31.01.2021 г.</a><font size="-1"> Опубликовано: 25.02.2020</font>
+	</div>
+	</figure><br style="clear: both">
+<!-- row-open  upload_date,date('d.m.Y H:i' -->
+<figure class="gallery-item last_in_row">
+	<div class="gallery-icon ">
+		<img src="/wp-content/uploads/pdf_icon.png" alt="" loading="lazy" style="vertical-align:middle">&nbsp; <a target="_blank" href="https://www.april-investments.ru/wp-content/uploads/RSS_31122019.pdf">Расчет собственных средств УК на 31.12.2019 г.</a><font size="-1"> Опубликовано: 27.01.2020</font>
+	</div>
+	</figure><br style="clear: both">
+<!-- row-open  upload_date,date('d.m.Y H:i' -->
+<figure class="gallery-item last_in_row">
+	<div class="gallery-icon ">
+		<img src="/wp-content/uploads/pdf_icon.png" alt="" loading="lazy" style="vertical-align:middle">&nbsp; <a target="_blank" href="https://www.april-investments.ru/wp-content/uploads/RSS_30112019.pdf">Расчет собственных средств УК на 30.11.2019 г.</a><font size="-1"> Опубликовано: 25.12.2019</font>
+	</div>
+	</figure><br style="clear: both">
+<!-- row-open  upload_date,date('d.m.Y H:i' -->
+<figure class="gallery-item last_in_row">
+	<div class="gallery-icon ">
+		<img src="/wp-content/uploads/pdf_icon.png" alt="" loading="lazy" style="vertical-align:middle">&nbsp; <a target="_blank" href="https://www.april-investments.ru/wp-content/uploads/RSS_31102019.pdf">Расчет собственных средств УК на 31.10.2019 г.</a><font size="-1"> Опубликовано: 22.11.2019</font>
+	</div>
+	</figure><br style="clear: both">
+<!-- row-open  upload_date,date('d.m.Y H:i' -->
+<figure class="gallery-item last_in_row">
+	<div class="gallery-icon ">
+		<img src="/wp-content/uploads/pdf_icon.png" alt="" loading="lazy" style="vertical-align:middle">&nbsp; <a target="_blank" href="https://www.april-investments.ru/wp-content/uploads/RSS_30092019.pdf">Расчет собственных средств УК на 30.09.2019 г.</a><font size="-1"> Опубликовано: 29.10.2019</font>
+	</div>
+	</figure><br style="clear: both">
+<!-- row-open  upload_date,date('d.m.Y H:i' -->
+<figure class="gallery-item last_in_row">
+	<div class="gallery-icon ">
+		<img src="/wp-content/uploads/pdf_icon.png" alt="" loading="lazy" style="vertical-align:middle">&nbsp; <a target="_blank" href="https://www.april-investments.ru/wp-content/uploads/RSS_31082019.pdf">Расчет собственных средств УК на 31.08.2019 г.</a><font size="-1"> Опубликовано: 23.09.2019</font>
+	</div>
+	</figure><br style="clear: both">
+<!-- row-open  upload_date,date('d.m.Y H:i' -->
+<figure class="gallery-item last_in_row">
+	<div class="gallery-icon ">
+		<img src="/wp-content/uploads/pdf_icon.png" alt="" loading="lazy" style="vertical-align:middle">&nbsp; <a target="_blank" href="https://www.april-investments.ru/wp-content/uploads/RSS_31072019.pdf">Расчет собственных средств УК на 31.07.2019 г.</a><font size="-1"> Опубликовано: 26.08.2019</font>
+	</div>
+	</figure><br style="clear: both">
+<!-- row-open  upload_date,date('d.m.Y H:i' -->
+<figure class="gallery-item last_in_row">
+	<div class="gallery-icon ">
+		<img src="/wp-content/uploads/pdf_icon.png" alt="" loading="lazy" style="vertical-align:middle">&nbsp; <a target="_blank" href="https://www.april-investments.ru/wp-content/uploads/RSS_30062019.pdf">Расчет собственных средств УК на 30.06.2019 г.</a><font size="-1"> Опубликовано: 25.07.2019</font>
+	</div>
+	</figure><br style="clear: both">
+<!-- row-open  upload_date,date('d.m.Y H:i' -->
+<figure class="gallery-item last_in_row">
+	<div class="gallery-icon ">
+		<img src="/wp-content/uploads/pdf_icon.png" alt="" loading="lazy" style="vertical-align:middle">&nbsp; <a target="_blank" href="https://www.april-investments.ru/wp-content/uploads/RSS_31052019.pdf">Расчет собственных средств УК на 31.05.2019 г.</a><font size="-1"> Опубликовано: 24.06.2019</font>
+	</div>
+	</figure><br style="clear: both">
+<!-- row-open  upload_date,date('d.m.Y H:i' -->
+<figure class="gallery-item last_in_row">
+	<div class="gallery-icon ">
+		<img src="/wp-content/uploads/pdf_icon.png" alt="" loading="lazy" style="vertical-align:middle">&nbsp; <a target="_blank" href="https://www.april-investments.ru/wp-content/uploads/RSS_30042019.pdf">Расчет собственных средств УК на 30.04.2019 г.</a><font size="-1"> Опубликовано: 27.05.2019</font>
+	</div>
+	</figure><br style="clear: both">
+<!-- row-open  upload_date,date('d.m.Y H:i' -->
+<figure class="gallery-item last_in_row">
+	<div class="gallery-icon ">
+		<img src="/wp-content/uploads/pdf_icon.png" alt="" loading="lazy" style="vertical-align:middle">&nbsp; <a target="_blank" href="https://www.april-investments.ru/wp-content/uploads/RSS_31032019.pdf">Расчет собственных средств УК на 31.03.2019 г.</a><font size="-1"> Опубликовано: 30.04.2019</font>
+	</div>
+	</figure><br style="clear: both">
+<!-- row-open  upload_date,date('d.m.Y H:i' -->
+<figure class="gallery-item last_in_row">
+	<div class="gallery-icon ">
+		<img src="/wp-content/uploads/pdf_icon.png" alt="" loading="lazy" style="vertical-align:middle">&nbsp; <a target="_blank" href="https://www.april-investments.ru/wp-content/uploads/RSS_28022019.pdf">Расчет собственных средств УК на 28.02.2019 г.</a><font size="-1"> Опубликовано: 28.03.2019</font>
+	</div>
+	</figure><br style="clear: both">
+<!-- row-open  upload_date,date('d.m.Y H:i' -->
+<figure class="gallery-item last_in_row">
+	<div class="gallery-icon ">
+		<img src="/wp-content/uploads/pdf_icon.png" alt="" loading="lazy" style="vertical-align:middle">&nbsp; <a target="_blank" href="https://www.april-investments.ru/wp-content/uploads/RSS_31012019.pdf">Расчет собственных средств УК на 31.01.2019 г.</a><font size="-1"> Опубликовано: 26.02.2019</font>
+	</div>
+	</figure><br style="clear: both">
+<!-- row-open  upload_date,date('d.m.Y H:i' -->
+<figure class="gallery-item last_in_row">
+	<div class="gallery-icon ">
+		<img src="/wp-content/uploads/pdf_icon.png" alt="" loading="lazy" style="vertical-align:middle">&nbsp; <a target="_blank" href="https://www.april-investments.ru/wp-content/uploads/RSS_31122018.pdf">Расчет собственных средств УК на 31.12.2018 г.</a><font size="-1"> Опубликовано: 28.01.2019</font>
+	</div>
+	</figure><br style="clear: both">
+<!-- row-open  upload_date,date('d.m.Y H:i' -->
+<figure class="gallery-item last_in_row">
+	<div class="gallery-icon ">
+		<img src="/wp-content/uploads/pdf_icon.png" alt="" loading="lazy" style="vertical-align:middle">&nbsp; <a target="_blank" href="https://www.april-investments.ru/wp-content/uploads/RSS_31082018_corr.pdf">Расчет собственных средств УК на 31.07.2018 г. (корректировка)</a><font size="-1"> Опубликовано: 26.12.2018</font>
+	</div>
+	</figure><br style="clear: both">
+<!-- row-open  upload_date,date('d.m.Y H:i' -->
+<figure class="gallery-item last_in_row">
+	<div class="gallery-icon ">
+		<img src="/wp-content/uploads/pdf_icon.png" alt="" loading="lazy" style="vertical-align:middle">&nbsp; <a target="_blank" href="https://www.april-investments.ru/wp-content/uploads/RSS_30062018_corr.pdf">Расчет собственных средств УК на 30.06.2018 г. (корректировка)</a><font size="-1"> Опубликовано: 26.12.2018</font>
+	</div>
+	</figure><br style="clear: both">
+<!-- row-open  upload_date,date('d.m.Y H:i' -->
+<figure class="gallery-item last_in_row">
+	<div class="gallery-icon ">
+		<img src="/wp-content/uploads/pdf_icon.png" alt="" loading="lazy" style="vertical-align:middle">&nbsp; <a target="_blank" href="https://www.april-investments.ru/wp-content/uploads/RSS_31072018_corr.pdf">Расчет собственных средств УК на 31.07.2018 г. (корректировка)</a><font size="-1"> Опубликовано: 26.12.2018</font>
+	</div>
+	</figure><br style="clear: both">
+<!-- row-open  upload_date,date('d.m.Y H:i' -->
+<figure class="gallery-item last_in_row">
+	<div class="gallery-icon ">
+		<img src="/wp-content/uploads/pdf_icon.png" alt="" loading="lazy" style="vertical-align:middle">&nbsp; <a target="_blank" href="https://www.april-investments.ru/wp-content/uploads/RSS_30042018_corr.pdf">Расчет собственных средств УК на 30.04.2018 г. (корректировка)</a><font size="-1"> Опубликовано: 26.12.2018</font>
+	</div>
+	</figure><br style="clear: both">
+<!-- row-open  upload_date,date('d.m.Y H:i' -->
+<figure class="gallery-item last_in_row">
+	<div class="gallery-icon ">
+		<img src="/wp-content/uploads/pdf_icon.png" alt="" loading="lazy" style="vertical-align:middle">&nbsp; <a target="_blank" href="https://www.april-investments.ru/wp-content/uploads/RSS_31052018_corr.pdf">Расчет собственных средств УК на 31.05.2018 г. (корректировка)</a><font size="-1"> Опубликовано: 26.12.2018</font>
+	</div>
+	</figure><br style="clear: both">
+<!-- row-open  upload_date,date('d.m.Y H:i' -->
+<figure class="gallery-item last_in_row">
+	<div class="gallery-icon ">
+		<img src="/wp-content/uploads/pdf_icon.png" alt="" loading="lazy" style="vertical-align:middle">&nbsp; <a target="_blank" href="https://www.april-investments.ru/wp-content/uploads/RSS_30112018.pdf">Расчет собственных средств УК на 30.11.2018 г.</a><font size="-1"> Опубликовано: 21.12.2018</font>
+	</div>
+	</figure><br style="clear: both">
+<!-- row-open  upload_date,date('d.m.Y H:i' -->
+<figure class="gallery-item last_in_row">
+	<div class="gallery-icon ">
+		<img src="/wp-content/uploads/pdf_icon.png" alt="" loading="lazy" style="vertical-align:middle">&nbsp; <a target="_blank" href="https://www.april-investments.ru/wp-content/uploads/RSS_31102018.pdf">Расчет собственных средств УК на 31.10.2018 г.</a><font size="-1"> Опубликовано: 29.11.2018</font>
+	</div>
+	</figure><br style="clear: both">
+<!-- row-open  upload_date,date('d.m.Y H:i' -->
+<figure class="gallery-item last_in_row">
+	<div class="gallery-icon ">
+		<img src="/wp-content/uploads/pdf_icon.png" alt="" loading="lazy" style="vertical-align:middle">&nbsp; <a target="_blank" href="https://www.april-investments.ru/wp-content/uploads/RSS_30092018.pdf">Расчет собственных средств УК на 30.09.2018 г.</a><font size="-1"> Опубликовано: 31.10.2018</font>
+	</div>
+	</figure><br style="clear: both">
+<!-- row-open  upload_date,date('d.m.Y H:i' -->
+<figure class="gallery-item last_in_row">
+	<div class="gallery-icon ">
+		<img src="/wp-content/uploads/pdf_icon.png" alt="" loading="lazy" style="vertical-align:middle">&nbsp; <a target="_blank" href="https://www.april-investments.ru/wp-content/uploads/RSS_31082018.pdf">Расчет собственных средств УК на 31.08.2018 г.</a><font size="-1"> Опубликовано: 26.09.2018</font>
+	</div>
+	</figure><br style="clear: both">
+<!-- row-open  upload_date,date('d.m.Y H:i' -->
+<figure class="gallery-item last_in_row">
+	<div class="gallery-icon ">
+		<img src="/wp-content/uploads/pdf_icon.png" alt="" loading="lazy" style="vertical-align:middle">&nbsp; <a target="_blank" href="https://www.april-investments.ru/wp-content/uploads/RSS_31072018.pdf">Расчет собственных средств УК на 31.07.2018 г.</a><font size="-1"> Опубликовано: 31.08.2018</font>
+	</div>
+	</figure><br style="clear: both">
+<!-- row-open  upload_date,date('d.m.Y H:i' -->
+<figure class="gallery-item last_in_row">
+	<div class="gallery-icon ">
+		<img src="/wp-content/uploads/pdf_icon.png" alt="" loading="lazy" style="vertical-align:middle">&nbsp; <a target="_blank" href="https://www.april-investments.ru/wp-content/uploads/RSS_30062018.pdf">Расчет собственных средств УК на 30.06.2018 г.</a><font size="-1"> Опубликовано: 30.07.2018</font>
+	</div>
+	</figure><br style="clear: both">
+<!-- row-open  upload_date,date('d.m.Y H:i' -->
+<figure class="gallery-item last_in_row">
+	<div class="gallery-icon ">
+		<img src="/wp-content/uploads/pdf_icon.png" alt="" loading="lazy" style="vertical-align:middle">&nbsp; <a target="_blank" href="https://www.april-investments.ru/wp-content/uploads/RSS_31052018.pdf">Расчет собственных средств УК на 31.05.2018 г.</a><font size="-1"> Опубликовано: 28.06.2018</font>
+	</div>
+	</figure><br style="clear: both">
+<!-- row-open  upload_date,date('d.m.Y H:i' -->
+<figure class="gallery-item last_in_row">
+	<div class="gallery-icon ">
+		<img src="/wp-content/uploads/pdf_icon.png" alt="" loading="lazy" style="vertical-align:middle">&nbsp; <a target="_blank" href="https://www.april-investments.ru/wp-content/uploads/RSS_30042018.pdf">Расчет собственных средств УК на 30.04.2018 г.</a><font size="-1"> Опубликовано: 31.05.2018</font>
+	</div>
+	</figure><br style="clear: both">
+<!-- row-open  upload_date,date('d.m.Y H:i' -->
+<figure class="gallery-item last_in_row">
+	<div class="gallery-icon ">
+		<img src="/wp-content/uploads/pdf_icon.png" alt="" loading="lazy" style="vertical-align:middle">&nbsp; <a target="_blank" href="https://www.april-investments.ru/wp-content/uploads/RSS_31032018.pdf">Расчет собственных средств УК на 31.03.2018 г.</a><font size="-1"> Опубликовано: 28.04.2018</font>
+	</div>
+	</figure><br style="clear: both">
+<!-- row-open  upload_date,date('d.m.Y H:i' -->
+<figure class="gallery-item last_in_row">
+	<div class="gallery-icon ">
+		<img src="/wp-content/uploads/pdf_icon.png" alt="" loading="lazy" style="vertical-align:middle">&nbsp; <a target="_blank" href="https://www.april-investments.ru/wp-content/uploads/RSS_31122017_corr.pdf">Расчет собственных средств УК на 31.12.2017 г. (корректировка)</a><font size="-1"> Опубликовано: 29.03.2018</font>
+	</div>
+	</figure><br style="clear: both">
+<!-- row-open  upload_date,date('d.m.Y H:i' -->
+<figure class="gallery-item last_in_row">
+	<div class="gallery-icon ">
+		<img src="/wp-content/uploads/pdf_icon.png" alt="" loading="lazy" style="vertical-align:middle">&nbsp; <a target="_blank" href="https://www.april-investments.ru/wp-content/uploads/RSS_28022018.pdf">Расчет собственных средств УК на 28.02.2018 г.</a><font size="-1"> Опубликовано: 29.03.2018</font>
+	</div>
+	</figure><br style="clear: both">
+<!-- row-open  upload_date,date('d.m.Y H:i' -->
+<figure class="gallery-item last_in_row">
+	<div class="gallery-icon ">
+		<img src="/wp-content/uploads/pdf_icon.png" alt="" loading="lazy" style="vertical-align:middle">&nbsp; <a target="_blank" href="https://www.april-investments.ru/wp-content/uploads/RSS_31012018_corr.pdf">Расчет собственных средств УК на 31.01.2018 г. (корректировка)</a><font size="-1"> Опубликовано: 29.03.2018</font>
+	</div>
+	</figure><br style="clear: both">
+<!-- row-open  upload_date,date('d.m.Y H:i' -->
+<figure class="gallery-item last_in_row">
+	<div class="gallery-icon ">
+		<img src="/wp-content/uploads/pdf_icon.png" alt="" loading="lazy" style="vertical-align:middle">&nbsp; <a target="_blank" href="https://www.april-investments.ru/wp-content/uploads/RSS_31012018.pdf">Расчет собственных средств УК на 31.01.2018 г.</a><font size="-1"> Опубликовано: 28.02.2018</font>
+	</div>
+	</figure><br style="clear: both">
+<!-- row-open  upload_date,date('d.m.Y H:i' -->
+<figure class="gallery-item last_in_row">
+	<div class="gallery-icon ">
+		<img src="/wp-content/uploads/pdf_icon.png" alt="" loading="lazy" style="vertical-align:middle">&nbsp; <a target="_blank" href="https://www.april-investments.ru/wp-content/uploads/RSS_31122017.pdf">Расчет собственных средств УК на 31.12.2017 г.</a><font size="-1"> Опубликовано: 31.01.2018</font>
+	</div>
+	</figure><br style="clear: both">
+<!-- row-open  upload_date,date('d.m.Y H:i' -->
+<figure class="gallery-item last_in_row">
+	<div class="gallery-icon ">
+		<img src="/wp-content/uploads/pdf_icon.png" alt="" loading="lazy" style="vertical-align:middle">&nbsp; <a target="_blank" href="https://www.april-investments.ru/wp-content/uploads/RSS_30112017.pdf">Расчет собственных средств УК на 30.11.2017 г.</a><font size="-1"> Опубликовано: 28.12.2017</font>
+	</div>
+	</figure><br style="clear: both">
+<!-- row-open  upload_date,date('d.m.Y H:i' -->
+<figure class="gallery-item last_in_row">
+	<div class="gallery-icon ">
+		<img src="/wp-content/uploads/pdf_icon.png" alt="" loading="lazy" style="vertical-align:middle">&nbsp; <a target="_blank" href="https://www.april-investments.ru/wp-content/uploads/RSS_31102017.pdf">Расчет собственных средств УК на 31.10.2017 г.</a><font size="-1"> Опубликовано: 30.11.2017</font>
+	</div>
+	</figure><br style="clear: both">
+<!-- row-open  upload_date,date('d.m.Y H:i' -->
+<figure class="gallery-item last_in_row">
+	<div class="gallery-icon ">
+		<img src="/wp-content/uploads/pdf_icon.png" alt="" loading="lazy" style="vertical-align:middle">&nbsp; <a target="_blank" href="https://www.april-investments.ru/wp-content/uploads/RSS_30092017.pdf">Расчет собственных средств УК на 30.09.2017 г.</a><font size="-1"> Опубликовано: 31.10.2017</font>
+	</div>
+	</figure><br style="clear: both">
+<!-- row-open  upload_date,date('d.m.Y H:i' -->
+<figure class="gallery-item last_in_row">
+	<div class="gallery-icon ">
+		<img src="/wp-content/uploads/pdf_icon.png" alt="" loading="lazy" style="vertical-align:middle">&nbsp; <a target="_blank" href="https://www.april-investments.ru/wp-content/uploads/RSS_31082017.pdf">Расчет собственных средств УК на 31.08.2017 г.</a><font size="-1"> Опубликовано: 28.09.2017</font>
+	</div>
+	</figure><br style="clear: both">
+<!-- row-open  upload_date,date('d.m.Y H:i' -->
+<figure class="gallery-item last_in_row">
+	<div class="gallery-icon ">
+		<img src="/wp-content/uploads/pdf_icon.png" alt="" loading="lazy" style="vertical-align:middle">&nbsp; <a target="_blank" href="https://www.april-investments.ru/wp-content/uploads/RSS_31072017.pdf">Расчет собственных средств УК на 31.07.2017 г.</a><font size="-1"> Опубликовано: 28.08.2017</font>
+	</div>
+	</figure><br style="clear: both">
+<!-- row-open  upload_date,date('d.m.Y H:i' -->
+<figure class="gallery-item last_in_row">
+	<div class="gallery-icon ">
+		<img src="/wp-content/uploads/pdf_icon.png" alt="" loading="lazy" style="vertical-align:middle">&nbsp; <a target="_blank" href="https://www.april-investments.ru/wp-content/uploads/RSS_30062017.pdf">Расчет собственных средств УК на 30.06.2017 г.</a><font size="-1"> Опубликовано: 31.07.2017</font>
+	</div>
+	</figure><br style="clear: both">
+<!-- row-open  upload_date,date('d.m.Y H:i' -->
+<figure class="gallery-item last_in_row">
+	<div class="gallery-icon ">
+		<img src="/wp-content/uploads/pdf_icon.png" alt="" loading="lazy" style="vertical-align:middle">&nbsp; <a target="_blank" href="https://www.april-investments.ru/wp-content/uploads/RSS_31052017.pdf">Расчет собственных средств УК на 31.05.2017 г.</a><font size="-1"> Опубликовано: 23.06.2017</font>
+	</div>
+	</figure><br style="clear: both">
+<!-- row-open  upload_date,date('d.m.Y H:i' -->
+<figure class="gallery-item last_in_row">
+	<div class="gallery-icon ">
+		<img src="/wp-content/uploads/pdf_icon.png" alt="" loading="lazy" style="vertical-align:middle">&nbsp; <a target="_blank" href="https://www.april-investments.ru/wp-content/uploads/RSS_30042017.pdf">Расчет собственных средств УК на 30.04.2017 г.</a><font size="-1"> Опубликовано: 31.05.2017</font>
+	</div>
+	</figure><br style="clear: both">
+<!-- row-open  upload_date,date('d.m.Y H:i' -->
+<figure class="gallery-item last_in_row">
+	<div class="gallery-icon ">
+		<img src="/wp-content/uploads/pdf_icon.png" alt="" loading="lazy" style="vertical-align:middle">&nbsp; <a target="_blank" href="https://www.april-investments.ru/wp-content/uploads/RSS_31032017.pdf">Расчет собственных средств УК на 31.03.2017 г.</a><font size="-1"> Опубликовано: 28.04.2017</font>
+	</div>
+	</figure><br style="clear: both">
+<!-- row-open  upload_date,date('d.m.Y H:i' -->
+<figure class="gallery-item last_in_row">
+	<div class="gallery-icon ">
+		<img src="/wp-content/uploads/pdf_icon.png" alt="" loading="lazy" style="vertical-align:middle">&nbsp; <a target="_blank" href="https://www.april-investments.ru/wp-content/uploads/RSS_28022017.pdf">Расчет собственных средств УК на 28.02.2017 г.</a><font size="-1"> Опубликовано: 28.03.2017</font>
+	</div>
+	</figure><br style="clear: both">
+<!-- row-open  upload_date,date('d.m.Y H:i' -->
+<figure class="gallery-item last_in_row">
+	<div class="gallery-icon ">
+		<img src="/wp-content/uploads/pdf_icon.png" alt="" loading="lazy" style="vertical-align:middle">&nbsp; <a target="_blank" href="https://www.april-investments.ru/wp-content/uploads/RSS_31012017.pdf">Расчет собственных средств УК на 31.01.2017 г.</a><font size="-1"> Опубликовано: 21.02.2017</font>
+	</div>
+	</figure><br style="clear: both">
+<!-- row-open  upload_date,date('d.m.Y H:i' -->
+<figure class="gallery-item last_in_row">
+	<div class="gallery-icon ">
+		<img src="/wp-content/uploads/pdf_icon.png" alt="" loading="lazy" style="vertical-align:middle">&nbsp; <a target="_blank" href="https://www.april-investments.ru/wp-content/uploads/RSS_31122016.pdf">Расчет собственных средств УК на 31.12.2016 г.</a><font size="-1"> Опубликовано: 27.01.2017</font>
+	</div>
+	</figure><br style="clear: both">
+<!-- row-open  upload_date,date('d.m.Y H:i' -->
+<figure class="gallery-item last_in_row">
+	<div class="gallery-icon ">
+		<img src="/wp-content/uploads/pdf_icon.png" alt="" loading="lazy" style="vertical-align:middle">&nbsp; <a target="_blank" href="https://www.april-investments.ru/wp-content/uploads/RSS_30112016.pdf">Расчет собственных средств УК на 30.11.2016 г.</a><font size="-1"> Опубликовано: 23.12.2016</font>
+	</div>
+	</figure><br style="clear: both">
+<!-- row-open  upload_date,date('d.m.Y H:i' -->
+<figure class="gallery-item last_in_row">
+	<div class="gallery-icon ">
+		<img src="/wp-content/uploads/pdf_icon.png" alt="" loading="lazy" style="vertical-align:middle">&nbsp; <a target="_blank" href="https://www.april-investments.ru/wp-content/uploads/RSS_31102016.pdf">Расчет собственных средств УК на 31.10.2016 г.</a><font size="-1"> Опубликовано: 28.11.2016</font>
+	</div>
+	</figure><br style="clear: both">
+<!-- row-open  upload_date,date('d.m.Y H:i' -->
+<figure class="gallery-item last_in_row">
+	<div class="gallery-icon ">
+		<img src="/wp-content/uploads/pdf_icon.png" alt="" loading="lazy" style="vertical-align:middle">&nbsp; <a target="_blank" href="https://www.april-investments.ru/wp-content/uploads/RSS_30092016.pdf">Расчет собственных средств УК на 30.09.2016 г.</a><font size="-1"> Опубликовано: 31.10.2016</font>
+	</div>
+	</figure><br style="clear: both">
+<!-- row-open  upload_date,date('d.m.Y H:i' -->
+<figure class="gallery-item last_in_row">
+	<div class="gallery-icon ">
+		<img src="/wp-content/uploads/pdf_icon.png" alt="" loading="lazy" style="vertical-align:middle">&nbsp; <a target="_blank" href="https://www.april-investments.ru/wp-content/uploads/RSS_31082016.pdf">Расчет собственных средств УК на 31.08.2016 г.</a><font size="-1"> Опубликовано: 22.09.2016</font>
+	</div>
+	</figure><br style="clear: both">
+<!-- row-open  upload_date,date('d.m.Y H:i' -->
+<figure class="gallery-item last_in_row">
+	<div class="gallery-icon ">
+		<img src="/wp-content/uploads/pdf_icon.png" alt="" loading="lazy" style="vertical-align:middle">&nbsp; <a target="_blank" href="https://www.april-investments.ru/wp-content/uploads/RSS_31072016.pdf">Расчет собственных средств УК на 31.07.2016 г.</a><font size="-1"> Опубликовано: 25.08.2016</font>
+	</div>
+	</figure><br style="clear: both">
+<!-- row-open  upload_date,date('d.m.Y H:i' -->
+<figure class="gallery-item last_in_row">
+	<div class="gallery-icon ">
+		<img src="/wp-content/uploads/pdf_icon.png" alt="" loading="lazy" style="vertical-align:middle">&nbsp; <a target="_blank" href="https://www.april-investments.ru/wp-content/uploads/RSS_30062016.pdf">Расчет собственных средств УК на 30.06.2016 г.</a><font size="-1"> Опубликовано: 25.07.2016</font>
+	</div>
+	</figure><br style="clear: both">
+<!-- row-open  upload_date,date('d.m.Y H:i' -->
+<figure class="gallery-item last_in_row">
+	<div class="gallery-icon ">
+		<img src="/wp-content/uploads/pdf_icon.png" alt="" loading="lazy" style="vertical-align:middle">&nbsp; <a target="_blank" href="https://www.april-investments.ru/wp-content/uploads/RSS_31052016.pdf">Расчет собственных средств УК на 31.05.2016 г.</a><font size="-1"> Опубликовано: 23.06.2016</font>
+	</div>
+	</figure><br style="clear: both">
+<!-- row-open  upload_date,date('d.m.Y H:i' -->
+<figure class="gallery-item last_in_row">
+	<div class="gallery-icon ">
+		<img src="/wp-content/uploads/pdf_icon.png" alt="" loading="lazy" style="vertical-align:middle">&nbsp; <a target="_blank" href="https://www.april-investments.ru/wp-content/uploads/RSS_30042016.pdf">Расчет собственных средств УК на 30.04.2016 г.</a><font size="-1"> Опубликовано: 26.05.2016</font>
+	</div>
+	</figure><br style="clear: both">
+<!-- row-open  upload_date,date('d.m.Y H:i' -->
+<figure class="gallery-item last_in_row">
+	<div class="gallery-icon ">
+		<img src="/wp-content/uploads/pdf_icon.png" alt="" loading="lazy" style="vertical-align:middle">&nbsp; <a target="_blank" href="https://www.april-investments.ru/wp-content/uploads/RSS_31032016.pdf">Расчет собственных средств УК на 31.03.2016 г.</a><font size="-1"> Опубликовано: 29.04.2016</font>
+	</div>
+	</figure><br style="clear: both">
+<!-- row-open  upload_date,date('d.m.Y H:i' -->
+<figure class="gallery-item last_in_row">
+	<div class="gallery-icon ">
+		<img src="/wp-content/uploads/pdf_icon.png" alt="" loading="lazy" style="vertical-align:middle">&nbsp; <a target="_blank" href="https://www.april-investments.ru/wp-content/uploads/RSS_31122015corr.pdf">Расчет собственных средств УК на 31.12.2015 г. (корректировка)</a><font size="-1"> Опубликовано: 20.04.2016</font>
+	</div>
+	</figure><br style="clear: both">
+<!-- row-open  upload_date,date('d.m.Y H:i' -->
+<figure class="gallery-item last_in_row">
+	<div class="gallery-icon ">
+		<img src="/wp-content/uploads/pdf_icon.png" alt="" loading="lazy" style="vertical-align:middle">&nbsp; <a target="_blank" href="https://www.april-investments.ru/wp-content/uploads/RSS_29022016.pdf">Расчет собственных средств УК на 29.02.2016 г.</a><font size="-1"> Опубликовано: 30.03.2016</font>
+	</div>
+	</figure><br style="clear: both">
+<!-- row-open  upload_date,date('d.m.Y H:i' -->
+<figure class="gallery-item last_in_row">
+	<div class="gallery-icon ">
+		<img src="/wp-content/uploads/pdf_icon.png" alt="" loading="lazy" style="vertical-align:middle">&nbsp; <a target="_blank" href="https://www.april-investments.ru/wp-content/uploads/RSS_31012016.pdf">Расчет собственных средств УК на 31.01.2016 г.</a><font size="-1"> Опубликовано: 29.02.2016</font>
+	</div>
+	</figure><br style="clear: both">
+<!-- row-open  upload_date,date('d.m.Y H:i' -->
+<figure class="gallery-item last_in_row">
+	<div class="gallery-icon ">
+		<img src="/wp-content/uploads/pdf_icon.png" alt="" loading="lazy" style="vertical-align:middle">&nbsp; <a target="_blank" href="https://www.april-investments.ru/wp-content/uploads/RSS_31122015.pdf">Расчет собственных средств УК на 31.12.2015 г.</a><font size="-1"> Опубликовано: 01.02.2016</font>
+	</div>
+	</figure><br style="clear: both">
+<!-- row-open  upload_date,date('d.m.Y H:i' -->
+<figure class="gallery-item last_in_row">
+	<div class="gallery-icon ">
+		<img src="/wp-content/uploads/pdf_icon.png" alt="" loading="lazy" style="vertical-align:middle">&nbsp; <a target="_blank" href="https://www.april-investments.ru/wp-content/uploads/RSS_30112015.pdf">Расчет собственных средств УК на 30.11.2015 г.</a><font size="-1"> Опубликовано: 18.12.2015</font>
+	</div>
+	</figure><br style="clear: both">
+<!-- row-open  upload_date,date('d.m.Y H:i' -->
+<figure class="gallery-item last_in_row">
+	<div class="gallery-icon ">
+		<img src="/wp-content/uploads/pdf_icon.png" alt="" loading="lazy" style="vertical-align:middle">&nbsp; <a target="_blank" href="https://www.april-investments.ru/wp-content/uploads/RSS_31102015.pdf">Расчет собственных средств УК на 31.10.2015 г.</a><font size="-1"> Опубликовано: 23.11.2015</font>
+	</div>
+	</figure><br style="clear: both">
+<!-- row-open  upload_date,date('d.m.Y H:i' -->
+<figure class="gallery-item last_in_row">
+	<div class="gallery-icon ">
+		<img src="/wp-content/uploads/pdf_icon.png" alt="" loading="lazy" style="vertical-align:middle">&nbsp; <a target="_blank" href="https://www.april-investments.ru/wp-content/uploads/RSS_30092015.pdf">Расчет собственных средств УК на 30.09.2015 г.</a><font size="-1"> Опубликовано: 29.10.2015</font>
+	</div>
+	</figure><br style="clear: both">
+<!-- row-open  upload_date,date('d.m.Y H:i' -->
+<figure class="gallery-item last_in_row">
+	<div class="gallery-icon ">
+		<img src="/wp-content/uploads/pdf_icon.png" alt="" loading="lazy" style="vertical-align:middle">&nbsp; <a target="_blank" href="https://www.april-investments.ru/wp-content/uploads/RSS_31082015.pdf">Расчет собственных средств УК на 31.08.2015 г.</a><font size="-1"> Опубликовано: 29.09.2015</font>
+	</div>
+	</figure><br style="clear: both">
+<!-- row-open  upload_date,date('d.m.Y H:i' -->
+<figure class="gallery-item last_in_row">
+	<div class="gallery-icon ">
+		<img src="/wp-content/uploads/pdf_icon.png" alt="" loading="lazy" style="vertical-align:middle">&nbsp; <a target="_blank" href="https://www.april-investments.ru/wp-content/uploads/RSS_31072015.pdf">Расчет собственных средств УК на 31.07.2015 г.</a><font size="-1"> Опубликовано: 31.08.2015</font>
+	</div>
+	</figure><br style="clear: both">
+<!-- row-open  upload_date,date('d.m.Y H:i' -->
+<figure class="gallery-item last_in_row">
+	<div class="gallery-icon ">
+		<img src="/wp-content/uploads/pdf_icon.png" alt="" loading="lazy" style="vertical-align:middle">&nbsp; <a target="_blank" href="https://www.april-investments.ru/wp-content/uploads/RSS_30062015.pdf">Расчет собственных средств УК на 30.06.2015 г.</a><font size="-1"> Опубликовано: 21.07.2015</font>
+	</div>
+	</figure><br style="clear: both">
+<!-- row-open  upload_date,date('d.m.Y H:i' -->
+<figure class="gallery-item last_in_row">
+	<div class="gallery-icon ">
+		<img src="/wp-content/uploads/pdf_icon.png" alt="" loading="lazy" style="vertical-align:middle">&nbsp; <a target="_blank" href="https://www.april-investments.ru/wp-content/uploads/RSS_31052015.pdf">Расчет собственных средств УК на 31.05.2015 г.</a><font size="-1"> Опубликовано: 23.06.2015</font>
+	</div>
+	</figure><br style="clear: both">
+<!-- row-open  upload_date,date('d.m.Y H:i' -->
+<figure class="gallery-item last_in_row">
+	<div class="gallery-icon ">
+		<img src="/wp-content/uploads/pdf_icon.png" alt="" loading="lazy" style="vertical-align:middle">&nbsp; <a target="_blank" href="https://www.april-investments.ru/wp-content/uploads/RSS_30042015.pdf">Расчет собственных средств УК на 30.04.2015 г.</a><font size="-1"> Опубликовано: 27.05.2015</font>
+	</div>
+	</figure><br style="clear: both">
+<!-- row-open  upload_date,date('d.m.Y H:i' -->
+<figure class="gallery-item last_in_row">
+	<div class="gallery-icon ">
+		<img src="/wp-content/uploads/pdf_icon.png" alt="" loading="lazy" style="vertical-align:middle">&nbsp; <a target="_blank" href="https://www.april-investments.ru/wp-content/uploads/RSS_31032015.pdf">Расчет собственных средств УК на 31.03.2015 г.</a><font size="-1"> Опубликовано: 27.04.2015</font>
+	</div>
+	</figure><br style="clear: both">
+<!-- row-open  upload_date,date('d.m.Y H:i' -->
+<figure class="gallery-item last_in_row">
+	<div class="gallery-icon ">
+		<img src="/wp-content/uploads/pdf_icon.png" alt="" loading="lazy" style="vertical-align:middle">&nbsp; <a target="_blank" href="https://www.april-investments.ru/wp-content/uploads/RSS_28022015.pdf">Расчет собственных средств УК на 28.02.2015 г.</a><font size="-1"> Опубликовано: 30.03.2015</font>
+	</div>
+	</figure><br style="clear: both">
+<!-- row-open  upload_date,date('d.m.Y H:i' -->
+<figure class="gallery-item last_in_row">
+	<div class="gallery-icon ">
+		<img src="/wp-content/uploads/pdf_icon.png" alt="" loading="lazy" style="vertical-align:middle">&nbsp; <a target="_blank" href="https://www.april-investments.ru/wp-content/uploads/RSS_31012015.pdf">Расчет собственных средств УК на 31.01.2015 г.</a><font size="-1"> Опубликовано: 27.02.2015</font>
+	</div>
+	</figure><br style="clear: both">
+<!-- row-open  upload_date,date('d.m.Y H:i' -->
+<figure class="gallery-item last_in_row">
+	<div class="gallery-icon ">
+		<img src="/wp-content/uploads/pdf_icon.png" alt="" loading="lazy" style="vertical-align:middle">&nbsp; <a target="_blank" href="https://www.april-investments.ru/wp-content/uploads/RSS_31122014.pdf">Расчет собственных средств УК на 31.12.2014 г.</a><font size="-1"> Опубликовано: 30.01.2015</font>
+	</div>
+	</figure><br style="clear: both">
+<!-- row-open  upload_date,date('d.m.Y H:i' -->
+<figure class="gallery-item last_in_row">
+	<div class="gallery-icon ">
+		<img src="/wp-content/uploads/pdf_icon.png" alt="" loading="lazy" style="vertical-align:middle">&nbsp; <a target="_blank" href="https://www.april-investments.ru/wp-content/uploads/RSS_30112014.pdf">Расчет собственных средств УК на 30.11.2014 г.</a><font size="-1"> Опубликовано: 15.12.2014</font>
+	</div>
+	</figure><br style="clear: both">
+<!-- row-open  upload_date,date('d.m.Y H:i' -->
+<figure class="gallery-item last_in_row">
+	<div class="gallery-icon ">
+		<img src="/wp-content/uploads/pdf_icon.png" alt="" loading="lazy" style="vertical-align:middle">&nbsp; <a target="_blank" href="https://www.april-investments.ru/wp-content/uploads/RSS_31102014.pdf">Расчет собственных средств УК на 31.10.2014 г.</a><font size="-1"> Опубликовано: 17.11.2014</font>
+	</div>
+	</figure><br style="clear: both">
+<!-- row-open  upload_date,date('d.m.Y H:i' -->
+<figure class="gallery-item last_in_row">
+	<div class="gallery-icon ">
+		<img src="/wp-content/uploads/pdf_icon.png" alt="" loading="lazy" style="vertical-align:middle">&nbsp; <a target="_blank" href="https://www.april-investments.ru/wp-content/uploads/RSS_30062014corr.pdf">Расчет собственных средств УК на 30.06.2014 г. (корректировка)</a><font size="-1"> Опубликовано: 28.10.2014</font>
+	</div>
+	</figure><br style="clear: both">
+<!-- row-open  upload_date,date('d.m.Y H:i' -->
+<figure class="gallery-item last_in_row">
+	<div class="gallery-icon ">
+		<img src="/wp-content/uploads/pdf_icon.png" alt="" loading="lazy" style="vertical-align:middle">&nbsp; <a target="_blank" href="https://www.april-investments.ru/wp-content/uploads/RSS_31072014corr.pdf">Расчет собственных средств УК на 31.07.2014 г. (корректировка)</a><font size="-1"> Опубликовано: 28.10.2014</font>
+	</div>
+	</figure><br style="clear: both">
+<!-- row-open  upload_date,date('d.m.Y H:i' -->
+<figure class="gallery-item last_in_row">
+	<div class="gallery-icon ">
+		<img src="/wp-content/uploads/pdf_icon.png" alt="" loading="lazy" style="vertical-align:middle">&nbsp; <a target="_blank" href="https://www.april-investments.ru/wp-content/uploads/RSS_31082014corr.pdf">Расчет собственных средств УК на 31.08.2014 г. (корректировка)</a><font size="-1"> Опубликовано: 28.10.2014</font>
+	</div>
+	</figure><br style="clear: both">
+<!-- row-open  upload_date,date('d.m.Y H:i' -->
+<figure class="gallery-item last_in_row">
+	<div class="gallery-icon ">
+		<img src="/wp-content/uploads/pdf_icon.png" alt="" loading="lazy" style="vertical-align:middle">&nbsp; <a target="_blank" href="https://www.april-investments.ru/wp-content/uploads/RSS_30092014.pdf">Расчет собственных средств УК на 30.09.2014 г.</a><font size="-1"> Опубликовано: 23.10.2014</font>
+	</div>
+	</figure><br style="clear: both">
+<!-- row-open  upload_date,date('d.m.Y H:i' -->
+<figure class="gallery-item last_in_row">
+	<div class="gallery-icon ">
+		<img src="/wp-content/uploads/pdf_icon.png" alt="" loading="lazy" style="vertical-align:middle">&nbsp; <a target="_blank" href="https://www.april-investments.ru/wp-content/uploads/RSS_31082014.pdf">Расчет собственных средств УК на 31.08.2014 г.</a><font size="-1"> Опубликовано: 17.09.2014</font>
+	</div>
+	</figure><br style="clear: both">
+<!-- row-open  upload_date,date('d.m.Y H:i' -->
+<figure class="gallery-item last_in_row">
+	<div class="gallery-icon ">
+		<img src="/wp-content/uploads/pdf_icon.png" alt="" loading="lazy" style="vertical-align:middle">&nbsp; <a target="_blank" href="https://www.april-investments.ru/wp-content/uploads/RSS_31072014.pdf">Расчет собственных средств УК на 31.07.2014 г.</a><font size="-1"> Опубликовано: 20.08.2014</font>
+	</div>
+	</figure><br style="clear: both">
+<!-- row-open  upload_date,date('d.m.Y H:i' -->
+<figure class="gallery-item last_in_row">
+	<div class="gallery-icon ">
+		<img src="/wp-content/uploads/pdf_icon.png" alt="" loading="lazy" style="vertical-align:middle">&nbsp; <a target="_blank" href="https://www.april-investments.ru/wp-content/uploads/RSS_30062014.pdf">Расчет собственных средств УК на 30.06.2014 г.</a><font size="-1"> Опубликовано: 25.07.2014</font>
+	</div>
+	</figure><br style="clear: both">
+<!-- row-open  upload_date,date('d.m.Y H:i' -->
+<figure class="gallery-item last_in_row">
+	<div class="gallery-icon ">
+		<img src="/wp-content/uploads/pdf_icon.png" alt="" loading="lazy" style="vertical-align:middle">&nbsp; <a target="_blank" href="https://www.april-investments.ru/wp-content/uploads/RSS_31052014.pdf">Расчет собственных средств УК на 31.05.2014 г.</a><font size="-1"> Опубликовано: 30.06.2014</font>
+	</div>
+	</figure><br style="clear: both">
+<!-- row-open  upload_date,date('d.m.Y H:i' -->
+<figure class="gallery-item last_in_row">
+	<div class="gallery-icon ">
+		<img src="/wp-content/uploads/pdf_icon.png" alt="" loading="lazy" style="vertical-align:middle">&nbsp; <a target="_blank" href="https://www.april-investments.ru/wp-content/uploads/RSS_30042014.pdf">Расчет собственных средств УК на 30.04.2014 г.</a><font size="-1"> Опубликовано: 30.05.2014</font>
+	</div>
+	</figure><br style="clear: both">
+<!-- row-open  upload_date,date('d.m.Y H:i' -->
+<figure class="gallery-item last_in_row">
+	<div class="gallery-icon ">
+		<img src="/wp-content/uploads/pdf_icon.png" alt="" loading="lazy" style="vertical-align:middle">&nbsp; <a target="_blank" href="https://www.april-investments.ru/wp-content/uploads/RSS_31032014.pdf">Расчет собственных средств УК на 31.03.2014 г.</a><font size="-1"> Опубликовано: 29.04.2014</font>
+	</div>
+	</figure><br style="clear: both">
+<!-- row-open  upload_date,date('d.m.Y H:i' -->
+<figure class="gallery-item last_in_row">
+	<div class="gallery-icon ">
+		<img src="/wp-content/uploads/pdf_icon.png" alt="" loading="lazy" style="vertical-align:middle">&nbsp; <a target="_blank" href="https://www.april-investments.ru/wp-content/uploads/RSS28022014.pdf">Расчет собственных средств УК на  28.02.2014 г.</a><font size="-1"> Опубликовано: 31.03.2014</font>
+	</div>
+	</figure><br style="clear: both">
+<!-- row-open  upload_date,date('d.m.Y H:i' -->
+<figure class="gallery-item last_in_row">
+	<div class="gallery-icon ">
+		<img src="/wp-content/uploads/pdf_icon.png" alt="" loading="lazy" style="vertical-align:middle">&nbsp; <a target="_blank" href="https://www.april-investments.ru/wp-content/uploads/RSS_31012014.pdf">Расчет собственных средств УК на 31.01.2014 г.</a><font size="-1"> Опубликовано: 26.02.2014</font>
+	</div>
+	</figure><br style="clear: both">
+<!-- row-open  upload_date,date('d.m.Y H:i' -->
+<figure class="gallery-item last_in_row">
+	<div class="gallery-icon ">
+		<img src="/wp-content/uploads/pdf_icon.png" alt="" loading="lazy" style="vertical-align:middle">&nbsp; <a target="_blank" href="https://www.april-investments.ru/wp-content/uploads/RSS_31122013.pdf">Расчет собственных средств УК на 31.12.2013 г.</a><font size="-1"> Опубликовано: 29.01.2014</font>
+	</div>
+	</figure><br style="clear: both">
+<!-- row-open  upload_date,date('d.m.Y H:i' -->
+<figure class="gallery-item last_in_row">
+	<div class="gallery-icon ">
+		<img src="/wp-content/uploads/pdf_icon.png" alt="" loading="lazy" style="vertical-align:middle">&nbsp; <a target="_blank" href="https://www.april-investments.ru/wp-content/uploads/RSS_31032013.pdf">Расчет собственных средств УК на 31.03.2013 г.</a><font size="-1"> Опубликовано: 17.04.2013</font>
+	</div>
+	</figure><br style="clear: both">
+</div>
+
+
+
+
+<p></p>
+							</div><!-- .entry-content -->
+
+			<section id="comments">
+	
+	
+	</section><!-- #comments -->
+			
+	<span class="schema-publisher" itemprop="publisher" itemscope="" itemtype="https://schema.org/Organization">
+         <span itemprop="logo" itemscope="" itemtype="https://schema.org/ImageObject">
+           <meta itemprop="url" content="https://www.april-investments.ru/wp-content/uploads/AI_logo_main_rus.jpg">
+         </span>
+         <meta itemprop="name" content="ООО УК «Апрель Инвестиции»">
+    </span>
+<link itemprop="mainEntityOfPage" href="https://www.april-investments.ru/disclosure/rrss/">		</div><!-- .article-inner -->
+	</article><!-- #post-## -->
+
+
+					</main><!-- #main -->
+
+		
+<aside id="primary" class="widget-area sidey" itemscope="" itemtype="http://schema.org/WPSideBar">
+	<nav class="sidebarmenu"><ul id="menu-%d1%80%d0%b0%d1%81%d0%ba%d1%80%d1%8b%d1%82%d0%b8%d0%b5-%d0%b8%d0%bd%d1%84%d0%be%d1%80%d0%bc%d0%b0%d1%86%d0%b8%d0%b8" class="menu"><li id="menu-item-952" class="menu-item menu-item-type-post_type menu-item-object-page current-page-ancestor current-page-parent menu-item-952"><a href="https://www.april-investments.ru/disclosure/">Раскрытие информации и документация</a></li>
+<li id="menu-item-1072" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1072"><a href="https://www.april-investments.ru/5609-u/">Информация в соответствии с Указанием Банка России № 5609-У от 02.11.2020 г.</a></li>
+<li id="menu-item-623" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-623"><a href="https://www.april-investments.ru/disclosure/622-p/">Информация в соответствии с Положением Банка России № 622-П от 26.12.2017 г.</a></li>
+<li id="menu-item-621" class="menu-item menu-item-type-post_type menu-item-object-page current-menu-item page_item page-item-557 current_page_item menu-item-621"><a href="https://www.april-investments.ru/disclosure/rrss/" aria-current="page">Расчет размера собственных средств</a></li>
+<li id="menu-item-696" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-696"><a href="https://www.april-investments.ru/disclosure/accounting/">Финансовая отчетность</a></li>
+<li id="menu-item-656" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-656"><a href="https://www.april-investments.ru/disclosure/am/">Информация для ознакомления получателями финансовых услуг</a></li>
+<li id="menu-item-624" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-624"><a href="https://www.april-investments.ru/disclosure/properties/">Реквизиты</a></li>
+<li id="menu-item-688" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-688"><a href="https://www.april-investments.ru/disclosure/ib/">Рекомендации по соблюдению информационной безопасности</a></li>
+<li id="menu-item-690" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-690"><a href="https://www.april-investments.ru/disclosure/sro/">Членство в СРО</a></li>
+<li id="menu-item-694" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-694"><a href="https://www.april-investments.ru/disclosure/edo/">Электронный документооборот</a></li>
+<li id="menu-item-1021" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1021"><a href="https://www.april-investments.ru/disclosure/maintenance_information/">Информация о проведении профилактических работ</a></li>
+<li id="menu-item-882" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-882"><a href="https://www.april-investments.ru/disclosure/tech-info/">Информация о технических сбоях</a></li>
+<li id="menu-item-1022" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1022"><a href="https://www.april-investments.ru/disclosure/messages_of_inaccurate/">Сообщения об обнаружении (выявлении) неточных, неполных и (или) недостоверных сведений в раскрываемой информации</a></li>
+<li id="menu-item-979" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-979"><a href="https://www.april-investments.ru/disclosure/archive/">Архив</a></li>
+</ul></nav>
+	<section id="block-10" class="widget-container widget_block widget_search"><form role="search" method="get" action="https://www.april-investments.ru/" class="wp-block-search__button-outside wp-block-search__text-button wp-block-search"><label for="wp-block-search__input-1" class="wp-block-search__label">Поиск</label><div class="wp-block-search__inside-wrapper "><input type="search" id="wp-block-search__input-1" class="wp-block-search__input" name="s" value="" placeholder="" required=""><button type="submit" class="wp-block-search__button wp-element-button">Поиск</button></div></form></section><section id="block-5" class="widget-container widget_block">
+<div class="wp-block-group is-layout-flow"><div class="wp-block-group__inner-container"></div></div>
+</section><section id="block-6" class="widget-container widget_block">
+<div class="wp-block-group is-layout-flow"><div class="wp-block-group__inner-container"></div></div>
+</section>
+	</aside>
+
+	</div><!-- #container -->
+
+		
+		<aside id="colophon" itemscope="" itemtype="http://schema.org/WPSideBar">
+			<div id="colophon-inside" class="footer-all ">
+				
+<section id="block-8" class="widget-container widget_block"><div class="footer-widget-inside"><p>123112, город Москва, набережная Пресненская, дом 12, Башня Запад, этаж 45, часть комнат 20, 21, 23</p>
+<p>Телефон/факс +7 (495) 668-55-23</p>
+<p>E-mail: info@april-capital.ru</p>
+<p>ООО УК «Апрель Инвестиции» Лицензия № 21-000-1-00926 от 07 сентября 2012 года на осуществление деятельности по управлению инвестиционными фондами, паевыми инвестиционными фондами и негосударственными пенсионными фондами, выдана ФСФР России без ограничения срока действия, лицензия профессионального участника рынка ценных бумаг № 077-13932-001000 от 01 апреля 2015 года на осуществление деятельности по управлению ценными бумагами, выдана Банком России без ограничения срока действия.</p>
+<p>Получить подробную информацию о фондах и ознакомиться с правилами доверительного управления фондами, а также с иными документами, предусмотренными в Федеральном законе от 29 ноября 2001 года № 156-ФЗ «Об инвестиционных фондах» и нормативными актами в сфере финансовых рынков, можно по адресу: 123112, город Москва, набережная Пресненская, дом 12, Башня Запад, этаж 45, часть комнат 20, 21, 23, по телефону: +7 (495) 668-55-23, а также в сети интернет по адресу: www.april-investments.ru.</p>
+<p>Стоимость инвестиционных паев может увеличиваться и уменьшаться, результаты инвестирования в прошлом не определяют доходы в будущем, государство не гарантирует доходность инвестиций в паевые инвестиционные фонды. Прежде чем приобрести инвестиционный пай, следует внимательно ознакомиться с правилами доверительного управления фондом.</p>
+<p>Раскрываемая на сайте информация актуальна с даты ее опубликования по настоящее время, если прямо не указано иное, и доступна всем заинтересованным лицам для ознакомления круглосуточно.</p>
+<p>Раскрываемая на сайте информация находится в постоянном доступе бессрочно.</p></div></section>			</div>
+		</aside><!-- #colophon -->
+
+	</div><!-- #main -->
+
+	<footer id="footer" class="cryout" itemscope="" itemtype="http://schema.org/WPFooter">
+				<div id="footer-inside">
+			<a id="toTop" style="bottom: 100px; opacity: 0;"><span class="screen-reader-text">Вернуться наверх</span><i class="icon-back2top"></i> </a><div id="site-copyright">©2023 ООО УК «Апрель Инвестиции»</div><div style="display:block;float:right;clear: right;font-size: .9em;">Работает на<a target="_blank" href="http://www.cryoutcreations.eu/wordpress-themes/fluida" title="Fluida WordPress Theme by Cryout Creations"> Fluida</a> &amp; <a target="_blank" href="http://wordpress.org/" title="Семантическая Персональная Платформа для Публикаций">  WordPress.</a></div>		</div> <!-- #footer-inside -->
+	</footer>
+
+	</div><!-- site-wrapper -->
+	<script type="text/javascript">
+var colomatduration = 'fast';
+var colomatslideEffect = 'slideFade';
+var colomatpauseInit = '';
+var colomattouchstart = '';
+</script><script src="https://www.april-investments.ru/wp-content/plugins/jquery-collapse-o-matic/js/collapse.js?ver=1.6.23" id="collapseomatic-js-js"></script>
+<script id="fluida-frontend-js-extra">
+var cryout_theme_settings = {"masonry":"1","rtl":"","magazine":"1","fitvids":"1","autoscroll":"1","articleanimation":"fade","lpboxratios":[1.704,1.2],"is_mobile":"","menustyle":"1"};
+</script>
+<script defer="" src="https://www.april-investments.ru/wp-content/themes/fluida/resources/js/frontend.js?ver=1.8.7" id="fluida-frontend-js"></script>
+<script src="https://www.april-investments.ru/wp-includes/js/imagesloaded.min.js?ver=4.1.4" id="imagesloaded-js"></script>
+<script defer="" src="https://www.april-investments.ru/wp-includes/js/masonry.min.js?ver=4.2.2" id="masonry-js"></script>
+<script defer="" src="https://www.april-investments.ru/wp-includes/js/jquery/jquery.masonry.min.js?ver=3.1.2b" id="jquery-masonry-js"></script>
+<script src="https://www.april-investments.ru/wp-includes/js/comment-reply.min.js?ver=6.2.2" id="comment-reply-js"></script>
+
+

@@ -1,0 +1,2774 @@
+
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 0 0" width="0" height="0" focusable="false" role="none" style="visibility: hidden; position: absolute; left: -9999px; overflow: hidden;"><defs><filter id="wp-duotone-dark-grayscale"><feColorMatrix color-interpolation-filters="sRGB" type="matrix" values=" .299 .587 .114 0 0 .299 .587 .114 0 0 .299 .587 .114 0 0 .299 .587 .114 0 0 "></feColorMatrix><feComponentTransfer color-interpolation-filters="sRGB"><feFuncR type="table" tableValues="0 0.49803921568627"></feFuncR><feFuncG type="table" tableValues="0 0.49803921568627"></feFuncG><feFuncB type="table" tableValues="0 0.49803921568627"></feFuncB><feFuncA type="table" tableValues="1 1"></feFuncA></feComponentTransfer><feComposite in2="SourceGraphic" operator="in"></feComposite></filter></defs></svg><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 0 0" width="0" height="0" focusable="false" role="none" style="visibility: hidden; position: absolute; left: -9999px; overflow: hidden;"><defs><filter id="wp-duotone-grayscale"><feColorMatrix color-interpolation-filters="sRGB" type="matrix" values=" .299 .587 .114 0 0 .299 .587 .114 0 0 .299 .587 .114 0 0 .299 .587 .114 0 0 "></feColorMatrix><feComponentTransfer color-interpolation-filters="sRGB"><feFuncR type="table" tableValues="0 1"></feFuncR><feFuncG type="table" tableValues="0 1"></feFuncG><feFuncB type="table" tableValues="0 1"></feFuncB><feFuncA type="table" tableValues="1 1"></feFuncA></feComponentTransfer><feComposite in2="SourceGraphic" operator="in"></feComposite></filter></defs></svg><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 0 0" width="0" height="0" focusable="false" role="none" style="visibility: hidden; position: absolute; left: -9999px; overflow: hidden;"><defs><filter id="wp-duotone-purple-yellow"><feColorMatrix color-interpolation-filters="sRGB" type="matrix" values=" .299 .587 .114 0 0 .299 .587 .114 0 0 .299 .587 .114 0 0 .299 .587 .114 0 0 "></feColorMatrix><feComponentTransfer color-interpolation-filters="sRGB"><feFuncR type="table" tableValues="0.54901960784314 0.98823529411765"></feFuncR><feFuncG type="table" tableValues="0 1"></feFuncG><feFuncB type="table" tableValues="0.71764705882353 0.25490196078431"></feFuncB><feFuncA type="table" tableValues="1 1"></feFuncA></feComponentTransfer><feComposite in2="SourceGraphic" operator="in"></feComposite></filter></defs></svg><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 0 0" width="0" height="0" focusable="false" role="none" style="visibility: hidden; position: absolute; left: -9999px; overflow: hidden;"><defs><filter id="wp-duotone-blue-red"><feColorMatrix color-interpolation-filters="sRGB" type="matrix" values=" .299 .587 .114 0 0 .299 .587 .114 0 0 .299 .587 .114 0 0 .299 .587 .114 0 0 "></feColorMatrix><feComponentTransfer color-interpolation-filters="sRGB"><feFuncR type="table" tableValues="0 1"></feFuncR><feFuncG type="table" tableValues="0 0.27843137254902"></feFuncG><feFuncB type="table" tableValues="0.5921568627451 0.27843137254902"></feFuncB><feFuncA type="table" tableValues="1 1"></feFuncA></feComponentTransfer><feComposite in2="SourceGraphic" operator="in"></feComposite></filter></defs></svg><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 0 0" width="0" height="0" focusable="false" role="none" style="visibility: hidden; position: absolute; left: -9999px; overflow: hidden;"><defs><filter id="wp-duotone-midnight"><feColorMatrix color-interpolation-filters="sRGB" type="matrix" values=" .299 .587 .114 0 0 .299 .587 .114 0 0 .299 .587 .114 0 0 .299 .587 .114 0 0 "></feColorMatrix><feComponentTransfer color-interpolation-filters="sRGB"><feFuncR type="table" tableValues="0 0"></feFuncR><feFuncG type="table" tableValues="0 0.64705882352941"></feFuncG><feFuncB type="table" tableValues="0 1"></feFuncB><feFuncA type="table" tableValues="1 1"></feFuncA></feComponentTransfer><feComposite in2="SourceGraphic" operator="in"></feComposite></filter></defs></svg><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 0 0" width="0" height="0" focusable="false" role="none" style="visibility: hidden; position: absolute; left: -9999px; overflow: hidden;"><defs><filter id="wp-duotone-magenta-yellow"><feColorMatrix color-interpolation-filters="sRGB" type="matrix" values=" .299 .587 .114 0 0 .299 .587 .114 0 0 .299 .587 .114 0 0 .299 .587 .114 0 0 "></feColorMatrix><feComponentTransfer color-interpolation-filters="sRGB"><feFuncR type="table" tableValues="0.78039215686275 1"></feFuncR><feFuncG type="table" tableValues="0 0.94901960784314"></feFuncG><feFuncB type="table" tableValues="0.35294117647059 0.47058823529412"></feFuncB><feFuncA type="table" tableValues="1 1"></feFuncA></feComponentTransfer><feComposite in2="SourceGraphic" operator="in"></feComposite></filter></defs></svg><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 0 0" width="0" height="0" focusable="false" role="none" style="visibility: hidden; position: absolute; left: -9999px; overflow: hidden;"><defs><filter id="wp-duotone-purple-green"><feColorMatrix color-interpolation-filters="sRGB" type="matrix" values=" .299 .587 .114 0 0 .299 .587 .114 0 0 .299 .587 .114 0 0 .299 .587 .114 0 0 "></feColorMatrix><feComponentTransfer color-interpolation-filters="sRGB"><feFuncR type="table" tableValues="0.65098039215686 0.40392156862745"></feFuncR><feFuncG type="table" tableValues="0 1"></feFuncG><feFuncB type="table" tableValues="0.44705882352941 0.4"></feFuncB><feFuncA type="table" tableValues="1 1"></feFuncA></feComponentTransfer><feComposite in2="SourceGraphic" operator="in"></feComposite></filter></defs></svg><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 0 0" width="0" height="0" focusable="false" role="none" style="visibility: hidden; position: absolute; left: -9999px; overflow: hidden;"><defs><filter id="wp-duotone-blue-orange"><feColorMatrix color-interpolation-filters="sRGB" type="matrix" values=" .299 .587 .114 0 0 .299 .587 .114 0 0 .299 .587 .114 0 0 .299 .587 .114 0 0 "></feColorMatrix><feComponentTransfer color-interpolation-filters="sRGB"><feFuncR type="table" tableValues="0.098039215686275 1"></feFuncR><feFuncG type="table" tableValues="0 0.66274509803922"></feFuncG><feFuncB type="table" tableValues="0.84705882352941 0.41960784313725"></feFuncB><feFuncA type="table" tableValues="1 1"></feFuncA></feComponentTransfer><feComposite in2="SourceGraphic" operator="in"></feComposite></filter></defs></svg>
+<a class="skip-link screen-reader-text" href="#content" role="link" title="Перейти к содержимому">
+		Перейти к содержимому</a>
+
+<div class="hfeed site" id="page">
+			<header class="site-header header-main-layout-1 ast-primary-menu-enabled ast-hide-custom-menu-mobile ast-builder-menu-toggle-icon ast-mobile-header-inline" id="masthead" itemtype="https://schema.org/WPHeader" itemscope="itemscope" itemid="#masthead">
+			<div id="ast-desktop-header" data-toggle-type="dropdown">
+		<div class="ast-main-header-wrap main-header-bar-wrap ">
+		<div class="ast-primary-header-bar ast-primary-header main-header-bar site-header-focus-item" data-section="section-primary-header-builder">
+						<div class="site-primary-header-wrap ast-builder-grid-row-container site-header-focus-item ast-container" data-section="section-primary-header-builder">
+				<div class="ast-builder-grid-row ast-builder-grid-row-has-sides ast-grid-center-col-layout">
+											<div class="site-header-primary-section-left site-header-section ast-flex site-header-section-left">
+									<div class="ast-builder-layout-element ast-flex site-header-focus-item" data-section="title_tagline">
+											<div class="site-branding ast-site-identity" itemtype="https://schema.org/Organization" itemscope="itemscope">
+					<span class="site-logo-img"><a href="http://www.energy-invest.ru/" class="custom-logo-link" rel="home"><img width="250" height="81" src="http://www.energy-invest.ru/wp-content/uploads/2021/09/8.png" class="custom-logo" alt="Энергия-инвест" decoding="async"></a></span>				</div>
+			<!-- .site-branding -->
+					</div>
+												<div class="site-header-primary-section-left-center site-header-section ast-flex ast-grid-left-center-section">
+																			</div>
+															</div>
+																			<div class="site-header-primary-section-center site-header-section ast-flex ast-grid-section-center">
+										<div class="ast-builder-layout-element ast-flex site-header-focus-item ast-header-html-1" data-section="section-hb-html-1">
+			<div class="ast-header-html inner-link-style-"><div class="ast-builder-html-element"><p style="text-align: center; color: #1d2b7b;"><strong>Уважаемые клиенты!<br>
+</strong><strong>Приём посетителей осуществляется по ПРЕДВАРИТЕЛЬНОЙ ЗАПИСИ.<br>
+Запись на приём осуществляется с 09:00 до 13:00 и с 14:00 до 17:00. Телефоны для записи: (3952) 791-008, 24-01-37.</strong></p>
+</div></div>		</div>
+									</div>
+																			<div class="site-header-primary-section-right site-header-section ast-flex ast-grid-right-section">
+																	<div class="site-header-primary-section-right-center site-header-section ast-flex ast-grid-right-center-section">
+																			</div>
+																</div>
+												</div>
+					</div>
+								</div>
+			</div>
+		<div class="ast-desktop-header-content content-align-flex-start " style="display: none;">
+			</div>
+</div> <!-- Main Header Bar Wrap -->
+<div id="ast-mobile-header" class="ast-mobile-header-wrap " data-type="dropdown">
+		<div class="ast-main-header-wrap main-header-bar-wrap">
+		<div class="ast-primary-header-bar ast-primary-header main-header-bar site-primary-header-wrap site-header-focus-item ast-builder-grid-row-layout-default ast-builder-grid-row-tablet-layout-default ast-builder-grid-row-mobile-layout-default" data-section="section-primary-header-builder">
+									<div class="ast-builder-grid-row ast-builder-grid-row-has-sides ast-builder-grid-row-no-center">
+													<div class="site-header-primary-section-left site-header-section ast-flex site-header-section-left">
+										<div class="ast-builder-layout-element ast-flex site-header-focus-item" data-section="title_tagline">
+											<div class="site-branding ast-site-identity" itemtype="https://schema.org/Organization" itemscope="itemscope">
+					<span class="site-logo-img"><a href="http://www.energy-invest.ru/" class="custom-logo-link" rel="home"><img width="250" height="81" src="http://www.energy-invest.ru/wp-content/uploads/2021/09/8.png" class="custom-logo" alt="Энергия-инвест" decoding="async"></a></span>				</div>
+			<!-- .site-branding -->
+					</div>
+									</div>
+																									<div class="site-header-primary-section-right site-header-section ast-flex ast-grid-right-section">
+										<div class="ast-builder-layout-element ast-flex site-header-focus-item" data-section="section-header-mobile-trigger">
+						<div class="ast-button-wrap">
+				<button type="button" class="menu-toggle main-header-menu-toggle ast-mobile-menu-trigger-minimal" aria-expanded="false" data-index="0">
+					<span class="screen-reader-text">Main Menu</span>
+					<span class="mobile-menu-toggle-icon">
+						<span class="ahfb-svg-iconset ast-inline-flex svg-baseline"><svg class="ast-mobile-svg ast-menu-svg" fill="currentColor" version="1.1" xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24"><path d="M3 13h18c0.552 0 1-0.448 1-1s-0.448-1-1-1h-18c-0.552 0-1 0.448-1 1s0.448 1 1 1zM3 7h18c0.552 0 1-0.448 1-1s-0.448-1-1-1h-18c-0.552 0-1 0.448-1 1s0.448 1 1 1zM3 19h18c0.552 0 1-0.448 1-1s-0.448-1-1-1h-18c-0.552 0-1 0.448-1 1s0.448 1 1 1z"></path></svg></span><span class="ahfb-svg-iconset ast-inline-flex svg-baseline"><svg class="ast-mobile-svg ast-close-svg" fill="currentColor" version="1.1" xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24"><path d="M5.293 6.707l5.293 5.293-5.293 5.293c-0.391 0.391-0.391 1.024 0 1.414s1.024 0.391 1.414 0l5.293-5.293 5.293 5.293c0.391 0.391 1.024 0.391 1.414 0s0.391-1.024 0-1.414l-5.293-5.293 5.293-5.293c0.391-0.391 0.391-1.024 0-1.414s-1.024-0.391-1.414 0l-5.293 5.293-5.293-5.293c-0.391-0.391-1.024-0.391-1.414 0s-0.391 1.024 0 1.414z"></path></svg></span>					</span>
+									</button>
+			</div>
+					</div>
+									</div>
+											</div>
+						</div>
+	</div>
+		<div class="ast-mobile-header-content content-align-flex-start ">
+				<div class="ast-builder-menu-mobile ast-builder-menu ast-builder-menu-mobile-focus-item ast-builder-layout-element site-header-focus-item" data-section="section-header-mobile-menu">
+			<div class="ast-main-header-bar-alignment"><div class="main-header-bar-navigation"><nav class="site-navigation" id="ast-mobile-site-navigation" itemtype="https://schema.org/SiteNavigationElement" itemscope="itemscope" aria-label="Навигация сайта"><div id="ast-hf-mobile-menu" class="main-navigation"><ul class="main-header-menu ast-nav-menu ast-flex  submenu-with-border astra-menu-animation-fade  stack-on-mobile"><li class="page_item page-item-32 menu-item"><a href="http://www.energy-invest.ru/" class="menu-link"></a></li><li class="page_item page-item-201 menu-item"><a href="http://www.energy-invest.ru/doc-pr/" class="menu-link"></a></li><li class="page_item page-item-392 menu-item"><a href="http://www.energy-invest.ru/risk/" class="menu-link">Возможные риски</a></li><li class="page_item page-item-47 menu-item"><a href="http://www.energy-invest.ru/inf/" class="menu-link">Информация об организации (Размещено 26.08.2021 14:36 бессрочно)</a></li><li class="page_item page-item-1294 menu-item"><a href="http://www.energy-invest.ru/kid/" class="menu-link">Ключевой информационный документ</a></li><li class="page_item page-item-40 menu-item"><a href="http://www.energy-invest.ru/%d0%ba%d0%bb%d1%8e%d1%87%d0%b5%d0%b2%d0%be%d0%b9-%d0%b8%d0%bd%d1%84%d0%be%d1%80%d0%bc%d0%b0%d1%86%d0%b8%d0%be%d0%bd%d0%bd%d1%8b%d0%b9-%d0%b4%d0%be%d0%ba%d1%83%d0%bc%d0%b5%d0%bd%d1%82-%d1%80%d0%b0/" class="menu-link">Ключевой информационный документ (Размещено 30.09.2021 15:23 бессрочно)</a></li><li class="page_item page-item-175 menu-item"><a href="http://www.energy-invest.ru/crew/" class="menu-link">Команда</a></li><li class="page_item page-item-109 menu-item"><a href="http://www.energy-invest.ru/faq/" class="menu-link">Ответы на типовые вопросы</a></li><li class="page_item page-item-194 current-menu-item menu-item current-menu-item"><a href="http://www.energy-invest.ru/doc-uk/" class="menu-link">Отчётность ООО «УК «Энергия-инвест»</a></li><li class="page_item page-item-196 menu-item"><a href="http://www.energy-invest.ru/doc-pf/" class="menu-link">Отчётность ПИФ «Энергия-инвест»</a></li><li class="page_item page-item-177 menu-item"><a href="http://www.energy-invest.ru/pays/" class="menu-link">Подробный порядок приобретения и погашения паёв через УК</a></li><li class="page_item page-item-382 menu-item"><a href="http://www.energy-invest.ru/find/" class="menu-link">Поиск</a></li><li class="page_item page-item-187 menu-item"><a href="http://www.energy-invest.ru/lic/" class="menu-link">Свидетельство о регистрации и лицензия</a></li><li class="page_item page-item-390 menu-item"><a href="http://www.energy-invest.ru/dict/" class="menu-link">Словарь инвестора</a></li><li class="page_item page-item-55 menu-item"><a href="http://www.energy-invest.ru/msg0/" class="menu-link">Сообщения</a></li><li class="page_item page-item-898 menu-item"><a href="http://www.energy-invest.ru/msg/" class="menu-link">Сообщения</a></li><li class="page_item page-item-784 menu-item"><a href="http://www.energy-invest.ru/%d1%81%d1%82%d1%80%d0%b0%d0%bd%d0%b8%d1%86%d0%b0-%d0%bf%d0%be%d0%b4%d1%82%d0%b2%d0%b5%d1%80%d0%b6%d0%b4%d0%b5%d0%bd%d0%b8%d1%8f-%d0%bf%d0%be%d0%b4%d0%bf%d0%b8%d1%81%d0%ba%d0%b8/" class="menu-link">Страница подтверждения подписки</a></li><li class="page_item page-item-277 menu-item"><a href="http://www.energy-invest.ru/doc-fr/" class="menu-link">Формы документов</a></li></ul></div></nav></div></div>		</div>
+			</div>
+</div>
+		</header><!-- #masthead -->
+			<div id="content" class="site-content">
+		<div class="ast-container">
+		
+
+	<div class="widget-area secondary" id="secondary" itemtype="https://schema.org/WPSideBar" itemscope="itemscope">
+	<div class="sidebar-main">
+		
+		<aside id="nav_menu-3" class="widget widget_nav_menu"><nav class="menu-%d0%b3%d0%bb%d0%b0%d0%b2%d0%bd%d0%be%d0%b5-container" aria-label="Меню"><ul id="menu-%d0%b3%d0%bb%d0%b0%d0%b2%d0%bd%d0%be%d0%b5" class="menu"><li id="menu-item-226" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-home menu-item-226"><a href="http://www.energy-invest.ru/" class="menu-link">Главная</a></li>
+<li id="menu-item-872" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-872"><a href="/kid" class="menu-link">Ключевой информационный документ</a></li>
+<li id="menu-item-237" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-237"><a href="http://www.energy-invest.ru/inf/" class="menu-link">Информация об организации</a></li>
+<li id="menu-item-933" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-933"><a href="http://www.energy-invest.ru/msg/" class="menu-link">Сообщения</a></li>
+<li id="menu-item-280" class="menu-item menu-item-type-custom menu-item-object-custom current-menu-ancestor current-menu-parent menu-item-has-children menu-item-280"><a class="menu-link">Документы и отчётность<span role="application" class="dropdown-menu-toggle ast-header-navigation-arrow" tabindex="0" aria-expanded="false" aria-label="Переключатель меню"></span></a>
+<ul class="sub-menu">
+	<li id="menu-item-274" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-274"><a href="http://www.energy-invest.ru/doc-pf/" class="menu-link">Отчётность ПИФ</a></li>
+	<li id="menu-item-273" class="menu-item menu-item-type-post_type menu-item-object-page current-menu-item page_item page-item-194 current_page_item menu-item-273"><a href="http://www.energy-invest.ru/doc-uk/" aria-current="page" class="menu-link">Отчётность УК</a></li>
+	<li id="menu-item-275" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-275"><a href="http://www.energy-invest.ru/doc-pr/" class="menu-link">Правила фонда</a></li>
+	<li id="menu-item-279" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-279"><a href="http://www.energy-invest.ru/doc-fr/" class="menu-link">Формы документов</a></li>
+</ul>
+</li>
+<li id="menu-item-389" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-389"><a class="menu-link">Инвестору<span role="application" class="dropdown-menu-toggle ast-header-navigation-arrow" tabindex="0" aria-expanded="false" aria-label="Переключатель меню"></span></a>
+<ul class="sub-menu">
+	<li id="menu-item-294" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-294"><a href="http://www.energy-invest.ru/pays/" class="menu-link">Приобретение паёв</a></li>
+	<li id="menu-item-487" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-487"><a href="/pays/#sell" class="menu-link">Погашение паёв</a></li>
+	<li id="menu-item-402" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-402"><a href="http://www.energy-invest.ru/risk/" class="menu-link">Возможные риски</a></li>
+	<li id="menu-item-403" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-403"><a href="http://www.energy-invest.ru/dict/" class="menu-link">Словарь инвестора</a></li>
+	<li id="menu-item-232" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-232"><a href="http://www.energy-invest.ru/faq/" class="menu-link">Вопрос-ответ</a></li>
+</ul>
+</li>
+<li id="menu-item-665" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-665"><a href="/#cont" class="menu-link">Контакты</a></li>
+</ul></nav></aside><aside id="block-2" class="widget widget_block"><div class="ya-site-form_bg_transparent ya-site-form_inited_yes" data-bem="{&quot;action&quot;:&quot;http://www.energy-invest.ru/find&quot;,&quot;arrow&quot;:false,&quot;bg&quot;:&quot;transparent&quot;,&quot;fontsize&quot;:14,&quot;fg&quot;:&quot;#000000&quot;,&quot;language&quot;:&quot;ru&quot;,&quot;logo&quot;:&quot;rb&quot;,&quot;publicname&quot;:&quot;Поиск по www.energy-invest.ru&quot;,&quot;suggest&quot;:true,&quot;target&quot;:&quot;_self&quot;,&quot;tld&quot;:&quot;ru&quot;,&quot;type&quot;:2,&quot;usebigdictionary&quot;:true,&quot;searchid&quot;:2500060,&quot;input_fg&quot;:&quot;#000000&quot;,&quot;input_bg&quot;:&quot;#fafafa&quot;,&quot;input_fontStyle&quot;:&quot;normal&quot;,&quot;input_fontWeight&quot;:&quot;normal&quot;,&quot;input_placeholder&quot;:&quot;Поиск *&quot;,&quot;input_placeholderColor&quot;:&quot;#666666&quot;,&quot;input_borderColor&quot;:&quot;#eaeaea&quot;}" id="ya-site-form0"><div class="ya-site-form__form"><table class="ya-site-form__wrap" cellpadding="0" cellspacing="0"><tbody><tr><td class="ya-site-form__search-wrap"><table class="ya-site-form__search" cellpadding="0" cellspacing="0"><tbody><tr><td class="ya-site-form__search-input"><table class="ya-site-form__search-input-layout"><tbody><tr><td class="ya-site-form__search-input-layout-l"><div class="ya-site-form__input"><input name="text" type="search" value="" class="ya-site-form__input-text" placeholder="Поиск *" autocomplete="off"><div class="ya-site-suggest"><div class="ya-site-suggest-popup" style="display: none;"><i class="ya-site-suggest__opera-gap"></i><div class="ya-site-suggest-list"><div class="ya-site-suggest__iframe"></div><ul class="ya-site-suggest-items"></ul></div></div></div></div></td><td class="ya-site-form__search-input-layout-r"><input class="ya-site-form__submit" type="button" value="Найти"></td></tr></tbody></table></td></tr><tr><td class="ya-site-form__gap"><div class="ya-site-form__gap-i"></div></td></tr></tbody></table></td></tr></tbody></table></div></div><style type="text/css">.ya-page_js_yes .ya-site-form_inited_no { display: none; }</style><script type="text/javascript">(function(w,d,c){var s=d.createElement('script'),h=d.getElementsByTagName('script')[0],e=d.documentElement;if((' '+e.className+' ').indexOf(' ya-page_js_yes ')===-1){e.className+=' ya-page_js_yes';}s.type='text/javascript';s.async=true;s.charset='utf-8';s.src=(d.location.protocol==='https:'?'https:':'http:')+'//site.yandex.net/v2.0/js/all.js';h.parentNode.insertBefore(s,h);(w[c]||(w[c]=[])).push(function(){Ya.Site.Form.init()})})(window,document,'yandex_site_callbacks');</script></aside>      <aside id="mailpoet_form-3" class="widget widget_mailpoet_form">
+  
+  
+  <div class="
+    mailpoet_form_popup_overlay
+      "></div>
+  <div id="mailpoet_form_2" class="mailpoet_form mailpoet_form_widget mailpoet_form_position_ mailpoet_form_animation_ mailpoet_form_tight_container">
+
+    <style type="text/css">
+     #mailpoet_form_2 .mailpoet_form {  }
+#mailpoet_form_2 form { margin-bottom: 0; }
+#mailpoet_form_2 p.mailpoet_form_paragraph.last { margin-bottom: 0px; }
+#mailpoet_form_2 h2.mailpoet-heading { margin: -10px 0 10px 0; }
+#mailpoet_form_2 .mailpoet_column_with_background { padding: 10px; }
+#mailpoet_form_2 .mailpoet_form_column:not(:first-child) { margin-left: 20px; }
+#mailpoet_form_2 .mailpoet_paragraph { line-height: 20px; margin-bottom: 20px; }
+#mailpoet_form_2 .mailpoet_segment_label, #mailpoet_form_2 .mailpoet_text_label, #mailpoet_form_2 .mailpoet_textarea_label, #mailpoet_form_2 .mailpoet_select_label, #mailpoet_form_2 .mailpoet_radio_label, #mailpoet_form_2 .mailpoet_checkbox_label, #mailpoet_form_2 .mailpoet_list_label, #mailpoet_form_2 .mailpoet_date_label { display: block; font-weight: normal; }
+#mailpoet_form_2 .mailpoet_text, #mailpoet_form_2 .mailpoet_textarea, #mailpoet_form_2 .mailpoet_select, #mailpoet_form_2 .mailpoet_date_month, #mailpoet_form_2 .mailpoet_date_day, #mailpoet_form_2 .mailpoet_date_year, #mailpoet_form_2 .mailpoet_date { display: block; }
+#mailpoet_form_2 .mailpoet_text, #mailpoet_form_2 .mailpoet_textarea { width: 200px; }
+#mailpoet_form_2 .mailpoet_checkbox {  }
+#mailpoet_form_2 .mailpoet_submit {  }
+#mailpoet_form_2 .mailpoet_divider {  }
+#mailpoet_form_2 .mailpoet_message {  }
+#mailpoet_form_2 .mailpoet_form_loading { width: 30px; text-align: center; line-height: normal; }
+#mailpoet_form_2 .mailpoet_form_loading > span { width: 5px; height: 5px; background-color: #5b5b5b; }#mailpoet_form_2{border-radius: 0px;text-align: left;}#mailpoet_form_2 form.mailpoet_form {padding: 0px;}#mailpoet_form_2{width: 100%;}#mailpoet_form_2 .mailpoet_message {margin: 0; padding: 0 20px;}
+        #mailpoet_form_2 .mailpoet_validate_success {color: #00d084}
+        #mailpoet_form_2 input.parsley-success {color: #00d084}
+        #mailpoet_form_2 select.parsley-success {color: #00d084}
+        #mailpoet_form_2 textarea.parsley-success {color: #00d084}
+      
+        #mailpoet_form_2 .mailpoet_validate_error {color: #cf2e2e}
+        #mailpoet_form_2 input.parsley-error {color: #cf2e2e}
+        #mailpoet_form_2 select.parsley-error {color: #cf2e2e}
+        #mailpoet_form_2 textarea.textarea.parsley-error {color: #cf2e2e}
+        #mailpoet_form_2 .parsley-errors-list {color: #cf2e2e}
+        #mailpoet_form_2 .parsley-required {color: #cf2e2e}
+        #mailpoet_form_2 .parsley-custom-error-message {color: #cf2e2e}
+      #mailpoet_form_2 .mailpoet_paragraph.last {margin-bottom: 0} @media (max-width: 500px) {#mailpoet_form_2 {background-image: none;}} @media (min-width: 500px) {#mailpoet_form_2 .last .mailpoet_paragraph:last-child {margin-bottom: 0}}  @media (max-width: 500px) {#mailpoet_form_2 .mailpoet_form_column:last-child .mailpoet_paragraph:last-child {margin-bottom: 0}} 
+    </style>
+
+    <form target="_self" method="post" action="http://www.energy-invest.ru/wp-admin/admin-post.php?action=mailpoet_subscription_form" class="mailpoet_form mailpoet_form_form mailpoet_form_widget" novalidate="" data-delay="" data-exit-intent-enabled="" data-font-family="" data-cookie-expiration-time="">
+      <input type="hidden" name="data[form_id]" value="2">
+      <input type="hidden" name="token" value="3635ed2dd7">
+      <input type="hidden" name="api_version" value="v1">
+      <input type="hidden" name="endpoint" value="subscribers">
+      <input type="hidden" name="mailpoet_method" value="subscribe">
+
+      <label class="mailpoet_hp_email_label" style="display: none !important;">Пожалуйста, оставьте это поле пустым.<input type="email" name="data[email]"></label><div class="mailpoet_form_columns mailpoet_paragraph mailpoet_stack_on_mobile border1 last"><div class="mailpoet_form_column" style="flex-basis:100%;padding:14px 14px 14px 14px;;color:#000000;;"><div class="mailpoet_paragraph "><label for="form_email_2" class="mailpoet-screen-reader-text" style="font-size: 13px;line-height: 1.2;" data-automation-id="form_email_label">Email адрес <span class="mailpoet_required">*</span></label><input type="email" autocomplete="email" class="mailpoet_text" id="form_email_2" name="data[form_field_NThjNDE1NDQyZGUzX2VtYWls]" title="Email адрес" value="" style="width:100%;box-sizing:border-box;padding:10px;margin: 0 auto 0 0;font-family:'Arial';font-size:13px;line-height:1.5;height:auto;" data-automation-id="form_email" placeholder="Email адрес *" data-parsley-required="true" data-parsley-minlength="6" data-parsley-maxlength="150" data-parsley-type-message="Значение должно быть верным адресом электронной почты." data-parsley-errors-container=".mailpoet_error_email_" data-parsley-required-message="Это поле необходимо."></div>
+<div class="mailpoet_form_columns mailpoet_paragraph"><div class="mailpoet_form_column" style="flex-basis:66.66%;"><div class="mailpoet_paragraph "><label for="form_first_name_2" class="mailpoet-screen-reader-text" style="font-size: 13px;line-height: 1.2;" data-automation-id="form_first_name_label">Имя</label><input type="text" autocomplete="given-name" class="mailpoet_text" id="form_first_name_2" name="data[form_field_Zjk2OGNiZjQ1MDgxX2ZpcnN0X25hbWU=]" title="Имя" value="" style="width:100%;box-sizing:border-box;padding:10px;margin: 0 auto 0 0;font-family:'Arial';font-size:13px;line-height:1.5;height:auto;" data-automation-id="form_first_name" placeholder="Имя" data-parsley-names="[&quot;\u041f\u043e\u0436\u0430\u043b\u0443\u0439\u0441\u0442\u0430, \u0443\u043a\u0430\u0436\u0438\u0442\u0435 \u043f\u0440\u0430\u0432\u0438\u043b\u044c\u043d\u043e\u0435 \u0438\u043c\u044f.&quot;,&quot;\u0410\u0434\u0440\u0435\u0441\u0430 \u0432 \u0438\u043c\u0435\u043d\u0430\u0445 \u043d\u0435 \u0434\u043e\u043f\u0443\u0441\u043a\u0430\u044e\u0442\u0441\u044f, \u043f\u043e\u0436\u0430\u043b\u0443\u0439\u0441\u0442\u0430, \u0434\u043e\u0431\u0430\u0432\u044c\u0442\u0435 \u0441\u0432\u043e\u0435 \u0438\u043c\u044f \u0432\u043c\u0435\u0441\u0442\u043e.&quot;]"></div>
+</div>
+<div class="mailpoet_form_column" style="flex-basis:33.33%;padding:0px 0px 0px 5px;;"><div class="mailpoet_paragraph "><input type="submit" class="mailpoet_submit" value="Подписка" data-automation-id="subscribe-submit-button" style="width:100%;box-sizing:border-box;background-color:#0170b9;border-style:solid;border-radius:2px !important;border-width:0px;border-color:#313131;padding:10px;margin: 0 auto 0 0;font-family:'Arial';font-size:14px;line-height:1.5;height:auto;color:#000000;"><span class="mailpoet_form_loading"><span class="mailpoet_bounce1"></span><span class="mailpoet_bounce2"></span><span class="mailpoet_bounce3"></span></span></div>
+</div>
+</div>
+</div>
+</div>
+
+      <div class="mailpoet_message">
+        <p class="mailpoet_validate_success" style="display:none;">
+        </p>
+        <p class="mailpoet_validate_error" style="display:none;">        </p>
+      </div>
+    <input type="hidden" name="qPnhtWZTGRBOSM" value="iIuk_hcp3dsrV2"><input type="hidden" name="l-bjnQOJfPte" value="p4cwNf"><input type="hidden" name="LBpvIqSCXmPfRxE" value="ZkEnX9OdAWy"></form>
+
+      </div>
+
+      </aside>
+  <aside id="block-12" class="widget widget_block"><aside class="widget widget_nav_menu">
+<b>Документы и отчётность</b><br>
+<ul class="menu" style="font-size: 80%;">
+<li>Отчётность ПИФ</li>
+<ul class="sub-menu">
+<li><a href="/doc-pf/">Отчёты о приросте (уменьшении) стоимости имущества</a></li>
+<li><a href="/doc-pf/">Справки о СЧА (СА)</a></li>
+<li><a href="/doc-pf/">Отчёты о вознаграждениях и расходах</a></li>
+</ul>
+<li>Отчётность УК</li>
+<ul class="sub-menu">
+<li><a href="/doc-uk/">Расчёты размера собственных средств</a></li>
+<li><a href="/doc-uk/">Бухгалтерская (финансовая) отчётность</a></li>
+<li><a href="/doc-uk/">Аудиторские заключения</a></li>
+</ul>
+<li>Правила фонда</li>
+<ul class="sub-menu">
+<li><a href="/doc-pr/#1">Правила доверительного управления</a></li>
+<li><a href="/doc-pr/#2">Правила определения СЧА</a></li>
+<li><a href="/doc-pr/#3">Иные документы</a></li>
+</ul></ul></aside></aside>
+	</div><!-- .sidebar-main -->
+</div><!-- #secondary -->
+
+
+	<div id="primary" class="content-area primary">
+
+		
+					<main id="main" class="site-main">
+				<article class="post-194 page type-page status-publish ast-article-single" id="post-194" itemtype="https://schema.org/CreativeWork" itemscope="itemscope">
+	
+	
+	<header class="entry-header ast-no-thumbnail">
+		<h1 class="entry-title" itemprop="headline">Отчётность ООО «УК «Энергия-инвест»</h1>	</header> <!-- .entry-header -->
+
+
+<div class="entry-content clear" itemprop="text">
+
+	
+	
+<p>На 30.05.2023 года:</p>
+
+
+
+<ul>
+<li><a href="/ext/uk/2023/ras_ss_20230531.pdf">Расчёт размера собственных средств ООО «Управляющая компания «Энергия-инвест» на 31.05.2023</a> (Документ размещён бессрочно 14.06.2023 15:51);</li>
+</ul>
+
+
+
+<p>На 30.04.2023 года:</p>
+
+
+
+<ul>
+<li><a href="/ext/uk/2023/ras_ss_20230430.pdf">Расчёт размера собственных средств ООО «Управляющая компания «Энергия-инвест» на 30.04.2023</a> (Документ размещён бессрочно 17.05.2023 13:56);</li>
+</ul>
+
+
+
+<p>На 31.03.2023 года:</p>
+
+
+
+<ul>
+<li><a href="/ext/uk/2023/balans_20230331.pdf">Бухгалтерская (финансовая) отчетность ООО «Управляющая компания «Энергия-инвест» I квартал 2023 года</a> (Документ размещён бессрочно 26.04.2023 17:07);</li>
+
+
+
+<li><a href="/ext/uk/2023/ras_ss_20230331.pdf">Расчёт размера собственных средств ООО «Управляющая компания «Энергия-инвест» на 31.03.2023</a> (Документ размещён бессрочно 13.04.2023 13:00);</li>
+</ul>
+
+
+
+<p>На 28.02.2023 года:</p>
+
+
+
+<ul>
+<li><a href="/ext/uk/2023/ras_ss_20230228.pdf">Расчёт размера собственных средств ООО «Управляющая компания «Энергия-инвест» на 28.02.2023</a> (Документ размещён бессрочно 16.03.2023 09:25);</li>
+</ul>
+
+
+
+<p>На 31.01.2023 года:</p>
+
+
+
+<ul>
+<li><a href="/ext/uk/2023/ras_ss_20230131.pdf">Расчёт размера собственных средств ООО «Управляющая компания «Энергия-инвест» на 31.01.2023</a> (Документ размещён бессрочно 15.02.2023 17:02);</li>
+</ul>
+
+
+
+<p>На 31.12.2022 года:</p>
+
+
+
+<ul>
+<li><a href="/ext/uk/2022/auditz_20221231.pdf">Аудиторское заключение по итогам деятельности ООО «Управляющая компания «Энергия-инвест» за 2022 год</a> (Документ размещён бессрочно 21.03.2023 17:26);</li>
+
+
+
+<li><a href="/ext/uk/2022/balans_20221231.pdf">Бухгалтерская (финансовая) отчетность ООО «Управляющая компания «Энергия-инвест» за 2022 год</a> (Документ размещён бессрочно 25.01.2023 15:28);</li>
+
+
+
+<li><a href="/ext/uk/2022/ras_ss_20221231.pdf">Расчёт размера собственных средств ООО «Управляющая компания «Энергия-инвест» на 31.12.2022</a> (Документ размещён бессрочно 18.01.2023 18:13);</li>
+</ul>
+
+
+
+<p>На 30.11.2022 года:</p>
+
+
+
+<ul>
+<li><a href="/ext/uk/2022/ras_ss_20221130.pdf">Расчёт размера собственных средств ООО «Управляющая компания «Энергия-инвест» на 30.11.2022</a> (Документ размещён бессрочно 13.12.2022 14:26);</li>
+</ul>
+
+
+
+<p>На 31.10.2022 года:</p>
+
+
+
+<ul>
+<li><a href="/ext/uk/2022/ras_ss_20221031.pdf">Расчёт размера собственных средств ООО «Управляющая компания «Энергия-инвест» на 31.10.2022</a> (Документ размещён бессрочно 16.11.2022 16:59);</li>
+</ul>
+
+
+
+<p>На 30.09.2022 года:</p>
+
+
+
+<ul>
+<li><a href="/ext/uk/2022/balans_20220930.pdf">Бухгалтерская (финансовая) отчетность ООО «Управляющая компания «Энергия-инвест» за 9 месяцев 2022 года</a> (Документ размещён бессрочно 18.10.2022 16:29);</li>
+
+
+
+<li><a href="/ext/uk/2022/ras_ss_20220930.pdf">Расчёт размера собственных средств ООО «Управляющая компания «Энергия-инвест» на 30.09.2022</a> (Документ размещён бессрочно 17.10.2022 11:01);</li>
+</ul>
+
+
+
+<p>На 31.08.2022 года:</p>
+
+
+
+<ul>
+<li><a href="/ext/uk/2022/ras_ss_20220831.pdf">Расчёт размера собственных средств ООО «Управляющая компания «Энергия-инвест» на 31.08.2022</a> (Документ размещён бессрочно 19.09.2022 11:00);</li>
+</ul>
+
+
+
+<p>На 31.07.2022 года:</p>
+
+
+
+<ul>
+<li><a href="/ext/uk/2022/ras_ss_20220731.pdf">Расчёт размера собственных средств ООО «Управляющая компания «Энергия-инвест» на 31.07.2022</a> (Документ размещён бессрочно 12.08.2022 15:54);</li>
+</ul>
+
+
+
+<p>На 30.06.2022 года:</p>
+
+
+
+<ul>
+<li><a href="/ext/uk/2022/balans_20220630.pdf">Бухгалтерская (финансовая) отчетность ООО «Управляющая компания «Энергия-инвест» за I полугодие 2022 года</a> (Документ размещён бессрочно 13.07.2022 17:05);</li>
+
+
+
+<li><a href="/ext/uk/2022/ras_ss_20220630.pdf">Расчёт размера собственных средств ООО «Управляющая компания «Энергия-инвест» на 30.06.2022</a> (Документ размещён бессрочно 13.07.2022 17:05);</li>
+</ul>
+
+
+
+<p>На 31.05.2022 года:</p>
+
+
+
+<ul>
+<li><a href="/ext/uk/2022/ras_ss_20220531.pdf">Расчёт размера собственных средств ООО «Управляющая компания «Энергия-инвест» на 31.05.2022</a> (Документ размещён бессрочно 15.06.2022 14:18);</li>
+</ul>
+
+
+
+<p>На 30.04.2022 года:</p>
+
+
+
+<ul>
+<li><a href="/ext/uk/2022/ras_ss_20220430.pdf">Расчёт размера собственных средств ООО «Управляющая компания «Энергия-инвест» на 30.04.2022</a> (Документ размещён бессрочно 19.05.2022 16:48);</li>
+</ul>
+
+
+
+<p>На 31.03.2022 года:</p>
+
+
+
+<ul>
+<li><a href="/ext/uk/2022/balans_20220331.pdf">Бухгалтерская (финансовая) отчетность ООО «Управляющая компания «Энергия-инвест» за I квартал 2022 года</a> (Документ размещён бессрочно 20.04.2022 15:28);</li>
+
+
+
+<li><a href="/ext/uk/2022/ras_ss_20220331.pdf">Расчёт размера собственных средств ООО «Управляющая компания «Энергия-инвест» на 31.03.2022</a> (Документ размещён бессрочно 15.04.2022 18:03);</li>
+</ul>
+
+
+
+<p>На 28.02.2022 года:</p>
+
+
+
+<ul>
+<li><a href="/ext/uk/2022/ras_ss_20220228.pdf">Расчёт размера собственных средств ООО «Управляющая компания «Энергия-инвест» на 28.02.2022</a> (Документ размещён бессрочно 15.03.2022 15:10);</li>
+</ul>
+
+
+
+<p>На 31.01.2022 года:</p>
+
+
+
+<ul>
+<li><a href="/ext/uk/2022/ras_ss_20220131.pdf">Расчёт размера собственных средств ООО «Управляющая компания «Энергия-инвест» на 31.01.2022</a> (Документ размещён бессрочно 14.02.2022 16:37);</li>
+</ul>
+
+
+
+<p>На 31.12.2021 года:</p>
+
+
+
+<ul>
+<li><a href="/ext/uk/2021/ras_ss_20211231-1.pdf">Расчёт размера собственных средств ООО «Управляющая компания «Энергия-инвест» на 31.03.2022 публикуется в связи с корректировкой сумм по отложенному налогу на прибыль</a> (Документ размещён бессрочно 15.04.2022 18:03);</li>
+
+
+
+<li><a href="/ext/uk/2021/auditz_20211231.pdf" data-type="URL" data-id="/ext/uk/2021/auditz_20211231.pdf">Аудиторское заключение по итогам деятельности ООО «Управляющая компания «Энергия-инвест» за 2021 год</a> (Документ размещён бессрочно 21.03.2022 12:10);</li>
+
+
+
+<li><a href="/ext/uk/2021/balans_20211231-1.pdf">Бухгалтерская (финансовая) отчетность ООО «Управляющая компания «Энергия-инвест» за 2021 год публикуется в связи с корректировкой сумм по отложенному налогу на прибыль</a> (Документ размещён бессрочно 05.03.2022 14:21);</li>
+
+
+
+<li><a href="/ext/uk/2021/balans_20211231.pdf">Бухгалтерская (финансовая) отчетность ООО «Управляющая компания «Энергия-инвест» за 2021 год</a> (Документ размещён бессрочно 28.01.2022 17:05);</li>
+
+
+
+<li><a href="/ext/uk/2021/ras_ss_20211231.pdf">Расчёт размера собственных средств ООО «Управляющая компания «Энергия-инвест» на 31.12.2021</a> (Документ размещён бессрочно 21.01.2022 17:08);</li>
+</ul>
+
+
+
+<p>На 30.11.2021 года:</p>
+
+
+
+<ul>
+<li><a href="/ext/uk/2021/ras_ss_20211130.pdf">Расчёт размера собственных средств ООО «Управляющая компания «Энергия-инвест» на 30.11.2021</a> (Документ размещён бессрочно 13.12.2021 16:50);</li>
+</ul>
+
+
+
+<p>На 31.10.2021 года:</p>
+
+
+
+<ul>
+<li><a href="/ext/uk/2021/ras_ss_20211031.pdf">Расчёт размера собственных средств ООО «Управляющая компания «Энергия-инвест» на 31.10.2021</a> (Документ размещён бессрочно 19.11.2021 15:50);</li>
+</ul>
+
+
+
+<p>На 30.09.2021 года:</p>
+
+
+
+<ul>
+<li><a href="/ext/uk/2021/balans_20210930.pdf">Бухгалтерская (финансовая) отчетность ООО «Управляющая компания «Энергия-инвест» за 9 месяцев 2021 года</a> (Документ размещён бессрочно 20.10.2021 13:05);</li>
+
+
+
+<li><a href="/ext/uk/2021/ras_ss_20210930.pdf">Расчёт размера собственных средств ООО «Управляющая компания «Энергия-инвест» на 30.09.2021</a> (Документ размещён бессрочно 19.10.2021 11:46);</li>
+</ul>
+
+
+
+<p>На 31.08.2021 года:</p>
+
+
+
+<ul>
+<li><a href="/ext/uk/2021/ras_ss_20210831.pdf">Расчёт размера собственных средств ООО «Управляющая компания «Энергия-инвест» на 31.08.2021</a> (Документ размещён бессрочно 16.09.2021 15:50);</li>
+</ul>
+
+
+
+<p>На 31.07.2021 года:</p>
+
+
+
+<ul>
+<li><a href="/ext/uk/2021/ras_ss_20210731.pdf">Расчёт размера собственных средств ООО «Управляющая компания «Энергия-инвест» на 31.07.2021</a> (Документ размещён бессрочно 13.08.2021 12:03);</li>
+</ul>
+
+
+
+<p>На 30.06.2021 года:</p>
+
+
+
+<ul>
+<li><a href="/ext/uk/2021/balans_20210630.pdf">Бухгалтерская (финансовая) отчетность ООО «Управляющая компания «Энергия-инвест» за I полугодие 2021 года</a> (Документ размещён бессрочно 14.07.2021 17:01);</li>
+
+
+
+<li><a href="/ext/uk/2021/ras_ss_20210630.pdf">Расчёт размера собственных средств ООО «Управляющая компания «Энергия-инвест» на 30.06.2021</a> (Документ размещён бессрочно 13.07.2021 16:18);</li>
+</ul>
+
+
+
+<p>На 31.05.2021 года:</p>
+
+
+
+<ul>
+<li><a href="/ext/uk/2021/ras_ss_20210531.pdf">Расчёт размера собственных средств ООО «Управляющая компания «Энергия-инвест» на 31.05.2021</a> (Документ размещён бессрочно 15.06.2021 10:40);</li>
+</ul>
+
+
+
+<p>На 30.04.2021 года:</p>
+
+
+
+<ul>
+<li><a href="/ext/uk/2021/ras_ss_20210430.pdf">Расчёт размера собственных средств ООО «Управляющая компания «Энергия-инвест» на 30.04.2021</a> (Документ размещён бессрочно 19.05.2021 15:52);</li>
+</ul>
+
+
+
+<p>На 31.03.2021 года:</p>
+
+
+
+<ul>
+<li><a href="/ext/uk/2021/balans_20210331.pdf">Бухгалтерская (финансовая) отчетность ООО «Управляющая компания «Энергия-инвест» за I квартал 2021 года</a> (Документ размещён бессрочно 16.04.2020 15:36);</li>
+
+
+
+<li><a href="/ext/uk/2021/ras_ss_20210331.pdf">Расчёт размера собственных средств ООО «Управляющая компания «Энергия-инвест» на 31.03.2021</a> (Документ размещён бессрочно 14.04.2021 11:25);</li>
+</ul>
+
+
+
+<p>На 28.02.2021 года:</p>
+
+
+
+<ul>
+<li><a href="/ext/uk/2021/ras_ss_20210228.pdf">Расчёт размера собственных средств ООО «Управляющая компания «Энергия-инвест» на 28.02.2021</a> (Документ размещён бессрочно 12.03.2021 16:50);</li>
+</ul>
+
+
+
+<p>На 31.01.2021 года:</p>
+
+
+
+<ul>
+<li><a href="/ext/uk/2021/ras_ss_20210131.pdf">Расчёт размера собственных средств ООО «Управляющая компания «Энергия-инвест» на 31.01.2021</a> (Документ размещён бессрочно 15.02.2021 12:28);</li>
+</ul>
+
+
+
+<p>На 31.12.2020 года:</p>
+
+
+
+<ul>
+<li><a href="/ext/uk/2020/auditz_20201231.pdf" data-type="URL" data-id="/ext/uk/2020/auditz_20201231.pdf">Аудиторское заключение по итогам деятельности ООО «Управляющая компания «Энергия-инвест» за 2020 год</a> (Документ размещён бессрочно 26.03.2021 12:52);</li>
+
+
+
+<li><a href="/ext/uk/2020/balans_20201231.pdf">Бухгалтерская (финансовая) отчетность ООО «Управляющая компания «Энергия-инвест» за 12 месяцев 2020 года</a> (Документ размещён бессрочно 28.01.2021 15:57);</li>
+
+
+
+<li><a href="/ext/uk/2020/ras_ss_20201231.pdf">Расчёт размера собственных средств ООО «Управляющая компания «Энергия-инвест» на 31.12.2020</a> (Документ размещён бессрочно 22.01.2021 15:33);</li>
+</ul>
+
+
+
+<p>На 30.11.2020 года:</p>
+
+
+
+<ul>
+<li><a href="/ext/uk/2020/ras_ss_20201130.pdf">Расчёт размера собственных средств ООО «Управляющая компания «Энергия-инвест» на 30.11.2020</a> (Документ размещён бессрочно 15.12.2020 17:37);</li>
+</ul>
+
+
+
+<p>На 31.10.2020 года:</p>
+
+
+
+<ul>
+<li><a href="/ext/uk/2020/ras_ss_20201031.pdf">Расчёт размера собственных средств ООО «Управляющая компания «Энергия-инвест» на 31.10.2020</a> (Документ размещён бессрочно 16.11.2020 12:54);</li>
+</ul>
+
+
+
+<p>На 30.09.2020 года:</p>
+
+
+
+<ul>
+<li><a href="/ext/uk/2020/balans_20200930.pdf">Бухгалтерская (финансовая) отчетность ООО «Управляющая компания «Энергия-инвест» за 9 месяцев 2020 года</a> (Документ размещён бессрочно 15.10.2020 12:32);</li>
+
+
+
+<li><a href="/ext/uk/2020/ras_ss_20200930.pdf">Расчёт размера собственных средств ООО «Управляющая компания «Энергия-инвест» на 30.09.2020</a> (Документ размещён бессрочно 14.10.2020 16:25);</li>
+</ul>
+
+
+
+<p>На 31.08.2020 года:</p>
+
+
+
+<ul>
+<li><a href="/ext/uk/2020/ras_ss_20200831.pdf">Расчёт размера собственных средств ООО «Управляющая компания «Энергия-инвест» на 31.08.2020</a> (Документ размещён бессрочно 15.09.2020 16:43);</li>
+</ul>
+
+
+
+<p>На 31.07.2020 года:</p>
+
+
+
+<ul>
+<li><a href="/ext/uk/2020/ras_ss_20200731.pdf">Расчёт размера собственных средств ООО «Управляющая компания «Энергия-инвест» на 31.07.2020</a> (Документ размещён бессрочно 13.08.2020 11:30);</li>
+</ul>
+
+
+
+<p>На 30.06.2020 года:</p>
+
+
+
+<ul>
+<li><a href="/ext/uk/2020/ras_ss_20200630.pdf">Расчёт размера собственных средств ООО «Управляющая компания «Энергия-инвест» на 30.06.2020</a> (Документ размещён бессрочно 15.07.2020 15:45);</li>
+
+
+
+<li><a href="/ext/uk/2020/balans_20200630.pdf">Бухгалтерская (финансовая) отчетность ООО «Управляющая компания «Энергия-инвест» за I полугодие 2020 года</a> (Документ размещён бессрочно 15.07.2020 15:45);</li>
+</ul>
+
+
+
+<p>На 31.05.2020 года:</p>
+
+
+
+<ul>
+<li><a href="/ext/uk/2020/ras_ss_20200531.pdf">Расчёт размера собственных средств ООО «Управляющая компания «Энергия-инвест» на 31.05.2020</a> (Документ размещён бессрочно 16.06.2020 17:15);</li>
+</ul>
+
+
+
+<p>На 30.04.2020 года:</p>
+
+
+
+<ul>
+<li><a href="/ext/uk/2020/ras_ss_20200430.pdf">Расчёт размера собственных средств ООО «Управляющая компания «Энергия-инвест» на 30.04.2020</a> (Документ размещён бессрочно 21.05.2020 12:15);</li>
+</ul>
+
+
+
+<p>На 31.03.2020 года:</p>
+
+
+
+<ul>
+<li><a href="/ext/uk/2020/ras_ss_20200331.pdf">Расчёт размера собственных средств ООО «Управляющая компания «Энергия-инвест» на 31.03.2020</a> (Документ размещён бессрочно 20.04.2020 16:15);</li>
+
+
+
+<li><a href="/ext/uk/2020/balans_20200331.pdf">Бухгалтерская (финансовая) отчетность ООО «Управляющая компания «Энергия-инвест» за I квартал 2020 года</a> (Документ размещён бессрочно 20.04.2020 16:15);</li>
+</ul>
+
+
+
+<p>На 29.02.2020 года:</p>
+
+
+
+<ul>
+<li><a href="/ext/uk/2020/ras_ss_20200229.pdf">Расчёт размера собственных средств ООО «Управляющая компания «Энергия-инвест» на 29.02.2020</a> (Документ размещён бессрочно 13.03.2020 16:30);</li>
+</ul>
+
+
+
+<p>На 31.01.2020 года:</p>
+
+
+
+<ul>
+<li><a href="/ext/uk/2020/ras_ss_20200131.pdf">Расчёт размера собственных средств ООО «Управляющая компания «Энергия-инвест» на 31.01.2020</a> (Документ размещён бессрочно 18.02.2020 10:50);</li>
+</ul>
+
+
+
+<p>На 31.12.2019 года:</p>
+
+
+
+<ul>
+<li><a href="/ext/uk/2019/auditz_20191231.pdf">Аудиторское заключение по итогам деятельности ООО «Управляющая компания «Энергия-инвест» за 2019 год</a> (Документ размещён бессрочно 27.03.2020 18:10);</li>
+
+
+
+<li><a href="/ext/uk/2019/balans_20191231.pdf">Бухгалтерская (финансовая) отчетность ООО «Управляющая компания «Энергия-инвест» за 12 месяцев 2019 года</a> (Документ размещён бессрочно 30.01.2020 16:45);</li>
+
+
+
+<li><a href="/ext/uk/2019/ras_ss_20191231.pdf">Расчёт размера собственных средств ООО «Управляющая компания «Энергия-инвест» на 31.12.2019</a> (Документ размещён бессрочно 21.01.2020 21:00);</li>
+</ul>
+
+
+
+<p>На 30.11.2019 года:</p>
+
+
+
+<ul>
+<li><a href="/ext/uk/2019/ras_ss_20191130.pdf">Расчёт размера собственных средств ООО «Управляющая компания «Энергия-инвест» на 30.11.2019</a> (Документ размещён бессрочно 13.12.2019 11:16);</li>
+</ul>
+
+
+
+<p>На 31.10.2019 года:</p>
+
+
+
+<ul>
+<li><a href="/ext/uk/2019/ras_ss_20191031.pdf">Расчёт размера собственных средств ООО «Управляющая компания «Энергия-инвест» на 31.10.2019</a> (Документ размещён бессрочно 18.11.2019 16:34);</li>
+</ul>
+
+
+
+<p>На 30.09.2019 года:</p>
+
+
+
+<ul>
+<li><a href="/ext/uk/2019/balans_20190930.pdf">Бухгалтерская (финансовая) отчетность ООО «Управляющая компания «Энергия-инвест» за 9 месяцев 2019 года</a> (Документ размещён бессрочно 28.10.2019 15:50);</li>
+
+
+
+<li><a href="/ext/uk/2019/ras_ss_20190930.pdf">Расчёт размера собственных средств ООО «Управляющая компания «Энергия-инвест» на 30.09.2019</a> (Документ размещён бессрочно 21.10.2019 18:02);</li>
+</ul>
+
+
+
+<p>На 31.08.2019 года:</p>
+
+
+
+<ul>
+<li><a href="/ext/uk/2019/ras_ss_20190831.pdf">Расчёт размера собственных средств ООО «Управляющая компания «Энергия-инвест» на 31.08.2019</a> (Документ размещён бессрочно 17.09.2019 14:27);</li>
+</ul>
+
+
+
+<p>На 31.07.2019 года:</p>
+
+
+
+<ul>
+<li><a href="/ext/uk/2019/ras_ss_20190731.pdf">Расчёт размера собственных средств ООО «Управляющая компания «Энергия-инвест» на 31.07.2019</a> (Документ размещён бессрочно 08.08.2019 14:12);</li>
+</ul>
+
+
+
+<p>На 30.06.2019 года:</p>
+
+
+
+<ul>
+<li><a href="/ext/uk/2019/balans_20190630.pdf">Бухгалтерская (финансовая) отчетность ООО «Управляющая компания «Энергия-инвест» за I полугодие 2019 года</a> (Документ размещён бессрочно 26.07.2019 16:30);</li>
+
+
+
+<li><a href="/ext/uk/2019/ras_ss_20190630.pdf">Расчёт размера собственных средств ООО «Управляющая компания «Энергия-инвест» на 30.06.2019</a> (Документ размещён бессрочно 12.07.2019 19:45);</li>
+</ul>
+
+
+
+<p>На 31.05.2019 года:</p>
+
+
+
+<ul>
+<li><a href="/ext/uk/2019/ras_ss_20190531.pdf">Расчёт размера собственных средств ООО «Управляющая компания «Энергия-инвест» на 31.05.2019</a> (Документ размещён бессрочно 20.06.2019 17:47);</li>
+</ul>
+
+
+
+<p>На 30.04.2019 года:</p>
+
+
+
+<ul>
+<li><a href="/ext/uk/2019/ras_ss_20190430.pdf">Расчёт размера собственных средств ООО «Управляющая компания «Энергия-инвест» на 30.04.2019</a> (Документ размещён бессрочно 22.05.2019 09:05);</li>
+</ul>
+
+
+
+<p>На 31.03.2019 года:</p>
+
+
+
+<ul>
+<li><a href="/ext/uk/2019/ras_ss_20190331.pdf">Расчёт размера собственных средств ООО «Управляющая компания «Энергия-инвест» на 31.03.2019</a> (Документ размещён бессрочно 16.04.2019 12:25);</li>
+
+
+
+<li><a href="/ext/uk/2019/balans_20190331.pdf">Бухгалтерская (финансовая) отчетность ООО «Управляющая компания «Энергия-инвест» за I квартал 2019 года</a> (Документ размещён бессрочно 19.04.2019 11:30);</li>
+</ul>
+
+
+
+<p>На 28.02.2019 года:</p>
+
+
+
+<ul>
+<li><a href="/ext/uk/2019/ras_ss_20190228.pdf">Расчёт размера собственных средств ООО «Управляющая компания «Энергия-инвест» на 28.02.2019</a> (Документ размещён бессрочно 15.03.2019 18:10);</li>
+</ul>
+
+
+
+<p>На 31.01.2019 года:</p>
+
+
+
+<ul>
+<li><a href="/ext/uk/2019/ras_ss_20190131.pdf">Расчёт размера собственных средств ООО «Управляющая компания «Энергия-инвест» на 31.01.2019</a> (Документ размещён бессрочно 15.02.2019 17:10);</li>
+</ul>
+
+
+
+<p>На 31.12.2018 года:</p>
+
+
+
+<ul>
+<li><a href="/ext/uk/2018/ras_ss_20181231.pdf">Расчёт размера собственных средств ООО «Управляющая компания «Энергия-инвест» на 31.12.2018</a> (Документ размещён бессрочно 28.01.2019 20:12);</li>
+
+
+
+<li><a href="/ext/uk/2018/balans_20181231.pdf">Бухгалтерский баланс ООО «Управляющая компания «Энергия-инвест» за 2018 год</a> (Документ размещён бессрочно 30.01.2019 13:30);</li>
+
+
+
+<li><a href="/ext/uk/2018/otc_po_20181231.pdf">Отчёт о потоках денежных средств ООО «Управляющая компания «Энергия-инвест» за 2018 год</a> (Документ размещён бессрочно 30.01.2019 13:30);</li>
+
+
+
+<li><a href="/ext/uk/2018/otc_fi_20181231.pdf">Отчёт о финансовых результатах ООО «Управляющая компания «Энергия-инвест» за 2018 год</a> (Документ размещён бессрочно 30.01.2019 13:30);</li>
+
+
+
+<li><a href="/ext/uk/2018/otc_iz_20181231.pdf">Отчёт об изменениях собственного капитала ООО «Управляющая компания «Энергия-инвест» за 2018 год</a> (Документ размещён бессрочно 30.01.2019 13:30);</li>
+
+
+
+<li><a href="/ext/uk/2018/auditz_20181231.pdf">Аудиторское заключение по итогам деятельности ООО «Управляющая компания «Энергия-инвест» за 2018 год</a> (Документ размещён бессрочно 29.03.2019 15:55);</li>
+
+
+
+<li><a href="/ext/uk/2018/an_rep_20181231.pdf">Уточненная годовая бухгалтерская отчетность ООО «Управляющая компания «Энергия-инвест» за 2018 год</a> (Документ размещён бессрочно 29.03.2019 15:55);</li>
+</ul>
+
+
+
+<p>На 30.11.2018 года:</p>
+
+
+
+<ul>
+<li><a href="/ext/uk/2018/ras_ss_20181130.pdf">Расчёт размера собственных средств ООО «Управляющая компания «Энергия-инвест» на 30.11.2018</a> (Документ размещён бессрочно 14.12.2018 15:20);</li>
+</ul>
+
+
+
+<p>На 31.10.2018 года:</p>
+
+
+
+<ul>
+<li><a href="/ext/uk/2018/ras_ss_20181031.pdf">Расчёт размера собственных средств ООО «Управляющая компания «Энергия-инвест» на 31.10.2018</a> (Документ размещён бессрочно 14.11.2018 18:15);</li>
+</ul>
+
+
+
+<p>На 30.09.2018 года:</p>
+
+
+
+<ul>
+<li><a href="/ext/uk/2018/ras_ss_20180930.pdf">Расчёт размера собственных средств ООО «Управляющая компания «Энергия-инвест» на 30.09.2018</a> (Документ размещён бессрочно 12.10.2018 13:06);</li>
+
+
+
+<li><a href="/ext/uk/2018/balans_20180930.pdf">Бухгалтерский баланс ООО «Управляющая компания «Энергия-инвест» за 9 месяцев 2018 года</a> (Документ размещён бессрочно 26.10.2018 15:55);</li>
+
+
+
+<li><a href="/ext/uk/2018/otc_po_20180930.pdf">Отчёт о потоках денежных средств ООО «Управляющая компания «Энергия-инвест»</a><a href="/ext/uk/2018/balans_20180930.pdf"> за 9 месяцев 2018 года</a> (Документ размещён бессрочно 26.10.2018 15:55);</li>
+
+
+
+<li><a href="/ext/uk/2018/otc_fi_20180930.pdf">Отчёт о финансовых результатах ООО «Управляющая компания «Энергия-инвест»</a><a href="/ext/uk/2018/balans_20180930.pdf"> за 9 месяцев 2018 года</a> (Документ размещён бессрочно 26.10.2018 15:55);</li>
+
+
+
+<li><a href="/ext/uk/2018/otc_iz_20180930.pdf">Отчёт об изменениях собственного капитала ООО «Управляющая компания «Энергия-инвест»</a><a href="/ext/uk/2018/balans_20180930.pdf"> за 9 месяцев 2018 года</a> (Документ размещён бессрочно 26.10.2018 15:55);</li>
+</ul>
+
+
+
+<p>На 31.08.2018 года:</p>
+
+
+
+<ul>
+<li><a href="/ext/uk/2018/ras_ss_20180831.pdf">Расчёт размера собственных средств ООО «Управляющая компания «Энергия-инвест» на 31.08.2018</a> (Документ размещён бессрочно 14.09.2018 16:42);</li>
+</ul>
+
+
+
+<p>На 31.07.2018 года:</p>
+
+
+
+<ul>
+<li><a href="/ext/uk/2018/ras_ss_20180731.pdf">Расчёт размера собственных средств ООО «Управляющая компания «Энергия-инвест» на 31.07.2018</a> (Документ размещён бессрочно 09.08.2018 13:20);</li>
+</ul>
+
+
+
+<p>На 30.06.2018 года:</p>
+
+
+
+<ul>
+<li><a href="/ext/uk/2018/ras_ss_20180630.pdf">Расчёт размера собственных средств ООО «Управляющая компания «Энергия-инвест» на 30.06.2018</a> (Документ размещён бессрочно 13.07.2018 17:00);</li>
+
+
+
+<li><a href="/ext/uk/2018/otchet_20180630.pdf">Бухгалтерский баланс и Отчет о финансовых результатах ООО «Управляющая компания «Энергия-инвест» за 1 полугодие 2018 года</a> (Документ размещён бессрочно 27.07.2018 12:45);</li>
+</ul>
+
+
+
+<p>На 31.05.2018 года:</p>
+
+
+
+<ul>
+<li><a href="/ext/uk/2018/ras_ss_20180531.pdf">Расчёт размера собственных средств ООО «Управляющая компания «Энергия-инвест» на 31.05.2018</a> (Документ размещён бессрочно 15.06.2018 17:05);</li>
+</ul>
+
+
+
+<p>На 30.04.2018 года:</p>
+
+
+
+<ul>
+<li><a href="/ext/uk/2018/ras_ss_20180430.pdf">Расчёт размера собственных средств ООО «Управляющая компания «Энергия-инвест» на 30.04.2018</a> (Документ размещён бессрочно 16.05.2018 16:00);</li>
+</ul>
+
+
+
+<p>На 31.03.2018 года:</p>
+
+
+
+<ul>
+<li><a href="/ext/uk/2018/ras_ss_20180331.pdf">Расчёт размера собственных средств ООО «Управляющая компания «Энергия-инвест» на 31.03.2018</a> (Документ размещён бессрочно 10.04.2018 15:35);</li>
+
+
+
+<li><a href="/ext/uk/2018/bal_st_20180331.pdf">Баланс ООО «Управляющая компания «Энергия-инвест» на 31.03.2018</a> (Документ размещён бессрочно 25.04.2018 13:30);</li>
+
+
+
+<li><a href="/ext/uk/2018/otc_st_20180331.pdf">Отчет о финансовых результатах ООО «Управляющая компания «Энергия-инвест» на 31.03.2018</a> (Документ размещён бессрочно 25.04.2018 13:30);</li>
+
+
+
+<li><a href="/ext/uk/2018/balans_20180331.pdf">Баланс ООО «Управляющая компания «Энергия-инвест» за 1 квартал 2018 года Применение МСФО</a> (Документ размещён бессрочно 16.05.2018 16:00);</li>
+
+
+
+<li><a href="/ext/uk/2018/otchet_20180331.pdf">Отчет о финансовых результатах ООО «Управляющая компания «Энергия-инвест» за 1 квартал 2018 года Применение МСФО</a> (Документ размещён бессрочно 16.05.2018 16:00);</li>
+</ul>
+
+
+
+<p>На 28.02.2018 года:</p>
+
+
+
+<ul>
+<li><a href="/ext/uk/2018/ras_ss_20180228.pdf">Расчёт размера собственных средств ООО «Управляющая компания «Энергия-инвест» на 28.02.2018</a> (Документ размещён бессрочно 16.03.2018 18:30);</li>
+</ul>
+
+
+
+<p>На 31.01.2018 года:</p>
+
+
+
+<ul>
+<li><a href="/ext/uk/2018/ras_ss_20180131.pdf">Расчёт размера собственных средств ООО «Управляющая компания «Энергия-инвест» на 31.01.2018</a> (Документ размещён бессрочно 09.02.2018 16:30);</li>
+</ul>
+
+
+
+<p>На 31.12.2017 года:</p>
+
+
+
+<ul>
+<li><a href="/ext/uk/2017/ras_ss_20171231.pdf">Расчёт размера собственных средств ООО «Управляющая компания «Энергия-инвест» на 31.12.2017</a> (Документ размещён бессрочно 22.01.2018 17:20);</li>
+
+
+
+<li><a href="/ext/uk/2017/balans_20171231.pdf">Баланс ООО «Управляющая компания «Энергия-инвест» на 31.12.2017</a> (Документ размещён бессрочно 09.02.2018 16:30);</li>
+
+
+
+<li><a href="/ext/uk/2017/otchet_20171231.pdf">Отчет о финансовых результатах ООО «Управляющая компания «Энергия-инвест» на 31.12.2017</a> (Документ размещён бессрочно 09.02.2018 16:30);</li>
+
+
+
+<li><a href="/ext/uk/2017/auditz_20171231.pdf">Аудиторское заключение по итогам деятельности ООО «Управляющая компания «Энергия-инвест» за 2017 год</a> (Документ размещён бессрочно 16.03.2018 17:45);</li>
+
+
+
+<li><a href="/ext/uk/2017/an_rep_20171231.pdf">Годовая финансовая отчетность за год, закончившийся 31 декабря 2017 года</a> (Документ размещён бессрочно 27.04.2018 14:55);</li>
+</ul>
+
+
+
+<p>На 30.11.2017 года:</p>
+
+
+
+<ul>
+<li><a href="/ext/uk/2017/ras_ss_20171130.pdf">Расчёт размера собственных средств ООО «Управляющая компания «Энергия-инвест» на 30.11.2017</a> (Документ размещён бессрочно 11.12.2017 13:00);</li>
+</ul>
+
+
+
+<p>На 31.10.2017 года:</p>
+
+
+
+<ul>
+<li><a href="/ext/uk/2017/ras_ss_20171031.pdf">Расчёт размера собственных средств ООО «Управляющая компания «Энергия-инвест» на 31.10.2017</a> (Документ размещён бессрочно 09.11.2017 17:10);</li>
+</ul>
+
+
+
+<p>На 30.09.2017 года:</p>
+
+
+
+<ul>
+<li><a href="/ext/uk/2017/ras_ss_20170930.pdf">Расчёт размера собственных средств ООО «Управляющая компания «Энергия-инвест» на 30.09.2017</a> (Документ размещён бессрочно 13.10.2017 15:05);</li>
+
+
+
+<li><a href="/ext/uk/2017/balans_20170930.pdf">Баланс ООО «Управляющая компания «Энергия-инвест» на 30.09.2017</a> (Документ размещён бессрочно 26.10.2017 17:10);</li>
+
+
+
+<li><a href="/ext/uk/2017/otchet_20170930.pdf">Отчет о финансовых результатах ООО «Управляющая компания «Энергия-инвест» на 30.09.2017</a> (Документ размещён бессрочно 26.10.2017 17:10);</li>
+</ul>
+
+
+
+<p>На 31.08.2017 года:</p>
+
+
+
+<ul>
+<li><a href="/ext/uk/2017/ras_ss_20170831.pdf">Расчёт размера собственных средств ООО «Управляющая компания «Энергия-инвест» на 31.08.2017</a> (Документ размещён бессрочно 14.09.2017 12:45);</li>
+</ul>
+
+
+
+<p>На 31.07.2017 года:</p>
+
+
+
+<ul>
+<li><a href="/ext/uk/2017/ras_ss_20170731.pdf">Расчёт размера собственных средств ООО «Управляющая компания «Энергия-инвест» на 31.07.2017</a> (Документ размещён бессрочно 04.08.2017 10:55);</li>
+</ul>
+
+
+
+<p>На 30.06.2017 года:</p>
+
+
+
+<ul>
+<li><a href="/ext/uk/2017/ras_ss_20170630.pdf">Расчёт размера собственных средств ООО «Управляющая компания «Энергия-инвест» на 30.06.2017</a> (Документ размещён бессрочно 06.07.2017 12:20);</li>
+
+
+
+<li><a href="/ext/uk/2017/balans_20170630.pdf">Баланс ООО «Управляющая компания «Энергия-инвест» на 30.06.2017</a> (Документ размещён бессрочно 28.07.2017 09:55);</li>
+
+
+
+<li><a href="/ext/uk/2017/otchet_20170630.pdf">Отчет о финансовых результатах ООО «Управляющая компания «Энергия-инвест» на 30.06.2017</a> (Документ размещён бессрочно 28.07.2017 09:55);</li>
+</ul>
+
+
+
+<p>На 31.05.2017 года:</p>
+
+
+
+<ul>
+<li><a href="/ext/uk/2017/ras_ss_20170531.pdf">Расчёт размера собственных средств ООО «Управляющая компания «Энергия-инвест» на 31.05.2017</a> (Документ размещён бессрочно 09.06.2017 17:40);</li>
+</ul>
+
+
+
+<p>На 30.04.2017 года:</p>
+
+
+
+<ul>
+<li><a href="/ext/uk/2017/ras_ss_20170430.pdf">Расчёт размера собственных средств ООО «Управляющая компания «Энергия-инвест» на 30.04.2017</a> (Документ размещён бессрочно 17.05.2017 10:15);</li>
+</ul>
+
+
+
+<p>На 31.03.2017 года:</p>
+
+
+
+<ul>
+<li><a href="/ext/uk/2017/ras_ss_20170331.pdf">Расчёт размера собственных средств ООО «Управляющая компания «Энергия-инвест» на 31.03.2017</a> (Документ размещён бессрочно 17.04.2017 19:25);</li>
+
+
+
+<li><a href="/ext/uk/2017/balans_20170331.pdf">Баланс ООО «Управляющая компания «Энергия-инвест» на 31.03.2017</a> (Документ размещён бессрочно 26.04.2017 16:45);</li>
+
+
+
+<li><a href="/ext/uk/2017/otchet_20170331.pdf">Отчет о финансовых результатах ООО «Управляющая компания «Энергия-инвест» на 31.03.2017</a> (Документ размещён бессрочно 26.04.2017 16:45);</li>
+</ul>
+
+
+
+<p>На 28.02.2017 года:</p>
+
+
+
+<ul>
+<li><a href="/ext/uk/2017/ras_ss_20170228.pdf">Расчёт размера собственных средств ООО «Управляющая компания «Энергия-инвест» на 28.02.2017</a> (Документ размещён бессрочно 15.03.2017 13:40);</li>
+</ul>
+
+
+
+<p>На 31.01.2017 года:</p>
+
+
+
+<ul>
+<li><a href="/ext/uk/2017/ras_ss_20170131.pdf">Расчёт размера собственных средств ООО «Управляющая компания «Энергия-инвест» на 31.01.2017</a> (Документ размещён бессрочно 10.02.2017 15:55);</li>
+</ul>
+
+
+
+<p>На 31.12.2016 года:</p>
+
+
+
+<ul>
+<li><a href="/ext/uk/2016/ras_ss_20161231.pdf">Расчёт размера собственных средств ООО «Управляющая компания «Энергия-инвест» на 31.12.2016</a> (Документ размещён бессрочно 20.01.2017 09:05);</li>
+
+
+
+<li><a href="/ext/uk/2016/balans_20161231.pdf">Баланс ООО «Управляющая компания «Энергия-инвест» на 31.12.2016</a> (Документ размещён бессрочно 10.03.2017 17:50);</li>
+
+
+
+<li><a href="/ext/uk/2016/otchet_20161231.pdf">Отчет о финансовых результатах ООО «Управляющая компания «Энергия-инвест» за 2016 год</a> (Документ размещён бессрочно 10.03.2017 17:50);</li>
+
+
+
+<li><a href="/ext/uk/2016/auditz_20161231.pdf">Аудиторское заключение по ООО «Управляющая компания «Энергия-инвест» за 2016 год</a> (Документ размещён бессрочно 10.03.2017 17:50);</li>
+
+
+
+<li><a href="/ext/uk/2016/an_rep_20161231.pdf">Годовая финансовая отчетность за год, закончившийся 31 декабря 2016 года</a> (Документ размещён бессрочно 27.04.2017 15:05);</li>
+</ul>
+
+
+
+<p>На 30.11.2016 года:</p>
+
+
+
+<ul>
+<li><a href="/ext/uk/2016/ras_ss_20161130.pdf">Расчёт размера собственных средств ООО «Управляющая компания «Энергия-инвест» на 30.11.2016</a> (Документ размещён бессрочно 13.12.2016 16:27);</li>
+</ul>
+
+
+
+<p>На 31.10.2016 года:</p>
+
+
+
+<ul>
+<li><a href="/ext/uk/2016/ras_ss_20161031.pdf">Расчёт размера собственных средств ООО «Управляющая компания «Энергия-инвест» на 31.10.2016</a> (Документ размещён бессрочно 10.11.2016 13:00);</li>
+</ul>
+
+
+
+<p>На 30.09.2016 года:</p>
+
+
+
+<ul>
+<li><a href="/ext/uk/2016/ras_ss_20160930.pdf">Расчёт размера собственных средств ООО «Управляющая компания «Энергия-инвест» на 30.09.2016</a> (Документ размещён бессрочно 12.10.2016 08:55);</li>
+
+
+
+<li><a href="/ext/uk/2016/balans_20160930.pdf">Баланс ООО «Управляющая компания «Энергия-инвест» на 30.09.2016</a> (Документ размещён бессрочно 12.10.2016 08:55);</li>
+
+
+
+<li><a href="/ext/uk/2016/otchet_20160630.pdf">Отчет о финансовых результатах ООО «Управляющая компания «Энергия-инвест» на 30.09.2016</a> (Документ размещён бессрочно 12.10.2016 08:55);</li>
+</ul>
+
+
+
+<p>На 31.08.2016 года:</p>
+
+
+
+<ul>
+<li><a href="/ext/uk/2016/ras_ss_20160831.xls">Расчёт размера собственных средств ООО «Управляющая компания «Энергия-инвест» на 31.08.2016</a> (Документ размещён бессрочно 15.09.2016 16:38);</li>
+</ul>
+
+
+
+<p>На 31.07.2016 года:</p>
+
+
+
+<ul>
+<li><a href="/ext/uk/2016/ras_ss_20160731.xls">Расчёт размера собственных средств ООО «Управляющая компания «Энергия-инвест» на 31.07.2016</a> (Документ размещён бессрочно 03.08.2016 17:15);</li>
+</ul>
+
+
+
+<p>На 30.06.2016 года:</p>
+
+
+
+<ul>
+<li><a href="/ext/uk/2016/ras_ss_20160630.xls">Расчёт размера собственных средств ООО «Управляющая компания «Энергия-инвест» на 30.06.2016</a> (Документ размещён бессрочно 13.07.2016 10:35);</li>
+
+
+
+<li><a href="/ext/uk/2016/balans_20160630.xls">Баланс ООО «Управляющая компания «Энергия-инвест» на 30.06.2016</a> (Документ размещён бессрочно 13.07.2016 10:35);</li>
+
+
+
+<li><a href="/ext/uk/2016/otchet_20160630.xls">Отчет о финансовых результатах ООО «Управляющая компания «Энергия-инвест» на 30.06.2016</a> (Документ размещён бессрочно 13.07.2016 10:35);</li>
+</ul>
+
+
+
+<p>На 31.05.2016 года:</p>
+
+
+
+<ul>
+<li><a href="/ext/uk/2016/ras_ss_20160531.xls">Расчёт размера собственных средств ООО «Управляющая компания «Энергия-инвест» на 31.05.2016</a> (Документ размещён бессрочно 14.06.2016 11:15);</li>
+</ul>
+
+
+
+<p>На 30.04.2016 года:</p>
+
+
+
+<ul>
+<li><a href="/ext/uk/2016/ras_ss_20160430.htm">Расчёт размера собственных средств ООО «Управляющая компания «Энергия-инвест» на 30.04.2016</a> (Документ размещён бессрочно 17.05.2016 10:15);</li>
+</ul>
+
+
+
+<p>На 31.03.2016 года:</p>
+
+
+
+<ul>
+<li><a href="/ext/uk/2016/ras_ss_20160331.htm">Расчёт размера собственных средств ООО «Управляющая компания «Энергия-инвест» на 31.03.2016</a> (Документ размещён бессрочно 12.04.2016 18:20);</li>
+
+
+
+<li><a href="/ext/uk/2016/balans_20160331.xls">Баланс ООО «Управляющая компания «Энергия-инвест» на 31.03.2016</a> (Документ размещён бессрочно 12.04.2016 18:20);</li>
+
+
+
+<li><a href="/ext/uk/2016/otchet_20160331.xls">Отчет о финансовых результатах ООО «Управляющая компания «Энергия-инвест» на 31.03.2016</a> (Документ размещён бессрочно 12.04.2016 18:20);</li>
+</ul>
+
+
+
+<p>На 29.02.2016 года:</p>
+
+
+
+<ul>
+<li><a href="/ext/uk/2016/ras_ss_20160229.htm">Расчёт размера собственных средств ООО «Управляющая компания «Энергия-инвест» на 29.02.2016</a> (Документ размещён бессрочно 15.03.2016 14:50);</li>
+</ul>
+
+
+
+<p>На 31.01.2016 года:</p>
+
+
+
+<ul>
+<li><a href="/ext/uk/2016/ras_ss_20160131.htm">Расчёт размера собственных средств ООО «Управляющая компания «Энергия-инвест» на 31.01.2016</a> (Документ размещён бессрочно 29.02.2016 09:15);</li>
+</ul>
+
+
+
+<p>На 31.12.2015 года:</p>
+
+
+
+<ul>
+<li><a href="/ext/uk/2015/ras_ss_20151231.htm">Расчёт размера собственных средств ООО «Управляющая компания «Энергия-инвест» на 31.12.2015</a> (Документ размещён бессрочно 29.01.2016 15:45);</li>
+
+
+
+<li><a href="/ext/uk/2015/balans_20151231.xls">Баланс ООО «Управляющая компания «Энергия-инвест» на 31.12.2015</a> (Документ размещён бессрочно 17.03.2016 18:40);</li>
+
+
+
+<li><a href="/ext/uk/2015/otchet_20151231.xls">Отчет о финансовых результатах ООО «Управляющая компания «Энергия-инвест» на 31.12.2015</a> (Документ размещён бессрочно 17.03.2016 18:40);</li>
+
+
+
+<li><a href="/ext/uk/2015/auditz_20151231.pdf">Аудиторское заключение по ООО «Управляющая компания «Энергия-инвест» за 2015 год</a> (Документ размещён бессрочно 18.03.2016 13:35);</li>
+
+
+
+<li><a href="/ext/uk/2015/an_rep_20151231.pdf">Годовая финансовая отчетность за год, закончившийся 31 декабря 2015 года</a> (Документ размещён бессрочно 26.04.2016 16:38);</li>
+</ul>
+
+
+
+<p>На 30.11.2015 года:</p>
+
+
+
+<ul>
+<li><a href="/ext/uk/2015/ras_ss_20151130.htm">Расчёт размера собственных средств ООО «Управляющая компания «Энергия-инвест» на 30.11.2015</a> (Документ размещён бессрочно 18.12.2015 17:25);</li>
+</ul>
+
+
+
+<p>На 31.10.2015 года:</p>
+
+
+
+<ul>
+<li><a href="/ext/uk/2015/ras_ss_20151031.htm">Расчёт размера собственных средств ООО «Управляющая компания «Энергия-инвест» на 31.10.2015</a> (Документ размещён бессрочно 19.11.2015 10:00);</li>
+</ul>
+
+
+
+<p>На 30.09.2015 года:</p>
+
+
+
+<ul>
+<li><a href="/ext/uk/2015/ras_ss_20150930.htm">Расчёт размера собственных средств ООО «Управляющая компания «Энергия-инвест» на 30.09.2015</a> (Документ размещён бессрочно 28.10.2015 12:15);</li>
+
+
+
+<li><a href="/ext/uk/2015/balans_20150930.xls">Баланс ООО «Управляющая компания «Энергия-инвест» на 30.09.2015</a> (Документ размещён бессрочно 03.11.2015 10:20);</li>
+
+
+
+<li><a href="/ext/uk/2015/otchet_20150930.xls">Отчет о финансовых результатах ООО «Управляющая компания «Энергия-инвест» на 30.09.2015</a> (Документ размещён бессрочно 03.11.2015 10:20);</li>
+</ul>
+
+
+
+<p>На 31.08.2015 года:</p>
+
+
+
+<ul>
+<li><a href="/ext/uk/2015/ras_ss_20150831.htm">Расчёт размера собственных средств ООО «Управляющая компания «Энергия-инвест» на 31.08.2015</a> (Документ размещён бессрочно 28.09.2015 15:05);</li>
+</ul>
+
+
+
+<p>На 31.07.2015 года:</p>
+
+
+
+<ul>
+<li><a href="/ext/uk/2015/ras_ss_20150731.htm">Расчёт размера собственных средств ООО «Управляющая компания «Энергия-инвест» на 31.07.2015</a> (Документ размещён бессрочно 28.08.2015 15:17);</li>
+</ul>
+
+
+
+<p>На 30.06.2015 года:</p>
+
+
+
+<ul>
+<li><a href="/ext/uk/2015/ras_ss_20150630.htm">Расчёт размера собственных средств ООО «Управляющая компания «Энергия-инвест» на 30.06.2015</a> (Документ размещён бессрочно 16.07.2015 15:33);</li>
+
+
+
+<li><a href="/ext/uk/2015/balans_20150630.xls">Баланс ООО «Управляющая компания «Энергия-инвест» на 30.06.2015</a> (Документ размещён бессрочно 10.08.2015 10:25);</li>
+
+
+
+<li><a href="/ext/uk/2015/otchet_20150630.xls">Отчет о финансовых результатах ООО «Управляющая компания «Энергия-инвест» на 30.06.2015</a> (Документ размещён бессрочно 10.08.2015 10:25);</li>
+</ul>
+
+
+
+<p>На 31.05.2015 года:</p>
+
+
+
+<ul>
+<li><a href="/ext/uk/2015/ras_ss_20150531.htm">Расчёт размера собственных средств ООО «Управляющая компания «Энергия-инвест» на 31.05.2015</a> (Документ размещён бессрочно 25.06.2015 13:46);</li>
+</ul>
+
+
+
+<p>На 30.04.2015 года:</p>
+
+
+
+<ul>
+<li><a href="/ext/uk/2015/ras_ss_20150430.htm">Расчёт размера собственных средств ООО «Управляющая компания «Энергия-инвест» на 30.04.2015</a> (Документ размещён бессрочно 28.05.2015 14:55);</li>
+</ul>
+
+
+
+<p>На 31.03.2015 года:</p>
+
+
+
+<ul>
+<li><a href="/ext/uk/2015/ras_ss_20150331.htm">Расчёт размера собственных средств ООО «Управляющая компания «Энергия-инвест» на 31.03.2015</a> (Документ размещён бессрочно 30.04.2015 09:07);</li>
+
+
+
+<li><a href="/ext/uk/2015/balans_20150331.xls">Баланс ООО «Управляющая компания «Энергия-инвест» на 31.03.2015</a> (Документ размещён бессрочно 05.05.2015 16:30);</li>
+
+
+
+<li><a href="/ext/uk/2015/otchet_20150331.xls">Отчет о финансовых результатах ООО «Управляющая компания «Энергия-инвест» на 31.03.2015</a> (Документ размещён бессрочно 05.05.2015 16:30);</li>
+</ul>
+
+
+
+<p>На 28.02.2015 года:</p>
+
+
+
+<ul>
+<li><a href="/ext/uk/2015/ras_ss_20150228.htm">Расчёт размера собственных средств ООО «Управляющая компания «Энергия-инвест» на 28.02.2015</a> (Документ размещён бессрочно 27.03.2015 12:30);</li>
+</ul>
+
+
+
+<p>На 31.01.2015 года:</p>
+
+
+
+<ul>
+<li><a href="/ext/uk/2015/ras_ss_20150131.htm">Расчёт размера собственных средств ООО «Управляющая компания «Энергия-инвест» на 31.01.2015</a> (Документ размещён бессрочно 27.02.2015 12:40);</li>
+</ul>
+
+
+
+<p>На 31.12.2014 года:</p>
+
+
+
+<ul>
+<li><a href="/ext/uk/2014/ras_ss_20141231.htm">Расчёт размера собственных средств ООО «Управляющая компания «Энергия-инвест» на 31.12.2014</a> (Документ размещён бессрочно 29.01.2015 14:45);</li>
+
+
+
+<li><a href="/ext/uk/2014/balans_20141231.xls">Баланс ООО «Управляющая компания «Энергия-инвест» на 31.12.2014</a> (Документ размещён бессрочно 27.03.2015 16:20);</li>
+
+
+
+<li><a href="/ext/uk/2014/otchet_20141231.xls">Отчет о финансовых результатах ООО «Управляющая компания «Энергия-инвест» на 31.12.2014</a> (Документ размещён бессрочно 27.03.2015 16:20);</li>
+
+
+
+<li><a href="/ext/uk/2014/auditz_20141231.doc">Аудиторское заключение по ООО «Управляющая компания «Энергия-инвест» за 2014 год</a> (Документ размещён бессрочно 27.03.2015 12:30);</li>
+</ul>
+
+
+
+<p>На 30.11.2014 года:</p>
+
+
+
+<ul>
+<li><a href="/ext/uk/2014/ras_ss_20141130.htm">Расчёт размера собственных средств ООО «Управляющая компания «Энергия-инвест» на 30.11.2014</a> (Документ размещён бессрочно 30.12.2014 10:30);</li>
+</ul>
+
+
+
+<p>На 31.10.2014 года:</p>
+
+
+
+<ul>
+<li><a href="/ext/uk/2014/ras_ss_20141031.htm">Расчёт размера собственных средств ООО «Управляющая компания «Энергия-инвест» на 31.10.2014</a> (Документ размещён бессрочно 27.11.2014 16:45);</li>
+</ul>
+
+
+
+<p>На 30.09.2014 года:</p>
+
+
+
+<ul>
+<li><a href="/ext/uk/2014/ras_ss_20140930.htm">Расчёт размера собственных средств ООО «Управляющая компания «Энергия-инвест» на 30.09.2014</a> (Документ размещён бессрочно 30.10.2014 16:20);</li>
+
+
+
+<li><a href="/ext/uk/2014/balans_20140930.xls">Баланс ООО «Управляющая компания «Энергия-инвест» на 30.09.2014</a> (Документ размещён бессрочно 30.12.2014 10:35);</li>
+
+
+
+<li><a href="/ext/uk/2014/otchet_20140930.xls">Отчет о финансовых результатах ООО «Управляющая компания «Энергия-инвест» на 30.09.2014</a> (Документ размещён бессрочно 30.12.2014 10:35);</li>
+</ul>
+
+
+
+<p>На 31.08.2014 года:</p>
+
+
+
+<ul>
+<li><a href="/ext/uk/2014/ras_ss_20140831.htm">Расчёт размера собственных средств ООО «Управляющая компания «Энергия-инвест» на 31.08.2014</a> (Документ размещён бессрочно 26.09.2014 14:40);</li>
+</ul>
+
+
+
+<p>На 31.07.2014 года:</p>
+
+
+
+<ul>
+<li><a href="/ext/uk/2014/ras_ss_20140731.htm">Расчёт размера собственных средств ООО «Управляющая компания «Энергия-инвест» на 31.07.2014</a> (Документ размещён бессрочно 28.08.2014 16:45);</li>
+</ul>
+
+
+
+<p>На 30.06.2014 года:</p>
+
+
+
+<ul>
+<li><a href="/ext/uk/2014/ras_ss_20140630.htm">Расчёт размера собственных средств ООО «Управляющая компания «Энергия-инвест» на 30.06.2014</a> (Документ размещён бессрочно 29.07.2014 11:02);</li>
+
+
+
+<li><a href="/ext/uk/2014/balans_20140630.xls">Баланс ООО «Управляющая компания «Энергия-инвест» на 30.06.2014</a> (Документ размещён бессрочно 15.08.2014 16:45);</li>
+
+
+
+<li><a href="/ext/uk/2014/otchet_20140630.xls">Отчет о финансовых результатах ООО «Управляющая компания «Энергия-инвест» на 30.06.2014</a> (Документ размещён бессрочно 15.08.2014 16:45);</li>
+</ul>
+
+
+
+<p>На 31.05.2014 года:</p>
+
+
+
+<ul>
+<li><a href="/ext/uk/2014/ras_ss_20140531.htm">Расчёт размера собственных средств ООО «Управляющая компания «Энергия-инвест» на 31.05.2014</a> (Документ размещён бессрочно 16.05.2014 10:50);</li>
+</ul>
+
+
+
+<p>На 30.04.2014 года:</p>
+
+
+
+<ul>
+<li><a href="/ext/uk/2014/ras_ss_20140430.htm">Расчёт размера собственных средств ООО «Управляющая компания «Энергия-инвест» на 30.04.2014</a> (Документ размещён бессрочно 29.05.2014 15:30);</li>
+</ul>
+
+
+
+<p>На 31.03.2014 года:</p>
+
+
+
+<ul>
+<li><a href="/ext/uk/2014/ras_ss_20140331.htm">Расчёт размера собственных средств ООО «Управляющая компания «Энергия-инвест» на 31.03.2014</a> (Документ размещён бессрочно 24.04.2014 14:33);</li>
+
+
+
+<li><a href="/ext/uk/2014/balans_20140331.xls">Баланс ООО «Управляющая компания «Энергия-инвест» на 31.03.2014</a> (Документ размещён бессрочно 14.05.2014 17:55);</li>
+
+
+
+<li><a href="/ext/uk/2014/otchet_20140331.xls">Отчет о финансовых результатах ООО «Управляющая компания «Энергия-инвест» на 31.03.2014</a> (Документ размещён бессрочно 14.05.2014 17:55);</li>
+</ul>
+
+
+
+<p>На 28.02.2014 года:</p>
+
+
+
+<ul>
+<li><a href="/ext/uk/2014/ras_ss_20140228.htm">Расчёт размера собственных средств ООО «Управляющая компания «Энергия-инвест» на 28.02.2014</a> (Документ размещён бессрочно 27.03.2014 11:23);</li>
+</ul>
+
+
+
+<p>На 31.01.2014 года:</p>
+
+
+
+<ul>
+<li><a href="/ext/uk/2014/ras_ss_20140131.htm">Расчёт размера собственных средств ООО «Управляющая компания «Энергия-инвест» на 31.01.2014</a> (Документ размещён бессрочно 28.02.2014 13:18);</li>
+</ul>
+
+
+
+<p>На 31.12.2013 года:</p>
+
+
+
+<ul>
+<li><a href="/ext/uk/2013/ras_ss_20131231.htm">Расчёт размера собственных средств ООО «Управляющая компания «Энергия-инвест» на 31.12.2013</a> (Документ размещён бессрочно 28.01.2014 17:36);</li>
+
+
+
+<li><a href="/ext/uk/2013/balans_20131231.xls">Баланс ООО «Управляющая компания «Энергия-инвест» на 31.12.2013</a> (Документ размещён бессрочно 25.03.2014 15:20);</li>
+
+
+
+<li><a href="/ext/uk/2013/otchet_20131231.xls">Отчет о финансовых результатах ООО «Управляющая компания «Энергия-инвест» на 31.12.2013</a> (Документ размещён бессрочно 25.03.2014 15:20);</li>
+
+
+
+<li><a href="/ext/uk/2013/auditz_20131231.doc">Аудиторское заключение о бухгалтерской отчетности по итогам деятельности ООО «Управляющая компания «Энергия-инвест» на 31.12.2013</a> (Документ размещён бессрочно 25.03.2014 15:20);</li>
+</ul>
+
+
+
+<p>На 30.11.2013 года:</p>
+
+
+
+<ul>
+<li><a href="/ext/uk/2013/ras_ss_20131130.htm">Расчёт размера собственных средств ООО «Управляющая компания «Энергия-инвест» на 30.11.2013</a> (Документ размещён бессрочно 30.12.2013 11:33);</li>
+</ul>
+
+
+
+<p>На 31.10.2013 года:</p>
+
+
+
+<ul>
+<li><a href="/ext/uk/2013/ras_ss_20131031.htm">Расчёт размера собственных средств ООО «Управляющая компания «Энергия-инвест» на 31.10.2013</a> (Документ размещён бессрочно 29.11.2013 09:01);</li>
+</ul>
+
+
+
+<p>На 30.09.2013 года:</p>
+
+
+
+<ul>
+<li><a href="/ext/uk/2013/balans_20130930.xls">Баланс ООО «Управляющая компания «Энергия-инвест» на 30.09.2013</a> (Документ размещён бессрочно 01.11.2013 15:55);</li>
+
+
+
+<li><a href="/ext/uk/2013/otchet_20130930.xls">Отчет о финансовых результатах ООО «Управляющая компания «Энергия-инвест» на 30.09.2013</a> (Документ размещён бессрочно 01.11.2013 15:55);</li>
+
+
+
+<li><a href="/ext/uk/2013/ras_ss_20130930.htm">Расчёт размера собственных средств ООО «Управляющая компания «Энергия-инвест» на 30.09.2013</a> (Документ размещён бессрочно 22.10.2013 10:55);</li>
+</ul>
+
+
+
+<p>На 31.08.2013 года:</p>
+
+
+
+<ul>
+<li><a href="/ext/uk/2013/ras_ss_20130831.htm">Расчёт размера собственных средств ООО «Управляющая компания «Энергия-инвест» на 31.08.2013</a> (Документ размещён бессрочно 30.09.2013 10:30);</li>
+</ul>
+
+
+
+<p>На 31.07.2013 года:</p>
+
+
+
+<ul>
+<li><a href="/ext/uk/2013/ras_ss_20130731.htm">Расчёт размера собственных средств ООО «Управляющая компания «Энергия-инвест» на 31.07.2013</a> (Документ размещён бессрочно 28.08.2013 13:30);</li>
+</ul>
+
+
+
+<p>На 30.06.2013 года:</p>
+
+
+
+<ul>
+<li><a href="/ext/uk/2013/balans_20130630.xls">Баланс ООО «Управляющая компания «Энергия-инвест» на 30.06.2013</a> (Документ размещён бессрочно 07.08.2013 17:57);</li>
+
+
+
+<li><a href="/ext/uk/2013/otchet_20130630.xls">Отчет о финансовых результатах ООО «Управляющая компания «Энергия-инвест» на 30.06.2013</a> (Документ размещён бессрочно 07.08.2013 17:57);</li>
+
+
+
+<li><a href="/ext/uk/2013/ras_ss_20130630.htm">Расчёт размера собственных средств ООО «Управляющая компания «Энергия-инвест» на 30.06.2013</a> (Документ размещён бессрочно 22.07.2013 17:19);</li>
+</ul>
+
+
+
+<p>На 31.05.2013 года:</p>
+
+
+
+<ul>
+<li><a href="/ext/uk/2013/ras_ss_20130531.htm">Расчёт размера собственных средств ООО «Управляющая компания «Энергия-инвест» на 31.05.2013</a> (Документ размещён бессрочно 28.06.2013 10:02);</li>
+</ul>
+
+
+
+<p>На 30.04.2013 года:</p>
+
+
+
+<ul>
+<li><a href="/ext/uk/2013/ras_ss_20130430.htm">Расчёт размера собственных средств ООО «Управляющая компания «Энергия-инвест» на 30.04.2013</a> (Документ размещён бессрочно 28.05.2013 18:30);</li>
+</ul>
+
+
+
+<p>На 31.03.2013 года:</p>
+
+
+
+<ul>
+<li><a href="/ext/uk/2013/balans_20130331.xls">Баланс ООО «Управляющая компания «Энергия-инвест» на 31.03.2013</a> (Документ размещён бессрочно 06.05.2013 17:53);</li>
+
+
+
+<li><a href="/ext/uk/2013/otchet_20130331.xls">Отчет о финансовых результатах ООО «Управляющая компания «Энергия-инвест» на 31.03.2013</a> (Документ размещён бессрочно 06.05.2013 17:53);</li>
+
+
+
+<li><a href="/ext/uk/2013/ras_ss_20130331.htm">Расчёт размера собственных средств ООО «Управляющая компания «Энергия-инвест» на 31.03.2013</a> (Документ размещён бессрочно 29.04.2013 16:35);</li>
+</ul>
+
+
+
+<p>На 28.02.2013 года:</p>
+
+
+
+<ul>
+<li><a href="/ext/uk/2013/ras_ss_20130228.htm">Расчёт размера собственных средств ООО «Управляющая компания «Энергия-инвест» на 28.02.2013</a> (Документ размещён бессрочно 27.03.2013 15:40);</li>
+</ul>
+
+
+
+<p>На 31.01.2013 года:</p>
+
+
+
+<ul>
+<li><a href="/ext/uk/2013/ras_ss_20130131.htm">Расчёт размера собственных средств ООО «Управляющая компания «Энергия-инвест» на 31.01.2013</a> (Документ размещён бессрочно 28.02.2013 10:25);</li>
+</ul>
+
+
+
+<p>На 31.12.2012 года:</p>
+
+
+
+<ul>
+<li><a href="/ext/uk/2012/ras_ss_20121231.htm">Расчёт размера собственных средств ООО «Управляющая компания «Энергия-инвест» на 31.12.2012</a> (Документ размещён бессрочно 30.01.2013 15:28);</li>
+
+
+
+<li><a href="/ext/uk/2012/ras_ss_20121231-1.htm">Скорректированный Расчёт размера собственных средств ООО «Управляющая компания «Энергия-инвест» на 31.12.2012</a> (Документ размещён бессрочно 15.03.2013 16:50);</li>
+
+
+
+<li><a href="/ext/uk/2012/balans_20121231.xls">Баланс ООО «Управляющая компания «Энергия-инвест» на 31.12.2012</a> (Документ размещён бессрочно 15.03.2013 16:50);</li>
+
+
+
+<li><a href="/ext/uk/2012/otchet_20121231.xls">Отчет о финансовых результатах ООО «Управляющая компания «Энергия-инвест» на 31.12.2012</a> (Документ размещён бессрочно 15.03.2013 16:50);</li>
+
+
+
+<li><a href="/ext/uk/2012/auditz_20121231.pdf">Аудиторское заключение о бухгалтерской отчетности по итогам деятельности ООО «Управляющая компания «Энергия-инвест» на 31.12.2012</a> (Документ размещён бессрочно 15.03.2013 16:50);</li>
+</ul>
+
+
+
+<p>На 30.11.2012 года:</p>
+
+
+
+<ul>
+<li><a href="/ext/uk/2012/ras_ss_20121130.htm">Расчёт размера собственных средств ООО «Управляющая компания «Энергия-инвест» на 30.11.2012</a> (Документ размещён бессрочно 28.12.2012 12:42);</li>
+</ul>
+
+
+
+<p>На 31.10.2012 года:</p>
+
+
+
+<ul>
+<li><a href="/ext/uk/2012/ras_ss_20121031.htm">Расчёт размера собственных средств ООО «Управляющая компания «Энергия-инвест» на 31.10.2012</a> (Документ размещён бессрочно 29.11.2012 15:34);</li>
+</ul>
+
+
+
+<p>На 30.09.2012 года:</p>
+
+
+
+<ul>
+<li><a href="/ext/uk/2012/balans_20120930.xls">Баланс ООО «Управляющая компания «Энергия-инвест» на 30.09.2012</a> (Документ размещён бессрочно 13.11.2012 11:10);</li>
+
+
+
+<li><a href="/ext/uk/2012/otchet_20120930.xls">Отчет о финансовых результатах ООО «Управляющая компания «Энергия-инвест» на 30.09.2012</a> (Документ размещён бессрочно 13.11.2012 11:10);</li>
+
+
+
+<li><a href="/ext/uk/2012/ras_ss_20120930.htm">Расчёт размера собственных средств ООО «Управляющая компания «Энергия-инвест» на 30.09.2012</a> (Документ размещён бессрочно 30.10.2012 14:56);</li>
+</ul>
+
+
+
+<p>На 31.08.2012 года:</p>
+
+
+
+<ul>
+<li><a href="/ext/uk/2012/ras_ss_20120831.htm">Расчёт размера собственных средств ООО «Управляющая компания «Энергия-инвест» на 31.08.2012</a> (Документ размещён бессрочно 28.09.2012 15:34);</li>
+</ul>
+
+
+
+<p>На 31.07.2012 года:</p>
+
+
+
+<ul>
+<li><a href="/ext/uk/2012/ras_ss_20120731.htm">Расчёт размера собственных средств ООО «Управляющая компания «Энергия-инвест» на 31.07.2012</a> (Документ размещён бессрочно 24.08.2012 18:46);</li>
+</ul>
+
+
+
+<p>На 30.06.2012 года:</p>
+
+
+
+<ul>
+<li><a href="/ext/uk/2012/balans_20120630.xls">Баланс ООО «Управляющая компания «Энергия-инвест» на 30.06.2012</a> (Документ размещён бессрочно 13.08.2012 17:20);</li>
+
+
+
+<li><a href="/ext/uk/2012/otchet_20120630.xls">Отчет о финансовых результатах ООО «Управляющая компания «Энергия-инвест» на 30.06.2012</a> (Документ размещён бессрочно 13.08.2012 17:20);</li>
+
+
+
+<li><a href="/ext/uk/2012/ras_ss_20120630.htm">Расчёт размера собственных средств ООО «Управляющая компания «Энергия-инвест» на 30.06.2012</a> (Документ размещён бессрочно 30.07.2012 09:30);</li>
+</ul>
+
+
+
+<p>На 31.05.2012 года:</p>
+
+
+
+<ul>
+<li><a href="/ext/uk/2012/ras_ss_20120531.htm">Расчёт размера собственных средств ООО «Управляющая компания «Энергия-инвест» на 31.05.2012</a> (Документ размещён бессрочно 29.05.2012 16:03);</li>
+</ul>
+
+
+
+<p>На 30.04.2012 года:</p>
+
+
+
+<ul>
+<li><a href="/ext/uk/2012/ras_ss_20120430.htm">Расчёт размера собственных средств ООО «Управляющая компания «Энергия-инвест» на 30.04.2012</a> (Документ размещён бессрочно 24.05.2012 17:37);</li>
+</ul>
+
+
+
+<p>На 31.03.2012 года:</p>
+
+
+
+<ul>
+<li><a href="/ext/uk/2012/balans_20120331.xls">Баланс ООО «Управляющая компания «Энергия-инвест» на 31.03.2012</a> (Документ размещён бессрочно 10.05.2012 11:20);</li>
+
+
+
+<li><a href="/ext/uk/2012/otchet_20120331.xls">Отчет о финансовых результатах ООО «Управляющая компания «Энергия-инвест» на 31.03.2012</a> (Документ размещён бессрочно 10.05.2012 11:20);</li>
+
+
+
+<li><a href="/ext/uk/2012/ras_ss_20120331.htm">Расчёт размера собственных средств ООО «Управляющая компания «Энергия-инвест» на 31.03.2012</a> (Документ размещён бессрочно 28.04.2012 10:12);</li>
+</ul>
+
+
+
+<p>На 29.02.2012 года:</p>
+
+
+
+<ul>
+<li><a href="/ext/uk/2012/ras_ss_20120229.htm">Расчёт размера собственных средств ООО «Управляющая компания «Энергия-инвест» на 29.02.2012</a> (Документ размещён бессрочно 28.03.2012 17:20);</li>
+</ul>
+
+
+
+<p>На 31.01.2012 года:</p>
+
+
+
+<ul>
+<li><a href="/ext/uk/2012/ras_ss_20120131.htm">Расчёт размера собственных средств ООО «Управляющая компания «Энергия-инвест» на 31.01.2012</a> (Документ размещён бессрочно 28.02.2012 13:45);</li>
+</ul>
+
+
+
+<p>На 31.12.2011 года:</p>
+
+
+
+<ul>
+<li><a href="/ext/uk/2011/ras_ss_20111231.htm">Расчёт размера собственных средств ООО «Управляющая компания «Энергия-инвест» на 31.12.2011</a> (Документ размещён бессрочно 31.01.2012 14:11);</li>
+
+
+
+<li><a href="/ext/uk/2011/balans_20111231.xls">Баланс ООО «Управляющая компания «Энергия-инвест» на 31.12.2011</a> (Документ размещён бессрочно 28.03.2012 17:20);</li>
+
+
+
+<li><a href="/ext/uk/2011/otchet_20111231.xls">Отчет о финансовых результатах ООО «Управляющая компания «Энергия-инвест» на 31.12.2011</a> (Документ размещён бессрочно 28.03.2012 17:20);</li>
+
+
+
+<li><a href="/ext/uk/2011/auditz_20111231.pdf">Аудиторское заключение о бухгалтерской отчетности по итогам деятельности ООО «Управляющая компания «Энергия-инвест» на 31.12.2011</a> (Документ размещён бессрочно 28.03.2012 17:20);</li>
+</ul>
+
+
+
+<p>На 30.11.2011 года:</p>
+
+
+
+<ul>
+<li><a href="/ext/uk/2011/ras_ss_20111130.htm">Расчёт размера собственных средств ООО «Управляющая компания «Энергия-инвест» на 30.11.2011</a> (Документ размещён бессрочно 29.12.2011 17:00);</li>
+</ul>
+
+
+
+<p>На 31.10.2011 года:</p>
+
+
+
+<ul>
+<li><a href="/ext/uk/2011/ras_ss_20111031.htm">Расчёт размера собственных средств ООО «Управляющая компания «Энергия-инвест» на 31.10.2011</a> (Документ размещён бессрочно 30.11.2011 16:25);</li>
+</ul>
+
+
+
+<p>На 30.09.2011 года:</p>
+
+
+
+<ul>
+<li><a href="/ext/uk/2011/ras_ss_20110930.htm">Расчёт размера собственных средств ООО «Управляющая компания «Энергия-инвест» на 30.09.2011</a> (Документ размещён бессрочно 24.10.2011 17:50);</li>
+
+
+
+<li><a href="/ext/uk/2011/balans_20110930.xls">Баланс ООО «Управляющая компания «Энергия-инвест» на 30.09.2011</a> (Документ размещён бессрочно 07.11.2011 11:00);</li>
+
+
+
+<li><a href="/ext/uk/2011/otchet_20110930.xls">Отчет о финансовых результатах ООО «Управляющая компания «Энергия-инвест» на 30.09.2011</a> (Документ размещён бессрочно 07.11.2011 11:00);</li>
+</ul>
+
+
+
+<p>На 31.08.2011 года:</p>
+
+
+
+<ul>
+<li><a href="/ext/uk/2011/ras_ss_20110831.htm">Расчёт размера собственных средств ООО «Управляющая компания «Энергия-инвест» на 31.08.2011</a> (Документ размещён бессрочно 29.09.2011 09:34);</li>
+</ul>
+
+
+
+<p>На 31.07.2011 года:</p>
+
+
+
+<ul>
+<li><a href="/ext/uk/2011/ras_ss_20110731.htm">Расчёт размера собственных средств ООО «Управляющая компания «Энергия-инвест» на 31.07.2011</a> (Документ размещён бессрочно 30.08.2011 17:42);</li>
+</ul>
+
+
+
+<p>На 30.06.2011 года:</p>
+
+
+
+<ul>
+<li><a href="/ext/uk/2011/ras_ss_20110630.htm">Расчёт размера собственных средств ООО «Управляющая компания «Энергия-инвест» на 30.06.2011</a> (Документ размещён бессрочно 29.07.2011 09:22);</li>
+
+
+
+<li><a href="/ext/uk/2011/balans_20110630.xls">Баланс ООО «Управляющая компания «Энергия-инвест» на 30.06.2011</a> (Документ размещён бессрочно 11.08.2011 09:30);</li>
+
+
+
+<li><a href="/ext/uk/2011/otchet_20110630.xls">Отчет о финансовых результатах ООО «Управляющая компания «Энергия-инвест» на 30.06.2011</a> (Документ размещён бессрочно 11.08.2011 09:30);</li>
+</ul>
+
+
+
+<p>На 31.05.2011 года:</p>
+
+
+
+<ul>
+<li><a href="/ext/uk/2011/ras_ss_20110531.htm">Расчёт размера собственных средств ООО «Управляющая компания «Энергия-инвест» на 31.05.2011</a> (Документ размещён бессрочно 30.06.2011 12:51);</li>
+</ul>
+
+
+
+<p>На 30.04.2011 года:</p>
+
+
+
+<ul>
+<li><a href="/ext/uk/2011/ras_ss_20110430.htm">Расчёт размера собственных средств ООО «Управляющая компания «Энергия-инвест» на 30.04.2011</a> (Документ размещён бессрочно 30.05.2011 16:15);</li>
+</ul>
+
+
+
+<p>На 31.03.2011 года:</p>
+
+
+
+<ul>
+<li><a href="/ext/uk/2011/balans_20110331.xls">Баланс ООО «Управляющая компания «Энергия-инвест» на 31.03.2011</a> (Документ размещён бессрочно 10.05.2011 09:40);</li>
+
+
+
+<li><a href="/ext/uk/2011/otchet_20110331.xls">Отчет о финансовых результатах ООО «Управляющая компания «Энергия-инвест» на 31.03.2011</a> (Документ размещён бессрочно 10.05.2011 09:40);</li>
+
+
+
+<li><a href="/ext/uk/2011/ras_ss_20110331.htm">Расчёт размера собственных средств ООО «Управляющая компания «Энергия-инвест» на 31.03.2011</a> (Документ размещён бессрочно 29.04.2011 12:50);</li>
+</ul>
+
+
+
+<p>На 28.02.2011 года:</p>
+
+
+
+<ul>
+<li><a href="/ext/uk/2011/ras_ss_20110228.htm">Расчёт размера собственных средств ООО «Управляющая компания «Энергия-инвест» на 28.02.2011</a> (Документ размещён бессрочно 30.03.2011 16:50);</li>
+</ul>
+
+
+
+<p>На 31.01.2011 года:</p>
+
+
+
+<ul>
+<li><a href="/ext/uk/2011/ras_ss_20110131.htm">Расчёт размера собственных средств ООО «Управляющая компания «Энергия-инвест» на 31.01.2011</a> (Документ размещён бессрочно 28.02.2011 18:56);</li>
+</ul>
+
+
+
+<p>На 31.12.2010 года:</p>
+
+
+
+<ul>
+<li><a href="/ext/uk/2010/balans_20101231.xls">Баланс ООО «Управляющая компания «Энергия-инвест» на 31.12.2010</a> (Документ размещён бессрочно 17.03.2011 09:00);</li>
+
+
+
+<li><a href="/ext/uk/2010/otchet_20101231.xls">Отчет о финансовых результатах ООО «Управляющая компания «Энергия-инвест» на 31.12.2010</a> (Документ размещён бессрочно 17.03.2011 09:00);</li>
+
+
+
+<li><a href="/ext/uk/2010/ras_ss_20101231.htm">Расчёт размера собственных средств ООО «Управляющая компания «Энергия-инвест» на 31.12.2010</a> (Документ размещён бессрочно 28.01.2011 17:56);</li>
+</ul>
+
+
+
+<p>На 30.11.2010 года:</p>
+
+
+
+<ul>
+<li><a href="/ext/uk/2010/ras_ss_20101130.htm">Расчёт размера собственных средств ООО «Управляющая компания «Энергия-инвест» на 30.11.2010</a> (Документ размещён бессрочно 30.12.2010 11:46);</li>
+</ul>
+
+
+
+<p>На 31.10.2010 года:</p>
+
+
+
+<ul>
+<li><a href="/ext/uk/2010/ras_ss_20101031.htm">Расчёт размера собственных средств ООО «Управляющая компания «Энергия-инвест» на 31.10.2010</a> (Документ размещён бессрочно 30.11.2010 14:58);</li>
+</ul>
+
+
+
+<p>На 30.09.2010 года:</p>
+
+
+
+<ul>
+<li><a href="/ext/uk/2010/balans_20100930.xls">Баланс УК «Энергия-инвест» на 30.09.2010</a> (Документ размещён бессрочно 13.11.2010 18:13);</li>
+
+
+
+<li><a href="/ext/uk/2010/otchet_20100930.xls">Отчет о финансовых результатах УК «Энергия-инвест» на 30.09.2010</a> (Документ размещён бессрочно 13.11.2010 18:20);</li>
+
+
+
+<li><a href="/ext/uk/2010/ras_ss_20100930.htm">Расчёт размера собственных средств ООО «Управляющая компания «Энергия-инвест» на 30.09.2010</a> (Документ размещён бессрочно 26.10.2010 16:19);</li>
+</ul>
+
+
+
+<p>На 31.08.2010 года:</p>
+
+
+
+<ul>
+<li><a href="/ext/uk/2010/ras_ss_20100831.htm">Расчёт размера собственных средств ООО «Управляющая компания «Энергия-инвест» на 31.08.2010</a> (Документ размещён бессрочно 29.09.2010 12:10);</li>
+</ul>
+
+
+
+<p>На 31.07.2010 года:</p>
+
+
+
+<ul>
+<li><a href="/ext/uk/2010/ras_ss_20100731.htm">Расчёт размера собственных средств ООО «Управляющая компания «Энергия-инвест» на 31.07.2010</a> (Документ размещён бессрочно 31.08.2010 17:23);</li>
+</ul>
+
+
+
+<p>На 30.06.2010 года:</p>
+
+
+
+<ul>
+<li><a href="/ext/uk/2010/balans_20100630.xls">Баланс УК «Энергия-инвест» на 30.06.2010</a> (Документ размещён бессрочно 13.08.2010 15:50);</li>
+
+
+
+<li><a href="/ext/uk/2010/otchet_20100630.xls">Отчет о финансовых результатах УК «Энергия-инвест» на 30.06.2010</a> (Документ размещён бессрочно 13.08.2010 15:50);</li>
+
+
+
+<li><a href="/ext/uk/2010/ras_ss_20100630.htm">Расчёт размера собственных средств ООО «Управляющая компания «Энергия-инвест» на 30.06.2010</a> (Документ размещён бессрочно 30.07.2010 18:07);</li>
+</ul>
+
+
+
+<p>На 31.05.2010 года:</p>
+
+
+
+<ul>
+<li><a href="/ext/uk/2010/ras_ss_20100531.htm">Расчёт размера собственных средств ООО «Управляющая компания «Энергия-инвест» на 31.05.2010</a> (Документ размещён бессрочно 29.06.2010 16:19);</li>
+</ul>
+
+
+
+<p>На 30.04.2010 года:</p>
+
+
+
+<ul>
+<li><a href="/ext/uk/2010/ras_ss_20100430.htm">Расчёт размера собственных средств ООО «Управляющая компания «Энергия-инвест» на 30.04.2010</a> (Документ размещён бессрочно 31.05.2010 14:57);</li>
+</ul>
+
+
+
+<p>На 31.03.2010 года:</p>
+
+
+
+<ul>
+<li><a href="/ext/uk/2010/balans_20100331.xls">Баланс УК «Энергия-инвест» на 31.03.2010</a>;</li>
+
+
+
+<li><a href="/ext/uk/2010/otchet_20100331.xls">Отчет о финансовых результатах УК «Энергия-инвест» на 31.03.2010</a>;</li>
+
+
+
+<li><a href="/ext/uk/2010/ras_ss_20100331.xls">Расчёт размера собственных средств ООО «Управляющая компания «Энергия-инвест» на 31.03.2010</a>;</li>
+</ul>
+
+
+
+<p>На 28.02.2010 года:</p>
+
+
+
+<ul>
+<li><a href="/ext/uk/2010/ras_ss_20100228.xls">Расчёт размера собственных средств ООО «Управляющая компания «Энергия-инвест» на 28.02.2010</a>;</li>
+</ul>
+
+
+
+<p>На 31.01.2010 года:</p>
+
+
+
+<ul>
+<li><a href="/ext/uk/2010/ras_ss_20100131.xls">Расчёт размера собственных средств ООО «Управляющая компания «Энергия-инвест» на 31.01.2010</a>;</li>
+</ul>
+
+
+
+<p>На 31.12.2009 года:</p>
+
+
+
+<ul>
+<li><a href="/ext/uk/2009/balans_20091231.xls">Баланс УК «Энергия-инвест» на 31.12.2009</a>;</li>
+
+
+
+<li><a href="/ext/uk/2009/otchet_20091231.xls">Отчет о финансовых результатах УК «Энергия-инвест» на 31.12.2009</a>;</li>
+
+
+
+<li><a href="/ext/uk/2009/ras_ss_20091231-1.xls">Скорректированный Расчёт размера собственных средств ООО «Управляющая компания «Энергия-инвест» на 31.12.2009</a>;</li>
+
+
+
+<li><a href="/ext/uk/2009/ras_ss_20091231.xls">Расчёт размера собственных средств ООО «Управляющая компания «Энергия-инвест» на 31.12.2009</a>;</li>
+</ul>
+
+
+
+<p>На 30.11.2009 года:</p>
+
+
+
+<ul>
+<li><a href="/ext/uk/2009/ras_ss_20091130.xls">Расчёт размера собственных средств ООО «Управляющая компания «Энергия-инвест» на 30.11.2009</a>;</li>
+</ul>
+
+
+
+<p>На 31.10.2009 года:</p>
+
+
+
+<ul>
+<li><a href="/ext/uk/2009/ras_ss_20091031.xls">Расчёт размера собственных средств ООО «Управляющая компания «Энергия-инвест» на 31.10.2009</a>;</li>
+</ul>
+
+
+
+<p>За 3 квартал 2009 года:</p>
+
+
+
+<ul>
+<li><a href="/ext/uk/2009/ras_ss_20090930.xls">Расчёт размера собственных средств ООО «Управляющая компания «Энергия-инвест» на 30.09.2009</a>;</li>
+
+
+
+<li><a href="/ext/uk/2009/balans_20090930.xls">Баланс УК «Энергия-инвест» на 30.09.2009</a>;</li>
+
+
+
+<li><a href="/ext/uk/2009/otchet_20090930.xls">Отчет о финансовых результатах УК «Энергия-инвест» на 30.09.2009</a>;</li>
+</ul>
+
+
+
+<p>На 31.08.2009 года:</p>
+
+
+
+<ul>
+<li><a href="/ext/uk/2009/ras_ss_20090831.xls">Расчёт размера собственных средств ООО «Управляющая компания «Энергия-инвест» на 31.08.2009</a>;</li>
+</ul>
+
+
+
+<p>На 31.07.2009 года:</p>
+
+
+
+<ul>
+<li><a href="/ext/uk/2009/ras_ss_20090731.xls">Расчёт размера собственных средств ООО «Управляющая компания «Энергия-инвест» на 31.07.2009</a>;</li>
+</ul>
+
+
+
+<p>За 2 квартал 2009 года:</p>
+
+
+
+<ul>
+<li><a href="/ext/uk/2009/ras_ss_20090630.xls">Расчёт размера собственных средств ООО «Управляющая компания «Энергия-инвест» на 30.06.2009</a>;</li>
+
+
+
+<li><a href="/ext/uk/2009/balans_20090630.xls">Баланс УК «Энергия-инвест» на 30.06.2009</a>;</li>
+
+
+
+<li><a href="/ext/uk/2009/otchet_20090630.xls">Отчет о финансовых результатах УК «Энергия-инвест» на 30.06.2009</a>;</li>
+</ul>
+
+
+
+<p>За 1 квартал 2009 года:</p>
+
+
+
+<ul>
+<li><a href="/ext/uk/2009/balans_20090331.xls">Баланс УК «Энергия-инвест» на 31.03.2009</a>;</li>
+
+
+
+<li><a href="/ext/uk/2009/otchet_20090331.xls">Отчет о финансовых результатах УК «Энергия-инвест» на 31.03.2009</a>;</li>
+
+
+
+<li><a href="/ext/uk/2009/ras_ss_20090331.xls">Расчёт размера собственных средств ООО «Управляющая компания «Энергия-инвест» на 31.03.2009</a>;</li>
+</ul>
+
+
+
+<p>За 2008 год:</p>
+
+
+
+<ul>
+<li><a href="/ext/uk/2008/balans_20081231.xls">Баланс УК «Энергия-инвест» на 31.12.2008</a>;</li>
+
+
+
+<li><a href="/ext/uk/2008/otchet_20081231.xls">Отчет о финансовых результатах УК «Энергия-инвест» на 31.12.2008</a>;</li>
+
+
+
+<li><a href="/ext/uk/2008/ras_ss_20081231.xls">Расчёт размера собственных средств ООО «Управляющая компания «Энергия-инвест» на 31.12.2008</a>;</li>
+</ul>
+
+
+
+<p>За 3 квартал 2008 года:</p>
+
+
+
+<ul>
+<li><a href="/ext/uk/2008/balans_20080930.xls">Баланс УК «Энергия-инвест» на 30.09.2008</a>;</li>
+
+
+
+<li><a href="/ext/uk/2008/otchet_20080930.xls">Отчет о финансовых результатах УК «Энергия-инвест» на 30.09.2008</a>;</li>
+
+
+
+<li><a href="/ext/uk/2008/ras_ss_20080930.xls">Расчёт размера собственных средств ООО «Управляющая компания «Энергия-инвест» на 30.09.2008</a>;</li>
+</ul>
+
+
+
+<p>За 2 квартал 2008 года:</p>
+
+
+
+<ul>
+<li><a href="/ext/uk/2008/balans_20080630.xls">Баланс УК «Энергия-инвест» на 30.06.2008</a>;</li>
+
+
+
+<li><a href="/ext/uk/2008/otchet_20080630.xls">Отчет о финансовых результатах УК «Энергия-инвест» на 30.06.2008</a>;</li>
+
+
+
+<li><a href="/ext/uk/2008/ras_ss_20080630.xls">Расчёт размера собственных средств ООО «Управляющая компания «Энергия-инвест» на 30.06.2008</a>;</li>
+</ul>
+
+
+
+<p>За 1 квартал 2008 года:</p>
+
+
+
+<ul>
+<li><a href="/ext/uk/2008/balans_20080331.xls">Баланс УК «Энергия-инвест» на 31.03.2008</a>;</li>
+
+
+
+<li><a href="/ext/uk/2008/otchet_20080331.xls">Отчет о финансовых результатах УК «Энергия-инвест» на 31.03.2008</a>;</li>
+
+
+
+<li><a href="/ext/uk/2008/ras_ss_20080331.xls">Расчёт размера собственных средств ООО «Управляющая компания «Энергия-инвест» на 31.03.2008</a>;</li>
+</ul>
+
+
+
+<p>За 4 квартал 2007 года:</p>
+
+
+
+<ul>
+<li><a href="/ext/uk/2007/balans_20071231.xls">Баланс УК «Энергия-инвест» на 31.12.2007</a>;</li>
+
+
+
+<li><a href="/ext/uk/2007/otchet_20071231.xls">Отчет о финансовых результатах УК «Энергия-инвест» на 31.12.2007</a>;</li>
+
+
+
+<li><a href="/ext/uk/2007/ras_ss_20071231.xls">Расчёт размера собственных средств ООО «Управляющая компания «Энергия-инвест» на 31.12.2007</a>;</li>
+
+
+
+<li><a href="/ext/uk/2007/auditz_20071231.doc">Аудиторское заключение за 2007 год</a>;</li>
+</ul>
+
+
+
+<p>За 3 квартал 2007 года:</p>
+
+
+
+<ul>
+<li><a href="/ext/uk/2007/balans_20070930.xls">Баланс УК «Энергия-инвест» на 30.09.2007</a>;</li>
+
+
+
+<li><a href="/ext/uk/2007/otchet_20070930.xls">Отчет о финансовых результатах УК «Энергия-инвест» на 30.09.2007</a>;</li>
+
+
+
+<li><a href="/ext/uk/2007/ras_ss_20070930.xls">Расчёт размера собственных средств ООО «Управляющая компания «Энергия-инвест» на 30.09.2007</a>;</li>
+</ul>
+
+
+
+<p>За 2 квартал 2007 года:</p>
+
+
+
+<ul>
+<li><a href="/ext/uk/2007/balans_20070630.xls">Баланс УК «Энергия-инвест» на 30.06.200</a>;</li>
+
+
+
+<li><a href="/ext/uk/2007/otchet_20070630.xls">Отчет о финансовых результатах УК «Энергия-инвест» на 30.06.2007</a>;</li>
+
+
+
+<li><a href="/ext/uk/2007/ras_ss_20070630.xls">Расчёт размера собственных средств ООО «Управляющая компания «Энергия-инвест» на 30.06.2007</a>;</li>
+</ul>
+
+
+
+<p>За 1 квартал 2007 года:</p>
+
+
+
+<ul>
+<li><a href="/ext/uk/2007/balans_20070331.xls">Баланс УК «Энергия-инвест» на 31.03.2007</a>;</li>
+
+
+
+<li><a href="/ext/uk/2007/otchet_20070331.xls">Отчет о финансовых результатах УК «Энергия-инвест» на 31.03.2007</a>;</li>
+
+
+
+<li><a href="/ext/uk/2007/ras_ss_20070331.xls">Расчёт размера собственных средств ООО «Управляющая компания «Энергия-инвест» на 31.03.2007</a>;</li>
+</ul>
+
+
+
+<p>За 4 квартал 2006 года:</p>
+
+
+
+<ul>
+<li><a href="/ext/uk/2006/balans_20061231.xls">Баланс УК «Энергия-инвест» на 31.12.2006</a>;</li>
+
+
+
+<li><a href="/ext/uk/2006/otchet_20061231.xls">Отчет о финансовых результатах УК «Энергия-инвест» на 31.12.2006</a>;</li>
+
+
+
+<li><a href="/ext/uk/2006/ras_ss_20061231.xls">Расчёт размера собственных средств ООО «Управляющая компания «Энергия-инвест» на 31.12.2006</a>;</li>
+</ul>
+
+
+
+<p>За 3 квартал 2006 года:</p>
+
+
+
+<ul>
+<li><a href="/ext/uk/2006/balans_20060930.xls">Баланс УК «Энергия-инвест» на 30.09.2006</a>;</li>
+
+
+
+<li><a href="/ext/uk/2006/otchet_20060930.xls">Отчет о финансовых результатах УК «Энергия-инвест» на 30.09.2006</a>;</li>
+
+
+
+<li><a href="/ext/uk/2006/ras_ss_20060930.xls">Расчёт размера собственных средств ООО «Управляющая компания «Энергия-инвест» на 30.09.2006</a>;</li>
+</ul>
+
+
+
+<p>За 2 квартал 2006 года:</p>
+
+
+
+<ul>
+<li><a href="/ext/uk/2006/balans_20060630.xls">Баланс УК «Энергия-инвест» на 30.06.200</a>;</li>
+
+
+
+<li><a href="/ext/uk/2006/otchet_20060630.xls">Отчет о финансовых результатах УК «Энергия-инвест» на 30.06.2006</a>;</li>
+
+
+
+<li><a href="/ext/uk/2006/ras_ss_20060630.xls">Расчёт размера собственных средств ООО «Управляющая компания «Энергия-инвест» на 30.06.2006</a>;</li>
+</ul>
+
+
+
+<p>За 1 квартал 2006 года:</p>
+
+
+
+<ul>
+<li><a href="/ext/uk/2006/balans_20060331.xls">Баланс УК «Энергия-инвест» на 31.03.2006</a>;</li>
+
+
+
+<li><a href="/ext/uk/2006/otchet_20060331.xls">Отчет о финансовых результатах УК «Энергия-инвест» на 31.03.2006</a>;</li>
+
+
+
+<li><a href="/ext/uk/2006/ras_ss_20060331.xls">Расчёт размера собственных средств ООО «Управляющая компания «Энергия-инвест» на 31.03.2006</a>;</li>
+</ul>
+
+
+
+<p>За 4 квартал 2005 года:</p>
+
+
+
+<ul>
+<li><a href="/ext/uk/2005/balans_20051231.xls">Баланс УК «Энергия-инвест» на 31.12.2005</a>;</li>
+
+
+
+<li><a href="/ext/uk/2005/otchet_20051231.xls">Отчет о финансовых результатах УК «Энергия-инвест» на 31.12.2005</a>;</li>
+
+
+
+<li><a href="/ext/uk/2005/ras_ss_20051231.xls">Расчёт размера собственных средств ООО «Управляющая компания «Энергия-инвест» на 31.12.2005</a>;</li>
+</ul>
+
+
+
+<p>За 3 квартал 2005 года:</p>
+
+
+
+<ul>
+<li><a href="/ext/uk/2005/balans_20050930.xls">Баланс УК «Энергия-инвест» на 30.09.2005</a>;</li>
+
+
+
+<li><a href="/ext/uk/2005/otchet_20050930.xls">Отчет о финансовых результатах УК «Энергия-инвест» на 30.09.2005</a>;</li>
+
+
+
+<li><a href="/ext/uk/2005/ras_ss_20050930.xls">Расчёт размера собственных средств ООО «Управляющая компания «Энергия-инвест» на 30.09.2005</a>;</li>
+</ul>
+
+
+
+<p>За 2 квартал 2005 года:</p>
+
+
+
+<ul>
+<li><a href="/ext/uk/2005/balans_20050630.xls">Баланс УК «Энергия-инвест» на 30.06.2005</a>;</li>
+
+
+
+<li><a href="/ext/uk/2005/otchet_20050630.xls">Отчет о финансовых результатах УК «Энергия-инвест» на 30.06.2005</a>;</li>
+
+
+
+<li><a href="/ext/uk/2005/ras_ss_20050630.xls">Расчёт размера собственных средств ООО «Управляющая компания «Энергия-инвест» на 30.06.2005</a>;</li>
+</ul>
+
+
+
+<p>За 1 квартал 2005 года:</p>
+
+
+
+<ul>
+<li><a href="/ext/uk/2005/balans_20050331.xls">Баланс УК «Энергия-инвест» на 31.03.2005</a>;</li>
+
+
+
+<li><a href="/ext/uk/2005/otchet_20050331.xls">Отчет о финансовых результатах УК «Энергия-инвест» на 31.03.2005</a>;</li>
+
+
+
+<li><a href="/ext/uk/2005/ras_ss_20050331.xls">Расчёт размера собственных средств ООО «Управляющая компания «Энергия-инвест» на 31.03.2005</a>;</li>
+</ul>
+
+
+<p><!-- /wp:list --></p>
+	
+	
+</div><!-- .entry-content .clear -->
+
+	
+	
+</article><!-- #post-## -->
+
+			</main><!-- #main -->
+			
+		
+	</div><!-- #primary -->
+
+
+	</div> <!-- ast-container -->
+	</div><!-- #content -->
+<footer class="site-footer" id="colophon" itemtype="https://schema.org/WPFooter" itemscope="itemscope" itemid="#colophon">
+			<div class="site-below-footer-wrap ast-builder-grid-row-container site-footer-focus-item ast-builder-grid-row-full ast-builder-grid-row-tablet-full ast-builder-grid-row-mobile-full ast-footer-row-stack ast-footer-row-tablet-stack ast-footer-row-mobile-stack" data-section="section-below-footer-builder">
+	<div class="ast-builder-grid-row-container-inner">
+					<div class="ast-builder-footer-grid-columns site-below-footer-inner-wrap ast-builder-grid-row">
+											<div class="site-footer-below-section-1 site-footer-section site-footer-section-1">
+								<div class="ast-builder-layout-element ast-flex site-footer-focus-item ast-footer-copyright" data-section="section-footer-builder">
+				<div class="ast-footer-copyright"><div id="wrapper">
+<div id="container" class="clear-block">
+<div id="center">
+<div class="fer">
+<div class="disclaimer" style="line-height: 0.8; text-align: justify;">Обязательная информация, предостережения и оговорки: Общество с ограниченной ответственностью "Управляющая компания "Энергия-инвест", <a href="/lic">лицензия ФСФР России</a> на осуществление деятельности по управлению инвестиционными фондами, паевыми инвестиционными фондами и негосударственными пенсионными фондами № 21-000-1-00061 от 25 марта 2002 г. Интервальный паевой инвестиционный рыночных финансовых инструментов "Энергия-инвест" под управлением Общества с ограниченной ответственностью "Управляющая компания "Энергия-инвест". Первая редакция <a href="/doc-pr">Правил доверительного управления фондом</a> зарегистрирована ФКЦБ РФ 12 июля 2000 г. № 0044-52842352, Правила доверительного управления фондом в новой редакции зарегистрированы Банком России 19 декабря 2019 года за № 0044-52842352-11. Стоимость инвестиционных паев может увеличиваться и уменьшаться. Результаты инвестирования в прошлом не определяют доходы в будущем. Государство не гарантирует доходность инвестиций в паевые инвестиционные фонды. Прежде чем приобрести инвестиционный пай, следует внимательно ознакомиться с правилами доверительного управления паевым инвестиционным фондом.</div>
+<div class="disclaimer" style="line-height: 0.8; text-align: justify;"><a href="/doc-pr">Правилами доверительного управления фондом</a>, находящимся под управлением ООО "УК "Энергия-инвест", предусмотрены скидки к расчетной стоимости инвестиционных паев при их погашении. Обращаем Ваше внимание на то, что взимание скидок уменьшает доходность инвестиций в инвестиционные паи паевого инвестиционного фонда. Получить подробную информацию об ООО "УК "Энергия-инвест" и паевом инвестиционном фонде, находящимся под его управлением, ознакомиться с правилами доверительного управления со всеми изменениями и дополнениями к ним, а также с иными документами, предусмотренными в ФЗ "Об инвестиционных фондах", нормативных актах федерального органа исполнительной власти по рынку ценных бумаг и Центрального банка Российской Федерации, получить сведения о местах приема заявок на приобретение и погашение инвестиционных паев можно по адресу: 664025 г. Иркутск, ул. Ленина, 6 оф. 313, телефон (3952)240137, а также на сайте ООО "УК "Энергия-инвест" в сети Internet по адресу: <a href="http://www.energy-invest.ru">http://www.energy-invest.ru</a>.</div>
+</div>
+</div>
+</div>
+</div>
+</div>			</div>
+						</div>
+										</div>
+			</div>
+
+</div>
+	</footer><!-- #colophon -->
+	</div><!-- #page -->
+<link rel="stylesheet" id="mailpoet_public-css" href="http://www.energy-invest.ru/wp-content/plugins/mailpoet/assets/dist/css/mailpoet-public.9cd759ea.css?ver=6.2.2" media="all">
+<script id="astra-theme-js-js-extra">
+var astra = {"break_point":"921","isRtl":"","is_scroll_to_id":"","is_scroll_to_top":"","is_header_footer_builder_active":"1"};
+</script>
+<script src="http://www.energy-invest.ru/wp-content/themes/astra/assets/js/minified/frontend.min.js?ver=4.1.5" id="astra-theme-js-js"></script>
+<script id="mailpoet_public-js-extra">
+var MailPoetForm = {"ajax_url":"http:\/\/www.energy-invest.ru\/wp-admin\/admin-ajax.php","is_rtl":""};
+</script>
+<script src="http://www.energy-invest.ru/wp-content/plugins/mailpoet/assets/dist/js/public.js?ver=4.18.1" id="mailpoet_public-js"></script>
+<script id="mailpoet_public-js-after">
+function initMailpoetTranslation() {
+  if (typeof MailPoet !== 'undefined') {
+    MailPoet.I18n.add('ajaxFailedErrorMessage', 'Во время запроса произошла ошибка, пожалуйста, повторите попытку позже.')
+  } else {
+    setTimeout(initMailpoetTranslation, 250);
+  }
+}
+setTimeout(initMailpoetTranslation, 250);
+</script>
+			<script>
+			/(trident|msie)/i.test(navigator.userAgent)&&document.getElementById&&window.addEventListener&&window.addEventListener("hashchange",function(){var t,e=location.hash.substring(1);/^[A-z0-9_-]+$/.test(e)&&(t=document.getElementById(e))&&(/^(?:a|select|input|button|textarea)$/i.test(t.tagName)||(t.tabIndex=-1),t.focus())},!1);
+			</script>
+			    <script type="text/javascript">
+        jQuery(document).ready(function ($) {
+
+            for (let i = 0; i < document.forms.length; ++i) {
+                let form = document.forms[i];
+				if ($(form).attr("method") != "get") { $(form).append('<input type="hidden" name="qPnhtWZTGRBOSM" value="iIuk_hcp3dsrV2" />'); }
+if ($(form).attr("method") != "get") { $(form).append('<input type="hidden" name="l-bjnQOJfPte" value="p4cwNf" />'); }
+if ($(form).attr("method") != "get") { $(form).append('<input type="hidden" name="LBpvIqSCXmPfRxE" value="ZkEnX9OdAWy" />'); }
+            }
+
+            $(document).on('submit', 'form', function () {
+				if ($(this).attr("method") != "get") { $(this).append('<input type="hidden" name="qPnhtWZTGRBOSM" value="iIuk_hcp3dsrV2" />'); }
+if ($(this).attr("method") != "get") { $(this).append('<input type="hidden" name="l-bjnQOJfPte" value="p4cwNf" />'); }
+if ($(this).attr("method") != "get") { $(this).append('<input type="hidden" name="LBpvIqSCXmPfRxE" value="ZkEnX9OdAWy" />'); }
+                return true;
+            });
+
+            jQuery.ajaxSetup({
+                beforeSend: function (e, data) {
+
+                    if (data.type !== 'POST') return;
+
+                    if (typeof data.data === 'object' && data.data !== null) {
+						data.data.append("qPnhtWZTGRBOSM", "iIuk_hcp3dsrV2");
+data.data.append("l-bjnQOJfPte", "p4cwNf");
+data.data.append("LBpvIqSCXmPfRxE", "ZkEnX9OdAWy");
+                    }
+                    else {
+                        data.data = data.data + '&qPnhtWZTGRBOSM=iIuk_hcp3dsrV2&l-bjnQOJfPte=p4cwNf&LBpvIqSCXmPfRxE=ZkEnX9OdAWy';
+                    }
+                }
+            });
+
+        });
+    </script>
+		
+

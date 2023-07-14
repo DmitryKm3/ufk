@@ -1,0 +1,826 @@
+<div></div><div><div>
+	<div data-b24-crm-button-shadow="" class="b24-widget-button-shadow"></div>
+	<div style="display: none;">
+		<a data-b24-crm-button-widget-blank="" data-b24-crm-button-widget="" class="b24-widget-button-social-item" title="">
+			<i></i>
+			<span data-b24-crm-button-tooltip="" class="b24-widget-button-social-tooltip"></span>
+		</a>
+	</div>
+
+	<div dir="ltr" data-b24-crm-button-cont="" class="b24-widget-button-wrapper b24-widget-button-position-bottom-right b24-widget-button-visible">
+		<div data-b24-crm-hello-cont="" class="b24-widget-button-popup" style="border-color: #ebebeb;">
+			<span data-b24-hello-btn-hide="" class="b24-widget-button-popup-btn-hide"></span>
+			<div class="b24-widget-button-popup-inner">
+				<div class="b24-widget-button-popup-image">
+					<span data-b24-hello-icon="" class="b24-widget-button-popup-image-item"></span>
+				</div>
+				<div class="b24-widget-button-popup-content">
+					<div data-b24-hello-name="" class="b24-widget-button-popup-name"></div>
+					<div data-b24-hello-text="" class="b24-widget-button-popup-description"></div>
+				</div>
+			</div>
+			<div class="b24-widget-button-popup-triangle" style="border-color: #ebebeb;"></div>
+		</div>
+
+		<div data-b24-crm-button-block="" class="b24-widget-button-social">
+
+		<a data-b24-crm-button-widget-blank="" data-b24-crm-button-widget="openline_livechat" class="b24-widget-button-social-item b24-widget-button-openline_livechat" title="" data-b24-widget-sort="100" style="background-color: rgb(235, 235, 235);">
+			<i></i>
+			<span data-b24-crm-button-tooltip="" class="b24-widget-button-social-tooltip">Онлайн-чат</span>
+		</a></div>
+		<div data-b24-crm-button-block-button="" class="b24-widget-button-inner-container">
+			<div data-b24-crm-button-block-border="" class="b24-widget-button-inner-mask" style="background: #ebebeb;"></div>
+			<div class="b24-widget-button-block">
+				<div data-b24-crm-button-pulse="" class="b24-widget-button-pulse b24-widget-button-pulse-animate" style="border-color: #ebebeb;"></div>
+				<div data-b24-crm-button-block-inner="" class="b24-widget-button-inner-block" style="background: #ebebeb;">
+					<div class="b24-widget-button-icon-container">
+
+						<div data-b24-crm-button-icon="crmform" class="b24-widget-button-inner-item" style="display: none;">
+							<svg class="b24-crm-button-icon" xmlns="http://www.w3.org/2000/svg" width="28" height="28" viewBox="0 0 24 28">
+								<path class="b24-crm-button-webform-icon" fill=" #003172" fill-rule="evenodd" d="M815.406703,961 L794.305503,961 C793.586144,961 793,961.586144 793,962.305503 L793,983.406703 C793,984.126062 793.586144,984.712206 794.305503,984.712206 L815.406703,984.712206 C816.126062,984.712206 816.712206,984.126062 816.712206,983.406703 L816.712206,962.296623 C816.703325,961.586144 816.117181,961 815.406703,961 L815.406703,961 Z M806.312583,979.046143 C806.312583,979.454668 805.975106,979.783264 805.575462,979.783264 L796.898748,979.783264 C796.490224,979.783264 796.161627,979.445787 796.161627,979.046143 L796.161627,977.412044 C796.161627,977.003519 796.499105,976.674923 796.898748,976.674923 L805.575462,976.674923 C805.983987,976.674923 806.312583,977.0124 806.312583,977.412044 L806.312583,979.046143 L806.312583,979.046143 Z M813.55946,973.255747 C813.55946,973.664272 813.221982,973.992868 812.822339,973.992868 L796.889868,973.992868 C796.481343,973.992868 796.152746,973.655391 796.152746,973.255747 L796.152746,971.621647 C796.152746,971.213122 796.490224,970.884526 796.889868,970.884526 L812.813458,970.884526 C813.221982,970.884526 813.550579,971.222003 813.550579,971.621647 L813.550579,973.255747 L813.55946,973.255747 Z M813.55946,967.45647 C813.55946,967.864994 813.221982,968.193591 812.822339,968.193591 L796.889868,968.193591 C796.481343,968.193591 796.152746,967.856114 796.152746,967.45647 L796.152746,965.82237 C796.152746,965.413845 796.490224,965.085249 796.889868,965.085249 L812.813458,965.085249 C813.221982,965.085249 813.550579,965.422726 813.550579,965.82237 L813.550579,967.45647 L813.55946,967.45647 Z" transform="translate(-793 -961)"></path>
+							</svg>
+						</div>
+
+						<div data-b24-crm-button-icon="callback" class="b24-widget-button-inner-item" style="display: none;">
+							<svg class="b24-crm-button-icon" xmlns="http://www.w3.org/2000/svg" width="28" height="28" viewBox="0 0 28 30">
+								<path class="b24-crm-button-call-icon" fill="#003172" fill-rule="evenodd" d="M940.872414,978.904882 C939.924716,977.937215 938.741602,977.937215 937.79994,978.904882 C937.08162,979.641558 936.54439,979.878792 935.838143,980.627954 C935.644982,980.833973 935.482002,980.877674 935.246586,980.740328 C934.781791,980.478121 934.286815,980.265859 933.840129,979.97868 C931.757607,978.623946 930.013117,976.882145 928.467826,974.921839 C927.701216,973.947929 927.019115,972.905345 926.542247,971.731659 C926.445666,971.494424 926.463775,971.338349 926.6509,971.144815 C927.36922,970.426869 927.610672,970.164662 928.316918,969.427987 C929.300835,968.404132 929.300835,967.205474 928.310882,966.175376 C927.749506,965.588533 927.206723,964.77769 926.749111,964.14109 C926.29156,963.50449 925.932581,962.747962 925.347061,962.154875 C924.399362,961.199694 923.216248,961.199694 922.274586,962.161118 C921.55023,962.897794 920.856056,963.653199 920.119628,964.377388 C919.437527,965.045391 919.093458,965.863226 919.021022,966.818407 C918.906333,968.372917 919.274547,969.840026 919.793668,971.269676 C920.856056,974.228864 922.473784,976.857173 924.43558,979.266977 C927.085514,982.52583 930.248533,985.104195 933.948783,986.964613 C935.6148,987.801177 937.341181,988.444207 939.218469,988.550339 C940.510236,988.625255 941.632988,988.288132 942.532396,987.245549 C943.148098,986.533845 943.842272,985.884572 944.494192,985.204083 C945.459999,984.192715 945.466036,982.969084 944.506265,981.970202 C943.359368,980.777786 942.025347,980.091055 940.872414,978.904882 Z M940.382358,973.54478 L940.649524,973.497583 C941.23257,973.394635 941.603198,972.790811 941.439977,972.202844 C940.97488,970.527406 940.107887,969.010104 938.90256,967.758442 C937.61538,966.427182 936.045641,965.504215 934.314009,965.050223 C933.739293,964.899516 933.16512,965.298008 933.082785,965.905204 L933.044877,966.18514 C932.974072,966.707431 933.297859,967.194823 933.791507,967.32705 C935.117621,967.682278 936.321439,968.391422 937.308977,969.412841 C938.23579,970.371393 938.90093,971.53815 939.261598,972.824711 C939.401641,973.324464 939.886476,973.632369 940.382358,973.54478 Z M942.940854,963.694228 C940.618932,961.29279 937.740886,959.69052 934.559939,959.020645 C934.000194,958.902777 933.461152,959.302642 933.381836,959.8878 L933.343988,960.167112 C933.271069,960.705385 933.615682,961.208072 934.130397,961.317762 C936.868581,961.901546 939.347628,963.286122 941.347272,965.348626 C943.231864,967.297758 944.53673,969.7065 945.149595,972.360343 C945.27189,972.889813 945.766987,973.232554 946.285807,973.140969 L946.55074,973.094209 C947.119782,972.993697 947.484193,972.415781 947.350127,971.835056 C946.638568,968.753629 945.126778,965.960567 942.940854,963.694228 Z" transform="translate(-919 -959)"></path>
+							</svg>
+						</div>
+
+						<div data-b24-crm-button-icon="openline" class="b24-widget-button-inner-item b24-widget-button-icon-animation" style="">
+							<svg class="b24-crm-button-icon b24-crm-button-icon-active" xmlns="http://www.w3.org/2000/svg" width="28" height="28" viewBox="0 0 28 29">
+								<path class="b24-crm-button-chat-icon" fill="#003172" fill-rule="evenodd" d="M878.289968,975.251189 L878.289968,964.83954 C878.289968,963.46238 876.904379,962 875.495172,962 L857.794796,962 C856.385491,962 855,963.46238 855,964.83954 L855,975.251189 C855,976.924031 856.385491,978.386204 857.794796,978.090729 L860.589592,978.090729 L860.589592,981.876783 L860.589592,983.76981 L861.521191,983.76981 C861.560963,983.76981 861.809636,982.719151 862.45279,982.823297 L866.179185,978.090729 L875.495172,978.090729 C876.904379,978.386204 878.289968,976.924031 878.289968,975.251189 Z M881.084764,971.465135 L881.084764,976.197702 C881.43316,978.604561 879.329051,980.755508 876.426771,980.93027 L868.042382,980.93027 L866.179185,982.823297 C866.400357,983.946455 867.522357,984.94992 868.973981,984.716324 L876.426771,984.716324 L879.221567,988.502377 C879.844559,988.400361 880.153166,989.448891 880.153166,989.448891 L881.084764,989.448891 L881.084764,987.555864 L881.084764,984.716324 L882.947962,984.716324 C884.517696,984.949819 885.742758,983.697082 885.742758,981.876783 L885.742758,974.304675 C885.742659,972.717669 884.517597,971.465135 882.947962,971.465135 L881.084764,971.465135 Z" transform="translate(-855 -962)"></path>
+							</svg>
+						</div>
+
+					</div>
+					<div class="b24-widget-button-inner-item b24-widget-button-close">
+						<svg class="b24-widget-button-icon b24-widget-button-close-item" xmlns="http://www.w3.org/2000/svg" width="29" height="29" viewBox="0 0 29 29"><path fill="#FFF" fill-rule="evenodd" d="M18.866 14.45l9.58-9.582L24.03.448l-9.587 9.58L4.873.447.455 4.866l9.575 9.587-9.583 9.57 4.418 4.42 9.58-9.577 9.58 9.58 4.42-4.42"></path></svg>
+					</div>
+				</div>
+			</div>
+		</div>
+	</div>
+</div></div>
+
+        <!-- Google Tag Manager (noscript) -->
+        <noscript><!-- deleted by bitrix Antivirus --></noscript>
+        <!-- End Google Tag Manager (noscript) -->
+
+
+
+        <div class="canvas js-canvas">
+            
+            <div class="cookies-disclaimer cookies-disclaimer_hidden">
+    <div class="cookies-disclaimer__content">
+        <p>Продолжая использовать наш сайт, вы даете согласие ООО УК «Система Капитал»  на обработку файлов cookie и пользовательских данных. Запретить обработку Cookies можно в настройках Вашего браузера. Пожалуйста, ознакомьтесь с <a href="https://sistema-capital.com/upload/iblock/791/Politika_PDn_27.02.2023.pdf" target="_blank" rel="noopener">Условиями обработки персональных данных</a> и <a href="/cookies/" target="_blank">Cookies</a>.</p>
+        <!-- <p>ООО УК «Система Капитал» использует файлы «cookie» с целью персонализации сервисов и повышения удобства пользования вами сайта https://sistema-capital.com/.</p> -->
+        <!-- <p>«Cookie» представляют собой небольшие файлы, содержащие информацию о предыдущих посещениях сайтов и иных пользовательских действиях. Если вы не хотите, чтобы ваши пользовательские данные обрабатывались, измените настройки браузера или прекратите использование указанных сайтов. <br> <a href="https://sistema-capital.com/upload/medialibrary/a7c/Soglasie-na-obrabotku-polzovatelskikh-dannykh.pdf" target="_blank" rel="noopener">Согласие на обработку пользовательских данных</a></p> -->
+    </div>
+    <button class="cookies-disclaimer__button" type="button">Хорошо</button>
+</div>
+            <header class="page-header">
+
+                
+                
+                                    <div class="page-header__container ">
+                        <div class="row ">
+                            <div class="col-12 page-header__col-12 page-header__col-12--inner">
+                                <a class="page-header__logo page-header__logo--inner" href="/"></a>
+                                <button class="page-header__burger-menu burger-nav"></button>
+                                <nav class="page-header__nav page-header__nav--inner">
+                                    
+<ul class="page-header__nav-list page-header__nav-list--inner">
+                                        <li class="page-header__nav-item">
+                    <a class="page-header__nav-link" href="/about/">О компании</a>
+                </li>
+                                                <li class="page-header__nav-item">
+                    <a class="page-header__nav-link" href="/catalog/">Каталог продуктов</a>
+                </li>
+                                                <li class="page-header__nav-item">
+                    <a class="page-header__nav-link" href="/iis/">ИИС</a>
+                </li>
+                                                <li class="page-header__nav-item">
+                    <a class="page-header__nav-link" href="/investors/">Аналитика</a>
+                </li>
+                                                <li class="page-header__nav-item">
+                    <a class="page-header__nav-link" href="/press-center/">Пресс-центр</a>
+                </li>
+                                                <li class="page-header__nav-item">
+                    <a class="page-header__nav-link" href="/contacts/">Контакты</a>
+                </li>
+                                                <li class="page-header__nav-item">
+                    <a class="page-header__nav-link active" href="/disclosure_old/otchetnost/">Раскрытие информации</a>
+                </li>
+                    
+    
+    <li class="page-header__nav-item">
+        <svg class="page-header__lock-icon" width="16px" height="17px" viewBox="0 0 16 17" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+            <g id="Все-страницы" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+                <rect class="stroke" id="Rectangle" stroke="#9D9FAA" stroke-width="2" x="1" y="7" width="14" height="9" rx="1"></rect>
+                <rect class="fill" id="Rectangle" fill="#9D9FAA" x="7" y="10" width="2" height="3"></rect>
+                <path class="stroke" id="Rectangle" d="M4,7 L12,7 L12,2 C12,1.44771525 11.5522847,1 11,1 L5,1 C4.44771525,1 4,1.44771525 4,2 L4,7 Z" stroke="#9D9FAA" stroke-width="2"></path>
+            </g>
+        </svg><a class="page-header__nav-link page-header__nav-link--with-icon" href="/newlk/" target="_blank">Личный кабинет</a>
+    </li>
+    <!--        <li class="page-header__nav-item">-->
+<!--            <a class="page-header__button button  --><!--" href="--><!--" data-tooltip-content="--><!--">Купить онлайн</a>-->
+<!--        </li>-->
+    </ul>
+                                </nav>
+                            </div>
+                                                    </div>
+                    </div>
+                            </header>
+            <main class="main ">
+<style>
+	.main a {
+		color:#203172;
+	}
+</style>
+
+
+<section>
+    <div class="grey-fon">
+        <div class="second-menu-block">
+                        	                <div class="row">
+                    <div class="col-12">
+                        <div class="second-menu">
+                                                                                            <a id="bx_3218110189_23" class="active" href="/disclosure_old/otchetnost/">Отчетность</a>
+                                                                                            <a id="bx_3218110189_25" href="/disclosure_old/normativnye-i-vnutrennie-dokumenty/">Нормативные и внутренние документы и иная обязательная информация</a>
+                                                                                            <a id="bx_3218110189_19858" href="/disclosure_old/soobshcheniya-kompanii/">Сообщения компании</a>
+                                                    </div>
+                    </div>
+                </div>
+                <div class="clear"></div>
+                <hr class="full-width">
+                        	                <div class="row">
+                    <div class="col-12">
+                        <div class="second-menu">
+                                                                                            <a id="bx_3218110189_19857" href="/disclosure_old/chlenstvo-v-sro/">Лицензии и членство в СРО</a>
+                                                                                            <a id="bx_3218110189_26" href="/disclosure_old/elektronnyy-dokumentooborot/">Электронный Документооборот</a>
+                                                                                            <a id="bx_3218110189_997940" href="/disclosure_old/okhrana-truda/">Охрана труда</a>
+                                                    </div>
+                    </div>
+                </div>
+                <div class="clear"></div>
+                <hr class="full-width">
+                        	            	<br>
+            	                <div class="row">
+                    <div class="col-12">
+                        <div class="second-menu">
+                                                                                            <a id="bx_3218110189_19861" href="/disclosure_old/opif-aktsiy-sistema-investitsii-fond-aktsiy/">ОПИФ рыночных финансовых инструментов «Система Капитал  –  Российские акции »</a>
+                                                                                            <a id="bx_3218110189_19859" href="/disclosure_old/opif-obligatsiy-rezervnyy/">ОПИФ рыночных финансовых инструментов «Система Капитал   -   Резервный»</a>
+                                                                                            <a id="bx_3218110189_19860" href="/disclosure_old/opif-obligatsiy-rezervnyy-valyutnye-investitsii/">ОПИФ рыночных финансовых инструментов «Система Капитал - Резервный. Валютный»</a>
+                                                    </div>
+                    </div>
+                </div>
+                <div class="clear"></div>
+                <hr class="full-width">
+                        	                <div class="row">
+                    <div class="col-12">
+                        <div class="second-menu">
+                                                                                            <a id="bx_3218110189_19862" href="/disclosure_old/opif-obligatsiy-sistema-kapital-mobilnyy/">ОПИФ рыночных финансовых инструментов «Система Капитал - Сберегательный»</a>
+                                                                                            <a id="bx_3218110189_19863" href="/disclosure_old/opif-obligatsiy-sistema-kapital-mobilnyy-valyutnyy/">ОПИФ рыночных финансовых инструментов «Система Капитал - Валютные накопления»</a>
+                                                                                            <a id="bx_3218110189_48275" href="/disclosure_old/opif-rynochnykh-finansovykh-instrumentov-sistema-kapital-mobilnyy-aktsii-valyutnyy/">ОПИФ рыночных финансовых инструментов «Система Капитал - Высокие технологии»</a>
+                                                                                            <a id="bx_3218110189_1096647" href="/disclosure_old/global-profitable-bonds/">ОПИФ рыночных финансовых инструментов «Система Капитал - Неоновый»</a>
+                                                                                            <a id="bx_3218110189_1015004" href="/disclosure_old/opif-rynochnykh-finansovykh-instrumentov-sistema-kapital-biotekhnologii/">ОПИФ рыночных финансовых инструментов «Система Капитал – Биотехнологии»</a>
+                                                                                            <a id="bx_3218110189_1054958" href="/disclosure_old/bpif-rynochnykh-finansovykh-instrumentov-informatika-/">БПИФ рыночных финансовых инструментов «Информатика +»</a>
+                                                                                            <a id="bx_3218110189_1095930" href="/disclosure_old/bpif-rynochnykh-finansovykh-instrumentov-tekhnologii-budushchego/">БПИФ рыночных финансовых инструментов «Технологии будущего»</a>
+                                                                                            <a id="bx_3218110189_1078826" href="/disclosure_old/doveritelnoe-upravlenie/">Доверительное управление</a>
+                                                                                            <a id="" href="/subscribe/">Подписка на рассылку раскрываемой информации</a>
+                                                    </div>
+                    </div>
+                </div>
+                <div class="clear"></div>
+                <hr class="full-width">
+                    </div>
+        <div class="clear"></div>
+
+
+
+
+<div class="pink-fon">
+	<div class="row">
+	    <div class="col-12">
+	        <h3 class="text-center text-uppercase"></h3>
+	        <h1 class="text-center text-uppercase">Отчетность</h1>
+	        <div class="clear"></div>
+	    </div>
+	    <div class="clear"></div>
+	</div>
+</div>
+
+<div class="clear"></div>
+</div>
+</section>
+
+
+<section>
+    <div class="clear"></div>
+    <div class="row">
+        <div class="col-12">
+            <div class="table-3">
+
+    <p style="text-align: center;">
+     <b>Отчётность за 2023 год</b></p>
+    
+    <p style="text-align: center;">Отчетность (на 31.05.2023 г.)</p>
+    <div class="row">
+        <div class="col-12">
+            <div class="table-responsive">
+                <table class="table-content">
+                <tbody>
+                <tr class="head">
+                    <th>
+                         &nbsp;Документ<br>
+                    </th>
+                    <th>
+                         Дата и время публикации<br>
+                    </th>
+                    <th>
+                         Доступ к документу&nbsp;<br>
+                    </th>
+                </tr>	
+    <tr>
+                    <td>
+                        <a href="/upload/iblock/bd2/RSS-na-31.05.2023-dlya-sayta.xlsx">Расчет собственных средств на 31.05.23г.</a><br>
+                    </td>
+                    <td>
+                         31.05.2023,&nbsp;14:30<br>
+                    </td>
+                    <td>
+                         &nbsp;Бессрочно<br>
+                    </td>
+    </tr>
+    
+    </tbody>
+                </table>
+            </div>
+        </div><div class="clear"></div></div>
+    
+    <p style="text-align: center;">Отчетность (на 31.03.2023 г.)</p>
+    <div class="row">
+        <div class="col-12">
+            <div class="table-responsive">
+                <table class="table-content">
+                <tbody>
+                <tr class="head">
+                    <th>
+                         &nbsp;Документ<br>
+                    </th>
+                    <th>
+                         Дата и время публикации<br>
+                    </th>
+                    <th>
+                         Доступ к документу&nbsp;<br>
+                    </th>
+                </tr>	
+    
+    <tr>
+                    <td>
+                        <a href="/upload/iblock/315/BFO_1-kv-2023-_-tolko-4-formy-v-tys.-rub..xlsx">Бухгалтерская (финансовая) отчетность на 31.03.2023г. </a><br>
+                    </td>
+                    <td>
+                         02.05.2023,&nbsp;17:30<br>
+                    </td>
+                    <td>
+                         &nbsp;Бессрочно<br>
+                    </td>
+    </tr>
+    
+    <tr>
+                    <td>
+                                             <a href="/upload/iblock/6e5/Primechaniya-k-BFO-1_4-_1-kvartal-2023.docx">Примечания к бухгалтерской (финансовой) отчетности на 31.03.2023г.    </a><br>
+                    </td>
+                    <td>
+                         02.05.2023,&nbsp;17:30<br>
+                    </td>
+                    <td>
+                         &nbsp;Бессрочно<br>
+                    </td>
+    </tr>
+                    
+                    </tbody>
+                </table>
+              </div>
+            </div>
+        </div>
+    </div>
+</div>
+    </div><div class="clear"></div></section></main></div>
+   
+    <p style="text-align: center;">  
+     <b>Отчётность за 2022 год</b></p>
+    <p style="text-align: center;">Отчетность (на 31.12.2022 г.)</p>
+    <div class="row">
+     <div class="col-12">
+      <div class="table-responsive">
+        <table class="table-content">
+         <tbody>
+            <tr class="head">
+                    <th>
+                         &nbsp;Документ<br>
+                    </th>
+                    <th>
+                         Дата и время публикации<br>
+                    </th>
+                    <th>
+                         Доступ к документу&nbsp;<br>
+                    </th>
+            </tr>	
+            <tr>
+                    <td>
+                                             <a href="/upload/iblock/e25/Zakl-full_2022-MSFO.pdf
+     ">Годовая консолидированная финансовая отчетность за 2022г. и Аудиторское заключение о ней</a><br>
+                    </td>
+                    <td>
+                         28.04.2023,&nbsp;17:10<br>
+                    </td>
+                    <td>
+                         &nbsp;Бессрочно<br>
+                    </td>
+    </tr>
+            <tr>
+            <td>
+                      <a href="/upload/iblock/f41/BFO_2022-_-tolko-4-formy-v-tys.-rub..xlsx
+                              ">Бухгалтерская (финансовая) отчетность за 2022г.</a><br>
+            </td>
+                    <td>
+                         17.04.2023,&nbsp;16:00<br>
+                    </td>
+                    <td>
+                         &nbsp;Бессрочно<br>
+                    </td>
+            </tr>
+            <tr>
+                    <td>
+                      <a href="/upload/iblock/370/Primechaniya-k-otchetnosti-2022-goda.pdf">Примечания к бухгалтерской (финансовой) отчетности за 2022г.</a><br>
+                    </td>
+                    <td>
+                         17.04.2023,&nbsp;16:00<br>
+                    </td>
+                    <td>
+                         &nbsp;Бессрочно<br>
+                    </td>
+            </tr>
+            <tr>
+                    <td>
+                                             <a href="/upload/iblock/543/Auditorskoe-zaklyuchenie-2022_.pdf">Аудиторское заключение по годовой бухгалтерской (финансовой) отчетности за 2022г.</a><br>
+                    </td>
+                    <td>
+                         17.04.2023,&nbsp;16:00<br>
+                    </td>
+                    <td>
+                         &nbsp;Бессрочно<br>
+                    </td>
+            </tr>
+          </tbody>
+         </table>
+        </div>
+       </div>
+      </div>
+     
+    
+    <p style="text-align: center;"></p>    
+    <div class="clear"></div>
+    
+    <p style="text-align: center">
+    <b>
+    <a href="/disclosure_old/otchetnost-arkhiv/" target="_self">Архив</a>
+    </b>
+    </p>
+    <br>
+    <br>
+            
+    
+
+
+
+<!---->
+
+
+
+<footer class="page-footer">
+            <div class="page-footer__logo"></div>
+    <section class="page-footer__contact">
+        <h2 class="visually-hidden">Связаться с нами онлайн или по телефону</h2>
+        <div class="page-footer__contact-wrapper">
+            <div class="page-footer__contact-list">
+    <ul class="page-footer__contact-list-wrap">
+        <li class="page-footer__contact-item page-footer__contact-item--border"><a href="/catalog/">Купить онлайн</a></li>
+        <li class="page-footer__contact-item page-footer__contact-item--border"><img class="page-footer__icon-lock" src="/local/templates/sistema_2019/markup/dist/images/icon-lock.svg" alt=""><a href="/newlk/" target="_blank">Личный кабинет</a></li>
+    </ul>
+    <ul class="page-footer__contact-list-wrap">
+        <li class="page-footer__contact-item page-footer__contact-item--border"><a href="/#feedback">Получить консультацию</a></li>
+        <li class="page-footer__contact-item page-footer__contact-item--border"><a href="/subscribe/">Подписка на рассылку информации</a></li>
+        <li class="page-footer__contact-item page-footer__contact-item--hidden page-footer__contact-item--border page-footer__contact-item--button">
+            <button class="page-footer__button page-footer__button--open-icon">Все разделы</button>
+        </li>
+    </ul>
+</div>
+
+            
+
+    <ul class="page-footer__menu-mobile">
+                    <li class="page-footer__menu-item page-footer__menu-item--border">
+                <a href="/catalog/">Паевые инвестиционные фонды</a>
+            </li>
+                    <li class="page-footer__menu-item page-footer__menu-item--border">
+                <a href="/wealthy/">Доверительное управление</a>
+            </li>
+                    <li class="page-footer__menu-item page-footer__menu-item--border">
+                <a href="/iis/">Индивидуальный инвестиционный счет</a>
+            </li>
+                    <li class="page-footer__menu-item page-footer__menu-item--border">
+                <a href="/wealthy/">Состоятельным клиентам</a>
+            </li>
+                    <li class="page-footer__menu-item page-footer__menu-item--border">
+                <a href="/corporate/">Корпоративным клиентам</a>
+            </li>
+                    <li class="page-footer__menu-item page-footer__menu-item--border">
+                <a href="/tax/">Налоговое консультирование</a>
+            </li>
+                    <li class="page-footer__menu-item page-footer__menu-item--border">
+                <a href="/about/">О компании</a>
+            </li>
+                    <li class="page-footer__menu-item page-footer__menu-item--border">
+                <a href="/investors/analytics/">Аналитика</a>
+            </li>
+                    <li class="page-footer__menu-item page-footer__menu-item--border">
+                <a href="/press-center/">Пресс-центр</a>
+            </li>
+                    <li class="page-footer__menu-item page-footer__menu-item--border">
+                <a target="_blank" href="https://blog.mts.investments/">Блог</a>
+            </li>
+                    <li class="page-footer__menu-item page-footer__menu-item--border">
+                <a href="/disclosure_old/otchetnost/">Раскрытие информации</a>
+            </li>
+                    <li class="page-footer__menu-item page-footer__menu-item--border">
+                <a href="/contacts/">Контакты</a>
+            </li>
+            </ul>
+
+
+            <ul class="page-footer__contact-list page-footer__contact-list--phones">
+    <li class="page-footer__contact-item page-footer__contact-item--tel page-footer__contact-item--icon-phone">
+        <a href="tel:84952281505">8 495 228–15–05</a>
+    </li>
+    <li class="page-footer__contact-item page-footer__contact-item--tel">
+        <a href="tel:88007377700">8 800 737–77–00</a>
+    </li>
+    <li class="page-footer__contact-item page-footer__contact-item--tel page-footer__contact-item--icon-fax">
+        <a href="tel:84952280112">8 495 228–01–12 (доб. 5656)</a>
+        <p>Факс</p>
+    </li>
+</ul>        </div>
+    </section>
+
+    <section class="page-footer__menu">
+        <h2 class="visually-hidden">Навигация по сайту</h2>
+        <div class="page-footer__menu-wrapper">
+            
+
+    
+                    <ul class="page-footer__menu-block">
+        
+        <li class="page-footer__menu-item">
+            <a href="/catalog/">Паевые инвестиционные фонды</a>
+        </li>
+
+                
+    
+        
+        <li class="page-footer__menu-item">
+            <a href="/wealthy/">Доверительное управление</a>
+        </li>
+
+                
+    
+        
+        <li class="page-footer__menu-item">
+            <a href="/iis/">Индивидуальный инвестиционный счет</a>
+        </li>
+
+                
+    
+        
+        <li class="page-footer__menu-item">
+            <a href="/wealthy/">Состоятельным клиентам</a>
+        </li>
+
+                
+    
+        
+        <li class="page-footer__menu-item">
+            <a href="/corporate/">Корпоративным клиентам</a>
+        </li>
+
+                
+    
+        
+        <li class="page-footer__menu-item">
+            <a href="/tax/">Налоговое консультирование</a>
+        </li>
+
+                    </ul><ul class="page-footer__menu-block">
+                
+    
+        
+        <li class="page-footer__menu-item">
+            <a href="/about/">О компании</a>
+        </li>
+
+                
+    
+        
+        <li class="page-footer__menu-item">
+            <a href="/investors/analytics/">Аналитика</a>
+        </li>
+
+                
+    
+        
+        <li class="page-footer__menu-item">
+            <a href="/press-center/">Пресс-центр</a>
+        </li>
+
+                
+    
+        
+        <li class="page-footer__menu-item">
+            <a target="_blank" href="https://blog.mts.investments/">Блог</a>
+        </li>
+
+                
+    
+        
+        <li class="page-footer__menu-item">
+            <a href="/disclosure_old/otchetnost/">Раскрытие информации</a>
+        </li>
+
+                
+    
+        
+        <li class="page-footer__menu-item">
+            <a href="/contacts/">Контакты</a>
+        </li>
+
+                            </ul>
+        
+    
+
+            <div class="app-block app-block--width app-block--width-footer">
+                <div class="app-block__wrapper">
+                    <div class="social-network__wrap">
+    <div class="social-network">
+        <a class="social-network__btn" href="https://altt.me/plusonomica" target="_blank">
+            <svg width="50px" height="50px" viewBox="0 0 50 50" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+                <desc></desc>
+                <g stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+                    <g transform="translate(-198.000000, -29.000000)" fill-rule="nonzero">
+                        <g transform="translate(198.000000, 29.000000)">
+                            <g>
+                                <path class="sc-bg-svg" d="M25,49 C38.254834,49 49,38.254834 49,25 C49,11.745166 38.254834,1 25,1 C11.745166,1 1,11.745166 1,25 C1,38.254834 11.745166,49 25,49 Z" stroke="#FFFFFF" stroke-width="2"></path>
+                                <path class="sc-icon" d="M21.6189079,27.8790597 L21.2746916,32.9096603 C21.7804668,32.9096603 22.0039352,32.6840222 22.2862421,32.4162825 L24.7162484,30.1113236 L29.7717163,33.7548165 C30.7020899,34.2555786 31.3735741,33.9963085 31.6053203,32.9122095 L34.9240491,17.6564743 C35.263829,16.3276105 34.4047696,15.7249002 33.5147232,16.1190762 L14.0272015,23.4491903 C12.6969956,23.9696545 12.7047509,24.6935878 13.7847328,25.0161582 L18.7856702,26.5387714 L30.3633722,19.4135736 C30.9099299,19.0902631 31.4115578,19.2640818 30.9998399,19.6205291 L21.6186187,27.8788513 L21.6189079,27.8790597 Z" fill="#FFFFFF"></path>
+                            </g>
+                        </g>
+                    </g>
+                </g>
+            </svg>
+        </a>
+        <a class="social-network__btn" href="https://vk.com/mts.investments" target="_blank">
+            <svg width="50px" height="50px" viewBox="0 0 50 50" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+                <desc> </desc>
+                <g stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+                    <g transform="translate(-278.000000, -29.000000)" fill-rule="nonzero">
+                        <g transform="translate(198.000000, 29.000000)">
+                            <g transform="translate(80.000000, 0.000000)">
+                                <path class="sc-bg-svg" d="M1,25 C1,38.2548347 11.7451653,49 25,49 C38.2548347,49 49,38.2548347 49,25 C49,11.7451653 38.2548347,1 25,1 C11.7451653,1 1,11.7451653 1,25 Z" stroke="#FFFFFF" stroke-width="2"></path>
+                                <path class="sc-icon" d="M26.3077733,33.2042501 C26.3077733,33.2042501 26.7890481,33.1517593 27.0355548,32.8918655 C27.261193,32.6537363 27.2533674,32.2043634 27.2533674,32.2043634 C27.2533674,32.2043634 27.2233693,30.1060096 28.2159169,29.7961856 C29.1941177,29.4914826 30.4501274,31.8254051 31.783089,32.7228706 C32.7899837,33.4014108 33.5542845,33.2529002 33.5542845,33.2529002 L37.1162395,33.2042501 C37.1162395,33.2042501 38.9787338,33.0915868 38.0957445,31.6538496 C38.0227055,31.5360653 37.5805588,30.5899497 35.4480812,28.6465079 C33.2138707,26.6121673 33.5138522,26.9411954 36.2032521,23.4217478 C37.8414123,21.2785848 38.4961547,19.9701543 38.2913847,19.4106787 C38.0970488,18.875528 36.8919054,19.0176374 36.8919054,19.0176374 L32.8825867,19.0419624 C32.8825867,19.0419624 32.5852136,19.0022742 32.3647924,19.1315809 C32.1495883,19.2583272 32.0100316,19.5540683 32.0100316,19.5540683 C32.0100316,19.5540683 31.3761575,21.212011 30.5296878,22.6228627 C28.7441453,25.5981978 28.0307109,25.7556703 27.738555,25.5713122 C27.0590315,25.139863 27.2285863,23.8403944 27.2285863,22.9173236 C27.2285863,20.0328873 27.6746458,18.8307187 26.3612483,18.5196144 C25.9256229,18.415913 25.6047731,18.348059 24.4896243,18.3365366 C23.0588426,18.3224537 21.8484822,18.3416577 21.1624374,18.6706857 C20.7059438,18.8896109 20.3537915,19.378672 20.5689957,19.4068378 C20.833762,19.441405 21.4337251,19.5655907 21.7519664,19.9906385 C22.1628108,20.5398721 22.1484638,21.7714867 22.1484638,21.7714867 C22.1484638,21.7714867 22.3845363,25.1667486 21.5967586,25.5879557 C21.0567918,25.8772954 20.3159677,25.2870934 18.7234569,22.5870153 C17.9082896,21.2043294 17.2926753,19.6756934 17.2926753,19.6756934 C17.2926753,19.6756934 17.1739869,19.3901944 16.9613913,19.2365627 C16.7044505,19.0509243 16.3457769,18.9933123 16.3457769,18.9933123 L12.5360111,19.0176374 C12.5360111,19.0176374 11.9634376,19.0330006 11.7534505,19.2775312 C11.5669402,19.4938958 11.7391035,19.9432687 11.7391035,19.9432687 C11.7391035,19.9432687 14.7219637,26.7939649 18.1000169,30.2468387 C21.1976527,33.411653 24.7139583,33.2042501 24.7139583,33.2042501 L26.3077733,33.2042501 Z" fill="#FFFFFF"> </path>
+                            </g>
+                        </g>
+                    </g>
+                </g>
+            </svg>
+        </a>
+            </div>
+</div>
+<h3 class="visually-hidden">Скачайте мобильное приложение</h3>
+<div class="app-block__title">Вы мобильны — мы технологичны</div>
+<div class="app-block__text">Все в одном приложении. Инвестируйте и следите за динамикой своего портфеля через мобильное приложение</div>
+<div class="app-block__buttons">
+    <a class="app-block__button app-block__button app-block__button--ios" href="https://itunes.apple.com/ru/app/%D1%81%D0%B8%D1%81%D1%82%D0%B5%D0%BC%D0%B0-%D0%BA%D0%B0%D0%BF%D0%B8%D1%82%D0%B0%D0%BB/id1294636411?mt=8" target="_blank">Скачать на IOS</a>
+    <a class="app-block__button app-block__button app-block__button--android" href="https://play.google.com/store/apps/details?id=mtsit.com.finservice" target="_blank">Скачать на Android</a>
+</div>                </div>
+            </div>
+        </div>
+    </section>
+    <section class="page-footer__info">
+    <h2 class="visually-hidden">Информация об организации</h2>
+    <div class="page-footer__info-block">
+        <p class="page-footer__info-text"><a href="/disclosure_old/uchastniki/">Информация о лицах, под контролем либо значительным влиянием  которых находится управляющая компания.</a></p>
+        <p class="page-footer__info-text">Общество с ограниченной ответственностью УК «Система Капитал» © 2000 — 2023</p>
+        <p class="page-footer__info-text">Общество с ограниченной ответственностью УК «Система Капитал» зарегистрировано Государственной регистрационной палатой при Министерстве юстиции Российской Федерации 31 октября 2000 года.</p>
+    </div>
+    <div class="page-footer__info-block">
+        <p class="page-footer__info-text">Лицензия профессионального участника рынка ценных бумаг на осуществление деятельности по управлению ценными бумагами № 045-13853-001000 выдана Центральным Банком Российской Федерации (Банк России) 13.03.2014 г. Результаты деятельности управляющего по управлению ценными бумагами в прошлом не определяют доходы учредителя управления в будущем. Управляющий не обещает и не гарантирует получение какого — либо дохода, а так же полного возврата ценных бумаг и/или денежных средств, переданных в доверительное управление. Лицензия на осуществление деятельности по управлению инвестиционными фондами, паевыми инвестиционными фондами и негосударственными пенсионными фондами № 21-000-1-00041, выдана ФКЦБ России 17.01.2001 г. Стоимость инвестиционных паев может увеличиваться и уменьшаться, результаты инвестирования в прошлом не определяют доходы в будущем, государство не гарантирует доходность инвестиций в инвестиционные фонды, прежде чем приобрести инвестиционный пай, следует внимательно ознакомиться с правилами доверительного управления паевым инвестиционным фондом. Правилами доверительного управления паевыми инвестиционными фондами могут быть предусмотрены надбавки к расчетной стоимости инвестиционных паев при их выдаче и (или) скидки с расчетной стоимости инвестиционных паев при их погашении. Взимание надбавок и скидок уменьшает доходность инвестиций в инвестиционные паи паевого инвестиционного фонда. Получить подробную информацию о паевых инвестиционных фондах, ознакомиться с правилами доверительного управления паевыми инвестиционными фондами, а также с иными документами, предусмотренными Федеральным законом от 29.11.2001 № 156-ФЗ "Об инвестиционных фондах" и нормативными правовыми актами в сфере финансовых рынков, можно по адресу: Российская Федерация, 115432, г. Москва, вн. тер. г. муниципальный округ Даниловский, пр-кт Андропова, д. 18 к. 1, телефону: +7 (495) 228-15-05, факсу: +7 (495) 228-01-12 (доб. 5656) с понедельника по четверг — c 9:30 до 18:30, в пятницу — с 9:30 до 17:30, на сайте Управляющей компании http://sistema-capital.com, в пунктах приема заявок на приобретение, погашение и обмен инвестиционных паев агента по выдаче, погашению и обмену инвестиционных паев фондов (со списком пунктов приема заявок можно ознакомиться на сайте Управляющей компании http://sistema-capital.com). Информация, связанная с деятельностью Управляющей компании, раскрывается на сайте в сети Интернет по адресу http://sistema-capital.com.</p>
+        <br>
+        <p class="page-footer__info-text">Мобильное приложение ООО УК «Система Капитал» («МТС Инвестиции») - возрастная категория 0+. МТС Инвестиции — объект авторского права ПАО «МТС», используемый ООО УК «Система Капитал» на основе лицензионного договора.</p>
+        <br>
+        <p class="page-footer__info-text">Представленные материалы и информация не являются индивидуальной инвестиционной рекомендацией, и финансовые инструменты либо операции, упомянутые в них, могут не соответствовать Вашему инвестиционному профилю. Определение соответствия финансового инструмента либо операции инвестиционным целям, инвестиционному горизонту и толерантности к риску является задачей инвестора. ООО УК «Система Капитал» не несет ответственности за возможные убытки инвестора в случае совершения операций, либо инвестирования в финансовые инструменты, упомянутые в представленных материалах и информации.</p>
+    </div>
+    <ul class="page-footer__info-text page-footer__items">
+    
+        
+            <li>
+                Открытый паевой инвестиционный фонд рыночных финансовых инструментов "Система Капитал - Валютные накопления" (в настоящем материале – «Валютные накопления»).
+                Регистрационный номер — 3193, дата регистрации — 11 Августа 2016 года, регистрирующий орган — Банк России.
+                                    Доходность на 25.02.2022г. в рублях
+                    за 3 мес. -5,46%, за 6 мес. -5,63%, за 12 мес. -5,21%, за 36 мес. 26,92%.
+                            </li>
+
+        
+    
+        
+            <li>
+                Открытый паевой инвестиционный фонд рыночных финансовых инструментов "Система Капитал - Сберегательный" (в настоящем материале – «Сберегательный»).
+                Регистрационный номер — 3194, дата регистрации — 11 Августа 2016 года, регистрирующий орган — Банк России.
+                                    Доходность на 01.06.2023г. в рублях
+                    за 3 мес. 2,48%, за 6 мес. 4,91%, за 12 мес. 13,50%, за 36 мес. 18,38%.
+                            </li>
+
+        
+    
+        
+            <li>
+                Открытый паевой инвестиционный фонд рыночных финансовых инструментов "Система Капитал – Российские акции" (в настоящем материале – «Российские акции»).
+                Регистрационный номер — 2744, дата регистрации — 21 Февраля 2014 года, регистрирующий орган — Служба Банка России по финансовым рынкам.
+                                    Доходность на 01.06.2023г. в рублях
+                    за 3 мес. 18,94%, за 6 мес. 25,51%, за 12 мес. 25,82%, за 36 мес. -18,97%.
+                            </li>
+
+        
+    
+        
+            <li>
+                Открытый паевой инвестиционный фонд рыночных финансовых инструментов "Система Капитал - Резервный. Валютный" (в настоящем материале – «Резервный. Валютный»).
+                Регистрационный номер — 2671, дата регистрации — 04 Октября 2013 года, регистрирующий орган — Служба Банка России по финансовым рынкам.
+                                    Доходность на 01.06.2023г. в рублях
+                    за 3 мес. 3,22%, за 6 мес. 18,26%, за 12 мес. 29,22%, за 36 мес. 2,41%.
+                            </li>
+
+        
+    
+        
+            <li>
+                Открытый паевой инвестиционный фонд рыночных финансовых инструментов "Система Капитал - Резервный" (в настоящем материале – «Резервный»).
+                Регистрационный номер — 2204-94177868, дата регистрации — 13 Сентября 2011 года, регистрирующий орган — Федеральная служба по финансовым рынкам.
+                                    Доходность на 01.06.2023г. в рублях
+                    за 3 мес. 3,23%, за 6 мес. 5,98%, за 12 мес. 15,59%, за 36 мес. 15,65%.
+                            </li>
+
+        
+    
+        
+            <li>
+                Открытый паевой инвестиционный фонд рыночных финансовых инструментов "Система Капитал – Высокие технологии" (в настоящем материале – «Высокие технологии»).
+                Регистрационный номер — 3417, дата регистрации — 09 Ноября 2017 года, регистрирующий орган — Банк России.
+                                    Доходность на 25.02.2022г. в рублях
+                    за 3 мес. -5,27%, за 6 мес. -4,45%, за 12 мес. 0,77%, за 36 мес. 100,97%.
+                            </li>
+
+        
+    
+        
+            <li>
+                Открытый паевой инвестиционный фонд рыночных финансовых инструментов "Система Капитал - Биотехнологии" (в настоящем материале – «Биотехнологии»).
+                Регистрационный номер — 3723, дата регистрации — 14 Мая 2019 года, регистрирующий орган — Банк России.
+                                    Доходность на 25.02.2022г. в рублях
+                    за 3 мес. 1,27%, за 6 мес. -8,40%, за 12 мес. -28,20%.
+                            </li>
+
+        
+    
+        
+            <li>
+                Биржевой паевой инвестиционный фонд рыночных финансовых инструментов "Информатика +" (в настоящем материале – «Информатика +»).
+                Регистрационный номер — 4010, дата регистрации — 09 Апреля 2020 года, регистрирующий орган — Банк России.
+                                    Доходность на 25.02.2022г. в рублях
+                    за 3 мес. -11,07%, за 6 мес. -9,69%, за 12 мес. 5,16%.
+                            </li>
+
+        
+    
+        
+            <li>
+                Открытый паевой инвестиционный фонд рыночных финансовых инструментов "Система Капитал - Неоновый" (в настоящем материале – «Неоновый»).
+                Регистрационный номер — 4692, дата регистрации — 11 Ноября 2021 года, регистрирующий орган — Банк России.
+                                    Доходность на 01.06.2023г. в рублях
+                    за 3 мес. 2,42%, за 6 мес. 0,04%, за 12 мес. 0,04%.
+                            </li>
+
+        
+    
+        
+            <li>
+                Биржевой паевой инвестиционный фонд рыночных финансовых инструментов "Технологии будущего" (в настоящем материале – «Технологии будущего»).
+                Регистрационный номер — 4654, дата регистрации — 14 Октября 2021 года, регистрирующий орган — Банк России.
+                                    Доходность на 01.06.2023г. в рублях
+                    за 3 мес. 12,92%, за 6 мес. -56,15%, за 12 мес. -56,15%.
+                            </li>
+
+        
+    
+    <li> Закрытый паевой инвестиционный фонд комбинированный «Инвестиции 1». Номер в реестре паевых инвестиционных фондов — 4042-СД, дата внесения  в реестр паевых инвестиционных фондов — 19 мая 2020 года.</li>
+    <li> Закрытый паевой инвестиционный фонд комбинированный «Инвестиции 2». Номер в реестре паевых инвестиционных фондов — 4043-СД, дата внесения  в реестр паевых инвестиционных фондов — 18 мая 2020 года.</li>
+</ul>
+
+
+        <div class="page-footer__info-block">
+            <div class="page-footer__info-text">
+                ООО УК «Система Капитал» совмещает деятельность профессионального участника рынка ценных бумаг по управлению ценными бумагами и деятельность по управлению инвестиционными фондами, паевыми инвестиционными фондами и негосударственными пенсионными фондами. Риск возникновения конфликта интересов при осуществлении указанных видов деятельности оценивается Обществом как низкий.
+            </div>
+        </div>
+
+        <div class="page-footer__info-block">
+        <div class="page-footer__info-text">
+            <a target="_blank" href="/upload/Возврат_ДС_по_ПИФ_2020.pdf">
+               Информация о возврате средств, переданных в оплату инвестиционных паев ПИФ
+            </a>
+        </div>
+        <div class="page-footer__info-text">
+            <a target="_blank" href="/upload/Текст_политики_безопасности_платежей_Best2Pay.pdf">
+                Политика безопасности платежей Best2Pay
+            </a>
+        </div>
+        <div class="page-footer__info-text">
+            <a download="" href="/upload/Описание_Процесса_Оплаты_Best2Pay.docx">
+                Описание процесса оплаты банковской картой через Best2Pay
+            </a>
+        </div>
+    </div>
+</section>    <div class="row">
+        <div class="col-12">
+            <div class="page-footer__powered-by">
+                <p class="page-footer__powered-by-link">Разработка — <a href="https://future-group.ru" target="_blank">интернет-агентство Future</a></p>
+            </div>
+        </div>
+    </div>
+
+</footer>
+
+<aside class="side-menu js-side">side-menu</aside>
+<div class="popup-bg js-popup-bg">
+    <div class="popup" id="popup">
+        <div class="popup__close js-popup-close"></div>
+        <div class="popup__loaded js-popup-loaded"></div>
+    </div>
+</div>
+<!---->
+
+
+<iframe src="//tech.rtb.mts.ru/invest" width="0px" height="0px" style="position: absolute; visibility: hidden;"></iframe>
+<script>if(!window.BX)window.BX={};if(!window.BX.message)window.BX.message=function(mess){if(typeof mess==='object'){for(let i in mess) {BX.message[i]=mess[i];} return true;}};</script>
+<script type="text/javascript" id="">(function(a,e,f,g,b,c,d){a[b]=a[b]||function(){(a[b].a=a[b].a||[]).push(arguments)};a[b].l=1*new Date;c=e.createElement(f);d=e.getElementsByTagName(f)[0];c.async=1;c.src=g;d.parentNode.insertBefore(c,d)})(window,document,"script","https://mc.yandex.ru/metrika/tag.js","ym");ym(48998261,"init",{clickmap:!0,trackLinks:!0,accurateTrackBounce:!0,webvisor:!0});</script>
+<noscript><div><img src="https://mc.yandex.ru/watch/48998261" style="position:absolute; left:-9999px;" alt=""></div></noscript>
+<script type="text/javascript" id="">for(var elements=document.querySelectorAll("a.button.mobile-app-preview__btn"),i=0;i<elements.length;i++)elements[i].addEventListener("click",function(){dataLayer.push({event:"linked_store"})});</script>
+<script>(window.BX||top.BX).message({'JS_CORE_LOADING':'Загрузка...','JS_CORE_NO_DATA':'- Нет данных -','JS_CORE_WINDOW_CLOSE':'Закрыть','JS_CORE_WINDOW_EXPAND':'Развернуть','JS_CORE_WINDOW_NARROW':'Свернуть в окно','JS_CORE_WINDOW_SAVE':'Сохранить','JS_CORE_WINDOW_CANCEL':'Отменить','JS_CORE_WINDOW_CONTINUE':'Продолжить','JS_CORE_H':'ч','JS_CORE_M':'м','JS_CORE_S':'с','JSADM_AI_HIDE_EXTRA':'Скрыть лишние','JSADM_AI_ALL_NOTIF':'Показать все','JSADM_AUTH_REQ':'Требуется авторизация!','JS_CORE_WINDOW_AUTH':'Войти','JS_CORE_IMAGE_FULL':'Полный размер'});</script><script src="/bitrix/js/main/core/core.min.js?1677512151252095"></script><script>BX.setJSList(['/bitrix/js/main/core/core_ajax.js','/bitrix/js/main/core/core_promise.js','/bitrix/js/main/polyfill/promise/js/promise.js','/bitrix/js/main/loadext/loadext.js','/bitrix/js/main/loadext/extension.js','/bitrix/js/main/polyfill/promise/js/promise.js','/bitrix/js/main/polyfill/find/js/find.js','/bitrix/js/main/polyfill/includes/js/includes.js','/bitrix/js/main/polyfill/matches/js/matches.js','/bitrix/js/ui/polyfill/closest/js/closest.js','/bitrix/js/main/polyfill/fill/main.polyfill.fill.js','/bitrix/js/main/polyfill/find/js/find.js','/bitrix/js/main/polyfill/matches/js/matches.js','/bitrix/js/main/polyfill/core/dist/polyfill.bundle.js','/bitrix/js/main/core/core.js','/bitrix/js/main/polyfill/intersectionobserver/js/intersectionobserver.js','/bitrix/js/main/lazyload/dist/lazyload.bundle.js','/bitrix/js/main/polyfill/core/dist/polyfill.bundle.js','/bitrix/js/main/parambag/dist/parambag.bundle.js']);
+BX.setCSSList(['/bitrix/js/main/core/css/core.css','/bitrix/js/main/lazyload/dist/lazyload.bundle.css','/bitrix/js/main/parambag/dist/parambag.bundle.css']);</script>
+<script>(window.BX||top.BX).message({'LANGUAGE_ID':'ru','FORMAT_DATE':'DD.MM.YYYY','FORMAT_DATETIME':'DD.MM.YYYY HH:MI:SS','COOKIE_PREFIX':'BITRIX_SM','SERVER_TZ_OFFSET':'10800','SITE_ID':'s1','SITE_DIR':'/','USER_ID':'','SERVER_TIME':'1687320422','USER_TZ_OFFSET':'0','USER_TZ_AUTO':'Y','bitrix_sessid':'da744e0a8251576b2cacd1d146119535'});</script><script src="/bitrix/cache/js/s1/sistema_2019/kernel_main/kernel_main_v1.js?1686654289151609"></script>
+<script src="/bitrix/js/main/jquery/jquery-1.8.3.min.js?156051482093637"></script>
+<script>BX.setJSList(['/bitrix/js/main/core/core_fx.js','/bitrix/js/main/session.js','/bitrix/js/main/pageobject/pageobject.js','/bitrix/js/main/core/core_window.js','/bitrix/js/main/date/main.date.js','/bitrix/js/main/core/core_date.js','/bitrix/js/main/utils.js']);</script>
+
+
+<script>var _ba = _ba || []; _ba.push(["aid", "67413855deb99fe45dc138dea2856ed0"]); _ba.push(["host", "sistema-capital.com"]); (function() {var ba = document.createElement("script"); ba.type = "text/javascript"; ba.async = true;ba.src = (document.location.protocol == "https:" ? "https://" : "http://") + "bitrix.info/ba.js";var s = document.getElementsByTagName("script")[0];s.parentNode.insertBefore(ba, s);})();</script>
+
+
+<script>-->
+<!--    $(document).ready(function() {-->
+<!--        let result = [];-->
+<!--        const items = $('.table-content').find('a');-->
+<!--        items.each(function() {-->
+<!--            const name = $(this).text();-->
+<!--            const href = $(this).attr('href');-->
+<!--            const time = $(this).parent().next().text();-->
+<!--            const indef = $(this).parent().next().next().text();-->
+<!--            let item = {-->
+<!--                name : name,-->
+<!--                href: href,-->
+<!--                date: time,-->
+<!--                indef: indef-->
+<!--            };-->
+<!--            result.push(item);-->
+<!---->
+<!--        });-->
+<!--        console.log(JSON.stringify(result));-->
+<!--    })-->
+<!--</script><script src="/local/templates/sistema_2019/markup/dist/js/all.js?1685612605941630" async="async"></script>
+<script src="/my.js" async="async"></script><script src="/1/analitic.js?15513476851224" defer=""></script>
+<script>
+    (function(w,d,u){
+        var s=d.createElement('script');s.async=true;s.src=u+'?'+(Date.now()/60000|0);
+        var h=d.getElementsByTagName('script')[0];h.parentNode.insertBefore(s,h);
+    })(window,document,'https://crm.sistema-capital.com/upload/crm/site_button/loader_2_oa2ezd.js');
+</script>
+

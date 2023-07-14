@@ -1,0 +1,45 @@
+
+
+<!-- Marketing messaging and featurettes
+	================================================== -->
+	<!-- Wrap the rest of the page in another container to center all the content. -->
+	<br><br>
+	<div class="container marketing" style="border: 6px double black; padding: 0 14px; background:#fff; -moz-border-radius: 20px; -webkit-border-radius: 20px; -o-border-radius: 20px; border-radius: 20px;">
+		<div class="row featurette" style="background: url(images/fon1.png) no-repeat; background-size: cover;">
+			<div class="col-md-4"><br><br>
+				<a href="."><img src="images/logo.png"></a>
+			</div>
+			<div class="col-md-8">
+				<h2 class="featurette-heading">ООО «УК «Сургутгазстрой»</h2>
+				<p class="lead2" style="padding-top: 130px">Создано 15 апреля 2010 года, ОГРН 1108602002882</p>
+			</div>
+		</div>
+
+		<div class="row featurette">
+			<div class="col-md-9">
+				<h3 style="margin-top: 10px;">Отчетность управляющей компании</h3><br><p>[15.06.2023 15:32]</p><p><a href="?docs=1&amp;detail=244">Расчет размера собственных средств ООО "УК "Сургутгазстрой" на 31.05.2023 г.; время опубликования 15:32; срок размещения на сайте до 30.06.2026</a></p><p>[22.05.2023 14:16]</p><p><a href="?docs=1&amp;detail=243">Расчет размера собственных средств ООО "УК "Сургутгазстрой" на 30.04.2023 года; время опубликования 14:16; срок размещения на сайте до 30.06.2026</a></p><p>[04.05.2023 14:44]</p><p><a href="?docs=1&amp;detail=242">Промежуточная бухгалтерская (финансовая) отчетность по состоянию на 31.03.2023 год ООО "УК "Сургутгазстрой" ; время опубликования 14:44; срок размещения на сайте до 31.08.2026</a></p><p>[02.05.2023 13:00]</p><p><a href="?docs=1&amp;detail=239">Годовая консолидированная финансовая отчетность ООО "УК "Сургутгазстрой" по состоянию на 31 декабря 2022 года; время опубликования 13:00; срок размещения на сайте до 01.06.2026</a></p><p>[14.04.2023 15:58]</p><p><a href="?docs=1&amp;detail=238">Расчет размера собственных средств ООО "УК "Сургутгазстрой" на 31.03.2023г.; время опубликования 15:58; срок размещения на сайте до 31.05.2026</a></p><p>[03.04.2023 18:51]</p><p><a href="?docs=1&amp;detail=237">Годовая бухгалтерская (финансовая) отчетность за 2022 год ООО "УК "Сургутгазстрой" ; время опубликования 18:51; срок размещения на сайте до 30.06.2026</a></p><p>[15.03.2023 15:03]</p><p><a href="?docs=1&amp;detail=235">Расчет размера собственных средств ООО "УК "Сургутгазстрой" на 28.02.2023г.; время опубликования 15:03; срок размещения на сайте до 30.04.2026</a></p><p>[14.02.2023 14:41]</p><p><a href="?docs=1&amp;detail=234">Расчет размера собственных средств ООО "УК "Сургутгазстрой" на 31.01.2023г....; время опубликования 14:41; срок размещения на сайте до 31.03.2026</a></p><p>[20.01.2023 12:15]</p><p><a href="?docs=1&amp;detail=233">Расчет размера собственных средств ООО "УК "Сургутгазстрой" на 31.12.2022 г.; время опубликования 12:15; срок размещения на сайте до 28.02.2026</a></p><p>[14.12.2022 12:45]</p><p><a href="?docs=1&amp;detail=232">Расчет размера собственных средств ООО "УК "Сургутгазстрой" на 30.11.2022 г.; время опубликования 12:45; срок размещения на сайте до 31.01.2026</a></p><center><div class="pagination pagination-centered"><li class="active"><a href="#">1</a></li> <li><a href="/?docs=1&amp;page=2">2</a></li> <li><a href="/?docs=1&amp;page=3">3</a></li> <li><a href="/?docs=1&amp;page=4">4</a></li> <li><a href="/?docs=1&amp;page=5">5</a></li> <li><a href="/?docs=1&amp;page=6">6</a></li> <li><a href="/?docs=1&amp;page=7">7</a></li> </div>
+
+<br>
+Всего <span \class="badge badge-info">7</span> страниц, и <span class="badge badge-info">65</span> записей.
+</center>
+
+
+			</div>
+			<div class="col-md-3">
+				<h4>Информация:</h4><br>
+				<p><a href="?docs=1">Отчетность управляющей компании</a></p><p><a href="?docs=2">Сообщения</a></p>				</div>
+			</div>
+			<footer>
+				<p class="pull-right"><a href="#">Наверх</a></p>
+				<p>© 2010 ООО "УК "Сургутгазстрой" · <a href="?p=contact">Контакты</a></p>
+			</footer>
+
+		</div><!-- /.container -->
+
+<!-- Bootstrap core JavaScript
+	================================================== -->
+	<!-- Placed at the end of the document so the pages load faster -->
+	<script src="https://ajax.googleapis.com/ajax/libs/jquery/1.11.0/jquery.min.js"></script>
+	<!--script src="js/bootstrap.min.js"></script-->
+	<!--script src="js/docs.min.js"></script-->
+

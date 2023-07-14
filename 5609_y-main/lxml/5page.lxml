@@ -1,0 +1,440 @@
+
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 0 0" width="0" height="0" focusable="false" role="none" style="visibility: hidden; position: absolute; left: -9999px; overflow: hidden;"><defs><filter id="wp-duotone-dark-grayscale"><feColorMatrix color-interpolation-filters="sRGB" type="matrix" values=" .299 .587 .114 0 0 .299 .587 .114 0 0 .299 .587 .114 0 0 .299 .587 .114 0 0 "></feColorMatrix><feComponentTransfer color-interpolation-filters="sRGB"><feFuncR type="table" tableValues="0 0.49803921568627"></feFuncR><feFuncG type="table" tableValues="0 0.49803921568627"></feFuncG><feFuncB type="table" tableValues="0 0.49803921568627"></feFuncB><feFuncA type="table" tableValues="1 1"></feFuncA></feComponentTransfer><feComposite in2="SourceGraphic" operator="in"></feComposite></filter></defs></svg><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 0 0" width="0" height="0" focusable="false" role="none" style="visibility: hidden; position: absolute; left: -9999px; overflow: hidden;"><defs><filter id="wp-duotone-grayscale"><feColorMatrix color-interpolation-filters="sRGB" type="matrix" values=" .299 .587 .114 0 0 .299 .587 .114 0 0 .299 .587 .114 0 0 .299 .587 .114 0 0 "></feColorMatrix><feComponentTransfer color-interpolation-filters="sRGB"><feFuncR type="table" tableValues="0 1"></feFuncR><feFuncG type="table" tableValues="0 1"></feFuncG><feFuncB type="table" tableValues="0 1"></feFuncB><feFuncA type="table" tableValues="1 1"></feFuncA></feComponentTransfer><feComposite in2="SourceGraphic" operator="in"></feComposite></filter></defs></svg><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 0 0" width="0" height="0" focusable="false" role="none" style="visibility: hidden; position: absolute; left: -9999px; overflow: hidden;"><defs><filter id="wp-duotone-purple-yellow"><feColorMatrix color-interpolation-filters="sRGB" type="matrix" values=" .299 .587 .114 0 0 .299 .587 .114 0 0 .299 .587 .114 0 0 .299 .587 .114 0 0 "></feColorMatrix><feComponentTransfer color-interpolation-filters="sRGB"><feFuncR type="table" tableValues="0.54901960784314 0.98823529411765"></feFuncR><feFuncG type="table" tableValues="0 1"></feFuncG><feFuncB type="table" tableValues="0.71764705882353 0.25490196078431"></feFuncB><feFuncA type="table" tableValues="1 1"></feFuncA></feComponentTransfer><feComposite in2="SourceGraphic" operator="in"></feComposite></filter></defs></svg><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 0 0" width="0" height="0" focusable="false" role="none" style="visibility: hidden; position: absolute; left: -9999px; overflow: hidden;"><defs><filter id="wp-duotone-blue-red"><feColorMatrix color-interpolation-filters="sRGB" type="matrix" values=" .299 .587 .114 0 0 .299 .587 .114 0 0 .299 .587 .114 0 0 .299 .587 .114 0 0 "></feColorMatrix><feComponentTransfer color-interpolation-filters="sRGB"><feFuncR type="table" tableValues="0 1"></feFuncR><feFuncG type="table" tableValues="0 0.27843137254902"></feFuncG><feFuncB type="table" tableValues="0.5921568627451 0.27843137254902"></feFuncB><feFuncA type="table" tableValues="1 1"></feFuncA></feComponentTransfer><feComposite in2="SourceGraphic" operator="in"></feComposite></filter></defs></svg><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 0 0" width="0" height="0" focusable="false" role="none" style="visibility: hidden; position: absolute; left: -9999px; overflow: hidden;"><defs><filter id="wp-duotone-midnight"><feColorMatrix color-interpolation-filters="sRGB" type="matrix" values=" .299 .587 .114 0 0 .299 .587 .114 0 0 .299 .587 .114 0 0 .299 .587 .114 0 0 "></feColorMatrix><feComponentTransfer color-interpolation-filters="sRGB"><feFuncR type="table" tableValues="0 0"></feFuncR><feFuncG type="table" tableValues="0 0.64705882352941"></feFuncG><feFuncB type="table" tableValues="0 1"></feFuncB><feFuncA type="table" tableValues="1 1"></feFuncA></feComponentTransfer><feComposite in2="SourceGraphic" operator="in"></feComposite></filter></defs></svg><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 0 0" width="0" height="0" focusable="false" role="none" style="visibility: hidden; position: absolute; left: -9999px; overflow: hidden;"><defs><filter id="wp-duotone-magenta-yellow"><feColorMatrix color-interpolation-filters="sRGB" type="matrix" values=" .299 .587 .114 0 0 .299 .587 .114 0 0 .299 .587 .114 0 0 .299 .587 .114 0 0 "></feColorMatrix><feComponentTransfer color-interpolation-filters="sRGB"><feFuncR type="table" tableValues="0.78039215686275 1"></feFuncR><feFuncG type="table" tableValues="0 0.94901960784314"></feFuncG><feFuncB type="table" tableValues="0.35294117647059 0.47058823529412"></feFuncB><feFuncA type="table" tableValues="1 1"></feFuncA></feComponentTransfer><feComposite in2="SourceGraphic" operator="in"></feComposite></filter></defs></svg><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 0 0" width="0" height="0" focusable="false" role="none" style="visibility: hidden; position: absolute; left: -9999px; overflow: hidden;"><defs><filter id="wp-duotone-purple-green"><feColorMatrix color-interpolation-filters="sRGB" type="matrix" values=" .299 .587 .114 0 0 .299 .587 .114 0 0 .299 .587 .114 0 0 .299 .587 .114 0 0 "></feColorMatrix><feComponentTransfer color-interpolation-filters="sRGB"><feFuncR type="table" tableValues="0.65098039215686 0.40392156862745"></feFuncR><feFuncG type="table" tableValues="0 1"></feFuncG><feFuncB type="table" tableValues="0.44705882352941 0.4"></feFuncB><feFuncA type="table" tableValues="1 1"></feFuncA></feComponentTransfer><feComposite in2="SourceGraphic" operator="in"></feComposite></filter></defs></svg><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 0 0" width="0" height="0" focusable="false" role="none" style="visibility: hidden; position: absolute; left: -9999px; overflow: hidden;"><defs><filter id="wp-duotone-blue-orange"><feColorMatrix color-interpolation-filters="sRGB" type="matrix" values=" .299 .587 .114 0 0 .299 .587 .114 0 0 .299 .587 .114 0 0 .299 .587 .114 0 0 "></feColorMatrix><feComponentTransfer color-interpolation-filters="sRGB"><feFuncR type="table" tableValues="0.098039215686275 1"></feFuncR><feFuncG type="table" tableValues="0 0.66274509803922"></feFuncG><feFuncB type="table" tableValues="0.84705882352941 0.41960784313725"></feFuncB><feFuncA type="table" tableValues="1 1"></feFuncA></feComponentTransfer><feComposite in2="SourceGraphic" operator="in"></feComposite></filter></defs></svg><div id="page" class="site-wrapper site">
+
+	
+	<header id="masthead" class="site-header" role="banner">
+		<div class="container">
+			<div class="row">
+				<div class="col">
+
+					<div class="site-header-inside-wrapper">
+						
+<div class="site-branding-wrapper">
+			<div class="site-logo-wrapper site-logo"><a href="https://uk-asginvest.ru/" class="custom-logo-link" rel="home"><img width="270" height="39" src="https://uk-asginvest.ru/wp-content/uploads/2021/12/asg-invest.png" class="custom-logo" alt="ООО «УК «Эй Эс Джи Инвест»"></a></div>
+	
+	<div class="site-branding">
+					<p class="site-title"><a href="https://uk-asginvest.ru/" title="ООО «УК «Эй Эс Джи Инвест»" rel="home">ООО «УК «Эй Эс Джи Инвест»</a></p>
+		
+				<p class="site-description">Телефон: 8(843)527-99-50</p>
+			</div>
+</div><!-- .site-branding-wrapper -->
+
+						
+<nav id="site-navigation" class="main-navigation" role="navigation">
+	<div class="main-navigation-inside">
+
+		<a class="skip-link screen-reader-text" href="#content">Перейти к содержимому</a>
+		<div class="toggle-menu-wrapper">
+			<a href="#header-menu-responsive" title="Меню" class="toggle-menu-control">
+				<span class="toggle-menu-label">Меню</span>
+			</a>
+		</div>
+
+		<div class="site-header-menu"><ul id="menu-1" class="header-menu sf-menu sf-js-enabled sf-arrows" style="touch-action: pan-y;"><li id="menu-item-556" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-home menu-item-556"><a href="https://uk-asginvest.ru/">О компании</a></li>
+<li id="menu-item-30" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-30"><a href="https://uk-asginvest.ru/contacts/">Контактная информация</a></li>
+</ul></div>
+	</div><!-- .main-navigation-inside -->
+</nav><!-- .main-navigation -->
+					</div><!-- .site-header-inside-wrapper -->
+
+				</div><!-- .col -->
+			</div><!-- .row -->
+		</div><!-- .container -->
+	</header><!-- #masthead -->
+
+	<div id="content" class="site-content">
+
+	<div class="site-content-inside">
+		<div class="container">
+			<div class="row">
+
+				<div id="primary" class="content-area col-16 col-sm-16 col-md-16 col-lg-11 col-xl-11 col-xxl-11">
+					<main id="main" class="site-main" role="main">
+
+						<div id="post-wrapper" class="post-wrapper post-wrapper-single post-wrapper-single-page">
+						
+							
+<div class="post-wrapper-hentry">
+	<article id="post-229" class="post-229 page type-page status-publish hentry">
+		<div class="post-content-wrapper post-content-wrapper-single post-content-wrapper-single-page">
+
+			<div class="entry-header-wrapper">
+				<header class="entry-header">
+					<h1 class="entry-title">Расчет собственных средств УК</h1>				</header><!-- .entry-header -->
+
+				
+				<div class="entry-breadcrumb">
+					<div class="breadcrumbs" itemscope="" itemtype="http://schema.org/BreadcrumbList"><span itemprop="itemListElement" itemscope="" itemtype="http://schema.org/ListItem"><a class="breadcrumbs__link" href="https://uk-asginvest.ru/" itemprop="item"><span itemprop="name">О компании</span></a><meta itemprop="position" content="1"></span><span class="breadcrumbs__separator"> › </span><span itemprop="itemListElement" itemscope="" itemtype="http://schema.org/ListItem"><a class="breadcrumbs__link" href="https://uk-asginvest.ru/reports-uk/" itemprop="item"><span itemprop="name">Отчетность УК</span></a><meta itemprop="position" content="2"></span><span class="breadcrumbs__separator"> › </span><span class="breadcrumbs__current">Расчет собственных средств УК</span></div><!-- .breadcrumbs -->				</div><!-- .entry-breadcrumb -->
+
+			</div><!-- .entry-header-wrapper -->
+
+
+
+			<div class="entry-content">
+				<div class="w3eden">
+    <div class="">
+
+        
+        <div id="content_wpdm_package_1">
+            <div class="row"><div class="col-lg-12 col-md-12 col-12"><!-- WPDM Link Template: Default Template (Extended) -->
+
+<div class="card card-default">
+    <div class="card-body">
+ 
+			<div class="media">
+					<div class="pull-left"><img class="wpdm_icon" alt="Значок" src="https://uk-asginvest.ru/wp-content/plugins/download-manager/assets/file-type-icons/pdf.svg"></div>
+					<div class="media-body"><strong class="ptitle"><a href="https://uk-asginvest.ru/download/raschet-razmera-sobstvennyh-sredstv-upravlyayushhej-kompanii-na-31-05-2023g/">Расчет размера собственных средств управляющей компании на 31.05.2023г.</a></strong>
+							<p>(информация доступна до 15.06.2026)</p>
+
+					</div>
+			</div>
+ 
+    </div>
+		
+    <div class="card-footer">
+			<span class="pull-right"><a class="wpdm-download-link download-on-click btn btn-primary " rel="nofollow" href="#" data-downloadurl="https://uk-asginvest.ru/download/raschet-razmera-sobstvennyh-sredstv-upravlyayushhej-kompanii-na-31-05-2023g/?wpdmdl=710&amp;refresh=649276c84b08f1687320264">Скачать</a></span>15.06.2023 11:23
+		</div>
+</div></div><div class="col-lg-12 col-md-12 col-12"><!-- WPDM Link Template: Default Template (Extended) -->
+
+<div class="card card-default">
+    <div class="card-body">
+ 
+			<div class="media">
+					<div class="pull-left"><img class="wpdm_icon" alt="Значок" src="https://uk-asginvest.ru/wp-content/plugins/download-manager/assets/file-type-icons/pdf.svg"></div>
+					<div class="media-body"><strong class="ptitle"><a href="https://uk-asginvest.ru/download/raschet-razmera-sobstvennyh-sredstv-upravlyayushhej-kompanii-na-30-04-2023g/">Расчет размера собственных средств управляющей компании на 30.04.2023г.</a></strong>
+							<p>(информация доступна до 17.05.2026)</p>
+
+					</div>
+			</div>
+ 
+    </div>
+		
+    <div class="card-footer">
+			<span class="pull-right"><a class="wpdm-download-link download-on-click btn btn-primary " rel="nofollow" href="#" data-downloadurl="https://uk-asginvest.ru/download/raschet-razmera-sobstvennyh-sredstv-upravlyayushhej-kompanii-na-30-04-2023g/?wpdmdl=708&amp;refresh=649276c84d2bc1687320264">Скачать</a></span>17.05.2023 10:53
+		</div>
+</div></div><div class="col-lg-12 col-md-12 col-12"><!-- WPDM Link Template: Default Template (Extended) -->
+
+<div class="card card-default">
+    <div class="card-body">
+ 
+			<div class="media">
+					<div class="pull-left"><img class="wpdm_icon" alt="Значок" src="https://uk-asginvest.ru/wp-content/plugins/download-manager/assets/file-type-icons/pdf.svg"></div>
+					<div class="media-body"><strong class="ptitle"><a href="https://uk-asginvest.ru/download/raschet-razmera-sobstvennyh-sredstv-upravlyayushhej-kompanii-na-31-03-2023g/">Расчет размера собственных средств управляющей компании на 31.03.2023г.</a></strong>
+							<p>(информация доступна до 17.04.2026)</p>
+
+					</div>
+			</div>
+ 
+    </div>
+		
+    <div class="card-footer">
+			<span class="pull-right"><a class="wpdm-download-link download-on-click btn btn-primary " rel="nofollow" href="#" data-downloadurl="https://uk-asginvest.ru/download/raschet-razmera-sobstvennyh-sredstv-upravlyayushhej-kompanii-na-31-03-2023g/?wpdmdl=704&amp;refresh=649276c84e1a61687320264">Скачать</a></span>17.04.2023 10:23
+		</div>
+</div></div><div class="col-lg-12 col-md-12 col-12"><!-- WPDM Link Template: Default Template (Extended) -->
+
+<div class="card card-default">
+    <div class="card-body">
+ 
+			<div class="media">
+					<div class="pull-left"><img class="wpdm_icon" alt="Значок" src="https://uk-asginvest.ru/wp-content/plugins/download-manager/assets/file-type-icons/pdf.svg"></div>
+					<div class="media-body"><strong class="ptitle"><a href="https://uk-asginvest.ru/download/raschet-razmera-sobstvennyh-sredstv-upravlyayushhej-kompanii-na-28-02-2023g/">Расчет размера собственных средств управляющей компании на 28.02.2023г.</a></strong>
+							<p>(информация доступна до 15.03.2026)</p>
+
+					</div>
+			</div>
+ 
+    </div>
+		
+    <div class="card-footer">
+			<span class="pull-right"><a class="wpdm-download-link download-on-click btn btn-primary " rel="nofollow" href="#" data-downloadurl="https://uk-asginvest.ru/download/raschet-razmera-sobstvennyh-sredstv-upravlyayushhej-kompanii-na-28-02-2023g/?wpdmdl=698&amp;refresh=649276c84efb11687320264">Скачать</a></span>15.03.2023 12:54
+		</div>
+</div></div><div class="col-lg-12 col-md-12 col-12"><!-- WPDM Link Template: Default Template (Extended) -->
+
+<div class="card card-default">
+    <div class="card-body">
+ 
+			<div class="media">
+					<div class="pull-left"><img class="wpdm_icon" alt="Значок" src="https://uk-asginvest.ru/wp-content/plugins/download-manager/assets/file-type-icons/pdf.svg"></div>
+					<div class="media-body"><strong class="ptitle"><a href="https://uk-asginvest.ru/download/raschet-razmera-sobstvennyh-sredstv-upravlyayushhej-kompanii-na-31-01-2023g/">Расчет размера собственных средств управляющей компании на 31.01.2023г.</a></strong>
+							<p>(информация доступна до 15.02.2026)</p>
+
+					</div>
+			</div>
+ 
+    </div>
+		
+    <div class="card-footer">
+			<span class="pull-right"><a class="wpdm-download-link download-on-click btn btn-primary " rel="nofollow" href="#" data-downloadurl="https://uk-asginvest.ru/download/raschet-razmera-sobstvennyh-sredstv-upravlyayushhej-kompanii-na-31-01-2023g/?wpdmdl=696&amp;refresh=649276c8500901687320264">Скачать</a></span>15.02.2023 11:20
+		</div>
+</div></div><div class="col-lg-12 col-md-12 col-12"><!-- WPDM Link Template: Default Template (Extended) -->
+
+<div class="card card-default">
+    <div class="card-body">
+ 
+			<div class="media">
+					<div class="pull-left"><img class="wpdm_icon" alt="Значок" src="https://uk-asginvest.ru/wp-content/plugins/download-manager/assets/file-type-icons/pdf.svg"></div>
+					<div class="media-body"><strong class="ptitle"><a href="https://uk-asginvest.ru/download/raschet-razmera-sobstvennyh-sredstv-upravlyayushhej-kompanii-na-31-12-2022g/">Расчет размера собственных средств управляющей компании на 31.12.2022г.</a></strong>
+							<p>(информация доступна до 20.01.2026)</p>
+
+					</div>
+			</div>
+ 
+    </div>
+		
+    <div class="card-footer">
+			<span class="pull-right"><a class="wpdm-download-link download-on-click btn btn-primary " rel="nofollow" href="#" data-downloadurl="https://uk-asginvest.ru/download/raschet-razmera-sobstvennyh-sredstv-upravlyayushhej-kompanii-na-31-12-2022g/?wpdmdl=688&amp;refresh=649276c8519f41687320264">Скачать</a></span>20.01.2023 11:25
+		</div>
+</div></div><div class="col-lg-12 col-md-12 col-12"><!-- WPDM Link Template: Default Template (Extended) -->
+
+<div class="card card-default">
+    <div class="card-body">
+ 
+			<div class="media">
+					<div class="pull-left"><img class="wpdm_icon" alt="Значок" src="https://uk-asginvest.ru/wp-content/plugins/download-manager/assets/file-type-icons/pdf.svg"></div>
+					<div class="media-body"><strong class="ptitle"><a href="https://uk-asginvest.ru/download/raschet-razmera-sobstvennyh-sredstv-upravlyayushhej-kompanii-na-30-11-2022g/">Расчет размера собственных средств управляющей компании на 30.11.2022г.</a></strong>
+							<p>(информация доступна до 14.12.2025)</p>
+
+					</div>
+			</div>
+ 
+    </div>
+		
+    <div class="card-footer">
+			<span class="pull-right"><a class="wpdm-download-link download-on-click btn btn-primary " rel="nofollow" href="#" data-downloadurl="https://uk-asginvest.ru/download/raschet-razmera-sobstvennyh-sredstv-upravlyayushhej-kompanii-na-30-11-2022g/?wpdmdl=685&amp;refresh=649276c8527a21687320264">Скачать</a></span>14.12.2022 14:52
+		</div>
+</div></div><div class="col-lg-12 col-md-12 col-12"><!-- WPDM Link Template: Default Template (Extended) -->
+
+<div class="card card-default">
+    <div class="card-body">
+ 
+			<div class="media">
+					<div class="pull-left"><img class="wpdm_icon" alt="Значок" src="https://uk-asginvest.ru/wp-content/plugins/download-manager/assets/file-type-icons/pdf.svg"></div>
+					<div class="media-body"><strong class="ptitle"><a href="https://uk-asginvest.ru/download/raschet-razmera-sobstvennyh-sredstv-upravlyayushhej-kompanii-na-31-10-2022g/">Расчет размера собственных средств управляющей компании на 31.10.2022г.</a></strong>
+							<p>(информация доступна до 15.11.2025)</p>
+
+					</div>
+			</div>
+ 
+    </div>
+		
+    <div class="card-footer">
+			<span class="pull-right"><a class="wpdm-download-link download-on-click btn btn-primary " rel="nofollow" href="#" data-downloadurl="https://uk-asginvest.ru/download/raschet-razmera-sobstvennyh-sredstv-upravlyayushhej-kompanii-na-31-10-2022g/?wpdmdl=682&amp;refresh=649276c8535c91687320264">Скачать</a></span>15.11.2022 16:29
+		</div>
+</div></div><div class="col-lg-12 col-md-12 col-12"><!-- WPDM Link Template: Default Template (Extended) -->
+
+<div class="card card-default">
+    <div class="card-body">
+ 
+			<div class="media">
+					<div class="pull-left"><img class="wpdm_icon" alt="Значок" src="https://uk-asginvest.ru/wp-content/plugins/download-manager/assets/file-type-icons/pdf.svg"></div>
+					<div class="media-body"><strong class="ptitle"><a href="https://uk-asginvest.ru/download/raschet-razmera-sobstvennyh-sredstv-upravlyayushhej-kompanii-na-30-09-2022g/">Расчет размера собственных средств управляющей компании на 30.09.2022г.</a></strong>
+							<p>(информация доступна до 17.10.2025)</p>
+
+					</div>
+			</div>
+ 
+    </div>
+		
+    <div class="card-footer">
+			<span class="pull-right"><a class="wpdm-download-link download-on-click btn btn-primary " rel="nofollow" href="#" data-downloadurl="https://uk-asginvest.ru/download/raschet-razmera-sobstvennyh-sredstv-upravlyayushhej-kompanii-na-30-09-2022g/?wpdmdl=661&amp;refresh=649276c8543ba1687320264">Скачать</a></span>17.10.2022 15:49
+		</div>
+</div></div><div class="col-lg-12 col-md-12 col-12"><!-- WPDM Link Template: Default Template (Extended) -->
+
+<div class="card card-default">
+    <div class="card-body">
+ 
+			<div class="media">
+					<div class="pull-left"><img class="wpdm_icon" alt="Значок" src="https://uk-asginvest.ru/wp-content/plugins/download-manager/assets/file-type-icons/pdf.svg"></div>
+					<div class="media-body"><strong class="ptitle"><a href="https://uk-asginvest.ru/download/raschet-razmera-sobstvennyh-sredstv-upravlyayushhej-kompanii-na-31-08-2022g/">Расчет размера собственных средств управляющей компании на 31.08.2022г.</a></strong>
+							<p>(информация доступна до 14.09.2025)</p>
+
+					</div>
+			</div>
+ 
+    </div>
+		
+    <div class="card-footer">
+			<span class="pull-right"><a class="wpdm-download-link download-on-click btn btn-primary " rel="nofollow" href="#" data-downloadurl="https://uk-asginvest.ru/download/raschet-razmera-sobstvennyh-sredstv-upravlyayushhej-kompanii-na-31-08-2022g/?wpdmdl=659&amp;refresh=649276c8551491687320264">Скачать</a></span>14.09.2022 16:37
+		</div>
+</div></div></div>                    </div>
+
+        <div style="clear:both"></div>
+    </div>
+</div>
+
+							</div><!-- .entry-content -->
+
+			
+		</div><!-- .post-content-wrapper -->
+	</article><!-- #post-## -->
+</div><!-- .post-wrapper-hentry -->
+
+							
+												</div><!-- .post-wrapper -->
+
+					</main><!-- #main -->
+				</div><!-- #primary -->
+
+				<div id="site-sidebar" class="sidebar-area col-16 col-sm-16 col-md-16 col-lg-5 col-xl-5 col-xxl-5">
+	<div id="secondary" class="sidebar widget-area sidebar-widget-area" role="complementary">
+		<aside class="widget widget_searchform">
+			
+<form role="search" method="get" class="search-form" action="https://uk-asginvest.ru/">
+	<label>
+		<span class="screen-reader-text">Поиск</span>
+		<input type="search" class="search-field" placeholder="Поиск…" value="" name="s" title="Поиск">
+	</label>
+	<button type="submit" class="search-submit"><span class="screen-reader-text">Найти</span></button>
+</form>
+		</aside>
+		<aside id="nav_menu-3" class="widget widget_nav_menu"><h2 class="widget-title">Быстрые ссылки</h2><div class="menu-%d0%bc%d0%b5%d0%bd%d1%8e-%d1%81%d0%bf%d1%80%d0%b0%d0%b2%d0%b0-container"><ul id="menu-%d0%bc%d0%b5%d0%bd%d1%8e-%d1%81%d0%bf%d1%80%d0%b0%d0%b2%d0%b0" class="menu"><li id="menu-item-104" class="menu-item menu-item-type-post_type menu-item-object-page current-page-ancestor menu-item-104"><a href="https://uk-asginvest.ru/reports-uk/">Отчетность УК</a></li>
+<li id="menu-item-245" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-245"><a href="https://uk-asginvest.ru/information/">Раскрытие информации в соответствии с законодательством</a></li>
+<li id="menu-item-246" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-246"><a href="https://uk-asginvest.ru/information-for-the-investor/">Информация для инвестора</a></li>
+<li id="menu-item-647" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-647"><a href="https://uk-asginvest.ru/zpif-combined/">ЗПИФ комбинированный «Эй Эс Джи Инвестиции»</a></li>
+<li id="menu-item-693" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-693"><a href="https://uk-asginvest.ru/zpif-combined-fund/">ЗПИФ комбинированный «Фонд развития территорий казанской агломерации»</a></li>
+</ul></div></aside><aside id="block-7" class="widget widget_block"><p>  
+  
+  </p><div class="
+    mailpoet_form_popup_overlay
+      "></div>
+  <div id="mailpoet_form_2" class="mailpoet_form mailpoet_form_shortcode mailpoet_form_position_ mailpoet_form_animation_ mailpoet_form_tight_container">
+    
+    <style type="text/css">
+     #mailpoet_form_2 .mailpoet_form {  }
+#mailpoet_form_2 form { margin-bottom: 0; }
+#mailpoet_form_2 p.mailpoet_form_paragraph { margin-bottom: 10px; }
+#mailpoet_form_2 .mailpoet_column_with_background { padding: 10px; }
+#mailpoet_form_2 .mailpoet_form_column:not(:first-child) { margin-left: 20px; }
+#mailpoet_form_2 .mailpoet_paragraph { line-height: 20px; margin-bottom: 20px; }
+#mailpoet_form_2 .mailpoet_segment_label, #mailpoet_form_2 .mailpoet_text_label, #mailpoet_form_2 .mailpoet_textarea_label, #mailpoet_form_2 .mailpoet_select_label, #mailpoet_form_2 .mailpoet_radio_label, #mailpoet_form_2 .mailpoet_checkbox_label, #mailpoet_form_2 .mailpoet_list_label, #mailpoet_form_2 .mailpoet_date_label { display: block; font-weight: normal; }
+#mailpoet_form_2 .mailpoet_text, #mailpoet_form_2 .mailpoet_textarea, #mailpoet_form_2 .mailpoet_select, #mailpoet_form_2 .mailpoet_date_month, #mailpoet_form_2 .mailpoet_date_day, #mailpoet_form_2 .mailpoet_date_year, #mailpoet_form_2 .mailpoet_date { display: block; }
+#mailpoet_form_2 .mailpoet_text, #mailpoet_form_2 .mailpoet_textarea { width: 200px; }
+#mailpoet_form_2 .mailpoet_checkbox {  }
+#mailpoet_form_2 .mailpoet_submit {  }
+#mailpoet_form_2 .mailpoet_divider {  }
+#mailpoet_form_2 .mailpoet_message {  }
+#mailpoet_form_2 .mailpoet_form_loading { width: 30px; text-align: center; line-height: normal; }
+#mailpoet_form_2 .mailpoet_form_loading > span { width: 5px; height: 5px; background-color: #5b5b5b; }#mailpoet_form_2{border-radius: 0px;text-align: left;}#mailpoet_form_2 form.mailpoet_form {padding: 10px;}#mailpoet_form_2{width: 100%;}#mailpoet_form_2 .mailpoet_message {margin: 0; padding: 0 20px;}
+        #mailpoet_form_2 .mailpoet_validate_success {color: #00d084}
+        #mailpoet_form_2 input.parsley-success {color: #00d084}
+        #mailpoet_form_2 select.parsley-success {color: #00d084}
+        #mailpoet_form_2 textarea.parsley-success {color: #00d084}
+      
+        #mailpoet_form_2 .mailpoet_validate_error {color: #cf2e2e}
+        #mailpoet_form_2 input.parsley-error {color: #cf2e2e}
+        #mailpoet_form_2 select.parsley-error {color: #cf2e2e}
+        #mailpoet_form_2 textarea.textarea.parsley-error {color: #cf2e2e}
+        #mailpoet_form_2 .parsley-errors-list {color: #cf2e2e}
+        #mailpoet_form_2 .parsley-required {color: #cf2e2e}
+        #mailpoet_form_2 .parsley-custom-error-message {color: #cf2e2e}
+      #mailpoet_form_2 .mailpoet_paragraph.last {margin-bottom: 0} @media (max-width: 500px) {#mailpoet_form_2 {background-image: none;}} @media (min-width: 500px) {#mailpoet_form_2 .last .mailpoet_paragraph:last-child {margin-bottom: 0}}  @media (max-width: 500px) {#mailpoet_form_2 .mailpoet_form_column:last-child .mailpoet_paragraph:last-child {margin-bottom: 0}} 
+    </style>
+
+    <form target="_self" method="post" action="https://uk-asginvest.ru/wp-admin/admin-post.php?action=mailpoet_subscription_form" class="mailpoet_form mailpoet_form_form mailpoet_form_shortcode" novalidate="" data-delay="" data-exit-intent-enabled="" data-font-family="" data-cookie-expiration-time="">
+      <input type="hidden" name="data[form_id]" value="2">
+      <input type="hidden" name="token" value="a0ef2f3125">
+      <input type="hidden" name="api_version" value="v1">
+      <input type="hidden" name="endpoint" value="subscribers">
+      <input type="hidden" name="mailpoet_method" value="subscribe">
+
+      <label class="mailpoet_hp_email_label" style="display: none !important;">Пожалуйста, оставьте это поле пустым.<input type="email" name="data[email]"></label><div class="mailpoet_spacer" style="height: 10px;"></div>
+<p class="mailpoet_form_paragraph  mailpoet-has-font-size" style="text-align: center; color: #000000; font-size: 14px; line-height: 1.5"><strong><span style="font-family: Montserrat" data-font="Montserrat" class="mailpoet-has-font"><strong><span style="font-family: Montserrat" data-font="Montserrat" class="mailpoet-has-font">Подпишитесь, чтобы получать актуальную информацию на почту</span></strong></span></strong></p>
+<div class="mailpoet_paragraph "><label for="form_email_2" class="mailpoet-screen-reader-text" style="font-size: 15px;line-height: 18px&quot;;font-weight: bold;" data-automation-id="form_email_label">Email адрес <span class="mailpoet_required">*</span></label><input type="email" autocomplete="email" class="mailpoet_text" id="form_email_2" name="data[form_field_YWFiOGMwY2RkMzRmX2VtYWls]" title="Email адрес" value="" style="width:100%;background-color:#f1f1f1;border-style:solid;border-radius:40px !important;border-width:0px;border-color:#313131;padding:15px;margin: 0 auto 0 0;font-family:'Montserrat';font-size:15px;line-height:1.5;height:auto;" data-automation-id="form_email" placeholder="Email адрес *" data-parsley-required="true" data-parsley-minlength="6" data-parsley-maxlength="150" data-parsley-type-message="Значение должно быть верным адресом электронной почты." data-parsley-errors-container=".mailpoet_error_email_" data-parsley-required-message="Это поле необходимо."></div>
+<div class="mailpoet_paragraph "><input type="submit" class="mailpoet_submit" value="Подписаться" data-automation-id="subscribe-submit-button" data-font-family="Montserrat" style="width:100%;background-color:#08d6d6;border-style:solid;border-radius:40px !important;border-width:0px;border-color:#313131;padding:15px;margin: 0 auto 0 0;font-family:'Montserrat';font-size:15px;line-height:1.5;height:auto;color:#ffffff;font-weight:bold;"><span class="mailpoet_form_loading"><span class="mailpoet_bounce1"></span><span class="mailpoet_bounce2"></span><span class="mailpoet_bounce3"></span></span></div>
+<p class="mailpoet_form_paragraph mailpoet-has-font-size last" style="text-align: center; font-size: 13px; line-height: 1.5"><em>При подписке вы принимаете условия <a href="https://uk-asginvest.ru/privacy-policy/" data-type="page" data-id="3" target="_blank" rel="noreferrer noopener">политики конфиденциальности</a>.</em></p>
+
+      <div class="mailpoet_message">
+        <p class="mailpoet_validate_success" style="display:none;">Проверьте ваш почтовый ящик или спам, чтобы подтвердить свою подписку.
+        </p>
+        <p class="mailpoet_validate_error" style="display:none;">        </p>
+      </div>
+    </form>
+  </div>
+
+  <p></p>
+</aside><aside id="block-5" class="widget widget_block"><h2 class="widget-title">Новости</h2></aside><aside id="block-2" class="widget widget_block widget_recent_entries"><ul class="wp-block-latest-posts__list has-dates wp-block-latest-posts"><li><a href="https://uk-asginvest.ru/2021/12/27/predostavlenie-liczenzii/">Предоставление лицензии</a><time datetime="2021-12-27T16:30:06+03:00" class="wp-block-latest-posts__post-date">27.12.2021 16:30</time><div class="wp-block-latest-posts__post-excerpt">Банк России 24.12.2021 принял решение предоставить лицензию управляющей компании на осуществление деятельности по управлению…</div></li>
+</ul></aside><aside id="block-4" class="widget widget_block"><a href="/news/" style=" display: block; max-width: max-content; margin: auto; ">Все новости</a></aside>	</div><!-- .sidebar -->
+</div><!-- .col-* columns of main sidebar -->
+
+			</div><!-- .row -->
+		</div><!-- .container -->
+	</div><!-- .site-content-inside -->
+
+
+	</div><!-- #content -->
+
+	<footer id="colophon" class="site-footer" role="contentinfo">
+		
+<div class="site-info">
+	<div class="site-info-inside">
+
+		<div class="container">
+
+			<div class="row">
+				<div class="col">
+					<div class="credits-wrapper">
+						<div class="credits credits-inform"><p>Общество с ограниченной ответственностью «Управляющая компания «Эй Эс Джи Инвест», лицензия на осуществление деятельности по управлению инвестиционными фондами, паевыми инвестиционными фондами и негосударственными пенсионными фондами <a href="/wp-content/uploads/2021/12/liczenziya.pdf" class="customize-unpreviewable">№ 21-000-1-01052</a> от 24.12.2021 года, выдана Банком России без ограничения срока действия.</p> <p>Республика Татарстан, г.Казань, ул.Сибирский тракт, 34 корп. 4 офис № 326.2, телефон: 8 (843) 527-99-50</p><p>Стоимость инвестиционных паев может увеличиваться и уменьшаться, результаты инвестирования в прошлом не определяют доходы в будущем, государство не гарантирует доходность инвестиций в паевые инвестиционные фонды. Прежде чем приобрести инвестиционный пай, следует внимательно ознакомиться с Правилами доверительного управления паевого инвестиционного фонда.</p></div><div class="credits credits-blog">© Все права защищены 2022 — <a href="https://uk-asginvest.ru/">ООО «УК «Эй Эс Джи Инвест»</a></div><div class="credits credits-designer"><a href="/privacy-policy/" title="Политика конфиденциальности" target="_blank">Политика конфиденциальности</a></div>					</div><!-- .credits -->
+				</div><!-- .col -->
+			</div><!-- .row -->
+
+		</div><!-- .container -->
+
+	</div><!-- .site-info-inside -->
+</div><!-- .site-info -->
+	</footer><!-- #colophon -->
+
+</div><!-- #page .site-wrapper -->
+
+<div class="overlay-effect"></div><!-- .overlay-effect -->
+
+            <script>
+                jQuery(function($){
+
+                    
+                });
+            </script>
+            <div id="fb-root"></div>
+            <link rel="stylesheet" id="mailpoet_public-css" href="https://uk-asginvest.ru/wp-content/plugins/mailpoet/assets/dist/css/mailpoet-public.22bcab70.css?ver=5.9.7" type="text/css" media="all">
+<link rel="stylesheet" id="mailpoet_custom_fonts_0-css" href="https://fonts.googleapis.com/css?family=Abril+FatFace%3A400%2C400i%2C700%2C700i%7CAlegreya%3A400%2C400i%2C700%2C700i%7CAlegreya+Sans%3A400%2C400i%2C700%2C700i%7CAmatic+SC%3A400%2C400i%2C700%2C700i%7CAnonymous+Pro%3A400%2C400i%2C700%2C700i%7CArchitects+Daughter%3A400%2C400i%2C700%2C700i%7CArchivo%3A400%2C400i%2C700%2C700i%7CArchivo+Narrow%3A400%2C400i%2C700%2C700i%7CAsap%3A400%2C400i%2C700%2C700i%7CBarlow%3A400%2C400i%2C700%2C700i%7CBioRhyme%3A400%2C400i%2C700%2C700i%7CBonbon%3A400%2C400i%2C700%2C700i%7CCabin%3A400%2C400i%2C700%2C700i%7CCairo%3A400%2C400i%2C700%2C700i%7CCardo%3A400%2C400i%2C700%2C700i%7CChivo%3A400%2C400i%2C700%2C700i%7CConcert+One%3A400%2C400i%2C700%2C700i%7CCormorant%3A400%2C400i%2C700%2C700i%7CCrimson+Text%3A400%2C400i%2C700%2C700i%7CEczar%3A400%2C400i%2C700%2C700i%7CExo+2%3A400%2C400i%2C700%2C700i%7CFira+Sans%3A400%2C400i%2C700%2C700i%7CFjalla+One%3A400%2C400i%2C700%2C700i%7CFrank+Ruhl+Libre%3A400%2C400i%2C700%2C700i%7CGreat+Vibes%3A400%2C400i%2C700%2C700i&amp;ver=5.9.7" type="text/css" media="all">
+<link rel="stylesheet" id="mailpoet_custom_fonts_1-css" href="https://fonts.googleapis.com/css?family=Heebo%3A400%2C400i%2C700%2C700i%7CIBM+Plex%3A400%2C400i%2C700%2C700i%7CInconsolata%3A400%2C400i%2C700%2C700i%7CIndie+Flower%3A400%2C400i%2C700%2C700i%7CInknut+Antiqua%3A400%2C400i%2C700%2C700i%7CInter%3A400%2C400i%2C700%2C700i%7CKarla%3A400%2C400i%2C700%2C700i%7CLibre+Baskerville%3A400%2C400i%2C700%2C700i%7CLibre+Franklin%3A400%2C400i%2C700%2C700i%7CMontserrat%3A400%2C400i%2C700%2C700i%7CNeuton%3A400%2C400i%2C700%2C700i%7CNotable%3A400%2C400i%2C700%2C700i%7CNothing+You+Could+Do%3A400%2C400i%2C700%2C700i%7CNoto+Sans%3A400%2C400i%2C700%2C700i%7CNunito%3A400%2C400i%2C700%2C700i%7COld+Standard+TT%3A400%2C400i%2C700%2C700i%7COxygen%3A400%2C400i%2C700%2C700i%7CPacifico%3A400%2C400i%2C700%2C700i%7CPoppins%3A400%2C400i%2C700%2C700i%7CProza+Libre%3A400%2C400i%2C700%2C700i%7CPT+Sans%3A400%2C400i%2C700%2C700i%7CPT+Serif%3A400%2C400i%2C700%2C700i%7CRakkas%3A400%2C400i%2C700%2C700i%7CReenie+Beanie%3A400%2C400i%2C700%2C700i%7CRoboto+Slab%3A400%2C400i%2C700%2C700i&amp;ver=5.9.7" type="text/css" media="all">
+<link rel="stylesheet" id="mailpoet_custom_fonts_2-css" href="https://fonts.googleapis.com/css?family=Ropa+Sans%3A400%2C400i%2C700%2C700i%7CRubik%3A400%2C400i%2C700%2C700i%7CShadows+Into+Light%3A400%2C400i%2C700%2C700i%7CSpace+Mono%3A400%2C400i%2C700%2C700i%7CSpectral%3A400%2C400i%2C700%2C700i%7CSue+Ellen+Francisco%3A400%2C400i%2C700%2C700i%7CTitillium+Web%3A400%2C400i%2C700%2C700i%7CUbuntu%3A400%2C400i%2C700%2C700i%7CVarela%3A400%2C400i%2C700%2C700i%7CVollkorn%3A400%2C400i%2C700%2C700i%7CWork+Sans%3A400%2C400i%2C700%2C700i%7CYatra+One%3A400%2C400i%2C700%2C700i&amp;ver=5.9.7" type="text/css" media="all">
+<script type="text/javascript" src="https://uk-asginvest.ru/wp-includes/js/dist/vendor/regenerator-runtime.min.js?ver=0.13.9" id="regenerator-runtime-js"></script>
+<script type="text/javascript" src="https://uk-asginvest.ru/wp-includes/js/dist/vendor/wp-polyfill.min.js?ver=3.15.0" id="wp-polyfill-js"></script>
+<script type="text/javascript" src="https://uk-asginvest.ru/wp-includes/js/dist/hooks.min.js?ver=1e58c8c5a32b2e97491080c5b10dc71c" id="wp-hooks-js"></script>
+<script type="text/javascript" src="https://uk-asginvest.ru/wp-includes/js/dist/i18n.min.js?ver=30fcecb428a0e8383d3776bcdd3a7834" id="wp-i18n-js"></script>
+<script type="text/javascript" id="wp-i18n-js-after">
+wp.i18n.setLocaleData( { 'text direction\u0004ltr': [ 'ltr' ] } );
+</script>
+<script type="text/javascript" src="https://uk-asginvest.ru/wp-includes/js/jquery/jquery.form.min.js?ver=4.3.0" id="jquery-form-js"></script>
+<script type="text/javascript" src="https://uk-asginvest.ru/wp-content/themes/allium/js/enquire.js?ver=2.1.6" id="enquire-js"></script>
+<script type="text/javascript" src="https://uk-asginvest.ru/wp-content/themes/allium/js/fitvids.js?ver=1.1" id="fitvids-js"></script>
+<script type="text/javascript" src="https://uk-asginvest.ru/wp-content/themes/allium/js/hover-intent.js?ver=r7" id="hover-intent-js"></script>
+<script type="text/javascript" src="https://uk-asginvest.ru/wp-content/themes/allium/js/superfish.js?ver=1.7.10" id="superfish-js"></script>
+<script type="text/javascript" src="https://uk-asginvest.ru/wp-content/themes/allium/js/custom.js?ver=1.0" id="allium-custom-js"></script>
+<script type="text/javascript" id="mailpoet_public-js-extra">
+/* <![CDATA[ */
+var MailPoetForm = {"ajax_url":"https:\/\/uk-asginvest.ru\/wp-admin\/admin-ajax.php","is_rtl":""};
+var MailPoetForm = {"ajax_url":"https:\/\/uk-asginvest.ru\/wp-admin\/admin-ajax.php","is_rtl":""};
+/* ]]> */
+</script>
+<script type="text/javascript" src="https://uk-asginvest.ru/wp-content/plugins/mailpoet/assets/dist/js/public.js?ver=4.0.0" id="mailpoet_public-js"></script>
+<script type="text/javascript" id="mailpoet_public-js-after">
+function initMailpoetTranslation() {
+  if (typeof MailPoet !== 'undefined') {
+    MailPoet.I18n.add('ajaxFailedErrorMessage', 'Во время запроса произошла ошибка, пожалуйста, повторите попытку позже.')
+  } else {
+    setTimeout(initMailpoetTranslation, 250);
+  }
+}
+setTimeout(initMailpoetTranslation, 250);
+function initMailpoetTranslation() {
+  if (typeof MailPoet !== 'undefined') {
+    MailPoet.I18n.add('ajaxFailedErrorMessage', 'Во время запроса произошла ошибка, пожалуйста, повторите попытку позже.')
+  } else {
+    setTimeout(initMailpoetTranslation, 250);
+  }
+}
+setTimeout(initMailpoetTranslation, 250);
+</script>
+
+

@@ -1,0 +1,559 @@
+
+        <div id="backdrop"></div>
+        <main>
+            <header>
+  <div class="bl-logo">
+    <div class="container-fluid">
+      <div class="row text-center">
+        <div class="col-12 col-sm-6 col-lg-4 mb-3 mb-sm-0">
+          <a class="logo" href="https://progress-finance.ru/"><img class="img-fluid" src="/assets/custom/images/logo.png" alt="ООО «Управляющая компания «Прогресс-Финанс»"></a>
+        </div>
+        <div class="col-12 col-sm-6 col-lg-8 text-sm-right">
+          <div class="info d-lg-flex align-items-center justify-content-end">
+            <span class="d-none address">г. Москва, ул. Бакунинская, д.71, стр.10, этаж 7, к.1</span> <i class="d-none">|</i> <span class="d-none email"><a href="mailto:info@progress-finance.ru">info@progress-finance.ru</a></span> <i class="d-none">|</i> <span class="phone"><a href="tel:+74955029422">+7 (495) 502-94-22</a></span> <i class="d-none">|</i> <span class="phone"><a href="tel:+74955029421">+7 (495) 502-94-21</a></span>
+          </div>
+        </div>
+      </div>
+      <div class="row">
+        <div class="col-12 text-center tex-xl-right">
+          <nav class="navbar navbar-expand-lg p-0 justify-content-end">
+            <button class="navbar-toggler" type="button" onclick="openNav()">
+              <span class="navbar-toggler-icon"></span>
+              <span class="navbar-toggler-icon"></span>
+              <span class="navbar-toggler-icon"></span>
+            </button>
+            <div class="collapse navbar-collapse" id="collapsibleNavbar">
+              <ul class="navbar-nav w-100 justify-content-xl-end justify-content-center"><li class="nav-item first"><a class="nav-link text-xl-uppercase d-flex align-items-center justify-content-center" href="/"><img src="assets/custom/images/icons/home.png" alt="">Главная</a></li><li class="nav-item"><a class="nav-link text-xl-uppercase d-flex align-items-center justify-content-center" href="company/"><img src="" alt="">О компании</a></li><li class="nav-item"><a class="nav-link text-xl-uppercase d-flex align-items-center justify-content-center" href="liczenzii/"><img src="" alt="">Лицензии</a></li><li class="nav-item active"><a class="nav-link text-xl-uppercase d-flex align-items-center justify-content-center" href="raskryitie-informaczii/"><img src="assets/custom/images/icons/rask.png" alt="">Раскрытие информации</a></li><li class="nav-item"><a class="nav-link text-xl-uppercase d-flex align-items-center justify-content-center" href="paevyie-investiczionnyie-fondyi/"><img src="assets/custom/images/icons/fond.png" alt="">Паевые инвестиционные фонды</a></li><li class="nav-item"><a class="nav-link text-xl-uppercase d-flex align-items-center justify-content-center" href="nedvizhimost-v-upravlenii/"><img src="assets/custom/images/icons/nedv.png" alt="">Недвижимость в управлении</a></li><li class="nav-item"><a class="nav-link text-xl-uppercase d-flex align-items-center justify-content-center" href="novosti.html"><img src="" alt="">Новости</a></li><li class="nav-item last"><a class="nav-link text-xl-uppercase d-flex align-items-center justify-content-center" href="kontaktyi.html"><img src="assets/custom/images/icons/cont.png" alt="">Контакты</a></li></ul>
+            </div> 
+          </nav>
+        </div>
+      </div>
+    </div>
+  </div>
+</header>
+            <section>
+                <div class="bl-breadcrumbs my-4 d-none d-md-block">
+  <div class="container">
+    <div class="row mb-0">
+      <div class="col-12">
+        <ol class="breadcrumb"><li class="breadcrumb-item"><a href="/">Главная</a></li>
+<li class="breadcrumb-item"><a href="raskryitie-informaczii/">Раскрытие информации</a></li>
+<li class="breadcrumb-item"><a href="raskryitie-informaczii/uk/">ООО УК «Прогресс-Финанс»</a></li></ol>
+      </div>
+    </div>
+  </div>
+</div>
+                <div class="bl-pagetitle text-center mt-4 mt-md-0">
+  <div class="container">
+    <div class="row">
+      <div class="col-12">
+        <h1 class="btitle">Расчет размера собственных средств<div></div></h1>
+      </div>
+    </div>
+  </div>
+</div>
+                <div class="bl-content block">
+  <div class="container">
+    <div class="row">
+      <div class="col-12">
+        <div class="content"><table border="0">
+<thead>
+<tr>
+<td>Документ</td>
+<td class="justifyright">Дата и время публикации &nbsp;</td>
+<td>Доступно не менее, чем до &nbsp;</td>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td class="justifyleft">
+<p><a href="rss-310523.xlsx">Размер собственных средств УК на 31.05.2023</a></p>
+</td>
+<td style="text-align: center;"><span>15.06.2023 15:00</span>&nbsp;</td>
+<td style="text-align: center;">
+<p>В течение трех лет со дня ее опубликования(раскрытия)</p>
+<p>Период актуальности:с даты ее опубликования по настоящее время.</p>
+&nbsp;</td>
+</tr>
+<tr>
+<td class="justifyleft">
+<p><a href="rss.pdf">Размер собственных средств УК на 30.04.2023</a></p>
+</td>
+<td style="text-align: center;"><span>18.05.2023 15:30</span><span>&nbsp;</span><span>&nbsp;</span><span>&nbsp;</span>&nbsp;</td>
+<td style="text-align: center;">
+<p>В течение трех лет со дня ее опубликования(раскрытия)</p>
+<p>Период актуальности:с даты ее опубликования по настоящее время.</p>
+<span>&nbsp;</span>&nbsp;</td>
+</tr>
+<tr>
+<td class="justifyleft">
+<p><a href="rss-31032023.pdf">Размер собственных средств УК на 31.03.2023</a></p>
+</td>
+<td style="text-align: center;"><span>17.04.2023 11:00</span><span>&nbsp;</span><span>&nbsp;</span>&nbsp;</td>
+<td style="text-align: center;">
+<p>В течение трех лет со дня ее опубликования(раскрытия)</p>
+<p>Период актуальности:с даты ее опубликования по настоящее время.</p>
+&nbsp;</td>
+</tr>
+<tr>
+<td class="justifyleft">
+<p><a href="rss-28022023.pdf">Размер собственных средств УК на 28.02.2023</a></p>
+</td>
+<td style="text-align: center;"><span>16.03.2023 11:30</span><span>&nbsp;</span>&nbsp;</td>
+<td style="text-align: center;">
+<p>В течение трех лет со дня ее опубликования(раскрытия)</p>
+<p>Период актуальности:с даты ее опубликования по настоящее время.</p>
+&nbsp;</td>
+</tr>
+<tr>
+<td class="justifyleft">
+<p><a href="rss31-01-23.pdf">Размер собственных средств УК на 31.01.2023</a></p>
+</td>
+<td style="text-align: center;"><span>16.02.2023 10:30</span><span>&nbsp;</span>&nbsp;</td>
+<td style="text-align: center;">
+<p>В течение трех лет со дня ее опубликования(раскрытия)</p>
+<p>Период актуальности:с даты ее опубликования по настоящее время.&nbsp;</p>
+&nbsp;</td>
+</tr>
+<tr>
+<td class="justifyleft">
+<p><a href="rss-31.12.2022.pdf">Размер собственных средств УК на 31.12.2022</a></p>
+</td>
+<td style="text-align: center;"><span>24.01.2023 12:30</span><span>&nbsp;</span>&nbsp;</td>
+<td style="text-align: center;">
+<p>В течение трех лет со дня ее опубликования(раскрытия)</p>
+<p>Период актуальности:с даты ее опубликования по настоящее время.&nbsp;</p>
+&nbsp;</td>
+</tr>
+<tr>
+<td class="justifyleft"><a href="rss-30.11.2022.pdf">Размер собственных средств УК на 30.11.2022</a></td>
+<td style="text-align: center;"><span>16.12.2022 09:30</span>&nbsp;</td>
+<td style="text-align: center;">
+<p>В течение трех лет со дня ее опубликования(раскрытия)</p>
+<p>Период актуальности:с даты ее опубликования по настоящее время.&nbsp;&nbsp;</p>
+</td>
+</tr>
+<tr>
+<td class="justifyleft"><a href="rss-31-10-2022.pdf">Размер собственных средств УК на 31.10.2022</a></td>
+<td style="text-align: center;">&nbsp;<span>15.11.2022 17:45</span><span><br></span></td>
+<td style="text-align: center;">
+<p>В течение трех лет со дня ее опубликования(раскрытия)</p>
+<p>Период актуальности:с даты ее опубликования по настоящее время.&nbsp;</p>
+</td>
+</tr>
+<tr>
+<td class="justifyleft"><a href="rss-30092022.pdf">&nbsp;Размер собственных средств УК на 30.09.2022</a></td>
+<td style="text-align: center;"><span><span>17.10.2022 15:00</span><span>&nbsp;</span></span></td>
+<td style="text-align: center;">
+<p>В течение трех лет со дня ее опубликования(раскрытия)</p>
+<p>Период актуальности:с даты ее опубликования по настоящее время.</p>
+</td>
+</tr>
+<tr>
+<td class="justifyleft">&nbsp;<a href="rss-2022-08-31.pdf">Размер собственных средств УК на 31.08.2022</a></td>
+<td style="text-align: center;"><span>14.09.2022 13:50</span>&nbsp;</td>
+<td style="text-align: center;">
+<p>В течение трех лет со дня ее опубликования(раскрытия)</p>
+<p>Период актуальности:с даты ее опубликования по настоящее время.</p>
+</td>
+</tr>
+<tr>
+<td class="justifyleft">
+<p><a href="rss-2022-07-31-uk.pdf">Размер собственных средств УК на 31.07.2022</a></p>
+</td>
+<td style="text-align: center;"><span><span><span>15.08.2022 11:00</span></span></span></td>
+<td style="text-align: center;">
+<p>В течение трех лет со дня ее опубликования(раскрытия)</p>
+<p>Период актуальности:с даты ее опубликования по настоящее время.</p>
+</td>
+</tr>
+<tr>
+<td class="justifyleft">
+<p>&nbsp;<a href="rss-30.06.2022.pdf">Размер собственных средств УК на 30.06.2022</a></p>
+</td>
+<td style="text-align: center;"><span><span>18.07.2022 15:00</span></span></td>
+<td style="text-align: center;">
+<p>В течение трех лет со дня ее опубликования(раскрытия)</p>
+<p>Период актуальности:с даты ее опубликования по настоящее время.</p>
+</td>
+</tr>
+<tr>
+<td class="justifyleft">
+<p>&nbsp;<a href="rss-31.05.2022.pdf">Размер собственных средств УК на 31.05.2022</a></p>
+</td>
+<td style="text-align: center;"><span><span>15.06.2022.18:00&nbsp;</span><span>&nbsp;</span></span></td>
+<td style="text-align: center;">
+<p>В течение трех лет со дня ее опубликования(раскрытия)</p>
+<p>Период актуальности:с даты ее опубликования по настоящее время.</p>
+</td>
+</tr>
+<tr>
+<td class="justifyleft">
+<p><a href="rss-04-2022.pdf">Размер собственных средств УК на 30.04.2022</a></p>
+</td>
+<td style="text-align: center;"><span>20.05.2022.14:30&nbsp;</span>&nbsp;</td>
+<td style="text-align: center;">
+<p>В течение трех лет со дня ее опубликования(раскрытия)</p>
+<p>Период актуальности:с даты ее опубликования по настоящее время.</p>
+<span>&nbsp;</span>&nbsp;</td>
+</tr>
+<tr>
+<td class="justifyleft">
+<p><a href="rss-03-2022(1).pdf">Размер собственных средств УК на 31.03.2022</a></p>
+</td>
+<td style="text-align: center;">18.04.2022.14:30&nbsp;</td>
+<td style="text-align: center;">
+<p>В течение трех лет со дня ее опубликования(раскрытия)</p>
+<p>Период актуальности:с даты ее опубликования по настоящее время.</p>
+&nbsp;</td>
+</tr>
+<tr>
+<td class="justifyleft">
+<p><a href="rss-2022-02.pdf">Размер собственных средств УК на 28.02.2022</a></p>
+</td>
+<td style="text-align: center;">15.03.2022, 17:30&nbsp;</td>
+<td style="text-align: center;">
+<p>В течение трех лет со дня ее опубликования(раскрытия)</p>
+<p>Период актуальности:с даты ее опубликования по настоящее время.&nbsp;</p>
+</td>
+</tr>
+<tr>
+<td class="justifyleft"><a href="rss-2022-01.pdf">Размер собственных средств УК на 31.01.2022</a></td>
+<td style="text-align: center;">14.02.2022, 19:00</td>
+<td style="text-align: center;">
+<p>В течение трех лет со дня ее опубликования(раскрытия)</p>
+<p>Период актуальности:с даты ее опубликования по настоящее время.</p>
+</td>
+</tr>
+<tr>
+<td class="justifyleft"><a href="rss-2021-12.pdf">Размер собственных средств УК на 30.12.2021</a></td>
+<td style="text-align: center;"><a href=".htaccess">25.01.2022, 17:30 </a></td>
+<td style="text-align: center;">
+<p>В течение трех лет со дня ее опубликования(раскрытия)</p>
+<p>Период актуальности:с даты ее опубликования по настоящее время.</p>
+</td>
+</tr>
+<tr>
+<td class="justifyleft"><a href="rss-30112021.pdf">Размер собственных средств УК на 30.11.2021</a></td>
+<td style="text-align: center;">14.12.2021, 12:15</td>
+<td style="text-align: center;">
+<p>В течение трех лет со дня ее опубликования(раскрытия)</p>
+<p>Период актуальности:с даты ее опубликования по настоящее время.</p>
+</td>
+</tr>
+<tr>
+<td class="justifyleft"><a href="rss29102021.pdf">Размер собственных средств УК на 29.10.2021</a></td>
+<td style="text-align: center;"><a href="rss30092021.pdf">15.11.2021, 11:59</a></td>
+<td style="text-align: center;">
+<p>В течение трех лет со дня ее опубликования(раскрытия)</p>
+<p>Период актуальности:с даты ее опубликования по настоящее время.</p>
+</td>
+</tr>
+<tr>
+<td class="justifyleft"><a href="rss30092021.pdf">Размер собственных средств УК на 30.09.2021</a></td>
+<td style="text-align: center;"><a href="rss30092021.pdf">14.10.2021, 17:55</a></td>
+<td style="text-align: center;">
+<p>В течение трех лет со дня ее опубликования(раскрытия)</p>
+<p>Период актуальности:с даты ее опубликования по настоящее время.</p>
+</td>
+</tr>
+<tr>
+<td class="justifyleft"><a href="rss31082021.pdf">Размер собственных средств УК на 31.08.2021</a></td>
+<td style="text-align: center;"><a href="rss31.03.2021.pdf">14.09.2021, 17:11</a></td>
+<td style="text-align: center;">
+<p>В течение трех лет со дня ее опубликования(раскрытия)</p>
+<p>Период актуальности:с даты ее опубликования по настоящее время.</p>
+</td>
+</tr>
+<tr>
+<td class="justifyleft"><a href="rss31072021.pdf">Размер собственных средств УК на 31.07.2021</a></td>
+<td style="text-align: center;"><a href="rss31.03.2021.pdf">13.08.2021, 12:40</a></td>
+<td style="text-align: center;">
+<p>В течение трех лет со дня ее опубликования(раскрытия)</p>
+<p>Период актуальности:с даты ее опубликования по настоящее время.</p>
+</td>
+</tr>
+<tr>
+<td class="justifyleft"><a href="rss30062021.pdf">Размер собственных средств УК на 30.06.2021</a></td>
+<td style="text-align: center;"><a href="rss31.03.2021.pdf">14.07.2021, 16:40</a></td>
+<td style="text-align: center;">
+<p>В течение трех лет со дня ее опубликования(раскрытия)</p>
+<p>Период актуальности:с даты ее опубликования по настоящее время.</p>
+</td>
+</tr>
+<tr>
+<td class="justifyleft"><a href="rss31.05.2021.pdf">Размер собственных средств УК на 31.05.2021</a></td>
+<td style="text-align: center;"><a href="rss31.03.2021.pdf">16.06.2021,10:49</a></td>
+<td style="text-align: center;">
+<p>В течение трех лет со дня ее опубликования(раскрытия)</p>
+<p>Период актуальности:с даты ее опубликования по настоящее время.</p>
+</td>
+</tr>
+<tr>
+<td class="justifyleft"><a href="rss30.04.2021.pdf">Размер собственных средств УК на 30.04.2021</a></td>
+<td style="text-align: center;"><a href="rss31.03.2021.pdf">19.05.2021, 10:20</a></td>
+<td style="text-align: center;">
+<p>В течение трех лет со дня ее опубликования(раскрытия)</p>
+<p>Период актуальности:с даты ее опубликования по настоящее время.</p>
+</td>
+</tr>
+<tr>
+<td class="justifyleft"><a href="rss31.03.2021.pdf">Размер собственных средств УК на 31.03.2021</a></td>
+<td style="text-align: center;"><a href="rss31.03.2021.pdf">14.04.2021, 18:30&nbsp;</a></td>
+<td style="text-align: center;">
+<p>В течение трех лет со дня ее опубликования(раскрытия)</p>
+<p>Период актуальности:с даты ее опубликования по настоящее время.</p>
+</td>
+</tr>
+<tr>
+<td><a href="rss28022021.pdf">Размер собственных средств УК на 28.02.2021</a></td>
+<td style="text-align: center;"><a href="rss28022021.pdf">15.03.2021, 18:55</a></td>
+<td style="text-align: center;">
+<p>В течение трех лет со дня ее опубликования(раскрытия)</p>
+<p>Период актуальности:с даты ее опубликования по настоящее время.</p>
+</td>
+</tr>
+<tr>
+<td><a href="rss31.01.2021.pdf">Размер собственных средств УК на 31.01.2021</a></td>
+<td style="text-align: center;"><a href="rss-na-31.12.2020.xls">12.02.2021, 13:30</a></td>
+<td style="text-align: center;">
+<p>В течение трех лет со дня ее опубликования(раскрытия)</p>
+<p>Период актуальности:с даты ее опубликования по настоящее время.</p>
+</td>
+</tr>
+<tr>
+<td><a href="rss31122020.pdf">Размер собственных средств УК на 31.12.2020</a></td>
+<td style="text-align: center;"><a href="rss-na-31.12.2020.xls">22.01.2021, 17:00</a></td>
+<td style="text-align: center;">
+<p>В течение трех лет со дня ее опубликования(раскрытия)</p>
+<p>Период актуальности:с даты ее опубликования по настоящее время.</p>
+</td>
+</tr>
+<tr>
+<td><a href="otchet-o-sobstvennyix-sredstvax-31.10.2020-30.11.2020-ooo-uk-progress-finans.pdf">Размер собственных средств УК на 30.11.2020</a></td>
+<td style="text-align: center;"><span><a href="otchet-o-sobstvennyix-sredstvax-31.10.2020-30.11.2020-ooo-uk-progress-finans.pdf">11.12.2020, 17:00</a></span></td>
+<td style="text-align: center;">
+<p>В течение трех лет со дня ее опубликования(раскрытия)</p>
+<p>Период актуальности:с даты ее опубликования по настоящее время.</p>
+<span><a href="otchet-o-sobstvennyix-sredstvax-31.10.2020-30.11.2020-ooo-uk-progress-finans.pdf"><br></a></span></td>
+</tr>
+<tr>
+<td><a href="razmer-sobstvennyix-sredstv-uk-na-31.10.2020.pdf">Размер собственных средств УК на 31.10.2020</a></td>
+<td style="text-align: center;"><span><a href="razmer-sobstvennyix-sredstv-uk-na-31.10.2020.pdf">13.11.2020, 16:35</a></span></td>
+<td style="text-align: center;">
+<p>В течение трех лет со дня ее опубликования(раскрытия)</p>
+<p>Период актуальности:с даты ее опубликования по настоящее время.</p>
+<span><a href="razmer-sobstvennyix-sredstv-uk-na-31.10.2020.pdf"><br></a></span></td>
+</tr>
+<tr>
+<td><a href="rss30.09.2020.pdf">Размер собственных средств УК на 30.09.2020</a></td>
+<td style="text-align: center;"><span>14.10.2020, 10:59</span></td>
+<td style="text-align: center;">
+<p>В течение трех лет со дня ее опубликования(раскрытия)</p>
+<p>Период актуальности:с даты ее опубликования по настоящее время.</p>
+</td>
+</tr>
+<tr>
+<td><a href="rss-31082020.pdf">Размер собственных средств УК на 31.08.2020</a></td>
+<td style="text-align: center;"><span>14.09.2020, 17:55</span></td>
+<td style="text-align: center;">
+<p>В течение трех лет со дня ее опубликования(раскрытия)</p>
+<p>Период актуальности:с даты ее опубликования по настоящее время.</p>
+</td>
+</tr>
+<tr>
+<td><a href="rss-na-31.07.2020.pdf">Размер собственных средств УК на 31.07.2020</a></td>
+<td style="text-align: center;"><span>&nbsp;14.08.2020, 15:36 </span>&nbsp;</td>
+<td style="text-align: center;">
+<p>В течение трех лет со дня ее опубликования(раскрытия)</p>
+<p>Период актуальности:с даты ее опубликования по настоящее время.</p>
+</td>
+</tr>
+<tr>
+<td><a href="ssred30062020.pdf">Размер собственных средств УК на 30.06.2020</a></td>
+<td style="text-align: center;"><span>14.07.2020, 19:05 </span></td>
+<td style="text-align: center;">
+<p>В течение трех лет со дня ее опубликования(раскрытия)</p>
+<p>Период актуальности:с даты ее опубликования по настоящее время.</p>
+</td>
+</tr>
+<tr>
+<td><a href="ssred31052020g.pdf">Размер собственных средств УК на 31.05.2020</a></td>
+<td style="text-align: center;"><span>15.06.2020, 17:05</span>&nbsp;</td>
+<td style="text-align: center;">
+<p>В течение трех лет со дня ее опубликования(раскрытия)</p>
+<p>Период актуальности:с даты ее опубликования по настоящее время.</p>
+</td>
+</tr>
+<tr>
+<td><a href="rss-30.04.2020g..pdf">Размер собственных средств УК на 30.04.2020</a></td>
+<td style="text-align: center;"><span>20.05.2020, 14:33</span>&nbsp;</td>
+<td style="text-align: center;">
+<p>В течение трех лет со дня ее опубликования(раскрытия)</p>
+<p>Период актуальности:с даты ее опубликования по настоящее время.</p>
+</td>
+</tr>
+<tr>
+<td><a href="rss-032020.pdf">Размер собственных средств УК на 31.03.2020</a></td>
+<td style="text-align: center;"><span>06.05.2020, 11:55</span></td>
+<td style="text-align: center;">
+<p>В течение трех лет со дня ее опубликования(раскрытия)</p>
+<p>Период актуальности:с даты ее опубликования по настоящее время.</p>
+</td>
+</tr>
+<tr>
+<td><a href="rss-022020-.pdf">Размер собственных средств УК на 29.02.2020</a></td>
+<td style="text-align: center;"><span>13.03.2020, 13:37</span></td>
+<td style="text-align: center;">
+<p>В течение трех лет со дня ее опубликования(раскрытия)</p>
+<p>Период актуальности:с даты ее опубликования по настоящее время.</p>
+</td>
+</tr>
+<tr>
+<td><a href="rss-012020-.pdf">Размер собственных средств УК на 31.01.2020</a></td>
+<td>
+<p style="text-align: center;"><span>13.02.2020, 17:58</span></p>
+</td>
+<td>
+<p>В течение трех лет со дня ее опубликования(раскрытия)</p>
+<p>Период актуальности:с даты ее опубликования по настоящее время.</p>
+<p style="text-align: center;"><span>&nbsp;</span></p>
+</td>
+</tr>
+<tr>
+<td><a href="ssred31122019.pdf">Размер собственных средств УК на 31.12.2019</a></td>
+<td>
+<p style="text-align: center;"><span>22.01.2020</span><span>, 17:50</span></p>
+</td>
+<td>
+<p>В течение трех лет со дня ее опубликования(раскрытия)</p>
+<p>Период актуальности:с даты ее опубликования по настоящее время.</p>
+<p style="text-align: center;"><span>&nbsp;</span></p>
+</td>
+</tr>
+<tr>
+<td>&nbsp;<a href="ssred30112019.pdf">Размер собственных средств УК на 30.11.2019</a></td>
+<td style="text-align: center;"><span>13.12.2019, 13:20</span></td>
+<td style="text-align: center;">
+<p>В течение трех лет со дня ее опубликования(раскрытия)</p>
+<p>Период актуальности:с даты ее опубликования по настоящее время.</p>
+</td>
+</tr>
+<tr>
+<td>&nbsp;<a href="ssred31102019.pdf">Размер собственных средств УК на 31.10.2019</a></td>
+<td style="text-align: center;"><span>18.11.2019, 17:40</span></td>
+<td style="text-align: center;">
+<p>В течение трех лет со дня ее опубликования(раскрытия)</p>
+<p>Период актуальности:с даты ее опубликования по настоящее время.</p>
+</td>
+</tr>
+<tr>
+<td><a href="ssred30092019.pdf">Размер собственных средств УК на 30.09.2019</a></td>
+<td style="text-align: center;"><span>14.10.2019, 10:55</span></td>
+<td style="text-align: center;">
+<p>В течение трех лет со дня ее опубликования(раскрытия)</p>
+<p>Период актуальности:с даты ее опубликования по настоящее время.</p>
+</td>
+</tr>
+<tr>
+<td><a href="ssred31082019-2.pdf">Размер собственных средств УК на 31.08.2019</a></td>
+<td>
+<p style="text-align: center;"><span><span>13.09.2019, 10:55</span></span></p>
+</td>
+<td>
+<p>В течение трех лет со дня ее опубликования(раскрытия)</p>
+<p>Период актуальности:с даты ее опубликования по настоящее время.</p>
+<p style="text-align: center;"><span><span>&nbsp;</span></span></p>
+</td>
+</tr>
+<tr>
+<td><a href="ssred31072019.pdf">Размер собственных средств УК на 31.07.2019</a></td>
+<td>
+<p style="text-align: center;"><span><span>14.08.2019, 17:45</span></span></p>
+</td>
+<td>
+<p>В течение трех лет со дня ее опубликования(раскрытия)</p>
+<p>Период актуальности:с даты ее опубликования по настоящее время.</p>
+<p style="text-align: center;"><span><span>&nbsp;</span></span></p>
+</td>
+</tr>
+</tbody>
+</table>
+<p>&nbsp;</p>
+<p>&nbsp;</p></div>
+      </div>
+    </div>
+  </div>
+</div>
+
+            </section>
+            <footer>
+  <div class="bl-footer-top">
+    <div class="container">
+      <div class="row mb-0">
+        <div class="col-12">
+          <div class="info-container d-flex alignitems-center justify-content-center block flex-column text-center">
+            <div class="logo mb-3"><img class="img-fluid" src="/assets/custom/images/logo2.png" alt="ООО «Управляющая компания «Прогресс-Финанс»"></div>
+            <div class="copyright"><span>©2019</span>ООО «Управляющая компания «Прогресс-Финанс»</div>
+          </div>
+        </div>
+      </div>
+    </div>
+  </div>
+  <div class="bl-footer-bottom block">
+    <div class="container">
+      <div class="row">
+        <div class="col-12 col-lg-4 col-xl-3 mb-5 mb-lg-0">
+          <div class="phones icon">
+            <div class="phone">Телефон</div> 
+            <div class="phone">+7 (495) 502-94-22</div>
+            <div class="phone">+7 (495) 502-94-21</div>
+            <div class="phone"></div>
+          </div>
+          <div class="address icon">
+              <div class="">Адрес</div> 
+              г. Москва, ул. Бакунинская, д.71, стр.10, этаж 7, к.1
+          </div>
+          <div class="email icon">
+              <div class="">E-mail</div> 
+              <a href="mailto:info@progress-finance.ru">info@progress-finance.ru</a>
+          </div>
+        </div>
+        <div class="col-12 col-lg-4 col-xl-6 mb-5 mb-lg-0">
+          <div class="inner-container px-xl-5">
+            <ul class="list-inline mb-0"><li class="first"><a href="/">Главная</a></li><li><a href="company/">О компании</a></li><li><a href="liczenzii/">Лицензии</a></li><li class="active"><a href="raskryitie-informaczii/">Раскрытие информации</a></li><li><a href="paevyie-investiczionnyie-fondyi/">Паевые инвестиционные фонды</a></li><li><a href="nedvizhimost-v-upravlenii/">Недвижимость в управлении</a></li><li><a href="novosti.html">Новости</a></li><li class="last"><a href="kontaktyi.html">Контакты</a></li></ul>
+          </div>
+        </div>
+        <div class="col-12 col-lg-4 col-xl-3">
+          <div class="search"><form action="rezultat-poiska.html" method="get">
+  <div class="form-group">
+    <input type="search" name="search" id="search" value="" class="form-control" placeholder="Найти" required="">
+  </div>
+  <input type="hidden" name="id" value="14">
+</form></div>
+          <div class="creator text-lg-right">
+            <a href="https://www.ultrasite.ru/" target="_blank">
+              <img class="img-fluid" src="/assets/custom/images/creator.png" alt="">
+            </a>
+          </div>
+        </div>
+      </div>
+    </div>
+  </div>
+</footer>
+        </main>
+        
+        <script src="/node_modules/jquery/dist/jquery.min.js"></script>
+<script src="/node_modules/bootstrap/dist/js/bootstrap.min.js" defer=""></script>
+<script src="/assets/custom/js/main.js" defer=""></script>
+        <div id="mySidenav" class="sidenav">
+  <div class="header">
+    <a href="javascript:void(0)" class="closebtn" onclick="closeNav()">×</a>
+  </div>
+  <div class="body">
+    <ul class="list-inline mb-0"><li class="first"><a href="/">Главная</a></li><li><a href="company/">О компании</a></li><li><a href="liczenzii/">Лицензии</a></li><li class="active"><a href="raskryitie-informaczii/">Раскрытие информации</a></li><li><a href="paevyie-investiczionnyie-fondyi/">Паевые инвестиционные фонды</a></li><li><a href="nedvizhimost-v-upravlenii/">Недвижимость в управлении</a></li><li><a href="novosti.html">Новости</a></li><li class="last"><a href="kontaktyi.html">Контакты</a></li></ul>
+  </div>
+</div>
+    
+
+                

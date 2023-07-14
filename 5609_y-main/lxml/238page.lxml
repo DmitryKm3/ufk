@@ -1,0 +1,324 @@
+
+<div id="wrapper">
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 0 0" width="0" height="0" focusable="false" role="none" style="visibility: hidden; position: absolute; left: -9999px; overflow: hidden;"><defs><filter id="wp-duotone-dark-grayscale"><feColorMatrix color-interpolation-filters="sRGB" type="matrix" values=" .299 .587 .114 0 0 .299 .587 .114 0 0 .299 .587 .114 0 0 .299 .587 .114 0 0 "></feColorMatrix><feComponentTransfer color-interpolation-filters="sRGB"><feFuncR type="table" tableValues="0 0.49803921568627"></feFuncR><feFuncG type="table" tableValues="0 0.49803921568627"></feFuncG><feFuncB type="table" tableValues="0 0.49803921568627"></feFuncB><feFuncA type="table" tableValues="1 1"></feFuncA></feComponentTransfer><feComposite in2="SourceGraphic" operator="in"></feComposite></filter></defs></svg><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 0 0" width="0" height="0" focusable="false" role="none" style="visibility: hidden; position: absolute; left: -9999px; overflow: hidden;"><defs><filter id="wp-duotone-grayscale"><feColorMatrix color-interpolation-filters="sRGB" type="matrix" values=" .299 .587 .114 0 0 .299 .587 .114 0 0 .299 .587 .114 0 0 .299 .587 .114 0 0 "></feColorMatrix><feComponentTransfer color-interpolation-filters="sRGB"><feFuncR type="table" tableValues="0 1"></feFuncR><feFuncG type="table" tableValues="0 1"></feFuncG><feFuncB type="table" tableValues="0 1"></feFuncB><feFuncA type="table" tableValues="1 1"></feFuncA></feComponentTransfer><feComposite in2="SourceGraphic" operator="in"></feComposite></filter></defs></svg><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 0 0" width="0" height="0" focusable="false" role="none" style="visibility: hidden; position: absolute; left: -9999px; overflow: hidden;"><defs><filter id="wp-duotone-purple-yellow"><feColorMatrix color-interpolation-filters="sRGB" type="matrix" values=" .299 .587 .114 0 0 .299 .587 .114 0 0 .299 .587 .114 0 0 .299 .587 .114 0 0 "></feColorMatrix><feComponentTransfer color-interpolation-filters="sRGB"><feFuncR type="table" tableValues="0.54901960784314 0.98823529411765"></feFuncR><feFuncG type="table" tableValues="0 1"></feFuncG><feFuncB type="table" tableValues="0.71764705882353 0.25490196078431"></feFuncB><feFuncA type="table" tableValues="1 1"></feFuncA></feComponentTransfer><feComposite in2="SourceGraphic" operator="in"></feComposite></filter></defs></svg><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 0 0" width="0" height="0" focusable="false" role="none" style="visibility: hidden; position: absolute; left: -9999px; overflow: hidden;"><defs><filter id="wp-duotone-blue-red"><feColorMatrix color-interpolation-filters="sRGB" type="matrix" values=" .299 .587 .114 0 0 .299 .587 .114 0 0 .299 .587 .114 0 0 .299 .587 .114 0 0 "></feColorMatrix><feComponentTransfer color-interpolation-filters="sRGB"><feFuncR type="table" tableValues="0 1"></feFuncR><feFuncG type="table" tableValues="0 0.27843137254902"></feFuncG><feFuncB type="table" tableValues="0.5921568627451 0.27843137254902"></feFuncB><feFuncA type="table" tableValues="1 1"></feFuncA></feComponentTransfer><feComposite in2="SourceGraphic" operator="in"></feComposite></filter></defs></svg><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 0 0" width="0" height="0" focusable="false" role="none" style="visibility: hidden; position: absolute; left: -9999px; overflow: hidden;"><defs><filter id="wp-duotone-midnight"><feColorMatrix color-interpolation-filters="sRGB" type="matrix" values=" .299 .587 .114 0 0 .299 .587 .114 0 0 .299 .587 .114 0 0 .299 .587 .114 0 0 "></feColorMatrix><feComponentTransfer color-interpolation-filters="sRGB"><feFuncR type="table" tableValues="0 0"></feFuncR><feFuncG type="table" tableValues="0 0.64705882352941"></feFuncG><feFuncB type="table" tableValues="0 1"></feFuncB><feFuncA type="table" tableValues="1 1"></feFuncA></feComponentTransfer><feComposite in2="SourceGraphic" operator="in"></feComposite></filter></defs></svg><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 0 0" width="0" height="0" focusable="false" role="none" style="visibility: hidden; position: absolute; left: -9999px; overflow: hidden;"><defs><filter id="wp-duotone-magenta-yellow"><feColorMatrix color-interpolation-filters="sRGB" type="matrix" values=" .299 .587 .114 0 0 .299 .587 .114 0 0 .299 .587 .114 0 0 .299 .587 .114 0 0 "></feColorMatrix><feComponentTransfer color-interpolation-filters="sRGB"><feFuncR type="table" tableValues="0.78039215686275 1"></feFuncR><feFuncG type="table" tableValues="0 0.94901960784314"></feFuncG><feFuncB type="table" tableValues="0.35294117647059 0.47058823529412"></feFuncB><feFuncA type="table" tableValues="1 1"></feFuncA></feComponentTransfer><feComposite in2="SourceGraphic" operator="in"></feComposite></filter></defs></svg><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 0 0" width="0" height="0" focusable="false" role="none" style="visibility: hidden; position: absolute; left: -9999px; overflow: hidden;"><defs><filter id="wp-duotone-purple-green"><feColorMatrix color-interpolation-filters="sRGB" type="matrix" values=" .299 .587 .114 0 0 .299 .587 .114 0 0 .299 .587 .114 0 0 .299 .587 .114 0 0 "></feColorMatrix><feComponentTransfer color-interpolation-filters="sRGB"><feFuncR type="table" tableValues="0.65098039215686 0.40392156862745"></feFuncR><feFuncG type="table" tableValues="0 1"></feFuncG><feFuncB type="table" tableValues="0.44705882352941 0.4"></feFuncB><feFuncA type="table" tableValues="1 1"></feFuncA></feComponentTransfer><feComposite in2="SourceGraphic" operator="in"></feComposite></filter></defs></svg><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 0 0" width="0" height="0" focusable="false" role="none" style="visibility: hidden; position: absolute; left: -9999px; overflow: hidden;"><defs><filter id="wp-duotone-blue-orange"><feColorMatrix color-interpolation-filters="sRGB" type="matrix" values=" .299 .587 .114 0 0 .299 .587 .114 0 0 .299 .587 .114 0 0 .299 .587 .114 0 0 "></feColorMatrix><feComponentTransfer color-interpolation-filters="sRGB"><feFuncR type="table" tableValues="0.098039215686275 1"></feFuncR><feFuncG type="table" tableValues="0 0.66274509803922"></feFuncG><feFuncB type="table" tableValues="0.84705882352941 0.41960784313725"></feFuncB><feFuncA type="table" tableValues="1 1"></feFuncA></feComponentTransfer><feComposite in2="SourceGraphic" operator="in"></feComposite></filter></defs></svg>	
+<div id="page" class="site">
+	<a class="skip-link spicepress-screen-reader" href="#content">Skip to content</a>
+<!--Logo & Menu Section-->	
+<nav class=" navbar navbar-custom left">
+	<div class="container-fluid p-l-r-0">
+		<!-- Brand and toggle get grouped for better mobile display -->
+			<div class="navbar-header">
+			<a href="https://mcapitaluk.ru/" class="navbar-brand " rel="home"><img width="105" height="105" src="https://mcapitaluk.ru/wp-content/uploads/2022/01/0008-logo2.jpg" class="custom-logo" alt="М-Капитал" decoding="async"></a>			<div class="site-branding-text">
+				<h1 class="site-title"><a href="https://mcapitaluk.ru/" rel="home">М-Капитал</a></h1>
+									<p class="site-description">Управляющая компания</p>
+							</div>
+			<button class="navbar-toggle" type="button" data-toggle="collapse" data-target="#custom-collapse">
+				<span class="sr-only">Показать/Скрыть навигацию</span>
+				<span class="icon-bar"></span>
+				<span class="icon-bar"></span>
+				<span class="icon-bar"></span>
+			</button>
+		</div>
+	
+		<!-- Collect the nav links, forms, and other content for toggling -->
+		<div id="custom-collapse" class="collapse navbar-collapse">
+					<ul id="menu-main-menu-001" class="nav navbar-nav navbar-right"><li id="menu-item-24" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-home menu-item-24"><a href="https://mcapitaluk.ru/">Главная</a></li>
+<li id="menu-item-27" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-27"><a href="https://mcapitaluk.ru/about/">О компании</a></li>
+<li id="menu-item-28" class="menu-item menu-item-type-post_type menu-item-object-page current-menu-ancestor current-menu-parent current_page_parent current_page_ancestor menu-item-has-children menu-item-28 active dropdown"><a href="https://mcapitaluk.ru/disclosure-of-information/" class="dropdown-toggle">Раскрытие информации в соответствии с законодательством<b class="caret"></b></a>
+<ul class="dropdown-menu">
+	<li id="menu-item-187" class="menu-item menu-item-type-post_type menu-item-object-page current-menu-item page_item page-item-179 current_page_item menu-item-187 active"><a href="https://mcapitaluk.ru/%d1%80%d0%b0%d1%81%d1%87%d0%b5%d1%82-%d1%81%d0%be%d0%b1%d1%81%d1%82%d0%b2%d0%b5%d0%bd%d0%bd%d1%8b%d1%85-%d1%81%d1%80%d0%b5%d0%b4%d1%81%d1%82%d0%b2/">Расчет собственных средств</a></li>
+	<li id="menu-item-31" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-31"><a href="https://mcapitaluk.ru/disclosure-of-information/organization-s-reporting/">Отчетность</a></li>
+	<li id="menu-item-29" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-29"><a href="https://mcapitaluk.ru/disclosure-of-information/internal-documents/">Информация о структуре и составе участников</a></li>
+	<li id="menu-item-188" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-188"><a href="https://mcapitaluk.ru/%d0%b8%d0%bd%d0%b0%d1%8f-%d0%b8%d0%bd%d1%84%d0%be%d1%80%d0%bc%d0%b0%d1%86%d0%b8%d1%8f-%d0%b8-%d0%b4%d0%be%d0%ba%d1%83%d0%bc%d0%b5%d0%bd%d1%82%d1%8b/">Иная информация и документы</a></li>
+	<li id="menu-item-332" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-332"><a href="https://mcapitaluk.ru/disclosure-of-information/%d0%b8%d0%bd%d1%84%d0%be%d1%80%d0%bc%d0%b0%d1%86%d0%b8%d0%be%d0%bd%d0%bd%d0%b0%d1%8f-%d0%b1%d0%b5%d0%b7%d0%be%d0%bf%d0%b0%d1%81%d0%bd%d0%be%d1%81%d1%82%d1%8c/">Информационная безопасность</a></li>
+	<li id="menu-item-174" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-174"><a href="https://mcapitaluk.ru/%d0%b8%d0%bd%d1%81%d0%b0%d0%b9%d0%b4%d0%b5%d1%80%d1%81%d0%ba%d0%b0%d1%8f-%d0%b8%d0%bd%d1%84%d0%be%d1%80%d0%bc%d0%b0%d1%86%d0%b8%d1%8f/">Инсайдерская информация</a></li>
+	<li id="menu-item-175" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-175"><a href="https://mcapitaluk.ru/%d0%bf%d1%80%d0%be%d1%82%d0%b8%d0%b2%d0%be%d0%b4%d0%b5%d0%b9%d1%81%d1%82%d0%b2%d0%b8%d0%b5-%d0%bb%d0%b5%d0%b3%d0%b0%d0%bb%d0%b8%d0%b7%d0%b0%d1%86%d0%b8%d0%b8-%d0%b4%d0%be%d1%85%d0%be%d0%b4%d0%be%d0%b2/">Противодействие легализации доходов</a></li>
+	<li id="menu-item-185" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-185"><a href="https://mcapitaluk.ru/%d1%81%d0%be%d0%be%d0%b1%d1%89%d0%b5%d0%bd%d0%b8%d1%8f-%d0%be-%d1%82%d0%b5%d1%85%d0%bd%d0%b8%d1%87%d0%b5%d1%81%d0%ba%d0%b8%d1%85-%d0%bd%d0%b5%d0%bf%d0%be%d0%bb%d0%b0%d0%b4%d0%ba%d0%b0%d1%85/">Сообщения о технических неполадках</a></li>
+	<li id="menu-item-186" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-186"><a href="https://mcapitaluk.ru/%d1%81%d0%be%d0%be%d0%b1%d1%89%d0%b5%d0%bd%d0%b8%d1%8f/">Сообщения</a></li>
+</ul>
+</li>
+<li id="menu-item-39" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-39"><a href="https://mcapitaluk.ru/funds/">Фонды</a></li>
+<li id="menu-item-38" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-38"><a href="https://mcapitaluk.ru/category/news/">Новости</a></li>
+<li id="menu-item-43" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-43"><a href="https://mcapitaluk.ru/feedback/">Контакты</a></li>
+</ul>				
+		</div><!-- /.navbar-collapse -->
+	</div><!-- /.container-fluid -->
+</nav>	
+<!--/Logo & Menu Section-->	
+
+
+
+<div class="clearfix"></div>	<section class="slider" style="position:relative;">
+		<div class="item" style="background-image:url(http://mcapitaluk.ru/wp-content/uploads/2022/01/main-banner3.jpg); width: 100%; height: 90vh; background-position: center center; background-size: cover; z-index: 0;">
+					<div class="overlay" style="background-color:rgba(232,199,192,0.3)"></div>
+						<div class="container">
+					<div class="format-standard">
+												<div class="slide-text-bg1">
+												<h1>ООО&nbsp;"УК&nbsp;"М&nbsp;-&nbsp;Капитал"</h1>
+												<p>Раскроем&nbsp;потенциал&nbsp;ваших&nbsp;финансов</p>
+												</div>
+												
+					</div>	
+				</div>	
+			</div>
+	</section>	
+				<!-- Page Title Section -->
+		<section class="page-title-section">
+			<div class="overlay">
+				<div class="container">
+					<div class="row">
+						<div class="col-md-6 col-sm-6">
+						   <div class="page-title wow bounceInLeft animated" ata-wow-delay="0.4s" style="visibility: hidden; animation-name: none;"><h1>Расчет собственных средств</h1></div>						</div>
+						<div class="col-md-6 col-sm-6">
+							<ul class="page-breadcrumb wow bounceInRight animated" ata-wow-delay="0.4s" style="visibility: hidden; animation-name: none;"><li><a href="https://mcapitaluk.ru/">Главная</a></li><li class="active"><a href="https://mcapitaluk.ru:443/%d1%80%d0%b0%d1%81%d1%87%d0%b5%d1%82-%d1%81%d0%be%d0%b1%d1%81%d1%82%d0%b2%d0%b5%d0%bd%d0%bd%d1%8b%d1%85-%d1%81%d1%80%d0%b5%d0%b4%d1%81%d1%82%d0%b2/">Расчет собственных средств</a></li></ul>						</div>
+					</div>
+				</div>
+			</div>
+		</section>
+		<div class="page-seperate"></div>
+		<!-- /Page Title Section -->
+
+		<div class="clearfix"></div>
+	<!-- Blog & Sidebar Section -->
+<div id="content">
+<section class="blog-section">
+	<div class="container">
+		<div class="row">	
+			<!--Blog Section-->
+			<div class="col-md-8 col-sm-7 col-xs-12">				<article class="post" id="post-179" data-wow-delay="0.4s">
+			
+				
+		
+		
+		<div class="post-content">					
+			<div class="entry-content">
+			
+<p></p>
+
+
+
+<p>&nbsp;</p>
+
+
+
+<p></p>
+
+
+
+<p></p>
+
+
+
+<p></p>
+
+
+
+<p></p>
+
+
+
+<p></p>
+
+
+
+<p></p>
+
+
+
+<p></p>
+
+
+
+<p></p>
+
+
+
+<p></p>
+
+
+
+<p></p>
+
+
+
+<p></p>
+
+
+
+<p></p>
+
+
+
+<p></p>
+
+
+
+<p></p>
+
+
+
+<p></p>
+
+
+
+<p></p>
+
+
+
+<p></p>
+
+
+
+<p></p>
+
+
+
+<p><a href="http://mcapitaluk.ru/wp-content/uploads/2023/06/Для-сайта-РСС-0523.pdf" data-type="URL" data-id="http://mcapitaluk.ru/wp-content/uploads/2023/06/Для-сайта-РСС-0523.pdf">Расчет собственных средств на 31.05.2023</a> (доступен с 15.06.2023 11:43, доступен по 15.06.2026)</p>
+
+
+
+<p><a href="http://mcapitaluk.ru/wp-content/uploads/2023/06/Для-сайта-РСС-0423.pdf" data-type="URL" data-id="http://mcapitaluk.ru/wp-content/uploads/2023/06/Для-сайта-РСС-0423.pdf">Расчет собственных средств на 30.04.2023</a> (доступен с 16.05.2023 18:20, доступен по 16.05.2026)</p>
+
+
+
+<p><a href="http://mcapitaluk.ru/wp-content/uploads/2023/04/Для-сайта-РСС-март-2023.pdf" data-type="URL" data-id="http://mcapitaluk.ru/wp-content/uploads/2023/04/Для-сайта-РСС-март-2023.pdf">Расчет собственных средств на 31.03.2023</a> (доступен с 13.04.2023 13:19,  доступен по 13.04.2026)</p>
+
+
+
+<p><a href="http://mcapitaluk.ru/wp-content/uploads/2023/03/Для-сайта-РСС-02.2028.pdf" data-type="URL" data-id="http://mcapitaluk.ru/wp-content/uploads/2023/03/Для-сайта-РСС-02.2028.pdf">Расчет собственных средств на 28.02.2023</a> (доступен с 14.03.2023 15:50,  доступен по 14.03.2026)</p>
+
+
+
+<p><a href="http://mcapitaluk.ru/wp-content/uploads/2023/02/Для-сайта-РСС-на-январь-2023-2.pdf" data-type="URL" data-id="http://mcapitaluk.ru/wp-content/uploads/2023/02/Для-сайта-РСС-на-январь-2023-2.pdf">Расчет собственных средств на 31.01.2023</a> (доступен с 14.02.2023 09:50,  доступен по 14.02.2026)</p>
+
+
+
+<p><a href="http://mcapitaluk.ru/wp-content/uploads/2023/01/Расчет-собственных-средств-за-декабрь-2022.pdf" data-type="URL" data-id="http://mcapitaluk.ru/wp-content/uploads/2023/01/Расчет-собственных-средств-за-декабрь-2022.pdf">Расчет собственных средств на 31.12.2022</a> (доступен с 19.01.2023 13:21,  доступен по 19.01.2026)</p>
+
+
+
+<p></p>
+
+
+
+<p></p>
+
+
+
+<p></p>
+
+
+
+<p class="has-small-font-size">Стоимость инвестиционных паев может увеличиваться и уменьшаться. Результаты инвестирования в прошлом не определяют доходы в будущем. Государство не гарантирует доходность инвестиций в инвестиционные фонды. Прежде чем приобрести инвестиционный пай, следует внимательно ознакомиться с инвестиционной декларацией и правилами доверительного управления паевым инвестиционным фондом. Лицензия «Управляющая компания «М-Капитал» на осуществление деятельности по управлению инвестиционными фондами, паевыми инвестиционными фондами и негосударственными пенсионными фондами&nbsp; №21-000-1-01058, выданная Банком России 16 мая 2022 &nbsp;г., без ограничения срока действия. До приобретения инвестиционных паев получить подробную информацию о паевых инвестиционных фондах под управлением ООО «УК «М-Капитал», ознакомиться с правилами доверительного управления паевых инвестиционных фондов под управлением ООО «УК «М-Капитал», а также получить сведения об ООО «УК «М-Капитал» и иную информацию, предусмотренную законодательством РФ и нормативными правовыми актами Российской Федерации можно по адресу: Российская Федерация 123317,&nbsp;город Москва,&nbsp;Стрельбищенский пер, д. 30 стр. 1а, помещ. 140, ,по телефону: +7 (495) 212-10-64, а также на сайте ООО «УК «М-Капитал» в сети интернет по адресу: <a href="https://mcapitaluk.ru/">https://mcapitaluk.ru/</a>. Информация, подлежащая опубликованию в печатном издании, публикуется в информационном бюллетене «Приложение к Вестнику Федеральной службы по финансовым рынкам». ООО «УК «М-Капитал» информирует об отсутствии совмещения деятельности по доверительному управлению паевыми инвестиционными фондами с иными видами деятельности.</p>
+			</div>							
+		</div>
+</article>
+
+
+
+
+			</div>	
+			<!--/Blog Section-->
+			
+<!--Sidebar Section-->
+<div class="col-md-4 col-sm-5 col-xs-12">
+	<div class="sidebar">
+		<aside id="block-3" class="widget widget_block wow fadeInDown animated" data-wow-delay="0.4s" style="visibility: hidden; animation-delay: 0.4s; animation-name: none;">
+<div class="wp-block-group is-layout-flow"><div class="wp-block-group__inner-container"></div></div>
+</aside><aside id="block-4" class="widget widget_block wow fadeInDown animated" data-wow-delay="0.4s" style="visibility: hidden; animation-delay: 0.4s; animation-name: none;">
+<div class="wp-block-group is-layout-flow"><div class="wp-block-group__inner-container"></div></div>
+</aside><aside id="block-5" class="widget widget_block wow fadeInDown animated" data-wow-delay="0.4s" style="visibility: hidden; animation-delay: 0.4s; animation-name: none;">
+<div class="wp-block-group is-layout-flow"><div class="wp-block-group__inner-container">
+<h2 class="wp-block-heading">Архивы</h2>
+
+
+<ul class="wp-block-archives-list wp-block-archives">	<li><a href="https://mcapitaluk.ru/2023/01/">Январь 2023</a></li>
+	<li><a href="https://mcapitaluk.ru/2021/12/">Декабрь 2021</a></li>
+</ul></div></div>
+</aside><aside id="block-6" class="widget widget_block wow fadeInDown animated" data-wow-delay="0.4s" style="visibility: hidden; animation-delay: 0.4s; animation-name: none;">
+<div class="wp-block-group is-layout-flow"><div class="wp-block-group__inner-container">
+<h2 class="wp-block-heading">Рубрики</h2>
+
+
+<ul class="wp-block-categories-list wp-block-categories">	<li class="cat-item cat-item-3"><a href="https://mcapitaluk.ru/category/news/">Новости</a>
+</li>
+</ul></div></div>
+</aside><aside id="block-7" class="widget widget_block widget_text wow fadeInDown animated" data-wow-delay="0.4s" style="visibility: hidden; animation-delay: 0.4s; animation-name: none;">
+<p></p>
+</aside>	
+	</div>
+</div>	
+<!--Sidebar Section-->
+		</div>
+	</div>
+</section>
+</div>
+<!-- /Blog & Sidebar Section -->
+
+<!-- Footer Section -->
+<footer class="site-footer">
+	<div class="container">
+				
+		<div class="row footer-sidebar">
+						<div class="col-md-4">		
+				<aside id="nav_menu-2" class="widget widget_nav_menu wow fadeInDown animated" data-wow-delay="0.4s" style="visibility: hidden; animation-delay: 0.4s; animation-name: none;"><div class="menu-main-menu-001-container"><ul id="menu-main-menu-2" class="menu"><li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-home menu-item-24"><a href="https://mcapitaluk.ru/">Главная</a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-27"><a href="https://mcapitaluk.ru/about/">О компании</a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page current-menu-ancestor current-menu-parent current_page_parent current_page_ancestor menu-item-has-children menu-item-28 active"><a href="https://mcapitaluk.ru/disclosure-of-information/">Раскрытие информации в соответствии с законодательством</a>
+<ul class="sub-menu">
+	<li class="menu-item menu-item-type-post_type menu-item-object-page current-menu-item page_item page-item-179 current_page_item menu-item-187 active"><a href="https://mcapitaluk.ru/%d1%80%d0%b0%d1%81%d1%87%d0%b5%d1%82-%d1%81%d0%be%d0%b1%d1%81%d1%82%d0%b2%d0%b5%d0%bd%d0%bd%d1%8b%d1%85-%d1%81%d1%80%d0%b5%d0%b4%d1%81%d1%82%d0%b2/" aria-current="page">Расчет собственных средств</a></li>
+	<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-31"><a href="https://mcapitaluk.ru/disclosure-of-information/organization-s-reporting/">Отчетность</a></li>
+	<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-29"><a href="https://mcapitaluk.ru/disclosure-of-information/internal-documents/">Информация о структуре и составе участников</a></li>
+	<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-188"><a href="https://mcapitaluk.ru/%d0%b8%d0%bd%d0%b0%d1%8f-%d0%b8%d0%bd%d1%84%d0%be%d1%80%d0%bc%d0%b0%d1%86%d0%b8%d1%8f-%d0%b8-%d0%b4%d0%be%d0%ba%d1%83%d0%bc%d0%b5%d0%bd%d1%82%d1%8b/">Иная информация и документы</a></li>
+	<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-332"><a href="https://mcapitaluk.ru/disclosure-of-information/%d0%b8%d0%bd%d1%84%d0%be%d1%80%d0%bc%d0%b0%d1%86%d0%b8%d0%be%d0%bd%d0%bd%d0%b0%d1%8f-%d0%b1%d0%b5%d0%b7%d0%be%d0%bf%d0%b0%d1%81%d0%bd%d0%be%d1%81%d1%82%d1%8c/">Информационная безопасность</a></li>
+	<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-174"><a href="https://mcapitaluk.ru/%d0%b8%d0%bd%d1%81%d0%b0%d0%b9%d0%b4%d0%b5%d1%80%d1%81%d0%ba%d0%b0%d1%8f-%d0%b8%d0%bd%d1%84%d0%be%d1%80%d0%bc%d0%b0%d1%86%d0%b8%d1%8f/">Инсайдерская информация</a></li>
+	<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-175"><a href="https://mcapitaluk.ru/%d0%bf%d1%80%d0%be%d1%82%d0%b8%d0%b2%d0%be%d0%b4%d0%b5%d0%b9%d1%81%d1%82%d0%b2%d0%b8%d0%b5-%d0%bb%d0%b5%d0%b3%d0%b0%d0%bb%d0%b8%d0%b7%d0%b0%d1%86%d0%b8%d0%b8-%d0%b4%d0%be%d1%85%d0%be%d0%b4%d0%be%d0%b2/">Противодействие легализации доходов</a></li>
+	<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-185"><a href="https://mcapitaluk.ru/%d1%81%d0%be%d0%be%d0%b1%d1%89%d0%b5%d0%bd%d0%b8%d1%8f-%d0%be-%d1%82%d0%b5%d1%85%d0%bd%d0%b8%d1%87%d0%b5%d1%81%d0%ba%d0%b8%d1%85-%d0%bd%d0%b5%d0%bf%d0%be%d0%bb%d0%b0%d0%b4%d0%ba%d0%b0%d1%85/">Сообщения о технических неполадках</a></li>
+	<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-186"><a href="https://mcapitaluk.ru/%d1%81%d0%be%d0%be%d0%b1%d1%89%d0%b5%d0%bd%d0%b8%d1%8f/">Сообщения</a></li>
+</ul>
+</li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-39"><a href="https://mcapitaluk.ru/funds/">Фонды</a></li>
+<li class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-38"><a href="https://mcapitaluk.ru/category/news/">Новости</a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-43"><a href="https://mcapitaluk.ru/feedback/">Контакты</a></li>
+</ul></div></aside>			
+			</div>
+						
+						<div class="col-md-4">		
+				<aside id="block-8" class="widget widget_block wow fadeInDown animated" data-wow-delay="0.4s" style="visibility: hidden; animation-delay: 0.4s; animation-name: none;"><p>Лицензия Банка России на осуществление деятельности по управлению инвестиционными фондами, паевыми инвестиционными фондами и негосударственными пенсионными фондами № 21-000-1-01058 от «16» мая 2022 года</p></aside><aside id="block-9" class="widget widget_block wow fadeInDown animated" data-wow-delay="0.4s" style="visibility: hidden; animation-delay: 0.4s; animation-name: none;"><p>До приобретения инвестиционных паев получить подробную информацию о паевых инвестиционных фондах и ознакомиться с правилами доверительного управления фондами, а также с иными документами, предусмотренными законодательством можно в офисе ООО "УК "М-Капитал"  по адресу: 123317, Российская Федерация, город Москва, Стрельбищенский переулок, дом 30, строение 1А, помещение 140. Тел.: + 7 (495) 212-10-64. Иные источники информации, в которых в соответствии с правилами доверительного управления фондом раскрыта или может быть раскрыта соответствующая информация: сайт ООО "УК "М-Капитал"  в информационной сети Интернет: https://mcapitaluk.ru/, печатное издание «Приложение к Вестнику Федеральной службы по финансовым рынкам».</p></aside>			
+			</div>
+						
+						<div class="col-md-4">		
+				<aside id="block-10" class="widget widget_block wow fadeInDown animated" data-wow-delay="0.4s" style="visibility: hidden; animation-delay: 0.4s; animation-name: none;"><p>ООО "УК "М-Капитал" не дает гарантий или заверений и не принимает какой-либо ответственности в отношении финансовых результатов, полученных на основании использования информации, содержащейся в настоящем сайте. ООО "УК "М-Капитал" рекомендует клиентам не полагаться на какие-либо опубликованные на настоящем сайте сведения в процессе принятия инвестиционного решения, которое должно быть основано на исчерпывающей информации. Показатели доходности инвестиций в прошлом не могут служить ориентиром для оценки результативности инвестиций в будущем.</p></aside><aside id="block-11" class="widget widget_block wow fadeInDown animated" data-wow-delay="0.4s" style="visibility: hidden; animation-delay: 0.4s; animation-name: none;"><p>Стоимость инвестиционных паев может увеличиваться и уменьшаться, результаты инвестирования в прошлом не определяют доходы в будущем, государство не гарантирует доходность инвестиций в инвестиционные фонды. Прежде чем приобрести инвестиционный пай, следует внимательно ознакомиться с правилами доверительного управления инвестиционного фондом.</p></aside>			
+			</div>
+					</div>
+		
+			<div class="row">
+				<div class="col-md-12">
+											<div class="site-info wow fadeIn animated" data-wow-delay="0.4s" style="visibility: hidden; animation-delay: 0.4s; animation-name: none;">
+						<p>Proudly powered by <a href="https://wordpress.org">WordPress</a> | Theme: <a href="https://spicethemes.com" rel="nofollow">Chilly</a> by SpiceThemes</p>						</div>
+									</div>
+			</div>
+			</div>
+</footer>
+<!-- /Footer Section -->
+<div class="clearfix"></div>
+</div><!--Close of wrapper-->
+<!--Scroll To Top-->
+<a href="#" class="hc_scrollup"><i class="fa fa-chevron-up"></i></a>
+<!--/Scroll To Top-->
+<script type="text/javascript" src="https://mcapitaluk.ru/wp-includes/js/dist/vendor/wp-polyfill-inert.min.js?ver=3.1.2" id="wp-polyfill-inert-js"></script>
+<script type="text/javascript" src="https://mcapitaluk.ru/wp-includes/js/dist/vendor/regenerator-runtime.min.js?ver=0.13.11" id="regenerator-runtime-js"></script>
+<script type="text/javascript" src="https://mcapitaluk.ru/wp-includes/js/dist/vendor/wp-polyfill.min.js?ver=3.15.0" id="wp-polyfill-js"></script>
+<script type="text/javascript" id="contact-form-7-js-extra">
+/* <![CDATA[ */
+var wpcf7 = {"api":{"root":"https:\/\/mcapitaluk.ru\/wp-json\/","namespace":"contact-form-7\/v1"}};
+/* ]]> */
+</script>
+<script type="text/javascript" src="https://mcapitaluk.ru/wp-content/plugins/contact-form-7/includes/js/index.js?ver=5.5.4" id="contact-form-7-js"></script>
+<script type="text/javascript" src="https://mcapitaluk.ru/wp-content/themes/spicepress/js/animation/animate.js?ver=6.2.2" id="animate-js-js"></script>
+<script type="text/javascript" src="https://mcapitaluk.ru/wp-content/themes/spicepress/js/animation/wow.min.js?ver=6.2.2" id="wow-js-js"></script>
+	<script>
+	/(trident|msie)/i.test(navigator.userAgent)&&document.getElementById&&window.addEventListener&&window.addEventListener("hashchange",function(){var t,e=location.hash.substring(1);/^[A-z0-9_-]+$/.test(e)&&(t=document.getElementById(e))&&(/^(?:a|select|input|button|textarea)$/i.test(t.tagName)||(t.tabIndex=-1),t.focus())},!1);
+	</script>
+	
+
+</div>

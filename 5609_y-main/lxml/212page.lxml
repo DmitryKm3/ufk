@@ -1,0 +1,950 @@
+	
+<div id="panel"></div>
+
+<div id="mobile-header" class="d-md-none" style="">
+        <a title="развернуть\свернуть меню" class="toggle-btn float-right"><img src="/bitrix/templates/bootstrap4/components/bitrix/menu/mobile-menu/images/btn-colapse.svg"></a> 
+                <a class="logo" href="/"><img src="/bitrix/templates/bootstrap4/images/logo.svg" alt="максимум лого"></a>
+        </div>
+
+
+<div class="holder-mobile-menu d-md-none">
+<nav class="mobile-menu" style="height: 882px; display: none;">
+    <div class="root-item ">
+        <a href="/about/">О компании</a><div class="submenu-trigger down"></div>
+            <div class="submenu">
+                    <a href="/about/"><span>Лицензия</span></a>
+                    <a href="/about/gramoty.php"><span>Грамоты</span></a>
+                    <a href="/about/sro.php"><span>СРО</span></a>
+                    <a href="/about/vakansii.php"><span>Вакансии</span></a>
+                </div>
+            </div>
+    <div class="root-item ">
+        <a href="/kval/">Фонды в управлении</a>    </div>
+    <div class="root-item current">
+        <a href="/disclosure/">Раскрытие информации в соответствии с законодательством</a><div class="submenu-trigger up"></div>
+            <div class="submenu" style="display: block;">
+                    <a href="/disclosure/rekvizity.php"><span>Реквизиты</span></a>
+                    <a href="/disclosure/index.php"><span>Бухгалтерская и финансовая отчетность</span></a>
+                    <a href="/disclosure/sobstvennye_sredstva.php"><span>Собственные средства</span></a>
+                    <a href="/disclosure/perechen_insayderskoy_informatsii.php"><span>Перечень инсайдерской информации</span></a>
+                    <a href="/disclosure/kvalifitsirovannym-investoram.php"><span>Квалифицированным инвесторам</span></a>
+                    <a href="/disclosure/ogranichenie_dostupa_k_saytu.php"><span>Сообщения о прекращении доступа к раскрываемой информации</span></a>
+                    <a href="/disclosure/soobshcheniya.php"><span>Сообщения об обнаружении неточных, неполных сведений</span></a>
+                    <a href="/disclosure/edo.php"><span>ЭДО</span></a>
+                    <a href="/disclosure/inaya-informatsiya.php"><span>Иная информация</span></a>
+                </div>
+            </div>
+    <div class="root-item ">
+        <a href="/informatsiya/">Полезная информация</a><div class="submenu-trigger down"></div>
+            <div class="submenu">
+                    <a href="/informatsiya/"><span>Что такое паевой инвестиционный фонд</span></a>
+                    <a href="/informatsiya/law.php"><span>Федеральные законы</span></a>
+                    <a href="/informatsiya/postanovleniya.php"><span>Постановления</span></a>
+                    <a href="/informatsiya/ukazaniya.php"><span>Указания</span></a>
+                    <a href="/informatsiya/prikazy.php"><span>Приказы</span></a>
+                    <a href="/informatsiya/pisma.php"><span>Письма</span></a>
+                    <a href="/informatsiya/links.php"><span>Ссылки</span></a>
+                </div>
+            </div>
+    <div class="root-item ">
+        <a href="/partners/">Партнеры</a>    </div>
+    <div class="root-item ">
+        <a href="/contact/">Контакты</a>    </div>
+    <div class="panel-info">
+        </div>
+</nav>
+</div>  
+
+<main>
+    <aside class="d-none d-md-block">
+                <a class="logo" href="/"><img src="/bitrix/templates/bootstrap4/images/logo.svg" alt="максимум лого"></a>
+                
+        
+
+<nav class="left_menu">
+<a href="/about/" class=" has-children">О компании</a>
+			<div class="level2">
+					<a href="/about/">Лицензия</a>			
+					<a href="/about/gramoty.php">Грамоты</a>			
+					<a href="/about/sro.php">СРО</a>			
+					<a href="/about/vakansii.php">Вакансии</a>			
+				</div>
+	<a href="/kval/" class="">Фонды в управлении</a>
+	<a href="/disclosure/" class="selected has-children">Раскрытие информации в соответствии с законодательством</a>
+			<div class="level2">
+					<a href="/disclosure/rekvizity.php">Реквизиты</a>			
+					<a href="/disclosure/index.php">Бухгалтерская и финансовая отчетность</a>			
+					<a href="/disclosure/sobstvennye_sredstva.php" class="selected">Собственные средства</a>			
+					<a href="/disclosure/perechen_insayderskoy_informatsii.php">Перечень инсайдерской информации</a>			
+					<a href="/disclosure/kvalifitsirovannym-investoram.php">Квалифицированным инвесторам</a>			
+					<a href="/disclosure/ogranichenie_dostupa_k_saytu.php">Сообщения о прекращении доступа к раскрываемой информации</a>			
+					<a href="/disclosure/soobshcheniya.php">Сообщения об обнаружении неточных, неполных сведений</a>			
+					<a href="/disclosure/edo.php">ЭДО</a>			
+					<a href="/disclosure/inaya-informatsiya.php">Иная информация</a>			
+				</div>
+	<a href="/informatsiya/" class=" has-children">Полезная информация</a>
+			<div class="level2">
+					<a href="/informatsiya/">Что такое паевой инвестиционный фонд</a>			
+					<a href="/informatsiya/law.php">Федеральные законы</a>			
+					<a href="/informatsiya/postanovleniya.php">Постановления</a>			
+					<a href="/informatsiya/ukazaniya.php">Указания</a>			
+					<a href="/informatsiya/prikazy.php">Приказы</a>			
+					<a href="/informatsiya/pisma.php">Письма</a>			
+					<a href="/informatsiya/links.php">Ссылки</a>			
+				</div>
+	<a href="/partners/" class="">Партнеры</a>
+	<a href="/contact/" class="">Контакты</a>
+	</nav>
+        <div class="contacts">
+            <p class="phone">тел.: +7 (812) 677 75 02</p>
+<p class="office"><a href="/contact/">Наш офис</a></p>        </div>
+        <section>
+        
+<div class="news-sect">
+<h3 class="mb-3">Новости</h3>
+		<div class="news-sect-item" id="bx_3218110189_5971">
+		<div class="small">24.05.2023</div>
+		<a href="/news/5971/"><b>Квалифицированным инвесторам – физическим лицам.</b></a>
+		<p></p>
+	</div>
+		<div class="news-sect-item" id="bx_3218110189_5906">
+		<div class="small">26.04.2023</div>
+		<a href="/news/5906/"><b>О публикации на сайте сообщения о прекращении Комбинированного ЗПИФ «ЛАДОЖСКИЙ» </b></a>
+		<p></p>
+	</div>
+		<div class="news-sect-item" id="bx_3218110189_5796">
+		<div class="small">18.01.2023</div>
+		<a href="/news/5796/"><b>О внесении 16.01.2023г. Банком России в реестр паевых инвестиционных фондов сведений о Комбинированном ЗПИФ «ФАКТОР ПЛЮС»</b></a>
+		<p></p>
+	</div>
+<a href="/news/">Все новости</a>
+</div>
+   
+        </section>     
+    </aside>    
+	<article>
+        <div class="sect-image" style="background-image: url(/bitrix/templates/bootstrap4/images/sect_image/Adepta_banner_main.jpg)"></div>
+		        <div class="container-fluid">
+            <div class="row justify-content-center">
+                <div class="col-md-10 ie11fix">
+                                <h1 class="header_line">Собственные средства</h1>
+                 
+		       
+           
+<div class="fund_section">
+	<div class="pb-4"><p>Данная информация доступна на сайте в течение трех лет со дня ее раскрытия.</p>
+
+<p>ООО УК «МАКСИМУМ» размещает информацию о расчете размера собственных средств Компании:</p></div>
+	<div class="row">
+				<div class="col-6 col-lg-4 document" id="bx_3966226736_5990">
+			<a href="/upload/iblock/002/ruxuzkyaghgqur6xffwfx7ziri2d90wg.pdf" title="Расчет собственных средств управляющей компании на 31.05.2023г.">
+				<img src="/bitrix/templates/bootstrap4/images/icons/document_icon.svg">
+				<span class="name">Расчет собственных средств управляющей компании на 31.05.2023г.</span>					
+            				<span class="pub_date small">Опубликовано: 14.06.2023</span>
+                        </a>
+		</div>
+				<div class="col-6 col-lg-4 document" id="bx_3966226736_5953">
+			<a href="/upload/iblock/2ed/dub20wnbajo9pnn6dhhrfex222f03218.pdf" title="Расчет собственных средств управляющей компании на 30.04.2023г.">
+				<img src="/bitrix/templates/bootstrap4/images/icons/document_icon.svg">
+				<span class="name">Расчет собственных средств управляющей компании на 30.04.2023г.</span>					
+            				<span class="pub_date small">Опубликовано: 17.05.2023</span>
+                        </a>
+		</div>
+				<div class="col-6 col-lg-4 document" id="bx_3966226736_5885">
+			<a href="/upload/iblock/2c2/sg4m74oh5qhkmy2jws8o3003drnuhhik.pdf" title="Расчет собственных средств управляющей компании на 31.03.2023г.">
+				<img src="/bitrix/templates/bootstrap4/images/icons/document_icon.svg">
+				<span class="name">Расчет собственных средств управляющей компании на 31.03.2023г.</span>					
+            				<span class="pub_date small">Опубликовано: 14.04.2023</span>
+                        </a>
+		</div>
+				<div class="col-6 col-lg-4 document" id="bx_3966226736_5850">
+			<a href="/upload/iblock/54a/4lc0t9ut8svr80wn48r86oifp6iyt7c1.pdf" title="Расчет собственных средств управляющей компании на 28.02.2023г.">
+				<img src="/bitrix/templates/bootstrap4/images/icons/document_icon.svg">
+				<span class="name">Расчет собственных средств управляющей компании на 28.02.2023г.</span>					
+            				<span class="pub_date small">Опубликовано: 14.03.2023</span>
+                        </a>
+		</div>
+				<div class="col-6 col-lg-4 document" id="bx_3966226736_5827">
+			<a href="/upload/iblock/774/i35vpup25xv90tn965da3d7ut6re1u3e.pdf" title="Расчет собственных средств управляющей компании на 31.01.2023г.">
+				<img src="/bitrix/templates/bootstrap4/images/icons/document_icon.svg">
+				<span class="name">Расчет собственных средств управляющей компании на 31.01.2023г.</span>					
+            				<span class="pub_date small">Опубликовано: 14.02.2023</span>
+                        </a>
+		</div>
+				<div class="col-6 col-lg-4 document" id="bx_3966226736_5797">
+			<a href="/upload/iblock/b93/vs57y1ld1rmuwdlb60kgnkoqhyzgr8g5.pdf" title="Расчет собственных средств управляющей компании на 31.12.2022г.">
+				<img src="/bitrix/templates/bootstrap4/images/icons/document_icon.svg">
+				<span class="name">Расчет собственных средств управляющей компании на 31.12.2022г.</span>					
+            				<span class="pub_date small">Опубликовано: 20.01.2023</span>
+                        </a>
+		</div>
+				<div class="col-6 col-lg-4 document" id="bx_3966226736_5751">
+			<a href="/upload/iblock/e9a/0daayktw349srr56tsgn52czk8gq0o5c.pdf" title="Расчет собственных средств управляющей компании на 30.11.2022г.">
+				<img src="/bitrix/templates/bootstrap4/images/icons/document_icon.svg">
+				<span class="name">Расчет собственных средств управляющей компании на 30.11.2022г.</span>					
+            				<span class="pub_date small">Опубликовано: 14.12.2022</span>
+                        </a>
+		</div>
+				<div class="col-6 col-lg-4 document" id="bx_3966226736_5735">
+			<a href="/upload/iblock/737/1y6yttd2byycktity2xrvs24v8r3jsc5.pdf" title="Расчет собственных средств управляющей компании на 31.10.2022г.">
+				<img src="/bitrix/templates/bootstrap4/images/icons/document_icon.svg">
+				<span class="name">Расчет собственных средств управляющей компании на 31.10.2022г.</span>					
+            				<span class="pub_date small">Опубликовано: 15.11.2022</span>
+                        </a>
+		</div>
+				<div class="col-6 col-lg-4 document" id="bx_3966226736_5677">
+			<a href="/upload/iblock/c3d/7sgaj0rgz62gix82zzqdihcw0qom0lpg.pdf" title="Расчет собственных средств управляющей компании на 30.09.2022г.">
+				<img src="/bitrix/templates/bootstrap4/images/icons/document_icon.svg">
+				<span class="name">Расчет собственных средств управляющей компании на 30.09.2022г.</span>					
+            				<span class="pub_date small">Опубликовано: 17.10.2022</span>
+                        </a>
+		</div>
+				<div class="col-6 col-lg-4 document" id="bx_3966226736_5642">
+			<a href="/upload/iblock/f70/7a5ahdxrzi8o6es6b1d10hvg2bmijiq5.pdf" title="Расчет собственных средств управляющей компании на 31.08.2022г.">
+				<img src="/bitrix/templates/bootstrap4/images/icons/document_icon.svg">
+				<span class="name">Расчет собственных средств управляющей компании на 31.08.2022г.</span>					
+            				<span class="pub_date small">Опубликовано: 14.09.2022</span>
+                        </a>
+		</div>
+				<div class="col-6 col-lg-4 document" id="bx_3966226736_5606">
+			<a href="/upload/iblock/81f/y3tx3easfh0lkr97mb0mbyot1yhtokyu.pdf" title="Расчет собственных средств управляющей компании на 31.07.2022г.">
+				<img src="/bitrix/templates/bootstrap4/images/icons/document_icon.svg">
+				<span class="name">Расчет собственных средств управляющей компании на 31.07.2022г.</span>					
+            				<span class="pub_date small">Опубликовано: 12.08.2022</span>
+                        </a>
+		</div>
+				<div class="col-6 col-lg-4 document" id="bx_3966226736_5553">
+			<a href="/upload/iblock/8c6/adp9enhu20vzgj2c1t8ql0p92zqkeohq.pdf" title="Расчет собственных средств управляющей компании на 30.06.2022г.">
+				<img src="/bitrix/templates/bootstrap4/images/icons/document_icon.svg">
+				<span class="name">Расчет собственных средств управляющей компании на 30.06.2022г.</span>					
+            				<span class="pub_date small">Опубликовано: 14.07.2022</span>
+                        </a>
+		</div>
+				<div class="col-6 col-lg-4 document" id="bx_3966226736_5362">
+			<a href="/upload/iblock/348/gl76zwv63x10gcgbbv7z22fnm02150ub.pdf" title="Расчет собственных средств управляющей компании на 31.05.2022г.">
+				<img src="/bitrix/templates/bootstrap4/images/icons/document_icon.svg">
+				<span class="name">Расчет собственных средств управляющей компании на 31.05.2022г.</span>					
+            				<span class="pub_date small">Опубликовано: 15.06.2022</span>
+                        </a>
+		</div>
+				<div class="col-6 col-lg-4 document" id="bx_3966226736_5323">
+			<a href="/upload/iblock/9b8/l20fh5ewihtrahj5rp2s7b0jau12ozhy.pdf" title="Расчет собственных средств управляющей компании на 30.04.2022г. ">
+				<img src="/bitrix/templates/bootstrap4/images/icons/document_icon.svg">
+				<span class="name">Расчет собственных средств управляющей компании на 30.04.2022г. </span>					
+            				<span class="pub_date small">Опубликовано: 19.05.2022</span>
+                        </a>
+		</div>
+				<div class="col-6 col-lg-4 document" id="bx_3966226736_5274">
+			<a href="/upload/iblock/764/d02rhgml9sth8iw04z9kqpfkq0pz6a82.pdf" title="Расчет собственных средств управляющей компании на 31.03.2022г. ">
+				<img src="/bitrix/templates/bootstrap4/images/icons/document_icon.svg">
+				<span class="name">Расчет собственных средств управляющей компании на 31.03.2022г. </span>					
+            				<span class="pub_date small">Опубликовано: 15.04.2022</span>
+                        </a>
+		</div>
+				<div class="col-6 col-lg-4 document" id="bx_3966226736_5225">
+			<a href="/upload/iblock/cac/o7936fnpanooq3k56h7esuktjiovmtr2.pdf" title="Расчет собственных средств управляющей компании на 28.02.2022г. ">
+				<img src="/bitrix/templates/bootstrap4/images/icons/document_icon.svg">
+				<span class="name">Расчет собственных средств управляющей компании на 28.02.2022г. </span>					
+            				<span class="pub_date small">Опубликовано: 16.03.2022</span>
+                        </a>
+		</div>
+				<div class="col-6 col-lg-4 document" id="bx_3966226736_5192">
+			<a href="/upload/iblock/0b0/v25vcs037eepmic79l3bfv7imupj8qdn.pdf" title="Расчет собственных средств управляющей компании на 31.01.2022г. ">
+				<img src="/bitrix/templates/bootstrap4/images/icons/document_icon.svg">
+				<span class="name">Расчет собственных средств управляющей компании на 31.01.2022г. </span>					
+            				<span class="pub_date small">Опубликовано: 15.02.2022</span>
+                        </a>
+		</div>
+				<div class="col-6 col-lg-4 document" id="bx_3966226736_5143">
+			<a href="/upload/iblock/f20/5xbhjv29hnihj6mau31gi96wg3px63tn.pdf" title="Расчет собственных средств управляющей компании на 31.12.2021г. ">
+				<img src="/bitrix/templates/bootstrap4/images/icons/document_icon.svg">
+				<span class="name">Расчет собственных средств управляющей компании на 31.12.2021г. </span>					
+            				<span class="pub_date small">Опубликовано: 21.01.2022</span>
+                        </a>
+		</div>
+				<div class="col-6 col-lg-4 document" id="bx_3966226736_5111">
+			<a href="/upload/iblock/75e/y8u6jqbr7byyxf7kcnub2liyvarehekk.pdf" title="Расчет собственных средств управляющей компании на 30.11.2021г. ">
+				<img src="/bitrix/templates/bootstrap4/images/icons/document_icon.svg">
+				<span class="name">Расчет собственных средств управляющей компании на 30.11.2021г. </span>					
+            				<span class="pub_date small">Опубликовано: 14.12.2021</span>
+                        </a>
+		</div>
+				<div class="col-6 col-lg-4 document" id="bx_3966226736_5108">
+			<a href="/upload/iblock/728/84y39qs7vvu7m8b6o02rmo9micqlm3rk.pdf" title="Расчет собственных средств управляющей компании на 31.10.2021г. ">
+				<img src="/bitrix/templates/bootstrap4/images/icons/document_icon.svg">
+				<span class="name">Расчет собственных средств управляющей компании на 31.10.2021г. </span>					
+            				<span class="pub_date small">Опубликовано: 18.11.2021</span>
+                        </a>
+		</div>
+				<div class="col-6 col-lg-4 document" id="bx_3966226736_5037">
+			<a href="/upload/iblock/49d/adiaffbvmweigohw91iyi43wvhi5y6bz.pdf" title="Расчет собственных средств управляющей компании на 30.09.2021г. ">
+				<img src="/bitrix/templates/bootstrap4/images/icons/document_icon.svg">
+				<span class="name">Расчет собственных средств управляющей компании на 30.09.2021г. </span>					
+            				<span class="pub_date small">Опубликовано: 15.10.2021</span>
+                        </a>
+		</div>
+				<div class="col-6 col-lg-4 document" id="bx_3966226736_5028">
+			<a href="/upload/iblock/bb4/r9mr0v41270zn7qaxxn6orutj5a7tuy7.pdf" title="Расчет собственных средств управляющей компании на 31.08.2021г. ">
+				<img src="/bitrix/templates/bootstrap4/images/icons/document_icon.svg">
+				<span class="name">Расчет собственных средств управляющей компании на 31.08.2021г. </span>					
+            				<span class="pub_date small">Опубликовано: 15.09.2021 15:20:00</span>
+                        </a>
+		</div>
+				<div class="col-6 col-lg-4 document" id="bx_3966226736_4981">
+			<a href="/upload/iblock/ee1/7qgh56hri67tg0rzmwbpiurxik41mtpu.pdf" title="Расчет собственных средств управляющей компании на 31.07.2021г. ">
+				<img src="/bitrix/templates/bootstrap4/images/icons/document_icon.svg">
+				<span class="name">Расчет собственных средств управляющей компании на 31.07.2021г. </span>					
+            				<span class="pub_date small">Опубликовано: 13.08.2021 15:48:00</span>
+                        </a>
+		</div>
+				<div class="col-6 col-lg-4 document" id="bx_3966226736_4937">
+			<a href="/upload/iblock/806/c1ko5sow0rg7ltynkfg7tkdicxh8pygr.pdf" title="Расчет собственных средств управляющей компании на 30.06.2021г. ">
+				<img src="/bitrix/templates/bootstrap4/images/icons/document_icon.svg">
+				<span class="name">Расчет собственных средств управляющей компании на 30.06.2021г. </span>					
+            				<span class="pub_date small">Опубликовано: 14.07.2021 16:48:00</span>
+                        </a>
+		</div>
+				<div class="col-6 col-lg-4 document" id="bx_3966226736_4898">
+			<a href="/upload/iblock/196/q692qng7bwcap55fhf7iphfior7yyub6.pdf" title="Расчет собственных средств управляющей компании на 31.05.2021г. ">
+				<img src="/bitrix/templates/bootstrap4/images/icons/document_icon.svg">
+				<span class="name">Расчет собственных средств управляющей компании на 31.05.2021г. </span>					
+            				<span class="pub_date small">Опубликовано: 15.06.2021 10:54:05</span>
+                        </a>
+		</div>
+				<div class="col-6 col-lg-4 document" id="bx_3966226736_4871">
+			<a href="/upload/iblock/bc5/ndsj0n5nyddz4tnt1cy1wjmrv717edj5.pdf" title="Расчет собственных средств управляющей компании на 30.04.2021г. ">
+				<img src="/bitrix/templates/bootstrap4/images/icons/document_icon.svg">
+				<span class="name">Расчет собственных средств управляющей компании на 30.04.2021г. </span>					
+            				<span class="pub_date small">Опубликовано: 18.05.2021 17:00:00</span>
+                        </a>
+		</div>
+				<div class="col-6 col-lg-4 document" id="bx_3966226736_4841">
+			<a href="/upload/iblock/c59/244udmdo8sk5uz2g8s7z6mbqq0thumpb.pdf" title="Расчет собственных средств управляющей компании на 31.03.2021г. ">
+				<img src="/bitrix/templates/bootstrap4/images/icons/document_icon.svg">
+				<span class="name">Расчет собственных средств управляющей компании на 31.03.2021г. </span>					
+            				<span class="pub_date small">Опубликовано: 16.04.2021 11:54:00</span>
+                        </a>
+		</div>
+				<div class="col-6 col-lg-4 document" id="bx_3966226736_4839">
+			<a href="/upload/iblock/7e0/th5vaq9d5n5c123u03yhfumemx7sy17k.pdf" title="Расчет собственных средств управляющей компании на 28.02.2021г. (скорректированный)">
+				<img src="/bitrix/templates/bootstrap4/images/icons/document_icon.svg">
+				<span class="name">Расчет собственных средств управляющей компании на 28.02.2021г. (скорректированный)</span>					
+            				<span class="pub_date small">Опубликовано: 16.04.2021 11:53:00</span>
+                        </a>
+		</div>
+				<div class="col-6 col-lg-4 document" id="bx_3966226736_4838">
+			<a href="/upload/iblock/e32/47z9e8speeg3kvm4ucz5u90m4u0s747s.pdf" title="Расчет собственных средств управляющей компании на 31.01.2021г. (скорректированный)">
+				<img src="/bitrix/templates/bootstrap4/images/icons/document_icon.svg">
+				<span class="name">Расчет собственных средств управляющей компании на 31.01.2021г. (скорректированный)</span>					
+            				<span class="pub_date small">Опубликовано: 16.04.2021 11:52:00</span>
+                        </a>
+		</div>
+				<div class="col-6 col-lg-4 document" id="bx_3966226736_4837">
+			<a href="/upload/iblock/b9e/3iyc1vb106moc64yi1un22g3ict6salx.pdf" title="Расчет собственных средств управляющей компании на 31.12.2020г. (скорректированный)">
+				<img src="/bitrix/templates/bootstrap4/images/icons/document_icon.svg">
+				<span class="name">Расчет собственных средств управляющей компании на 31.12.2020г. (скорректированный)</span>					
+            				<span class="pub_date small">Опубликовано: 16.04.2021 11:51:00</span>
+                        </a>
+		</div>
+				<div class="col-6 col-lg-4 document" id="bx_3966226736_4836">
+			<a href="/upload/iblock/b3f/gbaj12h2r35eqzci4kpp97itg7mx3j46.pdf" title="Расчет собственных средств управляющей компании на 30.11.2020г. (скорректированный)">
+				<img src="/bitrix/templates/bootstrap4/images/icons/document_icon.svg">
+				<span class="name">Расчет собственных средств управляющей компании на 30.11.2020г. (скорректированный)</span>					
+            				<span class="pub_date small">Опубликовано: 16.04.2021 11:50:00</span>
+                        </a>
+		</div>
+				<div class="col-6 col-lg-4 document" id="bx_3966226736_4835">
+			<a href="/upload/iblock/931/33jyoksbz4110uxuqy8e9owtuueld8np.pdf" title="Расчет собственных средств управляющей компании на 31.10.2020г. (скорректированный)">
+				<img src="/bitrix/templates/bootstrap4/images/icons/document_icon.svg">
+				<span class="name">Расчет собственных средств управляющей компании на 31.10.2020г. (скорректированный)</span>					
+            				<span class="pub_date small">Опубликовано: 16.04.2021 11:49:00</span>
+                        </a>
+		</div>
+				<div class="col-6 col-lg-4 document" id="bx_3966226736_4834">
+			<a href="/upload/iblock/45b/m2u2j1xmv1yqxq3lb2luk6vqjquv3ppt.pdf" title="Расчет собственных средств управляющей компании на 30.09.2020г. (скорректированный)">
+				<img src="/bitrix/templates/bootstrap4/images/icons/document_icon.svg">
+				<span class="name">Расчет собственных средств управляющей компании на 30.09.2020г. (скорректированный)</span>					
+            				<span class="pub_date small">Опубликовано: 16.04.2021 11:48:00</span>
+                        </a>
+		</div>
+				<div class="col-6 col-lg-4 document" id="bx_3966226736_4833">
+			<a href="/upload/iblock/116/ypvy3cpel5slrtzyru4urhjnb2uzyp2e.pdf" title="Расчет собственных средств управляющей компании на 31.08.2020г. (скорректированный)">
+				<img src="/bitrix/templates/bootstrap4/images/icons/document_icon.svg">
+				<span class="name">Расчет собственных средств управляющей компании на 31.08.2020г. (скорректированный)</span>					
+            				<span class="pub_date small">Опубликовано: 16.04.2021 11:47:00</span>
+                        </a>
+		</div>
+				<div class="col-6 col-lg-4 document" id="bx_3966226736_4774">
+			<a href="/upload/iblock/bc0/bc0fe8a409ccfe0a36379b01c9a0d856.pdf" title="Расчет собственных средств управляющей компании на 28.02.2021г.">
+				<img src="/bitrix/templates/bootstrap4/images/icons/document_icon.svg">
+				<span class="name">Расчет собственных средств управляющей компании на 28.02.2021г.</span>					
+            				<span class="pub_date small">Опубликовано: 16.03.2021 11:45:00</span>
+                        </a>
+		</div>
+				<div class="col-6 col-lg-4 document" id="bx_3966226736_4755">
+			<a href="/upload/iblock/c70/c70911416e21f2d53c52ac07e4ed3ffa.pdf" title="Расчет собственных средств управляющей компании на 31.01.2021г. (скорректированный)">
+				<img src="/bitrix/templates/bootstrap4/images/icons/document_icon.svg">
+				<span class="name">Расчет собственных средств управляющей компании на 31.01.2021г. (скорректированный)</span>					
+            				<span class="pub_date small">Опубликовано: 04.03.2021 11:58:00</span>
+                        </a>
+		</div>
+				<div class="col-6 col-lg-4 document" id="bx_3966226736_4728">
+			<a href="/upload/iblock/594/5942f3789c925188f9b660c181e2f8c7.pdf" title="Расчет собственных средств управляющей компании на 31.01.2021г.">
+				<img src="/bitrix/templates/bootstrap4/images/icons/document_icon.svg">
+				<span class="name">Расчет собственных средств управляющей компании на 31.01.2021г.</span>					
+            				<span class="pub_date small">Опубликовано: 12.02.2021 12:10:00</span>
+                        </a>
+		</div>
+				<div class="col-6 col-lg-4 document" id="bx_3966226736_4690">
+			<a href="/upload/iblock/12a/12a9b6f0b49030df9a46f4c8e35ad10c.pdf" title="Расчет собственных средств управляющей компании на 31.08.2020г. (скорректированный)">
+				<img src="/bitrix/templates/bootstrap4/images/icons/document_icon.svg">
+				<span class="name">Расчет собственных средств управляющей компании на 31.08.2020г. (скорректированный)</span>					
+            				<span class="pub_date small">Опубликовано: 29.01.2021 16:57:00</span>
+                        </a>
+		</div>
+				<div class="col-6 col-lg-4 document" id="bx_3966226736_4689">
+			<a href="/upload/iblock/bdd/bdd2d566780c1ab4f2a0dc6fbf2a9926.pdf" title="Расчет собственных средств управляющей компании на 31.07.2020г. (скорректированный)">
+				<img src="/bitrix/templates/bootstrap4/images/icons/document_icon.svg">
+				<span class="name">Расчет собственных средств управляющей компании на 31.07.2020г. (скорректированный)</span>					
+            				<span class="pub_date small">Опубликовано: 29.01.2021 16:56:00</span>
+                        </a>
+		</div>
+				<div class="col-6 col-lg-4 document" id="bx_3966226736_4688">
+			<a href="/upload/iblock/b9d/b9d30676087f03225aeac991529f3e91.pdf" title="Расчет собственных средств управляющей компании на 30.06.2020г. (скорректированный)">
+				<img src="/bitrix/templates/bootstrap4/images/icons/document_icon.svg">
+				<span class="name">Расчет собственных средств управляющей компании на 30.06.2020г. (скорректированный)</span>					
+            				<span class="pub_date small">Опубликовано: 29.01.2021 16:55:00</span>
+                        </a>
+		</div>
+				<div class="col-6 col-lg-4 document" id="bx_3966226736_4673">
+			<a href="/upload/iblock/8fe/8fed834d8345b1bb82448a74532ff3eb.pdf" title="Расчет собственных средств управляющей компании на 31.12.2020г.">
+				<img src="/bitrix/templates/bootstrap4/images/icons/document_icon.svg">
+				<span class="name">Расчет собственных средств управляющей компании на 31.12.2020г.</span>					
+            				<span class="pub_date small">Опубликовано: 27.01.2021 14:28:00</span>
+                        </a>
+		</div>
+				<div class="col-6 col-lg-4 document" id="bx_3966226736_4590">
+			<a href="/upload/iblock/d89/d89c58bf525561ad40556f3652823f68.pdf" title="Расчет собственных средств управляющей компании на 30.11.2020г.">
+				<img src="/bitrix/templates/bootstrap4/images/icons/document_icon.svg">
+				<span class="name">Расчет собственных средств управляющей компании на 30.11.2020г.</span>					
+            				<span class="pub_date small">Опубликовано: 15.12.2020 12:20:00</span>
+                        </a>
+		</div>
+				<div class="col-6 col-lg-4 document" id="bx_3966226736_4519">
+			<a href="/upload/iblock/ba3/ba3043bf49adb4ac830e3b79c1491f95.pdf" title="Расчет собственных средств управляющей компании на 31.10.2020г.">
+				<img src="/bitrix/templates/bootstrap4/images/icons/document_icon.svg">
+				<span class="name">Расчет собственных средств управляющей компании на 31.10.2020г.</span>					
+            				<span class="pub_date small">Опубликовано: 13.11.2020 13:30:00</span>
+                        </a>
+		</div>
+				<div class="col-6 col-lg-4 document" id="bx_3966226736_4497">
+			<a href="/upload/iblock/6d9/6d9b489e724d60b3558907697082a7ad.pdf" title="Расчет собственных средств управляющей компании на 30.09.2020г.">
+				<img src="/bitrix/templates/bootstrap4/images/icons/document_icon.svg">
+				<span class="name">Расчет собственных средств управляющей компании на 30.09.2020г.</span>					
+            				<span class="pub_date small">Опубликовано: 19.10.2020 11:00:00</span>
+                        </a>
+		</div>
+				<div class="col-6 col-lg-4 document" id="bx_3966226736_4435">
+			<a href="/upload/iblock/afc/afc5b4591aaa3ea97bb46d449470f688.pdf" title="Расчет собственных средств управляющей компании на 31.08.2020г.">
+				<img src="/bitrix/templates/bootstrap4/images/icons/document_icon.svg">
+				<span class="name">Расчет собственных средств управляющей компании на 31.08.2020г.</span>					
+            				<span class="pub_date small">Опубликовано: 14.09.2020 11:52:00</span>
+                        </a>
+		</div>
+				<div class="col-6 col-lg-4 document" id="bx_3966226736_4373">
+			<a href="/upload/iblock/1c1/1c1215cc145aadfc6f9b5babb7261b31.pdf" title="Расчет собственных средств управляющей компании на 31.07.2020г.">
+				<img src="/bitrix/templates/bootstrap4/images/icons/document_icon.svg">
+				<span class="name">Расчет собственных средств управляющей компании на 31.07.2020г.</span>					
+            				<span class="pub_date small">Опубликовано: 18.08.2020 12:30:00</span>
+                        </a>
+		</div>
+				<div class="col-6 col-lg-4 document" id="bx_3966226736_4309">
+			<a href="/upload/iblock/693/6933b76846f0f363373b9609ebc4a535.pdf" title="Расчет собственных средств управляющей компании на 30.06.2020г.">
+				<img src="/bitrix/templates/bootstrap4/images/icons/document_icon.svg">
+				<span class="name">Расчет собственных средств управляющей компании на 30.06.2020г.</span>					
+            				<span class="pub_date small">Опубликовано: 30.07.2020 14:25:00</span>
+                        </a>
+		</div>
+				<div class="col-6 col-lg-4 document" id="bx_3966226736_4266">
+			<a href="/upload/iblock/900/900ad09d38ff1c593ed7cf951ff738f8.pdf" title="Расчет собственных средств управляющей компании на 31.05.2020г.">
+				<img src="/bitrix/templates/bootstrap4/images/icons/document_icon.svg">
+				<span class="name">Расчет собственных средств управляющей компании на 31.05.2020г.</span>					
+            				<span class="pub_date small">Опубликовано: 15.06.2020 15:30:00</span>
+                        </a>
+		</div>
+				<div class="col-6 col-lg-4 document" id="bx_3966226736_4190">
+			<a href="/upload/iblock/a13/a13e98390105593e9fd59afb96217f9c.pdf" title="Расчет собственных средств управляющей компании на 30.04.2020г.">
+				<img src="/bitrix/templates/bootstrap4/images/icons/document_icon.svg">
+				<span class="name">Расчет собственных средств управляющей компании на 30.04.2020г.</span>					
+            				<span class="pub_date small">Опубликовано: 20.05.2020 10:00:00</span>
+                        </a>
+		</div>
+				<div class="col-6 col-lg-4 document" id="bx_3966226736_4172">
+			<a href="/upload/iblock/6f7/6f7151651396afeb202c3d2af28c8557.pdf" title="Расчет собственных средств управляющей компании на 31.03.2020г.">
+				<img src="/bitrix/templates/bootstrap4/images/icons/document_icon.svg">
+				<span class="name">Расчет собственных средств управляющей компании на 31.03.2020г.</span>					
+            				<span class="pub_date small">Опубликовано: 21.04.2020 11:55:00</span>
+                        </a>
+		</div>
+				<div class="col-6 col-lg-4 document" id="bx_3966226736_4111">
+			<a href="/upload/iblock/e5b/e5b2bed7c2223aaa4074eed5a2381f13.pdf" title="Расчет собственных средств управляющей компании на 29.02.2020г.">
+				<img src="/bitrix/templates/bootstrap4/images/icons/document_icon.svg">
+				<span class="name">Расчет собственных средств управляющей компании на 29.02.2020г.</span>					
+            				<span class="pub_date small">Опубликовано: 16.03.2020 12:00:00</span>
+                        </a>
+		</div>
+				<div class="col-6 col-lg-4 document" id="bx_3966226736_4086">
+			<a href="/upload/iblock/ae2/ae20e37b75e55d9e14c2cb4ee2ffb8d6.pdf" title="Расчет собственных средств управляющей компании на 31.01.2020г.">
+				<img src="/bitrix/templates/bootstrap4/images/icons/document_icon.svg">
+				<span class="name">Расчет собственных средств управляющей компании на 31.01.2020г.</span>					
+            				<span class="pub_date small">Опубликовано: 13.02.2020 17:00:00</span>
+                        </a>
+		</div>
+				<div class="col-6 col-lg-4 document" id="bx_3966226736_4039">
+			<a href="/upload/iblock/c2b/c2b718ebdac8a11fe4559cdf088704db.pdf" title="Расчет собственных средств управляющей компании на 31.12.2019г.">
+				<img src="/bitrix/templates/bootstrap4/images/icons/document_icon.svg">
+				<span class="name">Расчет собственных средств управляющей компании на 31.12.2019г.</span>					
+            				<span class="pub_date small">Опубликовано: 23.01.2020 12:00:00</span>
+                        </a>
+		</div>
+				<div class="col-6 col-lg-4 document" id="bx_3966226736_3979">
+			<a href="/upload/iblock/ad5/ad5120b90107f6cfe3481c4fa5df02d7.pdf" title="Расчет собственных средств управляющей компании на 30.11.2019г.">
+				<img src="/bitrix/templates/bootstrap4/images/icons/document_icon.svg">
+				<span class="name">Расчет собственных средств управляющей компании на 30.11.2019г.</span>					
+            				<span class="pub_date small">Опубликовано: 13.12.2019 11:00:00</span>
+                        </a>
+		</div>
+				<div class="col-6 col-lg-4 document" id="bx_3966226736_3942">
+			<a href="/upload/iblock/438/43809ec3441e6944ec27cc7c1b530d2e.pdf" title="Расчет собственных средств управляющей компании на 31.10.2019г.">
+				<img src="/bitrix/templates/bootstrap4/images/icons/document_icon.svg">
+				<span class="name">Расчет собственных средств управляющей компании на 31.10.2019г.</span>					
+            				<span class="pub_date small">Опубликовано: 14.11.2019 17:00:00</span>
+                        </a>
+		</div>
+				<div class="col-6 col-lg-4 document" id="bx_3966226736_3876">
+			<a href="/upload/iblock/bdf/bdfe1ffd92e71b91ee08ebb4b9b18524.pdf" title="Расчет собственных средств управляющей компании на 30.09.2019г.">
+				<img src="/bitrix/templates/bootstrap4/images/icons/document_icon.svg">
+				<span class="name">Расчет собственных средств управляющей компании на 30.09.2019г.</span>					
+            				<span class="pub_date small">Опубликовано: 14.10.2019 16:00:00</span>
+                        </a>
+		</div>
+				<div class="col-6 col-lg-4 document" id="bx_3966226736_3833">
+			<a href="/upload/iblock/b71/b71ef921526ad5ace65b881465000cee.pdf" title="Расчет собственных средств управляющей компании на 31.08.2019г.">
+				<img src="/bitrix/templates/bootstrap4/images/icons/document_icon.svg">
+				<span class="name">Расчет собственных средств управляющей компании на 31.08.2019г.</span>					
+            				<span class="pub_date small">Опубликовано: 13.09.2019 10:56:00</span>
+                        </a>
+		</div>
+				<div class="col-6 col-lg-4 document" id="bx_3966226736_3813">
+			<a href="/upload/iblock/86b/86b9f93f267f195d834bcb9e079435fa.pdf" title="Расчет собственных средств управляющей компании на 31.07.2019г.">
+				<img src="/bitrix/templates/bootstrap4/images/icons/document_icon.svg">
+				<span class="name">Расчет собственных средств управляющей компании на 31.07.2019г.</span>					
+            				<span class="pub_date small">Опубликовано: 20.08.2019 14:26:00</span>
+                        </a>
+		</div>
+				<div class="col-6 col-lg-4 document" id="bx_3966226736_3728">
+			<a href="/upload/iblock/3af/3af830c6e1205eda02df8ad89c80b5a5.pdf" title="Расчет собственных средств управляющей компании на 30.06.2019г.">
+				<img src="/bitrix/templates/bootstrap4/images/icons/document_icon.svg">
+				<span class="name">Расчет собственных средств управляющей компании на 30.06.2019г.</span>					
+            				<span class="pub_date small">Опубликовано: 12.07.2019 11:58:00</span>
+                        </a>
+		</div>
+				<div class="col-6 col-lg-4 document" id="bx_3966226736_3697">
+			<a href="/upload/iblock/0be/0beeca427f8264aec70e604dc31c22ea.pdf" title="Расчет собственных средств управляющей компании на 31.05.2019г.">
+				<img src="/bitrix/templates/bootstrap4/images/icons/document_icon.svg">
+				<span class="name">Расчет собственных средств управляющей компании на 31.05.2019г.</span>					
+            				<span class="pub_date small">Опубликовано: 14.06.2019 16:40:00</span>
+                        </a>
+		</div>
+				<div class="col-6 col-lg-4 document" id="bx_3966226736_3632">
+			<a href="/upload/iblock/404/404d90f973f1127ea90ac32bb89554a5.pdf" title="Расчет собственных средств управляющей компании на 30.04.2019г.">
+				<img src="/bitrix/templates/bootstrap4/images/icons/document_icon.svg">
+				<span class="name">Расчет собственных средств управляющей компании на 30.04.2019г.</span>					
+            				<span class="pub_date small">Опубликовано: 20.05.2019 17:16:00</span>
+                        </a>
+		</div>
+				<div class="col-6 col-lg-4 document" id="bx_3966226736_3531">
+			<a href="/upload/iblock/a95/a9522d411a2197c5dc76d8037e82a2b3.pdf" title="Расчет собственных средств управляющей компании на 31.03.2019г.">
+				<img src="/bitrix/templates/bootstrap4/images/icons/document_icon.svg">
+				<span class="name">Расчет собственных средств управляющей компании на 31.03.2019г.</span>					
+            				<span class="pub_date small">Опубликовано: 12.04.2019 16:45:00</span>
+                        </a>
+		</div>
+				<div class="col-6 col-lg-4 document" id="bx_3966226736_3517">
+			<a href="/upload/iblock/611/6119c031933a91df4bd8fb3dfa0fbe46.pdf" title="Расчет собственных средств управляющей компании на 31.01.2019г. (корректировка)">
+				<img src="/bitrix/templates/bootstrap4/images/icons/document_icon.svg">
+				<span class="name">Расчет собственных средств управляющей компании на 31.01.2019г. (корректировка)</span>					
+            				<span class="pub_date small">Опубликовано: 05.04.2019 16:05:00</span>
+                        </a>
+		</div>
+				<div class="col-6 col-lg-4 document" id="bx_3966226736_3516">
+			<a href="/upload/iblock/27d/27d528106576227d513a18a0e77533f1.pdf" title="Расчет собственных средств управляющей компании на 31.12.2018г. (корректировка)">
+				<img src="/bitrix/templates/bootstrap4/images/icons/document_icon.svg">
+				<span class="name">Расчет собственных средств управляющей компании на 31.12.2018г. (корректировка)</span>					
+            				<span class="pub_date small">Опубликовано: 05.04.2019 16:00:00</span>
+                        </a>
+		</div>
+				<div class="col-6 col-lg-4 document" id="bx_3966226736_3501">
+			<a href="/upload/iblock/823/823e17f730e36c2c54381596765c7815.pdf" title="Расчет собственных средств управляющей компании на 28.02.2019г.">
+				<img src="/bitrix/templates/bootstrap4/images/icons/document_icon.svg">
+				<span class="name">Расчет собственных средств управляющей компании на 28.02.2019г.</span>					
+            				<span class="pub_date small">Опубликовано: 18.03.2019 16:37:00</span>
+                        </a>
+		</div>
+				<div class="col-6 col-lg-4 document" id="bx_3966226736_3484">
+			<a href="/upload/iblock/253/253ec23e77c8b12ce0e951199c1b158a.pdf" title="Расчет собственных средств управляющей компании на 31.01.2019г.">
+				<img src="/bitrix/templates/bootstrap4/images/icons/document_icon.svg">
+				<span class="name">Расчет собственных средств управляющей компании на 31.01.2019г.</span>					
+            				<span class="pub_date small">Опубликовано: 14.02.2019 14:53:00</span>
+                        </a>
+		</div>
+				<div class="col-6 col-lg-4 document" id="bx_3966226736_3453">
+			<a href="/upload/iblock/464/46464bc96963b76e11ad6c626de6b140.pdf" title="Расчет собственных средств управляющей компании на 31.12.2018г.">
+				<img src="/bitrix/templates/bootstrap4/images/icons/document_icon.svg">
+				<span class="name">Расчет собственных средств управляющей компании на 31.12.2018г.</span>					
+            				<span class="pub_date small">Опубликовано: 22.01.2019 12:40:00</span>
+                        </a>
+		</div>
+				<div class="col-6 col-lg-4 document" id="bx_3966226736_3419">
+			<a href="/upload/iblock/b42/b42e04273e2cbf53fc738cbe30fba60a.pdf" title="Расчет собственных средств управляющей компании на 30.11.2018г.">
+				<img src="/bitrix/templates/bootstrap4/images/icons/document_icon.svg">
+				<span class="name">Расчет собственных средств управляющей компании на 30.11.2018г.</span>					
+            				<span class="pub_date small">Опубликовано: 12.12.2018 17:45:00</span>
+                        </a>
+		</div>
+				<div class="col-6 col-lg-4 document" id="bx_3966226736_3411">
+			<a href="/upload/iblock/cb8/cb820df1860c873939e3485e1a74869e.pdf" title="Расчет собственных средств управляющей компании на 31.10.2018г.">
+				<img src="/bitrix/templates/bootstrap4/images/icons/document_icon.svg">
+				<span class="name">Расчет собственных средств управляющей компании на 31.10.2018г.</span>					
+            				<span class="pub_date small">Опубликовано: 15.11.2018 10:58:00</span>
+                        </a>
+		</div>
+				<div class="col-6 col-lg-4 document" id="bx_3966226736_3396">
+			<a href="/upload/iblock/6c6/6c6591829c50ced3a4707b8881332096.pdf" title="Расчет собственных средств управляющей компании на 30.09.2018г.">
+				<img src="/bitrix/templates/bootstrap4/images/icons/document_icon.svg">
+				<span class="name">Расчет собственных средств управляющей компании на 30.09.2018г.</span>					
+            				<span class="pub_date small">Опубликовано: 25.10.2018 14:30:00</span>
+                        </a>
+		</div>
+				<div class="col-6 col-lg-4 document" id="bx_3966226736_3372">
+			<a href="/upload/iblock/292/29296b4dc2c2b78cdd4e12c4dcf70d91.pdf" title="Расчет собственных средств управляющей компании на 31.08.2018г.">
+				<img src="/bitrix/templates/bootstrap4/images/icons/document_icon.svg">
+				<span class="name">Расчет собственных средств управляющей компании на 31.08.2018г.</span>					
+            				<span class="pub_date small">Опубликовано: 18.09.2018 16:08:00</span>
+                        </a>
+		</div>
+				<div class="col-6 col-lg-4 document" id="bx_3966226736_3343">
+			<a href="/upload/iblock/7fb/7fb5eee7352cb785810d35e59847aaa6.pdf" title="Расчет собственных средств управляющей компании на 31.07.2018г.">
+				<img src="/bitrix/templates/bootstrap4/images/icons/document_icon.svg">
+				<span class="name">Расчет собственных средств управляющей компании на 31.07.2018г.</span>					
+            				<span class="pub_date small">Опубликовано: 17.08.2018 13:36:00</span>
+                        </a>
+		</div>
+				<div class="col-6 col-lg-4 document" id="bx_3966226736_3269">
+			<a href="/upload/iblock/d6e/d6e2e6041db7c5349403f905b5857e6c.pdf" title="Расчет собственных средств управляющей компании на 30.06.2018г.">
+				<img src="/bitrix/templates/bootstrap4/images/icons/document_icon.svg">
+				<span class="name">Расчет собственных средств управляющей компании на 30.06.2018г.</span>					
+            				<span class="pub_date small">Опубликовано: 12.07.2018 16:45:00</span>
+                        </a>
+		</div>
+				<div class="col-6 col-lg-4 document" id="bx_3966226736_3250">
+			<a href="/upload/iblock/a2e/a2e8af90ecff3eab2c069a9606591a94.pdf" title="Расчет собственных средств управляющей компании на 31.05.2018г.">
+				<img src="/bitrix/templates/bootstrap4/images/icons/document_icon.svg">
+				<span class="name">Расчет собственных средств управляющей компании на 31.05.2018г.</span>					
+            				<span class="pub_date small">Опубликовано: 15.06.2018 16:55:00</span>
+                        </a>
+		</div>
+				<div class="col-6 col-lg-4 document" id="bx_3966226736_3215">
+			<a href="/upload/iblock/824/8249615a6c886d5cb6ffe720257f4b7f.pdf" title="Расчет собственных средств управляющей компании на 30.04.2018г.">
+				<img src="/bitrix/templates/bootstrap4/images/icons/document_icon.svg">
+				<span class="name">Расчет собственных средств управляющей компании на 30.04.2018г.</span>					
+            				<span class="pub_date small">Опубликовано: 16.05.2018 12:55:00</span>
+                        </a>
+		</div>
+				<div class="col-6 col-lg-4 document" id="bx_3966226736_3200">
+			<a href="/upload/iblock/020/020f132e6f69d35adf32fb76c4f377ec.pdf" title="Расчет собственных средств управляющей компании на 31.03.2018г.">
+				<img src="/bitrix/templates/bootstrap4/images/icons/document_icon.svg">
+				<span class="name">Расчет собственных средств управляющей компании на 31.03.2018г.</span>					
+            				<span class="pub_date small">Опубликовано: 18.04.2018 10:33:00</span>
+                        </a>
+		</div>
+				<div class="col-6 col-lg-4 document" id="bx_3966226736_3122">
+			<a href="/upload/iblock/ab1/ab111f4071a356f907c1039461d3b631.pdf" title="Расчет собственных средств управляющей компании на 28.02.2018г.">
+				<img src="/bitrix/templates/bootstrap4/images/icons/document_icon.svg">
+				<span class="name">Расчет собственных средств управляющей компании на 28.02.2018г.</span>					
+            				<span class="pub_date small">Опубликовано: 16.03.2018 14:46:00</span>
+                        </a>
+		</div>
+				<div class="col-6 col-lg-4 document" id="bx_3966226736_3059">
+			<a href="/upload/iblock/833/833a216c46ee73be2ce3528a082c2c0f.pdf" title="Расчет собственных средств управляющей компании на 31.01.2018г.">
+				<img src="/bitrix/templates/bootstrap4/images/icons/document_icon.svg">
+				<span class="name">Расчет собственных средств управляющей компании на 31.01.2018г.</span>					
+            				<span class="pub_date small">Опубликовано: 12.02.2018 10:42:15</span>
+                        </a>
+		</div>
+				<div class="col-6 col-lg-4 document" id="bx_3966226736_3042">
+			<a href="/upload/iblock/7de/7de6af680f6ee7df3afa32a4d9ce3cb0.pdf" title="Расчет собственных средств управляющей компании на 31.12.2017г.">
+				<img src="/bitrix/templates/bootstrap4/images/icons/document_icon.svg">
+				<span class="name">Расчет собственных средств управляющей компании на 31.12.2017г.</span>					
+            				<span class="pub_date small">Опубликовано: 22.01.2018 11:11:00</span>
+                        </a>
+		</div>
+				<div class="col-6 col-lg-4 document" id="bx_3966226736_3031">
+			<a href="/upload/iblock/ce1/ce121be8a6941d215ff9751f492ac53a.pdf" title="Расчет собственных средств управляющей компании на 30.11.2017г.">
+				<img src="/bitrix/templates/bootstrap4/images/icons/document_icon.svg">
+				<span class="name">Расчет собственных средств управляющей компании на 30.11.2017г.</span>					
+            				<span class="pub_date small">Опубликовано: 18.12.2017 14:36:00</span>
+                        </a>
+		</div>
+				<div class="col-6 col-lg-4 document" id="bx_3966226736_2948">
+			<a href="/upload/iblock/856/85605e0b308898b2a5d0481223fa5fcf.pdf" title="Расчет собственных средств управляющей компании на 31.10.2017г.">
+				<img src="/bitrix/templates/bootstrap4/images/icons/document_icon.svg">
+				<span class="name">Расчет собственных средств управляющей компании на 31.10.2017г.</span>					
+            				<span class="pub_date small">Опубликовано: 15.11.2017 15:30:00</span>
+                        </a>
+		</div>
+				<div class="col-6 col-lg-4 document" id="bx_3966226736_2792">
+			<a href="/upload/iblock/ef9/ef94c4ecf2f46a687310cbc5440bfb77.pdf" title="Расчет собственных средств управляющей компании на 30.09.2017г.">
+				<img src="/bitrix/templates/bootstrap4/images/icons/document_icon.svg">
+				<span class="name">Расчет собственных средств управляющей компании на 30.09.2017г.</span>					
+            				<span class="pub_date small">Опубликовано: 19.10.2017 14:25:00</span>
+                        </a>
+		</div>
+				<div class="col-6 col-lg-4 document" id="bx_3966226736_2790">
+			<a href="/upload/iblock/cd1/cd186fb726d37c84b9682c21ffa78b05.pdf" title="Расчет собственных средств управляющей компании на 31.08.2017г.">
+				<img src="/bitrix/templates/bootstrap4/images/icons/document_icon.svg">
+				<span class="name">Расчет собственных средств управляющей компании на 31.08.2017г.</span>					
+            				<span class="pub_date small">Опубликовано: 15.09.2017 08:17:00</span>
+                        </a>
+		</div>
+				<div class="col-6 col-lg-4 document" id="bx_3966226736_2717">
+			<a href="/upload/iblock/3d9/3d9ca353257d05e3c1cba6d493a1add5.pdf" title="Расчет собственных средств управляющей компании на 31.07.2017г.">
+				<img src="/bitrix/templates/bootstrap4/images/icons/document_icon.svg">
+				<span class="name">Расчет собственных средств управляющей компании на 31.07.2017г.</span>					
+            				<span class="pub_date small">Опубликовано: 09.08.2017 11:17:00</span>
+                        </a>
+		</div>
+				<div class="col-6 col-lg-4 document" id="bx_3966226736_2667">
+			<a href="/upload/iblock/e8d/e8dab6aecd28cde6ba33a99d3ef2ede5.pdf" title="Расчет собственных средств управляющей компании на 30.06.2017г.">
+				<img src="/bitrix/templates/bootstrap4/images/icons/document_icon.svg">
+				<span class="name">Расчет собственных средств управляющей компании на 30.06.2017г.</span>					
+            				<span class="pub_date small">Опубликовано: 07.07.2017 14:42:00</span>
+                        </a>
+		</div>
+				<div class="col-6 col-lg-4 document" id="bx_3966226736_2632">
+			<a href="/upload/iblock/d5d/d5dbf8f830e203ea22aff8ef015bdd65.pdf" title="Расчет собственных средств управляющей компании на 31.05.2017г.">
+				<img src="/bitrix/templates/bootstrap4/images/icons/document_icon.svg">
+				<span class="name">Расчет собственных средств управляющей компании на 31.05.2017г.</span>					
+            				<span class="pub_date small">Опубликовано: 15.06.2017 11:32:00</span>
+                        </a>
+		</div>
+				<div class="col-6 col-lg-4 document" id="bx_3966226736_2596">
+			<a href="/upload/iblock/a41/a4110d67f64cea7dc6b543dcbee64d43.pdf" title="Расчет собственных средств управляющей компании на 30.04.2017г.">
+				<img src="/bitrix/templates/bootstrap4/images/icons/document_icon.svg">
+				<span class="name">Расчет собственных средств управляющей компании на 30.04.2017г.</span>					
+            				<span class="pub_date small">Опубликовано: 15.05.2017 09:42:00</span>
+                        </a>
+		</div>
+				<div class="col-6 col-lg-4 document" id="bx_3966226736_2558">
+			<a href="/upload/iblock/7b1/7b10ecd6f5b0629ca28c1c09257697eb.pdf" title="Расчет собственных средств управляющей компании на 31.03.2017г.">
+				<img src="/bitrix/templates/bootstrap4/images/icons/document_icon.svg">
+				<span class="name">Расчет собственных средств управляющей компании на 31.03.2017г.</span>					
+            				<span class="pub_date small">Опубликовано: 12.04.2017 14:35:00</span>
+                        </a>
+		</div>
+				<div class="col-6 col-lg-4 document" id="bx_3966226736_2538">
+			<a href="/upload/iblock/0c3/0c373ee250f3d253c8b8f8e6630245ca.pdf" title="Расчет собственных средств управляющей компании на 28.02.2017г.">
+				<img src="/bitrix/templates/bootstrap4/images/icons/document_icon.svg">
+				<span class="name">Расчет собственных средств управляющей компании на 28.02.2017г.</span>					
+            				<span class="pub_date small">Опубликовано: 14.03.2017 13:05:00</span>
+                        </a>
+		</div>
+				<div class="col-6 col-lg-4 document" id="bx_3966226736_2423">
+			<a href="/upload/iblock/a8c/a8c0641165795b667b79d35acf71b06c.pdf" title="Расчет собственных средств управляющей компании на 31.01.2017г.">
+				<img src="/bitrix/templates/bootstrap4/images/icons/document_icon.svg">
+				<span class="name">Расчет собственных средств управляющей компании на 31.01.2017г.</span>					
+            				<span class="pub_date small">Опубликовано: 08.02.2017 15:28:01</span>
+                        </a>
+		</div>
+				<div class="col-6 col-lg-4 document" id="bx_3966226736_2393">
+			<a href="/upload/iblock/641/641b57ff92e97fc01554c2b52d09377b.pdf" title="Расчет собственных средств управляющей компании на 31.12.2016г.">
+				<img src="/bitrix/templates/bootstrap4/images/icons/document_icon.svg">
+				<span class="name">Расчет собственных средств управляющей компании на 31.12.2016г.</span>					
+            				<span class="pub_date small">Опубликовано: 18.01.2017 11:50:00</span>
+                        </a>
+		</div>
+				<div class="col-6 col-lg-4 document" id="bx_3966226736_2379">
+			<a href="/upload/iblock/19e/19ed4850e740788c0822dc8ce0f11a36.pdf" title="Расчет собственных средств управляющей компании на 30.11.2016г.">
+				<img src="/bitrix/templates/bootstrap4/images/icons/document_icon.svg">
+				<span class="name">Расчет собственных средств управляющей компании на 30.11.2016г.</span>					
+            				<span class="pub_date small">Опубликовано: 09.12.2016 14:30:00</span>
+                        </a>
+		</div>
+				<div class="col-6 col-lg-4 document" id="bx_3966226736_2313">
+			<a href="/upload/iblock/d8c/d8c439fc2cf17168e64ab1df3631a4cc.pdf" title="Расчет собственных средств управляющей компании на 31.10.2016г.">
+				<img src="/bitrix/templates/bootstrap4/images/icons/document_icon.svg">
+				<span class="name">Расчет собственных средств управляющей компании на 31.10.2016г.</span>					
+            				<span class="pub_date small">Опубликовано: 11.11.2016 16:47:00</span>
+                        </a>
+		</div>
+				<div class="col-6 col-lg-4 document" id="bx_3966226736_2286">
+			<a href="/upload/iblock/860/8606810f51e870964cacc650f9475ab9.pdf" title="Расчет размера собственных средств на 30.09.2016г.">
+				<img src="/bitrix/templates/bootstrap4/images/icons/document_icon.svg">
+				<span class="name">Расчет размера собственных средств на 30.09.2016г.</span>					
+            				<span class="pub_date small">Опубликовано: 12.10.2016 10:35:00</span>
+                        </a>
+		</div>
+				<div class="col-6 col-lg-4 document" id="bx_3966226736_2280">
+			<a href="/upload/iblock/e29/e29c2b689e134bbf7a95cfd126b00e0a.pdf" title="Расчет размера собственных средств на 31.08.2016г.">
+				<img src="/bitrix/templates/bootstrap4/images/icons/document_icon.svg">
+				<span class="name">Расчет размера собственных средств на 31.08.2016г.</span>					
+            				<span class="pub_date small">Опубликовано: 13.09.2016 15:16:00</span>
+                        </a>
+		</div>
+				<div class="col-6 col-lg-4 document" id="bx_3966226736_2232">
+			<a href="/upload/iblock/6c1/6c1de8b123a9a990482d44cd7667a9a0.pdf" title="Расчет размера собственных средств на 31.07.2016г.">
+				<img src="/bitrix/templates/bootstrap4/images/icons/document_icon.svg">
+				<span class="name">Расчет размера собственных средств на 31.07.2016г.</span>					
+            				<span class="pub_date small">Опубликовано: 09.08.2016 14:11:00</span>
+                        </a>
+		</div>
+				<div class="col-6 col-lg-4 document" id="bx_3966226736_2187">
+			<a href="/upload/iblock/1b6/1b6b4d9a1db28f49773a580e661dd132.pdf" title="Расчет размера собственных средств на 30.06.2016г.">
+				<img src="/bitrix/templates/bootstrap4/images/icons/document_icon.svg">
+				<span class="name">Расчет размера собственных средств на 30.06.2016г.</span>					
+            				<span class="pub_date small">Опубликовано: 15.07.2016 13:07:00</span>
+                        </a>
+		</div>
+				<div class="col-6 col-lg-4 document" id="bx_3966226736_2130">
+			<a href="/upload/iblock/295/295118c8666e3111d540e17e0ecc7761.pdf" title="Расчет размера собственных средств на 31.05.2016г.">
+				<img src="/bitrix/templates/bootstrap4/images/icons/document_icon.svg">
+				<span class="name">Расчет размера собственных средств на 31.05.2016г.</span>					
+            				<span class="pub_date small">Опубликовано: 07.06.2016 15:17:00</span>
+                        </a>
+		</div>
+				<div class="col-6 col-lg-4 document" id="bx_3966226736_2083">
+			<a href="/upload/iblock/f4f/f4f8f1db56aee90c11bd86c1e0c4f0a0.pdf" title="Расчет размера собственных средств на 30.04.2016г.">
+				<img src="/bitrix/templates/bootstrap4/images/icons/document_icon.svg">
+				<span class="name">Расчет размера собственных средств на 30.04.2016г.</span>					
+            				<span class="pub_date small">Опубликовано: 12.05.2016 15:00:00</span>
+                        </a>
+		</div>
+				<div class="col-6 col-lg-4 document" id="bx_3966226736_2048">
+			<a href="/upload/iblock/696/69689b9df171fc58b8f5ad5aa9387c28.pdf" title="Расчет размера собственных средств на 31.03.2016г.">
+				<img src="/bitrix/templates/bootstrap4/images/icons/document_icon.svg">
+				<span class="name">Расчет размера собственных средств на 31.03.2016г.</span>					
+            				<span class="pub_date small">Опубликовано: 07.04.2016 12:42:00</span>
+                        </a>
+		</div>
+			</div>
+
+<div>
+<font class="text">Публикации 
+
+
+	1 - 100 из 138<br></font>
+
+	<font class="text">
+
+			Начало&nbsp;|&nbsp;Пред.&nbsp;|
+	
+	
+					<b>1</b>
+					
+					<a href="/disclosure/sobstvennye_sredstva.php?PAGEN_1=2">2</a>
+						|
+
+			<a href="/disclosure/sobstvennye_sredstva.php?PAGEN_1=2">След.</a>&nbsp;|
+		<a href="/disclosure/sobstvennye_sredstva.php?PAGEN_1=2">Конец</a>
+	
+
+
+
+</font></div>
+</div>
+                    </div> 
+            </div>
+        </div> 
+        
+	</article>
+</main> <!-- main -->
+
+
+<footer>
+<div class="container-fluid line1">
+	<div class="row">
+		<div class="col-md-4 col-lg-3">
+			<div class="row">
+				<div class="col-12">
+					<p class="text-md-center"><img class="logo" src="/bitrix/templates/bootstrap4/images/logo.svg" alt="адепта лого"></p>
+				</div>
+			</div>
+		</div>
+		<div class="col-md-4 col-lg-3">
+			<p class="mt-3 mt-md-0"><strong>Наш адрес:</strong></p>
+			<p>190000, РФ, Санкт-Петербург <br>
+			ул. Галерная, д.20/22, литера А, пом.137Н</p>			 
+		</div>
+		<div class="col-md-4 col-lg-6">
+			<div class="row">
+				<div class="col-md-12 col-lg-6">
+					<p><strong>Многоканальный:</strong> </p>
+					<p class="phone">тел.: +7 (812) 677 75 02</p>
+				</div>
+				<div class="col-md-12 col-lg-6">
+					<p><strong>Режим работы: </strong></p>
+					<p class="whours">09.30 до 18.00 Пн-Пт</p>
+				</div>	
+			</div>	
+		</div>	
+	</div>
+
+	<div class="row">
+		<div class="col-md-8 offset-md-4 col-lg-9 offset-lg-3">
+			<p class="mb-0">ООО УК «МАКСИМУМ», лицензия на осуществление деятельности по управлению инвестиционными фондами, паевыми инвестиционными фондами и негосударственными пенсионными фондами № 21–000-1-00902 от «07» сентября 2012 г.<br>
+			Стоимость инвестиционных паев может увеличиваться и уменьшаться. Результаты инвестирования в прошлом не определяют доходы в будущем. Государство не гарантирует доходность инвестиций в паевой инвестиционный фонд. Прежде чем приобрести инвестиционный пай, следует внимательно ознакомиться с правилами доверительного управления паевым инвестиционным фондом.
+			Получить информацию, подлежащую раскрытию и предоставлению в соответствии с законодательством, можно в офисе ООО УК «МАКСИМУМ» по адресу: 190000, г. Санкт-Петербург, ул. Галерная, д.20/22, литера А, пом.137Н, по телефону: (812) 677-75-02 или на официальном сайте: www.maximum-am.ru. </p>
+		</div>
+	</div>
+
+</div>
+<div class="container-fluid line2">
+	<div class="row">
+	    <div class="col-md-8">
+	        <p class="mb-md-0">(с) 2007 - 2023 ООО УК "МАКСИМУМ". Использование материалов запрещено без письменного одобрения администрации сайта</p>        
+	    </div>
+	    <div class="col-md-4">
+	        <p class="float-md-right mb-0">Web: <a class="terminal_link" href="http://www.terminaldesign.ru/" target="_blank">Терминал дизайн</a></p>
+	    </div>            
+	</div>
+</div></footer>
+
+<!-- Yandex.Metrika counter -->
+<script type="text/javascript">
+    (function (d, w, c) {
+        (w[c] = w[c] || []).push(function() {
+            try {
+                w.yaCounter51156875 = new Ya.Metrika2({
+                    id:51156875,
+                    clickmap:true,
+                    trackLinks:true,
+                    accurateTrackBounce:true
+                });
+            } catch(e) { }
+        });
+
+        var n = d.getElementsByTagName("script")[0],
+            s = d.createElement("script"),
+            f = function () { n.parentNode.insertBefore(s, n); };
+        s.type = "text/javascript";
+        s.async = true;
+        s.src = "https://mc.yandex.ru/metrika/tag.js";
+
+        if (w.opera == "[object Opera]") {
+            d.addEventListener("DOMContentLoaded", f, false);
+        } else { f(); }
+    })(document, window, "yandex_metrika_callbacks2");
+</script>
+<noscript><div><img src="https://mc.yandex.ru/watch/51156875" style="position:absolute; left:-9999px;" alt="" /></div></noscript>
+<!-- /Yandex.Metrika counter -->
+

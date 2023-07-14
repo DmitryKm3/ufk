@@ -1,0 +1,1741 @@
+
+		
+	<div id="panel"></div>
+	
+				<!--'start_frame_cache_basketitems-component-block'-->												<div id="ajax_basket"></div>
+					<!--'end_frame_cache_basketitems-component-block'-->						<div class="cd-modal-bg"></div>
+		<script data-skip-moving="true">var solutionName = 'arMaxOptions';</script>
+		<script src="/bitrix/templates/aspro_max/js/setTheme.php?site_id=s1&amp;site_dir=/" data-skip-moving="true"></script>
+		<script>window.onload=function(){window.basketJSParams = window.basketJSParams || [];}
+		BX.message({'MIN_ORDER_PRICE_TEXT':'<b>Минимальная сумма заказа #PRICE#<\/b><br/>Пожалуйста, добавьте еще товаров в корзину','LICENSES_TEXT':'Я согласен на <a href=\"/include/licenses_detail.php\" target=\"_blank\">обработку персональных данных<\/a>','OFFER_TEXT':'Согласен с <a href=\"/include/offer_detail.php\" target=\"_blank\">публичной офертой<\/a>'});
+		arAsproOptions.PAGES.FRONT_PAGE = window[solutionName].PAGES.FRONT_PAGE = "";arAsproOptions.PAGES.BASKET_PAGE = window[solutionName].PAGES.BASKET_PAGE = "";arAsproOptions.PAGES.ORDER_PAGE = window[solutionName].PAGES.ORDER_PAGE = "";arAsproOptions.PAGES.PERSONAL_PAGE = window[solutionName].PAGES.PERSONAL_PAGE = "";arAsproOptions.PAGES.CATALOG_PAGE = window[solutionName].PAGES.CATALOG_PAGE = "";</script>
+		<div class="wrapper1  header_bgcolored long_header  high_one_row_header with_left_block  basket_normal basket_fill_WHITE side_LEFT block_side_NORMAL catalog_icons_N banner_auto with_fast_view mheader-v1 header-v15 header-font-lower_N regions_Y title_position_LEFT fill_ footer-v1 front-vindex1 mfixed_Y mfixed_view_always title-v3 lazy_Y with_phones compact-catalog normal-catalog-img landing-normal big-banners-mobile-slider bottom-icons-panel-N compact-breadcrumbs-N catalog-delayed-btn-Y  ">
+
+<div class="mega_fixed_menu scrollblock">
+	<div class="maxwidth-theme">
+		<svg class="svg svg-close" width="14" height="14" viewBox="0 0 14 14">
+		  <path data-name="Rounded Rectangle 568 copy 16" d="M1009.4,953l5.32,5.315a0.987,0.987,0,0,1,0,1.4,1,1,0,0,1-1.41,0L1008,954.4l-5.32,5.315a0.991,0.991,0,0,1-1.4-1.4L1006.6,953l-5.32-5.315a0.991,0.991,0,0,1,1.4-1.4l5.32,5.315,5.31-5.315a1,1,0,0,1,1.41,0,0.987,0.987,0,0,1,0,1.4Z" transform="translate(-1001 -946)"></path>
+		</svg>
+		<i class="svg svg-close mask arrow"></i>
+		<div class="row">
+			<div class="col-md-9">
+				<div class="left_menu_block">
+					<div class="logo_block flexbox flexbox--row align-items-normal">
+						<div class="logo">
+							<a href="/"><img src="/upload/CMax/3dd/fwhyt10wmsir4w1rfkcllqf1u0t5ll0l.png" alt="ООО УК РЕГИОН ФИНАНС" title="ООО УК РЕГИОН ФИНАНС" data-src=""></a>						</div>
+						<div class="top-description addr">
+							Интернет-магазин 
+представительского класса						</div>
+					</div>
+					<div class="search_block">
+						<div class="search_wrap">
+							<div class="search-block">
+									<div class="search-wrapper">
+		<div id="title-search_mega_menu">
+			<form action="/search/" class="search">
+				<div class="search-input-div">
+					<input class="search-input" id="title-search-input_mega_menu" type="text" name="q" value="" placeholder="Поиск" size="20" maxlength="50" autocomplete="off">
+				</div>
+				<div class="search-button-div">
+					<button class="btn btn-search" type="submit" name="s" value="Найти"><i class="svg inline search2 " aria-hidden="true"><svg width="17" height="17"><use xlink:href="/bitrix/templates/aspro_max/images/svg/header_icons_srite.svg#search"></use></svg></i></button>
+					
+					<span class="close-block inline-search-hide"><span class="svg svg-close close-icons"></span></span>
+				</div>
+			</form>
+		<div class="title-search-result title-search-input_mega_menu"></div></div>
+	</div>
+<script>
+	var jsControl = new JCTitleSearch3({
+		//'WAIT_IMAGE': '/bitrix/themes/.default/images/wait.gif',
+		'AJAX_PAGE' : '/o_kompanii/raschet_sobstvennyih_sredstv',
+		'CONTAINER_ID': 'title-search_mega_menu',
+		'INPUT_ID': 'title-search-input_mega_menu',
+		'INPUT_ID_TMP': 'title-search-input_mega_menu',
+		'MIN_QUERY_LEN': 2
+	});
+</script>							</div>
+						</div>
+					</div>
+										<!-- noindex -->
+
+	<div class="burger_menu_wrapper">
+		
+		<div class="bottom_links_wrapper row">
+								<div class="menu-item col-md-4 unvisible dropdown link-hover-solid  ">
+					<div class="wrap">
+						<a class="dropdown-toggle" href="/o-kompanii/">
+							<div class="link-title color-theme-hover">
+																	<i class="svg inline  svg-inline-icon_catalog" aria-hidden="true"><svg xmlns="http://www.w3.org/2000/svg" width="0" height="0" viewBox="0 0 10 10"><path data-name="Rounded Rectangle 969 copy 7" class="cls-1" d="M644,76a1,1,0,1,1-1,1A1,1,0,0,1,644,76Zm4,0a1,1,0,1,1-1,1A1,1,0,0,1,648,76Zm4,0a1,1,0,1,1-1,1A1,1,0,0,1,652,76Zm-8,4a1,1,0,1,1-1,1A1,1,0,0,1,644,80Zm4,0a1,1,0,1,1-1,1A1,1,0,0,1,648,80Zm4,0a1,1,0,1,1-1,1A1,1,0,0,1,652,80Zm-8,4a1,1,0,1,1-1,1A1,1,0,0,1,644,84Zm4,0a1,1,0,1,1-1,1A1,1,0,0,1,648,84Zm4,0a1,1,0,1,1-1,1A1,1,0,0,1,652,84Z" transform="translate(-643 -76)"></path></svg><svg preserveAspectRatio="xMidYMid meet" data-bbox="10 44.5 180 111" viewBox="10 44.5 180 111" height="10" width="10" xmlns="http://www.w3.org/2000/svg" data-type="color" role="presentation" aria-hidden="true"><g><path fill="#000010" d="M100 155.5L10 66.083 31.724 44.5 100 111.717 168.276 44.5 190 66.083 100 155.5z" data-color="1"></path></g></svg></i>																О компании							</div>
+						</a>
+													<span class="tail"></span>
+							<div class="burger-dropdown-menu">
+								<div class="menu-wrapper">
+									
+																														<div class="  ">
+																						<a href="/o-kompanii/obshchaya-informatsiya/" class="color-theme-hover" title="Общая информация">
+												<span class="name option-font-bold">Общая информация</span>
+											</a>
+																					</div>
+									
+																														<div class="  ">
+																						<a href="/o-kompanii/kontaktnaya-informatsiya/" class="color-theme-hover" title="Контактная информация">
+												<span class="name option-font-bold">Контактная информация</span>
+											</a>
+																					</div>
+									
+																														<div class="  ">
+																						<a href="/o-kompanii/informatsionnye-soobshcheniya/" class="color-theme-hover" title="Информационные сообщения">
+												<span class="name option-font-bold">Информационные сообщения</span>
+											</a>
+																					</div>
+									
+																														<div class="  ">
+																						<a href="/o-kompanii/kartochka-kompanii/" class="color-theme-hover" title="Карточка компании">
+												<span class="name option-font-bold">Карточка компании</span>
+											</a>
+																					</div>
+									
+																														<div class="  ">
+																						<a href="/o-kompanii/nashi-uslugi-i-vozmozhnosti/" class="color-theme-hover" title="Наши услуги и возможности">
+												<span class="name option-font-bold">Наши услуги и возможности</span>
+											</a>
+																					</div>
+									
+																														<div class="  ">
+																						<a href="/blog/" class="color-theme-hover" title="Финансовый блог">
+												<span class="name option-font-bold">Финансовый блог</span>
+											</a>
+																					</div>
+																	</div>
+							</div>
+											</div>
+				</div>
+								<div class="menu-item col-md-4 unvisible dropdown link-hover-solid  ">
+					<div class="wrap">
+						<a class="dropdown-toggle" href="/zpif/">
+							<div class="link-title color-theme-hover">
+																	<i class="svg inline  svg-inline-icon_catalog" aria-hidden="true"><svg xmlns="http://www.w3.org/2000/svg" width="0" height="0" viewBox="0 0 10 10"><path data-name="Rounded Rectangle 969 copy 7" class="cls-1" d="M644,76a1,1,0,1,1-1,1A1,1,0,0,1,644,76Zm4,0a1,1,0,1,1-1,1A1,1,0,0,1,648,76Zm4,0a1,1,0,1,1-1,1A1,1,0,0,1,652,76Zm-8,4a1,1,0,1,1-1,1A1,1,0,0,1,644,80Zm4,0a1,1,0,1,1-1,1A1,1,0,0,1,648,80Zm4,0a1,1,0,1,1-1,1A1,1,0,0,1,652,80Zm-8,4a1,1,0,1,1-1,1A1,1,0,0,1,644,84Zm4,0a1,1,0,1,1-1,1A1,1,0,0,1,648,84Zm4,0a1,1,0,1,1-1,1A1,1,0,0,1,652,84Z" transform="translate(-643 -76)"></path></svg><svg preserveAspectRatio="xMidYMid meet" data-bbox="10 44.5 180 111" viewBox="10 44.5 180 111" height="10" width="10" xmlns="http://www.w3.org/2000/svg" data-type="color" role="presentation" aria-hidden="true"><g><path fill="#000010" d="M100 155.5L10 66.083 31.724 44.5 100 111.717 168.276 44.5 190 66.083 100 155.5z" data-color="1"></path></g></svg></i>																ЗПИФ							</div>
+						</a>
+													<span class="tail"></span>
+							<div class="burger-dropdown-menu">
+								<div class="menu-wrapper">
+									
+																														<div class="  ">
+																						<a href="/zpif/pravovaya-priroda-kombinirovannogo-zpif/" class="color-theme-hover" title="Правовая природа комбинированного ЗПИФ">
+												<span class="name option-font-bold">Правовая природа комбинированного ЗПИФ</span>
+											</a>
+																					</div>
+									
+																														<div class="  ">
+																						<a href="/zpif/ekonomika-zpif/" class="color-theme-hover" title="Экономика ЗПИФ">
+												<span class="name option-font-bold">Экономика ЗПИФ</span>
+											</a>
+																					</div>
+									
+																														<div class="  ">
+																						<a href="/zpif/zashchita-aktivov-i-upravlenie-riskami/" class="color-theme-hover" title="Защита активов и управление рисками">
+												<span class="name option-font-bold">Защита активов и управление рисками</span>
+											</a>
+																					</div>
+									
+																														<div class="  ">
+																						<a href="/zpif/rasporyazhenie-aktivami-i-kontrol/" class="color-theme-hover" title="Распоряжение активами и контроль">
+												<span class="name option-font-bold">Распоряжение активами и контроль</span>
+											</a>
+																					</div>
+									
+																														<div class="  ">
+																						<a href="/zpif/infrastruktura-zpif/" class="color-theme-hover" title="Инфраструктура ЗПИФ">
+												<span class="name option-font-bold">Инфраструктура ЗПИФ</span>
+											</a>
+																					</div>
+									
+																														<div class="  ">
+																						<a href="/zpif/pravila-doveritelnogo-upravleniya-zpif/" class="color-theme-hover" title="Правила доверительного управления ЗПИФ">
+												<span class="name option-font-bold">Правила доверительного управления ЗПИФ</span>
+											</a>
+																					</div>
+									
+																														<div class="  ">
+																						<a href="/zpif/vladeltsy-payev-kombinirovannogo-zpif/" class="color-theme-hover" title="Владельцы паёв комбинированного ЗПИФ">
+												<span class="name option-font-bold">Владельцы паёв комбинированного ЗПИФ</span>
+											</a>
+																					</div>
+									
+																														<div class="  ">
+																						<a href="/zpif/kvalifitsirovannye-investory/" class="color-theme-hover" title="Квалифицированные инвесторы">
+												<span class="name option-font-bold">Квалифицированные инвесторы</span>
+											</a>
+																					</div>
+									
+																														<div class="  ">
+																						<a href="/zpif/vkhod-v-zpif-i-vykhod-iz-zpif/" class="color-theme-hover" title="Вход в ЗПИФ и выход из ЗПИФ">
+												<span class="name option-font-bold">Вход в ЗПИФ и выход из ЗПИФ</span>
+											</a>
+																					</div>
+									
+																														<div class="  ">
+																						<a href="/zpif/vyplata-dokhoda-iz-zpif/" class="color-theme-hover" title="Выплата дохода из ЗПИФ">
+												<span class="name option-font-bold">Выплата дохода из ЗПИФ</span>
+											</a>
+																					</div>
+									
+																														<div class="  ">
+																						<a href="/zpif/prekrashchenie-zpif-i-vydel-imushchestva-v-nature/" class="color-theme-hover" title="Прекращение ЗПИФ и выдел имущества">
+												<span class="name option-font-bold">Прекращение ЗПИФ и выдел имущества</span>
+											</a>
+																					</div>
+																	</div>
+							</div>
+											</div>
+				</div>
+								<div class="menu-item col-md-4 unvisible dropdown link-hover-solid  ">
+					<div class="wrap">
+						<a class="dropdown-toggle" href="/fondy/">
+							<div class="link-title color-theme-hover">
+																	<i class="svg inline  svg-inline-icon_catalog" aria-hidden="true"><svg xmlns="http://www.w3.org/2000/svg" width="0" height="0" viewBox="0 0 10 10"><path data-name="Rounded Rectangle 969 copy 7" class="cls-1" d="M644,76a1,1,0,1,1-1,1A1,1,0,0,1,644,76Zm4,0a1,1,0,1,1-1,1A1,1,0,0,1,648,76Zm4,0a1,1,0,1,1-1,1A1,1,0,0,1,652,76Zm-8,4a1,1,0,1,1-1,1A1,1,0,0,1,644,80Zm4,0a1,1,0,1,1-1,1A1,1,0,0,1,648,80Zm4,0a1,1,0,1,1-1,1A1,1,0,0,1,652,80Zm-8,4a1,1,0,1,1-1,1A1,1,0,0,1,644,84Zm4,0a1,1,0,1,1-1,1A1,1,0,0,1,648,84Zm4,0a1,1,0,1,1-1,1A1,1,0,0,1,652,84Z" transform="translate(-643 -76)"></path></svg><svg preserveAspectRatio="xMidYMid meet" data-bbox="10 44.5 180 111" viewBox="10 44.5 180 111" height="10" width="10" xmlns="http://www.w3.org/2000/svg" data-type="color" role="presentation" aria-hidden="true"><g><path fill="#000010" d="M100 155.5L10 66.083 31.724 44.5 100 111.717 168.276 44.5 190 66.083 100 155.5z" data-color="1"></path></g></svg></i>																Фонды							</div>
+						</a>
+													<span class="tail"></span>
+							<div class="burger-dropdown-menu">
+								<div class="menu-wrapper">
+									
+																														<div class="  ">
+																						<a href="/fondy/zpif-kombinirovannyy-sinus/" class="color-theme-hover" title="ЗПИФ комбинированный «Синус»">
+												<span class="name option-font-bold">ЗПИФ комбинированный «Синус»</span>
+											</a>
+																					</div>
+									
+																														<div class="  ">
+																						<a href="/fondy/zpif-kombinirovannyy-ellips/" class="color-theme-hover" title="ЗПИФ комбинированный «Эллипс»">
+												<span class="name option-font-bold">ЗПИФ комбинированный «Эллипс»</span>
+											</a>
+																					</div>
+									
+																														<div class="  ">
+																						<a href="/fondy/zpif-kombinirovannyy-kontrakt-invest/" class="color-theme-hover" title="ЗПИФ комбинированный «Контракт-Инвест»">
+												<span class="name option-font-bold">ЗПИФ комбинированный «Контракт-Инвест»</span>
+											</a>
+																					</div>
+									
+																														<div class="  ">
+																						<a href="/fondy/zpif-kombinirovannyy-kislorod/" class="color-theme-hover" title="ЗПИФ комбинированный «Кислород»">
+												<span class="name option-font-bold">ЗПИФ комбинированный «Кислород»</span>
+											</a>
+																					</div>
+									
+																														<div class="  ">
+																						<a href="/fondy/zpif-kombinirovannyy-leonardo/" class="color-theme-hover" title="ЗПИФ комбинированный «Леонардо»">
+												<span class="name option-font-bold">ЗПИФ комбинированный «Леонардо»</span>
+											</a>
+																					</div>
+									
+																														<div class="  ">
+																						<a href="/fondy/zpif-kombinirovannyy-smart/" class="color-theme-hover" title="ЗПИФ комбинированный «Смарт»">
+												<span class="name option-font-bold">ЗПИФ комбинированный «Смарт»</span>
+											</a>
+																					</div>
+									
+																														<div class="  ">
+																						<a href="/fondy/zpif-kombinirovannyy-amalgama/" class="color-theme-hover" title="ЗПИФ комбинированный «Амальгама»">
+												<span class="name option-font-bold">ЗПИФ комбинированный «Амальгама»</span>
+											</a>
+																					</div>
+																	</div>
+							</div>
+											</div>
+				</div>
+								<div class="menu-item col-md-4 unvisible dropdown link-hover-solid  ">
+					<div class="wrap">
+						<a class="dropdown-toggle" href="/raskrytie-informatsii/">
+							<div class="link-title color-theme-hover">
+																	<i class="svg inline  svg-inline-icon_catalog" aria-hidden="true"><svg xmlns="http://www.w3.org/2000/svg" width="0" height="0" viewBox="0 0 10 10"><path data-name="Rounded Rectangle 969 copy 7" class="cls-1" d="M644,76a1,1,0,1,1-1,1A1,1,0,0,1,644,76Zm4,0a1,1,0,1,1-1,1A1,1,0,0,1,648,76Zm4,0a1,1,0,1,1-1,1A1,1,0,0,1,652,76Zm-8,4a1,1,0,1,1-1,1A1,1,0,0,1,644,80Zm4,0a1,1,0,1,1-1,1A1,1,0,0,1,648,80Zm4,0a1,1,0,1,1-1,1A1,1,0,0,1,652,80Zm-8,4a1,1,0,1,1-1,1A1,1,0,0,1,644,84Zm4,0a1,1,0,1,1-1,1A1,1,0,0,1,648,84Zm4,0a1,1,0,1,1-1,1A1,1,0,0,1,652,84Z" transform="translate(-643 -76)"></path></svg><svg preserveAspectRatio="xMidYMid meet" data-bbox="10 44.5 180 111" viewBox="10 44.5 180 111" height="10" width="10" xmlns="http://www.w3.org/2000/svg" data-type="color" role="presentation" aria-hidden="true"><g><path fill="#000010" d="M100 155.5L10 66.083 31.724 44.5 100 111.717 168.276 44.5 190 66.083 100 155.5z" data-color="1"></path></g></svg></i>																Раскрытие информации							</div>
+						</a>
+													<span class="tail"></span>
+							<div class="burger-dropdown-menu">
+								<div class="menu-wrapper">
+									
+																														<div class="  ">
+																						<a href="/raskrytie-informatsii/soobshcheniya/" class="color-theme-hover" title="Сообщения">
+												<span class="name option-font-bold">Сообщения</span>
+											</a>
+																					</div>
+									
+																														<div class="  ">
+																						<a href="/raskrytie-informatsii/bukhgalterskaya-finansovaya-otchetnost/" class="color-theme-hover" title="Бухгалтерская (финансовая) отчетность">
+												<span class="name option-font-bold">Бухгалтерская (финансовая) отчетность</span>
+											</a>
+																					</div>
+									
+																														<div class="  ">
+																						<a href="/raskrytie-informatsii/raschet-sobstvennykh-sredstv/" class="color-theme-hover" title="Расчет собственных средств">
+												<span class="name option-font-bold">Расчет собственных средств</span>
+											</a>
+																					</div>
+									
+																														<div class="  ">
+																						<a href="/raskrytie-informatsii/sostav-i-struktura-uchastnikov-ooo-uk-region-finans/" class="color-theme-hover" title="Состав и структура участников">
+												<span class="name option-font-bold">Состав и структура участников</span>
+											</a>
+																					</div>
+									
+																														<div class="  ">
+																						<a href="/raskrytie-informatsii/vnutrennie-normativnye-dokumenty-ooo-uk-region-finans/" class="color-theme-hover" title="Внутренние нормативные документы">
+												<span class="name option-font-bold">Внутренние нормативные документы</span>
+											</a>
+																					</div>
+																	</div>
+							</div>
+											</div>
+				</div>
+								<div class="menu-item col-md-4 unvisible dropdown link-hover-solid  ">
+					<div class="wrap">
+						<a class="dropdown-toggle" href="/informatsionnaya-bezopasnost/">
+							<div class="link-title color-theme-hover">
+																	<i class="svg inline  svg-inline-icon_catalog" aria-hidden="true"><svg xmlns="http://www.w3.org/2000/svg" width="0" height="0" viewBox="0 0 10 10"><path data-name="Rounded Rectangle 969 copy 7" class="cls-1" d="M644,76a1,1,0,1,1-1,1A1,1,0,0,1,644,76Zm4,0a1,1,0,1,1-1,1A1,1,0,0,1,648,76Zm4,0a1,1,0,1,1-1,1A1,1,0,0,1,652,76Zm-8,4a1,1,0,1,1-1,1A1,1,0,0,1,644,80Zm4,0a1,1,0,1,1-1,1A1,1,0,0,1,648,80Zm4,0a1,1,0,1,1-1,1A1,1,0,0,1,652,80Zm-8,4a1,1,0,1,1-1,1A1,1,0,0,1,644,84Zm4,0a1,1,0,1,1-1,1A1,1,0,0,1,648,84Zm4,0a1,1,0,1,1-1,1A1,1,0,0,1,652,84Z" transform="translate(-643 -76)"></path></svg><svg preserveAspectRatio="xMidYMid meet" data-bbox="10 44.5 180 111" viewBox="10 44.5 180 111" height="10" width="10" xmlns="http://www.w3.org/2000/svg" data-type="color" role="presentation" aria-hidden="true"><g><path fill="#000010" d="M100 155.5L10 66.083 31.724 44.5 100 111.717 168.276 44.5 190 66.083 100 155.5z" data-color="1"></path></g></svg></i>																Информационная безопасность							</div>
+						</a>
+													<span class="tail"></span>
+							<div class="burger-dropdown-menu">
+								<div class="menu-wrapper">
+									
+																														<div class="  ">
+																						<a href="/informatsionnaya-bezopasnost/rekomendatsii/" class="color-theme-hover" title="Рекомендации">
+												<span class="name option-font-bold">Рекомендации</span>
+											</a>
+																					</div>
+																	</div>
+							</div>
+											</div>
+				</div>
+					</div>
+
+	</div>
+					<!-- /noindex -->
+														</div>
+			</div>
+			<div class="col-md-3">
+				<div class="right_menu_block">
+					<div class="contact_wrap">
+						<div class="info">
+							<div class="phone blocks">
+								<div class="">
+									<!--'start_frame_cache_header-allphones-block1'-->								<!-- noindex -->
+			<div class="phone with_dropdown white sm">
+									<div class="wrap">
+						<div>
+									<i class="svg inline svg-inline-phone " aria-hidden="true"><svg width="5" height="13"><use xlink:href="/bitrix/templates/aspro_max/images/svg/header_icons_srite.svg#phone_footer"></use></svg></i><a rel="nofollow" href="tel:+73433792297">+7 (343) 379-22-97</a>
+										</div>
+					</div>
+											</div>
+			<!-- /noindex -->
+				<!--'end_frame_cache_header-allphones-block1'-->								</div>
+								<div class="callback_wrap">
+									<span class="callback-block animate-load font_upper colored" data-event="jqm" data-param-form_id="CALLBACK" data-name="callback">Заказать звонок</span>
+								</div>
+							</div>
+							<div class="question_button_wrapper">
+								<span class="btn btn-lg btn-transparent-border-color btn-wide animate-load colored_theme_hover_bg-el" data-event="jqm" data-param-form_id="ASK" data-name="ask">
+									Задать вопрос								</span>
+							</div>
+							<div class="person_wrap">
+		<!--'start_frame_cache_header-auth-block1'-->			<!-- noindex --><div class="auth_wr_inner "><a rel="nofollow" title="Мой кабинет" class="personal-link dark-color animate-load" data-event="jqm" data-param-backurl="/o_kompanii/raschet_sobstvennyih_sredstv" data-param-type="auth" data-name="auth" href="/personal/"><i class="svg inline svg-inline-cabinet big" aria-hidden="true"><svg width="18" height="18"><use xlink:href="/bitrix/templates/aspro_max/images/svg/header_icons_srite.svg#user"></use></svg></i><span class="wrap"><span class="name">Войти</span></span></a></div><!-- /noindex -->		<!--'end_frame_cache_header-auth-block1'-->
+			<!--'start_frame_cache_mobile-basket-with-compare-block1'-->		<!-- noindex -->
+					<div class="menu middle">
+				<ul>
+					<li class="counters">
+						<a rel="nofollow" class="dark-color basket-link basket ready " href="/basket/">
+							<i class="svg  svg-inline-basket" aria-hidden="true"><svg class="" width="19" height="16" viewBox="0 0 19 16"><path data-name="Ellipse 2 copy 9" class="cls-1" d="M956.047,952.005l-0.939,1.009-11.394-.008-0.952-1-0.953-6h-2.857a0.862,0.862,0,0,1-.952-1,1.025,1.025,0,0,1,1.164-1h2.327c0.3,0,.6.006,0.6,0.006a1.208,1.208,0,0,1,1.336.918L943.817,947h12.23L957,948v1Zm-11.916-3,0.349,2h10.007l0.593-2Zm1.863,5a3,3,0,1,1-3,3A3,3,0,0,1,945.994,954.005ZM946,958a1,1,0,1,0-1-1A1,1,0,0,0,946,958Zm7.011-4a3,3,0,1,1-3,3A3,3,0,0,1,953.011,954.005ZM953,958a1,1,0,1,0-1-1A1,1,0,0,0,953,958Z" transform="translate(-938 -944)"></path></svg></i>							<span>Корзина<span class="count empted">0</span></span>
+						</a>
+					</li>
+					<li class="counters">
+						<a rel="nofollow" class="dark-color basket-link delay ready " href="javascript:void(0)" data-href="/basket/#delayed">
+							<i class="svg  svg-inline-basket" aria-hidden="true"><svg xmlns="http://www.w3.org/2000/svg" width="16" height="13" viewBox="0 0 16 13"><defs><style>.clsw-1{fill:#fff;fill-rule:evenodd;}</style></defs><path class="clsw-1" d="M506.755,141.6l0,0.019s-4.185,3.734-5.556,4.973a0.376,0.376,0,0,1-.076.056,1.838,1.838,0,0,1-1.126.357,1.794,1.794,0,0,1-1.166-.4,0.473,0.473,0,0,1-.1-0.076c-1.427-1.287-5.459-4.878-5.459-4.878l0-.019A4.494,4.494,0,1,1,500,135.7,4.492,4.492,0,1,1,506.755,141.6Zm-3.251-5.61A2.565,2.565,0,0,0,501,138h0a1,1,0,1,1-2,0h0a2.565,2.565,0,0,0-2.506-2,2.5,2.5,0,0,0-1.777,4.264l-0.013.019L500,145.1l5.179-4.749c0.042-.039.086-0.075,0.126-0.117l0.052-.047-0.006-.008A2.494,2.494,0,0,0,503.5,135.993Z" transform="translate(-492 -134)"></path></svg></i>							<span>Отложенные<span class="count empted">0</span></span>
+						</a>
+					</li>
+				</ul>
+			</div>
+							<div class="menu middle">
+				<ul>
+					<li class="counters">
+						<a rel="nofollow" class="dark-color basket-link compare ready " href="/catalog/compare.php">
+							<i class="svg inline  svg-inline-compare " aria-hidden="true"><svg xmlns="http://www.w3.org/2000/svg" width="18" height="17" viewBox="0 0 18 17"><defs><style>.cls-1{fill:#333;fill-rule:evenodd;}</style></defs><path data-name="Rounded Rectangle 865" class="cls-1" d="M597,78a1,1,0,0,1,1,1v9a1,1,0,0,1-2,0V79A1,1,0,0,1,597,78Zm4-6a1,1,0,0,1,1,1V88a1,1,0,0,1-2,0V73A1,1,0,0,1,601,72Zm4,8a1,1,0,0,1,1,1v7a1,1,0,0,1-2,0V81A1,1,0,0,1,605,80Zm-12-5a1,1,0,0,1,1,1V88a1,1,0,0,1-2,0V76A1,1,0,0,1,593,75Zm-4,5a1,1,0,0,1,1,1v7a1,1,0,0,1-2,0V81A1,1,0,0,1,589,80Z" transform="translate(-588 -72)"></path></svg>
+</i>							<span>Сравнение товаров<span class="count empted">0</span></span>
+						</a>
+					</li>
+				</ul>
+			</div>
+				<!-- /noindex -->
+		<!--'end_frame_cache_mobile-basket-with-compare-block1'-->								</div>
+						</div>
+					</div>
+					<div class="footer_wrap">
+													<div class="inline-block">
+								<div class="top-description no-title">
+						<!--'start_frame_cache_allregions-list-block1'-->
+									<div class="region_wrapper">
+		<div class="io_wrapper">
+			<i class="svg inline svg-inline-mark " aria-hidden="true"><svg width="13" height="13"><use xlink:href="/bitrix/templates/aspro_max/images/svg/header_icons_srite.svg#location"></use></svg></i>			<div class="city_title">Ваш город</div>
+			<div class="js_city_chooser dark-color list" data-param-url="%2Fo_kompanii%2Fraschet_sobstvennyih_sredstv" data-param-form_id="city_chooser">
+				<span>Екатеринбург</span><span class="arrow"><i class="svg inline  svg-inline-down" aria-hidden="true"><svg xmlns="http://www.w3.org/2000/svg" width="5" height="3" viewBox="0 0 5 3"><path class="cls-1" d="M250,80h5l-2.5,3Z" transform="translate(-250 -80)"></path></svg></i></span>
+			</div>
+		</div>
+		<div class="dropdown">
+			<div class="wrap">
+									<div class="more_item current">
+						<span data-region_id="739" data-href="/o_kompanii/raschet_sobstvennyih_sredstv">Екатеринбург</span>
+					</div>
+							</div>
+		</div>
+			</div>
+			<!--'end_frame_cache_allregions-list-block1'-->										</div>
+							</div>
+						
+						<!--'start_frame_cache_email-block1'-->		
+												<div class="email blocks color-theme-hover">
+						<i class="svg inline  svg-inline-email" aria-hidden="true"><svg xmlns="http://www.w3.org/2000/svg" width="11" height="9" viewBox="0 0 11 9"><path data-name="Rectangle 583 copy 16" class="cls-1" d="M367,142h-7a2,2,0,0,1-2-2v-5a2,2,0,0,1,2-2h7a2,2,0,0,1,2,2v5A2,2,0,0,1,367,142Zm0-2v-3.039L364,139h-1l-3-2.036V140h7Zm-6.634-5,3.145,2.079L366.634,135h-6.268Z" transform="translate(-358 -133)"></path></svg></i>													<a href="mailto:info@am-rf.ru" target="_blank">info@am-rf.ru</a>
+											</div>
+				<!--'end_frame_cache_email-block1'-->		
+						<!--'start_frame_cache_address-block1'-->		
+												<div class="address blocks">
+						<i class="svg inline  svg-inline-addr" aria-hidden="true"><svg xmlns="http://www.w3.org/2000/svg" width="9" height="12" viewBox="0 0 9 12"><path class="cls-1" d="M959.135,82.315l0.015,0.028L955.5,87l-3.679-4.717,0.008-.013a4.658,4.658,0,0,1-.83-2.655,4.5,4.5,0,1,1,9,0A4.658,4.658,0,0,1,959.135,82.315ZM955.5,77a2.5,2.5,0,0,0-2.5,2.5,2.467,2.467,0,0,0,.326,1.212l-0.014.022,2.181,3.336,2.034-3.117c0.033-.046.063-0.094,0.093-0.142l0.066-.1-0.007-.009a2.468,2.468,0,0,0,.32-1.2A2.5,2.5,0,0,0,955.5,77Z" transform="translate(-951 -75)"></path></svg></i>						г. Екатеринбург, ул. Белинского, 56					</div>
+				<!--'end_frame_cache_address-block1'-->		
+							<div class="social-block">
+							<div class="social-icons">
+		<!-- noindex -->
+	<ul>
+																																	</ul>
+	<!-- /noindex -->
+</div>						</div>
+					</div>
+				</div>
+			</div>
+		</div>
+	</div>
+</div>
+<div class="header_wrap visible-lg visible-md title-v3 ">
+	<header id="header">
+		<div class="top-block top-block-v1 header-v15 header-wrapper">
+	<div class="maxwidth-theme logo_and_menu-row logo_top_white">		
+		<div class="wrapp_block logo-row logo_top_white">
+			<div class="items-wrapper header__top-inner">
+									<div class="header__top-item">
+						<div class="top-description no-title">
+						<!--'start_frame_cache_allregions-list-block2'-->
+									<div class="region_wrapper">
+		<div class="io_wrapper">
+			<i class="svg inline svg-inline-mark " aria-hidden="true"><svg width="13" height="13"><use xlink:href="/bitrix/templates/aspro_max/images/svg/header_icons_srite.svg#location"></use></svg></i>			<div class="city_title">Ваш город</div>
+			<div class="js_city_chooser dark-color list" data-param-url="%2Fo_kompanii%2Fraschet_sobstvennyih_sredstv" data-param-form_id="city_chooser">
+				<span>Екатеринбург</span><span class="arrow"><i class="svg inline  svg-inline-down" aria-hidden="true"><svg xmlns="http://www.w3.org/2000/svg" width="5" height="3" viewBox="0 0 5 3"><path class="cls-1" d="M250,80h5l-2.5,3Z" transform="translate(-250 -80)"></path></svg></i></span>
+			</div>
+		</div>
+		<div class="dropdown">
+			<div class="wrap">
+									<div class="more_item current">
+						<span data-region_id="739" data-href="/o_kompanii/raschet_sobstvennyih_sredstv">Екатеринбург</span>
+					</div>
+							</div>
+		</div>
+			</div>
+			<!--'end_frame_cache_allregions-list-block2'-->								</div>
+					</div>
+								<div class="header__top-item phone-wrapper">
+					<div class="phone-block ">
+													<div class="inline-block">
+								<!--'start_frame_cache_header-allphones-block2'-->								<!-- noindex -->
+			<div class="phone with_dropdown no-icons">
+									<i class="svg inline svg-inline-phone " aria-hidden="true"><svg width="5" height="13"><use xlink:href="/bitrix/templates/aspro_max/images/svg/header_icons_srite.svg#phone_black"></use></svg></i><a rel="nofollow" href="tel:+73433792297">+7 (343) 379-22-97</a>
+											</div>
+			<!-- /noindex -->
+				<!--'end_frame_cache_header-allphones-block2'-->							</div>
+																			<div class="inline-block">
+								<span class="callback-block animate-load font_upper_xs colored" data-event="jqm" data-param-form_id="CALLBACK" data-name="callback">Заказать звонок</span>
+							</div>
+											</div>
+				</div>
+				
+				
+				
+							<div class="header__top-item">
+				<div class="wrap_icon">
+					<button class="top-btn inline-search-show">
+						<i class="svg inline svg-inline-search" aria-hidden="true"><svg width="17" height="17"><use xlink:href="/bitrix/templates/aspro_max/images/svg/header_icons_srite.svg#search"></use></svg></i>						<span class="title">Поиск</span>
+					</button>
+				</div>
+			</div>	
+				
+				
+				
+				
+				
+				
+				
+				<div class="header__top-item dotted-flex-1 hide-dotted">
+					<div class="menus">
+
+					</div>
+				</div>	
+<div>
+						<!--'start_frame_cache_address-block2'-->		
+												<div class="address tables inline-block no-icons">
+						<i class="svg inline  svg-inline-addr" aria-hidden="true"><svg xmlns="http://www.w3.org/2000/svg" width="9" height="12" viewBox="0 0 9 12"><path class="cls-1" d="M959.135,82.315l0.015,0.028L955.5,87l-3.679-4.717,0.008-.013a4.658,4.658,0,0,1-.83-2.655,4.5,4.5,0,1,1,9,0A4.658,4.658,0,0,1,959.135,82.315ZM955.5,77a2.5,2.5,0,0,0-2.5,2.5,2.467,2.467,0,0,0,.326,1.212l-0.014.022,2.181,3.336,2.034-3.117c0.033-.046.063-0.094,0.093-0.142l0.066-.1-0.007-.009a2.468,2.468,0,0,0,.32-1.2A2.5,2.5,0,0,0,955.5,77Z" transform="translate(-951 -75)"></path></svg></i>						г. Екатеринбург, ул. Белинского, 56					</div>
+				<!--'end_frame_cache_address-block2'-->		
+	</div>
+
+				<div class="right-icons showed wb  logo_and_menu-row logo_top_white header__top-item">
+					<div class="line-block line-block--40 line-block--40-1200 flexbox--justify-end  ">
+																								<div class="line-block__item">
+							<div class="wrap_icon inner-table-block1 person">
+							</div>
+						</div>
+					</div>	
+				</div>
+			</div>
+		</div>
+	</div>
+</div>
+
+
+
+
+
+<div class="header-wrapper header-v15">
+	<div class="maxwidth-theme logo-row paddings logo_and_menu-row  longs ">
+		<div class="header__top-inner logo-row">
+			<div class="logo-block floated header__top-item no-shrinked">
+				<div class="logo">
+					<a href="/"><img src="/upload/CMax/3dd/fwhyt10wmsir4w1rfkcllqf1u0t5ll0l.png" alt="ООО УК РЕГИОН ФИНАНС" title="ООО УК РЕГИОН ФИНАНС" data-src=""></a>				</div>
+			</div>
+			<div class="header__top-item minwidth0 flex1">				
+				<div class="menu-row">
+					<div class="menu-only">
+						<nav class="mega-menu sliced ovisible initied">
+								<div class="table-menu  ">
+		<table style="">
+			<tbody><tr>
+														<td class="menu-item dropdown  link-hover-solid" style="visibility: visible;">
+						<div class="wrap">
+							<a class="dropdown-toggle" href="/o-kompanii/">
+								<div>
+																			<i class="svg inline  svg-inline-icon_catalog" aria-hidden="true"><svg xmlns="http://www.w3.org/2000/svg" width="0" height="0" viewBox="0 0 10 10"><path data-name="Rounded Rectangle 969 copy 7" class="cls-1" d="M644,76a1,1,0,1,1-1,1A1,1,0,0,1,644,76Zm4,0a1,1,0,1,1-1,1A1,1,0,0,1,648,76Zm4,0a1,1,0,1,1-1,1A1,1,0,0,1,652,76Zm-8,4a1,1,0,1,1-1,1A1,1,0,0,1,644,80Zm4,0a1,1,0,1,1-1,1A1,1,0,0,1,648,80Zm4,0a1,1,0,1,1-1,1A1,1,0,0,1,652,80Zm-8,4a1,1,0,1,1-1,1A1,1,0,0,1,644,84Zm4,0a1,1,0,1,1-1,1A1,1,0,0,1,648,84Zm4,0a1,1,0,1,1-1,1A1,1,0,0,1,652,84Z" transform="translate(-643 -76)"></path></svg><svg preserveAspectRatio="xMidYMid meet" data-bbox="10 44.5 180 111" viewBox="10 44.5 180 111" height="10" width="10" xmlns="http://www.w3.org/2000/svg" data-type="color" role="presentation" aria-hidden="true"><g><path fill="#000010" d="M100 155.5L10 66.083 31.724 44.5 100 111.717 168.276 44.5 190 66.083 100 155.5z" data-color="1"></path></g></svg></i>																		О компании																		<div class="line-wrapper"><span class="line"></span></div>
+								</div>
+							</a>
+								
+								<span class="tail"></span>
+								<div class="dropdown-menu ">
+									<div class="customScrollbar scrollblock ">
+																			
+										<ul class="menu-wrapper menu-type-1">
+												
+																																							<li class="   ">
+																												<a href="/o-kompanii/obshchaya-informatsiya/" title="Общая информация"><span class="name">Общая информация</span></a>
+																											</li>
+												
+												
+																																							<li class="   ">
+																												<a href="/o-kompanii/kontaktnaya-informatsiya/" title="Контактная информация"><span class="name">Контактная информация</span></a>
+																											</li>
+												
+												
+																																							<li class="   ">
+																												<a href="/o-kompanii/informatsionnye-soobshcheniya/" title="Информационные сообщения"><span class="name">Информационные сообщения</span></a>
+																											</li>
+												
+												
+																																							<li class="   ">
+																												<a href="/o-kompanii/kartochka-kompanii/" title="Карточка компании"><span class="name">Карточка компании</span></a>
+																											</li>
+												
+												
+																																							<li class="   ">
+																												<a href="/o-kompanii/nashi-uslugi-i-vozmozhnosti/" title="Наши услуги и возможности"><span class="name">Наши услуги и возможности</span></a>
+																											</li>
+												
+												
+																																							<li class="   ">
+																												<a href="/blog/" title="Финансовый блог"><span class="name">Финансовый блог</span></a>
+																											</li>
+												
+																					</ul>
+									</div>
+								</div>
+													</div>
+					</td>
+														<td class="menu-item dropdown  link-hover-solid" style="visibility: visible;">
+						<div class="wrap">
+							<a class="dropdown-toggle" href="/zpif/">
+								<div>
+																			<i class="svg inline  svg-inline-icon_catalog" aria-hidden="true"><svg xmlns="http://www.w3.org/2000/svg" width="0" height="0" viewBox="0 0 10 10"><path data-name="Rounded Rectangle 969 copy 7" class="cls-1" d="M644,76a1,1,0,1,1-1,1A1,1,0,0,1,644,76Zm4,0a1,1,0,1,1-1,1A1,1,0,0,1,648,76Zm4,0a1,1,0,1,1-1,1A1,1,0,0,1,652,76Zm-8,4a1,1,0,1,1-1,1A1,1,0,0,1,644,80Zm4,0a1,1,0,1,1-1,1A1,1,0,0,1,648,80Zm4,0a1,1,0,1,1-1,1A1,1,0,0,1,652,80Zm-8,4a1,1,0,1,1-1,1A1,1,0,0,1,644,84Zm4,0a1,1,0,1,1-1,1A1,1,0,0,1,648,84Zm4,0a1,1,0,1,1-1,1A1,1,0,0,1,652,84Z" transform="translate(-643 -76)"></path></svg><svg preserveAspectRatio="xMidYMid meet" data-bbox="10 44.5 180 111" viewBox="10 44.5 180 111" height="10" width="10" xmlns="http://www.w3.org/2000/svg" data-type="color" role="presentation" aria-hidden="true"><g><path fill="#000010" d="M100 155.5L10 66.083 31.724 44.5 100 111.717 168.276 44.5 190 66.083 100 155.5z" data-color="1"></path></g></svg></i>																		ЗПИФ																		<div class="line-wrapper"><span class="line"></span></div>
+								</div>
+							</a>
+								
+								<span class="tail"></span>
+								<div class="dropdown-menu ">
+									<div class="customScrollbar scrollblock ">
+																			
+										<ul class="menu-wrapper menu-type-1">
+												
+																																							<li class="   ">
+																												<a href="/zpif/pravovaya-priroda-kombinirovannogo-zpif/" title="Правовая природа комбинированного ЗПИФ"><span class="name">Правовая природа комбинированного ЗПИФ</span></a>
+																											</li>
+												
+												
+																																							<li class="   ">
+																												<a href="/zpif/ekonomika-zpif/" title="Экономика ЗПИФ"><span class="name">Экономика ЗПИФ</span></a>
+																											</li>
+												
+												
+																																							<li class="   ">
+																												<a href="/zpif/zashchita-aktivov-i-upravlenie-riskami/" title="Защита активов и управление рисками"><span class="name">Защита активов и управление рисками</span></a>
+																											</li>
+												
+												
+																																							<li class="   ">
+																												<a href="/zpif/rasporyazhenie-aktivami-i-kontrol/" title="Распоряжение активами и контроль"><span class="name">Распоряжение активами и контроль</span></a>
+																											</li>
+												
+												
+																																							<li class="   ">
+																												<a href="/zpif/infrastruktura-zpif/" title="Инфраструктура ЗПИФ"><span class="name">Инфраструктура ЗПИФ</span></a>
+																											</li>
+												
+												
+																																							<li class="   ">
+																												<a href="/zpif/pravila-doveritelnogo-upravleniya-zpif/" title="Правила доверительного управления ЗПИФ"><span class="name">Правила доверительного управления ЗПИФ</span></a>
+																											</li>
+												
+												
+																																							<li class="   ">
+																												<a href="/zpif/vladeltsy-payev-kombinirovannogo-zpif/" title="Владельцы паёв комбинированного ЗПИФ"><span class="name">Владельцы паёв комбинированного ЗПИФ</span></a>
+																											</li>
+												
+												
+																																							<li class="   ">
+																												<a href="/zpif/kvalifitsirovannye-investory/" title="Квалифицированные инвесторы"><span class="name">Квалифицированные инвесторы</span></a>
+																											</li>
+												
+												
+																																							<li class="   ">
+																												<a href="/zpif/vkhod-v-zpif-i-vykhod-iz-zpif/" title="Вход в ЗПИФ и выход из ЗПИФ"><span class="name">Вход в ЗПИФ и выход из ЗПИФ</span></a>
+																											</li>
+												
+												
+																																							<li class="   ">
+																												<a href="/zpif/vyplata-dokhoda-iz-zpif/" title="Выплата дохода из ЗПИФ"><span class="name">Выплата дохода из ЗПИФ</span></a>
+																											</li>
+												
+												
+																																							<li class="   ">
+																												<a href="/zpif/prekrashchenie-zpif-i-vydel-imushchestva-v-nature/" title="Прекращение ЗПИФ и выдел имущества"><span class="name">Прекращение ЗПИФ и выдел имущества</span></a>
+																											</li>
+												
+																					</ul>
+									</div>
+								</div>
+													</div>
+					</td>
+														<td class="menu-item dropdown  link-hover-solid" style="visibility: visible;">
+						<div class="wrap">
+							<a class="dropdown-toggle" href="/fondy/">
+								<div>
+																			<i class="svg inline  svg-inline-icon_catalog" aria-hidden="true"><svg xmlns="http://www.w3.org/2000/svg" width="0" height="0" viewBox="0 0 10 10"><path data-name="Rounded Rectangle 969 copy 7" class="cls-1" d="M644,76a1,1,0,1,1-1,1A1,1,0,0,1,644,76Zm4,0a1,1,0,1,1-1,1A1,1,0,0,1,648,76Zm4,0a1,1,0,1,1-1,1A1,1,0,0,1,652,76Zm-8,4a1,1,0,1,1-1,1A1,1,0,0,1,644,80Zm4,0a1,1,0,1,1-1,1A1,1,0,0,1,648,80Zm4,0a1,1,0,1,1-1,1A1,1,0,0,1,652,80Zm-8,4a1,1,0,1,1-1,1A1,1,0,0,1,644,84Zm4,0a1,1,0,1,1-1,1A1,1,0,0,1,648,84Zm4,0a1,1,0,1,1-1,1A1,1,0,0,1,652,84Z" transform="translate(-643 -76)"></path></svg><svg preserveAspectRatio="xMidYMid meet" data-bbox="10 44.5 180 111" viewBox="10 44.5 180 111" height="10" width="10" xmlns="http://www.w3.org/2000/svg" data-type="color" role="presentation" aria-hidden="true"><g><path fill="#000010" d="M100 155.5L10 66.083 31.724 44.5 100 111.717 168.276 44.5 190 66.083 100 155.5z" data-color="1"></path></g></svg></i>																		Фонды																		<div class="line-wrapper"><span class="line"></span></div>
+								</div>
+							</a>
+								
+								<span class="tail"></span>
+								<div class="dropdown-menu ">
+									<div class="customScrollbar scrollblock ">
+																			
+										<ul class="menu-wrapper menu-type-1">
+												
+																																							<li class="   ">
+																												<a href="/fondy/zpif-kombinirovannyy-sinus/" title="ЗПИФ комбинированный «Синус»"><span class="name">ЗПИФ комбинированный «Синус»</span></a>
+																											</li>
+												
+												
+																																							<li class="   ">
+																												<a href="/fondy/zpif-kombinirovannyy-ellips/" title="ЗПИФ комбинированный «Эллипс»"><span class="name">ЗПИФ комбинированный «Эллипс»</span></a>
+																											</li>
+												
+												
+																																							<li class="   ">
+																												<a href="/fondy/zpif-kombinirovannyy-kontrakt-invest/" title="ЗПИФ комбинированный «Контракт-Инвест»"><span class="name">ЗПИФ комбинированный «Контракт-Инвест»</span></a>
+																											</li>
+												
+												
+																																							<li class="   ">
+																												<a href="/fondy/zpif-kombinirovannyy-kislorod/" title="ЗПИФ комбинированный «Кислород»"><span class="name">ЗПИФ комбинированный «Кислород»</span></a>
+																											</li>
+												
+												
+																																							<li class="   ">
+																												<a href="/fondy/zpif-kombinirovannyy-leonardo/" title="ЗПИФ комбинированный «Леонардо»"><span class="name">ЗПИФ комбинированный «Леонардо»</span></a>
+																											</li>
+												
+												
+																																							<li class="   ">
+																												<a href="/fondy/zpif-kombinirovannyy-smart/" title="ЗПИФ комбинированный «Смарт»"><span class="name">ЗПИФ комбинированный «Смарт»</span></a>
+																											</li>
+												
+												
+																																							<li class="   ">
+																												<a href="/fondy/zpif-kombinirovannyy-amalgama/" title="ЗПИФ комбинированный «Амальгама»"><span class="name">ЗПИФ комбинированный «Амальгама»</span></a>
+																											</li>
+												
+																					</ul>
+									</div>
+								</div>
+													</div>
+					</td>
+														
+														
+				<td class="menu-item dropdown js-dropdown nosave" style="visibility: visible;">
+					<div class="wrap">
+						<a class="dropdown-toggle more-items" href="#">
+							<span>+ &nbsp;ЕЩЕ</span>
+						</a>
+						<span class="tail"></span>
+						<ul class="dropdown-menu"><li class="menu-item dropdown-submenu " data-hidewidth="631.515625" data-class="menu-item unvisible dropdown  link-hover-solid  ">
+							<a class="dropdown-toggle" href="/raskrytie-informatsii/">
+								<div>
+																			<i class="svg inline  svg-inline-icon_catalog" aria-hidden="true"><svg xmlns="http://www.w3.org/2000/svg" width="0" height="0" viewBox="0 0 10 10"><path data-name="Rounded Rectangle 969 copy 7" class="cls-1" d="M644,76a1,1,0,1,1-1,1A1,1,0,0,1,644,76Zm4,0a1,1,0,1,1-1,1A1,1,0,0,1,648,76Zm4,0a1,1,0,1,1-1,1A1,1,0,0,1,652,76Zm-8,4a1,1,0,1,1-1,1A1,1,0,0,1,644,80Zm4,0a1,1,0,1,1-1,1A1,1,0,0,1,648,80Zm4,0a1,1,0,1,1-1,1A1,1,0,0,1,652,80Zm-8,4a1,1,0,1,1-1,1A1,1,0,0,1,644,84Zm4,0a1,1,0,1,1-1,1A1,1,0,0,1,648,84Zm4,0a1,1,0,1,1-1,1A1,1,0,0,1,652,84Z" transform="translate(-643 -76)"></path></svg><svg preserveAspectRatio="xMidYMid meet" data-bbox="10 44.5 180 111" viewBox="10 44.5 180 111" height="10" width="10" xmlns="http://www.w3.org/2000/svg" data-type="color" role="presentation" aria-hidden="true"><g><path fill="#000010" d="M100 155.5L10 66.083 31.724 44.5 100 111.717 168.276 44.5 190 66.083 100 155.5z" data-color="1"></path></g></svg></i>																		Раскрытие информации																		<div class="line-wrapper"><span class="line"></span></div>
+								</div>
+							</a>
+								
+								<span class="tail"></span>
+								<div class="dropdown-menu ">
+									<div class="customScrollbar scrollblock ">
+																			
+										<ul class="menu-wrapper menu-type-1">
+												
+																																							<li class="   ">
+																												<a href="/raskrytie-informatsii/soobshcheniya/" title="Сообщения"><span class="name">Сообщения</span></a>
+																											</li>
+												
+												
+																																							<li class="   ">
+																												<a href="/raskrytie-informatsii/bukhgalterskaya-finansovaya-otchetnost/" title="Бухгалтерская (финансовая) отчетность"><span class="name">Бухгалтерская (финансовая) отчетность</span></a>
+																											</li>
+												
+												
+																																							<li class="   ">
+																												<a href="/raskrytie-informatsii/raschet-sobstvennykh-sredstv/" title="Расчет собственных средств"><span class="name">Расчет собственных средств</span></a>
+																											</li>
+												
+												
+																																							<li class="   ">
+																												<a href="/raskrytie-informatsii/sostav-i-struktura-uchastnikov-ooo-uk-region-finans/" title="Состав и структура участников"><span class="name">Состав и структура участников</span></a>
+																											</li>
+												
+												
+																																							<li class="   ">
+																												<a href="/raskrytie-informatsii/vnutrennie-normativnye-dokumenty-ooo-uk-region-finans/" title="Внутренние нормативные документы"><span class="name">Внутренние нормативные документы</span></a>
+																											</li>
+												
+																					</ul>
+									</div>
+								</div>
+													</li><li class="menu-item dropdown-submenu " data-hidewidth="950.015625" data-class="menu-item unvisible dropdown  link-hover-solid  ">
+							<a class="dropdown-toggle" href="/informatsionnaya-bezopasnost/">
+								<div>
+																			<i class="svg inline  svg-inline-icon_catalog" aria-hidden="true"><svg xmlns="http://www.w3.org/2000/svg" width="0" height="0" viewBox="0 0 10 10"><path data-name="Rounded Rectangle 969 copy 7" class="cls-1" d="M644,76a1,1,0,1,1-1,1A1,1,0,0,1,644,76Zm4,0a1,1,0,1,1-1,1A1,1,0,0,1,648,76Zm4,0a1,1,0,1,1-1,1A1,1,0,0,1,652,76Zm-8,4a1,1,0,1,1-1,1A1,1,0,0,1,644,80Zm4,0a1,1,0,1,1-1,1A1,1,0,0,1,648,80Zm4,0a1,1,0,1,1-1,1A1,1,0,0,1,652,80Zm-8,4a1,1,0,1,1-1,1A1,1,0,0,1,644,84Zm4,0a1,1,0,1,1-1,1A1,1,0,0,1,648,84Zm4,0a1,1,0,1,1-1,1A1,1,0,0,1,652,84Z" transform="translate(-643 -76)"></path></svg><svg preserveAspectRatio="xMidYMid meet" data-bbox="10 44.5 180 111" viewBox="10 44.5 180 111" height="10" width="10" xmlns="http://www.w3.org/2000/svg" data-type="color" role="presentation" aria-hidden="true"><g><path fill="#000010" d="M100 155.5L10 66.083 31.724 44.5 100 111.717 168.276 44.5 190 66.083 100 155.5z" data-color="1"></path></g></svg></i>																		Информационная безопасность																		<div class="line-wrapper"><span class="line"></span></div>
+								</div>
+							</a>
+								
+								<span class="tail"></span>
+								<div class="dropdown-menu ">
+									<div class="customScrollbar scrollblock ">
+																			
+										<ul class="menu-wrapper menu-type-1">
+												
+																																							<li class="   ">
+																												<a href="/informatsionnaya-bezopasnost/rekomendatsii/" title="Рекомендации"><span class="name">Рекомендации</span></a>
+																											</li>
+												
+																					</ul>
+									</div>
+								</div>
+													</li></ul>
+					</div>
+				</td>
+			</tr>
+		</tbody></table>
+	</div>
+	<script data-skip-moving="true">
+		CheckTopMenuDotted();
+	</script>
+						</nav>
+					</div>
+				</div>
+			</div>
+			<div class="header__top-item">
+
+
+
+
+		</div>
+		<div class="lines-row"></div>
+	</div>
+</div>	</div></header>
+</div>
+	<div id="headerfixed">
+		<div class="maxwidth-theme">
+	<div class="logo-row v2 margin0 menu-row">
+		<div class="header__top-inner">
+							<div class="header__top-item">
+					<div class="burger inner-table-block"><i class="svg inline  svg-inline-burger dark" aria-hidden="true"><svg width="16" height="12" viewBox="0 0 16 12"><path data-name="Rounded Rectangle 81 copy 4" class="cls-1" d="M872,958h-8a1,1,0,0,1-1-1h0a1,1,0,0,1,1-1h8a1,1,0,0,1,1,1h0A1,1,0,0,1,872,958Zm6-5H864a1,1,0,0,1,0-2h14A1,1,0,0,1,878,953Zm0-5H864a1,1,0,0,1,0-2h14A1,1,0,0,1,878,948Z" transform="translate(-863 -946)"></path></svg></i></div>
+				</div>	
+							<div class="header__top-item no-shrinked">
+					<div class="inner-table-block nopadding logo-block">
+						<div class="logo">
+							<a href="/"><img src="/upload/CMax/3dd/fwhyt10wmsir4w1rfkcllqf1u0t5ll0l.png" alt="ООО УК РЕГИОН ФИНАНС" title="ООО УК РЕГИОН ФИНАНС" data-src=""></a>						</div>
+					</div>
+				</div>	
+						<div class="header__top-item minwidth0 flex1">
+				<div class="menu-block">
+					<div class="navs table-menu js-nav">
+												<!-- noindex -->
+						<nav class="mega-menu sliced">
+										<div class="table-menu">
+		<table>
+			<tbody><tr>
+					<td class="menu-item unvisible dropdown link-hover-solid  ">
+						<div class="wrap">
+							<a class="dropdown-toggle" href="/o-kompanii/">
+								<div>
+																			<i class="svg inline  svg-inline-icon_catalog" aria-hidden="true"><svg xmlns="http://www.w3.org/2000/svg" width="0" height="0" viewBox="0 0 10 10"><path data-name="Rounded Rectangle 969 copy 7" class="cls-1" d="M644,76a1,1,0,1,1-1,1A1,1,0,0,1,644,76Zm4,0a1,1,0,1,1-1,1A1,1,0,0,1,648,76Zm4,0a1,1,0,1,1-1,1A1,1,0,0,1,652,76Zm-8,4a1,1,0,1,1-1,1A1,1,0,0,1,644,80Zm4,0a1,1,0,1,1-1,1A1,1,0,0,1,648,80Zm4,0a1,1,0,1,1-1,1A1,1,0,0,1,652,80Zm-8,4a1,1,0,1,1-1,1A1,1,0,0,1,644,84Zm4,0a1,1,0,1,1-1,1A1,1,0,0,1,648,84Zm4,0a1,1,0,1,1-1,1A1,1,0,0,1,652,84Z" transform="translate(-643 -76)"></path></svg><svg preserveAspectRatio="xMidYMid meet" data-bbox="10 44.5 180 111" viewBox="10 44.5 180 111" height="10" width="10" xmlns="http://www.w3.org/2000/svg" data-type="color" role="presentation" aria-hidden="true"><g><path fill="#000010" d="M100 155.5L10 66.083 31.724 44.5 100 111.717 168.276 44.5 190 66.083 100 155.5z" data-color="1"></path></g></svg></i>																		О компании																	</div>
+							</a>
+																							<span class="tail"></span>
+								<div class="dropdown-menu   BANNER">
+																		<div class="customScrollbar ">
+										<ul class="menu-wrapper menu-type-1">
+																																																														<li class="    parent-items">
+																																							<a href="/o-kompanii/obshchaya-informatsiya/" title="Общая информация">
+						<span class="name ">Общая информация</span>							</a>
+																																			</li>
+																																																																										<li class="    parent-items">
+																																							<a href="/o-kompanii/kontaktnaya-informatsiya/" title="Контактная информация">
+						<span class="name ">Контактная информация</span>							</a>
+																																			</li>
+																																																																										<li class="    parent-items">
+																																							<a href="/o-kompanii/informatsionnye-soobshcheniya/" title="Информационные сообщения">
+						<span class="name ">Информационные сообщения</span>							</a>
+																																			</li>
+																																																																										<li class="    parent-items">
+																																							<a href="/o-kompanii/kartochka-kompanii/" title="Карточка компании">
+						<span class="name ">Карточка компании</span>							</a>
+																																			</li>
+																																																																										<li class="    parent-items">
+																																							<a href="/o-kompanii/nashi-uslugi-i-vozmozhnosti/" title="Наши услуги и возможности">
+						<span class="name ">Наши услуги и возможности</span>							</a>
+																																			</li>
+																																																																										<li class="    parent-items">
+																																							<a href="/blog/" title="Финансовый блог">
+						<span class="name ">Финансовый блог</span>							</a>
+																																			</li>
+																																	</ul>
+									</div>
+																	</div>
+													</div>
+					</td>
+					<td class="menu-item unvisible dropdown link-hover-solid  ">
+						<div class="wrap">
+							<a class="dropdown-toggle" href="/zpif/">
+								<div>
+																			<i class="svg inline  svg-inline-icon_catalog" aria-hidden="true"><svg xmlns="http://www.w3.org/2000/svg" width="0" height="0" viewBox="0 0 10 10"><path data-name="Rounded Rectangle 969 copy 7" class="cls-1" d="M644,76a1,1,0,1,1-1,1A1,1,0,0,1,644,76Zm4,0a1,1,0,1,1-1,1A1,1,0,0,1,648,76Zm4,0a1,1,0,1,1-1,1A1,1,0,0,1,652,76Zm-8,4a1,1,0,1,1-1,1A1,1,0,0,1,644,80Zm4,0a1,1,0,1,1-1,1A1,1,0,0,1,648,80Zm4,0a1,1,0,1,1-1,1A1,1,0,0,1,652,80Zm-8,4a1,1,0,1,1-1,1A1,1,0,0,1,644,84Zm4,0a1,1,0,1,1-1,1A1,1,0,0,1,648,84Zm4,0a1,1,0,1,1-1,1A1,1,0,0,1,652,84Z" transform="translate(-643 -76)"></path></svg><svg preserveAspectRatio="xMidYMid meet" data-bbox="10 44.5 180 111" viewBox="10 44.5 180 111" height="10" width="10" xmlns="http://www.w3.org/2000/svg" data-type="color" role="presentation" aria-hidden="true"><g><path fill="#000010" d="M100 155.5L10 66.083 31.724 44.5 100 111.717 168.276 44.5 190 66.083 100 155.5z" data-color="1"></path></g></svg></i>																		ЗПИФ																	</div>
+							</a>
+																							<span class="tail"></span>
+								<div class="dropdown-menu   BANNER">
+																		<div class="customScrollbar ">
+										<ul class="menu-wrapper menu-type-1">
+																																																														<li class="    parent-items">
+																																							<a href="/zpif/pravovaya-priroda-kombinirovannogo-zpif/" title="Правовая природа комбинированного ЗПИФ">
+						<span class="name ">Правовая природа комбинированного ЗПИФ</span>							</a>
+																																			</li>
+																																																																										<li class="    parent-items">
+																																							<a href="/zpif/ekonomika-zpif/" title="Экономика ЗПИФ">
+						<span class="name ">Экономика ЗПИФ</span>							</a>
+																																			</li>
+																																																																										<li class="    parent-items">
+																																							<a href="/zpif/zashchita-aktivov-i-upravlenie-riskami/" title="Защита активов и управление рисками">
+						<span class="name ">Защита активов и управление рисками</span>							</a>
+																																			</li>
+																																																																										<li class="    parent-items">
+																																							<a href="/zpif/rasporyazhenie-aktivami-i-kontrol/" title="Распоряжение активами и контроль">
+						<span class="name ">Распоряжение активами и контроль</span>							</a>
+																																			</li>
+																																																																										<li class="    parent-items">
+																																							<a href="/zpif/infrastruktura-zpif/" title="Инфраструктура ЗПИФ">
+						<span class="name ">Инфраструктура ЗПИФ</span>							</a>
+																																			</li>
+																																																																										<li class="    parent-items">
+																																							<a href="/zpif/pravila-doveritelnogo-upravleniya-zpif/" title="Правила доверительного управления ЗПИФ">
+						<span class="name ">Правила доверительного управления ЗПИФ</span>							</a>
+																																			</li>
+																																																																										<li class="    parent-items">
+																																							<a href="/zpif/vladeltsy-payev-kombinirovannogo-zpif/" title="Владельцы паёв комбинированного ЗПИФ">
+						<span class="name ">Владельцы паёв комбинированного ЗПИФ</span>							</a>
+																																			</li>
+																																																																										<li class="    parent-items">
+																																							<a href="/zpif/kvalifitsirovannye-investory/" title="Квалифицированные инвесторы">
+						<span class="name ">Квалифицированные инвесторы</span>							</a>
+																																			</li>
+																																																																										<li class="    parent-items">
+																																							<a href="/zpif/vkhod-v-zpif-i-vykhod-iz-zpif/" title="Вход в ЗПИФ и выход из ЗПИФ">
+						<span class="name ">Вход в ЗПИФ и выход из ЗПИФ</span>							</a>
+																																			</li>
+																																																																										<li class="    parent-items">
+																																							<a href="/zpif/vyplata-dokhoda-iz-zpif/" title="Выплата дохода из ЗПИФ">
+						<span class="name ">Выплата дохода из ЗПИФ</span>							</a>
+																																			</li>
+																																																																										<li class="    parent-items">
+																																							<a href="/zpif/prekrashchenie-zpif-i-vydel-imushchestva-v-nature/" title="Прекращение ЗПИФ и выдел имущества">
+						<span class="name ">Прекращение ЗПИФ и выдел имущества</span>							</a>
+																																			</li>
+																																	</ul>
+									</div>
+																	</div>
+													</div>
+					</td>
+					<td class="menu-item unvisible dropdown link-hover-solid  ">
+						<div class="wrap">
+							<a class="dropdown-toggle" href="/fondy/">
+								<div>
+																			<i class="svg inline  svg-inline-icon_catalog" aria-hidden="true"><svg xmlns="http://www.w3.org/2000/svg" width="0" height="0" viewBox="0 0 10 10"><path data-name="Rounded Rectangle 969 copy 7" class="cls-1" d="M644,76a1,1,0,1,1-1,1A1,1,0,0,1,644,76Zm4,0a1,1,0,1,1-1,1A1,1,0,0,1,648,76Zm4,0a1,1,0,1,1-1,1A1,1,0,0,1,652,76Zm-8,4a1,1,0,1,1-1,1A1,1,0,0,1,644,80Zm4,0a1,1,0,1,1-1,1A1,1,0,0,1,648,80Zm4,0a1,1,0,1,1-1,1A1,1,0,0,1,652,80Zm-8,4a1,1,0,1,1-1,1A1,1,0,0,1,644,84Zm4,0a1,1,0,1,1-1,1A1,1,0,0,1,648,84Zm4,0a1,1,0,1,1-1,1A1,1,0,0,1,652,84Z" transform="translate(-643 -76)"></path></svg><svg preserveAspectRatio="xMidYMid meet" data-bbox="10 44.5 180 111" viewBox="10 44.5 180 111" height="10" width="10" xmlns="http://www.w3.org/2000/svg" data-type="color" role="presentation" aria-hidden="true"><g><path fill="#000010" d="M100 155.5L10 66.083 31.724 44.5 100 111.717 168.276 44.5 190 66.083 100 155.5z" data-color="1"></path></g></svg></i>																		Фонды																	</div>
+							</a>
+																							<span class="tail"></span>
+								<div class="dropdown-menu   BANNER">
+																		<div class="customScrollbar ">
+										<ul class="menu-wrapper menu-type-1">
+																																																														<li class="    parent-items">
+																																							<a href="/fondy/zpif-kombinirovannyy-sinus/" title="ЗПИФ комбинированный «Синус»">
+						<span class="name ">ЗПИФ комбинированный «Синус»</span>							</a>
+																																			</li>
+																																																																										<li class="    parent-items">
+																																							<a href="/fondy/zpif-kombinirovannyy-ellips/" title="ЗПИФ комбинированный «Эллипс»">
+						<span class="name ">ЗПИФ комбинированный «Эллипс»</span>							</a>
+																																			</li>
+																																																																										<li class="    parent-items">
+																																							<a href="/fondy/zpif-kombinirovannyy-kontrakt-invest/" title="ЗПИФ комбинированный «Контракт-Инвест»">
+						<span class="name ">ЗПИФ комбинированный «Контракт-Инвест»</span>							</a>
+																																			</li>
+																																																																										<li class="    parent-items">
+																																							<a href="/fondy/zpif-kombinirovannyy-kislorod/" title="ЗПИФ комбинированный «Кислород»">
+						<span class="name ">ЗПИФ комбинированный «Кислород»</span>							</a>
+																																			</li>
+																																																																										<li class="    parent-items">
+																																							<a href="/fondy/zpif-kombinirovannyy-leonardo/" title="ЗПИФ комбинированный «Леонардо»">
+						<span class="name ">ЗПИФ комбинированный «Леонардо»</span>							</a>
+																																			</li>
+																																																																										<li class="    parent-items">
+																																							<a href="/fondy/zpif-kombinirovannyy-smart/" title="ЗПИФ комбинированный «Смарт»">
+						<span class="name ">ЗПИФ комбинированный «Смарт»</span>							</a>
+																																			</li>
+																																																																										<li class="    parent-items">
+																																							<a href="/fondy/zpif-kombinirovannyy-amalgama/" title="ЗПИФ комбинированный «Амальгама»">
+						<span class="name ">ЗПИФ комбинированный «Амальгама»</span>							</a>
+																																			</li>
+																																	</ul>
+									</div>
+																	</div>
+													</div>
+					</td>
+					<td class="menu-item unvisible dropdown link-hover-solid  ">
+						<div class="wrap">
+							<a class="dropdown-toggle" href="/raskrytie-informatsii/">
+								<div>
+																			<i class="svg inline  svg-inline-icon_catalog" aria-hidden="true"><svg xmlns="http://www.w3.org/2000/svg" width="0" height="0" viewBox="0 0 10 10"><path data-name="Rounded Rectangle 969 copy 7" class="cls-1" d="M644,76a1,1,0,1,1-1,1A1,1,0,0,1,644,76Zm4,0a1,1,0,1,1-1,1A1,1,0,0,1,648,76Zm4,0a1,1,0,1,1-1,1A1,1,0,0,1,652,76Zm-8,4a1,1,0,1,1-1,1A1,1,0,0,1,644,80Zm4,0a1,1,0,1,1-1,1A1,1,0,0,1,648,80Zm4,0a1,1,0,1,1-1,1A1,1,0,0,1,652,80Zm-8,4a1,1,0,1,1-1,1A1,1,0,0,1,644,84Zm4,0a1,1,0,1,1-1,1A1,1,0,0,1,648,84Zm4,0a1,1,0,1,1-1,1A1,1,0,0,1,652,84Z" transform="translate(-643 -76)"></path></svg><svg preserveAspectRatio="xMidYMid meet" data-bbox="10 44.5 180 111" viewBox="10 44.5 180 111" height="10" width="10" xmlns="http://www.w3.org/2000/svg" data-type="color" role="presentation" aria-hidden="true"><g><path fill="#000010" d="M100 155.5L10 66.083 31.724 44.5 100 111.717 168.276 44.5 190 66.083 100 155.5z" data-color="1"></path></g></svg></i>																		Раскрытие информации																	</div>
+							</a>
+																							<span class="tail"></span>
+								<div class="dropdown-menu   BANNER">
+																		<div class="customScrollbar ">
+										<ul class="menu-wrapper menu-type-1">
+																																																														<li class="    parent-items">
+																																							<a href="/raskrytie-informatsii/soobshcheniya/" title="Сообщения">
+						<span class="name ">Сообщения</span>							</a>
+																																			</li>
+																																																																										<li class="    parent-items">
+																																							<a href="/raskrytie-informatsii/bukhgalterskaya-finansovaya-otchetnost/" title="Бухгалтерская (финансовая) отчетность">
+						<span class="name ">Бухгалтерская (финансовая) отчетность</span>							</a>
+																																			</li>
+																																																																										<li class="    parent-items">
+																																							<a href="/raskrytie-informatsii/raschet-sobstvennykh-sredstv/" title="Расчет собственных средств">
+						<span class="name ">Расчет собственных средств</span>							</a>
+																																			</li>
+																																																																										<li class="    parent-items">
+																																							<a href="/raskrytie-informatsii/sostav-i-struktura-uchastnikov-ooo-uk-region-finans/" title="Состав и структура участников">
+						<span class="name ">Состав и структура участников</span>							</a>
+																																			</li>
+																																																																										<li class="    parent-items">
+																																							<a href="/raskrytie-informatsii/vnutrennie-normativnye-dokumenty-ooo-uk-region-finans/" title="Внутренние нормативные документы">
+						<span class="name ">Внутренние нормативные документы</span>							</a>
+																																			</li>
+																																	</ul>
+									</div>
+																	</div>
+													</div>
+					</td>
+					<td class="menu-item unvisible dropdown link-hover-solid  ">
+						<div class="wrap">
+							<a class="dropdown-toggle" href="/informatsionnaya-bezopasnost/">
+								<div>
+																			<i class="svg inline  svg-inline-icon_catalog" aria-hidden="true"><svg xmlns="http://www.w3.org/2000/svg" width="0" height="0" viewBox="0 0 10 10"><path data-name="Rounded Rectangle 969 copy 7" class="cls-1" d="M644,76a1,1,0,1,1-1,1A1,1,0,0,1,644,76Zm4,0a1,1,0,1,1-1,1A1,1,0,0,1,648,76Zm4,0a1,1,0,1,1-1,1A1,1,0,0,1,652,76Zm-8,4a1,1,0,1,1-1,1A1,1,0,0,1,644,80Zm4,0a1,1,0,1,1-1,1A1,1,0,0,1,648,80Zm4,0a1,1,0,1,1-1,1A1,1,0,0,1,652,80Zm-8,4a1,1,0,1,1-1,1A1,1,0,0,1,644,84Zm4,0a1,1,0,1,1-1,1A1,1,0,0,1,648,84Zm4,0a1,1,0,1,1-1,1A1,1,0,0,1,652,84Z" transform="translate(-643 -76)"></path></svg><svg preserveAspectRatio="xMidYMid meet" data-bbox="10 44.5 180 111" viewBox="10 44.5 180 111" height="10" width="10" xmlns="http://www.w3.org/2000/svg" data-type="color" role="presentation" aria-hidden="true"><g><path fill="#000010" d="M100 155.5L10 66.083 31.724 44.5 100 111.717 168.276 44.5 190 66.083 100 155.5z" data-color="1"></path></g></svg></i>																		Информационная безопасность																	</div>
+							</a>
+																							<span class="tail"></span>
+								<div class="dropdown-menu   BANNER">
+																		<div class="customScrollbar ">
+										<ul class="menu-wrapper menu-type-1">
+																																																														<li class="    parent-items">
+																																							<a href="/informatsionnaya-bezopasnost/rekomendatsii/" title="Рекомендации">
+						<span class="name ">Рекомендации</span>							</a>
+																																			</li>
+																																	</ul>
+									</div>
+																	</div>
+													</div>
+					</td>
+				<td class="menu-item dropdown js-dropdown nosave unvisible">
+					<div class="wrap">
+						<a class="dropdown-toggle more-items" href="#">
+							<span>+ &nbsp;ЕЩЕ</span>
+						</a>
+						<span class="tail"></span>
+						<ul class="dropdown-menu"></ul>
+					</div>
+				</td>
+			</tr>
+		</tbody></table>
+	</div>
+	<script data-skip-moving="true">
+		CheckTopMenuDotted();
+	</script>
+						</nav>
+						<!-- /noindex -->
+																	</div>
+				</div>
+			</div>	
+			<div class="header__top-item">
+				<div class="line-block line-block--40 line-block--40-1200 flexbox--justify-end">
+																				<div class="line-block__item  no-shrinked">
+						<div class=" inner-table-block">
+							<div class="wrap_icon">
+								<button class="top-btn inline-search-show dark-color">
+									<i class="svg inline svg-inline-search" aria-hidden="true"><svg width="17" height="17"><use xlink:href="/bitrix/templates/aspro_max/images/svg/header_icons_srite.svg#search"></use></svg></i>								</button>
+							</div>
+						</div>
+					</div>	
+					
+									</div>	
+			</div>	
+		</div>
+	</div>
+</div>
+	</div>
+<div id="mobileheader" class="visible-xs visible-sm">
+	<div class="mobileheader-v1">
+	<div class="burger pull-left">
+		<i class="svg inline  svg-inline-burger dark" aria-hidden="true"><svg width="16" height="12" viewBox="0 0 16 12"><path data-name="Rounded Rectangle 81 copy 4" class="cls-1" d="M872,958h-8a1,1,0,0,1-1-1h0a1,1,0,0,1,1-1h8a1,1,0,0,1,1,1h0A1,1,0,0,1,872,958Zm6-5H864a1,1,0,0,1,0-2h14A1,1,0,0,1,878,953Zm0-5H864a1,1,0,0,1,0-2h14A1,1,0,0,1,878,948Z" transform="translate(-863 -946)"></path></svg></i>		<i class="svg inline  svg-inline-close dark" aria-hidden="true"><svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" viewBox="0 0 16 16"><path data-name="Rounded Rectangle 114 copy 3" class="cccls-1" d="M334.411,138l6.3,6.3a1,1,0,0,1,0,1.414,0.992,0.992,0,0,1-1.408,0l-6.3-6.306-6.3,6.306a1,1,0,0,1-1.409-1.414l6.3-6.3-6.293-6.3a1,1,0,0,1,1.409-1.414l6.3,6.3,6.3-6.3A1,1,0,0,1,340.7,131.7Z" transform="translate(-325 -130)"></path></svg></i>	</div>
+	<div class="logo-block pull-left">
+		<div class="logo">
+			<a href="/"><img src="/upload/CMax/3dd/fwhyt10wmsir4w1rfkcllqf1u0t5ll0l.png" alt="ООО УК РЕГИОН ФИНАНС" title="ООО УК РЕГИОН ФИНАНС" data-src=""></a>		</div>
+	</div>
+		<div class="pull-right">
+			<div class="wrap_icon">
+				<button class="top-btn inline-search-show twosmallfont">
+					<i class="svg inline  svg-inline-search" aria-hidden="true"><svg class="" width="17" height="17" viewBox="0 0 17 17" aria-hidden="true"><path class="cls-1" d="M16.709,16.719a1,1,0,0,1-1.412,0l-3.256-3.287A7.475,7.475,0,1,1,15,7.5a7.433,7.433,0,0,1-1.549,4.518l3.258,3.289A1,1,0,0,1,16.709,16.719ZM7.5,2A5.5,5.5,0,1,0,13,7.5,5.5,5.5,0,0,0,7.5,2Z"></path></svg></i>				</button>
+			</div>
+		</div>
+
+		<div class="pull-right">
+			<div class="wrap_icon wrap_phones">
+												<!-- noindex -->
+			<button class="top-btn inline-phone-show">
+				<i class="svg inline  svg-inline-phone" aria-hidden="true"><svg class="" width="18.031" height="17.969" viewBox="0 0 18.031 17.969"><path class="cls-1" d="M673.56,155.153c-4.179-4.179-6.507-7.88-2.45-12.3l0,0a3,3,0,0,1,4.242,0l1.87,2.55a3.423,3.423,0,0,1,.258,3.821l-0.006-.007c-0.744.7-.722,0.693,0.044,1.459l0.777,0.873c0.744,0.788.759,0.788,1.458,0.044l-0.009-.01a3.153,3.153,0,0,1,3.777.264l2.619,1.889a3,3,0,0,1,0,4.243C681.722,162.038,677.739,159.331,673.56,155.153Zm11.17,1.414a1,1,0,0,0,0-1.414l-2.618-1.89a1.4,1.4,0,0,0-.926-0.241l0.009,0.009c-1.791,1.835-2.453,1.746-4.375-.132l-1.05-1.194c-1.835-1.878-1.518-2.087.272-3.922l0,0a1.342,1.342,0,0,0-.227-0.962l-1.87-2.549a1,1,0,0,0-1.414,0l-0.008-.009c-2.7,3.017-.924,6.1,2.453,9.477s6.748,5.54,9.765,2.837Z" transform="translate(-669 -142)"></path></svg>
+</i>			</button>
+			<div id="mobilePhone" class="dropdown-mobile-phone ">
+				<div class="wrap">
+					<div class="more_phone title"><span class="no-decript dark-color ">Телефоны <i class="svg inline  svg-inline-close dark dark-i" aria-hidden="true"><svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" viewBox="0 0 16 16"><path data-name="Rounded Rectangle 114 copy 3" class="cccls-1" d="M334.411,138l6.3,6.3a1,1,0,0,1,0,1.414,0.992,0.992,0,0,1-1.408,0l-6.3-6.306-6.3,6.306a1,1,0,0,1-1.409-1.414l6.3-6.3-6.293-6.3a1,1,0,0,1,1.409-1.414l6.3,6.3,6.3-6.3A1,1,0,0,1,340.7,131.7Z" transform="translate(-325 -130)"></path></svg></i></span></div>
+																	<div class="more_phone">
+						    <a class="dark-color no-decript" rel="nofollow" href="tel:+73433792297">+7 (343) 379-22-97</a>
+						</div>
+																<div class="more_phone"><span class="dark-color no-decript callback animate-load" data-event="jqm" data-param-form_id="CALLBACK" data-name="callback">Заказать звонок</span></div>
+									</div>
+			</div>
+			<!-- /noindex -->
+							</div>
+		</div>
+	</div>
+	</div>	<div id="mobilemenu" class="leftside">
+		<div class="mobilemenu-v1 scroller">
+	<div class="wrap">
+				<!-- noindex -->
+				<div class="menu top top-mobile-menu">
+		<ul class="top">
+															<li>
+					<a class="dark-color parent" href="/o-kompanii/" title="О компании">
+						<span>О компании</span>
+													<span class="arrow"><i class="svg  svg-inline-triangle" aria-hidden="true"><svg xmlns="http://www.w3.org/2000/svg" width="3" height="5" viewBox="0 0 3 5"><path data-name="Rectangle 4 copy" class="cls-1" d="M203,84V79l3,2.5Z" transform="translate(-203 -79)"></path></svg></i></span>
+											</a>
+											<ul class="dropdown">
+							<li class="menu_back"><a href="" class="dark-color" rel="nofollow"><i class="svg inline  svg-inline-back_arrow" aria-hidden="true"><svg xmlns="http://www.w3.org/2000/svg" width="15.969" height="12" viewBox="0 0 15.969 12"><defs><style>.cls-1{fill:#999;fill-rule:evenodd;}</style></defs><path data-name="Rounded Rectangle 982 copy" class="cls-1" d="M34,32H22.414l3.3,3.3A1,1,0,1,1,24.3,36.713l-4.978-4.978c-0.01-.01-0.024-0.012-0.034-0.022s-0.015-.041-0.03-0.058a0.974,0.974,0,0,1-.213-0.407,0.909,0.909,0,0,1-.024-0.123,0.982,0.982,0,0,1,.267-0.838c0.011-.011.025-0.014,0.036-0.024L24.3,25.287A1,1,0,0,1,25.713,26.7l-3.3,3.3H34A1,1,0,0,1,34,32Z" transform="translate(-19.031 -25)"></path></svg>
+</i>Назад</a></li>
+							<li class="menu_title"><a href="/o-kompanii/">О компании</a></li>
+																															<li>
+									<a class="dark-color top-mobile-menu__link" href="/o-kompanii/obshchaya-informatsiya/" title="Общая информация">
+																				<span class="top-mobile-menu__title">Общая информация</span>
+																			</a>
+																	</li>
+																															<li>
+									<a class="dark-color top-mobile-menu__link" href="/o-kompanii/kontaktnaya-informatsiya/" title="Контактная информация">
+																				<span class="top-mobile-menu__title">Контактная информация</span>
+																			</a>
+																	</li>
+																															<li>
+									<a class="dark-color top-mobile-menu__link" href="/o-kompanii/informatsionnye-soobshcheniya/" title="Информационные сообщения">
+																				<span class="top-mobile-menu__title">Информационные сообщения</span>
+																			</a>
+																	</li>
+																															<li>
+									<a class="dark-color top-mobile-menu__link" href="/o-kompanii/kartochka-kompanii/" title="Карточка компании">
+																				<span class="top-mobile-menu__title">Карточка компании</span>
+																			</a>
+																	</li>
+																															<li>
+									<a class="dark-color top-mobile-menu__link" href="/o-kompanii/nashi-uslugi-i-vozmozhnosti/" title="Наши услуги и возможности">
+																				<span class="top-mobile-menu__title">Наши услуги и возможности</span>
+																			</a>
+																	</li>
+																															<li>
+									<a class="dark-color top-mobile-menu__link" href="/blog/" title="Финансовый блог">
+																				<span class="top-mobile-menu__title">Финансовый блог</span>
+																			</a>
+																	</li>
+													</ul>
+									</li>
+															<li>
+					<a class="dark-color parent" href="/zpif/" title="ЗПИФ">
+						<span>ЗПИФ</span>
+													<span class="arrow"><i class="svg  svg-inline-triangle" aria-hidden="true"><svg xmlns="http://www.w3.org/2000/svg" width="3" height="5" viewBox="0 0 3 5"><path data-name="Rectangle 4 copy" class="cls-1" d="M203,84V79l3,2.5Z" transform="translate(-203 -79)"></path></svg></i></span>
+											</a>
+											<ul class="dropdown">
+							<li class="menu_back"><a href="" class="dark-color" rel="nofollow"><i class="svg inline  svg-inline-back_arrow" aria-hidden="true"><svg xmlns="http://www.w3.org/2000/svg" width="15.969" height="12" viewBox="0 0 15.969 12"><defs><style>.cls-1{fill:#999;fill-rule:evenodd;}</style></defs><path data-name="Rounded Rectangle 982 copy" class="cls-1" d="M34,32H22.414l3.3,3.3A1,1,0,1,1,24.3,36.713l-4.978-4.978c-0.01-.01-0.024-0.012-0.034-0.022s-0.015-.041-0.03-0.058a0.974,0.974,0,0,1-.213-0.407,0.909,0.909,0,0,1-.024-0.123,0.982,0.982,0,0,1,.267-0.838c0.011-.011.025-0.014,0.036-0.024L24.3,25.287A1,1,0,0,1,25.713,26.7l-3.3,3.3H34A1,1,0,0,1,34,32Z" transform="translate(-19.031 -25)"></path></svg>
+</i>Назад</a></li>
+							<li class="menu_title"><a href="/zpif/">ЗПИФ</a></li>
+																															<li>
+									<a class="dark-color top-mobile-menu__link" href="/zpif/pravovaya-priroda-kombinirovannogo-zpif/" title="Правовая природа комбинированного ЗПИФ">
+																				<span class="top-mobile-menu__title">Правовая природа комбинированного ЗПИФ</span>
+																			</a>
+																	</li>
+																															<li>
+									<a class="dark-color top-mobile-menu__link" href="/zpif/ekonomika-zpif/" title="Экономика ЗПИФ">
+																				<span class="top-mobile-menu__title">Экономика ЗПИФ</span>
+																			</a>
+																	</li>
+																															<li>
+									<a class="dark-color top-mobile-menu__link" href="/zpif/zashchita-aktivov-i-upravlenie-riskami/" title="Защита активов и управление рисками">
+																				<span class="top-mobile-menu__title">Защита активов и управление рисками</span>
+																			</a>
+																	</li>
+																															<li>
+									<a class="dark-color top-mobile-menu__link" href="/zpif/rasporyazhenie-aktivami-i-kontrol/" title="Распоряжение активами и контроль">
+																				<span class="top-mobile-menu__title">Распоряжение активами и контроль</span>
+																			</a>
+																	</li>
+																															<li>
+									<a class="dark-color top-mobile-menu__link" href="/zpif/infrastruktura-zpif/" title="Инфраструктура ЗПИФ">
+																				<span class="top-mobile-menu__title">Инфраструктура ЗПИФ</span>
+																			</a>
+																	</li>
+																															<li>
+									<a class="dark-color top-mobile-menu__link" href="/zpif/pravila-doveritelnogo-upravleniya-zpif/" title="Правила доверительного управления ЗПИФ">
+																				<span class="top-mobile-menu__title">Правила доверительного управления ЗПИФ</span>
+																			</a>
+																	</li>
+																															<li>
+									<a class="dark-color top-mobile-menu__link" href="/zpif/vladeltsy-payev-kombinirovannogo-zpif/" title="Владельцы паёв комбинированного ЗПИФ">
+																				<span class="top-mobile-menu__title">Владельцы паёв комбинированного ЗПИФ</span>
+																			</a>
+																	</li>
+																															<li>
+									<a class="dark-color top-mobile-menu__link" href="/zpif/kvalifitsirovannye-investory/" title="Квалифицированные инвесторы">
+																				<span class="top-mobile-menu__title">Квалифицированные инвесторы</span>
+																			</a>
+																	</li>
+																															<li>
+									<a class="dark-color top-mobile-menu__link" href="/zpif/vkhod-v-zpif-i-vykhod-iz-zpif/" title="Вход в ЗПИФ и выход из ЗПИФ">
+																				<span class="top-mobile-menu__title">Вход в ЗПИФ и выход из ЗПИФ</span>
+																			</a>
+																	</li>
+																															<li>
+									<a class="dark-color top-mobile-menu__link" href="/zpif/vyplata-dokhoda-iz-zpif/" title="Выплата дохода из ЗПИФ">
+																				<span class="top-mobile-menu__title">Выплата дохода из ЗПИФ</span>
+																			</a>
+																	</li>
+																															<li>
+									<a class="dark-color top-mobile-menu__link" href="/zpif/prekrashchenie-zpif-i-vydel-imushchestva-v-nature/" title="Прекращение ЗПИФ и выдел имущества">
+																				<span class="top-mobile-menu__title">Прекращение ЗПИФ и выдел имущества</span>
+																			</a>
+																	</li>
+													</ul>
+									</li>
+															<li>
+					<a class="dark-color parent" href="/fondy/" title="Фонды">
+						<span>Фонды</span>
+													<span class="arrow"><i class="svg  svg-inline-triangle" aria-hidden="true"><svg xmlns="http://www.w3.org/2000/svg" width="3" height="5" viewBox="0 0 3 5"><path data-name="Rectangle 4 copy" class="cls-1" d="M203,84V79l3,2.5Z" transform="translate(-203 -79)"></path></svg></i></span>
+											</a>
+											<ul class="dropdown">
+							<li class="menu_back"><a href="" class="dark-color" rel="nofollow"><i class="svg inline  svg-inline-back_arrow" aria-hidden="true"><svg xmlns="http://www.w3.org/2000/svg" width="15.969" height="12" viewBox="0 0 15.969 12"><defs><style>.cls-1{fill:#999;fill-rule:evenodd;}</style></defs><path data-name="Rounded Rectangle 982 copy" class="cls-1" d="M34,32H22.414l3.3,3.3A1,1,0,1,1,24.3,36.713l-4.978-4.978c-0.01-.01-0.024-0.012-0.034-0.022s-0.015-.041-0.03-0.058a0.974,0.974,0,0,1-.213-0.407,0.909,0.909,0,0,1-.024-0.123,0.982,0.982,0,0,1,.267-0.838c0.011-.011.025-0.014,0.036-0.024L24.3,25.287A1,1,0,0,1,25.713,26.7l-3.3,3.3H34A1,1,0,0,1,34,32Z" transform="translate(-19.031 -25)"></path></svg>
+</i>Назад</a></li>
+							<li class="menu_title"><a href="/fondy/">Фонды</a></li>
+																															<li>
+									<a class="dark-color top-mobile-menu__link" href="/fondy/zpif-kombinirovannyy-sinus/" title="ЗПИФ комбинированный «Синус»">
+																				<span class="top-mobile-menu__title">ЗПИФ комбинированный «Синус»</span>
+																			</a>
+																	</li>
+																															<li>
+									<a class="dark-color top-mobile-menu__link" href="/fondy/zpif-kombinirovannyy-ellips/" title="ЗПИФ комбинированный «Эллипс»">
+																				<span class="top-mobile-menu__title">ЗПИФ комбинированный «Эллипс»</span>
+																			</a>
+																	</li>
+																															<li>
+									<a class="dark-color top-mobile-menu__link" href="/fondy/zpif-kombinirovannyy-kontrakt-invest/" title="ЗПИФ комбинированный «Контракт-Инвест»">
+																				<span class="top-mobile-menu__title">ЗПИФ комбинированный «Контракт-Инвест»</span>
+																			</a>
+																	</li>
+																															<li>
+									<a class="dark-color top-mobile-menu__link" href="/fondy/zpif-kombinirovannyy-kislorod/" title="ЗПИФ комбинированный «Кислород»">
+																				<span class="top-mobile-menu__title">ЗПИФ комбинированный «Кислород»</span>
+																			</a>
+																	</li>
+																															<li>
+									<a class="dark-color top-mobile-menu__link" href="/fondy/zpif-kombinirovannyy-leonardo/" title="ЗПИФ комбинированный «Леонардо»">
+																				<span class="top-mobile-menu__title">ЗПИФ комбинированный «Леонардо»</span>
+																			</a>
+																	</li>
+																															<li>
+									<a class="dark-color top-mobile-menu__link" href="/fondy/zpif-kombinirovannyy-smart/" title="ЗПИФ комбинированный «Смарт»">
+																				<span class="top-mobile-menu__title">ЗПИФ комбинированный «Смарт»</span>
+																			</a>
+																	</li>
+																															<li>
+									<a class="dark-color top-mobile-menu__link" href="/fondy/zpif-kombinirovannyy-amalgama/" title="ЗПИФ комбинированный «Амальгама»">
+																				<span class="top-mobile-menu__title">ЗПИФ комбинированный «Амальгама»</span>
+																			</a>
+																	</li>
+													</ul>
+									</li>
+															<li>
+					<a class="dark-color parent" href="/raskrytie-informatsii/" title="Раскрытие информации">
+						<span>Раскрытие информации</span>
+													<span class="arrow"><i class="svg  svg-inline-triangle" aria-hidden="true"><svg xmlns="http://www.w3.org/2000/svg" width="3" height="5" viewBox="0 0 3 5"><path data-name="Rectangle 4 copy" class="cls-1" d="M203,84V79l3,2.5Z" transform="translate(-203 -79)"></path></svg></i></span>
+											</a>
+											<ul class="dropdown">
+							<li class="menu_back"><a href="" class="dark-color" rel="nofollow"><i class="svg inline  svg-inline-back_arrow" aria-hidden="true"><svg xmlns="http://www.w3.org/2000/svg" width="15.969" height="12" viewBox="0 0 15.969 12"><defs><style>.cls-1{fill:#999;fill-rule:evenodd;}</style></defs><path data-name="Rounded Rectangle 982 copy" class="cls-1" d="M34,32H22.414l3.3,3.3A1,1,0,1,1,24.3,36.713l-4.978-4.978c-0.01-.01-0.024-0.012-0.034-0.022s-0.015-.041-0.03-0.058a0.974,0.974,0,0,1-.213-0.407,0.909,0.909,0,0,1-.024-0.123,0.982,0.982,0,0,1,.267-0.838c0.011-.011.025-0.014,0.036-0.024L24.3,25.287A1,1,0,0,1,25.713,26.7l-3.3,3.3H34A1,1,0,0,1,34,32Z" transform="translate(-19.031 -25)"></path></svg>
+</i>Назад</a></li>
+							<li class="menu_title"><a href="/raskrytie-informatsii/">Раскрытие информации</a></li>
+																															<li>
+									<a class="dark-color top-mobile-menu__link" href="/raskrytie-informatsii/soobshcheniya/" title="Сообщения">
+																				<span class="top-mobile-menu__title">Сообщения</span>
+																			</a>
+																	</li>
+																															<li>
+									<a class="dark-color top-mobile-menu__link" href="/raskrytie-informatsii/bukhgalterskaya-finansovaya-otchetnost/" title="Бухгалтерская (финансовая) отчетность">
+																				<span class="top-mobile-menu__title">Бухгалтерская (финансовая) отчетность</span>
+																			</a>
+																	</li>
+																															<li>
+									<a class="dark-color top-mobile-menu__link" href="/raskrytie-informatsii/raschet-sobstvennykh-sredstv/" title="Расчет собственных средств">
+																				<span class="top-mobile-menu__title">Расчет собственных средств</span>
+																			</a>
+																	</li>
+																															<li>
+									<a class="dark-color top-mobile-menu__link" href="/raskrytie-informatsii/sostav-i-struktura-uchastnikov-ooo-uk-region-finans/" title="Состав и структура участников">
+																				<span class="top-mobile-menu__title">Состав и структура участников</span>
+																			</a>
+																	</li>
+																															<li>
+									<a class="dark-color top-mobile-menu__link" href="/raskrytie-informatsii/vnutrennie-normativnye-dokumenty-ooo-uk-region-finans/" title="Внутренние нормативные документы">
+																				<span class="top-mobile-menu__title">Внутренние нормативные документы</span>
+																			</a>
+																	</li>
+													</ul>
+									</li>
+															<li>
+					<a class="dark-color parent" href="/informatsionnaya-bezopasnost/" title="Информационная безопасность">
+						<span>Информационная безопасность</span>
+													<span class="arrow"><i class="svg  svg-inline-triangle" aria-hidden="true"><svg xmlns="http://www.w3.org/2000/svg" width="3" height="5" viewBox="0 0 3 5"><path data-name="Rectangle 4 copy" class="cls-1" d="M203,84V79l3,2.5Z" transform="translate(-203 -79)"></path></svg></i></span>
+											</a>
+											<ul class="dropdown">
+							<li class="menu_back"><a href="" class="dark-color" rel="nofollow"><i class="svg inline  svg-inline-back_arrow" aria-hidden="true"><svg xmlns="http://www.w3.org/2000/svg" width="15.969" height="12" viewBox="0 0 15.969 12"><defs><style>.cls-1{fill:#999;fill-rule:evenodd;}</style></defs><path data-name="Rounded Rectangle 982 copy" class="cls-1" d="M34,32H22.414l3.3,3.3A1,1,0,1,1,24.3,36.713l-4.978-4.978c-0.01-.01-0.024-0.012-0.034-0.022s-0.015-.041-0.03-0.058a0.974,0.974,0,0,1-.213-0.407,0.909,0.909,0,0,1-.024-0.123,0.982,0.982,0,0,1,.267-0.838c0.011-.011.025-0.014,0.036-0.024L24.3,25.287A1,1,0,0,1,25.713,26.7l-3.3,3.3H34A1,1,0,0,1,34,32Z" transform="translate(-19.031 -25)"></path></svg>
+</i>Назад</a></li>
+							<li class="menu_title"><a href="/informatsionnaya-bezopasnost/">Информационная безопасность</a></li>
+																															<li>
+									<a class="dark-color top-mobile-menu__link" href="/informatsionnaya-bezopasnost/rekomendatsii/" title="Рекомендации">
+																				<span class="top-mobile-menu__title">Рекомендации</span>
+																			</a>
+																	</li>
+													</ul>
+									</li>
+					</ul>
+	</div>
+		<!-- /noindex -->
+									<!--'start_frame_cache_mobile-region-block1'-->			<!-- noindex -->
+			<div class="menu middle mobile_regions">
+				<ul>
+					<li>
+													<a rel="nofollow" href="" class="dark-color">
+													<i class="svg inline  svg-inline-region_arrow" aria-hidden="true"><svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" viewBox="0 0 16 16"><defs><style>.cls-1{fill:#999;fill-rule:evenodd;}</style></defs><path data-name="Rounded Rectangle 979" class="cls-1" d="M36.973,545.2c-0.005.026,0,.051-0.007,0.076l-0.007.023a1.944,1.944,0,0,1-.174.567L32.969,558.3A0.991,0.991,0,0,1,32,559v0H31v-0.013a0.98,0.98,0,0,1-.952-0.607l-1.847-6.6L21.594,549.9a1,1,0,0,1-.585-0.9H21v-1h0.017a0.987,0.987,0,0,1,.715-0.984l12.415-3.806a1.971,1.971,0,0,1,.552-0.169l0.047-.014a0.777,0.777,0,0,1,.118-0.008c0.046,0,.089-0.019.136-0.019,0.013,0,.023.007,0.036,0.007a0.96,0.96,0,0,1,.292.056,1.973,1.973,0,0,1,1.654,1.755,0.954,0.954,0,0,1,.013.13C37,544.966,37,544.982,37,545A1.882,1.882,0,0,1,36.973,545.2Zm-13.175,3.3,4.882,1.391,2.606-2.606a0.988,0.988,0,0,1,1.414,0,1.026,1.026,0,0,1,0,1.436l-2.593,2.594,1.386,4.949,3.43-11.174Z" transform="translate(-21 -543)"></path></svg>
+</i>							<span>Екатеринбург</span>
+													</a>
+																								</li>
+				</ul>
+			</div>
+			<!-- /noindex -->
+			<!--'end_frame_cache_mobile-region-block1'-->		
+							<!--'start_frame_cache_mobile-phone-block1'-->			<!-- noindex -->
+			<div class="menu middle mobile-menu-contacts">
+				<ul>
+					<li>
+						<a rel="nofollow" href="tel:+73433792297" class="dark-color no-decript">
+							<i class="svg svg-phone"></i>
+							<i class="svg inline svg-inline-phone " aria-hidden="true"><svg width="5" height="13"><use xlink:href="/bitrix/templates/aspro_max/images/svg/header_icons_srite.svg#phone_black"></use></svg></i>							<span>+7 (343) 379-22-97</span>
+													</a>
+											</li>
+				</ul>
+			</div>
+			<!-- /noindex -->
+			<!--'end_frame_cache_mobile-phone-block1'-->				<div class="contacts">
+			<div class="title">Контактная информация</div>
+									<!--'start_frame_cache_mobile-contact-block'-->															<div class="address">
+						<i class="svg inline  svg-inline-address" aria-hidden="true"><svg xmlns="http://www.w3.org/2000/svg" width="9" height="12" viewBox="0 0 9 12"><path class="cls-1" d="M959.135,82.315l0.015,0.028L955.5,87l-3.679-4.717,0.008-.013a4.658,4.658,0,0,1-.83-2.655,4.5,4.5,0,1,1,9,0A4.658,4.658,0,0,1,959.135,82.315ZM955.5,77a2.5,2.5,0,0,0-2.5,2.5,2.467,2.467,0,0,0,.326,1.212l-0.014.022,2.181,3.336,2.034-3.117c0.033-.046.063-0.094,0.093-0.142l0.066-.1-0.007-.009a2.468,2.468,0,0,0,.32-1.2A2.5,2.5,0,0,0,955.5,77Z" transform="translate(-951 -75)"></path></svg></i>						г. Екатеринбург, ул. Белинского, 56					</div>
+																			<div class="email">
+						<i class="svg inline  svg-inline-email" aria-hidden="true"><svg xmlns="http://www.w3.org/2000/svg" width="11" height="9" viewBox="0 0 11 9"><path data-name="Rectangle 583 copy 16" class="cls-1" d="M367,142h-7a2,2,0,0,1-2-2v-5a2,2,0,0,1,2-2h7a2,2,0,0,1,2,2v5A2,2,0,0,1,367,142Zm0-2v-3.039L364,139h-1l-3-2.036V140h7Zm-6.634-5,3.145,2.079L366.634,135h-6.268Z" transform="translate(-358 -133)"></path></svg></i>													<a href="mailto:info@am-rf.ru">info@am-rf.ru</a>
+											</div>
+													<!--'end_frame_cache_mobile-contact-block'-->					</div>
+				<div class="social-icons">
+		<!-- noindex -->
+	<ul>
+																																	</ul>
+	<!-- /noindex -->
+</div>	</div>
+</div>	</div>
+<div id="mobilemenu-overlay"></div></div>
+<div id="mobilefilter" class="scrollbar-filter"></div>
+
+		<div class="wraps hover_shine" id="content">
+
+							<div class="wrapper_inner  ">
+				<div class="container_inner clearfix ">
+									<div class="right_block error_page wide_ ">
+									<div class="middle error-page ">
+																			<div class="container">
+																												<style>.right_block.wide_, .right_block.wide_N{float:none !important;width:100% !important;}.top-block-wrapper{display: none;}</style>
+<div class="maxwidth-theme">
+	<div class="page_error_block">
+		<div class="page_not_found" width="100%" border="0" cellpadding="0" cellspacing="0">
+			<div class="image">
+				<svg xmlns="http://www.w3.org/2000/svg" width="272" height="86" viewBox="0 0 272 86">
+				  <path id="Ellipse_296_copy_6" data-name="Ellipse 296 copy 6" class="cls-1" d="M1087.5,395H1081v8.5a8.5,8.5,0,0,1-17,0V395h-38.5a8.477,8.477,0,0,1-7.14-3.9,0.673,0.673,0,0,1-.07-0.11c-0.11-.187-0.23-0.375-0.33-0.571-0.04-.084-0.08-0.17-0.12-0.255-0.07-.154-0.15-0.307-0.21-0.465-0.05-.125-0.1-0.252-0.14-0.378s-0.09-.249-0.13-0.377c-0.05-.166-0.09-0.335-0.13-0.5-0.02-.094-0.05-0.186-0.07-0.282q-0.06-.319-0.09-0.645l-0.03-.17c-0.02-.256-0.03-0.514-0.04-0.771V386.49c0-.212.02-0.424,0.03-0.636a8.473,8.473,0,0,1,2-4.857l36.29-51.353a8.679,8.679,0,0,1,11.96-2.157,8.385,8.385,0,0,1,2.19,11.781L1042.1,378H1064v-8.5a8.5,8.5,0,0,1,17,0V378h6.5A8.5,8.5,0,0,1,1087.5,395ZM960,412a43,43,0,1,1,43-43A43,43,0,0,1,960,412Zm0-69a26,26,0,1,0,26,26A26,26,0,0,0,960,343Zm-65.5,52H888v8.5a8.5,8.5,0,0,1-17,0V395H832.5a8.489,8.489,0,0,1-7.142-3.9c-0.023-.036-0.044-0.074-0.067-0.11-0.116-.187-0.227-0.375-0.329-0.571-0.044-.084-0.082-0.17-0.123-0.255-0.074-.154-0.147-0.307-0.212-0.465-0.05-.125-0.093-0.252-0.138-0.378s-0.09-.249-0.129-0.377c-0.05-.166-0.089-0.335-0.129-0.5-0.022-.094-0.048-0.186-0.067-0.282-0.042-.213-0.072-0.429-0.1-0.645-0.007-.057-0.018-0.113-0.023-0.17-0.026-.256-0.038-0.514-0.039-0.771,0-.024,0-0.047,0-0.071v-0.01c0-.212.016-0.424,0.033-0.636a8.454,8.454,0,0,1,2-4.857l36.293-51.353a8.681,8.681,0,0,1,11.961-2.157,8.389,8.389,0,0,1,2.191,11.781L849.1,378H871v-8.5a8.5,8.5,0,0,1,17,0V378h6.5A8.5,8.5,0,0,1,894.5,395Z" transform="translate(-824 -326)"></path>
+				</svg>
+			</div>
+			<div class="description">
+				<div class="subtitle404">Страница не найдена</div>
+				<div class="descr_text404">Неправильно набран адрес или такой страницы не существует</div>
+				<a class="btn btn-transparent-border-color btn-mainpage" onclick="history.back()">вернуться назад</a>
+				<a class="btn btn-default btn-mainpage" href="/"><span>На главную</span></a>
+			</div>
+		</div>
+	</div>
+</div>
+																																			</div> 																				</div> 																</div> 																</div> 									</div> 							</div> 					
+		<footer id="footer">
+				<!--'start_frame_cache_viewed-block'-->	<!--'end_frame_cache_viewed-block'--><div class="footer-v1">
+	<div class="footer-inner">
+		<div class="footer_top">
+			<div class="maxwidth-theme">
+				<div class="row">
+					<div class="col-md-2 col-sm-3">
+						<div class="fourth_bottom_menu">
+									<div class="bottom-menu">
+		<div class="items">
+																									 				<div class="item 0 childs   accordion-close " data-parent="#bottom" data-target="#bottom">
+					<div class="title">
+													<a href="/o-kompanii/">О компании</a>
+											</div>
+											<div class="compact_arrow">
+	                    	<i class="svg  svg-inline-down colored_theme_hover_bg-el" aria-hidden="true"><svg xmlns="http://www.w3.org/2000/svg" width="8" height="5" viewBox="0 0 8 5"><path data-name="Rounded Rectangle 890 copy 2" class="cls-1" d="M517.778,610.8a0.721,0.721,0,0,1-1.016,0L514,607.769l-2.79,3.028a0.715,0.715,0,1,1-1.01-1.011l3.273-3.552c0.009-.009.012-0.021,0.021-0.03a0.723,0.723,0,0,1,1.017,0,0.022,0.022,0,0,1,0,0l3.265,3.577A0.712,0.712,0,0,1,517.778,610.8Z" transform="translate(-510 -606)"></path></svg></i>						</div>
+									</div>
+									<div id="bottom" class="wrap panel-collapse wrap_compact_mobile">
+																											<div class="item">
+								<div class="title">
+																			<a href="/o-kompanii/obshchaya-informatsiya/">Общая информация</a>
+																	</div>
+							</div>
+																											<div class="item">
+								<div class="title">
+																			<a href="/o-kompanii/kontaktnaya-informatsiya/">Контактная информация</a>
+																	</div>
+							</div>
+																											<div class="item">
+								<div class="title">
+																			<a href="/o-kompanii/informatsionnye-soobshcheniya/">Информационные сообщения</a>
+																	</div>
+							</div>
+																											<div class="item">
+								<div class="title">
+																			<a href="/o-kompanii/kartochka-kompanii/">Карточка компании</a>
+																	</div>
+							</div>
+																											<div class="item">
+								<div class="title">
+																			<a href="/o-kompanii/nashi-uslugi-i-vozmozhnosti/">Наши услуги и возможности</a>
+																	</div>
+							</div>
+																											<div class="item">
+								<div class="title">
+																			<a href="/blog/">Финансовый блог</a>
+																	</div>
+							</div>
+											</div>
+													</div>
+	</div>
+						</div>
+					</div>
+					<div class="col-md-2 col-sm-3">
+						<div class="first_bottom_menu">
+									<div class="bottom-menu">
+		<div class="items">
+																									 				<div class="item 0 childs   accordion-close " data-parent="#bottom_company" data-target="#bottom_company">
+					<div class="title">
+													<a href="/fondy/">Фонды</a>
+											</div>
+											<div class="compact_arrow">
+	                    	<i class="svg  svg-inline-down colored_theme_hover_bg-el" aria-hidden="true"><svg xmlns="http://www.w3.org/2000/svg" width="8" height="5" viewBox="0 0 8 5"><path data-name="Rounded Rectangle 890 copy 2" class="cls-1" d="M517.778,610.8a0.721,0.721,0,0,1-1.016,0L514,607.769l-2.79,3.028a0.715,0.715,0,1,1-1.01-1.011l3.273-3.552c0.009-.009.012-0.021,0.021-0.03a0.723,0.723,0,0,1,1.017,0,0.022,0.022,0,0,1,0,0l3.265,3.577A0.712,0.712,0,0,1,517.778,610.8Z" transform="translate(-510 -606)"></path></svg></i>						</div>
+									</div>
+									<div id="bottom_company" class="wrap panel-collapse wrap_compact_mobile">
+																											<div class="item">
+								<div class="title">
+																			<a href="/fondy/zpif-kombinirovannyy-sinus/">ЗПИФ комбинированный «Синус»</a>
+																	</div>
+							</div>
+																											<div class="item">
+								<div class="title">
+																			<a href="/fondy/zpif-kombinirovannyy-ellips/">ЗПИФ комбинированный «Эллипс»</a>
+																	</div>
+							</div>
+																											<div class="item">
+								<div class="title">
+																			<a href="/fondy/zpif-kombinirovannyy-kontrakt-invest/">ЗПИФ комбинированный «Контракт-Инвест»</a>
+																	</div>
+							</div>
+																											<div class="item">
+								<div class="title">
+																			<a href="/fondy/zpif-kombinirovannyy-kislorod/">ЗПИФ комбинированный «Кислород»</a>
+																	</div>
+							</div>
+																											<div class="item">
+								<div class="title">
+																			<a href="/fondy/zpif-kombinirovannyy-leonardo/">ЗПИФ комбинированный «Леонардо»</a>
+																	</div>
+							</div>
+																											<div class="item">
+								<div class="title">
+																			<a href="/fondy/zpif-kombinirovannyy-smart/">ЗПИФ комбинированный «Смарт»</a>
+																	</div>
+							</div>
+																											<div class="item">
+								<div class="title">
+																			<a href="/fondy/zpif-kombinirovannyy-amalgama/">ЗПИФ комбинированный «Амальгама»</a>
+																	</div>
+							</div>
+											</div>
+													</div>
+	</div>
+						</div>
+					</div>
+					<div class="col-md-3 col-sm-3">
+						<div class="second_bottom_menu">
+									<div class="bottom-menu">
+		<div class="items">
+																									 				<div class="item 0 childs   accordion-close " data-parent="#bottom_help" data-target="#bottom_help">
+					<div class="title">
+													<a href="/zpif/">ЗПИФ</a>
+											</div>
+											<div class="compact_arrow">
+	                    	<i class="svg  svg-inline-down colored_theme_hover_bg-el" aria-hidden="true"><svg xmlns="http://www.w3.org/2000/svg" width="8" height="5" viewBox="0 0 8 5"><path data-name="Rounded Rectangle 890 copy 2" class="cls-1" d="M517.778,610.8a0.721,0.721,0,0,1-1.016,0L514,607.769l-2.79,3.028a0.715,0.715,0,1,1-1.01-1.011l3.273-3.552c0.009-.009.012-0.021,0.021-0.03a0.723,0.723,0,0,1,1.017,0,0.022,0.022,0,0,1,0,0l3.265,3.577A0.712,0.712,0,0,1,517.778,610.8Z" transform="translate(-510 -606)"></path></svg></i>						</div>
+									</div>
+									<div id="bottom_help" class="wrap panel-collapse wrap_compact_mobile">
+																											<div class="item">
+								<div class="title">
+																			<a href="/zpif/pravovaya-priroda-kombinirovannogo-zpif/">Правовая природа комбинированного ЗПИФ</a>
+																	</div>
+							</div>
+																											<div class="item">
+								<div class="title">
+																			<a href="/zpif/ekonomika-zpif/">Экономика ЗПИФ</a>
+																	</div>
+							</div>
+																											<div class="item">
+								<div class="title">
+																			<a href="/zpif/zashchita-aktivov-i-upravlenie-riskami/">Защита активов и управление рисками</a>
+																	</div>
+							</div>
+																											<div class="item">
+								<div class="title">
+																			<a href="/zpif/rasporyazhenie-aktivami-i-kontrol/">Распоряжение активами и контроль</a>
+																	</div>
+							</div>
+																											<div class="item">
+								<div class="title">
+																			<a href="/zpif/infrastruktura-zpif/">Инфраструктура ЗПИФ</a>
+																	</div>
+							</div>
+																											<div class="item">
+								<div class="title">
+																			<a href="/zpif/pravila-doveritelnogo-upravleniya-zpif/">Правила доверительного управления ЗПИФ</a>
+																	</div>
+							</div>
+																											<div class="item">
+								<div class="title">
+																			<a href="/zpif/vladeltsy-payev-kombinirovannogo-zpif/">Владельцы паёв комбинированного ЗПИФ</a>
+																	</div>
+							</div>
+																											<div class="item">
+								<div class="title">
+																			<a href="/zpif/kvalifitsirovannye-investory/">Квалифицированные инвесторы</a>
+																	</div>
+							</div>
+																											<div class="item">
+								<div class="title">
+																			<a href="/zpif/vkhod-v-zpif-i-vykhod-iz-zpif/">Вход в ЗПИФ и выход из ЗПИФ</a>
+																	</div>
+							</div>
+																											<div class="item">
+								<div class="title">
+																			<a href="/zpif/vyplata-dokhoda-iz-zpif/">Выплата дохода из ЗПИФ</a>
+																	</div>
+							</div>
+																											<div class="item">
+								<div class="title">
+																			<a href="/zpif/prekrashchenie-zpif-i-vydel-imushchestva-v-nature/">Прекращение ЗПИФ и выдел имущества</a>
+																	</div>
+							</div>
+											</div>
+													</div>
+	</div>
+						</div>
+					</div>
+					<div class="col-md-2 col-sm-3">
+						<div class="third_bottom_menu">
+									<div class="bottom-menu">
+		<div class="items">
+																									 				<div class="item 0 childs   accordion-close " data-parent="#bottom_info" data-target="#bottom_info">
+					<div class="title">
+													<a href="/raskrytie-informatsii/">Раскрытие информации</a>
+											</div>
+											<div class="compact_arrow">
+	                    	<i class="svg  svg-inline-down colored_theme_hover_bg-el" aria-hidden="true"><svg xmlns="http://www.w3.org/2000/svg" width="8" height="5" viewBox="0 0 8 5"><path data-name="Rounded Rectangle 890 copy 2" class="cls-1" d="M517.778,610.8a0.721,0.721,0,0,1-1.016,0L514,607.769l-2.79,3.028a0.715,0.715,0,1,1-1.01-1.011l3.273-3.552c0.009-.009.012-0.021,0.021-0.03a0.723,0.723,0,0,1,1.017,0,0.022,0.022,0,0,1,0,0l3.265,3.577A0.712,0.712,0,0,1,517.778,610.8Z" transform="translate(-510 -606)"></path></svg></i>						</div>
+									</div>
+									<div id="bottom_info" class="wrap panel-collapse wrap_compact_mobile">
+																											<div class="item">
+								<div class="title">
+																			<a href="/raskrytie-informatsii/soobshcheniya/">Сообщения</a>
+																	</div>
+							</div>
+																											<div class="item">
+								<div class="title">
+																			<a href="/raskrytie-informatsii/bukhgalterskaya-finansovaya-otchetnost/">Бухгалтерская (финансовая) отчетность</a>
+																	</div>
+							</div>
+																											<div class="item">
+								<div class="title">
+																			<a href="/raskrytie-informatsii/raschet-sobstvennykh-sredstv/">Расчет собственных средств</a>
+																	</div>
+							</div>
+																											<div class="item">
+								<div class="title">
+																			<a href="/raskrytie-informatsii/sostav-i-struktura-uchastnikov-ooo-uk-region-finans/">Состав и структура участников</a>
+																	</div>
+							</div>
+																											<div class="item">
+								<div class="title">
+																			<a href="/raskrytie-informatsii/vnutrennie-normativnye-dokumenty-ooo-uk-region-finans/">Внутренние нормативные документы</a>
+																	</div>
+							</div>
+											</div>
+													</div>
+	</div>
+						</div>
+					</div>
+					<div class="col-md-3 col-sm-12 contact-block">
+						<div class="info">
+							<div class="row">
+																<div class="col-md-12 col-sm-12">
+									<div class="phone blocks">
+										<div class="inline-block">
+											<!--'start_frame_cache_header-allphones-block3'-->								<!-- noindex -->
+			<div class="phone with_dropdown white sm">
+									<div class="wrap">
+						<div>
+									<i class="svg inline svg-inline-phone " aria-hidden="true"><svg width="5" height="13"><use xlink:href="/bitrix/templates/aspro_max/images/svg/header_icons_srite.svg#phone_footer"></use></svg></i><a rel="nofollow" href="tel:+73433792297">+7 (343) 379-22-97</a>
+										</div>
+					</div>
+											</div>
+			<!-- /noindex -->
+				<!--'end_frame_cache_header-allphones-block3'-->										</div>
+																					<div class="inline-block callback_wrap">
+												<span class="callback-block animate-load colored" data-event="jqm" data-param-form_id="CALLBACK" data-name="callback">Заказать звонок</span>
+											</div>
+																			</div>
+								</div>
+								<div class="col-md-12 col-sm-12">
+						<!--'start_frame_cache_email-block2'-->		
+												<div class="email blocks">
+						<i class="svg inline  svg-inline-email" aria-hidden="true"><svg xmlns="http://www.w3.org/2000/svg" width="11" height="9" viewBox="0 0 11 9"><path data-name="Rectangle 583 copy 16" class="cls-1" d="M367,142h-7a2,2,0,0,1-2-2v-5a2,2,0,0,1,2-2h7a2,2,0,0,1,2,2v5A2,2,0,0,1,367,142Zm0-2v-3.039L364,139h-1l-3-2.036V140h7Zm-6.634-5,3.145,2.079L366.634,135h-6.268Z" transform="translate(-358 -133)"></path></svg></i>													<a href="mailto:info@am-rf.ru" target="_blank">info@am-rf.ru</a>
+											</div>
+				<!--'end_frame_cache_email-block2'-->		
+									</div>
+								<div class="col-md-12 col-sm-12">
+						<!--'start_frame_cache_address-block3'-->		
+												<div class="address blocks">
+						<i class="svg inline  svg-inline-addr" aria-hidden="true"><svg xmlns="http://www.w3.org/2000/svg" width="9" height="12" viewBox="0 0 9 12"><path class="cls-1" d="M959.135,82.315l0.015,0.028L955.5,87l-3.679-4.717,0.008-.013a4.658,4.658,0,0,1-.83-2.655,4.5,4.5,0,1,1,9,0A4.658,4.658,0,0,1,959.135,82.315ZM955.5,77a2.5,2.5,0,0,0-2.5,2.5,2.467,2.467,0,0,0,.326,1.212l-0.014.022,2.181,3.336,2.034-3.117c0.033-.046.063-0.094,0.093-0.142l0.066-.1-0.007-.009a2.468,2.468,0,0,0,.32-1.2A2.5,2.5,0,0,0,955.5,77Z" transform="translate(-951 -75)"></path></svg></i>						г. Екатеринбург, ул. Белинского, 56					</div>
+				<!--'end_frame_cache_address-block3'-->		
+									</div>
+							</div>
+						</div>
+					</div>
+				</div>
+			</div>
+		</div>
+		<div class="footer_middle">
+			<div class="maxwidth-theme">
+				<div class="row">
+					<div class="col-md-12 col-sm-12">
+						<div class="social-block">
+							<div class="social-icons">
+		<!-- noindex -->
+	<ul>
+																																	</ul>
+	<!-- /noindex -->
+</div>						</div>
+					</div>
+				</div>
+			</div>
+		</div>
+		<div class="footer_bottom">
+			<div class="maxwidth-theme">
+				<div class="footer-bottom__items-wrapper">
+					<div class="footer-bottom__item copy font_xs">
+						Место, где до приобретения инвестиционных паев можно получить подробную информацию о паевых инвестиционных фондах, ознакомиться с правилами доверительного управления, а также с иными документами, предусмотренными в Федеральном законе № 156-ФЗ «Об инвестиционных фондах» от 29.11.2001 г. и Указанием Банка России № 5609-У от 02.11.2020 г., связанными с деятельностью&nbsp;управляющей компании паевых инвестиционных фондов и деятельностью паевых инвестиционных фондов, а также c содержанием раскрываемой информации: 620219, Свердловская область, г. Екатеринбург, ул. Белинского, д. 56, тел.: +7 (343) 379-22-97, 379-24-71. <br>
+<br>
+ Информация о деятельности паевых инвестиционных фондов раскрывается в соответствии требованиями, установленными Указанием Банка России № 5609-У от 02.11.2020 г. для паевых инвестиционных фондов, паи которых предназначены для квалифицированных инвесторов (ограничены в обороте).&nbsp; <br>
+<br>
+ Информация о деятельности паевых инвестиционных фондов предоставляется владельцам инвестиционных паев по их письменному требованию в соответствии с Указания Банка России № 5609-У от 02.11.2020 г. <br>
+<br>
+ Информация о паевом инвестиционном фонде может предоставляться лицам, которым в соответствии с Федеральным законом «О рынке ценных бумаг» может предоставляться информация о ценных бумагах, предназначенных для квалифицированных инвесторов. <br>
+<br>
+ Иные источники информации, в которых в соответствии с правилами доверительного управления раскрыта соответствующая информация: www.am-rf.ru <br>
+<br>
+ Стоимость инвестиционных паев может увеличиваться и&nbsp;уменьшаться, результаты инвестирования в&nbsp;прошлом не&nbsp;определяют доходы в&nbsp;будущем, государство не&nbsp;гарантирует доходность инвестиций в&nbsp;паевые инвестиционные фонды.&nbsp; <br>
+<br>
+ Прежде чем приобрести инвестиционный пай, следует внимательно ознакомиться с&nbsp;правилами доверительного управления. <br>
+<br>
+ Информация о совмещении деятельности: <br>
+<br>
+ ООО УК «Регион Финанс»&nbsp;не осуществляет совмещение деятельности&nbsp;по управлению инвестиционными фондами, паевыми инвестиционными фондами и негосударственными пенсионными фондами с деятельностью по управлению ценными бумагами. <br>
+<br>
+<div class="footer_middle">
+
+						<div class="social-block">
+							<div class="social-icons">
+		<!-- noindex -->
+	<ul>
+																																	</ul>
+	<!-- /noindex -->
+</div>
+
+			</div>
+		</div>
+2007 – 2023 ©️ ООО УК "РЕГИОН ФИНАНС"<br>
+Директор: Семёнов Евгений Владимирович<br>
+Адрес:  620219, г. Екатеринбург, ул. Белинского, д. 56<br>
+Телефон: +7 (343) 379-22-97<br>
+Факс: +7 (343) 379-24-71<br>
+<a href="mailto:info@am-rf.ru" class="sait"> E-mail: info@am-rf.ru </a> <br>
+<a href="https://am-rf.ru/" class="sait"> Сайт: am-rf.ru</a> <br>
+<a href="https://am-rf.pro/" class="sait">Прошлая версия сайта –  перейти</a>					</div>
+					<div id="bx-composite-banner"></div>
+					<div class="footer-bottom__item pays">
+											</div>
+									</div>
+			</div>
+		</div>
+	</div>
+</div>
+<!-- marketnig popups -->
+<!--'start_frame_cache_8gJilP'-->	<!--'end_frame_cache_8gJilP'--><!-- /marketnig popups -->		</footer>
+<div class="bx_areas">
+	</div>
+	<div class="inline-search-block fixed with-close big">
+		<div class="search-wrapper search-maxwidth-wrapper">
+			<div id="title-search">
+				<form action="/search/" class="search">
+					<div class="search-input-div">
+						<input class="search-input" id="title-search-input" type="text" name="q" value="" placeholder="Поиск" size="20" maxlength="50" autocomplete="off">
+					</div>
+					<div class="search-button-div">
+						<button class="btn btn-search btn-default btn-lg " type="submit" name="s" value="Найти">Найти</button>
+						
+						<span class="close-block inline-search-hide"><i class="svg inline  svg-inline-search svg-close close-icons colored_theme_hover" aria-hidden="true"><svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" viewBox="0 0 16 16"><path data-name="Rounded Rectangle 114 copy 3" class="cccls-1" d="M334.411,138l6.3,6.3a1,1,0,0,1,0,1.414,0.992,0.992,0,0,1-1.408,0l-6.3-6.306-6.3,6.306a1,1,0,0,1-1.409-1.414l6.3-6.3-6.293-6.3a1,1,0,0,1,1.409-1.414l6.3,6.3,6.3-6.3A1,1,0,0,1,340.7,131.7Z" transform="translate(-325 -130)"></path></svg></i></span>
+					</div>
+				</form>
+			</div>
+		</div>
+	</div>
+<script>
+	var jsControl = new JCTitleSearch2({
+		//'WAIT_IMAGE': '/bitrix/themes/.default/images/wait.gif',
+		'AJAX_PAGE' : '/o_kompanii/raschet_sobstvennyih_sredstv',
+		'CONTAINER_ID': 'title-search',
+		'INPUT_ID': 'title-search-input',
+		'INPUT_ID_TMP': 'title-search-input',
+		'MIN_QUERY_LEN': 2
+	});
+</script><!--'start_frame_cache_basketitems-block'-->
+								<script>
+									function jsPriceFormat(_number){
+						BX.Currency.setCurrencyFormat('RUB', {'CURRENCY':'RUB','LID':'ru','FORMAT_STRING':'# &#8381;','FULL_NAME':'Российский рубль','DEC_POINT':'.','THOUSANDS_SEP':'&nbsp;','DECIMALS':'2','THOUSANDS_VARIANT':'B','HIDE_ZERO':'Y','CREATED_BY':'','DATE_CREATE':'2022-12-13 22:29:01','MODIFIED_BY':'1','TIMESTAMP_X':'2022-12-13 22:35:52','TEMPLATE':{'SINGLE':'# &#8381;','PARTS':['#',' &#8381;'],'VALUE_INDEX':'0'}});
+						return BX.Currency.currencyFormat(_number, 'RUB', true);
+					}
+							</script>
+				<script>
+			var arBasketAspro = {'BASKET':[],'DELAY':[],'SUBSCRIBE':[],'NOT_AVAILABLE':[],'COMPARE':[],'SERVICES':[]};
+			$(document).ready(function(){
+				setBasketStatusBtn();
+			});
+		</script>
+		<!--'end_frame_cache_basketitems-block'-->																								<div class="basket_fly_forms basket_fill_WHITE">
+						<div class="wrap_cont">
+							<div class="opener">
+											</div>
+						</div>
+					</div>
+				<!--'start_frame_cache_bottom-panel-block'-->				<!--'end_frame_cache_bottom-panel-block'-->
+					<script>
+	if (typeof updateBottomIconsPanel === 'function') {
+		var counter = 0;
+		var arItemsCompare = [];
+		for(var key in arBasketAspro["COMPARE"]){
+			if(arBasketAspro["COMPARE"].hasOwnProperty(key)) {
+				arItemsCompare[counter] = arBasketAspro["COMPARE"][key];
+				counter++;
+			}
+		}
+		updateBottomIconsPanel({
+			"COMPARE":{
+				"COUNT": arItemsCompare.length,
+			}
+		});
+	}
+</script>
+<div id="popup_iframe_wrapper"></div>
+	
+<div class="title-search-result title-search-input fixed_type"></div><div id="mobilefilter-overlay"></div><a class="scroll-to-top ROUND_COLOR PADDING" href="#" id="scrollToTop"></a>

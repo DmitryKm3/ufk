@@ -1,0 +1,330 @@
+
+        <div id="wrapper">
+            <div id="header">
+                
+                                
+                                <div class="slider-wrapper theme-default">
+                    <div id="slider" class="nivoSlider" style="position: relative; background: url(&quot;/assets/cache_image/assets/uploads/resources/1/pic1_998x278_8da.jpg&quot;) no-repeat;">
+                        <img src="/assets/cache_image/assets/uploads/resources/1/pic1_998x278_8da.jpg" alt="" style="display: none;"><img src="/assets/cache_image/assets/uploads/resources/1/pic2_998x278_8da.jpg" alt="" style="display: none;"><img src="/assets/cache_image/assets/uploads/resources/1/pic3_998x278_8da.jpg" alt="" style="display: none;"><img src="/assets/cache_image/assets/uploads/resources/1/pic4_998x278_8da.jpg" alt="" style="display: none;">                    <div class="nivo-caption" style="display: none; opacity: 0.8;"><p></p></div><div class="nivo-directionNav" style="display: none;"><a class="nivo-prevNav">Prev</a><a class="nivo-nextNav">Next</a></div><div class="nivo-controlNav"><a class="nivo-control active" rel="0">1</a><a class="nivo-control" rel="1">2</a><a class="nivo-control" rel="2">3</a><a class="nivo-control" rel="3">4</a></div></div>
+                </div>
+                                
+                
+                <div id="main_menu">
+                    
+                    
+                    <div id="menu"><span class="f_menu1_wrap"><a class="f_menu1 last" href="abaut.htm">О компании</a></span><span class="f_menu1_wrap"><a class="f_menu1 last" href="news/">Новости</a></span><span class="f_menu1_wrap"><a class="f_menu1 last" href="shareholders/">Сведения об органах управления</a></span><span class="f_menu1_wrap"><a class="f_menu1 last" href="raskryitie-informaczii/">Раскрытие информации</a></span><span class="f_menu1_wrap"><a class="f_menu1 last" href="contacts.htm">Контакты</a></span></div>                    
+                    <div id="ico_menu">
+                        <a href="/" class="home">&nbsp;</a>
+                        <a href="map.htm" class="map">&nbsp;</a>
+                        <a href="obratnaya-svyaz.htm" class="mail">&nbsp;</a>
+                    </div>
+                </div>
+                
+                
+            </div>
+            
+            <div id="middle">
+                <div class="top_corner">
+                    <span id="top-left">&nbsp;</span>
+                    <span id="top">&nbsp;</span>
+                    <span id="top-right">&nbsp;</span>
+                </div>
+                
+                <div id="container">
+                    <div class="sidebar" id="sideLeft">
+                        <ul id="g_menu" class="menu"><li class="first"><a href="dokumentyi/individualnyij-investiczionnyij-schyot.htm" class="f_menu1">Индивидуальный инвестиционный счёт</a></li><li><a href="dokumentyi/paevyie-investiczionnyie-fondyi/" class="f_menu1">Паевые инвестиционные фонды</a></li><li id="p16"><a href="" class="f_menu1" onclick="return openthis(this);">Управление пенсионными накоплениями</a><ul class="acitem" style="display:none"><li class="first"><a href="dokumentyi/upravlenie-pensionnyimi-nakopleniyami/kak-perevesti-nakopitelnuyu-chast-pensii.htm" class="f_menu2">Как перевести накопительную часть пенсии?</a></li><li><a href="dokumentyi/upravlenie-pensionnyimi-nakopleniyami/forma-zayavleniya.htm" class="f_menu2">Форма заявления</a></li><li><a href="dokumentyi/upravlenie-pensionnyimi-nakopleniyami/otchetnost-po-investirovaniyu-sredstv-pensionnyix-nakoplenij-pensionnogo-fonda-rf.htm" class="f_menu2">Отчетность</a></li><li><a href="obratnaya-svyaz.htm" class="f_menu2">Обратная связь</a></li><li class="last"><a href="dokumentyi/upravlenie-pensionnyimi-nakopleniyami/pravila-opredeleniya-scha.htm" class="f_menu2">Правила определения СЧА</a></li></ul></li><li><a href="dokumentyi/upravlenie-aktivami-negosudarstvennyix-pensionnyix-fondov.htm" class="f_menu1">Управление активами негосударственных пенсионных фондов</a></li><li><a href="dokumentyi/doveritelnoe-upravlenie.htm" class="f_menu1">Доверительное управление</a></li><li><a href="dokumentyi/kvalificzirovannyim-investoram.htm" class="f_menu1">Квалифицированным инвесторам</a></li><li><a href="dokumentyi/informacziya-o-strukture-i-sostave-akczionerov-(uchastnikov)-nfo,-v-tom-chisle-o-liczax,-pod-kontrolem-libo-znachitelnyim-vliyaniem-kotoryix-naxoditsya-nfo-(v-sootvetstvii-s-polozheniem-banka.htm" class="f_menu1">Информация о структуре и составе акционеров (участников) НФО (Положение №622-П)</a></li><li><a href="dokumentyi/informaczii-professionalnogo-uchastnika-ryinka-czennyix-bumag-v-sootvetstvii-s-ukazaniem-banka-rossii-ot-28.12.2015-№-3921-u.htm" class="f_menu1">Раскрытие информации профессионального участника рынка ценных бумаг в соответствии с Указанием Банка России от 28.12.2015 № 3921-У</a></li><li><a href="dokumentyi/raskryitie-informaczii-upravlyayushhej-kompanii-v-sootvetstvii-s-ukazaniem-banka-rossii-№-5609-u-ot-02.11.2020g.htm" class="f_menu1">Раскрытие информации управляющей компании в соответствии с Указанием Банка России № 5609-У от 02.11.2020г.</a></li><li><a href="dokumentyi/informacziya-dlya-poluchatelej-finansovyix-uslug-v-ramkax-deyatelnosti-po-upravleniyu-czennyimi-bumagami-(bazovyij-standart-kfnp-39).htm" class="f_menu1">Информация для получателей финансовых услуг в рамках деятельности по управлению ценными бумагами (Базовый стандарт КФНП-39)</a></li><li><a href="dokumentyi/informacziya-dlya-poluchatelej-finansovyix-uslug-v-ramkax-deyatelnosti-po-upravleniyu-investiczionnyimi-fondami,-paevyimi-investiczionnyimi-fondami-i-negosudarstvennyimi-pensionnyimi-fondami.htm" class="f_menu1">Информация для получателей финансовых услуг в соответствии с  Базовым стандартом КФНП-33</a></li><li><a href="dokumentyi/rekomendaczii-klientam-po-zashhite-informaczii.htm" class="f_menu1">Рекомендации клиентам по защите информации</a></li><li class="last"><a href="dokumentyi/inyie-dokumentyi-i-informacziya.htm" class="f_menu1">Иные документы и информация</a></li></ul>                        
+                        <div id="part">
+                            <p><span>Наши партнеры</span></p>
+                            
+                            <div class="banner"><a title="Гефест" href="http://npfgefest.ru/" target="_blank"><img src="/uploads/images/partners/gefest.gif" alt=""></a></div>                        </div>
+                    </div>
+                    <div id="content">
+                        <div class="f_art_text">
+                            
+        
+            <div class="news"><span><a href="raskryitie-informaczii/arxiv/" id="strelka">Архив</a></span></div>
+        
+    <h1>Раскрытие информации АО «АМ - Инвест»</h1>
+    
+    <p class="rep_head"><b>Бухгалтерская отчетность</b></p>
+
+<div class="report_line"><a href="uploads/2023/bfo-1-kv-2023.pdf" title="Скачать"><img alt="" src="/img/pdf.png"></a>—<em> на 31.03.23&nbsp; размещено 26.04.23&nbsp;в 20:11&nbsp;(<span ms="" trebuchet="">доступно в течение трех лет)</span></em></div>
+
+<div class="report_line"><a href="uploads/2023/prim-bfo-1-kv-2023.pdf" title="Скачать"><img alt="" src="/img/pdf.png"></a>— <em>примечания к отчетности на 31.03.23, размещено 26.04.23&nbsp;в 20:12&nbsp;(<span ms="" trebuchet="">доступно в течение трех лет)</span></em></div>
+
+<div class="report_line"><a href="uploads/2022/bfo-mit-2022-formyi.pdf" title="Скачать"><img alt="" src="/img/pdf.png"></a>—<em> на 31.12.22&nbsp; размещено 31.03.23&nbsp;в 16:25&nbsp;(<span ms="" trebuchet="">доступно в течение трех лет)</span></em></div>
+
+<div class="report_line"><a href="uploads/2022/primech-bfo-mit-2022-1.pdf" title="Скачать"><img alt="" src="/img/pdf.png"></a>— <em>примечания к отчетности на 31.12.22, размещено 31.03.23&nbsp;в 16:30&nbsp;(<span ms="" trebuchet="">доступно в течение трех лет)</span></em></div>
+
+<div class="report_line"><a href="uploads/2022/form-prim-30-09-2022-tabl19.pdf" title="Скачать"><img alt="" src="/img/pdf.png"></a>&nbsp;—<em> на 30.09.22 (с примечаниями)&nbsp; размещено 03.11.22&nbsp;в 15:58&nbsp;(<span ms="" trebuchet="">доступно в течение трех лет)</span></em></div>
+
+<div class="report_line"><a href="uploads/2022/otchetnost-za-polugodie-2022g.pdf" title="Скачать"><img alt="" src="/img/pdf.png"></a>—<em> на 30.06.22 (с примечаниями)&nbsp; размещено 03.08.22&nbsp;в 19:25&nbsp;(<span ms="" trebuchet="">доступно в течение трех лет)</span></em></div>
+
+<div class="report_line"><a href="uploads/2022/bfo-1kv-2022.pdf" title="Скачать"><img alt="" src="/img/pdf.png"></a>—<em> на 31.03.22 (с примечаниями)&nbsp; размещено 30.04.22&nbsp;в 12:25&nbsp;(<span ms="" trebuchet="">доступно в течение трех лет)</span></em></div>
+
+<div class="report_line"><a href="uploads/2022/bux.otchetnost-na-31.12.2021.pdf" title="Скачать"><img alt="" src="/img/pdf.png"></a>—<em> на 31.12.21 &nbsp;размещено 18.03.22&nbsp;в 13:15&nbsp;(<span ms="" trebuchet="">доступно в течение трех лет)</span></em></div>
+
+<div class="report_line"><a href="uploads/2022/primechaniya-31.12.2021.pdf" title="Скачать"><img alt="" src="/img/pdf.png"></a>— <em>примечания к отчетности на 31.12.21, размещено 18.03.22&nbsp;в 13:20 (<span ms="" trebuchet="">доступно в течение трех лет)</span></em></div>
+
+<div class="report_line"><a href="uploads/2021/buxgalterskaya-otchetnost-9-mesyaczev-2021.pdf" title="Скачать"><img alt="" src="/img/pdf.png"></a>—<em> на 30.09.21, размещено 26.10.21&nbsp;в 14:15&nbsp;(<span ms="" trebuchet="">доступно в течение трех лет)</span></em></div>
+
+<div class="report_line"><a href="uploads/2021/primechanie-k-buxgalterskoj-otchetnost-za-9mes-2021.pdf" title="Скачать"><img alt="" src="/img/pdf.png"></a>— <em>примечания к отчетности на 30.09.21, размещено 26.10.21&nbsp;в 14:20 (<span ms="" trebuchet="">&nbsp;доступно в течение трех лет)</span></em></div>
+
+<div class="report_line">
+<div><a href="uploads/2021/buxgalterskaya-otchetsnot-1-polugodie-2021.pdf" title="Скачать"><img alt="" src="/img/pdf.png"></a>—<em> на 30.06.21, размещено 29.07.21&nbsp;в 17:20 (<span ms="" trebuchet="">доступно в течение трех лет)</span></em></div>
+
+<div><a href="uploads/2021/primechaniya-k-bux-otchetnosti-1-polugodie-2021.pdf" title="Скачать"><img alt="" src="/img/pdf.png"></a>— <em>примечания к отчетности на 30.06.21, размещено 29.07.21&nbsp;в 17:20 (<span ms="" trebuchet="">&nbsp;доступно в течение трех лет)</span></em></div>
+</div>
+
+<div class="report_line">
+<div><a href="uploads/2021/buxgalterskaya-otchetnost-1kv2021.pdf" title="Скачать"><img alt="" src="/img/pdf.png"></a>—<em> на 31.03.21, размещено 28.04.21&nbsp;в 13:20 (<span ms="" trebuchet="">доступно в течение трех лет)</span></em></div>
+
+<div><a href="uploads/2021/primechanie-k-buxgalterskoj-otchetnost-1-kv-2021.pdf" title="Скачать"><img alt="" src="/img/pdf.png"></a>— <em>примечания к отчетности на 31.03.21, размещено 28.04.21&nbsp;в 13:20 (<span ms="" trebuchet="">доступно в течение трех лет)</span></em></div>
+
+<div><a href="uploads/2020/godovaya-bfo-2020.pdf" title="Скачать"><img alt="" src="/img/pdf.png"></a>—<em> на 31.12.20, размещено 29.03.21&nbsp;в 21:00&nbsp;(</em><span style="color: #051b33;"><em>доступно в течение трех лет</em></span><em><span ms="" trebuchet="">)</span></em></div>
+
+<div>
+<div><a href="uploads/2019/godovaya-otchetnost-2019.pdf" title="Скачать"><img alt="" src="/img/pdf.png"></a>—<em> на 31.12.19, размещено 26.03.20&nbsp;в 11:00 (<span ms="" trebuchet="">доступно в течение трех лет)</span></em></div>
+
+<div><a href="uploads/2019/primechanie-k-godovoj-otchetnosti-2019.pdf" title="Скачать"><img alt="" src="/img/pdf.png"></a>— <em>примечания к отчетности на 31.12.19, размещено 26.03.20&nbsp;в 11:00 (<span ms="" trebuchet="">&nbsp;доступно в течение трех лет)</span></em></div>
+</div>
+</div>
+
+<div class="report_line">
+<div class="report_line"><a href="/reports/n_576.pdf" title="Скачать"><img alt="" src="/img/pdf.png"></a>— <em ms="" style="margin: 0px; padding: 0px; border: 0px; font-size: 14px; vertical-align: baseline; color: rgb(5, 27, 51); font-family: " trebuchet="">на 31.12.18, размещено 28.03.18 в 16:20</em><span ms="" style="margin: 0px; padding: 0px; border: 0px; font-size: 14px; vertical-align: baseline; color: rgb(5, 27, 51); font-family: " trebuchet="">&nbsp;<em>(доступно в течение трех лет)</em></span></div>
+
+<div class="report_line"><a href="/reports/n_577.pdf" title="Скачать"><img alt="" src="/img/pdf.png"></a>— <em ms="" trebuchet="">примечания к отчетности на 31.12.18, размещено 28.03.18 в 16:20</em><span ms="" trebuchet="">&nbsp;(<em>доступно в течение трех лет)</em></span></div>
+</div>
+
+<div class="report_line"><a href="/reports/n_534.pdf" title="Скачать"><img alt="" src="/img/pdf.png"></a>— <em>на 31.12.17, размещено 30.03.18 в 18:00</em><span style="color: rgb(5, 27, 51);">&nbsp;<em>(доступно в течение трех лет)</em></span></div>
+
+<div class="report_line"><a href="/reports/n_486.pdf" title="Скачать"><img alt="" src="/img/pdf.png"></a>— <em>на 31.12.16, размещено 31.03.17 в 17:40</em><span style="color: #051b33;">&nbsp;<em>(доступно в течение трех лет)</em></span></div>
+
+<div class="report_line">&nbsp;</div>
+
+<div>
+<div>&nbsp;</div>
+
+<div>
+<div><b>Аудиторское заключение</b></div>
+</div>
+</div>
+
+<div class="report_line">&nbsp;</div>
+
+<div class="report_line"><a href="uploads/2022/az-mit-2022-sajt.pdf" style="display: inline-block;" title="Скачать"><img alt="" src="/img/pdf.png" style="cursor: default;"></a>—&nbsp;<em ms="" trebuchet="">за 2022&nbsp;г., размещено 31.03.23&nbsp;в 16:23</em>(доступно в течение трех лет со дня раскрытия)</div>
+
+<div class="report_line"><a href="uploads/2022/auditorskoe-zaklyuchenie-2021.pdf" style="display: inline-block;" title="Скачать"><img alt="" src="/img/pdf.png" style="cursor: default;"></a>—&nbsp;<em ms="" trebuchet="">за 2021&nbsp;г., размещено 18.03.22&nbsp;в 13:21</em>(доступно в течение трех лет со дня раскрытия)</div>
+
+<div class="report_line"><a href="uploads/2020/auditorskoe-zaklyuchenie-mit-2020.pdf" title="Скачать"><img alt="" src="/img/pdf.png"></a>— <em ms="" style="margin: 0px; padding: 0px; border: 0px; font-size: 14px; vertical-align: baseline; color: rgb(5, 27, 51); font-family: " trebuchet="">за 2020 г., размещено 29.03.21&nbsp;в 18:00</em><span ms="" style="margin: 0px; padding: 0px; border: 0px; font-size: 14px; vertical-align: baseline; color: rgb(5, 27, 51); font-family: " trebuchet="">&nbsp;(доступно в течение трех лет со дня раскрытия)</span></div>
+
+<div class="report_line"><a href="uploads/2019/audit-report-mit-2019-na-sajt.pdf" title="Скачать"><img alt="" src="/img/pdf.png"></a>— <em ms="" style="margin: 0px; padding: 0px; border: 0px; font-size: 14px; vertical-align: baseline; color: rgb(5, 27, 51); font-family: " trebuchet="">за 2019&nbsp;г., размещено 26.03.20&nbsp;в 11:00</em><span ms="" style="margin: 0px; padding: 0px; border: 0px; font-size: 14px; vertical-align: baseline; color: rgb(5, 27, 51); font-family: " trebuchet="">&nbsp;(доступно в течение трех лет со дня раскрытия)</span></div>
+
+<div class="report_line"><a href="/reports/n_574.pdf" title="Скачать"><img alt="" src="/img/pdf.png"></a>— <em ms="" style="margin: 0px; padding: 0px; border: 0px; font-size: 14px; vertical-align: baseline; color: rgb(5, 27, 51); font-family: " trebuchet="">за 2018 г., размещено 21.03.19 в 18:00</em><span ms="" style="margin: 0px; padding: 0px; border: 0px; font-size: 14px; vertical-align: baseline; color: rgb(5, 27, 51); font-family: " trebuchet="">&nbsp;(доступно в течение трех лет со дня раскрытия)</span></div>
+
+<div class="report_line"><a href="/reports/n_535.pdf" title="Скачать"><img alt="" src="/img/pdf.png"></a>— <em>за 2017 г., размещено 30.03.18 в 18:00</em><span style="color: rgb(5, 27, 51);">&nbsp;(доступно в течение трех лет со дня раскрытия)</span></div>
+
+<div class="report_line">&nbsp;</div>
+
+<div class="report_line"><b>Расчёт собственных средств</b></div>
+
+<div class="report_line"><a href="uploads/2023/raschet-ss-mit-31.05.2023-dlya-sajta.pdf" title="Скачать"><img alt="" src="/img/pdf.png"></a>— на 31.05.23, размещено 15.06.23&nbsp;в 16:02&nbsp;(доступно в течение 3-х лет)</div>
+
+<div class="report_line"><a href="uploads/2023/raschet-ss-mit-30.04.2023-dlya-sajta.pdf" title="Скачать"><img alt="" src="/img/pdf.png"></a>— на 30.04.23, размещено 22.05.23&nbsp;в 18:04 (доступно в течение 3-х лет)</div>
+
+<div class="report_line"><a href="uploads/2023/korrektirovka-raschet-ss-mit-28.02.2023-dlya-sajta.pdf" title="Скачать"><img alt="" src="/img/pdf.png"></a>— на 28.02.23 (уточненный), размещено 18.04.23&nbsp;в 16:27&nbsp;(доступно в течение 3-х лет)</div>
+
+<div class="report_line"><a href="uploads/2023/korrektirovka-raschet-ss-mit-31.01.2023-dlya-sajta.pdf" title="Скачать"><img alt="" src="/img/pdf.png"></a>— на 31.01.23 (уточненный), размещено 18.04.23&nbsp;в 16:23&nbsp;(доступно в течение 3-х лет)</div>
+
+<div class="report_line"><a href="uploads/2023/raschet-ss-mit-31.03.2023-dlya-sajta.pdf" title="Скачать"><img alt="" src="/img/pdf.png"></a>— на 31.03.23, размещено 14.04.23&nbsp;в 18:24 (доступно в течение 3-х лет)</div>
+
+<div class="report_line"><a href="uploads/raschet-ss-mit-28.02.2023-dlya-sajta.pdf" title="Скачать"><img alt="" src="/img/pdf.png"></a>— на 28.02.23, размещено 14.03.23&nbsp;в 15:02&nbsp;(доступно в течение 3-х лет)</div>
+
+<div class="report_line"><a href="uploads/2022/raschet-ss-mit-31.01.2023-dlya-sajta.pdf" title="Скачать"><img alt="" src="/img/pdf.png"></a>— на 31.01.23, размещено 14.02.23&nbsp;в 11:52&nbsp;(доступно в течение 3-х лет)</div>
+
+<div class="report_line"><a href="uploads/2022/raschet-ss-mit-31.12.2022-dlya-sajta.pdf" title="Скачать"><img alt="" src="/img/pdf.png"></a>— на 31.12.22, размещено 20.01.23&nbsp;в 16:40&nbsp;(доступно в течение 3-х лет)</div>
+
+<div class="report_line"><a href="uploads/2022/raschet-ss-mit-30.11.2022-dlya-sajta.pdf" title="Скачать"><img alt="" src="/img/pdf.png"></a>— на 30.11.22, размещено 17.11.22&nbsp;в 13:00&nbsp;(доступно в течение 3-х лет)</div>
+
+<div class="report_line"><a href="uploads/2022/raschet-ss-mit-31.10.2022-dlya-sajta.pdf" title="Скачать"><img alt="" src="/img/pdf.png"></a>— на 31.10.22, размещено 17.11.22&nbsp;в 12:09 (доступно в течение 3-х лет)</div>
+
+<div class="report_line"><a href="uploads/2022/raschet-ss-mit-30.09.2022-dlya-sajta.pdf" title="Скачать"><img alt="" src="/img/pdf.png"></a>— на 30.09.22, размещено 13.10.22&nbsp;в 19:40&nbsp;(доступно в течение 3-х лет)</div>
+
+<div class="report_line"><a href="uploads/2022/raschet-ss-mit-31.08.2022-dlya-sajta.pdf" title="Скачать"><img alt="" src="/img/pdf.png"></a>— на 31.08.22, размещено 14.09.22&nbsp;в 20:25&nbsp;(доступно в течение 3-х лет)</div>
+
+<div class="report_line"><a href="uploads/2022/raschet-ss-mit-31.07.2022-dlya-sajta.pdf" title="Скачать"><img alt="" src="/img/pdf.png"></a>— на 31.07.22, размещено 12.08.22&nbsp;в 12:25&nbsp;(доступно в течение 3-х лет)</div>
+
+<div>
+<div><a href="uploads/2022/raschet-ss-mit-30.06.2022-dlya-sajta.pdf" title="Скачать"><img alt="" src="/img/pdf.png"></a>— на 30.06.22, размещено 15.07.22&nbsp;в 14:00&nbsp;(доступно в течение 3-х лет)</div>
+<a href="uploads/2022/mit-ss-310522.pdf" title="Скачать"><img alt="" src="/img/pdf.png"></a>— на 31.05.22, размещено 10.06.22&nbsp;в 16:25&nbsp;(доступно в течение 3-х лет)</div>
+
+<div>
+<div><a href="uploads/2022/ss-mit-na-300422.pdf" title="Скачать"><img alt="" src="/img/pdf.png"></a>— на 30.04.22, размещено 19.05.22&nbsp;в 14:20 (доступно в течение 3-х лет)</div>
+<a href="uploads/2022/raschet-ss-mit-31.03.2022.pdf" title="Скачать"><img alt="" src="/img/pdf.png"></a>— на 31.03.22, размещено 14.04.22&nbsp;в 16:02 (доступно в течение 3-х лет)</div>
+
+<div><a href="uploads/2022/ss-uk-na-280222.pdf" title="Скачать"><img alt="" src="/img/pdf.png"></a>— на 28.02.22, размещено 15.03.22&nbsp;в 16:30&nbsp;(доступно в течение 3-х лет)</div>
+
+<div><a href="uploads/2022/raschet-ss-mit-31.01.2022.pdf" title="Скачать"><img alt="" src="/img/pdf.png"></a>— на 31.01.22, размещено 14.02.22&nbsp;в 12:30&nbsp;(доступно в течение 3-х лет)</div>
+
+<div>
+<div><a href="uploads/2021/ss-mit-311221.pdf" title="Скачать"><img alt="" src="/img/pdf.png"></a>— на 31.12.21, размещено 21.01.22&nbsp;в 23:00&nbsp;(доступно в течение 3-х лет)</div>
+<a href="uploads/2021/ss-uk-mit-301121.pdf" title="Скачать"><img alt="" src="/img/pdf.png"></a>— на 30.11.21, размещено 14.12.21 в 16:00&nbsp;(доступно в течение 3-х лет)</div>
+
+<div><a href="uploads/2021/ss-mit-311021.pdf" title="Скачать"><img alt="" src="/img/pdf.png"></a>— на 31.10.21, размещено 23.11.21 в 17:10&nbsp;(доступно в течение 3-х лет)</div>
+
+<div><a href="uploads/2021/ss-mit-300921.pdf" title="Скачать"><img alt="" src="/img/pdf.png"></a>— на 30.09.21, размещено 14.10.21 в 22:30&nbsp;(доступно в течение 3-х лет)</div>
+
+<div><a href="uploads/2021/ss-mit-31.08.21.pdf" title="Скачать"><img alt="" src="/img/pdf.png"></a>— на 31.08.21, размещено 15.09.21 в 10:00&nbsp;(доступно в течение 3-х лет)</div>
+
+<div><a href="uploads/2021/ss-uk-mit-310721.pdf" title="Скачать"><img alt="" src="/img/pdf.png"></a>— на 31.07.21, размещено 13.08.21 в 11:45&nbsp;(доступно в течение 3-х лет)</div>
+
+<div><a href="uploads/2021/raschet-ss-mit-30.06.2021-new.pdf" title="Скачать"><img alt="" src="/img/pdf.png"></a>— на 30.06.21, размещено 14.07.21 в 16:00&nbsp;(доступно в течение 3-х лет)</div>
+
+<div><a href="uploads/2021/raschept-ss-mit-31.05.21.pdf" title="Скачать"><img alt="" src="/img/pdf.png"></a>— на 31.05.21, размещено 16.06.21 в 11:45&nbsp;(доступно в течение 3-х лет)</div>
+
+<div><a href="uploads/2021/raschet-ss-mit-300421.pdf" title="Скачать"><img alt="" src="/img/pdf.png"></a>— на 30.04.21, размещено 20.05.21 в 13:45&nbsp;(доступно в течение 3-х лет)</div>
+
+<div><a href="uploads/2021/ss-na-31.03.21.pdf" title="Скачать"><img alt="" src="/img/pdf.png"></a>— на 31.03.21, размещено 14.04.21 в 16:20&nbsp;(доступно в течение 3-х лет)</div>
+
+<div><a href="uploads/2021/ss-na-28.02.2021.pdf" title="Скачать"><img alt="" src="/img/pdf.png"></a>— на 28.02.21, размещено 15.03.21 в 18:30&nbsp;(доступно в течение 3-х лет)</div>
+
+<div><a href="uploads/2021/raschet-ss-mit-31.01.2021.pdf" title="Скачать"><img alt="" src="/img/pdf.png"></a>— на 31.01.21, размещено 15.02.21 в 10:15&nbsp;(доступно в течение 3-х лет)</div>
+
+<div><a href="uploads/2020/Dec/raschet-ss-mit-31.12.20.pdf" title="Скачать"><img alt="" src="/img/pdf.png"></a>— на 31.12.20, размещено 22.01.21 в 17:30&nbsp;(доступно в течение 3-х лет)</div>
+
+<div><a href="uploads/2020/Nov/raschet-ss-mit-301120.pdf" title="Скачать"><img alt="" height="16" src="/img/pdf.png" width="16"></a>— на 30.11.20, размещено 14.12.20 в 17:30&nbsp;(доступно в течение 3-х лет)</div>
+
+<div><a href="uploads/2020/Oct/raschet-ss-mit-311020.pdf" title="Скачать"><img alt="" src="/img/pdf.png"></a>— на 31.10.20, размещено 16.11.20 в 17:00&nbsp;(доступно в течение 3-х лет)</div>
+
+<div><a href="uploads/2020/Sept/raschet-ss-mit-30.09.20.pdf" title="Скачать"><img alt="" src="/img/pdf.png"></a>— на 30.09.20, размещено 13.10.20 в 17:45 (доступно в течение 3-х лет)</div>
+
+<div><a href="uploads/2020/Aug/raschet-sobstvennyix-sredstv-31.08.2020.pdf" title="Скачать"><img alt="" src="/img/pdf.png"></a>— на 31.08.20, размещено 14.09.20 в 18:10 (доступно в течение 3-х лет)</div>
+
+<div><a href="uploads/2020/Aug/raschet-s-s-mit-31.07.2020.pdf" title="Скачать"><img alt="" src="/img/pdf.png"></a>— на 31.07.20, размещено 14.08.20 в 20:00 (доступно в течение 3-х лет)</div>
+
+<div>&nbsp;</div>
+
+<div><b>Годовая консолидированная финансовая отчетность</b></div>
+
+<div><a href="uploads/2023/zakl-mit-am-invest-msfo-2022-sajt.pdf" title="Скачать"><img alt="" height="16" src="/img/pdf.png" width="16"></a>— <em ms="" style="margin: 0px; padding: 0px; border: 0px; font-size: 14px; vertical-align: baseline; color: rgb(5, 27, 51); font-family: " trebuchet="">Консолидированная финансовая отчетность с Аудиторским заключением о годовой финансовой отчетности АО "Металлинвесттраст" за 2022&nbsp;год, размещено 27.04.2023&nbsp;в 15:05</em></div>
+
+<div><a href="uploads/2022/az-otchetnost-msfo-2021-compressed.pdf" title="Скачать"><img alt="" src="/img/pdf.png"></a>— <em ms="" style="margin: 0px; padding: 0px; border: 0px; font-size: 14px; vertical-align: baseline; color: rgb(5, 27, 51); font-family: " trebuchet="">Консолидированная финансовая отчетность с Аудиторским заключением о годовой финансовой отчетности ЗАО "Металлинвесттраст" за 2021&nbsp;год, размещено 30.04.2022&nbsp;в 19:20</em></div>
+
+<div><a href="uploads/2021/audit-report-msfo-2020.pdf" title="Скачать"><img alt="" src="/img/pdf.png"></a>— <em ms="" style="margin: 0px; padding: 0px; border: 0px; font-size: 14px; vertical-align: baseline; color: rgb(5, 27, 51); font-family: " trebuchet="">Аудиторское заключение о годовой финансовой отчетности ЗАО "Металлинвесттраст" за 2020&nbsp;год, размещено 28.04.2021&nbsp;в 17:20</em></div>
+
+<div><a href="uploads/2021/otchetnost-msfo-2020.pdf" title="Скачать"><img alt="" src="/img/pdf.png"></a>— <em ms="" style="margin: 0px; padding: 0px; border: 0px; font-size: 14px; vertical-align: baseline; color: rgb(5, 27, 51); font-family: " trebuchet="">Консолидированная финансовая отчетность ЗАО "Металлинвесттраст" за 2020 год, размещено 28.04.2021&nbsp;в 17:20</em></div>
+
+<div><a href="uploads/2019/audit-report-msfo-2019.pdf" title="Скачать"><img alt="" src="/img/pdf.png"></a>— <em ms="" style="margin: 0px; padding: 0px; border: 0px; font-size: 14px; vertical-align: baseline; color: rgb(5, 27, 51); font-family: " trebuchet="">Аудиторское заключение о годовой финансовой отчетности ЗАО "Металлинвесттраст" за 2019&nbsp;год, размещено 29.04.2020&nbsp;в 10:00</em></div>
+
+<div><a href="uploads/2019/konsolidir-otchet-msfo-2019.pdf" title="Скачать"><img alt="" src="/img/pdf.png"></a>— <em ms="" style="margin: 0px; padding: 0px; border: 0px; font-size: 14px; vertical-align: baseline; color: rgb(5, 27, 51); font-family: " trebuchet="">Консолидированная финансовая отчетность ЗАО "Металлинвесттраст" за 2019&nbsp;год, размещено 29.04.2020 в 10:00</em></div>
+
+<div><a href="/reports/n_585.pdf" title="Скачать"><img alt="" src="/img/pdf.png"></a>— <em ms="" style="margin: 0px; padding: 0px; border: 0px; font-size: 14px; vertical-align: baseline; color: rgb(5, 27, 51); font-family: " trebuchet="">Аудиторское заключение о годовой финансовой отчетности ЗАО "Металлинвесттраст" за 2018 год, размещено 29.04.2019 в 17:40</em></div>
+
+<div><a href="/reports/n_584.pdf" title="Скачать"><img alt="" src="/img/pdf.png"></a>— <em ms="" style="margin: 0px; padding: 0px; border: 0px; font-size: 14px; vertical-align: baseline; color: rgb(5, 27, 51); font-family: " trebuchet="">Консолидированная финансовая отчетность ЗАО "Металлинвесттраст" за 2018 год, размещено 29.04.2019 в 17:40</em></div>
+
+<div><a href="/reports/n_541.pdf" title="Скачать"><img alt="" src="/img/pdf.png"></a>— <em>Аудиторское заключение о годовой финансовой отчетности ЗАО "Металлинвесттраст" за 2017 год, составленной в соответствии с МСФО, размещено&nbsp;</em>26.04.2018 в 13:00</div>
+
+<div><a href="/reports/n_540.pdf" title="Скачать"><img alt="" src="/img/pdf.png"></a>— <em>Консолидированная финансовая отчетность ЗАО "Металлинвесттраст" за 2017 год, размещено 26.04.2018 в 13:00</em></div>
+
+<div><a href="/reports/n_498.pdf" title="Скачать"><img alt="" src="/img/pdf.png"></a>— <em>Аудиторское заключение о годовой финансовой отчетности ЗАО "Металлинвесттраст" за 2016 год, составленной в соответствии с МСФО, размещено&nbsp;</em>28.04.2017 в 15:00</div>
+
+<div><a href="/reports/n_497.pdf" title="Скачать"><img alt="" src="/img/pdf.png"></a>— <em>Консолидированная финансовая отчетность ЗАО "Металлинвесттраст" за 2016 год, размещено 28.04.2017 в 15:00</em></div>
+
+<div><a href="/reports/n_454.pdf" title="Скачать"><img alt="" src="/img/pdf.png"></a>— <em>Аудиторское заключение о годовой финансовой отчетности ЗАО "Металлинвесттраст" за 2015г., составленной в соответствии с МСФО, размещено 29.04.16 в 16:40</em></div>
+
+<div class="report_line"><a href="/reports/n_453.pdf" title="Скачать"><img alt="" src="/img/pdf.png"></a>— <em>Консолидированная финансовая отчетность ЗАО "Металлинвесттраст" за 2015г., размещено 29.04.16 в 16:40</em></div>
+
+<div class="report_line">&nbsp;</div>
+
+<div class="report_line"><b>Доверительное управление</b></div>
+
+<div class="report_line"><em><em><em><em><em><a class="pdf" href="uploads/2022/perechen-mer-prioritet-interesov-2023-am.pdf" style="font-size: small; font-style: italic; text-align: justify;"><img alt="pdf.png" height="16" src="/articles/img/pdf.png" title="pdf.png" width="16"></a>&nbsp; </em></em>Перечень мер АО «АМ - Инвест»&nbsp;по недопущению установления приоритета интересов одного или нескольких клиентов над интересами других клиентов&nbsp;<em><em><em>(размещено 30.03.2023, вступает в силу 10.04.2023, информация&nbsp;актуальна до внесения последующих изменений)</em></em></em></em></em></em></div>
+
+<div class="report_line"><em><em><em><em><em><a class="pdf" href="uploads/perechen-mer-prioritet-interesov-2016.pdf" style="font-size: small; font-style: italic; text-align: justify;"><img alt="pdf.png" height="16" src="/articles/img/pdf.png" title="pdf.png" width="16"></a>&nbsp; </em></em>Перечень мер ЗАО «Металлинвесттраст»&nbsp;по недопущению установления приоритета интересов одного или нескольких клиентов над интересами других клиентов</em></em></em><em><em><em>&nbsp;<em><em><em>(размещено 20.05.2016, срок действия до 10.04.2023)</em></em></em></em></em></em></div>
+
+<div class="report_line"><em><em><em><em><em><a class="pdf" href="uploads/2022/pravila-vyiyavleniya-i-kontrolya-konflikta-interesov-2023-am.pdf" style="font-size: small; font-style: italic; text-align: justify;"><img alt="pdf.png" height="16" src="/articles/img/pdf.png" title="pdf.png" width="16"></a>&nbsp;&nbsp;</em></em>Правила выявления и контроля конфликта интересов, а также предотвращения его последствий АО «АМ - Инвест»&nbsp;<em><em><em>(размещено 30.03.2023, вступает в силу 10.04.2023, информация&nbsp;актуальна до внесения последующих изменений)</em></em></em></em></em></em></div>
+
+<div class="report_line"><em><em><em><em><em><a class="pdf" href="uploads/2020/July/pravila-vyiyavleniya-i-kontrolya-konflikta-interesov,-a-takzhe-predotvrashheniya-ego-posledstvij-zao-metallinvesttrast.pdf" style="font-size: small; font-style: italic; text-align: justify;"><img alt="pdf.png" height="16" src="/articles/img/pdf.png" title="pdf.png" width="16"></a>&nbsp;&nbsp;</em></em>Правила выявления и контроля конфликта интересов, а также предотвращения его последствий ЗАО «Металлинвесттраст»&nbsp;<em><em><em>(размещено 15.07.2020, срок действия до 10.04.2023)</em></em></em></em></em></em></div>
+
+<div class="report_line"><em><em><em><em><em><em><a class="pdf" href="uploads/perechen-mer-kontrol-konflikt-interesov-2016.pdf" style="font-size: small; font-style: italic; text-align: justify;"><img alt="pdf.png" height="16" src="/articles/img/pdf.png" title="pdf.png" width="16"></a>&nbsp; &nbsp;</em></em></em>Перечень мер ЗАО "Металлинвесттраст" по выявлению и контролю конфликта интересов, а также предотвращению его последствий при осуществлении профессиональной деятельности на рынке ценных бумаг.<em> </em><em><em>(размещено 20.05.2016, <em>срок действия до 10.04.2023</em>)</em></em></em></em></em></div>
+
+<div class="report_line"><em><em><em><em><em><em><a class="pdf" href="uploads/2020/politika-osushhestvleniya-prav-po-czb.pdf" style="font-size: small; font-style: italic; text-align: justify;"><img alt="pdf.png" height="16" src="/articles/img/pdf.png" title="pdf.png" width="16"></a></em></em></em></em></em></em>&nbsp;—&nbsp;&nbsp;<em>Политика&nbsp;осуществления прав по ценным бумагам, являющимся объектами доверительного управления в ЗАО «Металлинвесттраст» (размещено 20.10.2016, информация актуальна до внесения последующих изменений)</em></div>
+
+<div class="report_line"><em><em><em><em><em><em><a class="pdf" href="uploads/2020/metodika-oczenki-stoimosti-obektov-du-2020.pdf" style="font-size: small; font-style: italic; text-align: justify;"><img alt="pdf.png" height="16" src="/articles/img/pdf.png" title="pdf.png" width="16"></a></em></em></em></em></em></em>&nbsp;—&nbsp; <em>&nbsp;Методика оценки объектов доверительного управления в ЗАО «Металлинвесттраст», в редакции от 18.09.2020 (размещено 18.09.2020, вступает в силу с 29.09.2020,&nbsp;информация актуальна до внесения последующих изменений)</em></div>
+
+<div class="report_line"><em>&nbsp;<a class="pdf" href="/articles/a_94.pdf" style="font-size: small; text-align: justify;"><img alt="pdf.png" height="16" src="/articles/img/pdf.png" title="pdf.png" width="16"></a></em>&nbsp;- <em>Проспект Управляющего и Методика оценки стоимости объектов доверительного управления в ЗАО "Металлинвесттраст", в редакции от 17.06.2016,&nbsp;</em><em>срок действия до 29.09.2020)</em></div>
+
+<div class="report_line"><a class="pdf" href="/articles/a_81.pdf" style="font-size: small; font-style: italic; text-align: justify;"><img alt="pdf.png" height="16" src="/articles/img/pdf.png" title="pdf.png" width="16"></a>&nbsp;-&nbsp; Проспект Управляющего и Методика оценки стоимости объектов доверительного управления в ЗАО "Металлинвесттраст", в редакции от 15.06.2012, срок действия до 17.06.2016</div>
+
+<p><strong>Инсайдерская информация&nbsp;</strong></p>
+
+<div class="report_line">
+<p><a class="pdf" href="uploads/2022/perechen-insajderskoj-informaczii-2021-po-5946-u.pdf" target="_blank"><img alt="pdf.png" height="16" src="/articles/img/pdf.png" title="pdf.png" width="16"></a>&nbsp; Перечень инсайдерской информации ЗАО "Металлинвесттраст" (размещено 28.12.2022&nbsp;в 17:00,&nbsp;<em>информация актуальна до внесения последующих изменений</em>)</p>
+
+<p><a class="pdf" href="/articles/a_135.pdf" target="_blank"><img alt="pdf.png" height="16" src="/articles/img/pdf.png" title="pdf.png" width="16"></a>&nbsp; Перечень инсайдерской информации ЗАО "Металлинвесттраст" (размещено 16.02.2018 в 15:40,&nbsp;<em>информация актуальна до внесения последующих изменений</em>)</p>
+
+<p><a class="pdf" href="/articles/a_73.pdf" style="font-size: small; text-align: justify; font-style: italic;"><img alt="pdf.png" height="16" src="/articles/img/pdf.png" title="pdf.png" width="16"></a>&nbsp; Перечень инсайдерской информации ЗАО "Металлинвесттраст" (<em>размещено 10.11.2014 в 12:00, <em>информация актуальна до внесения последующих изменений</em>)</em><br>
+<a class="pdf" href="/articles/a_36.pdf" style="text-align: justify; font-size: small; font-style: italic;"><img alt="pdf.png" height="16" src="/articles/img/pdf.png" title="pdf.png" width="16"></a>&nbsp;&nbsp;Перечень инсайдерской информации ЗАО "Металлинвесттраст" (<em>размещено 28.12.2011 в 12:00, <em>информация актуальна до внесения последующих изменений</em></em>)</p>
+
+<p><strong>Критерий отнесения клиентов&nbsp;к категории клиента - иностранного налогоплательщика</strong></p>
+
+<p><em><em><em><em><em><a class="pdf" href="/articles/a_83.pdf" style="font-size: small; font-style: italic; text-align: justify;"><img alt="pdf.png" height="16" src="/articles/img/pdf.png" title="pdf.png" width="16"></a>&nbsp;&nbsp;</em></em></em>Критерий отнесения клиентов ЗАО "Металлинвесттраст" к категории клиента - иностранного налогоплательщика и способы получения от них необходимой информации<em>&nbsp;<em><em><em>(размещено 20.05.2016, информация актуальна до внесения последующих изменений)</em></em></em></em></em></em></p>
+
+<p><strong>Политика в отношении обработки персональных данных</strong></p>
+
+<p><em><em><em><em><em><a class="pdf" href="uploads/2020/July/politika-zao-metallinvesttrast-v-otnoshenii-obrabotki-personalnyix-dannyix.pdf" style="font-size: small; font-style: italic; text-align: justify;"><img alt="pdf.png" height="16" src="/articles/img/pdf.png" title="pdf.png" width="16"></a>&nbsp;&nbsp;</em></em>Политика ЗАО «Металлинвесттраст» в отношении обработки персональных данных&nbsp;<em><em><em>(размещено 15.07.2020, информация актуальна до внесения последующих изменений)</em></em></em></em></em></em></p>
+
+<p><strong>Используемые&nbsp;системы электронного документооборота</strong></p>
+
+<p><em><em><em><a class="pdf" href="uploads/2023/edo-infa-na-sajt-04-2023.pdf"><img alt="pdf.png" height="16" src="/articles/img/pdf.png" title="pdf.png" width="16"></a>&nbsp; АО «АМ - Инвест»&nbsp;использует следующие системы электронного документооборота (обновлено 20.04.2023, информация актуальна до внесения последующих изменений)</em></em></em></p>
+</div>
+
+<div class="report_line">
+<p><em><em><em><a class="pdf" href="uploads/edo-infa-na-sajt-2023.pdf"><img alt="pdf.png" height="16" src="/articles/img/pdf.png" title="pdf.png" width="16"></a>&nbsp; АО "Металлинвесттраст" использует следующие системы электронного документооборота (обновлено 08.02.2023, информация актуальна до внесения последующих изменений)</em></em></em></p>
+
+<p><em><em><em><a class="pdf" href="/articles/a_126.pdf"><img alt="pdf.png" height="16" src="/articles/img/pdf.png" title="pdf.png" width="16"></a>&nbsp; ЗАО "Металлинвесттраст" использует следующие системы электронного документооборота (обновлено 27.07.2017, информация актуальна до внесения последующих изменений)</em></em></em></p>
+
+<p><em><em><em><em><a class="pdf" href="/articles/a_78.pdf" style="font-size: small; text-align: justify; font-style: italic;"><img alt="pdf.png" height="16" src="/articles/img/pdf.png" title="pdf.png" width="16"></a>&nbsp; </em></em></em></em><em>ЗАО «Металлинвесттраст» использует следующие системы электронного документооборота<em> <em>(</em></em><em><em><em>обновлено 16.05.2016, <em>информация актуальна до внесения последующих изменений</em></em></em><em>)</em></em></em></p>
+
+<p><a class="pdf" href="/articles/a_39.pdf" style="font-size: small; text-align: justify; font-style: italic;"><img alt="pdf.png" height="16" src="/articles/img/pdf.png" title="pdf.png" width="16"></a>&nbsp; ЗАО «Металлинвесттраст» использует следующие системы электронного документооборота (<em>обновлено 01.07.2015, <em>информация актуальна до внесения последующих изменений</em>)</em></p>
+
+<p><strong>Сведения о специальной оценке условий труда</strong></p>
+
+<p><a class="pdf" href="uploads/2023/svodnaya-vedomost-2023.pdf" style="font-size: small; text-align: justify; font-style: italic;"><img alt="pdf.png" height="16" src="/articles/img/pdf.png" title="pdf.png" width="16"></a>&nbsp;Сводная ведомость результатов проведения специальной оценки условий труда <em>(от 17.05.2023, информация актуальна до 17.05.2028 или до внесения последующих изменений)</em></p>
+
+<p><a class="pdf" href="uploads/2023/perechen-meropriyatij-2023.pdf" style="font-size: small; text-align: justify; font-style: italic;"><img alt="pdf.png" height="16" src="/articles/img/pdf.png" title="pdf.png" width="16"></a>&nbsp;Перечень рекомендуемых мероприятий по улучшению условий труда <em>(от 17.05.2023, информация актуальна до 17.05.2028 или до внесения последующих изменений)</em></p>
+
+<p><a class="pdf" href="uploads/2019/oczenka-uslovij-truda-2018.pdf" style="font-size: small; text-align: justify; font-style: italic;"><img alt="pdf.png" height="16" src="/articles/img/pdf.png" title="pdf.png" width="16"></a>&nbsp;Сводная ведомость результатов проведения специальной оценки условий труда (<em>от 02.11.2018, <em>информация актуальна до 02.11.2023&nbsp;или до внесения последующих изменений</em>)</em></p>
+
+<p><b>Информация о технических сбоях на сайте</b></p>
+</div>
+
+<div class="report_line">
+<div class="report_line"><a href="/reports/n_494.pdf" title="Скачать"><img alt="" src="/img/pdf.png"></a>— на 17.04.2017</div>
+</div>
+
+                        </div>
+                    </div>
+                </div>
+            </div>
+            
+            <div id="bot">&nbsp;</div>
+            
+            <div id="footer">
+                <div id="footer">
+                    <div id="copy">
+                        <p>Copyright 2011 АО «АМ - Инвест»<br>
+                        119049, г. Москва, ул. Крымский Вал, д. 3, стр. 2, офис 304<br> 
+                        Тел.: 
+                        <a href="tel:+74955321233" class="footer__phone">+7 (495) 532-12-33</a><br> 
+                        EMail: 
+                        <a href="mailto:info@am-invest.ru" class="footer__email">info@am-invest.ru</a></p>
+                    </div>
+                    <div id="devel">
+                        <a href="http://www.burusov.ru">Разработка</a> и <a href="http://www.burusov.ru">дизайн</a> сайта<br>
+                        <a href="http://www.burusov.ru" id="studia">Студия Бурусова</a>
+                    </div>
+                </div>
+            </div>
+        </div>
+    

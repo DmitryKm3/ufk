@@ -1,0 +1,243 @@
+
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 0 0" width="0" height="0" focusable="false" role="none" style="visibility: hidden; position: absolute; left: -9999px; overflow: hidden;"><defs><filter id="wp-duotone-dark-grayscale"><feColorMatrix color-interpolation-filters="sRGB" type="matrix" values=" .299 .587 .114 0 0 .299 .587 .114 0 0 .299 .587 .114 0 0 .299 .587 .114 0 0 "></feColorMatrix><feComponentTransfer color-interpolation-filters="sRGB"><feFuncR type="table" tableValues="0 0.49803921568627"></feFuncR><feFuncG type="table" tableValues="0 0.49803921568627"></feFuncG><feFuncB type="table" tableValues="0 0.49803921568627"></feFuncB><feFuncA type="table" tableValues="1 1"></feFuncA></feComponentTransfer><feComposite in2="SourceGraphic" operator="in"></feComposite></filter></defs></svg><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 0 0" width="0" height="0" focusable="false" role="none" style="visibility: hidden; position: absolute; left: -9999px; overflow: hidden;"><defs><filter id="wp-duotone-grayscale"><feColorMatrix color-interpolation-filters="sRGB" type="matrix" values=" .299 .587 .114 0 0 .299 .587 .114 0 0 .299 .587 .114 0 0 .299 .587 .114 0 0 "></feColorMatrix><feComponentTransfer color-interpolation-filters="sRGB"><feFuncR type="table" tableValues="0 1"></feFuncR><feFuncG type="table" tableValues="0 1"></feFuncG><feFuncB type="table" tableValues="0 1"></feFuncB><feFuncA type="table" tableValues="1 1"></feFuncA></feComponentTransfer><feComposite in2="SourceGraphic" operator="in"></feComposite></filter></defs></svg><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 0 0" width="0" height="0" focusable="false" role="none" style="visibility: hidden; position: absolute; left: -9999px; overflow: hidden;"><defs><filter id="wp-duotone-purple-yellow"><feColorMatrix color-interpolation-filters="sRGB" type="matrix" values=" .299 .587 .114 0 0 .299 .587 .114 0 0 .299 .587 .114 0 0 .299 .587 .114 0 0 "></feColorMatrix><feComponentTransfer color-interpolation-filters="sRGB"><feFuncR type="table" tableValues="0.54901960784314 0.98823529411765"></feFuncR><feFuncG type="table" tableValues="0 1"></feFuncG><feFuncB type="table" tableValues="0.71764705882353 0.25490196078431"></feFuncB><feFuncA type="table" tableValues="1 1"></feFuncA></feComponentTransfer><feComposite in2="SourceGraphic" operator="in"></feComposite></filter></defs></svg><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 0 0" width="0" height="0" focusable="false" role="none" style="visibility: hidden; position: absolute; left: -9999px; overflow: hidden;"><defs><filter id="wp-duotone-blue-red"><feColorMatrix color-interpolation-filters="sRGB" type="matrix" values=" .299 .587 .114 0 0 .299 .587 .114 0 0 .299 .587 .114 0 0 .299 .587 .114 0 0 "></feColorMatrix><feComponentTransfer color-interpolation-filters="sRGB"><feFuncR type="table" tableValues="0 1"></feFuncR><feFuncG type="table" tableValues="0 0.27843137254902"></feFuncG><feFuncB type="table" tableValues="0.5921568627451 0.27843137254902"></feFuncB><feFuncA type="table" tableValues="1 1"></feFuncA></feComponentTransfer><feComposite in2="SourceGraphic" operator="in"></feComposite></filter></defs></svg><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 0 0" width="0" height="0" focusable="false" role="none" style="visibility: hidden; position: absolute; left: -9999px; overflow: hidden;"><defs><filter id="wp-duotone-midnight"><feColorMatrix color-interpolation-filters="sRGB" type="matrix" values=" .299 .587 .114 0 0 .299 .587 .114 0 0 .299 .587 .114 0 0 .299 .587 .114 0 0 "></feColorMatrix><feComponentTransfer color-interpolation-filters="sRGB"><feFuncR type="table" tableValues="0 0"></feFuncR><feFuncG type="table" tableValues="0 0.64705882352941"></feFuncG><feFuncB type="table" tableValues="0 1"></feFuncB><feFuncA type="table" tableValues="1 1"></feFuncA></feComponentTransfer><feComposite in2="SourceGraphic" operator="in"></feComposite></filter></defs></svg><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 0 0" width="0" height="0" focusable="false" role="none" style="visibility: hidden; position: absolute; left: -9999px; overflow: hidden;"><defs><filter id="wp-duotone-magenta-yellow"><feColorMatrix color-interpolation-filters="sRGB" type="matrix" values=" .299 .587 .114 0 0 .299 .587 .114 0 0 .299 .587 .114 0 0 .299 .587 .114 0 0 "></feColorMatrix><feComponentTransfer color-interpolation-filters="sRGB"><feFuncR type="table" tableValues="0.78039215686275 1"></feFuncR><feFuncG type="table" tableValues="0 0.94901960784314"></feFuncG><feFuncB type="table" tableValues="0.35294117647059 0.47058823529412"></feFuncB><feFuncA type="table" tableValues="1 1"></feFuncA></feComponentTransfer><feComposite in2="SourceGraphic" operator="in"></feComposite></filter></defs></svg><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 0 0" width="0" height="0" focusable="false" role="none" style="visibility: hidden; position: absolute; left: -9999px; overflow: hidden;"><defs><filter id="wp-duotone-purple-green"><feColorMatrix color-interpolation-filters="sRGB" type="matrix" values=" .299 .587 .114 0 0 .299 .587 .114 0 0 .299 .587 .114 0 0 .299 .587 .114 0 0 "></feColorMatrix><feComponentTransfer color-interpolation-filters="sRGB"><feFuncR type="table" tableValues="0.65098039215686 0.40392156862745"></feFuncR><feFuncG type="table" tableValues="0 1"></feFuncG><feFuncB type="table" tableValues="0.44705882352941 0.4"></feFuncB><feFuncA type="table" tableValues="1 1"></feFuncA></feComponentTransfer><feComposite in2="SourceGraphic" operator="in"></feComposite></filter></defs></svg><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 0 0" width="0" height="0" focusable="false" role="none" style="visibility: hidden; position: absolute; left: -9999px; overflow: hidden;"><defs><filter id="wp-duotone-blue-orange"><feColorMatrix color-interpolation-filters="sRGB" type="matrix" values=" .299 .587 .114 0 0 .299 .587 .114 0 0 .299 .587 .114 0 0 .299 .587 .114 0 0 "></feColorMatrix><feComponentTransfer color-interpolation-filters="sRGB"><feFuncR type="table" tableValues="0.098039215686275 1"></feFuncR><feFuncG type="table" tableValues="0 0.66274509803922"></feFuncG><feFuncB type="table" tableValues="0.84705882352941 0.41960784313725"></feFuncB><feFuncA type="table" tableValues="1 1"></feFuncA></feComponentTransfer><feComposite in2="SourceGraphic" operator="in"></feComposite></filter></defs></svg><div id="wrapper">
+<div id="page" class="site">
+	<a class="skip-link spicepress-screen-reader" href="#content">Skip to content</a>
+<!--Logo & Menu Section-->	
+<nav class=" navbar navbar-custom left">
+	<div class="container-fluid p-l-r-0">
+		<!-- Brand and toggle get grouped for better mobile display -->
+			<div class="navbar-header">
+			<a href="http://akruxcapital.ru/" class="navbar-brand " rel="home"><img width="210" height="49" src="http://akruxcapital.ru/wp-content/uploads/2023/03/logo-new.png" class="custom-logo" alt="АКРУКС КАПИТАЛ" decoding="async"></a>			<div class="site-branding-text">
+				<h1 class="site-title"><a href="http://akruxcapital.ru/" rel="home">АКРУКС КАПИТАЛ</a></h1>
+									<p class="site-description">Инвестируйте в своё будущее</p>
+							</div>
+			<button class="navbar-toggle" type="button" data-toggle="collapse" data-target="#custom-collapse">
+				<span class="sr-only">Показать/Скрыть навигацию</span>
+				<span class="icon-bar"></span>
+				<span class="icon-bar"></span>
+				<span class="icon-bar"></span>
+			</button>
+		</div>
+	
+		<!-- Collect the nav links, forms, and other content for toggling -->
+		<div id="custom-collapse" class="collapse navbar-collapse">
+					<ul id="menu-menu-header" class="nav navbar-nav navbar-right"><li id="menu-item-8" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-home menu-item-8"><a href="http://akruxcapital.ru/">Главная</a></li>
+<li id="menu-item-10" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-10 dropdown"><a href="/about/" class="dropdown-toggle">О компании<b class="caret"></b></a>
+<ul class="dropdown-menu">
+	<li id="menu-item-13" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-13"><a href="http://akruxcapital.ru/banking-details/">Банковские реквизиты</a></li>
+</ul>
+</li>
+<li id="menu-item-31" class="menu-item menu-item-type-post_type menu-item-object-page current-page-ancestor current-menu-ancestor current-menu-parent current-page-parent current_page_parent current_page_ancestor menu-item-has-children menu-item-31 active dropdown"><a href="http://akruxcapital.ru/disclosure-statement/" class="dropdown-toggle">Раскрытие информации<b class="caret"></b></a>
+<ul class="dropdown-menu">
+	<li id="menu-item-67" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-67"><a href="http://akruxcapital.ru/disclosure-statement/info-about-company/">Информация об организации</a></li>
+	<li id="menu-item-70" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-70"><a href="http://akruxcapital.ru/disclosure-statement/information-for-financial-recipients/">Информация для получателей финансовых услуг</a></li>
+	<li id="menu-item-66" class="menu-item menu-item-type-post_type menu-item-object-page current-menu-item page_item page-item-64 current_page_item menu-item-66 active"><a href="http://akruxcapital.ru/disclosure-statement/organization-reporting/">Отчетность организации</a></li>
+	<li id="menu-item-77" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-77"><a href="http://akruxcapital.ru/disclosure-statement/internal-documents/">Внутренние документы</a></li>
+	<li id="menu-item-73" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-73"><a href="http://akruxcapital.ru/disclosure-statement/messages-about-the-activities/">Сообщения о деятельности компании</a></li>
+	<li id="menu-item-107" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-107"><a href="http://akruxcapital.ru/disclosure-statement/reporting-unreliable-information/">Сообщения о выявлении неточных, неполных и (или) недостоверных сведений</a></li>
+	<li id="menu-item-104" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-104"><a href="http://akruxcapital.ru/disclosure-statement/reports-of-maintenance/">Сообщения о профилактических работах или технических неполадках</a></li>
+</ul>
+</li>
+<li id="menu-item-30" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-item-30 dropdown"><a href="http://akruxcapital.ru/funds/" class="dropdown-toggle">Фонды<b class="caret"></b></a>
+<ul class="dropdown-menu">
+	<li id="menu-item-97" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-97"><a href="http://akruxcapital.ru/funds/fund-la5/">ЗПИФ комбинированный «ЛА-5»</a></li>
+</ul>
+</li>
+<li id="menu-item-28" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-28"><a href="http://akruxcapital.ru/category/news/">Новости</a></li>
+<li id="menu-item-38" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-38"><a href="http://akruxcapital.ru/contacts/">Контакты</a></li>
+</ul>				
+		</div><!-- /.navbar-collapse -->
+	</div><!-- /.container-fluid -->
+</nav>	
+<!--/Logo & Menu Section-->	
+
+
+
+<div class="clearfix"></div>		<!-- Page Title Section -->
+		<section class="page-title-section">
+			<div class="overlay">
+				<div class="container">
+					<div class="row">
+						<div class="col-md-6 col-sm-6">
+						   <div class="page-title wow bounceInLeft animated animated" ata-wow-delay="0.4s" style="visibility: visible; animation-name: bounceInLeft;"><h1>Отчетность организации</h1></div>						</div>
+						<div class="col-md-6 col-sm-6">
+							<ul class="page-breadcrumb wow bounceInRight animated animated" ata-wow-delay="0.4s" style="visibility: visible; animation-name: bounceInRight;"><li><a href="http://akruxcapital.ru/">Главная</a></li><li class="active"><a href="http://akruxcapital.ru/disclosure-statement/">Раскрытие информации в соответствии с законодательством РФ</a></li><li class="active"><a href="http://akruxcapital.ru/disclosure-statement/organization-reporting/">Отчетность организации</a></li></ul>						</div>
+					</div>
+				</div>
+			</div>
+		</section>
+		<div class="page-seperate"></div>
+		<!-- /Page Title Section -->
+
+		<div class="clearfix"></div>
+	<!-- Blog & Sidebar Section -->
+<div id="content">
+<section class="blog-section">
+	<div class="container">
+		<div class="row">	
+			<!--Blog Section-->
+			<div class="col-md-8 col-sm-7 col-xs-12">				<article class="post" id="post-64" data-wow-delay="0.4s">
+			
+				
+		
+		
+		<div class="post-content">					
+			<div class="entry-content">
+			<p align="center"><strong>Отчетность организации</strong></p>
+
+
+<p></p>
+
+
+
+<table>
+<tbody>
+
+<tr>
+<td width="600"><strong>Годовая бухгалтерская (финансовая) отчетность</strong></td>
+<td>Дата размещения</td>
+</tr>
+<tr>
+<td><a href="/wp-content/uploads/2023/02/audit-report-and-accounting-financial-statements-2022.pdf" target="_blank" rel="noreferrer noopener">Аудиторское заключение и годовая бухгалтерская (финансовая) отчетность за 2022 г.</a></td>
+<td>15.02.2023</td>
+</tr>
+</tbody>
+</table>
+
+<table>
+<tbody>
+<tr>
+<td width="600"><strong>Промежуточная бухгалтерская (финансовая) отчетность</strong></td>
+<td>Дата размещения</td>
+</tr>
+<tr>
+<td><a href="/wp-content/uploads/2023/04/Buh_balans_1kv_2023.pdf" target="_blank" rel="noreferrer noopener">Бухгалтерская (финансовая) отчетность за 1 кв. 2023 г.</a></td>
+<td>28.04.2023</td>
+</tr>
+<tr>
+<td><a href="/wp-content/uploads/2023/01/audit-report-and-accounting-financial-statements_9-m_2022.pdf" target="_blank" rel="noreferrer noopener">Бухгалтерская (финансовая) отчетность за 9 месяцев, 3 кв. 2022 г.</a></td>
+<td>09.01.2023</td>
+</tr>
+</tbody>
+</table>
+
+
+<p></p>
+
+<table>
+<tbody>
+<tr>
+<td width="600"><strong>Расчет собственных средств</strong></td>
+<td>Дата размещения</td>
+</tr>
+<tr>
+<td><a href="/wp-content/uploads/2023/06/SS_UK_230531.pdf" target="_blank" rel="noreferrer noopener">Расчет размера собственных средств на 31.05.2023</a></td>
+<td>15.06.2023</td>
+</tr>
+<tr><td><a href="/wp-content/uploads/2023/05/SS_UK_230430_korrekt.pdf" target="_blank" rel="noreferrer noopener">Скорректированный расчет размера собственных средств на 30.04.2023</a></td>
+<td>22.05.2023</td>
+</tr>
+<tr>
+<td><a href="/wp-content/uploads/2023/05/SS_UK_230430.pdf" target="_blank" rel="noreferrer noopener">Расчет размера собственных средств на 30.04.2023</a></td>
+<td>16.05.2023</td>
+</tr>
+<tr>
+<td><a href="/wp-content/uploads/2023/04/rss_31-03-2023.pdf" target="_blank" rel="noreferrer noopener">Расчет размера собственных средств на 31.03.2023</a></td>
+<td>13.04.2023</td>
+</tr>
+<tr>
+<td><a href="/wp-content/uploads/2023/03/SS_UK_230228.pdf" target="_blank" rel="noreferrer noopener">Расчет размера собственных средств на 28.02.2023</a></td>
+<td>15.03.2023</td>
+</tr>
+<tr>
+<td><a href="/wp-content/uploads/2023/02/rss_31-01-2023.pdf" target="_blank" rel="noreferrer noopener">Расчет размера собственных средств на 31.01.2023</a></td>
+<td>08.02.2023</td>
+</tr>
+<tr>
+<td><a href="/wp-content/uploads/2023/01/rss_31-12-2022.pdf" target="_blank" rel="noreferrer noopener">Расчет размера собственных средств на 31.12.2022</a></td>
+<td>18.01.2023</td>
+</tr>
+<tr>
+<td><a href="/wp-content/uploads/2023/01/rss_30-11-2022.pdf" target="_blank" rel="noreferrer noopener">Расчет размера собственных средств на 30.11.2022</a></td>
+<td>09.01.2023</td>
+</tr>
+<tr>
+<td><a href="/wp-content/uploads/2023/01/rss_31-10-2022.pdf" target="_blank" rel="noreferrer noopener">Расчет размера собственных средств на 31.10.2022</a></td>
+<td>09.01.2023</td>
+</tr>
+<tr>
+<td><a href="/wp-content/uploads/2023/01/rss_30-09-2022.pdf" target="_blank" rel="noreferrer noopener">Расчет размера собственных средств на 30.09.2022</a></td>
+<td>09.01.2023</td>
+</tr>
+<tr>
+<td><a href="/wp-content/uploads/2023/01/rss_31-08-2022.pdf" target="_blank" rel="noreferrer noopener">Расчет размера собственных средств на 31.08.2022</a></td>
+<td>09.01.2023</td>
+</tr>
+</tbody>
+</table>			</div>							
+		</div>
+</article>
+
+
+
+
+			</div>	
+			<!--/Blog Section-->
+			
+<!--Sidebar Section-->
+<div class="col-md-4 col-sm-5 col-xs-12">
+	<div class="sidebar">
+		<aside id="block-5" class="widget widget_block wow fadeInDown animated animated" data-wow-delay="0.4s" style="visibility: visible; animation-delay: 0.4s; animation-name: fadeInDown;">
+<div class="wp-block-group is-layout-flow"><div class="wp-block-group__inner-container"><ul class="wp-block-archives-list wp-block-archives">	<li><a href="http://akruxcapital.ru/2023/04/">Апрель 2023</a></li>
+	<li><a href="http://akruxcapital.ru/2023/03/">Март 2023</a></li>
+</ul></div></div>
+</aside><aside id="block-6" class="widget widget_block wow fadeInDown animated animated" data-wow-delay="0.4s" style="visibility: visible; animation-delay: 0.4s; animation-name: fadeInDown;">
+<div class="wp-block-group is-layout-flow"><div class="wp-block-group__inner-container"></div></div>
+</aside>	
+	</div>
+</div>	
+<!--Sidebar Section-->
+		</div>
+	</div>
+</section>
+</div>
+<!-- /Blog & Sidebar Section -->
+
+<!-- Footer Section -->
+<footer class="site-footer">
+	<div class="container">
+				
+		<div class="row footer-sidebar">
+						
+						<div class="col-md-4">		
+				<aside id="block-11" class="widget widget_block wow fadeInDown animated" data-wow-delay="0.4s" style="visibility: hidden; animation-delay: 0.4s; animation-name: none;"><p class="text-justify">Общество с ограниченной ответственностью «Управляющая компания «АКРУКС КАПИТАЛ».&nbsp; (Лицензия Банка России на осуществление деятельности по управлению инвестиционными фондами, паевыми инвестиционными фондами и негосударственными пенсионными фондами №21-000-1-01061 от&nbsp; 16.08.2022, без ограничения срока действия) сообщает, что стоимость инвестиционных паев может увеличиваться и уменьшаться, результаты инвестирования в прошлом не определяют доходы в будущем, государство не гарантирует доходность инвестиций в инвестиционные фонды, прежде чем приобрести инвестиционный пай, следует внимательно ознакомиться с Правилами доверительного управления паевым инвестиционным фондом. В соответствии с п. 3 ст. 51 Федерального закона от «29» ноября 2001 года № 156-ФЗ «Об инвестиционных фондах» не допускается распространение информации о паевом инвестиционном фонде, инвестиционные паи которого ограничены в обороте, за исключением случаев ее раскрытия в соответствии с Федеральным законом от «29» ноября 2001 года № 156-ФЗ «Об инвестиционных фондах» и иными федеральными законами.</p></aside>			
+			</div>
+						
+						<div class="col-md-4">		
+				<aside id="block-12" class="widget widget_block wow fadeInDown animated" data-wow-delay="0.4s" style="visibility: hidden; animation-delay: 0.4s; animation-name: none;"><p class="text-justify"><strong>ООО «УК «АКРУКС КАПИТАЛ» не совмещает деятельность по доверительному управлению паевыми инвестиционными фондами с деятельностью по управлению ценными бумагами.</strong></p></aside><aside id="block-13" class="widget widget_block wow fadeInDown animated" data-wow-delay="0.4s" style="visibility: hidden; animation-delay: 0.4s; animation-name: none;"><p class="text-justify">Приобрести инвестиционные паи, получить подробную информацию о паевых инвестиционных фондах под управлением ООО «УК «АКРУКС КАПИТАЛ» и ознакомиться с Правилами доверительного управления паевыми инвестиционными фондами, а также с иными документами, предусмотренными Федеральным законом от 29.11.2001 №156-ФЗ «Об инвестиционных фондах» и нормативными актами в сфере финансовых рынков, можно в рабочие дни с 09:00 до 18:00 по адресу: 119027, г. Москва, вн. тер. г. муниципальный округ Внуково, п. Внуково, ул. Центральная, д.8Б, помещ. 1/11&nbsp; или в сети Internet&nbsp; по адресу: akruxcapital.ru</p></aside>			
+			</div>
+					</div>
+		
+	</div>
+</footer>
+<!-- /Footer Section -->
+<div class="clearfix"></div>
+</div><!--Close of wrapper-->
+<!--Scroll To Top-->
+<a href="#" class="hc_scrollup"><i class="fa fa-chevron-up"></i></a>
+<!--/Scroll To Top-->
+<script type="text/javascript" src="http://akruxcapital.ru/wp-content/plugins/contact-form-7/includes/swv/js/index.js?ver=5.7.5.1" id="swv-js"></script>
+<script type="text/javascript" id="contact-form-7-js-extra">
+/* <![CDATA[ */
+var wpcf7 = {"api":{"root":"http:\/\/akruxcapital.ru\/wp-json\/","namespace":"contact-form-7\/v1"}};
+/* ]]> */
+</script>
+<script type="text/javascript" src="http://akruxcapital.ru/wp-content/plugins/contact-form-7/includes/js/index.js?ver=5.7.5.1" id="contact-form-7-js"></script>
+<script type="text/javascript" src="http://akruxcapital.ru/wp-content/themes/spicepress/js/animation/animate.js?ver=6.2.2" id="animate-js-js"></script>
+<script type="text/javascript" src="http://akruxcapital.ru/wp-content/themes/spicepress/js/animation/wow.min.js?ver=6.2.2" id="wow-js-js"></script>
+	<script>
+	/(trident|msie)/i.test(navigator.userAgent)&&document.getElementById&&window.addEventListener&&window.addEventListener("hashchange",function(){var t,e=location.hash.substring(1);/^[A-z0-9_-]+$/.test(e)&&(t=document.getElementById(e))&&(/^(?:a|select|input|button|textarea)$/i.test(t.tagName)||(t.tabIndex=-1),t.focus())},!1);
+	</script>
+	
+
+</div>

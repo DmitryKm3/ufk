@@ -1,0 +1,738 @@
+	
+<div id="panel"></div>
+
+<div id="mobile-header" class="d-md-none" style="">
+        <a title="развернуть\свернуть меню" class="toggle-btn float-right"><img src="/bitrix/templates/bootstrap4/components/bitrix/menu/mobile-menu/images/btn-colapse.svg"></a> 
+                <a class="logo" href="/"><img src="/bitrix/templates/bootstrap4/images/logo.svg" alt="адепта лого"></a>
+        </div>
+
+
+<div class="holder-mobile-menu d-md-none">
+<nav class="mobile-menu" style="height: 882px; display: none;">
+    <div class="root-item ">
+        <a href="/about/">О компании</a><div class="submenu-trigger down"></div>
+            <div class="submenu">
+                    <a href="/about/litsenzii.php"><span>Лицензии</span></a>
+                    <a href="/about/sro.php"><span>СРО</span></a>
+                    <a href="/about/vakansii.php"><span>Вакансии</span></a>
+                </div>
+            </div>
+    <div class="root-item ">
+        <a href="/kval/">Фонды в управлении</a>    </div>
+    <div class="root-item current">
+        <a href="/disclosure/">Раскрытие информации в соответствии с законодательством</a><div class="submenu-trigger up"></div>
+            <div class="submenu" style="display: block;">
+                    <a href="/disclosure/rekvizity.php"><span>Реквизиты</span></a>
+                    <a href="/disclosure/bukhgalterskaya-i-finansovaya-otchetnost.php"><span>Бухгалтерская и финансовая отчетность</span></a>
+                    <a href="/disclosure/sobstvennye_sredstva.php"><span>Собственные средства</span></a>
+                    <a href="/disclosure/dlya-kvalifitsirovannykh-investorov.php"><span>Для квалифицированных инвесторов</span></a>
+                    <a href="/disclosure/edo.php"><span>ЭДО</span></a>
+                    <a href="/disclosure/ogranichenie_dostupa_k_saytu.php"><span>Сообщения о прекращении доступа к раскрываемой информации</span></a>
+                    <a href="/disclosure/soobshcheniya.php"><span>Сообщения об обнаружении неточных, неполных сведений</span></a>
+                    <a href="/disclosure/inaya-informatsiya.php"><span>Иная информация</span></a>
+                </div>
+            </div>
+    <div class="root-item ">
+        <a href="/informatsiya/">Полезная информация</a><div class="submenu-trigger down"></div>
+            <div class="submenu">
+                    <a href="/informatsiya/"><span>Что такое паевой инвестиционный фонд</span></a>
+                    <a href="/informatsiya/law.php"><span>Федеральные законы</span></a>
+                    <a href="/informatsiya/postanovleniya.php"><span>Постановления</span></a>
+                    <a href="/informatsiya/ukazaniya.php"><span>Указания</span></a>
+                    <a href="/informatsiya/prikazy.php"><span>Приказы</span></a>
+                    <a href="/informatsiya/pisma.php"><span>Письма</span></a>
+                    <a href="/informatsiya/links.php"><span>Ссылки</span></a>
+                </div>
+            </div>
+    <div class="root-item ">
+        <a href="/partners/">Партнеры</a>    </div>
+    <div class="root-item ">
+        <a href="/contact/">Контакты</a>    </div>
+    <div class="panel-info">
+        </div>
+</nav>
+</div>  
+
+<main>
+	<article>
+        <div class="sect-image" style="background-image: url(/bitrix/templates/bootstrap4/images/sect_image/Adepta_banner_raskrytie_info.jpg)"></div>
+		        <div class="container-fluid">
+            <div class="row justify-content-center">
+                <div class="col-md-10 ie11fix">
+                                <h1 class="header_line">Собственные средства</h1>
+                 
+		       
+           
+
+
+<div class="fund_section">
+<p>
+	 Данная информация доступна на сайте в течение трех лет со дня ее раскрытия.
+</p>	<div class="row">
+				<div class="col-6 col-lg-4 document" id="bx_3966226736_4207">
+			<a href="/upload/iblock/ff6/47ofmuzsb6zxplww1n9rhszuj2rv6ahj.pdf" title="Расчет размера собственных средств ООО УК АДЕПТА на 31.05.2023">
+				<img src="/bitrix/templates/bootstrap4/images/icons/document_icon.svg">
+				<span class="name">Расчет размера собственных средств ООО УК АДЕПТА на 31.05.2023</span>					
+            				<span class="pub_date small">Опубликовано: 07.06.2023 19:20:00</span>
+                        </a>
+		</div>
+				<div class="col-6 col-lg-4 document" id="bx_3966226736_4203">
+			<a href="/upload/iblock/e26/hp0i31p06bza3vyt8gxbfbbdji716nnu.pdf" title="Расчет размера собственных средств ООО УК АДЕПТА на 30.04.2023">
+				<img src="/bitrix/templates/bootstrap4/images/icons/document_icon.svg">
+				<span class="name">Расчет размера собственных средств ООО УК АДЕПТА на 30.04.2023</span>					
+            				<span class="pub_date small">Опубликовано: 17.05.2023 16:19:35</span>
+                        </a>
+		</div>
+				<div class="col-6 col-lg-4 document" id="bx_3966226736_4178">
+			<a href="/upload/iblock/d7a/rssxqxtl9r4rkj6me17zgz7asz74lz8z.pdf" title="Расчет размера собственных средств ООО УК АДЕПТА на 31.03.2023">
+				<img src="/bitrix/templates/bootstrap4/images/icons/document_icon.svg">
+				<span class="name">Расчет размера собственных средств ООО УК АДЕПТА на 31.03.2023</span>					
+            				<span class="pub_date small">Опубликовано: 18.04.2023 14:19:00</span>
+                        </a>
+		</div>
+				<div class="col-6 col-lg-4 document" id="bx_3966226736_4140">
+			<a href="/upload/iblock/c19/28uthe0ip7yqk3kb8m3g954xj8efdon0.pdf" title="Расчет размера собственных средств ООО УК АДЕПТА на 28.02.2023">
+				<img src="/bitrix/templates/bootstrap4/images/icons/document_icon.svg">
+				<span class="name">Расчет размера собственных средств ООО УК АДЕПТА на 28.02.2023</span>					
+            				<span class="pub_date small">Опубликовано: 13.03.2023 15:49:00</span>
+                        </a>
+		</div>
+				<div class="col-6 col-lg-4 document" id="bx_3966226736_4121">
+			<a href="/upload/iblock/dde/yxc6s9es2miq2bhfs0x4d838rbiq349k.pdf" title="Расчет размера собственных средств ООО УК АДЕПТА на 31.01.2023">
+				<img src="/bitrix/templates/bootstrap4/images/icons/document_icon.svg">
+				<span class="name">Расчет размера собственных средств ООО УК АДЕПТА на 31.01.2023</span>					
+            				<span class="pub_date small">Опубликовано: 15.02.2023 10:19:00</span>
+                        </a>
+		</div>
+				<div class="col-6 col-lg-4 document" id="bx_3966226736_4101">
+			<a href="/upload/iblock/fc1/bb3rr0gsg65h2h3c4l3dwn7b7ymeanwl.pdf" title="Расчет размера собственных средств ООО УК АДЕПТА на 31.12.2022">
+				<img src="/bitrix/templates/bootstrap4/images/icons/document_icon.svg">
+				<span class="name">Расчет размера собственных средств ООО УК АДЕПТА на 31.12.2022</span>					
+            				<span class="pub_date small">Опубликовано: 19.01.2023 15:19:00</span>
+                        </a>
+		</div>
+				<div class="col-6 col-lg-4 document" id="bx_3966226736_4082">
+			<a href="/upload/iblock/696/3zyrh9yq6tvznmjddeibn4kj2su5jo47.pdf" title="Расчет размера собственных средств ООО УК &quot;АДЕПТА&quot; на 30.11.2022 г.">
+				<img src="/bitrix/templates/bootstrap4/images/icons/document_icon.svg">
+				<span class="name">Расчет размера собственных средств ООО УК "АДЕПТА" на 30.11.2022 г.</span>					
+            				<span class="pub_date small">Опубликовано: 13.12.2022 09:30:00</span>
+                        </a>
+		</div>
+				<div class="col-6 col-lg-4 document" id="bx_3966226736_4053">
+			<a href="/upload/iblock/2e4/kw7m4uas91idc9xzhp7yeg7n0pimjkxc.pdf" title="Расчет размера собственных средств ООО УК &quot;АДЕПТА&quot; на 31.10.2022 г.">
+				<img src="/bitrix/templates/bootstrap4/images/icons/document_icon.svg">
+				<span class="name">Расчет размера собственных средств ООО УК "АДЕПТА" на 31.10.2022 г.</span>					
+            				<span class="pub_date small">Опубликовано: 10.11.2022 19:00:00</span>
+                        </a>
+		</div>
+				<div class="col-6 col-lg-4 document" id="bx_3966226736_4030">
+			<a href="/upload/iblock/282/wwcnshxl6mclyv86bs1mkvi1lahc7f4h.pdf" title="Расчет размера собственных средств ООО УК &quot;АДЕПТА&quot; на 30.09.2022 г.">
+				<img src="/bitrix/templates/bootstrap4/images/icons/document_icon.svg">
+				<span class="name">Расчет размера собственных средств ООО УК "АДЕПТА" на 30.09.2022 г.</span>					
+            				<span class="pub_date small">Опубликовано: 14.10.2022 13:00:00</span>
+                        </a>
+		</div>
+				<div class="col-6 col-lg-4 document" id="bx_3966226736_4018">
+			<a href="/upload/iblock/a4b/kr8yo62xawsmul24koqkt26w6fkzb7f1.pdf" title="Расчет размера собственных средств ООО УК &quot;АДЕПТА&quot; на 31.08.2022 г.">
+				<img src="/bitrix/templates/bootstrap4/images/icons/document_icon.svg">
+				<span class="name">Расчет размера собственных средств ООО УК "АДЕПТА" на 31.08.2022 г.</span>					
+            				<span class="pub_date small">Опубликовано: 19.09.2022 23:07:00</span>
+                        </a>
+		</div>
+				<div class="col-6 col-lg-4 document" id="bx_3966226736_3969">
+			<a href="/upload/iblock/0c8/3cca963fozahd6rwd5h1n9gu2brp5a8k.pdf" title="Расчет размера собственных средств ООО УК &quot;АДЕПТА&quot; на 31.07.2022 г.">
+				<img src="/bitrix/templates/bootstrap4/images/icons/document_icon.svg">
+				<span class="name">Расчет размера собственных средств ООО УК "АДЕПТА" на 31.07.2022 г.</span>					
+            				<span class="pub_date small">Опубликовано: 11.08.2022 12:07:57</span>
+                        </a>
+		</div>
+				<div class="col-6 col-lg-4 document" id="bx_3966226736_3948">
+			<a href="/upload/iblock/88c/083uddpa9k7qos0jrewbhou369uxuj60.pdf" title="Расчет размера собственных средств ООО УК &quot;АДЕПТА&quot; на 30.06.2022 г.">
+				<img src="/bitrix/templates/bootstrap4/images/icons/document_icon.svg">
+				<span class="name">Расчет размера собственных средств ООО УК "АДЕПТА" на 30.06.2022 г.</span>					
+            				<span class="pub_date small">Опубликовано: 15.07.2022</span>
+                        </a>
+		</div>
+				<div class="col-6 col-lg-4 document" id="bx_3966226736_3921">
+			<a href="/upload/iblock/d5c/zx8b850m2v9o61iq3de68noknc2aendz.pdf" title="Расчет размера собственных средств ООО УК &quot;АДЕПТА&quot; на 31.05.2022 г.">
+				<img src="/bitrix/templates/bootstrap4/images/icons/document_icon.svg">
+				<span class="name">Расчет размера собственных средств ООО УК "АДЕПТА" на 31.05.2022 г.</span>					
+            				<span class="pub_date small">Опубликовано: 15.06.2022</span>
+                        </a>
+		</div>
+				<div class="col-6 col-lg-4 document" id="bx_3966226736_3900">
+			<a href="/upload/iblock/252/klf15cqnc8q8nzlf7rywhzzdpihxgvu7.pdf" title="Расчет размера собственных средств ООО УК &quot;АДЕПТА&quot; на 30.04.2022 г.">
+				<img src="/bitrix/templates/bootstrap4/images/icons/document_icon.svg">
+				<span class="name">Расчет размера собственных средств ООО УК "АДЕПТА" на 30.04.2022 г.</span>					
+            				<span class="pub_date small">Опубликовано: 20.05.2022</span>
+                        </a>
+		</div>
+				<div class="col-6 col-lg-4 document" id="bx_3966226736_3881">
+			<a href="/upload/iblock/5e7/za1oc1slmo1dxsyv3g5znr3f4uruov6g.pdf" title="Расчет размера собственных средств ООО УК &quot;АДЕПТА&quot; на 31.03.2022 г.">
+				<img src="/bitrix/templates/bootstrap4/images/icons/document_icon.svg">
+				<span class="name">Расчет размера собственных средств ООО УК "АДЕПТА" на 31.03.2022 г.</span>					
+            				<span class="pub_date small">Опубликовано: 16.03.2022</span>
+                        </a>
+		</div>
+				<div class="col-6 col-lg-4 document" id="bx_3966226736_3859">
+			<a href="/upload/iblock/3a0/28t0b4ijlymszkooevw3p9r9eiql9pyy.pdf" title="Расчет размера собственных средств ООО УК &quot;АДЕПТА&quot; на 28.02.2022 г.">
+				<img src="/bitrix/templates/bootstrap4/images/icons/document_icon.svg">
+				<span class="name">Расчет размера собственных средств ООО УК "АДЕПТА" на 28.02.2022 г.</span>					
+            				<span class="pub_date small">Опубликовано: 16.03.2022</span>
+                        </a>
+		</div>
+				<div class="col-6 col-lg-4 document" id="bx_3966226736_3737">
+			<a href="/upload/iblock/19b/stfuocln3e1m63ep45numuc0hme18m8l.pdf" title="Расчет размера собственных средств ООО УК &quot;АДЕПТА&quot; на 31.01.2022 г.">
+				<img src="/bitrix/templates/bootstrap4/images/icons/document_icon.svg">
+				<span class="name">Расчет размера собственных средств ООО УК "АДЕПТА" на 31.01.2022 г.</span>					
+            				<span class="pub_date small">Опубликовано: 15.02.2022</span>
+                        </a>
+		</div>
+				<div class="col-6 col-lg-4 document" id="bx_3966226736_3734">
+			<a href="/upload/iblock/abb/abbc4b53637dda64c3feda9cc6122841.pdf" title="Расчет размера собственных средств ООО УК &quot;АДЕПТА&quot; на 31.12.2021 г.">
+				<img src="/bitrix/templates/bootstrap4/images/icons/document_icon.svg">
+				<span class="name">Расчет размера собственных средств ООО УК "АДЕПТА" на 31.12.2021 г.</span>					
+            				<span class="pub_date small">Опубликовано: 25.01.2022</span>
+                        </a>
+		</div>
+				<div class="col-6 col-lg-4 document" id="bx_3966226736_3650">
+			<a href="/upload/iblock/cb7/cb79d64422b5d012fbf4bc58b7007e22.pdf" title="Расчет размера собственных средств ООО УК &quot;АДЕПТА&quot; на 30.11.2021 г.">
+				<img src="/bitrix/templates/bootstrap4/images/icons/document_icon.svg">
+				<span class="name">Расчет размера собственных средств ООО УК "АДЕПТА" на 30.11.2021 г.</span>					
+            				<span class="pub_date small">Опубликовано: 14.12.2021</span>
+                        </a>
+		</div>
+				<div class="col-6 col-lg-4 document" id="bx_3966226736_3648">
+			<a href="/upload/iblock/09d/09dc93e066bb59c6e00366cb341c1e35.pdf" title="Расчет размера собственных средств ООО УК &quot;АДЕПТА&quot; на 31.10.2021 г.">
+				<img src="/bitrix/templates/bootstrap4/images/icons/document_icon.svg">
+				<span class="name">Расчет размера собственных средств ООО УК "АДЕПТА" на 31.10.2021 г.</span>					
+            				<span class="pub_date small">Опубликовано: 17.11.2021</span>
+                        </a>
+		</div>
+				<div class="col-6 col-lg-4 document" id="bx_3966226736_3645">
+			<a href="/upload/iblock/b81/b8114538fb3021b727271d92db9902b1.pdf" title="Расчет размера собственных средств ООО УК &quot;АДЕПТА&quot; на 30.09.2021 г.">
+				<img src="/bitrix/templates/bootstrap4/images/icons/document_icon.svg">
+				<span class="name">Расчет размера собственных средств ООО УК "АДЕПТА" на 30.09.2021 г.</span>					
+            				<span class="pub_date small">Опубликовано: 18.10.2021</span>
+                        </a>
+		</div>
+				<div class="col-6 col-lg-4 document" id="bx_3966226736_3623">
+			<a href="/upload/iblock/cda/cda35a09c605b20e219d8c0931e7df8d.pdf" title="Расчет размера собственных средств ООО УК &quot;АДЕПТА&quot; на 31.08.2021 г.">
+				<img src="/bitrix/templates/bootstrap4/images/icons/document_icon.svg">
+				<span class="name">Расчет размера собственных средств ООО УК "АДЕПТА" на 31.08.2021 г.</span>					
+            				<span class="pub_date small">Опубликовано: 15.09.2021 10:40:00</span>
+                        </a>
+		</div>
+				<div class="col-6 col-lg-4 document" id="bx_3966226736_3597">
+			<a href="/upload/iblock/712/7122d80a52241018743157d590fda2bc.pdf" title="Расчет размера собственных средств ООО УК &quot;АДЕПТА&quot; на 30.07.2021 г.">
+				<img src="/bitrix/templates/bootstrap4/images/icons/document_icon.svg">
+				<span class="name">Расчет размера собственных средств ООО УК "АДЕПТА" на 30.07.2021 г.</span>					
+            				<span class="pub_date small">Опубликовано: 19.08.2021 10:49:00</span>
+                        </a>
+		</div>
+				<div class="col-6 col-lg-4 document" id="bx_3966226736_3543">
+			<a href="/upload/iblock/974/974d2f9fa4449b889a561bc09118f762.pdf" title="Расчет размера собственных средств ООО УК &quot;АДЕПТА&quot; на 30.06.2021 г.">
+				<img src="/bitrix/templates/bootstrap4/images/icons/document_icon.svg">
+				<span class="name">Расчет размера собственных средств ООО УК "АДЕПТА" на 30.06.2021 г.</span>					
+            				<span class="pub_date small">Опубликовано: 14.07.2021 10:49:00</span>
+                        </a>
+		</div>
+				<div class="col-6 col-lg-4 document" id="bx_3966226736_3528">
+			<a href="/upload/iblock/f0f/a7sew1xehblibtmt0fu71qxo67sp1h05.pdf" title="Расчет размера собственных средств ООО УК &quot;АДЕПТА&quot; на 31.05.2021 г.">
+				<img src="/bitrix/templates/bootstrap4/images/icons/document_icon.svg">
+				<span class="name">Расчет размера собственных средств ООО УК "АДЕПТА" на 31.05.2021 г.</span>					
+            				<span class="pub_date small">Опубликовано: 17.06.2021 10:49:08</span>
+                        </a>
+		</div>
+				<div class="col-6 col-lg-4 document" id="bx_3966226736_3504">
+			<a href="/upload/iblock/7da/7da9d46135ead448b8ff45f99570d64f.pdf" title="Расчет размера собственных средств ООО УК &quot;АДЕПТА&quot; на 30.04.2021 г.">
+				<img src="/bitrix/templates/bootstrap4/images/icons/document_icon.svg">
+				<span class="name">Расчет размера собственных средств ООО УК "АДЕПТА" на 30.04.2021 г.</span>					
+            				<span class="pub_date small">Опубликовано: 19.05.2021 11:00:00</span>
+                        </a>
+		</div>
+				<div class="col-6 col-lg-4 document" id="bx_3966226736_3441">
+			<a href="/upload/iblock/e61/e615107f816bdf92cbc7b1c2ed23fbae.pdf" title="Расчет размера собственных средств ООО УК &quot;АДЕПТА&quot; на 31.03.2021 г.">
+				<img src="/bitrix/templates/bootstrap4/images/icons/document_icon.svg">
+				<span class="name">Расчет размера собственных средств ООО УК "АДЕПТА" на 31.03.2021 г.</span>					
+            				<span class="pub_date small">Опубликовано: 15.04.2021 11:00:00</span>
+                        </a>
+		</div>
+				<div class="col-6 col-lg-4 document" id="bx_3966226736_3440">
+			<a href="/upload/iblock/751/751e5fc3351844f04a37b5c91577ed2e.pdf" title="Расчет размера собственных средств ООО УК &quot;АДЕПТА&quot; на 28.02.2021 г.">
+				<img src="/bitrix/templates/bootstrap4/images/icons/document_icon.svg">
+				<span class="name">Расчет размера собственных средств ООО УК "АДЕПТА" на 28.02.2021 г.</span>					
+            				<span class="pub_date small">Опубликовано: 15.03.2021 11:00:00</span>
+                        </a>
+		</div>
+				<div class="col-6 col-lg-4 document" id="bx_3966226736_3343">
+			<a href="/upload/iblock/64d/64d3c54cb7252fefa112ce22ec408b3d.pdf" title="Расчет размера собственных средств ООО УК &quot;АДЕПТА&quot; на 31.01.2021 г.">
+				<img src="/bitrix/templates/bootstrap4/images/icons/document_icon.svg">
+				<span class="name">Расчет размера собственных средств ООО УК "АДЕПТА" на 31.01.2021 г.</span>					
+            				<span class="pub_date small">Опубликовано: 12.02.2021 11:00:00</span>
+                        </a>
+		</div>
+				<div class="col-6 col-lg-4 document" id="bx_3966226736_3438">
+			<a href="/upload/iblock/ee6/ee6240cfea336c0fbe428136fb65cea5.pdf" title="Расчет размера собственных средств ООО УК &quot;АДЕПТА&quot; на 31.12.2020 г.">
+				<img src="/bitrix/templates/bootstrap4/images/icons/document_icon.svg">
+				<span class="name">Расчет размера собственных средств ООО УК "АДЕПТА" на 31.12.2020 г.</span>					
+            				<span class="pub_date small">Опубликовано: 22.01.2021 11:10:00</span>
+                        </a>
+		</div>
+				<div class="col-6 col-lg-4 document" id="bx_3966226736_3437">
+			<a href="/upload/iblock/1f5/1f547947b4b7fe095c94dca8dd6e877b.pdf" title="Расчет размера собственных средств ООО УК &quot;АДЕПТА&quot; на 30.11.2020 г.">
+				<img src="/bitrix/templates/bootstrap4/images/icons/document_icon.svg">
+				<span class="name">Расчет размера собственных средств ООО УК "АДЕПТА" на 30.11.2020 г.</span>					
+            				<span class="pub_date small">Опубликовано: 16.12.2020 11:10:00</span>
+                        </a>
+		</div>
+				<div class="col-6 col-lg-4 document" id="bx_3966226736_3436">
+			<a href="/upload/iblock/59a/59a6f442a61755f6388c52bd40fae546.pdf" title="Расчет размера собственных средств ООО УК &quot;АДЕПТА&quot; на 30.10.2020 г.">
+				<img src="/bitrix/templates/bootstrap4/images/icons/document_icon.svg">
+				<span class="name">Расчет размера собственных средств ООО УК "АДЕПТА" на 30.10.2020 г.</span>					
+            				<span class="pub_date small">Опубликовано: 12.11.2020 11:10:00</span>
+                        </a>
+		</div>
+				<div class="col-6 col-lg-4 document" id="bx_3966226736_3435">
+			<a href="/upload/iblock/ccf/ccf391a00153c082db6e13fb2d444f02.pdf" title="Расчет размера собственных средств ООО УК &quot;АДЕПТА&quot; на 30.09.2020 г.">
+				<img src="/bitrix/templates/bootstrap4/images/icons/document_icon.svg">
+				<span class="name">Расчет размера собственных средств ООО УК "АДЕПТА" на 30.09.2020 г.</span>					
+            				<span class="pub_date small">Опубликовано: 15.10.2020 13:10:00</span>
+                        </a>
+		</div>
+				<div class="col-6 col-lg-4 document" id="bx_3966226736_3434">
+			<a href="/upload/iblock/7f4/7f4fc89364d1132cac40e10ef1726a51.pdf" title="Расчет размера собственных средств ООО УК &quot;АДЕПТА&quot; на 31.08.2020 г.">
+				<img src="/bitrix/templates/bootstrap4/images/icons/document_icon.svg">
+				<span class="name">Расчет размера собственных средств ООО УК "АДЕПТА" на 31.08.2020 г.</span>					
+            				<span class="pub_date small">Опубликовано: 14.09.2020 13:10:00</span>
+                        </a>
+		</div>
+				<div class="col-6 col-lg-4 document" id="bx_3966226736_3042">
+			<a href="/upload/iblock/531/531f3080719578d66a338f2390e646ff.pdf" title="Расчет размера собственных средств ООО УК &quot;АДЕПТА&quot; на 31.07.2020 г.">
+				<img src="/bitrix/templates/bootstrap4/images/icons/document_icon.svg">
+				<span class="name">Расчет размера собственных средств ООО УК "АДЕПТА" на 31.07.2020 г.</span>					
+            				<span class="pub_date small">Опубликовано: 13.08.2020 14:10:00</span>
+                        </a>
+		</div>
+				<div class="col-6 col-lg-4 document" id="bx_3966226736_3033">
+			<a href="/upload/iblock/0bb/0bb10118bc544b826348013a04036953.pdf" title="Расчет размера собственных средств ООО УК &quot;АДЕПТА&quot; на 30.06.2020 г.">
+				<img src="/bitrix/templates/bootstrap4/images/icons/document_icon.svg">
+				<span class="name">Расчет размера собственных средств ООО УК "АДЕПТА" на 30.06.2020 г.</span>					
+            				<span class="pub_date small">Опубликовано: 17.07.2020 14:10:00</span>
+                        </a>
+		</div>
+				<div class="col-6 col-lg-4 document" id="bx_3966226736_3031">
+			<a href="/upload/iblock/c96/c96a86d1443fdfe97ccf836bdd7bf2b5.pdf" title="Расчет размера собственных средств ООО УК &quot;АДЕПТА&quot; на 31.05.2020 г.">
+				<img src="/bitrix/templates/bootstrap4/images/icons/document_icon.svg">
+				<span class="name">Расчет размера собственных средств ООО УК "АДЕПТА" на 31.05.2020 г.</span>					
+            				<span class="pub_date small">Опубликовано: 18.06.2020 14:10:00</span>
+                        </a>
+		</div>
+				<div class="col-6 col-lg-4 document" id="bx_3966226736_3030">
+			<a href="/upload/iblock/ed0/ed09520d609df4bdf5dd6cf2849cc122.pdf" title="Расчет размера собственных средств ООО УК &quot;АДЕПТА&quot; на 30.04.2020 г.">
+				<img src="/bitrix/templates/bootstrap4/images/icons/document_icon.svg">
+				<span class="name">Расчет размера собственных средств ООО УК "АДЕПТА" на 30.04.2020 г.</span>					
+            				<span class="pub_date small">Опубликовано: 18.05.2020 14:10:00</span>
+                        </a>
+		</div>
+				<div class="col-6 col-lg-4 document" id="bx_3966226736_3028">
+			<a href="/upload/iblock/18e/18eccffbf9ec72eb2408add1ecefc0ae.pdf" title="Расчет размера собственных средств ООО УК &quot;АДЕПТА&quot; на 31.03.2020 г.">
+				<img src="/bitrix/templates/bootstrap4/images/icons/document_icon.svg">
+				<span class="name">Расчет размера собственных средств ООО УК "АДЕПТА" на 31.03.2020 г.</span>					
+            				<span class="pub_date small">Опубликовано: 17.04.2020 20:10:00</span>
+                        </a>
+		</div>
+				<div class="col-6 col-lg-4 document" id="bx_3966226736_3023">
+			<a href="/upload/iblock/1cc/1cc8f785390b75c7c19f72f35eb7267a.pdf" title="Расчет размера собственных средств ООО УК &quot;АДЕПТА&quot; на 29.02.2020 г.">
+				<img src="/bitrix/templates/bootstrap4/images/icons/document_icon.svg">
+				<span class="name">Расчет размера собственных средств ООО УК "АДЕПТА" на 29.02.2020 г.</span>					
+            				<span class="pub_date small">Опубликовано: 16.03.2020 14:10:00</span>
+                        </a>
+		</div>
+				<div class="col-6 col-lg-4 document" id="bx_3966226736_3019">
+			<a href="/upload/iblock/47c/47c8b40a61c597132b08f0173a464341.pdf" title="Расчет размера собственных средств ООО УК &quot;АДЕПТА&quot; на 31.01.2020 г.">
+				<img src="/bitrix/templates/bootstrap4/images/icons/document_icon.svg">
+				<span class="name">Расчет размера собственных средств ООО УК "АДЕПТА" на 31.01.2020 г.</span>					
+            				<span class="pub_date small">Опубликовано: 14.02.2020 18:25:00</span>
+                        </a>
+		</div>
+				<div class="col-6 col-lg-4 document" id="bx_3966226736_2997">
+			<a href="/upload/iblock/5cd/5cdd268f88d1ff4711d4f853b903b513.pdf" title="Расчет размера собственных средств ООО УК &quot;АДЕПТА&quot; на 31.12.2019 г.">
+				<img src="/bitrix/templates/bootstrap4/images/icons/document_icon.svg">
+				<span class="name">Расчет размера собственных средств ООО УК "АДЕПТА" на 31.12.2019 г.</span>					
+            				<span class="pub_date small">Опубликовано: 27.01.2020 10:25:00</span>
+                        </a>
+		</div>
+				<div class="col-6 col-lg-4 document" id="bx_3966226736_2984">
+			<a href="/upload/iblock/d2b/d2bf855f65cd85cb1e80a7ac0e1b1c39.pdf" title="Расчет размера собственных средств ООО УК &quot;АДЕПТА&quot; на 30.11.2019 г.">
+				<img src="/bitrix/templates/bootstrap4/images/icons/document_icon.svg">
+				<span class="name">Расчет размера собственных средств ООО УК "АДЕПТА" на 30.11.2019 г.</span>					
+            				<span class="pub_date small">Опубликовано: 18.12.2019 10:25:00</span>
+                        </a>
+		</div>
+				<div class="col-6 col-lg-4 document" id="bx_3966226736_2983">
+			<a href="/upload/iblock/eeb/eebfa6502f14752020fbfa0ef551549c.pdf" title="Расчет размера собственных средств ООО УК &quot;АДЕПТА&quot; на 31.10.2019 г.">
+				<img src="/bitrix/templates/bootstrap4/images/icons/document_icon.svg">
+				<span class="name">Расчет размера собственных средств ООО УК "АДЕПТА" на 31.10.2019 г.</span>					
+            				<span class="pub_date small">Опубликовано: 11.10.2019 10:25:00</span>
+                        </a>
+		</div>
+				<div class="col-6 col-lg-4 document" id="bx_3966226736_2971">
+			<a href="/upload/iblock/0d5/0d5f951416fb8f6a3b77b507a0473b94.pdf" title="Расчет размера собственных средств ООО УК &quot;АДЕПТА&quot; на 30.09.2019 г.">
+				<img src="/bitrix/templates/bootstrap4/images/icons/document_icon.svg">
+				<span class="name">Расчет размера собственных средств ООО УК "АДЕПТА" на 30.09.2019 г.</span>					
+            				<span class="pub_date small">Опубликовано: 11.10.2019 10:25:00</span>
+                        </a>
+		</div>
+				<div class="col-6 col-lg-4 document" id="bx_3966226736_2970">
+			<a href="/upload/iblock/04c/04cbce602a34011792b5b9e319747019.pdf" title="Расчет размера собственных средств ООО УК &quot;АДЕПТА&quot; на 30.08.2019 г.">
+				<img src="/bitrix/templates/bootstrap4/images/icons/document_icon.svg">
+				<span class="name">Расчет размера собственных средств ООО УК "АДЕПТА" на 30.08.2019 г.</span>					
+            				<span class="pub_date small">Опубликовано: 13.09.2019 10:25:00</span>
+                        </a>
+		</div>
+				<div class="col-6 col-lg-4 document" id="bx_3966226736_2928">
+			<a href="/upload/iblock/e8f/e8fb8ee810256b83de468f8efaaecc4e.pdf" title="Расчет размера собственных средств ООО УК &quot;АДЕПТА&quot; на 31.07.2019 г.">
+				<img src="/bitrix/templates/bootstrap4/images/icons/document_icon.svg">
+				<span class="name">Расчет размера собственных средств ООО УК "АДЕПТА" на 31.07.2019 г.</span>					
+            				<span class="pub_date small">Опубликовано: 16.08.2019 18:00:00</span>
+                        </a>
+		</div>
+				<div class="col-6 col-lg-4 document" id="bx_3966226736_2908">
+			<a href="/upload/iblock/bd5/bd5efc49296e4a063205772f729bc388.pdf" title="Расчет размера собственных средств ООО УК &quot;АДЕПТА&quot; на 30.06.2019 г.">
+				<img src="/bitrix/templates/bootstrap4/images/icons/document_icon.svg">
+				<span class="name">Расчет размера собственных средств ООО УК "АДЕПТА" на 30.06.2019 г.</span>					
+            				<span class="pub_date small">Опубликовано: 12.07.2019 10:00:00</span>
+                        </a>
+		</div>
+				<div class="col-6 col-lg-4 document" id="bx_3966226736_2892">
+			<a href="/upload/iblock/1a6/1a62bcfd3d6a307ff5f70d328e39ab92.pdf" title="Расчет размера собственных средств ООО УК &quot;АДЕПТА&quot; на 31.05.2019 г.">
+				<img src="/bitrix/templates/bootstrap4/images/icons/document_icon.svg">
+				<span class="name">Расчет размера собственных средств ООО УК "АДЕПТА" на 31.05.2019 г.</span>					
+            				<span class="pub_date small">Опубликовано: 20.06.2019 11:02:00</span>
+                        </a>
+		</div>
+				<div class="col-6 col-lg-4 document" id="bx_3966226736_2880">
+			<a href="/upload/iblock/01d/01da4310d8b4f451dda87cf2a5f423fd.pdf" title="Расчет размера собственных средств ООО УК &quot;АДЕПТА&quot; на 30.04.2019 г.">
+				<img src="/bitrix/templates/bootstrap4/images/icons/document_icon.svg">
+				<span class="name">Расчет размера собственных средств ООО УК "АДЕПТА" на 30.04.2019 г.</span>					
+            				<span class="pub_date small">Опубликовано: 27.05.2019 11:02:00</span>
+                        </a>
+		</div>
+				<div class="col-6 col-lg-4 document" id="bx_3966226736_2847">
+			<a href="/upload/iblock/f7e/f7eface57b1848e624efe45ac8138990.pdf" title="Расчет размера собственных средств ООО УК &quot;АДЕПТА&quot; на 31.03.2019 г.">
+				<img src="/bitrix/templates/bootstrap4/images/icons/document_icon.svg">
+				<span class="name">Расчет размера собственных средств ООО УК "АДЕПТА" на 31.03.2019 г.</span>					
+            				<span class="pub_date small">Опубликовано: 17.04.2019 11:02:00</span>
+                        </a>
+		</div>
+				<div class="col-6 col-lg-4 document" id="bx_3966226736_2808">
+			<a href="/upload/iblock/749/7497de1f370955cef779144b050cb419.pdf" title="Расчет размера собственных средств ООО УК &quot;АДЕПТА&quot; на 28.02.2019 г.">
+				<img src="/bitrix/templates/bootstrap4/images/icons/document_icon.svg">
+				<span class="name">Расчет размера собственных средств ООО УК "АДЕПТА" на 28.02.2019 г.</span>					
+            				<span class="pub_date small">Опубликовано: 25.03.2019 14:05:00</span>
+                        </a>
+		</div>
+				<div class="col-6 col-lg-4 document" id="bx_3966226736_2803">
+			<a href="/upload/iblock/f1f/f1fe30d6667d63c24ffdd07928db0c70.pdf" title="Расчет размера собственных средств ООО УК &quot;АДЕПТА&quot; на 31.01.2019 г.">
+				<img src="/bitrix/templates/bootstrap4/images/icons/document_icon.svg">
+				<span class="name">Расчет размера собственных средств ООО УК "АДЕПТА" на 31.01.2019 г.</span>					
+            				<span class="pub_date small">Опубликовано: 15.02.2019 10:30:00</span>
+                        </a>
+		</div>
+				<div class="col-6 col-lg-4 document" id="bx_3966226736_2797">
+			<a href="/upload/iblock/eef/eefdb13e1246d38f6bca48143bcc32db.pdf" title="Расчет размера собственных средств ООО УК &quot;АДЕПТА&quot; на 31.12.2018">
+				<img src="/bitrix/templates/bootstrap4/images/icons/document_icon.svg">
+				<span class="name">Расчет размера собственных средств ООО УК "АДЕПТА" на 31.12.2018</span>					
+            				<span class="pub_date small">Опубликовано: 23.01.2019 10:00:00</span>
+                        </a>
+		</div>
+				<div class="col-6 col-lg-4 document" id="bx_3966226736_2791">
+			<a href="/upload/iblock/b5b/b5b5e56091279e95970d8c979eb92f38.pdf" title="Расчет размера собственных средств ООО УК &quot;АДЕПТА&quot; на 30.11.2018">
+				<img src="/bitrix/templates/bootstrap4/images/icons/document_icon.svg">
+				<span class="name">Расчет размера собственных средств ООО УК "АДЕПТА" на 30.11.2018</span>					
+            				<span class="pub_date small">Опубликовано: 20.12.2018 10:00:00</span>
+                        </a>
+		</div>
+				<div class="col-6 col-lg-4 document" id="bx_3966226736_2790">
+			<a href="/upload/iblock/51f/51fec13ce5a1aa7acaba6c5b8f4a30a1.pdf" title="Расчет размера собственных средств ООО УК &quot;АДЕПТА&quot; на 31.10.2018">
+				<img src="/bitrix/templates/bootstrap4/images/icons/document_icon.svg">
+				<span class="name">Расчет размера собственных средств ООО УК "АДЕПТА" на 31.10.2018</span>					
+            				<span class="pub_date small">Опубликовано: 20.11.2018 12:17:52</span>
+                        </a>
+		</div>
+				<div class="col-6 col-lg-4 document" id="bx_3966226736_2767">
+			<a href="/upload/iblock/08a/08a57bddb801b34a12ca2caa7e1e17ac.pdf" title="Расчет размера собственных средств ООО УК АДЕПТА на 31.08.2018">
+				<img src="/bitrix/templates/bootstrap4/images/icons/document_icon.svg">
+				<span class="name">Расчет размера собственных средств ООО УК АДЕПТА на 31.08.2018</span>					
+            				<span class="pub_date small">Опубликовано: 13.09.2018 14:04:00</span>
+                        </a>
+		</div>
+				<div class="col-6 col-lg-4 document" id="bx_3966226736_2740">
+			<a href="/upload/iblock/431/431a3d019e3b93d452833e3fbd4f58b0.pdf" title="Расчет размера собственных средств ООО УК АДЕПТА на 31.07.2018">
+				<img src="/bitrix/templates/bootstrap4/images/icons/document_icon.svg">
+				<span class="name">Расчет размера собственных средств ООО УК АДЕПТА на 31.07.2018</span>					
+            				<span class="pub_date small">Опубликовано: 13.08.2018 11:04:00</span>
+                        </a>
+		</div>
+				<div class="col-6 col-lg-4 document" id="bx_3966226736_2734">
+			<a href="/upload/iblock/75b/75bee6caf83b7151f3dc88daf0fa031e.pdf" title="Расчет размера собственных средств ООО УК АДЕПТА на 30.06.2018">
+				<img src="/bitrix/templates/bootstrap4/images/icons/document_icon.svg">
+				<span class="name">Расчет размера собственных средств ООО УК АДЕПТА на 30.06.2018</span>					
+            				<span class="pub_date small">Опубликовано: 19.07.2018 09:32:00</span>
+                        </a>
+		</div>
+				<div class="col-6 col-lg-4 document" id="bx_3966226736_2725">
+			<a href="/upload/iblock/8a0/8a0afe9eb9bb276f45efe8c1a35e646c.pdf" title="Расчет размера собственных средств ООО УК АДЕПТА на 31.05.2018">
+				<img src="/bitrix/templates/bootstrap4/images/icons/document_icon.svg">
+				<span class="name">Расчет размера собственных средств ООО УК АДЕПТА на 31.05.2018</span>					
+            				<span class="pub_date small">Опубликовано: 19.06.2018 09:32:00</span>
+                        </a>
+		</div>
+				<div class="col-6 col-lg-4 document" id="bx_3966226736_2715">
+			<a href="/upload/iblock/07f/07f52100673c50fc7635ddafc903d73d.pdf" title="Расчет размера собственных средств ООО УК АДЕПТА на 30.04.2018">
+				<img src="/bitrix/templates/bootstrap4/images/icons/document_icon.svg">
+				<span class="name">Расчет размера собственных средств ООО УК АДЕПТА на 30.04.2018</span>					
+            				<span class="pub_date small">Опубликовано: 18.05.2018 09:32:00</span>
+                        </a>
+		</div>
+				<div class="col-6 col-lg-4 document" id="bx_3966226736_2711">
+			<a href="/upload/iblock/830/83054ceaf528e00bfde4bc583da54e74.pdf" title="Расчет размера собственных средств ООО УК АДЕПТА на 31.03.2018">
+				<img src="/bitrix/templates/bootstrap4/images/icons/document_icon.svg">
+				<span class="name">Расчет размера собственных средств ООО УК АДЕПТА на 31.03.2018</span>					
+            				<span class="pub_date small">Опубликовано: 27.04.2018 09:32:00</span>
+                        </a>
+		</div>
+				<div class="col-6 col-lg-4 document" id="bx_3966226736_2662">
+			<a href="/upload/iblock/37a/37a62992525521e806d6809fdd5b82b6.pdf" title="Расчет размера собственных средств ООО УК АДЕПТА на 28.02.2018">
+				<img src="/bitrix/templates/bootstrap4/images/icons/document_icon.svg">
+				<span class="name">Расчет размера собственных средств ООО УК АДЕПТА на 28.02.2018</span>					
+            				<span class="pub_date small">Опубликовано: 22.03.2018 09:32:00</span>
+                        </a>
+		</div>
+				<div class="col-6 col-lg-4 document" id="bx_3966226736_2661">
+			<a href="/upload/iblock/e77/e77dcb26b1016901734ab5cc1f5ab063.pdf" title="Расчет размера собственных средств ООО УК АДЕПТА на 31.01.2018">
+				<img src="/bitrix/templates/bootstrap4/images/icons/document_icon.svg">
+				<span class="name">Расчет размера собственных средств ООО УК АДЕПТА на 31.01.2018</span>					
+            				<span class="pub_date small">Опубликовано: 22.02.2018 10:32:00</span>
+                        </a>
+		</div>
+				<div class="col-6 col-lg-4 document" id="bx_3966226736_2651">
+			<a href="/upload/iblock/fdc/fdc20555217c67f3a57d08c9f1e14816.pdf" title="Расчет размера собственных средств ООО УК АДЕПТА на 31.12.2017">
+				<img src="/bitrix/templates/bootstrap4/images/icons/document_icon.svg">
+				<span class="name">Расчет размера собственных средств ООО УК АДЕПТА на 31.12.2017</span>					
+            				<span class="pub_date small">Опубликовано: 19.01.2018 10:32:00</span>
+                        </a>
+		</div>
+				<div class="col-6 col-lg-4 document" id="bx_3966226736_2649">
+			<a href="/upload/iblock/b11/b1194bcb23a121d897f90487380284b6.pdf" title="Расчет размера собственных средств ООО УК АДЕПТА на 30.11.2017">
+				<img src="/bitrix/templates/bootstrap4/images/icons/document_icon.svg">
+				<span class="name">Расчет размера собственных средств ООО УК АДЕПТА на 30.11.2017</span>					
+            				<span class="pub_date small">Опубликовано: 19.12.2017 10:32:00</span>
+                        </a>
+		</div>
+				<div class="col-6 col-lg-4 document" id="bx_3966226736_2631">
+			<a href="/upload/iblock/9d2/9d2a9553db0b46ad472ca632fc4ab309.pdf" title="Расчет размера собственных средств ООО УК АДЕПТА на 31.10.2017">
+				<img src="/bitrix/templates/bootstrap4/images/icons/document_icon.svg">
+				<span class="name">Расчет размера собственных средств ООО УК АДЕПТА на 31.10.2017</span>					
+            				<span class="pub_date small">Опубликовано: 10.11.2017 15:52:19</span>
+                        </a>
+		</div>
+				<div class="col-6 col-lg-4 document" id="bx_3966226736_2630">
+			<a href="/upload/iblock/714/714b1afe384c825e351200d4b1350d0d.pdf" title="Расчет размера собственных средств ООО УК АДЕПТА на 30.09.2017">
+				<img src="/bitrix/templates/bootstrap4/images/icons/document_icon.svg">
+				<span class="name">Расчет размера собственных средств ООО УК АДЕПТА на 30.09.2017</span>					
+            				<span class="pub_date small">Опубликовано: 10.10.2017 15:50:05</span>
+                        </a>
+		</div>
+				<div class="col-6 col-lg-4 document" id="bx_3966226736_2629">
+			<a href="/upload/iblock/881/88134eb4f3c6a6a79a44f6c32b27128f.pdf" title="Расчет размера собственных средств ООО УК АДЕПТА на 31.08.2017">
+				<img src="/bitrix/templates/bootstrap4/images/icons/document_icon.svg">
+				<span class="name">Расчет размера собственных средств ООО УК АДЕПТА на 31.08.2017</span>					
+            				<span class="pub_date small">Опубликовано: 08.09.2017 15:49:10</span>
+                        </a>
+		</div>
+				<div class="col-6 col-lg-4 document" id="bx_3966226736_2622">
+			<a href="/upload/iblock/f35/f35a8c910193bb87d06c166cc22060b3.pdf" title="Расчет размера собственных средств ООО УК АДЕПТА на 14.08.2017">
+				<img src="/bitrix/templates/bootstrap4/images/icons/document_icon.svg">
+				<span class="name">Расчет размера собственных средств ООО УК АДЕПТА на 14.08.2017</span>					
+            				<span class="pub_date small">Опубликовано: 17.08.2017 10:00:00</span>
+                        </a>
+		</div>
+				<div class="col-6 col-lg-4 document" id="bx_3966226736_2621">
+			<a href="/upload/iblock/ece/ece6690cf625ca065d44d37bb795c43c.pdf" title="Расчет размера собственных средств ООО УК АДЕПТА на 30.06.2017">
+				<img src="/bitrix/templates/bootstrap4/images/icons/document_icon.svg">
+				<span class="name">Расчет размера собственных средств ООО УК АДЕПТА на 30.06.2017</span>					
+            				<span class="pub_date small">Опубликовано: 17.08.2017 10:00:00</span>
+                        </a>
+		</div>
+			</div>
+
+<div></div>
+</div>
+
+
+
+                    </div> 
+            </div>
+        </div> 
+        
+	</article>
+	<aside class="d-none d-md-block">
+                <a class="logo" href="/"><img src="/bitrix/templates/bootstrap4/images/logo.svg" alt="адепта лого"></a>
+                
+
+<nav class="left_menu">
+<a href="/about/" class=" has-children">О компании</a>
+			<div class="level2">
+					<a href="/about/litsenzii.php">Лицензии</a>			
+					<a href="/about/sro.php">СРО</a>			
+					<a href="/about/vakansii.php">Вакансии</a>			
+				</div>
+	<a href="/kval/" class="">Фонды в управлении</a>
+	<a href="/disclosure/" class="selected has-children">Раскрытие информации в соответствии с законодательством</a>
+			<div class="level2">
+					<a href="/disclosure/rekvizity.php">Реквизиты</a>			
+					<a href="/disclosure/bukhgalterskaya-i-finansovaya-otchetnost.php">Бухгалтерская и финансовая отчетность</a>			
+					<a href="/disclosure/sobstvennye_sredstva.php" class="selected">Собственные средства</a>			
+					<a href="/disclosure/dlya-kvalifitsirovannykh-investorov.php">Для квалифицированных инвесторов</a>			
+					<a href="/disclosure/edo.php">ЭДО</a>			
+					<a href="/disclosure/ogranichenie_dostupa_k_saytu.php">Сообщения о прекращении доступа к раскрываемой информации</a>			
+					<a href="/disclosure/soobshcheniya.php">Сообщения об обнаружении неточных, неполных сведений</a>			
+					<a href="/disclosure/inaya-informatsiya.php">Иная информация</a>			
+				</div>
+	<a href="/informatsiya/" class=" has-children">Полезная информация</a>
+			<div class="level2">
+					<a href="/informatsiya/">Что такое паевой инвестиционный фонд</a>			
+					<a href="/informatsiya/law.php">Федеральные законы</a>			
+					<a href="/informatsiya/postanovleniya.php">Постановления</a>			
+					<a href="/informatsiya/ukazaniya.php">Указания</a>			
+					<a href="/informatsiya/prikazy.php">Приказы</a>			
+					<a href="/informatsiya/pisma.php">Письма</a>			
+					<a href="/informatsiya/links.php">Ссылки</a>			
+				</div>
+	<a href="/partners/" class="">Партнеры</a>
+	<a href="/contact/" class="">Контакты</a>
+	</nav>
+        <div class="contacts">
+            <p class="phone">тел.: +7 (812) 207 59 27</p>
+<p class="office"><a href="/contact/">Наш офис</a></p>        </div>
+        <section>
+        
+<div class="news-sect">
+<h3 class="mb-3">Новости</h3>
+		<div class="news-sect-item" id="bx_3218110189_4206">
+		<div class="small">23.05.2023</div>
+		<a href="/news/4206/"><b>Квалифицированным инвесторам – физическим лицам.</b></a>
+		<p></p><p>
+</p>
+<p>
+	 Настоящим ООО УК «АДЕПТА» уведомляет физических лиц, признанных квалифицированными инвесторами, об их праве подать заявление об исключении из реестра лиц, признанных квалифицированными инвесторами. Подробная информация содержится в документе «Информация о последствиях признания физического лица квалифицированным инвестором», опубликованном на сайте Компании <a href="http://www.adepta-am.ru/disclosure/dlya-kvalifitsirovannykh-investorov.php">www.adepta-am.ru/disclosure/dlya-kvalifitsirovannykh-investorov.php</a>.
+</p>
+<p>
+</p>
+<p>
+</p><p></p>
+	</div>
+		<div class="news-sect-item" id="bx_3218110189_4054">
+		<div class="small">11.11.2022</div>
+		<a href="/news/4054/"><b>О смене Управляющей компании Комбинированного ЗПИФ «ТУГРА»</b></a>
+		<p></p><p>
+	 В связи с вступлением в силу 11.11.2022г.&nbsp; изменений и дополнений в&nbsp;Правила доверительного управления Комбинированным ЗПИФ «ТУГРА» (Правила доверительного управления №2870 от 30 сентября&nbsp;2014 г., далее Фонд), согласованных специализированным депозитарием АО "Специализированный депозитарий "ИНФИНИТУМ", связанных с передачей прав и обязанностей управляющей компании&nbsp; Фонда другому юридическому лицу, управляющей компаний Фонда с 11.11.2022г. является&nbsp; ООО УК «МАКСИМУМ» (ИНН 7804433159; лицензия № 21-000-1-00902 от 07.09.2012г.; адрес сайта: <a href="http://www.maximum-am.ru/"><b>http://www.maximum-am.ru</b></a>).<br>
+</p>
+<p>
+</p>
+<p>
+</p><p></p>
+	</div>
+		<div class="news-sect-item" id="bx_3218110189_4023">
+		<div class="small">07.09.2022</div>
+		<a href="/news/4023/"><b>О внесении Банком России сведений о Комбинированном ЗПИФ «АРСЕНАЛ» (для квалифицированных инвесторов) в реестр паевых инвестиционных фондов.</b></a>
+		<p>06 сентября 2022 г. Банком России внесены сведения о Комбинированном закрытом паевом инвестиционном фонде "АРСЕНАЛ" (инвестиционные паи ограничены в обороте) в реестр паевых инвестиционных фондов.</p>
+	</div>
+<a href="/news/">Все новости</a>
+</div>
+   
+        </section>     
+    </aside>
+</main> <!-- main -->
+
+
+<footer>
+<div class="container-fluid line1">
+	<div class="row">
+		<div class="col-md-4 col-lg-3">
+			<div class="row">
+				<div class="col-6 col-md-9">
+					<img src="/bitrix/templates/bootstrap4/images/logo.svg" class="img-responsive" alt="адепта лого">
+				</div>
+			</div>
+		</div>
+		<div class="col-md-4 col-lg-3">
+			<p class="mt-3 mt-md-0"><strong>Наш адрес:</strong></p>
+			<p>190000, РФ, Санкт-Петербург <br>
+			ул. Галерная, д.20-22, лит. А, пом.150Н (части 1,3-7)</p>			 
+		</div>
+		<div class="col-md-4 col-lg-6">
+			<div class="row">
+				<div class="col-md-12 col-lg-6">
+					<p><strong>Многоканальный:</strong> </p>
+					<p class="phone">тел.: +7 (812) 207 59 27</p>
+				</div>
+				<div class="col-md-12 col-lg-6">
+					<p><strong>Режим работы: </strong></p>
+					<p class="whours">09.30 до 18.00 Пн-Пт</p>
+				</div>	
+			</div>	
+		</div>	
+	</div>
+
+	<div class="row">
+		<div class="col-md-8 offset-md-4 col-lg-9 offset-lg-3">
+			 <p class="mb-0">
+			 	ООО УК «АДЕПТА», лицензия на осуществление деятельности по управлению инвестиционными фондами, паевыми инвестиционными фондами и негосударственными пенсионными фондами № 21-000-1-01012 от 09.11.2017 г.<br>Стоимость инвестиционных паев может увеличиваться и уменьшаться. Результаты инвестирования в прошлом не определяют доходы в будущем. Государство не гарантирует доходность инвестиций в паевой инвестиционный фонд. Прежде чем приобрести инвестиционный пай, следует внимательно ознакомиться с правилами доверительного управления паевым инвестиционным фондом. Получить информацию, подлежащую раскрытию и предоставлению в соответствии с законодательством, можно в офисе ООО УК «АДЕПТА» по адресу: 190000, г. Санкт-Петербург, ул. Галерная, д.20-22, лит. А,  пом. 150Н (части 1,3-7), по телефону: (812) 207-59-27 или на официальном сайте: www.adepta-am.ru.
+			 </p>
+		</div>
+	</div>
+
+</div>
+<div class="container-fluid line2">
+	<div class="row">
+	    <div class="col-md-8">
+	        <p class="mb-md-0">(с) 2017 - 2023 ООО УК "Адепта". Использование материалов запрещено без письменного одобрения администрации сайта</p>        
+	    </div>
+	    <div class="col-md-4">
+	        <p class="float-md-right mb-0">Web: <a class="terminal_link" href="http://www.terminaldesign.ru/" target="_blank">Терминал дизайн</a></p>
+	    </div>            
+	</div>
+</div></footer>
+
+<!-- Yandex.Metrika counter -->
+<script type="text/javascript">
+    (function (d, w, c) {
+        (w[c] = w[c] || []).push(function() {
+            try {
+                w.yaCounter49265233 = new Ya.Metrika2({
+                    id:49265233,
+                    clickmap:true,
+                    trackLinks:true,
+                    accurateTrackBounce:true
+                });
+            } catch(e) { }
+        });
+
+        var n = d.getElementsByTagName("script")[0],
+            s = d.createElement("script"),
+            f = function () { n.parentNode.insertBefore(s, n); };
+        s.type = "text/javascript";
+        s.async = true;
+        s.src = "https://mc.yandex.ru/metrika/tag.js";
+
+        if (w.opera == "[object Opera]") {
+            d.addEventListener("DOMContentLoaded", f, false);
+        } else { f(); }
+    })(document, window, "yandex_metrika_callbacks2");
+</script>
+<noscript><div><img src="https://mc.yandex.ru/watch/49265233" style="position:absolute; left:-9999px;" alt="" /></div></noscript>
+<!-- /Yandex.Metrika counter -->
+

@@ -1,0 +1,896 @@
+
+                    <div class="wrap">
+    <header class="header border-bottom position-relative" id="header">
+    <div class="header__top container-xl pt-3 pb-2 d-flex align-items-center">
+        <a aria-label="Главная страница" href="/" class="d-inline-block py-1">
+                        <svg id="sfn-logo" class="no-bvi-img" width="222" height="30" viewBox="0 0 222 30" fill="none" xmlns="http://www.w3.org/2000/svg">
+                <path d="M0 15.0046C0 6.72346 6.72031 0.00912765 15.0088 0.00912765L15.0058 0C20.0178 0 24.4544 2.45208 27.1797 6.22148L23.8789 7.74871C21.7748 5.18102 18.5775 3.54122 15.0058 3.54122C8.68433 3.54122 3.54133 8.67965 3.54133 14.9954C3.54133 18.7162 5.3257 22.0262 8.08447 24.1193L8.01139 18.1229L12.2257 16.1363V26.1089C12.5119 26.1819 12.8073 26.2428 13.1026 26.2915V14.2683L17.3169 12.2817L17.2225 26.2367C17.5544 26.1698 17.8772 26.0907 18.1969 25.9994V10.4107L22.4112 8.42409L22.3168 23.8211L22.3229 23.815L22.2894 28.1199C20.1335 29.3185 17.6519 30 15.0088 30C6.72031 30 0 23.2857 0 15.0046Z" fill="#333F48"></path>
+                <path fill-rule="evenodd" clip-rule="evenodd" d="M167.838 4.13077H168.228C171.431 4.13077 173.216 5.87096 173.216 8.76721C173.216 11.843 171.313 13.4341 168.094 13.4341H167.838V14.438H165.966V13.4341H165.576C162.373 13.4341 160.588 11.6939 160.588 8.79764C160.588 5.72188 162.491 4.13077 165.71 4.13077H165.966V3.33673H167.838V4.13077ZM165.652 11.7973H165.966V5.76448H165.683C163.588 5.76448 162.567 6.72584 162.567 8.73679C162.567 10.9425 163.916 11.7973 165.652 11.7973ZM167.838 5.76448V11.7973H168.122C170.217 11.7973 171.237 10.836 171.237 8.82502C171.237 6.61936 169.888 5.76448 168.152 5.76448H167.838Z" fill="#333F48"></path>
+                <path d="M41.7086 12.9839C41.1849 13.6136 39.8055 14.3042 37.9938 14.3042C34.5803 14.289 32.3027 12.2628 32.3027 8.87373C32.3027 5.70671 34.5499 3.47063 38.0212 3.47063C39.6685 3.47063 40.8804 3.98173 41.4955 4.41678V7.02706C40.8652 6.09612 39.5954 5.19561 38.0212 5.19561C35.7313 5.19561 34.3215 6.68024 34.3215 8.8859C34.3215 10.9273 35.5638 12.5336 37.9755 12.5762C39.8025 12.5762 41.0905 11.7365 41.7026 10.6717V12.9839H41.7086Z" fill="#333F48"></path>
+                <path fill-rule="evenodd" clip-rule="evenodd" d="M47.9385 3.47064C51.3063 3.48585 53.5535 5.51202 53.5535 8.90112C53.5535 12.0681 51.352 14.3042 47.9385 14.3042C44.5251 14.3042 42.3236 12.2781 42.3236 8.87374C42.3236 5.70672 44.5251 3.47064 47.9385 3.47064ZM47.9538 12.5793C50.1857 12.5793 51.5773 11.0946 51.5773 8.88896C51.5773 6.83237 50.3197 5.21387 47.9233 5.19866C45.6761 5.21387 44.2998 6.69851 44.2998 8.88896C44.2998 10.9455 45.5573 12.564 47.9538 12.5793Z" fill="#333F48"></path>
+                <path fill-rule="evenodd" clip-rule="evenodd" d="M55.5147 3.63495V14.14L55.5208 14.1369H59.8173C62.3629 14.1369 63.9189 13.2516 63.9189 11.0764C63.9189 9.7104 63.3343 8.88594 62.0463 8.66081C63.1242 8.24097 63.6023 7.44693 63.6023 6.24523C63.6023 4.50504 62.4025 3.63495 60.067 3.63495H55.5147ZM61.7265 6.64985C61.7265 7.55037 60.9775 8.07669 59.796 8.07669H57.3844V5.35993H59.8386C61.1723 5.35993 61.7265 5.81018 61.7265 6.64985ZM62.0249 10.9425C62.0249 11.9465 61.3672 12.4119 59.93 12.4119H57.3813V9.54611H59.9574C61.2759 9.54611 62.0249 9.93857 62.0249 10.9425Z" fill="#333F48"></path>
+                <path fill-rule="evenodd" clip-rule="evenodd" d="M67.9105 14.14H66.0378V3.63495H69.5273C72.8373 3.63495 74.2441 4.82144 74.2441 7.19138C74.2441 9.56132 72.5967 10.8665 69.5273 10.8665H67.9105V14.14ZM67.9105 5.36297V9.14453H69.6613C71.397 9.14453 72.2953 8.57562 72.2953 7.14879C72.2953 5.85886 71.5157 5.36297 69.6887 5.36297H67.9105Z" fill="#333F48"></path>
+                <path d="M78.1847 9.59479H83.005V7.86677H78.1847V5.35993H83.5592V3.63495H76.3121V14.14H83.7236V12.415H78.1847V9.59479Z" fill="#333F48"></path>
+                <path d="M95.5805 6.24828L92.2127 11.8309H91.2688L87.8249 6.32434V14.143H85.9522V3.638H88.3182L91.7925 9.35446L95.2364 3.638H97.4532V14.143H95.5805V6.24828Z" fill="#333F48"></path>
+                <path d="M102.051 9.59479H106.872V7.86677H102.051V5.35993H107.426V3.63495H100.179V14.14H107.59V12.415H102.051V9.59479Z" fill="#333F48"></path>
+                <path d="M117.426 9.59479H111.692V14.14H109.819V3.63495H111.692V7.86677H117.426V3.63495H119.298V14.14H117.426V9.59479Z" fill="#333F48"></path>
+                <path d="M123.896 9.59479H129.63V14.14H131.502V3.63495H129.63V7.86677H123.896V3.63495H122.023V14.14H123.896V9.59479Z" fill="#333F48"></path>
+                <path fill-rule="evenodd" clip-rule="evenodd" d="M136.097 6.90845H137.34C140.665 6.90845 142.056 8.09494 142.056 10.4649C142.056 12.8348 140.409 14.14 137.355 14.14H134.225V3.63495H136.097V6.90845ZM136.097 8.63343V12.415H137.474C139.225 12.415 140.123 11.8461 140.123 10.4192C140.123 9.12932 139.343 8.63343 137.501 8.63343H136.097Z" fill="#333F48"></path>
+                <path d="M143.241 3.63799H145.114V14.143H143.241V3.63799Z" fill="#333F48"></path>
+                <path d="M149.709 9.59479H154.529V7.86677H149.709V5.35993H155.083V3.63495H147.836V14.14H155.247V12.415H149.709V9.59479Z" fill="#333F48"></path>
+                <path fill-rule="evenodd" clip-rule="evenodd" d="M185.643 8.90112C185.643 5.51202 183.395 3.48585 180.028 3.47064C176.614 3.47064 174.413 5.70672 174.413 8.87374C174.413 12.2781 176.614 14.3042 180.028 14.3042C183.441 14.3042 185.643 12.0681 185.643 8.90112ZM183.666 8.88896C183.666 11.0946 182.275 12.5793 180.043 12.5793C177.646 12.564 176.389 10.9455 176.389 8.88896C176.389 6.69851 177.765 5.21387 180.012 5.19866C182.409 5.21387 183.666 6.83237 183.666 8.88896Z" fill="#333F48"></path>
+                <path d="M195.21 9.59479H189.476V14.14H187.603V3.63495H189.476V7.86677H195.21V3.63495H197.082V14.14H195.21V9.59479Z" fill="#333F48"></path>
+                <path fill-rule="evenodd" clip-rule="evenodd" d="M200.764 5.81324C200.718 9.00764 200.286 10.9882 199.686 12.415H198.547V16.0901H200.298V14.14H207.621V16.0901H209.372V12.415H208.16V3.638H200.794L200.764 5.81324ZM206.29 12.415H201.513C202.113 10.7661 202.442 8.60606 202.503 5.85887V5.36298H206.29V12.415Z" fill="#333F48"></path>
+                <path fill-rule="evenodd" clip-rule="evenodd" d="M212.984 6.90845H214.226C217.551 6.90845 218.943 8.09494 218.943 10.4649C218.943 12.8348 217.295 14.14 214.241 14.14H211.111V3.63495H212.984V6.90845ZM212.984 8.63343V12.415H214.36C216.111 12.415 217.009 11.8461 217.009 10.4192C217.009 9.12932 216.23 8.63343 214.387 8.63343H212.984Z" fill="#333F48"></path>
+                <path d="M220.127 3.63799H222V14.143H220.127V3.63799Z" fill="#333F48"></path>
+                <path d="M34.9272 23.425H40.661V27.9702H42.5336V17.4651H40.661V21.697H34.9272V17.4651H33.0546V27.9702H34.9272V23.425Z" fill="#333F48"></path>
+                <path d="M51.9519 23.425H47.1317V26.2452H52.6706V27.9702H45.259V17.4651H52.5061V19.1901H47.1317V21.697H51.9519V23.425Z" fill="#333F48"></path>
+                <path fill-rule="evenodd" clip-rule="evenodd" d="M55.9198 19.6465C55.8742 22.8409 55.4418 24.8214 54.8419 26.2483H53.7031V29.9233H55.4539V27.9732H62.7772V29.9233H64.528V26.2483H63.3161V17.4713H55.9503L55.9198 19.6465ZM61.4465 26.2483H56.6689C57.2688 24.5993 57.5976 22.4393 57.6585 19.6921V19.1962H61.4465V26.2483Z" fill="#333F48"></path>
+                <path fill-rule="evenodd" clip-rule="evenodd" d="M66.2633 27.9732V17.4681H70.8156C73.1511 17.4681 74.3508 18.3382 74.3508 20.0784C74.3508 21.2801 73.8728 22.0742 72.7948 22.494C74.0829 22.7191 74.6675 23.5436 74.6675 24.9096C74.6675 27.0848 73.1115 27.9701 70.5659 27.9701H66.2694L66.2633 27.9732ZM70.5446 21.9099C71.726 21.9099 72.4751 21.3836 72.4751 20.483C72.4751 19.6434 71.9209 19.1931 70.5872 19.1931H68.1329V21.9099H70.5446ZM70.6786 26.2451C72.1158 26.2451 72.7735 25.7797 72.7735 24.7757C72.7735 23.7718 72.0245 23.3793 70.706 23.3793H68.1299V26.2451H70.6786Z" fill="#333F48"></path>
+                <path d="M84.3815 17.4681L78.6629 25.3172V17.4681H76.7903V27.9732H78.7969L84.5459 20.0054V27.9732H86.4185V17.4681H84.3815Z" fill="#333F48"></path>
+                <path d="M96.2841 21.8947H97.84L100.221 17.4682H102.243L99.4722 22.4788L102.706 27.9702H100.474L97.8522 23.3946H96.281V27.9702H94.4083V23.3946H92.8676L90.2336 27.9702H88.0017L91.2202 22.6279L88.4188 17.4651H90.5442L92.8493 21.8917H94.4053V17.4651H96.278V21.8917L96.2841 21.8947Z" fill="#333F48"></path>
+                <path d="M111.886 17.4681L106.168 25.3172V17.4681H104.295V27.9732H106.302L112.051 20.0054V27.9732H113.924V17.4681H111.886Z" fill="#333F48"></path>
+                <path d="M126.274 20.0784L122.906 25.661H121.962L118.518 20.1545V27.9732H116.646V17.4681H119.012L122.486 23.1846L125.93 17.4681H128.147V27.9732H126.274V20.0784Z" fill="#333F48"></path>
+                <path fill-rule="evenodd" clip-rule="evenodd" d="M141.353 22.7375C141.353 19.3453 139.106 17.3192 135.738 17.304V17.307C132.325 17.307 130.123 19.5431 130.123 22.7101C130.123 26.1144 132.325 28.1406 135.738 28.1406C139.152 28.1406 141.353 25.9045 141.353 22.7375ZM139.377 22.7223C139.377 24.9279 137.985 26.4126 135.753 26.4126C133.357 26.3974 132.099 24.7789 132.099 22.7223C132.099 20.5318 133.476 19.0472 135.723 19.032C138.119 19.0472 139.377 20.6657 139.377 22.7223Z" fill="#333F48"></path>
+                <path d="M151.968 26.8172C151.444 27.4469 150.065 28.1375 148.253 28.1375C144.84 28.1223 142.562 26.0962 142.562 22.7071C142.562 19.54 144.809 17.304 148.281 17.304C149.928 17.304 151.14 17.8151 151.755 18.2501V20.8604C151.125 19.9294 149.852 19.0289 148.281 19.0289C145.991 19.0289 144.581 20.5136 144.581 22.7192C144.581 24.7606 145.823 26.3669 148.235 26.4095C150.062 26.4095 151.35 25.5699 151.962 24.5051V26.8172H151.968Z" fill="#333F48"></path>
+                <path d="M158.14 19.1931H161.672V17.4681H152.793V19.1931H156.268V27.9701H158.14V19.1931Z" fill="#333F48"></path>
+                <path d="M165.113 25.3172L170.832 17.4681H172.869V27.9732H170.996V20.0054L165.247 27.9732H163.241V17.4681H165.113V25.3172Z" fill="#333F48"></path>
+            </svg>
+        </a>
+                
+        <div class="ms-auto d-flex align-items-center">
+            <div class="menu d-xl-none">
+                <a class="menu__icon p-1 collapsed" role="button" href="#dropdowMenu" data-bs-toggle="collapse" aria-expanded="false" aria-controls="dropdowMenu">
+                                        <svg role="icon" width="14" height="14" viewBox="0 0 14 14" fill="none" xmlns="http://www.w3.org/2000/svg">
+                        <rect y="1" width="14" height="2" fill="#08A652"></rect>
+                        <rect y="6" width="14" height="2" fill="#08A652"></rect>
+                        <rect y="11" width="14" height="2" fill="#08A652"></rect>
+                    </svg>
+                    <svg role="icon" width="14" height="14" viewBox="0 0 14 14" fill="none" xmlns="http://www.w3.org/2000/svg">
+                        <rect x="1.41418" width="17.8333" height="2" transform="rotate(45 1.41418 0)" fill="#08A652"></rect>
+                        <rect x="-0.020874" y="12.6067" width="17.8285" height="2" transform="rotate(-45 -0.020874 12.6067)" fill="#08A652"></rect>
+                    </svg>
+                </a>
+            </div>
+            <div class="d-flex align-items-center">
+                <a class="me-2 d-none d-xl-inline-block po__get" style="color: #21a038;" href="https://my.sfn-am.ru/login" target="_blank">Личный кабинет</a>
+                <a aria-label="Поиск по сайту" href="#" class="search-panel__get d-none d-xl-block me-n1" role="button" data-bs-toggle="collapse" data-bs-target="#collapseSearch" aria-expanded="false" aria-controls="collapseSearch">
+                    <svg role="icon" xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24">
+                        <path fill="#494E53" fill-rule="evenodd" d="M10.5 16C7.468 16 5 13.533 5 10.5 5 7.468 7.468 5 10.5 5c3.033 0 5.5 2.468 5.5 5.5 0 3.033-2.467 5.5-5.5 5.5m10.207 3.293l-4.252-4.252C17.42 13.78 18 12.208 18 10.501 18 6.364 14.636 3 10.5 3 6.365 3 3 6.365 3 10.5c0 4.136 3.365 7.5 7.5 7.5 1.708 0 3.28-.58 4.541-1.545l4.252 4.252c.196.196.451.293.707.293.256 0 .512-.097.707-.293.39-.39.39-1.023 0-1.414"></path>
+                    </svg>
+                </a>
+            </div>
+        </div>
+    </div>
+    <div class="search-panel p-2 p-xl-1 d-none d-xl-block">
+        <form name="search_bar" method="post" action="/search">
+<div class="search-panel__wrap w-100 d-flex align-items-center">
+    <div class="collapse w-100 search-panel__content bvi-border" id="collapseSearch">
+        <div class="d-flex align-items-center">
+            <div class="p-2 collapsed" role="button" data-bs-toggle="collapse" data-bs-target="#collapseSearch" aria-expanded="false" aria-controls="collapseSearch">
+                <svg role="icon" xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24">
+                    <path fill="#494E53" fill-rule="evenodd" d="M10.5 16C7.468 16 5 13.533 5 10.5 5 7.468 7.468 5 10.5 5c3.033 0 5.5 2.468 5.5 5.5 0 3.033-2.467 5.5-5.5 5.5m10.207 3.293l-4.252-4.252C17.42 13.78 18 12.208 18 10.501 18 6.364 14.636 3 10.5 3 6.365 3 3 6.365 3 10.5c0 4.136 3.365 7.5 7.5 7.5 1.708 0 3.28-.58 4.541-1.545l4.252 4.252c.196.196.451.293.707.293.256 0 .512-.097.707-.293.39-.39.39-1.023 0-1.414"></path>
+                </svg>
+            </div>
+            <span style="display: none;" id="aria-placeholder-query">Поиск по сайту</span>
+            <input type="text" id="search_bar_query" name="search_bar[query]" required="required" placeholder="Что ищете?" class="border-0 search-panel__input shadow-none form-control" role="textbox" aria-labelledby="aria-placeholder-query">
+            <button type="submit" id="search_bar_submit" name="search_bar[submit]" class="border-0 text-success shadow-none fw-600 btn">Найти</button>
+            <div class="p-2 d-none d-xl-block" role="button" data-bs-toggle="collapse" data-bs-target="#collapseSearch" aria-expanded="false" aria-controls="collapseSearch">
+                <svg role="icon" xmlns="http://www.w3.org/2000/svg" width="18" height="18" viewBox="0 0 18 18">
+                    <g fill="none" stroke="#494E53" stroke-linejoin="round" stroke-width="2">
+                        <path d="M9 19.8L9-1.8M-1.8 9L19.8 9" transform="rotate(45 9 9)"></path>
+                    </g>
+                </svg>
+            </div>
+        </div>
+    </div>
+</div>
+<input type="hidden" id="search_bar__token" name="search_bar[_token]" value="l4OkuDEIBanJvu2Y_0P6zgS_9jqgolZmOFvp5EOmHRA"></form>
+
+
+    </div>
+    <div class="border-top container-xl pb-xl-1">
+        <div class="d-none d-xl-flex pt-1 flex-wrap ms-n2">
+                                                                        <div class="text-nowrap dropdown sber-menu-dd d-flex align-items-center">
+                                                            <a href="#" role="button" id="dropdownFunds" data-bs-toggle="dropdown" aria-expanded="false" class="link-menu text-nowrap py-2 px-3 d-iline-block">Фонды <i class="bi bi-chevron-down ms-2 fs-10"></i></a>
+                                                        <div class="dropdown-menu border-0 shadow mt-2 rounded-0  bvi-border" aria-labelledby="dropdownFunds">
+                                <div class="p-2">
+                                                                            <a class="link-menu dropdown-item px-3 py-1" href="/funds/fond-sovremennyi-arendnyi-biznes-3">Фонд Современный Арендный бизнес 3</a>
+                                                                            <a class="link-menu dropdown-item px-3 py-1" href="/funds/fond-kommercheskaia-nedvizhimost">Фонд Коммерческая недвижимость</a>
+                                                                            <a class="link-menu dropdown-item px-3 py-1" href="/funds/fond-sovremennyi-development">Фонд Современный Девелопмент</a>
+                                                                            <a class="link-menu dropdown-item px-3 py-1" href="/funds/zoloto">Фонд Золото в слитках</a>
+                                                                            <a class="link-menu dropdown-item px-3 py-1" href="/funds/zpifn-sber-kommercheskaya-nedvizhimost">Фонд Современная Коммерческая Недвижимость</a>
+                                                                            <a class="link-menu dropdown-item px-3 py-1" href="/funds/zpifn-sberbank-arendnyy-biznes">Фонд Современный Арендный бизнес</a>
+                                                                            <a class="link-menu dropdown-item px-3 py-1" href="/funds/zpifn-sber-arendnyy-biznes-7">Фонд Современный Арендный бизнес 7</a>
+                                                                    </div>
+                            </div>
+                        </div>
+                                                                                <a class="link-menu py-2 px-3 text-nowrap" href="/disclosure">Раскрытие информации</a>
+                                                                                <a class="link-menu py-2 px-3 text-nowrap" href="/company">О компании</a>
+                                                                                <a class="link-menu py-2 px-3 text-nowrap" href="/company/contacts">Вопрос/Обращение</a>
+                                                        </div>
+    </div>
+    <div class="collapse d-xl-none position-relative z-1" id="dropdowMenu">
+        <div class="search-panel p-2 border-bottom border-light">
+            <form name="search_bar" method="post" action="/search">
+<div class="search-panel__wrap w-100 d-flex align-items-center">
+    <div class="collapse w-100 search-panel__content bvi-border" id="collapseSearch">
+        <div class="d-flex align-items-center">
+            <div class="p-2 collapsed" role="button" data-bs-toggle="collapse" data-bs-target="#collapseSearch" aria-expanded="false" aria-controls="collapseSearch">
+                <svg role="icon" xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24">
+                    <path fill="#494E53" fill-rule="evenodd" d="M10.5 16C7.468 16 5 13.533 5 10.5 5 7.468 7.468 5 10.5 5c3.033 0 5.5 2.468 5.5 5.5 0 3.033-2.467 5.5-5.5 5.5m10.207 3.293l-4.252-4.252C17.42 13.78 18 12.208 18 10.501 18 6.364 14.636 3 10.5 3 6.365 3 3 6.365 3 10.5c0 4.136 3.365 7.5 7.5 7.5 1.708 0 3.28-.58 4.541-1.545l4.252 4.252c.196.196.451.293.707.293.256 0 .512-.097.707-.293.39-.39.39-1.023 0-1.414"></path>
+                </svg>
+            </div>
+            <span style="display: none;" id="aria-placeholder-query">Поиск по сайту</span>
+            <input type="text" id="search_bar_query" name="search_bar[query]" required="required" placeholder="Что ищете?" class="border-0 search-panel__input shadow-none form-control" role="textbox" aria-labelledby="aria-placeholder-query">
+            <button type="submit" id="search_bar_submit" name="search_bar[submit]" class="border-0 text-success shadow-none fw-600 btn">Найти</button>
+            <div class="p-2 d-none d-xl-block" role="button" data-bs-toggle="collapse" data-bs-target="#collapseSearch" aria-expanded="false" aria-controls="collapseSearch">
+                <svg role="icon" xmlns="http://www.w3.org/2000/svg" width="18" height="18" viewBox="0 0 18 18">
+                    <g fill="none" stroke="#494E53" stroke-linejoin="round" stroke-width="2">
+                        <path d="M9 19.8L9-1.8M-1.8 9L19.8 9" transform="rotate(45 9 9)"></path>
+                    </g>
+                </svg>
+            </div>
+        </div>
+    </div>
+</div>
+<input type="hidden" id="search_bar__token" name="search_bar[_token]" value="l4OkuDEIBanJvu2Y_0P6zgS_9jqgolZmOFvp5EOmHRA"></form>
+
+
+        </div>
+        <div class="d-flex flex-column shadow py-2">
+            <a class="link-menu p-3" style="color: #21a038;" href="https://my.sfn-am.ru/login" target="_blank">Личный кабинет</a>
+                                                <div class="d-flex dropdown">
+                                                                                <span class="link-menu py-3 ps-3">Фонды</span>
+                                            </div>
+                                        <div class="pb-2">
+                                                    <a href="/funds/fond-sovremennyi-arendnyi-biznes-3" class="link-menu px-3 py-2 ms-3 d-block">Фонд Современный Арендный бизнес 3</a>
+                                                    <a href="/funds/fond-kommercheskaia-nedvizhimost" class="link-menu px-3 py-2 ms-3 d-block">Фонд Коммерческая недвижимость</a>
+                                                    <a href="/funds/fond-sovremennyi-development" class="link-menu px-3 py-2 ms-3 d-block">Фонд Современный Девелопмент</a>
+                                                    <a href="/funds/zoloto" class="link-menu px-3 py-2 ms-3 d-block">Фонд Золото в слитках</a>
+                                                    <a href="/funds/zpifn-sber-kommercheskaya-nedvizhimost" class="link-menu px-3 py-2 ms-3 d-block">Фонд Современная Коммерческая Недвижимость</a>
+                                                    <a href="/funds/zpifn-sberbank-arendnyy-biznes" class="link-menu px-3 py-2 ms-3 d-block">Фонд Современный Арендный бизнес</a>
+                                                    <a href="/funds/zpifn-sber-arendnyy-biznes-7" class="link-menu px-3 py-2 ms-3 d-block">Фонд Современный Арендный бизнес 7</a>
+                                            </div>
+                                                                                    <a class="link-menu p-3" href="/disclosure">Раскрытие информации</a>
+                                                                <a class="link-menu p-3" href="/company">О компании</a>
+                                                                <a class="link-menu p-3" href="/company/contacts">Вопрос/Обращение</a>
+                                    </div>
+    </div>
+</header>
+    <div class="bg-light h-100">
+    <div class="container-xl pt-3">
+                            <nav aria-label="Хлебные крошки">
+                <ol class="breadcrumb fs-13">
+                    <li class="breadcrumb-item "><a class="link-secondary" href="/">Главная</a></li>
+                    
+                                            <li class="breadcrumb-item"><a class="link-secondary" href="/disclosure">Раскрытие информации</a></li>
+                                                            <li class="breadcrumb-item active d-none d-sm-inline" aria-current="page">Собственные средства</li>
+                                    </ol>
+            </nav>
+            
+    
+    </div>    <div class="container-xl p-3 p-md-4 h-100" style="background: #fff;color: #212529">
+        <div class="py-3 mb-2 getsubscribe">
+                       <a class="getsubscribe__btn btn btn-outline-success btn-sm d-flex align-items-center" href="/subscribe?page_24=1">
+                <span class="d-none d-xl-block">Подписаться на рассылку</span>
+                <i class="bi bi-envelope d-xl-none"></i>
+            </a>
+                       <h1 class="getsubscribe__title text-md-center fs-2 mb-0">Собственные средства</h1>
+        </div>
+        <div data-bs-toggle="modal" data-bs-target="#disclosureMenu" class="border border-2 rounded py-2 px-3 d-flex justify-content-between lh-1 align-items-center d-md-none" role="button">
+    <div class="text-truncate pe-3 py-2">
+        Собственные средства    </div>
+    <div class="d-flex flex-column fs-12">
+        <i class="bi bi-chevron-up lh-1"></i>
+        <i class="bi bi-chevron-down lh-1 mt-n1"></i>
+    </div>
+</div>
+<div class="modal fade d-md-none" id="disclosureMenu" tabindex="-1" aria-hidden="true">
+  <div class="modal-dialog modal-fullscreen">
+    <div class="modal-content">
+      <div class="modal-header">
+        <h5 class="modal-title" id="exampleModalLabel">Раскрытие информации</h5>
+        <button type="button" class="btn-close" data-bs-dismiss="modal" aria-label="Close"></button>
+      </div>
+      <div class="modal-body px-1">
+        <ul class="list-unstyled d-flex flex-column">
+                <li class="order-1">
+          <a class="dropdown-item p-3 text-truncate " href="/disclosure/disclosure_member">Раскрытие информации об управляющей компании ПИФ</a>
+        </li>
+                <li class="order-1">
+          <a class="dropdown-item p-3 text-truncate " href="/disclosure/finansovaya-otchetnost">Финансовая отчетность</a>
+        </li>
+                <li class="order-1">
+          <a class="dropdown-item p-3 text-truncate " href="/disclosure/otchetnost-msfo">Отчетность МСФО</a>
+        </li>
+                <li class="order-0">
+          <a class="dropdown-item p-3 text-truncate active" href="/disclosure/capital">Собственные средства</a>
+        </li>
+                <li class="order-1">
+          <a class="dropdown-item p-3 text-truncate " href="/disclosure/official">Официальные сообщения</a>
+        </li>
+                <li class="order-1">
+          <a class="dropdown-item p-3 text-truncate " href="/disclosure/agent">Сведения об агентах</a>
+        </li>
+                <li class="order-1">
+          <a class="dropdown-item p-3 text-truncate " href="/disclosure/fund">ПИФ</a>
+        </li>
+                <li class="order-1">
+          <a class="dropdown-item p-3 text-truncate " href="/disclosure/compliance">Комплаенс</a>
+        </li>
+                <li class="order-1">
+          <a class="dropdown-item p-3 text-truncate " href="/disclosure/inside">Перечень инсайдерской информации</a>
+        </li>
+                <li class="order-1">
+          <a class="dropdown-item p-3 text-truncate " href="/disclosure/fatca">FATCA</a>
+        </li>
+                <li class="order-1">
+          <a class="dropdown-item p-3 text-truncate " href="/disclosure/crs">CRS</a>
+        </li>
+                <li class="order-1">
+          <a class="dropdown-item p-3 text-truncate " href="/disclosure/marketing">Маркетинговые акции</a>
+        </li>
+                <li class="order-1">
+          <a class="dropdown-item p-3 text-truncate " href="/disclosure/priznanielits">Признание лиц квалифицированными инвесторами</a>
+        </li>
+                <li class="order-1">
+          <a class="dropdown-item p-3 text-truncate " href="/disclosure/client">Информация для клиентов</a>
+        </li>
+                <li class="order-1">
+          <a class="dropdown-item p-3 text-truncate " href="/disclosure/policy">Персональные данные</a>
+        </li>
+                <li class="order-1">
+          <a class="dropdown-item p-3 text-truncate " href="/disclosure/support">Сообщения о технических неполадках</a>
+        </li>
+                <li class="order-1">
+          <a class="dropdown-item p-3 text-truncate " href="/disclosure/edo">ЭДО</a>
+        </li>
+                <li class="order-1">
+          <a class="dropdown-item p-3 text-truncate " href="/disclosure/konflikt-interesov">Конфликт интересов</a>
+        </li>
+                <li class="order-1">
+          <a class="dropdown-item p-3 text-truncate " href="/disclosure/testirovanie">Тестирование</a>
+        </li>
+                <li class="order-1">
+          <a class="dropdown-item p-3 text-truncate " href="/disclosure/dokumenty-kompanii">Документы компании</a>
+        </li>
+                </ul>
+      </div>
+    </div>
+  </div>
+</div>
+
+
+<div class="d-none d-md-flex flex-wrap disclosure-list justify-content-center">
+            <a class="btn btn-light " href="/disclosure/disclosure_member">
+           Раскрытие информации об управляющей компании ПИФ           </a>
+            <a class="btn btn-light " href="/disclosure/finansovaya-otchetnost">
+           Финансовая отчетность           </a>
+            <a class="btn btn-light " href="/disclosure/otchetnost-msfo">
+           Отчетность МСФО           </a>
+            <a class="btn btn-light active" href="/disclosure/capital">
+           Собственные средства           </a>
+            <a class="btn btn-light " href="/disclosure/official">
+           Официальные сообщения           </a>
+            <a class="btn btn-light " href="/disclosure/agent">
+           Сведения об агентах           </a>
+            <a class="btn btn-light " href="/disclosure/fund">
+           ПИФ           </a>
+            <a class="btn btn-light " href="/disclosure/compliance">
+           Комплаенс           </a>
+            <a class="btn btn-light " href="/disclosure/inside">
+           Перечень инсайдерской информации           </a>
+            <a class="btn btn-light " href="/disclosure/fatca">
+           FATCA           </a>
+            <a class="btn btn-light " href="/disclosure/crs">
+           CRS           </a>
+            <a class="btn btn-light " href="/disclosure/marketing">
+           Маркетинговые акции           </a>
+            <a class="btn btn-light " href="/disclosure/priznanielits">
+           Признание лиц квалифицированными инвесторами           </a>
+            <a class="btn btn-light " href="/disclosure/client">
+           Информация для клиентов           </a>
+            <a class="btn btn-light " href="/disclosure/policy">
+           Персональные данные           </a>
+            <a class="btn btn-light " href="/disclosure/support">
+           Сообщения о технических неполадках           </a>
+            <a class="btn btn-light " href="/disclosure/edo">
+           ЭДО           </a>
+            <a class="btn btn-light " href="/disclosure/konflikt-interesov">
+           Конфликт интересов           </a>
+            <a class="btn btn-light " href="/disclosure/testirovanie">
+           Тестирование           </a>
+            <a class="btn btn-light " href="/disclosure/dokumenty-kompanii">
+           Документы компании           </a>
+        </div>
+                    <div class="p-2 p-xl-5">
+                    <div class="link-doc-wrap">
+        <a target="_blank" class="link-doc" href="/download/1338/РCC СФН май 2023.pdf">Расчет собственных средств за май 2023</a>
+
+        <div class="fs-14 text-secondary">
+                                <strong>Доступен с</strong> 16.06.2023                                 
+                <br><strong>Доступен по</strong> 16.06.2026                     </div>
+    </div>
+                <div class="link-doc-wrap">
+        <a target="_blank" class="link-doc" href="/download/1301/РCC СФН апрель.pdf">Расчет собственных средств за апрель 2023</a>
+
+        <div class="fs-14 text-secondary">
+                                <strong>Доступен с</strong> 19.05.2023                                 
+                <br><strong>Доступен по</strong> 19.05.2026                     </div>
+    </div>
+                <div class="link-doc-wrap">
+        <a target="_blank" class="link-doc" href="/download/1235/РCC СФН.pdf">Расчет собственных средств за март 2023</a>
+
+        <div class="fs-14 text-secondary">
+                                <strong>Доступен с</strong> 18.04.2023                                 
+                <br><strong>Доступен по</strong> 18.04.2026                     </div>
+    </div>
+                <div class="link-doc-wrap">
+        <a target="_blank" class="link-doc" href="/download/1143/РСС УК СФН февраль 2023.pdf">Расчет собственных средств за февраль 2023</a>
+
+        <div class="fs-14 text-secondary">
+                                <strong>Доступен с</strong> 16.03.2023                                 
+                <br><strong>Доступен по</strong> 16.03.2026                     </div>
+    </div>
+                <div class="link-doc-wrap">
+        <a target="_blank" class="link-doc" href="/download/1096/РСС СНФ январь.pdf">Расчет собственных средств за январь 2023</a>
+
+        <div class="fs-14 text-secondary">
+                                <strong>Доступен с</strong> 15.02.2023                                 
+                <br><strong>Доступен по</strong> 15.02.2026                     </div>
+    </div>
+                <div class="link-doc-wrap">
+        <a target="_blank" class="link-doc" href="/download/1046/РСС СФН.pdf">Расчет собственных средств за декабрь 2022</a>
+
+        <div class="fs-14 text-secondary">
+                                <strong>Доступен с</strong> 23.01.2023                                 
+                <br><strong>Доступен по</strong> 23.01.2026                     </div>
+    </div>
+                <div class="link-doc-wrap">
+        <a target="_blank" class="link-doc" href="/download/984/РСС СФН ноябрь 2022.pdf">Расчет собственных средств за ноябрь 2022</a>
+
+        <div class="fs-14 text-secondary">
+                                <strong>Доступен с</strong> 15.12.2022                                 
+                <br><strong>Доступен по</strong> 15.12.2025                     </div>
+    </div>
+                <div class="link-doc-wrap">
+        <a target="_blank" class="link-doc" href="/download/703/РСС 31.10.2022.pdf">Расчет собственных средств за октябрь 2022</a>
+
+        <div class="fs-14 text-secondary">
+                                <strong>Доступен с</strong> 16.11.2022                                 
+                <br><strong>Доступен по</strong> 16.11.2025                     </div>
+    </div>
+                <div class="link-doc-wrap">
+        <a target="_blank" class="link-doc" href="/download/676/РСС 30.09.22.pdf">Расчет собственных средств за сентябрь 2022</a>
+
+        <div class="fs-14 text-secondary">
+                                <strong>Доступен с</strong> 17.10.2022                                 
+                <br><strong>Доступен по</strong> 17.10.2025                     </div>
+    </div>
+                <div class="link-doc-wrap">
+        <a target="_blank" class="link-doc" href="/download/640/08 2022 РСС.pdf">Расчет собственных средств за август 2022</a>
+
+        <div class="fs-14 text-secondary">
+                                <strong>Доступен с</strong> 15.09.2022                                 
+                <br><strong>Доступен по</strong> 15.09.2025                     </div>
+    </div>
+                <div class="link-doc-wrap">
+        <a target="_blank" class="link-doc" href="/download/600/рсс июль 2022.pdf">Расчет собственных средств за июль 2022</a>
+
+        <div class="fs-14 text-secondary">
+                                <strong>Доступен с</strong> 12.08.2022                                 
+                <br><strong>Доступен по</strong> 12.08.2025                     </div>
+    </div>
+                <div class="link-doc-wrap">
+        <a target="_blank" class="link-doc" href="/download/572/РСС 30.06.2022.pdf">Расчет собственных средств за июнь 2022</a>
+
+        <div class="fs-14 text-secondary">
+                                <strong>Доступен с</strong> 15.07.2022                                 
+                <br><strong>Доступен по</strong> 15.07.2025                     </div>
+    </div>
+                <div class="link-doc-wrap">
+        <a target="_blank" class="link-doc" href="/download/531/рсс для сайта май.pdf">Расчет собственных средств за май 2022</a>
+
+        <div class="fs-14 text-secondary">
+                                <strong>Доступен с</strong> 16.06.2022                                 
+                <br><strong>Доступен по</strong> 16.06.2025                     </div>
+    </div>
+                <div class="link-doc-wrap">
+        <a target="_blank" class="link-doc" href="/download/495/рсс для сайта апрель.pdf">Расчет собственных средств за апрель 2022</a>
+
+        <div class="fs-14 text-secondary">
+                                <strong>Доступен с</strong> 20.05.2022                                 
+                <br><strong>Доступен по</strong> 20.05.2025                     </div>
+    </div>
+                <div class="link-doc-wrap">
+        <a target="_blank" class="link-doc" href="/download/457/рсс для сайта март 2022.pdf">Расчет собственных средств за март 2022</a>
+
+        <div class="fs-14 text-secondary">
+                                <strong>Доступен с</strong> 15.04.2022                                 
+                <br><strong>Доступен по</strong> 15.04.2025                     </div>
+    </div>
+                <div class="link-doc-wrap">
+        <a target="_blank" class="link-doc" href="/download/403/рсс февраль для сайта.pdf">Расчет собственных средств за февраль 2022</a>
+
+        <div class="fs-14 text-secondary">
+                                <strong>Доступен с</strong> 16.03.2022                                 
+                <br><strong>Доступен по</strong> 16.03.2025                     </div>
+    </div>
+                <div class="link-doc-wrap">
+        <a target="_blank" class="link-doc" href="/download/342/рсс январь 2022.pdf">Расчет собственных средств за январь 2022</a>
+
+        <div class="fs-14 text-secondary">
+                                <strong>Доступен с</strong> 15.02.2022                                 
+                <br><strong>Доступен по</strong> 15.02.2025                     </div>
+    </div>
+                <div class="link-doc-wrap">
+        <a target="_blank" class="link-doc" href="/download/316/рсс декабрь.pdf">Расчет собственных средств за декабрь 2021</a>
+
+        <div class="fs-14 text-secondary">
+                                <strong>Доступен с</strong> 24.01.2022                                 
+                <br><strong>Доступен по</strong> 24.01.2025                     </div>
+    </div>
+                <div class="link-doc-wrap">
+        <a target="_blank" class="link-doc" href="/download/299/рсс ноябрь_.pdf">Расчет собственных средств за ноябрь 2021</a>
+
+        <div class="fs-14 text-secondary">
+                                <strong>Доступен с</strong> 14.12.2021                                 
+                <br><strong>Доступен по</strong> 14.12.2024                     </div>
+    </div>
+                <div class="link-doc-wrap">
+        <a target="_blank" class="link-doc" href="/download/276/рсс октябрь для сайта.pdf">Расчет собственных средств за октябрь 2021</a>
+
+        <div class="fs-14 text-secondary">
+                                <strong>Доступен с</strong> 16.11.2021                                 
+                <br><strong>Доступен по</strong> 16.11.2024                     </div>
+    </div>
+                <div class="link-doc-wrap">
+        <a target="_blank" class="link-doc" href="/download/263/рсс для сайта.pdf">Расчет собственных средств за сентябрь 2021</a>
+
+        <div class="fs-14 text-secondary">
+                                <strong>Доступен с</strong> 15.10.2021                                 
+                <br><strong>Доступен по</strong> 15.10.2024                     </div>
+    </div>
+                <div class="link-doc-wrap">
+        <a target="_blank" class="link-doc" href="/download/202/7fb2add6eae303b022e45ab6335ad1f8.pdf">Расчет собственных средств за август 2021</a>
+
+        <div class="fs-14 text-secondary">
+                                <strong>Доступен с</strong> 14.09.2021 12:00                                
+                <br><strong>Доступен по</strong> 14.09.2024 12:00                    </div>
+    </div>
+                <div class="link-doc-wrap">
+        <a target="_blank" class="link-doc" href="/download/159/9fb2add6eae303b032e45ab6315ad1f8.pdf">Расчет собственных средств за июль 2021</a>
+
+        <div class="fs-14 text-secondary">
+                                <strong>Доступен с</strong> 31.08.2021 12:00                                
+                <br><strong>Доступен по</strong> 31.08.2024 12:00                    </div>
+    </div>
+                <div class="link-doc-wrap">
+        <a target="_blank" class="link-doc" href="/download/158/nd1m1e3nxckk7zlvr96z.pdf">Расчет собственных средств за июнь 2021</a>
+
+        <div class="fs-14 text-secondary">
+                                <strong>Доступен с</strong> 20.07.2021 12:00                                
+                <br><strong>Доступен по</strong> 20.07.2024 12:00                    </div>
+    </div>
+                <div class="link-doc-wrap">
+        <a target="_blank" class="link-doc" href="/download/157/6a13277430b095fd729bbc11485af39c.pdf">Расчет собственных средств за май 2021</a>
+
+        <div class="fs-14 text-secondary">
+                                <strong>Доступен с</strong> 21.06.2021 12:00                                
+                <br><strong>Доступен по</strong> 21.06.2024 12:00                    </div>
+    </div>
+                <div class="link-doc-wrap">
+        <a target="_blank" class="link-doc" href="/download/156/d3869cd2567c1cfbc9cf83abd70533bb.pdf">Расчет собственных средств за апрель 2021</a>
+
+        <div class="fs-14 text-secondary">
+                                <strong>Доступен с</strong> 25.05.2021 12:00                                
+                <br><strong>Доступен по</strong> 25.05.2024 12:00                    </div>
+    </div>
+                <div class="link-doc-wrap">
+        <a target="_blank" class="link-doc" href="/download/155/4c03ec067ed41d6c3f828f6fa001237f.pdf">Расчет собственных средств за март 2021</a>
+
+        <div class="fs-14 text-secondary">
+                                <strong>Доступен с</strong> 19.04.2021 14:05                                
+                <br><strong>Доступен по</strong> 19.04.2024 14:05                    </div>
+    </div>
+                <div class="link-doc-wrap">
+        <a target="_blank" class="link-doc" href="/download/154/45194710ab10db1aba9a118a9b1202be.pdf">Расчет собственных средств за февраль 2021</a>
+
+        <div class="fs-14 text-secondary">
+                                <strong>Доступен с</strong> 16.03.2021 12:00                                
+                <br><strong>Доступен по</strong> 16.03.2024 12:00                    </div>
+    </div>
+                <div class="link-doc-wrap">
+        <a target="_blank" class="link-doc" href="/download/153/9224aa4617cf7c0372243823465e652e.pdf">Расчет собственных средств за январь 2021</a>
+
+        <div class="fs-14 text-secondary">
+                                <strong>Доступен с</strong> 28.01.2021 14:05                                
+                <br><strong>Доступен по</strong> 28.01.2024 14:05                    </div>
+    </div>
+                <div class="link-doc-wrap">
+        <a target="_blank" class="link-doc" href="/download/152/4579d43128be7b592bed350e6ea3e1f9.pdf">Скорректированный расчет собственных средств за ноябрь 2020</a>
+
+        <div class="fs-14 text-secondary">
+                                <strong>Доступен с</strong> 28.01.2021 14:05                                
+                <br><strong>Доступен по</strong> 28.01.2024 14:05                    </div>
+    </div>
+                <div class="link-doc-wrap">
+        <a target="_blank" class="link-doc" href="/download/151/5a6e81a52e34b04ada28f29e61dae643.pdf">Расчет собственных средств за ноябрь 2020</a>
+
+        <div class="fs-14 text-secondary">
+                                <strong>Доступен с</strong> 28.01.2021 14:05                                
+                <br><strong>Доступен по</strong> 28.01.2024 14:05                    </div>
+    </div>
+                <div class="link-doc-wrap">
+        <a target="_blank" class="link-doc" href="/download/150/77a09574908209793bdeb91241f71e48.pdf">Скорректированный расчет собственных средств за октябрь 2020</a>
+
+        <div class="fs-14 text-secondary">
+                                <strong>Доступен с</strong> 28.01.2021 14:05                                
+                <br><strong>Доступен по</strong> 28.01.2024 14:05                    </div>
+    </div>
+                <div class="link-doc-wrap">
+        <a target="_blank" class="link-doc" href="/download/149/ac07c0fd2c72aa4968900e3381912c82.pdf">Расчет собственных средств за октябрь 2020</a>
+
+        <div class="fs-14 text-secondary">
+                                <strong>Доступен с</strong> 28.01.2021 14:05                                
+                <br><strong>Доступен по</strong> 28.01.2024 14:05                    </div>
+    </div>
+                <div class="link-doc-wrap">
+        <a target="_blank" class="link-doc" href="/download/148/905ca35139bbb99944744a1fe39bffe3.pdf">Расчет собственных средств за декабрь 2020</a>
+
+        <div class="fs-14 text-secondary">
+                                <strong>Доступен с</strong> 28.01.2021 14:05                                
+                <br><strong>Доступен по</strong> 28.01.2024 14:05                    </div>
+    </div>
+    </div>
+                                                    <div class="page-vote-box py-5 mt-4 mb-n3 mb-md-n4 mx-n3 mx-md-n4" style="" data-id="24" data-type="document_page">
+    <div class="vote-form text-center">
+        <div class="fs-22 px-2 px-sm-0">Страница была вам полезна?</div>
+        <div class="d-flex justify-content-center pt-3">
+            <a class="custom-vote d-flex align-items-center" href="#" data-path="/vote/positive/24/document_page">
+                <i class="like">
+                    <svg role="icon" xmlns="http://www.w3.org/2000/svg" width="30" height="28" viewBox="0 0 30 28">
+                        <g fill-rule="evenodd">
+                            <path fill-rule="nonzero" d="M27.892 14.708l.191-.87c0-1.113-.862-2.023-1.916-2.023h-9.718l1.763-6.96v-.04c.173-.668.02-1.416-.498-1.942l-7.666 8.113c-.71.728-1.131 1.74-1.131 2.852v8.093c0 2.225 1.725 4.046 3.833 4.046h7.667c1.533 0 2.875-.951 3.469-2.306h-.02l4.026-8.963zM20.417 28H12.75C9.568 28 7 25.289 7 21.93v-8.092c0-1.679.652-3.196 1.687-4.289L17.714 0l1.361 1.436c1.016 1.073 1.342 2.61.977 3.986l-1.111 4.37h7.226c2.108 0 3.833 1.82 3.833 4.046 0 .688-.153 1.335-.44 1.902l-3.853 8.558C24.844 26.462 22.793 28 20.417 28z"></path>
+                            <path d="M9 10v16c0 1.48-.667 2-2 2H3.002C1.5 28 0 26.935 0 25V13.157C0 11.58.754 10 2.995 10H9zm-2 1.895H2.995C2 11.895 2 12.534 2 13.173v11.92c0 .68.498 1.012.995 1.012H7v-14.21z"></path>
+                        </g>
+                    </svg>
+                </i>
+                <span class="lh-1 fw-400 mx-2 fs-17 mt-2 ps-1">Да</span>
+            </a>
+            <a class="custom-vote d-flex align-items-center ms-4 ps-2" href="#" data-path="/vote/negative/24/document_page">
+                <i class="dislike">
+                    <svg role="icon" xmlns="http://www.w3.org/2000/svg" width="30" height="28" viewBox="0 0 30 28">
+                        <g fill-rule="evenodd">
+                            <path fill-rule="nonzero" d="M27.892 14.708l.191-.87c0-1.113-.862-2.023-1.916-2.023h-9.718l1.763-6.96v-.04c.173-.668.02-1.416-.498-1.942l-7.666 8.113c-.71.728-1.131 1.74-1.131 2.852v8.093c0 2.225 1.725 4.046 3.833 4.046h7.667c1.533 0 2.875-.951 3.469-2.306h-.02l4.026-8.963zM20.417 28H12.75C9.568 28 7 25.289 7 21.93v-8.092c0-1.679.652-3.196 1.687-4.289L17.714 0l1.361 1.436c1.016 1.073 1.342 2.61.977 3.986l-1.111 4.37h7.226c2.108 0 3.833 1.82 3.833 4.046 0 .688-.153 1.335-.44 1.902l-3.853 8.558C24.844 26.462 22.793 28 20.417 28z"></path>
+                            <path d="M9 10v16c0 1.48-.667 2-2 2H3.002C1.5 28 0 26.935 0 25V13.157C0 11.58.754 10 2.995 10H9zm-2 1.895H2.995C2 11.895 2 12.534 2 13.173v11.92c0 .68.498 1.012.995 1.012H7v-14.21z"></path>
+                        </g>
+                    </svg>
+                </i>
+                <span class="lh-1 fw-400 ms-2 fs-17 mt-2 ps-1">Нет</span>
+            </a>
+        </div>
+    </div>
+    <div class="d-none vote-success d-flex justify-content-center align-items-center">
+        <i class="success">
+            <svg xmlns="http://www.w3.org/2000/svg" width="30" height="30" viewBox="0 0 30 30">
+                <g fill="none" fill-rule="evenodd">
+                    <path d="M-3-3h36v36H-3z"></path>
+                    <path fill="#21a038" fill-rule="nonzero" d="M15 0c8.284 0 15 6.716 15 15 0 8.284-6.716 15-15 15-8.284 0-15-6.716-15-15C0 6.716 6.716 0 15 0zm0 2.5C8.096 2.5 2.5 8.096 2.5 15S8.096 27.5 15 27.5 27.5 21.904 27.5 15 21.904 2.5 15 2.5zm7.16 8.262a1.133 1.133 0 0 1-.015 1.632l-8.04 7.692c-.46.441-1.199.44-1.66 0l-4.59-4.398a1.133 1.133 0 0 1-.015-1.632 1.206 1.206 0 0 1 1.674-.014l3.762 3.603 7.21-6.898a1.206 1.206 0 0 1 1.675.015z"></path>
+                </g>
+            </svg>
+        </i>
+        <div class="lh-1 mt-1 text-success ms-3 fs-20">Спасибо за ваш отзыв!</div>
+    </div>
+</div>            </div>
+</div>
+    </div>
+    <footer>
+        <div class="bg-light">
+        <div class="container-xl pt-1">
+                            <div class="text-disk small fs-9 ff-os py-4">
+                    <div class="collapse show" id="collapseDisclaimer">
+                        Услуга доверительного управления фондами предоставляется ООО «СФН» (далее - Компания). Лицензия Банка России на осуществление деятельности по управлению инвестиционными фондами, паевыми инвестиционными фондами и негосударственными пенсионными фондами № 21-000-1-01038 от 07.10.2020 г.<br>
+Получить подробную информацию о паевых инвестиционных фондах (далее – ПИФ) и ознакомиться с правилами доверительного управления ПИФ (далее – ПДУ ПИФ) и с иной информацией, подлежащей раскрытию, можно по адресу: 121059, г. Москва, ул. Киевская, д. 7, корп. 2, этаж 5, ком. 40,41,42, на сайте https:/www.sfn-am.ru, по телефону: (495) 252-22-24.&nbsp;
+
+Не является индивидуальной инвестиционной рекомендацией в значении статьи 6.1. и 6.2. Федерального закона «О рынке ценных бумаг».
+
+Стоимость инвестиционных паев может увеличиваться и уменьшаться, результаты инвестирования в прошлом не определяют доходы в будущем, государство не гарантирует доходность инвестиций в инвестиционные фонды. Прежде чем приобрести инвестиционный пай, следует внимательно ознакомиться с правилами доверительного управления паевым фондом. Инвестиции сопряжены с риском.
+
+Заключаемый договор доверительного управления не является договором банковского вклада или банковского счета. Передаваемые в доверительное управление денежные средства не застрахованы в государственной корпорации «Агентство по страхованию вкладов» в соответствии с федеральным законом «О страховании вкладов физических лиц в банках РФ». Государство, ПАО Сбербанк и Компания не дают никаких гарантий сохранности и возврата инвестируемых денежных средств. Услуги по доверительному управлению оказывает Компания.
+
+Денежные средства в управление получает Компания, а не ПАО Сбербанк. ПАО Сбербанк и ООО «СФН» являются разными лицами с самостоятельной ответственностью, не отвечающими по обязательствам друг друга.
+
+Для направления жалоб, а также внесудебного разрешения споров, связанных с услугами доверительного управления, клиент вправе обратиться в Компанию, в ПАО СберБанк, в НАУФОР, в Центральный банк РФ. В случае невозможности внесудебного урегулирования спора клиент вправе обратиться в суд.
+                    </div>
+                </div>
+                        <div class="d-flex fs-17 flex-column footer-menu flex-sm-row flex-sm-wrap text-center flec justify-content-center justify-content-lg-start py-1 border-top">
+                                    <a href="/offices" class="link-dark p-3">Офисы продаж</a>
+                                    <a href="/disclosure" class="link-dark p-3">Раскрытие информации</a>
+                                    <a href="/company/contacts" class="link-dark p-3">Вопрос/Обращение</a>
+                                    <a href="/company/faq" class="link-dark p-3">Вопросы и ответы</a>
+                                
+            </div>
+        </div>
+
+    </div>
+
+    <div class="footer__bg text-light py-4">
+                    <div class="collapse footer__sitemap text-white pt-2 pt-xl-5 pb-4 overflow-auto" id="siteMap">
+                <div class="container-xl">
+                    <div class="float-end me-3" data-bs-toggle="collapse" href="#siteMap" role="button" aria-expanded="true" aria-controls="siteMap">
+                        <i class="bi bi-x-lg text-white-50"></i>
+                    </div>
+                    <div class="row">
+                        <div class="col-sm-5">
+                            <div class="py-2 mb-3">
+                                                                                                    <span class="link-light text-uppercase fs-18 fw-700 lh-1 d-inline-block ff-os">Фонды</span>
+                                                                <div class="pb-2 lh-1">
+                                    <div class="px-4 border-top border-light border-4 d-inline-block"></div>
+                                </div>
+                                                                    <div class="py-1"><a class="text-white-50 fs-15 d-inline-block" href="/funds/fond-sovremennyi-arendnyi-biznes-3">Фонд Современный Арендный бизнес 3</a>
+                                    </div>
+                                                                    <div class="py-1"><a class="text-white-50 fs-15 d-inline-block" href="/funds/fond-kommercheskaia-nedvizhimost">Фонд Коммерческая недвижимость</a>
+                                    </div>
+                                                                    <div class="py-1"><a class="text-white-50 fs-15 d-inline-block" href="/funds/fond-sovremennyi-development">Фонд Современный Девелопмент</a>
+                                    </div>
+                                                                    <div class="py-1"><a class="text-white-50 fs-15 d-inline-block" href="/funds/zoloto">Фонд Золото в слитках</a>
+                                    </div>
+                                                                    <div class="py-1"><a class="text-white-50 fs-15 d-inline-block" href="/funds/zpifn-sber-kommercheskaya-nedvizhimost">Фонд Современная Коммерческая Недвижимость</a>
+                                    </div>
+                                                                    <div class="py-1"><a class="text-white-50 fs-15 d-inline-block" href="/funds/zpifn-sberbank-arendnyy-biznes">Фонд Современный Арендный бизнес</a>
+                                    </div>
+                                                                    <div class="py-1"><a class="text-white-50 fs-15 d-inline-block" href="/funds/zpifn-sber-arendnyy-biznes-7">Фонд Современный Арендный бизнес 7</a>
+                                    </div>
+                                                            </div>
+                                                            <div class="py-1 mb-3">
+                                    <a class="link-light text-uppercase fs-18 fw-700 lh-1 d-inline-block ff-os" href="/offices">Офисы продаж</a>
+                                </div>
+                                                                                                                                                                                                                                                                                                                                        <div class="py-1 mb-3">
+                                                <a class="link-light text-uppercase fs-18 fw-700 lh-1 ff-os" href="/company">О компании</a>
+                                            </div>
+                                                                                                                                                                                                                                                                                                <div class="py-1 mb-3">
+                                                <a class="link-light text-uppercase fs-18 fw-700 lh-1 ff-os" href="/company/contacts">Вопрос/Обращение</a>
+                                            </div>
+                                                                                                                                                                                                                                                                                                <div class="py-1 mb-3">
+                                                <a class="link-light text-uppercase fs-18 fw-700 lh-1 ff-os" href="/company/faq">Вопросы и ответы</a>
+                                            </div>
+                                                                                                                                                                </div>
+                        <div class="col-sm-7">
+                                                            <div class="py-2">
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                    <a class="link-light text-uppercase fs-18 fw-700 lh-1 ff-os" href="/disclosure">Раскрытие информации</a>
+                                                                                <div class="pb-2 lh-1">
+                                            <div class="px-4 border-top border-light border-4 d-inline-block"></div>
+                                        </div>
+                                        <div class="row lh-1">
+                                            <div class="col-lg-7">
+                                                <ul class="list-unstyled">
+                                                                                                                                                                        <li class="py-2">
+                                                                <a class="text-white-50 fs-15 d-inline-block" href="/disclosure/disclosure_member">
+                                                                                                                                            Раскрытие информации об управляющей компании ПИФ
+                                                                                                                                    </a>
+                                                            </li>
+                                                                                                                                                                                                                                <li class="py-2">
+                                                                <a class="text-white-50 fs-15 d-inline-block" href="/disclosure/finansovaya-otchetnost">
+                                                                                                                                            Финансовая отчетность
+                                                                                                                                    </a>
+                                                            </li>
+                                                                                                                                                                                                                                <li class="py-2">
+                                                                <a class="text-white-50 fs-15 d-inline-block" href="/disclosure/otchetnost-msfo">
+                                                                                                                                            Отчетность МСФО
+                                                                                                                                    </a>
+                                                            </li>
+                                                                                                                                                                                                                                <li class="py-2">
+                                                                <a class="text-white-50 fs-15 d-inline-block" href="/disclosure/capital">
+                                                                                                                                            Собственные средства
+                                                                                                                                    </a>
+                                                            </li>
+                                                                                                                                                                                                                                <li class="py-2">
+                                                                <a class="text-white-50 fs-15 d-inline-block" href="/disclosure/official">
+                                                                                                                                            Официальные сообщения
+                                                                                                                                    </a>
+                                                            </li>
+                                                                                                                                                                                                                                <li class="py-2">
+                                                                <a class="text-white-50 fs-15 d-inline-block" href="/disclosure/agent">
+                                                                                                                                            Сведения об агентах
+                                                                                                                                    </a>
+                                                            </li>
+                                                                                                                                                                                                                                <li class="py-2">
+                                                                <a class="text-white-50 fs-15 d-inline-block" href="/disclosure/fund">
+                                                                                                                                            ПИФ                                                                                                                                    </a>
+                                                            </li>
+                                                                                                                                                                                                                                <li class="py-2">
+                                                                <a class="text-white-50 fs-15 d-inline-block" href="/disclosure/compliance">
+                                                                                                                                            Комплаенс
+                                                                                                                                    </a>
+                                                            </li>
+                                                                                                                                                                                                                                <li class="py-2">
+                                                                <a class="text-white-50 fs-15 d-inline-block" href="/disclosure/inside">
+                                                                                                                                            Перечень инсайдерской информации
+                                                                                                                                    </a>
+                                                            </li>
+                                                                                                                                                                                                                                <li class="py-2">
+                                                                <a class="text-white-50 fs-15 d-inline-block" href="/disclosure/fatca">
+                                                                                                                                            FATCA
+                                                                                                                                    </a>
+                                                            </li>
+                                                                                                                                                            </ul>
+                                            </div>
+                                                                                            <div class="col-lg-5">
+                                                    <ul class="list-unstyled">
+                                                                                                                                                                                    <li class="py-2">
+                                                                    <a class="text-white-50 fs-15 d-inline-block" href="/disclosure/crs">
+                                                                                                                                                    CRS
+                                                                                                                                            </a>
+                                                                </li>
+                                                                                                                                                                                                                                                <li class="py-2">
+                                                                    <a class="text-white-50 fs-15 d-inline-block" href="/disclosure/marketing">
+                                                                                                                                                    Маркетинговые акции
+                                                                                                                                            </a>
+                                                                </li>
+                                                                                                                                                                                                                                                <li class="py-2">
+                                                                    <a class="text-white-50 fs-15 d-inline-block" href="/disclosure/priznanielits">
+                                                                                                                                                    Признание лиц квалифицированными инвесторами
+                                                                                                                                            </a>
+                                                                </li>
+                                                                                                                                                                                                                                                <li class="py-2">
+                                                                    <a class="text-white-50 fs-15 d-inline-block" href="/disclosure/client">
+                                                                                                                                                    Информация для клиентов
+                                                                                                                                            </a>
+                                                                </li>
+                                                                                                                                                                                                                                                <li class="py-2">
+                                                                    <a class="text-white-50 fs-15 d-inline-block" href="/disclosure/policy">
+                                                                                                                                                    Персональные данные
+                                                                                                                                            </a>
+                                                                </li>
+                                                                                                                                                                                                                                                <li class="py-2">
+                                                                    <a class="text-white-50 fs-15 d-inline-block" href="/disclosure/support">
+                                                                                                                                                    Сообщения о технических неполадках
+                                                                                                                                            </a>
+                                                                </li>
+                                                                                                                                                                                                                                                <li class="py-2">
+                                                                    <a class="text-white-50 fs-15 d-inline-block" href="/disclosure/edo">
+                                                                                                                                                    ЭДО
+                                                                                                                                            </a>
+                                                                </li>
+                                                                                                                                                                                                                                                <li class="py-2">
+                                                                    <a class="text-white-50 fs-15 d-inline-block" href="/disclosure/konflikt-interesov">
+                                                                                                                                                    Конфликт интересов
+                                                                                                                                            </a>
+                                                                </li>
+                                                                                                                                                                                                                                                <li class="py-2">
+                                                                    <a class="text-white-50 fs-15 d-inline-block" href="/disclosure/testirovanie">
+                                                                                                                                                    Тестирование
+                                                                                                                                            </a>
+                                                                </li>
+                                                                                                                                                                                                                                                <li class="py-2">
+                                                                    <a class="text-white-50 fs-15 d-inline-block" href="/disclosure/dokumenty-kompanii">
+                                                                                                                                                    Документы компании
+                                                                                                                                            </a>
+                                                                </li>
+                                                                                                                                                                        </ul>
+                                                </div>
+                                                                                    </div>
+                                                                    </div>
+                                                    </div>
+                    </div>
+                </div>
+            </div>
+        
+        <div class="container-xl">
+            <div class="row">
+                <div class="col-lg-7">
+                    <div class="d-flex fs-14 flex-column flex-md-row text-center justify-content-center justify-content-md-start pb-3 mt-lg-n1">
+                                                <div class="px-sm-3 py-2 py-xl-1 ps-md-0 ms-n1 lh-sm text-nowrap"><a data-bs-toggle="collapse" href="#siteMap" role="button" aria-expanded="false" aria-controls="siteMap" class="link-light d-inline-box p-1 d-inline-block">Карта
+                                сайта</a></div>
+                                                    <div class="text-md-end flex-md-fill d-md-flex flex-md-wrap justify-content-end">
+
+                                                            <div class="lh-sm py-2 py-xl-1 ">
+                                    <a target="_blank" href="/download/723/РЕКОМЕНДАЦИИ ПО ЗАЩИТЕ ИНФОРМАЦИИ ОТ ВОЗДЕЙСТВИЯ ВРЕДОНОСНОГО КОДА.pdf" class="link-light d-inline-box d-inline-block p-1">Памятка об информационной безопасности</a>
+                                </div>
+                                                        </div>
+                                            </div>
+                    <div class="footer__line"></div>
+                    <div class="fs-14 text-white-50 fw-light lh-base pt-4">
+                                                    <div class="text-white fw-normal">Российская Федерация, 121059, г. Москва, ул. Киевская, д. 7, корп. 2, этаж 5,   ком. 40,41,42</div>
+                            <div class="pb-2">ООО «СФН»</div>
+                            <div class="pt-2 footer__description lh-sm">
+                                <p><a href="https://www.sfn-am.ru/download/485/%D0%9F%D0%BE%D0%BB%D0%B8%D1%82%D0%B8%D0%BA%D0%B0%20%D0%B2%20%D0%BE%D1%82%D0%BD%D0%BE%D1%88%D0%B5%D0%BD%D0%B8%D0%B8%20%D0%BE%D0%B1%D1%80%D0%B0%D0%B1%D0%BE%D1%82%D0%BA%D0%B8%20%D0%9F%D0%94%D0%BD.pdf">Политика обработки персональных данных ООО «СФН»</a></p>
+
+<p>ООО «СФН» не совмещает деятельность по управлению паевыми инвестиционными фондами с деятельностью по управлению ценными бумагами.</p>
+
+<p><span style="font-size:18px">Стоимость инвестиционных паев может увеличиваться и уменьшаться, результаты инвестирования в прошлом не определяют доходы в будущем, государство не гарантирует доходность инвестиций в инвестиционные фонды. Прежде чем приобрести инвестиционный пай, следует внимательно ознакомиться с правилами доверительного управления паевым инвестиционным фондом.</span></p>
+                            </div>
+                                            </div>
+                </div>
+                <div class="col-lg-5 d-flex justify-content-lg-center">
+                    <div class="pt-4 pt-lg-1">
+                                                    <div class="link-light fs-26 lh-sm footer__phones">
+                                <p><a href="tel:900">900</a></p>
+
+<p><a href="tel:88005555550">8 (800) 555 55 50</a></p>
+
+<p><a href="tel:+74955005550">+7 495 5005-550</a></p>
+                            </div>
+                                                <div class="fs-14 ms-1 pt-lg-2"><p>Для быстрого соединения<br>
+с оператором произнесите фразу:<br>
+«Современные&nbsp;Фонды Недвижимости»</p></div>
+                        <button id="specialButton" class="bvi-special-button d-flex align-items-center bg-transparent text-uppercase lh-1 px-2 rounded-5 mt-4 mt-xl-5">
+                            <svg width="32" height="32" viewBox="0 0 32 32" fill="none" xmlns="http://www.w3.org/2000/svg">
+                                <path d="M6.55782 8.80009C5.85926 9.08809 3.98438 10.234 1.56389 11.8516L0.393654 12.6298L0.350774 12.9239C0.301814 13.2855 0.313974 15.5524 0.369014 15.7914C0.399734 15.9322 0.460854 15.9876 0.650934 16.0548C0.932854 16.1527 1.36165 16.545 1.56997 16.9002C1.80901 17.305 1.90725 17.6542 1.99909 18.4324C2.10949 19.3454 2.27493 19.946 2.58117 20.577C3.26757 21.9742 4.46213 22.8257 6.25766 23.218C7.05414 23.3956 9.05798 23.3774 9.91558 23.1937C11.2759 22.8996 12.1889 22.4522 12.9303 21.7108C13.1876 21.4596 13.4877 21.0919 13.6042 20.8958C13.7207 20.6935 14.0823 19.8602 14.4132 19.0391C15.2954 16.833 15.4362 16.6247 16.0001 16.6247C16.5639 16.6247 16.7229 16.8759 17.5626 18.9838C18.1815 20.5524 18.2794 20.7546 18.6532 21.2631C19.3639 22.225 20.5956 22.9054 22.2193 23.2238C23.0157 23.377 25.0132 23.377 25.7425 23.2177C28.2791 22.6663 29.6884 21.1223 29.9764 18.5671C30.0989 17.4641 30.338 16.8638 30.8465 16.3796C30.969 16.2631 31.1895 16.1223 31.3306 16.067C31.5329 15.9873 31.6001 15.9262 31.6308 15.7911C31.6858 15.5521 31.6983 13.2849 31.6493 12.9236L31.6065 12.6295L30.4362 11.8513C27.2257 9.70665 25.4301 8.66505 24.9338 8.65897C24.7501 8.65897 23.5735 9.22889 23.1876 9.51081C22.7956 9.79273 22.7098 9.95817 22.7956 10.2462C22.8813 10.5463 23.1386 10.8036 23.3469 10.8036C23.4327 10.8036 23.6289 10.7178 23.7818 10.6135C24.2106 10.3255 24.7437 10.0682 24.9153 10.0682C25.3076 10.0682 26.8269 11.1038 27.9482 12.1332L28.2852 12.4458H26.7533C24.5229 12.4458 21.3124 12.7092 20.2583 12.979C19.9581 13.0586 19.082 13.3406 18.322 13.61C16.6004 14.2228 16.2449 14.3207 15.8282 14.2778C15.6506 14.2593 15.0132 14.0756 14.4189 13.8673C11.6065 12.8868 11.4042 12.8378 9.62726 12.6785C7.67878 12.5009 6.58181 12.4455 5.15429 12.4455H3.71429L4.05125 12.1329C5.16645 11.1095 6.69222 10.0679 7.08422 10.0679C7.25574 10.0679 7.78886 10.3252 8.21766 10.6132C8.37094 10.7175 8.56677 10.8033 8.65253 10.8033C8.86086 10.8033 9.11814 10.546 9.2039 10.2458C9.28966 9.95785 9.2039 9.79241 8.8119 9.51049C8.42598 9.22857 7.24934 8.65865 7.06566 8.65865C6.97446 8.65929 6.7479 8.72649 6.55782 8.80009ZM8.80038 14.1799C11.0122 14.37 12.2746 14.707 12.7463 15.2462C13.1383 15.6935 13.2058 16.098 13.1261 17.5562C13.0404 19.2228 12.7953 19.8846 11.9559 20.7364C11.1898 21.5146 10.1482 21.9434 8.70213 22.0782C7.53189 22.1886 6.39814 22.0231 5.54662 21.6126C4.40677 21.0734 3.73894 20.1297 3.46342 18.6714C3.38374 18.2487 3.37157 17.9178 3.39589 17.1764C3.43877 15.9018 3.59205 15.3873 4.05765 14.8788C4.37637 14.5294 4.79301 14.315 5.33222 14.2049C5.82854 14.1063 7.7831 14.0881 8.80038 14.1799ZM26.6433 14.2106C27.25 14.3332 27.6113 14.5233 27.9361 14.8724C28.457 15.4423 28.5917 15.9815 28.5857 17.4826C28.5857 18.4385 28.561 18.6897 28.4509 19.0881C28.0097 20.6935 26.9927 21.6372 25.3444 21.9863C24.6765 22.1271 23.3162 22.1335 22.5994 21.9924C20.7549 21.6369 19.5725 20.6871 19.0884 19.1678C18.825 18.3345 18.7514 16.202 18.9719 15.6689C19.0945 15.3748 19.4193 15.0378 19.7501 14.8724C20.3322 14.5783 21.6375 14.3086 23.1079 14.1799C24.1802 14.0881 26.1287 14.1002 26.6433 14.2106Z" fill="white"></path>
+                                </svg>
+                            <span class="pt-1 ms-2 d-inline-block">Версия для слабовидящих</span>
+                        </button>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+</footer>
+
+<div id="backTop" style="display:none" class="goUp d-lg-none text-center text-white p-3" role="button">
+    <i class="bi bi-chevron-up fs-20 lh-1"></i>
+</div>
+
+    <div class="fixed-bottom cookies p-4" id="cookies">
+        <div class="p-4 d-sm-flex bg-white shadow rounded-10 lh-sm align-items-center d-print-none bvi-border">
+            <div>Современные Фонды Недвижимости защищает персональные данные пользователей и обрабатывает Cookies только
+                для
+                персонализации сервисов. Запретить обработку Cookies можно в настройках Вашего браузера. Пожалуйста,
+                ознакомьтесь с <a href="https://www.sfn-am.ru/personaldata">Политикой в отношении обработки персональных
+                    данных</a>.
+            </div>
+            <div class="ps-sm-4 pt-3 pt-sm-0">
+                <a href="#" id="closeCookies" role="button" class="btn btn-dark fs-15 fw-300 d-block d-sm-inline-block">
+                    <div class="px-3 py-1">Закрыть</div>
+                </a>
+            </div>
+        </div>
+    </div>
+                        <script src="/build/runtime.188fa053.js" integrity="sha384-li/5ELH0e8PSJ+REj/H81hw1vUmIRZOmOxQg+e1+GxQshEnO82Nb8QlI9Gk29I6j"></script><script src="/build/js.1456805d.js" integrity="sha384-NV22DF1gOwQcBCE5/u7XxkQmJebOzaqsAZS/rpMpiP32cYjmhDIk5XpiTHTNiJM3"></script>
+        
+
+    <script src="/bundles/bazingajstranslation/js/translator.min.js"></script>
+    <script src="/translations"></script>
+
+    <script src="/bundles/fosjsrouting/js/router.min.js"></script>
+    <script src="/js/routing?callback=fos.Router.setData"></script>
+                            <script type="text/javascript">
+                $(document).ready(() => {
+window.retailChat.init({
+        mainBundlePath: "/build/chat/2.1.9/",
+        mountContainerId: 'chat_div',
+        bottom: 60,
+        zIndex: 100000,
+        theme: {
+            name: 'default', // "default" | "light" | "dark"
+            primaryColor: '#1fb852', // цвет смайликов
+            secondaryColor: '#ccc' // цвет графических кнопок
+        },
+        size: {
+            width: '330px', // string
+            height: '500px' // string
+        },
+        headerIsEnabled: true,
+        domain: 'sberfn.ru', // по умолчанию location.host
+
+        firstMessage: {
+            enable: true,
+            format: 'PLAIN', // plain | markdown
+            text: 'Здравствуйте!\n Я виртуальный помощник. В этом чате я отвечаю на общие вопросы о продуктах и услугах Современные Фонды Недвижимости. Чтобы узнать детальную финансовую информацию о ваших активах, свяжитесь с нами по номеру 900.',
+            suggestions: []
+        },
+        apiRestUrl: 'https://messenger.online.sberbank.ru:7766/api/device',
+        apiWSUrl: 'wss://messenger.online.sberbank.ru:7766/api/',
+        dictionary: {
+            headerTitle: "Чат",
+            connectionError: "Пожалуйста, обратитесь в контактный центр, позвоните на номер 900 или +7 495 500-55-50 - для звонков из любой точки мира",
+            botName: "Виртуальный помощник"
+        }
+    });
+    });
+            </script>
+            
+
+<script src="/build/chat/2.1.9/main_bundle_chat.min.js?v=2.1.6"></script>

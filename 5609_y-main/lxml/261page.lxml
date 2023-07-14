@@ -1,0 +1,84 @@
+
+    <header class="header container-header full-width">
+
+        
+        
+        
+            </header>
+
+    <div class="site-grid">
+        
+        
+        
+        
+        <div class="grid-child container-component">
+            <nav class="mod-breadcrumbs__wrapper" aria-label="Breadcrumbs">
+    <ol class="mod-breadcrumbs breadcrumb px-3 py-2">
+                    <li class="mod-breadcrumbs__here float-start">
+                Вы здесь: &nbsp;
+            </li>
+        
+        <li class="mod-breadcrumbs__item breadcrumb-item"><a href="/index.php" class="pathway"><span>Главная</span></a></li><li class="mod-breadcrumbs__item breadcrumb-item active"><span>2023</span></li>    </ol>
+    </nav>
+
+            
+            <div id="system-message-container" aria-live="polite"></div>
+
+            <main>
+            <div class="com-content-article item-page" itemscope="" itemtype="https://schema.org/Article">
+    <meta itemprop="inLanguage" content="ru-RU">
+        <div class="page-header">
+        <h1> 2023 </h1>
+    </div>
+    
+    
+        <div class="page-header">
+        <h2 itemprop="headline">
+            2023        </h2>
+                            </div>
+        
+        
+    
+    
+        
+                                                <div itemprop="articleBody" class="com-content-article__body">
+        <p><span style="font-size: 24px;"><strong>Раскрытие информации за 2023 год.</strong></span></p>
+<p><a href="/images/information/reestr.php"><span style="font-size: 10px;"><strong>РЕЕСТР РАСКРЫВАЕМЫХ ДОКУМЕНТОВ</strong></span></a></p>
+<p><span style="font-size: 18px;"><strong>Расчет собственных средств</strong></span></p>
+<p><span style="font-size: 18px;">на <a href="/images/information/2023/rss-31-05-2023.pdf">31.05.2023</a> Дата раскрытия 15.06.2023</span></p>
+<p><span style="font-size: 18px;">на <a href="/images/information/2023/rss-30-04-2023.pdf">30.04.2023</a> Дата раскрытия 18.05.2023</span></p>
+<p><span style="font-size: 18px;">на <a href="/images/information/2023/rss-31-03-2023.pdf">31.03.2023</a> Дата раскрытия 18.04.2023</span></p>
+<p><span style="font-size: 18px;">на <a href="/images/information/2023/rss-28-02-2023.pdf">28.02.2023</a> Дата раскрытия 15.03.2023</span></p>
+<p><span style="font-size: 18px;">на <a href="/images/information/2023/rss-31-01-2023.pdf">31.01.2023</a> Дата раскрытия 15.02.2023</span></p>
+<p><span style="font-size: 18px;"><a href="/images/information/2023/reglament_ati.doc">РЕГЛАМЕНТ признания лиц квалифицированными инвесторами</a> ООО УК «АТ-Инвест» Дата раскрытия 27.02.2023</span></p>
+<p>&nbsp;</p>
+<p><span style="font-size: 18px;"><strong>Бухгалтерская (финансовая) отчетность</strong></span></p>
+<p><strong><span style="font-size: 18px;"><a href="/images/information/2023/BFO_1_2023.pdf">БФО 1 Квартал 2023 года</a> Дата раскрытия 20.06.2023</span></strong></p>
+<p>&nbsp;</p>
+<p><span style="color: #000000; font-family: calibri; font-size: 14.6667px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-align: start; text-indent: 0px; text-transform: none; white-space: normal; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; background-color: #ffffff; text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial; display: inline !important; float: none;">Стоимость акций акционерного инвестиционного фонда и инвестиционных паев паевых инвестиционных фондов может увеличиваться или уменьшаться. Результаты инвестирования в прошлом не определяют доходов в будущем, государство не гарантирует доходности инвестиций в инвестиционные фонды.</span><br style="color: #000000; font-family: calibri; font-size: 14.6667px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-align: start; text-indent: 0px; text-transform: none; white-space: normal; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; background-color: #ffffff; text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial;"><span style="color: #000000; font-family: calibri; font-size: 14.6667px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-align: start; text-indent: 0px; text-transform: none; white-space: normal; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; background-color: #ffffff; text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial; display: inline !important; float: none;">Необходимо внимательно ознакомиться с уставом акционерного инвестиционного фонда, его инвестиционной декларацией, проспектом эмиссии акций и правилами доверительного управления паевым инвестиционным фондом перед приобретением акций или инвестиционных паев.</span></p>     </div>
+
+        
+                                        </div>
+
+            </main>
+            
+        </div>
+
+                <div class="grid-child container-sidebar-right">
+            <div class="sidebar-right card ">
+            <h3 class="card-header ">Раскрытие информации</h3>        <div class="card-body">
+                <ul class="mod-menu mod-list nav ">
+<li class="nav-item item-101 default"><a href="/index.php">О компании</a></li><li class="nav-item item-102"><a href="/index.php/2022">2022</a></li><li class="nav-item item-103 current active"><a href="/index.php/2023" aria-current="page">2023</a></li></ul>
+    </div>
+</div>
+
+        </div>
+        
+        
+            </div>
+
+    
+    
+    
+
+

@@ -1,0 +1,756 @@
+
+
+<!-- Верхнее меню -->          
+    <header class="bg-dark ">
+      <div class="container">
+        <div class="row">
+          <nav class="col">
+          <ul class="list-unstyled list-inline text-uppercase small my-3"><li class="list-inline-item me-5 p-2 p-lg-0"><a class="link-light text-decoration-none" href="/">Главная</a></li><li class="list-inline-item me-5 p-2 p-lg-0"><a class="link-light text-decoration-none" href="/about/">О компании</a></li><li class="list-inline-item me-5 p-2 p-lg-0"><a class="link-success text-decoration-none" href="/documentation/">Раскрытие информации</a></li><li class="list-inline-item me-5 p-2 p-lg-0"><a class="link-light text-decoration-none" href="/elektronnyy-zhurnal-po-uchetu-operatsiy/">Электронный журнал по учёту операций</a></li><li class="list-inline-item me-5 p-2 p-lg-0"><a class="link-light text-decoration-none" href="/news/">Новости</a></li><li class="list-inline-item me-5 p-2 p-lg-0"><a class="link-light text-decoration-none" href="/contacts/">Контакты</a></li></ul>  
+           
+          </nav>
+        </div>
+      </div>
+    </header>  
+
+
+
+
+
+
+
+ <div class="ph-slider-wrapper mb-3">
+      <div class="container mb-3">
+        <div class="row">
+            <div class="col">
+               <div class="ph-slider-label text-success fw-bold my-4">ООО «УК «Лерта Капитал»</div>
+            </div>
+        </div>
+      </div>
+    </div>
+    <div class="container"><div class="tpl-block-list tpl-component-7" id="nc-block-0c4f6705ab7606ea5b1655fc509fa965"><div id="info"></div>
+<div class="row">
+  <div class="col-12">
+      <h1 class="text-uppercase display-6 fs-3 my-3">Раскрытие информации</h1>
+  </div>
+
+    <div class="col-12 col-md-4 mb-3">
+    <div class="card rounded-0 bg-secondary" style="--bs-bg-opacity: .2;">
+      <div class="card-body">
+        <a class="card-link link-success" href="/documentation/raskrytie-informatsii/">Раскрытие информации</a><br><a class="card-link link-success" href="/documentation/godovaya-buhgalterskaya-otchetnost-uk/">Годовая бухгалтерская отчетность УК</a><br><a class="card-link link-success" href="/documentation/auditorskoe-zaklyuchenie-uk/">Аудиторское заключение УК</a><br><a class="card-link link-success" href="/documentation/godovaya-konsolidirovannaya-finansovaya-otchetnost/">Годовая консолидированная финансовая отчетность</a><br><a class="card-link link-success" href="/documentation/raschet-sobstvennyh-sredstv/">Расчет собственных средств</a><br><a class="card-link link-success" href="/documentation/soobscheniya-uk/">Сообщения УК</a><br>      </div>
+    </div>
+    </div>
+  
+    <div class="col-12 col-md-8">
+
+
+
+
+
+
+<div class="card rounded-0 mb-3">
+        <div class="card-body">
+          <p class="m-0"><span class="text-success">Дата и время размещения /</span>  16.06.2023 / 13:51</p>
+     <a href="?nc_ctpl=2032&amp;id=235" class="link-dark">Расчет размера собственных средств на 30.04.2023 (корректировка №1)</a>
+          
+          <p class="card-text"><span class="text-success">Действителен до /</span> 16.06.2026</p>
+        </div>
+      </div>
+
+
+
+
+<div class="card rounded-0 mb-3">
+        <div class="card-body">
+          <p class="m-0"><span class="text-success">Дата и время размещения /</span>  16.06.2023 / 13:41</p>
+     <a href="?nc_ctpl=2032&amp;id=234" class="link-dark">Расчет размера собственных средств на 30.05.2023</a>
+          
+          <p class="card-text"><span class="text-success">Действителен до /</span> 16.06.2026</p>
+        </div>
+      </div>
+
+
+
+
+<div class="card rounded-0 mb-3">
+        <div class="card-body">
+          <p class="m-0"><span class="text-success">Дата и время размещения /</span>  18.05.2023 / 11:39</p>
+     <a href="?nc_ctpl=2032&amp;id=233" class="link-dark">Расчет размера собственных средств на 30.04.2023</a>
+          
+          <p class="card-text"><span class="text-success">Действителен до /</span> 18.05.2026</p>
+        </div>
+      </div>
+
+
+
+
+<div class="card rounded-0 mb-3">
+        <div class="card-body">
+          <p class="m-0"><span class="text-success">Дата и время размещения /</span>  11.05.2023 / 14:26</p>
+     <a href="?nc_ctpl=2032&amp;id=231" class="link-dark">Аудиторское заключение ООО «УК «Лерта Капитал» в соответствии со стандартами МСФО за 2022 год</a>
+          
+          <p class="card-text"><span class="text-success">Действителен до /</span> период не ограничен</p>
+        </div>
+      </div>
+
+
+
+
+<div class="card rounded-0 mb-3">
+        <div class="card-body">
+          <p class="m-0"><span class="text-success">Дата и время размещения /</span>  05.05.2023 / 15:59</p>
+     <a href="?nc_ctpl=2032&amp;id=230" class="link-dark">Бухгалтерский баланс некредитной финансовой организации на 31.03.2023</a>
+          
+          <p class="card-text"><span class="text-success">Действителен до /</span> 05.05.2026</p>
+        </div>
+      </div>
+
+
+
+
+<div class="card rounded-0 mb-3">
+        <div class="card-body">
+          <p class="m-0"><span class="text-success">Дата и время размещения /</span>  27.04.2023 / 16:18</p>
+     <a href="?nc_ctpl=2032&amp;id=229" class="link-dark">Бухгалтерский баланс некредитной финансовой организации за 9 месяцев 2022 года</a>
+          
+          <p class="card-text"><span class="text-success">Действителен до /</span> 27.04.2026</p>
+        </div>
+      </div>
+
+
+
+
+<div class="card rounded-0 mb-3">
+        <div class="card-body">
+          <p class="m-0"><span class="text-success">Дата и время размещения /</span>  17.04.2023 / 17:40</p>
+     <a href="?nc_ctpl=2032&amp;id=228" class="link-dark">Расчет размера собственных средств на 31.03.2023</a>
+          
+          <p class="card-text"><span class="text-success">Действителен до /</span> 17.04.2026</p>
+        </div>
+      </div>
+
+
+
+
+<div class="card rounded-0 mb-3">
+        <div class="card-body">
+          <p class="m-0"><span class="text-success">Дата и время размещения /</span>  07.04.2023 / 15:31</p>
+     <a href="?nc_ctpl=2032&amp;id=227" class="link-dark">Сообщение Управляющей компании о прекращении ЗПИФ комбинированный «Инвест-Капитал»</a>
+          
+          <p class="card-text"><span class="text-success">Действителен до /</span> бессрочно</p>
+        </div>
+      </div>
+
+
+
+
+<div class="card rounded-0 mb-3">
+        <div class="card-body">
+          <p class="m-0"><span class="text-success">Дата и время размещения /</span>  31.03.2023 / 14:10</p>
+     <a href="?nc_ctpl=2032&amp;id=226" class="link-dark">Годовая бухгалтерская (финансовая) отчетность за 2022 год, а также аудиторское заключение об указанной отчетности.</a>
+          
+          <p class="card-text"><span class="text-success">Действителен до /</span> 31.03.2026</p>
+        </div>
+      </div>
+
+
+
+
+<div class="card rounded-0 mb-3">
+        <div class="card-body">
+          <p class="m-0"><span class="text-success">Дата и время размещения /</span>  15.03.2023 / 13:04</p>
+     <a href="?nc_ctpl=2032&amp;id=225" class="link-dark">Расчет размера собственных средств на 28.02.2023</a>
+          
+          <p class="card-text"><span class="text-success">Действителен до /</span> 15.03.2026</p>
+        </div>
+      </div>
+
+
+
+
+<div class="card rounded-0 mb-3">
+        <div class="card-body">
+          <p class="m-0"><span class="text-success">Дата и время размещения /</span>  13.02.2023 / 17:04</p>
+     <a href="?nc_ctpl=2032&amp;id=224" class="link-dark">Расчет размера собственных средств на 31.01.2023</a>
+          
+          <p class="card-text"><span class="text-success">Действителен до /</span> 13.02.2026</p>
+        </div>
+      </div>
+
+
+
+
+<div class="card rounded-0 mb-3">
+        <div class="card-body">
+          <p class="m-0"><span class="text-success">Дата и время размещения /</span>  02.02.2023 / 21:31</p>
+     <a href="?nc_ctpl=2032&amp;id=223" class="link-dark">Годовая бухгалтерская (финансовая) отчетность за 2022 год</a>
+          
+          <p class="card-text"><span class="text-success">Действителен до /</span> 02.02.2026</p>
+        </div>
+      </div>
+
+
+
+
+<div class="card rounded-0 mb-3">
+        <div class="card-body">
+          <p class="m-0"><span class="text-success">Дата и время размещения /</span>  21.01.2023 / 12:36</p>
+     <a href="?nc_ctpl=2032&amp;id=222" class="link-dark">Расчет размера собственных средств на 31.12.2022</a>
+          
+          <p class="card-text"><span class="text-success">Действителен до /</span> 21.01.2026</p>
+        </div>
+      </div>
+
+
+
+
+<div class="card rounded-0 mb-3">
+        <div class="card-body">
+          <p class="m-0"><span class="text-success">Дата и время размещения /</span>  14.12.2022 / 17:57</p>
+     <a href="?nc_ctpl=2032&amp;id=221" class="link-dark">Расчет размера собственных средств на 30.11.2022</a>
+          
+          <p class="card-text"><span class="text-success">Действителен до /</span> 14.12.2025</p>
+        </div>
+      </div>
+
+
+
+
+<div class="card rounded-0 mb-3">
+        <div class="card-body">
+          <p class="m-0"><span class="text-success">Дата и время размещения /</span>  17.11.2022 / 15:33</p>
+     <a href="?nc_ctpl=2032&amp;id=220" class="link-dark">Расчет размера собственных средств на 31.10.2022</a>
+          
+          <p class="card-text"><span class="text-success">Действителен до /</span> 17.11.2025</p>
+        </div>
+      </div>
+
+
+
+
+<div class="card rounded-0 mb-3">
+        <div class="card-body">
+          <p class="m-0"><span class="text-success">Дата и время размещения /</span>  19.10.2022 / 16:55</p>
+     <a href="?nc_ctpl=2032&amp;id=219" class="link-dark">Расчет размера собственных средств на 30.09.2022</a>
+          
+          <p class="card-text"><span class="text-success">Действителен до /</span> 19.10.2025</p>
+        </div>
+      </div>
+
+
+
+
+<div class="card rounded-0 mb-3">
+        <div class="card-body">
+          <p class="m-0"><span class="text-success">Дата и время размещения /</span>  16.09.2022 / 12:56</p>
+     <a href="?nc_ctpl=2032&amp;id=218" class="link-dark">Расчет размера собственных средств на 31.08.2022</a>
+          
+          <p class="card-text"><span class="text-success">Действителен до /</span> 16.09.2025</p>
+        </div>
+      </div>
+
+
+
+
+<div class="card rounded-0 mb-3">
+        <div class="card-body">
+          <p class="m-0"><span class="text-success">Дата и время размещения /</span>  15.08.2022 / 14:42</p>
+     <a href="?nc_ctpl=2032&amp;id=217" class="link-dark">Расчет размера собственных средств на 31.07.2022</a>
+          
+          <p class="card-text"><span class="text-success">Действителен до /</span> 15.08.2025</p>
+        </div>
+      </div>
+
+
+
+
+<div class="card rounded-0 mb-3">
+        <div class="card-body">
+          <p class="m-0"><span class="text-success">Дата и время размещения /</span>  15.03.2022 / 16:49</p>
+     <a href="?nc_ctpl=2032&amp;id=216" class="link-dark">Расчет размера собственных средств на 28.02.2022</a>
+          
+          <p class="card-text"><span class="text-success">Действителен до /</span> 15.03.2025</p>
+        </div>
+      </div>
+
+
+
+
+<div class="card rounded-0 mb-3">
+        <div class="card-body">
+          <p class="m-0"><span class="text-success">Дата и время размещения /</span>  02.03.2022 / 14:51</p>
+     <a href="?nc_ctpl=2032&amp;id=215" class="link-dark">СООБЩЕНИЕ об обнаружении (выявлении) неточных, неполных и (или) недостоверных сведений в раскрываемой информации</a>
+          
+          <p class="card-text"><span class="text-success">Действителен до /</span> 02.03.2025</p>
+        </div>
+      </div>
+
+
+
+
+<div class="card rounded-0 mb-3">
+        <div class="card-body">
+          <p class="m-0"><span class="text-success">Дата и время размещения /</span>  02.03.2022 / 14:07</p>
+     <a href="?nc_ctpl=2032&amp;id=214" class="link-dark">Расчет размера собственных средств на 31.12.2021 (замена)</a>
+          
+          <p class="card-text"><span class="text-success">Действителен до /</span> 02.03.2025</p>
+        </div>
+      </div>
+
+
+
+
+<div class="card rounded-0 mb-3">
+        <div class="card-body">
+          <p class="m-0"><span class="text-success">Дата и время размещения /</span>  16.02.2022 / 17:01</p>
+     <a href="?nc_ctpl=2032&amp;id=213" class="link-dark">Расчет размера собственных средств на 31.01.2022</a>
+          
+          <p class="card-text"><span class="text-success">Действителен до /</span> 16.02.2025</p>
+        </div>
+      </div>
+
+
+
+
+<div class="card rounded-0 mb-3">
+        <div class="card-body">
+          <p class="m-0"><span class="text-success">Дата и время размещения /</span>  02.02.2022 / 16:04</p>
+     <a href="?nc_ctpl=2032&amp;id=212" class="link-dark">Годовая бухгалтерская (финансовая) отчетность за 2021 год</a>
+          
+          <p class="card-text"><span class="text-success">Действителен до /</span> 02.02.2025</p>
+        </div>
+      </div>
+
+
+
+
+<div class="card rounded-0 mb-3">
+        <div class="card-body">
+          <p class="m-0"><span class="text-success">Дата и время размещения /</span>  25.01.2022 / 10:55</p>
+     <a href="?nc_ctpl=2032&amp;id=211" class="link-dark">Расчет размера собственных средств на 31.12.2021</a>
+          
+          <p class="card-text"><span class="text-success">Действителен до /</span> 25.01.2025</p>
+        </div>
+      </div>
+
+
+
+
+<div class="card rounded-0 mb-3">
+        <div class="card-body">
+          <p class="m-0"><span class="text-success">Дата и время размещения /</span>  16.12.2021 / 14:16</p>
+     <a href="?nc_ctpl=2032&amp;id=210" class="link-dark">Расчет размера собственных средств на 30.11.2021</a>
+          
+          <p class="card-text"><span class="text-success">Действителен до /</span> 16.12.2024</p>
+        </div>
+      </div>
+
+
+
+
+<div class="card rounded-0 mb-3">
+        <div class="card-body">
+          <p class="m-0"><span class="text-success">Дата и время размещения /</span>  17.11.2021 / 15:26</p>
+     <a href="?nc_ctpl=2032&amp;id=209" class="link-dark">Расчет размера собственных средств на 31.10.2021</a>
+          
+          <p class="card-text"><span class="text-success">Действителен до /</span> 17.11.2024</p>
+        </div>
+      </div>
+
+
+
+
+<div class="card rounded-0 mb-3">
+        <div class="card-body">
+          <p class="m-0"><span class="text-success">Дата и время размещения /</span>  08.11.2021 / 17:50</p>
+     <a href="?nc_ctpl=2032&amp;id=208" class="link-dark">Регламент признания лиц квалифицированными инвесторами ООО «УК «ДжиЭс Капитал»</a>
+          
+          <p class="card-text"><span class="text-success">Действителен до /</span> до даты опубликования новой редакции</p>
+        </div>
+      </div>
+
+
+
+
+<div class="card rounded-0 mb-3">
+        <div class="card-body">
+          <p class="m-0"><span class="text-success">Дата и время размещения /</span>  29.10.2021 / 11:56</p>
+     <a href="?nc_ctpl=2032&amp;id=206" class="link-dark">Промежуточная бухгалтерская (финансовая) отчетность ООО "УК "ДжиЭс Капитал" на 30.09.2021 года</a>
+          
+          <p class="card-text"><span class="text-success">Действителен до /</span> 29.10.2024</p>
+        </div>
+      </div>
+
+
+
+
+<div class="card rounded-0 mb-3">
+        <div class="card-body">
+          <p class="m-0"><span class="text-success">Дата и время размещения /</span>  14.10.2021 / 16:34</p>
+     <a href="?nc_ctpl=2032&amp;id=205" class="link-dark">Расчет размера собственных средств на 30.09.2021</a>
+          
+          <p class="card-text"><span class="text-success">Действителен до /</span> 14.10.2024</p>
+        </div>
+      </div>
+
+
+
+
+<div class="card rounded-0 mb-3">
+        <div class="card-body">
+          <p class="m-0"><span class="text-success">Дата и время размещения /</span>  01.10.2021 / 16:21</p>
+     <a href="?nc_ctpl=2032&amp;id=203" class="link-dark">Реквизиты ООО «УК «ДжиЭс Капитал»</a>
+          
+          <p class="card-text"><span class="text-success">Действителен до /</span> до даты опубликования новой редакции</p>
+        </div>
+      </div>
+
+
+
+
+<div class="card rounded-0 mb-3">
+        <div class="card-body">
+          <p class="m-0"><span class="text-success">Дата и время размещения /</span>  01.04.2021 / 10:15</p>
+     <a href="?nc_ctpl=2032&amp;id=192" class="link-dark">Перечень информации, относящейся к инсайдерской информации ООО «УК «ДжиЭс Капитал»</a>
+          
+          <p class="card-text"><span class="text-success">Действителен до /</span> до даты опубликования новой редакции</p>
+        </div>
+      </div>
+
+
+
+
+<div class="card rounded-0 mb-3">
+        <div class="card-body">
+          <p class="m-0"><span class="text-success">Дата и время размещения /</span>  30.03.2021 / 17:57</p>
+     <a href="?nc_ctpl=2032&amp;id=190" class="link-dark">Годовая бухгалтерская (финансовая) отчетность ООО "УК "ДжиЭс Капитал" на 31.12.2020 года</a>
+          
+          <p class="card-text"><span class="text-success">Действителен до /</span> до даты опубликования новой редакции</p>
+        </div>
+      </div>
+
+
+
+
+<div class="card rounded-0 mb-3">
+        <div class="card-body">
+          <p class="m-0"><span class="text-success">Дата и время размещения /</span>  30.10.2020 / 16:39</p>
+     <a href="?nc_ctpl=2032&amp;id=182" class="link-dark">Промежуточная бухгалтерская (финансовая) отчетность ООО "УК "ДжиЭс Капитал" на 30.09.2020 года</a>
+          
+          <p class="card-text"><span class="text-success">Действителен до /</span> до даты опубликования новой редакции</p>
+        </div>
+      </div>
+
+
+
+
+<div class="card rounded-0 mb-3">
+        <div class="card-body">
+          <p class="m-0"><span class="text-success">Дата и время размещения /</span>  31.07.2020 / 18:16</p>
+     <a href="?nc_ctpl=2032&amp;id=178" class="link-dark">Промежуточная бухгалтерская (финансовая) отчетность ООО "УК "ДжиЭс Капитал" на 30.06.2020 года</a>
+          
+          <p class="card-text"><span class="text-success">Действителен до /</span> до даты опубликования новой редакции</p>
+        </div>
+      </div>
+
+
+
+
+<div class="card rounded-0 mb-3">
+        <div class="card-body">
+          <p class="m-0"><span class="text-success">Дата и время размещения /</span>  30.04.2020 / 15:57</p>
+     <a href="?nc_ctpl=2032&amp;id=174" class="link-dark">Промежуточная бухгалтерская (финансовая) отчетность ООО "УК "ДжиЭс Капитал" на 31.03.2020 года</a>
+          
+          <p class="card-text"><span class="text-success">Действителен до /</span> до даты опубликования новой редакции</p>
+        </div>
+      </div>
+
+
+
+
+<div class="card rounded-0 mb-3">
+        <div class="card-body">
+          <p class="m-0"><span class="text-success">Дата и время размещения /</span>  09.01.2020 / 10:12</p>
+     <a href="?nc_ctpl=2032&amp;id=199" class="link-dark">Об отсутствии совмещения деятельности по доверительному управлению паевыми инвестиционными фондами и деятельности по управлению ценными бумагами</a>
+          
+          <p class="card-text"><span class="text-success">Действителен до /</span> до даты опубликования новой редакции</p>
+        </div>
+      </div>
+
+
+
+
+<div class="card rounded-0 mb-3">
+        <div class="card-body">
+          <p class="m-0"><span class="text-success">Дата и время размещения /</span>  29.10.2019 / 17:32</p>
+     <a href="?nc_ctpl=2032&amp;id=161" class="link-dark">Промежуточная бухгалтерская (финансовая) отчетность ООО "УК "ДжиЭс Капитал" на 30.09.2019 года</a>
+          
+          <p class="card-text"><span class="text-success">Действителен до /</span> до даты опубликования новой редакции</p>
+        </div>
+      </div>
+
+
+
+
+<div class="card rounded-0 mb-3">
+        <div class="card-body">
+          <p class="m-0"><span class="text-success">Дата и время размещения /</span>  30.07.2019 / 19:58</p>
+     <a href="?nc_ctpl=2032&amp;id=157" class="link-dark">Промежуточная бухгалтерская (финансовая) отчетность ООО "УК "ДжиЭс Капитал" на 30.06.2019 года</a>
+          
+          <p class="card-text"><span class="text-success">Действителен до /</span> до даты опубликования новой редакции</p>
+        </div>
+      </div>
+
+
+
+
+<div class="card rounded-0 mb-3">
+        <div class="card-body">
+          <p class="m-0"><span class="text-success">Дата и время размещения /</span>  30.04.2019 / 21:31</p>
+     <a href="?nc_ctpl=2032&amp;id=146" class="link-dark">Промежуточная бухгалтерская (финансовая) отчетность ООО "УК "ДжиЭс Капитал" на 31.03.2019 года</a>
+          
+          <p class="card-text"><span class="text-success">Действителен до /</span> до даты опубликования новой редакции</p>
+        </div>
+      </div>
+
+
+
+
+<div class="card rounded-0 mb-3">
+        <div class="card-body">
+          <p class="m-0"><span class="text-success">Дата и время размещения /</span>  30.10.2018 / 22:18</p>
+     <a href="?nc_ctpl=2032&amp;id=131" class="link-dark">Промежуточная бухгалтерская (финансовая) отчетность ООО "УК "ДжиЭс Капитал" на 30.09.2018 года</a>
+          
+          <p class="card-text"><span class="text-success">Действителен до /</span> до даты опубликования новой редакции</p>
+        </div>
+      </div>
+
+
+
+
+<div class="card rounded-0 mb-3">
+        <div class="card-body">
+          <p class="m-0"><span class="text-success">Дата и время размещения /</span>  30.07.2018 / 20:47</p>
+     <a href="?nc_ctpl=2032&amp;id=128" class="link-dark">Промежуточная бухгалтерская (финансовая) отчетность ООО "УК "ДжиЭс Капитал" на 30.06.2018 года</a>
+          
+          <p class="card-text"><span class="text-success">Действителен до /</span> до даты опубликования новой редакции</p>
+        </div>
+      </div>
+
+
+
+
+<div class="card rounded-0 mb-3">
+        <div class="card-body">
+          <p class="m-0"><span class="text-success">Дата и время размещения /</span>  17.05.2018 / 00:00</p>
+     <a href="?nc_ctpl=2032&amp;id=121" class="link-dark">Промежуточная бухгалтерская (финансовая) отчетность ООО "УК "ДжиЭс Капитал" на 31.03.2018 года</a>
+          
+          <p class="card-text"><span class="text-success">Действителен до /</span> до даты опубликования новой редакции</p>
+        </div>
+      </div>
+
+
+
+
+<div class="card rounded-0 mb-3">
+        <div class="card-body">
+          <p class="m-0"><span class="text-success">Дата и время размещения /</span>  28.04.2018 / 12:48</p>
+     <a href="?nc_ctpl=2032&amp;id=120" class="link-dark">Финансовая отчетность по международным стандартам финансовой отчетности за год, закончившийся 31 декабря 2017 года, и заключение независимого аудитора</a>
+          
+          <p class="card-text"><span class="text-success">Действителен до /</span> период не ограничен</p>
+        </div>
+      </div>
+
+
+
+
+<div class="card rounded-0 mb-3">
+        <div class="card-body">
+          <p class="m-0"><span class="text-success">Дата и время размещения /</span>  30.03.2018 / 16:58</p>
+     <a href="?nc_ctpl=2032&amp;id=118" class="link-dark">Аудиторское заключение о бухгалтерской (финансовой) отчетности общества с ограниченной ответственностью "Управляющая компания "ДжиЭс Капитал" за 2017 год</a>
+          
+          <p class="card-text"><span class="text-success">Действителен до /</span> период не ограничен</p>
+        </div>
+      </div>
+
+
+
+
+<div class="card rounded-0 mb-3">
+        <div class="card-body">
+          <p class="m-0"><span class="text-success">Дата и время размещения /</span>  16.02.2018 / 00:00</p>
+     <a href="?nc_ctpl=2032&amp;id=114" class="link-dark">Перечень инсайдерской информации</a>
+          
+          <p class="card-text"><span class="text-success">Действителен до /</span> до даты опубликования новой редакции</p>
+        </div>
+      </div>
+
+
+
+
+<div class="card rounded-0 mb-3">
+        <div class="card-body">
+          <p class="m-0"><span class="text-success">Дата и время размещения /</span>  28.04.2017 / 16:26</p>
+     <a href="?nc_ctpl=2032&amp;id=100" class="link-dark">Финансовая отчетность по международным стандартам финансовой отчетности за год, закончившийся 31 декабря 2016 года, и заключение независимого аудитора</a>
+          
+          <p class="card-text"><span class="text-success">Действителен до /</span> период не ограничен</p>
+        </div>
+      </div>
+
+
+
+
+<div class="card rounded-0 mb-3">
+        <div class="card-body">
+          <p class="m-0"><span class="text-success">Дата и время размещения /</span>  30.03.2017 / 16:39</p>
+     <a href="?nc_ctpl=2032&amp;id=96" class="link-dark">Аудиторское заключение о бухгалтерской (финансовой) отчетности общества с ограниченной ответственностью "Управляющая компания "ДжиЭс Капитал" за 2016 год</a>
+          
+          <p class="card-text"><span class="text-success">Действителен до /</span> период не ограничен</p>
+        </div>
+      </div>
+
+
+
+
+<div class="card rounded-0 mb-3">
+        <div class="card-body">
+          <p class="m-0"><span class="text-success">Дата и время размещения /</span>  24.05.2016 / 00:00</p>
+     <a href="?nc_ctpl=2032&amp;id=77" class="link-dark">Финансовая отчетность по международным стандартам финансовой отчетности за год, закончившийся 31 декабря 2015 года, и заключение независимого аудитора</a>
+          
+          <p class="card-text"><span class="text-success">Действителен до /</span> период не ограничен</p>
+        </div>
+      </div>
+
+
+
+
+<div class="card rounded-0 mb-3">
+        <div class="card-body">
+          <p class="m-0"><span class="text-success">Дата и время размещения /</span>  31.03.2016 / 00:00</p>
+     <a href="?nc_ctpl=2032&amp;id=79" class="link-dark">Аудиторское заключение о бухгалтерской (финансовой) отчетности общества с ограниченной ответственностью "Управляющая компания "ДжиЭс Капитал" за 2015 год</a>
+          
+          <p class="card-text"><span class="text-success">Действителен до /</span> период не ограничен</p>
+        </div>
+      </div>
+
+
+
+
+<div class="card rounded-0 mb-3">
+        <div class="card-body">
+          <p class="m-0"><span class="text-success">Дата и время размещения /</span>  19.02.2016 / 16:48</p>
+     <a href="?nc_ctpl=2032&amp;id=72" class="link-dark">Сообщение о порядке и условиях обмена электронными документами</a>
+          
+          <p class="card-text"><span class="text-success">Действителен до /</span> до даты опубликования новой редакции</p>
+        </div>
+      </div>
+
+
+
+
+<div class="card rounded-0 mb-3">
+        <div class="card-body">
+          <p class="m-0"><span class="text-success">Дата и время размещения /</span>  20.08.2015 / 00:00</p>
+     <a href="?nc_ctpl=2032&amp;id=66" class="link-dark">Регламент признания лиц квалифицированными инвесторами</a>
+          
+          <p class="card-text"><span class="text-success">Действителен до /</span> до даты опубликования новой редакции</p>
+        </div>
+      </div>
+
+
+
+
+<div class="card rounded-0 mb-3">
+        <div class="card-body">
+          <p class="m-0"><span class="text-success">Дата и время размещения /</span>  19.06.2015 / 00:00</p>
+     <a href="?nc_ctpl=2032&amp;id=62" class="link-dark">Критерии отнесения клиентов к категории клиент – иностранный налогоплательщик и способы получения от них необходимой информации</a>
+          
+          <p class="card-text"><span class="text-success">Действителен до /</span> до даты опубликования новой редакции</p>
+        </div>
+      </div>
+
+
+
+
+<div class="card rounded-0 mb-3">
+        <div class="card-body">
+          <p class="m-0"><span class="text-success">Дата и время размещения /</span>  27.05.2015 / 00:00</p>
+     <a href="?nc_ctpl=2032&amp;id=60" class="link-dark">Сообщение о порядке и условиях обмена электронными документами</a>
+          
+          <p class="card-text"><span class="text-success">Действителен до /</span> до даты опубликования новой редакции</p>
+        </div>
+      </div>
+
+
+
+
+<div class="card rounded-0 mb-3">
+        <div class="card-body">
+          <p class="m-0"><span class="text-success">Дата и время размещения /</span>  12.05.2015 / 00:00</p>
+     <a href="?nc_ctpl=2032&amp;id=58" class="link-dark">Сообщение об изменении места нахождения в результате приведения Устава в соотвествии с ГК РФ</a>
+          
+          <p class="card-text"><span class="text-success">Действителен до /</span> до даты опубликования новой редакции</p>
+        </div>
+      </div>
+
+
+
+
+<div class="card rounded-0 mb-3">
+        <div class="card-body">
+          <p class="m-0"><span class="text-success">Дата и время размещения /</span>  28.01.2015 / 00:00</p>
+     <a href="?nc_ctpl=2032&amp;id=51" class="link-dark">Критерии отнесения клиентов к иностранным налогоплательщикам</a>
+          
+          <p class="card-text"><span class="text-success">Действителен до /</span> до даты опубликования новой редакции</p>
+        </div>
+      </div>
+
+
+
+
+<div class="card rounded-0 mb-3">
+        <div class="card-body">
+          <p class="m-0"><span class="text-success">Дата и время размещения /</span>  25.09.2014 / 00:00</p>
+     <a href="?nc_ctpl=2032&amp;id=49" class="link-dark">Политика компании в области персональных данных</a>
+          
+          <p class="card-text"><span class="text-success">Действителен до /</span> до даты опубликования новой редакции</p>
+        </div>
+      </div>
+
+  </div>
+</div></div></div>
+  <footer class="bg-dark mt-5">    
+    <div class="container">
+      <div class="row text-white mt-5 py-5">
+        <div class="col mt-5 pt-5">
+          Общество с ограниченной ответственностью «Управляющая Компания «Лерта капитал»          <br>© 2014–2023 
+          <br><br><small>Powered by <a class="link-success" href="https://www.ph-ph.ru/" target="_blank">Ph&amp;Ph</a></small><br>
+        </div>
+        
+        <div class="col">
+          <ul class="list-unstyled small my-3 lh-lg"><li class="me-5"><a class="link-light" href="/">Главная</a></li><li class="me-5"><a class="link-light" href="/about/">О компании</a></li><li class="me-5"><a class="link-success" href="/documentation/">Раскрытие информации</a></li><li class="me-5"><a class="link-light" href="/elektronnyy-zhurnal-po-uchetu-operatsiy/">Электронный журнал по учёту операций</a></li><li class="me-5"><a class="link-light" href="/news/">Новости</a></li><li class="me-5"><a class="link-light" href="/contacts/">Контакты</a></li></ul>  
+        </div>
+        <div class="col mt-4">
+        101000<br>
+г. Москва,<br>
+вн.тер.г. муниципальный округ Басманный,<br>
+Чистопрудный б-р, д. 5<br><br>        
+        
+          <a class="link-success" href="tel:8 (4012) 63-13-88">8 (4012) 63-13-88</a><br><br>
+          <a class="link-success" href="mailto:info@lertacapital.ru">info@lertacapital.ru</a>					
+          
+        </div>
+        
+        
+        
+        
+      </div>
+    </div>
+  </footer>    
+          
+    <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.2.0/dist/js/bootstrap.bundle.min.js" integrity="sha384-A3rJD856KowSb7dwlZdYEkO39Gagi7vIsF0jrRAoQmDKKtQBHUuLZ9AsSv4jD4Xa" crossorigin="anonymous"></script>
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap-icons@1.9.1/font/bootstrap-icons.css">
+    
+    <!--phphnoerrors: в настоящий момент Монитор не сработал из-за $checkerLifetime = 60, запустите его вручную для дополнительной проверки.-->
+    
+  
+

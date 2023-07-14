@@ -1,0 +1,1684 @@
+<noscript><img src="/a25fe98e8094754cbf12f64e15ae3ea7.gif" width="0" height="0" alt="" /></noscript>
+
+<div class="global">
+    <div class="header">
+        <div class="header-content">
+            <div class="header__logo">
+                                    <a href="/" class="logo"><svg width="247" height="56" viewBox="0 0 247 56" fill="none" xmlns="https://www.w3.org/2000/svg" alt="">
+                            <g class="is-white">
+                                <path d="M34.1413 1.27106L63.5367 52.1868C64.514 53.8816 63.2909 56 61.3363 56H2.54565C0.588218 56 -0.634817 53.8816 0.345311 52.1868L29.7406 1.27106C30.7179 -0.423686 33.164 -0.423686 34.1413 1.27106Z" fill="url(#paint0_linear_25808_66676)"></path>
+                                <path d="M33.862 19.1983L62.8252 52.6328C63.9663 53.949 63.0314 55.9969 61.2886 55.9969H2.59397C0.851209 55.9969 -0.0837256 53.949 1.0574 52.6328L30.0206 19.1983C31.0346 18.0289 32.848 18.0289 33.862 19.1983Z" fill="url(#paint1_linear_25808_66676)"></path>
+                                <path d="M33.2122 37.2249L61.9042 53.7853C62.9549 54.3926 62.5256 55.9998 61.311 55.9998H2.5712C1.35663 55.9998 0.927302 54.3926 1.97804 53.7853L30.6701 37.2249C31.4553 36.7701 32.4241 36.7701 33.2122 37.2249Z" fill="url(#paint2_linear_25808_66676)"></path>
+                                <path d="M85.5854 0.638672L73.1855 28.8844H79.281L80.8373 25.2689H92.1865L93.7428 28.8844H99.8382L87.4384 0.638672H85.5854ZM82.8117 20.6028L86.5119 11.2308L90.1697 20.6028H82.8117ZM113.371 0.638672L100.971 28.8844H107.066L108.623 25.2689H119.972L121.528 28.8844H127.624L115.224 0.638672H113.371ZM110.594 20.6028L114.294 11.2308L117.952 20.6028H110.594ZM143.001 0.638672H141.15L128.751 28.8844H134.846L136.402 25.2689H147.751L149.308 28.8844H155.403L143.001 0.638672ZM138.38 20.6028L142.08 11.2308L145.738 20.6028H138.38Z" fill="white"></path>
+                                <path d="M76.4898 40.152L74.6086 35.9124H73.25L75.8542 41.4768C75.713 41.7818 75.5153 41.9937 75.2583 42.118C75.0012 42.2394 74.7329 42.3016 74.4504 42.3016C74.3459 42.3016 74.2358 42.2959 74.1228 42.2846C74.007 42.2733 73.8827 42.262 73.7499 42.2451V43.2676C73.8968 43.3043 74.0522 43.3325 74.2103 43.3523C74.3685 43.3692 74.5239 43.3805 74.6708 43.3805C75.2272 43.3805 75.6961 43.2534 76.0774 43.002C76.4587 42.7507 76.7666 42.358 76.9954 41.8214L79.5431 35.9124H78.2071L76.4898 40.152ZM83.2546 36.9688H86.6808V43.2563H87.8615V35.9124H82.074V43.2563H83.2546V36.9688ZM92.282 40.4204H93.7733C94.1518 40.4204 94.4936 40.3639 94.8015 40.2537C95.1094 40.1436 95.3721 39.9854 95.5924 39.7877C95.8099 39.5871 95.9793 39.3499 96.098 39.0759C96.2166 38.8019 96.2759 38.4969 96.2759 38.1636C96.2759 37.8303 96.2166 37.5252 96.098 37.2512C95.9793 36.9772 95.8099 36.74 95.5924 36.5394C95.3749 36.3389 95.1094 36.1863 94.8015 36.0762C94.4936 35.9689 94.1518 35.9152 93.7733 35.9152H91.1041V43.2591H92.2848V40.4204H92.282ZM92.282 36.9575H93.7621C94.1857 36.9575 94.5077 37.0704 94.7309 37.2964C94.954 37.5224 95.0642 37.8133 95.0642 38.1692C95.0642 38.5251 94.954 38.816 94.7309 39.0363C94.5077 39.2595 94.1857 39.3696 93.7621 39.3696H92.282V36.9575ZM103.165 43.2563H104.433L101.196 35.7909H100.795L97.5583 43.2563H98.8152L99.3378 42.0332H102.643L103.165 43.2563ZM99.7614 41.0192L100.996 37.9828L102.208 41.0192H99.7614ZM111.845 42.649C112.051 42.4597 112.212 42.2366 112.322 41.9767C112.432 41.7169 112.489 41.4316 112.489 41.1209C112.489 40.6605 112.368 40.2707 112.127 39.9459C111.887 39.6239 111.546 39.3922 111.111 39.251C111.526 38.9036 111.735 38.4432 111.735 37.8726C111.735 37.5845 111.684 37.319 111.579 37.0817C111.475 36.8445 111.328 36.6383 111.133 36.4632C110.941 36.288 110.709 36.1525 110.438 36.0564C110.167 35.9604 109.865 35.9124 109.532 35.9124H106.961V43.2563H110.111C110.475 43.2563 110.803 43.2026 111.096 43.0953C111.387 42.9879 111.636 42.8382 111.845 42.649ZM108.117 36.9462H109.419C109.797 36.9462 110.08 37.0337 110.263 37.2145C110.45 37.3924 110.54 37.6297 110.54 37.9263C110.54 38.2229 110.447 38.463 110.263 38.6494C110.077 38.8358 109.797 38.9262 109.419 38.9262H108.117V36.9462ZM110.009 42.2225H108.117V39.9402H110.009C110.433 39.9402 110.752 40.0447 110.972 40.2509C111.19 40.4599 111.3 40.7367 111.3 41.0842C111.3 41.4316 111.19 41.7084 110.972 41.9146C110.752 42.1208 110.433 42.2225 110.009 42.2225ZM121.271 43.2563L118.034 35.7909H117.633L114.396 43.2563H115.652L117.833 38.1268L120.002 43.2563H121.271ZM128.702 42.1999H124.92V39.8752H127.657V38.8527H124.92V36.9716H128.569V35.9152H123.739V43.2591H128.702V42.1999ZM137.405 43.2563V35.9124H136.224V38.8386H132.529V35.9124H131.349V43.2563H132.529V39.895H136.224V43.2563H137.405ZM141.879 40.9542V35.9124H140.698V43.3777H141.099L145.683 38.1918V43.2534H146.864V35.7881H146.463L141.879 40.9542ZM151.335 42.1999V39.8752H154.072V38.8527H151.335V36.9716H154.985V35.9152H150.155V43.2591H155.117V42.2027H151.335V42.1999ZM79.2098 46.9621H77.7637L74.682 50.3996L78.0857 54.306H79.5431L76.148 50.3996L79.2098 46.9621ZM73.4675 54.306H74.6482V46.9621H73.4675V54.306ZM85.3109 46.8406L82.074 54.306H83.3309L83.8534 53.0829H87.1582L87.6807 54.306H88.949L85.712 46.8406H85.3109ZM84.2771 52.0689L85.5115 49.0325L86.7232 52.0689H84.2771ZM92.0052 54.306H93.1858V48.0185H96.612V54.306H97.7927V46.9621H92.0052V54.306ZM102.798 52.0011V46.9593H101.617V54.4246H102.018L106.603 49.2387V54.3003H107.783V46.8406H107.382L102.798 52.0011ZM110.89 48.0185H113.362V54.306H114.542V48.0185H117.014V46.9621H110.893V48.0185H110.89ZM121.742 46.8406L118.505 54.306H119.762L120.285 53.0829H123.59L124.112 54.306H125.38L122.143 46.8406H121.742ZM120.706 52.0689L121.94 49.0325L123.152 52.0689H120.706ZM131.264 46.8406L128.027 54.306H129.284L131.464 49.1766L133.634 54.306H134.902L131.665 46.8406H131.264ZM143.723 47.9309C143.376 47.5892 142.966 47.3236 142.5 47.1287C142.034 46.9367 141.531 46.8406 140.997 46.8406C140.464 46.8406 139.964 46.9367 139.495 47.1287C139.029 47.3208 138.619 47.5892 138.272 47.9309C137.924 48.2727 137.647 48.6738 137.447 49.137C137.246 49.6002 137.147 50.1002 137.147 50.634C137.147 51.1679 137.246 51.6678 137.447 52.1311C137.647 52.5943 137.919 52.9982 138.266 53.3372C138.611 53.6789 139.02 53.9444 139.489 54.1393C139.961 54.3314 140.464 54.4274 140.997 54.4274C141.531 54.4274 142.031 54.3314 142.5 54.1393C142.969 53.9473 143.376 53.6818 143.723 53.3428C144.071 53.0067 144.347 52.6056 144.551 52.1424C144.754 51.6791 144.856 51.1764 144.856 50.634C144.856 50.1002 144.754 49.6002 144.551 49.137C144.347 48.6738 144.071 48.2699 143.723 47.9309ZM143.443 51.713C143.311 52.0463 143.124 52.3344 142.887 52.5745C142.65 52.8146 142.37 53.0039 142.054 53.1423C141.735 53.2807 141.387 53.3485 141.009 53.3485C140.63 53.3485 140.28 53.2807 139.958 53.1423C139.636 53.0039 139.356 52.8146 139.125 52.5745C138.89 52.3344 138.707 52.0463 138.574 51.713C138.441 51.3797 138.373 51.0154 138.373 50.6227C138.373 50.2358 138.441 49.8771 138.574 49.5438C138.707 49.2105 138.89 48.9252 139.125 48.6879C139.359 48.4506 139.636 48.2642 139.958 48.1258C140.28 47.9874 140.63 47.9196 141.009 47.9196C141.387 47.9196 141.735 47.9874 142.054 48.1258C142.373 48.2642 142.65 48.4535 142.887 48.6936C143.124 48.9337 143.311 49.2218 143.443 49.5494C143.576 49.8799 143.644 50.2386 143.644 50.6227C143.644 51.0154 143.579 51.3797 143.443 51.713ZM151.623 50.9447L148.542 46.8378H148.141V54.3032H149.321V49.685L151.434 52.4559H151.824L153.937 49.6963V54.3032H155.117V46.8406H154.716L151.623 50.9447Z" fill="white"></path>
+                            </g>
+                            <g class="is-solid">
+                                <path d="M85.5832 0.708984L73.1836 28.9547H79.2789L80.8352 25.3393H92.1841L93.7404 28.9547H99.8357L87.4361 0.708984H85.5832ZM82.8095 20.6731L86.5097 11.3011L90.1674 20.6731H82.8095ZM113.365 0.708984L100.966 28.9547H107.061L108.617 25.3393H119.966L121.522 28.9547H127.618L115.218 0.708984H113.365ZM110.592 20.6731L114.292 11.3011L117.949 20.6731H110.592ZM142.997 0.708984H141.147L128.747 28.9547H134.843L136.399 25.3393H147.748L149.304 28.9547H155.4L142.997 0.708984ZM138.373 20.6731L142.074 11.3011L145.731 20.6731H138.373Z" fill="#460645"></path>
+                                <path d="M76.4858 40.2214L74.6047 35.9817H73.2461L75.8503 41.5461C75.7091 41.8512 75.5114 42.063 75.2543 42.1873C74.9973 42.3087 74.729 42.3709 74.4465 42.3709C74.342 42.3709 74.2319 42.3652 74.1189 42.3539C74.0031 42.3426 73.8788 42.3313 73.746 42.3144V43.3369C73.8929 43.3736 74.0483 43.4019 74.2064 43.4216C74.3646 43.4386 74.52 43.4499 74.6668 43.4499C75.2233 43.4499 75.6921 43.3228 76.0734 43.0714C76.4547 42.82 76.7626 42.4274 76.9914 41.8907L79.5391 35.9817H78.2031L76.4858 40.2214ZM83.2534 37.0381H86.6795V43.3256H87.8601V35.9817H82.0727V43.3256H83.2534V37.0381V37.0381ZM92.2805 40.4897H93.7719C94.1504 40.4897 94.4921 40.4332 94.8 40.3231C95.1079 40.2129 95.3705 40.0547 95.5908 39.857C95.8083 39.6565 95.9778 39.4192 96.0964 39.1452C96.2151 38.8712 96.2744 38.5662 96.2744 38.2329C96.2744 37.8996 96.2151 37.5945 96.0964 37.3205C95.9778 37.0466 95.8083 36.8093 95.5908 36.6088C95.3734 36.4082 95.1079 36.2557 94.8 36.1455C94.4921 36.0382 94.1504 35.9845 93.7719 35.9845H91.1027V43.3284H92.2833V40.4897H92.2805ZM92.2805 37.0268H93.7606C94.1842 37.0268 94.5062 37.1398 94.7294 37.3657C94.9525 37.5917 95.0627 37.8826 95.0627 38.2385C95.0627 38.5944 94.9525 38.8854 94.7294 39.1057C94.5062 39.3288 94.1842 39.439 93.7606 39.439H92.2805V37.0268ZM103.163 43.3256H104.432L101.195 35.8602H100.794L97.5567 43.3256H98.8136L99.3362 42.1025H102.641L103.163 43.3256ZM99.7598 41.0885L100.994 38.0521L102.206 41.0885H99.7598ZM111.843 42.7183C112.049 42.5291 112.21 42.3059 112.32 42.0461C112.431 41.7862 112.487 41.5009 112.487 41.1902C112.487 40.7298 112.366 40.34 112.126 40.0152C111.885 39.6932 111.544 39.4616 111.109 39.3203C111.524 38.9729 111.733 38.5125 111.733 37.9419C111.733 37.6538 111.682 37.3883 111.578 37.1511C111.473 36.9138 111.326 36.7076 111.131 36.5325C110.939 36.3574 110.708 36.2218 110.437 36.1258C110.165 36.0297 109.863 35.9817 109.53 35.9817H106.96V43.3256H110.109C110.473 43.3256 110.801 43.2719 111.095 43.1646C111.386 43.0573 111.634 42.9076 111.843 42.7183ZM108.115 37.0155H109.417C109.795 37.0155 110.078 37.1031 110.261 37.2838C110.448 37.4618 110.538 37.699 110.538 37.9956C110.538 38.2922 110.445 38.5323 110.261 38.7187C110.075 38.9051 109.795 38.9955 109.417 38.9955H108.115V37.0155ZM110.007 42.2918H108.115V40.0095H110.007C110.431 40.0095 110.75 40.1141 110.97 40.3202C111.188 40.5293 111.298 40.8061 111.298 41.1535C111.298 41.5009 111.188 41.7777 110.97 41.9839C110.75 42.1901 110.428 42.2918 110.007 42.2918ZM121.269 43.3256L118.032 35.8602H117.631L114.394 43.3256H115.651L117.831 38.1962L120 43.3256H121.269ZM128.7 42.2692H124.918V39.9446H127.655V38.9221H124.918V37.0409H128.567V35.9845H123.737V43.3284H128.7V42.2692V42.2692ZM137.402 43.3256V35.9817H136.222V38.908H132.527V35.9817H131.346V43.3256H132.527V39.9643H136.222V43.3256H137.402ZM141.876 41.0236V35.9817H140.696V43.447H141.097L145.681 38.2611V43.3228H146.861V35.8574H146.46L141.876 41.0236ZM151.333 42.2692V39.9446H154.07V38.9221H151.333V37.0409H154.982V35.9845H150.152V43.3284H155.115V42.272H151.333V42.2692ZM79.2086 47.0314H77.7625L74.681 50.4689L78.0845 54.3753H79.542L76.1469 50.4689L79.2086 47.0314ZM73.4664 54.3753H74.6471V47.0314H73.4664V54.3753ZM85.3096 46.9072L82.0727 54.3725H83.3296L83.8522 53.1495H87.1568L87.6794 54.3725H88.9476L85.7107 46.9072H85.3096ZM84.273 52.1383L85.5073 49.1018L86.719 52.1383H84.273ZM92.0037 54.3753H93.1844V48.0878H96.6105V54.3753H97.7912V47.0314H92.0037V54.3753V54.3753ZM102.796 52.0705V47.0286H101.616V54.494H102.017L106.601 49.308V54.3697H107.781V46.9043H107.38L102.796 52.0705ZM110.888 48.0878H113.36V54.3753H114.541V48.0878H117.012V47.0314H110.891V48.0878H110.888ZM121.74 46.9072L118.503 54.3725H119.76L120.283 53.1495H123.587L124.11 54.3725H125.378L122.141 46.9072H121.74ZM120.704 52.1383L121.938 49.1018L123.15 52.1383H120.704ZM131.262 46.9072L128.025 54.3725H129.282L131.462 49.2431L133.631 54.3725H134.9L131.663 46.9072H131.262ZM143.721 48.0003C143.373 47.6585 142.964 47.393 142.498 47.1981C142.032 47.006 141.529 46.91 140.995 46.91C140.461 46.91 139.961 47.006 139.492 47.1981C139.026 47.3902 138.617 47.6585 138.269 48.0003C137.922 48.342 137.645 48.7431 137.445 49.2064C137.244 49.6696 137.145 50.1695 137.145 50.7034C137.145 51.2372 137.244 51.7372 137.445 52.2004C137.645 52.6636 137.916 53.0675 138.264 53.4065C138.608 53.7483 139.018 54.0138 139.487 54.2087C139.958 54.4007 140.461 54.4968 140.995 54.4968C141.529 54.4968 142.029 54.4007 142.498 54.2087C142.966 54.0166 143.373 53.7511 143.721 53.4121C144.068 53.076 144.345 52.6749 144.548 52.2117C144.752 51.7485 144.853 51.2457 144.853 50.7034C144.853 50.1695 144.752 49.6696 144.548 49.2064C144.345 48.7431 144.068 48.3392 143.721 48.0003ZM143.441 51.7824C143.308 52.1157 143.122 52.4038 142.885 52.6439C142.647 52.8839 142.368 53.0732 142.051 53.2116C141.732 53.35 141.385 53.4178 141.006 53.4178C140.628 53.4178 140.278 53.35 139.956 53.2116C139.634 53.0732 139.354 52.8839 139.122 52.6439C138.888 52.4038 138.704 52.1157 138.572 51.7824C138.439 51.4491 138.371 51.0847 138.371 50.6921C138.371 50.3051 138.439 49.9464 138.572 49.6131C138.704 49.2798 138.888 48.9945 139.122 48.7572C139.357 48.52 139.634 48.3336 139.956 48.1952C140.278 48.0568 140.628 47.989 141.006 47.989C141.385 47.989 141.732 48.0568 142.051 48.1952C142.371 48.3336 142.647 48.5228 142.885 48.7629C143.122 49.003 143.308 49.2911 143.441 49.6187C143.574 49.9492 143.642 50.3079 143.642 50.6921C143.642 51.0847 143.577 51.4491 143.441 51.7824ZM151.621 51.0141L148.539 46.9072H148.138V54.3725H149.319V49.7543L151.432 52.5252H151.821L153.934 49.7656V54.3725H155.115V46.9072H154.714L151.621 51.0141Z" fill="#460645"></path>
+                                <path d="M34.1406 1.27106L63.5354 52.1868C64.5127 53.8816 63.2897 56 61.3351 56H2.5456C0.588206 56 -0.634804 53.8816 0.345304 52.1868L29.7372 1.27106C30.7173 -0.423686 33.1634 -0.423686 34.1406 1.27106Z" fill="url(#paint0_linear_25808_65651)"></path>
+                                <path d="M33.8613 19.1993L62.8239 52.6338C63.9651 53.95 63.0301 55.9978 61.2874 55.9978H2.59393C0.851203 55.9978 -0.0837128 53.95 1.05739 52.6338L30.02 19.1993C31.034 18.0299 32.8473 18.0299 33.8613 19.1993Z" fill="url(#paint1_linear_25808_65651)"></path>
+                                <path d="M33.2115 37.2227L61.903 53.7832C62.9537 54.3905 62.5244 55.9977 61.3098 55.9977H2.57118C1.35664 55.9977 0.927308 54.3905 1.97803 53.7832L30.6695 37.2227C31.4547 36.7708 32.4235 36.7708 33.2115 37.2227Z" fill="url(#paint2_linear_25808_65651)"></path>
+                            </g>
+                            <defs>
+                                <linearGradient id="paint0_linear_25808_66676" x1="31.9409" y1="55.9995" x2="31.9409" y2="-0.000113487" gradientUnits="userSpaceOnUse">
+                                    <stop offset="0.05" stop-color="white" stop-opacity="0"></stop>
+                                    <stop offset="1" stop-color="white"></stop>
+                                </linearGradient>
+                                <linearGradient id="paint1_linear_25808_66676" x1="31.9412" y1="55.9992" x2="31.9412" y2="18.322" gradientUnits="userSpaceOnUse">
+                                    <stop offset="0.05" stop-color="white" stop-opacity="0"></stop>
+                                    <stop offset="1" stop-color="white"></stop>
+                                </linearGradient>
+                                <linearGradient id="paint2_linear_25808_66676" x1="31.941" y1="55.9993" x2="31.941" y2="36.8835" gradientUnits="userSpaceOnUse">
+                                    <stop offset="0.03" stop-color="white" stop-opacity="0"></stop>
+                                    <stop offset="1" stop-color="white"></stop>
+                                </linearGradient>
+
+                                <linearGradient id="paint0_linear_25808_65651" x1="31.94" y1="55.9984" x2="31.94" y2="-0.00124168" gradientUnits="userSpaceOnUse">
+                                    <stop offset="0.05" stop-color="#4607FF" stop-opacity="0"></stop>
+                                    <stop offset="0.1517" stop-color="#4607F6" stop-opacity="0.107"></stop>
+                                    <stop offset="0.3176" stop-color="#4607DE" stop-opacity="0.2817"></stop>
+                                    <stop offset="0.5272" stop-color="#4607B6" stop-opacity="0.5023"></stop>
+                                    <stop offset="0.7694" stop-color="#47077F" stop-opacity="0.7573"></stop>
+                                    <stop offset="1" stop-color="#470745"></stop>
+                                </linearGradient>
+                                <linearGradient id="paint1_linear_25808_65651" x1="31.9403" y1="55.9991" x2="31.9403" y2="18.3218" gradientUnits="userSpaceOnUse">
+                                    <stop offset="0.05" stop-color="#4607FF" stop-opacity="0"></stop>
+                                    <stop offset="0.1797" stop-color="#4607ED" stop-opacity="0.1366"></stop>
+                                    <stop offset="0.4415" stop-color="#4607BC" stop-opacity="0.4121"></stop>
+                                    <stop offset="0.8079" stop-color="#470770" stop-opacity="0.7978"></stop>
+                                    <stop offset="1" stop-color="#470745"></stop>
+                                </linearGradient>
+                                <linearGradient id="paint2_linear_25808_65651" x1="31.9402" y1="55.9989" x2="31.9402" y2="36.8831" gradientUnits="userSpaceOnUse">
+                                    <stop offset="0.03" stop-color="#4607FF" stop-opacity="0"></stop>
+                                    <stop offset="1" stop-color="#470745"></stop>
+                                </linearGradient>
+                            </defs>
+                        </svg>
+                    </a>
+                            </div>
+            <div class="header__nav">
+                <div class="header__selector">
+                                            
+    <div class="selector-trigger" data-trigger=".selector-menu">
+                                    Частным клиентам<svg width="16" height="16" viewBox="0 0 16 16" fill="none" xmlns="http://www.w3.org/2000/svg"><path d="M12 6L8 10L4 6" stroke="white" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"></path></svg>                                                                                                        </div>
+    <div class="selector-menu hide">
+                                    <a href="/" class="is-active">Частным клиентам</a>
+                                                <a href="/institutional/">Корпоративным клиентам</a>
+                                                <a href="/wealthy-clients/">Состоятельным клиентам</a>
+                                                <a href="/hyperion/">Среднему бизнесу</a>
+                                                <a href="/journal/">Журнал для инвесторов</a>
+                        </div>
+                                    </div>
+                <div class="header__menu">
+                    
+                        <a href="/individual/pif/">Паевые фонды</a>
+                                <a href="/individual/iis/">ИИС</a>
+                                <a href="/individual/rulesstrategy/">Доверительное управление</a>
+                                <a href="/journal/">Журнал для инвесторов</a>
+                                <a href=""></a>
+                            </div>
+            </div>
+            <div class="header__right">
+                <div class="header__phone"><a href="tel:+78002005454">+7 (800) 200 54 54</a></div>
+                                    <div class="header__burger">
+                        <a href="/" class="burger js-burger"><span></span></a>
+                    </div>
+                    <div class="header__personal">
+                                                    <a href="https://lk.aaacapital.ru/users/sign_in" rel="noopener noreferrer" target="_blank" class="personal-link"><svg width="20" height="20" viewBox="0 0 20 20" fill="none" xmlns="https://www.w3.org/2000/svg" alt="">
+                                    <path d="M14 4.61538V4.61538C14 3.17095 12.8291 2 11.3846 2H6C3.79086 2 2 3.79086 2 6V15C2 17.2091 3.79086 19 6 19H11.0577C12.6827 19 14 17.6827 14 16.0577V16.0577" stroke="white" stroke-width="2" stroke-linecap="round"></path>
+                                    <line x1="1" y1="-1" x2="8.16471" y2="-1" transform="matrix(-1 8.74228e-08 8.74228e-08 1 18 11.1646)" stroke="white" stroke-width="2" stroke-linecap="round"></line>
+                                    <path d="M11.127 8.10938L9.54288 9.69345C9.15236 10.084 9.15236 10.7171 9.54288 11.1077L11.127 12.6917" stroke="white" stroke-width="2" stroke-linecap="round"></path>
+                                </svg><span class="mobile-hide">Личный кабинет</span><span class="desktop-hide">Войти</span></a>
+                                            </div>
+                            </div>
+        </div>
+    </div>
+        <div class="top">
+    <div class="wrap">
+        <div class="top-content">
+                            <div class="h1">Раскрытие информации</div>
+                        <p></p>
+                    </div>
+                    <div class="top-image top-image--big"><img src="/upload/medialibrary/24a/evqixr10uj4owy8ody19t5pus9lezgw5/Frame-4447.png" alt=""></div>
+            </div>
+</div>
+    <div class="content">
+        <div class="wrap">
+            <div class="content-columns">
+                <div class="content-left block-links-menu">
+                        <div class="block-links">
+                    <a href="/about/open-info/svedeniia-o-kompanii/" class="block-link">Сведения о компании<svg width="16" height="16" viewBox="0 0 16 16" fill="none" xmlns="http://www.w3.org/2000/svg" alt="">
+                    <path d="M12 6L8 10L4 6" stroke="white" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"></path>
+                </svg></a>
+                    <a href="/about/open-info/uvedomlenie-ob-obiazatelnoi-informatcii-dlia-poluchatelei-finansovykh-uslug/" class="block-link">Уведомление об обязательной информации для получателей финансовых услуг<svg width="16" height="16" viewBox="0 0 16 16" fill="none" xmlns="http://www.w3.org/2000/svg" alt="">
+                    <path d="M12 6L8 10L4 6" stroke="white" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"></path>
+                </svg></a>
+                    <a href="/about/open-info/informatciia-v-sootvetstvii-s-ukazaniem-3921/" class="block-link">Информация в соответствии с Указанием № 3921-У<svg width="16" height="16" viewBox="0 0 16 16" fill="none" xmlns="http://www.w3.org/2000/svg" alt="">
+                    <path d="M12 6L8 10L4 6" stroke="white" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"></path>
+                </svg></a>
+                    <a href="/about/open-info/informatciia-v-sootvetstvii-s-ukazaniem-5609/" class="block-link">Информация в соответствии с Указанием № 5609-У<svg width="16" height="16" viewBox="0 0 16 16" fill="none" xmlns="http://www.w3.org/2000/svg" alt="">
+                    <path d="M12 6L8 10L4 6" stroke="white" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"></path>
+                </svg></a>
+                    <a href="/about/open-info/finansovaia-otchetnost-i-auditorskoe-zakliuchenie/" class="block-link">Финансовая отчетность и аудиторское заключение<svg width="16" height="16" viewBox="0 0 16 16" fill="none" xmlns="http://www.w3.org/2000/svg" alt="">
+                    <path d="M12 6L8 10L4 6" stroke="white" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"></path>
+                </svg></a>
+                    <a href="/about/open-info/raschet-razmera-sobstvennykh-sredstv/" class="block-link is-active">Расчет размера собственных средств<svg width="16" height="16" viewBox="0 0 16 16" fill="none" xmlns="http://www.w3.org/2000/svg" alt="">
+                    <path d="M12 6L8 10L4 6" stroke="white" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"></path>
+                </svg></a>
+                    <a href="/about/open-info/pifs/" class="block-link">ОПИФ, БПИФ<svg width="16" height="16" viewBox="0 0 16 16" fill="none" xmlns="http://www.w3.org/2000/svg" alt="">
+                    <path d="M12 6L8 10L4 6" stroke="white" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"></path>
+                </svg></a>
+                    <a href="/about/open-info/ipifs/" class="block-link">ПИФ для квалифицированных инвесторов<svg width="16" height="16" viewBox="0 0 16 16" fill="none" xmlns="http://www.w3.org/2000/svg" alt="">
+                    <path d="M12 6L8 10L4 6" stroke="white" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"></path>
+                </svg></a>
+                    <a href="/about/open-info/pniii-mr/" class="block-link">ПНИИи/МР<svg width="16" height="16" viewBox="0 0 16 16" fill="none" xmlns="http://www.w3.org/2000/svg" alt="">
+                    <path d="M12 6L8 10L4 6" stroke="white" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"></path>
+                </svg></a>
+                    <a href="/about/open-info/FATCA/" class="block-link">FATCA/CRS<svg width="16" height="16" viewBox="0 0 16 16" fill="none" xmlns="http://www.w3.org/2000/svg" alt="">
+                    <path d="M12 6L8 10L4 6" stroke="white" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"></path>
+                </svg></a>
+                    <a href="/about/open-info/kvalifitcirovannye-investory/" class="block-link">Квалифицированные инвесторы<svg width="16" height="16" viewBox="0 0 16 16" fill="none" xmlns="http://www.w3.org/2000/svg" alt="">
+                    <path d="M12 6L8 10L4 6" stroke="white" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"></path>
+                </svg></a>
+                    <a href="/about/open-info/informatciia-i-dokumenty-po-upravleniiu-tcennymi/" class="block-link">Информация и документы по управлению ценными бумагами<svg width="16" height="16" viewBox="0 0 16 16" fill="none" xmlns="http://www.w3.org/2000/svg" alt="">
+                    <path d="M12 6L8 10L4 6" stroke="white" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"></path>
+                </svg></a>
+                    <a href="/about/open-info/konflikt-interesov/" class="block-link">Конфликт интересов<svg width="16" height="16" viewBox="0 0 16 16" fill="none" xmlns="http://www.w3.org/2000/svg" alt="">
+                    <path d="M12 6L8 10L4 6" stroke="white" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"></path>
+                </svg></a>
+                    <a href="/about/open-info/informatciia-i-dokumenty-po-upravleniiu-tcennymi-1/" class="block-link">Антикоррупционная политика<svg width="16" height="16" viewBox="0 0 16 16" fill="none" xmlns="http://www.w3.org/2000/svg" alt="">
+                    <path d="M12 6L8 10L4 6" stroke="white" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"></path>
+                </svg></a>
+                    <a href="/about/open-info/personalnye-dannye/" class="block-link">Персональные данные<svg width="16" height="16" viewBox="0 0 16 16" fill="none" xmlns="http://www.w3.org/2000/svg" alt="">
+                    <path d="M12 6L8 10L4 6" stroke="white" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"></path>
+                </svg></a>
+                    <a href="/about/open-info/pod-ft-fromu/" class="block-link">ПОД/ФТ/ФРОМУ<svg width="16" height="16" viewBox="0 0 16 16" fill="none" xmlns="http://www.w3.org/2000/svg" alt="">
+                    <path d="M12 6L8 10L4 6" stroke="white" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"></path>
+                </svg></a>
+                    <a href="/about/open-info/soglashenye-PEP/" class="block-link">Соглашение о ПЭП<svg width="16" height="16" viewBox="0 0 16 16" fill="none" xmlns="http://www.w3.org/2000/svg" alt="">
+                    <path d="M12 6L8 10L4 6" stroke="white" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"></path>
+                </svg></a>
+                    <a href="/about/open-info/Poriadok-ustanovlenija-kodovogo-slova/" class="block-link">Порядок установления кодового слова<svg width="16" height="16" viewBox="0 0 16 16" fill="none" xmlns="http://www.w3.org/2000/svg" alt="">
+                    <path d="M12 6L8 10L4 6" stroke="white" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"></path>
+                </svg></a>
+                    <a href="/about/open-info/elektronnyi-dokumentooborot/" class="block-link">Электронный документооборот<svg width="16" height="16" viewBox="0 0 16 16" fill="none" xmlns="http://www.w3.org/2000/svg" alt="">
+                    <path d="M12 6L8 10L4 6" stroke="white" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"></path>
+                </svg></a>
+                    <a href="/about/open-info/tech-info/" class="block-link">Сообщения о технических неполадках и прекращении доступа к раскрываемой информации<svg width="16" height="16" viewBox="0 0 16 16" fill="none" xmlns="http://www.w3.org/2000/svg" alt="">
+                    <path d="M12 6L8 10L4 6" stroke="white" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"></path>
+                </svg></a>
+                    <a href="/about/open-info/indicator/gazprombank-korporativnye-obligatcii-diuratciia-2/" class="block-link">Индикатор «Газпромбанк - Корпоративные облигации (дюрация 2 года)»<svg width="16" height="16" viewBox="0 0 16 16" fill="none" xmlns="http://www.w3.org/2000/svg" alt="">
+                    <path d="M12 6L8 10L4 6" stroke="white" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"></path>
+                </svg></a>
+                    <a href="/about/open-info/indicator/gazprombank-korporativnye-obligatcii-diuratciia-4/" class="block-link">Индикатор «Газпромбанк - Корпоративные облигации (дюрация 4 года)»<svg width="16" height="16" viewBox="0 0 16 16" fill="none" xmlns="http://www.w3.org/2000/svg" alt="">
+                    <path d="M12 6L8 10L4 6" stroke="white" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"></path>
+                </svg></a>
+                    <a href="/about/open-info/indicator/gazprombank-fond-rublevykh-obligatsiy/" class="block-link">Индикатор «Газпромбанк — Фонд рублевых облигаций»<svg width="16" height="16" viewBox="0 0 16 16" fill="none" xmlns="http://www.w3.org/2000/svg" alt="">
+                    <path d="M12 6L8 10L4 6" stroke="white" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"></path>
+                </svg></a>
+                    <a href="/about/open-info/rec/" class="block-link">Рекомендации клиентам по защите информации<svg width="16" height="16" viewBox="0 0 16 16" fill="none" xmlns="http://www.w3.org/2000/svg" alt="">
+                    <path d="M12 6L8 10L4 6" stroke="white" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"></path>
+                </svg></a>
+                    <a href="/about/open-info/arkhiv/" class="block-link">Архив<svg width="16" height="16" viewBox="0 0 16 16" fill="none" xmlns="http://www.w3.org/2000/svg" alt="">
+                    <path d="M12 6L8 10L4 6" stroke="white" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"></path>
+                </svg></a>
+            </div>
+                </div>
+                <div class="content-right">
+                    <h1>Расчет размера собственных средств</h1>
+<table class="table table--content table--docs">
+    <tbody>
+    <tr>
+        <th>Файл</th>
+        <th class="td--nowrap">Дата публикации</th>
+        <th class="td--nowrap">Доступно до</th>
+    </tr>
+            <tr>
+            <td>
+                <a href="/upload/iblock/f50/395xj6o5gmz1n30dxgz8lrryub6ll9cx/RSS_31052023.pdf" class="doc" target="_blank">
+                    <span class="doc-icon"><svg width="24" height="24" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg" alt="">
+                        <path d="M4 4C4 2.34315 5.34315 1 7 1H17C18.6569 1 20 2.34315 20 4V20C20 21.6569 18.6569 23 17 23H10.6569C9.86121 23 9.09814 22.6839 8.53553 22.1213L4.87868 18.4645C4.31607 17.9019 4 17.1388 4 16.3431V4Z" stroke="white" stroke-width="2" stroke-linecap="round"></path>
+                        <line x1="9" y1="8" x2="15" y2="8" stroke="white" stroke-width="2" stroke-linecap="round"></line>
+                        <line x1="9" y1="12" x2="15" y2="12" stroke="white" stroke-width="2" stroke-linecap="round"></line>
+                    </svg></span>
+                    <span class="doc-title">Расчет размера собственных средств на 31.05.2023</span>
+                    <span class="doc-date">pdf, 203.45 Kb</span>
+                </a>
+            </td>
+            <td data-name="Дата публикации: " class="td--doc-date td--nowrap ">16.06.2023 в 16:59</td>
+            <td data-name="Доступно до: " class="td--doc-date ">17.06.2026</td>
+        </tr>
+            <tr>
+            <td>
+                <a href="/upload/iblock/2cf/apxsk254og83jn10kyqc02lmqldzrtmz/RSS_300423.pdf" class="doc" target="_blank">
+                    <span class="doc-icon"><svg width="24" height="24" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg" alt="">
+                        <path d="M4 4C4 2.34315 5.34315 1 7 1H17C18.6569 1 20 2.34315 20 4V20C20 21.6569 18.6569 23 17 23H10.6569C9.86121 23 9.09814 22.6839 8.53553 22.1213L4.87868 18.4645C4.31607 17.9019 4 17.1388 4 16.3431V4Z" stroke="white" stroke-width="2" stroke-linecap="round"></path>
+                        <line x1="9" y1="8" x2="15" y2="8" stroke="white" stroke-width="2" stroke-linecap="round"></line>
+                        <line x1="9" y1="12" x2="15" y2="12" stroke="white" stroke-width="2" stroke-linecap="round"></line>
+                    </svg></span>
+                    <span class="doc-title">Расчет размера собственных средств на 30.04.2023</span>
+                    <span class="doc-date">pdf, 202.34 Kb</span>
+                </a>
+            </td>
+            <td data-name="Дата публикации: " class="td--doc-date td--nowrap ">19.05.2023 в 11:04</td>
+            <td data-name="Доступно до: " class="td--doc-date ">20.05.2026</td>
+        </tr>
+            <tr>
+            <td>
+                <a href="/upload/iblock/e7b/mx4xl18i5r0xpb7uhh8rkr45k7n69omv/RSS_310323.pdf" class="doc" target="_blank">
+                    <span class="doc-icon"><svg width="24" height="24" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg" alt="">
+                        <path d="M4 4C4 2.34315 5.34315 1 7 1H17C18.6569 1 20 2.34315 20 4V20C20 21.6569 18.6569 23 17 23H10.6569C9.86121 23 9.09814 22.6839 8.53553 22.1213L4.87868 18.4645C4.31607 17.9019 4 17.1388 4 16.3431V4Z" stroke="white" stroke-width="2" stroke-linecap="round"></path>
+                        <line x1="9" y1="8" x2="15" y2="8" stroke="white" stroke-width="2" stroke-linecap="round"></line>
+                        <line x1="9" y1="12" x2="15" y2="12" stroke="white" stroke-width="2" stroke-linecap="round"></line>
+                    </svg></span>
+                    <span class="doc-title">Расчет размера собственных средств на 31.03.2023</span>
+                    <span class="doc-date">pdf, 200.7 Kb</span>
+                </a>
+            </td>
+            <td data-name="Дата публикации: " class="td--doc-date td--nowrap ">18.04.2023 в 15:35</td>
+            <td data-name="Доступно до: " class="td--doc-date ">19.04.2026</td>
+        </tr>
+            <tr>
+            <td>
+                <a href="/upload/iblock/b7f/d1rh02u7itwg79w8t8ipvcrvzijjtgrr/RSS_28022023.pdf" class="doc" target="_blank">
+                    <span class="doc-icon"><svg width="24" height="24" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg" alt="">
+                        <path d="M4 4C4 2.34315 5.34315 1 7 1H17C18.6569 1 20 2.34315 20 4V20C20 21.6569 18.6569 23 17 23H10.6569C9.86121 23 9.09814 22.6839 8.53553 22.1213L4.87868 18.4645C4.31607 17.9019 4 17.1388 4 16.3431V4Z" stroke="white" stroke-width="2" stroke-linecap="round"></path>
+                        <line x1="9" y1="8" x2="15" y2="8" stroke="white" stroke-width="2" stroke-linecap="round"></line>
+                        <line x1="9" y1="12" x2="15" y2="12" stroke="white" stroke-width="2" stroke-linecap="round"></line>
+                    </svg></span>
+                    <span class="doc-title">Расчет размера собственных средств на 28.02.2023</span>
+                    <span class="doc-date">pdf, 200.72 Kb</span>
+                </a>
+            </td>
+            <td data-name="Дата публикации: " class="td--doc-date td--nowrap ">17.03.2023 в 10:51</td>
+            <td data-name="Доступно до: " class="td--doc-date ">18.03.2026</td>
+        </tr>
+            <tr>
+            <td>
+                <a href="/upload/iblock/5f5/t6ntg7t6110z164z4zbbnp6pvie8zptb/RSS_310123.pdf" class="doc" target="_blank">
+                    <span class="doc-icon"><svg width="24" height="24" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg" alt="">
+                        <path d="M4 4C4 2.34315 5.34315 1 7 1H17C18.6569 1 20 2.34315 20 4V20C20 21.6569 18.6569 23 17 23H10.6569C9.86121 23 9.09814 22.6839 8.53553 22.1213L4.87868 18.4645C4.31607 17.9019 4 17.1388 4 16.3431V4Z" stroke="white" stroke-width="2" stroke-linecap="round"></path>
+                        <line x1="9" y1="8" x2="15" y2="8" stroke="white" stroke-width="2" stroke-linecap="round"></line>
+                        <line x1="9" y1="12" x2="15" y2="12" stroke="white" stroke-width="2" stroke-linecap="round"></line>
+                    </svg></span>
+                    <span class="doc-title">Расчет размера собственных средств на 31.01.2023</span>
+                    <span class="doc-date">pdf, 200.75 Kb</span>
+                </a>
+            </td>
+            <td data-name="Дата публикации: " class="td--doc-date td--nowrap ">16.02.2023 в 10:30</td>
+            <td data-name="Доступно до: " class="td--doc-date ">17.02.2026</td>
+        </tr>
+            <tr>
+            <td>
+                <a href="/upload/iblock/db0/0y88fxt3txskvd9h0uwk0wv6i1ekauw3/RSS_311222.pdf" class="doc" target="_blank">
+                    <span class="doc-icon"><svg width="24" height="24" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg" alt="">
+                        <path d="M4 4C4 2.34315 5.34315 1 7 1H17C18.6569 1 20 2.34315 20 4V20C20 21.6569 18.6569 23 17 23H10.6569C9.86121 23 9.09814 22.6839 8.53553 22.1213L4.87868 18.4645C4.31607 17.9019 4 17.1388 4 16.3431V4Z" stroke="white" stroke-width="2" stroke-linecap="round"></path>
+                        <line x1="9" y1="8" x2="15" y2="8" stroke="white" stroke-width="2" stroke-linecap="round"></line>
+                        <line x1="9" y1="12" x2="15" y2="12" stroke="white" stroke-width="2" stroke-linecap="round"></line>
+                    </svg></span>
+                    <span class="doc-title">Расчет размера собственных средств на 31.12.2022</span>
+                    <span class="doc-date">pdf, 200.62 Kb</span>
+                </a>
+            </td>
+            <td data-name="Дата публикации: " class="td--doc-date td--nowrap ">23.01.2023 в 16:14</td>
+            <td data-name="Доступно до: " class="td--doc-date ">24.01.2026</td>
+        </tr>
+            <tr>
+            <td>
+                <a href="/upload/iblock/d07/4j5rr2qz26jyg204u03ec4bcgo2wbhly/301122.pdf" class="doc" target="_blank">
+                    <span class="doc-icon"><svg width="24" height="24" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg" alt="">
+                        <path d="M4 4C4 2.34315 5.34315 1 7 1H17C18.6569 1 20 2.34315 20 4V20C20 21.6569 18.6569 23 17 23H10.6569C9.86121 23 9.09814 22.6839 8.53553 22.1213L4.87868 18.4645C4.31607 17.9019 4 17.1388 4 16.3431V4Z" stroke="white" stroke-width="2" stroke-linecap="round"></path>
+                        <line x1="9" y1="8" x2="15" y2="8" stroke="white" stroke-width="2" stroke-linecap="round"></line>
+                        <line x1="9" y1="12" x2="15" y2="12" stroke="white" stroke-width="2" stroke-linecap="round"></line>
+                    </svg></span>
+                    <span class="doc-title">Расчет размера собственных средств на 30.11.2022</span>
+                    <span class="doc-date">pdf, 200.65 Kb</span>
+                </a>
+            </td>
+            <td data-name="Дата публикации: " class="td--doc-date td--nowrap ">16.12.2022 в 11:57</td>
+            <td data-name="Доступно до: " class="td--doc-date ">17.12.2025</td>
+        </tr>
+            <tr>
+            <td>
+                <a href="/upload/iblock/b61/fi6a18lomp17sq2x1ijh1vns2onj4ea8/311022.pdf" class="doc" target="_blank">
+                    <span class="doc-icon"><svg width="24" height="24" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg" alt="">
+                        <path d="M4 4C4 2.34315 5.34315 1 7 1H17C18.6569 1 20 2.34315 20 4V20C20 21.6569 18.6569 23 17 23H10.6569C9.86121 23 9.09814 22.6839 8.53553 22.1213L4.87868 18.4645C4.31607 17.9019 4 17.1388 4 16.3431V4Z" stroke="white" stroke-width="2" stroke-linecap="round"></path>
+                        <line x1="9" y1="8" x2="15" y2="8" stroke="white" stroke-width="2" stroke-linecap="round"></line>
+                        <line x1="9" y1="12" x2="15" y2="12" stroke="white" stroke-width="2" stroke-linecap="round"></line>
+                    </svg></span>
+                    <span class="doc-title">Расчет размера собственных средств на 31.10.2022</span>
+                    <span class="doc-date">pdf, 200.62 Kb</span>
+                </a>
+            </td>
+            <td data-name="Дата публикации: " class="td--doc-date td--nowrap ">17.11.2022 в 16:24</td>
+            <td data-name="Доступно до: " class="td--doc-date ">18.11.2025</td>
+        </tr>
+            <tr>
+            <td>
+                <a href="/upload/iblock/378/ifs652e5hezcz71mrbddcceccm9tkrz9/30092022_sait.pdf" class="doc" target="_blank">
+                    <span class="doc-icon"><svg width="24" height="24" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg" alt="">
+                        <path d="M4 4C4 2.34315 5.34315 1 7 1H17C18.6569 1 20 2.34315 20 4V20C20 21.6569 18.6569 23 17 23H10.6569C9.86121 23 9.09814 22.6839 8.53553 22.1213L4.87868 18.4645C4.31607 17.9019 4 17.1388 4 16.3431V4Z" stroke="white" stroke-width="2" stroke-linecap="round"></path>
+                        <line x1="9" y1="8" x2="15" y2="8" stroke="white" stroke-width="2" stroke-linecap="round"></line>
+                        <line x1="9" y1="12" x2="15" y2="12" stroke="white" stroke-width="2" stroke-linecap="round"></line>
+                    </svg></span>
+                    <span class="doc-title">Расчет размера собственных средств на 30.09.2022</span>
+                    <span class="doc-date">pdf, 200.63 Kb</span>
+                </a>
+            </td>
+            <td data-name="Дата публикации: " class="td--doc-date td--nowrap ">17.10.2022 в 11:22</td>
+            <td data-name="Доступно до: " class="td--doc-date ">18.10.2025</td>
+        </tr>
+            <tr>
+            <td>
+                <a href="/upload/iblock/267/duohg6wku0uc755dx382t4smk8sae3fu/31082022.pdf" class="doc" target="_blank">
+                    <span class="doc-icon"><svg width="24" height="24" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg" alt="">
+                        <path d="M4 4C4 2.34315 5.34315 1 7 1H17C18.6569 1 20 2.34315 20 4V20C20 21.6569 18.6569 23 17 23H10.6569C9.86121 23 9.09814 22.6839 8.53553 22.1213L4.87868 18.4645C4.31607 17.9019 4 17.1388 4 16.3431V4Z" stroke="white" stroke-width="2" stroke-linecap="round"></path>
+                        <line x1="9" y1="8" x2="15" y2="8" stroke="white" stroke-width="2" stroke-linecap="round"></line>
+                        <line x1="9" y1="12" x2="15" y2="12" stroke="white" stroke-width="2" stroke-linecap="round"></line>
+                    </svg></span>
+                    <span class="doc-title">Расчет размера собственных средств на 31.08.2022</span>
+                    <span class="doc-date">pdf, 201.14 Kb</span>
+                </a>
+            </td>
+            <td data-name="Дата публикации: " class="td--doc-date td--nowrap ">15.09.2022 в 14:59</td>
+            <td data-name="Доступно до: " class="td--doc-date ">16.09.2025</td>
+        </tr>
+            <tr>
+            <td>
+                <a href="/upload/iblock/026/p0n9algbhyyj0aa6oq3o0qvmv6xf9ow1/31072022_sait.pdf" class="doc" target="_blank">
+                    <span class="doc-icon"><svg width="24" height="24" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg" alt="">
+                        <path d="M4 4C4 2.34315 5.34315 1 7 1H17C18.6569 1 20 2.34315 20 4V20C20 21.6569 18.6569 23 17 23H10.6569C9.86121 23 9.09814 22.6839 8.53553 22.1213L4.87868 18.4645C4.31607 17.9019 4 17.1388 4 16.3431V4Z" stroke="white" stroke-width="2" stroke-linecap="round"></path>
+                        <line x1="9" y1="8" x2="15" y2="8" stroke="white" stroke-width="2" stroke-linecap="round"></line>
+                        <line x1="9" y1="12" x2="15" y2="12" stroke="white" stroke-width="2" stroke-linecap="round"></line>
+                    </svg></span>
+                    <span class="doc-title">Расчет размера собственных средств на 31.07.2022</span>
+                    <span class="doc-date">pdf, 104.13 Kb</span>
+                </a>
+            </td>
+            <td data-name="Дата публикации: " class="td--doc-date td--nowrap ">16.08.2022 в 14:28</td>
+            <td data-name="Доступно до: " class="td--doc-date ">17.08.2025</td>
+        </tr>
+            <tr>
+            <td>
+                <a href="/upload/iblock/da3/zky0zbbqeuff37t281u1lv8p81li0sa5/rss_30062022_cait.pdf" class="doc" target="_blank">
+                    <span class="doc-icon"><svg width="24" height="24" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg" alt="">
+                        <path d="M4 4C4 2.34315 5.34315 1 7 1H17C18.6569 1 20 2.34315 20 4V20C20 21.6569 18.6569 23 17 23H10.6569C9.86121 23 9.09814 22.6839 8.53553 22.1213L4.87868 18.4645C4.31607 17.9019 4 17.1388 4 16.3431V4Z" stroke="white" stroke-width="2" stroke-linecap="round"></path>
+                        <line x1="9" y1="8" x2="15" y2="8" stroke="white" stroke-width="2" stroke-linecap="round"></line>
+                        <line x1="9" y1="12" x2="15" y2="12" stroke="white" stroke-width="2" stroke-linecap="round"></line>
+                    </svg></span>
+                    <span class="doc-title">Расчет размера собственных средств на 30.06.2022</span>
+                    <span class="doc-date">pdf, 200.62 Kb</span>
+                </a>
+            </td>
+            <td data-name="Дата публикации: " class="td--doc-date td--nowrap ">18.07.2022 в 12:00</td>
+            <td data-name="Доступно до: " class="td--doc-date ">19.07.2025</td>
+        </tr>
+            <tr>
+            <td>
+                <a href="/upload/iblock/96c/4d15kii6i17tevv251zu5wdtonxod72w/rss_31052022_sait.pdf" class="doc" target="_blank">
+                    <span class="doc-icon"><svg width="24" height="24" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg" alt="">
+                        <path d="M4 4C4 2.34315 5.34315 1 7 1H17C18.6569 1 20 2.34315 20 4V20C20 21.6569 18.6569 23 17 23H10.6569C9.86121 23 9.09814 22.6839 8.53553 22.1213L4.87868 18.4645C4.31607 17.9019 4 17.1388 4 16.3431V4Z" stroke="white" stroke-width="2" stroke-linecap="round"></path>
+                        <line x1="9" y1="8" x2="15" y2="8" stroke="white" stroke-width="2" stroke-linecap="round"></line>
+                        <line x1="9" y1="12" x2="15" y2="12" stroke="white" stroke-width="2" stroke-linecap="round"></line>
+                    </svg></span>
+                    <span class="doc-title">Расчет размера собственных средств на 31.05.2022</span>
+                    <span class="doc-date">pdf, 200.72 Kb</span>
+                </a>
+            </td>
+            <td data-name="Дата публикации: " class="td--doc-date td--nowrap ">16.06.2022 в 16:23</td>
+            <td data-name="Доступно до: " class="td--doc-date ">17.06.2025</td>
+        </tr>
+            <tr>
+            <td>
+                <a href="/upload/iblock/8bf/vql4t1ci7jmxegviuqj0yxcfekuk9ttx/rss_30042022_sait.pdf" class="doc" target="_blank">
+                    <span class="doc-icon"><svg width="24" height="24" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg" alt="">
+                        <path d="M4 4C4 2.34315 5.34315 1 7 1H17C18.6569 1 20 2.34315 20 4V20C20 21.6569 18.6569 23 17 23H10.6569C9.86121 23 9.09814 22.6839 8.53553 22.1213L4.87868 18.4645C4.31607 17.9019 4 17.1388 4 16.3431V4Z" stroke="white" stroke-width="2" stroke-linecap="round"></path>
+                        <line x1="9" y1="8" x2="15" y2="8" stroke="white" stroke-width="2" stroke-linecap="round"></line>
+                        <line x1="9" y1="12" x2="15" y2="12" stroke="white" stroke-width="2" stroke-linecap="round"></line>
+                    </svg></span>
+                    <span class="doc-title">Расчет размера собственных средств на 30.04.2022</span>
+                    <span class="doc-date">pdf, 200.94 Kb</span>
+                </a>
+            </td>
+            <td data-name="Дата публикации: " class="td--doc-date td--nowrap ">20.05.2022 в 16:45</td>
+            <td data-name="Доступно до: " class="td--doc-date ">21.05.2025</td>
+        </tr>
+            <tr>
+            <td>
+                <a href="/upload/iblock/0f4/dxqg1ram2qkhe2k3rncfrgs3pvgo8zek/rss_31032022_sait.pdf" class="doc" target="_blank">
+                    <span class="doc-icon"><svg width="24" height="24" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg" alt="">
+                        <path d="M4 4C4 2.34315 5.34315 1 7 1H17C18.6569 1 20 2.34315 20 4V20C20 21.6569 18.6569 23 17 23H10.6569C9.86121 23 9.09814 22.6839 8.53553 22.1213L4.87868 18.4645C4.31607 17.9019 4 17.1388 4 16.3431V4Z" stroke="white" stroke-width="2" stroke-linecap="round"></path>
+                        <line x1="9" y1="8" x2="15" y2="8" stroke="white" stroke-width="2" stroke-linecap="round"></line>
+                        <line x1="9" y1="12" x2="15" y2="12" stroke="white" stroke-width="2" stroke-linecap="round"></line>
+                    </svg></span>
+                    <span class="doc-title">Расчет размера собственных средств на 31.03.2022</span>
+                    <span class="doc-date">pdf, 194.82 Kb</span>
+                </a>
+            </td>
+            <td data-name="Дата публикации: " class="td--doc-date td--nowrap ">15.04.2022 в 12:48</td>
+            <td data-name="Доступно до: " class="td--doc-date ">16.04.2025</td>
+        </tr>
+            <tr>
+            <td>
+                <a href="/upload/iblock/a51/5y1x3pvepogfy0zwurwnm2snppbukmab/rss_28022022.pdf" class="doc" target="_blank">
+                    <span class="doc-icon"><svg width="24" height="24" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg" alt="">
+                        <path d="M4 4C4 2.34315 5.34315 1 7 1H17C18.6569 1 20 2.34315 20 4V20C20 21.6569 18.6569 23 17 23H10.6569C9.86121 23 9.09814 22.6839 8.53553 22.1213L4.87868 18.4645C4.31607 17.9019 4 17.1388 4 16.3431V4Z" stroke="white" stroke-width="2" stroke-linecap="round"></path>
+                        <line x1="9" y1="8" x2="15" y2="8" stroke="white" stroke-width="2" stroke-linecap="round"></line>
+                        <line x1="9" y1="12" x2="15" y2="12" stroke="white" stroke-width="2" stroke-linecap="round"></line>
+                    </svg></span>
+                    <span class="doc-title">Расчет размера собственных средств на 28.02.2022</span>
+                    <span class="doc-date">pdf, 195.3 Kb</span>
+                </a>
+            </td>
+            <td data-name="Дата публикации: " class="td--doc-date td--nowrap ">16.03.2022 в 11:53</td>
+            <td data-name="Доступно до: " class="td--doc-date ">17.03.2025</td>
+        </tr>
+            <tr>
+            <td>
+                <a href="/upload/iblock/b1f/a6272p75timtjar4oxjs158paa0zgnx4/soobshchenie_ob_obnaruzhenii_netochnykh_svedenii_rss_10032022.pdf" class="doc" target="_blank">
+                    <span class="doc-icon"><svg width="24" height="24" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg" alt="">
+                        <path d="M4 4C4 2.34315 5.34315 1 7 1H17C18.6569 1 20 2.34315 20 4V20C20 21.6569 18.6569 23 17 23H10.6569C9.86121 23 9.09814 22.6839 8.53553 22.1213L4.87868 18.4645C4.31607 17.9019 4 17.1388 4 16.3431V4Z" stroke="white" stroke-width="2" stroke-linecap="round"></path>
+                        <line x1="9" y1="8" x2="15" y2="8" stroke="white" stroke-width="2" stroke-linecap="round"></line>
+                        <line x1="9" y1="12" x2="15" y2="12" stroke="white" stroke-width="2" stroke-linecap="round"></line>
+                    </svg></span>
+                    <span class="doc-title">Сообщение об обнаружении неточных сведений РСС</span>
+                    <span class="doc-date">pdf, 203.3 Kb</span>
+                </a>
+            </td>
+            <td data-name="Дата публикации: " class="td--doc-date td--nowrap ">10.03.2022 в 17:48</td>
+            <td data-name="Доступно до: " class="td--doc-date ">11.03.2025</td>
+        </tr>
+            <tr>
+            <td>
+                <a href="/upload/iblock/c1d/9yzkzocuz4z37y9j4h5hc1yt2xfc3xbc/rss_311221_utochnennyi.pdf" class="doc" target="_blank">
+                    <span class="doc-icon"><svg width="24" height="24" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg" alt="">
+                        <path d="M4 4C4 2.34315 5.34315 1 7 1H17C18.6569 1 20 2.34315 20 4V20C20 21.6569 18.6569 23 17 23H10.6569C9.86121 23 9.09814 22.6839 8.53553 22.1213L4.87868 18.4645C4.31607 17.9019 4 17.1388 4 16.3431V4Z" stroke="white" stroke-width="2" stroke-linecap="round"></path>
+                        <line x1="9" y1="8" x2="15" y2="8" stroke="white" stroke-width="2" stroke-linecap="round"></line>
+                        <line x1="9" y1="12" x2="15" y2="12" stroke="white" stroke-width="2" stroke-linecap="round"></line>
+                    </svg></span>
+                    <span class="doc-title">Расчет размера собственных средств на 31.12.2021 уточненный</span>
+                    <span class="doc-date">pdf, 195.78 Kb</span>
+                </a>
+            </td>
+            <td data-name="Дата публикации: " class="td--doc-date td--nowrap ">10.03.2022 в 15:44</td>
+            <td data-name="Доступно до: " class="td--doc-date ">11.03.2025</td>
+        </tr>
+            <tr>
+            <td>
+                <a href="/upload/iblock/024/9lucb6nr8xnhrr0ljr7dd5cfl70227c4/rss_31012022_sait.pdf" class="doc" target="_blank">
+                    <span class="doc-icon"><svg width="24" height="24" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg" alt="">
+                        <path d="M4 4C4 2.34315 5.34315 1 7 1H17C18.6569 1 20 2.34315 20 4V20C20 21.6569 18.6569 23 17 23H10.6569C9.86121 23 9.09814 22.6839 8.53553 22.1213L4.87868 18.4645C4.31607 17.9019 4 17.1388 4 16.3431V4Z" stroke="white" stroke-width="2" stroke-linecap="round"></path>
+                        <line x1="9" y1="8" x2="15" y2="8" stroke="white" stroke-width="2" stroke-linecap="round"></line>
+                        <line x1="9" y1="12" x2="15" y2="12" stroke="white" stroke-width="2" stroke-linecap="round"></line>
+                    </svg></span>
+                    <span class="doc-title">Расчет размера собственных средств на 31.01.2022</span>
+                    <span class="doc-date">pdf, 267.08 Kb</span>
+                </a>
+            </td>
+            <td data-name="Дата публикации: " class="td--doc-date td--nowrap ">15.02.2022 в 11:33</td>
+            <td data-name="Доступно до: " class="td--doc-date ">16.02.2025</td>
+        </tr>
+            <tr>
+            <td>
+                <a href="/upload/iblock/f6f/uuefs3v2fjblmkpo5ff7yrm5x3hn65r2/rss_31122021_sait.pdf" class="doc" target="_blank">
+                    <span class="doc-icon"><svg width="24" height="24" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg" alt="">
+                        <path d="M4 4C4 2.34315 5.34315 1 7 1H17C18.6569 1 20 2.34315 20 4V20C20 21.6569 18.6569 23 17 23H10.6569C9.86121 23 9.09814 22.6839 8.53553 22.1213L4.87868 18.4645C4.31607 17.9019 4 17.1388 4 16.3431V4Z" stroke="white" stroke-width="2" stroke-linecap="round"></path>
+                        <line x1="9" y1="8" x2="15" y2="8" stroke="white" stroke-width="2" stroke-linecap="round"></line>
+                        <line x1="9" y1="12" x2="15" y2="12" stroke="white" stroke-width="2" stroke-linecap="round"></line>
+                    </svg></span>
+                    <span class="doc-title"> Расчет размера собственных средств на 31.12.2021</span>
+                    <span class="doc-date">pdf, 356.53 Kb</span>
+                </a>
+            </td>
+            <td data-name="Дата публикации: " class="td--doc-date td--nowrap ">24.01.2022 в 15:05</td>
+            <td data-name="Доступно до: " class="td--doc-date ">25.01.2025</td>
+        </tr>
+            <tr>
+            <td>
+                <a href="/upload/iblock/0ef/gy8g72sk1gcmde5me3ux9q6rvvjnovu2/rss_30112021.pdf" class="doc" target="_blank">
+                    <span class="doc-icon"><svg width="24" height="24" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg" alt="">
+                        <path d="M4 4C4 2.34315 5.34315 1 7 1H17C18.6569 1 20 2.34315 20 4V20C20 21.6569 18.6569 23 17 23H10.6569C9.86121 23 9.09814 22.6839 8.53553 22.1213L4.87868 18.4645C4.31607 17.9019 4 17.1388 4 16.3431V4Z" stroke="white" stroke-width="2" stroke-linecap="round"></path>
+                        <line x1="9" y1="8" x2="15" y2="8" stroke="white" stroke-width="2" stroke-linecap="round"></line>
+                        <line x1="9" y1="12" x2="15" y2="12" stroke="white" stroke-width="2" stroke-linecap="round"></line>
+                    </svg></span>
+                    <span class="doc-title">Расчет размера собственных средств на 30.11.2021</span>
+                    <span class="doc-date">pdf, 275.1 Kb</span>
+                </a>
+            </td>
+            <td data-name="Дата публикации: " class="td--doc-date td--nowrap ">15.12.2021 в 11:06</td>
+            <td data-name="Доступно до: " class="td--doc-date ">16.12.2024</td>
+        </tr>
+            <tr>
+            <td>
+                <a href="/upload/iblock/335/d0wnp1cz2zfx9e7bnoya0wagpmr62diq/rss_31102021_sait.pdf" class="doc" target="_blank">
+                    <span class="doc-icon"><svg width="24" height="24" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg" alt="">
+                        <path d="M4 4C4 2.34315 5.34315 1 7 1H17C18.6569 1 20 2.34315 20 4V20C20 21.6569 18.6569 23 17 23H10.6569C9.86121 23 9.09814 22.6839 8.53553 22.1213L4.87868 18.4645C4.31607 17.9019 4 17.1388 4 16.3431V4Z" stroke="white" stroke-width="2" stroke-linecap="round"></path>
+                        <line x1="9" y1="8" x2="15" y2="8" stroke="white" stroke-width="2" stroke-linecap="round"></line>
+                        <line x1="9" y1="12" x2="15" y2="12" stroke="white" stroke-width="2" stroke-linecap="round"></line>
+                    </svg></span>
+                    <span class="doc-title">Расчет размера собственных средств на 31.10.2021</span>
+                    <span class="doc-date">pdf, 274.81 Kb</span>
+                </a>
+            </td>
+            <td data-name="Дата публикации: " class="td--doc-date td--nowrap ">22.11.2021 в 09:23</td>
+            <td data-name="Доступно до: " class="td--doc-date ">23.11.2024</td>
+        </tr>
+            <tr>
+            <td>
+                <a href="/upload/iblock/b8d/8t5b0g9rwm95eoff2i1izp6o63ufpy3r/rss_30092021_sait.pdf" class="doc" target="_blank">
+                    <span class="doc-icon"><svg width="24" height="24" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg" alt="">
+                        <path d="M4 4C4 2.34315 5.34315 1 7 1H17C18.6569 1 20 2.34315 20 4V20C20 21.6569 18.6569 23 17 23H10.6569C9.86121 23 9.09814 22.6839 8.53553 22.1213L4.87868 18.4645C4.31607 17.9019 4 17.1388 4 16.3431V4Z" stroke="white" stroke-width="2" stroke-linecap="round"></path>
+                        <line x1="9" y1="8" x2="15" y2="8" stroke="white" stroke-width="2" stroke-linecap="round"></line>
+                        <line x1="9" y1="12" x2="15" y2="12" stroke="white" stroke-width="2" stroke-linecap="round"></line>
+                    </svg></span>
+                    <span class="doc-title">Расчет размера собственных средств на 30.09.2021</span>
+                    <span class="doc-date">pdf, 290.18 Kb</span>
+                </a>
+            </td>
+            <td data-name="Дата публикации: " class="td--doc-date td--nowrap ">19.10.2021 в 10:12</td>
+            <td data-name="Доступно до: " class="td--doc-date ">20.10.2024</td>
+        </tr>
+            <tr>
+            <td>
+                <a href="/upload/iblock/cdf/5a9muqlq5luoufwlw2049wyvn6megt2o/rss_31082021.pdf" class="doc" target="_blank">
+                    <span class="doc-icon"><svg width="24" height="24" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg" alt="">
+                        <path d="M4 4C4 2.34315 5.34315 1 7 1H17C18.6569 1 20 2.34315 20 4V20C20 21.6569 18.6569 23 17 23H10.6569C9.86121 23 9.09814 22.6839 8.53553 22.1213L4.87868 18.4645C4.31607 17.9019 4 17.1388 4 16.3431V4Z" stroke="white" stroke-width="2" stroke-linecap="round"></path>
+                        <line x1="9" y1="8" x2="15" y2="8" stroke="white" stroke-width="2" stroke-linecap="round"></line>
+                        <line x1="9" y1="12" x2="15" y2="12" stroke="white" stroke-width="2" stroke-linecap="round"></line>
+                    </svg></span>
+                    <span class="doc-title">Расчет размера собственных средств на 31.08.2021</span>
+                    <span class="doc-date">pdf, 558.42 Kb</span>
+                </a>
+            </td>
+            <td data-name="Дата публикации: " class="td--doc-date td--nowrap ">16.09.2021 в 14:11</td>
+            <td data-name="Доступно до: " class="td--doc-date ">17.09.2024</td>
+        </tr>
+            <tr>
+            <td>
+                <a href="/upload/iblock/752/0x9xxmf6y2833838f7lo6o4hrdethhaj/rss_31072021.pdf" class="doc" target="_blank">
+                    <span class="doc-icon"><svg width="24" height="24" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg" alt="">
+                        <path d="M4 4C4 2.34315 5.34315 1 7 1H17C18.6569 1 20 2.34315 20 4V20C20 21.6569 18.6569 23 17 23H10.6569C9.86121 23 9.09814 22.6839 8.53553 22.1213L4.87868 18.4645C4.31607 17.9019 4 17.1388 4 16.3431V4Z" stroke="white" stroke-width="2" stroke-linecap="round"></path>
+                        <line x1="9" y1="8" x2="15" y2="8" stroke="white" stroke-width="2" stroke-linecap="round"></line>
+                        <line x1="9" y1="12" x2="15" y2="12" stroke="white" stroke-width="2" stroke-linecap="round"></line>
+                    </svg></span>
+                    <span class="doc-title">Расчет размера собственных средств на 31.07.2021</span>
+                    <span class="doc-date">pdf, 563.47 Kb</span>
+                </a>
+            </td>
+            <td data-name="Дата публикации: " class="td--doc-date td--nowrap ">17.08.2021 в 19:02</td>
+            <td data-name="Доступно до: " class="td--doc-date ">18.08.2024</td>
+        </tr>
+            <tr>
+            <td>
+                <a href="/upload/iblock/454/iizf9zggcggx34llxa71o9judiob4533/rss_30062021.pdf" class="doc" target="_blank">
+                    <span class="doc-icon"><svg width="24" height="24" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg" alt="">
+                        <path d="M4 4C4 2.34315 5.34315 1 7 1H17C18.6569 1 20 2.34315 20 4V20C20 21.6569 18.6569 23 17 23H10.6569C9.86121 23 9.09814 22.6839 8.53553 22.1213L4.87868 18.4645C4.31607 17.9019 4 17.1388 4 16.3431V4Z" stroke="white" stroke-width="2" stroke-linecap="round"></path>
+                        <line x1="9" y1="8" x2="15" y2="8" stroke="white" stroke-width="2" stroke-linecap="round"></line>
+                        <line x1="9" y1="12" x2="15" y2="12" stroke="white" stroke-width="2" stroke-linecap="round"></line>
+                    </svg></span>
+                    <span class="doc-title">Расчет размера собственных средств на 30.06.2021</span>
+                    <span class="doc-date">pdf, 499.2 Kb</span>
+                </a>
+            </td>
+            <td data-name="Дата публикации: " class="td--doc-date td--nowrap ">20.07.2021 в 17:13</td>
+            <td data-name="Доступно до: " class="td--doc-date ">21.07.2024</td>
+        </tr>
+            <tr>
+            <td>
+                <a href="/upload/iblock/1f6/x8ermyptml0jv5u1tlwwfzpqoi13vqa7/rss_31052021.pdf" class="doc" target="_blank">
+                    <span class="doc-icon"><svg width="24" height="24" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg" alt="">
+                        <path d="M4 4C4 2.34315 5.34315 1 7 1H17C18.6569 1 20 2.34315 20 4V20C20 21.6569 18.6569 23 17 23H10.6569C9.86121 23 9.09814 22.6839 8.53553 22.1213L4.87868 18.4645C4.31607 17.9019 4 17.1388 4 16.3431V4Z" stroke="white" stroke-width="2" stroke-linecap="round"></path>
+                        <line x1="9" y1="8" x2="15" y2="8" stroke="white" stroke-width="2" stroke-linecap="round"></line>
+                        <line x1="9" y1="12" x2="15" y2="12" stroke="white" stroke-width="2" stroke-linecap="round"></line>
+                    </svg></span>
+                    <span class="doc-title">Расчет размера собственных средств на 31.05.2021</span>
+                    <span class="doc-date">pdf, 554.76 Kb</span>
+                </a>
+            </td>
+            <td data-name="Дата публикации: " class="td--doc-date td--nowrap ">18.06.2021 в 12:30</td>
+            <td data-name="Доступно до: " class="td--doc-date ">19.06.2024</td>
+        </tr>
+            <tr>
+            <td>
+                <a href="/upload/iblock/348/zj6y72gcydxmfgtza2fnt7kyy39pq3y9/rss_300421.pdf" class="doc" target="_blank">
+                    <span class="doc-icon"><svg width="24" height="24" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg" alt="">
+                        <path d="M4 4C4 2.34315 5.34315 1 7 1H17C18.6569 1 20 2.34315 20 4V20C20 21.6569 18.6569 23 17 23H10.6569C9.86121 23 9.09814 22.6839 8.53553 22.1213L4.87868 18.4645C4.31607 17.9019 4 17.1388 4 16.3431V4Z" stroke="white" stroke-width="2" stroke-linecap="round"></path>
+                        <line x1="9" y1="8" x2="15" y2="8" stroke="white" stroke-width="2" stroke-linecap="round"></line>
+                        <line x1="9" y1="12" x2="15" y2="12" stroke="white" stroke-width="2" stroke-linecap="round"></line>
+                    </svg></span>
+                    <span class="doc-title">Расчет размера собственных средств на 30.04.2021</span>
+                    <span class="doc-date">pdf, 557.19 Kb</span>
+                </a>
+            </td>
+            <td data-name="Дата публикации: " class="td--doc-date td--nowrap ">25.05.2021 в 16:15</td>
+            <td data-name="Доступно до: " class="td--doc-date ">26.05.2024</td>
+        </tr>
+            <tr>
+            <td>
+                <a href="/upload/iblock/92f/oeqaa4xywna6oitau0ugbnpqu36ut7i3/rss_310321_kor.pdf" class="doc" target="_blank">
+                    <span class="doc-icon"><svg width="24" height="24" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg" alt="">
+                        <path d="M4 4C4 2.34315 5.34315 1 7 1H17C18.6569 1 20 2.34315 20 4V20C20 21.6569 18.6569 23 17 23H10.6569C9.86121 23 9.09814 22.6839 8.53553 22.1213L4.87868 18.4645C4.31607 17.9019 4 17.1388 4 16.3431V4Z" stroke="white" stroke-width="2" stroke-linecap="round"></path>
+                        <line x1="9" y1="8" x2="15" y2="8" stroke="white" stroke-width="2" stroke-linecap="round"></line>
+                        <line x1="9" y1="12" x2="15" y2="12" stroke="white" stroke-width="2" stroke-linecap="round"></line>
+                    </svg></span>
+                    <span class="doc-title">Расчет размера собственных средств на 31.03.2021 уточненный</span>
+                    <span class="doc-date">pdf, 575.47 Kb</span>
+                </a>
+            </td>
+            <td data-name="Дата публикации: " class="td--doc-date td--nowrap ">25.05.2021 в 16:12</td>
+            <td data-name="Доступно до: " class="td--doc-date ">26.05.2024</td>
+        </tr>
+            <tr>
+            <td>
+                <a href="/upload/iblock/395/jpg9ts5ifn8dka5bf745yqmw40wwjowi/rss_31032021.pdf" class="doc" target="_blank">
+                    <span class="doc-icon"><svg width="24" height="24" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg" alt="">
+                        <path d="M4 4C4 2.34315 5.34315 1 7 1H17C18.6569 1 20 2.34315 20 4V20C20 21.6569 18.6569 23 17 23H10.6569C9.86121 23 9.09814 22.6839 8.53553 22.1213L4.87868 18.4645C4.31607 17.9019 4 17.1388 4 16.3431V4Z" stroke="white" stroke-width="2" stroke-linecap="round"></path>
+                        <line x1="9" y1="8" x2="15" y2="8" stroke="white" stroke-width="2" stroke-linecap="round"></line>
+                        <line x1="9" y1="12" x2="15" y2="12" stroke="white" stroke-width="2" stroke-linecap="round"></line>
+                    </svg></span>
+                    <span class="doc-title">Расчет размера собственных средств на 31.03.2021</span>
+                    <span class="doc-date">pdf, 705.98 Kb</span>
+                </a>
+            </td>
+            <td data-name="Дата публикации: " class="td--doc-date td--nowrap ">16.04.2021 в 13:33</td>
+            <td data-name="Доступно до: " class="td--doc-date ">17.04.2024</td>
+        </tr>
+            <tr>
+            <td>
+                <a href="/upload/iblock/8c3/aeby7gsgxpseedwkwvz0clzyg6nv5yi1/rss_28022021.pdf" class="doc" target="_blank">
+                    <span class="doc-icon"><svg width="24" height="24" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg" alt="">
+                        <path d="M4 4C4 2.34315 5.34315 1 7 1H17C18.6569 1 20 2.34315 20 4V20C20 21.6569 18.6569 23 17 23H10.6569C9.86121 23 9.09814 22.6839 8.53553 22.1213L4.87868 18.4645C4.31607 17.9019 4 17.1388 4 16.3431V4Z" stroke="white" stroke-width="2" stroke-linecap="round"></path>
+                        <line x1="9" y1="8" x2="15" y2="8" stroke="white" stroke-width="2" stroke-linecap="round"></line>
+                        <line x1="9" y1="12" x2="15" y2="12" stroke="white" stroke-width="2" stroke-linecap="round"></line>
+                    </svg></span>
+                    <span class="doc-title">Расчет размера собственных средств на 28.02.2021</span>
+                    <span class="doc-date">pdf, 735.87 Kb</span>
+                </a>
+            </td>
+            <td data-name="Дата публикации: " class="td--doc-date td--nowrap ">16.03.2021 в 10:49</td>
+            <td data-name="Доступно до: " class="td--doc-date ">17.03.2024</td>
+        </tr>
+            <tr>
+            <td>
+                <a href="/upload/iblock/363/xk4l1peophk3udtomqxwgn3x2259i20k/rss_31012021_new.pdf" class="doc" target="_blank">
+                    <span class="doc-icon"><svg width="24" height="24" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg" alt="">
+                        <path d="M4 4C4 2.34315 5.34315 1 7 1H17C18.6569 1 20 2.34315 20 4V20C20 21.6569 18.6569 23 17 23H10.6569C9.86121 23 9.09814 22.6839 8.53553 22.1213L4.87868 18.4645C4.31607 17.9019 4 17.1388 4 16.3431V4Z" stroke="white" stroke-width="2" stroke-linecap="round"></path>
+                        <line x1="9" y1="8" x2="15" y2="8" stroke="white" stroke-width="2" stroke-linecap="round"></line>
+                        <line x1="9" y1="12" x2="15" y2="12" stroke="white" stroke-width="2" stroke-linecap="round"></line>
+                    </svg></span>
+                    <span class="doc-title">Расчет размера собственных средств на 31.01.2021 уточненный</span>
+                    <span class="doc-date">pdf, 665.63 Kb</span>
+                </a>
+            </td>
+            <td data-name="Дата публикации: " class="td--doc-date td--nowrap ">03.03.2021 в 12:03</td>
+            <td data-name="Доступно до: " class="td--doc-date ">04.03.2024</td>
+        </tr>
+            <tr>
+            <td>
+                <a href="/upload/iblock/f92/cpp2cfq7vwbb2ikbrw4pqzljfxk84tp8/rss_31122020_new.pdf" class="doc" target="_blank">
+                    <span class="doc-icon"><svg width="24" height="24" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg" alt="">
+                        <path d="M4 4C4 2.34315 5.34315 1 7 1H17C18.6569 1 20 2.34315 20 4V20C20 21.6569 18.6569 23 17 23H10.6569C9.86121 23 9.09814 22.6839 8.53553 22.1213L4.87868 18.4645C4.31607 17.9019 4 17.1388 4 16.3431V4Z" stroke="white" stroke-width="2" stroke-linecap="round"></path>
+                        <line x1="9" y1="8" x2="15" y2="8" stroke="white" stroke-width="2" stroke-linecap="round"></line>
+                        <line x1="9" y1="12" x2="15" y2="12" stroke="white" stroke-width="2" stroke-linecap="round"></line>
+                    </svg></span>
+                    <span class="doc-title">Расчет размера собственных средств на 31.12.2020 уточненный</span>
+                    <span class="doc-date">pdf, 706.83 Kb</span>
+                </a>
+            </td>
+            <td data-name="Дата публикации: " class="td--doc-date td--nowrap ">03.03.2021 в 12:01</td>
+            <td data-name="Доступно до: " class="td--doc-date ">04.03.2024</td>
+        </tr>
+            <tr>
+            <td>
+                <a href="/upload/iblock/721/ymm6jzos9jawcm6lr3slbg9036hwbp0d/rss_31012021.pdf" class="doc" target="_blank">
+                    <span class="doc-icon"><svg width="24" height="24" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg" alt="">
+                        <path d="M4 4C4 2.34315 5.34315 1 7 1H17C18.6569 1 20 2.34315 20 4V20C20 21.6569 18.6569 23 17 23H10.6569C9.86121 23 9.09814 22.6839 8.53553 22.1213L4.87868 18.4645C4.31607 17.9019 4 17.1388 4 16.3431V4Z" stroke="white" stroke-width="2" stroke-linecap="round"></path>
+                        <line x1="9" y1="8" x2="15" y2="8" stroke="white" stroke-width="2" stroke-linecap="round"></line>
+                        <line x1="9" y1="12" x2="15" y2="12" stroke="white" stroke-width="2" stroke-linecap="round"></line>
+                    </svg></span>
+                    <span class="doc-title">Расчет размера собственных средств на 31.01.2021</span>
+                    <span class="doc-date">pdf, 673.47 Kb</span>
+                </a>
+            </td>
+            <td data-name="Дата публикации: " class="td--doc-date td--nowrap ">17.02.2021 в 16:44</td>
+            <td data-name="Доступно до: " class="td--doc-date ">18.02.2024</td>
+        </tr>
+            <tr>
+            <td>
+                <a href="/upload/iblock/747/1vwf58a16sqa0uj15u246ubpr5gz9aow/rss_31122020.pdf" class="doc" target="_blank">
+                    <span class="doc-icon"><svg width="24" height="24" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg" alt="">
+                        <path d="M4 4C4 2.34315 5.34315 1 7 1H17C18.6569 1 20 2.34315 20 4V20C20 21.6569 18.6569 23 17 23H10.6569C9.86121 23 9.09814 22.6839 8.53553 22.1213L4.87868 18.4645C4.31607 17.9019 4 17.1388 4 16.3431V4Z" stroke="white" stroke-width="2" stroke-linecap="round"></path>
+                        <line x1="9" y1="8" x2="15" y2="8" stroke="white" stroke-width="2" stroke-linecap="round"></line>
+                        <line x1="9" y1="12" x2="15" y2="12" stroke="white" stroke-width="2" stroke-linecap="round"></line>
+                    </svg></span>
+                    <span class="doc-title">Расчет размера собственных средств на 31.12.2020</span>
+                    <span class="doc-date">pdf, 700.45 Kb</span>
+                </a>
+            </td>
+            <td data-name="Дата публикации: " class="td--doc-date td--nowrap ">25.01.2021 в 16:05</td>
+            <td data-name="Доступно до: " class="td--doc-date ">26.01.2024</td>
+        </tr>
+            <tr>
+            <td>
+                <a href="/upload/iblock/3f7/md6csgaiebk024y4jk61p5ncusfkvi0j/rss_301120.pdf" class="doc" target="_blank">
+                    <span class="doc-icon"><svg width="24" height="24" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg" alt="">
+                        <path d="M4 4C4 2.34315 5.34315 1 7 1H17C18.6569 1 20 2.34315 20 4V20C20 21.6569 18.6569 23 17 23H10.6569C9.86121 23 9.09814 22.6839 8.53553 22.1213L4.87868 18.4645C4.31607 17.9019 4 17.1388 4 16.3431V4Z" stroke="white" stroke-width="2" stroke-linecap="round"></path>
+                        <line x1="9" y1="8" x2="15" y2="8" stroke="white" stroke-width="2" stroke-linecap="round"></line>
+                        <line x1="9" y1="12" x2="15" y2="12" stroke="white" stroke-width="2" stroke-linecap="round"></line>
+                    </svg></span>
+                    <span class="doc-title">Расчет размера собственных средств на 30.11.2020</span>
+                    <span class="doc-date">pdf, 708.31 Kb</span>
+                </a>
+            </td>
+            <td data-name="Дата публикации: " class="td--doc-date td--nowrap ">15.12.2020 в 14:51</td>
+            <td data-name="Доступно до: " class="td--doc-date ">16.12.2023</td>
+        </tr>
+            <tr>
+            <td>
+                <a href="/upload/iblock/c32/ro9l4y6iqmvifp05uzuc54yx6psj2u7c/rss_311020.pdf" class="doc" target="_blank">
+                    <span class="doc-icon"><svg width="24" height="24" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg" alt="">
+                        <path d="M4 4C4 2.34315 5.34315 1 7 1H17C18.6569 1 20 2.34315 20 4V20C20 21.6569 18.6569 23 17 23H10.6569C9.86121 23 9.09814 22.6839 8.53553 22.1213L4.87868 18.4645C4.31607 17.9019 4 17.1388 4 16.3431V4Z" stroke="white" stroke-width="2" stroke-linecap="round"></path>
+                        <line x1="9" y1="8" x2="15" y2="8" stroke="white" stroke-width="2" stroke-linecap="round"></line>
+                        <line x1="9" y1="12" x2="15" y2="12" stroke="white" stroke-width="2" stroke-linecap="round"></line>
+                    </svg></span>
+                    <span class="doc-title">Расчет размера собственных средств на 31.10.2020</span>
+                    <span class="doc-date">pdf, 723.71 Kb</span>
+                </a>
+            </td>
+            <td data-name="Дата публикации: " class="td--doc-date td--nowrap ">26.11.2020 в 20:12</td>
+            <td data-name="Доступно до: " class="td--doc-date ">27.11.2023</td>
+        </tr>
+            <tr>
+            <td>
+                <a href="/upload/iblock/d11/qp7ogkhmw2bx11l2sxhalhc64d4pbd4g/rss_300920.pdf" class="doc" target="_blank">
+                    <span class="doc-icon"><svg width="24" height="24" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg" alt="">
+                        <path d="M4 4C4 2.34315 5.34315 1 7 1H17C18.6569 1 20 2.34315 20 4V20C20 21.6569 18.6569 23 17 23H10.6569C9.86121 23 9.09814 22.6839 8.53553 22.1213L4.87868 18.4645C4.31607 17.9019 4 17.1388 4 16.3431V4Z" stroke="white" stroke-width="2" stroke-linecap="round"></path>
+                        <line x1="9" y1="8" x2="15" y2="8" stroke="white" stroke-width="2" stroke-linecap="round"></line>
+                        <line x1="9" y1="12" x2="15" y2="12" stroke="white" stroke-width="2" stroke-linecap="round"></line>
+                    </svg></span>
+                    <span class="doc-title">Расчет размера собственных средств на 30.09.2020</span>
+                    <span class="doc-date">pdf, 695.23 Kb</span>
+                </a>
+            </td>
+            <td data-name="Дата публикации: " class="td--doc-date td--nowrap ">21.10.2020 в 11:23</td>
+            <td data-name="Доступно до: " class="td--doc-date ">22.10.2023</td>
+        </tr>
+            <tr>
+            <td>
+                <a href="/upload/iblock/5b2/sygepto3w7fbtnufuvq1scazsmqpt1zd/rss_31082020_k.pdf" class="doc" target="_blank">
+                    <span class="doc-icon"><svg width="24" height="24" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg" alt="">
+                        <path d="M4 4C4 2.34315 5.34315 1 7 1H17C18.6569 1 20 2.34315 20 4V20C20 21.6569 18.6569 23 17 23H10.6569C9.86121 23 9.09814 22.6839 8.53553 22.1213L4.87868 18.4645C4.31607 17.9019 4 17.1388 4 16.3431V4Z" stroke="white" stroke-width="2" stroke-linecap="round"></path>
+                        <line x1="9" y1="8" x2="15" y2="8" stroke="white" stroke-width="2" stroke-linecap="round"></line>
+                        <line x1="9" y1="12" x2="15" y2="12" stroke="white" stroke-width="2" stroke-linecap="round"></line>
+                    </svg></span>
+                    <span class="doc-title">Обновленный расчет размера собственных средств на 31.08.2020</span>
+                    <span class="doc-date">pdf, 604.44 Kb</span>
+                </a>
+            </td>
+            <td data-name="Дата публикации: " class="td--doc-date td--nowrap ">13.10.2020 в 14:16</td>
+            <td data-name="Доступно до: " class="td--doc-date ">14.10.2023</td>
+        </tr>
+            <tr>
+            <td>
+                <a href="/upload/iblock/cf2/e1j5t5ux8flgffm30wp3rycqusi05zy7/rss_31082020.pdf" class="doc" target="_blank">
+                    <span class="doc-icon"><svg width="24" height="24" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg" alt="">
+                        <path d="M4 4C4 2.34315 5.34315 1 7 1H17C18.6569 1 20 2.34315 20 4V20C20 21.6569 18.6569 23 17 23H10.6569C9.86121 23 9.09814 22.6839 8.53553 22.1213L4.87868 18.4645C4.31607 17.9019 4 17.1388 4 16.3431V4Z" stroke="white" stroke-width="2" stroke-linecap="round"></path>
+                        <line x1="9" y1="8" x2="15" y2="8" stroke="white" stroke-width="2" stroke-linecap="round"></line>
+                        <line x1="9" y1="12" x2="15" y2="12" stroke="white" stroke-width="2" stroke-linecap="round"></line>
+                    </svg></span>
+                    <span class="doc-title">Расчет размера собственных средств на 31.08.2020</span>
+                    <span class="doc-date">pdf, 708.83 Kb</span>
+                </a>
+            </td>
+            <td data-name="Дата публикации: " class="td--doc-date td--nowrap ">16.09.2020 в 15:31</td>
+            <td data-name="Доступно до: " class="td--doc-date ">17.09.2023</td>
+        </tr>
+            <tr>
+            <td>
+                <a href="/upload/iblock/16e/k80a6w7dc1tdpzqbwmj4mnx6na6vhiq9/rss_310720.pdf" class="doc" target="_blank">
+                    <span class="doc-icon"><svg width="24" height="24" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg" alt="">
+                        <path d="M4 4C4 2.34315 5.34315 1 7 1H17C18.6569 1 20 2.34315 20 4V20C20 21.6569 18.6569 23 17 23H10.6569C9.86121 23 9.09814 22.6839 8.53553 22.1213L4.87868 18.4645C4.31607 17.9019 4 17.1388 4 16.3431V4Z" stroke="white" stroke-width="2" stroke-linecap="round"></path>
+                        <line x1="9" y1="8" x2="15" y2="8" stroke="white" stroke-width="2" stroke-linecap="round"></line>
+                        <line x1="9" y1="12" x2="15" y2="12" stroke="white" stroke-width="2" stroke-linecap="round"></line>
+                    </svg></span>
+                    <span class="doc-title">Расчет размера собственных средств на 31.07.2020</span>
+                    <span class="doc-date">pdf, 766.08 Kb</span>
+                </a>
+            </td>
+            <td data-name="Дата публикации: " class="td--doc-date td--nowrap ">18.08.2020 в 09:23</td>
+            <td data-name="Доступно до: " class="td--doc-date ">19.08.2023</td>
+        </tr>
+            <tr>
+            <td>
+                <a href="/upload/iblock/f88/q3lkwnxfhrwqhwe9mmyl33vub4tp2pe0/rss_300620.pdf" class="doc" target="_blank">
+                    <span class="doc-icon"><svg width="24" height="24" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg" alt="">
+                        <path d="M4 4C4 2.34315 5.34315 1 7 1H17C18.6569 1 20 2.34315 20 4V20C20 21.6569 18.6569 23 17 23H10.6569C9.86121 23 9.09814 22.6839 8.53553 22.1213L4.87868 18.4645C4.31607 17.9019 4 17.1388 4 16.3431V4Z" stroke="white" stroke-width="2" stroke-linecap="round"></path>
+                        <line x1="9" y1="8" x2="15" y2="8" stroke="white" stroke-width="2" stroke-linecap="round"></line>
+                        <line x1="9" y1="12" x2="15" y2="12" stroke="white" stroke-width="2" stroke-linecap="round"></line>
+                    </svg></span>
+                    <span class="doc-title">Расчет размера собственных средств на 30.06.2020</span>
+                    <span class="doc-date">pdf, 813.31 Kb</span>
+                </a>
+            </td>
+            <td data-name="Дата публикации: " class="td--doc-date td--nowrap ">16.07.2020 в 11:26</td>
+            <td data-name="Доступно до: " class="td--doc-date ">17.07.2023</td>
+        </tr>
+            <tr>
+            <td>
+                <a href="/upload/iblock/6c1/r4v62j7zf8p19rwd0noa6ir3z9n1erss/RSS_310520.pdf" class="doc" target="_blank">
+                    <span class="doc-icon"><svg width="24" height="24" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg" alt="">
+                        <path d="M4 4C4 2.34315 5.34315 1 7 1H17C18.6569 1 20 2.34315 20 4V20C20 21.6569 18.6569 23 17 23H10.6569C9.86121 23 9.09814 22.6839 8.53553 22.1213L4.87868 18.4645C4.31607 17.9019 4 17.1388 4 16.3431V4Z" stroke="white" stroke-width="2" stroke-linecap="round"></path>
+                        <line x1="9" y1="8" x2="15" y2="8" stroke="white" stroke-width="2" stroke-linecap="round"></line>
+                        <line x1="9" y1="12" x2="15" y2="12" stroke="white" stroke-width="2" stroke-linecap="round"></line>
+                    </svg></span>
+                    <span class="doc-title">Расчет размера собственных средств на 31.05.2020</span>
+                    <span class="doc-date">pdf, 824.9 Kb</span>
+                </a>
+            </td>
+            <td data-name="Дата публикации: " class="td--doc-date td--nowrap ">22.06.2020 в 12:33</td>
+            <td data-name="Доступно до: " class="td--doc-date ">23.06.2023</td>
+        </tr>
+            <tr>
+            <td>
+                <a href="/upload/iblock/3bc/ibuvumezgjcuvqp0f4x3mke1r34o8llu/rss_300420.pdf" class="doc" target="_blank">
+                    <span class="doc-icon"><svg width="24" height="24" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg" alt="">
+                        <path d="M4 4C4 2.34315 5.34315 1 7 1H17C18.6569 1 20 2.34315 20 4V20C20 21.6569 18.6569 23 17 23H10.6569C9.86121 23 9.09814 22.6839 8.53553 22.1213L4.87868 18.4645C4.31607 17.9019 4 17.1388 4 16.3431V4Z" stroke="white" stroke-width="2" stroke-linecap="round"></path>
+                        <line x1="9" y1="8" x2="15" y2="8" stroke="white" stroke-width="2" stroke-linecap="round"></line>
+                        <line x1="9" y1="12" x2="15" y2="12" stroke="white" stroke-width="2" stroke-linecap="round"></line>
+                    </svg></span>
+                    <span class="doc-title">Расчет размера собственных средств на 30.04.2020</span>
+                    <span class="doc-date">pdf, 703.44 Kb</span>
+                </a>
+            </td>
+            <td data-name="Дата публикации: " class="td--doc-date td--nowrap ">21.05.2020 в 16:38</td>
+            <td data-name="Доступно до: " class="td--doc-date ">22.05.2023</td>
+        </tr>
+            <tr>
+            <td>
+                <a href="/upload/iblock/964/9k61vx31aah7qtf5mcxv17ngbd0ybb0d/rss_310320.pdf" class="doc" target="_blank">
+                    <span class="doc-icon"><svg width="24" height="24" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg" alt="">
+                        <path d="M4 4C4 2.34315 5.34315 1 7 1H17C18.6569 1 20 2.34315 20 4V20C20 21.6569 18.6569 23 17 23H10.6569C9.86121 23 9.09814 22.6839 8.53553 22.1213L4.87868 18.4645C4.31607 17.9019 4 17.1388 4 16.3431V4Z" stroke="white" stroke-width="2" stroke-linecap="round"></path>
+                        <line x1="9" y1="8" x2="15" y2="8" stroke="white" stroke-width="2" stroke-linecap="round"></line>
+                        <line x1="9" y1="12" x2="15" y2="12" stroke="white" stroke-width="2" stroke-linecap="round"></line>
+                    </svg></span>
+                    <span class="doc-title">Расчет размера собственных средств на 31.03.2020</span>
+                    <span class="doc-date">pdf, 726.63 Kb</span>
+                </a>
+            </td>
+            <td data-name="Дата публикации: " class="td--doc-date td--nowrap ">22.04.2020 в 11:03</td>
+            <td data-name="Доступно до: " class="td--doc-date ">23.04.2023</td>
+        </tr>
+            <tr>
+            <td>
+                <a href="/upload/iblock/6fc/xxkc7xi3zx7rleo3e6b637kdecaf61if/rss_29022020.pdf" class="doc" target="_blank">
+                    <span class="doc-icon"><svg width="24" height="24" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg" alt="">
+                        <path d="M4 4C4 2.34315 5.34315 1 7 1H17C18.6569 1 20 2.34315 20 4V20C20 21.6569 18.6569 23 17 23H10.6569C9.86121 23 9.09814 22.6839 8.53553 22.1213L4.87868 18.4645C4.31607 17.9019 4 17.1388 4 16.3431V4Z" stroke="white" stroke-width="2" stroke-linecap="round"></path>
+                        <line x1="9" y1="8" x2="15" y2="8" stroke="white" stroke-width="2" stroke-linecap="round"></line>
+                        <line x1="9" y1="12" x2="15" y2="12" stroke="white" stroke-width="2" stroke-linecap="round"></line>
+                    </svg></span>
+                    <span class="doc-title">Расчет размера собственных средств на 29.02.2020</span>
+                    <span class="doc-date">pdf, 425.25 Kb</span>
+                </a>
+            </td>
+            <td data-name="Дата публикации: " class="td--doc-date td--nowrap ">16.03.2020 в 16:52</td>
+            <td data-name="Доступно до: " class="td--doc-date ">17.03.2023</td>
+        </tr>
+            <tr>
+            <td>
+                <a href="/upload/iblock/5d6/b37zl4s6y04i2i0wfoty3ciqymh170xk/rss_31012020.pdf" class="doc" target="_blank">
+                    <span class="doc-icon"><svg width="24" height="24" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg" alt="">
+                        <path d="M4 4C4 2.34315 5.34315 1 7 1H17C18.6569 1 20 2.34315 20 4V20C20 21.6569 18.6569 23 17 23H10.6569C9.86121 23 9.09814 22.6839 8.53553 22.1213L4.87868 18.4645C4.31607 17.9019 4 17.1388 4 16.3431V4Z" stroke="white" stroke-width="2" stroke-linecap="round"></path>
+                        <line x1="9" y1="8" x2="15" y2="8" stroke="white" stroke-width="2" stroke-linecap="round"></line>
+                        <line x1="9" y1="12" x2="15" y2="12" stroke="white" stroke-width="2" stroke-linecap="round"></line>
+                    </svg></span>
+                    <span class="doc-title">Расчет размера собственных средств на 31.01.2020</span>
+                    <span class="doc-date">pdf, 706.69 Kb</span>
+                </a>
+            </td>
+            <td data-name="Дата публикации: " class="td--doc-date td--nowrap ">18.02.2020 в 13:45</td>
+            <td data-name="Доступно до: " class="td--doc-date ">19.02.2023</td>
+        </tr>
+            <tr>
+            <td>
+                <a href="/upload/iblock/ca2/4x6m83dtboxjni16wywvj1gotigb60nx/rss_31122019.pdf" class="doc" target="_blank">
+                    <span class="doc-icon"><svg width="24" height="24" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg" alt="">
+                        <path d="M4 4C4 2.34315 5.34315 1 7 1H17C18.6569 1 20 2.34315 20 4V20C20 21.6569 18.6569 23 17 23H10.6569C9.86121 23 9.09814 22.6839 8.53553 22.1213L4.87868 18.4645C4.31607 17.9019 4 17.1388 4 16.3431V4Z" stroke="white" stroke-width="2" stroke-linecap="round"></path>
+                        <line x1="9" y1="8" x2="15" y2="8" stroke="white" stroke-width="2" stroke-linecap="round"></line>
+                        <line x1="9" y1="12" x2="15" y2="12" stroke="white" stroke-width="2" stroke-linecap="round"></line>
+                    </svg></span>
+                    <span class="doc-title">Расчет размера собственных средств на 31.12.2019</span>
+                    <span class="doc-date">pdf, 471.26 Kb</span>
+                </a>
+            </td>
+            <td data-name="Дата публикации: " class="td--doc-date td--nowrap ">24.01.2020 в 14:54</td>
+            <td data-name="Доступно до: " class="td--doc-date ">25.01.2023</td>
+        </tr>
+            <tr>
+            <td>
+                <a href="/upload/iblock/9ea/fs9lm9si13perhcy9bpp9ocogcsg4lf0/rss_30112019.pdf" class="doc" target="_blank">
+                    <span class="doc-icon"><svg width="24" height="24" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg" alt="">
+                        <path d="M4 4C4 2.34315 5.34315 1 7 1H17C18.6569 1 20 2.34315 20 4V20C20 21.6569 18.6569 23 17 23H10.6569C9.86121 23 9.09814 22.6839 8.53553 22.1213L4.87868 18.4645C4.31607 17.9019 4 17.1388 4 16.3431V4Z" stroke="white" stroke-width="2" stroke-linecap="round"></path>
+                        <line x1="9" y1="8" x2="15" y2="8" stroke="white" stroke-width="2" stroke-linecap="round"></line>
+                        <line x1="9" y1="12" x2="15" y2="12" stroke="white" stroke-width="2" stroke-linecap="round"></line>
+                    </svg></span>
+                    <span class="doc-title">Расчет размера собственных средств на 30.11.2019</span>
+                    <span class="doc-date">pdf, 757.3 Kb</span>
+                </a>
+            </td>
+            <td data-name="Дата публикации: " class="td--doc-date td--nowrap ">17.12.2019 в 12:23</td>
+            <td data-name="Доступно до: " class="td--doc-date ">18.12.2022</td>
+        </tr>
+            <tr>
+            <td>
+                <a href="/upload/iblock/dc8/r0a37bkkbu9zf8hzgjx1eyvwh4uwl40g/rss_31102019.pdf" class="doc" target="_blank">
+                    <span class="doc-icon"><svg width="24" height="24" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg" alt="">
+                        <path d="M4 4C4 2.34315 5.34315 1 7 1H17C18.6569 1 20 2.34315 20 4V20C20 21.6569 18.6569 23 17 23H10.6569C9.86121 23 9.09814 22.6839 8.53553 22.1213L4.87868 18.4645C4.31607 17.9019 4 17.1388 4 16.3431V4Z" stroke="white" stroke-width="2" stroke-linecap="round"></path>
+                        <line x1="9" y1="8" x2="15" y2="8" stroke="white" stroke-width="2" stroke-linecap="round"></line>
+                        <line x1="9" y1="12" x2="15" y2="12" stroke="white" stroke-width="2" stroke-linecap="round"></line>
+                    </svg></span>
+                    <span class="doc-title">Расчет размера собственных средств на 31.10.2019</span>
+                    <span class="doc-date">pdf, 743.95 Kb</span>
+                </a>
+            </td>
+            <td data-name="Дата публикации: " class="td--doc-date td--nowrap ">18.11.2019 в 09:37</td>
+            <td data-name="Доступно до: " class="td--doc-date ">19.11.2022</td>
+        </tr>
+            <tr>
+            <td>
+                <a href="/upload/iblock/e68/rt4hl6ehcv3k4veap6cjavzk3twfcvfu/rss_30092019.pdf" class="doc" target="_blank">
+                    <span class="doc-icon"><svg width="24" height="24" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg" alt="">
+                        <path d="M4 4C4 2.34315 5.34315 1 7 1H17C18.6569 1 20 2.34315 20 4V20C20 21.6569 18.6569 23 17 23H10.6569C9.86121 23 9.09814 22.6839 8.53553 22.1213L4.87868 18.4645C4.31607 17.9019 4 17.1388 4 16.3431V4Z" stroke="white" stroke-width="2" stroke-linecap="round"></path>
+                        <line x1="9" y1="8" x2="15" y2="8" stroke="white" stroke-width="2" stroke-linecap="round"></line>
+                        <line x1="9" y1="12" x2="15" y2="12" stroke="white" stroke-width="2" stroke-linecap="round"></line>
+                    </svg></span>
+                    <span class="doc-title">Расчет размера собственных средств на 30.09.2019</span>
+                    <span class="doc-date">pdf, 678.92 Kb</span>
+                </a>
+            </td>
+            <td data-name="Дата публикации: " class="td--doc-date td--nowrap ">16.10.2019 в 10:31</td>
+            <td data-name="Доступно до: " class="td--doc-date ">17.10.2022</td>
+        </tr>
+            <tr>
+            <td>
+                <a href="/upload/iblock/1a0/al8lhbhimn694lihzvonvxzx7s41us8r/rss_31082019.pdf" class="doc" target="_blank">
+                    <span class="doc-icon"><svg width="24" height="24" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg" alt="">
+                        <path d="M4 4C4 2.34315 5.34315 1 7 1H17C18.6569 1 20 2.34315 20 4V20C20 21.6569 18.6569 23 17 23H10.6569C9.86121 23 9.09814 22.6839 8.53553 22.1213L4.87868 18.4645C4.31607 17.9019 4 17.1388 4 16.3431V4Z" stroke="white" stroke-width="2" stroke-linecap="round"></path>
+                        <line x1="9" y1="8" x2="15" y2="8" stroke="white" stroke-width="2" stroke-linecap="round"></line>
+                        <line x1="9" y1="12" x2="15" y2="12" stroke="white" stroke-width="2" stroke-linecap="round"></line>
+                    </svg></span>
+                    <span class="doc-title">Расчет размера собственных средств на 31.08.2019</span>
+                    <span class="doc-date">pdf, 583.09 Kb</span>
+                </a>
+            </td>
+            <td data-name="Дата публикации: " class="td--doc-date td--nowrap ">18.09.2019 в 11:01</td>
+            <td data-name="Доступно до: " class="td--doc-date ">18.09.2022</td>
+        </tr>
+            <tr>
+            <td>
+                <a href="/upload/iblock/0dd/ermwbtsek3fsrj813cetachg7ol06d1n/RSS_NA_31072019.pdf" class="doc" target="_blank">
+                    <span class="doc-icon"><svg width="24" height="24" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg" alt="">
+                        <path d="M4 4C4 2.34315 5.34315 1 7 1H17C18.6569 1 20 2.34315 20 4V20C20 21.6569 18.6569 23 17 23H10.6569C9.86121 23 9.09814 22.6839 8.53553 22.1213L4.87868 18.4645C4.31607 17.9019 4 17.1388 4 16.3431V4Z" stroke="white" stroke-width="2" stroke-linecap="round"></path>
+                        <line x1="9" y1="8" x2="15" y2="8" stroke="white" stroke-width="2" stroke-linecap="round"></line>
+                        <line x1="9" y1="12" x2="15" y2="12" stroke="white" stroke-width="2" stroke-linecap="round"></line>
+                    </svg></span>
+                    <span class="doc-title">Расчет размера собственных средств на 31.07.2019</span>
+                    <span class="doc-date">pdf, 529.51 Kb</span>
+                </a>
+            </td>
+            <td data-name="Дата публикации: " class="td--doc-date td--nowrap ">15.08.2019 в 12:55</td>
+            <td data-name="Доступно до: " class="td--doc-date ">15.08.2022</td>
+        </tr>
+            <tr>
+            <td>
+                <a href="/upload/iblock/092/7v7hl0xoy3trwdkkwi91upjoudflrq41/rss_na_30_06_19.pdf" class="doc" target="_blank">
+                    <span class="doc-icon"><svg width="24" height="24" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg" alt="">
+                        <path d="M4 4C4 2.34315 5.34315 1 7 1H17C18.6569 1 20 2.34315 20 4V20C20 21.6569 18.6569 23 17 23H10.6569C9.86121 23 9.09814 22.6839 8.53553 22.1213L4.87868 18.4645C4.31607 17.9019 4 17.1388 4 16.3431V4Z" stroke="white" stroke-width="2" stroke-linecap="round"></path>
+                        <line x1="9" y1="8" x2="15" y2="8" stroke="white" stroke-width="2" stroke-linecap="round"></line>
+                        <line x1="9" y1="12" x2="15" y2="12" stroke="white" stroke-width="2" stroke-linecap="round"></line>
+                    </svg></span>
+                    <span class="doc-title">Расчет размера собственных средств на 30.06.2019</span>
+                    <span class="doc-date">pdf, 558.69 Kb</span>
+                </a>
+            </td>
+            <td data-name="Дата публикации: " class="td--doc-date td--nowrap ">17.07.2019 в 13:19</td>
+            <td data-name="Доступно до: " class="td--doc-date ">17.07.2022</td>
+        </tr>
+            <tr>
+            <td>
+                <a href="/upload/iblock/40e/kkaq6yl7ephsslvtq3s66m0ep0sk7dz7/RSS_31052019.pdf" class="doc" target="_blank">
+                    <span class="doc-icon"><svg width="24" height="24" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg" alt="">
+                        <path d="M4 4C4 2.34315 5.34315 1 7 1H17C18.6569 1 20 2.34315 20 4V20C20 21.6569 18.6569 23 17 23H10.6569C9.86121 23 9.09814 22.6839 8.53553 22.1213L4.87868 18.4645C4.31607 17.9019 4 17.1388 4 16.3431V4Z" stroke="white" stroke-width="2" stroke-linecap="round"></path>
+                        <line x1="9" y1="8" x2="15" y2="8" stroke="white" stroke-width="2" stroke-linecap="round"></line>
+                        <line x1="9" y1="12" x2="15" y2="12" stroke="white" stroke-width="2" stroke-linecap="round"></line>
+                    </svg></span>
+                    <span class="doc-title">Расчет размера собственных средств на 31.05.2019</span>
+                    <span class="doc-date">pdf, 515.87 Kb</span>
+                </a>
+            </td>
+            <td data-name="Дата публикации: " class="td--doc-date td--nowrap ">18.06.2019 в 18:33</td>
+            <td data-name="Доступно до: " class="td--doc-date ">18.06.2022</td>
+        </tr>
+            <tr>
+            <td>
+                <a href="/upload/iblock/5e4/7mwe4j4fgwb1o6gjl8devxtqjuag4bk7/RSS_300419.pdf" class="doc" target="_blank">
+                    <span class="doc-icon"><svg width="24" height="24" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg" alt="">
+                        <path d="M4 4C4 2.34315 5.34315 1 7 1H17C18.6569 1 20 2.34315 20 4V20C20 21.6569 18.6569 23 17 23H10.6569C9.86121 23 9.09814 22.6839 8.53553 22.1213L4.87868 18.4645C4.31607 17.9019 4 17.1388 4 16.3431V4Z" stroke="white" stroke-width="2" stroke-linecap="round"></path>
+                        <line x1="9" y1="8" x2="15" y2="8" stroke="white" stroke-width="2" stroke-linecap="round"></line>
+                        <line x1="9" y1="12" x2="15" y2="12" stroke="white" stroke-width="2" stroke-linecap="round"></line>
+                    </svg></span>
+                    <span class="doc-title">Расчет размера собственных средств на 30.04.2019</span>
+                    <span class="doc-date">pdf, 503.6 Kb</span>
+                </a>
+            </td>
+            <td data-name="Дата публикации: " class="td--doc-date td--nowrap ">24.05.2019 в 13:42</td>
+            <td data-name="Доступно до: " class="td--doc-date ">24.05.2022</td>
+        </tr>
+            <tr>
+            <td>
+                <a href="/upload/iblock/664/np9l9dq68sjkqoe881kbug10wgynacwl/RSS_31032019.pdf" class="doc" target="_blank">
+                    <span class="doc-icon"><svg width="24" height="24" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg" alt="">
+                        <path d="M4 4C4 2.34315 5.34315 1 7 1H17C18.6569 1 20 2.34315 20 4V20C20 21.6569 18.6569 23 17 23H10.6569C9.86121 23 9.09814 22.6839 8.53553 22.1213L4.87868 18.4645C4.31607 17.9019 4 17.1388 4 16.3431V4Z" stroke="white" stroke-width="2" stroke-linecap="round"></path>
+                        <line x1="9" y1="8" x2="15" y2="8" stroke="white" stroke-width="2" stroke-linecap="round"></line>
+                        <line x1="9" y1="12" x2="15" y2="12" stroke="white" stroke-width="2" stroke-linecap="round"></line>
+                    </svg></span>
+                    <span class="doc-title">Расчет размера собственных средств на 31.03.2019</span>
+                    <span class="doc-date">pdf, 410.46 Kb</span>
+                </a>
+            </td>
+            <td data-name="Дата публикации: " class="td--doc-date td--nowrap ">16.04.2019 в 09:34</td>
+            <td data-name="Доступно до: " class="td--doc-date ">16.04.2022</td>
+        </tr>
+            <tr>
+            <td>
+                <a href="/upload/iblock/e0b/bz437dmw95ik3f1hkogws0fem3k3yg7b/RSS_28022019.pdf" class="doc" target="_blank">
+                    <span class="doc-icon"><svg width="24" height="24" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg" alt="">
+                        <path d="M4 4C4 2.34315 5.34315 1 7 1H17C18.6569 1 20 2.34315 20 4V20C20 21.6569 18.6569 23 17 23H10.6569C9.86121 23 9.09814 22.6839 8.53553 22.1213L4.87868 18.4645C4.31607 17.9019 4 17.1388 4 16.3431V4Z" stroke="white" stroke-width="2" stroke-linecap="round"></path>
+                        <line x1="9" y1="8" x2="15" y2="8" stroke="white" stroke-width="2" stroke-linecap="round"></line>
+                        <line x1="9" y1="12" x2="15" y2="12" stroke="white" stroke-width="2" stroke-linecap="round"></line>
+                    </svg></span>
+                    <span class="doc-title">Расчет размера собственных средств на 28.02.2019</span>
+                    <span class="doc-date">pdf, 643.22 Kb</span>
+                </a>
+            </td>
+            <td data-name="Дата публикации: " class="td--doc-date td--nowrap ">19.03.2019 в 15:04</td>
+            <td data-name="Доступно до: " class="td--doc-date ">19.03.2022</td>
+        </tr>
+            <tr>
+            <td>
+                <a href="/upload/iblock/d0e/d85n7o9ciitbo1pxepft53v13divircl/RSS_31012019.pdf" class="doc" target="_blank">
+                    <span class="doc-icon"><svg width="24" height="24" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg" alt="">
+                        <path d="M4 4C4 2.34315 5.34315 1 7 1H17C18.6569 1 20 2.34315 20 4V20C20 21.6569 18.6569 23 17 23H10.6569C9.86121 23 9.09814 22.6839 8.53553 22.1213L4.87868 18.4645C4.31607 17.9019 4 17.1388 4 16.3431V4Z" stroke="white" stroke-width="2" stroke-linecap="round"></path>
+                        <line x1="9" y1="8" x2="15" y2="8" stroke="white" stroke-width="2" stroke-linecap="round"></line>
+                        <line x1="9" y1="12" x2="15" y2="12" stroke="white" stroke-width="2" stroke-linecap="round"></line>
+                    </svg></span>
+                    <span class="doc-title">Расчет размера собственных средств на 31.01.2019</span>
+                    <span class="doc-date">pdf, 467.09 Kb</span>
+                </a>
+            </td>
+            <td data-name="Дата публикации: " class="td--doc-date td--nowrap ">25.02.2019 в 12:46</td>
+            <td data-name="Доступно до: " class="td--doc-date ">26.02.2022</td>
+        </tr>
+        </tbody>
+</table>    <div class="docs-note">Расчет размера собственных средств актуален на дату расчета</div>
+    </div>
+    </div>
+    </div>
+    </div>
+<div class="nav">
+    <div class="nav-menu">
+        <a href="/about/" class="nav-item">
+            <svg width="24" height="24" viewBox="0 0 24 24" fill="none" xmlns="https://www.w3.org/2000/svg">
+                <path d="M11.2353 1L1 23H6.03136L7.31602 20.184H16.684L17.9686 23H23L12.7647 1H11.2353ZM8.94573 16.5496L12 9.25L15.0193 16.5496H8.94573Z" stroke="#B8BFD2" stroke-width="2" stroke-linejoin="round"></path>
+            </svg>
+            <span>О нас</span>
+        </a>
+        <a href="/" class="nav-item js-nav-products">
+            <svg width="24" height="24" viewBox="0 0 24 24" fill="none" xmlns="https://www.w3.org/2000/svg">
+                <path fill-rule="evenodd" clip-rule="evenodd" d="M20.7277 15.2726H16.364C15.7615 15.2726 15.2731 15.7611 15.2731 16.3635V20.7272C15.2731 21.3297 15.7615 21.8181 16.364 21.8181H20.7277C21.3302 21.8181 21.8186 21.3297 21.8186 20.7272V16.3635C21.8186 15.7611 21.3302 15.2726 20.7277 15.2726ZM16.364 13.0908C14.5566 13.0908 13.0913 14.5561 13.0913 16.3635V20.7272C13.0913 22.5347 14.5566 23.9999 16.364 23.9999H20.7277C22.5351 23.9999 24.0004 22.5347 24.0004 20.7272V16.3635C24.0004 14.5561 22.5351 13.0908 20.7277 13.0908H16.364Z" fill="#B8BFD2"></path>
+                <path fill-rule="evenodd" clip-rule="evenodd" d="M20.7277 2.18182H16.364C15.7615 2.18182 15.2731 2.67023 15.2731 3.27273V7.63636C15.2731 8.23886 15.7615 8.72727 16.364 8.72727H20.7277C21.3302 8.72727 21.8186 8.23886 21.8186 7.63636V3.27273C21.8186 2.67023 21.3302 2.18182 20.7277 2.18182ZM16.364 0C14.5566 0 13.0913 1.46525 13.0913 3.27273V7.63636C13.0913 9.44384 14.5566 10.9091 16.364 10.9091H20.7277C22.5351 10.9091 24.0004 9.44384 24.0004 7.63636V3.27273C24.0004 1.46525 22.5351 0 20.7277 0H16.364Z" fill="#B8BFD2"></path>
+                <path fill-rule="evenodd" clip-rule="evenodd" d="M7.63636 15.2726H3.27273C2.67023 15.2726 2.18182 15.7611 2.18182 16.3635V20.7272C2.18182 21.3297 2.67023 21.8181 3.27273 21.8181H7.63636C8.23886 21.8181 8.72727 21.3297 8.72727 20.7272V16.3635C8.72727 15.7611 8.23886 15.2726 7.63636 15.2726ZM3.27273 13.0908C1.46525 13.0908 0 14.5561 0 16.3635V20.7272C0 22.5347 1.46525 23.9999 3.27273 23.9999H7.63636C9.44384 23.9999 10.9091 22.5347 10.9091 20.7272V16.3635C10.9091 14.5561 9.44384 13.0908 7.63636 13.0908H3.27273Z" fill="#B8BFD2"></path>
+                <path fill-rule="evenodd" clip-rule="evenodd" d="M7.63636 2.18182H3.27273C2.67023 2.18182 2.18182 2.67023 2.18182 3.27273V7.63636C2.18182 8.23886 2.67023 8.72727 3.27273 8.72727H7.63636C8.23886 8.72727 8.72727 8.23886 8.72727 7.63636V3.27273C8.72727 2.67023 8.23886 2.18182 7.63636 2.18182ZM3.27273 0C1.46525 0 0 1.46525 0 3.27273V7.63636C0 9.44384 1.46525 10.9091 3.27273 10.9091H7.63636C9.44384 10.9091 10.9091 9.44384 10.9091 7.63636V3.27273C10.9091 1.46525 9.44384 0 7.63636 0H3.27273Z" fill="#B8BFD2"></path>
+            </svg>
+            <span>Продукты</span>
+        </a>
+        <a href="/" class="nav-logo js-burger">
+            <svg width="48" height="43" viewBox="0 0 48 43" fill="none" xmlns="https://www.w3.org/2000/svg">
+                <path d="M25.6539 0.955078L47.7417 39.2134C48.476 40.4868 47.5571 42.0786 46.0884 42.0786H1.91281C0.441989 42.0786 -0.477004 40.4868 0.259468 39.2134L22.3451 0.955078C23.0816 -0.318359 24.9196 -0.318359 25.6539 0.955078Z" fill="url(#paint0_linear_0_7939)"></path>
+                <path d="M25.443 14.4256L47.2061 39.5484C48.0635 40.5374 47.361 42.0762 46.0515 42.0762H1.94809C0.638576 42.0762 -0.0639374 40.5374 0.793511 39.5484L22.5566 14.4256C23.3185 13.5469 24.6811 13.5469 25.443 14.4256Z" fill="url(#paint1_linear_0_7939)"></path>
+                <path d="M24.9555 27.969L46.5148 40.4126C47.3044 40.869 46.9817 42.0766 46.0691 42.0766H1.93178C1.01915 42.0766 0.696544 40.869 1.48607 40.4126L23.0454 27.969C23.6354 27.6295 24.3634 27.6295 24.9555 27.969Z" fill="url(#paint2_linear_0_7939)"></path>
+                <defs>
+                    <linearGradient id="paint0_linear_0_7939" x1="24.0003" y1="42.0774" x2="24.0003" y2="-0.000933001" gradientUnits="userSpaceOnUse">
+                        <stop offset="0.05" stop-color="#4607FF" stop-opacity="0"></stop>
+                        <stop offset="0.1517" stop-color="#4607F6" stop-opacity="0.107"></stop>
+                        <stop offset="0.3176" stop-color="#4607DE" stop-opacity="0.2817"></stop>
+                        <stop offset="0.5272" stop-color="#4607B6" stop-opacity="0.5023"></stop>
+                        <stop offset="0.7694" stop-color="#47077F" stop-opacity="0.7573"></stop>
+                        <stop offset="1" stop-color="#470745"></stop>
+                    </linearGradient>
+                    <linearGradient id="paint1_linear_0_7939" x1="23.9995" y1="42.0771" x2="23.9995" y2="13.7663" gradientUnits="userSpaceOnUse">
+                        <stop offset="0.05" stop-color="#4607FF" stop-opacity="0"></stop>
+                        <stop offset="0.1797" stop-color="#4607ED" stop-opacity="0.1366"></stop>
+                        <stop offset="0.4415" stop-color="#4607BC" stop-opacity="0.4121"></stop>
+                        <stop offset="0.8079" stop-color="#470770" stop-opacity="0.7978"></stop>
+                        <stop offset="1" stop-color="#470745"></stop>
+                    </linearGradient>
+                    <linearGradient id="paint2_linear_0_7939" x1="24.0002" y1="42.0775" x2="24.0002" y2="27.7138" gradientUnits="userSpaceOnUse">
+                        <stop offset="0.03" stop-color="#4607FF" stop-opacity="0"></stop>
+                        <stop offset="1" stop-color="#470745"></stop>
+                    </linearGradient>
+                </defs>
+            </svg>
+        </a>
+        <a href="tel:88002005454" class="nav-item">
+            <svg width="25" height="25" viewBox="0 0 25 25" fill="none" xmlns="https://www.w3.org/2000/svg">
+                <path d="M5.06227 2.49997L3.67663 3.29997C1.09385 4.79114 0.343241 8.32637 2.0001 11.1961L7.0001 19.8564C8.65695 22.7261 12.0939 23.8437 14.6766 22.3525L16.0623 21.5525C17.0189 21.0002 17.3466 19.7771 16.7943 18.8205L15.7943 17.0884C15.5182 16.6101 14.9066 16.4463 14.4283 16.7224L13.7355 17.1224C12.0136 18.1165 9.72236 17.3715 8.61779 15.4583L6.61779 11.9942C5.51322 10.081 6.01362 7.72421 7.73548 6.7301L8.4283 6.3301C8.90659 6.05396 9.07047 5.44237 8.79432 4.96407L7.79432 3.23202C7.24204 2.27544 6.01886 1.94769 5.06227 2.49997Z" stroke="#B8BFD2" stroke-width="2" stroke-linecap="round"></path>
+                <path d="M18.8297 11.1237C19.5444 8.45639 17.9615 5.71471 15.2942 5" stroke="#B8BFD2" stroke-width="2" stroke-linecap="round"></path>
+                <path d="M22.8058 12.189C24.1088 7.32577 21.2228 2.32701 16.3596 1.02393" stroke="#B8BFD2" stroke-width="2" stroke-linecap="round"></path>
+                <circle cx="15" cy="9" r="1" fill="#B8BFD2"></circle>
+            </svg>
+            <span>Позвонить</span>
+        </a>
+                <a href="https://lk.aaacapital.ru/users/sign_in" class="nav-item">
+            <svg width="24" height="24" viewBox="0 0 24 24" fill="none" xmlns="https://www.w3.org/2000/svg">
+                <path fill-rule="evenodd" clip-rule="evenodd" d="M1 3.6C1 1.61177 2.53502 0 4.42857 0H13.5714C15.465 0 17 1.61178 17 3.6V4.52308C17 5.18582 16.6312 5.5 16 5.5C15.3688 5.5 15 5.18582 15 4.52308V3.21533C15 2.55259 14.4883 2.01533 13.8571 2.01533L4.14286 2.01533C3.51167 2.01533 3 2.55259 3 3.21533V20.8C3 21.4627 3.51167 22 4.14286 22H13.8571C14.4883 22 15 21.4627 15 20.8V19.0615C15 18.3988 15.3688 18 16 18C16.6312 18 17 18.3988 17 19.0615V20.4C17 22.3882 15.465 24 13.5714 24H4.42857C2.53502 24 1 22.3882 1 20.4V3.6Z" fill="#ACB4CB"></path>
+                <path fill-rule="evenodd" clip-rule="evenodd" d="M22 12C22 11.4477 21.5523 11 21 11L11 11C10.4477 11 10 11.4477 10 12C10 12.5523 10.4477 13 11 13L21 13C21.5523 13 22 12.5523 22 12Z" fill="#B8BFD2"></path>
+                <path fill-rule="evenodd" clip-rule="evenodd" d="M13.7071 8.29289C13.3166 7.90237 12.6834 7.90237 12.2929 8.29289L10 10.5858C9.21895 11.3668 9.21895 12.6332 10 13.4142L12.2929 15.7071C12.6834 16.0976 13.3166 16.0976 13.7071 15.7071C14.0976 15.3166 14.0976 14.6834 13.7071 14.2929L11.4142 12L13.7071 9.70711C14.0976 9.31658 14.0976 8.68342 13.7071 8.29289Z" fill="#B8BFD2"></path>
+            </svg>
+            <span>Кабинет</span>
+        </a>
+    </div>
+</div>
+<div class="nav-products swipe-close">
+    <div class="nav-products-content swipe-close-content">
+        <div class="nav-products-title">Продукты для частных клиентов</div>
+        <div class="nav-products-close js-nav-products"><svg width="24" height="24" viewBox="0 0 24 24" fill="none" xmlns="https://www.w3.org/2000/svg">
+                <path d="M6 6L11.2929 11.2929C11.6834 11.6834 11.6834 12.3166 11.2929 12.7071L6 18" stroke="#7986AA" stroke-width="2" stroke-linecap="round"></path>
+                <path d="M18 6L12.7071 11.2929C12.3166 11.6834 12.3166 12.3166 12.7071 12.7071L18 18" stroke="#7986AA" stroke-width="2" stroke-linecap="round"></path>
+            </svg></div>
+        <div class="nav-products-row">
+            <a href="/individual/pif/" class="nav-products-item nav-products-item--opif">
+                <span class="nav-products-name">ОПИФ</span>
+                <span class="nav-products-desc">Инвестиции в готовые фонды от 1 000 рублей</span>
+            </a>
+            <a href="/individual/iis/" class="nav-products-item nav-products-item--iis">
+                <span class="nav-products-name">ИИС</span>
+                <span class="nav-products-desc">Стратегии с налоговым вычетом от государства</span>
+            </a>
+        </div>
+        <div class="nav-products-row">
+            <a href="/bpif/" class="nav-products-item nav-products-item--bpif">
+                <span class="nav-products-name">БПИФ</span>
+                <span class="nav-products-desc">Фонды в обращении на&nbsp;Московской Бирже</span>
+            </a>
+            <a href="/individual/rulesstrategy/" class="nav-products-item nav-products-item--ss">
+                <span class="nav-products-name">Доверительное управление</span>
+                <span class="nav-products-desc">Стандартные стратегии</span>
+            </a>
+        </div>
+        <div class="nav-products-title">Квалифицированным инвесторам</div>
+        <div class="nav-products-row">
+            <a href="/wealthy-clients/interval/" class="nav-products-item nav-products-item--ipif">
+                <span class="nav-products-name">ИПИФ</span>
+                <span class="nav-products-desc">Интервальные паевые фонды «ААА Управление Капиталом»</span>
+            </a>
+            <a href="/wealthy-clients/zpif/" class="nav-products-item nav-products-item--zpif">
+                <span class="nav-products-name">ЗПИФ</span>
+                <span class="nav-products-desc">Закрытые паевые фонды «ААА Управление Капиталом»</span>
+            </a>
+        </div>
+        <div class="nav-products-row">
+            <a href="/wealthy-clients/" class="nav-products-item nav-products-item--is">
+                <span class="nav-products-name">Индивидуальные стратегии</span>
+                <span class="nav-products-desc">Персональное доверительное управление</span>
+            </a>
+        </div>
+    </div>
+</div>
+<div class="footer">
+    <div class="wrap">
+        <div class="footer-top">
+            <div class="footer-top__left">
+                                    <a href="/about/contacts/" class="footer-location">
+                        <svg width="24" height="24" viewBox="0 0 24 24" fill="none" xmlns="https://www.w3.org/2000/svg" alt="">
+                            <path d="M1 11L11.3921 2.5272C11.7666 2.22189 12.3058 2.22799 12.6733 2.54169L17 6.23529" stroke="white" stroke-width="2" stroke-linecap="round"></path>
+                            <line x1="4" y1="11" x2="4" y2="19" stroke="white" stroke-width="2" stroke-linecap="round"></line>
+                            <line x1="9" y1="11" x2="9" y2="19" stroke="white" stroke-width="2" stroke-linecap="round"></line>
+                            <line x1="1" y1="22" x2="13" y2="22" stroke="white" stroke-width="2" stroke-linecap="round"></line>
+                            <line x1="1" y1="11" x2="9" y2="11" stroke="white" stroke-width="2" stroke-linecap="round"></line>
+                            <path fill-rule="evenodd" clip-rule="evenodd" d="M18 24C18 24 24 17.3137 24 14C24 10.6863 21.3137 8 18 8C14.6863 8 12 10.6863 12 14C12 17.3137 18 24 18 24ZM18 18C20.2091 18 22 16.2091 22 14C22 11.7909 20.2091 10 18 10C15.7909 10 14 11.7909 14 14C14 16.2091 15.7909 18 18 18Z" fill="white"></path>
+                        </svg>
+                        <span>Москва</span></a> <a class="menu-near" href="/about/contacts/#map">Найти ближайший офис</a>
+                            </div>
+            <div class="footer-top__right">
+                <a href="tel:88002005454" id="footerPhone">8 (800) 200 54 54</a>
+                            </div>
+        </div>
+                    <div class="footer-menu">
+                <div class="footer-menu__column">
+                    <div class="footer-menu__title"><a href="/">Частным инвесторам</a></div>
+                                            <div class="footer-menu__item"><a href="/individual/pif/">ОПИФ</a></div>
+                                <div class="footer-menu__item"><a href="/individual/iis/">ИИС</a></div>
+                                <div class="footer-menu__item"><a href="/individual/rulesstrategy/">Доверительное управление</a></div>
+                            </div>
+                <div class="footer-menu__column">
+                    <div class="footer-menu__title"><a href="/institutional/">Корпоративным клиентам</a></div>
+                                            <div class="footer-menu__item"><a href="/institutional/">НПФ</a></div>
+                                <div class="footer-menu__item"><a href="/institutional/">Эндаументы</a></div>
+                                <div class="footer-menu__item"><a href="/institutional/">Страховые компании</a></div>
+                                <div class="footer-menu__item"><a href="/institutional/">Саморегулируемые организации</a></div>
+                            </div>
+                <div class="footer-menu__column">
+                    <div class="footer-menu__title"><a href="/wealthy-clients/">Состоятельным клиентам</a></div>
+                                            <div class="footer-menu__item"><a href="/wealthy-clients/">Индивидуальные стратегии</a></div>
+                                <div class="footer-menu__item"><a href="/wealthy-clients/interval/">ИПИФ</a></div>
+                                <div class="footer-menu__item"><a href="/wealthy-clients/zpif/">ЗПИФ</a></div>
+                            </div>
+                <div class="footer-menu__column">
+                    <div class="footer-menu__title"><a href="/about/">О компании</a></div>
+                                            <div class="footer-menu__item"><a href="/about/contacts/">Контакты и обращения</a></div>
+                                <div class="footer-menu__item"><a href="/about/open-info/informatciia-v-sootvetstvii-s-ukazaniem-5609/">Раскрытие информации по указанию № 5609-У</a></div>
+                                <div class="footer-menu__item"><a href="/about/open-info/informatciia-v-sootvetstvii-s-ukazaniem-3921/">Раскрытие информации по указанию № 3921-У</a></div>
+                                <div class="footer-menu__item"><a href="javascript:void(0);" data-popup-trigger="subscribe-5609">Подписка на рассылку</a></div>
+                </div>
+                <div class="footer-menu__column">
+                    <div class="footer-menu__title">Еще</div>
+                                            <div class="footer-menu__item"><a href="/hyperion/">Торговое финансирование</a></div>
+                                <div class="footer-menu__item"><a href="/journal/">Журнал для инвесторов</a></div>
+                                <div class="footer-menu__item"><a href="/journal/faq/">Частые вопросы</a></div>
+                                <div class="footer-menu__item"><a href="/press-center/">Новости</a></div>
+                            </div>
+            </div>
+                <div class="footer-buttons">
+                            <div class="footer-buttons__apps">
+                                        <div class="footer__open-info"><a href="/about/open-info/">Раскрытие информации</a></div>
+                </div>
+                        <div class="footer-buttons__socials">
+                                    <span>Мы в соц. сетях</span>
+                                            <a href="https://vk.com/aaacapital" target="_blank" rel="nofollow" class="social"><svg width="15" height="14" viewBox="0 0 15 14" fill="none" xmlns="http://www.w3.org/2000/svg" alt=""><path d="M14.8733 10.1297C14.8356 10.0667 14.6029 9.56094 13.4828 8.52137C12.3102 7.43279 12.4677 7.60955 13.8801 5.72728C14.7402 4.58095 15.0841 3.8809 14.9765 3.58162C14.8741 3.29635 14.2415 3.37161 14.2415 3.37161L12.1378 3.38386C12.1378 3.38386 11.982 3.36286 11.8657 3.43199C11.7528 3.50024 11.6801 3.65776 11.6801 3.65776C11.6801 3.65776 11.3467 4.54507 10.9022 5.29938C9.96502 6.89112 9.58962 6.97513 9.43648 6.87624C9.08033 6.6461 9.16959 5.95043 9.16959 5.45689C9.16959 3.91415 9.40323 3.27098 8.71368 3.10471C8.48441 3.04959 8.3164 3.01283 7.73098 3.00671C6.98018 2.99883 6.34401 3.00933 5.98436 3.18522C5.74459 3.30248 5.55995 3.56412 5.67283 3.579C5.81197 3.59738 6.12699 3.66388 6.29413 3.8914C6.51027 4.18454 6.50239 4.84434 6.50239 4.84434C6.50239 4.84434 6.62665 6.6601 6.21275 6.88587C5.92835 7.04076 5.53895 6.72486 4.70326 5.28013C4.27536 4.5407 3.95158 3.72251 3.95158 3.72251C3.95158 3.72251 3.88945 3.57025 3.77832 3.48887C3.64356 3.38999 3.45455 3.35848 3.45455 3.35848L1.45415 3.37073C1.45415 3.37073 1.154 3.37949 1.04375 3.50987C0.945738 3.62625 1.03587 3.86602 1.03587 3.86602C1.03587 3.86602 2.60223 7.52992 4.37511 9.37718C6.00186 11.0704 7.84824 10.9593 7.84824 10.9593H8.6848C8.6848 10.9593 8.9377 10.9313 9.06633 10.7922C9.18534 10.6644 9.18096 10.4246 9.18096 10.4246C9.18096 10.4246 9.16434 9.30193 9.68588 9.13654C10.1995 8.97378 10.8593 10.2216 11.5585 10.702C12.0871 11.0652 12.4887 10.9855 12.4887 10.9855L14.3587 10.9593C14.3587 10.9593 15.337 10.8989 14.8733 10.1297Z" fill="white"></path></svg></a>
+            <a href="https://www.youtube.com/channel/UCI2lV1ACaJAKZ48MBiq2o5Q" target="_blank" rel="nofollow" class="social"><svg width="15" height="14" viewBox="0 0 15 14" fill="none" xmlns="http://www.w3.org/2000/svg" alt=""><path d="M13.2901 3.71847C13.1389 3.15619 12.6955 2.71294 12.1333 2.56154C11.1063 2.28052 6.99789 2.28052 6.99789 2.28052C6.99789 2.28052 2.88968 2.28052 1.8626 2.55088C1.31121 2.70213 0.857079 3.15627 0.705833 3.71847C0.435547 4.74546 0.435547 6.87531 0.435547 6.87531C0.435547 6.87531 0.435547 9.01589 0.705833 10.0321C0.857239 10.5944 1.3004 11.0376 1.86268 11.189C2.90049 11.4701 6.99805 11.4701 6.99805 11.4701C6.99805 11.4701 11.1063 11.4701 12.1333 11.1997C12.6956 11.0484 13.1389 10.6052 13.2903 10.043C13.5605 9.01589 13.5605 6.88612 13.5605 6.88612C13.5605 6.88612 13.5713 4.74546 13.2901 3.71847ZM5.68987 8.84294V4.90768L9.10619 6.87531L5.68987 8.84294Z" fill="white"></path></svg></a>
+            <a href="https://zen.yandex.ru/aaacapital" target="_blank" rel="nofollow" class="social"><svg width="15" height="15" viewBox="0 0 15 15" fill="none" xmlns="http://www.w3.org/2000/svg" alt=""><path d="M8.55117 8.55044C7.45117 9.68544 7.37117 11.1004 7.27617 14.2004C10.1662 14.2004 12.1612 14.1904 13.1912 13.1904C14.1912 12.1604 14.2012 10.0704 14.2012 7.27544C11.1012 7.37544 9.68617 7.45044 8.55117 8.55044ZM0.201172 7.27544C0.201172 10.0704 0.211172 12.1604 1.21117 13.1904C2.24117 14.1904 4.23617 14.2004 7.12617 14.2004C7.02617 11.1004 6.95117 9.68544 5.85117 8.55044C4.71617 7.45044 3.30117 7.37044 0.201172 7.27544ZM7.12617 0.200439C4.24117 0.200439 2.24117 0.210439 1.21117 1.21044C0.211172 2.24044 0.201172 4.33044 0.201172 7.12544C3.30117 7.02544 4.71617 6.95044 5.85117 5.85044C6.95117 4.71544 7.03117 3.30044 7.12617 0.200439ZM8.55117 5.85044C7.45117 4.71544 7.37117 3.30044 7.27617 0.200439C10.1662 0.200439 12.1612 0.210439 13.1912 1.21044C14.1912 2.24044 14.2012 4.33044 14.2012 7.12544C11.1012 7.02544 9.68617 6.95044 8.55117 5.85044Z" fill="white"></path></svg></a>
+            <a href="https://pulse.mail.ru/source/1088687193336068860" target="_blank" rel="nofollow" class="social"><svg width="15" height="14" viewBox="0 0 15 14" fill="none" xmlns="http://www.w3.org/2000/svg" alt=""><path d="M9.1055 6.99878C9.1055 8.15978 8.161 9.10428 7 9.10428C5.839 9.10428 4.8945 8.15978 4.8945 6.99878C4.8945 5.83778 5.839 4.89328 7 4.89328C8.161 4.89328 9.1055 5.83778 9.1055 6.99878ZM7 -0.0012207C3.14 -0.0012207 0 3.13878 0 6.99878C0 10.8588 3.14 13.9988 7 13.9988C8.414 13.9988 9.7775 13.5778 10.943 12.7813L10.963 12.7673L10.02 11.6713L10.004 11.6813C9.107 12.2588 8.068 12.5638 7 12.5638C3.9315 12.5638 1.435 10.0673 1.435 6.99878C1.435 3.93028 3.9315 1.43378 7 1.43378C10.0685 1.43378 12.565 3.93028 12.565 6.99878C12.565 7.39628 12.5205 7.79878 12.434 8.19478C12.258 8.91728 11.752 9.13828 11.3725 9.10928C10.9905 9.07828 10.5435 8.80628 10.5405 8.14028V7.63278V6.99878C10.5405 5.04628 8.9525 3.45828 7 3.45828C5.0475 3.45828 3.4595 5.04628 3.4595 6.99878C3.4595 8.95128 5.0475 10.5393 7 10.5393C7.9485 10.5393 8.838 10.1688 9.5085 9.49428C9.8985 10.1013 10.534 10.4818 11.2575 10.5398C11.3195 10.5448 11.383 10.5473 11.4455 10.5473C11.955 10.5473 12.4595 10.3768 12.8665 10.0683C13.286 9.74928 13.5995 9.28878 13.7725 8.73528C13.8 8.64578 13.851 8.44128 13.851 8.43978L13.8525 8.43228C13.9545 7.98828 14 7.54578 14 6.99878C14 3.13878 10.86 -0.0012207 7 -0.0012207Z" fill="white"></path></svg></a>
+    
+
+            </div>
+            <div class="footer-buttons__sitemap">
+                <a href="/sitemap/">
+                                            Карта сайта
+                                    </a>
+            </div>
+        </div>
+            <div class="footer-text" id="bx_64443521_1595">
+        <p style="text-align: justify;">
+ <a href="/about/open-info/"><b>Раскрытие информации</b></a>
+</p>
+<p style="text-align: justify;">
+	 Акционерное общество «ААА Управление Капиталом»/АО «ААА Управление Капиталом»/Joint Stock Company AAA Capital Management/AAA Capital Management (Лицензия на осуществление деятельности по управлению инвестиционными фондами, паевыми инвестиционными фондами и негосударственными пенсионными фондами № 21-000-1-00657 от 15 сентября 2009 г., Лицензия профессионального участника рынка ценных бумаг на осуществление деятельности по управлению ценными бумагами № 045-12879-001000 от 26.01.2010, выданы ФСФР России, без ограничения срока действия) осуществляет доверительное управление следующими открытыми и биржевыми паевыми инвестиционными фондами: ОПИФ рыночных финансовых инструментов «Газпромбанк — Акции» (Правила доверительного управления зарегистрированы ФСФР России 21.09.2006 г. за № 0619–94123737); ОПИФ рыночных финансовых инструментов «Газпромбанк — Валютные облигации» (Правила доверительного управления зарегистрированы ФСФР России 21.09.2006 г. за № 0620–94123708); ОПИФ рыночных финансовых инструментов «Газпромбанк — Сбалансированный» (Правила доверительного управления зарегистрированы ФСФР России 21.09.2006 г. за № 0622–94123683); ОПИФ рыночных финансовых инструментов «Газпромбанк — Индия» (Правила доверительного управления зарегистрированы ФСФР России 05.12.2006 г. за № 0687–94123720); ОПИФ рыночных финансовых инструментов «Газпромбанк — Электроэнергетика» (Правила доверительного управления зарегистрированы ФСФР России 04.10.2007 г. за № 1014–94132162); ОПИФ рыночных финансовых инструментов «Газпромбанк — Нефть» (Правила доверительного управления зарегистрированы ФСФР России 04.10.2007 г. за № 1015–94132245); ОПИФ рыночных финансовых инструментов «Газпромбанк — Фонд международных дивидендов» (Правила доверительного управления зарегистрированы ФСФР России 10.11.2011 г. за № 2244); ОПИФ рыночных финансовых инструментов «Газпромбанк — Золото» (Правила доверительного управления зарегистрированы ФСФР России 31.05.2012 г. за № 2361); ОПИФ рыночных финансовых инструментов «Газпромбанк — Облигации плюс» (Правила доверительного управления зарегистрированы ФСФР России 14.02.2013 г. за № 2547); ОПИФ рыночных финансовых инструментов «Газпромбанк — Новые рубежи» (Правила доверительного управления зарегистрированы Банком России 06.12.2021 г. за № 4748); БПИФ рыночных финансовых инструментов «Газпромбанк — Корпоративные облигации 2 года» (Правила доверительного управления зарегистрированы Банком России 08.04.2019 г. за № 3709); БПИФ рыночных финансовых инструментов «Газпромбанк — Корпоративные облигации 4 года» (Правила доверительного управления зарегистрированы Банком России 08.04.2019 г. за № 3710); БПИФ рыночных финансовых инструментов «Газпромбанк — Акции китайских компаний» (Правила доверительного управления зарегистрированы Банком России 23.12.2021 г. за № 4784); БПИФ рыночных финансовых инструментов «Газпромбанк — Фонд рублевых облигаций» (Правила доверительного управления зарегистрированы Банком России 23.12.2021 г. за № 4785); БПИФ рыночных финансовых инструментов «Газпромбанк — Фонд глобальных активов» (Правила доверительного управления зарегистрированы Банком России 23.12.2021 г. за № 4786); ОПИФ рыночных финансовых инструментов «Фонд Золота» (Правила доверительного управления зарегистрированы Банком России 08.09.2022 г. за № 5096); ОПИФ рыночных финансовых инструментов «Фонд природных ресурсов» (Правила доверительного управления зарегистрированы Банком России 08.09.2022 г. за № 5095); ОПИФ рыночных финансовых инструментов «Перспективные облигации» (Правила доверительного управления зарегистрированы Банком России 24.11.2022 г. за № 5203).
+</p>
+<p style="text-align: justify; font-size:120%">
+	 АО «ААА Управление Капиталом» напоминает инвесторам, что стоимость инвестиционных паев может увеличиваться и уменьшаться. Результаты инвестирования в прошлом не определяют доходы в будущем. Государство не гарантирует доходность инвестиций в открытые и биржевые паевые инвестиционные фонды. Прежде, чем приобрести инвестиционный пай, следует внимательно ознакомиться с правилами доверительного управления открытыми и биржевыми паевыми инвестиционными фондами.
+</p>
+<p style="text-align: justify;">
+	 Денежные средства, передаваемые в оплату инвестиционных паев, не застрахованы в соответствии с Федеральным законом от 23.12.2003 № 177-ФЗ «О страховании вкладов в банках Российской Федерации». Получить подробную информацию об открытых и биржевых паевых инвестиционных фондах под управлением АО «ААА Управление Капиталом» и ознакомиться с правилами доверительного управления, а также с иными документами, подлежащими раскрытию и предоставлению в соответствии с Федеральным законом «Об инвестиционных фондах» и нормативными актами Банка России, можно по адресу: 119049, Москва, ул. Коровий Вал, д. 7, по телефонам: + 7 (495) 980-40-58; +7 (800) 505-62-21; +7 (800) 505-23-82; +7 (800) 505-61-87; +7 (800) 505-62-29; +7 (800) 200-54-54; +7 (800) 301-54-54; +7 (495) 568-15-15; +7 (495) 568-17-17 или в сети Интернет по адресу <a href="https://aaacapital.ru/">https://aaacapital.ru</a>, а также в пунктах приёма заявок агентов по выдаче, погашению и обмену инвестиционных паев фондов (со списком агентов можно ознакомиться на сайте в сети Интернет по адресу <a href="https://aaacapital.ru/">https://aaacapital.ru</a>).
+</p>
+<p style="text-align: justify;">
+	 Правилами доверительного управления открытыми паевыми инвестиционными фондами предусмотрены надбавки к расчетной стоимости инвестиционных паев при их выдаче и скидки к расчетной стоимости паев при их погашении, взимание данных скидок и надбавок уменьшает доходность инвестиций в инвестиционные паи открытых паевых инвестиционных фондов. Информация, подлежащая в соответствии с нормативными актами Банка России, раскрытию владельцам инвестиционных паев и всем заинтересованным лицам размещается АО «ААА Управление Капиталом» на сайте в сети Интернет по адресу <a href="https://aaacapital.ru/">https://aaacapital.ru</a> в разделе «Раскрытие информации».
+</p>
+<p style="text-align: justify;">
+	 Приём обращений от владельцев инвестиционных паев и иных заинтересованных лиц осуществляется по адресу: 119049, Москва, ул. Коровий Вал, д. 7, в пунктах приёма заявок агентов по выдаче, погашению и обмену инвестиционных паев фондов, а также иными способами, предусмотренными на сайте в сети Интернет по адресу <a href="https://aaacapital.ru/">https://aaacapital.ru</a> в разделе «Обращения». АО «ААА Управление Капиталом» является членом СРО НАУФОР. Любое заинтересованное лицо вправе обратиться в СРО НАУФОР путём направления письменного обращения (жалобы) по адресу: Москва, 129090, 1-й Коптельский пер., д. 18, стр. 1.
+</p>
+<p style="text-align: justify;">
+	 Настоящее уведомление не является индивидуальной инвестиционной рекомендацией, и инвестиционные паи открытых и биржевых паевых инвестиционных фондов под управлением АО «ААА Управление Капиталом» могут не соответствовать инвестиционному профилю и инвестиционным целям (ожиданиям) инвестора. В информации, указанной в данном уведомлении, не принимаются во внимание личные инвестиционные цели, финансовые условия или нужды каждого конкретного инвестора. Определение соответствия финансового инструмента либо операции инвестиционным целям, инвестиционному горизонту и уровню допустимого риска является задачей инвестора. АО «ААА Управление Капиталом» не несет ответственности за возможные убытки инвестора в случае совершения операций либо инвестирования в инвестиционные паи открытых и биржевых паевых инвестиционных фондов под управлением АО «ААА Управление Капиталом», упомянутые в данном уведомлении, и не рекомендует использовать указанную информацию в качестве единственного источника информации при принятии инвестиционного решения.
+</p>    </div>
+        <div class="footer-bottom">
+            <div class="footer-bottom__left">2023 АО «ААА Управление Капиталом»</div>
+            <div class="footer-bottom__right">Разработка сайта — <a href="https://self.team/" rel="noopener noreferrer" target="_blank">Self</a></div>
+        </div>
+    </div>
+</div>
+<div class="cookies js-cookies">
+    <div class="wrap">
+        <div class="cookies__text"><h3>Мы используем файлы cookie и инструменты аналитики активности на сайте.</h3>
+<p>
+	 Ознакомиться с условиями их обработки можно в <a href="/upload/iblock/3d2/p3frm3ec13zro018p1tanr0arvjx534w/Politika-v-otnoshenii-obrabotki-personalnykh-dannykh-v-Obshchestve-_1_.pdf">Политике в отношении обработки персональных данных</a>. Вы можете запретить сохранение cookie в настройках своего браузера.&nbsp;
+</p></div>
+        <div class="cookies__button">
+            <a href="javascript:void(0);" class="button button--blue js-cookies-close">Принять</a>
+        </div>
+    </div>
+</div>
+<div class="feedback popup" data-popup-id="subscribe">
+    <div class="feedback-inner">
+        <form action="/local/components/gpb/subscribe/action/subscribe.php" class="js-form" method="post">
+                        <h3 class="feedback__title">Подписка на рассылку</h3>
+            <div class="feedback__form">
+                <div class="input-fields input-fields--column">
+                                        <label class="input-field input-field--full">
+                        <input type="text" class="input" name="email" required="">
+                        <span class="input-label">Эл. почта</span>
+                    <div class="error-message"></div></label>
+                </div>
+                <div class="feedback__checkboxes">
+                    <div class="feedback__checkbox">
+                        <label><input type="checkbox" required="" name="agree[]"><span></span></label> Даю <a href="/upload/iblock/aea/g4g2fvz0q6z6akvwgo32tdqt7k8i060a/Soglasie_na_reklamnuyu_rassy_lku_01_12_2022.pdf">согласие</a> на получение информации от АО «ААА Управление Капиталом» в соответствии с ч.1 ст.18 ФЗ “О рекламе”, подтверждаю, что ознакомлен с возможностью отказаться от получения данной рассылки в любое время*
+                    </div>
+                </div>
+                <div class="feedback__button">
+                    <button type="submit" class="button button--blue button--disabled">Подписаться</button>
+                </div>
+            </div>
+        </form>
+    </div>
+</div>
+<div class="thanks popup" data-popup-id="subscribe-thanks">
+    <svg width="80" height="80" viewBox="0 0 80 80" fill="none" xmlns="http://www.w3.org/2000/svg">
+        <rect width="80" height="80" rx="16" fill="#460645"></rect>
+        <rect x="39.5" y="24.5" width="1" height="3" rx="0.5" stroke="white" stroke-linecap="round"></rect>
+        <rect x="43.5" y="50.5" width="1" height="7" rx="0.5" transform="rotate(90 43.5 50.5)" stroke="white" stroke-linecap="round"></rect>
+        <rect x="41.5" y="53.5" width="1" height="3" rx="0.5" transform="rotate(90 41.5 53.5)" fill="white" stroke="white" stroke-linecap="round"></rect>
+        <rect x="51" y="28.7071" width="1" height="3" rx="0.5" transform="rotate(45 51 28.7071)" stroke="white" stroke-linecap="round"></rect>
+        <mask id="path-6-inside-1_209_37285" fill="white">
+            <path fill-rule="evenodd" clip-rule="evenodd" d="M44.3958 46.7209C44.3958 45.9073 44.8447 45.1732 45.4805 44.6656C47.4985 43.0548 48.7914 40.574 48.7914 37.7912C48.7914 32.936 44.8554 29 40.0002 29C35.1449 29 31.209 32.936 31.209 37.7912C31.209 40.574 32.502 43.0548 34.5199 44.6657C35.1558 45.1732 35.6046 45.9073 35.6046 46.7209V46.7209C35.6046 47.9797 36.625 49.0001 37.8838 49.0001H42.1167C43.3754 49.0001 44.3958 47.9796 44.3958 46.7209V46.7209Z"></path>
+        </mask>
+        <path d="M34.5199 44.6657L33.2722 46.2287L34.5199 44.6657ZM45.4805 44.6656L44.2328 43.1025L45.4805 44.6656ZM46.7914 37.7912C46.7914 39.94 45.7958 41.8549 44.2328 43.1025L46.7282 46.2287C49.2011 44.2546 50.7914 41.208 50.7914 37.7912H46.7914ZM40.0002 31C43.7509 31 46.7914 34.0405 46.7914 37.7912H50.7914C50.7914 31.8314 45.96 27 40.0002 27V31ZM33.209 37.7912C33.209 34.0405 36.2495 31 40.0002 31V27C34.0404 27 29.209 31.8314 29.209 37.7912H33.209ZM35.7677 43.1026C34.2047 41.8549 33.209 39.94 33.209 37.7912H29.209C29.209 41.208 30.7993 44.2547 33.2722 46.2287L35.7677 43.1026ZM42.1167 47.0001H37.8838V51.0001H42.1167V47.0001ZM33.6046 46.7209C33.6046 49.0842 35.5205 51.0001 37.8838 51.0001V47.0001C37.7296 47.0001 37.6046 46.8751 37.6046 46.7209H33.6046ZM33.2722 46.2287C33.5647 46.4622 33.6046 46.6667 33.6046 46.7209H37.6046C37.6046 45.148 36.7468 43.8842 35.7677 43.1026L33.2722 46.2287ZM42.1167 51.0001C44.48 51.0001 46.3958 49.0842 46.3958 46.7209H42.3958C42.3958 46.8751 42.2708 47.0001 42.1167 47.0001V51.0001ZM44.2328 43.1025C43.2536 43.8841 42.3958 45.148 42.3958 46.7209H46.3958C46.3958 46.6667 46.4357 46.4622 46.7282 46.2287L44.2328 43.1025Z" fill="white" mask="url(#path-6-inside-1_209_37285)"></path>
+        <path d="M40.6 35L38.7661 36.783C38.1224 37.4088 38.5654 38.5 39.4631 38.5H40.411C41.3254 38.5 41.7602 39.6257 41.0833 40.2404L39.1453 42" stroke="white" stroke-width="2" stroke-linecap="round"></path>
+        <rect y="0.707107" width="1" height="3" rx="0.5" transform="matrix(-0.707107 0.707107 0.707107 0.707107 28.5 28.2071)" stroke="white" stroke-linecap="round"></rect>
+        <rect x="0.5" y="0.5" width="1" height="3" rx="0.5" transform="matrix(-4.37114e-08 1 1 4.37114e-08 26 39)" stroke="white" stroke-linecap="round"></rect>
+        <rect x="53.5" y="39.5" width="1" height="3" rx="0.5" transform="rotate(90 53.5 39.5)" stroke="white" stroke-linecap="round"></rect>
+    </svg>
+    <h5>Спасибо за подписку</h5>
+    <p>Теперь вы будете в курсе всех новостей по&nbsp;продуктам</p>
+    <a href="#" data-popup-close="" class="button button--blue">Хорошо</a>
+</div><div class="feedback popup" data-popup-id="subscribe-5609">
+    <div class="feedback-inner">
+        <form action="/local/components/gpb/subscribe-5609/action/subscribe.php" class="js-form" method="post">
+            <input type="hidden" name="sessid" id="sessid" value="5e94327ebd6638ff624828e5d84d8d11">            <input type="hidden" name="url" value="/about/open-info/raschet-razmera-sobstvennykh-sredstv/">
+            <h3 class="feedback__title">Подписка на рассылку</h3>
+            <div class="feedback__form">
+                <div class="input-fields input-fields--column">
+                    <div class="input-field input-field--full">
+                        <select required="required" name="subject[]" multiple="multiple" autocomplete="off" data-theme="checkboxes" data-placeholder="Выберите рассылку" class="js-select" id="subject">
+                                                        <option value="3875">Фонд Золота</option>
+                                                        <option value="3876">Фонд природных ресурсов</option>
+                                                        <option value="790">Сбалансированный</option>
+                                                        <option value="1534">Акции</option>
+                                                        <option value="789">Облигации плюс</option>
+                                                        <option value="4057">Перспективные облигации</option>
+                                                        <option value="1539">Электроэнергетика</option>
+                                                        <option value="791">Валютные облигации</option>
+                                                        <option value="1535">Золото</option>
+                                                        <option value="1536">Фонд международных дивидендов</option>
+                                                        <option value="1537">Индия</option>
+                                                        <option value="1538">Нефть</option>
+                                                        <option value="1665">Новые рубежи</option>
+                                                        <option value="1848">Газпромбанк — Акции китайских компаний</option>
+                                                        <option value="1849">Газпромбанк — Фонд глобальных активов</option>
+                                                        <option value="1846">Газпромбанк — Корпоративные облигации 2 года</option>
+                                                        <option value="1847">Газпромбанк — Корпоративные облигации 4 года</option>
+                                                        <option value="1850">Газпромбанк — Фонд рублевых облигаций</option>
+                                                        <option value="all">Раскрытие информации всем ОПИФ, БПИФ находящимся под управлением АО «ААА Управление Капиталом»</option>
+                                                        <option value="ao">Раскрытие информации в отношении АО «ААА Управление Капиталом»</option>
+                                                    </select>
+                    <div class="error-message"></div></div>
+                    <label class="input-field input-field--full">
+                        <input type="text" class="input" name="email" required="">
+                        <span class="input-label">Эл. почта</span>
+                    <div class="error-message"></div></label>
+                </div>
+                <div class="feedback__checkboxes">
+                    <div class="feedback__checkbox">
+                        <label><input type="checkbox" required="required" name="agree[]" value="receive"><span></span></label> Даю <a href="/upload/iblock/aea/g4g2fvz0q6z6akvwgo32tdqt7k8i060a/Soglasie_na_reklamnuyu_rassy_lku_01_12_2022.pdf">согласие</a> на получение информации от АО «ААА Управление Капиталом» в соответствии с ч.1 ст.18 ФЗ “О рекламе”, подтверждаю, что ознакомлен с возможностью отказаться от получения данной рассылки в любое время*
+                    </div>
+                </div>
+                <div class="feedback__button">
+                    <button type="submit" class="button button--blue button--disabled">Подписаться</button>
+                </div>
+            </div>
+        </form>
+    </div>
+</div>
+<div class="thanks popup" data-popup-id="subscribe-5609-thanks">
+    <svg width="80" height="80" viewBox="0 0 80 80" fill="none" xmlns="http://www.w3.org/2000/svg">
+        <rect width="80" height="80" rx="16" fill="#4b64e5"></rect>
+        <rect x="39.5" y="24.5" width="1" height="3" rx="0.5" stroke="white" stroke-linecap="round"></rect>
+        <rect x="43.5" y="50.5" width="1" height="7" rx="0.5" transform="rotate(90 43.5 50.5)" stroke="white" stroke-linecap="round"></rect>
+        <rect x="41.5" y="53.5" width="1" height="3" rx="0.5" transform="rotate(90 41.5 53.5)" fill="white" stroke="white" stroke-linecap="round"></rect>
+        <rect x="51" y="28.7071" width="1" height="3" rx="0.5" transform="rotate(45 51 28.7071)" stroke="white" stroke-linecap="round"></rect>
+        <mask id="path-6-inside-1_209_37285" fill="white">
+            <path fill-rule="evenodd" clip-rule="evenodd" d="M44.3958 46.7209C44.3958 45.9073 44.8447 45.1732 45.4805 44.6656C47.4985 43.0548 48.7914 40.574 48.7914 37.7912C48.7914 32.936 44.8554 29 40.0002 29C35.1449 29 31.209 32.936 31.209 37.7912C31.209 40.574 32.502 43.0548 34.5199 44.6657C35.1558 45.1732 35.6046 45.9073 35.6046 46.7209V46.7209C35.6046 47.9797 36.625 49.0001 37.8838 49.0001H42.1167C43.3754 49.0001 44.3958 47.9796 44.3958 46.7209V46.7209Z"></path>
+        </mask>
+        <path d="M34.5199 44.6657L33.2722 46.2287L34.5199 44.6657ZM45.4805 44.6656L44.2328 43.1025L45.4805 44.6656ZM46.7914 37.7912C46.7914 39.94 45.7958 41.8549 44.2328 43.1025L46.7282 46.2287C49.2011 44.2546 50.7914 41.208 50.7914 37.7912H46.7914ZM40.0002 31C43.7509 31 46.7914 34.0405 46.7914 37.7912H50.7914C50.7914 31.8314 45.96 27 40.0002 27V31ZM33.209 37.7912C33.209 34.0405 36.2495 31 40.0002 31V27C34.0404 27 29.209 31.8314 29.209 37.7912H33.209ZM35.7677 43.1026C34.2047 41.8549 33.209 39.94 33.209 37.7912H29.209C29.209 41.208 30.7993 44.2547 33.2722 46.2287L35.7677 43.1026ZM42.1167 47.0001H37.8838V51.0001H42.1167V47.0001ZM33.6046 46.7209C33.6046 49.0842 35.5205 51.0001 37.8838 51.0001V47.0001C37.7296 47.0001 37.6046 46.8751 37.6046 46.7209H33.6046ZM33.2722 46.2287C33.5647 46.4622 33.6046 46.6667 33.6046 46.7209H37.6046C37.6046 45.148 36.7468 43.8842 35.7677 43.1026L33.2722 46.2287ZM42.1167 51.0001C44.48 51.0001 46.3958 49.0842 46.3958 46.7209H42.3958C42.3958 46.8751 42.2708 47.0001 42.1167 47.0001V51.0001ZM44.2328 43.1025C43.2536 43.8841 42.3958 45.148 42.3958 46.7209H46.3958C46.3958 46.6667 46.4357 46.4622 46.7282 46.2287L44.2328 43.1025Z" fill="white" mask="url(#path-6-inside-1_209_37285)"></path>
+        <path d="M40.6 35L38.7661 36.783C38.1224 37.4088 38.5654 38.5 39.4631 38.5H40.411C41.3254 38.5 41.7602 39.6257 41.0833 40.2404L39.1453 42" stroke="white" stroke-width="2" stroke-linecap="round"></path>
+        <rect y="0.707107" width="1" height="3" rx="0.5" transform="matrix(-0.707107 0.707107 0.707107 0.707107 28.5 28.2071)" stroke="white" stroke-linecap="round"></rect>
+        <rect x="0.5" y="0.5" width="1" height="3" rx="0.5" transform="matrix(-4.37114e-08 1 1 4.37114e-08 26 39)" stroke="white" stroke-linecap="round"></rect>
+        <rect x="53.5" y="39.5" width="1" height="3" rx="0.5" transform="rotate(90 53.5 39.5)" stroke="white" stroke-linecap="round"></rect>
+    </svg>
+    <h5>Спасибо за подписку</h5>
+    <p>Теперь вы будете в курсе всех новостей по&nbsp;продуктам</p>
+    <a href="#" data-popup-close="" class="button button--blue">Хорошо</a>
+</div><div class="popup feedback" data-popup-id="feedback">
+    <div class="feedback-inner">
+        <h3 class="feedback__title">Оставьте контакты, мы перезвоним</h3>
+        <div class="feedback__form">
+            <form action="/local/ajax/feedback/" method="post" class="js-form" data-captcha="true">
+                <input type="hidden" name="type" value="individual">
+                                    <input type="hidden" name="utm_source" value="">
+                                    <input type="hidden" name="utm_medium" value="">
+                                    <input type="hidden" name="utm_campaign" value="">
+                                    <input type="hidden" name="utm_content" value="">
+                                    <input type="hidden" name="utm_term" value="">
+                                <div class="input-fields">
+                    <label class="input-field"> <input type="text" name="name" class="input" required=""> <span class="input-label">ФИО *</span> <div class="error-message"></div></label>
+                    <label class="input-field"> <input type="text" data-mask-phone="" name="phone" class="input" required="" maxlength="18"> <span class="input-label">Телефон *</span> <div class="error-message"></div></label>
+                    <label class="input-field"> <input type="text" data-mask-email="" name="email" class="input" required=""> <span class="input-label">Эл. почта *</span> <div class="error-message"></div></label>
+                    <label class="input-field"> <input type="text" name="city" class="input"> <span class="input-label">Город</span> <div class="error-message"></div></label>
+                </div>
+                <div class="feedback__required">* поля обязательны для заполнения</div>
+                <div class="feedback__checkboxes">
+                    <div class="feedback__checkbox">
+                        <label><input type="checkbox" class="js-check-all"><span></span></label> Отметить все варианты
+                    </div>
+                                            <div class="feedback__checkbox">
+                            <label><input type="checkbox" name="agree[]" required="" value="personal"><span></span></label> Даю <a href="/upload/iblock/3a4/ofcf5gyj7acix9ddzm0dffavzev9rjfj/Soglasie_na_obrabotku_PDn_na_sajte_01_12_2022.pdf">согласие</a> на обработку персональных данных, согласен с <a href="/upload/iblock/3d2/p3frm3ec13zro018p1tanr0arvjx534w/Politika-v-otnoshenii-obrabotki-personalnykh-dannykh-v-Obshchestve-_1_.pdf">Политикой в отношении обработки персональных данных</a> и принимаю Пользовательское соглашение*
+                        </div>
+                                                                <div class="feedback__checkbox">
+                            <label><input type="checkbox" name="agree[]" required="" value="resident"><span></span></label> Подтверждаю, что являюсь гражданином и налоговым резидентом только РФ, проживаю на территории РФ более 183 дней в календарном году*
+                        </div>
+                                                                <div class="feedback__checkbox">
+                            <label><input type="checkbox" name="agree[]" value="promo"><span></span></label> Даю <a href="/upload/iblock/aea/g4g2fvz0q6z6akvwgo32tdqt7k8i060a/Soglasie_na_reklamnuyu_rassy_lku_01_12_2022.pdf">согласие</a> на получение предложений и материалов о новых продуктах и услугах
+                        </div>
+                                    </div>
+                <div class="feedback__button">
+                    <button type="submit" class="button button--blue button--disabled">Отправить</button>
+                </div>
+            <input type="hidden" value="" name="token" id="token"></form>
+        </div>
+    </div>
+</div>
+<div class="menu swipe-close">
+    <div class="menu-content swipe-close-content">
+        <a href="/" class="menu-logo">
+            <svg width="141" height="32" viewBox="0 0 141 32" fill="none" xmlns="https://www.w3.org/2000/svg">
+                <path d="M54.9057 0.405029L47.8201 16.5455H51.3032L52.1925 14.4795H58.6777L59.5671 16.5455H63.0502L55.9645 0.405029H54.9057ZM53.3207 11.8131L55.4351 6.45769L57.5253 11.8131H53.3207ZM70.7814 0.405029L63.6958 16.5455H67.1789L68.0682 14.4795H74.5534L75.4428 16.5455H78.9259L71.8402 0.405029H70.7814ZM69.1964 11.8131L71.3108 6.45769L73.401 11.8131H69.1964ZM87.7143 0.405029H86.6571L79.5715 16.5455H83.0546L83.9439 14.4795H90.4292L91.3185 16.5455H94.8016L87.7143 0.405029ZM85.0722 11.8131L87.1866 6.45769L89.2767 11.8131H85.0722Z" fill="#08173E"></path>
+                <path d="M49.7068 22.9839L48.6318 20.5613H47.8555L49.3436 23.7409C49.2629 23.9152 49.1499 24.0363 49.0031 24.1073C48.8562 24.1767 48.7028 24.2122 48.5414 24.2122C48.4817 24.2122 48.4188 24.209 48.3542 24.2025C48.288 24.1961 48.217 24.1896 48.1412 24.1799V24.7642C48.2251 24.7852 48.3139 24.8013 48.4042 24.8126C48.4946 24.8223 48.5834 24.8288 48.6673 24.8288C48.9853 24.8288 49.2532 24.7561 49.4711 24.6125C49.689 24.4688 49.865 24.2445 49.9957 23.9378L51.4516 20.5613H50.6881L49.7068 22.9839ZM53.574 21.1649H55.5319V24.7578H56.2065V20.5613H52.8993V24.7578H53.574V21.1649ZM58.7325 23.1373H59.5847C59.801 23.1373 59.9963 23.105 60.1722 23.042C60.3482 22.9791 60.4983 22.8887 60.6242 22.7757C60.7484 22.6611 60.8453 22.5255 60.9131 22.369C60.9809 22.2124 61.0148 22.0381 61.0148 21.8476C61.0148 21.6572 60.9809 21.4829 60.9131 21.3263C60.8453 21.1697 60.7484 21.0342 60.6242 20.9196C60.4999 20.805 60.3482 20.7178 60.1722 20.6549C59.9963 20.5935 59.801 20.5629 59.5847 20.5629H58.0594V24.7594H58.7341V23.1373H58.7325ZM58.7325 21.1584H59.5783C59.8204 21.1584 60.0044 21.223 60.1319 21.3521C60.2594 21.4813 60.3223 21.6475 60.3223 21.8509C60.3223 22.0542 60.2594 22.2205 60.1319 22.3464C60.0044 22.4739 59.8204 22.5368 59.5783 22.5368H58.7325V21.1584ZM64.9514 24.7578H65.6761L63.8264 20.4918H63.5972L61.7475 24.7578H62.4658L62.7644 24.0589H64.6528L64.9514 24.7578ZM63.0065 23.4794L63.7118 21.7443L64.4042 23.4794H63.0065ZM69.9114 24.4107C70.0292 24.3026 70.1212 24.1751 70.1841 24.0266C70.2471 23.8781 70.2794 23.7151 70.2794 23.5375C70.2794 23.2745 70.21 23.0517 70.0728 22.8661C69.9356 22.6821 69.7403 22.5497 69.4917 22.469C69.729 22.2705 69.8484 22.0074 69.8484 21.6814C69.8484 21.5168 69.8194 21.365 69.7596 21.2295C69.6999 21.0939 69.616 20.9761 69.5046 20.876C69.3949 20.7759 69.2625 20.6984 69.1076 20.6436C68.9526 20.5887 68.7799 20.5613 68.5895 20.5613H67.1207V24.7578H68.9203C69.1285 24.7578 69.3158 24.7271 69.4836 24.6658C69.6499 24.6044 69.7919 24.5189 69.9114 24.4107ZM67.7808 21.152H68.5249C68.7412 21.152 68.9026 21.202 69.0075 21.3053C69.114 21.407 69.1657 21.5426 69.1657 21.7121C69.1657 21.8815 69.1124 22.0187 69.0075 22.1253C68.901 22.2318 68.7412 22.2834 68.5249 22.2834H67.7808V21.152ZM68.8622 24.167H67.7808V22.8629H68.8622C69.1043 22.8629 69.2867 22.9226 69.4126 23.0404C69.5369 23.1599 69.5998 23.318 69.5998 23.5166C69.5998 23.7151 69.5369 23.8733 69.4126 23.9911C69.2867 24.1089 69.1027 24.167 68.8622 24.167ZM75.2974 24.7578L73.4477 20.4918H73.2185L71.3688 24.7578H72.0871L73.3331 21.8267L74.5727 24.7578H75.2974ZM79.544 24.1541H77.3828V22.8258H78.9468V22.2415H77.3828V21.1665H79.4681V20.5629H76.7081V24.7594H79.544V24.1541ZM84.5168 24.7578V20.5613H83.8422V22.2334H81.731V20.5613H81.0563V24.7578H81.731V22.837H83.8422V24.7578H84.5168ZM87.0735 23.4423V20.5613H86.3988V24.8272H86.628L89.2476 21.8638V24.7561H89.9222V20.4902H89.6931L87.0735 23.4423ZM92.4773 24.1541V22.8258H94.0413V22.2415H92.4773V21.1665H94.5626V20.5629H91.8026V24.7594H94.6385V24.1557H92.4773V24.1541ZM51.2627 26.8754H50.4363L48.6754 28.8397L50.6203 31.0719H51.4532L49.5131 28.8397L51.2627 26.8754ZM47.9814 31.0719H48.656V26.8754H47.9814V31.0719ZM54.749 26.8044L52.8993 31.0703H53.6176L53.9162 30.3714H55.8046L56.1032 31.0703H56.8279L54.9782 26.8044H54.749ZM54.1567 29.7936L54.862 28.0585L55.5545 29.7936H54.1567ZM58.5743 31.0719H59.249V27.479H61.2068V31.0719H61.8815V26.8754H58.5743V31.0719ZM64.7416 29.7548V26.8738H64.0669V31.1397H64.2961L66.9157 28.1763V31.0687H67.5904V26.8028H67.3612L64.7416 29.7548ZM69.3658 27.479H70.7781V31.0719H71.4528V27.479H72.8651V26.8754H69.3674V27.479H69.3658ZM75.567 26.8044L73.7173 31.0703H74.4355L74.7341 30.3714H76.6225L76.9211 31.0703H77.6458L75.7961 26.8044H75.567ZM74.9746 29.7936L75.6799 28.0585L76.3724 29.7936H74.9746ZM81.0079 26.8044L79.1582 31.0703H79.8764L81.1225 28.1392L82.3621 31.0703H83.0868L81.2371 26.8044H81.0079ZM88.1274 27.429C87.9289 27.2337 87.6949 27.082 87.4285 26.9706C87.1622 26.8609 86.8749 26.806 86.5699 26.806C86.2648 26.806 85.9791 26.8609 85.7112 26.9706C85.4449 27.0804 85.2109 27.2337 85.0123 27.429C84.8138 27.6243 84.6556 27.8535 84.541 28.1182C84.4264 28.3829 84.3699 28.6686 84.3699 28.9736C84.3699 29.2787 84.4264 29.5644 84.541 29.8291C84.6556 30.0938 84.8106 30.3246 85.0091 30.5183C85.206 30.7136 85.4401 30.8653 85.708 30.9767C85.9775 31.0864 86.2648 31.1413 86.5699 31.1413C86.8749 31.1413 87.1606 31.0864 87.4285 30.9767C87.6965 30.8669 87.9289 30.7152 88.1274 30.5215C88.326 30.3294 88.4841 30.1002 88.6003 29.8355C88.7166 29.5708 88.7747 29.2835 88.7747 28.9736C88.7747 28.6686 88.7166 28.3829 88.6003 28.1182C88.4841 27.8535 88.326 27.6227 88.1274 27.429ZM87.9676 29.5902C87.8918 29.7807 87.7853 29.9453 87.6497 30.0825C87.5141 30.2197 87.3543 30.3278 87.1735 30.4069C86.9911 30.486 86.7926 30.5247 86.5763 30.5247C86.3601 30.5247 86.1599 30.486 85.9759 30.4069C85.7919 30.3278 85.6321 30.2197 85.4998 30.0825C85.3658 29.9453 85.2609 29.7807 85.185 29.5902C85.1092 29.3997 85.0704 29.1915 85.0704 28.9672C85.0704 28.7461 85.1092 28.5411 85.185 28.3506C85.2609 28.1602 85.3658 27.9971 85.4998 27.8616C85.6337 27.726 85.7919 27.6195 85.9759 27.5404C86.1599 27.4613 86.3601 27.4225 86.5763 27.4225C86.7926 27.4225 86.9911 27.4613 87.1735 27.5404C87.3559 27.6195 87.5141 27.7276 87.6497 27.8648C87.7853 28.002 87.8918 28.1666 87.9676 28.3538C88.0435 28.5427 88.0822 28.7477 88.0822 28.9672C88.0822 29.1915 88.0451 29.3997 87.9676 29.5902ZM92.6419 29.1512L90.881 26.8044H90.6518V31.0703H91.3265V28.4313L92.5338 30.0147H92.7565L93.9638 28.4378V31.0703H94.6385V26.8044H94.4093L92.6419 29.1512Z" fill="#08173E"></path>
+                <path d="M25.5093 0.726319L42.3067 29.821C42.8651 30.7895 42.1662 32 41.0493 32H7.45466C6.33612 32 5.63725 30.7895 6.19732 29.821L22.993 0.726319C23.5531 -0.242106 24.9509 -0.242106 25.5093 0.726319Z" fill="url(#paint0_linear_0_7843)"></path>
+                <path d="M25.3493 10.9704L41.8997 30.0758C42.5517 30.828 42.0175 31.9981 41.0216 31.9981H7.48182C6.48595 31.9981 5.9517 30.828 6.60378 30.0758L23.1542 10.9704C23.7336 10.3022 24.7698 10.3022 25.3493 10.9704Z" fill="url(#paint1_linear_0_7843)"></path>
+                <path d="M24.9782 21.2699L41.3737 30.733C41.9741 31.08 41.7288 31.9984 41.0347 31.9984H7.46912C6.77508 31.9984 6.52975 31.08 7.13017 30.733L23.5256 21.2699C23.9743 21.0116 24.5279 21.0116 24.9782 21.2699Z" fill="url(#paint2_linear_0_7843)"></path>
+                <defs>
+                    <linearGradient id="paint0_linear_0_7843" x1="24.2518" y1="31.9991" x2="24.2518" y2="-0.000709529" gradientUnits="userSpaceOnUse">
+                        <stop offset="0.05" stop-color="#4607FF" stop-opacity="0"></stop>
+                        <stop offset="0.1517" stop-color="#4607F6" stop-opacity="0.107"></stop>
+                        <stop offset="0.3176" stop-color="#4607DE" stop-opacity="0.2817"></stop>
+                        <stop offset="0.5272" stop-color="#4607B6" stop-opacity="0.5023"></stop>
+                        <stop offset="0.7694" stop-color="#47077F" stop-opacity="0.7573"></stop>
+                        <stop offset="1" stop-color="#470745"></stop>
+                    </linearGradient>
+                    <linearGradient id="paint1_linear_0_7843" x1="24.2515" y1="31.9988" x2="24.2515" y2="10.469" gradientUnits="userSpaceOnUse">
+                        <stop offset="0.05" stop-color="#4607FF" stop-opacity="0"></stop>
+                        <stop offset="0.1797" stop-color="#4607ED" stop-opacity="0.1366"></stop>
+                        <stop offset="0.4415" stop-color="#4607BC" stop-opacity="0.4121"></stop>
+                        <stop offset="0.8079" stop-color="#470770" stop-opacity="0.7978"></stop>
+                        <stop offset="1" stop-color="#470745"></stop>
+                    </linearGradient>
+                    <linearGradient id="paint2_linear_0_7843" x1="24.2517" y1="31.9991" x2="24.2517" y2="21.0758" gradientUnits="userSpaceOnUse">
+                        <stop offset="0.03" stop-color="#4607FF" stop-opacity="0"></stop>
+                        <stop offset="1" stop-color="#470745"></stop>
+                    </linearGradient>
+                </defs>
+            </svg>
+        </a>
+        <div class="menu-close js-burger"><svg width="24" height="24" viewBox="0 0 24 24" fill="none" xmlns="https://www.w3.org/2000/svg">
+                <path d="M6 6L11.2929 11.2929C11.6834 11.6834 11.6834 12.3166 11.2929 12.7071L6 18" stroke="#7986AA" stroke-width="2" stroke-linecap="round"></path>
+                <path d="M18 6L12.7071 11.2929C12.3166 11.6834 12.3166 12.3166 12.7071 12.7071L18 18" stroke="#7986AA" stroke-width="2" stroke-linecap="round"></path>
+            </svg></div>
+        <div class="menu-contacts desktop-hide">
+            <div class="menu-bottom__location">
+                <a href="/about/contacts/" class="menu-location">
+                    <svg width="24" height="24" viewBox="0 0 24 24" fill="none" xmlns="https://www.w3.org/2000/svg" alt="">
+                        <path d="M1 11L11.3921 2.5272C11.7666 2.22189 12.3058 2.22799 12.6733 2.54169L17 6.23529" stroke="white" stroke-width="2" stroke-linecap="round"></path>
+                        <line x1="4" y1="11" x2="4" y2="19" stroke="white" stroke-width="2" stroke-linecap="round"></line>
+                        <line x1="9" y1="11" x2="9" y2="19" stroke="white" stroke-width="2" stroke-linecap="round"></line>
+                        <line x1="1" y1="22" x2="13" y2="22" stroke="white" stroke-width="2" stroke-linecap="round"></line>
+                        <line x1="1" y1="11" x2="9" y2="11" stroke="white" stroke-width="2" stroke-linecap="round"></line>
+                        <path fill-rule="evenodd" clip-rule="evenodd" d="M18 24C18 24 24 17.3137 24 14C24 10.6863 21.3137 8 18 8C14.6863 8 12 10.6863 12 14C12 17.3137 18 24 18 24ZM18 18C20.2091 18 22 16.2091 22 14C22 11.7909 20.2091 10 18 10C15.7909 10 14 11.7909 14 14C14 16.2091 15.7909 18 18 18Z" fill="white"></path>
+                    </svg>
+                    <span>Москва</span></a> <a class="menu-near" href="/about/contacts/#map">Найти ближайший офис</a>
+            </div>
+            <div class="menu-bottom__phone">
+                <a href="tel:88002005454">8 (800) 200 54 54</a>
+            </div>
+        </div>
+        <div class="menu-columns">
+            <div class="menu-column">
+                <a href="/individual/pif/" class="menu-column__title">ОПИФ</a>
+                <a href="/individual/pif/" class="menu-column__item desktop-hide">ОПИФ</a>
+                <a href="/individual/pif/opif-rynochnykh-finansovykh-instrumentov-fond-zolota/" class="menu-column__item">Фонд Золота</a><a href="/individual/pif/opif-rynochnykh-finansovykh-instrumentov-fond-priroda/" class="menu-column__item">Фонд природных ресурсов</a><a href="/individual/pif/opif-rynochnykh-finansovykh-instrumentov-gazprombank-sbalansirovannyi/" class="menu-column__item">Сбалансированный</a><a href="/individual/pif/opif-rynochnykh-finansovykh-instrumentov-gazprombank-aktcii/" class="menu-column__item">Акции</a><a href="/individual/pif/opif-rynochnykh-finansovykh-instrumentov-gazprombank-obligatcii/" class="menu-column__item">Облигации плюс</a><a href="/individual/pif/opif-rynochnykh-finansovykh-instrumentov-perspektivnye-obligatcii/" class="menu-column__item">Перспективные облигации</a><a href="/individual/pif/opif-rynochnykh-finansovykh-instrumentov-gazprombank-indeks/" class="menu-column__item">Электроэнергетика</a><a href="/individual/pif/opif-rynochnykh-finansovykh-instrumentov-gazprombank-mirovaia/" class="menu-column__item">Фонд международных дивидендов</a><a href="/individual/pif/opif-rynochnykh-finansovykh-instrumentov-gazprombank-indiia/" class="menu-column__item">Индия</a><a href="/individual/pif/opif-rynochnykh-finansovykh-instrumentov-gazprombank-neft/" class="menu-column__item">Нефть</a><a href="/individual/pif/opif-rynochnykh-finansovykh-instrumentov-gazprombank-valiutnye/" class="menu-column__item">Валютные облигации</a><a href="/individual/pif/opif-rynochnykh-finansovykh-instrumentov-gazprombank-novye-rubezhi/" class="menu-column__item">Новые рубежи</a><a href="/individual/pif/opif-rynochnykh-finansovykh-instrumentov-gazprombank-zoloto/" class="menu-column__item">Золото</a>            </div>
+            <div class="menu-column">
+                <a href="/individual/iis/" class="menu-column__title">ИИС</a>
+                <a href="/individual/iis/" class="menu-column__item desktop-hide">ИИС</a>
+                <a href="/individual/iis/iis-obligatcii-plius/" class="menu-column__item">ИИС Облигации плюс</a><a href="/individual/iis/iis-gazprombank-plius/" class="menu-column__item">ИИС Газпромбанк плюс</a><a href="/individual/iis/iis-sbalansirovannyi/" class="menu-column__item">ИИС Сбалансированный</a><a href="/individual/iis/iis-valiutnye-obligatcii/" class="menu-column__item">ИИС Валютные облигации</a>            </div>
+            <div class="menu-column">
+                <a href="/individual/rulesstrategy/" class="menu-column__title">Стандартные стратегии</a>
+                <a href="/individual/rulesstrategy/" class="menu-column__item desktop-hide">Стандартные стратегии</a>
+                <a href="/individual/rulesstrategy/standartnaia-strategiia-upravleniia-rynok-aktcii-rf/" class="menu-column__item">Рынок акций РФ</a><a href="/individual/rulesstrategy/standartnaia-strategiia-upravleniia-neftepromyshlennost-rf/" class="menu-column__item">Нефтепромышленность РФ</a><a href="/individual/rulesstrategy/standartnaia-strategiia-upravleniia-gazopromyshlennost-rf/" class="menu-column__item">Газопромышленность РФ</a>            </div>
+            <div class="menu-column">
+                
+                        <a href="/institutional/" class="menu-column__item">Корпоративным клиентам</a>
+                                <a href="/wealthy-clients/" class="menu-column__item">Состоятельным клиентам</a>
+                                <a href="/hyperion/" class="menu-column__item">Среднему бизнесу</a>
+                                <a href="/bpif/" class="menu-column__item">Биржевые фонды</a>
+                                <a href="/about/" class="menu-column__item">О компании</a>
+                                <a href="/about/open-info/" class="menu-column__item">Раскрытие информации</a>
+                                <a href="/about/contacts/" class="menu-column__item">Контакты и обращения</a>
+                                <a href="/journal/" class="menu-column__item">Журнал для инвесторов</a>
+                        </div>
+            <div class="menu-column menu-column--journal">
+    <a href="/journal/theory/top-10-faktov-ob-investitsiyakh/" class="menu-journal">
+        <span class="menu-journal__pic" style="background-image: url('/upload/resize_cache/iblock/d16/3h5gm7uvgvuufymv33dverc2dhdc0udx/300_160_2/4_2.jpg')"></span>
+        <span class="menu-journal__title">10 фактов об инвестициях</span>
+        <span class="menu-journal__link">Читать статью</span>
+    </a>
+</div>
+        </div>
+        <div class="menu-buttons">
+            <a href="https://lk.aaacapital.ru/users/sign_in" class="button button--blue">Инвестировать</a>
+            <a href="/contacts/" class="button">Заказать звонок</a>
+        </div>
+        <div class="menu-bottom">
+            <div class="menu-bottom__apps">
+                            </div>
+            <div class="menu-bottom__location mobile-hide">
+                <a href="/about/contacts/" class="menu-location">
+                    <svg width="24" height="24" viewBox="0 0 24 24" fill="none" xmlns="https://www.w3.org/2000/svg" alt="">
+                        <path d="M1 11L11.3921 2.5272C11.7666 2.22189 12.3058 2.22799 12.6733 2.54169L17 6.23529" stroke="white" stroke-width="2" stroke-linecap="round"></path>
+                        <line x1="4" y1="11" x2="4" y2="19" stroke="white" stroke-width="2" stroke-linecap="round"></line>
+                        <line x1="9" y1="11" x2="9" y2="19" stroke="white" stroke-width="2" stroke-linecap="round"></line>
+                        <line x1="1" y1="22" x2="13" y2="22" stroke="white" stroke-width="2" stroke-linecap="round"></line>
+                        <line x1="1" y1="11" x2="9" y2="11" stroke="white" stroke-width="2" stroke-linecap="round"></line>
+                        <path fill-rule="evenodd" clip-rule="evenodd" d="M18 24C18 24 24 17.3137 24 14C24 10.6863 21.3137 8 18 8C14.6863 8 12 10.6863 12 14C12 17.3137 18 24 18 24ZM18 18C20.2091 18 22 16.2091 22 14C22 11.7909 20.2091 10 18 10C15.7909 10 14 11.7909 14 14C14 16.2091 15.7909 18 18 18Z" fill="white"></path>
+                    </svg>
+                    <span>Москва</span></a> <a class="menu-near" href="/about/contacts/#map">Найти ближайший офис</a>
+            </div>
+        </div>
+    </div>
+</div>
+</div>
+<div class="hnwi-popup" id="hnwi-popup">
+    <div class="hnwi-popup__content">
+        <div class="hnwi-popup__logo"><a href="/" class="logo">
+                <svg width="247" height="56" viewBox="0 0 247 56" fill="none" xmlns="https://www.w3.org/2000/svg" alt="">
+                    <path d="M85.5832 0.708984L73.1836 28.9547H79.2789L80.8352 25.3393H92.1841L93.7404 28.9547H99.8357L87.4361 0.708984H85.5832ZM82.8095 20.6731L86.5097 11.3011L90.1674 20.6731H82.8095ZM113.365 0.708984L100.966 28.9547H107.061L108.617 25.3393H119.966L121.522 28.9547H127.618L115.218 0.708984H113.365ZM110.592 20.6731L114.292 11.3011L117.949 20.6731H110.592ZM142.997 0.708984H141.147L128.747 28.9547H134.843L136.399 25.3393H147.748L149.304 28.9547H155.4L142.997 0.708984ZM138.373 20.6731L142.074 11.3011L145.731 20.6731H138.373Z" fill="#460645"></path>
+                    <path d="M76.4858 40.2214L74.6047 35.9817H73.2461L75.8503 41.5461C75.7091 41.8512 75.5114 42.063 75.2543 42.1873C74.9973 42.3087 74.729 42.3709 74.4465 42.3709C74.342 42.3709 74.2319 42.3652 74.1189 42.3539C74.0031 42.3426 73.8788 42.3313 73.746 42.3144V43.3369C73.8929 43.3736 74.0483 43.4019 74.2064 43.4216C74.3646 43.4386 74.52 43.4499 74.6668 43.4499C75.2233 43.4499 75.6921 43.3228 76.0734 43.0714C76.4547 42.82 76.7626 42.4274 76.9914 41.8907L79.5391 35.9817H78.2031L76.4858 40.2214ZM83.2534 37.0381H86.6795V43.3256H87.8601V35.9817H82.0727V43.3256H83.2534V37.0381V37.0381ZM92.2805 40.4897H93.7719C94.1504 40.4897 94.4921 40.4332 94.8 40.3231C95.1079 40.2129 95.3705 40.0547 95.5908 39.857C95.8083 39.6565 95.9778 39.4192 96.0964 39.1452C96.2151 38.8712 96.2744 38.5662 96.2744 38.2329C96.2744 37.8996 96.2151 37.5945 96.0964 37.3205C95.9778 37.0466 95.8083 36.8093 95.5908 36.6088C95.3734 36.4082 95.1079 36.2557 94.8 36.1455C94.4921 36.0382 94.1504 35.9845 93.7719 35.9845H91.1027V43.3284H92.2833V40.4897H92.2805ZM92.2805 37.0268H93.7606C94.1842 37.0268 94.5062 37.1398 94.7294 37.3657C94.9525 37.5917 95.0627 37.8826 95.0627 38.2385C95.0627 38.5944 94.9525 38.8854 94.7294 39.1057C94.5062 39.3288 94.1842 39.439 93.7606 39.439H92.2805V37.0268ZM103.163 43.3256H104.432L101.195 35.8602H100.794L97.5567 43.3256H98.8136L99.3362 42.1025H102.641L103.163 43.3256ZM99.7598 41.0885L100.994 38.0521L102.206 41.0885H99.7598ZM111.843 42.7183C112.049 42.5291 112.21 42.3059 112.32 42.0461C112.431 41.7862 112.487 41.5009 112.487 41.1902C112.487 40.7298 112.366 40.34 112.126 40.0152C111.885 39.6932 111.544 39.4616 111.109 39.3203C111.524 38.9729 111.733 38.5125 111.733 37.9419C111.733 37.6538 111.682 37.3883 111.578 37.1511C111.473 36.9138 111.326 36.7076 111.131 36.5325C110.939 36.3574 110.708 36.2218 110.437 36.1258C110.165 36.0297 109.863 35.9817 109.53 35.9817H106.96V43.3256H110.109C110.473 43.3256 110.801 43.2719 111.095 43.1646C111.386 43.0573 111.634 42.9076 111.843 42.7183ZM108.115 37.0155H109.417C109.795 37.0155 110.078 37.1031 110.261 37.2838C110.448 37.4618 110.538 37.699 110.538 37.9956C110.538 38.2922 110.445 38.5323 110.261 38.7187C110.075 38.9051 109.795 38.9955 109.417 38.9955H108.115V37.0155ZM110.007 42.2918H108.115V40.0095H110.007C110.431 40.0095 110.75 40.1141 110.97 40.3202C111.188 40.5293 111.298 40.8061 111.298 41.1535C111.298 41.5009 111.188 41.7777 110.97 41.9839C110.75 42.1901 110.428 42.2918 110.007 42.2918ZM121.269 43.3256L118.032 35.8602H117.631L114.394 43.3256H115.651L117.831 38.1962L120 43.3256H121.269ZM128.7 42.2692H124.918V39.9446H127.655V38.9221H124.918V37.0409H128.567V35.9845H123.737V43.3284H128.7V42.2692V42.2692ZM137.402 43.3256V35.9817H136.222V38.908H132.527V35.9817H131.346V43.3256H132.527V39.9643H136.222V43.3256H137.402ZM141.876 41.0236V35.9817H140.696V43.447H141.097L145.681 38.2611V43.3228H146.861V35.8574H146.46L141.876 41.0236ZM151.333 42.2692V39.9446H154.07V38.9221H151.333V37.0409H154.982V35.9845H150.152V43.3284H155.115V42.272H151.333V42.2692ZM79.2086 47.0314H77.7625L74.681 50.4689L78.0845 54.3753H79.542L76.1469 50.4689L79.2086 47.0314ZM73.4664 54.3753H74.6471V47.0314H73.4664V54.3753ZM85.3096 46.9072L82.0727 54.3725H83.3296L83.8522 53.1495H87.1568L87.6794 54.3725H88.9476L85.7107 46.9072H85.3096ZM84.273 52.1383L85.5073 49.1018L86.719 52.1383H84.273ZM92.0037 54.3753H93.1844V48.0878H96.6105V54.3753H97.7912V47.0314H92.0037V54.3753V54.3753ZM102.796 52.0705V47.0286H101.616V54.494H102.017L106.601 49.308V54.3697H107.781V46.9043H107.38L102.796 52.0705ZM110.888 48.0878H113.36V54.3753H114.541V48.0878H117.012V47.0314H110.891V48.0878H110.888ZM121.74 46.9072L118.503 54.3725H119.76L120.283 53.1495H123.587L124.11 54.3725H125.378L122.141 46.9072H121.74ZM120.704 52.1383L121.938 49.1018L123.15 52.1383H120.704ZM131.262 46.9072L128.025 54.3725H129.282L131.462 49.2431L133.631 54.3725H134.9L131.663 46.9072H131.262ZM143.721 48.0003C143.373 47.6585 142.964 47.393 142.498 47.1981C142.032 47.006 141.529 46.91 140.995 46.91C140.461 46.91 139.961 47.006 139.492 47.1981C139.026 47.3902 138.617 47.6585 138.269 48.0003C137.922 48.342 137.645 48.7431 137.445 49.2064C137.244 49.6696 137.145 50.1695 137.145 50.7034C137.145 51.2372 137.244 51.7372 137.445 52.2004C137.645 52.6636 137.916 53.0675 138.264 53.4065C138.608 53.7483 139.018 54.0138 139.487 54.2087C139.958 54.4007 140.461 54.4968 140.995 54.4968C141.529 54.4968 142.029 54.4007 142.498 54.2087C142.966 54.0166 143.373 53.7511 143.721 53.4121C144.068 53.076 144.345 52.6749 144.548 52.2117C144.752 51.7485 144.853 51.2457 144.853 50.7034C144.853 50.1695 144.752 49.6696 144.548 49.2064C144.345 48.7431 144.068 48.3392 143.721 48.0003ZM143.441 51.7824C143.308 52.1157 143.122 52.4038 142.885 52.6439C142.647 52.8839 142.368 53.0732 142.051 53.2116C141.732 53.35 141.385 53.4178 141.006 53.4178C140.628 53.4178 140.278 53.35 139.956 53.2116C139.634 53.0732 139.354 52.8839 139.122 52.6439C138.888 52.4038 138.704 52.1157 138.572 51.7824C138.439 51.4491 138.371 51.0847 138.371 50.6921C138.371 50.3051 138.439 49.9464 138.572 49.6131C138.704 49.2798 138.888 48.9945 139.122 48.7572C139.357 48.52 139.634 48.3336 139.956 48.1952C140.278 48.0568 140.628 47.989 141.006 47.989C141.385 47.989 141.732 48.0568 142.051 48.1952C142.371 48.3336 142.647 48.5228 142.885 48.7629C143.122 49.003 143.308 49.2911 143.441 49.6187C143.574 49.9492 143.642 50.3079 143.642 50.6921C143.642 51.0847 143.577 51.4491 143.441 51.7824ZM151.621 51.0141L148.539 46.9072H148.138V54.3725H149.319V49.7543L151.432 52.5252H151.821L153.934 49.7656V54.3725H155.115V46.9072H154.714L151.621 51.0141Z" fill="#460645"></path>
+                    <path d="M34.1406 1.27106L63.5354 52.1868C64.5127 53.8816 63.2897 56 61.3351 56H2.5456C0.588206 56 -0.634804 53.8816 0.345304 52.1868L29.7372 1.27106C30.7173 -0.423686 33.1634 -0.423686 34.1406 1.27106Z" fill="url(#paint0_linear_25808_65651)"></path>
+                    <path d="M33.8613 19.1993L62.8239 52.6338C63.9651 53.95 63.0301 55.9978 61.2874 55.9978H2.59393C0.851203 55.9978 -0.0837128 53.95 1.05739 52.6338L30.02 19.1993C31.034 18.0299 32.8473 18.0299 33.8613 19.1993Z" fill="url(#paint1_linear_25808_65651)"></path>
+                    <path d="M33.2115 37.2227L61.903 53.7832C62.9537 54.3905 62.5244 55.9977 61.3098 55.9977H2.57118C1.35664 55.9977 0.927308 54.3905 1.97803 53.7832L30.6695 37.2227C31.4547 36.7708 32.4235 36.7708 33.2115 37.2227Z" fill="url(#paint2_linear_25808_65651)"></path>
+                    <defs>
+                        <linearGradient id="paint0_linear_25808_66676" x1="31.9409" y1="55.9995" x2="31.9409" y2="-0.000113487" gradientUnits="userSpaceOnUse">
+                            <stop offset="0.05" stop-color="white" stop-opacity="0"></stop>
+                            <stop offset="1" stop-color="white"></stop>
+                        </linearGradient>
+                        <linearGradient id="paint1_linear_25808_66676" x1="31.9412" y1="55.9992" x2="31.9412" y2="18.322" gradientUnits="userSpaceOnUse">
+                            <stop offset="0.05" stop-color="white" stop-opacity="0"></stop>
+                            <stop offset="1" stop-color="white"></stop>
+                        </linearGradient>
+                        <linearGradient id="paint2_linear_25808_66676" x1="31.941" y1="55.9993" x2="31.941" y2="36.8835" gradientUnits="userSpaceOnUse">
+                            <stop offset="0.03" stop-color="white" stop-opacity="0"></stop>
+                            <stop offset="1" stop-color="white"></stop>
+                        </linearGradient>
+
+                        <linearGradient id="paint0_linear_25808_65651" x1="31.94" y1="55.9984" x2="31.94" y2="-0.00124168" gradientUnits="userSpaceOnUse">
+                            <stop offset="0.05" stop-color="#4607FF" stop-opacity="0"></stop>
+                            <stop offset="0.1517" stop-color="#4607F6" stop-opacity="0.107"></stop>
+                            <stop offset="0.3176" stop-color="#4607DE" stop-opacity="0.2817"></stop>
+                            <stop offset="0.5272" stop-color="#4607B6" stop-opacity="0.5023"></stop>
+                            <stop offset="0.7694" stop-color="#47077F" stop-opacity="0.7573"></stop>
+                            <stop offset="1" stop-color="#470745"></stop>
+                        </linearGradient>
+                        <linearGradient id="paint1_linear_25808_65651" x1="31.9403" y1="55.9991" x2="31.9403" y2="18.3218" gradientUnits="userSpaceOnUse">
+                            <stop offset="0.05" stop-color="#4607FF" stop-opacity="0"></stop>
+                            <stop offset="0.1797" stop-color="#4607ED" stop-opacity="0.1366"></stop>
+                            <stop offset="0.4415" stop-color="#4607BC" stop-opacity="0.4121"></stop>
+                            <stop offset="0.8079" stop-color="#470770" stop-opacity="0.7978"></stop>
+                            <stop offset="1" stop-color="#470745"></stop>
+                        </linearGradient>
+                        <linearGradient id="paint2_linear_25808_65651" x1="31.9402" y1="55.9989" x2="31.9402" y2="36.8831" gradientUnits="userSpaceOnUse">
+                            <stop offset="0.03" stop-color="#4607FF" stop-opacity="0"></stop>
+                            <stop offset="1" stop-color="#470745"></stop>
+                        </linearGradient>
+                    </defs>
+                </svg>
+            </a></div>
+        <h3>Добро пожаловать</h3>
+        <p>Вход в личный кабинет</p>
+        <form action="/local/ajax/hnwi/" class="js-form">
+            <div class="input-fields">
+                <label class="input-field">
+                    <input type="text" class="input" name="email" required="">
+                    <span class="input-label">Логин</span>
+                <div class="error-message"></div></label>
+                <label class="input-field">
+                    <input type="password" class="input" name="password" required="">
+                    <span class="input-label">Пароль</span>
+                <div class="error-message"></div></label>
+                <div class="input-field input-field--submit">
+                    <button type="submit" class="button button--blue button--disabled">Войти</button>
+                <div class="error-message"></div></div>
+            </div>
+        </form>
+        <div class="hnwi-popup__socials">
+            <p>Мы в соцсетях</p>
+                        <a href="https://vk.com/aaacapital" target="_blank" rel="nofollow" class="social"><svg width="15" height="14" viewBox="0 0 15 14" fill="none" xmlns="http://www.w3.org/2000/svg" alt=""><path d="M14.8733 10.1297C14.8356 10.0667 14.6029 9.56094 13.4828 8.52137C12.3102 7.43279 12.4677 7.60955 13.8801 5.72728C14.7402 4.58095 15.0841 3.8809 14.9765 3.58162C14.8741 3.29635 14.2415 3.37161 14.2415 3.37161L12.1378 3.38386C12.1378 3.38386 11.982 3.36286 11.8657 3.43199C11.7528 3.50024 11.6801 3.65776 11.6801 3.65776C11.6801 3.65776 11.3467 4.54507 10.9022 5.29938C9.96502 6.89112 9.58962 6.97513 9.43648 6.87624C9.08033 6.6461 9.16959 5.95043 9.16959 5.45689C9.16959 3.91415 9.40323 3.27098 8.71368 3.10471C8.48441 3.04959 8.3164 3.01283 7.73098 3.00671C6.98018 2.99883 6.34401 3.00933 5.98436 3.18522C5.74459 3.30248 5.55995 3.56412 5.67283 3.579C5.81197 3.59738 6.12699 3.66388 6.29413 3.8914C6.51027 4.18454 6.50239 4.84434 6.50239 4.84434C6.50239 4.84434 6.62665 6.6601 6.21275 6.88587C5.92835 7.04076 5.53895 6.72486 4.70326 5.28013C4.27536 4.5407 3.95158 3.72251 3.95158 3.72251C3.95158 3.72251 3.88945 3.57025 3.77832 3.48887C3.64356 3.38999 3.45455 3.35848 3.45455 3.35848L1.45415 3.37073C1.45415 3.37073 1.154 3.37949 1.04375 3.50987C0.945738 3.62625 1.03587 3.86602 1.03587 3.86602C1.03587 3.86602 2.60223 7.52992 4.37511 9.37718C6.00186 11.0704 7.84824 10.9593 7.84824 10.9593H8.6848C8.6848 10.9593 8.9377 10.9313 9.06633 10.7922C9.18534 10.6644 9.18096 10.4246 9.18096 10.4246C9.18096 10.4246 9.16434 9.30193 9.68588 9.13654C10.1995 8.97378 10.8593 10.2216 11.5585 10.702C12.0871 11.0652 12.4887 10.9855 12.4887 10.9855L14.3587 10.9593C14.3587 10.9593 15.337 10.8989 14.8733 10.1297Z" fill="white"></path></svg></a>
+            <a href="https://www.youtube.com/channel/UCI2lV1ACaJAKZ48MBiq2o5Q" target="_blank" rel="nofollow" class="social"><svg width="15" height="14" viewBox="0 0 15 14" fill="none" xmlns="http://www.w3.org/2000/svg" alt=""><path d="M13.2901 3.71847C13.1389 3.15619 12.6955 2.71294 12.1333 2.56154C11.1063 2.28052 6.99789 2.28052 6.99789 2.28052C6.99789 2.28052 2.88968 2.28052 1.8626 2.55088C1.31121 2.70213 0.857079 3.15627 0.705833 3.71847C0.435547 4.74546 0.435547 6.87531 0.435547 6.87531C0.435547 6.87531 0.435547 9.01589 0.705833 10.0321C0.857239 10.5944 1.3004 11.0376 1.86268 11.189C2.90049 11.4701 6.99805 11.4701 6.99805 11.4701C6.99805 11.4701 11.1063 11.4701 12.1333 11.1997C12.6956 11.0484 13.1389 10.6052 13.2903 10.043C13.5605 9.01589 13.5605 6.88612 13.5605 6.88612C13.5605 6.88612 13.5713 4.74546 13.2901 3.71847ZM5.68987 8.84294V4.90768L9.10619 6.87531L5.68987 8.84294Z" fill="white"></path></svg></a>
+            <a href="https://zen.yandex.ru/aaacapital" target="_blank" rel="nofollow" class="social"><svg width="15" height="15" viewBox="0 0 15 15" fill="none" xmlns="http://www.w3.org/2000/svg" alt=""><path d="M8.55117 8.55044C7.45117 9.68544 7.37117 11.1004 7.27617 14.2004C10.1662 14.2004 12.1612 14.1904 13.1912 13.1904C14.1912 12.1604 14.2012 10.0704 14.2012 7.27544C11.1012 7.37544 9.68617 7.45044 8.55117 8.55044ZM0.201172 7.27544C0.201172 10.0704 0.211172 12.1604 1.21117 13.1904C2.24117 14.1904 4.23617 14.2004 7.12617 14.2004C7.02617 11.1004 6.95117 9.68544 5.85117 8.55044C4.71617 7.45044 3.30117 7.37044 0.201172 7.27544ZM7.12617 0.200439C4.24117 0.200439 2.24117 0.210439 1.21117 1.21044C0.211172 2.24044 0.201172 4.33044 0.201172 7.12544C3.30117 7.02544 4.71617 6.95044 5.85117 5.85044C6.95117 4.71544 7.03117 3.30044 7.12617 0.200439ZM8.55117 5.85044C7.45117 4.71544 7.37117 3.30044 7.27617 0.200439C10.1662 0.200439 12.1612 0.210439 13.1912 1.21044C14.1912 2.24044 14.2012 4.33044 14.2012 7.12544C11.1012 7.02544 9.68617 6.95044 8.55117 5.85044Z" fill="white"></path></svg></a>
+            <a href="https://pulse.mail.ru/source/1088687193336068860" target="_blank" rel="nofollow" class="social"><svg width="15" height="14" viewBox="0 0 15 14" fill="none" xmlns="http://www.w3.org/2000/svg" alt=""><path d="M9.1055 6.99878C9.1055 8.15978 8.161 9.10428 7 9.10428C5.839 9.10428 4.8945 8.15978 4.8945 6.99878C4.8945 5.83778 5.839 4.89328 7 4.89328C8.161 4.89328 9.1055 5.83778 9.1055 6.99878ZM7 -0.0012207C3.14 -0.0012207 0 3.13878 0 6.99878C0 10.8588 3.14 13.9988 7 13.9988C8.414 13.9988 9.7775 13.5778 10.943 12.7813L10.963 12.7673L10.02 11.6713L10.004 11.6813C9.107 12.2588 8.068 12.5638 7 12.5638C3.9315 12.5638 1.435 10.0673 1.435 6.99878C1.435 3.93028 3.9315 1.43378 7 1.43378C10.0685 1.43378 12.565 3.93028 12.565 6.99878C12.565 7.39628 12.5205 7.79878 12.434 8.19478C12.258 8.91728 11.752 9.13828 11.3725 9.10928C10.9905 9.07828 10.5435 8.80628 10.5405 8.14028V7.63278V6.99878C10.5405 5.04628 8.9525 3.45828 7 3.45828C5.0475 3.45828 3.4595 5.04628 3.4595 6.99878C3.4595 8.95128 5.0475 10.5393 7 10.5393C7.9485 10.5393 8.838 10.1688 9.5085 9.49428C9.8985 10.1013 10.534 10.4818 11.2575 10.5398C11.3195 10.5448 11.383 10.5473 11.4455 10.5473C11.955 10.5473 12.4595 10.3768 12.8665 10.0683C13.286 9.74928 13.5995 9.28878 13.7725 8.73528C13.8 8.64578 13.851 8.44128 13.851 8.43978L13.8525 8.43228C13.9545 7.98828 14 7.54578 14 6.99878C14 3.13878 10.86 -0.0012207 7 -0.0012207Z" fill="white"></path></svg></a>
+    
+
+        </div>
+        <div class="hnwi-popup__disclaimer"><p style="text-align: justify;">
+ <a href="/about/open-info"><b>Раскрытие информации</b></a>
+</p>
+<p>
+	 АО "ААА Управление Капиталом". 119049, Москва, ул. Коровий Вал, д. 7. Лицензия на осуществление деятельности по управлению инвестиционными фондами, паевыми инвестиционными фондами и негосударственными пенсионными фондами № 21-000-1-00657 от 15.09.2009, Лицензия профессионального участника рынка ценных бумаг на осуществление деятельности по управлению ценными бумагами № 045-12879-001000 от 26.01.2010 выданы ФСФР России без ограничения срока действия. Рекомендации по защите информации:
+</p>
+</div>
+    </div>
+    <div class="hnwi-popup__right">
+        <a href="tel:88002005454" class="hnwi-popup__phone">+7 (800) 200 54 54</a>
+    </div>
+</div>
+<div id="captcha-container" class="smart-captcha_invisible" data-testid="smartCaptcha-container"><input type="hidden" name="smart-token" data-testid="smart-token"></div>
+<script>
+    function onloadFunction() {
+        if (!window.smartCaptcha) {
+            return;
+        }
+        window.smartCaptcha.render('captcha-container', {
+            sitekey: 'XsC1ZFDWs1VN0GA0ZQJhlyeIIkn2L8VAsOv7OTbg',
+            invisible: true,
+            hideShield: true,
+            callback: callback,
+        });
+    }
+    function callback(token) {
+        window.currentForm.find('#token').val(token);
+        window.currentForm.submit();
+    }
+</script>
+<!-- Yandex.Metrika counter -->
+<script type="text/javascript">
+    (function(m,e,t,r,i,k,a){m[i]=m[i]||function(){(m[i].a=m[i].a||[]).push(arguments)};
+        m[i].l=1*new Date();
+        for (var j = 0; j < document.scripts.length; j++) {if (document.scripts[j].src === r) { return; }}
+        k=e.createElement(t),a=e.getElementsByTagName(t)[0],k.async=1,k.src=r,a.parentNode.insertBefore(k,a)})
+    (window, document, "script", "https://mc.yandex.ru/metrika/tag.js", "ym");
+
+    ym(52447591, "init", {
+        clickmap:true,
+        trackLinks:true,
+        accurateTrackBounce:true,
+        webvisor:true
+    });
+</script>
+<noscript><div><img src="https://mc.yandex.ru/watch/52447591" style="position:absolute; left:-9999px;" alt="" /></div></noscript>
+<!-- /Yandex.Metrika counter -->
+
+<div class="SmartCaptcha-Overlay" data-testid="advanced-container" tabindex="-1" style="--smart-captcha-doc-height:852px; --smart-captcha-doc-width:1042px;"><div class="SmartCaptcha-Spin"></div><iframe frameborder="0" src="https://captcha-api.yandex.ru/advanced.en.82f40c84795c7f285927.html?sitekey=XsC1ZFDWs1VN0GA0ZQJhlyeIIkn2L8VAsOv7OTbg&amp;hl=en&amp;host=aaacapital.ru&amp;test=false&amp;webview=false" aria-hidden="true" style="display: block; width: 100%; height: 100%; z-index: 0; transform: translate3d(0px, 0px, 0px);" data-testid="advanced-iframe" title="SmartCaptcha advanced widget" tabindex="-1"></iframe></div>

@@ -1,0 +1,125 @@
+
+<!-- Top Background Image Wrapper -->
+<div class="bgded" style="background-image:url('images/back.png');"> 
+  <div class="wrapper overlay">
+    <header id="header" class="hoc clear">
+      <nav id="mainav" class="clear"> 
+        <!--Main navigation menu -->
+        <ul class="clear">
+          <li><a href="index.html">Главная</a></li>
+          <li><a href="about.html">О Компании</a></li>
+          <li class="active"><a class="drop" href="disclosure.html">Раскрытие информации</a>
+            <ul>
+              <li class="active"><a href="assets.html">Расчёт собственных средств</a></li>
+              <li><a href="report.html">Отчётность</a></li>
+              <li><a href="structure.html">Структура и состав участников</a></li>
+              <li><a href="legalize.html">Противодействие легализации доходов</a></li>
+              <li><a href="other.html">Прочая информация</a></li>
+              <li><a href="account.html">Банковские реквизиты</a></li>
+            </ul>
+          </li>
+          <li><a href="funds.html">Фонды</a></li>
+          <li><a href="contacts.html">Контакты</a></li>
+        </ul>
+      <form action="#"><select><option selected="selected" value="">MENU</option><option value="index.html">Главная</option><option value="about.html">О Компании</option><option value="disclosure.html">Раскрытие информации</option><option value="assets.html">- - Расчёт собственных средств</option><option value="report.html">- - Отчётность</option><option value="structure.html">- - Структура и состав участников</option><option value="legalize.html">- - Противодействие легализации доходов</option><option value="other.html">- - Прочая информация</option><option value="account.html">- - Банковские реквизиты</option><option value="funds.html">Фонды</option><option value="contacts.html">Контакты</option></select></form></nav>
+      <!--End of main navigation menu -->
+      <!--Company Logo title -->
+      <div id="logo"> 
+        <h1><a href="index.html">ООО УК "ФОНДОВЫЙ КОНТИНЕНТ"</a></h1>
+        <p>ИНН 7708406628&nbsp;&nbsp;&nbsp;КПП 770801001&nbsp;&nbsp;&nbsp;ОГРН 1227700405316</p>
+      </div>
+    </header>
+  </div>
+  <!-- Page path row -->
+  <div class="wrapper row2">
+    <div id="breadcrumb" class="hoc clear"> 
+      <ul>
+        <li><a href="index.html">Главная</a></li>
+        <li><a href="disclosure.html">Раскрытие информации</a></li>
+        <li><a href="#">Расчёт собственных средств</a></li>
+      </ul>
+    </div>
+  </div>
+</div>
+<!-- End Top Background Image Wrapper -->
+<div class="wrapper row3">
+  <main class="hoc container clear"> 
+    <!-- main body -->
+    <div class="content">
+      <h1>Расчёт собственных средств</h1>
+      <p><a href="images/Расчёт собственных средств управляющей компании на 31.05.2023.pdf" title="Скачать документ">
+        Расчёт собственных средств управляющей компании на 31.05.2023</a><br><small>(опубликовано: 
+        14.06.2023 14:52, срок публикации: до 14.06.2026)</small>
+      </p>
+      <p><a href="images/Расчёт собственных средств управляющей компании на 30.04.2023.pdf" title="Скачать документ">
+        Расчёт собственных средств управляющей компании на 30.04.2023</a><br><small>(опубликовано: 
+        22.05.2023 12:58, срок публикации: до 22.05.2026)</small>
+      </p>
+      <p><a href="images/Расчёт собственных средств управляющей компании на 31.03.2023.pdf" title="Скачать документ">
+        Расчёт собственных средств управляющей компании на 31.03.2023</a><br><small>(опубликовано: 
+        18.04.2023 17:45, срок публикации: до 18.04.2026)</small>
+      </p>
+      <p><a href="images/Расчёт собственных средств управляющей компании на 28.02.2023.pdf" title="Скачать документ">
+        Расчёт собственных средств управляющей компании на 28.02.2023</a><br><small>(опубликовано: 
+        17.03.2023 17:05, срок публикации: до 17.03.2026)</small>
+      </p>
+      <p><a href="images/Расчёт собственных средств управляющей компании на 31.01.2023.pdf" title="Скачать документ">
+        Расчёт собственных средств управляющей компании на 31.01.2023</a><br><small>(опубликовано: 
+        17.02.2023 11:00, срок публикации: до 17.02.2026)</small>
+      </p>
+      <p><a href="images/Расчёт собственных средств управляющей компании на 31.12.2022.pdf" title="Скачать документ">
+        Расчёт собственных средств управляющей компании на 31.12.2022</a><br><small>(опубликовано: 
+        25.01.2023 17:20, срок публикации: до 25.01.2026)</small>
+      </p>
+    </div>
+    <!-- / main body -->
+    <div class="clear"></div>
+  </main>
+</div>
+
+<!-- Bottom info for all pages -->
+<div class="wrapper row4">
+  <footer id="footer" class="hoc clear"> 
+    <div class="content">
+      <p>
+        Лицензия на осуществление деятельности по управлению инвестиционными фондами, паевыми инвестиционными фондами
+        и негосударственными пенсионными фондами №&nbsp;21‑000‑1‑01062 выдана Центральным Банком 
+        Российской Федерации (Банк России) 26 сентября 2022 года. Срок действия: без ограничения срока действия. 
+        Деятельность по доверительному управлению паевыми инвестиционными фондами не совмещается с деятельностью по 
+        управлению ценными бумагами.
+      </p>
+      <p>
+        Место, где до приобретения инвестиционных паёв можно получить подробную информацию о паевых инвестиционных 
+        фондах и ознакомиться с правилами доверительного управления, а также с иными документами, предусмотренными 
+        Федеральным законом от 29.11.2001 г №&nbsp;156‑ФЗ «Об инвестиционных фондах»: 107140, 
+        г. Москва, вн. тер. г. муниципальный округ Красносельский, ул. Верхняя Красносельская, д.3, стр. 1, этаж 4, 
+        помещ./ком. I/6, контактный телефон: +7&nbsp;495&nbsp;280‑70‑16. Иные источники информации, в которых в соответствии с 
+        правилами доверительного управления раскрыта либо должна быть раскрыта соответствующая информация: 
+        <a href="http://fundcontinent.ru">www.fundcontinent.ru</a>.
+      </p>
+      <p>
+        СТОИМОСТЬ ИНВЕСТИЦИОННЫХ ПАЁВ МОЖЕТ УВЕЛИЧИВАТЬСЯ И УМЕНЬШАТЬСЯ, РЕЗУЛЬТАТЫ ИНВЕСТИРОВАНИЯ В ПРОШЛОМ НЕ 
+        ОПРЕДЕЛЯЮТ ДОХОДЫ В БУДУЩЕМ, ГОСУДАРСТВО НЕ ГАРАНТИРУЕТ ДОХОДНОСТЬ ИНВЕСТИЦИЙ В ПАЕВЫЕ ИНВЕСТИЦИОННЫЕ ФОНДЫ, 
+        ПРЕЖДЕ ЧЕМ ПРИОБРЕСТИ ИНВЕСТИЦИОННЫЙ ПАЙ, СЛЕДУЕТ ВНИМАТЕЛЬНО ОЗНАКОМИТЬСЯ С ПРАВИЛАМИ ДОВЕРИТЕЛЬНОГО УПРАВЛЕНИЯ.
+      </p>
+    </div>
+  </footer>
+</div>
+
+<!-- Bottom line with copyright -->
+<div class="wrapper row5">
+  <div id="copyright" class="hoc clear"> 
+    <p class="fl_left">Copyright © 2022 <a href="http://fundcontinent.ru">ООО УК "Фондовый континет"</a></p>
+    <p class="fl_right">Template by <a target="_blank" href="http://www.os-templates.com/" title="Free Website Templates">OS Templates</a></p>
+  </div>
+</div>
+<!-- Back to top shortcut -->
+<a id="backtotop" href="#top">▲</a>
+<!-- JAVASCRIPTS -->
+<script src="layout/scripts/jquery.min.js"></script>
+<script src="layout/scripts/jquery.backtotop.js"></script>
+<script src="layout/scripts/jquery.mobilemenu.js"></script>
+<!-- IE9 Placeholder Support -->
+<script src="layout/scripts/jquery.placeholder.min.js"></script>
+<!-- / IE9 Placeholder Support -->
+

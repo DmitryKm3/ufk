@@ -1,0 +1,619 @@
+
+			<div class="wrap  ">
+			<div class="navigation-wrap">
+				<header class="navigation container">
+					<div class="logotype">
+						<a class="logotype__link" href="/"></a>
+						<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="55px" height="55px" viewBox="0 0 55 55" version="1.1">
+              <g id="---" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+                <g id="Mortage/menu_tabs/none" transform="translate(-116.000000, -1.000000)" fill="#072833">
+                  <g id="Group-49">
+                    <g id="Group-3" transform="translate(115.918112, 0.000000)">
+                      <g id="Group" transform="translate(0.000000, 1.037037)">
+                        <g id="Group-2">
+                          <path id="Fill-1" d="M19.6044692,25.8583829 L25.7075204,25.8583829 L25.7075204,3.40009345 L19.6044692,3.40009345 L19.6044692,25.8583829 Z M16.2701605,29.0597641 L29.0397189,29.0597641 L29.0397189,0.202517379 L16.2701605,0.202517379 L16.2701605,29.0597641 Z"></path>                          
+                          <polygon id="Fill-2" points="0.234245741 35.3906519 54.5121494 35.3906519 54.5121494 32.2023772 0.234245741 32.2023772"></polygon>                          
+                          <path id="Fill-3" d="M3.55631462,47.8490644 L19.2452924,47.8490644 L19.2452924,41.7625504 L3.55631462,41.7625504 L3.55631462,47.8490644 Z M0.234245741,54.6458689 L3.55631462,54.6458689 L3.55631462,51.0335339 L22.5682054,51.0335339 L22.5682054,38.5751214 L0.234245741,38.5751214 L0.234245741,54.6458689 L0.234245741,54.6458689 Z"></path>                          
+                          <polygon id="Fill-4" points="41.7430131 3.40009345 41.7430131 29.0593413 45.0752115 29.0593413 45.0752115 9.80116467 51.1769966 3.4026302 51.1769966 29.0593413 54.5125715 29.0593413 54.5125715 0.202517379 49.8289229 0.202517379 45.0752115 5.1728604 45.0752115 0.202517379 40.3936732 0.202517379 32.3039649 8.59028832 32.3039649 29.0593413 35.640384 29.0593413 35.640384 9.80243305"></polygon>                          
+                          <path id="Fill-5" d="M29.1414364,47.8490644 L38.3981528,47.8490644 L38.3981528,41.7625504 L29.1414364,41.7625504 L29.1414364,47.8490644 Z M41.8641456,47.8490644 L51.1913467,47.8490644 L51.1913467,41.7625504 L41.8641456,41.7625504 L41.8641456,47.8490644 Z M25.8176792,51.0335339 L38.3985748,51.0335339 L38.3985748,54.6458689 L41.8641456,54.6458689 L41.8641456,51.0335339 L54.5129936,51.0335339 L54.5129936,38.5751214 L25.8176792,38.5751214 L25.8176792,51.0335339 L25.8176792,51.0335339 Z"></path>                          
+                          <path id="Fill-6" d="M3.57024275,9.80243305 L9.67076156,3.4026302 L9.67076156,25.8588057 L3.57024275,25.8588057 L3.57024275,9.80243305 Z M9.67076156,29.0593413 L13.0054924,29.0593413 L13.0054924,0.202517379 L8.323532,0.202517379 L0.234667805,8.59028832 L0.234667805,29.0593413 L9.67076156,29.0593413 L9.67076156,29.0593413 Z"></path>
+                        </g>
+                      </g>
+                    </g>
+                  </g>
+                </g>
+              </g></svg><span class="logotype__name">Управление<br>активами</span>					</div>
+                    <nav class="burger">
+                        
+    <span class="burger__button"></span>
+    <ul class="menu">
+                                                <li class="menu__item ">
+                    <a href="/funds/" class="root-item">
+                        Наши фонды                    </a>
+                </li>
+                                                                        <li class="menu__item menu__item_active">
+                    <a href="/information-disclosure/" class="root-item-selected">
+                        Раскрытие обязательной информации&nbsp;инвесторам                    </a>
+                </li>
+                                                                        <li class="menu__item ">
+                    <a href="/about/" class="root-item">
+                        О&nbsp;компании                    </a>
+                </li>
+                                                                        <li class="menu__item ">
+                    <a href="/contests/" class="root-item">
+                        Закупки                    </a>
+                </li>
+                                                                        <li class="menu__item ">
+                    <a href="/contacts/" class="root-item">
+                        Контакты                    </a>
+                </li>
+                                    </ul>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                        <div class="header-subscribe">
+                            <a href="#subscribe" class="header-subscribe-button" data-fancybox="">Подписаться на рассылку</a>
+                        </div>
+                                            </nav>
+                        <ul class="menu-tablet container mobile-menu-main">
+                        <li class="menu-tablet__item">
+                <a href="/funds/">Наши фонды</a>
+                            </li>
+                                <li class="menu-tablet__item">
+                <a href="/information-disclosure/">Раскрытие обязательной информации&nbsp;инвесторам</a>
+                            </li>
+                                <li class="menu-tablet__item">
+                <a href="/about/">О&nbsp;компании</a>
+                            </li>
+                                <li class="menu-tablet__item">
+                <a href="/contests/">Закупки</a>
+                            </li>
+                                <li class="menu-tablet__item">
+                <a href="/contacts/">Контакты</a>
+                            </li>
+                <div class="header-subscribe _show">
+        <a href="#subscribe" class="header-subscribe-button" data-fancybox="">Подписаться на рассылку</a>
+    </div>
+    </ul>
+    				</header>
+			</div>
+			<div class="menu-tablet-background"></div>
+                <form name="login" action="/information-disclosure/own/?login=yes" method="POST" id="login-form" class="lk-popup lk-popup_login">
+        <input type="hidden" name="ajax_auth" value="Y">
+        			<input type="hidden" name="USER_REMEMBER" value="Y">
+                            <input type="hidden" name="backurl" value="/information-disclosure/own/">
+                        <a class="lk-popup__close" href="javascript:void(0)">
+            <img src="/local/templates/index/images/ic-close-24px.svg" alt="close">
+        </a>
+        <h1 class="lk-popup__heading">Личный кабинет</h1>
+        <input type="hidden" name="AUTH_FORM" value="Y">
+        <input type="hidden" name="TYPE" value="AUTH">
+        <div class="lk-popup__field">
+            <input class="lk-popup__input" name="USER_LOGIN" type="text" id="login-input">
+            <label class="lk-popup__label" for="login-input">Логин</label>
+        </div>
+        
+        <div class="lk-popup__field message-about-error">
+            <input class="lk-popup__input" name="USER_PASSWORD" type="password" id="password">
+            <label class="lk-popup__label" for="password">Пароль</label>
+            <p>Неверный логин или пароль. Повторите попытку или нажмите «Забыли пароль»</p>
+        </div>
+
+        <div class="lk-popup__field js-auth-captcha-code" style="display:none">
+            <input class="auth_captcha_code" type="hidden" name="captcha_sid" value="">
+            <img class="auth_captcha_img" src="/bitrix/tools/captcha.php?captcha_sid=" width="180" height="40" alt="CAPTCHA">
+            <a href="#" rel="nofollow" class="auth-update-captcha">
+                <svg width="22px" height="22px" viewBox="0 0 22 22" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+                    <defs>
+                        <path id="path-1" d="M4.39504407,17.0068549 C6.05574933,19.5145687 8.88561576,21.0869565 12,21.0869565 C15.9050456,21.0869565 19.3379752,18.613848 20.6041552,14.9958226 L22.41503,15.6262778 C20.8820646,20.0066248 16.7269511,23 12,23 C8.46197979,23 5.22666855,21.3229359 3.18075312,18.6074988 L2.86075587,19.8841645 L1,19.4201833 L2.16878586,14.757178 L6.38155497,15.3574396 L6.11030552,17.251256 L4.39504407,17.0068549 Z M18.8145589,5.96716442 C17.1158828,4.05814044 14.6587192,2.91304348 12,2.91304348 C8.70019965,2.91304348 5.70986113,4.67674818 4.09498874,7.47910011 L2.43206983,6.5258024 C4.3856857,3.1356155 8.00659418,1 12,1 C15.4270286,1 18.5787243,2.57289155 20.6379715,5.15919831 L21.1392441,3.15931375 L23,3.62329495 L21.8348847,8.27165613 L17.1556132,7.6882658 L17.3935147,5.78999507 L18.8145589,5.96716442 Z"></path>
+                    </defs>
+                    <g id="Чистовой" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+                        <g id="Новости" transform="translate(-634.000000, -1550.000000)">
+                            <g id="Group-3" transform="translate(633.000000, 1549.000000)">
+                                <g id="Icon-/-reload">
+                                    <rect id="Size" x="0" y="0" width="24" height="24"></rect>
+                                    <mask id="mask-3" fill="white">
+                                        <use xlink:href="#path-1"></use>
+                                    </mask>
+                                    <use id="Combined-Shape" fill="#2F444E" fill-rule="nonzero" xlink:href="#path-1"></use>
+                                    <g id="Colors" mask="url(#mask-3)" fill="#072833" fill-rule="nonzero">
+                                        <rect id="Rectangle" x="0" y="0" width="24" height="24"></rect>
+                                    </g>
+                                </g>
+                            </g>
+                        </g>
+                    </g>
+                </svg>
+            </a>
+            <br><br>
+            <input type="text" class="lk-popup__input" name="captcha_word" maxlength="50" value="" placeholder="Введите слово на картинке">
+        </div>
+
+        		<div class="lk-popup__enter">
+			<input class="lk-popup__button" type="submit" name="Login" value="Войти">
+			<a class="lk-popup__label lk-popup__forget" href="/personal/getpass.php?forgot_password=yes&amp;backurl=%2Finformation-disclosure%2Fown%2F">Забыли пароль?</a>
+		</div>
+    </form>
+    <div class="lk-popup-background" style="display: none;"></div>
+                                                <section class="page-banner">
+    <div class="page-banner__content container">
+        <div class="page-banner__bg">
+            <img class="page-banner__img" src="/local/templates/index/images/img_zashitainfo.png" alt="Расчет собственных средств">
+        </div>
+        <div class="page-breadcrumbs">
+            <a href="/" class="page-breadcrumbs__item _link">Главная</a>
+            <span class="page-breadcrumbs__item">&nbsp;/&nbsp;</span>
+            <a href="/information-disclosure/#company-info" class="page-breadcrumbs__item _link">Информация об&nbsp;управляющей компании</a>
+            <span class="page-breadcrumbs__item">&nbsp;/&nbsp;</span>
+            <span class="page-breadcrumbs__item">Расчет собственных средств</span>
+        </div>
+        <h1 class="banner__heading banner__heading_full">Расчет собственных средств </h1>
+    </div>
+</section>                                        <!--slider-->
+                        <section class="content-wrap container">	<form class="search ajax__form" name="arrDocsFilter_form" action="/information-disclosure/own/" method="get">
+                        <div class="search__words">
+                <div>
+                    <input autocomplete="off" type="text" placeholder="Поиск" class="search__words_input" name="arrDocsFilter_ff[SEARCHABLE_CONTENT]" value="">
+                    <span class="page-not-found__submit about-company-page__search_submit"></span>
+                </div>
+            </div>
+                                <input type="hidden" value="" name="arrDocsFilter_DATE_ACTIVE_FROM_1"><input type="hidden" value="" name="arrDocsFilter_DATE_ACTIVE_FROM_2"><div class="search__published_form"><input type="text" placeholder="Дата публикации" value="" autocomplete="off" data-target-from="arrDocsFilter_DATE_ACTIVE_FROM_1" data-target-to="arrDocsFilter_DATE_ACTIVE_FROM_2" data-range="true" data-multiple-dates-separator=" - " class="date-realize datepicker-here datepicker-range search__words_input"><span class="\&quot;page-not-found__submit" search__words_submit="" search__published_input\"=""></span></div>                                <input type="hidden" name="arrDocsFilter_pf[END_DATE][LEFT]" value=""><input type="hidden" name="arrDocsFilter_pf[END_DATE][RIGHT]" value=""><div class="search__published_form"><input type="text" placeholder="Дата окончания" value="" autocomplete="off" data-target-from="arrDocsFilter_pf[END_DATE][LEFT]" data-target-to="arrDocsFilter_pf[END_DATE][RIGHT]" data-range="true" data-multiple-dates-separator=" - " class="date-realize datepicker-here datepicker-range search__words_input"><span class="page-not-found__submit search__words_submit search__published_input"></span></div>                <p class="btn-hide">
+        <a href="javascript:void(0)">
+            <svg width="22px" height="22px" viewBox="0 0 22 22" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+                <defs>
+                    <path id="path-1" d="M4.39504407,17.0068549 C6.05574933,19.5145687 8.88561576,21.0869565 12,21.0869565 C15.9050456,21.0869565 19.3379752,18.613848 20.6041552,14.9958226 L22.41503,15.6262778 C20.8820646,20.0066248 16.7269511,23 12,23 C8.46197979,23 5.22666855,21.3229359 3.18075312,18.6074988 L2.86075587,19.8841645 L1,19.4201833 L2.16878586,14.757178 L6.38155497,15.3574396 L6.11030552,17.251256 L4.39504407,17.0068549 Z M18.8145589,5.96716442 C17.1158828,4.05814044 14.6587192,2.91304348 12,2.91304348 C8.70019965,2.91304348 5.70986113,4.67674818 4.09498874,7.47910011 L2.43206983,6.5258024 C4.3856857,3.1356155 8.00659418,1 12,1 C15.4270286,1 18.5787243,2.57289155 20.6379715,5.15919831 L21.1392441,3.15931375 L23,3.62329495 L21.8348847,8.27165613 L17.1556132,7.6882658 L17.3935147,5.78999507 L18.8145589,5.96716442 Z"></path>
+                </defs>
+                <g id="Чистовой" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+                    <g id="Новости" transform="translate(-634.000000, -1550.000000)">
+                        <g id="Group-3" transform="translate(633.000000, 1549.000000)">
+                            <g id="Icon-/-reload">
+                                <rect id="Size" x="0" y="0" width="24" height="24"></rect>
+                                <mask id="mask-2" fill="white">
+                                    <use xlink:href="#path-1"></use>
+                                </mask>
+                                <use id="Combined-Shape" fill="#2F444E" fill-rule="nonzero" xlink:href="#path-1"></use>
+                                <g id="Colors" mask="url(#mask-2)" fill="#072833" fill-rule="nonzero">
+                                    <rect id="Rectangle" x="0" y="0" width="24" height="24"></rect>
+                                </g>
+                            </g>
+                        </g>
+                    </g>
+                </g>
+            </svg>
+            Очистить
+        </a>
+    </p>
+    <input type="hidden" name="set_filter" value="Показать">
+    <input type="hidden" name="AJAX" value="Y">
+    <input type="hidden" name="set_filter" value="Y">
+</form>
+
+<div>
+	<div class="documents__wrapper ajax_target">
+											<div class="document filter-panel sticky-panel">
+					<p class="document__name filter-panel__name">Список документов</p>
+					<a href="/information-disclosure/own/?sortBy=ACTIVE_FROM&amp;sortOrder=asc" class="document__published filter-panel__published ">
+						Дата и время опубликования
+					</a>
+					<a href="/information-disclosure/own/?sortBy=property_END_DATE&amp;sortOrder=asc%2Cnulls" class="document__finished filter-panel__finished ">
+						Доступно до
+					</a>
+				</div>
+																		<div id="bx_3218110189_24352" class="document">
+											<a class="document__download" href="/upload/iblock/5c1/0gkrmncxvz0n5lw8gmo8jxk8i7ytzc8o.pdf" download="РСС+май+2023.pdf"></a>
+										<div class="document__name">
+						<p>
+							Расчет размера собственных средств ООО «ДОМ.РФ Управление активами» на 31.05.2023                            
+													</p>
+						<img class="download-image" src="/local/templates/index/images/Doc Copy 2.svg" alt="download">
+					</div>
+                    
+					<p class="document__datepub">Дата и время опубликования</p>
+					<div class="document__published">
+						<p>15.06.2023 12:13</p>
+																		                        					</div>
+					<p class="document__datefin">Доступно до</p>
+					<p class="document__finished">
+													 в течение трех лет со дня раскрытия											</p>
+                    
+                    				</div>
+															<div id="bx_3218110189_24252" class="document">
+											<a class="document__download" href="/upload/iblock/2d6/f01i2dxi9j4qvi1ubadr8h2d4wid3c4l.pdf" download="РСС+апрель+2023.pdf"></a>
+										<div class="document__name">
+						<p>
+							Расчет размера собственных средств ООО «ДОМ.РФ Управление активами» на 30.04.2023                            
+													</p>
+						<img class="download-image" src="/local/templates/index/images/Doc Copy 2.svg" alt="download">
+					</div>
+                    
+					<p class="document__datepub">Дата и время опубликования</p>
+					<div class="document__published">
+						<p>17.05.2023 12:44</p>
+																		                        					</div>
+					<p class="document__datefin">Доступно до</p>
+					<p class="document__finished">
+													в течение трех лет со дня раскрытия											</p>
+                    
+                    				</div>
+															<div id="bx_3218110189_24168" class="document">
+											<a class="document__download" href="/upload/iblock/cc2/ak5fra2nlgqm03zddv092bkhkqk57e14.pdf" download="РСС+март+2023.pdf"></a>
+										<div class="document__name">
+						<p>
+							Расчет размера собственных средств ООО «ДОМ.РФ Управление активами» на 31.03.2023                            
+													</p>
+						<img class="download-image" src="/local/templates/index/images/Doc Copy 2.svg" alt="download">
+					</div>
+                    
+					<p class="document__datepub">Дата и время опубликования</p>
+					<div class="document__published">
+						<p>13.04.2023 15:57</p>
+																		                        					</div>
+					<p class="document__datefin">Доступно до</p>
+					<p class="document__finished">
+													 в течение трех лет со дня раскрытия											</p>
+                    
+                    				</div>
+															<div id="bx_3218110189_24066" class="document">
+											<a class="document__download" href="/upload/iblock/e66/leu07gm21fvleruanz72uqzl4bq01n0p.pdf" download="Скорректированный+РСС+декабрь+2022_15.03.2023.pdf"></a>
+										<div class="document__name">
+						<p>
+							Расчет размера собственных средств ООО «ДОМ.РФ Управление активами» на 31.12.2022 (скорректированный)                            
+													</p>
+						<img class="download-image" src="/local/templates/index/images/Doc Copy 2.svg" alt="download">
+					</div>
+                    
+					<p class="document__datepub">Дата и время опубликования</p>
+					<div class="document__published">
+						<p>15.03.2023 17:51</p>
+																		                        					</div>
+					<p class="document__datefin">Доступно до</p>
+					<p class="document__finished">
+													в течение трех лет со дня раскрытия											</p>
+                    
+                    				</div>
+															<div id="bx_3218110189_24051" class="document">
+											<a class="document__download" href="/upload/iblock/03f/yi0cc7hyjxpqi2m9hnekn7t703kbfjsz.pdf" download="РСС+февраль+2023.pdf"></a>
+										<div class="document__name">
+						<p>
+							Расчет размера собственных средств ООО «ДОМ.РФ Управление активами» на 28.02.2023                            
+													</p>
+						<img class="download-image" src="/local/templates/index/images/Doc Copy 2.svg" alt="download">
+					</div>
+                    
+					<p class="document__datepub">Дата и время опубликования</p>
+					<div class="document__published">
+						<p>15.03.2023 10:42</p>
+																		                        					</div>
+					<p class="document__datefin">Доступно до</p>
+					<p class="document__finished">
+													в течение трех лет со дня раскрытия											</p>
+                    
+                    				</div>
+															<div id="bx_3218110189_23961" class="document">
+											<a class="document__download" href="/upload/iblock/6ec/i7sgkqoq5xfcf01rk31nrhi3zhx65y6q.pdf" download="РСС+январь+2023.pdf"></a>
+										<div class="document__name">
+						<p>
+							Расчет размера собственных средств ООО «ДОМ.РФ Управление активами» на 31.01.2023                            
+													</p>
+						<img class="download-image" src="/local/templates/index/images/Doc Copy 2.svg" alt="download">
+					</div>
+                    
+					<p class="document__datepub">Дата и время опубликования</p>
+					<div class="document__published">
+						<p>14.02.2023 10:45</p>
+																		                        					</div>
+					<p class="document__datefin">Доступно до</p>
+					<p class="document__finished">
+													в течение трех лет со дня раскрытия											</p>
+                    
+                    				</div>
+															<div id="bx_3218110189_23667" class="document">
+											<a class="document__download" href="/upload/iblock/11c/smixqei7sgyezb3ki0ohi80lag903l8x.pdf" download="РСС+декабрь+2022.pdf"></a>
+										<div class="document__name">
+						<p>
+							Расчет размера собственных средств ООО «ДОМ.РФ Управление активами» на 31.12.2022 (до корректировки 15.03.2023)                            
+													</p>
+						<img class="download-image" src="/local/templates/index/images/Doc Copy 2.svg" alt="download">
+					</div>
+                    
+					<p class="document__datepub">Дата и время опубликования</p>
+					<div class="document__published">
+						<p>24.01.2023 17:16</p>
+																		                        					</div>
+					<p class="document__datefin">Доступно до</p>
+					<p class="document__finished">
+													в течение трех лет со дня раскрытия											</p>
+                    
+                    				</div>
+															<div id="bx_3218110189_214" class="document">
+											<a class="document__download" href="/upload/iblock/811/811d94e86f37fdacecdee281868ba1b2.pdf" download="RSS_dekabr_2018.pdf"></a>
+										<div class="document__name">
+						<p>
+							РАСЧЕТ размера собственных средств на 31 декабря 2018 г.                            
+													</p>
+						<img class="download-image" src="/local/templates/index/images/Doc Copy 2.svg" alt="download">
+					</div>
+                    
+					<p class="document__datepub">Дата и время опубликования</p>
+					<div class="document__published">
+						<p>23.01.2019 12:36</p>
+																		                        					</div>
+					<p class="document__datefin">Доступно до</p>
+					<p class="document__finished">
+													в течение трех лет со дня раскрытия											</p>
+                    
+                    				</div>
+															<div id="bx_3218110189_215" class="document">
+											<a class="document__download" href="/upload/iblock/61a/61a820ac7596e3e3bbdea6adb716cbaf.pdf" download="RSS-noyabr-2018.pdf"></a>
+										<div class="document__name">
+						<p>
+							РАСЧЕТ размера собственных средств на 30 ноября 2018 г.                            
+													</p>
+						<img class="download-image" src="/local/templates/index/images/Doc Copy 2.svg" alt="download">
+					</div>
+                    
+					<p class="document__datepub">Дата и время опубликования</p>
+					<div class="document__published">
+						<p>14.12.2018 17:46</p>
+																		                        					</div>
+					<p class="document__datefin">Доступно до</p>
+					<p class="document__finished">
+													в течение трех лет со дня раскрытия											</p>
+                    
+                    				</div>
+															<div id="bx_3218110189_216" class="document">
+											<a class="document__download" href="/upload/iblock/265/26575225e2057c4ec58f8462003c288e.pdf" download="RSS-oktyabr-2018.pdf"></a>
+										<div class="document__name">
+						<p>
+							РАСЧЕТ размера собственных средств на 31 октября 2018 г.                            
+													</p>
+						<img class="download-image" src="/local/templates/index/images/Doc Copy 2.svg" alt="download">
+					</div>
+                    
+					<p class="document__datepub">Дата и время опубликования</p>
+					<div class="document__published">
+						<p>27.11.2018 14:05</p>
+																		                        					</div>
+					<p class="document__datefin">Доступно до</p>
+					<p class="document__finished">
+													в течение трех лет со дня раскрытия											</p>
+                    
+                    				</div>
+						<p class="messages__read-more about-company-page__read-more">
+									<a href="#" data-pagecount="3" data-page="2"><svg width="22px" height="22px" viewBox="0 0 22 22" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <defs>
+        <path id="path-1" d="M4.39504407,17.0068549 C6.05574933,19.5145687 8.88561576,21.0869565 12,21.0869565 C15.9050456,21.0869565 19.3379752,18.613848 20.6041552,14.9958226 L22.41503,15.6262778 C20.8820646,20.0066248 16.7269511,23 12,23 C8.46197979,23 5.22666855,21.3229359 3.18075312,18.6074988 L2.86075587,19.8841645 L1,19.4201833 L2.16878586,14.757178 L6.38155497,15.3574396 L6.11030552,17.251256 L4.39504407,17.0068549 Z M18.8145589,5.96716442 C17.1158828,4.05814044 14.6587192,2.91304348 12,2.91304348 C8.70019965,2.91304348 5.70986113,4.67674818 4.09498874,7.47910011 L2.43206983,6.5258024 C4.3856857,3.1356155 8.00659418,1 12,1 C15.4270286,1 18.5787243,2.57289155 20.6379715,5.15919831 L21.1392441,3.15931375 L23,3.62329495 L21.8348847,8.27165613 L17.1556132,7.6882658 L17.3935147,5.78999507 L18.8145589,5.96716442 Z"></path>
+    </defs>
+    <g id="Чистовой" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Новости" transform="translate(-634.000000, -1550.000000)">
+            <g id="Group-3" transform="translate(633.000000, 1549.000000)">
+                <g id="Icon-/-reload">
+                    <rect id="Size" x="0" y="0" width="24" height="24"></rect>
+                    <mask id="mask-22" fill="white">
+                        <use xlink:href="#path-1"></use>
+                    </mask>
+                    <use id="Combined-Shape" fill="#2F444E" fill-rule="nonzero" xlink:href="#path-1"></use>
+                    <g id="Colors" mask="url(#mask-22)" fill="#072833" fill-rule="nonzero">
+                        <rect id="Rectangle" x="0" y="0" width="24" height="24"></rect>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>						&nbsp;Показать ещё</a>
+							</p>
+            
+                        
+					</div>
+</div>
+
+	
+
+
+
+																	</section></div>
+					
+							
+			<footer class="add-info">
+                <div class="add-info__content container">
+                    <div class="others">
+                        <div class="others__contacts">
+                            <div class="logotype others__left _hide-tablet">
+                                <a class="logotype__link" href="/"></a>
+                                <svg width="36" height="36" viewBox="0 0 36 36" fill="none" xmlns="http://www.w3.org/2000/svg">
+                                    <path fill-rule="evenodd" clip-rule="evenodd" d="M12.8407 16.9255H16.8382V2.22553H12.8407V16.9255ZM10.6567 19.0209H19.0208V0.132568H10.6567V19.0209Z" fill="white"></path>
+                                    <path fill-rule="evenodd" clip-rule="evenodd" d="M0.15332 23.1648H35.7053V21.0779H0.15332V23.1648Z" fill="white"></path>
+                                    <path fill-rule="evenodd" clip-rule="evenodd" d="M2.32928 31.3194H12.6056V27.3355H2.32928V31.3194ZM0.15332 35.7682H2.32928V33.4037H14.7821V25.2491H0.15332V35.7682Z" fill="white"></path>
+                                    <path fill-rule="evenodd" clip-rule="evenodd" d="M27.3415 2.22553V19.0207H29.5241V6.41532L33.5208 2.22719V19.0207H35.7056V0.132568H32.6378L29.5241 3.38588V0.132568H26.4577L21.1589 5.62275V19.0207H23.3443V6.41615L27.3415 2.22553Z" fill="white"></path>
+                                    <path fill-rule="evenodd" clip-rule="evenodd" d="M19.0875 31.3194H25.1506V27.3355H19.0875V31.3194ZM27.4208 31.3194H33.5301V27.3355H27.4208V31.3194ZM16.9104 33.4037H25.1509V35.7682H27.4208V33.4037H35.7058V25.2491H16.9104V33.4037Z" fill="white"></path>
+                                    <path fill-rule="evenodd" clip-rule="evenodd" d="M2.33837 6.41615L6.33421 2.22719V16.9258H2.33837V6.41615ZM6.33421 19.0207H8.51846V0.132568H5.45177L0.153564 5.62275V19.0207H6.33421Z" fill="white"></path>
+                                </svg>
+                                <span class="logotype__name c-white">Управление<br>активами</span>
+                            </div>
+                            <div class="others__right">
+                                <div class="others__item">
+                                    <a class="a" href="/contacts/">Москва, Воздвиженка, 10</a> <span class="details d">помещение&nbsp;XI, комната&nbsp;177</span>                                </div>
+                                <div class="others__item">
+                                    <a class="b" href="tel:+74996810662">+7 (499) 681-06-62</a>
+<span class="details e">доб. 58729, 58604</span>                                    <div class="_show-tablet _email">
+                                        <a class="c" href="mailto:info@domrf-am.ru">info@domrf-am.ru</a>                                    </div>
+                                </div>
+                                <div class="others__item _hide-tablet">
+                                    <a class="c" href="mailto:info@domrf-am.ru">info@domrf-am.ru</a>                                </div>
+                                <div class="others__item _show-tablet">
+                                    <p class="others-button-title">Будь в курсе событий!</p>
+                                    <div class="others__button others__left">
+                                        <a class="more-button" href="#subscribe" data-fancybox="">подписаться на рассылку</a>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="others__hr _show-mobile"></div>
+                    <div class="explanations">
+                        <p class="others-button-title _hide-tablet">Будь в курсе событий!</p>
+                        <div class="others__links">
+                            <div class="others__button others__left _with-button _hide-tablet">
+                                <a class="more-button" href="#subscribe" data-fancybox="">подписаться на рассылку</a>
+                            </div>
+                            <div class="explanations-menu">
+                                            <a class="others__document " href="/information-disclosure/">Обязательное раскрытие информации инвесторам</a>
+            <a class="others__document " href="#passport-popup" data-fancybox="">Паспорт инвестиционного пая ЗПИФ недвижимости «ДОМ.РФ»</a>
+            <a class="others__document " target="_blank" href="https://xn--80aald4bq.xn--d1aqf.xn--p1ai/">Аренда ДОМ.РФ</a>
+                                </div>
+                        </div>
+                        <div class="others__hr _hide-tablet _show-mobile"></div>
+                        <div class="others__descr">
+                            <p>
+    Общество с&nbsp;ограниченной ответственностью «ДОМ.РФ Управление активами» (ООО&nbsp;«ДОМ.РФ Управление активами»), ИНН&nbsp;7704366195, лицензия на&nbsp;осуществление деятельности по&nbsp;управлению инвестиционными фондами, паевыми инвестиционными фондами и&nbsp;негосударственными пенсионными фондами от&nbsp;10.10.2016 <nobr>№21-000-1-00998</nobr>, выданная Банком России. Адреса страниц в&nbsp;сети Интернет, используемые Управляющей компанией для&nbsp;раскрытия информации <a href="https://domrf-am.ru/">https://domrf-am.ru/</a> и <a href="https://www.e-disclosure.ru/portal/company.aspx?id=37003">https://www.e-disclosure.ru/portal/company.aspx?id=37003</a>.
+</p>
+<p>
+    Под&nbsp;управлением ООО&nbsp;«ДОМ.РФ Управление активами» находится Закрытый паевой инвестиционный фонд недвижимости «ДОМ.РФ», Правила доверительного управления зарегистрированы Банком России 03.06.2016 за&nbsp;№&nbsp;3164 (далее – Фонд).
+</p>
+<p>
+    До&nbsp;приобретения инвестиционных паев Фонда получить подробную информацию о&nbsp;Фонде и&nbsp;ознакомиться с&nbsp;правилами доверительного управления Фондом, а&nbsp;также с&nbsp;иными документами, предусмотренными законодательством Российской Федерации, можно по&nbsp;адресу: 125009, г.&nbsp;Москва, ул.&nbsp;Воздвиженка, д.&nbsp;10, пом.&nbsp;XI, ком.&nbsp;177 и&nbsp;(или) <nobr>по тел.: (499) 681-06-62</nobr> доб.&nbsp;58729, 58604 и&nbsp;на&nbsp;сайте: <a href="https://domrf-am.ru/">www.domrf-am.ru</a>.
+</p>
+<p>
+    Источники информации, в&nbsp;которых в&nbsp;соответствии с&nbsp;правилами доверительного управления Фондом должна быть раскрыта соответствующая информация: сайт Управляющей компании в&nbsp;сети Интернет: www.domrf-am.ru.
+</p>
+<p>
+    ООО&nbsp;«ДОМ.РФ Управление активами» обращает ваше внимание, что&nbsp;стоимость инвестиционных паев Фонда может увеличиваться и&nbsp;уменьшаться, результаты инвестирования в&nbsp;прошлом не&nbsp;определяют доходы в&nbsp;будущем, государство не&nbsp;гарантирует доходность инвестиций в&nbsp;паевые инвестиционные фонды, и&nbsp;прежде чем&nbsp;приобрести инвестиционный пай, внимательно ознакомьтесь с&nbsp;правилами доверительного управления Фондом. Информируем о&nbsp;том, что&nbsp;инвестирование в&nbsp;активы, предусмотренные в&nbsp;инвестиционной декларации Фонда, связано с&nbsp;определенной степенью рисков и&nbsp;не подразумевает гарантий, как&nbsp;по&nbsp;возврату основной инвестированной суммы, так&nbsp;и&nbsp;по&nbsp;получению доходов.
+</p>
+<p>
+    На&nbsp;Сайте могут присутствовать гиперссылки на&nbsp;сайты компаний, которые являются нашими партнёрами. Однако ООО&nbsp;«ДОМ.РФ Управление активами» не&nbsp;несёт ответственности за&nbsp;содержание таких сайтов и&nbsp;за&nbsp;имеющиеся там&nbsp;ссылки.
+</p>
+<p class="_recaptcha">
+    Данный сайт защищен с помощью reCAPTCHA и соответствует <a href="https://policies.google.com/privacy" target="_blank">Политике конфиденциальности</a>
+    и <a href="https://policies.google.com/terms" target="_blank">Условиям использования Google</a>.
+</p>                        </div>
+                    </div>
+                </div>
+			</footer>
+		
+		<!--end wrap-->
+        
+
+
+
+<div class="subscribe-popup" style="display: none;" id="subscribe">
+    <div id="subscribe-form" class="subscribe-popup__inner"><form name="SUBSCRIBE_DAILY_UPDATES" action="/information-disclosure/own/" method="POST" enctype="multipart/form-data" class="subscribe-form"><input type="hidden" name="sessid" id="sessid" value="39a9ca42fb60f9721a903c73e4713469"><input type="hidden" name="WEB_FORM_ID" value="5"> <h2 class="subscribe-form__title">Подписаться на&nbsp;рассылку</h2> <p class="subscribe-form__descr">Выберите полезную для&nbsp;вас информацию</p> <div class="subscribe-form-checkbox"><input type="checkbox" name="form_checkbox_GROUPS[]" id="mainCompany" value="5" style="display: none;"> <label for="mainCompany" class="subscribe-form-checkbox__label _fs12 _cb"><span class="text-upper">Информация об Управляющей компании</span></label></div> <div class="subscribe-form-checkbox"><input type="checkbox" name="form_checkbox_GROUPS[]" id="zpif" value="11" style="display: none;"> <label for="zpif" class="subscribe-form-checkbox__label _fs12 _cb"><span class="text-upper">Информация о ЗПИФ недвижимости «ДОМ.РФ»</span></label></div> <div class="subscribe-form-checkbox"><input type="checkbox" name="form_checkbox_GROUPS[]" id="allFonds" value="8" style="display: none;"> <label for="allFonds" class="subscribe-form-checkbox__label _fs12 _cb"><span class="text-upper">Информация об иных пиф под управлением Управляющей компании</span></label></div> <div class="subscribe-form-input _mt48"><input type="text" name="form_text_14" id="email" autocomplete="off" class="subscribe-form-input__input"> <label for="email" class="subscribe-form-input__label">Email</label> <p class="subscribe-form-input__err" style="display: none;">Введен неправильный формат почтового адреса</p> <!----></div> <button name="web_form_submit" href="#" value="Подписаться" class="subscribe-form__send more-button">Подписаться</button></form></div>
+</div>
+
+        
+<div id="passport-popup" class="subscribe-popup passport-popup" style="display: none;">
+    <div id="passport-popup-inside" class="subscribe-popup__inner"><h2 class="passport-popup__title">Паспорт инвестиционного пая ЗПИФ недвижимости «ДОМ.РФ»</h2> <p class="passport-popup__note">Документ размещен 31.01.2022</p> <div class="subscribe-form-checkbox passport-popup-checkbox"><input type="checkbox" id="passport-agree" value="5" style="display: none;"> <label for="passport-agree" class="subscribe-form-checkbox__label passport-popup-checkbox__label _cb"><span>Согласен(на) на&nbsp;получение паспорта инвестиционного пая ЗПИФ недвижимости «ДОМ.РФ»</span></label></div> <button class="subscribe-form__send more-button">Скачать</button></div>
+</div>
+
+
+        <!-- Yandex.Metrika counter -->
+
+<noscript><div><img src="https://mc.yandex.ru/watch/50230723" style="position:absolute; left:-9999px;" alt="" /></div></noscript>
+<!-- /Yandex.Metrika counter -->        <div class="cookie-warn js-cookie-warn _show">
+            <div class="container">
+                <div class="cookie-warn__content">
+                    <div class="cookie-warn__text">
+                        <div class="cookie-warn__title">На&nbsp;сайте используются файлы cookie.</div>
+                        <p class="cookie-warn__descr">
+                            Оставаясь на&nbsp;сайте, вы&nbsp;выражаете свое <a href="#cookie-policy" data-fancybox="">согласие</a><br>
+                            на&nbsp;обработку персональных данных в&nbsp;соответствии с <a href="https://xn--d1aqf.xn--p1ai/upload/documents/personal_data_process.pdf" target="_blank">политикой</a> АО&nbsp;«ДОМ.РФ»
+                        </p>
+                    </div>
+                    <div class="cookie-warn__button">
+                        <a class="more-button js-cookie-confirm" href="#!">Подтвердить</a>
+                    </div>
+                </div>
+            </div>
+        </div>
+        <div style="display: none">
+            <div id="cookie-policy" class="cookie-warn-popup">
+                <div class="cookie-warn-popup__title">Согласие на&nbsp;обработку персональных данных «cookies» на&nbsp;сайте https://domrf-am.ru</div>
+                <div class="cookie-warn-popup__content">
+                    <p>Настоящим я, в&nbsp;соответствии со&nbsp;статьей&nbsp;9 Федерального закона от&nbsp;27.07.2006 №&nbsp;152 - ФЗ&nbsp;«О&nbsp;персональных данных», продолжая работу на&nbsp;сайте <nobr>https://domrf-am.ru</nobr> (далее – Сайт), выражаю согласие ООО&nbsp;«ДОМ.РФ Управление активами» (ИНН&nbsp;7704366195, ОГРН&nbsp;1167746708733, г.&nbsp;Москва, ул.&nbsp;Воздвиженка, д.&nbsp;10, пом.&nbsp;XI, ком.&nbsp;177) (далее – Оператор), на&nbsp;автоматизированную обработку, а&nbsp;именно: сбор, запись, систематизацию, накопление, хранение, уточнение (обновление, изменение), извлечение, использование, передачу (предоставление, доступ), обезличивание, блокирование, удаление, уничтожение (далее – Обработка), моих персональных данных в&nbsp;следующем составе: технические данные, которые автоматически передаются устройством, с&nbsp;помощью которого используется Сайт, в&nbsp;том числе: технические характеристики устройства, <nobr>IP-адрес</nobr>, информация, сохраненная в&nbsp;файлах «cookies», информация о&nbsp;браузере, дате и&nbsp;времени доступа к&nbsp;Сайту, длительность пребывания на&nbsp;Сайте, сведения о&nbsp;поведении и&nbsp;активности на&nbsp;Сайте в&nbsp;целях улучшения работы Сайта, совершенствования продуктов и&nbsp;услуг Оператора, а&nbsp;также определения предпочтений пользователей, в&nbsp;том числе с&nbsp;использованием метрической программы Яндекс.Метрика.</p>
+                    <p>Я подтверждаю, что&nbsp;Оператор вправе давать поручения на&nbsp;обработку моих персональных данных АО&nbsp;«ДОМ.РФ» (ИНН&nbsp;7729355614, ОГРН&nbsp;1027700262270, г.&nbsp;Москва, ул.&nbsp;Воздвиженка, д.&nbsp;10). ООО&nbsp;«ДОМ.РФ Центр сопровождения» (ИНН&nbsp;3666240353, ОГРН&nbsp;1193668037870, Воронежская&nbsp;обл., г.&nbsp;Воронеж, просп.&nbsp;Революции, д.&nbsp;38, пом.&nbsp;10), АО&nbsp;«Банк&nbsp;ДОМ.РФ» (ИНН&nbsp;7725038124, ОГРН&nbsp;1037739527077, г.&nbsp;Москва, ул.&nbsp;Воздвиженка, д.&nbsp;10) в&nbsp;целях, указанных в&nbsp;настоящем согласии.</p>
+                    <p>В&nbsp;случае отказа от&nbsp;обработки персональных данных метрическими программами я&nbsp;проинформирован(а) о&nbsp;необходимости прекратить использование Сайта или&nbsp;отключить файлы «cookies» в&nbsp;настройках браузера.</p>
+                    <p>Настоящее согласие действует в&nbsp;течение 1&nbsp;года с&nbsp;момента его&nbsp;предоставления.</p>
+                    <p>Я уведомлен(а), что&nbsp;могу отозвать настоящее согласие путем подачи письменного заявления в&nbsp;адрес Оператора посредством почтовой связи.</p>
+                </div>
+            </div>
+        </div>
+	<script type="text/javascript">if(!window.BX)window.BX={};if(!window.BX.message)window.BX.message=function(mess){if(typeof mess==='object'){for(let i in mess) {BX.message[i]=mess[i];} return true;}};</script>
+<script type="text/javascript">(window.BX||top.BX).message({'AMCHARTS_PATH':'/bitrix/js/main/amcharts/3.21/','AMCHARTS_IMAGES_PATH':'/bitrix/js/main/amcharts/3.21/images/'});</script>
+<script type="text/javascript">(window.BX||top.BX).message({'JS_CORE_LOADING':'Загрузка...','JS_CORE_NO_DATA':'- Нет данных -','JS_CORE_WINDOW_CLOSE':'Закрыть','JS_CORE_WINDOW_EXPAND':'Развернуть','JS_CORE_WINDOW_NARROW':'Свернуть в окно','JS_CORE_WINDOW_SAVE':'Сохранить','JS_CORE_WINDOW_CANCEL':'Отменить','JS_CORE_WINDOW_CONTINUE':'Продолжить','JS_CORE_H':'ч','JS_CORE_M':'м','JS_CORE_S':'с','JSADM_AI_HIDE_EXTRA':'Скрыть лишние','JSADM_AI_ALL_NOTIF':'Показать все','JSADM_AUTH_REQ':'Требуется авторизация!','JS_CORE_WINDOW_AUTH':'Войти','JS_CORE_IMAGE_FULL':'Полный размер'});</script><script type="text/javascript" src="/bitrix/js/main/core/core.js?1679584493487984"></script><script>BX.setJSList(['/bitrix/js/main/core/core_ajax.js','/bitrix/js/main/core/core_promise.js','/bitrix/js/main/polyfill/promise/js/promise.js','/bitrix/js/main/loadext/loadext.js','/bitrix/js/main/loadext/extension.js','/bitrix/js/main/polyfill/promise/js/promise.js','/bitrix/js/main/polyfill/find/js/find.js','/bitrix/js/main/polyfill/includes/js/includes.js','/bitrix/js/main/polyfill/matches/js/matches.js','/bitrix/js/ui/polyfill/closest/js/closest.js','/bitrix/js/main/polyfill/fill/main.polyfill.fill.js','/bitrix/js/main/polyfill/find/js/find.js','/bitrix/js/main/polyfill/matches/js/matches.js','/bitrix/js/main/polyfill/core/dist/polyfill.bundle.js','/bitrix/js/main/core/core.js','/bitrix/js/main/polyfill/intersectionobserver/js/intersectionobserver.js','/bitrix/js/main/lazyload/dist/lazyload.bundle.js','/bitrix/js/main/polyfill/core/dist/polyfill.bundle.js','/bitrix/js/main/parambag/dist/parambag.bundle.js']);
+</script>
+<script type="text/javascript">(window.BX||top.BX).message({'LANGUAGE_ID':'ru','FORMAT_DATE':'DD.MM.YYYY','FORMAT_DATETIME':'DD.MM.YYYY HH:MI:SS','COOKIE_PREFIX':'BITRIX_SM','SERVER_TZ_OFFSET':'10800','UTF_MODE':'Y','SITE_ID':'s1','SITE_DIR':'/','USER_ID':'','SERVER_TIME':'1687320359','USER_TZ_OFFSET':'0','USER_TZ_AUTO':'Y','bitrix_sessid':'39a9ca42fb60f9721a903c73e4713469'});</script><script type="text/javascript" src="/bitrix/js/main/amcharts/3.21/amcharts.js?1679584493208475"></script>
+<script type="text/javascript" src="/bitrix/js/main/amcharts/3.21/serial.js?167958449349502"></script>
+<script type="text/javascript" src="/bitrix/js/main/amcharts/3.21/themes/dark.js?16795844934063"></script>
+<script type="text/javascript" src="/bitrix/js/main/amcharts/3.21/lang/ru.js?1679584493609"></script>
+<script type="text/javascript" src="https://www.google.com/recaptcha/api.js?render=6Lcs0lAcAAAAAIDzNrbN1hGXzTgTS73ZipMr6Niu"></script>
+
+
+<script type="text/javascript" src="/local/templates/index/js/jquery-3.6.0.min.js?167958449889503"></script>
+<script type="text/javascript" src="/local/templates/.default/js/jquery/jquery.fancybox.js?1679584498154104"></script>
+<script type="text/javascript" src="/local/templates/index/js/slick.min.js?167958449842863"></script>
+<script type="text/javascript" src="/local/templates/index/js/datepicker.min.js?167958449835542"></script>
+<script type="text/javascript" src="/local/templates/index/js/raphael-min.js?167958449890647"></script>
+<script type="text/javascript" src="/local/templates/index/js/morris.min.js?167958449835652"></script>
+<script type="text/javascript" src="/local/templates/index/js/vue.min.js?167958449886457"></script>
+<script type="text/javascript" src="/local/templates/index/js/axios.min.js?167958449812050"></script>
+<script type="text/javascript" src="/local/templates/index/js/template.js?167958449834904"></script>
+<script type="text/javascript" src="/local/templates/index/js/cookie-warn.js?16795844981024"></script>
+<script type="text/javascript" src="/local/templates/index/components/bitrix/menu/top_menu/script.js?1679584498469"></script>
+<script type="text/javascript" src="/local/templates/index/components/bitrix/system.auth.form/auth_form/script.js?16795844981970"></script>
+<script type="text/javascript" src="/local/templates/index/components/bitrix/form.result.new/subscribe-popup/script.js?16795844983293"></script>
+<script type="text/javascript" src="/local/templates/index/components/bitrix/news.list/passport_popup/script.js?1679584498409"></script>
+<script type="text/javascript" src="/local/templates/index/components/local/catalog.filter/content__filter/script.js?16795844982403"></script>
+<script type="text/javascript" src="/local/templates/index/components/bitrix/news/docs/bitrix/news.list/.default/script.js?1679584498956"></script>
+
+<script>
+            BX.ready(function() {
+                var loginCookie = BX.getCookie("BITRIX_SM_LOGIN");
+                if (loginCookie) {
+                        var form = document.forms["system_auth_form6zOYVN"];
+                        var loginInput = form.elements["USER_LOGIN"];
+                            loginInput.value = loginCookie;
+                }
+            });
+        </script><script>
+    var FilterAjaxUrl = "/information-disclosure/own/";
+</script><script id="DocsAjxaData">
+	var AjaxLoadUrl = "/information-disclosure/own/";
+	var pagenId = '1';
+	$(document).ready(function () {
+		BindLoadMoreBtn();
+	})
+</script><script type="text/javascript">
+   (function(m,e,t,r,i,k,a){m[i]=m[i]||function(){(m[i].a=m[i].a||[]).push(arguments)};
+   m[i].l=1*new Date();k=e.createElement(t),a=e.getElementsByTagName(t)[0],k.async=1,k.src=r,a.parentNode.insertBefore(k,a)})
+   (window, document, "script", "https://mc.yandex.ru/metrika/tag.js", "ym");
+
+   ym(50230723, "init", {
+        clickmap:true,
+        trackLinks:true,
+        accurateTrackBounce:true,
+        ecommerce:"dataLayer"
+   });
+</script>
+<div><div class="grecaptcha-badge" data-style="bottomright" style="width: 256px; height: 60px; display: block; transition: right 0.3s ease 0s; position: fixed; bottom: 14px; right: -186px; box-shadow: gray 0px 0px 5px; border-radius: 2px; overflow: hidden;"><div class="grecaptcha-logo"><iframe title="reCAPTCHA" src="https://www.google.com/recaptcha/api2/anchor?ar=1&amp;k=6Lcs0lAcAAAAAIDzNrbN1hGXzTgTS73ZipMr6Niu&amp;co=aHR0cHM6Ly9kb21yZi1hbS5ydTo0NDM.&amp;hl=en&amp;v=SglpK98hSCn2CroR0bKRSJl5&amp;size=invisible&amp;cb=cmqg0e1i3pyw" width="256" height="60" role="presentation" name="a-yxj4ikelggyb" frameborder="0" scrolling="no" sandbox="allow-forms allow-popups allow-same-origin allow-scripts allow-top-navigation allow-modals allow-popups-to-escape-sandbox"></iframe></div><div class="grecaptcha-error"></div><textarea id="g-recaptcha-response-100000" name="g-recaptcha-response" class="g-recaptcha-response" style="width: 250px; height: 40px; border: 1px solid rgb(193, 193, 193); margin: 10px 25px; padding: 0px; resize: none; display: none;"></textarea></div><iframe style="display: none;"></iframe></div><div class="datepickers-container" id="datepickers-container"><div class="datepicker -bottom-left- -from-bottom-"><i class="datepicker--pointer"></i><nav class="datepicker--nav"><div class="datepicker--nav-action" data-action="prev"><svg><path d="M 17,12 l -5,5 l 5,5"></path></svg></div><div class="datepicker--nav-title">Июнь, <i>2023</i></div><div class="datepicker--nav-action" data-action="next"><svg><path d="M 14,12 l 5,5 l -5,5"></path></svg></div></nav><div class="datepicker--content"><div class="datepicker--days datepicker--body active"><div class="datepicker--days-names"><div class="datepicker--day-name">Пн</div><div class="datepicker--day-name">Вт</div><div class="datepicker--day-name">Ср</div><div class="datepicker--day-name">Чт</div><div class="datepicker--day-name">Пт</div><div class="datepicker--day-name -weekend-">Сб</div><div class="datepicker--day-name -weekend-">Вс</div></div><div class="datepicker--cells datepicker--cells-days"><div class="datepicker--cell datepicker--cell-day -other-month-" data-date="29" data-month="4" data-year="2023">29</div><div class="datepicker--cell datepicker--cell-day -other-month-" data-date="30" data-month="4" data-year="2023">30</div><div class="datepicker--cell datepicker--cell-day -other-month-" data-date="31" data-month="4" data-year="2023">31</div><div class="datepicker--cell datepicker--cell-day" data-date="1" data-month="5" data-year="2023">1</div><div class="datepicker--cell datepicker--cell-day" data-date="2" data-month="5" data-year="2023">2</div><div class="datepicker--cell datepicker--cell-day -weekend-" data-date="3" data-month="5" data-year="2023">3</div><div class="datepicker--cell datepicker--cell-day -weekend-" data-date="4" data-month="5" data-year="2023">4</div><div class="datepicker--cell datepicker--cell-day" data-date="5" data-month="5" data-year="2023">5</div><div class="datepicker--cell datepicker--cell-day" data-date="6" data-month="5" data-year="2023">6</div><div class="datepicker--cell datepicker--cell-day" data-date="7" data-month="5" data-year="2023">7</div><div class="datepicker--cell datepicker--cell-day" data-date="8" data-month="5" data-year="2023">8</div><div class="datepicker--cell datepicker--cell-day" data-date="9" data-month="5" data-year="2023">9</div><div class="datepicker--cell datepicker--cell-day -weekend-" data-date="10" data-month="5" data-year="2023">10</div><div class="datepicker--cell datepicker--cell-day -weekend-" data-date="11" data-month="5" data-year="2023">11</div><div class="datepicker--cell datepicker--cell-day" data-date="12" data-month="5" data-year="2023">12</div><div class="datepicker--cell datepicker--cell-day" data-date="13" data-month="5" data-year="2023">13</div><div class="datepicker--cell datepicker--cell-day" data-date="14" data-month="5" data-year="2023">14</div><div class="datepicker--cell datepicker--cell-day" data-date="15" data-month="5" data-year="2023">15</div><div class="datepicker--cell datepicker--cell-day" data-date="16" data-month="5" data-year="2023">16</div><div class="datepicker--cell datepicker--cell-day -weekend-" data-date="17" data-month="5" data-year="2023">17</div><div class="datepicker--cell datepicker--cell-day -weekend-" data-date="18" data-month="5" data-year="2023">18</div><div class="datepicker--cell datepicker--cell-day" data-date="19" data-month="5" data-year="2023">19</div><div class="datepicker--cell datepicker--cell-day" data-date="20" data-month="5" data-year="2023">20</div><div class="datepicker--cell datepicker--cell-day -current-" data-date="21" data-month="5" data-year="2023">21</div><div class="datepicker--cell datepicker--cell-day" data-date="22" data-month="5" data-year="2023">22</div><div class="datepicker--cell datepicker--cell-day" data-date="23" data-month="5" data-year="2023">23</div><div class="datepicker--cell datepicker--cell-day -weekend-" data-date="24" data-month="5" data-year="2023">24</div><div class="datepicker--cell datepicker--cell-day -weekend-" data-date="25" data-month="5" data-year="2023">25</div><div class="datepicker--cell datepicker--cell-day" data-date="26" data-month="5" data-year="2023">26</div><div class="datepicker--cell datepicker--cell-day" data-date="27" data-month="5" data-year="2023">27</div><div class="datepicker--cell datepicker--cell-day" data-date="28" data-month="5" data-year="2023">28</div><div class="datepicker--cell datepicker--cell-day" data-date="29" data-month="5" data-year="2023">29</div><div class="datepicker--cell datepicker--cell-day" data-date="30" data-month="5" data-year="2023">30</div><div class="datepicker--cell datepicker--cell-day -weekend- -other-month-" data-date="1" data-month="6" data-year="2023">1</div><div class="datepicker--cell datepicker--cell-day -weekend- -other-month-" data-date="2" data-month="6" data-year="2023">2</div></div></div></div></div><div class="datepicker -bottom-left- -from-bottom-"><i class="datepicker--pointer"></i><nav class="datepicker--nav"><div class="datepicker--nav-action" data-action="prev"><svg><path d="M 17,12 l -5,5 l 5,5"></path></svg></div><div class="datepicker--nav-title">Июнь, <i>2023</i></div><div class="datepicker--nav-action" data-action="next"><svg><path d="M 14,12 l 5,5 l -5,5"></path></svg></div></nav><div class="datepicker--content"><div class="datepicker--days datepicker--body active"><div class="datepicker--days-names"><div class="datepicker--day-name">Пн</div><div class="datepicker--day-name">Вт</div><div class="datepicker--day-name">Ср</div><div class="datepicker--day-name">Чт</div><div class="datepicker--day-name">Пт</div><div class="datepicker--day-name -weekend-">Сб</div><div class="datepicker--day-name -weekend-">Вс</div></div><div class="datepicker--cells datepicker--cells-days"><div class="datepicker--cell datepicker--cell-day -other-month-" data-date="29" data-month="4" data-year="2023">29</div><div class="datepicker--cell datepicker--cell-day -other-month-" data-date="30" data-month="4" data-year="2023">30</div><div class="datepicker--cell datepicker--cell-day -other-month-" data-date="31" data-month="4" data-year="2023">31</div><div class="datepicker--cell datepicker--cell-day" data-date="1" data-month="5" data-year="2023">1</div><div class="datepicker--cell datepicker--cell-day" data-date="2" data-month="5" data-year="2023">2</div><div class="datepicker--cell datepicker--cell-day -weekend-" data-date="3" data-month="5" data-year="2023">3</div><div class="datepicker--cell datepicker--cell-day -weekend-" data-date="4" data-month="5" data-year="2023">4</div><div class="datepicker--cell datepicker--cell-day" data-date="5" data-month="5" data-year="2023">5</div><div class="datepicker--cell datepicker--cell-day" data-date="6" data-month="5" data-year="2023">6</div><div class="datepicker--cell datepicker--cell-day" data-date="7" data-month="5" data-year="2023">7</div><div class="datepicker--cell datepicker--cell-day" data-date="8" data-month="5" data-year="2023">8</div><div class="datepicker--cell datepicker--cell-day" data-date="9" data-month="5" data-year="2023">9</div><div class="datepicker--cell datepicker--cell-day -weekend-" data-date="10" data-month="5" data-year="2023">10</div><div class="datepicker--cell datepicker--cell-day -weekend-" data-date="11" data-month="5" data-year="2023">11</div><div class="datepicker--cell datepicker--cell-day" data-date="12" data-month="5" data-year="2023">12</div><div class="datepicker--cell datepicker--cell-day" data-date="13" data-month="5" data-year="2023">13</div><div class="datepicker--cell datepicker--cell-day" data-date="14" data-month="5" data-year="2023">14</div><div class="datepicker--cell datepicker--cell-day" data-date="15" data-month="5" data-year="2023">15</div><div class="datepicker--cell datepicker--cell-day" data-date="16" data-month="5" data-year="2023">16</div><div class="datepicker--cell datepicker--cell-day -weekend-" data-date="17" data-month="5" data-year="2023">17</div><div class="datepicker--cell datepicker--cell-day -weekend-" data-date="18" data-month="5" data-year="2023">18</div><div class="datepicker--cell datepicker--cell-day" data-date="19" data-month="5" data-year="2023">19</div><div class="datepicker--cell datepicker--cell-day" data-date="20" data-month="5" data-year="2023">20</div><div class="datepicker--cell datepicker--cell-day -current-" data-date="21" data-month="5" data-year="2023">21</div><div class="datepicker--cell datepicker--cell-day" data-date="22" data-month="5" data-year="2023">22</div><div class="datepicker--cell datepicker--cell-day" data-date="23" data-month="5" data-year="2023">23</div><div class="datepicker--cell datepicker--cell-day -weekend-" data-date="24" data-month="5" data-year="2023">24</div><div class="datepicker--cell datepicker--cell-day -weekend-" data-date="25" data-month="5" data-year="2023">25</div><div class="datepicker--cell datepicker--cell-day" data-date="26" data-month="5" data-year="2023">26</div><div class="datepicker--cell datepicker--cell-day" data-date="27" data-month="5" data-year="2023">27</div><div class="datepicker--cell datepicker--cell-day" data-date="28" data-month="5" data-year="2023">28</div><div class="datepicker--cell datepicker--cell-day" data-date="29" data-month="5" data-year="2023">29</div><div class="datepicker--cell datepicker--cell-day" data-date="30" data-month="5" data-year="2023">30</div><div class="datepicker--cell datepicker--cell-day -weekend- -other-month-" data-date="1" data-month="6" data-year="2023">1</div><div class="datepicker--cell datepicker--cell-day -weekend- -other-month-" data-date="2" data-month="6" data-year="2023">2</div></div></div></div></div></div>

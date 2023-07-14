@@ -1,0 +1,633 @@
+
+    <div id="container_bg">
+    <div class="header_bg">
+      <div class="header">
+        		<div class="moduletable">
+						<div class="mains">
+    <div class="rs_panel">
+        		
+    </div>
+</div>
+		</div>
+			<div class="moduletable">
+						<ul class="nav menu">
+<li class="item-146"><a href="/search/">Поиск по сайту</a></li></ul>
+		</div>
+	
+      </div>  
+    </div>    
+    <div class="container">      
+      <div class="jr_module head">
+                            <div class="jr_mod_full">
+                  
+              </div>
+                      <div class="clr"></div>
+          </div>
+      <div class="header_rt" style="float:left;text-align:left;">
+        <a class="logo" href="/">
+          <img src="/bitrix/templates/investural/images/logo.jpg" title="" alt="" width="319" height="99" border="0">
+        </a>
+
+        
+        
+            </div>
+            
+      
+<div class="main_menu">
+    <div class="moduletable_menu">
+        <ul class="nav menu nav_pills">
+
+                    <li class="1 ">
+                <a href="/">
+                    О компании                </a>
+                            </li>	
+                    <li class="1 ">
+                <a href="/funds/">
+                    Паевые фонды                </a>
+                                <ul class="nav-child unstyled small">
+                                        <li class="2 ">
+                        <a href="/funds/zpif-fs-1/">
+                            ЗПИФ недвижимости "ФС-1"                        </a>
+                    </li>
+                                        <li class="2 ">
+                        <a href="/funds/zpifn-siti-kapital/">
+                            ЗПИФН "Сити-Капитал"                        </a>
+                    </li>
+                                        <li class="2 ">
+                        <a href="/funds/zpifn-ekaterininskij/">
+                            Комбинированный ЗПИФ "Екатерининский"                        </a>
+                    </li>
+                                        <li class="2 ">
+                        <a href="/funds/zpifn-zolotaya-milya/">
+                            Комбинированный ЗПИФ "Золотая миля"                        </a>
+                    </li>
+                                        <li class="2 ">
+                        <a href="/funds/zpifn-rusich/">
+                            Комбинированный ЗПИФ "Русич"                        </a>
+                    </li>
+                                        <li class="2 ">
+                        <a href="/funds/rivera.php">
+                            ЗПИФН "Ривьера"                        </a>
+                    </li>
+                                        <li class="2 ">
+                        <a href="/funds/komb-zpif-region-kapital/">
+                            Комбинированный ЗПИФ «Регион-Капитал»                        </a>
+                    </li>
+                                        <li class="2 ">
+                        <a href="/funds/komb-zpif-epikur/">
+                            Комбинированный ЗПИФ «Эпикур»                        </a>
+                    </li>
+                                        <li class="2 ">
+                        <a href="/funds/komb-zpif-greenyard/">
+                            Комбинированный ЗПИФ «ГринЯрд»                        </a>
+                    </li>
+                                        <li class="2 ">
+                        <a href="/funds/komb-zpif-azimut-group/">
+                            Комбинированный ЗПИФ «Азимут Групп»                        </a>
+                    </li>
+                                        <li class="2 ">
+                        <a href="/funds/komb-zpif-invest-2022/">
+                            Комбинированный ЗПИФ «Перспективные инвестиции 2022»                        </a>
+                    </li>
+                                        <li class="2 ">
+                        <a href="/funds/komb-zpif-techno-active/">
+                            Комбинированный ЗПИФ «Техно Актив»                        </a>
+                    </li>
+                                        <li class="2 ">
+                        <a href="/funds/komb-zpif-dagaz-invest/">
+                            Комбинированный ЗПИФ «Дагаз Инвест»                        </a>
+                    </li>
+                                        <li class="2 ">
+                        <a href="/funds/komb-zpif-fg-capital1/">
+                            ЗПИФ комбинированный «ФГ Капитал 1»                        </a>
+                    </li>
+                                    </ul>
+                            </li>	
+                    <li class="1 ">
+                <a href="/disclosure/">
+                    Раскрытие информации                </a>
+                            </li>	
+                    <li class="1 ">
+                <a href="/kontakty/">
+                    Контакты                </a>
+                            </li>	
+        
+        </ul>
+    </div>
+</div>
+    
+    </div>
+        <div class="clr"></div>
+      <div class="rs_slider">
+        
+        <div class="clr"></div>
+            </div>      
+    <div class="jr_module top">
+
+                        <div class="jr_mod_full">
+                
+            </div>
+                  <div class="clr"></div>
+        </div>      
+    <div class="jr_component">
+                        <div class="jr_full">
+        
+<div class="moduletable"><div class="breadcrumbs"><a href="/" class="pathway">О компании</a> <img src="/bitrix/templates/investural/images/arrow.png" alt=""> <span>Раскрытие информации</span></div></div>                        
+<div class="item-page">
+					
+  <div class="page-header">
+    <h1>Информация об организации</h1>
+  </div>
+<br>
+ <table border="1" cellpadding="1" cellspacing="1">
+<tbody>
+<tr>
+	<td>
+		 &nbsp;Полное наименование:
+	</td>
+	<td>
+		 &nbsp;Акционерное общество «Управляющая компания «ИНВЕСТСТРОЙ»
+	</td>
+</tr>
+<tr>
+	<td>
+		 &nbsp;Сокращенное наименование:
+	</td>
+	<td>
+		 &nbsp;АО УК «ИНВЕСТСТРОЙ»
+	</td>
+</tr>
+<tr>
+	<td>
+		 &nbsp;Лицензия:
+	</td>
+	<td>
+		 &nbsp;Лицензия на осуществление деятельности по управлению инвестиционными фондами, паевыми инвестиционными фондами и негосударственными пенсионными фондами № 21-000-1-00766 выдана ФСФР России 26 октября 2010 года (Приказ ФСФР России от 12 октября 2010 года № 10-2666/пз-и)
+	</td>
+</tr>
+<tr>
+	<td>
+		 &nbsp;Адрес:
+	</td>
+	<td>
+		 &nbsp;620026, г. Екатеринбург, ул. Белинского, стр. 39, кабинет 3007
+	</td>
+</tr>
+<tr>
+	<td>
+		 &nbsp;Телефон:
+	</td>
+	<td>
+		 &nbsp;(343) 359-44-34, 371-90-11, 359-44-33
+	</td>
+</tr>
+<tr>
+	<td>
+		 &nbsp;Факс:
+	</td>
+	<td>
+		 &nbsp;(343) 359-44-41
+	</td>
+</tr>
+<tr>
+	<td>
+		 &nbsp;Адрес электронной почты:
+	</td>
+	<td>
+		 &nbsp;<a href="mailto:info@investural.ru">info@investural.ru</a>
+	</td>
+</tr>
+<tr>
+	<td colspan="1">
+		 &nbsp;Адрес сайта:
+	</td>
+	<td colspan="1">
+		 &nbsp;<a href="http://www.investural.ru">www.investural.ru</a>
+	</td>
+</tr>
+<tr>
+	<td colspan="1">
+		 Банковские реквизиты:
+	</td>
+	<td colspan="1">
+		 &nbsp;Акционерное общество "Управляющая компания «ИНВЕСТСТРОЙ», при предоставлении владельцам инвестиционных паев по их письменному требованию информации (документов), предусмотренной п.15. Указания Банка России от 02.11.2020 № 5609-У, не осуществляет взимание платы по возмещению расходов на их изготовление, вне зависимости от способа предоставления. <br>
+ <i>Дата раскрытия информации: 01.10.2021г. Период актуальности: Бессрочно, до внесения изменений</i><br>
+	</td>
+</tr>
+<tr>
+	<td>
+		 &nbsp; &nbsp; &nbsp;ОГРН:
+	</td>
+	<td>
+		 &nbsp;1056604452497
+	</td>
+</tr>
+<tr>
+	<td>
+		 &nbsp;ИНН:
+	</td>
+	<td>
+		 &nbsp;6672190931
+	</td>
+</tr>
+<tr>
+	<td>
+		 &nbsp;КПП:
+	</td>
+	<td>
+		 &nbsp;668501001
+	</td>
+</tr>
+</tbody>
+</table><p>
+	 Стоимость инвестиционных паев может увеличиваться и уменьшаться, результаты инвестирования в прошлом не определяют доходы в будущем, государство не гарантирует доходность инвестиций в паевые инвестиционные фонды. Прежде чем приобрести инвестиционный пай, следует внимательно ознакомиться с правилами.
+</p>
+<h2>Расчет собственных средств АО УК "ИНВЕСТСТРОЙ"</h2>
+  <table class="aws_table nonborder" id="annuallyTable">
+<tbody>
+<tr>
+	<td>
+		<p>
+			 Документ
+		</p>
+	</td>
+	<td>
+		<p>
+			 Дата и время публикации
+		</p>
+	</td>
+	<td>
+		<p>
+			 Доступно до
+		</p>
+	</td>
+	<td>
+	</td>
+</tr>
+<tr>
+	<td colspan="1">
+		 Собственные средства на 31.05.2023
+	</td>
+	<td colspan="1">
+		16.06.2023 (11.48)
+	</td>
+	<td colspan="1">
+		16.06.2026
+	</td>
+	<td colspan="1">
+ <a href="/uploads/ownfunds/РСС%20на%2031.05.2023.pdf">Скачать</a>
+	</td>
+</tr>
+<tr>
+	<td colspan="1">
+		 Собственные средства на 30.04.2023
+	</td>
+	<td colspan="1">
+		 18.05.2023 (12.17)
+	</td>
+	<td colspan="1">
+		 18.05.2026
+	</td>
+	<td colspan="1">
+ <a href="/uploads/РСС%20на%2030.04.2023.pdf">Скачать</a>&nbsp; &nbsp;
+	</td>
+</tr>
+<tr>
+	<td colspan="1">
+		 Собственные средства на 31.03.2023
+	</td>
+	<td colspan="1">
+		 17.04.2023 (11.15)
+	</td>
+	<td colspan="1">
+		 17.04.2026
+	</td>
+	<td colspan="1">
+ <a href="/uploads/ownfunds/РСС%20на%2031.03.2023.pdf">Скачать</a>
+	</td>
+</tr>
+<tr>
+	<td colspan="1">
+		 Собственные средства на 28.02.2023
+	</td>
+	<td colspan="1">
+		 16.03.2023 (17.20)
+	</td>
+	<td colspan="1">
+		 16.03.2026
+	</td>
+	<td colspan="1">
+ <a href="/uploads/РСС%2028022023.pdf">Скачать</a>
+	</td>
+</tr>
+<tr>
+	<td colspan="1">
+		 Собственные средства на 31.01.2023
+	</td>
+	<td colspan="1">
+		 15.02.2023 (13.27)
+	</td>
+	<td colspan="1">
+		 15.02.2026
+	</td>
+	<td colspan="1">
+ <a href="/uploads/РСС%2031012023.pdf">Скачать</a>
+	</td>
+</tr>
+<tr>
+	<td colspan="1">
+		 Собственные средства на 31.12.2022
+	</td>
+	<td colspan="1">
+		 23.01.2023 (12.00)
+	</td>
+	<td colspan="1">
+		 23.01.2026
+	</td>
+	<td colspan="1">
+ <a href="/uploads/РСС%2031122022.pdf">Скачать</a>
+	</td>
+</tr>
+<tr>
+	<td colspan="1">
+		 Собственные средства на 30.11.2022
+	</td>
+	<td colspan="1">
+		 15.12.2022 (16.07)
+	</td>
+	<td colspan="1">
+		 15.12.2025
+	</td>
+	<td colspan="1">
+ <a href="/uploads/ownfunds/РСС%20на%2030.11.2022.pdf">Скачать</a>
+	</td>
+</tr>
+<tr>
+	<td colspan="1">
+		 Собственные средства на 31.10.2022
+	</td>
+	<td colspan="1">
+		 17.11.2022 (15.49)
+	</td>
+	<td colspan="1">
+		 17.11.2025
+	</td>
+	<td colspan="1">
+ <a href="/uploads/РСС%20на%2031.10.2022.pdf">Скачать</a>
+	</td>
+</tr>
+<tr>
+	<td colspan="1">
+		 Собственные средства на 30.09.2022
+	</td>
+	<td colspan="1">
+		 18.10.2022 (10.00)
+	</td>
+	<td colspan="1">
+		 18.10.2025
+	</td>
+	<td colspan="1">
+ <a href="/uploads/ownfunds/РСС%20УК%2030.09.2022.pdf">
+		Скачать</a>
+	</td>
+</tr>
+<tr>
+	<td colspan="1">
+		 Собственные средства на 31.08.2022
+	</td>
+	<td colspan="1">
+		 14.09.2022 (10.09)
+	</td>
+	<td colspan="1">
+		 14.09.2025
+	</td>
+	<td colspan="1">
+ <a href="/uploads/РСС%20на%2031.08.2022.pdf">Скачать</a>
+	</td>
+</tr>
+<tr>
+	<td colspan="1">
+		 Собственные средства на 31.07.2022&nbsp;
+	</td>
+	<td colspan="1">
+		 15.08.2022 (10.33)
+	</td>
+	<td colspan="1">
+		 15.08.2025
+	</td>
+	<td colspan="1">
+ <a href="/uploads/РСС%20на%2031.07.2022.pdf">Скачать</a>
+	</td>
+</tr>
+<tr>
+	<td colspan="1">
+		 Собственный средства на 30.06.2022
+	</td>
+	<td colspan="1">
+		 15.07.2022 (12.25)
+	</td>
+	<td colspan="1">
+		 15.07.2025
+	</td>
+	<td colspan="1">
+ <a href="/uploads/ownfunds/РСС%20УК%2030.06.2022.pdf">Скачать</a>&nbsp;
+	</td>
+</tr>
+<tr>
+	<td colspan="1">
+		 Собственные средства на 31.05.2022
+	</td>
+	<td colspan="1">
+		 17.06.2022 (13.25)
+	</td>
+	<td colspan="1">
+		 17.06.2025
+	</td>
+	<td colspan="1">
+ <a href="/uploads/ownfunds/РСС%20УК%2031.05.2022.pdf">
+		Скачать</a>
+	</td>
+</tr>
+<tr>
+	<td colspan="1">
+		 Собственные средства на 30.04.2022
+	</td>
+	<td colspan="1">
+		 20.05.2022 (13.49)
+	</td>
+	<td colspan="1">
+		 20.05.2025
+	</td>
+	<td colspan="1">
+ <a href="/uploads/ownfunds/РСС%20УК%2030.04.2022.pdf"> </a><a href="/uploads/ownfunds/РСС%20УК%2030.04.2022.pdf">Скачать</a>
+	</td>
+</tr>
+<tr>
+	<td colspan="1">
+		 Собственные средства на 31.03.2022
+	</td>
+	<td colspan="1">
+		 15.04.2022 (16.35)
+	</td>
+	<td colspan="1">
+		 15.04.2025
+	</td>
+	<td colspan="1">
+ <a href="/uploads/ownfunds/РСС%20УК%2031.03.2022.pdf">Скачать</a>
+	</td>
+</tr>
+<tr>
+	<td colspan="1">
+		 Собственные средства на 28.02.2022
+	</td>
+	<td colspan="1">
+		 16.03.2022 (15.35)
+	</td>
+	<td colspan="1">
+		 16.03.2025
+	</td>
+	<td colspan="1">
+ <a href="/uploads/ownfunds/РСС%20УК%2028.02.2022.pdf"> Скачать</a>
+	</td>
+</tr>
+<tr>
+	<td colspan="1">
+		 Собственные средства на 31.01.2022
+	</td>
+	<td colspan="1">
+		 15.02.2022 (12.20)
+	</td>
+	<td colspan="1">
+		 15.02.2025
+	</td>
+	<td colspan="1">
+ <a href="/uploads/ownfunds/РСС%20УК%2031.01.2022.pdf">Скачать</a>
+	</td>
+</tr>
+<tr>
+	<td colspan="1">
+		 Собственные средства на 31.12.2021
+	</td>
+	<td colspan="1">
+		 24.01.2022 (10.15)
+	</td>
+	<td colspan="1">
+		 24.01.2025
+	</td>
+	<td colspan="1">
+ <a href="/uploads/ownfunds/РСС%20УК%2031.12.2021%20сайт.pdf">Скачать</a>&nbsp;
+	</td>
+</tr>
+<tr>
+	<td colspan="1">
+		 Собственные средства на 30.11.2021
+	</td>
+	<td colspan="1">
+		 15.12.2021 (17.00)
+	</td>
+	<td colspan="1">
+		 15.12.2024
+	</td>
+	<td colspan="1">
+ <a href="/uploads/ownfunds/РСС%20УК%2030.11.2021%20сайт.pdf">Скачать</a>
+	</td>
+</tr>
+<tr>
+	<td colspan="1">
+		 Собственные средства на 31.10.2021
+	</td>
+	<td colspan="1">
+		 18.11.2021 (17.07)
+	</td>
+	<td colspan="1">
+		 18.11.2024
+	</td>
+	<td colspan="1">
+ <a href="/uploads/ownfunds/РСС%20УК%2031.10.2021%20сайт.pdf">Скачать</a><a href=""></a>
+	</td>
+</tr>
+<tr>
+	<td colspan="1">
+		 Собственные средства на 30.09.2021
+	</td>
+	<td colspan="1">
+		 15.10.2021 (10.21)
+	</td>
+	<td colspan="1">
+		 15.10.2024
+	</td>
+	<td colspan="1">
+ <a href="/uploads/ownfunds/РСС%20УК%2030.09.2021%20сайт.pdf">Скачать</a>
+	</td>
+</tr>
+<tr>
+	<td colspan="1">
+		 Собственные средства на 31.08.2021
+	</td>
+	<td colspan="1">
+		 14.09.2021 (18.03)
+	</td>
+	<td colspan="1">
+		 14.10.2022
+	</td>
+	<td colspan="1">
+ <a href="/uploads/ownfunds/РСС%20УК%20август%2014.09.pdf">Скачать</a>
+	</td>
+</tr>
+</tbody>
+</table>
+ <br>
+ <br>
+ <br>
+ <a href="/disclosure/reports/">Отчетность за текущий год</a>								 </div>
+
+            </div>
+                  <div class="clr"></div>
+        </div>      
+    <div class="jr_module bott">
+                        <div class="jr_mod_full">
+                
+            </div>
+                  <div class="clr"></div>
+        </div>      
+  </div>
+  <div id="footer">
+    <div class="footer_top">  
+       <div class="footer_bg">      
+        <div class="jr_module">
+                                <div class="jr_mod_full">
+                    
+                </div>
+                          <div class="clr"></div>
+            </div>
+      </div>
+    </div>  
+    <div class="footer_bottom_bg">
+      <div class="footer_bottom">
+        <div class="footermenu">            
+          
+              </div>
+        <div class="footer_rt">
+            <div class="footer_rtleft">
+          <span>
+            © 2016 <b>Управляющая Компания "Инвестстрой"</b>
+            <br>            
+            620026, г. Екатеринбург, ул. Белинского, стр. 39, кабинет 3007<br>
+Часы работы: пн-пт с 9.00 до 18.00, сб-вс – выходной<br>
+Тел./ факс: (343) 359-44-33,<br>
+(343) 371-90-11, (343) 359-44-34
+            
+              </span>
+          </div>  
+            <div class="footer_rtright">
+              <img src="/bitrix/templates/investural/images/logo.png"><br><a class="logo" href="http://www.it-ip.ru/" target="_blank">Создание сайта<br>«Интеллект-Партнер»</a>
+          </div>  
+        </div>
+      </div>      
+    </div>
+  </div>
+    
+<div id="system-message-container">
+	</div>
+
+

@@ -1,0 +1,405 @@
+
+<div id="main">
+	<div id="header">
+    <div id="logo">
+        <a href="/" style="font-size: 20px;">
+		    <img src="https://www.mctrust.ru/wp-content/themes/mctrust/assets/images/logo.png">
+		</a>
+    </div>
+    <div class="logo-text">
+        <a href="/" style="font-size: 20px;">
+		    <img src="https://www.mctrust.ru/wp-content/themes/mctrust/assets/images/logo-text.gif" alt="">
+		</a>
+    </div>
+    <div class="right-panel">
+        <div class="number">+7 495 223 70 22</div>
+        <div class="find-panel" style="float: left;">
+            <br>
+            <form method="get" action="/">
+                <input type="text" id="search" name="s" value="">
+                <input type="submit" id="button" value="">
+            </form>
+        </div>
+    </div>
+    <div id="header-menu">
+	    <ul id="menu-glavnoe-menyu" class="nested_set_list"><li id="menu-item-13" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-13"><a href="/">Главная</a></li>
+<li id="menu-item-47" class="menu-item menu-item-type-post_type menu-item-object-page current-page-ancestor current-page-parent menu-item-47"><a href="https://www.mctrust.ru/about/">О компании</a></li>
+<li id="menu-item-49" class="menu-item menu-item-type-post_type menu-item-object-page current-menu-item page_item page-item-22 current_page_item menu-item-49"><a href="https://www.mctrust.ru/about/raskrytie-informacii/" aria-current="page">Раскрытие информации</a></li>
+<li id="menu-item-87" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-87"><a href="https://www.mctrust.ru/funds/">Наши фонды</a></li>
+<li id="menu-item-48" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-48"><a href="https://www.mctrust.ru/about/corprate/">Корпоративным клиентам</a></li>
+</ul>        <div class="header-menu-left"></div>
+    </div>
+</div>	<div id="about_info">
+	    <img class="header-img" src="https://www.mctrust.ru/wp-content/uploads/2020/03/about.jpg">
+	</div>
+<div>
+		    <div class="left-memu">
+	        <ul class="left-menu">
+		        	          		<li>
+	          			<a href="https://www.mctrust.ru/about/corprate/">Корпоративным клиентам</a></li>
+	            	          		<li>
+	          			<a class="active" href="https://www.mctrust.ru/about/raskrytie-informacii/">Раскрытие информации</a></li>
+	            	          		<li>
+	          			<a href="https://www.mctrust.ru/about/novosti-kompanii/">Новости компании</a></li>
+	            	          		<li>
+	          			<a href="https://www.mctrust.ru/about/contacts/">Контакты</a></li>
+	            	          		<li>
+	          			<a href="https://www.mctrust.ru/about/carrer/">Карьера</a></li>
+	            	          		<li>
+	          			<a href="https://www.mctrust.ru/about/faq/">Вопросы и ответы</a></li>
+	            	        </ul>
+	    </div>
+        <div class="question-content typography">
+	    <h1 class="part-title">Раскрытие информации</h1>
+	    <div class="single-content">
+		    
+<h2 class="wp-block-heading" id="расчет-размера-собственных-средств">Расчет размера собственных средств</h2>
+
+
+<section class="guttenberg__reports-compact">
+			<h3 class="guttenberg__reports-title">Расчет размера собственных средств за 2023 г.</h3>
+		
+	<div class="guttenberg__reports-dropdown">
+		<p>
+							</p><div class="block__report-item">
+					<a href="https://www.mctrust.ru/wp-content/uploads/2023/06/РСС-на-31.05.2023.pdf" target="_blank">
+						Расчет собственных средств на 31 мая 2023 года													(15.06.2023, 15:34; срок хранения: *15.05.2026)
+											</a>
+											<br>
+						(в формате .pdf)
+										<br>
+				</div>
+							<div class="block__report-item">
+					<a href="https://www.mctrust.ru/wp-content/uploads/2023/05/РСС-на-30.04.2023-2.pdf" target="_blank">
+						Расчет собственных средств на 30 апреля 2023 года													(17.05.2023, 12:53; срок хранения: 17.05.2026)
+											</a>
+											<br>
+						(в формате .pdf)
+										<br>
+				</div>
+							<div class="block__report-item">
+					<a href="https://www.mctrust.ru/wp-content/uploads/2023/04/РСС-2023.03.31.pdf" target="_blank">
+						Расчет собственных средств на 31 марта 2023 г.													(14.04.2023, 17:45; срок хранения: 14.04.2026)
+											</a>
+											<br>
+						(в формате .pdf)
+										<br>
+				</div>
+							<div class="block__report-item">
+					<a href="https://www.mctrust.ru/wp-content/uploads/2023/03/РСС-2023.02.28.pdf" target="_blank">
+						Расчет собственных средств на 28 февраля 2023 г.													(15.03.2023, 18:00; срок хранения: 15.03.2026)
+											</a>
+											<br>
+						(в формате .pdf)
+										<br>
+				</div>
+							<div class="block__report-item">
+					<a href="https://www.mctrust.ru/wp-content/uploads/2023/02/РСС-2023.01.31.pdf" target="_blank">
+						Расчет собственных средств на 31 января 2023 г.													(14.02.2023, 14:20; срок хранения: 14.02.2026)
+											</a>
+											<br>
+						(в формате .pdf)
+										<br>
+				</div>
+					<p></p>
+	</div>
+</section>
+
+<section class="guttenberg__reports-compact">
+			<h3 class="guttenberg__reports-title">Расчет размера собственных средств за 2022 г.</h3>
+		
+	<div class="guttenberg__reports-dropdown">
+		<p>
+							</p><div class="block__report-item">
+					<a href="https://www.mctrust.ru/wp-content/uploads/2023/01/РСС-2022.12.31.pdf" target="_blank">
+						Расчет собственных средств на 31 декабря 2022 г.													(20.01.2023, 19:00; срок хранения: 20.01.2026)
+											</a>
+											<br>
+						(в формате Adobe Acrobat)
+										<br>
+				</div>
+							<div class="block__report-item">
+					<a href="https://www.mctrust.ru/wp-content/uploads/2022/12/РСС-2022.11.30.pdf" target="_blank">
+						Расчет собственных средств на 30 ноября 2022 г.													(14.12.2022, 18:42; срок хранения: 14.12.2025)
+											</a>
+											<br>
+						(в формате Adobe Acrobat)
+										<br>
+				</div>
+							<div class="block__report-item">
+					<a href="https://www.mctrust.ru/wp-content/uploads/2023/04/РСС-2022.10.31.pdf" target="_blank">
+						Расчет собственных средств на 31 октября 2022 г.													(30.11.2022, 15:00; срок хранения: 30.11.2025)
+											</a>
+											<br>
+						(в формате Adobe Acrobat)
+										<br>
+				</div>
+							<div class="block__report-item">
+					<a href="https://www.mctrust.ru/wp-content/uploads/2022/10/РСС-2022.09.30.pdf" target="_blank">
+						Расчет собственных средств на 30 сентября 2022 г.													(31.10.2022, 15:57; срок хранения: 15.10.2025)
+											</a>
+											<br>
+						(в формате Adobe Acrobat)
+										<br>
+				</div>
+							<div class="block__report-item">
+					<a href="https://www.mctrust.ru/wp-content/uploads/2022/09/РСС-2022.08.31.pdf" target="_blank">
+						Расчет собственных средств на 31 августа 2022 г.													(15.09.2022, 10:26; срок хранения: 15.09.2025)
+											</a>
+											<br>
+						(в формате Adobe Acrobat)
+										<br>
+				</div>
+							<div class="block__report-item">
+					<a href="https://www.mctrust.ru/wp-content/uploads/2022/08/РСС-2022.07.31.pdf" target="_blank">
+						Расчет собственных средств на 31 июля 2022 г.													(15.08.2022, 10:42; срок хранения: 12.08.2025)
+											</a>
+											<br>
+						(в формате Adobe Acrobat)
+										<br>
+				</div>
+							<div class="block__report-item">
+					<a href="https://www.mctrust.ru/wp-content/uploads/2022/07/РСС-2022.06.30.pdf" target="_blank">
+						Расчет собственных средств на 30 июня 2022 г.													(18.07.2022, 12:10; срок хранения: 18.07.2025)
+											</a>
+											<br>
+						(в формате Adobe Acrobat)
+										<br>
+				</div>
+							<div class="block__report-item">
+					<a href="https://www.mctrust.ru/wp-content/uploads/2022/06/РСС-2022.05.31.pdf" target="_blank">
+						Расчет собственных средств на 31 мая 2022 г.													(20.06.2022, 18:55; срок хранения: 20.06.2025)
+											</a>
+											<br>
+						(в формате Adobe Acrobat)
+										<br>
+				</div>
+							<div class="block__report-item">
+					<a href="https://www.mctrust.ru/wp-content/uploads/2022/05/РСС-2022.04.30.pdf" target="_blank">
+						Расчет собственных средств на 30 апреля 2022 г.													(17.05.2022, 17:39; срок хранения: 17.05.2025)
+											</a>
+											<br>
+						(в формате Adobe Acrobat)
+										<br>
+				</div>
+							<div class="block__report-item">
+					<a href="https://www.mctrust.ru/wp-content/uploads/2022/04/РСС-2022.03.31.pdf" target="_blank">
+						Расчет собственных средств на 31 марта 2022 г.													(15.04.2022, 14:21; срок хранения: 15.04.2025)
+											</a>
+											<br>
+						(в формате Adobe Acrobat)
+										<br>
+				</div>
+							<div class="block__report-item">
+					<a href="https://www.mctrust.ru/wp-content/uploads/2022/03/РСС-2022.02.28.pdf" target="_blank">
+						Расчет собственных средств на 28 февраля 2022 г.													(16.03.2022, 17:36; срок хранения: 16.03.2025)
+											</a>
+											<br>
+						(в формате Adobe Acrobat)
+										<br>
+				</div>
+							<div class="block__report-item">
+					<a href="https://www.mctrust.ru/wp-content/uploads/2022/02/РСС-2022.01.31.pdf" target="_blank">
+						Расчет собственных средств на 31 января 2022 г.													(14.02.2022, 12:30; срок хранения: 14.02.2025)
+											</a>
+											<br>
+						(в формате Adobe Acrobat)
+										<br>
+				</div>
+					<p></p>
+	</div>
+</section>
+
+<section class="guttenberg__reports-compact">
+			<h3 class="guttenberg__reports-title">Расчет размера собственных средств за 2021 г.</h3>
+		
+	<div class="guttenberg__reports-dropdown">
+		<p>
+							</p><div class="block__report-item">
+					<a href="https://www.mctrust.ru/wp-content/uploads/2022/01/РСС-2021.12.31.pdf" target="_blank">
+						Расчет собственных средств на 31 декабря 2021 г.													(24.01.2022, 11:49; срок хранения: 24.01.2025)
+											</a>
+											<br>
+						(в формате Adobe Acrobat)
+										<br>
+				</div>
+							<div class="block__report-item">
+					<a href="https://www.mctrust.ru/wp-content/uploads/2021/12/РСС-2021.11.30.pdf" target="_blank">
+						Расчет собственных средств на 30 ноября 2021 г.													(15.12.2021, 10:39; срок хранения: 15.12.2024)
+											</a>
+											<br>
+						(в формате Adobe Acrobat)
+										<br>
+				</div>
+							<div class="block__report-item">
+					<a href="https://www.mctrust.ru/wp-content/uploads/2021/11/РСС-2021.10.31.pdf" target="_blank">
+						Расчет собственных средств на 31 октября 2021 г.													(16.11.2021, 18:29; срок хранения: 16.11.2024)
+											</a>
+											<br>
+						(в формате Adobe Acrobat)
+										<br>
+				</div>
+							<div class="block__report-item">
+					<a href="https://www.mctrust.ru/wp-content/uploads/2021/10/РСС-2021.09.30.pdf" target="_blank">
+						Расчет собственных средств на 30 сентября 2021 г.													(15.10.2021, 10:01; срок хранения: 15.10.2024)
+											</a>
+											<br>
+						(в формате Adobe Acrobat)
+										<br>
+				</div>
+							<div class="block__report-item">
+					<a href="https://www.mctrust.ru/wp-content/uploads/2022/03/РСС-2021.08.31_коррекция.pdf" target="_blank">
+						Расчет собственных средств на 31 августа 2021 г. (коррекция)													(15.03.2022, 10:30; срок хранения: 15.03.2025)
+											</a>
+											<br>
+						(в формате Adobe Acrobat)
+										<br>
+				</div>
+							<div class="block__report-item">
+					<a href="https://www.mctrust.ru/wp-content/uploads/2022/03/РСС-2021.07.31_коррекция.pdf" target="_blank">
+						Расчет собственных средств на 30 июля 2021 г. (коррекция)													(15.03.2022, 10:30; срок хранения: 15.03.2025)
+											</a>
+											<br>
+						(в формате Adobe Acrobat)
+										<br>
+				</div>
+							<div class="block__report-item">
+					<a href="https://www.mctrust.ru/wp-content/uploads/2022/03/РСС_2021.06.30_коррекция.pdf" target="_blank">
+						Расчет собственных средств на 30 июня 2021 г. (коррекция)													(15.03.2022, 10:30; срок хранения: 15.03.2025)
+											</a>
+											<br>
+						(в формате Adobe Acrobat)
+										<br>
+				</div>
+							<div class="block__report-item">
+					<a href="https://www.mctrust.ru/wp-content/uploads/2022/03/РСС_2021.05.31_коррекция.pdf" target="_blank">
+						Расчет собственных средств на 31 мая 2021 г. (коррекция)													(15.03.2022, 10:30; срок хранения: 15.03.2025)
+											</a>
+											<br>
+						(в формате Adobe Acrobat)
+										<br>
+				</div>
+							<div class="block__report-item">
+					<a href="https://www.mctrust.ru/wp-content/uploads/2022/03/РСС_2021.04.30_коррекция.pdf" target="_blank">
+						Расчет собственных средств на 30 апреля 2021 г. (коррекция)													(15.03.2022, 10:30; срок хранения: 15.03.2025)
+											</a>
+											<br>
+						(в формате Adobe Acrobat)
+										<br>
+				</div>
+					<p></p>
+	</div>
+</section>
+
+
+<h2 class="wp-block-heading" id="финансовая-отчетность">Финансовая отчетность</h2>
+
+
+<section class="guttenberg__reports-compact">
+			<h3 class="guttenberg__reports-title">Отчетность компании за 2021-2023 г.г.</h3>
+		
+	<div class="guttenberg__reports-dropdown">
+		<p>
+							</p><div class="block__report-item">
+					<a href="https://www.mctrust.ru/wp-content/uploads/2023/04/Аудиторское-заключение-по-БФО-за-2022-год.pdf" target="_blank">
+						Аудиторское заключение в отношении бухгалтерской финансовой отчётности за 2022 год													(26.04.2023, 10:44; срок хранения: 26.04.2026)
+											</a>
+											<br>
+						(в формате Adobe Acrobat)
+										<br>
+				</div>
+							<div class="block__report-item">
+					<a href="https://www.mctrust.ru/wp-content/uploads/2023/04/Бухгалтерская-финансовая-отчётность-за-2022-год.xlsx" target="_blank">
+						Бухгалтерская финансовая отчетность за 2022 год													(26.04.2023, 10:43; срок хранения: до 26.04.2026)
+											</a>
+											<br>
+						(в формате .xlsx)
+										<br>
+				</div>
+							<div class="block__report-item">
+					<a href="https://www.mctrust.ru/wp-content/uploads/2023/04/2023-03-БФО-УК.pdf" target="_blank">
+						Промежуточная бухгалтерская финансовая отчетность за 1 квартал 2023 г.													(19.04.2022, 14:40; срок хранения: 19.04.2025)
+											</a>
+											<br>
+						(в формате Adobe Acrobat)
+										<br>
+				</div>
+							<div class="block__report-item">
+					<a href="https://www.mctrust.ru/wp-content/uploads/2022/10/Бух-баланс-на-30.09.2022-г..pdf" target="_blank">
+						Промежуточная бухгалтерская финансовая отчетность за 9 месяцев 2022 г.													(31.10.2022, 16:05; срок хранения: 31.10.2025)
+											</a>
+											<br>
+						(в формате Adobe Acrobat)
+										<br>
+				</div>
+							<div class="block__report-item">
+					<a href="https://www.mctrust.ru/wp-content/uploads/2022/10/Отчет-о-финансовых-результатах-за-9-месяцев-2022-г..pdf" target="_blank">
+						Отчет о финансовых результатах за 9 месяцев 2022г.													(31.10.2022, 16:03; срок хранения: 31.10.2025)
+											</a>
+											<br>
+						(в формате Adobe Acrobat)
+										<br>
+				</div>
+							<div class="block__report-item">
+					<a href="https://www.mctrust.ru/wp-content/uploads/2022/08/2022-1-полугодие-БФО-УК.pdf" target="_blank">
+						Промежуточная бухгалтерская финансовая отчетность за 1 полугодие 2022 г.													(01.08.2022, 10:51; срок хранения: 01.08.2025)
+											</a>
+											<br>
+						(в формате Adobe Acrobat)
+										<br>
+				</div>
+							<div class="block__report-item">
+					<a href="https://www.mctrust.ru/wp-content/uploads/2022/06/2021-БФО-УК.pdf" target="_blank">
+						Бухгалтерская финансовая отчетность за 2021 г.													(01.02.2022, 15:58; срок хранения: 01.02.2025)
+											</a>
+											<br>
+						(в формате Adobe Acrobat)
+										<br>
+				</div>
+							<div class="block__report-item">
+					<a href="https://www.mctrust.ru/wp-content/uploads/2022/06/2021.09-Промежуточная-БФО-УК_3кв.pdf" target="_blank">
+						Промежуточная бухгалтерская финансовая отчетность за 9 месяцев 2021 г.													(29.10.2021, 14:15; срок хранения: 29.10.2024)
+											</a>
+											<br>
+						(в формате Adobe Acrobat)
+										<br>
+				</div>
+					<p></p>
+	</div>
+</section>
+
+
+<p></p>
+		</div>
+    </div>
+    <div class="single-contacts" id="recommendation_block">
+        <h2 class="part-title nchg">Контакты</h2>
+        <div class="contacts-sreet">Москва , Столешников переулок, дом 14, 2-й этаж</div>
+        <div class="contacts-time">
+	        Понедельник - Пятница<br>
+	        9.30 - 18.30
+	    </div>
+		<div class="contacts-qr">
+			<img src="https://www.mctrust.ru/wp-content/themes/mctrust/assets/images/mctrust-qr.jpg">
+		</div>
+    </div>
+</div>
+<div class="bottom-info-block">
+    <div class="under-content">
+        <span class="number">+7 495 223 70 22</span>
+        <span class="under-text">
+        	Остались вопросы - позвоните или <a href="mailto:info@mctrust.ru">напишите нам</a>, мы с удовольствием Вам поможем.
+        </span>
+    </div>
+</div></div> <!-- /#main -->
+<div class="clear"></div>
+<div class="some-text">
+   <div>
+     Стоимость инвестиционных паев может увеличиваться или уменьшаться, результаты инвестирования в прошлом не определяют доходы в будущем. Государство не гарантирует доходность инвестиций в паевые инвестиционные фонды. Прежде, чем приобрести инвестиционные паи, внимательно ознакомьтесь с Правилами доверительного управления паевого инвестиционного фонда. Лицензия на осуществление деятельности по управлению инвестиционными фондами, паевыми инвестиционными фондами и негосударственными пенсионными фондами № 21-000-1-00748 от «09» декабря 2010 г. © Меркури Кэпитал Траст 2010-2014. 
+   </div>
+</div>
+<!-- Yandex.Metrika counter --><script type="text/javascript"> (function (d, w, c) { (w[c] = w[c] || []).push(function() { try { w.yaCounter31068436 = new Ya.Metrika({ id:31068436, clickmap:true, trackLinks:true, accurateTrackBounce:true, webvisor:true }); } catch(e) { } }); var n = d.getElementsByTagName("script")[0], s = d.createElement("script"), f = function () { n.parentNode.insertBefore(s, n); }; s.type = "text/javascript"; s.async = true; s.src = "https://mc.yandex.ru/metrika/watch.js"; if (w.opera == "[object Opera]") { d.addEventListener("DOMContentLoaded", f, false); } else { f(); } })(document, window, "yandex_metrika_callbacks");</script><noscript><div><img src="https://mc.yandex.ru/watch/31068436" style="position:absolute; left:-9999px;" alt="" /></div></noscript><!-- /Yandex.Metrika counter -->
+
+
+
+<script defer="" src="https://www.mctrust.ru/wp-content/cache/autoptimize/js/autoptimize_6d41facda67547668263040837715f97.js"></script>

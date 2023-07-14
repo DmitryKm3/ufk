@@ -1,0 +1,3937 @@
+
+
+<!-- Google Tag Manager (noscript) -->
+<noscript><iframe src="https://www.googletagmanager.com/ns.html?id=GTM-PWRP2CV"
+height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
+<!-- End Google Tag Manager (noscript) -->
+
+<header class="header">
+    <nav class="navbar navbar-expand-lg">
+        <div class="container">
+            <a class="navbar-brand" href="/">
+    <img src="/local/templates/.default/markup/img/logo.svg" alt="Финансовый брокер «Август»" title="Финансовый брокер «Август»" class="img-fluid">
+</a>
+
+            <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbars">
+                <svg width="32" height="16" viewBox="0 0 32 16" fill="none" xmlns="http://www.w3.org/2000/svg">
+                    <rect width="32" height="2" fill="#333"></rect>
+                    <rect y="7" width="32" height="2" fill="#333"></rect>
+                    <rect y="14" width="32" height="2" fill="#333"></rect>
+                </svg>
+            </button>
+            <div class="collapse navbar-collapse" id="navbars">
+
+
+                <div id="bxdynamic_Jfdxnl_start" style="display:none"></div>    <ul class="navbar-nav mr-auto">
+                                    <li class="nav-item dropdown">
+                    <a class="nav-link dropdown-toggle" href="/strategii/" data-toggle="dropdown">
+                        Стратегии                    </a>
+                    <div class="dropdown-menu">
+                                                                                    <a class="dropdown-item" href="/strategii/triple-a/">
+                                    Стандартная стратегия «Triple A»                                </a>
+                                                                                                                <div class="dropdown-item">
+                                    <a href="/strategii/gosdolg/">
+                                        Стандартная стратегия «ГосДолг MF»                                    </a>
+                                    <div class="dropdown-menu submenu">
+                                                                                                                                    <a class="dropdown-item" href="/strategii/gosdolg/sf/">
+                                                    Стандартная стратегия «ГосДолг SF»                                                </a>
+                                                                                                                        </div>
+                                </div>
+                                                                                                                <a class="dropdown-item" href="/strategii/dinamicheskaya/">
+                                    Стандартная стратегия «Динамическая»                                </a>
+                                                                                                                <div class="dropdown-item">
+                                    <a href="/strategii/status-gossluzhashchim/">
+                                        Стандартная стратегия «Статус»                                    </a>
+                                    <div class="dropdown-menu submenu">
+                                                                                                                                    <a class="dropdown-item" href="/strategii/status-gossluzhashchim/status-5/">
+                                                    Стандартная стратегия «Статус 5»                                                </a>
+                                                                                                                                                                                <a class="dropdown-item" href="/strategii/status-gossluzhashchim/status-10/">
+                                                    Стандартная стратегия «Статус 10»                                                </a>
+                                                                                                                        </div>
+                                </div>
+                                                                                                                <div class="dropdown-item">
+                                    <a href="/strategii/investing/">
+                                        Стандартная стратегия «Инвестинг»                                    </a>
+                                    <div class="dropdown-menu submenu">
+                                                                                                                                    <a class="dropdown-item" href="/strategii/investing/investing-5/">
+                                                    Стандартная стратегия «Инвестинг 5»                                                </a>
+                                                                                                                                                                                <a class="dropdown-item" href="/strategii/investing/investing-10/">
+                                                    Стандартная стратегия «Инвестинг 10»                                                </a>
+                                                                                                                        </div>
+                                </div>
+                                                                                                                <a class="dropdown-item" href="/strategii/rublyevyy-rezerv/">
+                                    Стандартная стратегия «Рублёвый резерв»                                </a>
+                                                                                                                <a class="dropdown-item" href="/strategii/valyutnyy-rezerv/">
+                                    Стандартная стратегия «Валютный резерв»                                </a>
+                                                                                                                <div class="dropdown-item">
+                                    <a href="/strategii/standartnaya-strategiya-atrust/">
+                                        Стандартная стратегия «ATRUST»                                    </a>
+                                    <div class="dropdown-menu submenu">
+                                                                                                                                    <a class="dropdown-item" href="/strategii/standartnaya-strategiya-atrust/standartnaya-strategiya-atrust-10/">
+                                                    Стандартная стратегия "ATRUST 10"                                                </a>
+                                                                                                                        </div>
+                                </div>
+                                                                        </div>
+                </li>
+                                                <li class="nav-item dropdown">
+                    <a class="nav-link dropdown-toggle" href="/investitsii/" data-toggle="dropdown">
+                        Инвестиции                    </a>
+                    <div class="dropdown-menu">
+                                                                                    <div class="dropdown-item">
+                                    <a href="/doveritelnoe-upravlenie/">
+                                        Доверительное управление                                    </a>
+                                    <div class="dropdown-menu submenu">
+                                                                                                                                    <a class="dropdown-item" href="/doveritelnoe-upravlenie/du-dengami/">
+                                                    ДУ деньгами                                                </a>
+                                                                                                                                                                                <a class="dropdown-item" href="/doveritelnoe-upravlenie/du-kapitalom/">
+                                                    ДУ капиталом                                                </a>
+                                                                                                                                                                                <a class="dropdown-item" href="/doveritelnoe-upravlenie/du-aktsiyami-i-tsennymi-bumagami/">
+                                                    ДУ акциями и ценными бумагами                                                </a>
+                                                                                                                                                                                <a class="dropdown-item" href="/doveritelnoe-upravlenie/du-aktivami-fonda/">
+                                                    Стоимость (тарифы)                                                </a>
+                                                                                                                        </div>
+                                </div>
+                                                                                                                <div class="dropdown-item">
+                                    <a href="/investitsii/otkryt-iis/">
+                                         Открыть ИИС                                    </a>
+                                    <div class="dropdown-menu submenu">
+                                                                                                                                    <a class="dropdown-item" href="/investitsii/otkryt-iis/gotovye-strategii-iis/">
+                                                    Готовые стратегии ИИС                                                </a>
+                                                                                                                                                                                <a class="dropdown-item" href="/investitsii/otkryt-iis/otkrytie-iis/">
+                                                    Открытие ИИС                                                </a>
+                                                                                                                                                                                <a class="dropdown-item" href="/investitsii/otkryt-iis/zakrytie-iis/">
+                                                    Закрытие ИИС                                                </a>
+                                                                                                                                                                                <a class="dropdown-item" href="/investitsii/otkryt-iis/popolnenie-iis/">
+                                                    Пополнение ИИС                                                </a>
+                                                                                                                        </div>
+                                </div>
+                                                                                                                <div class="dropdown-item">
+                                    <a href="/investitsii/tseli/">
+                                        Цели инвестирования                                    </a>
+                                    <div class="dropdown-menu submenu">
+                                                                                                                                    <a class="dropdown-item" href="/investitsii/tseli/nakopleniya-na-pensiyu/">
+                                                    Накопления на пенсию                                                </a>
+                                                                                                                                                                                <a class="dropdown-item" href="/investitsii/tseli/nakopleniya-na-obrazovanie-detyam/">
+                                                    Накопления на образование детям                                                </a>
+                                                                                                                                                                                <a class="dropdown-item" href="/investitsii/tseli/nakopleniya-na-nedvizhimost/">
+                                                    Накопления на недвижимость                                                </a>
+                                                                                                                                                                                <a class="dropdown-item" href="/investitsii/tseli/nakopleniya-na-zdorove/">
+                                                    Накопления на здоровье                                                </a>
+                                                                                                                                                                                <a class="dropdown-item" href="/investitsii/tseli/priumnozhit-nakopleniya/">
+                                                    Приумножить накопления                                                </a>
+                                                                                                                                                                                <a class="dropdown-item" href="/investitsii/tseli/sokhranenie-kapitala/">
+                                                    Сохранение капитала                                                </a>
+                                                                                                                        </div>
+                                </div>
+                                                                                                                <div class="dropdown-item">
+                                    <a href="/investitsii/v-aktsii/">
+                                        Инвестиции в акции                                    </a>
+                                    <div class="dropdown-menu submenu">
+                                                                                                                                    <a class="dropdown-item" href="/investitsii/v-aktsii/v-rossiyskie/">
+                                                    Инвестиции в российские акции                                                </a>
+                                                                                                                                                                                <a class="dropdown-item" href="/investitsii/v-aktsii/v-zarubezhnye/">
+                                                    Инвестиции в зарубежные акции                                                </a>
+                                                                                                                                                                                <a class="dropdown-item" href="/investitsii/v-aktsii/v-amerikanskie/">
+                                                    Инвестиции в американские акции                                                </a>
+                                                                                                                        </div>
+                                </div>
+                                                                                                                <a class="dropdown-item" href="/investitsii/v-etf/">
+                                    Инвестиции в ETF                                </a>
+                                                                                                                <a class="dropdown-item" href="/investitsii/v-fondovyy-rynok/">
+                                    Инвестиции в фондовый рынок                                </a>
+                                                                        </div>
+                </li>
+                                                <li class="nav-item dropdown">
+                    <a class="nav-link dropdown-toggle" href="/uslugi/" data-toggle="dropdown">
+                        Услуги                    </a>
+                    <div class="dropdown-menu">
+                                                                                    <a class="dropdown-item" href="/uslugi/ocenka-portfelya/">
+                                     Оценка портфеля                                </a>
+                                                                                                                <a class="dropdown-item" href="/uslugi/yuridicheskoe-soprovozhdenie/">
+                                     Юридическое сопровождение                                </a>
+                                                                                                                <a class="dropdown-item" href="/uslugi/kvalifikaciya-investorov/">
+                                     Квалификация инвесторов                                </a>
+                                                                                                                <div class="dropdown-item">
+                                    <a href="/uslugi/upravlenie-lichnymi-finansami/">
+                                        Услуги управления личными финансами                                    </a>
+                                    <div class="dropdown-menu submenu">
+                                                                                                                                    <a class="dropdown-item" href="/uslugi/upravlenie-lichnymi-finansami/finansovyy-konserzh/">
+                                                    Финансовый консьерж                                                </a>
+                                                                                                                                                                                <a class="dropdown-item" href="/uslugi/upravlenie-lichnymi-finansami/nalogovoe-soprovozhdenie/">
+                                                    Налоговое сопровождение                                                </a>
+                                                                                                                        </div>
+                                </div>
+                                                                        </div>
+                </li>
+                                                <li class="nav-item">
+                    <a class="nav-link" href="/stati/">
+                        Блог                    </a>
+                </li>
+                                                <li class="nav-item dropdown">
+                    <a class="nav-link dropdown-toggle" href="/o-kompanii/" data-toggle="dropdown">
+                        О компании                    </a>
+                    <div class="dropdown-menu">
+                                                                                    <a class="dropdown-item" href="/o-kompanii/">
+                                    О компании                                </a>
+                                                                                                                <a class="dropdown-item" href="/o-kompanii/raskrytie-informatsii/">
+                                    Раскрытие информации                                </a>
+                                                                                                                <a class="dropdown-item" href="/o-kompanii/komanda/">
+                                    Команда                                </a>
+                                                                                                                <a class="dropdown-item" href="/news/">
+                                    Новости                                </a>
+                                                                        </div>
+                </li>
+                                                <li class="nav-item">
+                    <a class="nav-link" href="/kontakty/">
+                        Контакты                    </a>
+                </li>
+                        </ul>
+<div id="bxdynamic_Jfdxnl_end" style="display:none"></div>
+                <div class="right-header">
+                    
+<a href="tel:+74955653416">(495) 565–34–16</a>                    
+<a href="javascript:void(0);" class="btn btn-default" data-toggle="modal" data-target="#manager">Написать менеджеру</a>                </div>
+            </div>
+        </div>
+    </nav>
+</header>
+
+
+<main role="main">
+
+    
+        <div class="breadcrumbs ">
+        <div class="container">
+            <div itemscope="" itemtype="https://schema.org/BreadcrumbList"><div class="breadcrumb-item" itemprop="itemListElement" itemscope="" itemtype="https://schema.org/ListItem">
+			<a href="/" itemprop="item">
+                                <span itemprop="name">Главная</span>
+                            </a><meta itemprop="position" content="0"></div><div class="breadcrumb-item" itemprop="itemListElement" itemscope="" itemtype="https://schema.org/ListItem">
+			<a href="/o-kompanii/" itemprop="item">
+                                <span itemprop="name">О компании</span>
+                            </a><meta itemprop="position" content="1"></div><div class="breadcrumb-item" itemprop="itemListElement" itemscope="" itemtype="https://schema.org/ListItem">
+			<a class="last-bread-elem" href="/o-kompanii/raskrytie-informatsii/" itemprop="item">
+			                    <span itemprop="name">Раскрытие информации</span>
+			                </a><meta itemprop="position" content="2"></div></div>
+        </div>
+    </div>    
+    <div class="section news-block">
+        <div class="container">
+
+                <h1 class="heading">Раскрытие информации</h1>
+			
+<style>
+.file-section {
+	margin-bottom: 50px;
+}
+.file-wrapper {
+	margin-bottom: 30px;
+}
+.prev-doc {
+	display: flex;
+	align-items: center;
+}
+.file-wrapper .image img {
+	max-width: 50px;
+	margin-right: 15px;
+}
+.file-wrapper .file-name {
+	font-size: 20px;
+	line-height: 1.2;
+	font-weight: 500;
+	color: #2B74B9;
+	display: block;
+}
+.file-wrapper .file-link {
+	display: flex;
+	align-items: center;
+	transition: .2s;
+	text-decoration: none!important;
+}
+.file-wrapper .file-link:hover .file-name {
+	text-decoration: none;
+	color: #8c9d89;
+}
+.file-info {
+	font-size: 12px;
+	color: #666;
+	line-height: 1.4;
+}
+.file-old {
+	display: block;
+	margin-left: 25px;
+	font-weight: 500;
+	color: #2B74B9;
+	transition: .2s;
+}
+.file-old:hover {
+	text-decoration: none;
+	color: #8c9d89;
+}
+</style>
+			
+
+
+		
+			<div class="file-section">
+		<div class="h3" id="125">Расчет собственных средств</div>	
+
+		   
+						
+
+			<div class="file-wrapper">
+				<a href="/upload/iblock/7c2/twby0z6fyzm0pbfj8airz9irxqunesd0.pdf" target="_blank" class="file-link">
+					<div class="image">
+						<img src="/upload/resize_cache/webp/local/templates/main/images/logo3.webp">
+					</div>
+					<div>
+						<div class="file-name">Расчет собственных средств на 31.05.2023 (исправленный)</div>
+						<div class="file-info">
+						Дата опубликования информации: 19.06.2023<br>						Доступ до: 19.06.2026<br>						Актуальность: до даты опубликования расчета на следующую расчетную дату<br>												</div>
+					</div>
+				</a>
+							</div>
+			
+
+
+				
+						
+
+			<div class="file-wrapper">
+				<a href="/upload/iblock/f9a/71dkav4c8ws29k4uhoq4giiwk0bfc5tr.pdf" target="_blank" class="file-link">
+					<div class="image">
+						<img src="/upload/resize_cache/webp/local/templates/main/images/logo3.webp">
+					</div>
+					<div>
+						<div class="file-name">Расчет собственных средств на 31.05.2023</div>
+						<div class="file-info">
+						Дата опубликования информации: 16.06.2023<br>						Доступ до: 16.06.2026<br>						Актуальность: до даты опубликования расчета на следующую расчетную дату<br>												</div>
+					</div>
+				</a>
+							</div>
+			
+
+
+				
+						
+
+			<div class="file-wrapper">
+				<a href="/upload/iblock/4b0/acrgc9gmhgjttdscrqp4b220m9f1s77e.pdf" target="_blank" class="file-link">
+					<div class="image">
+						<img src="/upload/resize_cache/webp/local/templates/main/images/logo3.webp">
+					</div>
+					<div>
+						<div class="file-name">Расчет собственных средств на 30.04.2023</div>
+						<div class="file-info">
+						Дата опубликования информации: 17.05.2023<br>						Доступ до: 17.05.2026<br>						Актуальность: до даты опубликования расчета на следующую расчетную дату<br>												</div>
+					</div>
+				</a>
+							</div>
+			
+
+
+				
+						
+
+			<div class="file-wrapper">
+				<a href="/upload/iblock/4f7/7lu0rpb6r2cpqkhae81jvj92kstc778j.pdf" target="_blank" class="file-link">
+					<div class="image">
+						<img src="/upload/resize_cache/webp/local/templates/main/images/logo3.webp">
+					</div>
+					<div>
+						<div class="file-name">Расчет собственных средств на 31.03.2023</div>
+						<div class="file-info">
+						Дата опубликования информации: 14.04.2023<br>						Доступ до: 14.04.2026<br>						Актуальность: до даты опубликования расчета на следующую расчетную дату<br>												</div>
+					</div>
+				</a>
+							</div>
+			
+
+
+				
+						
+
+			<div class="file-wrapper">
+				<a href="/upload/iblock/259/rt6hall1naf8f53q46f2x0o9ibdyde04.pdf" target="_blank" class="file-link">
+					<div class="image">
+						<img src="/upload/resize_cache/webp/local/templates/main/images/logo3.webp">
+					</div>
+					<div>
+						<div class="file-name">Расчет собственных средств на 28.02.2023</div>
+						<div class="file-info">
+						Дата опубликования информации: 15.03.2023<br>						Доступ до: 15.03.2026<br>						Актуальность: до даты опубликования расчета на следующую расчетную дату<br>												</div>
+					</div>
+				</a>
+							</div>
+			
+
+
+				
+						
+
+			<div class="file-wrapper">
+				<a href="/upload/iblock/29d/etz7p48d5mnhgamz3e4muk5ybdy0263n.pdf" target="_blank" class="file-link">
+					<div class="image">
+						<img src="/upload/resize_cache/webp/local/templates/main/images/logo3.webp">
+					</div>
+					<div>
+						<div class="file-name">Расчет собственных средств на 31.01.2023</div>
+						<div class="file-info">
+						Дата опубликования информации: 14.02.2023<br>						Доступ до: 14.02.2026<br>						Актуальность: до даты опубликования расчета на следующую расчетную дату<br>												</div>
+					</div>
+				</a>
+							</div>
+			
+
+
+				
+						
+
+			<div class="file-wrapper">
+				<a href="/upload/iblock/9c1/wzdtk0wcxyp6qjsjjjfw2g0yyiis9rsk.pdf" target="_blank" class="file-link">
+					<div class="image">
+						<img src="/upload/resize_cache/webp/local/templates/main/images/logo3.webp">
+					</div>
+					<div>
+						<div class="file-name">Расчет собственных средств на 31.12.2022 (исправленный)</div>
+						<div class="file-info">
+						Дата опубликования информации: 30.01.2023<br>						Доступ до: 24.03.2026<br>						Актуальность: до даты опубликования расчета на следующую расчетную дату<br>												</div>
+					</div>
+				</a>
+							</div>
+			
+
+
+				
+						
+
+			<div class="file-wrapper">
+				<a href="/upload/iblock/488/9tlzhng3xxek14jzhqoxfv21kgzoa8vd.pdf" target="_blank" class="file-link">
+					<div class="image">
+						<img src="/upload/resize_cache/webp/local/templates/main/images/logo3.webp">
+					</div>
+					<div>
+						<div class="file-name">Расчет собственных средств на 31.12.2022</div>
+						<div class="file-info">
+						Дата опубликования информации: 20.01.2023<br>						Доступ до: 21.01.2026<br>						Актуальность: до даты опубликования расчета на следующую расчетную дату<br>												</div>
+					</div>
+				</a>
+							</div>
+			
+
+
+				
+						
+
+			<div class="file-wrapper">
+				<a href="/upload/iblock/f83/usl9ebu2xlmero86r6o5krhks102sz9f.pdf" target="_blank" class="file-link">
+					<div class="image">
+						<img src="/upload/resize_cache/webp/local/templates/main/images/logo3.webp">
+					</div>
+					<div>
+						<div class="file-name">Расчет собственных средств на 30.11.2022</div>
+						<div class="file-info">
+						Дата опубликования информации: 13.12.2022<br>						Доступ до: 13.12.2025<br>						Актуальность: до даты опубликования расчета на следующую расчетную дату<br>												</div>
+					</div>
+				</a>
+							</div>
+			
+
+
+				
+						
+
+			<div class="file-wrapper">
+				<a href="/upload/iblock/dc2/1kzi5fx3fs0xevtz0p0bjft0bqmsyqwv.pdf" target="_blank" class="file-link">
+					<div class="image">
+						<img src="/upload/resize_cache/webp/local/templates/main/images/logo3.webp">
+					</div>
+					<div>
+						<div class="file-name">Расчет собственных средств на 31.10.2022</div>
+						<div class="file-info">
+						Дата опубликования информации: 16.11.2022<br>						Доступ до: 16.11.2025<br>						Актуальность: до даты опубликования расчета на следующую расчетную дату<br>												</div>
+					</div>
+				</a>
+							</div>
+			
+
+
+				
+						
+
+			<div class="file-wrapper">
+				<a href="/upload/iblock/c36/4e28d1r6uhpgyxcwncd3yn0iol4fixth.pdf" target="_blank" class="file-link">
+					<div class="image">
+						<img src="/upload/resize_cache/webp/local/templates/main/images/logo3.webp">
+					</div>
+					<div>
+						<div class="file-name">Расчет собственных средств на 30.09.2022</div>
+						<div class="file-info">
+						Дата опубликования информации: 14.10.2022<br>						Доступ до: 14.10.2025<br>						Актуальность: до даты опубликования расчета на следующую расчетную дату<br>												</div>
+					</div>
+				</a>
+							</div>
+			
+
+
+				
+						
+
+			<div class="file-wrapper">
+				<a href="/upload/iblock/749/5dy2wt5lk9qt3sw9wsklyy9xklhumdpo.pdf" target="_blank" class="file-link">
+					<div class="image">
+						<img src="/upload/resize_cache/webp/local/templates/main/images/logo3.webp">
+					</div>
+					<div>
+						<div class="file-name">Расчет собственных средств на 31.08.2022</div>
+						<div class="file-info">
+						Дата опубликования информации: 14.09.2022<br>						Доступ до: 14.09.2025<br>						Актуальность: до даты опубликования расчета на следующую расчетную дату<br>												</div>
+					</div>
+				</a>
+							</div>
+			
+
+
+				
+						
+
+			<div class="file-wrapper">
+				<a href="/upload/iblock/db6/wkq9u35elog1qwkmk5wf7cc6l8ijtiwc.pdf" target="_blank" class="file-link">
+					<div class="image">
+						<img src="/upload/resize_cache/webp/local/templates/main/images/logo3.webp">
+					</div>
+					<div>
+						<div class="file-name">Расчет собственных средств на 31.07.2022</div>
+						<div class="file-info">
+						Дата опубликования информации: 15.08.2022<br>						Доступ до: 15.08.2025<br>						Актуальность: до даты опубликования расчета на следующую расчетную дату<br>												</div>
+					</div>
+				</a>
+							</div>
+			
+
+
+				
+						
+
+			<div class="file-wrapper">
+				<a href="/upload/iblock/598/hjk02ymksfalumgwrd99u8g9va5l5b3t.pdf" target="_blank" class="file-link">
+					<div class="image">
+						<img src="/upload/resize_cache/webp/local/templates/main/images/logo3.webp">
+					</div>
+					<div>
+						<div class="file-name">Расчет собственных средств на 30.06.2022</div>
+						<div class="file-info">
+						Дата опубликования информации: 18.07.2022<br>						Доступ до: 18.07.2025<br>						Актуальность: до даты опубликования расчета на следующую расчетную дату<br>												</div>
+					</div>
+				</a>
+							</div>
+			
+
+
+				
+						
+
+			<div class="file-wrapper">
+				<a href="/upload/iblock/b43/cwhtf1mk4grzrn6h7afxyof0z0cklclj.pdf" target="_blank" class="file-link">
+					<div class="image">
+						<img src="/upload/resize_cache/webp/local/templates/main/images/logo3.webp">
+					</div>
+					<div>
+						<div class="file-name">Расчет собственных средств на 31.05.2022</div>
+						<div class="file-info">
+						Дата опубликования информации: 14.06.2022<br>						Доступ до: 14.06.2025<br>						Актуальность: до даты опубликования расчета на следующую расчетную дату<br>												</div>
+					</div>
+				</a>
+							</div>
+			
+
+
+				
+						
+
+			<div class="file-wrapper">
+				<a href="/upload/iblock/7e0/rpssi53g48g1c2c6tej6tazftr61uaxu.pdf" target="_blank" class="file-link">
+					<div class="image">
+						<img src="/upload/resize_cache/webp/local/templates/main/images/logo3.webp">
+					</div>
+					<div>
+						<div class="file-name">Расчет собственных средств на 30.04.2022</div>
+						<div class="file-info">
+						Дата опубликования информации: 20.05.2022<br>						Доступ до: 20.05.2025<br>						Актуальность: до даты опубликования расчета на следующую расчетную дату<br>												</div>
+					</div>
+				</a>
+							</div>
+			
+
+
+				
+						
+
+			<div class="file-wrapper">
+				<a href="/upload/iblock/db7/3736ggiiz8052e86idrhf9suvrx327qf.pdf" target="_blank" class="file-link">
+					<div class="image">
+						<img src="/upload/resize_cache/webp/local/templates/main/images/logo3.webp">
+					</div>
+					<div>
+						<div class="file-name">Расчет собственных средств на 31.03.2022</div>
+						<div class="file-info">
+						Дата опубликования информации: 15.04.2022<br>						Доступ до: 15.04.2025<br>						Актуальность: до даты опубликования расчета на следующую расчетную дату<br>												</div>
+					</div>
+				</a>
+							</div>
+			
+
+
+				
+						
+
+			<div class="file-wrapper">
+				<a href="/upload/iblock/2e8/eeyfzty0jb5fqwjtdvamw4fgbq6946h5.pdf" target="_blank" class="file-link">
+					<div class="image">
+						<img src="/upload/resize_cache/webp/local/templates/main/images/logo3.webp">
+					</div>
+					<div>
+						<div class="file-name">Расчет собственных средств на 28.02.2022 (уточненный)</div>
+						<div class="file-info">
+						Дата опубликования информации: 30.03.2022<br>						Доступ до: 30.03.2025<br>						Актуальность: до даты опубликования расчета на следующую расчетную дату<br>												</div>
+					</div>
+				</a>
+							</div>
+			
+
+
+				
+						
+
+			<div class="file-wrapper">
+				<a href="/upload/iblock/f2b/6tmpy8zmnicy3mga6u061yp4rq506aik.pdf" target="_blank" class="file-link">
+					<div class="image">
+						<img src="/upload/resize_cache/webp/local/templates/main/images/logo3.webp">
+					</div>
+					<div>
+						<div class="file-name">Расчет собственных средств на 31.01.2022 (уточненный)</div>
+						<div class="file-info">
+						Дата опубликования информации: 30.03.2022<br>						Доступ до: 30.03.2025<br>						Актуальность: до даты опубликования расчета на следующую расчетную дату<br>												</div>
+					</div>
+				</a>
+							</div>
+			
+
+
+				
+						
+
+			<div class="file-wrapper">
+				<a href="/upload/iblock/92c/h7m9wp5d4t1h3nj3wah5tix44wu1ofdo.pdf" target="_blank" class="file-link">
+					<div class="image">
+						<img src="/upload/resize_cache/webp/local/templates/main/images/logo3.webp">
+					</div>
+					<div>
+						<div class="file-name">Расчет собственных средств на 31.12.2021 (уточненный)</div>
+						<div class="file-info">
+						Дата опубликования информации: 29.03.2022<br>						Доступ до: 29.03.2025<br>						Актуальность: до даты опубликования расчета на следующую расчетную дату<br>												</div>
+					</div>
+				</a>
+							</div>
+			
+
+
+				
+						
+
+			<div class="file-wrapper">
+				<a href="/upload/iblock/003/vxj71y3wsulmxb81m2ijrye45ud9497n.pdf" target="_blank" class="file-link">
+					<div class="image">
+						<img src="/upload/resize_cache/webp/local/templates/main/images/logo3.webp">
+					</div>
+					<div>
+						<div class="file-name">Расчет собственных средств на 28.02.2022</div>
+						<div class="file-info">
+						Дата опубликования информации: 15.03.2022<br>						Доступ до: 15.03.2025<br>						Актуальность: до даты опубликования расчета на следующую расчетную дату<br>												</div>
+					</div>
+				</a>
+							</div>
+			
+
+
+				
+						
+
+			<div class="file-wrapper">
+				<a href="/upload/iblock/27b/si79zsj0jnd05n21hcnta61if3zllv4f.pdf" target="_blank" class="file-link">
+					<div class="image">
+						<img src="/upload/resize_cache/webp/local/templates/main/images/logo3.webp">
+					</div>
+					<div>
+						<div class="file-name">Расчет собственных средств на 31.01.2022</div>
+						<div class="file-info">
+						Дата опубликования информации: 14.02.2022<br>						Доступ до: 14.02.2025<br>						Актуальность: до даты опубликования расчета на следующую расчетную дату<br>												</div>
+					</div>
+				</a>
+							</div>
+			
+
+
+				
+						
+
+			<div class="file-wrapper">
+				<a href="/upload/iblock/3b7/v2pkpwfb5o046ewlnxe4lwksr5lgd7bm.pdf" target="_blank" class="file-link">
+					<div class="image">
+						<img src="/upload/resize_cache/webp/local/templates/main/images/logo3.webp">
+					</div>
+					<div>
+						<div class="file-name">Расчет собственных средств на 31.12.2021</div>
+						<div class="file-info">
+						Дата опубликования информации: 24.01.2022<br>						Доступ до: 24.01.2025<br>						Актуальность: до даты опубликования расчета на следующую расчетную дату<br>												</div>
+					</div>
+				</a>
+							</div>
+			
+
+
+				
+						
+
+			<div class="file-wrapper">
+				<a href="/upload/iblock/372/lfxk8vz6eur5awft2c7cw6k1a8r1tcud.pdf" target="_blank" class="file-link">
+					<div class="image">
+						<img src="/upload/resize_cache/webp/local/templates/main/images/logo3.webp">
+					</div>
+					<div>
+						<div class="file-name">Расчет собственных средств на 30.11.2021 (уточненный)</div>
+						<div class="file-info">
+						Дата опубликования информации: 30.12.2021<br>						Доступ до: 30.12.2024<br>						Актуальность: до даты опубликования расчета на следующую расчетную дату<br>												</div>
+					</div>
+				</a>
+							</div>
+			
+
+
+				
+						
+
+			<div class="file-wrapper">
+				<a href="/upload/iblock/b46/twx9phdd5n7mgh9jx0nxh5puab6893tj.pdf" target="_blank" class="file-link">
+					<div class="image">
+						<img src="/upload/resize_cache/webp/local/templates/main/images/logo3.webp">
+					</div>
+					<div>
+						<div class="file-name">Расчет собственных средств на 31.10.2021 (уточненный)</div>
+						<div class="file-info">
+						Дата опубликования информации: 30.12.2021<br>						Доступ до: 30.12.2024<br>						Актуальность: до даты опубликования расчета на следующую расчетную дату<br>												</div>
+					</div>
+				</a>
+							</div>
+			
+
+
+				
+						
+
+			<div class="file-wrapper">
+				<a href="/upload/iblock/0b5/r8brwjz7r63cz8b9fplzo596x4w99wrn.pdf" target="_blank" class="file-link">
+					<div class="image">
+						<img src="/upload/resize_cache/webp/local/templates/main/images/logo3.webp">
+					</div>
+					<div>
+						<div class="file-name">Расчет собственных средств на 30.09.2021 (уточненный)</div>
+						<div class="file-info">
+						Дата опубликования информации: 30.12.2021<br>						Доступ до: 30.12.2024<br>						Актуальность: до даты опубликования расчета на следующую расчетную дату<br>												</div>
+					</div>
+				</a>
+							</div>
+			
+
+
+				
+						
+
+			<div class="file-wrapper">
+				<a href="/upload/iblock/e60/w266xkyzrud5iipzg4oi5p2za51mor26.pdf" target="_blank" class="file-link">
+					<div class="image">
+						<img src="/upload/resize_cache/webp/local/templates/main/images/logo3.webp">
+					</div>
+					<div>
+						<div class="file-name">Расчет собственных средств на 31.08.2021 (уточненный)</div>
+						<div class="file-info">
+						Дата опубликования информации: 30.12.2021<br>						Доступ до: 30.12.2024<br>						Актуальность: до даты опубликования расчета на следующую расчетную дату<br>												</div>
+					</div>
+				</a>
+							</div>
+			
+
+
+				
+						
+
+			<div class="file-wrapper">
+				<a href="/upload/iblock/bd9/iuy33ehdm1188g5lsqe4nvnbqwt4bkbg.pdf" target="_blank" class="file-link">
+					<div class="image">
+						<img src="/upload/resize_cache/webp/local/templates/main/images/logo3.webp">
+					</div>
+					<div>
+						<div class="file-name">Расчет собственных средств на 31.07.2021 (уточненный)</div>
+						<div class="file-info">
+						Дата опубликования информации: 30.12.2021<br>						Доступ до: 30.12.2024<br>						Актуальность: до даты опубликования расчета на следующую расчетную дату<br>												</div>
+					</div>
+				</a>
+							</div>
+			
+
+
+				
+						
+
+			<div class="file-wrapper">
+				<a href="/upload/iblock/d9e/dmer438rdmhvj5klwcal4mobapjhcnlv.pdf" target="_blank" class="file-link">
+					<div class="image">
+						<img src="/upload/resize_cache/webp/local/templates/main/images/logo3.webp">
+					</div>
+					<div>
+						<div class="file-name">Расчет собственных средств на 30.06.2021 (уточненный)</div>
+						<div class="file-info">
+						Дата опубликования информации: 30.12.2021<br>						Доступ до: 30.12.2024<br>						Актуальность: до даты опубликования расчета на следующую расчетную дату<br>												</div>
+					</div>
+				</a>
+							</div>
+			
+
+
+				
+						
+
+			<div class="file-wrapper">
+				<a href="/upload/iblock/308/rv1rfk7r9efkodevpmpej1pjlway1inf.pdf" target="_blank" class="file-link">
+					<div class="image">
+						<img src="/upload/resize_cache/webp/local/templates/main/images/logo3.webp">
+					</div>
+					<div>
+						<div class="file-name">Расчет собственных средств на 30.11.2021</div>
+						<div class="file-info">
+						Дата опубликования информации: 15.12.2021<br>						Доступ до: 15.12.2024<br>						Актуальность: до даты опубликования расчета на следующую расчетную дату<br>												</div>
+					</div>
+				</a>
+							</div>
+			
+
+
+				
+						
+
+			<div class="file-wrapper">
+				<a href="/upload/iblock/783/ddo1fla5eeg0ho6j5cr7q1rxjkm32u3r.pdf" target="_blank" class="file-link">
+					<div class="image">
+						<img src="/upload/resize_cache/webp/local/templates/main/images/logo3.webp">
+					</div>
+					<div>
+						<div class="file-name">Расчет собственных средств на 31.10.2021</div>
+						<div class="file-info">
+						Дата опубликования информации: 19.11.2021<br>						Доступ до: 19.01.2024<br>						Актуальность: до даты опубликования расчета на следующую расчетную дату<br>												</div>
+					</div>
+				</a>
+							</div>
+			
+
+
+				
+						
+
+			<div class="file-wrapper">
+				<a href="/upload/iblock/362/8qh8awu20hh091wiyys5dces4r59stwy.pdf" target="_blank" class="file-link">
+					<div class="image">
+						<img src="/upload/resize_cache/webp/local/templates/main/images/logo3.webp">
+					</div>
+					<div>
+						<div class="file-name">Расчет собственных средств на 30.09.2021 (уточненный)</div>
+						<div class="file-info">
+						Дата опубликования информации: 29.10.2021<br>						Доступ до: 29.10.2024<br>						Актуальность: до даты опубликования расчета на следующую расчетную дату<br>												</div>
+					</div>
+				</a>
+							</div>
+			
+
+
+				
+						
+
+			<div class="file-wrapper">
+				<a href="/upload/iblock/54f/ey71g9ujc7fvkzbauodexellbbxcz3hf.pdf" target="_blank" class="file-link">
+					<div class="image">
+						<img src="/upload/resize_cache/webp/local/templates/main/images/logo3.webp">
+					</div>
+					<div>
+						<div class="file-name">Расчет собственных средств на 30.09.2021</div>
+						<div class="file-info">
+						Дата опубликования информации: 18.10.2021<br>						Доступ до: 18.10.2024<br>						Актуальность: до даты опубликования расчета на следующую расчетную дату<br>												</div>
+					</div>
+				</a>
+							</div>
+			
+
+
+				
+						
+
+			<div class="file-wrapper">
+				<a href="/upload/iblock/7c0/ve7i217he282iaiopqxxj7gzpcvzco9i.pdf" target="_blank" class="file-link">
+					<div class="image">
+						<img src="/upload/resize_cache/webp/local/templates/main/images/logo3.webp">
+					</div>
+					<div>
+						<div class="file-name">Расчет собственных средств на 31.08.2021</div>
+						<div class="file-info">
+						Дата опубликования информации: 21.09.2021<br>						Доступ до: 30.10.2024<br>						Актуальность: до даты опубликования расчета на следующую расчетную дату<br>												</div>
+					</div>
+				</a>
+							</div>
+			
+
+
+				
+						
+
+			<div class="file-wrapper">
+				<a href="/upload/iblock/8fb/dkywmk7txpa2fizkevtc7e6fw8hy10im.pdf" target="_blank" class="file-link">
+					<div class="image">
+						<img src="/upload/resize_cache/webp/local/templates/main/images/logo3.webp">
+					</div>
+					<div>
+						<div class="file-name">Расчет собственных средств на 31.07.2021</div>
+						<div class="file-info">
+						Дата опубликования информации: 24.08.2021<br>						Доступ до: 27.09.2024<br>						Актуальность: до даты опубликования расчета на следующую расчетную дату<br>												</div>
+					</div>
+				</a>
+							</div>
+			
+
+
+				
+						
+
+			<div class="file-wrapper">
+				<a href="/upload/iblock/24e/k4vyg65l2q51k7ls09x3vl2eerji88t3.pdf" target="_blank" class="file-link">
+					<div class="image">
+						<img src="/upload/resize_cache/webp/local/templates/main/images/logo3.webp">
+					</div>
+					<div>
+						<div class="file-name">Расчет собственных средств на 30.06.2021</div>
+						<div class="file-info">
+						Дата опубликования информации: 28.07.2021<br>						Доступ до: 05.09.2024<br>						Актуальность: до даты опубликования расчета на следующую расчетную дату<br>												</div>
+					</div>
+				</a>
+							</div>
+			
+
+
+				
+						
+
+			<div class="file-wrapper">
+				<a href="/upload/iblock/979/ct1p6qy83ouf40zx3qwe7yu5m2f50xdz.pdf" target="_blank" class="file-link">
+					<div class="image">
+						<img src="/upload/resize_cache/webp/local/templates/main/images/logo3.webp">
+					</div>
+					<div>
+						<div class="file-name">Расчет собственных средств на 31.05.2021</div>
+						<div class="file-info">
+						Дата опубликования информации: 24.06.2021<br>						Доступ до: 02.08.2024<br>						Актуальность: до даты опубликования расчета на следующую расчетную дату<br>												</div>
+					</div>
+				</a>
+							</div>
+			
+
+
+				
+						
+
+			<div class="file-wrapper">
+				<a href="/upload/iblock/e01/igobqiwekwrm9wou402efbnr5b0ukjcv.pdf" target="_blank" class="file-link">
+					<div class="image">
+						<img src="/upload/resize_cache/webp/local/templates/main/images/logo3.webp">
+					</div>
+					<div>
+						<div class="file-name">Расчет собственных средств на 30.04.2021</div>
+						<div class="file-info">
+						Дата опубликования информации: 24.05.2021<br>						Доступ до: 02.06.2024<br>						Актуальность: до даты опубликования расчета на следующую расчетную дату<br>												</div>
+					</div>
+				</a>
+							</div>
+			
+
+
+				
+						
+
+			<div class="file-wrapper">
+				<a href="/upload/iblock/781/7r93kyomlqgvjhd469u3slvfhg5fbl55.pdf" target="_blank" class="file-link">
+					<div class="image">
+						<img src="/upload/resize_cache/webp/local/templates/main/images/logo3.webp">
+					</div>
+					<div>
+						<div class="file-name">Расчет собственных средств на 31.03.2021</div>
+						<div class="file-info">
+						Дата опубликования информации: 29.04.2021<br>						Доступ до: 07.06.2025<br>						Актуальность: до даты опубликования расчета на следующую расчетную дату<br>												</div>
+					</div>
+				</a>
+							</div>
+			
+
+
+				
+						
+
+			<div class="file-wrapper">
+				<a href="/upload/iblock/cb1/76ln8x0w8rkq4l388nk1lbo3tudseust.pdf" target="_blank" class="file-link">
+					<div class="image">
+						<img src="/upload/resize_cache/webp/local/templates/main/images/logo3.webp">
+					</div>
+					<div>
+						<div class="file-name">Расчет собственных средств на 28.02.2021</div>
+						<div class="file-info">
+						Дата опубликования информации: 29.03.2021<br>						Доступ до: 07.05.2025<br>						Актуальность: до даты опубликования расчета на следующую расчетную дату<br>												</div>
+					</div>
+				</a>
+							</div>
+			
+
+
+				
+						
+
+			<div class="file-wrapper">
+				<a href="/upload/iblock/10d/edxgaedi1n3lkfv98c97yjwazi3czb1j.pdf" target="_blank" class="file-link">
+					<div class="image">
+						<img src="/upload/resize_cache/webp/local/templates/main/images/logo3.webp">
+					</div>
+					<div>
+						<div class="file-name">Расчет собственных средств на 31.01.2021</div>
+						<div class="file-info">
+						Дата опубликования информации: 26.02.2021<br>						Доступ до: 06.04.2025<br>						Актуальность: до даты опубликования расчета на следующую расчетную дату<br>												</div>
+					</div>
+				</a>
+							</div>
+			
+
+
+				
+						
+
+			<div class="file-wrapper">
+				<a href="/upload/iblock/582/ywm9vasld10v1avg8ggbz083d67u86kl.pdf" target="_blank" class="file-link">
+					<div class="image">
+						<img src="/upload/resize_cache/webp/local/templates/main/images/logo3.webp">
+					</div>
+					<div>
+						<div class="file-name">Расчет собственных средств на 31.12.2020 (исправленный)</div>
+						<div class="file-info">
+						Дата опубликования информации: 09.02.2021<br>						Доступ до: 20.03.2025<br>						Актуальность: до даты опубликования расчета на следующую расчетную дату<br>												</div>
+					</div>
+				</a>
+							</div>
+			
+
+
+				
+						
+
+			<div class="file-wrapper">
+				<a href="/upload/iblock/673/7d3b7oaxuharzpj9mxdl4z0824ce1wem.pdf" target="_blank" class="file-link">
+					<div class="image">
+						<img src="/upload/resize_cache/webp/local/templates/main/images/logo3.webp">
+					</div>
+					<div>
+						<div class="file-name">Расчет собственных средств на 31.12.2020</div>
+						<div class="file-info">
+						Дата опубликования информации: 29.01.2021<br>						Доступ до: 09.03.2025<br>						Актуальность: до даты опубликования расчета на следующую расчетную дату<br>												</div>
+					</div>
+				</a>
+							</div>
+			
+
+
+				
+						
+
+			<div class="file-wrapper">
+				<a href="/upload/iblock/478/0iz84n2n3zljqy2lbg3gbf2o4snpwfsj.pdf" target="_blank" class="file-link">
+					<div class="image">
+						<img src="/upload/resize_cache/webp/local/templates/main/images/logo3.webp">
+					</div>
+					<div>
+						<div class="file-name">Расчет собственных средств на 30.11.2020</div>
+						<div class="file-info">
+						Дата опубликования информации: 21.12.2020<br>						Доступ до: 29.01.2025<br>						Актуальность: до даты опубликования расчета на следующую расчетную дату<br>												</div>
+					</div>
+				</a>
+							</div>
+			
+
+
+				
+						
+
+			<div class="file-wrapper">
+				<a href="/upload/iblock/347/n6cdeyctrpx0xlccfydiqrbnwfrdku7b.pdf" target="_blank" class="file-link">
+					<div class="image">
+						<img src="/upload/resize_cache/webp/local/templates/main/images/logo3.webp">
+					</div>
+					<div>
+						<div class="file-name">Расчет собственных средств на 31.10.2020</div>
+						<div class="file-info">
+						Дата опубликования информации: 24.11.2020<br>						Доступ до: 02.01.2025<br>						Актуальность: до даты опубликования расчета на следующую расчетную дату<br>												</div>
+					</div>
+				</a>
+							</div>
+			
+
+
+				
+						
+
+			<div class="file-wrapper">
+				<a href="/upload/iblock/3d1/z4b7d2l2m8q5o2ad04hhsfc0a6yh2yhp.pdf" target="_blank" class="file-link">
+					<div class="image">
+						<img src="/upload/resize_cache/webp/local/templates/main/images/logo3.webp">
+					</div>
+					<div>
+						<div class="file-name">Расчет собственных средств на 30.09.2020</div>
+						<div class="file-info">
+						Дата опубликования информации: 29.10.2020<br>						Доступ до: 07.12.2024<br>						Актуальность: до даты опубликования расчета на следующую расчетную дату<br>												</div>
+					</div>
+				</a>
+							</div>
+			
+
+
+				
+						
+
+			<div class="file-wrapper">
+				<a href="/upload/iblock/ef3/10et5b6ls9n7qr0h5oku98hcer78pbxr.pdf" target="_blank" class="file-link">
+					<div class="image">
+						<img src="/upload/resize_cache/webp/local/templates/main/images/logo3.webp">
+					</div>
+					<div>
+						<div class="file-name">Расчет собственных средств на 31.08.2020</div>
+						<div class="file-info">
+						Дата опубликования информации: 29.09.2020<br>						Доступ до: 26.11.2024<br>						Актуальность: до даты опубликования расчета на следующую расчетную дату<br>												</div>
+					</div>
+				</a>
+							</div>
+			
+
+
+				
+						
+
+			<div class="file-wrapper">
+				<a href="/upload/iblock/687/q59ktct1h2wf76y1ofg5ijwyb5dagcn1.pdf" target="_blank" class="file-link">
+					<div class="image">
+						<img src="/upload/resize_cache/webp/local/templates/main/images/logo3.webp">
+					</div>
+					<div>
+						<div class="file-name">Расчет собственных средств на 31.07.2020</div>
+						<div class="file-info">
+						Дата опубликования информации: 27.08.2020<br>						Доступ до: 01.09.2023<br>						Актуальность: до даты опубликования расчета на следующую расчетную дату<br>												</div>
+					</div>
+				</a>
+							</div>
+			
+
+
+				
+						
+
+			<div class="file-wrapper">
+				<a href="/upload/iblock/cd2/vk3asjvlfz9rjb3u42xdygprcg3tgju0.pdf" target="_blank" class="file-link">
+					<div class="image">
+						<img src="/upload/resize_cache/webp/local/templates/main/images/logo3.webp">
+					</div>
+					<div>
+						<div class="file-name">Расчет собственных средств на 30.06.2020</div>
+						<div class="file-info">
+						Дата опубликования информации: 24.07.2020<br>						Доступ до: 01.08.2023<br>						Актуальность: до даты опубликования расчета на следующую расчетную дату<br>												</div>
+					</div>
+				</a>
+							</div>
+			
+
+
+				
+						
+
+			<div class="file-wrapper">
+				<a href="/upload/iblock/93e/zypiinqlpvl0ixvb9h97qezjd54bp186.pdf" target="_blank" class="file-link">
+					<div class="image">
+						<img src="/upload/resize_cache/webp/local/templates/main/images/logo3.webp">
+					</div>
+					<div>
+						<div class="file-name">Расчет собственных средств на 31.05.2020</div>
+						<div class="file-info">
+						Дата опубликования информации: 26.06.2020<br>						Доступ до: 01.07.2023<br>						Актуальность: до даты опубликования расчета на следующую расчетную дату<br>												</div>
+					</div>
+				</a>
+							</div>
+			
+
+
+				
+						
+
+			<div class="file-wrapper">
+				<a href="/upload/iblock/e28/rjqvbkvlwm1xwuv476ta7ow7jiplovqe.pdf" target="_blank" class="file-link">
+					<div class="image">
+						<img src="/upload/resize_cache/webp/local/templates/main/images/logo3.webp">
+					</div>
+					<div>
+						<div class="file-name">Расчет собственных средств на 30.04.2020</div>
+						<div class="file-info">
+						Дата опубликования информации: 25.05.2020<br>						Доступ до: 01.06.2023<br>						Актуальность: до даты опубликования расчета на следующую расчетную дату<br>												</div>
+					</div>
+				</a>
+							</div>
+			
+
+
+				
+						
+
+			<div class="file-wrapper">
+				<a href="/upload/iblock/c68/b1lew57hcq4fqmo05qdq1odrxz3y0dag.pdf" target="_blank" class="file-link">
+					<div class="image">
+						<img src="/upload/resize_cache/webp/local/templates/main/images/logo3.webp">
+					</div>
+					<div>
+						<div class="file-name">Расчет собственных средств на 31.03.2020</div>
+						<div class="file-info">
+						Дата опубликования информации: 29.04.2020<br>						Доступ до: 01.05.2023<br>						Актуальность: до даты опубликования расчета на следующую расчетную дату<br>												</div>
+					</div>
+				</a>
+							</div>
+			
+
+
+				
+						
+
+			<div class="file-wrapper">
+				<a href="/upload/iblock/5f0/g3n5yn4nv4z5od3pldpuaglbrff7cfxh.pdf" target="_blank" class="file-link">
+					<div class="image">
+						<img src="/upload/resize_cache/webp/local/templates/main/images/logo3.webp">
+					</div>
+					<div>
+						<div class="file-name">Расчет собственных средств на 29.02.2020</div>
+						<div class="file-info">
+						Дата опубликования информации: 26.03.2020<br>						Доступ до: 01.04.2023<br>						Актуальность: до даты опубликования расчета на следующую расчетную дату<br>												</div>
+					</div>
+				</a>
+							</div>
+			
+
+
+				
+						
+
+			<div class="file-wrapper">
+				<a href="/upload/iblock/361/262lgws0txvlst371kqmpiispi1k6jmd.pdf" target="_blank" class="file-link">
+					<div class="image">
+						<img src="/upload/resize_cache/webp/local/templates/main/images/logo3.webp">
+					</div>
+					<div>
+						<div class="file-name">Расчет собственных средств на 31.12.2019 (исправленный)</div>
+						<div class="file-info">
+						Дата опубликования информации: 28.02.2020<br>						Доступ до: 01.03.2023<br>						Актуальность: до даты опубликования расчета на следующую расчетную дату<br>												</div>
+					</div>
+				</a>
+							</div>
+			
+
+
+				
+						
+
+			<div class="file-wrapper">
+				<a href="/upload/iblock/6ef/jqcogy7704umb3moqof31qtz2k6bs1z9.pdf" target="_blank" class="file-link">
+					<div class="image">
+						<img src="/upload/resize_cache/webp/local/templates/main/images/logo3.webp">
+					</div>
+					<div>
+						<div class="file-name">Расчет собственных средств на 31.01.2020</div>
+						<div class="file-info">
+						Дата опубликования информации: 28.02.2020<br>						Доступ до: 01.03.2023<br>						Актуальность: до даты опубликования расчета на следующую расчетную дату<br>												</div>
+					</div>
+				</a>
+							</div>
+			
+
+
+				
+						
+
+			<div class="file-wrapper">
+				<a href="/upload/iblock/caa/w55akp01qn27160ofukqoj8jscvzbj3g.pdf" target="_blank" class="file-link">
+					<div class="image">
+						<img src="/upload/resize_cache/webp/local/templates/main/images/logo3.webp">
+					</div>
+					<div>
+						<div class="file-name">Расчет собственных средств на 31.12.2019</div>
+						<div class="file-info">
+						Дата опубликования информации: 30.01.2020<br>						Доступ до: 31.01.2023<br>						Актуальность: до даты опубликования расчета на следующую расчетную дату<br>												</div>
+					</div>
+				</a>
+							</div>
+			
+
+
+				
+						
+
+			<div class="file-wrapper">
+				<a href="/upload/iblock/f9d/dg4jy1bvqfjdybj6bnmwmd0qo0w90i1m.pdf" target="_blank" class="file-link">
+					<div class="image">
+						<img src="/upload/resize_cache/webp/local/templates/main/images/logo3.webp">
+					</div>
+					<div>
+						<div class="file-name">Расчет собственных средств на 30.09.2019</div>
+						<div class="file-info">
+						Дата опубликования информации: 30.12.2019<br>						Доступ до: 01.04.2022<br>						Актуальность: до даты опубликования расчета на следующую расчетную дату<br>												</div>
+					</div>
+				</a>
+							</div>
+			
+
+
+				
+						
+
+			<div class="file-wrapper">
+				<a href="/upload/iblock/0bb/e9l0ldm887pc5iefx8c8yko5ix2umeyd.pdf" target="_blank" class="file-link">
+					<div class="image">
+						<img src="/upload/resize_cache/webp/local/templates/main/images/logo3.webp">
+					</div>
+					<div>
+						<div class="file-name">Расчет собственных средств на 30.11.2019</div>
+						<div class="file-info">
+						Дата опубликования информации: 20.12.2019<br>						Доступ до: 01.01.2023<br>						Актуальность: до даты опубликования расчета на следующую расчетную дату<br>												</div>
+					</div>
+				</a>
+							</div>
+			
+
+
+				
+						
+
+			<div class="file-wrapper">
+				<a href="/upload/iblock/c53/lr8yeoo9uzllmmw1sx0cmbaqiyggy403.pdf" target="_blank" class="file-link">
+					<div class="image">
+						<img src="/upload/resize_cache/webp/local/templates/main/images/logo3.webp">
+					</div>
+					<div>
+						<div class="file-name">Расчет собственных средств на 31.10.2019</div>
+						<div class="file-info">
+						Дата опубликования информации: 29.11.2019<br>						Доступ до: 01.12.2022<br>						Актуальность: до даты опубликования расчета на следующую расчетную дату<br>												</div>
+					</div>
+				</a>
+							</div>
+			
+
+
+				
+						
+
+			<div class="file-wrapper">
+				<a href="/upload/iblock/3fb/vovunp90cmyytbuhjint3ddubtklhd1u.pdf" target="_blank" class="file-link">
+					<div class="image">
+						<img src="/upload/resize_cache/webp/local/templates/main/images/logo3.webp">
+					</div>
+					<div>
+						<div class="file-name">Расчет собственных средств на 31.08.2019</div>
+						<div class="file-info">
+						Дата опубликования информации: 24.09.2019<br>						Доступ до: 01.10.2022<br>						Актуальность: до даты опубликования расчета на следующую расчетную дату<br>												</div>
+					</div>
+				</a>
+							</div>
+			
+
+
+				
+						
+
+			<div class="file-wrapper">
+				<a href="/upload/iblock/f7b/zpzifxchsgnryu4ei53wbb61qn46byi1.pdf" target="_blank" class="file-link">
+					<div class="image">
+						<img src="/upload/resize_cache/webp/local/templates/main/images/logo3.webp">
+					</div>
+					<div>
+						<div class="file-name">Расчет собственных средств на 28.02.2019 (исправленный)</div>
+						<div class="file-info">
+						Дата опубликования информации: 30.08.2019<br>						Доступ до: 01.09.2022<br>						Актуальность: до даты опубликования расчета на следующую расчетную дату<br>												</div>
+					</div>
+				</a>
+							</div>
+			
+
+
+				
+						
+
+			<div class="file-wrapper">
+				<a href="/upload/iblock/39a/4zf2fc53mvbxy31z3azv3bwpmou02wgr.pdf" target="_blank" class="file-link">
+					<div class="image">
+						<img src="/upload/resize_cache/webp/local/templates/main/images/logo3.webp">
+					</div>
+					<div>
+						<div class="file-name">Расчет собственных средств на 31.07.2019</div>
+						<div class="file-info">
+						Дата опубликования информации: 28.08.2019<br>						Доступ до: 01.09.2022<br>						Актуальность: до даты опубликования расчета на следующую расчетную дату<br>												</div>
+					</div>
+				</a>
+							</div>
+			
+
+
+				
+						
+
+			<div class="file-wrapper">
+				<a href="/upload/iblock/bd0/ow74i14qxswbs2i3joajd0zpcjm147c0.pdf" target="_blank" class="file-link">
+					<div class="image">
+						<img src="/upload/resize_cache/webp/local/templates/main/images/logo3.webp">
+					</div>
+					<div>
+						<div class="file-name">Расчет собственных средств на 30.06.2019</div>
+						<div class="file-info">
+						Дата опубликования информации: 30.07.2019<br>						Доступ до: 01.08.2022<br>						Актуальность: до даты опубликования расчета на следующую расчетную дату<br>												</div>
+					</div>
+				</a>
+							</div>
+			
+
+
+				
+						
+
+			<div class="file-wrapper">
+				<a href="/upload/iblock/eac/a3e28mx9xvr45xbkxjjl1yw81oq49l0n.pdf" target="_blank" class="file-link">
+					<div class="image">
+						<img src="/upload/resize_cache/webp/local/templates/main/images/logo3.webp">
+					</div>
+					<div>
+						<div class="file-name">Расчет собственных средств на 31.05.2019</div>
+						<div class="file-info">
+						Дата опубликования информации: 24.06.2019<br>						Доступ до: 01.07.2022<br>						Актуальность: до даты опубликования расчета на следующую расчетную дату<br>												</div>
+					</div>
+				</a>
+							</div>
+			
+
+
+				
+						
+
+			<div class="file-wrapper">
+				<a href="/upload/iblock/fe7/q4deirk2qiat308o8yf011rtzml0k99o.pdf" target="_blank" class="file-link">
+					<div class="image">
+						<img src="/upload/resize_cache/webp/local/templates/main/images/logo3.webp">
+					</div>
+					<div>
+						<div class="file-name">Расчет собственных средств на 30.04.2019 (исправленный)</div>
+						<div class="file-info">
+						Дата опубликования информации: 13.06.2019<br>						Доступ до: 20.06.2022<br>						Актуальность: до даты опубликования расчета на следующую расчетную дату<br>												</div>
+					</div>
+				</a>
+							</div>
+			
+
+
+				
+						
+
+			<div class="file-wrapper">
+				<a href="/upload/iblock/417/r1wxktqn0bqjsnuj5449x7ujkadvvly9.pdf" target="_blank" class="file-link">
+					<div class="image">
+						<img src="/upload/resize_cache/webp/local/templates/main/images/logo3.webp">
+					</div>
+					<div>
+						<div class="file-name">Расчет собственных средств на 30.04.2019</div>
+						<div class="file-info">
+						Дата опубликования информации: 27.05.2019<br>						Доступ до: 01.06.2022<br>						Актуальность: до даты опубликования расчета на следующую расчетную дату<br>												</div>
+					</div>
+				</a>
+							</div>
+			
+
+
+				
+			
+			
+		</div>
+	
+		
+			<div class="file-section">
+		<div class="h3" id="126">Инсайдерская информация</div>	
+
+		   
+						
+
+			<div class="file-wrapper">
+				<a href="/upload/iblock/8a3/t237fjdfzftdw1n66nhmcwikiff2qvea.pdf" target="_blank" class="file-link">
+					<div class="image">
+						<img src="/upload/resize_cache/webp/local/templates/main/images/logo3.webp">
+					</div>
+					<div>
+						<div class="file-name">Список акционеров (участников) управляющей компании и лиц, под контролем либо значительным влиянием которых находится управляющая компания</div>
+						<div class="file-info">
+						Дата опубликования информации: 15.02.2023<br>						Доступ: бессрочно<br>						Актуальность: до даты вступления в действие документа в новой редакции<br>												</div>
+					</div>
+				</a>
+							</div>
+			
+
+
+				
+						
+
+			<div class="file-wrapper">
+				<a href="/upload/iblock/bf3/fpgv2lg1ol58w9kcwn4ckpd72l41orbj.pdf" target="_blank" class="file-link">
+					<div class="image">
+						<img src="/upload/resize_cache/webp/local/templates/main/images/logo3.webp">
+					</div>
+					<div>
+						<div class="file-name">Список акционеров (участников) управляющей компании и лиц, под контролем либо значительным влиянием которых находится управляющая компания</div>
+						<div class="file-info">
+						Дата опубликования информации: 23.12.2022<br>						Доступ: бессрочно<br>						Актуальность: до даты вступления в действие документа в новой редакции<br>												</div>
+					</div>
+				</a>
+								<div class="prev-doc">
+					<img src="/upload/resize_cache/webp/local/templates/main/images/doc-arrow.webp">
+					<a href="/upload/iblock/1ef/ryr01w1gzxfpbijftwg13i3eqlq4clch.pdf" target="_blank" class="file-old">Предыдущая редакция документа</a>
+				</div>
+							</div>
+			
+
+
+				
+						
+
+			<div class="file-wrapper">
+				<a href="/upload/iblock/427/jjpg8j2u0shvdsd0ejjuq4otxtidq3a5.pdf" target="_blank" class="file-link">
+					<div class="image">
+						<img src="/upload/resize_cache/webp/local/templates/main/images/logo3.webp">
+					</div>
+					<div>
+						<div class="file-name">Перечень инсайдерской информации АО «Финансовый брокер «Август»</div>
+						<div class="file-info">
+						Дата опубликования информации: 21.11.2021<br>						Доступ: бессрочно<br>												Период актуальности: с 21.11.2021 г. до даты вступления в действие документа в новой редакции<br>						</div>
+					</div>
+				</a>
+								<div class="prev-doc">
+					<img src="/upload/resize_cache/webp/local/templates/main/images/doc-arrow.webp">
+					<a href="/upload/iblock/6ae/dfvt7za1pus93zoqn4ya7t85y8x4uapx.pdf" target="_blank" class="file-old">Предыдущая редакция документа</a>
+				</div>
+							</div>
+			
+
+
+				
+						
+
+			<div class="file-wrapper">
+				<a href="/upload/iblock/1ef/ryr01w1gzxfpbijftwg13i3eqlq4clch.pdf" target="_blank" class="file-link">
+					<div class="image">
+						<img src="/upload/resize_cache/webp/local/templates/main/images/logo3.webp">
+					</div>
+					<div>
+						<div class="file-name">Информация о структуре и составе акционеров АО «ФБ «Август»</div>
+						<div class="file-info">
+						Дата опубликования информации: 10.06.2020<br>						Доступ до: 23.12.2022<br>						Актуальность: до даты раскрытия информации о внесении изменений.<br>						Период актуальности: до 23.12.2022<br>						</div>
+					</div>
+				</a>
+							</div>
+			
+
+
+				
+						
+
+			<div class="file-wrapper">
+				<a href="/upload/iblock/b9d/boyqbc2ehq9amqqywy6zc1keafp39bn2.pdf" target="_blank" class="file-link">
+					<div class="image">
+						<img src="/upload/resize_cache/webp/local/templates/main/images/logo3.webp">
+					</div>
+					<div>
+						<div class="file-name">Специальная оценка условий труда</div>
+						<div class="file-info">
+						Дата опубликования информации: 19.04.2019<br>						Доступ: бессрочно<br>						Актуальность: до даты вступления в действие документа в новой редакции<br>												</div>
+					</div>
+				</a>
+							</div>
+			
+
+
+				
+						
+
+			<div class="file-wrapper">
+				<a href="/upload/iblock/a7e/jezif9hv0eow92j10gamtjgdneagytsh.pdf" target="_blank" class="file-link">
+					<div class="image">
+						<img src="/upload/resize_cache/webp/local/templates/main/images/logo3.webp">
+					</div>
+					<div>
+						<div class="file-name">Информация о порядке и условиях обмена электронными документами</div>
+						<div class="file-info">
+						Дата опубликования информации: 10.01.2019<br>						Доступ: бессрочно<br>						Актуальность: до даты вступления в действие документа в новой редакции<br>												</div>
+					</div>
+				</a>
+							</div>
+			
+
+
+				
+						
+
+			<div class="file-wrapper">
+				<a href="/upload/iblock/6ae/dfvt7za1pus93zoqn4ya7t85y8x4uapx.pdf" target="_blank" class="file-link">
+					<div class="image">
+						<img src="/upload/resize_cache/webp/local/templates/main/images/logo3.webp">
+					</div>
+					<div>
+						<div class="file-name">Перечень инсайдерской информации АО «Финансовый брокер «Август»</div>
+						<div class="file-info">
+						Дата опубликования информации: 15.02.2018<br>						Доступ до: 21.11.2021<br>												Период актуальности: с 16.02.2018 до даты раскрытия информации о внесении изменений<br>						</div>
+					</div>
+				</a>
+							</div>
+			
+
+
+				
+						
+
+			<div class="file-wrapper">
+				<a href="/upload/iblock/dab/5ulz4k7sk0vko07lqkmgjsjehlsid4yn.pdf" target="_blank" class="file-link">
+					<div class="image">
+						<img src="/upload/resize_cache/webp/local/templates/main/images/logo3.webp">
+					</div>
+					<div>
+						<div class="file-name">Приказ генерального директора ЗАО «Финансовый брокер «Август» об утверждении перечня инсайдерской информации</div>
+						<div class="file-info">
+						Дата опубликования информации: 05.11.2014<br>						Доступ: бессрочно<br>						Актуальность: до даты вступления в действие документа в новой редакции<br>												</div>
+					</div>
+				</a>
+							</div>
+			
+
+
+				
+			
+			
+		</div>
+	
+		
+			<div class="file-section">
+		<div class="h3" id="127">Бухгалтерская отчетность</div>	
+
+		   
+						
+
+			<div class="file-wrapper">
+				<a href="/upload/iblock/119/x4l2ja01bgy2o167gfyd7pfsfxnsdhgq.pdf" target="_blank" class="file-link">
+					<div class="image">
+						<img src="/upload/resize_cache/webp/local/templates/main/images/logo3.webp">
+					</div>
+					<div>
+						<div class="file-name">Бухгалтерская отчетность на 31.03.2023</div>
+						<div class="file-info">
+						Дата опубликования информации: 20.04.2023<br>						Доступ до: 20.04.2026<br>						Актуальность: до даты опубликования следующей отчетности<br>												</div>
+					</div>
+				</a>
+							</div>
+			
+
+
+				
+						
+
+			<div class="file-wrapper">
+				<a href="/upload/iblock/c18/y0wwrwcud0sj08mvak85dk9kg49h75al.pdf" target="_blank" class="file-link">
+					<div class="image">
+						<img src="/upload/resize_cache/webp/local/templates/main/images/logo3.webp">
+					</div>
+					<div>
+						<div class="file-name">Бухгалтерская отчетность на 31.12.2022</div>
+						<div class="file-info">
+						Дата опубликования информации: 24.03.2023<br>						Доступ до: 24.03.2026<br>						Актуальность: до даты опубликования следующей отчетности<br>						Период актуальности: до даты опубликования следующей отчетности<br>						</div>
+					</div>
+				</a>
+							</div>
+			
+
+
+				
+						
+
+			<div class="file-wrapper">
+				<a href="/upload/iblock/303/7mq9u48twem9ecd85ceb1xxwwm1vsp6y.pdf" target="_blank" class="file-link">
+					<div class="image">
+						<img src="/upload/resize_cache/webp/local/templates/main/images/logo3.webp">
+					</div>
+					<div>
+						<div class="file-name">Бухгалтерская отчетность на 30.09.2022</div>
+						<div class="file-info">
+						Дата опубликования информации: 27.10.2022<br>						Доступ до: 27.10.2025<br>						Актуальность: до даты опубликования следующей отчетности<br>						Период актуальности: до даты опубликования следующей отчетности<br>						</div>
+					</div>
+				</a>
+							</div>
+			
+
+
+				
+						
+
+			<div class="file-wrapper">
+				<a href="/upload/iblock/b93/h7shy58fdl2sbcdc7xsr5ctciz7i82zc.pdf" target="_blank" class="file-link">
+					<div class="image">
+						<img src="/upload/resize_cache/webp/local/templates/main/images/logo3.webp">
+					</div>
+					<div>
+						<div class="file-name">Бухгалтерская отчетность на 30.06.2022</div>
+						<div class="file-info">
+						Дата опубликования информации: 28.07.2022<br>						Доступ до: 28.07.2025<br>						Актуальность: до даты опубликования следующей отчетности<br>						Период актуальности: до даты опубликования следующей отчетности<br>						</div>
+					</div>
+				</a>
+							</div>
+			
+
+
+				
+						
+
+			<div class="file-wrapper">
+				<a href="/upload/iblock/43d/tauo2tpexiv0r131nn14ydd51pwk0g4u.pdf" target="_blank" class="file-link">
+					<div class="image">
+						<img src="/upload/resize_cache/webp/local/templates/main/images/logo3.webp">
+					</div>
+					<div>
+						<div class="file-name">Бухгалтерская отчетность на 31.03.2022</div>
+						<div class="file-info">
+						Дата опубликования информации: 29.04.2022<br>						Доступ до: 30.04.2025<br>						Актуальность: до даты опубликования следующей отчетности<br>												</div>
+					</div>
+				</a>
+							</div>
+			
+
+
+				
+						
+
+			<div class="file-wrapper">
+				<a href="/upload/iblock/9dc/o5e2ax8ctkogwsekyirt3xa0qle3dfsv.pdf" target="_blank" class="file-link">
+					<div class="image">
+						<img src="/upload/resize_cache/webp/local/templates/main/images/logo3.webp">
+					</div>
+					<div>
+						<div class="file-name">Бухгалтерская отчетность на 31.12.2021</div>
+						<div class="file-info">
+						Дата опубликования информации: 29.03.2022<br>						Доступ до: 29.03.2025<br>						Актуальность: до даты опубликования следующей отчетности<br>												</div>
+					</div>
+				</a>
+							</div>
+			
+
+
+				
+						
+
+			<div class="file-wrapper">
+				<a href="/upload/iblock/bc4/3fa1s8fs19k8k5vi4ve02blp1n88y91f.pdf" target="_blank" class="file-link">
+					<div class="image">
+						<img src="/upload/resize_cache/webp/local/templates/main/images/logo3.webp">
+					</div>
+					<div>
+						<div class="file-name">Бухгалтерская отчетность на 30.09.2021</div>
+						<div class="file-info">
+						Дата опубликования информации: 29.10.2021<br>						Доступ до: 29.10.2024<br>						Актуальность: до даты опубликования следующей отчетности<br>												</div>
+					</div>
+				</a>
+							</div>
+			
+
+
+				
+						
+
+			<div class="file-wrapper">
+				<a href="/upload/iblock/add/u8f9himehem407euoxel7rg0f32on2xh.pdf" target="_blank" class="file-link">
+					<div class="image">
+						<img src="/upload/resize_cache/webp/local/templates/main/images/logo3.webp">
+					</div>
+					<div>
+						<div class="file-name">Бухгалтерская отчетность на 30.06.2021</div>
+						<div class="file-info">
+						Дата опубликования информации: 30.07.2021<br>						Доступ до: 07.09.2025<br>						Актуальность: до даты опубликования следующей отчетности<br>												</div>
+					</div>
+				</a>
+							</div>
+			
+
+
+				
+						
+
+			<div class="file-wrapper">
+				<a href="/upload/iblock/b4d/0m7sfsnj16k56rloy3nmhguz4td2f050.pdf" target="_blank" class="file-link">
+					<div class="image">
+						<img src="/upload/resize_cache/webp/local/templates/main/images/logo3.webp">
+					</div>
+					<div>
+						<div class="file-name">Бухгалтерская отчетность на 31.03.2021</div>
+						<div class="file-info">
+						Дата опубликования информации: 30.04.2021<br>						Доступ до: 08.06.2024<br>						Актуальность: до даты опубликования следующей отчетности<br>												</div>
+					</div>
+				</a>
+							</div>
+			
+
+
+				
+						
+
+			<div class="file-wrapper">
+				<a href="/upload/iblock/fec/ww3py85lrip0mve0h3p13nh6i986myk3.pdf" target="_blank" class="file-link">
+					<div class="image">
+						<img src="/upload/resize_cache/webp/local/templates/main/images/logo3.webp">
+					</div>
+					<div>
+						<div class="file-name">Бухгалтерская отчётность на 31.12.2020</div>
+						<div class="file-info">
+						Дата опубликования информации: 30.03.2021<br>						Доступ до: 08.05.2025<br>						Актуальность: до даты опубликования следующей отчетности<br>												</div>
+					</div>
+				</a>
+							</div>
+			
+
+
+				
+						
+
+			<div class="file-wrapper">
+				<a href="/upload/iblock/2ea/1azxn9hjqh1aeiwb31qjgwcb3vdeggql.pdf" target="_blank" class="file-link">
+					<div class="image">
+						<img src="/upload/resize_cache/webp/local/templates/main/images/logo3.webp">
+					</div>
+					<div>
+						<div class="file-name">Бухгалтерская отчетность на 30.09.2020</div>
+						<div class="file-info">
+						Дата опубликования информации: 29.10.2020<br>						Доступ до: 07.12.2024<br>						Актуальность: до даты опубликования следующей отчетности<br>												</div>
+					</div>
+				</a>
+							</div>
+			
+
+
+				
+						
+
+			<div class="file-wrapper">
+				<a href="/upload/iblock/1d8/ls1p54bu3ii91651z7i17yt6c9r29o7z.pdf" target="_blank" class="file-link">
+					<div class="image">
+						<img src="/upload/resize_cache/webp/local/templates/main/images/logo3.webp">
+					</div>
+					<div>
+						<div class="file-name">Бухгалтерская отчетность на 30.06.2020</div>
+						<div class="file-info">
+						Дата опубликования информации: 29.07.2020<br>						Доступ до: 27.11.2024<br>						Актуальность: до даты опубликования следующей отчетности<br>												</div>
+					</div>
+				</a>
+							</div>
+			
+
+
+				
+						
+
+			<div class="file-wrapper">
+				<a href="/upload/iblock/2af/7lojdawjgy5yei1pi4i23svnc331goj2.pdf" target="_blank" class="file-link">
+					<div class="image">
+						<img src="/upload/resize_cache/webp/local/templates/main/images/logo3.webp">
+					</div>
+					<div>
+						<div class="file-name">Бухгалтерская отчетность на 31.03.2020</div>
+						<div class="file-info">
+						Дата опубликования информации: 30.04.2020<br>						Доступ до: 01.05.2023<br>						Актуальность: до даты опубликования следующей отчетности<br>												</div>
+					</div>
+				</a>
+							</div>
+			
+
+
+				
+						
+
+			<div class="file-wrapper">
+				<a href="/upload/iblock/c98/krleh02934nqzn2jvc555bk0u8ig5tm8.pdf" target="_blank" class="file-link">
+					<div class="image">
+						<img src="/upload/resize_cache/webp/local/templates/main/images/logo3.webp">
+					</div>
+					<div>
+						<div class="file-name">Бухгалтерская отчетность на 31.12.2019</div>
+						<div class="file-info">
+						Дата опубликования информации: 19.03.2020<br>						Доступ до: 01.04.2023<br>						Актуальность: до даты опубликования следующей отчетности<br>												</div>
+					</div>
+				</a>
+							</div>
+			
+
+
+				
+						
+
+			<div class="file-wrapper">
+				<a href="/upload/iblock/515/8q90uxqxvvkrljj8px8x156mshouc0nj.pdf" target="_blank" class="file-link">
+					<div class="image">
+						<img src="/upload/resize_cache/webp/local/templates/main/images/logo3.webp">
+					</div>
+					<div>
+						<div class="file-name">Бухгалтерская отчетность на 30.09.2019</div>
+						<div class="file-info">
+						Дата опубликования информации: 12.11.2019<br>						Доступ до: 14.11.2022<br>						Актуальность: до даты опубликования следующей отчетности<br>												</div>
+					</div>
+				</a>
+								<div class="prev-doc">
+					<img src="/upload/resize_cache/webp/local/templates/main/images/doc-arrow.webp">
+					<a href="/upload/iblock/55a/osncma6w79zitfdwbnwfy7jlcpam8h9s.pdf" target="_blank" class="file-old">Предыдущая редакция документа</a>
+				</div>
+							</div>
+			
+
+
+				
+						
+
+			<div class="file-wrapper">
+				<a href="/upload/iblock/c56/qv28751s5wzbfireceqp6zs2vqbzf47l.pdf" target="_blank" class="file-link">
+					<div class="image">
+						<img src="/upload/resize_cache/webp/local/templates/main/images/logo3.webp">
+					</div>
+					<div>
+						<div class="file-name">Бухгалтерская отчетность на 30.06.2019</div>
+						<div class="file-info">
+						Дата опубликования информации: 30.07.2019<br>						Доступ до: 01.08.2022<br>						Актуальность: до даты опубликования следующей отчетности<br>												</div>
+					</div>
+				</a>
+							</div>
+			
+
+
+				
+			
+			
+		</div>
+	
+		
+			<div class="file-section">
+		<div class="h3" id="128">Финансовая отчетность по МСФО</div>	
+
+		   
+						
+
+			<div class="file-wrapper">
+				<a href="/upload/iblock/767/l5eommg7f45owbhx9b1ofmmxzuphwo27.pdf" target="_blank" class="file-link">
+					<div class="image">
+						<img src="/upload/resize_cache/webp/local/templates/main/images/logo3.webp">
+					</div>
+					<div>
+						<div class="file-name">Финансовая отчетность по МСФО на 31.12.2019</div>
+						<div class="file-info">
+						Дата опубликования информации: 20.03.2020<br>						Доступ до: 27.11.2024<br>						Актуальность: до даты опубликования следующей годовой отчетности<br>												</div>
+					</div>
+				</a>
+							</div>
+			
+
+
+				
+						
+
+			<div class="file-wrapper">
+				<a href="/upload/iblock/8ff/3lmwfwpyw9kwgkbnxnen642i1vvcrxw0.pdf" target="_blank" class="file-link">
+					<div class="image">
+						<img src="/upload/resize_cache/webp/local/templates/main/images/logo3.webp">
+					</div>
+					<div>
+						<div class="file-name">Финансовая отчетность по МСФО на 31.12.2018</div>
+						<div class="file-info">
+						Дата опубликования информации: 06.03.2019<br>						Доступ до: 01.04.2022<br>						Актуальность: до даты опубликования следующей годовой отчетности<br>												</div>
+					</div>
+				</a>
+							</div>
+			
+
+
+				
+			
+			
+		</div>
+	
+		
+			<div class="file-section">
+		<div class="h3" id="129">Аудиторские заключения</div>	
+
+		   
+						
+
+			<div class="file-wrapper">
+				<a href="/upload/iblock/bae/bt2fmkz03tgkx5q6rlbyfyfxs1bu7bdm.pdf" target="_blank" class="file-link">
+					<div class="image">
+						<img src="/upload/resize_cache/webp/local/templates/main/images/logo3.webp">
+					</div>
+					<div>
+						<div class="file-name">Аудиторское заключение независимого аудитора на 31.12.2022</div>
+						<div class="file-info">
+						Дата опубликования информации: 24.03.2023<br>						Доступ до: 24.03.2026<br>						Актуальность: до даты опубликования следующей годовой отчетности<br>												</div>
+					</div>
+				</a>
+							</div>
+			
+
+
+				
+						
+
+			<div class="file-wrapper">
+				<a href="/upload/iblock/ed8/ceomr5262njhrx5x31js16o02brk2voy.pdf" target="_blank" class="file-link">
+					<div class="image">
+						<img src="/upload/resize_cache/webp/local/templates/main/images/logo3.webp">
+					</div>
+					<div>
+						<div class="file-name">Аудиторское заключение независимого аудитора на 31.12.2021</div>
+						<div class="file-info">
+						Дата опубликования информации: 29.03.2022<br>						Доступ до: 29.03.2025<br>						Актуальность: до даты опубликования следующей годовой отчетности<br>												</div>
+					</div>
+				</a>
+							</div>
+			
+
+
+				
+						
+
+			<div class="file-wrapper">
+				<a href="/upload/iblock/a81/atlupdsyazdeoxnzrt2ctp1cbva811bj.pdf" target="_blank" class="file-link">
+					<div class="image">
+						<img src="/upload/resize_cache/webp/local/templates/main/images/logo3.webp">
+					</div>
+					<div>
+						<div class="file-name">Аудиторское заключение независимого аудитора на 31.12.2020</div>
+						<div class="file-info">
+						Дата опубликования информации: 30.03.2021<br>						Доступ до: 08.05.2025<br>						Актуальность: до даты опубликования следующей годовой отчетности<br>												</div>
+					</div>
+				</a>
+							</div>
+			
+
+
+				
+						
+
+			<div class="file-wrapper">
+				<a href="/upload/iblock/23c/1yb4nuh9u7dqb50sfrjf9v0fnpt2xerd.pdf" target="_blank" class="file-link">
+					<div class="image">
+						<img src="/upload/resize_cache/webp/local/templates/main/images/logo3.webp">
+					</div>
+					<div>
+						<div class="file-name">Аудиторское заключение независимого аудитора на 31.12.2019</div>
+						<div class="file-info">
+						Дата опубликования информации: 19.03.2020<br>						Доступ до: 27.11.2024<br>						Актуальность: до даты опубликования следующей годовой отчетности<br>												</div>
+					</div>
+				</a>
+							</div>
+			
+
+
+				
+						
+
+			<div class="file-wrapper">
+				<a href="/upload/iblock/a7d/hwnc1b60zn5qd4v4f97umn7leasfr4gn.pdf" target="_blank" class="file-link">
+					<div class="image">
+						<img src="/upload/resize_cache/webp/local/templates/main/images/logo3.webp">
+					</div>
+					<div>
+						<div class="file-name">Аудиторское заключение независимого аудитора на 31.12.2018</div>
+						<div class="file-info">
+						Дата опубликования информации: 28.02.2019<br>						Доступ до: 01.04.2022<br>						Актуальность: до даты опубликования следующей годовой отчетности<br>												</div>
+					</div>
+				</a>
+							</div>
+			
+
+
+				
+			
+			
+		</div>
+	
+		
+			<div class="file-section">
+		<div class="h3" id="130">Документы по доверительному управлению</div>	
+
+		   
+						
+
+			<div class="file-wrapper">
+				<a href="/upload/iblock/d64/1b0zkgch1rxftpkbupwv4i8dbtkriawb.pdf" target="_blank" class="file-link">
+					<div class="image">
+						<img src="/upload/resize_cache/webp/local/templates/main/images/logo3.webp">
+					</div>
+					<div>
+						<div class="file-name">Динамика среднемесячной доходности по стандартным стратегиям (апрель 2023)</div>
+						<div class="file-info">
+						Дата опубликования информации: 31.05.2023<br>						Доступ: бессрочно<br>						Актуальность: до даты вступления в действие документа в новой редакции<br>												</div>
+					</div>
+				</a>
+							</div>
+			
+
+
+				
+						
+
+			<div class="file-wrapper">
+				<a href="/upload/iblock/29f/eko7go1b7bqvnuykaevsnp5xz2p7mksf.pdf" target="_blank" class="file-link">
+					<div class="image">
+						<img src="/upload/resize_cache/webp/local/templates/main/images/logo3.webp">
+					</div>
+					<div>
+						<div class="file-name">Динамика среднемесячной доходности по стандартным стратегиям (март 2023)</div>
+						<div class="file-info">
+						Дата опубликования информации: 18.04.2023<br>						Доступ: бессрочно<br>						Актуальность: до даты вступления в действие документа в новой редакции<br>												</div>
+					</div>
+				</a>
+							</div>
+			
+
+
+				
+						
+
+			<div class="file-wrapper">
+				<a href="/upload/iblock/241/q782ovmbfqzxdyzb4ecdgkbc360p5jgi.pdf" target="_blank" class="file-link">
+					<div class="image">
+						<img src="/upload/resize_cache/webp/local/templates/main/images/logo3.webp">
+					</div>
+					<div>
+						<div class="file-name">Динамика среднемесячной доходности по стандартным стратегиям (февраль 2023)</div>
+						<div class="file-info">
+						Дата опубликования информации: 29.03.2023<br>						Доступ: бессрочно<br>						Актуальность: до даты вступления в действие документа в новой редакции<br>												</div>
+					</div>
+				</a>
+							</div>
+			
+
+
+				
+						
+
+			<div class="file-wrapper">
+				<a href="/upload/iblock/6f1/9ay727l3j2zrpz0737pgxjanxwtlf5iq.docx" target="_blank" class="file-link">
+					<div class="image">
+						<img src="/upload/resize_cache/webp/local/templates/main/images/logo3.webp">
+					</div>
+					<div>
+						<div class="file-name">Договор Д.У. Стандартная стратегия не ИИС (Образец)</div>
+						<div class="file-info">
+						Дата опубликования информации: 02.03.2023<br>						Доступ: бессрочно<br>																		</div>
+					</div>
+				</a>
+							</div>
+			
+
+
+				
+						
+
+			<div class="file-wrapper">
+				<a href="/upload/iblock/ae8/7ur22yumf8xaoxcqslri0gaze34ky6nb.docx" target="_blank" class="file-link">
+					<div class="image">
+						<img src="/upload/resize_cache/webp/local/templates/main/images/logo3.webp">
+					</div>
+					<div>
+						<div class="file-name">Договор Д.У. Стандартная стратегия ИИС (Образец)</div>
+						<div class="file-info">
+						Дата опубликования информации: 02.03.2023<br>						Доступ: бессрочно<br>																		</div>
+					</div>
+				</a>
+							</div>
+			
+
+
+				
+						
+
+			<div class="file-wrapper">
+				<a href="/upload/iblock/35b/wn18cbsp2ced4mei1xp55vlsl9f0ai1t.pdf" target="_blank" class="file-link">
+					<div class="image">
+						<img src="/upload/resize_cache/webp/local/templates/main/images/logo3.webp">
+					</div>
+					<div>
+						<div class="file-name">Динамика среднемесячной доходности по стандартным стратегиям (январь 2023)</div>
+						<div class="file-info">
+						Дата опубликования информации: 22.02.2023<br>						Доступ: бессрочно<br>						Актуальность: до даты вступления в действие документа в новой редакции<br>												</div>
+					</div>
+				</a>
+							</div>
+			
+
+
+				
+						
+
+			<div class="file-wrapper">
+				<a href="/upload/iblock/5a4/34am0luaqj06kcxoyrpvaz0gtyatd5ly.pdf" target="_blank" class="file-link">
+					<div class="image">
+						<img src="/upload/resize_cache/webp/local/templates/main/images/logo3.webp">
+					</div>
+					<div>
+						<div class="file-name">Перечень стандартных стратегий</div>
+						<div class="file-info">
+						Дата опубликования информации: 21.02.2023<br>						Доступ: бессрочно<br>																		</div>
+					</div>
+				</a>
+							</div>
+			
+
+
+				
+						
+
+			<div class="file-wrapper">
+				<a href="/upload/iblock/925/o46xrg2auesdpi6pa5913pa5brold1pt.pdf" target="_blank" class="file-link">
+					<div class="image">
+						<img src="/upload/resize_cache/webp/local/templates/main/images/logo3.webp">
+					</div>
+					<div>
+						<div class="file-name">ПРИКАЗ О размещении перечня стандартных стратегий на сайте АО «ФБ «Август»</div>
+						<div class="file-info">
+						Дата опубликования информации: 21.02.2023<br>						Доступ: бессрочно<br>																		</div>
+					</div>
+				</a>
+							</div>
+			
+
+
+				
+						
+
+			<div class="file-wrapper">
+				<a href="/upload/iblock/d6e/ouggzvt612dvaaa1kb573gq4yjvoblkv.pdf" target="_blank" class="file-link">
+					<div class="image">
+						<img src="/upload/resize_cache/webp/local/templates/main/images/logo3.webp">
+					</div>
+					<div>
+						<div class="file-name">Инвестиционная декларация «Стандартная стратегия «Инвестинг» (4-ая редакция )</div>
+						<div class="file-info">
+						Дата опубликования информации: 21.02.2023<br>						Доступ: бессрочно<br>												Период актуальности: с 03.03.2023 г.<br>						</div>
+					</div>
+				</a>
+							</div>
+			
+
+
+				
+						
+
+			<div class="file-wrapper">
+				<a href="/upload/iblock/a42/zyebbm7ewccs7qwms7q03uz2tywbg2f6.pdf" target="_blank" class="file-link">
+					<div class="image">
+						<img src="/upload/resize_cache/webp/local/templates/main/images/logo3.webp">
+					</div>
+					<div>
+						<div class="file-name">Инвестиционная декларация «Стандартная стратегия «ATRUST 10» ред. 1</div>
+						<div class="file-info">
+						Дата опубликования информации: 21.02.2023<br>						Доступ: бессрочно<br>												Период актуальности: с 21.02.2023 г.<br>						</div>
+					</div>
+				</a>
+							</div>
+			
+
+
+				
+						
+
+			<div class="file-wrapper">
+				<a href="/upload/iblock/02b/md0gguxe0v5gto485hp3mg135njija0t.pdf" target="_blank" class="file-link">
+					<div class="image">
+						<img src="/upload/resize_cache/webp/local/templates/main/images/logo3.webp">
+					</div>
+					<div>
+						<div class="file-name">Инвестиционная декларация «Стандартная стратегия «ATRUST 5» ред. 1</div>
+						<div class="file-info">
+						Дата опубликования информации: 21.02.2023<br>						Доступ: бессрочно<br>												Период актуальности: с 21.02.2023 г.<br>						</div>
+					</div>
+				</a>
+							</div>
+			
+
+
+				
+						
+
+			<div class="file-wrapper">
+				<a href="/upload/iblock/70a/ig8g2g378f4s0qari0ouziqsjy32ib0r.pdf" target="_blank" class="file-link">
+					<div class="image">
+						<img src="/upload/resize_cache/webp/local/templates/main/images/logo3.webp">
+					</div>
+					<div>
+						<div class="file-name">Инвестиционная декларация «Стандартная стратегия «ATRUST» ред. 1</div>
+						<div class="file-info">
+						Дата опубликования информации: 21.02.2023<br>						Доступ: бессрочно<br>												Период актуальности: с 21.02.2023 г.<br>						</div>
+					</div>
+				</a>
+							</div>
+			
+
+
+				
+						
+
+			<div class="file-wrapper">
+				<a href="/upload/iblock/7c0/kao7xml7axg6k18d57nkh3l1tcwig170.pdf" target="_blank" class="file-link">
+					<div class="image">
+						<img src="/upload/resize_cache/webp/local/templates/main/images/logo3.webp">
+					</div>
+					<div>
+						<div class="file-name">Приказ от 21.02.2023 № 21-02-23_1 (три стратегии ATRUST и Инвестинг 4-я редакция)</div>
+						<div class="file-info">
+						Дата опубликования информации: 21.02.2023<br>						Доступ: бессрочно<br>																		</div>
+					</div>
+				</a>
+							</div>
+			
+
+
+				
+						
+
+			<div class="file-wrapper">
+				<a href="/upload/iblock/b16/01ii0u00btjdgwitlpbumr02n2ukxgtb.pdf" target="_blank" class="file-link">
+					<div class="image">
+						<img src="/upload/resize_cache/webp/local/templates/main/images/logo3.webp">
+					</div>
+					<div>
+						<div class="file-name">Приказ об утверждении тарифов «ATRUST», «ATRUST 5», «ATRUST 10» </div>
+						<div class="file-info">
+						Дата опубликования информации: 21.02.2023<br>						Доступ: бессрочно<br>																		</div>
+					</div>
+				</a>
+							</div>
+			
+
+
+				
+						
+
+			<div class="file-wrapper">
+				<a href="/upload/iblock/884/jspc83mkynvjbt0g84s325end6usb3bp.pdf" target="_blank" class="file-link">
+					<div class="image">
+						<img src="/upload/resize_cache/webp/local/templates/main/images/logo3.webp">
+					</div>
+					<div>
+						<div class="file-name">Динамика среднемесячной доходности по стандартным стратегиям (декабрь 2022)</div>
+						<div class="file-info">
+						Дата опубликования информации: 25.01.2023<br>						Доступ: бессрочно<br>						Актуальность: до даты вступления в действие документа в новой редакции<br>												</div>
+					</div>
+				</a>
+							</div>
+			
+
+
+				
+						
+
+			<div class="file-wrapper">
+				<a href="/upload/iblock/afe/as2nemsgw2w117jgsgoxljovl1wvwohr.pdf" target="_blank" class="file-link">
+					<div class="image">
+						<img src="/upload/resize_cache/webp/local/templates/main/images/logo3.webp">
+					</div>
+					<div>
+						<div class="file-name">Перечень стандартных стратегий</div>
+						<div class="file-info">
+						Дата опубликования информации: 23.01.2023<br>						Доступ: бессрочно<br>						Актуальность: до даты вступления в действие документа в новой редакции<br>						Период актуальности: c 23.01.2023 г.<br>						</div>
+					</div>
+				</a>
+							</div>
+			
+
+
+				
+						
+
+			<div class="file-wrapper">
+				<a href="/upload/iblock/f80/du9c982awezjqywzhmjt434ooexnvq45.pdf" target="_blank" class="file-link">
+					<div class="image">
+						<img src="/upload/resize_cache/webp/local/templates/main/images/logo3.webp">
+					</div>
+					<div>
+						<div class="file-name">Приказ: О размещении перечня стандартных стратегий на сайте АО «ФБ «Август»</div>
+						<div class="file-info">
+						Дата опубликования информации: 23.01.2023<br>						Доступ: бессрочно<br>						Актуальность: до даты вступления в действие документа в новой редакции<br>						Период актуальности: c 23.01.2023 г.<br>						</div>
+					</div>
+				</a>
+							</div>
+			
+
+
+				
+						
+
+			<div class="file-wrapper">
+				<a href="/upload/iblock/a6d/6rq8zhszq7gbups96auaeismfl09nic5.pdf" target="_blank" class="file-link">
+					<div class="image">
+						<img src="/upload/resize_cache/webp/local/templates/main/images/logo3.webp">
+					</div>
+					<div>
+						<div class="file-name">Приказ: О прекращении действия (двух) стандартных стратегий АО «ФБ «Август»</div>
+						<div class="file-info">
+						Дата опубликования информации: 23.01.2023<br>						Доступ: бессрочно<br>						Актуальность: до даты вступления в действие документа в новой редакции<br>						Период актуальности: с 23.01.2023 г.<br>						</div>
+					</div>
+				</a>
+							</div>
+			
+
+
+				
+						
+
+			<div class="file-wrapper">
+				<a href="/upload/iblock/84d/89jgi05xls5v7imj6sbhpkhlf0d210z3.pdf" target="_blank" class="file-link">
+					<div class="image">
+						<img src="/upload/resize_cache/webp/local/templates/main/images/logo3.webp">
+					</div>
+					<div>
+						<div class="file-name"> ДОГОВОР доверительного управления на рынке ценных бумаг (ИИС)</div>
+						<div class="file-info">
+						Дата опубликования информации: 19.12.2022<br>						Доступ: бессрочно<br>						Актуальность: до даты вступления в действие документа в новой редакции<br>												</div>
+					</div>
+				</a>
+							</div>
+			
+
+
+				
+						
+
+			<div class="file-wrapper">
+				<a href="/upload/iblock/5ad/5mb152fl14doufyg3dx1mkxd7in43kuv.pdf" target="_blank" class="file-link">
+					<div class="image">
+						<img src="/upload/resize_cache/webp/local/templates/main/images/logo3.webp">
+					</div>
+					<div>
+						<div class="file-name">ДЕКЛАРАЦИЯ О РИСКАХ</div>
+						<div class="file-info">
+						Дата опубликования информации: 19.12.2022<br>						Доступ: бессрочно<br>												Период актуальности: с 29.12.2022 г.<br>						</div>
+					</div>
+				</a>
+								<div class="prev-doc">
+					<img src="/upload/resize_cache/webp/local/templates/main/images/doc-arrow.webp">
+					<a href="/upload/iblock/092/1suqwrkio6j93wr0kxpu15ch1ktrab79.pdf" target="_blank" class="file-old">Предыдущая редакция документа</a>
+				</div>
+							</div>
+			
+
+
+				
+						
+
+			<div class="file-wrapper">
+				<a href="/upload/iblock/2d9/otjp0r76t593san8gzg8admt8tzayo6x.pdf" target="_blank" class="file-link">
+					<div class="image">
+						<img src="/upload/resize_cache/webp/local/templates/main/images/logo3.webp">
+					</div>
+					<div>
+						<div class="file-name">ПОРЯДОК определения инвестиционного профиля клиента АО «ФБ «Август» и перечень сведений, необходимых для его определения (новая редакция) от 19.12.2022</div>
+						<div class="file-info">
+						Дата опубликования информации: 19.12.2022<br>						Доступ: бессрочно<br>						Актуальность: до даты вступления в действие документа в новой редакции<br>						Период актуальности: с 29.12.2022 г.<br>						</div>
+					</div>
+				</a>
+								<div class="prev-doc">
+					<img src="/upload/resize_cache/webp/local/templates/main/images/doc-arrow.webp">
+					<a href="/upload/iblock/0e6/x2uj9n1k4uopqp6adsu8yvjv5ajli261.pdf" target="_blank" class="file-old">Предыдущая редакция документа</a>
+				</div>
+							</div>
+			
+
+
+				
+						
+
+			<div class="file-wrapper">
+				<a href="/upload/iblock/aad/6n0wy8mva8vdamrdewyoy220zy1nci33.pdf" target="_blank" class="file-link">
+					<div class="image">
+						<img src="/upload/resize_cache/webp/local/templates/main/images/logo3.webp">
+					</div>
+					<div>
+						<div class="file-name">ПОЛОЖЕНИЕ Акционерного общества «Финансовый брокер «Август» о доверительном управлении ценными бумагами (новая редакция)</div>
+						<div class="file-info">
+						Дата опубликования информации: 19.12.2022<br>						Доступ: бессрочно<br>						Актуальность: до даты вступления в действие документа в новой редакции<br>						Период актуальности: с 29.12.2022 г.<br>						</div>
+					</div>
+				</a>
+								<div class="prev-doc">
+					<img src="/upload/resize_cache/webp/local/templates/main/images/doc-arrow.webp">
+					<a href="/upload/iblock/ba9/gmehedipn572je9ydzz31vyqx043p11p.pdf" target="_blank" class="file-old">Предыдущая редакция документа</a>
+				</div>
+							</div>
+			
+
+
+				
+						
+
+			<div class="file-wrapper">
+				<a href="/upload/iblock/488/pl95re1r8hffqk0pvkgs11qmitw5h00h.pdf" target="_blank" class="file-link">
+					<div class="image">
+						<img src="/upload/resize_cache/webp/local/templates/main/images/logo3.webp">
+					</div>
+					<div>
+						<div class="file-name">Договор ДУ Стандартная стратегия </div>
+						<div class="file-info">
+						Дата опубликования информации: 19.12.2022<br>						Доступ: бессрочно<br>						Актуальность: до даты вступления в действие документа в новой редакции<br>												</div>
+					</div>
+				</a>
+								<div class="prev-doc">
+					<img src="/upload/resize_cache/webp/local/templates/main/images/doc-arrow.webp">
+					<a href="/upload/iblock/891/yciia4edm8eir2uwikmik3c50e13ozmv.pdf" target="_blank" class="file-old">Предыдущая редакция документа</a>
+				</div>
+							</div>
+			
+
+
+				
+						
+
+			<div class="file-wrapper">
+				<a href="/upload/iblock/311/dyq5aiq6o3djagwpl7g0y5a9tbhc3rxl.pdf" target="_blank" class="file-link">
+					<div class="image">
+						<img src="/upload/resize_cache/webp/local/templates/main/images/logo3.webp">
+					</div>
+					<div>
+						<div class="file-name">Приказ от 19.12.2022 № 19-12-22_1</div>
+						<div class="file-info">
+						Дата опубликования информации: 19.12.2022<br>						Доступ: бессрочно<br>																		</div>
+					</div>
+				</a>
+							</div>
+			
+
+
+				
+						
+
+			<div class="file-wrapper">
+				<a href="/upload/iblock/011/chslcqyy2c094pdmitkalbw5qysq0hq8.pdf" target="_blank" class="file-link">
+					<div class="image">
+						<img src="/upload/resize_cache/webp/local/templates/main/images/logo3.webp">
+					</div>
+					<div>
+						<div class="file-name">Cтандартная стратегия «Стандартная стратегия «Инвестинг» (3-ая редакция)</div>
+						<div class="file-info">
+						Дата опубликования информации: 12.12.2022<br>						Доступ: бессрочно<br>						Актуальность: до даты вступления в действие документа в новой редакции<br>												</div>
+					</div>
+				</a>
+								<div class="prev-doc">
+					<img src="/upload/resize_cache/webp/local/templates/main/images/doc-arrow.webp">
+					<a href="/upload/iblock/5f9/zg1r7a7rn7aspiwevy71xpzycy0zssb3.pdf" target="_blank" class="file-old">Предыдущая редакция документа</a>
+				</div>
+							</div>
+			
+
+
+				
+						
+
+			<div class="file-wrapper">
+				<a href="/upload/iblock/60c/w3g0fk0apwz3iwr936cevhvbwiueavh5.pdf" target="_blank" class="file-link">
+					<div class="image">
+						<img src="/upload/resize_cache/webp/local/templates/main/images/logo3.webp">
+					</div>
+					<div>
+						<div class="file-name">Динамика среднемесячной доходности (ноябрь 2022)</div>
+						<div class="file-info">
+						Дата опубликования информации: 05.12.2022<br>						Доступ: бессрочно<br>						Актуальность: до даты вступления в действие документа в новой редакции<br>												</div>
+					</div>
+				</a>
+							</div>
+			
+
+
+				
+						
+
+			<div class="file-wrapper">
+				<a href="/upload/iblock/856/62z2u25t2ah01f2t9q32uhkglbzmmlu6.pdf" target="_blank" class="file-link">
+					<div class="image">
+						<img src="/upload/resize_cache/webp/local/templates/main/images/logo3.webp">
+					</div>
+					<div>
+						<div class="file-name">Динамика среднемесячной доходности (октябрь 2022)</div>
+						<div class="file-info">
+						Дата опубликования информации: 30.11.2022<br>						Доступ: бессрочно<br>						Актуальность: до даты вступления в действие документа в новой редакции<br>												</div>
+					</div>
+				</a>
+							</div>
+			
+
+
+				
+						
+
+			<div class="file-wrapper">
+				<a href="/upload/iblock/c42/7txhh712khpcajc7osc8d0kckl64hb9i.pdf" target="_blank" class="file-link">
+					<div class="image">
+						<img src="/upload/resize_cache/webp/local/templates/main/images/logo3.webp">
+					</div>
+					<div>
+						<div class="file-name">Приказ об утверждении третьей редакции Стандартной стратегии «Инвестинг»</div>
+						<div class="file-info">
+						Дата опубликования информации: 29.11.2022<br>						Доступ: бессрочно<br>						Актуальность: до даты вступления в действие документа в новой редакции<br>												</div>
+					</div>
+				</a>
+							</div>
+			
+
+
+				
+						
+
+			<div class="file-wrapper">
+				<a href="/upload/iblock/137/isz7g4y00gry8lusnxuq3gxsz9xpbr4w.pdf" target="_blank" class="file-link">
+					<div class="image">
+						<img src="/upload/resize_cache/webp/local/templates/main/images/logo3.webp">
+					</div>
+					<div>
+						<div class="file-name">Отчет о деятельности доверительного управляющего</div>
+						<div class="file-info">
+						Дата опубликования информации: 22.11.2022<br>						Доступ: бессрочно<br>						Актуальность: до даты вступления в действие документа в новой редакции<br>												</div>
+					</div>
+				</a>
+							</div>
+			
+
+
+				
+						
+
+			<div class="file-wrapper">
+				<a href="/upload/iblock/393/oom4iwd82f8vqsome2d22s7wjge1yrto.pdf" target="_blank" class="file-link">
+					<div class="image">
+						<img src="/upload/resize_cache/webp/local/templates/main/images/logo3.webp">
+					</div>
+					<div>
+						<div class="file-name">Динамика среднемесячной доходности (сентябрь 2022)</div>
+						<div class="file-info">
+						Дата опубликования информации: 26.10.2022<br>						Доступ: бессрочно<br>						Актуальность: до даты вступления в действие документа в новой редакции<br>												</div>
+					</div>
+				</a>
+							</div>
+			
+
+
+				
+						
+
+			<div class="file-wrapper">
+				<a href="/upload/iblock/9e9/3buqahowbyzcdeakdcy1f87psy26r3dy.pdf" target="_blank" class="file-link">
+					<div class="image">
+						<img src="/upload/resize_cache/webp/local/templates/main/images/logo3.webp">
+					</div>
+					<div>
+						<div class="file-name">Динамика среднемесячной доходности по стандартным стратегиям (август2022) </div>
+						<div class="file-info">
+						Дата опубликования информации: 30.09.2022<br>						Доступ: бессрочно<br>						Актуальность: До даты вступления документа в новой редакции<br>												</div>
+					</div>
+				</a>
+							</div>
+			
+
+
+				
+						
+
+			<div class="file-wrapper">
+				<a href="/upload/iblock/e05/q3zjrqvocgheqdjgmtucb97vyixpt9zp.pdf" target="_blank" class="file-link">
+					<div class="image">
+						<img src="/upload/resize_cache/webp/local/templates/main/images/logo3.webp">
+					</div>
+					<div>
+						<div class="file-name">Типовая форма договора по инвестиционному консультированию</div>
+						<div class="file-info">
+						Дата опубликования информации: 01.09.2022<br>						Доступ: бессрочно<br>						Актуальность: до даты вступления в действие документа в новой редакции<br>												</div>
+					</div>
+				</a>
+							</div>
+			
+
+
+				
+						
+
+			<div class="file-wrapper">
+				<a href="/upload/iblock/d47/i8uzj2w9y7dqw9f68t4ahg533jh8yxrs.pdf" target="_blank" class="file-link">
+					<div class="image">
+						<img src="/upload/resize_cache/webp/local/templates/main/images/logo3.webp">
+					</div>
+					<div>
+						<div class="file-name">Порядок определения инвестиционного профиля клиента АО «ФБ «Август» при осуществлении деятельности по инвестиционному консультированию</div>
+						<div class="file-info">
+						Дата опубликования информации: 01.09.2022<br>						Доступ: бессрочно<br>						Актуальность: до даты вступления в действие документа в новой редакции<br>												</div>
+					</div>
+				</a>
+							</div>
+			
+
+
+				
+						
+
+			<div class="file-wrapper">
+				<a href="/upload/iblock/4c4/tf6mr5l3291m5fd5en7eflckvxsiayd0.pdf" target="_blank" class="file-link">
+					<div class="image">
+						<img src="/upload/resize_cache/webp/local/templates/main/images/logo3.webp">
+					</div>
+					<div>
+						<div class="file-name">Правила выявления и контроля конфликта интересов при осуществлении АО «ФБ «Август» деятельности по инвестиционному консультированию</div>
+						<div class="file-info">
+						Дата опубликования информации: 01.09.2022<br>						Доступ: бессрочно<br>						Актуальность: до даты вступления в действие документа в новой редакции<br>												</div>
+					</div>
+				</a>
+							</div>
+			
+
+
+				
+						
+
+			<div class="file-wrapper">
+				<a href="/upload/iblock/4a0/wn62j9h491beawpclv905ceg2x8w1z0i.pdf" target="_blank" class="file-link">
+					<div class="image">
+						<img src="/upload/resize_cache/webp/local/templates/main/images/logo3.webp">
+					</div>
+					<div>
+						<div class="file-name">Динамика среднемесячной доходности (июль 2022) </div>
+						<div class="file-info">
+						Дата опубликования информации: 31.08.2022<br>						Доступ: бессрочно<br>						Актуальность: До даты вступления документа в новой редакции<br>												</div>
+					</div>
+				</a>
+							</div>
+			
+
+
+				
+						
+
+			<div class="file-wrapper">
+				<a href="/upload/iblock/ca6/imnoif14lwzxnxkwoydbtrllj0nb0dfo.pdf" target="_blank" class="file-link">
+					<div class="image">
+						<img src="/upload/resize_cache/webp/local/templates/main/images/logo3.webp">
+					</div>
+					<div>
+						<div class="file-name">Динамика среднемесячной доходности (июнь 2022) </div>
+						<div class="file-info">
+						Дата опубликования информации: 29.07.2022<br>						Доступ: бессрочно<br>						Актуальность: До даты вступления документа в новой редакции<br>												</div>
+					</div>
+				</a>
+							</div>
+			
+
+
+				
+						
+
+			<div class="file-wrapper">
+				<a href="/upload/iblock/7cd/zy8l3ripybw1pmf95chagnewdcsvmsgn.pdf" target="_blank" class="file-link">
+					<div class="image">
+						<img src="/upload/resize_cache/webp/local/templates/main/images/logo3.webp">
+					</div>
+					<div>
+						<div class="file-name">Динамика среднемесячной доходности (май 2022)</div>
+						<div class="file-info">
+						Дата опубликования информации: 30.06.2022<br>						Доступ: бессрочно<br>						Актуальность: до даты вступления в действие документа в новой редакции<br>												</div>
+					</div>
+				</a>
+							</div>
+			
+
+
+				
+						
+
+			<div class="file-wrapper">
+				<a href="/upload/iblock/65b/iquxnuw89qolb11bl9u40gf0mgjagkhy.pdf" target="_blank" class="file-link">
+					<div class="image">
+						<img src="/upload/resize_cache/webp/local/templates/main/images/logo3.webp">
+					</div>
+					<div>
+						<div class="file-name">Стандартная стратегия Triple A (2-ая ред.)</div>
+						<div class="file-info">
+						Дата опубликования информации: 13.06.2022<br>						Доступ: бессрочно<br>						Актуальность: до даты вступления в действие документа в новой редакции<br>												</div>
+					</div>
+				</a>
+								<div class="prev-doc">
+					<img src="/upload/resize_cache/webp/local/templates/main/images/doc-arrow.webp">
+					<a href="/upload/iblock/6be/e8kdyzjf31u2666ju4nv0f4emq0o16um.pdf" target="_blank" class="file-old">Предыдущая редакция документа</a>
+				</div>
+							</div>
+			
+
+
+				
+						
+
+			<div class="file-wrapper">
+				<a href="/upload/iblock/b37/ns7ntco3mdxxq2z4sq1ks14m62bkev80.pdf" target="_blank" class="file-link">
+					<div class="image">
+						<img src="/upload/resize_cache/webp/local/templates/main/images/logo3.webp">
+					</div>
+					<div>
+						<div class="file-name">Стандартная стратегия SP52 (2-ая ред.)</div>
+						<div class="file-info">
+						Дата опубликования информации: 13.06.2022<br>						Доступ: бессрочно<br>						Актуальность: до даты вступления в действие документа в новой редакции<br>												</div>
+					</div>
+				</a>
+								<div class="prev-doc">
+					<img src="/upload/resize_cache/webp/local/templates/main/images/doc-arrow.webp">
+					<a href="/upload/iblock/8cf/7mk6o8geyvitkl60c0m966job10nyda1.pdf" target="_blank" class="file-old">Предыдущая редакция документа</a>
+				</div>
+							</div>
+			
+
+
+				
+						
+
+			<div class="file-wrapper">
+				<a href="/upload/iblock/9a0/5a3pcld701lqo5xcdeye0jg0ye1onj6v.pdf" target="_blank" class="file-link">
+					<div class="image">
+						<img src="/upload/resize_cache/webp/local/templates/main/images/logo3.webp">
+					</div>
+					<div>
+						<div class="file-name">Стандартная стратегия Статус 5 (2-ая ред.)</div>
+						<div class="file-info">
+						Дата опубликования информации: 13.06.2022<br>						Доступ: бессрочно<br>						Актуальность: до даты вступления в действие документа в новой редакции<br>												</div>
+					</div>
+				</a>
+							</div>
+			
+
+
+				
+						
+
+			<div class="file-wrapper">
+				<a href="/upload/iblock/fec/g1opn240k1vhy56xle052kswk30uj3kl.pdf" target="_blank" class="file-link">
+					<div class="image">
+						<img src="/upload/resize_cache/webp/local/templates/main/images/logo3.webp">
+					</div>
+					<div>
+						<div class="file-name">Стандартная стратегия Статус 10  (2-ая ред.)</div>
+						<div class="file-info">
+						Дата опубликования информации: 13.06.2022<br>						Доступ: бессрочно<br>						Актуальность: до даты вступления в действие документа в новой редакции<br>												</div>
+					</div>
+				</a>
+							</div>
+			
+
+
+				
+						
+
+			<div class="file-wrapper">
+				<a href="/upload/iblock/0b9/2d5mfonx47glwv7ru6tao7oi0iqx2rob.pdf" target="_blank" class="file-link">
+					<div class="image">
+						<img src="/upload/resize_cache/webp/local/templates/main/images/logo3.webp">
+					</div>
+					<div>
+						<div class="file-name">Стандартная стратегия Инвестинг 5 (2-ая ред.)</div>
+						<div class="file-info">
+						Дата опубликования информации: 13.06.2022<br>						Доступ: бессрочно<br>						Актуальность: до даты вступления в действие документа в новой редакции<br>												</div>
+					</div>
+				</a>
+							</div>
+			
+
+
+				
+						
+
+			<div class="file-wrapper">
+				<a href="/upload/iblock/6e2/gftq4fc21nxnv2ufr38yznwdfs7gcqn1.pdf" target="_blank" class="file-link">
+					<div class="image">
+						<img src="/upload/resize_cache/webp/local/templates/main/images/logo3.webp">
+					</div>
+					<div>
+						<div class="file-name">Стандартная стратегия Инвестинг 10 (2-ая ред.)</div>
+						<div class="file-info">
+						Дата опубликования информации: 13.06.2022<br>						Доступ: бессрочно<br>						Актуальность: до даты вступления в действие документа в новой редакции<br>												</div>
+					</div>
+				</a>
+							</div>
+			
+
+
+				
+						
+
+			<div class="file-wrapper">
+				<a href="/upload/iblock/956/rvdzlzma7vabvg5eriu3uc9owl6dp89o.pdf" target="_blank" class="file-link">
+					<div class="image">
+						<img src="/upload/resize_cache/webp/local/templates/main/images/logo3.webp">
+					</div>
+					<div>
+						<div class="file-name">Приказ об утверждении второй редакции стандартных стратегий: «Тriple А»; «Инвестинг»; «SP52»; «Статус»; «GAME-Индустрия»; «Валютный резерв»; «Рублёвый резерв»; «Статус 5»; «Статус 10»; «Инвестинг 5»; «Инвестинг 10»; «Динамическая»</div>
+						<div class="file-info">
+						Дата опубликования информации: 01.06.2022<br>						Доступ: бессрочно<br>						Актуальность: до даты вступления в действие документа в новой редакции<br>												</div>
+					</div>
+				</a>
+							</div>
+			
+
+
+				
+						
+
+			<div class="file-wrapper">
+				<a href="/upload/iblock/a6e/ld102j35e1zd5a6188up0gh9zp4514w1.pdf" target="_blank" class="file-link">
+					<div class="image">
+						<img src="/upload/resize_cache/webp/local/templates/main/images/logo3.webp">
+					</div>
+					<div>
+						<div class="file-name">Утверждение тарифов для физ. лиц за ведение индивидуального инвестиционного портфеля</div>
+						<div class="file-info">
+						Дата опубликования информации: 30.05.2022<br>						Доступ: бессрочно<br>																		</div>
+					</div>
+				</a>
+							</div>
+			
+
+
+				
+						
+
+			<div class="file-wrapper">
+				<a href="/upload/iblock/b69/qeajfg1la3e5naxpiyaomg9i8rcle1hr.pdf" target="_blank" class="file-link">
+					<div class="image">
+						<img src="/upload/resize_cache/webp/local/templates/main/images/logo3.webp">
+					</div>
+					<div>
+						<div class="file-name">Динамика среднемесячной доходности (апрель 2022)</div>
+						<div class="file-info">
+						Дата опубликования информации: 26.05.2022<br>						Доступ: бессрочно<br>						Актуальность: до даты вступления в действие документа в новой редакции<br>												</div>
+					</div>
+				</a>
+							</div>
+			
+
+
+				
+						
+
+			<div class="file-wrapper">
+				<a href="/upload/iblock/0b0/oviwns4ljyf8e0znqikqepu91phn01e8.pdf" target="_blank" class="file-link">
+					<div class="image">
+						<img src="/upload/resize_cache/webp/local/templates/main/images/logo3.webp">
+					</div>
+					<div>
+						<div class="file-name">Динамика среднемесячной доходности по стандартным стратегиям (март 2022)</div>
+						<div class="file-info">
+						Дата опубликования информации: 26.04.2022<br>						Доступ: бессрочно<br>						Актуальность: до даты вступления в действие документа в новой редакции<br>												</div>
+					</div>
+				</a>
+							</div>
+			
+
+
+				
+						
+
+			<div class="file-wrapper">
+				<a href="/upload/iblock/c4e/u6jieta8tsy3f4ch04s8g37197uqgguf.pdf" target="_blank" class="file-link">
+					<div class="image">
+						<img src="/upload/resize_cache/webp/local/templates/main/images/logo3.webp">
+					</div>
+					<div>
+						<div class="file-name">Динамика среднемесячной доходности по стандартным стратегиям (февраль 2022)</div>
+						<div class="file-info">
+						Дата опубликования информации: 31.03.2022<br>						Доступ: бессрочно<br>						Актуальность: до даты вступления в действие документа в новой редакции<br>												</div>
+					</div>
+				</a>
+							</div>
+			
+
+
+				
+						
+
+			<div class="file-wrapper">
+				<a href="/upload/iblock/fe7/g4ikq86zbc3zz8t9jmx1akp3gvkrfyfb.pdf" target="_blank" class="file-link">
+					<div class="image">
+						<img src="/upload/resize_cache/webp/local/templates/main/images/logo3.webp">
+					</div>
+					<div>
+						<div class="file-name">Утверждение тарифов для юридических лиц за ведение инвестиционного портфеля по стратегиям</div>
+						<div class="file-info">
+						Дата опубликования информации: 24.03.2022<br>						Доступ: бессрочно<br>						Актуальность: до даты вступления в действие документа в новой редакции<br>												</div>
+					</div>
+				</a>
+							</div>
+			
+
+
+				
+						
+
+			<div class="file-wrapper">
+				<a href="/upload/iblock/22c/m7zowpptgv61hya2tclt99oxz485gxra.pdf" target="_blank" class="file-link">
+					<div class="image">
+						<img src="/upload/resize_cache/webp/local/templates/main/images/logo3.webp">
+					</div>
+					<div>
+						<div class="file-name">Приказ об утв. Положения о вознаграждении (6-ая редакция)</div>
+						<div class="file-info">
+						Дата опубликования информации: 17.03.2022<br>						Доступ: бессрочно<br>						Актуальность: до даты вступления в действие документа в новой редакции<br>												</div>
+					</div>
+				</a>
+							</div>
+			
+
+
+				
+						
+
+			<div class="file-wrapper">
+				<a href="/upload/iblock/9a6/ikh8oeitjolkyy3g9d9yp1mjx28d3mjn.pdf" target="_blank" class="file-link">
+					<div class="image">
+						<img src="/upload/resize_cache/webp/local/templates/main/images/logo3.webp">
+					</div>
+					<div>
+						<div class="file-name">Положение о вознаграждении Управляющего (6-я ред.)</div>
+						<div class="file-info">
+						Дата опубликования информации: 17.03.2022<br>						Доступ: бессрочно<br>						Актуальность: до даты вступления в действие документа в новой редакции<br>												</div>
+					</div>
+				</a>
+							</div>
+			
+
+
+				
+						
+
+			<div class="file-wrapper">
+				<a href="/upload/iblock/c8d/liiwi7qmmqr92nw1lf81qg9hw8kor42j.pdf" target="_blank" class="file-link">
+					<div class="image">
+						<img src="/upload/resize_cache/webp/local/templates/main/images/logo3.webp">
+					</div>
+					<div>
+						<div class="file-name">Приказ об утверждении тарифов «Triple A», «SP52»</div>
+						<div class="file-info">
+						Дата опубликования информации: 25.02.2022<br>						Доступ: бессрочно<br>						Актуальность: до даты вступления в действие документа в новой редакции<br>												</div>
+					</div>
+				</a>
+							</div>
+			
+
+
+				
+						
+
+			<div class="file-wrapper">
+				<a href="/upload/iblock/8e2/prmd1tvl2dkpld9phhuu8s2aq984wzgd.pdf" target="_blank" class="file-link">
+					<div class="image">
+						<img src="/upload/resize_cache/webp/local/templates/main/images/logo3.webp">
+					</div>
+					<div>
+						<div class="file-name">Стандартная стратегия Валютный резерв (2-ая ред.)</div>
+						<div class="file-info">
+						Дата опубликования информации: 11.02.2022<br>						Доступ: бессрочно<br>						Актуальность: до даты вступления в действие документа в новой редакции<br>												</div>
+					</div>
+				</a>
+								<div class="prev-doc">
+					<img src="/upload/resize_cache/webp/local/templates/main/images/doc-arrow.webp">
+					<a href="/upload/iblock/914/1cbtfppas85olx610stuewxnczg7vqt3.pdf" target="_blank" class="file-old">Предыдущая редакция документа</a>
+				</div>
+							</div>
+			
+
+
+				
+						
+
+			<div class="file-wrapper">
+				<a href="/upload/iblock/891/yciia4edm8eir2uwikmik3c50e13ozmv.pdf" target="_blank" class="file-link">
+					<div class="image">
+						<img src="/upload/resize_cache/webp/local/templates/main/images/logo3.webp">
+					</div>
+					<div>
+						<div class="file-name">Договор Д.У. Стандартная стратегия (Образец)</div>
+						<div class="file-info">
+						Дата опубликования информации: 11.02.2022<br>						Доступ: бессрочно<br>						Актуальность: до даты вступления в действие документа в новой редакции<br>												</div>
+					</div>
+				</a>
+							</div>
+			
+
+
+				
+						
+
+			<div class="file-wrapper">
+				<a href="/upload/iblock/13a/pakswomvzl3ebiffd3it58qu5cl0o82t.pdf" target="_blank" class="file-link">
+					<div class="image">
+						<img src="/upload/resize_cache/webp/local/templates/main/images/logo3.webp">
+					</div>
+					<div>
+						<div class="file-name">Стандартная стратегия Рублёвый резерв (2-ая ред.)</div>
+						<div class="file-info">
+						Дата опубликования информации: 11.02.2022<br>						Доступ: бессрочно<br>						Актуальность: до даты вступления в действие документа в новой редакции<br>												</div>
+					</div>
+				</a>
+								<div class="prev-doc">
+					<img src="/upload/resize_cache/webp/local/templates/main/images/doc-arrow.webp">
+					<a href="/upload/iblock/92b/x6pvgprn237u97pufc43dibo3pmcchg5.pdf" target="_blank" class="file-old">Предыдущая редакция документа</a>
+				</div>
+							</div>
+			
+
+
+				
+						
+
+			<div class="file-wrapper">
+				<a href="/upload/iblock/5f9/zg1r7a7rn7aspiwevy71xpzycy0zssb3.pdf" target="_blank" class="file-link">
+					<div class="image">
+						<img src="/upload/resize_cache/webp/local/templates/main/images/logo3.webp">
+					</div>
+					<div>
+						<div class="file-name">Стандартная стратегия Инвестинг (2-ая ред.)</div>
+						<div class="file-info">
+						Дата опубликования информации: 11.02.2022<br>						Доступ до: 12.12.2022<br>						Актуальность: до даты вступления в действие документа в новой редакции<br>						Период актуальности: до 12.12.2022<br>						</div>
+					</div>
+				</a>
+								<div class="prev-doc">
+					<img src="/upload/resize_cache/webp/local/templates/main/images/doc-arrow.webp">
+					<a href="/upload/iblock/7f4/lkqvxsymbzuysr9jbpn4iraf2exccytl.pdf" target="_blank" class="file-old">Предыдущая редакция документа</a>
+				</div>
+							</div>
+			
+
+
+				
+						
+
+			<div class="file-wrapper">
+				<a href="/upload/iblock/6a4/ygir4js48rnmsps1k8ndksfzvs9k6d19.pdf" target="_blank" class="file-link">
+					<div class="image">
+						<img src="/upload/resize_cache/webp/local/templates/main/images/logo3.webp">
+					</div>
+					<div>
+						<div class="file-name">Стандартная стратегия Динамическая (2-ая ред.)</div>
+						<div class="file-info">
+						Дата опубликования информации: 11.02.2022<br>						Доступ: бессрочно<br>						Актуальность: до даты вступления в действие документа в новой редакции<br>												</div>
+					</div>
+				</a>
+								<div class="prev-doc">
+					<img src="/upload/resize_cache/webp/local/templates/main/images/doc-arrow.webp">
+					<a href="/upload/iblock/f8c/kbv2cjodje1kou3arcyxudind694m1ps.pdf" target="_blank" class="file-old">Предыдущая редакция документа</a>
+				</div>
+							</div>
+			
+
+
+				
+						
+
+			<div class="file-wrapper">
+				<a href="/upload/iblock/876/kjg2e4ja67w2ldy9c1ynh3dq5v9cu8sg.pdf" target="_blank" class="file-link">
+					<div class="image">
+						<img src="/upload/resize_cache/webp/local/templates/main/images/logo3.webp">
+					</div>
+					<div>
+						<div class="file-name">Стандартная стратегия Статус (2-ая ред.)</div>
+						<div class="file-info">
+						Дата опубликования информации: 11.02.2022<br>						Доступ: бессрочно<br>						Актуальность: до даты вступления в действие документа в новой редакции<br>												</div>
+					</div>
+				</a>
+								<div class="prev-doc">
+					<img src="/upload/resize_cache/webp/local/templates/main/images/doc-arrow.webp">
+					<a href="/upload/iblock/c7d/n666q5ovznbbppcohm11nrne5m4w4g3a.pdf" target="_blank" class="file-old">Предыдущая редакция документа</a>
+				</div>
+							</div>
+			
+
+
+				
+						
+
+			<div class="file-wrapper">
+				<a href="/upload/iblock/07a/vc1ubtzgdps2pvvbcedvn6jzp344dlz5.pdf" target="_blank" class="file-link">
+					<div class="image">
+						<img src="/upload/resize_cache/webp/local/templates/main/images/logo3.webp">
+					</div>
+					<div>
+						<div class="file-name">Стандартная стратегия ГосДолг MF</div>
+						<div class="file-info">
+						Дата опубликования информации: 11.02.2022<br>						Доступ: бессрочно<br>						Актуальность: до даты вступления в действие документа в новой редакции<br>												</div>
+					</div>
+				</a>
+							</div>
+			
+
+
+				
+						
+
+			<div class="file-wrapper">
+				<a href="/upload/iblock/99e/1v5gnapv8y9bqk35z0mztrlpvafx5whz.pdf" target="_blank" class="file-link">
+					<div class="image">
+						<img src="/upload/resize_cache/webp/local/templates/main/images/logo3.webp">
+					</div>
+					<div>
+						<div class="file-name">Стандартная стратегия ГосДолг SF</div>
+						<div class="file-info">
+						Дата опубликования информации: 11.02.2022<br>						Доступ: бессрочно<br>						Актуальность: до даты вступления в действие документа в новой редакции<br>												</div>
+					</div>
+				</a>
+							</div>
+			
+
+
+				
+						
+
+			<div class="file-wrapper">
+				<a href="/upload/iblock/386/gi2p4r0fwjbeurmr5uy2o9kjnefcvae1.pdf" target="_blank" class="file-link">
+					<div class="image">
+						<img src="/upload/resize_cache/webp/local/templates/main/images/logo3.webp">
+					</div>
+					<div>
+						<div class="file-name">Стандартная стратегия Game-индустрия (2-ая ред.)</div>
+						<div class="file-info">
+						Дата опубликования информации: 11.02.2022<br>						Доступ: бессрочно<br>						Актуальность: до даты вступления в действие документа в новой редакции<br>												</div>
+					</div>
+				</a>
+								<div class="prev-doc">
+					<img src="/upload/resize_cache/webp/local/templates/main/images/doc-arrow.webp">
+					<a href="/upload/iblock/f56/2ujfm3xr2zwmtsgen809lnz70o8fw4rh.pdf" target="_blank" class="file-old">Предыдущая редакция документа</a>
+				</div>
+							</div>
+			
+
+
+				
+						
+
+			<div class="file-wrapper">
+				<a href="/upload/iblock/ba6/9mi0mdu6o2m370eiun0uncsw09o6u3mq.pdf" target="_blank" class="file-link">
+					<div class="image">
+						<img src="/upload/resize_cache/webp/local/templates/main/images/logo3.webp">
+					</div>
+					<div>
+						<div class="file-name">Приказ об утв. тарифов по стандартным стратегиям «ГосДолг SF», «ГосДолг MF», «Статус», «Динамическая», «GAME-Индустрия», «Инвестинг», «Рублёвый резерв», «Валютный резерв»</div>
+						<div class="file-info">
+						Дата опубликования информации: 11.02.2022<br>						Доступ: бессрочно<br>						Актуальность: до даты вступления в действие документа в новой редакции<br>												</div>
+					</div>
+				</a>
+							</div>
+			
+
+
+				
+						
+
+			<div class="file-wrapper">
+				<a href="/upload/iblock/c0a/k4589k16ut4edik639k71bfr0lxj8x8o.pdf" target="_blank" class="file-link">
+					<div class="image">
+						<img src="/upload/resize_cache/webp/local/templates/main/images/logo3.webp">
+					</div>
+					<div>
+						<div class="file-name">Положение о вознаграждении Управляющего АО «ФБ «Август» (5-я редакция)</div>
+						<div class="file-info">
+						Дата опубликования информации: 08.02.2022<br>						Доступ: бессрочно<br>																		</div>
+					</div>
+				</a>
+							</div>
+			
+
+
+				
+						
+
+			<div class="file-wrapper">
+				<a href="/upload/iblock/161/jot4ytxtywsabbvz2rzso13jtjcofm2b.pdf" target="_blank" class="file-link">
+					<div class="image">
+						<img src="/upload/resize_cache/webp/local/templates/main/images/logo3.webp">
+					</div>
+					<div>
+						<div class="file-name">Утверждение Положения о вознаграждении Управляющего (5-я редакция)</div>
+						<div class="file-info">
+						Дата опубликования информации: 08.02.2022<br>						Доступ: бессрочно<br>																		</div>
+					</div>
+				</a>
+							</div>
+			
+
+
+				
+						
+
+			<div class="file-wrapper">
+				<a href="/upload/iblock/77f/bdj59bz7pg23nw7lza1jywogjkdf4tui.pdf" target="_blank" class="file-link">
+					<div class="image">
+						<img src="/upload/resize_cache/webp/local/templates/main/images/logo3.webp">
+					</div>
+					<div>
+						<div class="file-name">Приказ об утверждении тарифов «Инвестинг 5», «Инвестинг 10», «Статус 5», «Статус 10» </div>
+						<div class="file-info">
+						Дата опубликования информации: 08.02.2022<br>						Доступ: бессрочно<br>																		</div>
+					</div>
+				</a>
+							</div>
+			
+
+
+				
+						
+
+			<div class="file-wrapper">
+				<a href="/upload/iblock/635/ahi7fx7u6rwgk4kv6r4vh2kakv2pjavd.pdf" target="_blank" class="file-link">
+					<div class="image">
+						<img src="/upload/resize_cache/webp/local/templates/main/images/logo3.webp">
+					</div>
+					<div>
+						<div class="file-name">Приказ об утверждении тарифов (4-я редакция)</div>
+						<div class="file-info">
+						Дата опубликования информации: 17.08.2021<br>						Доступ: бессрочно<br>																		</div>
+					</div>
+				</a>
+							</div>
+			
+
+
+				
+						
+
+			<div class="file-wrapper">
+				<a href="/upload/iblock/256/achg9gb8mya1ro6yc1z3kw1qij8gm3wp.pdf" target="_blank" class="file-link">
+					<div class="image">
+						<img src="/upload/resize_cache/webp/local/templates/main/images/logo3.webp">
+					</div>
+					<div>
+						<div class="file-name">Положение о вознаграждении Управляющего АО «ФБ «Август» (4-я редакция)</div>
+						<div class="file-info">
+						Дата опубликования информации: 17.08.2021<br>						Доступ: бессрочно<br>																		</div>
+					</div>
+				</a>
+							</div>
+			
+
+
+				
+						
+
+			<div class="file-wrapper">
+				<a href="/upload/iblock/d8c/hw5dgsm2laq7k8w5pmj52gld67fyh9mh.pdf" target="_blank" class="file-link">
+					<div class="image">
+						<img src="/upload/resize_cache/webp/local/templates/main/images/logo3.webp">
+					</div>
+					<div>
+						<div class="file-name">Правила выявления и контроля конфликта интересов, а также предотвращения его последствий</div>
+						<div class="file-info">
+						Дата опубликования информации: 01.11.2019<br>						Доступ: бессрочно<br>						Актуальность: с 12.11.2019 до даты вступления в действие документа в новой редакции<br>												</div>
+					</div>
+				</a>
+							</div>
+			
+
+
+				
+						
+
+			<div class="file-wrapper">
+				<a href="/upload/iblock/0e6/x2uj9n1k4uopqp6adsu8yvjv5ajli261.pdf" target="_blank" class="file-link">
+					<div class="image">
+						<img src="/upload/resize_cache/webp/local/templates/main/images/logo3.webp">
+					</div>
+					<div>
+						<div class="file-name">Порядок определения инвестиционного профиля клиента Акционерного общества «Финансовый брокер «Август» и перечень сведений, необходимых для его определения</div>
+						<div class="file-info">
+						Дата опубликования информации: 01.11.2019<br>						Доступ до: 29.12.2022<br>						Актуальность: с 12.11.2019 до 29.12.2022<br>												</div>
+					</div>
+				</a>
+							</div>
+			
+
+
+				
+						
+
+			<div class="file-wrapper">
+				<a href="/upload/iblock/092/1suqwrkio6j93wr0kxpu15ch1ktrab79.pdf" target="_blank" class="file-link">
+					<div class="image">
+						<img src="/upload/resize_cache/webp/local/templates/main/images/logo3.webp">
+					</div>
+					<div>
+						<div class="file-name">Декларации о рисках</div>
+						<div class="file-info">
+						Дата опубликования информации: 01.11.2019<br>						Доступ до: 29.12.2022<br>						Актуальность: с 12.11.2019 до 29.12.2022 г.<br>						Период актуальности: до 29.12.2022 г.<br>						</div>
+					</div>
+				</a>
+							</div>
+			
+
+
+				
+						
+
+			<div class="file-wrapper">
+				<a href="/upload/iblock/ba9/gmehedipn572je9ydzz31vyqx043p11p.pdf" target="_blank" class="file-link">
+					<div class="image">
+						<img src="/upload/resize_cache/webp/local/templates/main/images/logo3.webp">
+					</div>
+					<div>
+						<div class="file-name">Положение о доверительном управлении ценными бумагами</div>
+						<div class="file-info">
+						Дата опубликования информации: 01.11.2019<br>						Доступ до: 29.12.2022<br>						Актуальность: с 12.11.2019 до 29.12.2022<br>												</div>
+					</div>
+				</a>
+							</div>
+			
+
+
+				
+						
+
+			<div class="file-wrapper">
+				<a href="/upload/iblock/58e/6awkcjfc2lbc3bp2bdimf5k6zjjqywap.pdf" target="_blank" class="file-link">
+					<div class="image">
+						<img src="/upload/resize_cache/webp/local/templates/main/images/logo3.webp">
+					</div>
+					<div>
+						<div class="file-name">Меры по недопущению установления приоритета интересов одного или нескольких учредителей управления над интересами других учредителей управления</div>
+						<div class="file-info">
+						Дата опубликования информации: 01.11.2019<br>						Доступ: бессрочно<br>						Актуальность: с 01.11.2019 до даты вступления в действие документа в новой редакции<br>												</div>
+					</div>
+				</a>
+							</div>
+			
+
+
+				
+						
+
+			<div class="file-wrapper">
+				<a href="/upload/iblock/4bd/oowp4ntzp5xv7929p113k5gmvu6sjce1.pdf" target="_blank" class="file-link">
+					<div class="image">
+						<img src="/upload/resize_cache/webp/local/templates/main/images/logo3.webp">
+					</div>
+					<div>
+						<div class="file-name">Политика осуществления прав по ценным бумагам, находящимся в доверительном управлении Акционерного общества «Финансовый брокер «Август»</div>
+						<div class="file-info">
+						Дата опубликования информации: 18.05.2018<br>						Доступ: бессрочно<br>						Актуальность: с 29.05.2018 до даты раскрытия информации о внесении изменений<br>												</div>
+					</div>
+				</a>
+							</div>
+			
+
+
+				
+						
+
+			<div class="file-wrapper">
+				<a href="/upload/iblock/a96/w0sigsrlqoee4gr7iihnyxoppfgfob9o.pdf" target="_blank" class="file-link">
+					<div class="image">
+						<img src="/upload/resize_cache/webp/local/templates/main/images/logo3.webp">
+					</div>
+					<div>
+						<div class="file-name">Методика оценки стоимости объектов доверительного управления в Акционерном обществе «Финансовый брокер «Август»</div>
+						<div class="file-info">
+						Дата опубликования информации: 18.05.2018<br>						Доступ: бессрочно<br>						Актуальность: с 29.05.2018 до даты раскрытия информации о внесении изменений<br>												</div>
+					</div>
+				</a>
+							</div>
+			
+
+
+				
+			
+			
+		</div>
+	
+		
+			<div class="file-section">
+		<div class="h3" id="157">Перечень филиалов, представительств и иных обособленных подразделений, осуществляющих профессиональную деятельность на рынке ценных бумаг</div>	
+
+		   
+						
+
+			<div class="file-wrapper">
+				<a href="/upload/iblock/de3/6s6kxqityuul1rw3q0mmgtgwd5xwcj3s.pdf" target="_blank" class="file-link">
+					<div class="image">
+						<img src="/upload/resize_cache/webp/local/templates/main/images/logo3.webp">
+					</div>
+					<div>
+						<div class="file-name">Перечень филиалов, представительств и иных обособленных подразделений, осуществляющих профессиональную деятельность на рынке ценных бумаг</div>
+						<div class="file-info">
+						Дата опубликования информации: 03.08.2022<br>						Доступ: бессрочно<br>						Актуальность: до даты вступления в действие документа в новой редакции<br>												</div>
+					</div>
+				</a>
+							</div>
+			
+
+
+				
+			
+			
+		</div>
+	
+		
+			<div class="file-section">
+		<div class="h3" id="164">Информационная безопасность</div>	
+
+		   
+						
+
+			<div class="file-wrapper">
+				<a href="/upload/iblock/5ba/lt3328kbtxkj4m6ba88mm5gjmj5c8yf3.pdf" target="_blank" class="file-link">
+					<div class="image">
+						<img src="/upload/resize_cache/webp/local/templates/main/images/logo3.webp">
+					</div>
+					<div>
+						<div class="file-name">Правила информационной безопасности Памятка для Клиента АО «ФБ «АВГУСТ»</div>
+						<div class="file-info">
+						Дата опубликования информации: 01.09.2022<br>						Доступ: бессрочно<br>						Актуальность: до даты вступления в действие документа в новой редакции<br>												</div>
+					</div>
+				</a>
+							</div>
+			
+
+
+				
+						
+
+			<div class="file-wrapper">
+				<a href="/upload/iblock/ecc/zwrjz7azawljmox79t4sutmdkk2t823u.pdf" target="_blank" class="file-link">
+					<div class="image">
+						<img src="/upload/resize_cache/webp/local/templates/main/images/logo3.webp">
+					</div>
+					<div>
+						<div class="file-name">Условия обработки персональных данных</div>
+						<div class="file-info">
+						Дата опубликования информации: 19.07.2021<br>						Доступ: бессрочно<br>						Актуальность: до даты вступления в действие документа в новой редакции<br>												</div>
+					</div>
+				</a>
+							</div>
+			
+
+
+				
+						
+
+			<div class="file-wrapper">
+				<a href="/upload/iblock/c2c/z8jkvr9aoerfet4h8l0wfn23jgqwehdg.pdf" target="_blank" class="file-link">
+					<div class="image">
+						<img src="/upload/resize_cache/webp/local/templates/main/images/logo3.webp">
+					</div>
+					<div>
+						<div class="file-name">Согласие клиента на обработку персональных данных</div>
+						<div class="file-info">
+						Дата опубликования информации: 19.07.2021<br>						Доступ: бессрочно<br>						Актуальность: до даты вступления в действие документа в новой редакции<br>												</div>
+					</div>
+				</a>
+							</div>
+			
+
+
+				
+						
+
+			<div class="file-wrapper">
+				<a href="/upload/iblock/75b/0vz5ywg6vpm92tqy1cl7d48gjmwtddc2.pdf" target="_blank" class="file-link">
+					<div class="image">
+						<img src="/upload/resize_cache/webp/local/templates/main/images/logo3.webp">
+					</div>
+					<div>
+						<div class="file-name">Политика в отношении обработки персональных данных АО "ФБ "Август"</div>
+						<div class="file-info">
+						Дата опубликования информации: 19.07.2021<br>						Доступ: бессрочно<br>						Актуальность: до даты вступления в действие документа в новой редакции<br>												</div>
+					</div>
+				</a>
+							</div>
+			
+
+
+				
+						
+
+			<div class="file-wrapper">
+				<a href="/upload/iblock/5d9/fu6u01dgagulih8bnpejsqrrwgpt8dyq.pdf" target="_blank" class="file-link">
+					<div class="image">
+						<img src="/upload/resize_cache/webp/local/templates/main/images/logo3.webp">
+					</div>
+					<div>
+						<div class="file-name">Рекомендации по соблюдению информационной безопасности клиентами АО «ФБ «Август»в целях противодействия незаконным финансовым операциям</div>
+						<div class="file-info">
+						Дата опубликования информации: 02.09.2019<br>						Доступ: бессрочно<br>						Актуальность: до даты вступления в действие документа в новой редакции<br>												</div>
+					</div>
+				</a>
+							</div>
+			
+
+
+				
+			
+			
+		</div>
+	
+		
+			<div class="file-section">
+		<div class="h3" id="165">Квалифицированным инвесторам</div>	
+
+		   
+						
+
+			<div class="file-wrapper">
+				<a href="/upload/iblock/a86/1fv2fqs3buy6s3krnssiynmge5teuhbu.pdf" target="_blank" class="file-link">
+					<div class="image">
+						<img src="/upload/resize_cache/webp/local/templates/main/images/logo3.webp">
+					</div>
+					<div>
+						<div class="file-name">Информация для физ.лиц , признанных квал.инвесторами</div>
+						<div class="file-info">
+						Дата опубликования информации: 14.11.2022<br>						Доступ: бессрочно<br>						Актуальность: до даты вступления в действие документа в новой редакции<br>												</div>
+					</div>
+				</a>
+							</div>
+			
+
+
+				
+						
+
+			<div class="file-wrapper">
+				<a href="/upload/iblock/705/tuqofygg21f0h5ys1ed8crd2bdsex3zj.pdf" target="_blank" class="file-link">
+					<div class="image">
+						<img src="/upload/resize_cache/webp/local/templates/main/images/logo3.webp">
+					</div>
+					<div>
+						<div class="file-name">Регламент признания лиц квалифицированными инвесторами </div>
+						<div class="file-info">
+						Дата опубликования информации: 14.11.2022<br>						Доступ: бессрочно<br>						Актуальность: до даты вступления в действие документа в новой редакции<br>												</div>
+					</div>
+				</a>
+							</div>
+			
+
+
+				
+						
+
+			<div class="file-wrapper">
+				<a href="/upload/iblock/de2/9e11cjvu88cdbmu70lykynzlp06pzn24.pdf" target="_blank" class="file-link">
+					<div class="image">
+						<img src="/upload/resize_cache/webp/local/templates/main/images/logo3.webp">
+					</div>
+					<div>
+						<div class="file-name">Регламент принятия решения АО «Финансовый брокер «Август» о признании лица квалифицированным инвестором</div>
+						<div class="file-info">
+						Дата опубликования информации: 16.10.2017<br>						Доступ до: 14.11.2022<br>						Актуальность: до даты вступления в действие документа в новой редакции<br>						Период актуальности: до 14.11.2022<br>						</div>
+					</div>
+				</a>
+							</div>
+			
+
+
+				
+			
+			
+		</div>
+	
+
+
+				
+			
+			
+			
+
+
+        </div>
+    </div>
+
+
+</main>
+<footer class="footer">
+    <div class="container">
+        <div class="top-footer">
+            <div id="bxdynamic_LkGdQn_start" style="display:none"></div>
+
+
+
+
+
+
+
+
+
+
+
+
+
+    <div class="menu">
+                    <a href="/strategii/"> СТРАТЕГИИ</a>
+                    <a href="/investitsii/"> ИНВЕСТИЦИИ</a>
+                    <a href="/uslugi/"> УСЛУГИ</a>
+                    <a href="/stati/"> БЛОГ</a>
+                    <a href="/o-kompanii/"> О КОМПАНИИ</a>
+                    <a href="/kontakty/"> КОНТАКТЫ</a>
+                    <a href="/sitemap/"> КАРТА САЙТА</a>
+                <!--a href="javascript:void(0);" data-toggle="modal" data-target="#enter" class="btn btn-default">Личный кабинет</a-->
+    </div>
+<div id="bxdynamic_LkGdQn_end" style="display:none"></div>            <div class="socials">
+                
+<a href="https://t.me/fb_august_am" target="_blank" rel="nofollow">
+    <svg width="32" height="32" viewBox="0 0 32 32" fill="none" xmlns="http://www.w3.org/2000/svg">
+        <path fill-rule="evenodd" clip-rule="evenodd" d="M32 16C32 24.8366 24.8366 32 16 32C7.16344 32 0 24.8366 0 16C0 7.16344 7.16344 0 16 0C24.8366 0 32 7.16344 32 16ZM16.5733 11.8118C15.017 12.4591 11.9068 13.7988 7.24244 15.831C6.48503 16.1322 6.08826 16.4269 6.05214 16.715C5.9911 17.2019 6.60087 17.3937 7.43122 17.6547C7.54416 17.6903 7.66119 17.7271 7.78117 17.7661C8.5981 18.0316 9.69702 18.3423 10.2683 18.3546C10.7865 18.3658 11.3649 18.1522 12.0034 17.7137C16.3615 14.7719 18.6111 13.285 18.7523 13.2529C18.852 13.2303 18.9901 13.2019 19.0836 13.285C19.1772 13.3682 19.168 13.5257 19.1581 13.5679C19.0976 13.8254 16.7041 16.0507 15.4654 17.2023C15.0793 17.5613 14.8053 17.8159 14.7494 17.8741C14.6239 18.0044 14.4961 18.1276 14.3732 18.2461C13.6143 18.9777 13.0451 19.5263 14.4047 20.4223C15.0581 20.8529 15.5809 21.2089 16.1025 21.5641C16.6721 21.952 17.2403 22.3389 17.9754 22.8208C18.1627 22.9436 18.3416 23.0711 18.5158 23.1953C19.1787 23.6679 19.7743 24.0925 20.51 24.0248C20.9376 23.9854 21.3792 23.5834 21.6035 22.3844C22.1335 19.5508 23.1754 13.4112 23.4162 10.8812C23.4373 10.6596 23.4108 10.3759 23.3895 10.2514C23.3681 10.1268 23.3236 9.9494 23.1617 9.81805C22.97 9.6625 22.6741 9.6297 22.5417 9.63203C21.9399 9.64263 21.0167 9.96367 16.5733 11.8118Z" fill="#DEDEDE"></path>
+    </svg>
+</a>
+<a href="https://www.youtube.com/channel/UCQ6KGujAeusQTXrjhbxSuwQ" target="_blank" rel="nofollow">
+    <svg width="32" height="32" viewBox="0 0 32 32" fill="none" xmlns="http://www.w3.org/2000/svg">
+        <path fill-rule="evenodd" clip-rule="evenodd" d="M16 0C24.8306 0 32 7.16938 32 16C32 24.8306 24.8306 32 16 32C7.16938 32 0 24.8306 0 16C0 7.16938 7.16938 0 16 0ZM25.5822 11.1861C25.3522 10.3256 24.6746 9.648 23.8141 9.418C22.2542 9 16 9 16 9C16 9 9.74581 9 8.18594 9.418C7.32563 9.648 6.64781 10.3256 6.41781 11.1861C6 12.7458 6 16.0001 6 16.0001C6 16.0001 6 19.2543 6.41781 20.8139C6.64781 21.6744 7.32563 22.3523 8.18594 22.5822C9.74581 23 16 23 16 23C16 23 22.2542 23 23.8141 22.5822C24.6746 22.3523 25.3522 21.6744 25.5822 20.8139C26 19.2543 26 16.0001 26 16.0001C26 16.0001 26 12.7458 25.5822 11.1861ZM13.9999 19.0002V13.0001L19.196 16.0001L13.9999 19.0002Z" fill="#DEDEDE"></path>
+    </svg>
+</a>
+
+<a href="https://vk.com/fb_avgust" target="_blank" rel="nofollow">
+<svg width="32" height="32" viewBox="0 0 32 32" fill="none" xmlns="http://www.w3.org/2000/svg">
+<path d="M16 32C24.8366 32 32 24.8366 32 16C32 7.16344 24.8366 0 16 0C7.16344 0 0 7.16344 0 16C0 24.8366 7.16344 32 16 32Z" fill="#DEDEDE"></path>
+<path d="M22.8021 19.015C22.8021 19.015 24.4191 20.612 24.8191 21.351C24.8269 21.3617 24.8329 21.3735 24.8371 21.386C25.0001 21.659 25.0401 21.873 24.9601 22.031C24.8251 22.292 24.3681 22.423 24.2131 22.434H21.3551C21.1561 22.434 20.7421 22.382 20.2381 22.034C19.8531 21.765 19.4701 21.322 19.0991 20.889C18.5451 20.246 18.0661 19.688 17.5811 19.688C17.5198 19.6879 17.459 19.698 17.4011 19.718C17.0341 19.834 16.5681 20.357 16.5681 21.75C16.5681 22.186 16.2241 22.434 15.9831 22.434H14.6741C14.2281 22.434 11.9061 22.278 9.84709 20.107C7.32409 17.449 5.05809 12.117 5.03609 12.07C4.89509 11.725 5.19109 11.537 5.51109 11.537H8.39709C8.78409 11.537 8.91009 11.771 8.99809 11.981C9.10009 12.222 9.47809 13.186 10.0981 14.269C11.1021 16.031 11.7191 16.748 12.2121 16.748C12.3047 16.7483 12.3958 16.7241 12.4761 16.678C13.1201 16.324 13.0001 14.024 12.9701 13.55C12.9701 13.458 12.9691 12.523 12.6391 12.071C12.4031 11.747 12.0011 11.621 11.7581 11.575C11.8231 11.481 11.9611 11.337 12.1381 11.252C12.5791 11.032 13.3761 11 14.1671 11H14.6061C15.4641 11.012 15.6861 11.067 15.9981 11.146C16.6261 11.296 16.6381 11.703 16.5831 13.089C16.5671 13.485 16.5501 13.931 16.5501 14.456C16.5501 14.568 16.5451 14.693 16.5451 14.82C16.5261 15.531 16.5011 16.332 17.0031 16.661C17.0682 16.7016 17.1434 16.723 17.2201 16.723C17.3941 16.723 17.9151 16.723 19.3281 14.298C19.9481 13.227 20.4281 11.964 20.4611 11.869C20.4891 11.816 20.5731 11.667 20.6751 11.607C20.7476 11.5684 20.8289 11.5491 20.9111 11.551H24.3061C24.6761 11.551 24.9271 11.607 24.9761 11.747C25.0581 11.974 24.9601 12.667 23.4101 14.763C23.1491 15.112 22.9201 15.414 22.7191 15.678C21.3141 17.522 21.3141 17.615 22.8021 19.015V19.015Z" fill="#161616"></path>
+</svg>
+
+</a>
+
+<a href="https://zen.yandex.ru/id/5f1fe6ff0ada285d982b3c9e" target="_blank" rel="nofollow">
+<svg width="32" height="32" viewBox="0 0 32 32" fill="none" xmlns="http://www.w3.org/2000/svg">
+<path d="M16 32C24.8366 32 32 24.8366 32 16C32 7.16344 24.8366 0 16 0C7.16344 0 0 7.16344 0 16C0 24.8366 7.16344 32 16 32Z" fill="#DEDEDE"></path>
+<g clip-path="url(#clip0_3_22)">
+<path d="M17.9286 17.9286C16.3571 19.55 16.2429 21.5714 16.1071 26C20.2357 26 23.0857 25.9857 24.5571 24.5571C25.9857 23.0857 26 20.1 26 16.1071C21.5714 16.25 19.55 16.3571 17.9286 17.9286V17.9286ZM6 16.1071C6 20.1 6.01429 23.0857 7.44286 24.5571C8.91429 25.9857 11.7643 26 15.8929 26C15.75 21.5714 15.6429 19.55 14.0714 17.9286C12.45 16.3571 10.4286 16.2429 6 16.1071V16.1071ZM15.8929 6C11.7714 6 8.91429 6.01429 7.44286 7.44286C6.01429 8.91429 6 11.9 6 15.8929C10.4286 15.75 12.45 15.6429 14.0714 14.0714C15.6429 12.45 15.7571 10.4286 15.8929 6V6ZM17.9286 14.0714C16.3571 12.45 16.2429 10.4286 16.1071 6C20.2357 6 23.0857 6.01429 24.5571 7.44286C25.9857 8.91429 26 11.9 26 15.8929C21.5714 15.75 19.55 15.6429 17.9286 14.0714" fill="#161616"></path>
+<path d="M26 16.1071V15.8929C21.5714 15.75 19.55 15.6429 17.9286 14.0714C16.3571 12.45 16.2429 10.4286 16.1071 6H15.8929C15.75 10.4286 15.6429 12.45 14.0714 14.0714C12.45 15.6429 10.4286 15.7571 6 15.8929V16.1071C10.4286 16.25 12.45 16.3571 14.0714 17.9286C15.6429 19.55 15.7571 21.5714 15.8929 26H16.1071C16.25 21.5714 16.3571 19.55 17.9286 17.9286C19.55 16.3571 21.5714 16.2429 26 16.1071" fill="white"></path>
+</g>
+<defs>
+<clipPath id="clip0_3_22">
+<rect width="20" height="20" fill="white" transform="translate(6 6)"></rect>
+</clipPath>
+</defs>
+</svg>
+
+</a>
+
+<a href="https://yandex.ru/q/loves/9631a9fe-4a98-4e51-a544-f3cb31f4f84f/" target="_blank" rel="nofollow">
+<svg width="32" height="32" viewBox="0 0 32 32" fill="none" xmlns="http://www.w3.org/2000/svg">
+<path d="M16 32C24.8366 32 32 24.8366 32 16C32 7.16344 24.8366 0 16 0C7.16344 0 0 7.16344 0 16C0 24.8366 7.16344 32 16 32Z" fill="#DEDEDE"></path>
+<path d="M15.9949 6C14.0106 6 12.0763 6.58362 10.4421 7.68417C8.79129 8.78471 7.5073 10.3522 6.75692 12.1697C6.00495 14.0012 5.8078 16.0133 6.18997 17.9559C6.57467 19.8955 7.52647 21.6773 8.92477 23.0754C10.3231 24.4736 12.1049 25.4252 14.0446 25.8098C15.9789 26.1933 17.9966 25.9932 19.8309 25.2428C21.6611 24.4908 23.2236 23.2071 24.3165 21.5577C25.4133 19.9134 25.999 17.9814 26 16.0049C26 14.6876 25.7332 13.387 25.2329 12.1697C24.733 10.9529 23.9961 9.8476 23.0652 8.91811C22.1314 7.98432 21.0308 7.25062 19.8135 6.75037C18.6017 6.25392 17.3045 5.99902 15.9949 6ZM18.5962 23.2752C17.9558 23.1095 17.366 22.7888 16.8787 22.3414C16.3928 21.8902 16.0114 21.3381 15.7615 20.7239C15.5242 20.1085 15.4329 19.4464 15.4947 18.7896C15.5614 18.1393 15.7782 17.5057 16.145 16.9387C15.2983 17.1922 14.3928 17.1689 13.5604 16.872C12.7247 16.5859 12.0048 16.0358 11.5093 15.3046C11.0066 14.5791 10.7441 13.7142 10.7591 12.8316C10.7741 11.9491 11.0656 11.0935 11.5927 10.3855C12.1263 9.68515 12.86 9.15156 13.6938 8.88476C14.5275 8.61796 15.4447 8.63464 16.2784 8.90143C17.1155 9.18419 17.844 9.72032 18.3628 10.4355C18.8811 11.1479 19.1612 12.0058 19.1632 12.8867C19.1632 13.6871 18.9298 14.4875 18.4962 15.1545C19.2404 14.9352 20.0304 14.9237 20.7807 15.1212L18.5962 23.2752Z" fill="#161616"></path>
+</svg>
+
+</a>
+
+<a href="https://pulse.mail.ru/source/3514271373216025842/" target="_blank" rel="nofollow">
+<svg width="32" height="32" viewBox="0 0 32 32" fill="none" xmlns="http://www.w3.org/2000/svg">
+<path d="M16 32C24.8366 32 32 24.8366 32 16C32 7.16344 24.8366 0 16 0C7.16344 0 0 7.16344 0 16C0 24.8366 7.16344 32 16 32Z" fill="#DEDEDE"></path>
+<path d="M17.504 14C17.504 14.8294 16.8293 15.504 15.9999 15.504C15.1706 15.504 14.496 14.8294 14.496 14C14.496 13.1707 15.1706 12.496 15.9999 12.496C16.8292 12.496 17.504 13.1707 17.504 14ZM15.9999 9C13.243 9 11 11.2429 11 14C11 16.757 13.243 19 15.9999 19C17.0101 19 17.9839 18.6992 18.8164 18.1304L18.8309 18.1205L18.1572 17.3374L18.1458 17.3447C17.5049 17.757 16.7629 17.975 15.9999 17.975C13.8082 17.975 12.0251 16.1918 12.0251 14C12.0251 11.8082 13.8082 10.0251 15.9999 10.0251C18.1917 10.0251 19.9749 11.8082 19.9749 14C19.9749 14.284 19.9433 14.5716 19.8812 14.8545C19.7555 15.3703 19.3944 15.5283 19.1231 15.5074C18.8504 15.4854 18.5312 15.2909 18.5291 14.8153V14C18.5291 12.6055 17.3946 11.471 16 11.471C14.6055 11.471 13.4709 12.6054 13.4709 14C13.4709 15.3946 14.6055 16.5292 16 16.5292C16.6774 16.5292 17.3129 16.2643 17.7919 15.7826C18.0703 16.216 18.5245 16.4878 19.041 16.5293C19.0854 16.5328 19.1306 16.5346 19.1755 16.5346C19.5392 16.5346 19.8996 16.4131 20.1904 16.1924C20.4901 15.9649 20.7138 15.6357 20.8374 15.2405C20.8573 15.1766 20.8934 15.0303 20.8936 15.0294L20.8947 15.0241C20.9675 14.7067 21 14.3906 21 14C21 11.243 18.757 9 15.9999 9Z" fill="#161616"></path>
+<path d="M16 4C9.37256 4 4 9.37256 4 16C4 22.6274 9.37256 28 16 28C22.6274 28 28 22.6274 28 16C28 9.37256 22.6274 4 16 4ZM16 5.4738C21.8134 5.4738 26.5262 10.1865 26.5262 16C26.5262 17.5383 26.196 18.9994 25.603 20.3167H24.8769C24.665 20.3167 24.4744 20.4494 24.3972 20.6464L24.0741 21.4683L23.0658 15.5839C23.023 15.338 22.8089 15.1641 22.5585 15.1641H22.5563C22.308 15.1641 22.094 15.3356 22.049 15.5796L21.105 20.8229L20.6897 18.8206C20.6469 18.6106 20.4799 18.45 20.2702 18.416C20.0582 18.3799 19.8506 18.4802 19.7414 18.6622L18.7631 20.3199H16.5646C16.5573 20.3199 16.55 20.3201 16.5428 20.3204C16.5227 20.318 16.5024 20.3167 16.4816 20.3167H11.907C11.6951 20.3167 11.5046 20.4494 11.4275 20.6464L11.1042 21.4683L10.096 15.5839C10.0532 15.338 9.8391 15.1641 9.58863 15.1641H9.58652C9.33822 15.1641 9.12411 15.3356 9.07916 15.5796L8.13507 20.8229L7.71978 18.8207C7.67699 18.6106 7.50994 18.45 7.30021 18.416C7.08831 18.3799 6.88059 18.4803 6.77147 18.6622L6.14944 19.7163C5.71321 18.5607 5.47385 17.3083 5.47385 16C5.4738 10.1865 10.1865 5.4738 16 5.4738ZM7.32983 21.9694C7.08448 21.6137 6.8604 21.2423 6.6595 20.8568L6.98126 20.3017L7.32983 21.9694ZM8.67944 23.5628L9.57581 18.6429L10.3979 23.4506C10.4363 23.6797 10.6226 23.853 10.8516 23.8766C11.0849 23.898 11.3012 23.7706 11.3847 23.5534L12.2581 21.3496H16.4816C16.4956 21.3496 16.5094 21.3488 16.5231 21.3477C16.5369 21.3488 16.5506 21.3496 16.5647 21.3496H19.0564C19.2384 21.3496 19.4075 21.2372 19.4996 21.0809L19.9512 20.3017L20.6362 23.5791C20.6855 23.8188 20.8953 23.9259 21.1414 23.9259H21.1478C21.394 23.9259 21.6038 23.8082 21.6487 23.5663L22.5457 18.643L23.3677 23.4507C23.3708 23.4691 23.3752 23.487 23.3802 23.5047C21.4805 25.3731 18.8751 26.5262 16 26.5262C13.1549 26.5262 10.5739 25.397 8.67944 23.5628Z" fill="#161616"></path>
+</svg>
+
+
+
+</a>            </div>
+        </div>
+        <div class="bottom-footer">
+            <div class="row">
+                <div class="col-lg-2 col-12">
+                    
+<img src="/local/templates/.default/markup/img/logo_white.svg" alt="logo_white" title="logo_white" class="img-fluid">                    
+<img src="/upload/resize_cache/webp/local/templates/.default/markup/img/qrcode.webp" alt="qrcode" title="qrcode" class="img-fluid">                </div>
+                <div class="col-lg-10 col-12">
+                    <div class="row">
+                        <div class="col-xl-8 col-lg-12">
+                            <p class="req">
+                                Акционерное общество «Финансовый брокер «Август»<br>
+ Юридический адрес: 119002, г. Москва, муниципальный округ Хамовники вн.тер.г., Сивцев Вражек пер, д. 29/16, помещ. 1/7/1.<br>
+ Территориальное подразделение: 400005, г. Волгоград, ул. Коммунистическая, д. 21, офис 39<br>
+ Обособленное подразделение: г. Москва, муниципальный округ Западное Дегунино вн.тер.г., Дмитровское ш, д. 71Б, помещ 27/6&nbsp;&nbsp;<br>                            </p>
+                        </div>
+                        <div class="col-xl-4 col-lg-12">
+                            
+<a href="tel:+74955653416">(495) 565–34–16</a>                        </div>
+                    </div>
+                    <div class="row">
+                        <div class="col-lg-6 col-md-12">
+                            <p>Лицензия профессионального участника рынка ценных бумаг на&nbsp;осуществление деятельности по&nbsp;управлению ценными бумагами 018–07753–001000&nbsp;от&nbsp;10.06.2004&nbsp;выдана ФСФР России без&nbsp;ограничения срока действия. Лицензия на&nbsp;осуществление деятельности по&nbsp;управлению инвестиционными фондами, паевыми инвестиционными фондами и&nbsp;негосударственными пенсионными фондами 21–000–1-00105&nbsp;от&nbsp;21.01.2003&nbsp;выданная ФСФР России без&nbsp;ограничения срока действия.</p>
+<p>В&nbsp;связи с&nbsp;совмещением двух видов деятельности существует риск возникновения конфликта интересов.</p>
+<p>Стоимость инвестиционных паёв может увеличиваться и&nbsp;уменьшаться, результаты инвестирования в&nbsp;прошлом не&nbsp;определяют доходы в&nbsp;будущем, государство не&nbsp;гарантирует доходность инвестиций в&nbsp;паевые инвестиционные фонды. Прежде чем&nbsp;приобрести инвестиционный пай&nbsp;(инвестиционные паи), следует внимательно ознакомиться с&nbsp;правилами доверительного управления паевым инвестиционным фондом.</p>                        </div>
+                        <div class="col-lg-6 col-md-12">
+                            <p>Обращения (жалобы) в&nbsp;АО&nbsp;«ФБ&nbsp;„Август“ могут быть направлены в&nbsp;бумажном или&nbsp;электронном виде по&nbsp;адресам, указанным на&nbsp;сайте в&nbsp;разделе „Контакты“.</p>
+<p>Обращения (жалобы) на&nbsp;АО&nbsp;„ФБ&nbsp;„Август“ могут быть направлены в&nbsp;саморегулируемую организацию НАУФОР на&nbsp;бумажном носителе или&nbsp;в&nbsp;электронном виде через&nbsp;раздел „Пожаловаться на&nbsp;члена НАУФОР“ на&nbsp;сайте саморегулируемой организации или&nbsp;по&nbsp;адресу 109004, Москва, ул.&nbsp;Земляной Вал, д.&nbsp;65, стр.&nbsp;2.</p>
+<p>Обращения (жалобы) на&nbsp;АО&nbsp;„ФБ&nbsp;„Август“ могут быть направлены в&nbsp;орган, осуществляющий полномочия по&nbsp;контролю и&nbsp;надзору за&nbsp;деятельностью АО&nbsp;„ФБ&nbsp;«Август», на&nbsp;бумажном носителе или&nbsp;в&nbsp;электронном виде по&nbsp;адресу 107016, Москва, ул.&nbsp;Неглинная, 12, банк России или&nbsp;через раздел «Интернет-приёмная» сайта банка России.</p>
+<p>Способами защиты прав получателя финансовых услуг является обращение в&nbsp;Арбитражный суд&nbsp;г.&nbsp;Москва (для&nbsp;юридических лиц), суд&nbsp;общей юрисдикции (для&nbsp;физических лиц), досудебное урегулирование спора в&nbsp;претензионном порядке.</p>
+                        </div>
+                    </div>
+                    <div class="row">
+                        <div class="col-12">
+                            <div class="bottom">
+                                
+<a target="_blank" href="/upload/files/consent-to-the-processing-of-personal-data.pdf">Политика обработки персональных данных</a>                                <!--a href="#">Политика Cookies</a-->                            </div>
+                        </div>
+                    </div>
+                    <div class="row">
+                        <div class="col-12">
+                            <div class="bottom">
+                                <span>
+                                    Не&nbsp;является индивидуальной инвестиционной рекомендацией                                </span>
+                                <span>
+                                    © Концепция.Август, 2023                                </span>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+</footer>
+
+<div class="gototop js-top">
+	<a href="#" class="js-gotop">
+<svg width="24px" height="24px" viewBox="-5 -4.5 24 24" xmlns="http://www.w3.org/2000/svg" preserveAspectRatio="xMinYMin" class="jam jam-arrow-up"><path d="M6 4.071l-3.95 3.95A1 1 0 0 1 .636 6.607L6.293.95a.997.997 0 0 1 1.414 0l5.657 5.657A1 1 0 0 1 11.95 8.02L8 4.07v9.586a1 1 0 1 1-2 0V4.07z"></path></svg>
+	</a>
+</div>
+
+<div id="bxdynamic_mEO2hR_start" style="display:none"></div><div class="modal fade" id="manager" tabindex="-1">
+    <div class="modal-dialog">
+        <div class="modal-content">
+            <div class="modal-header">
+                <div class="modal-title">Поможем сориентироваться в инвестициях</div>
+                <button type="button" class="close" data-dismiss="modal" aria-label="Close">
+                    <svg width="26" height="26" viewBox="0 0 26 26" fill="none" xmlns="http://www.w3.org/2000/svg">
+                        <path fill-rule="evenodd" clip-rule="evenodd" d="M25.2227 3.23828L15.4609 13L25.2227 22.7617L22.7617 25.2227L13 15.4609L3.23828 25.2227L0.777344 22.7617L10.5391 13L0.777344 3.23828L3.23828 0.777344L13 10.5391L22.7617 0.777344L25.2227 3.23828Z" fill="#666666"></path>
+                    </svg>
+                </button>
+            </div>
+            <div class="modal-body">
+                <form class="js-ajax-form-request" method="post" action="/local/components/blocks/feedback_block/ajax.php" data-modal_res="thanks" data-id_block="manager">
+                    <input type="hidden" name="form_name" value="Поможем сориентироваться в инвестициях">
+                    <input type="hidden" name="page" value="/wp-content/uploads/2022/02/MyDiagram.svg">
+                    <div class="row">
+                        <div class="form-group col-md-7 col-12">
+                            <input type="text" class="form-control" name="name" placeholder="Имя" required="">
+                        </div>
+                        <div class="form-group col-md-5 col-12">
+                            <input type="text" class="form-control input-phone" name="phone" placeholder="Номер телефона" required="">
+                        </div>
+                        <div class="form-group col-12">
+                            <textarea class="form-control" rows="3" name="question" placeholder="Укажите вопрос для консультации"></textarea>
+                        </div>
+                    </div>
+                    <div class="form-group form-check">
+                        <div class="custom-control custom-checkbox">
+                            <input type="checkbox" id="agreeCheck" name="agreeCheck" class="custom-control-input" checked="" required="">
+                            <label class="custom-control-label" for="agreeCheck">Нажимая на кнопку «Заказать обратный звонок», я даю согласие на <a target="_blank" href="/upload/files/consent-to-the-processing-of-personal-data.pdf">обработку персональных данных</a></label>
+                        </div>
+                    </div>
+                    <div class="text-center">
+                        <button type="submit" class="btn btn-primary">Заказать обратный звонок</button>
+                    </div>
+                </form>
+            </div>
+        </div>
+    </div>
+</div>
+
+
+<!-- Modal thanks -->
+<div class="thanks modal fade" id="thanks" tabindex="-1">
+    <div class="modal-dialog">
+        <div class="modal-content">
+            <div class="modal-header">
+                <button type="button" class="close" data-dismiss="modal" aria-label="Close">
+                    <svg width="26" height="26" viewBox="0 0 26 26" fill="none" xmlns="http://www.w3.org/2000/svg">
+                        <path fill-rule="evenodd" clip-rule="evenodd" d="M25.2227 3.23828L15.4609 13L25.2227 22.7617L22.7617 25.2227L13 15.4609L3.23828 25.2227L0.777344 22.7617L10.5391 13L0.777344 3.23828L3.23828 0.777344L13 10.5391L22.7617 0.777344L25.2227 3.23828Z" fill="#666666"></path>
+                    </svg>
+                </button>
+            </div>
+            <div class="modal-body ">
+                <img src="/local/templates/.default/markup/img/thanks.svg" alt="Заявка оформлена" title="мы свяжемся с вами в ближайшее время">
+                <div>Заявка оформлена, мы свяжемся с вами в ближайшее время!</div>
+            </div>
+        </div>
+    </div>
+</div>
+<div id="bxdynamic_mEO2hR_end" style="display:none"></div>
+<div itemscope="" itemtype="http://schema.org/Organization" style="display:none">
+  <span itemprop="name">Акционерное общество «Финансовый брокер «Август»</span>
+  <div itemprop="address" itemscope="" itemtype="http://schema.org/PostalAddress">
+      <span itemprop="streetAddress">Страстной бульвар, д. 8А, 5 этаж, помещение 18</span>
+      <span itemprop="postalCode">107031</span>
+      <span itemprop="addressLocality">Москва, Россия</span>
+  </div>
+    <span itemprop="telephone">+7 (495) 225 57 54</span>,
+    <span itemprop="faxNumber">+7 (495) 225 57 54</span>,
+    <span itemprop="email">august@fbaugust.ru</span>
+</div>
+
+<script type="text/javascript">if(!window.BX)window.BX={};if(!window.BX.message)window.BX.message=function(mess){if(typeof mess==='object'){for(let i in mess) {BX.message[i]=mess[i];} return true;}};</script>
+<script type="text/javascript">(window.BX||top.BX).message({'JS_CORE_LOADING':'Загрузка...','JS_CORE_NO_DATA':'- Нет данных -','JS_CORE_WINDOW_CLOSE':'Закрыть','JS_CORE_WINDOW_EXPAND':'Развернуть','JS_CORE_WINDOW_NARROW':'Свернуть в окно','JS_CORE_WINDOW_SAVE':'Сохранить','JS_CORE_WINDOW_CANCEL':'Отменить','JS_CORE_WINDOW_CONTINUE':'Продолжить','JS_CORE_H':'ч','JS_CORE_M':'м','JS_CORE_S':'с','JSADM_AI_HIDE_EXTRA':'Скрыть лишние','JSADM_AI_ALL_NOTIF':'Показать все','JSADM_AUTH_REQ':'Требуется авторизация!','JS_CORE_WINDOW_AUTH':'Войти','JS_CORE_IMAGE_FULL':'Полный размер'});</script><script type="text/javascript" src="/bitrix/js/main/core/core.min.js?1656417235216224"></script><script>BX.setJSList(['/bitrix/js/main/core/core_ajax.js','/bitrix/js/main/core/core_promise.js','/bitrix/js/main/polyfill/promise/js/promise.js','/bitrix/js/main/loadext/loadext.js','/bitrix/js/main/loadext/extension.js','/bitrix/js/main/polyfill/promise/js/promise.js','/bitrix/js/main/polyfill/find/js/find.js','/bitrix/js/main/polyfill/includes/js/includes.js','/bitrix/js/main/polyfill/matches/js/matches.js','/bitrix/js/ui/polyfill/closest/js/closest.js','/bitrix/js/main/polyfill/fill/main.polyfill.fill.js','/bitrix/js/main/polyfill/find/js/find.js','/bitrix/js/main/polyfill/matches/js/matches.js','/bitrix/js/main/polyfill/core/dist/polyfill.bundle.js','/bitrix/js/main/core/core.js','/bitrix/js/main/polyfill/intersectionobserver/js/intersectionobserver.js','/bitrix/js/main/lazyload/dist/lazyload.bundle.js','/bitrix/js/main/polyfill/core/dist/polyfill.bundle.js','/bitrix/js/main/parambag/dist/parambag.bundle.js']);
+BX.setCSSList(['/bitrix/js/main/lazyload/dist/lazyload.bundle.css','/bitrix/js/main/parambag/dist/parambag.bundle.css']);</script>
+<script type="text/javascript">(window.BX||top.BX).message({'LANGUAGE_ID':'ru','FORMAT_DATE':'DD.MM.YYYY','FORMAT_DATETIME':'DD.MM.YYYY HH:MI:SS','COOKIE_PREFIX':'BITRIX_SM','SERVER_TZ_OFFSET':'10800','UTF_MODE':'Y','SITE_ID':'s1','SITE_DIR':'/'});</script><script type="text/javascript" src="/bitrix/cache/js/s1/main/kernel_main/kernel_main_v1.js?1664967160152850"></script>
+<script type="text/javascript" src="/bitrix/cache/js/s1/main/kernel_main_polyfill_customevent/kernel_main_polyfill_customevent_v1.js?16647942531051"></script>
+<script type="text/javascript" src="/bitrix/js/ui/dexie/dist/dexie.bitrix.bundle.min.js?165641726660992"></script>
+<script type="text/javascript" src="/bitrix/js/main/core/core_ls.min.js?16552826937365"></script>
+<script type="text/javascript" src="/bitrix/js/main/core/core_frame_cache.min.js?165641723511264"></script>
+<script type="text/javascript" src="https://code.jquery.com/jquery-3.3.1.min.js"></script>
+<script type="text/javascript">BX.setJSList(['/bitrix/js/main/core/core_fx.js','/bitrix/js/main/session.js','/bitrix/js/main/pageobject/pageobject.js','/bitrix/js/main/core/core_window.js','/bitrix/js/main/date/main.date.js','/bitrix/js/main/core/core_date.js','/bitrix/js/main/utils.js','/bitrix/js/main/polyfill/customevent/main.polyfill.customevent.js','/local/templates/.default/markup/js/popper.min.js','/local/templates/.default/markup/js/bootstrap.min.js','/local/templates/.default/markup/js/jquery.easing.1.3.js','/local/templates/.default/markup/js/jquery.maskedinput.min.js','/local/templates/.default/markup/js/custom.js','/local/templates/.default/js/metrika_targets.js','/local/templates/.default/js/form.js','/local/templates/.default/js/user-selection-filter-bucks/js/filterbucks.min.js']);</script>
+<script type="text/javascript">BX.setCSSList(['/local/templates/.default/markup/css/bootstrap.min.css','/local/templates/.default/markup/fonts/Lato/stylesheet.css','/local/templates/.default/markup/css/style.css','/local/templates/.default/css/banners.css','/local/templates/main/template_styles.css']);</script>
+<script type="text/javascript" src="/bitrix/cache/js/s1/main/template_d4d6ccffd8f4a3e70615162fec4235e4/template_d4d6ccffd8f4a3e70615162fec4235e4_v1.js?1664794253112836"></script>
+<script type="text/javascript">var _ba = _ba || []; _ba.push(["aid", "c4c2fe4e670f44465815d6359b22ecba"]); _ba.push(["host", "www.fbaugust.ru"]); (function() {var ba = document.createElement("script"); ba.type = "text/javascript"; ba.async = true;ba.src = (document.location.protocol == "https:" ? "https://" : "http://") + "bitrix.info/ba.js";var s = document.getElementsByTagName("script")[0];s.parentNode.insertBefore(ba, s);})();</script>
+
+
+<script type="text/javascript">
+(function(m,e,t,r,i,k,a){m[i]=m[i]||function(){(m[i].a=m[i].a||[]).push(arguments)};
+m[i].l=1*new Date();k=e.createElement(t),a=e.getElementsByTagName(t)[0],k.async=1,k.src=r,a.parentNode.insertBefore(k,a)})
+(window, document, "script", "https://mc.yandex.ru/metrika/tag.js", "ym");
+
+ym(83481193, "init", {
+		clickmap:true,
+		trackLinks:true,
+		accurateTrackBounce:true
+});
+</script><script async="" src="https://www.googletagmanager.com/gtag/js?id=UA-176283723-1"></script><script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'UA-176283723-1');
+</script>
+<script type="text/javascript" id="">(function(a,e,f,g,b,c,d){a[b]=a[b]||function(){(a[b].a=a[b].a||[]).push(arguments)};a[b].l=1*new Date;c=e.createElement(f);d=e.getElementsByTagName(f)[0];c.async=1;c.src=g;d.parentNode.insertBefore(c,d)})(window,document,"script","https://mc.yandex.ru/metrika/tag.js","ym");ym(86749832,"init",{clickmap:!0,trackLinks:!0,accurateTrackBounce:!0,webvisor:!0});</script>
+<noscript><div><img src="https://mc.yandex.ru/watch/86749832" style="position:absolute; left:-9999px;" alt=""></div></noscript>
+<script type="text/javascript" id="gtm-jq-ajax-listen">(function(){function h(b){"undefined"!==typeof jQuery?(k=jQuery,n()):20>b&&setTimeout(h,500)}function n(){k(document).bind("ajaxComplete",function(b,a,f){var c=document.createElement("a");c.href=f.url;var g="/"===c.pathname[0]?c.pathname:"/"+c.pathname,d="?"===c.search[0]?c.search.slice(1):c.search;d=l(d,"\x26","\x3d",!0);var e=l(a.getAllResponseHeaders(),"\n",":");dataLayer.push({event:"ajaxComplete",attributes:{type:f.type||"",url:c.href||"",queryParameters:d,pathname:g||"",hostname:c.hostname||
+"",protocol:c.protocol||"",fragment:c.hash||"",statusCode:a.status||"",statusText:a.statusText||"",headers:e,timestamp:b.timeStamp||"",contentType:f.contentType||"",response:a.responseJSON||a.responseXML||a.responseText||""}})})}function l(b,a,f,c){var g={};if(!b||!a||!f)return{};if(b=b.split(a))for(a=0;a<b.length;a++){var d=c?decodeURIComponent(b[a]):b[a],e=d.split(f);d=m(e[0]);e=m(e[1]);d&&e&&(g[d]=e)}return g}function m(b){if(b)return b.replace(/^[\s\uFEFF\xA0]+|[\s\uFEFF\xA0]+$/g,"")}var k;h()})();</script><script type="text/javascript" id="">!function(){var a=document.createElement("script");a.type="text/javascript";a.async=!0;a.src="https://vk.com/js/api/openapi.js?169";a.onload=function(){VK.Retargeting.Init("VK-RTRG-1482150-eNUdi");VK.Retargeting.Hit()};document.head.appendChild(a)}();</script><noscript><img src="https://vk.com/rtrg?p=VK-RTRG-1482150-eNUdi" style="position:fixed; left:-999px;" alt=""></noscript>
+<script type="text/javascript" id="">var _tmr=window._tmr||(window._tmr=[]);_tmr.push({id:"3257212",type:"pageView",start:(new Date).getTime(),pid:"USER_ID"});(function(c,e,a){if(!c.getElementById(a)){var b=c.createElement("script");b.type="text/javascript";b.async=!0;b.id=a;b.src="https://top-fwz1.mail.ru/js/code.js";a=function(){var d=c.getElementsByTagName("script")[0];d.parentNode.insertBefore(b,d)};"[object Opera]"==e.opera?c.addEventListener("DOMContentLoaded",a,!1):a()}})(document,window,"topmailru-code");</script><noscript><div>
+<img src="https://top-fwz1.mail.ru/counter?id=3257212;js=na" style="border:0;position:absolute;left:-9999px;" alt="Top.Mail.Ru">
+</div></noscript>
+<script>
+$(function(){
+  $(".filter-demo").filterbucks({
+	BtnSingleChoise:true
+  });
+});
+</script>
+
+
+
+<div class="advertblock text-ads p-target textad banner_240 b-rb advertBlock" style="position: absolute !important; top: -9999px !important; left: -9999px !important; width: 1px !important; height: 1px !important;" id="trg-b-banners-1" data-view="SlotView.mimic"></div>

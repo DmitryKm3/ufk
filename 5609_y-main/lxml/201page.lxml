@@ -1,0 +1,182 @@
+
+<table width="100%" border="0" cellspacing="0" cellpadding="0" bgcolor="#F7F7F7">
+  <tbody><tr>
+    <td>
+
+<table align="center" width="85%" border="0" cellspacing="0" cellpadding="0" bgcolor="#FFFFFF">
+  <tbody><tr>
+    <td style="padding-top:15px">
+<link href="style.css" rel="stylesheet" type="text/css" media="all">
+
+
+<table width="100%" border="0" cellspacing="0" cellpadding="0" align="center">
+  <tbody><tr>
+    <td width="400"></td>
+	<td style="background:url(images/logo.jpg) no-repeat;" align="center" valign="top" height="150"><img src="images/line_logo.png"></td>
+	<td valign="top" style="padding-top:15px" width="400">
+	
+	<table align="right" width="70%" border="0" cellspacing="0" cellpadding="0">
+  <tbody><tr align="center" class="up">
+    			<td width="60"><a href="#"><img border="0" src="images/p1.jpg"></a><br><a href="index.php">Главная</a></td>
+    			<td width="60"><a href="mapsite.php"><img border="0" src="images/p2.jpg"></a><br><a href="#">Карта&nbsp;сайта</a></td>
+    			<td width="60"><a href="#"><img border="0" src="images/15.png"></a><br><a href="mailto:profinwest72@mail.ru">Обратная&nbsp;связь</a></td>
+  			</tr>
+</tbody></table>
+
+	
+	</td>
+    
+	
+  </tr>
+</tbody></table>
+</td>
+  </tr>
+  
+  <tr>
+    <td height="30">&nbsp;</td>
+  </tr>
+  
+  <tr>
+    <td height="4" style="background:url(images/line1.png) repeat-x;"></td>
+  </tr>
+  
+  <!--Меню -->	
+  <tr valign="top" align="center">
+    <td height="54" style="background:url(images/line_menu.png) repeat-x;">﻿<table width="85%" height="30" border="0" align="center" cellpadding="0" cellspacing="0" class="menu_up">
+  <tbody><tr valign="top">
+    <td align="center"><a href="index.php"><font color="#901E78">О&nbsp;компании</font></a></td>
+    <td align="center"><a href="rrss.php">Раскрытие&nbsp;информации, <br>в том числе по Указанию БР №5609-У</a></td>
+    <td align="center"><a href="partners.php">Партнеры и контрагенты</a></td>
+    <!-- <td align="center"><a href="mordovia.php">О&nbsp;Мордовии</a></td> -->
+    <td align="center"><a href="contact.php">Контакты</a></td>
+  </tr>
+</tbody></table>
+</td>
+  </tr>
+	<!-- -->
+  <tr>
+    <td height="4" style="background:url(images/line2.png) repeat-x;"></td>
+  </tr>
+	
+</tbody></table>
+
+<!--Тело -->
+	<table align="center" width="85%" border="0" cellspacing="0" cellpadding="0" bgcolor="#FFFFFF">
+  <tbody><tr>
+    <td width="75%" valign="top">
+	 <table width="100%" border="0" cellspacing="0" cellpadding="0">
+  <tbody><tr>
+    <td class="ss"><a href="rrss.php">Раскрытие информации</a> - Собственные средства ООО УК ПРОФИНВЕСТ</td>
+  </tr>
+  <tr height="330">
+    <td valign="top"><h4 align="center">Расчет размера собственных средств ООО УК "ПРОФИНВЕСТ"</h4>
+	
+	<div class="b">
+<!--	<a class="b" href="rrss/2023/311223.pdf" target="_blank">Расчет размера собственных средств на 31.12.2023</a> (20.01.2023 20:30) (Документ доступен в течение трех лет с даты опубликования)</br></br>
+	<a class="b" href="rrss/2023/301123.pdf" target="_blank">Расчет размера собственных средств на 30.11.2023</a> (14.12.2023 20:00) (Документ доступен в течение трех лет с даты опубликования)</br></br>
+	<a class="b" href="rrss/2023/311023.pdf" target="_blank">Расчет размера собственных средств на 31.10.2023</a> (15.11.2023 21:30) (Документ доступен в течение трех лет с даты опубликования)</br></br>
+	<a class="b" href="rrss/2023/300923.pdf" target="_blank">Расчет размера собственных средств на 30.09.2023</a> (14.10.2023 20:30) (Документ доступен в течение трех лет с даты опубликования)</br></br>
+	<a class="b" href="rrss/2023/310823.pdf" target="_blank">Расчет размера собственных средств на 31.08.2023</a> (14.09.2023 18:00) (Документ доступен в течение трех лет с даты опубликования)</br></br>
+	<a class="b" href="rrss/2023/290723.pdf" target="_blank">Расчет размера собственных средств на 31.07.2023</a> (12.08.2023 18:00) (Документ доступен в течение трех лет с даты опубликования)</br></br>
+	<a class="b" href="rrss/2023/300623.pdf" target="_blank">Расчет размера собственных средств на 30.06.2023</a> (14.07.2023 20:00) (Документ доступен в течение трех лет с даты опубликования)</br></br>-->
+	<a class="b" href="rrss/2023/310523.pdf" target="_blank">Расчет размера собственных средств на 31.05.2023</a> (15.06.2023 19:00) (Документ доступен в течение трех лет с даты опубликования)<br><br>
+	<a class="b" href="rrss/2023/300423.pdf" target="_blank">Расчет размера собственных средств на 30.04.2023</a> (17.05.2023 17:50) (Документ доступен в течение трех лет с даты опубликования)<br><br>
+	<a class="b" href="rrss/2023/310323.pdf" target="_blank">Расчет размера собственных средств на 31.03.2023</a> (14.04.2023 22:00) (Документ доступен в течение трех лет с даты опубликования)<br><br>
+	<a class="b" href="rrss/2023/280223.pdf" target="_blank">Расчет размера собственных средств на 28.02.2023</a> (15.03.2023 17:35) (Документ доступен в течение трех лет с даты опубликования)<br><br>
+	<a class="b" href="rrss/2023/310123.pdf" target="_blank">Расчет размера собственных средств на 31.01.2023</a> (14.02.2023 17:00) (Документ доступен в течение трех лет с даты опубликования)<br><br>
+	<br>
+	<br>
+	</div>
+	
+	</td>
+  </tr>
+</tbody></table>
+	
+	</td>
+    <td width="25%" align="left" valign="top" style="padding-top:20px">﻿<table width="100%" border="0" cellspacing="0" cellpadding="0" align="center" class="menu_right">
+	<tbody><tr align="left">
+    <td class="border_t"><a href="buh_otchet.php">» Отчетность ООО УК ПРОФИНВЕСТ</a></td>
+    </tr>
+	<tr align="left">
+    <td class="border_t"><a href="of_soob.php">» Официальные сообщения</a></td>
+    </tr>
+	<tr align="left">
+    <td class="border_t"><a href="sobsr.php"><font color="#901E78">» Собственные средства ООО УК ПРОФИНВЕСТ</font></a></td>
+    </tr>
+	<tr align="left">
+    <td class="border_t"><a href="notice.php">» Сообщения о технических неполадках</a></td>
+    </tr>
+	<tr align="left">
+    <td class="border_t"><a href="eldoc.php">» Электронный документооборот</a></td>
+    </tr>
+	<tr align="left">
+    <td class="border_t"><a href="doc.php">» Документация</a></td>
+    </tr>
+	<tr align="left">
+    <td class="border_t"><a href="soob_ob.php">» Сообщения об обнаружении (выявлении) неточных, неполных и (или) недостоверных сведений в раскрываемой информации</a></td>
+    </tr>
+	<tr align="left">
+    <td class="border_t"><a href="sec_info.php">» Защита информации</a></td>
+    </tr>
+	
+</tbody></table>
+</td>
+  </tr>
+</tbody></table>
+	<!--Конец тела -->
+	
+	<!--Нижнее Меню -->	
+  	
+	<table align="center" width="85%" border="0" cellspacing="0" cellpadding="0">
+  <tbody><tr bgcolor="#FFFFFF">
+    <td>﻿<table width="100%" border="0" align="center" cellpadding="0" cellspacing="0" class="text">
+  
+  <tbody><tr valign="bottom">
+    <td>Стоимость инвестиционных паев может увеличиваться и уменьшаться. Результаты инвестирования в прошлом не определяют доходы в будущем. Государство не гарантирует доходность инвестиций в инвестиционные фонды. Перед приобретением инвестиционных паев необходимо внимательно ознакомиться с инвестиционной декларацией и правилами доверительного управления паевым инвестиционным фондом.</td>
+  </tr>
+  
+</tbody></table>
+</td>
+  </tr>
+  <tr>
+    <td height="4" style="background:url(images/line2.png) repeat-x;"></td>
+  </tr>
+  <tr valign="top" align="center">
+    <td height="27" style="background:url(images/line_menu.png) repeat-x;">﻿<table width="80%" height="33" border="0" align="center" cellpadding="0" cellspacing="0" class="menu_down">
+  <tbody><tr valign="top">
+    <td align="center"><a href="index.php"><font color="#901E78">О&nbsp;компании</font></a></td>
+    <td align="center"><a href="rrss.php">Раскрытие&nbsp;информации</a></td>
+    <td align="center"><a href="partners.php">Партнеры и контрагенты</a></td>
+    <td align="center"><a href="mordovia.php">О&nbsp;Мордовии</a></td>
+    <td align="center"><a href="contact.php">Контакты</a></td>
+  </tr>
+  
+  <!--<tr valign="top">
+    <td colspan="6" class="copyright">&copy;2010 УК "ПРОФИНВЕСТ" Все права защищены</td>
+  </tr> -->
+</tbody></table>
+</td>
+  </tr>
+  <tr>
+    <td height="4" style="background:url(images/line1.png) repeat-x;"></td>
+  </tr>
+   <tr valign="top">
+    <td>﻿<table width="100%" border="0" align="center" cellpadding="0" cellspacing="0">
+  
+  <tbody><tr valign="top">
+    <td class="copyright">©2010 УК "ПРОФИНВЕСТ" Все права защищены</td>
+  </tr>
+  
+</tbody></table>
+</td>
+  </tr>
+</tbody></table>
+
+	
+	<!-- -->
+</td>
+</tr>
+</tbody></table>
+
+
+

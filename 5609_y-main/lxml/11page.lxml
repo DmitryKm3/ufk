@@ -1,0 +1,282 @@
+
+<table border="0" cellspacing="0" cellpadding="0" id="main">
+  <tbody><tr>
+    <td rowspan="3" width="0"></td>
+    <td width="300" align="center" colspan="4"><a href="/"><img border="0" width="100%" src="/images/header.png" alt="Megapolis"></a></td>
+
+    <td width="0" rowspan="3"></td>
+  </tr>
+  <tr>
+    <td colspan="4"> 
+    <div class="top-hr">&nbsp;</div>
+    </td>
+  </tr>
+  <tr>
+    <td width="228" valign="top" id="left">
+    <script type="text/javascript">
+$(function(){
+	$(".vertMenu").buildMenu({
+        menuWidth:'auto',
+        openOnRight:true,
+        menuSelector: ".menuContainer",
+        fadeInTime:200,
+        fadeOutTime:200,
+        adjustLeft:0,
+        adjustTop:0,
+        opacity:.95,
+        openOnClick:false,
+        minZindex:200,
+        shadow:false,
+		hasImages:false,
+        closeOnMouseOut:true
+	});
+});
+</script>
+<div class="vertMenu" id="menu_923">
+  <table class="rootVoices vertical" cellspacing="0" cellpadding="0" border="0">
+  <tbody><tr><td class="rootVoice "><a href="?p=com_content&amp;cid=1">Информация об организации</a></td></tr><tr><td class="rootVoice  {menu:'menu_212'}" menu="menu_212" nowrap="nowrap"><a href="">Документы и отчетность организации</a></td></tr><tr><td class="rootVoice "><a href="?p=com_content&amp;cid=225">Схема взаимосвязей и список участников</a></td></tr><tr><td class="rootVoice  {menu:'menu_216'}" menu="menu_216" nowrap="nowrap"><a href="">Фонды под управлением</a></td></tr><tr><td class="rootVoice "><a href="?p=com_content&amp;cid=106">Контакты</a></td></tr>  </tbody></table>
+</div>
+<div id="menu_212" class="mbmenu" style="display: none;">	<a href="?p=com_content&amp;cid=124" class="">Расчет размера собственных средств</a>	<a href="?p=com_content&amp;cid=128" class="">Бухгалтерская отчетность</a>	<a href="?p=com_content&amp;cid=160" class="">Инсайдерская информация</a>	<a href="/?p=com_content&amp;cid=159" class="">Аудиторское заключение</a>	<a href="?p=com_content&amp;cid=199" class="">Электронный документооборот</a>	<a href="/otchet/2021/684-P.docx" class="">Рекомендации по соблюдению правил информационной безопасности</a>	<a href="http://megainv.ru/?p=com_content&amp;cid=235" class="">Регламент по признанию лиц квалифицированными инвесторами</a>	<a href="/otchet/2021/politika_pd.docx" class="">Политика обработки персональных данных</a>	<a href="/?p=com_content&amp;cid=226" class="">Информация о конфликте интересов</a></div><div id="menu_216" class="mbmenu" style="display: none;">	<a href="?p=com_content&amp;cid=112" class="">ЗПИФ комбинированный "Арктический"</a>	<a href="?p=com_content&amp;cid=112" class="">ЗПИФ комбинированный "Артек"</a>	<a href="?p=com_content&amp;cid=112" class="">ЗПИФ комбинированный "Барс"</a>	<a href="?p=com_content&amp;cid=112" class=""> ЗПИФ комбинированный "Виноградный"</a>	<a href="http://megainv.ru/?p=com_content&amp;cid=240" class="">ЗПИФ комбинированный "Дискавери"</a>	<a href="?p=com_content&amp;cid=112" class=""> ЗПИФ комбинированный "Доброта"</a>	<a href="?p=com_content&amp;cid=230" class="">ЗПИФ комбинированный "ЕМБА23 Инвест"</a>	<a href="?p=com_content&amp;cid=112" class="">ЗПИФ комбинированный "Знак качества"</a>	<a href="?p=com_content&amp;cid=112" class="">ЗПИФ комбинированный "Индиго"</a>	<a href="?p=com_content&amp;cid=112" class="">ЗПИФ комбинированный "Капиталинвест"</a>	<a href="?p=com_content&amp;cid=112" class="">ЗПИФ комбинированный "Млечный путь"</a>	<a href="?p=com_content&amp;cid=243" class="">ЗПИФ комбинированный "Ниагара"</a>	<a href="?p=com_content&amp;cid=112" class="">ЗПИФ комбинированный "Новация"</a>	<a href="?p=com_content&amp;cid=112" class="">ЗПИФ комбинированный "Оникс"</a>	<a href="?p=com_content&amp;cid=112" class="">ЗПИФ комбинированный "Периметр"</a>	<a href="?p=com_content&amp;cid=112" class="">ЗПИФ комбинированный "Система"</a>	<a href="?p=com_content&amp;cid=112" class="">ЗПИФ комбинированный «СКФ»</a>	<a href="?p=com_content&amp;cid=112" class="">ЗПИФ комбинированный "Слободской"</a>	<a href="?p=com_content&amp;cid=239" class="">ЗПИФ комбинированный «ФПВ инвестмент»</a>	<a href="?p=com_content&amp;cid=112" class="">ЗПИФ комбинированный "Эпицентр"</a>	<a href="?p=com_content&amp;cid=112" class="">ЗПИФ комбинированный "ЯМАЛ"</a>	<a href="?p=com_content&amp;cid=233" class=" {menu:'menu_242'}">ЗПИФ недвижимости "АНТЕЙ ЮГ"</a>	<a href="?p=com_content&amp;cid=231" class=" {menu:'menu_241'}">ЗПИФ недвижимости "АТЛАНТ"</a>	<a href="http://megainv.ru/?p=com_content&amp;cid=232" class=" {menu:'menu_219'}">Рентный ЗПИФ "ОфисЦентр"</a></div><div id="menu_242" class="mbmenu" style="display: none;">	<a href="?p=com_content&amp;cid=213" class="">Правила доверительного управления</a>	<a href="?p=com_content&amp;cid=209" class="">СЧА и стоимость пая</a>	<a href="?p=com_content&amp;cid=216" class="">Отчетность паевого инвестиционного фонда</a>	<a href="?p=com_content&amp;cid=212" class="">Правила определения стоимости чистых активов</a>	<a href="?p=com_content&amp;cid=214" class="">Отчёты об оценке имущества паевого инвестиционного фонда</a>	<a href="?p=com_content&amp;cid=221" class="">Общее собрание владельцев инвестиционных паев</a>	<a href="?p=com_content&amp;cid=220" class="">Сообщения и уведомления</a>	<a href="http://megainv.ru/?p=com_content&amp;cid=238" class="">Ключевой информационный документ</a></div><div id="menu_241" class="mbmenu" style="display: none;">	<a href="?p=com_content&amp;cid=210" class="">Правила доверительного управления</a>	<a href="?p=com_content&amp;cid=208" class="">СЧА и стоимость пая</a>	<a href="?p=com_content&amp;cid=224" class="">Отчетность паевого инвестиционного фонда</a>	<a href="?p=com_content&amp;cid=211" class="">Правила определения стоимости чистых активов</a>	<a href="?p=com_content&amp;cid=215" class="">Отчёты об оценке имущества паевого инвестиционного фонда</a>	<a href="?p=com_content&amp;cid=222" class="">Общее собрание владельцев инвестиционных паев</a>	<a href="?p=com_content&amp;cid=219" class="">Сообщения и уведомления</a>	<a href="http://megainv.ru/?p=com_content&amp;cid=237" class="">Ключевой информационный документ</a></div><div id="menu_219" class="mbmenu" style="display: none;">	<a href="?p=com_content&amp;cid=141" class="">Правила доверительного управления</a>	<a href="?p=com_content&amp;cid=143" class="">СЧА и стоимость пая</a>	<a href="?p=com_content&amp;cid=145" class="">Отчетность паевого инвестиционного фонда</a>	<a href="?p=com_content&amp;cid=142" class="">Правила определения стоимости чистых активов</a>	<a href="?p=com_content&amp;cid=179" class="">Отчёты об оценке имущества паевого инвестиционного фонда</a>	<a href="?p=com_content&amp;cid=183" class="">Общее собрание владельцев инвестиционных паев</a>	<a href="http://megainv.ru/?p=com_content&amp;cid=234" class="">Сообщения и уведомления</a>	<a href="http://megainv.ru/?p=com_content&amp;cid=236" class="">Ключевой информационный документ</a></div>
+&nbsp;    </td>
+    <td width="20">&nbsp;</td>
+    <td valign="top" id="center" style="padding:5px; padding-right:15px;" width="571">
+	
+	<br>
+<table width="600" cellspacing="1" cellpadding="1" border="1" align="center">
+    <tbody>
+        <tr>
+            <td style="text-align: center"><span style="font-size: small;"><span style="color: rgb(0, 0, 0);"><span style="font-family: Arial;"><strong>Документ</strong></span></span></span></td>
+            <td style="text-align: center"><span style="font-size: small;"><span style="font-family: Arial;"><strong>Опубликовано</strong></span><span style="background-color: rgb(255, 255, 255);"><br>
+            </span></span></td>
+            <td style="text-align: center"><span style="font-size: small;"><span style="font-family: Arial;"><strong>Доступно до</strong></span></span></td>
+        </tr>
+        <tr>
+            <td style="text-align: center"><a href="http://megainv.ru/otchet/2023/RSS_UK_MI_31-05-2023_OKUD0420514.pdf"><span style="font-size: small;">Расчет размера собственных средств на 31.05.2023г. (pdf)</span></a></td>
+            <td style="text-align: center"><span style="font-size: small;">15.06.2023</span></td>
+            <td style="text-align: center"><span style="font-size: small;">15.06.2026</span></td>
+        </tr>
+        <tr>
+            <td style="text-align: center"><a href="http://megainv.ru/otchet/2023/RSS_UK_MI_30-04-2023_OKUD0420514.pdf"><span style="font-size: small;">Расчет размера собственных средств на 30.04.2023г. (pdf)</span></a></td>
+            <td style="text-align: center"><span style="font-size: small;">18.05.2023</span></td>
+            <td style="text-align: center"><span style="font-size: small;">18.05.2026</span></td>
+        </tr>
+        <tr>
+            <td style="text-align: center"><a href="http://megainv.ru/otchet/2023/RSS_UK_MI_31-03-2023_OKUD0420514.pdf"><span style="font-size: small;">Расчет размера собственных средств на 31.03.2023г. (pdf)</span></a></td>
+            <td style="text-align: center"><span style="font-size: small;">17.04.2023</span></td>
+            <td style="text-align: center"><span style="font-size: small;">17.04.2026</span></td>
+        </tr>
+        <tr>
+            <td style="text-align: center"><a href="http://megainv.ru/otchet/2023/RSS_UK_MI_28-02-2023_OKUD0420514.pdf"><span style="font-size: small;">Расчет размера собственных средств на 28.02.2023г. (pdf)</span></a></td>
+            <td style="text-align: center"><span style="font-size: small;">15.03.2023</span></td>
+            <td style="text-align: center"><span style="font-size: small;">15.03.2026</span></td>
+        </tr>
+        <tr>
+            <td style="text-align: center"><a href="http://megainv.ru/otchet/2023/RSS_UK_MI_31-01-2023_OKUD0420514.xlsx"><span style="font-size: small;">Расчет размера собственных средств на 31.01.2023г. (xlsx)</span></a></td>
+            <td style="text-align: center"><span style="font-size: small;">14.02.2023</span></td>
+            <td style="text-align: center"><span style="font-size: small;">14.02.2026</span></td>
+        </tr>
+        <tr>
+            <td style="text-align: center"><a href="http://megainv.ru/otchet/2022/RSS_UK_MI_31-12-2022_OKUD0420514_kor.xlsx"><span style="font-size: small;">Расчет размера собственных средств на 31.12.2022г. (скорректированный (xlsx)</span></a></td>
+            <td style="text-align: center"><span style="font-size: small;">24.01.2023</span></td>
+            <td style="text-align: center"><span style="font-size: small;">24.01.2026</span></td>
+        </tr>
+        <tr>
+            <td style="text-align: center"><a href="http://megainv.ru/otchet/2022/RSS_UK_MI_30-11-2022_OKUD0420514_kor.xlsx" style="font-size: small;">Расчет размера собственных средств на 30.11.2022г.(скорректированный) (xlsx)</a></td>
+            <td style="text-align: center"><span style="font-size: small;">24.01.2023</span></td>
+            <td style="text-align: center"><span style="font-size: small;">24.01.2026</span></td>
+        </tr>
+        <tr>
+            <td style="text-align: center"><a href="http://megainv.ru/otchet/2022/RSS_UK_MI_31-12-2022_OKUD0420514.xlsx"><span style="font-size: small;">Расчет размера собственных средств на 31.12.2022г. (xlsx)</span></a></td>
+            <td style="text-align: center"><span style="font-size: small;">19.01.2023</span></td>
+            <td style="text-align: center"><span style="font-size: small;">19.01.2026</span></td>
+        </tr>
+        <tr>
+            <td style="text-align: center"><a href="http://megainv.ru/otchet/2022/RSS_UK_MI_30-11-2022_OKUD0420514.xlsx" style="font-size: small;">Расчет размера собственных средств на 30.11.2022г. (xlsx)</a></td>
+            <td style="text-align: center"><span style="font-size: small;">13.12.2022</span></td>
+            <td style="text-align: center"><span style="font-size: small;">13.12.2025</span></td>
+        </tr>
+        <tr>
+            <td style="text-align: center"><a href="http://megainv.ru/otchet/2022/RSS_UK_MI_31-10-2022_OKUD0420514.xlsx" style="font-size: small;">Расчет размера собственных средств на 31.10.2022г. (xlsx)</a></td>
+            <td style="text-align: center"><span style="font-size: small;">15.11.2022</span></td>
+            <td style="text-align: center"><span style="font-size: small;">15.11.2025</span></td>
+        </tr>
+        <tr>
+            <td style="text-align: center"><a href="http://megainv.ru/otchet/2022/RSS_UK_MI_30-09-2022_OKUD0420514.xlsx" style="font-size: small;">Расчет размера собственных средств на 30.09.2022г. (xlsx)</a></td>
+            <td style="text-align: center"><span style="font-size: small;">14.10.2022</span></td>
+            <td style="text-align: center"><span style="font-size: small;">14.10.2025</span></td>
+        </tr>
+        <tr>
+            <td style="text-align: center"><a href="http://megainv.ru/otchet/2022/RSS_UK_MI_31-08-2022_OKUD0420514.xlsx" style="font-size: small;">Расчет размера собственных средств на 31.08.2022г. (xlsx)</a></td>
+            <td style="text-align: center"><span style="font-size: small;">14.09.2022</span></td>
+            <td style="text-align: center"><span style="font-size: small;">14.09.2025</span></td>
+        </tr>
+        <tr>
+            <td style="text-align: center"><a href="http://megainv.ru/otchet/2022/RSS_na_31-07-2022_OKUD0420514.xlsx" style="font-size: small;">Расчет размера собственных средств на 31.07.2022г. (xlsx)</a></td>
+            <td style="text-align: center"><span style="font-size: small;">15.08.2022</span></td>
+            <td style="text-align: center"><span style="font-size: small;">15.08.2025</span></td>
+        </tr>
+        <tr>
+            <td style="text-align: center"><a href="http://megainv.ru/otchet/2022/RSS_na_30-06-2022_OKUD0420514.xlsx" style="font-size: small;">Расчет размера собственных средств на 30.06.2022г. (xlsx)</a></td>
+            <td style="text-align: center"><span style="font-size: small;">15.07.2022</span></td>
+            <td style="text-align: center"><span style="font-size: small;">15.07.2025</span></td>
+        </tr>
+        <tr>
+            <td style="text-align: center"><span style="font-size: small;"><a href="http://megainv.ru/otchet/2022/RSS_na_31-05-2022_OKUD0420514.xlsx">Расчет размера собственных средств на 31.05.2022г. (xlsx)</a></span></td>
+            <td style="text-align: center"><span style="font-size: small;">15.06.2022</span></td>
+            <td style="text-align: center"><span style="font-size: small;">15.06.2025</span></td>
+        </tr>
+        <tr>
+            <td style="text-align: center"><a href="http://megainv.ru/otchet/2022/RSS_na_30-04-2022_OKUD0420514.xlsx"><span style="font-size: small;">Расчет размера собственных средств на 30.04.2022г. (xlsx)</span></a></td>
+            <td style="text-align: center"><span style="font-size: small;">19.05.2022</span></td>
+            <td style="text-align: center"><span style="font-size: small;">19.05.2025</span></td>
+        </tr>
+        <tr>
+            <td style="text-align: center"><span style="font-size: small;"><a href="http://megainv.ru/otchet/2022/RSS_na_31-03-2022_OKUD0420514.xlsx">Расчет размера собственных средств на 31.03.2022г. (xlsx)</a></span></td>
+            <td style="text-align: center"><span style="font-size: small;">14.04.2022</span></td>
+            <td style="text-align: center"><span style="font-size: small;">14.04.2025</span></td>
+        </tr>
+        <tr>
+            <td style="text-align: center"><a href="http://megainv.ru/otchet/2022/RSS_na_28-02-2022_OKUD0420514.xlsx"><span style="font-size: small;">Расчет размера собственных средств на 28.02.2022г. (xlsx)</span></a></td>
+            <td style="text-align: center"><span style="font-size: small;">14.03.2022</span></td>
+            <td style="text-align: center"><span style="font-size: small;">14.03.2025</span></td>
+        </tr>
+        <tr>
+            <td style="text-align: center"><span style="font-size: small;"><a href="http://megainv.ru/otchet/2022/RSS_na_31-01-2022_OKUD0420514.pdf">Расчет размера собственных средств на 31.01.2022г. (pdf)</a></span></td>
+            <td style="text-align: center"><span style="font-size: small;">11.02.2022</span></td>
+            <td style="text-align: center"><span style="font-size: small;">11.02.2025</span></td>
+        </tr>
+        <tr>
+            <td style="text-align: center">&nbsp;<a href="http://megainv.ru/otchet/2022/RSS_na_31-12-2021_OKUD0420514_k1.xlsx"><span style="font-size: small;">Расчет размера собственных средств на 31.12.2021г. (скорректированный) (xlsx)</span></a></td>
+            <td style="text-align: center"><span style="font-size: small;">02.02.2022</span></td>
+            <td style="text-align: center"><span style="font-size: small;">02.02.2025</span></td>
+        </tr>
+        <tr>
+            <td style="text-align: center"><span style="font-size: small;"><a href="http://megainv.ru/otchet/2021/RSS_na_31-12-2021_OKUD0420514.xlsx">Расчет размера собственных средств на 31.12.2021г. (xlsx)</a></span></td>
+            <td style="text-align: center"><span style="font-size: small;">21.01.2022</span></td>
+            <td style="text-align: center"><span style="font-size: small;">21.01.2025</span></td>
+        </tr>
+        <tr>
+            <td style="text-align: center"><span style="font-size: small;"><a href="http://megainv.ru/otchet/2021/UK_RSS_OKUD0420514_30-11-2021.xlsx">Расчет размера собственных средств на 30.11.2021г. (xlsx)</a></span></td>
+            <td style="text-align: center"><span style="font-size: small;">14.12.2021</span></td>
+            <td style="text-align: center"><span style="font-size: small;">14.12.2024</span></td>
+        </tr>
+        <tr>
+            <td style="text-align: center"><a href="http://megainv.ru/otchet/2021/RSS_OKUD0420514_31-10-2021.xlsx"><span style="font-size: small;">Расчет размера собственных средств на 31.10.2021г. (xlsx)</span></a></td>
+            <td style="text-align: center"><span style="font-size: small;">18.11.2021</span></td>
+            <td style="text-align: center"><span style="font-size: small;">18.11.2024</span></td>
+        </tr>
+        <tr>
+            <td style="text-align: center"><a href="http://megainv.ru/otchet/2021/RSS_OKUD0420514_30-09-2021_UK_MI.pdf" style="font-size: small;">Расчет размера собственных средств на 30.09.2021г. (pdf)</a></td>
+            <td style="text-align: center"><span style="font-size: small;">14.10.2021</span></td>
+            <td style="text-align: center"><span style="font-size: small;">14.10.2024</span></td>
+        </tr>
+        <tr>
+            <td style="text-align: center"><a href="http://megainv.ru/otchet/2021/UK_otchet_PCC_31-08-2021.pdf" style="font-size: small;">Расчет размера собственных средств на 31.08.2021г. (pdf)</a></td>
+            <td style="text-align: center"><span style="font-size: small;">15.09.2021</span></td>
+            <td style="text-align: center"><span style="font-size: small;">15.09.2024</span></td>
+        </tr>
+        <tr>
+            <td style="text-align: center"><a href="/otchet/2021/UK_otchet_3107201.pdf" style="font-size: small;">Расчет размера собственных средств на 31.07.2021г. (pdf)</a></td>
+            <td style="text-align: center"><span style="font-size: small;">12.08.2021</span></td>
+            <td style="text-align: center"><span style="font-size: small;">12.08.2024</span></td>
+        </tr>
+        <tr>
+            <td style="text-align: center"><span style="font-size: small;"><a href="/otchet/2021/UK_rss_30062021.pdf">Расчет размера собственных средств на 30.06.2021г. (pdf)</a></span></td>
+            <td style="text-align: center"><span style="font-size: small;">14.07.2021</span></td>
+            <td style="text-align: center"><span style="font-size: small;">14.07.2024</span></td>
+        </tr>
+        <tr>
+            <td style="text-align: center"><a href="/otchet/2021/UK_rss_31052021.pdf"><span style="font-size: small;">Расчет размера собственных средств на 31.05.2021г. (pdf)</span></a></td>
+            <td style="text-align: center"><span style="font-size: small;">15.06.2021</span></td>
+            <td style="text-align: center"><span style="font-size: small;">15.06.2024</span></td>
+        </tr>
+        <tr>
+            <td style="text-align: center"><span style="font-size: small;"><a href="/otchet/2021/UK_rss_30042021_korr.pdf">Расчет размера собственных средств на 30.04.2021г. (корректировка в результате пересчета СЧА) (pdf)</a></span></td>
+            <td style="text-align: center"><span style="font-size: small;">11.06.2021</span></td>
+            <td style="text-align: center"><span style="font-size: small;">11.06.2024</span></td>
+        </tr>
+        <tr>
+            <td style="text-align: center"><a href="/otchet/2021/UK_otchet_30042021.pdf"><span style="font-size: small;">Расчет размера собственных средств на 30.04.2021г. (pdf)</span></a></td>
+            <td style="text-align: center"><span style="font-size: small;">17.05.2021</span></td>
+            <td style="text-align: center"><span style="font-size: small;">17.05.2024</span></td>
+        </tr>
+        <tr>
+            <td style="text-align: center"><a href="/otchet/2021/UK_RSS_31032021.pdf"><span style="font-size: small;">Расчет размера собственных средств на 31.03.2021г. (pdf)</span></a></td>
+            <td style="text-align: center"><span style="font-size: small;">14.04.2021</span></td>
+            <td style="text-align: center"><span style="font-size: small;">14.04.2024</span></td>
+        </tr>
+        <tr>
+            <td style="text-align: center"><a href="/otchet/2020/otchet_28_02_2021.pdf"><span style="font-size: small;">Расчет размера собственных средств на 28.02.2021г. (pdf)</span></a></td>
+            <td style="text-align: center"><span style="font-size: small;">15.03.2021</span></td>
+            <td style="text-align: center"><span style="font-size: small;">15.03.2024</span></td>
+        </tr>
+        <tr>
+            <td style="text-align: center"><a href="/otchet/2020/otchet_31_01_2021.pdf"><span style="font-size: small;">Расчет размера собственных средств на 31.01.2021г. (pdf)</span></a></td>
+            <td style="text-align: center"><span style="font-size: small;">12.02.2021</span></td>
+            <td style="text-align: center"><span style="font-size: small;">12.02.2024</span></td>
+        </tr>
+        <tr>
+            <td style="text-align: center"><a href="/otchet/2020/otchet_31_12_2020.pdf"><span style="font-size: small;">Расчет размера собственных средств на 31.12.2020г. (pdf)</span></a></td>
+            <td style="text-align: center"><span style="font-size: small;">23.01.2021</span></td>
+            <td style="text-align: center"><span style="font-size: small;">22.01.2024</span></td>
+        </tr>
+        <tr>
+            <td style="text-align: center"><a href="/otchet/2020/otchet_30_11_2020.pdf"><span style="font-size: small;">Расчет размера собственных средств на 30.11.2020г. (pdf)</span></a></td>
+            <td style="text-align: center"><span style="font-size: small;">14.12.2020</span></td>
+            <td style="text-align: center"><span style="font-size: small;">14.12.2023</span></td>
+        </tr>
+        <tr>
+            <td style="text-align: center"><a href="/otchet/2020/otchet_31_10_2020.pdf"><span style="font-size: small;">Расчет размера собственных средств на 31.10.2020г. (pdf)</span></a></td>
+            <td style="text-align: center"><span style="font-size: small;">16.11.2020</span></td>
+            <td style="text-align: center"><span style="font-size: small;">16.11.2023</span></td>
+        </tr>
+        <tr>
+            <td style="text-align: center"><a href="/otchet/2020/otchet_30_09_2020.pdf" style="font-size: small;">Расчет размера собственных средств на 30.09.2020г. (pdf)</a></td>
+            <td style="text-align: center"><span style="font-size: small;">14.10.2020</span></td>
+            <td style="text-align: center"><span style="font-size: small;">14.10.2023</span></td>
+        </tr>
+    </tbody>
+</table>
+&nbsp; &nbsp; &nbsp; &nbsp;<br>
+<br>
+&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;&nbsp;<a href="/otchet/2010/otchet_31_07.XLS"><br>
+</a>&nbsp;</td>
+    <td width="200" valign="top"><div id="contacts">
+      <strong> тел./факс:</strong><br>
+       8 (495) 984 25 36<br>
+  <strong> e-mail:</strong><br>
+  <a href="mailto:info@megainv.ru"> info@megainv.ru</a>
+  </div><div class="news">
+<a href="/?p=com_news" class="news_title">Новости компании</a>
+			<div class="news_item"><p class="news_link"><a href="?p=com_news&amp;nid=45">
+17 Февраля 2023</a></p><p class="news_text"><a href="?p=com_news&amp;nid=45">
+ООО УК Мегаполис-Инвест сообщает об изменении (корректировке) ранее размещенной информации</a></p>
+</div><div class="news_item"><p class="news_link"><a href="?p=com_news&amp;nid=44">
+1 Февраля 2023</a></p><p class="news_text"><a href="?p=com_news&amp;nid=44">
+Сообщение об изменении (корректировке) ранее размещенной информации</a></p>
+</div><div class="news_item"><p class="news_link"><a href="?p=com_news&amp;nid=43">
+16 Декабря 2022</a></p><p class="news_text"><a href="?p=com_news&amp;nid=43">
+Сообщение о прекращении ЗПИФ комбинированного «Аквамарин»</a></p>
+</div>
+
+</div>    </td>
+  </tr>
+  <tr>
+    <td align="center"></td>
+    <td valign="top" id="left2">&nbsp;</td>
+    <td>&nbsp;</td>
+    <td valign="top" id="center2" style="padding:5px;">&nbsp;</td>
+    <td valign="top">&nbsp;</td>
+    <td></td>
+  </tr>
+</tbody></table>
+<div id="bottom">
+    <div style="float:left; padding-left:40px; height:auto;">
+<span lang="EN-US" style="font-family: &quot;Arial&quot;,&quot;sans-serif&quot;; color: blue; font-size: 8.5pt; mso-fareast-font-family: 'Times New Roman'; mso-ansi-language: EN-US; mso-fareast-language: RU; mso-bidi-language: AR-SA"><span style="font-family: &quot;Arial&quot;,&quot;sans-serif&quot;; color: blue; font-size: 8.5pt; mso-fareast-font-family: 'Times New Roman'; mso-ansi-language: RU; mso-fareast-language: RU; mso-bidi-language: AR-SA"><strong></strong></span><span style="font-family: &quot;Arial&quot;,&quot;sans-serif&quot;; color: gray; font-size: 8.5pt; mso-fareast-font-family: 'Times New Roman'; mso-ansi-language: RU; mso-fareast-language: RU; mso-bidi-language: AR-SA"><br><br></span></span>
+    </div>
+    <div style="float:right; margin-right:40px; height:auto;">
+    <span lang="EN-US" style="font-family: &quot;Arial&quot;,&quot;sans-serif&quot;; color: blue; font-size: 8.5pt; mso-fareast-font-family: 'Times New Roman'; mso-ansi-language: EN-US; mso-fareast-language: RU; mso-bidi-language: AR-SA"><strong></strong></span><span lang="EN-US" style="font-family: &quot;Arial&quot;,&quot;sans-serif&quot;; color: gray; font-size: 8.5pt; mso-fareast-font-family: 'Times New Roman'; mso-ansi-language: EN-US; mso-fareast-language: RU; mso-bidi-language: AR-SA"><br><br></span>
+    </div>
+</div>
+
+<div id="fancybox-tmp"></div><div id="fancybox-loading"><div></div></div><div id="fancybox-overlay"></div><div id="fancybox-wrap"><div id="fancybox-outer"><div class="fancy-bg" id="fancy-bg-n"></div><div class="fancy-bg" id="fancy-bg-ne"></div><div class="fancy-bg" id="fancy-bg-e"></div><div class="fancy-bg" id="fancy-bg-se"></div><div class="fancy-bg" id="fancy-bg-s"></div><div class="fancy-bg" id="fancy-bg-sw"></div><div class="fancy-bg" id="fancy-bg-w"></div><div class="fancy-bg" id="fancy-bg-nw"></div><div id="fancybox-inner"></div><a id="fancybox-close"></a><a href="javascript:;" id="fancybox-left"><span class="fancy-ico" id="fancybox-left-ico"></span></a><a href="javascript:;" id="fancybox-right"><span class="fancy-ico" id="fancybox-right-ico"></span></a></div></div>

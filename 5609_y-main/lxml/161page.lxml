@@ -1,0 +1,1697 @@
+
+  
+   
+    <div class="preloader">
+      <div class="preloader__logo">
+        <svg class="preloader__logo-left">
+          <use xlink:href="/local/templates/psbamnew/images/sprite.svg#load-logo-left"></use>
+        </svg>
+        <svg class="preloader__logo-right">
+          <use xlink:href="/local/templates/psbamnew/images/sprite.svg#load-logo-right"></use>
+        </svg>
+      </div>
+    </div>  
+		
+  
+    <div class="header">
+      <div class="header__top">
+        <div class="wrapper header__top-wrapper">	
+          <div class="header__top-nav">
+<a class="header__top-nav-item root-item-selected" href="/disclosure/">Раскрытие обязательной информации</a>
+<a class="header__top-nav-item root-item" href="/company/">О компании</a>
+<a class="header__top-nav-item root-item" href="/news/company/">Пресс-центр</a>
+<a class="header__top-nav-item root-item" href="/news/analytics/">Аналитика</a>
+<a class="header__top-nav-item root-item" href="/contacts/">Контакты</a>
+          </div>
+		  <div class="header__right">
+          <a class="header__phone" href="tel:84956624092" title="" style="margin: 1px 110px 0 0;">8 (495) 662-40-92</a>
+          <!--<a class="header__calc" href="/calc/" title="">
+            <svg class="header__calc-icon">
+              <use xlink:href="/local/templates/psbamnew/images/sprite.svg#calc"></use>
+            </svg>
+          </a>-->		  
+          <a class="header__user" target="_blank" href="/temporarily-unavailable/">
+            <svg class="header__user-icon">
+              <use xlink:href="/local/templates/psbamnew/images/sprite.svg#user"></use>
+            </svg>
+            <div class="header__user-text">
+              <span>Личный кабинет</span>
+              <span>Войти</span>
+            </div>
+          </a>
+		  </div>
+        </div>
+      </div>
+      <div class="header__body">
+        <div class="wrapper header__body-wrapper">
+          <a class="header__logo" href="/" title="">
+            <script data-pagespeed-no-defer="">(function(){for(var g="function"==typeof Object.defineProperties?Object.defineProperty:function(b,c,a){if(a.get||a.set)throw new TypeError("ES3 does not support getters and setters.");b!=Array.prototype&&b!=Object.prototype&&(b[c]=a.value)},h="undefined"!=typeof window&&window===this?this:"undefined"!=typeof global&&null!=global?global:this,k=["String","prototype","repeat"],l=0;l<k.length-1;l++){var m=k[l];m in h||(h[m]={});h=h[m]}var n=k[k.length-1],p=h[n],q=p?p:function(b){var c;if(null==this)throw new TypeError("The 'this' value for String.prototype.repeat must not be null or undefined");c=this+"";if(0>b||1342177279<b)throw new RangeError("Invalid count value");b|=0;for(var a="";b;)if(b&1&&(a+=c),b>>>=1)c+=c;return a};q!=p&&null!=q&&g(h,n,{configurable:!0,writable:!0,value:q});var t=this;function u(b,c){var a=b.split("."),d=t;a[0]in d||!d.execScript||d.execScript("var "+a[0]);for(var e;a.length&&(e=a.shift());)a.length||void 0===c?d[e]?d=d[e]:d=d[e]={}:d[e]=c};function v(b){var c=b.length;if(0<c){for(var a=Array(c),d=0;d<c;d++)a[d]=b[d];return a}return[]};function w(b){var c=window;if(c.addEventListener)c.addEventListener("load",b,!1);else if(c.attachEvent)c.attachEvent("onload",b);else{var a=c.onload;c.onload=function(){b.call(this);a&&a.call(this)}}};var x;function y(b,c,a,d,e){this.h=b;this.j=c;this.l=a;this.f=e;this.g={height:window.innerHeight||document.documentElement.clientHeight||document.body.clientHeight,width:window.innerWidth||document.documentElement.clientWidth||document.body.clientWidth};this.i=d;this.b={};this.a=[];this.c={}}function z(b,c){var a,d,e=c.getAttribute("data-pagespeed-url-hash");if(a=e&&!(e in b.c))if(0>=c.offsetWidth&&0>=c.offsetHeight)a=!1;else{d=c.getBoundingClientRect();var f=document.body;a=d.top+("pageYOffset"in window?window.pageYOffset:(document.documentElement||f.parentNode||f).scrollTop);d=d.left+("pageXOffset"in window?window.pageXOffset:(document.documentElement||f.parentNode||f).scrollLeft);f=a.toString()+","+d;b.b.hasOwnProperty(f)?a=!1:(b.b[f]=!0,a=a<=b.g.height&&d<=b.g.width)}a&&(b.a.push(e),b.c[e]=!0)}y.prototype.checkImageForCriticality=function(b){b.getBoundingClientRect&&z(this,b)};u("pagespeed.CriticalImages.checkImageForCriticality",function(b){x.checkImageForCriticality(b)});u("pagespeed.CriticalImages.checkCriticalImages",function(){A(x)});function A(b){b.b={};for(var c=["IMG","INPUT"],a=[],d=0;d<c.length;++d)a=a.concat(v(document.getElementsByTagName(c[d])));if(a.length&&a[0].getBoundingClientRect){for(d=0;c=a[d];++d)z(b,c);a="oh="+b.l;b.f&&(a+="&n="+b.f);if(c=!!b.a.length)for(a+="&ci="+encodeURIComponent(b.a[0]),d=1;d<b.a.length;++d){var e=","+encodeURIComponent(b.a[d]);131072>=a.length+e.length&&(a+=e)}b.i&&(e="&rd="+encodeURIComponent(JSON.stringify(B())),131072>=a.length+e.length&&(a+=e),c=!0);C=a;if(c){d=b.h;b=b.j;var f;if(window.XMLHttpRequest)f=new XMLHttpRequest;else if(window.ActiveXObject)try{f=new ActiveXObject("Msxml2.XMLHTTP")}catch(r){try{f=new ActiveXObject("Microsoft.XMLHTTP")}catch(D){}}f&&(f.open("POST",d+(-1==d.indexOf("?")?"?":"&")+"url="+encodeURIComponent(b)),f.setRequestHeader("Content-Type","application/x-www-form-urlencoded"),f.send(a))}}}function B(){var b={},c;c=document.getElementsByTagName("IMG");if(!c.length)return{};var a=c[0];if(!("naturalWidth"in a&&"naturalHeight"in a))return{};for(var d=0;a=c[d];++d){var e=a.getAttribute("data-pagespeed-url-hash");e&&(!(e in b)&&0<a.width&&0<a.height&&0<a.naturalWidth&&0<a.naturalHeight||e in b&&a.width>=b[e].o&&a.height>=b[e].m)&&(b[e]={rw:a.width,rh:a.height,ow:a.naturalWidth,oh:a.naturalHeight})}return b}var C="";u("pagespeed.CriticalImages.getBeaconData",function(){return C});u("pagespeed.CriticalImages.Run",function(b,c,a,d,e,f){var r=new y(b,c,a,e,f);x=r;d&&w(function(){window.setTimeout(function(){A(r)},0)})});})();pagespeed.CriticalImages.Run('/ngx_pagespeed_beacon','https://www.upravlyaem.ru/disclosure/company/raschet-sobstvennykh-sredstv/','GMA-jAt4a5',true,false,'2aKvKnv86sM');</script><img class="header__logo-img" src="/local/templates/psbamnew/images/header/header__logo-img.svg" alt="" data-pagespeed-url-hash="681368063" onload="pagespeed.CriticalImages.checkImageForCriticality(this);">
+          </a>
+          <a class="header__phone header__phone--tablet" href="tel:84956624092" title="">8 (495) 662-40-92</a>
+          <div class="header__nav">
+<a class="header__nav-item root-item" href="/funds/mutual_funds/">Открытые паевые фонды</a>
+<a class="header__nav-item root-item" href="/investment_account/">ИИС</a>
+<a class="header__nav-item root-item" href="/trust_managment/">Доверительное управление</a>
+<a class="header__nav-item root-item" href="/corporate_clients/">Корпоративным клиентам</a>
+		  
+          </div>
+          <!--<a class="header__calc header__calc--mobile" href="/calc/" title="">
+            <svg class="header__calc-icon">
+              <use xlink:href="/local/templates/psbamnew/images/sprite.svg#calc"></use>
+            </svg>
+          </a>-->
+		<div class="header__right">	
+
+            <a class="header__search" href="/search/" title="">
+              <svg class="header__search-icon">
+                <use xlink:href="/local/templates/psbamnew/images/sprite.svg#search"></use>
+              </svg>
+            </a>			
+          <a class="header__user header__user--mobile" href="/temporarily-unavailable/" target="_blank">
+            <svg class="header__user-icon">
+              <use xlink:href="/local/templates/psbamnew/images/sprite.svg#user"></use>
+            </svg>
+            <div class="header__user-text">Войти</div>
+          </a>
+          <button class="header__hamburger">
+            <svg class="header__hamburger-icon header__hamburger-icon--open">
+              <use xlink:href="/local/templates/psbamnew/images/sprite.svg#hamburger"></use>
+            </svg>
+            <svg class="header__hamburger-icon header__hamburger-icon--close">
+              <use xlink:href="/local/templates/psbamnew/images/sprite.svg#close"></use>
+            </svg>
+          </button>
+		  </div>
+        </div>
+      </div>
+    </div>
+    <div class="mobile-nav" data-scroll-lock-scrollable="">
+	  <form action="/search/" method="get" class="mobile-nav__search">	  
+        <input class="mobile-nav__search-input" type="search" name="q" placeholder="Поиск по сайту">
+        <button class="mobile-nav__search-button">
+          <svg class="mobile-nav__search-button-icon">
+            <use xlink:href="/local/templates/psbamnew/images/sprite.svg#search"></use>
+          </svg>
+        </button>
+		</form>
+      <ul class="mobile-nav__list">
+
+							<li class="mobile-nav__item mobile-nav__item--drop">
+			     <div class="mobile-nav__item-title">
+					<div class="mobile-nav__item-title-text">Открытые паевые фонды</div><svg class="mobile-nav__item-title-icon"><use xlink:href="/local/templates/psbamnew/images/sprite.svg#arrow-select"></use></svg>
+				</div>
+				<div class="mobile-nav__item-drop">
+				<ul class="mobile-nav__drop-list mobile-nav__drop-list--only-link">
+			
+	
+		
+		
+			              <li class="mobile-nav__drop-item">
+                <a class="mobile-nav__drop-link" href="/funds/shares/" title="">
+                  <div class="mobile-nav__drop-title">ПРОМСВЯЗЬ – Акции</div>
+                  <svg class="mobile-nav__arrow">
+                    <use xlink:href="/local/templates/psbamnew/images/sprite.svg#arrow"></use>
+                  </svg>
+                </a>
+              </li>	
+					
+			
+		
+	
+	
+		
+		
+			              <li class="mobile-nav__drop-item">
+                <a class="mobile-nav__drop-link" href="/funds/bonds/" title="">
+                  <div class="mobile-nav__drop-title">ПРОМСВЯЗЬ – Облигации</div>
+                  <svg class="mobile-nav__arrow">
+                    <use xlink:href="/local/templates/psbamnew/images/sprite.svg#arrow"></use>
+                  </svg>
+                </a>
+              </li>	
+					
+			
+		
+	
+	
+		
+		
+			              <li class="mobile-nav__drop-item">
+                <a class="mobile-nav__drop-link" href="/funds/balanced/" title="">
+                  <div class="mobile-nav__drop-title">ПРОМСВЯЗЬ – Фонд смешанных инвестиций</div>
+                  <svg class="mobile-nav__arrow">
+                    <use xlink:href="/local/templates/psbamnew/images/sprite.svg#arrow"></use>
+                  </svg>
+                </a>
+              </li>	
+					
+			
+		
+	
+	
+		
+		
+			              <li class="mobile-nav__drop-item">
+                <a class="mobile-nav__drop-link" href="/funds/kapital-perspective/" title="">
+                  <div class="mobile-nav__drop-title">ПРОМСВЯЗЬ – Перспективные вложения</div>
+                  <svg class="mobile-nav__arrow">
+                    <use xlink:href="/local/templates/psbamnew/images/sprite.svg#arrow"></use>
+                  </svg>
+                </a>
+              </li>	
+					
+			
+		
+	
+	
+		
+		
+			              <li class="mobile-nav__drop-item">
+                <a class="mobile-nav__drop-link" href="/funds/oboronnyi/" title="">
+                  <div class="mobile-nav__drop-title">ПРОМСВЯЗЬ – Оборонный</div>
+                  <svg class="mobile-nav__arrow">
+                    <use xlink:href="/local/templates/psbamnew/images/sprite.svg#arrow"></use>
+                  </svg>
+                </a>
+              </li>	
+					
+			
+		
+	
+	
+		
+		
+			              <li class="mobile-nav__drop-item">
+                <a class="mobile-nav__drop-link" href="/funds/Finansovaya-podushka/" title="">
+                  <div class="mobile-nav__drop-title">Финансовая подушка</div>
+                  <svg class="mobile-nav__arrow">
+                    <use xlink:href="/local/templates/psbamnew/images/sprite.svg#arrow"></use>
+                  </svg>
+                </a>
+              </li>	
+					
+			
+		
+	
+	
+		
+		
+			              <li class="mobile-nav__drop-item">
+                <a class="mobile-nav__drop-link" href="/funds/Mirovoy-balans/" title="">
+                  <div class="mobile-nav__drop-title">Мировой баланс</div>
+                  <svg class="mobile-nav__arrow">
+                    <use xlink:href="/local/templates/psbamnew/images/sprite.svg#arrow"></use>
+                  </svg>
+                </a>
+              </li>	
+					
+			
+		
+	
+	
+		
+		
+			              <li class="mobile-nav__drop-item">
+                <a class="mobile-nav__drop-link" href="/funds/promsvyaz-okno-vozmozhnostey/" title="">
+                  <div class="mobile-nav__drop-title">ПРОМСВЯЗЬ – Окно возможностей</div>
+                  <svg class="mobile-nav__arrow">
+                    <use xlink:href="/local/templates/psbamnew/images/sprite.svg#arrow"></use>
+                  </svg>
+                </a>
+              </li>	
+					
+			
+		
+	
+	
+		
+		
+			              <li class="mobile-nav__drop-item">
+                <a class="mobile-nav__drop-link" href="/funds/nedra-rossii/" title="">
+                  <div class="mobile-nav__drop-title">Недра России</div>
+                  <svg class="mobile-nav__arrow">
+                    <use xlink:href="/local/templates/psbamnew/images/sprite.svg#arrow"></use>
+                  </svg>
+                </a>
+              </li>	
+					
+			
+		
+	
+	
+		
+		
+			              <li class="mobile-nav__drop-item">
+                <a class="mobile-nav__drop-link" href="/funds/finansovyy-potok/" title="">
+                  <div class="mobile-nav__drop-title">Финансовый поток</div>
+                  <svg class="mobile-nav__arrow">
+                    <use xlink:href="/local/templates/psbamnew/images/sprite.svg#arrow"></use>
+                  </svg>
+                </a>
+              </li>	
+					
+			
+		
+	
+	
+		
+		
+			              <li class="mobile-nav__drop-item">
+                <a class="mobile-nav__drop-link" href="/funds/dividendnye-aktsii/" title="">
+                  <div class="mobile-nav__drop-title">Дивидендные акции</div>
+                  <svg class="mobile-nav__arrow">
+                    <use xlink:href="/local/templates/psbamnew/images/sprite.svg#arrow"></use>
+                  </svg>
+                </a>
+              </li>	
+					
+			
+		
+	
+	
+		
+		
+			              <li class="mobile-nav__drop-item">
+                <a class="mobile-nav__drop-link" href="/funds/kurs-na-vostok/" title="">
+                  <div class="mobile-nav__drop-title">Курс на Восток</div>
+                  <svg class="mobile-nav__arrow">
+                    <use xlink:href="/local/templates/psbamnew/images/sprite.svg#arrow"></use>
+                  </svg>
+                </a>
+              </li>	
+					
+			
+		
+	
+	
+		
+		
+			<a class="mobile-nav__drop-all" href="/funds/mutual_funds/">Все продукты</a>					
+			
+		
+	
+	
+	  
+	
+		</ul></div></li>							<li class="mobile-nav__item mobile-nav__item--drop">
+			     <div class="mobile-nav__item-title">
+					<div class="mobile-nav__item-title-text">ИИС</div><svg class="mobile-nav__item-title-icon"><use xlink:href="/local/templates/psbamnew/images/sprite.svg#arrow-select"></use></svg>
+				</div>
+				<div class="mobile-nav__item-drop">
+				<ul class="mobile-nav__drop-list mobile-nav__drop-list--only-link">
+			
+	
+		
+		
+			              <li class="mobile-nav__drop-item">
+                <a class="mobile-nav__drop-link" href="/investment_account/strategiya-konservativnaya/" title="">
+                  <div class="mobile-nav__drop-title">Стратегия «Консервативная»</div>
+                  <svg class="mobile-nav__arrow">
+                    <use xlink:href="/local/templates/psbamnew/images/sprite.svg#arrow"></use>
+                  </svg>
+                </a>
+              </li>	
+					
+			
+		
+	
+	
+		
+		
+			              <li class="mobile-nav__drop-item">
+                <a class="mobile-nav__drop-link" href="/investment_account/strategiya-perspektivnaya/" title="">
+                  <div class="mobile-nav__drop-title">Стратегия «Перспективная»</div>
+                  <svg class="mobile-nav__arrow">
+                    <use xlink:href="/local/templates/psbamnew/images/sprite.svg#arrow"></use>
+                  </svg>
+                </a>
+              </li>	
+					
+			
+		
+	
+	
+		
+		
+			<a class="mobile-nav__drop-all" href="/investment_account/">Все продукты</a>					
+			
+		
+	
+	
+	  
+	
+		</ul></div></li>							<li class="mobile-nav__item mobile-nav__item--drop">
+			     <div class="mobile-nav__item-title">
+					<div class="mobile-nav__item-title-text">Доверительное управление</div><svg class="mobile-nav__item-title-icon"><use xlink:href="/local/templates/psbamnew/images/sprite.svg#arrow-select"></use></svg>
+				</div>
+				<div class="mobile-nav__item-drop">
+				<ul class="mobile-nav__drop-list mobile-nav__drop-list--only-link">
+			
+	
+		
+		
+			              <li class="mobile-nav__drop-item">
+                <a class="mobile-nav__drop-link" href="/trust_managment/standartnaya-investitsionnaya-strategiya-balans-3-0/" title="">
+                  <div class="mobile-nav__drop-title">Стандартная инвестиционная стратегия «Баланс 3.0»</div>
+                  <svg class="mobile-nav__arrow">
+                    <use xlink:href="/local/templates/psbamnew/images/sprite.svg#arrow"></use>
+                  </svg>
+                </a>
+              </li>	
+					
+			
+		
+	
+	
+		
+		
+			              <li class="mobile-nav__drop-item">
+                <a class="mobile-nav__drop-link" href="/trust_managment/standartnaya-investitsionnaya-strategiya-balans-5-0/" title="">
+                  <div class="mobile-nav__drop-title">Стандартная инвестиционная стратегия «Баланс 5.0»</div>
+                  <svg class="mobile-nav__arrow">
+                    <use xlink:href="/local/templates/psbamnew/images/sprite.svg#arrow"></use>
+                  </svg>
+                </a>
+              </li>	
+					
+			
+		
+	
+	
+		
+		
+			              <li class="mobile-nav__drop-item">
+                <a class="mobile-nav__drop-link" href="/trust_managment/standartnaya-investitsionnaya-strategiya-vremya-rosta/" title="">
+                  <div class="mobile-nav__drop-title">Стандартная инвестиционная стратегия «Время роста»</div>
+                  <svg class="mobile-nav__arrow">
+                    <use xlink:href="/local/templates/psbamnew/images/sprite.svg#arrow"></use>
+                  </svg>
+                </a>
+              </li>	
+					
+			
+		
+	
+	
+		
+		
+			              <li class="mobile-nav__drop-item">
+                <a class="mobile-nav__drop-link" href="/trust_managment/standartnaya-investitsionnaya-strategiya-rante-onlayn/" title="">
+                  <div class="mobile-nav__drop-title">Стандартная инвестиционная стратегия «Рантье Онлайн»</div>
+                  <svg class="mobile-nav__arrow">
+                    <use xlink:href="/local/templates/psbamnew/images/sprite.svg#arrow"></use>
+                  </svg>
+                </a>
+              </li>	
+					
+			
+		
+	
+	
+		
+		
+			              <li class="mobile-nav__drop-item">
+                <a class="mobile-nav__drop-link" href="/trust_managment/standartnaya-investitsionnaya-strategiya-valyutnye-obligatsii/" title="">
+                  <div class="mobile-nav__drop-title">Стандартная инвестиционная стратегия «Валютные облигации»</div>
+                  <svg class="mobile-nav__arrow">
+                    <use xlink:href="/local/templates/psbamnew/images/sprite.svg#arrow"></use>
+                  </svg>
+                </a>
+              </li>	
+					
+			
+		
+	
+	
+		
+		
+			              <li class="mobile-nav__drop-item">
+                <a class="mobile-nav__drop-link" href="/trust_managment/standartnaya-investitsionnaya-strategiya-rossiyskie-aktsii-aktivnoe-upravlenie-onlayn/" title="">
+                  <div class="mobile-nav__drop-title">Стандартная инвестиционная стратегия «Российские акции активное управление Онлайн»</div>
+                  <svg class="mobile-nav__arrow">
+                    <use xlink:href="/local/templates/psbamnew/images/sprite.svg#arrow"></use>
+                  </svg>
+                </a>
+              </li>	
+					
+			
+		
+	
+	
+		
+		
+			<a class="mobile-nav__drop-all" href="/trust_managment/">Все продукты</a>					
+			
+		
+	
+	
+	  
+	
+		</ul></div></li>							<li class="mobile-nav__item mobile-nav__item--drop">
+			     <div class="mobile-nav__item-title">
+					<div class="mobile-nav__item-title-text">Корпоративным клиентам</div><svg class="mobile-nav__item-title-icon"><use xlink:href="/local/templates/psbamnew/images/sprite.svg#arrow-select"></use></svg>
+				</div>
+				<div class="mobile-nav__item-drop">
+				<ul class="mobile-nav__drop-list mobile-nav__drop-list--only-link">
+			
+	
+		
+		
+			              <li class="mobile-nav__drop-item">
+                <a class="mobile-nav__drop-link" href="/zpif/" title="">
+                  <div class="mobile-nav__drop-title">Закрытые паевые фонды</div>
+                  <svg class="mobile-nav__arrow">
+                    <use xlink:href="/local/templates/psbamnew/images/sprite.svg#arrow"></use>
+                  </svg>
+                </a>
+              </li>	
+					
+			
+		
+	
+	
+		
+		
+			              <li class="mobile-nav__drop-item">
+                <a class="mobile-nav__drop-link" href="/pension-funds/" title="">
+                  <div class="mobile-nav__drop-title">Пенсионным фондам</div>
+                  <svg class="mobile-nav__arrow">
+                    <use xlink:href="/local/templates/psbamnew/images/sprite.svg#arrow"></use>
+                  </svg>
+                </a>
+              </li>	
+					
+			
+		
+	
+	
+		
+		
+			              <li class="mobile-nav__drop-item">
+                <a class="mobile-nav__drop-link" href="/strakhovym-kompaniyam/" title="">
+                  <div class="mobile-nav__drop-title">Страховым компаниям</div>
+                  <svg class="mobile-nav__arrow">
+                    <use xlink:href="/local/templates/psbamnew/images/sprite.svg#arrow"></use>
+                  </svg>
+                </a>
+              </li>	
+					
+			
+		
+	
+	
+		
+		
+			<a class="mobile-nav__drop-all" href="/corporate_clients/">Все продукты</a>					
+			
+		
+	
+	
+
+	</ul></div></li></ul>
+      
+      <nav class="mobile-nav__addit-nav">
+<a class="mobile-nav__addit-nav-item root-item" href="/company/">О компании</a>
+<a class="mobile-nav__addit-nav-item root-item-selected" href="/disclosure/">Раскрытие обязательной информации</a>
+<a class="mobile-nav__addit-nav-item root-item" href="/news/company/">Пресс-центр</a>
+<a class="mobile-nav__addit-nav-item root-item" href="/news/analytics/">Аналитика</a>
+<a class="mobile-nav__addit-nav-item root-item" href="/contacts/">Контакты</a>
+      </nav>
+      <div class="mobile-nav__footer">
+        <div class="mobile-nav__footer-col">
+          <a class="mobile-nav__footer-phone" href="tel:84956624092" title="">8 (495) 662-40-92</a>
+          <a class="mobile-nav__footer-email" href="mailto: corporate@upravlyaem.ru" title="">corporate@upravlyaem.ru</a>
+          <div class="mobile-nav__footer-socials">
+            <div class="mobile-nav__footer-socials-title">Мы в соц. сетях:</div>
+            <ul class="mobile-nav__footer-socials-list">
+              <li class="mobile-nav__footer-socials-item">
+                <a class="mobile-nav__footer-socials-link" href="https://t.me/promsvyaz_am " title="" target="_blank">
+                  <svg class="mobile-nav__footer-socials-icon">
+                    <use xlink:href="/local/templates/psbamnew/images/sprite.svg#telegram"></use>
+                  </svg>
+                </a>
+              </li>
+            </ul>
+          </div>
+        </div>
+        <div class="mobile-nav__footer-col">
+          <a class="mobile-nav__footer-question" href="" title=""><svg class="mobile-nav__footer-question-icon">
+              <use xlink:href="/local/templates/psbamnew/images/sprite.svg#question"></use>
+            </svg> Задать вопрос</a>
+          <a class="button button--ghost mobile-nav__footer-button" href="" title=""><svg class="mobile-nav__footer-button-icon">
+              <use xlink:href="/local/templates/psbamnew/images/sprite.svg#email"></use>
+            </svg> Подписаться <br> на рассылку</a>
+        </div>
+      </div>
+    </div>
+
+    <div class="page__content">
+
+
+
+<div class="breadcrumbs">
+	<div class="wrapper breadcrumbs__wrapper">
+		<ul class="breadcrumbs__list">
+			<li class="breadcrumbs__item"> <a class="breadcrumbs__link" href="/" title=""><svg class="breadcrumbs__home-icon"><use xlink:href="/local/templates/psbamnew/images/sprite.svg#home"></use></svg><span>Главная</span></a></li>
+			<li class="breadcrumbs__item"> <a class="breadcrumbs__link" href="/disclosure/" title="">Раскрытие обязательной информации</a> </li>
+<li class="breadcrumbs__item"> <a class="breadcrumbs__link" href=" /disclosure/company/ ">Отчётность управляющей компании </a> </li><li class="breadcrumbs__item"> <a class="breadcrumbs__link" href=" /disclosure/company/raschet-sobstvennykh-sredstv/ ">Расчет собственных средств </a> </li>			
+		</ul>
+	</div>
+</div>
+<div class="info">
+	<div class="wrapper info__wrapper">
+		<h1 class="info__title">Раскрытие обязательной информации</h1>
+		<div class="info__body">
+			 <nav class="info__nav">
+<a href="/disclosure/company/raschet-sobstvennykh-sredstv/" class="info__nav-link info__nav-link--active">Расчет собственных средств</a><a href="/disclosure/company/finansovye-pokazateli/" class="info__nav-link ">Финансовые показатели</a></nav>
+
+<div class="info__nav-select-container">
+  <select class="select select--standart info__nav-select" data-id="ss-cxc0ok5i" tabindex="-1" aria-hidden="true" style="display: none;">
+    <option value="" disabled="" selected="" hidden="">Выбрать раздел</option>
+
+<option value="/disclosure/company/raschet-sobstvennykh-sredstv/  selected">Расчет собственных средств</option><option value="/disclosure/company/finansovye-pokazateli/  ">Финансовые показатели</option>    
+
+  </select><div data-id="ss-cxc0ok5i" id="ss-cxc0ok5i" tabindex="0" class="ss-main select select--standart info__nav-select" role="combobox" aria-haspopup="listbox" aria-controls="ss-cxc0ok5i" aria-expanded="false" aria-activedescendant="v6mkljse"><div class="ss-values"><div class="ss-single">Выбрать раздел</div></div><div class="ss-deselect ss-hide"><svg viewBox="0 0 100 100"><path d="M10,10 L90,90 M10,90 L90,10"></path></svg></div><svg class="ss-arrow" viewBox="0 0 100 100"><path d="M10,30 L50,70 L90,30"></path></svg></div>
+</div>
+<!-- .columns__aside .doc-sidebar -->
+
+<div class="info__content  info__content--full-width">
+
+  <div class="info__content-title-reporting">
+    <h2 class="info__content-title info__content-title--lg">Расчет собственных средств</h2>
+                 
+    <label class="info__content-title-label">
+       <select class="select select--standart info__content-title-select" data-id="ss-pw0eouzv" tabindex="-1" aria-hidden="true" style="display: none;">
+      <option value="2023" selected="">2023 г.</option>
+      <option value="2022">2022 г.</option>
+      <option value="2021">2021 г.</option>
+      <option value="2020">2020 г.</option>
+      <option value="2019">2019 г.</option>
+    </select><div data-id="ss-pw0eouzv" id="ss-pw0eouzv" tabindex="0" class="ss-main select select--standart info__content-title-select" role="combobox" aria-haspopup="listbox" aria-controls="ss-pw0eouzv" aria-expanded="false" aria-activedescendant="4okulzwo"><div class="ss-values"><div class="ss-single">2023 г.</div></div><div class="ss-deselect ss-hide"><svg viewBox="0 0 100 100"><path d="M10,10 L90,90 M10,90 L90,10"></path></svg></div><svg class="ss-arrow" viewBox="0 0 100 100"><path d="M10,30 L50,70 L90,30"></path></svg></div>
+  </label>    
+</div>
+															
+
+
+
+  <script type="text/javascript">var arYears={"2023":[],"2022":[],"2021":[],"2020":[],"2019":[]};var curYear="2023";var curPeriod="all";</script>
+           
+
+<div class="swiper info__filter-nav swiper-initialized swiper-horizontal swiper-pointer-events" style="display: none;">
+  <div class="swiper-wrapper" style="transition-duration: 0ms;">
+    <div class="swiper-slide info__filter-nav-item active" data-groups="all">За весь год</div>
+    <div class="swiper-slide info__filter-nav-item" data-groups="q1">I квартал</div>
+  </div>
+</div>
+
+<ul class="doc-list doc-list--info-reporting shuffle" style="position: relative; overflow: hidden; height: 492px; transition: height 250ms cubic-bezier(0.4, 0, 0.2, 1) 0s;">                        <li class="doc-list__item shuffle-item shuffle-item--visible" data-groups="all, q1, 2023" id="bx_3218110189_26724" style="position: absolute; top: 0px; visibility: visible; will-change: transform; left: 0px; opacity: 1; transition-duration: 250ms; transition-timing-function: cubic-bezier(0.4, 0, 0.2, 1); transition-property: transform, opacity;"> 
+        
+                          <a target="_blank" data-file-id="26724" class="doc-list__link" href="/upload/iblock/5fd/njwne0l9w4th4nyog6kd0l2yvqa1pojh/Raschet-sobstvennykh-sredstv-UK-na-31.05.23g.pdf"> 
+                          
+                            <svg class="doc-list__icon">
+                              <use xlink:href="/local/templates/psbamnew/images/sprite.svg#paper"></use>
+                            </svg>
+                            <div class="doc-list__info">
+                              <h3 class="doc-list__title">Расчет собственных средств УК на 31.05.2023 (доступен до 17.07.2026)</h3>
+                              <div class="doc-list__data">
+                                Дата раскрытия: 16.06.2023 13:43 /
+                                pdf, 74.13 kB <br>
+                                                                
+                                
+                              </div>
+                            </div>
+                          </a> 
+                        </li>
+  
+                        <li class="doc-list__item shuffle-item shuffle-item--visible" data-groups="all, q1, 2023" id="bx_3218110189_26605" style="position: absolute; top: 0px; visibility: visible; will-change: transform; left: 0px; opacity: 1; transform: translate(0px, 82px) scale(1); transition-duration: 250ms; transition-timing-function: cubic-bezier(0.4, 0, 0.2, 1); transition-property: transform, opacity;"> 
+        
+                          <a target="_blank" data-file-id="26605" class="doc-list__link" href="/upload/iblock/e0f/5piuz6ltux367qp37nb86wsc9wks300y/Raschet-sobstvennykh-sredstv-upravlyayushchey-kompanii-na-30.04.23g.pdf"> 
+                          
+                            <svg class="doc-list__icon">
+                              <use xlink:href="/local/templates/psbamnew/images/sprite.svg#paper"></use>
+                            </svg>
+                            <div class="doc-list__info">
+                              <h3 class="doc-list__title">Расчет собственных средств УК на 30.04.2023 (доступен до 19.05.2026)</h3>
+                              <div class="doc-list__data">
+                                Дата раскрытия: 18.05.2023 13:28 /
+                                pdf, 225.78 kB <br>
+                                                                
+                                
+                              </div>
+                            </div>
+                          </a> 
+                        </li>
+  
+                        <li class="doc-list__item shuffle-item shuffle-item--visible" data-groups="all, q1, 2023" id="bx_3218110189_26424" style="position: absolute; top: 0px; visibility: visible; will-change: transform; left: 0px; opacity: 1; transform: translate(0px, 164px) scale(1); transition-duration: 250ms; transition-timing-function: cubic-bezier(0.4, 0, 0.2, 1); transition-property: transform, opacity;"> 
+        
+                          <a target="_blank" data-file-id="26424" class="doc-list__link" href="/upload/iblock/1fc/nvr443s7hlcfsp62bgvafmnslv62ha1o/Raschet-razmera-sobstvennykh-sredstv-na-31.03.2023_-utochnennyy-raschet.pdf"> 
+                          
+                            <svg class="doc-list__icon">
+                              <use xlink:href="/local/templates/psbamnew/images/sprite.svg#paper"></use>
+                            </svg>
+                            <div class="doc-list__info">
+                              <h3 class="doc-list__title">Расчет собственных средств УК на 31.03.2023 г. (скорректирован, доступ 15.04.2026)</h3>
+                              <div class="doc-list__data">
+                                Дата раскрытия: 14.04.2023 11:44 /
+                                pdf, 62.81 kB <br>
+                                                                
+                                
+                              </div>
+                            </div>
+                          </a> 
+                        </li>
+  
+                        <li class="doc-list__item shuffle-item shuffle-item--visible" data-groups="all, q1, 2023" id="bx_3218110189_26326" style="position: absolute; top: 0px; visibility: visible; will-change: transform; left: 0px; opacity: 1; transform: translate(0px, 246px) scale(1); transition-duration: 250ms; transition-timing-function: cubic-bezier(0.4, 0, 0.2, 1); transition-property: transform, opacity;"> 
+        
+                          <a target="_blank" data-file-id="26326" class="doc-list__link" href="/upload/iblock/0e2/h2xnhkqcauk5g6svt9o7x59zlxq9psg7/Raschet-sobstvennykh-sredstv-UK-na-31.03.23g.pdf"> 
+                          
+                            <svg class="doc-list__icon">
+                              <use xlink:href="/local/templates/psbamnew/images/sprite.svg#paper"></use>
+                            </svg>
+                            <div class="doc-list__info">
+                              <h3 class="doc-list__title">Расчет собственных средств УК на 31.03.2023 г.</h3>
+                              <div class="doc-list__data">
+                                Дата раскрытия: 10.04.2023 13:25 /
+                                pdf, 58.91 kB <br>
+                                                                
+                                
+                              </div>
+                            </div>
+                          </a> 
+                        </li>
+  
+                        <li class="doc-list__item shuffle-item shuffle-item--visible" data-groups="all, q1, 2023" id="bx_3218110189_25869" style="position: absolute; top: 0px; visibility: visible; will-change: transform; left: 0px; opacity: 1; transform: translate(0px, 328px) scale(1); transition-duration: 250ms; transition-timing-function: cubic-bezier(0.4, 0, 0.2, 1); transition-property: transform, opacity;"> 
+        
+                          <a target="_blank" data-file-id="25869" class="doc-list__link" href="/upload/iblock/be2/2p53g6xeumsp48x6pi4io6g1229uewj6/Raschet-sobstvennykh-sredstv-UK-na-28.02.2023g.pdf"> 
+                          
+                            <svg class="doc-list__icon">
+                              <use xlink:href="/local/templates/psbamnew/images/sprite.svg#paper"></use>
+                            </svg>
+                            <div class="doc-list__info">
+                              <h3 class="doc-list__title">Расчет собственных средств УК на 28.02.2023 г.</h3>
+                              <div class="doc-list__data">
+                                Дата раскрытия: 15.03.2023 21:59 /
+                                pdf, 63.32 kB <br>
+                                                                
+                                
+                              </div>
+                            </div>
+                          </a> 
+                        </li>
+  
+                        <li class="doc-list__item shuffle-item shuffle-item--visible" data-groups="all, q1, 2023" id="bx_3218110189_25412" style="position: absolute; top: 0px; visibility: visible; will-change: transform; left: 0px; opacity: 1; transform: translate(0px, 410px) scale(1); transition-duration: 250ms; transition-timing-function: cubic-bezier(0.4, 0, 0.2, 1); transition-property: transform, opacity;"> 
+        
+                          <a target="_blank" data-file-id="25412" class="doc-list__link" href="/upload/iblock/764/f0agaxqsaz4f9zdgxvatisucaim3akqe/Raschet_sobstvennykh_sredstv_UK_na_31.01.23g.pdf"> 
+                          
+                            <svg class="doc-list__icon">
+                              <use xlink:href="/local/templates/psbamnew/images/sprite.svg#paper"></use>
+                            </svg>
+                            <div class="doc-list__info">
+                              <h3 class="doc-list__title">Расчет собственных средств УК на 31.01.2023</h3>
+                              <div class="doc-list__data">
+                                Дата раскрытия: 15.02.2023 08:27 /
+                                pdf, 63.59 kB <br>
+                                                                
+                                
+                              </div>
+                            </div>
+                          </a> 
+                        </li>
+  
+                        <li class="doc-list__item shuffle-item shuffle-item--hidden" data-groups="all, q1, 2022" id="bx_3218110189_20213" style="position: absolute; top: 0px; visibility: visible; will-change: transform; left: 0px; opacity: 0; transform: translate(0px, 492px) scale(0.001); transition: transform 250ms cubic-bezier(0.4, 0, 0.2, 1) 0ms, opacity;" aria-hidden="true"> 
+        
+                          <a target="_blank" data-file-id="20213" class="doc-list__link" href="/upload/iblock/96f/6wc0qh75i24f0uoacz278k65v097ybja/Raschet-sobstvennykh-sredstv-UK-na-31.12.2022.pdf"> 
+                          
+                            <svg class="doc-list__icon">
+                              <use xlink:href="/local/templates/psbamnew/images/sprite.svg#paper"></use>
+                            </svg>
+                            <div class="doc-list__info">
+                              <h3 class="doc-list__title">Расчет собственных средств УК на 31.12.2022 г.</h3>
+                              <div class="doc-list__data">
+                                Дата раскрытия: 20.01.2023 20:32 /
+                                pdf, 63.62 kB <br>
+                                                                
+                                
+                              </div>
+                            </div>
+                          </a> 
+                        </li>
+  
+                        <li class="doc-list__item shuffle-item shuffle-item--hidden" data-groups="all, q1, 2022" id="bx_3218110189_20212" style="position: absolute; top: 0px; visibility: visible; will-change: transform; left: 0px; opacity: 0; transform: translate(0px, 574px) scale(0.001); transition: transform 250ms cubic-bezier(0.4, 0, 0.2, 1) 15ms, opacity;" aria-hidden="true"> 
+        
+                          <a target="_blank" data-file-id="20212" class="doc-list__link" href="/upload/iblock/498/klzn2vv4f213fv28lfeq9hag4y2lvbfi/Raschet-sobstvennykh-sredstv-UK-na-30.11.2022-g..pdf"> 
+                          
+                            <svg class="doc-list__icon">
+                              <use xlink:href="/local/templates/psbamnew/images/sprite.svg#paper"></use>
+                            </svg>
+                            <div class="doc-list__info">
+                              <h3 class="doc-list__title">Расчет собственных средств УК на 30.11.2022 г.</h3>
+                              <div class="doc-list__data">
+                                Дата раскрытия: 16.01.2023 00:21 /
+                                pdf, 60.49 kB <br>
+                                                                
+                                
+                              </div>
+                            </div>
+                          </a> 
+                        </li>
+  
+                        <li class="doc-list__item shuffle-item shuffle-item--hidden" data-groups="all, q1, 2022" id="bx_3218110189_20214" style="position: absolute; top: 0px; visibility: visible; will-change: transform; left: 0px; opacity: 0; transform: translate(0px, 656px) scale(0.001); transition: transform 250ms cubic-bezier(0.4, 0, 0.2, 1) 30ms, opacity;" aria-hidden="true"> 
+        
+                          <a target="_blank" data-file-id="20214" class="doc-list__link" href="/upload/iblock/cda/hbhvpkx0z4z160vem23q7c4yjjq81nn7/Raschet-sobstvennykh-sredstv-UK-na-31.10.2022-g..pdf"> 
+                          
+                            <svg class="doc-list__icon">
+                              <use xlink:href="/local/templates/psbamnew/images/sprite.svg#paper"></use>
+                            </svg>
+                            <div class="doc-list__info">
+                              <h3 class="doc-list__title">Расчет собственных средств УК на 31.10.2022 г.</h3>
+                              <div class="doc-list__data">
+                                Дата раскрытия: 16.01.2023 00:20 /
+                                pdf, 60.46 kB <br>
+                                                                
+                                
+                              </div>
+                            </div>
+                          </a> 
+                        </li>
+  
+                        <li class="doc-list__item shuffle-item shuffle-item--hidden" data-groups="all, q1, 2022" id="bx_3218110189_20215" style="position: absolute; top: 0px; visibility: visible; will-change: transform; left: 0px; opacity: 0; transform: translate(0px, 738px) scale(0.001); transition: transform 250ms cubic-bezier(0.4, 0, 0.2, 1) 45ms, opacity;" aria-hidden="true"> 
+        
+                          <a target="_blank" data-file-id="20215" class="doc-list__link" href="/upload/iblock/c70/n70xy59xtcy2fpmu4z2hta4urwnid68z/Raschet-sobstvennykh-sredstv-UK-na-30.09.2022-g..pdf"> 
+                          
+                            <svg class="doc-list__icon">
+                              <use xlink:href="/local/templates/psbamnew/images/sprite.svg#paper"></use>
+                            </svg>
+                            <div class="doc-list__info">
+                              <h3 class="doc-list__title">Расчет собственных средств УК на 30.09.2022 г.</h3>
+                              <div class="doc-list__data">
+                                Дата раскрытия: 16.01.2023 00:13 /
+                                pdf, 58.22 kB <br>
+                                                                
+                                
+                              </div>
+                            </div>
+                          </a> 
+                        </li>
+  
+                        <li class="doc-list__item shuffle-item shuffle-item--hidden" data-groups="all, q1, 2022" id="bx_3218110189_20216" style="position: absolute; top: 0px; visibility: visible; will-change: transform; left: 0px; opacity: 0; transform: translate(0px, 820px) scale(0.001); transition: transform 250ms cubic-bezier(0.4, 0, 0.2, 1) 60ms, opacity;" aria-hidden="true"> 
+        
+                          <a target="_blank" data-file-id="20216" class="doc-list__link" href="/upload/iblock/142/8t5yx7u7ap189op40hv93qvpjeqaedls/Raschet-sobstvennykh-sredstv-UK-na-31.08.2022-g..pdf"> 
+                          
+                            <svg class="doc-list__icon">
+                              <use xlink:href="/local/templates/psbamnew/images/sprite.svg#paper"></use>
+                            </svg>
+                            <div class="doc-list__info">
+                              <h3 class="doc-list__title">Расчет собственных средств УК на 31.08.2022 г.</h3>
+                              <div class="doc-list__data">
+                                Дата раскрытия: 16.01.2023 00:09 /
+                                pdf, 58.22 kB <br>
+                                                                
+                                
+                              </div>
+                            </div>
+                          </a> 
+                        </li>
+  
+                        <li class="doc-list__item shuffle-item shuffle-item--hidden" data-groups="all, q1, 2022" id="bx_3218110189_20217" style="position: absolute; top: 0px; visibility: visible; will-change: transform; left: 0px; opacity: 0; transform: translate(0px, 902px) scale(0.001); transition: transform 250ms cubic-bezier(0.4, 0, 0.2, 1) 75ms, opacity;" aria-hidden="true"> 
+        
+                          <a target="_blank" data-file-id="20217" class="doc-list__link" href="/upload/iblock/47d/zt5j8ab1m4kesj3aica1dgstzdmxd2pv/Raschet-sobstvennykh-sredstv-UK-na-31.07.2022-g..pdf"> 
+                          
+                            <svg class="doc-list__icon">
+                              <use xlink:href="/local/templates/psbamnew/images/sprite.svg#paper"></use>
+                            </svg>
+                            <div class="doc-list__info">
+                              <h3 class="doc-list__title">Расчет собственных средств УК на 31.07.2022 г.</h3>
+                              <div class="doc-list__data">
+                                Дата раскрытия: 16.01.2023 00:08 /
+                                pdf, 58.22 kB <br>
+                                                                
+                                
+                              </div>
+                            </div>
+                          </a> 
+                        </li>
+  
+                        <li class="doc-list__item shuffle-item shuffle-item--hidden" data-groups="all, q1, 2022" id="bx_3218110189_20218" style="position: absolute; top: 0px; visibility: visible; will-change: transform; left: 0px; opacity: 0; transform: translate(0px, 984px) scale(0.001); transition: transform 250ms cubic-bezier(0.4, 0, 0.2, 1) 90ms, opacity;" aria-hidden="true"> 
+        
+                          <a target="_blank" data-file-id="20218" class="doc-list__link" href="/upload/iblock/b8c/3p0xnbsefcveufcdjgynch145pdjs411/Raschet-sobstvennykh-sredstv-UK-na-30.06.2022-g..pdf"> 
+                          
+                            <svg class="doc-list__icon">
+                              <use xlink:href="/local/templates/psbamnew/images/sprite.svg#paper"></use>
+                            </svg>
+                            <div class="doc-list__info">
+                              <h3 class="doc-list__title">Расчет собственных средств УК на 30.06.2022 г.</h3>
+                              <div class="doc-list__data">
+                                Дата раскрытия: 16.01.2023 00:07 /
+                                pdf, 58.22 kB <br>
+                                                                
+                                
+                              </div>
+                            </div>
+                          </a> 
+                        </li>
+  
+                        <li class="doc-list__item shuffle-item shuffle-item--hidden" data-groups="all, q1, 2022" id="bx_3218110189_20219" style="position: absolute; top: 0px; visibility: visible; will-change: transform; left: 0px; opacity: 0; transform: translate(0px, 1066px) scale(0.001); transition: transform 250ms cubic-bezier(0.4, 0, 0.2, 1) 105ms, opacity;" aria-hidden="true"> 
+        
+                          <a target="_blank" data-file-id="20219" class="doc-list__link" href="/upload/iblock/e32/cgs4svnoqreed06tj8h75wh654allrpj/Raschet-sobstvennykh-sredstv-UK-na-31.05.2022-g..pdf"> 
+                          
+                            <svg class="doc-list__icon">
+                              <use xlink:href="/local/templates/psbamnew/images/sprite.svg#paper"></use>
+                            </svg>
+                            <div class="doc-list__info">
+                              <h3 class="doc-list__title">Расчет собственных средств УК на 31.05.2022 г.</h3>
+                              <div class="doc-list__data">
+                                Дата раскрытия: 16.01.2023 00:06 /
+                                pdf, 60.45 kB <br>
+                                                                
+                                
+                              </div>
+                            </div>
+                          </a> 
+                        </li>
+  
+                        <li class="doc-list__item shuffle-item shuffle-item--hidden" data-groups="all, q1, 2022" id="bx_3218110189_20220" style="position: absolute; top: 0px; visibility: visible; will-change: transform; left: 0px; opacity: 0; transform: translate(0px, 1148px) scale(0.001); transition: transform 250ms cubic-bezier(0.4, 0, 0.2, 1) 120ms, opacity;" aria-hidden="true"> 
+        
+                          <a target="_blank" data-file-id="20220" class="doc-list__link" href="/upload/iblock/7d5/kb86gvxhvc0yd2k5cugzlbj48q7e6gcz/Raschet-sobstvennykh-sredstv-UK-na-30.04.2022-g..pdf"> 
+                          
+                            <svg class="doc-list__icon">
+                              <use xlink:href="/local/templates/psbamnew/images/sprite.svg#paper"></use>
+                            </svg>
+                            <div class="doc-list__info">
+                              <h3 class="doc-list__title">Расчет собственных средств УК на 30.04.2022 г.</h3>
+                              <div class="doc-list__data">
+                                Дата раскрытия: 16.01.2023 00:05 /
+                                pdf, 60.48 kB <br>
+                                                                
+                                
+                              </div>
+                            </div>
+                          </a> 
+                        </li>
+  
+                        <li class="doc-list__item shuffle-item shuffle-item--hidden" data-groups="all, q1, 2022" id="bx_3218110189_20221" style="position: absolute; top: 0px; visibility: visible; will-change: transform; left: 0px; opacity: 0; transform: translate(0px, 1230px) scale(0.001); transition: transform 250ms cubic-bezier(0.4, 0, 0.2, 1) 135ms, opacity;" aria-hidden="true"> 
+        
+                          <a target="_blank" data-file-id="20221" class="doc-list__link" href="/upload/iblock/b8e/gdqq1k8pawhrix2rhi7bb9wfeyesxjh6/Raschet-sobstvennykh-sredstv-UK-na-31.03.2022-g..pdf"> 
+                          
+                            <svg class="doc-list__icon">
+                              <use xlink:href="/local/templates/psbamnew/images/sprite.svg#paper"></use>
+                            </svg>
+                            <div class="doc-list__info">
+                              <h3 class="doc-list__title">Расчет собственных средств УК на 31.03.2022 г.</h3>
+                              <div class="doc-list__data">
+                                Дата раскрытия: 16.01.2023 00:03 /
+                                pdf, 60.47 kB <br>
+                                                                
+                                
+                              </div>
+                            </div>
+                          </a> 
+                        </li>
+  
+                        <li class="doc-list__item shuffle-item shuffle-item--hidden" data-groups="all, q1, 2022" id="bx_3218110189_20222" style="position: absolute; top: 0px; visibility: visible; will-change: transform; left: 0px; opacity: 0; transform: translate(0px, 1312px) scale(0.001); transition: transform 250ms cubic-bezier(0.4, 0, 0.2, 1) 150ms, opacity;" aria-hidden="true"> 
+        
+                          <a target="_blank" data-file-id="20222" class="doc-list__link" href="/upload/iblock/f76/1oddmtqecayxthqw37cnvcrg6fh4f1k9/Raschet-sobstvennykh-sredstv-UK-na-28.02.2022-g..pdf"> 
+                          
+                            <svg class="doc-list__icon">
+                              <use xlink:href="/local/templates/psbamnew/images/sprite.svg#paper"></use>
+                            </svg>
+                            <div class="doc-list__info">
+                              <h3 class="doc-list__title">Расчет собственных средств УК на 28.02.2022 г.</h3>
+                              <div class="doc-list__data">
+                                Дата раскрытия: 16.01.2023 00:02 /
+                                pdf, 60.47 kB <br>
+                                                                
+                                
+                              </div>
+                            </div>
+                          </a> 
+                        </li>
+  
+                        <li class="doc-list__item shuffle-item shuffle-item--hidden" data-groups="all, q1, 2022" id="bx_3218110189_20223" style="position: absolute; top: 0px; visibility: visible; will-change: transform; left: 0px; opacity: 0; transform: translate(0px, 1394px) scale(0.001); transition: transform 250ms cubic-bezier(0.4, 0, 0.2, 1) 150ms, opacity;" aria-hidden="true"> 
+        
+                          <a target="_blank" data-file-id="20223" class="doc-list__link" href="/upload/iblock/a10/plzwrfhfzh9gc3su6rk1dogoh6rrjolt/Raschet-sobstvennykh-sredstv-UK-na-31.01.2022-g..pdf"> 
+                          
+                            <svg class="doc-list__icon">
+                              <use xlink:href="/local/templates/psbamnew/images/sprite.svg#paper"></use>
+                            </svg>
+                            <div class="doc-list__info">
+                              <h3 class="doc-list__title">Расчет собственных средств УК на 31.01.2022 г.</h3>
+                              <div class="doc-list__data">
+                                Дата раскрытия: 16.01.2023 00:01 /
+                                pdf, 58.18 kB <br>
+                                                                
+                                
+                              </div>
+                            </div>
+                          </a> 
+                        </li>
+  
+                        <li class="doc-list__item shuffle-item shuffle-item--hidden" data-groups="all, q1, 2021" id="bx_3218110189_20224" style="position: absolute; top: 0px; visibility: visible; will-change: transform; left: 0px; opacity: 0; transform: translate(0px, 1476px) scale(0.001); transition: transform 250ms cubic-bezier(0.4, 0, 0.2, 1) 150ms, opacity;" aria-hidden="true"> 
+        
+                          <a target="_blank" data-file-id="20224" class="doc-list__link" href="/upload/iblock/39b/7wwwqjlkehhbzku6fej08jatqr2j0tuh/Raschet-sobstvennykh-sredstv-UK-na-31.12.2021-g..pdf"> 
+                          
+                            <svg class="doc-list__icon">
+                              <use xlink:href="/local/templates/psbamnew/images/sprite.svg#paper"></use>
+                            </svg>
+                            <div class="doc-list__info">
+                              <h3 class="doc-list__title">Расчет собственных средств УК на 31.12.2021 г.</h3>
+                              <div class="doc-list__data">
+                                Дата раскрытия: 16.01.2023 00:00 /
+                                pdf, 60.44 kB <br>
+                                                                
+                                
+                              </div>
+                            </div>
+                          </a> 
+                        </li>
+  
+                        <li class="doc-list__item shuffle-item shuffle-item--hidden" data-groups="all, q1, 2021" id="bx_3218110189_20264" style="position: absolute; top: 0px; visibility: visible; will-change: transform; left: 0px; opacity: 0; transform: translate(0px, 1558px) scale(0.001); transition: transform 250ms cubic-bezier(0.4, 0, 0.2, 1) 150ms, opacity;" aria-hidden="true"> 
+        
+                          <a target="_blank" data-file-id="20264" class="doc-list__link" href="/upload/iblock/174/5k1pw30ogc4spzmcx4t6zy3byv0z1bff/Raschet-sobstvennykh-sredstv-na-30.11.2021-g..pdf"> 
+                          
+                            <svg class="doc-list__icon">
+                              <use xlink:href="/local/templates/psbamnew/images/sprite.svg#paper"></use>
+                            </svg>
+                            <div class="doc-list__info">
+                              <h3 class="doc-list__title">Расчет собственных средств на 30.11.2021 г.</h3>
+                              <div class="doc-list__data">
+                                Дата раскрытия: 15.12.2021 00:00 /
+                                pdf, 163.10 kB <br>
+                                                                
+                                
+                              </div>
+                            </div>
+                          </a> 
+                        </li>
+  
+                        <li class="doc-list__item shuffle-item shuffle-item--hidden" data-groups="all, q1, 2021" id="bx_3218110189_20263" style="position: absolute; top: 0px; visibility: visible; will-change: transform; left: 0px; opacity: 0; transform: translate(0px, 1640px) scale(0.001); transition: transform 250ms cubic-bezier(0.4, 0, 0.2, 1) 150ms, opacity;" aria-hidden="true"> 
+        
+                          <a target="_blank" data-file-id="20263" class="doc-list__link" href="/upload/iblock/68d/ugfsvp2itcvu1py8ojc942tetbxjbspo/Raschet-sobstvennykh-sredstv-na-31.10.2021-g..pdf"> 
+                          
+                            <svg class="doc-list__icon">
+                              <use xlink:href="/local/templates/psbamnew/images/sprite.svg#paper"></use>
+                            </svg>
+                            <div class="doc-list__info">
+                              <h3 class="doc-list__title">Расчет собственных средств на 31.10.2021 г.</h3>
+                              <div class="doc-list__data">
+                                Дата раскрытия: 16.11.2021 00:00 /
+                                pdf, 386.94 kB <br>
+                                                                
+                                
+                              </div>
+                            </div>
+                          </a> 
+                        </li>
+  
+                        <li class="doc-list__item shuffle-item shuffle-item--hidden" data-groups="all, q1, 2021" id="bx_3218110189_20262" style="position: absolute; top: 0px; visibility: visible; will-change: transform; left: 0px; opacity: 0; transform: translate(0px, 1722px) scale(0.001); transition: transform 250ms cubic-bezier(0.4, 0, 0.2, 1) 150ms, opacity;" aria-hidden="true"> 
+        
+                          <a target="_blank" data-file-id="20262" class="doc-list__link" href="/upload/iblock/8d7/6ky7kxgoklop35nu7af0dshlqg2sh8hz/Raschet-sobstvennykh-sredstv-na-30.09.2021-g..pdf"> 
+                          
+                            <svg class="doc-list__icon">
+                              <use xlink:href="/local/templates/psbamnew/images/sprite.svg#paper"></use>
+                            </svg>
+                            <div class="doc-list__info">
+                              <h3 class="doc-list__title">Расчет собственных средств на 30.09.2021 г.</h3>
+                              <div class="doc-list__data">
+                                Дата раскрытия: 14.10.2021 00:00 /
+                                pdf, 59.40 kB <br>
+                                                                
+                                
+                              </div>
+                            </div>
+                          </a> 
+                        </li>
+  
+                        <li class="doc-list__item shuffle-item shuffle-item--hidden" data-groups="all, q1, 2021" id="bx_3218110189_20261" style="position: absolute; top: 0px; visibility: visible; will-change: transform; left: 0px; opacity: 0; transform: translate(0px, 1804px) scale(0.001); transition: transform 250ms cubic-bezier(0.4, 0, 0.2, 1) 150ms, opacity;" aria-hidden="true"> 
+        
+                          <a target="_blank" data-file-id="20261" class="doc-list__link" href="/upload/iblock/5a3/yx5jb2bdixh8uyaqp6eyrw0fk1010w25/Raschet-sobstvennykh-sredstv-na-31.08.2021-g..pdf"> 
+                          
+                            <svg class="doc-list__icon">
+                              <use xlink:href="/local/templates/psbamnew/images/sprite.svg#paper"></use>
+                            </svg>
+                            <div class="doc-list__info">
+                              <h3 class="doc-list__title">Расчет собственных средств на 31.08.2021 г.</h3>
+                              <div class="doc-list__data">
+                                Дата раскрытия: 14.09.2021 17:13 /
+                                pdf, 59.40 kB <br>
+                                                                
+                                
+                              </div>
+                            </div>
+                          </a> 
+                        </li>
+  
+                        <li class="doc-list__item shuffle-item shuffle-item--hidden" data-groups="all, q1, 2021" id="bx_3218110189_20260" style="position: absolute; top: 0px; visibility: visible; will-change: transform; left: 0px; opacity: 0; transform: translate(0px, 1886px) scale(0.001); transition: transform 250ms cubic-bezier(0.4, 0, 0.2, 1) 150ms, opacity;" aria-hidden="true"> 
+        
+                          <a target="_blank" data-file-id="20260" class="doc-list__link" href="/upload/iblock/e34/hzreiav7m2i3x80efcgqh6ivq86jhwg0/Raschet-sobstvennykh-sredstv-na-31.07.2021-g..pdf"> 
+                          
+                            <svg class="doc-list__icon">
+                              <use xlink:href="/local/templates/psbamnew/images/sprite.svg#paper"></use>
+                            </svg>
+                            <div class="doc-list__info">
+                              <h3 class="doc-list__title">Расчет собственных средств на 31.07.2021 г.</h3>
+                              <div class="doc-list__data">
+                                Дата раскрытия: 12.08.2021 20:15 /
+                                pdf, 59.54 kB <br>
+                                                                
+                                
+                              </div>
+                            </div>
+                          </a> 
+                        </li>
+  
+                        <li class="doc-list__item shuffle-item shuffle-item--hidden" data-groups="all, q1, 2021" id="bx_3218110189_20259" style="position: absolute; top: 0px; visibility: visible; will-change: transform; left: 0px; opacity: 0; transform: translate(0px, 1968px) scale(0.001); transition: transform 250ms cubic-bezier(0.4, 0, 0.2, 1) 150ms, opacity;" aria-hidden="true"> 
+        
+                          <a target="_blank" data-file-id="20259" class="doc-list__link" href="/upload/iblock/012/82efco514ufaa65smx4zbo4jn92marpf/Raschet-sobstvennykh-sredstv-na-30.06.2021-g..PDF"> 
+                          
+                            <svg class="doc-list__icon">
+                              <use xlink:href="/local/templates/psbamnew/images/sprite.svg#paper"></use>
+                            </svg>
+                            <div class="doc-list__info">
+                              <h3 class="doc-list__title">Расчет собственных средств на 30.06.2021 г.</h3>
+                              <div class="doc-list__data">
+                                Дата раскрытия: 15.07.2021 13:14 /
+                                PDF, 54.47 kB <br>
+                                                                
+                                
+                              </div>
+                            </div>
+                          </a> 
+                        </li>
+  
+                        <li class="doc-list__item shuffle-item shuffle-item--hidden" data-groups="all, q1, 2021" id="bx_3218110189_20258" style="position: absolute; top: 0px; visibility: visible; will-change: transform; left: 0px; opacity: 0; transform: translate(0px, 2050px) scale(0.001); transition: transform 250ms cubic-bezier(0.4, 0, 0.2, 1) 150ms, opacity;" aria-hidden="true"> 
+        
+                          <a target="_blank" data-file-id="20258" class="doc-list__link" href="/upload/iblock/00a/7xqke7sbwcdmdw3ufsw2t83e782z7ecr/Raschet-sobstvennykh-sredstv-na-31.05.2021-g..PDF"> 
+                          
+                            <svg class="doc-list__icon">
+                              <use xlink:href="/local/templates/psbamnew/images/sprite.svg#paper"></use>
+                            </svg>
+                            <div class="doc-list__info">
+                              <h3 class="doc-list__title">Расчет собственных средств на 31.05.2021 г.</h3>
+                              <div class="doc-list__data">
+                                Дата раскрытия: 15.06.2021 14:41 /
+                                PDF, 54.97 kB <br>
+                                                                
+                                
+                              </div>
+                            </div>
+                          </a> 
+                        </li>
+  
+                        <li class="doc-list__item shuffle-item shuffle-item--hidden" data-groups="all, q1, 2021" id="bx_3218110189_20257" style="position: absolute; top: 0px; visibility: visible; will-change: transform; left: 0px; opacity: 0; transform: translate(0px, 2132px) scale(0.001); transition: transform 250ms cubic-bezier(0.4, 0, 0.2, 1) 150ms, opacity;" aria-hidden="true"> 
+        
+                          <a target="_blank" data-file-id="20257" class="doc-list__link" href="/upload/iblock/952/00if8bdcg5futm36oj8mnlbmxbvl0w5q/Raschet-sobstvennykh-sredstv-na-30.04.2021-g..pdf"> 
+                          
+                            <svg class="doc-list__icon">
+                              <use xlink:href="/local/templates/psbamnew/images/sprite.svg#paper"></use>
+                            </svg>
+                            <div class="doc-list__info">
+                              <h3 class="doc-list__title">Расчет собственных средств на 30.04.2021 г.</h3>
+                              <div class="doc-list__data">
+                                Дата раскрытия: 21.05.2021 11:42 /
+                                pdf, 59.40 kB <br>
+                                                                
+                                
+                              </div>
+                            </div>
+                          </a> 
+                        </li>
+  
+                        <li class="doc-list__item shuffle-item shuffle-item--hidden" data-groups="all, q1, 2021" id="bx_3218110189_20256" style="position: absolute; top: 0px; visibility: visible; will-change: transform; left: 0px; opacity: 0; transform: translate(0px, 2214px) scale(0.001); transition: transform 250ms cubic-bezier(0.4, 0, 0.2, 1) 150ms, opacity;" aria-hidden="true"> 
+        
+                          <a target="_blank" data-file-id="20256" class="doc-list__link" href="/upload/iblock/3ca/ayunmhslz39jvkj1be7bevleol75x5b3/Raschet-sobstvennykh-sredstv-na-31.03.2021-g..pdf"> 
+                          
+                            <svg class="doc-list__icon">
+                              <use xlink:href="/local/templates/psbamnew/images/sprite.svg#paper"></use>
+                            </svg>
+                            <div class="doc-list__info">
+                              <h3 class="doc-list__title">Расчет собственных средств на 31.03.2021 г.</h3>
+                              <div class="doc-list__data">
+                                Дата раскрытия: 14.04.2021 23:45 /
+                                pdf, 59.41 kB <br>
+                                                                
+                                
+                              </div>
+                            </div>
+                          </a> 
+                        </li>
+  
+                        <li class="doc-list__item shuffle-item shuffle-item--hidden" data-groups="all, q1, 2021" id="bx_3218110189_20255" style="position: absolute; top: 0px; visibility: visible; will-change: transform; left: 0px; opacity: 0; transform: translate(0px, 2296px) scale(0.001); transition: transform 250ms cubic-bezier(0.4, 0, 0.2, 1) 150ms, opacity;" aria-hidden="true"> 
+        
+                          <a target="_blank" data-file-id="20255" class="doc-list__link" href="/upload/iblock/e90/8x1r13s46002w630z9111zj5lbhlu5ay/Raschet-sobstvennykh-sredstv-na-28.02.2021-g..pdf"> 
+                          
+                            <svg class="doc-list__icon">
+                              <use xlink:href="/local/templates/psbamnew/images/sprite.svg#paper"></use>
+                            </svg>
+                            <div class="doc-list__info">
+                              <h3 class="doc-list__title">Расчет собственных средств на 28.02.2021 г.</h3>
+                              <div class="doc-list__data">
+                                Дата раскрытия: 15.03.2021 18:48 /
+                                pdf, 243.81 kB <br>
+                                                                
+                                
+                              </div>
+                            </div>
+                          </a> 
+                        </li>
+  
+                        <li class="doc-list__item shuffle-item shuffle-item--hidden" data-groups="all, q1, 2021" id="bx_3218110189_20254" style="position: absolute; top: 0px; visibility: visible; will-change: transform; left: 0px; opacity: 0; transform: translate(0px, 2378px) scale(0.001); transition: transform 250ms cubic-bezier(0.4, 0, 0.2, 1) 150ms, opacity;" aria-hidden="true"> 
+        
+                          <a target="_blank" data-file-id="20254" class="doc-list__link" href="/upload/iblock/f25/quvdr4pnt885dkc99gs3inwpdvz0es0i/Raschet-sobstvennykh-sredstv-na-31.01.2021-g..PDF"> 
+                          
+                            <svg class="doc-list__icon">
+                              <use xlink:href="/local/templates/psbamnew/images/sprite.svg#paper"></use>
+                            </svg>
+                            <div class="doc-list__info">
+                              <h3 class="doc-list__title">Расчет собственных средств на 31.01.2021 г.</h3>
+                              <div class="doc-list__data">
+                                Дата раскрытия: 12.02.2021 15:37 /
+                                PDF, 54.93 kB <br>
+                                                                
+                                
+                              </div>
+                            </div>
+                          </a> 
+                        </li>
+  
+                        <li class="doc-list__item shuffle-item shuffle-item--hidden" data-groups="all, q1, 2020" id="bx_3218110189_20253" style="position: absolute; top: 0px; visibility: visible; will-change: transform; left: 0px; opacity: 0; transform: translate(0px, 2460px) scale(0.001); transition: transform 250ms cubic-bezier(0.4, 0, 0.2, 1) 150ms, opacity;" aria-hidden="true"> 
+        
+                          <a target="_blank" data-file-id="20253" class="doc-list__link" href="/upload/iblock/5a5/f04p2di1n2z61jr97cuyin2cyrxcqkbi/Raschet-sobstvennykh-sredstv-na-31.12.2020-g..pdf"> 
+                          
+                            <svg class="doc-list__icon">
+                              <use xlink:href="/local/templates/psbamnew/images/sprite.svg#paper"></use>
+                            </svg>
+                            <div class="doc-list__info">
+                              <h3 class="doc-list__title">Расчет собственных средств на 31.12.2020 г.</h3>
+                              <div class="doc-list__data">
+                                Дата раскрытия: 25.01.2021 13:40 /
+                                pdf, 59.42 kB <br>
+                                                                
+                                
+                              </div>
+                            </div>
+                          </a> 
+                        </li>
+  
+                        <li class="doc-list__item shuffle-item shuffle-item--hidden" data-groups="all, q1, 2020" id="bx_3218110189_20252" style="position: absolute; top: 0px; visibility: visible; will-change: transform; left: 0px; opacity: 0; transform: translate(0px, 2542px) scale(0.001); transition: transform 250ms cubic-bezier(0.4, 0, 0.2, 1) 150ms, opacity;" aria-hidden="true"> 
+        
+                          <a target="_blank" data-file-id="20252" class="doc-list__link" href="/upload/iblock/70f/rihq58isosygr3j9dekzblm0d6d50p9k/Raschet-sobstvennykh-sredstv-na-30.11.2020-g..pdf"> 
+                          
+                            <svg class="doc-list__icon">
+                              <use xlink:href="/local/templates/psbamnew/images/sprite.svg#paper"></use>
+                            </svg>
+                            <div class="doc-list__info">
+                              <h3 class="doc-list__title">Расчет собственных средств на 30.11.2020 г.</h3>
+                              <div class="doc-list__data">
+                                Дата раскрытия: 14.12.2020 20:17 /
+                                pdf, 54.94 kB <br>
+                                                                
+                                
+                              </div>
+                            </div>
+                          </a> 
+                        </li>
+  
+                        <li class="doc-list__item shuffle-item shuffle-item--hidden" data-groups="all, q1, 2020" id="bx_3218110189_20251" style="position: absolute; top: 0px; visibility: visible; will-change: transform; left: 0px; opacity: 0; transform: translate(0px, 2624px) scale(0.001); transition: transform 250ms cubic-bezier(0.4, 0, 0.2, 1) 150ms, opacity;" aria-hidden="true"> 
+        
+                          <a target="_blank" data-file-id="20251" class="doc-list__link" href="/upload/iblock/216/r6boinwbm83yyp8wrdahoxhv2it5gik7/Raschet-sobstvennykh-sredstv-na-31.10.2020-g..pdf"> 
+                          
+                            <svg class="doc-list__icon">
+                              <use xlink:href="/local/templates/psbamnew/images/sprite.svg#paper"></use>
+                            </svg>
+                            <div class="doc-list__info">
+                              <h3 class="doc-list__title">Расчет собственных средств на 31.10.2020 г.</h3>
+                              <div class="doc-list__data">
+                                Дата раскрытия: 16.11.2020 15:31 /
+                                pdf, 356.77 kB <br>
+                                                                
+                                
+                              </div>
+                            </div>
+                          </a> 
+                        </li>
+  
+                        <li class="doc-list__item shuffle-item shuffle-item--hidden" data-groups="all, q1, 2020" id="bx_3218110189_20250" style="position: absolute; top: 0px; visibility: visible; will-change: transform; left: 0px; opacity: 0; transform: translate(0px, 2706px) scale(0.001); transition: transform 250ms cubic-bezier(0.4, 0, 0.2, 1) 150ms, opacity;" aria-hidden="true"> 
+        
+                          <a target="_blank" data-file-id="20250" class="doc-list__link" href="/upload/iblock/877/m9fiz7pnzym0wq1i01ichzvta0mrfxv6/Raschet-sobstvennykh-sredstv-na-30.09.2020-g..pdf"> 
+                          
+                            <svg class="doc-list__icon">
+                              <use xlink:href="/local/templates/psbamnew/images/sprite.svg#paper"></use>
+                            </svg>
+                            <div class="doc-list__info">
+                              <h3 class="doc-list__title">Расчет собственных средств на 30.09.2020 г.</h3>
+                              <div class="doc-list__data">
+                                Дата раскрытия: 14.10.2020 18:24 /
+                                pdf, 59.42 kB <br>
+                                                                
+                                
+                              </div>
+                            </div>
+                          </a> 
+                        </li>
+  
+                        <li class="doc-list__item shuffle-item shuffle-item--hidden" data-groups="all, q1, 2020" id="bx_3218110189_20249" style="position: absolute; top: 0px; visibility: visible; will-change: transform; left: 0px; opacity: 0; transform: translate(0px, 2788px) scale(0.001); transition: transform 250ms cubic-bezier(0.4, 0, 0.2, 1) 150ms, opacity;" aria-hidden="true"> 
+        
+                          <a target="_blank" data-file-id="20249" class="doc-list__link" href="/upload/iblock/b1d/s9s2jm3yimx2lu9pdma56e04j9byocwv/Raschet-sobstvennykh-sredstv-na-31.08.2020-g..pdf"> 
+                          
+                            <svg class="doc-list__icon">
+                              <use xlink:href="/local/templates/psbamnew/images/sprite.svg#paper"></use>
+                            </svg>
+                            <div class="doc-list__info">
+                              <h3 class="doc-list__title">Расчет собственных средств на 31.08.2020 г.</h3>
+                              <div class="doc-list__data">
+                                Дата раскрытия: 14.09.2020 16:26 /
+                                pdf, 54.66 kB <br>
+                                                                
+                                
+                              </div>
+                            </div>
+                          </a> 
+                        </li>
+  
+                        <li class="doc-list__item shuffle-item shuffle-item--hidden" data-groups="all, q1, 2020" id="bx_3218110189_20248" style="position: absolute; top: 0px; visibility: visible; will-change: transform; left: 0px; opacity: 0; transform: translate(0px, 2870px) scale(0.001); transition: transform 250ms cubic-bezier(0.4, 0, 0.2, 1) 150ms, opacity;" aria-hidden="true"> 
+        
+                          <a target="_blank" data-file-id="20248" class="doc-list__link" href="/upload/iblock/d66/mfgwk2ktsr1v87slw1y9e1l628j3e4g0/Raschet-sobstvennykh-sredstv-na-31.07.2020-g..pdf"> 
+                          
+                            <svg class="doc-list__icon">
+                              <use xlink:href="/local/templates/psbamnew/images/sprite.svg#paper"></use>
+                            </svg>
+                            <div class="doc-list__info">
+                              <h3 class="doc-list__title">Расчет собственных средств на 31.07.2020 г.</h3>
+                              <div class="doc-list__data">
+                                Дата раскрытия: 28.08.2020 19:37 /
+                                pdf, 54.66 kB <br>
+                                                                
+                                
+                              </div>
+                            </div>
+                          </a> 
+                        </li>
+  
+                        <li class="doc-list__item shuffle-item shuffle-item--hidden" data-groups="all, q1, 2020" id="bx_3218110189_20247" style="position: absolute; top: 0px; visibility: visible; will-change: transform; left: 0px; opacity: 0; transform: translate(0px, 2952px) scale(0.001); transition: transform 250ms cubic-bezier(0.4, 0, 0.2, 1) 150ms, opacity;" aria-hidden="true"> 
+        
+                          <a target="_blank" data-file-id="20247" class="doc-list__link" href="/upload/iblock/064/1rzpt9sceubtkkckres6wx43ealncu82/Raschet-sobstvennykh-sredstv-na-30.06.2020-g..pdf"> 
+                          
+                            <svg class="doc-list__icon">
+                              <use xlink:href="/local/templates/psbamnew/images/sprite.svg#paper"></use>
+                            </svg>
+                            <div class="doc-list__info">
+                              <h3 class="doc-list__title">Расчет собственных средств на 30.06.2020 г.</h3>
+                              <div class="doc-list__data">
+                                Дата раскрытия: 21.07.2020 10:11 /
+                                pdf, 54.69 kB <br>
+                                                                
+                                
+                              </div>
+                            </div>
+                          </a> 
+                        </li>
+  
+                        <li class="doc-list__item shuffle-item shuffle-item--hidden" data-groups="all, q1, 2020" id="bx_3218110189_20246" style="position: absolute; top: 0px; visibility: visible; will-change: transform; left: 0px; opacity: 0; transform: translate(0px, 3034px) scale(0.001); transition: transform 250ms cubic-bezier(0.4, 0, 0.2, 1) 150ms, opacity;" aria-hidden="true"> 
+        
+                          <a target="_blank" data-file-id="20246" class="doc-list__link" href="/upload/iblock/adf/4622r0dtlf1n4tjqmqzk11u99l4afdmz/Raschet-sobstvennykh-sredstv-na-31.05.2020-g..pdf"> 
+                          
+                            <svg class="doc-list__icon">
+                              <use xlink:href="/local/templates/psbamnew/images/sprite.svg#paper"></use>
+                            </svg>
+                            <div class="doc-list__info">
+                              <h3 class="doc-list__title">Расчет собственных средств на 31.05.2020 г.</h3>
+                              <div class="doc-list__data">
+                                Дата раскрытия: 23.06.2020 15:24 /
+                                pdf, 210.83 kB <br>
+                                                                
+                                
+                              </div>
+                            </div>
+                          </a> 
+                        </li>
+  
+                        <li class="doc-list__item shuffle-item shuffle-item--hidden" data-groups="all, q1, 2020" id="bx_3218110189_20245" style="position: absolute; top: 0px; visibility: visible; will-change: transform; left: 0px; opacity: 0; transform: translate(0px, 3116px) scale(0.001); transition: transform 250ms cubic-bezier(0.4, 0, 0.2, 1) 150ms, opacity;" aria-hidden="true"> 
+        
+                          <a target="_blank" data-file-id="20245" class="doc-list__link" href="/upload/iblock/285/v100de2bowq5y1nrb27548y2nimyu7k7/Raschet-sobstvennykh-sredstv-na-30.04.2020-g..pdf"> 
+                          
+                            <svg class="doc-list__icon">
+                              <use xlink:href="/local/templates/psbamnew/images/sprite.svg#paper"></use>
+                            </svg>
+                            <div class="doc-list__info">
+                              <h3 class="doc-list__title">Расчет собственных средств на 30.04.2020 г.</h3>
+                              <div class="doc-list__data">
+                                Дата раскрытия: 21.05.2020 16:59 /
+                                pdf, 289.50 kB <br>
+                                                                
+                                
+                              </div>
+                            </div>
+                          </a> 
+                        </li>
+  
+                        <li class="doc-list__item shuffle-item shuffle-item--hidden" data-groups="all, q1, 2020" id="bx_3218110189_20244" style="position: absolute; top: 0px; visibility: visible; will-change: transform; left: 0px; opacity: 0; transform: translate(0px, 3198px) scale(0.001); transition: transform 250ms cubic-bezier(0.4, 0, 0.2, 1) 150ms, opacity;" aria-hidden="true"> 
+        
+                          <a target="_blank" data-file-id="20244" class="doc-list__link" href="/upload/iblock/b90/i3phjqdej7d58icfjrnyk3xcldgk5e34/Raschet-sobstvennykh-sredstv-na-31.03.2020-g..pdf"> 
+                          
+                            <svg class="doc-list__icon">
+                              <use xlink:href="/local/templates/psbamnew/images/sprite.svg#paper"></use>
+                            </svg>
+                            <div class="doc-list__info">
+                              <h3 class="doc-list__title">Расчет собственных средств на 31.03.2020 г.</h3>
+                              <div class="doc-list__data">
+                                Дата раскрытия: 27.04.2020 14:37 /
+                                pdf, 56.95 kB <br>
+                                                                
+                                
+                              </div>
+                            </div>
+                          </a> 
+                        </li>
+  
+                        <li class="doc-list__item shuffle-item shuffle-item--hidden" data-groups="all, q1, 2020" id="bx_3218110189_20243" style="position: absolute; top: 0px; visibility: visible; will-change: transform; left: 0px; opacity: 0; transform: translate(0px, 3280px) scale(0.001); transition: transform 250ms cubic-bezier(0.4, 0, 0.2, 1) 150ms, opacity;" aria-hidden="true"> 
+        
+                          <a target="_blank" data-file-id="20243" class="doc-list__link" href="/upload/iblock/007/fmd3mgemwltgidwv9m2kkod1ypsdacly/Raschet-sobstvennykh-sredstv-na-29.02.2020-g..pdf"> 
+                          
+                            <svg class="doc-list__icon">
+                              <use xlink:href="/local/templates/psbamnew/images/sprite.svg#paper"></use>
+                            </svg>
+                            <div class="doc-list__info">
+                              <h3 class="doc-list__title">Расчет собственных средств на 29.02.2020 г.</h3>
+                              <div class="doc-list__data">
+                                Дата раскрытия: 25.03.2020 12:45 /
+                                pdf, 56.94 kB <br>
+                                                                
+                                
+                              </div>
+                            </div>
+                          </a> 
+                        </li>
+  
+                        <li class="doc-list__item shuffle-item shuffle-item--hidden" data-groups="all, q1, 2020" id="bx_3218110189_20242" style="position: absolute; top: 0px; visibility: visible; will-change: transform; left: 0px; opacity: 0; transform: translate(0px, 3362px) scale(0.001); transition: transform 250ms cubic-bezier(0.4, 0, 0.2, 1) 150ms, opacity;" aria-hidden="true"> 
+        
+                          <a target="_blank" data-file-id="20242" class="doc-list__link" href="/upload/iblock/a34/ykpj22budyyxxsxxg7f2a23j7rvoygqm/Raschet-sobstvennykh-sredstv-na-31.01.2020-g..pdf"> 
+                          
+                            <svg class="doc-list__icon">
+                              <use xlink:href="/local/templates/psbamnew/images/sprite.svg#paper"></use>
+                            </svg>
+                            <div class="doc-list__info">
+                              <h3 class="doc-list__title">Расчет собственных средств на 31.01.2020 г.</h3>
+                              <div class="doc-list__data">
+                                Дата раскрытия: 20.02.2020 10:43 /
+                                pdf, 56.68 kB <br>
+                                                                
+                                
+                              </div>
+                            </div>
+                          </a> 
+                        </li>
+  
+                        <li class="doc-list__item shuffle-item shuffle-item--hidden" data-groups="all, q1, 2019" id="bx_3218110189_20241" style="position: absolute; top: 0px; visibility: visible; will-change: transform; left: 0px; opacity: 0; transform: translate(0px, 3444px) scale(0.001); transition: transform 250ms cubic-bezier(0.4, 0, 0.2, 1) 150ms, opacity;" aria-hidden="true"> 
+        
+                          <a target="_blank" data-file-id="20241" class="doc-list__link" href="/upload/iblock/105/tybejku8iq3cjd0slqcbtc71axe4xfbs/Raschet-sobstvennykh-sredstv-na-31.12.2019-g..pdf"> 
+                          
+                            <svg class="doc-list__icon">
+                              <use xlink:href="/local/templates/psbamnew/images/sprite.svg#paper"></use>
+                            </svg>
+                            <div class="doc-list__info">
+                              <h3 class="doc-list__title">Расчет собственных средств на 31.12.2019 г.</h3>
+                              <div class="doc-list__data">
+                                Дата раскрытия: 30.01.2020 00:00 /
+                                pdf, 56.68 kB <br>
+                                                                
+                                
+                              </div>
+                            </div>
+                          </a> 
+                        </li>
+  
+</ul>
+
+  
+                    </div>
+                    <!-- .doc-box -->
+
+
+		</div>
+	</div>
+</div>
+
+<!-- .columns__main --></div>
+<div class="footer">
+  <div class="footer__body">
+    <div class="wrapper footer__body-wrapper">
+      <div class="footer__block">
+        <div class="footer__col">
+<a class="footer__nav-link root-item" href="/funds/mutual_funds/">Открытые паевые фонды</a>
+<a class="footer__nav-link root-item" href="/investment_account/">ИИС</a>
+<a class="footer__nav-link root-item" href="/trust_managment/">Доверительное управление</a>
+<a class="footer__nav-link root-item" href="/corporate_clients/">Корпоративным клиентам</a>
+        </div>
+        <div class="footer__col">
+<a class="footer__nav-link root-item" href="/zpif/">Закрытые паевые фонды</a>
+<a class="footer__nav-link root-item" href="/pension-funds/">Пенсионным фондам</a>
+<a class="footer__nav-link root-item" href="/strakhovym-kompaniyam/">Страховым компаниям</a>
+        </div>
+      </div>
+      <div class="footer__block">
+        <div class="footer__col">
+<a class="footer__nav-link root-item-selected" href="/disclosure/">Раскрытие обязательной информации</a>
+<a class="footer__nav-link root-item" href="/company/">О компании</a>
+<a class="footer__nav-link root-item" href="/news/company/">Пресс-центр</a>
+<a class="footer__nav-link root-item" href="/news/analytics/">Аналитика</a>
+<a class="footer__nav-link root-item" href="/contacts/">Контакты</a>
+        </div>
+        <div class="footer__col">
+          <a class="footer__phone" href="tel: 8 (495) 662-40-92" title="">8 (495) 662-40-92</a>
+          <a class="footer__email" href="mailto: corporate@upravlyaem.ru" title="">corporate@upravlyaem.ru</a>
+          <a class="footer__question" href="#" title="" data-hystmodal=".modal--cons"><svg class="footer__question-icon">
+              <use xlink:href="/local/templates/psbamnew/images/sprite.svg#question"></use>
+            </svg> Задать вопрос</a>
+          <a class="button button--ghost footer__button" href="/subscribe/" title=""><svg class="footer__button-icon">
+              <use xlink:href="/local/templates/psbamnew/images/sprite.svg#email"></use>
+            </svg> Подписаться на рассылку</a>
+        </div>
+      </div>
+      <a class="button button--ghost footer__button" href="/subscribe/" title=""><svg class="footer__button-icon">
+          <use xlink:href="/local/templates/psbamnew/images/sprite.svg#email"></use>
+        </svg> Подписаться на рассылку</a>
+    </div>
+  </div>
+  <div class="footer__bottom">
+    <div class="wrapper footer__bottom-wrapper">
+      <div class="footer__copyright">© ООО «УК ПРОМСВЯЗЬ», 2023</div>
+      <div class="footer__socials">
+        <div class="footer__socials-title">Мы в соц. сетях:</div>
+        <ul class="footer__socials-list">
+          <li class="footer__socials-item">
+            <a class="footer__socials-link" href="https://t.me/promsvyaz_am " title="" target="_blank">
+              <svg class="footer__socials-icon">
+                <use xlink:href="/local/templates/psbamnew/images/sprite.svg#telegram"></use>
+              </svg>
+            </a>
+          </li>
+        </ul>
+      </div>
+      <a class="footer__corruption" href="/corruption/" title="">Сообщить о коррупции</a>
+      <script src="https://rb-media.ru/js/devn.js"></script><a href="//o-d.one/" target="_blank" class="develop_rbm"><img src="//rb-media.ru/img/svg/od-black.svg" width="63" alt="OD"></a>
+
+      <div class="footer__text-container">
+        <p>Общество с ограниченной ответственностью «Управляющая компания ПРОМСВЯЗЬ». Лицензия на осуществление деятельности по управлению инвестиционными фондами, паевыми инвестиционными фондами и негосударственными пенсионными фондами № 21-000-1-00096 от 20.12.2002 выдана ФКЦБ России. Лицензия профессионального участника ценных бумаг на осуществление деятельности по управлению ценными бумагами № 045-10104-001000 от 10.04.2007, выдана ФСФР России.</p>
+<p>ОПИФ рыночных финансовых инструментов «ПРОМСВЯЗЬ – Акции». Правила фонда зарегистрированы ФСФР России 23.03.2005 за № 0336-76034510. ОПИФ рыночных финансовых инструментов «ПРОМСВЯЗЬ – Фонд смешанных инвестиций». Правила фонда зарегистрированы ФСФР России 23.03.2005 за № 0337-76034438. ОПИФ рыночных финансовых инструментов «ПРОМСВЯЗЬ – Облигации». Правила фонда зарегистрированы ФСФР России 23.03.2005 за № 0335-76034355. ОПИФ рыночных финансовых инструментов «ПРОМСВЯЗЬ – Оборонный». Правила фонда зарегистрированы ФСФР России 09.12.2010 за № 2004-94173468. ОПИФ рыночных финансовых инструментов «Финансовая подушка». Правила фонда зарегистрированы ФСФР России 10.09.2004 за № 0258-74112789. ОПИФ рыночных финансовых инструментов «ПРОМСВЯЗЬ – Перспективные вложения». Правила фонда зарегистрированы ФСФР России 10.09.2004 за № 0257-74113429. ОПИФ рыночных финансовых инструментов «Мировой баланс». Правила фонда зарегистрированы ФСФР России 10.09.2004 за № 0259-74113501. ОПИФ рыночных финансовых инструментов «ПРОМСВЯЗЬ – Окно возможностей». Правила фонда зарегистрированы Банком России 23.09.2021 за № 4614. ОПИФ рыночных финансовых инструментов «Финансовый поток». Правила фонда зарегистрированы Банком России 23.06.2022 за № 5007. ОПИФ рыночных финансовых инструментов «Недра России». Правила фонда зарегистрированы Банком России 10.10.2022 за № 5132. ОПИФ рыночных финансовых инструментов «Дивидендные акции». Правила фонда зарегистрированы Банком России 01.12.2022 за № 5210. ОПИФ рыночных финансовых инструментов «Курс на Восток». Правила фонда зарегистрированы Банком России 15.12.2022 за № 5223 ЗПИФ рентный «Коммерческая недвижимость». Правила фонда зарегистрированы ФСФР России 08.10.2009 за № 1588-94199522. ЗПИФ недвижимости «Первобанк-Недвижимость». Правила фонда зарегистрированы ФСФР России 16.03.2010 за № 1756-94199479. ЗПИФ рентный «Первый Рентный». Правила фонда зарегистрированы ФСФР России 10.06.2009 за № 1448-94199611. ЗПИФ недвижимости «Эверест Центр». Правила фонда зарегистрированы ФСФР России 24.12.2009 № 1698-94163725.</p>
+<p>Получить информацию о фондах и ознакомиться с Правилами доверительного управления паевыми инвестиционными фондами, с иными документами, предусмотренными Федеральным законом от 29.11.2001 № 156-ФЗ «Об инвестиционных фондах» и нормативными правовыми актами федерального органа исполнительной власти по рынку ценных бумаг можно по адресу: 109240, г. Москва, ул. Николоямская, д.13, стр. 1, этаж 5 комнаты 1-31, тел. (495) 662-40-92. Стоимость инвестиционных паёв может увеличиваться и уменьшаться. Результаты инвестирования в прошлом не определяют доходы в будущем. Государство не гарантирует доходность инвестиций в паевые инвестиционные фонды. Перед приобретением инвестиционных паев необходимо внимательно ознакомиться с правилами доверительного управления паевым инвестиционным фондом. Правилами доверительного управления паевым инвестиционным фондом предусмотрены надбавки и скидки к расчетной стоимости инвестиционных паев. Взимание надбавок и скидок уменьшит доходность инвестиций в инвестиционные паи паевого инвестиционного фонда.</p>
+<p>Раскрываемая на сайте информация находится в постоянном доступе бессрочно, если не указано иное. Для ознакомления с материалами Вам могут понадобиться программы просмотра pdf и xls файлов. Представленные на сайте материалы и указанная в них информация не являются индивидуальными инвестиционными рекомендациями.</p><p><a href="/disclosure/svedeniya-o-strukture-i-sostave-uchastnikov-/">ИНФОРМАЦИЯ О СТРУКТУРЕ И СОСТАВЕ АКЦИОНЕРОВ (УЧАСТНИКОВ) УПРАВЛЯЮЩЕЙ КОМПАНИИ, В ТОМ ЧИСЛЕ О ЛИЦАХ, ПОД КОНТРОЛЕМ ЛИБО ЗНАЧИТЕЛЬНЫМ ВЛИЯНИЕМ КОТОРЫХ НАХОДИТСЯ УПРАВЛЯЮЩАЯ КОМПАНИЯ</a></p>
+      </div>
+    </div>
+  </div>
+</div>
+    <div class="hystmodal modal modal--search" aria-hidden="true" data-scroll-lock-scrollable="">
+      <div class="hystmodal__wrap">
+        <div class="hystmodal__window" role="dialog" aria-modal="true">
+          <div class="modal__content">
+            <div class="search search--modal">
+<div id="comp_83a3d38b7be01d4ac0eccb72519398ef">    <div class="page__content">
+      <div class="search">
+        <div class="wrapper search__wrapper">
+          <div class="search__header">
+            <h1 class="search__title">Поиск</h1>
+                  <button class="search__clear" data-hystclose="">
+                    <svg class="search__clear-icon">
+                      <use xlink:href="/local/templates/psbamnew/images/sprite.svg#close"></use>
+                    </svg>
+                  </button>
+          </div>
+          <div class="search__body">
+            <div class="search-input search__input">
+	        
+<form action="" method="get" class="search_form" style="width:100%"><input type="hidden" name="bxajaxid" id="bxajaxid_83a3d38b7be01d4ac0eccb72519398ef_8BACKi" value="83a3d38b7be01d4ac0eccb72519398ef"><input type="hidden" name="AJAX_CALL" value="Y"><script type="text/javascript">function _processform_8BACKi(){if(BX('bxajaxid_83a3d38b7be01d4ac0eccb72519398ef_8BACKi')){var obForm=BX('bxajaxid_83a3d38b7be01d4ac0eccb72519398ef_8BACKi').form;BX.bind(obForm,'submit',function(){BX.ajax.submitComponentForm(this,'comp_83a3d38b7be01d4ac0eccb72519398ef',true)});}BX.removeCustomEvent('onAjaxSuccess',_processform_8BACKi);}if(BX('bxajaxid_83a3d38b7be01d4ac0eccb72519398ef_8BACKi'))_processform_8BACKi();else
+BX.addCustomEvent('onAjaxSuccess',_processform_8BACKi);</script>
+        			<input class="search-input__el" type="text" placeholder="Поиск" id="search" name="q" value="">			
+                      <button class="search-input__button" type="submit">
+                <svg class="search-input__icon">
+                  <use xlink:href="/local/templates/psbamnew/images/sprite.svg#search"></use>
+                </svg>
+              </button>		
+            <input type="hidden" name="how" value="r">
+        </form>			
+            </div>	
+			<div class="search__inner">			
+            <div class="search__result">
+                                			
+            </div>
+			</div>
+          </div>
+        </div>
+      </div>
+    </div></div>            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+     <div class="hystmodal modal modal--cons" aria-hidden="true" data-scroll-lock-scrollable="">
+      <div class="hystmodal__wrap">
+        <div class="hystmodal__window" role="dialog" aria-modal="true">
+          <button class="modal__close" data-hystclose="">
+            <svg class="modal__close-icon">
+              <use xlink:href="/local/templates/psbamnew/images/sprite.svg#close"></use>
+            </svg>
+          </button>
+          <div class="modal__header">
+            <div class="modal__title">Получить консультацию</div>
+            <p class="modal__subtitle">Оставьте заявку на консультацию, мы перезвоним и проконсультируем вас по любому интресующему вопросу</p>
+          </div>
+          <div class="modal__content">
+            <form class="form modal__form" action="/send_post.php" method="POST">
+		  <input type="hidden" name="url" value="https://www.upravlyaem.ru/disclosure/company/raschet-sobstvennykh-sredstv/">			
+              <div class="form__row">
+                <div class="form__col">
+                  <div class="form__input">
+                    <div class="form__input-placeholder">Фамилия, Имя</div>
+                    <input class="form__input-el form__input-el--name" type="text" name="name" required="">
+                    <img class="form__input-ok js-lazy entered loaded" data-src="/local/templates/psbamnew/images/form/form__input-ok.svg" alt="" data-ll-status="loaded" src="/local/templates/psbamnew/images/form/form__input-ok.svg">
+                  </div>
+                </div>
+              </div>
+              <div class="form__row">
+                <div class="form__col">
+                  <div class="form__input">
+                    <div class="form__input-placeholder">Контактный телефон</div>
+                    <input class="form__input-el form__input-el--tel" type="tel" pattern=".{16,}" name="phone" required="">
+                    <img class="form__input-ok js-lazy entered loaded" data-src="/local/templates/psbamnew/images/form/form__input-ok.svg" alt="" data-ll-status="loaded" src="/local/templates/psbamnew/images/form/form__input-ok.svg">
+                  </div>
+                </div>
+              </div>	
+              <div class="form__row">
+                <div class="form__col">
+                  <label class="form__input form__input--file">
+                    <svg class="form__input-file-icon">
+                      <use xlink:href="/local/templates/psbamnew/images/sprite.svg#clip"></use>
+                    </svg>
+                    <div class="form__input-file-placeholder">Выберите файл</div>
+                    <input class="form__input-el" type="file" id="files" name="files" accept=".doc, .pdf, .png, .jpeg, .jpg">		
+					<div class="form__file-limit">до 5мб</div>					
+                  </label>
+				    <div class="form__input-error-text">Файл больше 5мб</div>
+                </div>
+              </div>			  			  
+              <div class="form__row">
+                <div class="form__col">
+                  <div class="form__input">
+                    <div class="form__input-placeholder">Ваш вопрос</div>
+                    <textarea class="form__input-el form__input-el--textarea" required="" name="question"></textarea>
+                    <img class="form__input-ok js-lazy entered loaded" data-src="/local/templates/psbamnew/images/form/form__input-ok.svg" alt="" data-ll-status="loaded" src="/local/templates/psbamnew/images/form/form__input-ok.svg">
+                  </div>
+                </div>
+              </div>
+              <div class="form__row">
+                <div class="form__col">
+				  <div class="form__captcha smart-captcha" data-sitekey="3JdjIxrrsqdL1ZRKdn7jYOi3h0ElgfiffbBiCS1x" data-testid="smartCaptcha-container" style="height: 102px;"><input type="hidden" name="smart-token" data-testid="smart-token"><iframe frameborder="0" src="https://captcha-api.yandex.ru/checkbox.ru.82f40c84795c7f285927.html?sitekey=3JdjIxrrsqdL1ZRKdn7jYOi3h0ElgfiffbBiCS1x&amp;hl=ru&amp;host=www.upravlyaem.ru&amp;test=false&amp;webview=false" aria-hidden="false" style="display: block; width: 100%; height: 100%; z-index: 0; transform: translate3d(0px, 0px, 0px);" data-testid="checkbox-iframe" title="SmartCaptcha checkbox widget"></iframe></div>
+                </div>
+              </div>			  		  		  
+              <button class="button button--fill form__button" id="submit-cons" style="margin-top:20px" disabled="">ПОЛУЧИТЬ КОНСУЛЬТАЦИЮ</button>
+          <p class="form__agree">Нажимая кнопку, вы даете согласие на <a class="form__agree-link" href="/upload/politika__personal_2023.pdf" title="" target="_blank">обработку персональных данных</a></p>
+          <p class="form__agree"><a class="form__agree-link form__agree-link--" href="https://www.upravlyaem.ru/upload/iblock/312/iefn892x2vaeshm0d6h8gtczz25evqjc/POLITIKA_OBRABOTKI_I_ZASHCHITY_PDn.pdf" title="" target="_blank">Политика обработки и обеспечения безопасности персональных данных</a></p>	
+            </form>
+          </div>
+        </div>
+      </div>
+    </div>
+    <div class="hystmodal modal modal--success" aria-hidden="true" data-scroll-lock-scrollable="">
+      <div class="hystmodal__wrap">
+        <div class="hystmodal__window" role="dialog" aria-modal="true">
+          <button class="modal__close" data-hystclose="">
+            <svg class="modal__close-icon">
+              <use xlink:href="/local/templates/psbamnew/images/sprite.svg#close"></use>
+            </svg>
+          </button>
+          <div class="modal__header">
+            <div class="modal__title">Спасибо, ваше сообщение отправлено</div>
+            <p class="modal__subtitle">В ближайшее время с вами свяжутся наши менеджеры для уточнения всех деталей.</p>
+          </div>
+          <div class="modal__content">
+            <button class="button button--fill modal__close-button" data-hystclose="">ЗАКРЫТЬ</button>
+          </div>
+        </div>
+      </div>
+    </div>
+
+<div class="hystmodal modal modal--subscribe-opened" aria-hidden="true" data-scroll-lock-scrollable="">
+  <div class="hystmodal__wrap">
+    <div class="hystmodal__window" role="dialog" aria-modal="true">
+      <button class="modal__close" data-hystclose="">
+        <svg class="modal__close-icon">
+          <use xlink:href="/local/templates/psbamnew/images/sprite.svg#close"></use>
+        </svg>
+      </button>
+      <div class="modal__header">
+        <div class="modal__title">Подписка на раскрытие информации</div>
+        <p class="modal__subtitle">На указанный Вами адрес электронной почты отправлено письмо со ссылкой для ее подтверждения.</p>
+        <p>
+          Откройте письмо и перейдите по ссылке. Если Вы не видите
+письма во входящих, проверьте папку «Спам» 
+        </p>
+      </div>
+      <div class="modal__content">
+        <button class="button button--fill modal__close-button" data-hystclose="">ЗАКРЫТЬ</button>
+      </div>
+    </div>
+  </div>
+</div>
+
+<div class="hystmodal modal modal--subscribe-success" aria-hidden="true" data-scroll-lock-scrollable="">
+  <div class="hystmodal__wrap">
+    <div class="hystmodal__window" role="dialog" aria-modal="true">
+      <button class="modal__close" data-hystclose="">
+        <svg class="modal__close-icon">
+          <use xlink:href="/local/templates/psbamnew/images/sprite.svg#close"></use>
+        </svg>
+      </button>
+      <div class="modal__header">
+        <div class="modal__title">Подписка на рассылку подтверждена</div>
+        
+      </div>
+      <div class="modal__content">
+        <button class="button button--fill modal__close-button" data-hystclose="">ЗАКРЫТЬ</button>
+      </div>
+    </div>
+  </div>
+</div>
+
+    <div class="hystmodal modal modal--video" aria-hidden="true" data-scroll-lock-scrollable="">
+      <div class="hystmodal__wrap">
+        <div class="hystmodal__window" role="dialog" aria-modal="true">
+          <button class="modal__close" data-hystclose="">
+            <svg class="modal__close-icon">
+              <use xlink:href="/local/templates/psbamnew/images/sprite.svg#close"></use>
+            </svg>
+          </button>
+        </div>
+      </div>
+    </div>
+<button type="button" class="btn-up btn-up_hide">
+  <svg class="">
+    <use xlink:href="/local/templates/psbamnew/images/sprite.svg#arrow-select"></use>
+  </svg>
+</button>
+<!-- Yandex.Metrika counter -->
+<script type="text/javascript">(function(m,e,t,r,i,k,a){m[i]=m[i]||function(){(m[i].a=m[i].a||[]).push(arguments)};m[i].l=1*new Date();for(var j=0;j<document.scripts.length;j++){if(document.scripts[j].src===r){return;}}k=e.createElement(t),a=e.getElementsByTagName(t)[0],k.async=1,k.src=r,a.parentNode.insertBefore(k,a)})(window,document,"script","https://mc.yandex.ru/metrika/tag.js","ym");ym(92883171,"init",{clickmap:true,trackLinks:true,accurateTrackBounce:true,webvisor:true});</script>
+<noscript><div><img src="https://mc.yandex.ru/watch/92883171" style="position:absolute; left:-9999px;" alt="" data-pagespeed-url-hash="1608563661"/></div></noscript>
+<!-- /Yandex.Metrika counter -->
+<!-- Yandex.Metrika counter --> <script type="text/javascript">(function(m,e,t,r,i,k,a){m[i]=m[i]||function(){(m[i].a=m[i].a||[]).push(arguments)};m[i].l=1*new Date();for(var j=0;j<document.scripts.length;j++){if(document.scripts[j].src===r){return;}}k=e.createElement(t),a=e.getElementsByTagName(t)[0],k.async=1,k.src=r,a.parentNode.insertBefore(k,a)})(window,document,"script","https://cdn.jsdelivr.net/npm/yandex-metrica-watch/tag.js","ym");ym(93024562,"init",{clickmap:true,trackLinks:true,accurateTrackBounce:true,webvisor:true,trackHash:true,ecommerce:"dataLayer"});</script> <!-- /Yandex.Metrika counter -->
+
+<div class="hystmodal__shadow"></div><div class="SmartCaptcha-Overlay SmartCaptcha-Overlay_show_spinner" data-testid="advanced-container" tabindex="-1" style="--smart-captcha-doc-height:852px; --smart-captcha-doc-width:1042px;"><div class="SmartCaptcha-Spin"></div></div><div data-id="ss-cxc0ok5i" id="ss-cxc0ok5i" class="ss-content select select--standart info__nav-select" role="listbox"><div class="ss-search ss-hide"><input readonly="" type="search" placeholder="Search" tabindex="-1" aria-label="Search" autocapitalize="off" autocomplete="off" autocorrect="off"></div><div class="ss-list"><div data-id="v6mkljse" id="v6mkljse" class="ss-option ss-disabled ss-selected" role="option" aria-selected="true">Выбрать раздел</div><div data-id="fhh9v5pg" id="fhh9v5pg" class="ss-option" role="option" aria-selected="false">Расчет собственных средств</div><div data-id="do9i4ct6" id="do9i4ct6" class="ss-option" role="option" aria-selected="false">Финансовые показатели</div></div></div><div data-id="ss-pw0eouzv" id="ss-pw0eouzv" class="ss-content select select--standart info__content-title-select" role="listbox"><div class="ss-search ss-hide"><input readonly="" type="search" placeholder="Search" tabindex="-1" aria-label="Search" autocapitalize="off" autocomplete="off" autocorrect="off"></div><div class="ss-list"><div data-id="4okulzwo" id="4okulzwo" class="ss-option ss-selected" role="option" aria-selected="true">2023 г.</div><div data-id="m9fvhsyk" id="m9fvhsyk" class="ss-option" role="option" aria-selected="false">2022 г.</div><div data-id="cnot9tl6" id="cnot9tl6" class="ss-option" role="option" aria-selected="false">2021 г.</div><div data-id="idogung9" id="idogung9" class="ss-option" role="option" aria-selected="false">2020 г.</div><div data-id="ukrk7zgg" id="ukrk7zgg" class="ss-option" role="option" aria-selected="false">2019 г.</div></div></div>
