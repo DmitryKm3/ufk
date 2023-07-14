@@ -89,11 +89,12 @@ DATABASES = {
         'ENGINE': 'django.db.backends.postgresql_psycopg2',
         'NAME': 'django_ufk',
         'USER': 'django_ufk',
-        'PASSWORD': '123dm',
+        'PASSWORD': '9874',
         'HOST': 'localhost',
-        'PORT': '',
+        'PORT': '5434',
     }
 }
+
 
 
 # Password validation

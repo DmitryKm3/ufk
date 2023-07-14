@@ -29,7 +29,7 @@ urlpatterns = [
     path('selfcare/', selfcare.selfcare, name='index'),
     path('greetings/', selfcare.mart),
     path('ui/', selfcare.ui),
-    path(r'selfcare/<int:pk>', selfcare.device_view, name='device'),
+    # path(r'selfcare/<int:pk>', selfcare.device_view, name='device'),
     path('report_generation', views.report_generation, name='report_generation'),
 
 ]
